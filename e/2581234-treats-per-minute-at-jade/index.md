@@ -1,6 +1,6 @@
 # TREATS PER MINUTE at Jade
 
-TREATS PER MINUTE at Jade on Fri 27 Nov, New York City. 4 artists: DJ mouthbreather, Jake Korolev, Mago (US) and stjarnafaen. See the line-up on soundcheck.
+TREATS PER MINUTE at Jade on Fri 27 Nov, New York City. 5 artists: DJ mouthbreather, ILUVDOMRICH, Jake Korolev and Mago (US) and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TREATS PER MINUTE at Jade on Fri 27 Nov, New York City. 4 artists: DJ mouthbreat
 ## Line-up
 
 - DJ mouthbreather
+- ILUVDOMRICH
 - Jake Korolev
 - Mago (US)
 - stjarnafaen

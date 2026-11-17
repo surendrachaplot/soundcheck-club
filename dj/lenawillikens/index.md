@@ -1,6 +1,6 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Dabadaba, North on Fri, 20 Nov 2026.
+Lena Willikens is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Dabadaba, North on Fri, 20 Nov 2026.
 
 Lena Willikens is a techno and house artist based in Germany, with 229 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Dabadaba, North on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Lena Willikens is a techno and house artist based in Germany, with 229 gigs on s
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

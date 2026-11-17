@@ -1,6 +1,6 @@
 # Barbara Boeing
 
-Barbara Boeing is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 20 Nov 2026.
+Barbara Boeing is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 20 Nov 2026.
 
 Barbara Boeing is a house and disco artist based in Brazil, with 130 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 47 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: Palais Mascotte, Zurich on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Barbara Boeing is a house and disco artist based in Brazil, with 130 gigs on sou
 
 Kapote, Cody Currie, Max NRG Supply
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*

@@ -1,6 +1,6 @@
 # MINCED 3 YEAR ANNIVERSARY feat. AYBIGJOHN at Club 1722 Afterhours
 
-MINCED 3 YEAR ANNIVERSARY feat. AYBIGJOHN at Club 1722 Afterhours on Fri 11 Dec, Baltimore. 3 artists: Kade Young, PMMAIRE and Pouty's Rage. Club and Footwork. See the line-up on soundcheck.
+MINCED 3 YEAR ANNIVERSARY feat. AYBIGJOHN at Club 1722 Afterhours on Fri 11 Dec, Baltimore. 4 artists: Kade Young, Kill Team SCX, PMMAIRE and Pouty's Rage. Club and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MINCED 3 YEAR ANNIVERSARY feat. AYBIGJOHN at Club 1722 Afterhours on Fri 11 Dec,
 ## Line-up
 
 - Kade Young
+- Kill Team SCX
 - PMMAIRE
 - Pouty's Rage
 

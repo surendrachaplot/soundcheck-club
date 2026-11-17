@@ -1,14 +1,15 @@
 # Easy Audio
 
-Easy Audio is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 21 Nov 2026.
+Easy Audio is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 21 Nov 2026.
 
-Easy Audio is a house and minimal artist based in Poland, with 74 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Schmeltzer, bart ender and Valdemar ST. Next up: MONKEY LOVE, Warsaw on Sat 21 Nov.
+Easy Audio is a house and minimal artist based in Poland, with 75 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Schmeltzer, bart ender and Valdemar ST. Next up: MONKEY LOVE, Warsaw on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | MONKEY LOVE | Warsaw |
+| Fri, 27 Nov 2026 | B-SIDE | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Easy Audio is a house and minimal artist based in Poland, with 74 gigs on soundc
 
 Schmeltzer, bart ender, Valdemar ST
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*

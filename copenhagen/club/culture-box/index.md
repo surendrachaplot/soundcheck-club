@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 16 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger" on Fri, 20 Nov 2026.
+Culture Box is a music venue in Copenhagen with 16 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger" on Fri, 20 Nov 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming gigs, with line-ups including Aerocell, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming gig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

@@ -1,8 +1,8 @@
 # DJ Overdose
 
-DJ Overdose is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Astron Club, Athens on Sat, 19 Dec 2026.
+DJ Overdose is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Astron Club, Athens on Sat, 19 Dec 2026.
 
-DJ Overdose is a techno and electro artist, with 10 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside David Vunk, I-F and Intergalactic Gary. Next up: Astron Club, Athens on Sat 19 Dec.
+DJ Overdose is a techno and electro artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside David Vunk, I-F and Intergalactic Gary. Next up: Astron Club, Athens on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Overdose is a techno and electro artist, with 10 gigs on soundcheck across Am
 
 David Vunk, I-F, Intergalactic Gary
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoverdose/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoverdose/)*

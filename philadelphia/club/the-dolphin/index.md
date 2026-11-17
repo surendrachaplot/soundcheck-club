@@ -1,6 +1,6 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Solar Sounds x Fvtvre Fav pres. Nala" on Fri, 20 Nov 2026.
+The Dolphin is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Solar Sounds x Fvtvre Fav pres. Nala" on Fri, 20 Nov 2026.
 
 The Dolphin is a music venue in Philadelphia listed on soundcheck. 3 upcoming gigs, with line-ups including Ariel Zetina, Brad Scott, Doll Redacted and G I N A and 2 more. See dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
@@ -16,4 +16,4 @@ The Dolphin is a music venue in Philadelphia listed on soundcheck. 3 upcoming gi
 
 1539 S Broad St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*

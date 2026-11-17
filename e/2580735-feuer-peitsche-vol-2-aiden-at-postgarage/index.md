@@ -1,6 +1,6 @@
 # FEUER & PEITSCHE VOL. 2 - AIDEN at Postgarage
 
-FEUER & PEITSCHE VOL. 2 - AIDEN at Postgarage on Fri 4 Dec, Austria. 6 artists: Aiden (DE), DJ Vibekiller, Felix Roth and Geostatic and 2 more. See the line-up on soundcheck.
+FEUER & PEITSCHE VOL. 2 - AIDEN at Postgarage on Fri 4 Dec, Austria. 7 artists: Aiden (DE), DJ Vibekiller, Felix Roth and Geostatic and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ FEUER & PEITSCHE VOL. 2 - AIDEN at Postgarage on Fri 4 Dec, Austria. 6 artists: 
 - Felix Roth
 - Geostatic
 - Mischkonsum
+- Neesh
 - TWO XY
 
 *Source: [soundcheck](https://soundcheck.club/e/2580735-feuer-peitsche-vol-2-aiden-at-postgarage/)*

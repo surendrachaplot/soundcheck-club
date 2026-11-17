@@ -1,8 +1,8 @@
 # Yamariki
 
-Yamariki is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
+Yamariki is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
 
-Yamariki is a house and tech house artist based in Japan, with 183 gigs on soundcheck across Amsterdam, Osaka, Seoul and Sydney and 2 more. Often billed alongside PUNK N MATRIX, Chika Luna and ANZU. Next up: WOMB, Tokyo on Sat 21 Nov.
+Yamariki is a house and tech house artist based in Japan, with 184 gigs on soundcheck across Amsterdam, Osaka, Seoul and Sydney and 2 more. Often billed alongside PUNK N MATRIX, Chika Luna and ANZU. Next up: WOMB, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Yamariki is a house and tech house artist based in Japan, with 183 gigs on sound
 | Sun, 29 Nov 2026 | or | Tokyo |
 | Sat, 5 Dec 2026 | TBA - XXI | Tokyo |
 | Fri, 11 Dec 2026 | Z Maruyama | Tokyo |
+| Sat, 12 Dec 2026 | Joule | Osaka |
 | Sun, 27 Dec 2026 | or | Tokyo |
 
 ## Recently played
@@ -30,4 +31,4 @@ Yamariki is a house and tech house artist based in Japan, with 183 gigs on sound
 
 PUNK N MATRIX, Chika Luna, ANZU
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*

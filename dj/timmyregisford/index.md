@@ -1,6 +1,6 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at public records, New York City on Sun, 22 Nov 2026.
+Timmy Regisford is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at public records, New York City on Sun, 22 Nov 2026.
 
 Timmy Regisford is a house and deep house artist based in United States of America, with 72 gigs on soundcheck across Athens, Atlanta, Auckland and Baltimore and 13 more. Often billed alongside Mark Francis, Lovie and merlin bobb. Next up: public records, New York City on Sun 22 Nov.
 
@@ -29,4 +29,4 @@ Timmy Regisford is a house and deep house artist based in United States of Ameri
 
 Mark Francis, Lovie, merlin bobb
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

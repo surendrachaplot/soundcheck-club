@@ -1,8 +1,8 @@
 # AVHD
 
-AVHD is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+AVHD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
 
-AVHD is a techno and trance artist based in India, with 67 gigs on soundcheck across Berlin, Florida, Prague and Sofia. Often billed alongside ishka machina, Takē and DJames. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
+AVHD is a techno and trance artist based in India, with 68 gigs on soundcheck across Berlin, Florida, Prague and Sofia. Often billed alongside ishka machina, Takē and DJames. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ AVHD is a techno and trance artist based in India, with 67 gigs on soundcheck ac
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Ankali & Planeta Za | Prague |
 | Sat, 21 Nov 2026 | Music Club Pulse 22 | Prague |
+| Sat, 12 Dec 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ AVHD is a techno and trance artist based in India, with 67 gigs on soundcheck ac
 
 ishka machina, Takē, DJames (2)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avhd/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avhd/)*

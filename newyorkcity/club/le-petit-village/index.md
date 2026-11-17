@@ -1,6 +1,6 @@
 # Le Petit Village
 
-Le Petit Village is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Le Petit Village NYC NYE27 Party" on Thu, 31 Dec 2026.
+Le Petit Village is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Le Petit Village NYC NYE27 Party" on Thu, 31 Dec 2026.
 
 Le Petit Village is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Le Petit Village is a music venue in New York City listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Le Petit Village NYC NYE27 Party |  |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-petit-village/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-petit-village/)*

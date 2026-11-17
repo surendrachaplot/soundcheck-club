@@ -1,6 +1,6 @@
 # Faro
 
-Faro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
+Faro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
 
 Faro is a house and disco artist based in United Kingdom, with 67 gigs on soundcheck across Berlin, Brighton, Edinburgh and London and 3 more. Often billed alongside LEV (UK), Daisha and Jamesey. Next up: Colour Factory, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Faro is a house and disco artist based in United Kingdom, with 67 gigs on soundc
 
 LEV (UK), Daisha, Jamesey
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*

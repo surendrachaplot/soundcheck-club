@@ -1,6 +1,6 @@
 # Tapirus
 
-Tapirus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 12 Dec 2026.
+Tapirus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 12 Dec 2026.
 
 Tapirus is a techno and house artist based in Netherlands, with 5 gigs on soundcheck across Berlin and Rotterdam. Often billed alongside Mowgli (NL), Ben Diggins and Boss Priester. Next up: Tresor / Globus, Berlin on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Tapirus is a techno and house artist based in Netherlands, with 5 gigs on soundc
 
 Mowgli (NL), Ben Diggins, Boss Priester
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tapirus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tapirus/)*

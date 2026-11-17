@@ -1,6 +1,6 @@
 # Insolate
 
-Insolate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at public records, New York City on Sat, 19 Dec 2026.
+Insolate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at public records, New York City on Sat, 19 Dec 2026.
 
 Insolate is a techno and house artist based in Croatia, with 61 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside GLIA, Asarri and Lady Starlight. Next up: public records, New York City on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Insolate is a techno and house artist based in Croatia, with 61 gigs on soundche
 
 GLIA, Asarri, Lady Starlight
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*

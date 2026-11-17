@@ -1,6 +1,6 @@
 # KANIKA
 
-KANIKA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+KANIKA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 KANIKA is a trance and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Florelle, jeanska and *Tia*. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ KANIKA is a trance and techno artist based in Germany, with 5 gigs on soundcheck
 
 Florelle, jeanska, *Tia*
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanika/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanika/)*

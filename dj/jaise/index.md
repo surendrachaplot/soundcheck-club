@@ -1,6 +1,6 @@
 # Jaise
 
-Jaise is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at 201 Below, Perth on Sat, 5 Dec 2026.
+Jaise is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 201 Below, Perth on Sat, 5 Dec 2026.
 
 Jaise is a drum & bass and jungle artist, with 18 gigs on soundcheck across Bali and Perth. Often billed alongside Ant TC1, Doc Scott and Greg Packer. Next up: 201 Below, Perth on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Jaise is a drum & bass and jungle artist, with 18 gigs on soundcheck across Bali
 
 Ant TC1, Doc Scott, Greg Packer
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaise/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaise/)*

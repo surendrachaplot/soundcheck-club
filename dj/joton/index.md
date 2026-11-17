@@ -1,14 +1,15 @@
 # Joton
 
-Joton is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Trax Club, North on Sat, 21 Nov 2026.
+Joton is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Trax Club, North on Sat, 21 Nov 2026.
 
-Joton is a techno and electro artist based in Spain, with 60 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 19 more. Often billed alongside Alexandre Laeddis, Esterne Moog and Hector MAD. Next up: Trax Club, North on Sat 21 Nov.
+Joton is a techno and electro artist based in Spain, with 61 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 19 more. Often billed alongside Alexandre Laeddis, Esterne Moog and Hector MAD. Next up: Trax Club, North on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Trax Club | North |
+| Thu, 17 Dec 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Joton is a techno and electro artist based in Spain, with 60 gigs on soundcheck 
 
 Alexandre Laeddis, Esterne Moog, Hector MAD
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joton/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joton/)*

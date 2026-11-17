@@ -1,6 +1,6 @@
 # OAKE
 
-OAKE is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
+OAKE is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
 
 OAKE is a techno and breakbeat artist based in Germany, with 16 gigs on soundcheck across Athens, Berlin, Birmingham and Dresden and 3 more. Often billed alongside Samuel Kerridge, Rangelova and Regis. Next up: ROSA, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ OAKE is a techno and breakbeat artist based in Germany, with 16 gigs on soundche
 
 Samuel Kerridge, Rangelova, Regis
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oake/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oake/)*

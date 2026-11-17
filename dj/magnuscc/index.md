@@ -1,6 +1,6 @@
 # Magnuscc
 
-Magnuscc is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Eventhuset, Stockholm on Sat, 21 Nov 2026.
+Magnuscc is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Eventhuset, Stockholm on Sat, 21 Nov 2026.
 
 Magnuscc is a techno and tech house artist based in Sweden, with 5 gigs on soundcheck across Stockholm. Often billed alongside MERILIN, OSO and CC Luna. Next up: Eventhuset, Stockholm on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Magnuscc is a techno and tech house artist based in Sweden, with 5 gigs on sound
 
 MERILIN, OSO (3), CC Luna
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnuscc/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnuscc/)*

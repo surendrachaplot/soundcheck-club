@@ -1,6 +1,6 @@
 # DEAD END Showcase with Paralich pres. by GDN at Das Werk
 
-DEAD END Showcase with Paralich pres. by GDN at Das Werk on Sat 28 Nov, Vienna. 5 artists: Dj Wifi, LUZZT, Paralich and THIRD 2HIFT and 1 more. Techno and Latin Bass. See the line-up on soundcheck.
+DEAD END Showcase with Paralich pres. by GDN at Das Werk on Sat 28 Nov, Vienna. 6 artists: Dj Wifi, KRISTUS, LUZZT and Paralich and 2 more. Techno and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DEAD END Showcase with Paralich pres. by GDN at Das Werk on Sat 28 Nov, Vienna. 
 ## Line-up
 
 - Dj Wifi (3)
+- KRISTUS
 - LUZZT
 - Paralich
 - THIRD 2HIFT

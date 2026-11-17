@@ -1,6 +1,6 @@
 # WAREHOUSE - Treibhouse × REFRAME × ELECTRONIC AFFAIRS at Gleis 9
 
-WAREHOUSE - Treibhouse × REFRAME × ELECTRONIC AFFAIRS at Gleis 9 on Fri 20 Nov, Bochum. 3 artists: Fabian Haneke, SEB.UTY and SNARE and MONTI. Tech House and Minimal. See the line-up on soundcheck.
+WAREHOUSE - Treibhouse × REFRAME × ELECTRONIC AFFAIRS at Gleis 9 on Fri 20 Nov, Bochum. 4 artists: Fabian Haneke, PALMFAX, SEB.UTY and SNARE and MONTI. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ WAREHOUSE - Treibhouse × REFRAME × ELECTRONIC AFFAIRS at Gleis 9 on Fri 20 Nov
 ## Line-up
 
 - Fabian Haneke
+- PALMFAX
 - SEB.UTY
 - SNARE and MONTI
 

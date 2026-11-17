@@ -1,6 +1,6 @@
 # D4NCE THERAPY - VOL 2 at Club Cheek
 
-D4NCE THERAPY - VOL 2 at Club Cheek on Fri 20 Nov, London. 2 artists: MIDRIB and Proc Fiskal. Bass and Electro. See the line-up on soundcheck.
+D4NCE THERAPY - VOL 2 at Club Cheek on Fri 20 Nov, London. 3 artists: Born Weekend, MIDRIB and Proc Fiskal. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ D4NCE THERAPY - VOL 2 at Club Cheek on Fri 20 Nov, London. 2 artists: MIDRIB and
 
 ## Line-up
 
+- Born Weekend
 - MIDRIB
 - Proc Fiskal
 

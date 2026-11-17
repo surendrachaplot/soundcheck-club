@@ -1,6 +1,6 @@
 # AAguilAA
 
-AAguilAA is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
+AAguilAA is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
 
 AAguilAA is a house and pop artist based in Belgium, with 40 gigs on soundcheck across Berlin, Brussels and Lisbon. Often billed alongside The Stress, Daniel Wang and Afonso Peixoto. Next up: Void Club, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ AAguilAA is a house and pop artist based in Belgium, with 40 gigs on soundcheck 
 
 The Stress, Daniel Wang, Afonso Peixoto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguilaa/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguilaa/)*

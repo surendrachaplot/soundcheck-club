@@ -1,6 +1,6 @@
 # LOBO 14yrs x isciān at NAMA - Nuovo Anfiteatro Martesana
 
-LOBO 14yrs x isciān at NAMA - Nuovo Anfiteatro Martesana on Fri 20 Nov, Milan. 8 artists: Deena Abdelwahed, DNN, Etta Simone and kwality and 4 more. Dub Techno and Electronica. See the line-up on soundcheck.
+LOBO 14yrs x isciān at NAMA - Nuovo Anfiteatro Martesana on Fri 20 Nov, Milan. 8 artists: Deena Abdelwahed, DNN, Etta Simone and kwality and 4 more. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

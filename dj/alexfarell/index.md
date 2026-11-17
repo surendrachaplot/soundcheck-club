@@ -1,8 +1,8 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
+Alex Farell is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
 
-Alex Farell is a techno and trance artist based in United Kingdom, with 133 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 44 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
+Alex Farell is a techno and trance artist based in United Kingdom, with 134 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 44 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Alex Farell is a techno and trance artist based in United Kingdom, with 133 gigs
 | Sat, 21 Nov 2026 | Electric Brixton | London |
 | Fri, 27 Nov 2026 | Mint XL | Leeds |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 12 Dec 2026 | Tempo | Glasgow |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Fri, 12 Feb 2027 | 24 Kitchen Street | Liverpool |
@@ -32,4 +33,4 @@ Alex Farell is a techno and trance artist based in United Kingdom, with 133 gigs
 
 SIKOTI, Azyr, Faster Horses
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

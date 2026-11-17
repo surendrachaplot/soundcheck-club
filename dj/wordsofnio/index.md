@@ -1,6 +1,6 @@
 # Words of Niō
 
-Words of Niō is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Santuário, Escadinhas da Praia 5, 1200-869 Lisboa, Portugal, Lisbon on Fri, 27 Nov 2026.
+Words of Niō is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Santuário, Escadinhas da Praia 5, 1200-869 Lisboa, Portugal, Lisbon on Fri, 27 Nov 2026.
 
 Words of Niō is a deep house and progressive house artist based in Spain, with 44 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Madrid and 1 more. Often billed alongside ETNA, Omer Tayar and Panyer. Next up: TBA - Santuário, Escadinhas da Praia 5, 1200-869 Lisboa, Portugal, Lisbon on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Words of Niō is a deep house and progressive house artist based in Spain, with 
 
 ETNA, Omer Tayar, Panyer
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wordsofnio/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wordsofnio/)*

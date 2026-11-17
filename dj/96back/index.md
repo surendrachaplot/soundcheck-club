@@ -1,6 +1,6 @@
 # 96 Back
 
-96 Back is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+96 Back is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 96 Back is an experimental and techno artist based in United Kingdom, with 56 gigs on soundcheck across Beijing, Berlin, Bristol and Brussels and 16 more. Often billed alongside aya, Jennifer Walton and MYNA. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -26,4 +26,4 @@
 
 aya, Jennifer Walton, MYNA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/96back/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/96back/)*

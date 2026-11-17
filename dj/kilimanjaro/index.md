@@ -1,6 +1,6 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Art School, Glasgow on Tue, 24 Nov 2026.
+KILIMANJARO is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Art School, Glasgow on Tue, 24 Nov 2026.
 
 KILIMANJARO is a house and afro house artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 42 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: The Art School, Glasgow on Tue 24 Nov.
 
@@ -27,4 +27,4 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 146 g
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

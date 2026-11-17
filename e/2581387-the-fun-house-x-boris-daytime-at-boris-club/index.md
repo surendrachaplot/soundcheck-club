@@ -1,6 +1,6 @@
-# The Fun House X BORIS (DAYTIME) at BORIS CLUB
+# The Fun House x Boris (DAYTIME) at BORIS CLUB
 
-The Fun House X BORIS (DAYTIME) at BORIS CLUB on Sat 21 Nov, Barcelona. 3 artists: Chris Main, DJ Oliver and Vidaloca. House. See the line-up on soundcheck.
+The Fun House x Boris (DAYTIME) at BORIS CLUB on Sat 21 Nov, Barcelona. 3 artists: Chris Main, DJ Oliver and Vidaloca. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

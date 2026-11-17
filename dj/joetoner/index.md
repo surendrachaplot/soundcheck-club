@@ -1,8 +1,8 @@
 # Joe Toner
 
-Joe Toner is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sans Soleil, Montreal on Sat, 21 Nov 2026.
+Joe Toner is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sans Soleil, Montreal on Sat, 21 Nov 2026.
 
-Joe Toner is a disco and house artist, with 13 gigs on soundcheck across Montreal. Often billed alongside Ferias, Kris Guilty and Alina (MTL). Next up: Sans Soleil, Montreal on Sat 21 Nov.
+Joe Toner is a disco and house artist based in Canada, with 13 gigs on soundcheck across Montreal. Often billed alongside Ferias, Kris Guilty and Alina (MTL). Next up: Sans Soleil, Montreal on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Joe Toner is a disco and house artist, with 13 gigs on soundcheck across Montrea
 
 Ferias, Kris Guilty, Alina (MTL)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joetoner/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joetoner/)*

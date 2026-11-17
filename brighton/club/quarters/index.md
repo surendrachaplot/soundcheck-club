@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Degs & FRIENDS" on Fri, 20 Nov 2026.
+Quarters is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Degs & FRIENDS" on Fri, 20 Nov 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Carbon, Anaïs, Benny Page and Degs and 2 more. See dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -22,4 +22,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, wit
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

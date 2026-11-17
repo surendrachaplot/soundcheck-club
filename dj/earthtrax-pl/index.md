@@ -1,6 +1,6 @@
 # Earth Trax
 
-Earth Trax is a Dub Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Wesola Immersive, Krakow on Fri, 20 Nov 2026.
+Earth Trax is a Dub Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Wesola Immersive, Krakow on Fri, 20 Nov 2026.
 
 Earth Trax is a dub techno and idm artist, with 15 gigs on soundcheck across Basel, Berlin, Krakow and Poznan and 2 more. Often billed alongside daisy cutter, DJ Duch and Nadezh No. Next up: Wesola Immersive, Krakow on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Earth Trax is a dub techno and idm artist, with 15 gigs on soundcheck across Bas
 
 daisy cutter, DJ Duch, Nadezh No
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earthtrax-pl/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earthtrax-pl/)*

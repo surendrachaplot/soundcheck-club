@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at THE BATHS, Austin on Thu, 19 Nov 2026.
+DJ SEXSTASY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at THE BATHS, Austin on Thu, 19 Nov 2026.
 
 DJ SEXSTASY is a techno and trance artist based in Brazil, with 52 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and GI.O. Next up: THE BATHS, Austin on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 52 gigs on sound
 
 Rishka, Towicz, GI.O
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

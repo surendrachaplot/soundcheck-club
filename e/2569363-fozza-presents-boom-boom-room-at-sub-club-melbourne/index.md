@@ -1,6 +1,6 @@
 # FOZZA presents: BOOM BOOM ROOM at Sub Club Melbourne
 
-FOZZA presents: BOOM BOOM ROOM at Sub Club Melbourne on Sat 21 Nov, Melbourne. 2 artists: dj awesomechillguy25 and Fresh Hex. Electro and Club. See the line-up on soundcheck.
+FOZZA presents: BOOM BOOM ROOM at Sub Club Melbourne on Sat 21 Nov, Melbourne. 3 artists: 19 in Poland, dj awesomechillguy25 and Fresh Hex. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FOZZA presents: BOOM BOOM ROOM at Sub Club Melbourne on Sat 21 Nov, Melbourne. 2
 
 ## Line-up
 
+- 19 in Poland
 - dj awesomechillguy25
 - Fresh Hex
 

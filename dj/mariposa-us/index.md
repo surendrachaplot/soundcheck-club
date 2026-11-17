@@ -1,6 +1,6 @@
 # Mariposa
 
-Mariposa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Good Room, New York City on Fri, 20 Nov 2026.
+Mariposa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Good Room, New York City on Fri, 20 Nov 2026.
 
 Mariposa is a house and techno artist based in United States of America, with 67 gigs on soundcheck across Hamburg, Leipzig, New York City and Rotterdam and 1 more. Often billed alongside Perna, Ladiez Drink Free and Drupe Jam. Next up: Good Room, New York City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Mariposa is a house and techno artist based in United States of America, with 67
 
 Perna, Ladiez Drink Free, Drupe Jam
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*

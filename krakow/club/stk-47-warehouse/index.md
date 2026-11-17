@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HANGAR w. Henning Baer [Berlin/DE]" on Fri, 20 Nov 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "HANGAR w. Henning Baer [Berlin/DE]" on Fri, 20 Nov 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with line-ups including Axel Karakasis, Deep Breath!, Fading Black and Forest (PL) and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -20,4 +20,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming gig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

@@ -1,6 +1,6 @@
-# FIESTA! reggaeton, pop y hits at Sala Villanos
+# FIESTA! REGGAETON, POP Y HITS at Sala Villanos
 
-FIESTA! reggaeton, pop y hits at Sala Villanos on Sat 21 Nov, Madrid. Pop and Electronica. See the line-up on soundcheck.
+FIESTA! REGGAETON, POP Y HITS at Sala Villanos on Sat 21 Nov, Madrid. Pop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

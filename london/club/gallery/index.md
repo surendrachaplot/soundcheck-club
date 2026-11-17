@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Paradox Nexus: Nesta, Nirvan, Nojan - Thursdays at Gallery" on Thu, 19 Nov 2026.
+Gallery is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Paradox Nexus: Nesta, Nirvan, Nojan - Thursdays at Gallery" on Thu, 19 Nov 2026.
 
 Gallery is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including &friends, FASTON, Guillaume Gioé and II FACES and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 14 upcoming gigs, with 
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

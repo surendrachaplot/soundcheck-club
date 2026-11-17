@@ -1,14 +1,14 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Caleb Laurenson, Wheats b2b special guest" on Fri, 20 Nov 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Caleb Laurenson, Wheats b2b Tommy Philips" on Fri, 20 Nov 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Andrea Oliva and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Andrea Oliva and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Caleb Laurenson, Wheats b2b special guest | Caleb Laurenson, DJ ORA, IDEMI, Lily C-D, Wheats |
+| Fri, 20 Nov 2026 | Caleb Laurenson, Wheats b2b Tommy Philips | Caleb Laurenson, DJ ORA, IDEMI, Lily C-D, Wheats |
 | Sat, 21 Nov 2026 | Andrea Oliva, Argia, Samm | Andrea Oliva, Argia, Julien Simmons, Samm, Sebastian Konrad |
 | Fri, 27 Nov 2026 | Shelter 10 YEARS | Benjamin Berg, Dan Dusty, Job de Jong, Kara Okay, Kyra Khaldi, Laura Meester, Nathan Alzon, SOLIT, Stef Davidse, Tom Trago, Tommy Chikara, Tonno Disko |
 | Sat, 28 Nov 2026 | M-High (all night) | Alec Dienaar, Eline, M-High, STIPP |
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

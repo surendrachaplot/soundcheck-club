@@ -1,6 +1,6 @@
 # DJ Oliver
 
-DJ Oliver is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
+DJ Oliver is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
 
 DJ Oliver is a house and reggaeton artist based in Spain, with 69 gigs on soundcheck across Barcelona, Ibiza, Madrid and New York City and 1 more. Often billed alongside Alvaro Smart, Paco Osuna and Andres Campo. Next up: BORIS CLUB, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Oliver is a house and reggaeton artist based in Spain, with 69 gigs on soundc
 
 Alvaro Smart, Paco Osuna, Andres Campo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoliver/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoliver/)*

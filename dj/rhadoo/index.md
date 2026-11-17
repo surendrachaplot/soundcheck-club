@@ -1,8 +1,8 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+Rhadoo is a Minimal and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
-Rhadoo is a minimal and house artist based in Romania, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Raresh and Cap. Next up: Nowadays, New York City on Sat 21 Nov.
+Rhadoo is a minimal and house artist based in Romania, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Raresh and Cap. Next up: Nowadays, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Rhadoo is a minimal and house artist based in Romania, with 201 gigs on soundche
 | Fri, 11 Dec 2026 | fi | Cologne |
 | Sat, 12 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Ampere | Antwerp |
+| Sat, 19 Dec 2026 | Club Guesthouse | Bucharest |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
@@ -35,4 +36,4 @@ Rhadoo is a minimal and house artist based in Romania, with 201 gigs on soundche
 
 Petre Inspirescu, Raresh, Cap
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

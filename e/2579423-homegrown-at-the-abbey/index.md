@@ -1,6 +1,6 @@
 # HOMEGROWN at The Abbey
 
-HOMEGROWN at The Abbey on Sat 28 Nov, Manchester. 7 artists: Ali Roche, blo rida, CBABY and Club Penguin and 3 more. Trance and Hardcore. See the line-up on soundcheck.
+HOMEGROWN at The Abbey on Sat 28 Nov, Manchester. 8 artists: Ali Roche, amyleostone, blo rida and CBABY and 4 more. Trance and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HOMEGROWN at The Abbey on Sat 28 Nov, Manchester. 7 artists: Ali Roche, blo rida
 ## Line-up
 
 - Ali Roche (2)
+- amyleostone
 - blo rida
 - CBABY
 - Club Penguin

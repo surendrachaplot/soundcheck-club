@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 9 Dec, Berlin. 7 artists: Bloodkedelic, Grippe, J.A.S and Julka and 3 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 9 Dec, Berlin. 9 artists: ASTRANA, Bloodkedelic, Dudulina and Grippe and 5 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ TECHNO MITTWOCH at Sensorium on Wed 9 Dec, Berlin. 7 artists: Bloodkedelic, Grip
 
 ## Line-up
 
+- ASTRANA
 - Bloodkedelic
+- Dudulina
 - Grippe
 - J.A.S
 - Julka (2)

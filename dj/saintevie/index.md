@@ -1,6 +1,6 @@
 # Sainte Vie
 
-Sainte Vie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Lion's Den, Miami on Wed, 2 Dec 2026.
+Sainte Vie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Lion's Den, Miami on Wed, 2 Dec 2026.
 
 Sainte Vie is a techno and house artist based in Mexico, with 93 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 28 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Lion's Den, Miami on Wed 2 Dec.
 
@@ -27,4 +27,4 @@ Sainte Vie is a techno and house artist based in Mexico, with 93 gigs on soundch
 
 Eli (US), Mateo (US), MANTi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintevie/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintevie/)*

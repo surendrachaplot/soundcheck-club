@@ -1,6 +1,6 @@
 # Synthfest Sydney 26 at Slipway
 
-Synthfest Sydney 26 at Slipway on Sat 12 Dec, Sydney. 2 artists: Jonti and Mel Blue. IDM and Electronica. See the line-up on soundcheck.
+Synthfest Sydney 26 at Slipway on Sat 12 Dec, Sydney. 3 artists: Jonti, Manfredo Lament and Mel Blue. IDM and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Synthfest Sydney 26 at Slipway on Sat 12 Dec, Sydney. 2 artists: Jonti and Mel B
 ## Line-up
 
 - Jonti
+- Manfredo Lament
 - Mel Blue
 
 *Source: [soundcheck](https://soundcheck.club/e/2569021-synthfest-sydney-26-at-slipway/)*

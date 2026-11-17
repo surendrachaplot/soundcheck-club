@@ -1,6 +1,6 @@
-# EELF Presents - Medellin: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX) at Rama Soundgarden
+# EELF Presents - Medellin: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX), Three Souls at Rama Soundgarden
 
-EELF Presents - Medellin: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX) at Rama Soundgarden on Sun 29 Nov, Medellin. 3 artists: DJ WINDOWS 7, Pijus and Target Demographic. Techno and House. See the line-up on soundcheck.
+EELF Presents - Medellin: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX), Three Souls at Rama Soundgarden on Sun 29 Nov, Medellin. 6 artists: CABALLERO, Carzoul, DJ WINDOWS 7 and Kpra and 2 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ EELF Presents - Medellin: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX
 
 ## Line-up
 
+- CABALLERO
+- Carzoul
 - DJ WINDOWS 7
+- Kpra
 - Pijus
 - Target Demographic
 

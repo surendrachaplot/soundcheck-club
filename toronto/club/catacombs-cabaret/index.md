@@ -1,6 +1,6 @@
 # Catacombs Cabaret
 
-Catacombs Cabaret is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HOTLINE ☏ Darkova, Jules Bangsworth & Kasey Riot [Techno + House basement rave]" on Sat, 21 Nov 2026.
+Catacombs Cabaret is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "HOTLINE ☏ Darkova, Jules Bangsworth & Kasey Riot [Techno + House basement rave]" on Sat, 21 Nov 2026.
 
 Catacombs Cabaret is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Darkova, Kasey Riot and R-ODERICK. See dates, start times and who's playing. 474 Queen St. W (alley entrance).
 
@@ -15,4 +15,4 @@ Catacombs Cabaret is a music venue in Toronto listed on soundcheck. 2 upcoming g
 
 474 Queen St. W (alley entrance), Toronto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/catacombs-cabaret/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/catacombs-cabaret/)*

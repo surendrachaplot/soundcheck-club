@@ -1,8 +1,8 @@
 # Shaddows
 
-Shaddows is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mezzanine - Tooting, London on Sat, 28 Nov 2026.
+Shaddows is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mezzanine - Tooting, London on Sat, 28 Nov 2026.
 
-Shaddows is a drum & bass and jungle artist based in United Kingdom, with 5 gigs on soundcheck across Bristol and London. Often billed alongside Counter Culture, El-B and Leks. Next up: Mezzanine - Tooting, London on Sat 28 Nov.
+Shaddows is a drum & bass and jungle artist based in United Kingdom, with 5 gigs on soundcheck across Bristol and London. Often billed alongside Counter Culture, Ed Culprit and El-B. Next up: Mezzanine - Tooting, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Shaddows is a drum & bass and jungle artist based in United Kingdom, with 5 gigs
 
 ## Shares bills with
 
-Counter Culture, El-B, Leks
+Counter Culture, Ed Culprit, El-B
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaddows/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaddows/)*

@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Hive Club, Zurich on Sat, 28 Nov 2026.
+Henrik Schwarz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Hive Club, Zurich on Sat, 28 Nov 2026.
 
 Henrik Schwarz is a house and techno artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: Hive Club, Zurich on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Henrik Schwarz is a house and techno artist based in Germany, with 123 gigs on s
 
 Âme, Mano Le Tough, Black Coffee
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

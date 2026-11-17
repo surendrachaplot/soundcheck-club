@@ -1,6 +1,6 @@
 # SOFSOF
 
-SOFSOF is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 10 Dec 2026.
+SOFSOF is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 10 Dec 2026.
 
 SOFSOF is a bass and dubstep artist based in United Kingdom, with 30 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Miss Cabbage, Hometown Sound and Maveen. Next up: The Berkeley Suite, Glasgow on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ SOFSOF is a bass and dubstep artist based in United Kingdom, with 30 gigs on sou
 
 Miss Cabbage, Hometown Sound, Maveen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofsof/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofsof/)*

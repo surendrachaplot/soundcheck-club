@@ -1,6 +1,6 @@
 # Liberty Hall
 
-Liberty Hall is a music venue in Sydney with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Silva Bumpa - SYD - Liberty Hall COURTS" on Sat, 21 Nov 2026.
+Liberty Hall is a music venue in Sydney with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Silva Bumpa - SYD - Liberty Hall COURTS" on Sat, 21 Nov 2026.
 
 Liberty Hall is a music venue in Sydney listed on soundcheck. 6 upcoming gigs, with line-ups including Kerri Chandler, Killian, Moktar and Reenie and 2 more. See dates, start times and who's playing. Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021.
 
@@ -19,4 +19,4 @@ Liberty Hall is a music venue in Sydney listed on soundcheck. 6 upcoming gigs, w
 
 Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021, Sydney
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/liberty-hall/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/liberty-hall/)*

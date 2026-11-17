@@ -1,6 +1,6 @@
 # Nick's Night 2026 at Room 2 Glasgow
 
-Nick's Night 2026 at Room 2 Glasgow on Sat 21 Nov, Glasgow. 3 artists: Dominique., Frankie Elyse and McMSTR. Techno and House. See the line-up on soundcheck.
+Nick's Night 2026 at Room 2 Glasgow on Sat 21 Nov, Glasgow. 4 artists: Dominique., Frankie Elyse, McMSTR and RUBY RÖUGE. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Nick's Night 2026 at Room 2 Glasgow on Sat 21 Nov, Glasgow. 3 artists: Dominique
 - Dominique.
 - Frankie Elyse
 - McMSTR
+- RUBY RÖUGE
 
 *Source: [soundcheck](https://soundcheck.club/e/2571933-nick-s-night-2026-at-room-2-glasgow/)*

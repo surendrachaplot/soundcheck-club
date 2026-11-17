@@ -1,14 +1,15 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Petit CAB, Marseille on Fri, 11 Dec 2026.
+Nathan Fake is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Petit CAB, Marseille on Fri, 11 Dec 2026.
 
-Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and French West Indies and 9 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: Petit CAB, Marseille on Fri 11 Dec.
+Nathan Fake is a techno and electronica artist based in United Kingdom, with 26 gigs on soundcheck across Barcelona, Berlin, Bristol and French West Indies and 9 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: Petit CAB, Marseille on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Petit CAB | Marseille |
+| Sun, 14 Feb 2027 | Eastway Baths | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs
 
 Gold Panda, Alex Wilcox, Arsenal Mikebe
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*

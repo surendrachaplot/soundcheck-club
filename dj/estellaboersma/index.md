@@ -1,6 +1,6 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at De Papierfabriek, Nijmegen on Sat, 28 Nov 2026.
+Estella Boersma is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at De Papierfabriek, Nijmegen on Sat, 28 Nov 2026.
 
 Estella Boersma is a techno and house artist based in Germany, with 209 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 79 more. Often billed alongside Patrick Mason, Cera Khin and Daria Kolosova. Next up: De Papierfabriek, Nijmegen on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Estella Boersma is a techno and house artist based in Germany, with 209 gigs on 
 
 Patrick Mason, Cera Khin, Daria Kolosova
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

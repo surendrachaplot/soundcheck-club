@@ -1,6 +1,6 @@
 # PIXELATE KANDI KINGDOM LONDON at Vauxhall Arches
 
-PIXELATE KANDI KINGDOM LONDON at Vauxhall Arches on Fri 11 Dec, London. 5 artists: Compulsive Leia, EVIL THWEK, Gammer and sapphire superstar and 1 more. See the line-up on soundcheck.
+PIXELATE KANDI KINGDOM LONDON at Vauxhall Arches on Fri 11 Dec, London. 6 artists: changeofheart, Compulsive Leia, EVIL THWEK and Gammer and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PIXELATE KANDI KINGDOM LONDON at Vauxhall Arches on Fri 11 Dec, London. 5 artist
 
 ## Line-up
 
+- changeofheart
 - Compulsive Leia
 - EVIL THWEK
 - Gammer

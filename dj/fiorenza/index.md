@@ -1,6 +1,6 @@
 # FIORENZA
 
-FIORENZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Stereo, Glasgow on Sat, 12 Dec 2026.
+FIORENZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Stereo, Glasgow on Sat, 12 Dec 2026.
 
 FIORENZA is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across Edinburgh, Glasgow and Leeds. Often billed alongside COURTEZ, ANGELDOOF and Justyyna. Next up: Stereo, Glasgow on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ FIORENZA is a techno and house artist based in United Kingdom, with 4 gigs on so
 
 COURTEZ, ANGELDOOF, Justyyna
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiorenza/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiorenza/)*

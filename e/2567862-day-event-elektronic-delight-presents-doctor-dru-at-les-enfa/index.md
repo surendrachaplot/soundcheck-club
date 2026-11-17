@@ -1,6 +1,6 @@
 # (Day Event) Elektronic Delight presents: Doctor Dru at Les Enfants Brillants
 
-(Day Event) Elektronic Delight presents: Doctor Dru at Les Enfants Brillants on Sat 19 Dec, Barcelona. 4 artists: Aaryon, DJ Sun, Doctor Dru and Miss Manu. See the line-up on soundcheck.
+(Day Event) Elektronic Delight presents: Doctor Dru at Les Enfants Brillants on Sat 19 Dec, Barcelona. 5 artists: Aaryon, DJ Sun, Doctor Dru and Miss Manu and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@
 - DJ Sun
 - Doctor Dru
 - Miss Manu
+- OCCIPITAL
 
 *Source: [soundcheck](https://soundcheck.club/e/2567862-day-event-elektronic-delight-presents-doctor-dru-at-les-enfa/)*

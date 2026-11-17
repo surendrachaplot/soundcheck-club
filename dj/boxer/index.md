@@ -1,6 +1,6 @@
 # Boxer
 
-Boxer is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Hootananny Brixton, London on Sat, 12 Dec 2026.
+Boxer is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Hootananny Brixton, London on Sat, 12 Dec 2026.
 
 Boxer is a progressive house and house artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Istanbul, Leeds and London and 2 more. Often billed alongside L.GU., Estiva and Funsta. Next up: Hootananny Brixton, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Boxer is a progressive house and house artist based in United Kingdom, with 16 g
 
 L.GU., Estiva, Funsta
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boxer/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boxer/)*

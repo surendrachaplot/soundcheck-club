@@ -1,6 +1,6 @@
 # Mischkonsum
 
-Mischkonsum is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Postgarage, Austria on Fri, 4 Dec 2026.
+Mischkonsum is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Postgarage, Austria on Fri, 4 Dec 2026.
 
 Mischkonsum is a trance and techno artist based in Austria, with 9 gigs on soundcheck across Austria, Cologne, Leipzig and Nürnberg and 1 more. Often billed alongside Joey, Crystal O and DJ Vibekiller. Next up: Postgarage, Austria on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mischkonsum is a trance and techno artist based in Austria, with 9 gigs on sound
 
 Joey (2), Crystal O, DJ Vibekiller
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*

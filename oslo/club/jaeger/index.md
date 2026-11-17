@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Jaeger Mix: Ivaylo + Naboklage" on Wed, 18 Nov 2026.
+Jaeger is a music venue in Oslo with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Jaeger Mix: Ivaylo + Naboklage" on Wed, 18 Nov 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming gigs, with line-ups including A:G, Chris Solaris, Dam Swindle and Fabio and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 12 upcoming gigs, with line-ups including A:G, Alex Jangle, Chris Solaris and Dam Swindle and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming gigs, with lin
 | Fri, 27 Nov 2026 | Frædag x Ritter Butzke: Teenage Mutants | G-HA, Olanskii, Prismode, Solvane, Teenage Mutants |
 | Sat, 28 Nov 2026 | Lyd: From Beyond + Olle Abstract |  |
 | Fri, 4 Dec 2026 | Frædag x Hubbas Klubb: Leon Vynehall | G-HA, Hubbabubbaklubb, Leon Vynehall, Olanskii |
+| Sat, 5 Dec 2026 | Det Gode Selskab: Alex Jangle + Rub800 + Tod Louie | Alex Jangle, Rub800, Tod Louie |
 | Fri, 11 Dec 2026 | Frædag: Dam Swindle DJ Kicks tour | Dam Swindle, G-HA, Olanskii, Øyvind Morken |
-| Fri, 18 Dec 2026 | Frædag: FJAAK | FJAAK, G-HA, Olanskii, Øyvind Morken |
-| Thu, 31 Dec 2026 | New Year's Eve x Det Gode Selskab | A:G, Chris Solaris, Ronya |
+| Sat, 12 Dec 2026 | Sunkissed: Erol Alkan | Erol Alkan, G-HA, Olanskii, Vinny Villbass |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

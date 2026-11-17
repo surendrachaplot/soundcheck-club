@@ -1,13 +1,14 @@
 # Tam Tam
 
-Tam Tam is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at KREUZWERK, Berlin on Fri, 1 Jan 2027.
+Tam Tam is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
 
-Tam Tam is an italo disco and house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Richii, Jonah Considine and DJ Subaru. Next up: KREUZWERK, Berlin on Fri 1 Jan.
+Tam Tam is a house and italo disco artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Richii, DJ Subaru and Jonah Considine. Next up: The Cause, London on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | The Cause | London |
 | Fri, 1 Jan 2027 | KREUZWERK | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Tam Tam is an italo disco and house artist based in United Kingdom, with 31 gigs
 
 ## Shares bills with
 
-Richii, Jonah Considine, DJ Subaru
+Richii, DJ Subaru, Jonah Considine
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*

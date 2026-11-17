@@ -1,6 +1,6 @@
 # Ciel
 
-Ciel is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Haven, Byron Bay on Fri, 20 Nov 2026.
+Ciel is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Haven, Byron Bay on Fri, 20 Nov 2026.
 
 Ciel is a techno and house artist based in Canada, with 239 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 65 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: Haven, Byron Bay on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Ciel is a techno and house artist based in Canada, with 239 gigs on soundcheck a
 
 Milch (1), CCL, Venus in Foil
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

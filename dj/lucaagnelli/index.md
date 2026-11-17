@@ -1,6 +1,6 @@
 # Luca Agnelli
 
-Luca Agnelli is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Vinyl, Denver on Fri, 20 Nov 2026.
+Luca Agnelli is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Vinyl, Denver on Fri, 20 Nov 2026.
 
 Luca Agnelli is a techno and hardcore artist based in Italy, with 122 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside Gianni Di Bernardo, OMAKS and ANXHELA. Next up: Club Vinyl, Denver on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Luca Agnelli is a techno and hardcore artist based in Italy, with 122 gigs on so
 
 Gianni Di Bernardo, OMAKS, ANXHELA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*

@@ -1,13 +1,14 @@
 # CHAOS!
 
-CHAOS! is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Boombox, Miami on Sat, 28 Nov 2026.
+CHAOS! is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Boombox, Miami on Sat, 28 Nov 2026.
 
-CHAOS! is a house and electro artist based in United States of America, with 30 gigs on soundcheck across Miami. Often billed alongside Lotusoph, Roll-e and Milo Ziro. Next up: The Boombox, Miami on Sat 28 Nov.
+CHAOS! is a house and electro artist based in United States of America, with 31 gigs on soundcheck across Miami. Often billed alongside Lotusoph, Roll-e and Milo Ziro. Next up: The Boombox, Miami on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Boombox | Miami |
 | Sat, 28 Nov 2026 | The Boombox | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ CHAOS! is a house and electro artist based in United States of America, with 30 
 
 Lotusoph, Roll-e, Milo Ziro
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos!/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos!/)*

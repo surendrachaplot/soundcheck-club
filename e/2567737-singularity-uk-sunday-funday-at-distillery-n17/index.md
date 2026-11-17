@@ -1,6 +1,6 @@
 # Singularity UK: Sunday Funday at Distillery N17
 
-Singularity UK: Sunday Funday at Distillery N17 on Sun 22 Nov, London. 5 artists: ISORA, Janaway, Louise Plus One and MIDRIB and 1 more. Bass and Acid. See the line-up on soundcheck.
+Singularity UK: Sunday Funday at Distillery N17 on Sun 22 Nov, London. 6 artists: Alfie G, ISORA, Janaway and Louise Plus One and 2 more. Bass and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Singularity UK: Sunday Funday at Distillery N17 on Sun 22 Nov, London. 5 artists
 
 ## Line-up
 
+- Alfie G
 - ISORA
 - Janaway
 - Louise Plus One

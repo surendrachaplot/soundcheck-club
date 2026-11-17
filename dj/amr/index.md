@@ -1,8 +1,8 @@
 # AMR*
 
-AMR* is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at smartbar, Chicago on Fri, 20 Nov 2026.
+AMR* is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at smartbar, Chicago on Fri, 20 Nov 2026.
 
-AMR* is an electronica and house artist based in Canada, with 10 gigs on soundcheck across Atlanta, Auckland, Chicago and Los Angeles and 5 more. Often billed alongside Vegyn, Loukeman and 700 Feel. Next up: smartbar, Chicago on Fri 20 Nov.
+AMR* is an electronica and house artist based in Canada, with 10 gigs on soundcheck across Atlanta, Auckland, Chicago and Los Angeles and 5 more. Often billed alongside Vegyn, Headache and Loukeman. Next up: smartbar, Chicago on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ AMR* is an electronica and house artist based in Canada, with 10 gigs on soundch
 
 ## Shares bills with
 
-Vegyn, Loukeman, 700 Feel
+Vegyn, Headache, Loukeman
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amr/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amr/)*

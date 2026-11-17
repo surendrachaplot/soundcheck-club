@@ -1,6 +1,6 @@
 # Ezra Collective
 
-Ezra Collective is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fållan, Stockholm on Thu, 11 Feb 2027.
+Ezra Collective is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Fållan, Stockholm on Thu, 11 Feb 2027.
 
 Ezra Collective is a jazz and funk / soul artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Birmingham, Brisbane and Bristol and 10 more. Often billed alongside Jamz Supernova, Goldie and Kokoroko. Next up: Fållan, Stockholm on Thu 11 Feb.
 
@@ -25,4 +25,4 @@ Ezra Collective is a jazz and funk / soul artist based in United Kingdom, with 1
 
 Jamz Supernova, Goldie, Kokoroko
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezracollective/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezracollective/)*

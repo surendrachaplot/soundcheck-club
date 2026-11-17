@@ -1,6 +1,6 @@
 # Collie (1)
 
-Collie (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Yamamori Tengu, Dublin on Sun, 20 Dec 2026.
+Collie (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Yamamori Tengu, Dublin on Sun, 20 Dec 2026.
 
 Collie is a house and techno artist based in Ireland, with 81 gigs on soundcheck across Cork, Dublin, Liverpool and London. Often billed alongside Surka, Derv and Royce Larøca. Next up: Yamamori Tengu, Dublin on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Collie is a house and techno artist based in Ireland, with 81 gigs on soundcheck
 
 Surka (1), Derv, Royce Larøca
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/collie-1/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/collie-1/)*

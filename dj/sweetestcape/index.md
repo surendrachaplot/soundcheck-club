@@ -1,13 +1,14 @@
 # sweetestcape
 
-sweetestcape is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+sweetestcape is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Georgia Bar, Berlin on Sat, 21 Nov 2026.
 
-sweetestcape is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: FOLD, London on Sat 28 Nov.
+sweetestcape is a house and techno artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: Georgia Bar, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Georgia Bar | Berlin |
 | Sat, 28 Nov 2026 | FOLD | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ sweetestcape is a house and techno artist based in United Kingdom, with 34 gigs 
 
 Amphia, THEMPRESS, ASHTREY
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*

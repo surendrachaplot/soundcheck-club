@@ -1,6 +1,6 @@
 # De Sluwe Vos
 
-De Sluwe Vos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at export, Rotterdam on Fri, 11 Dec 2026.
+De Sluwe Vos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at export, Rotterdam on Fri, 11 Dec 2026.
 
 De Sluwe Vos is a house and techno artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Rotterdam and 2 more. Often billed alongside Benny Rodrigues, Prunk and Locklead. Next up: export, Rotterdam on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ De Sluwe Vos is a house and techno artist based in Netherlands, with 94 gigs on 
 
 Benny Rodrigues, Prunk, Locklead
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desluwevos/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desluwevos/)*

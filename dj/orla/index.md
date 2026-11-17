@@ -1,6 +1,6 @@
 # Or:la
 
-Or:la is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Soup, Manchester on Fri, 18 Dec 2026.
+Or:la is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Soup, Manchester on Fri, 18 Dec 2026.
 
 Or:la is a techno and house artist based in Ireland, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: Soup, Manchester on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ Or:la is a techno and house artist based in Ireland, with 132 gigs on soundcheck
 
 Amaliah, Pariah, Objekt
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*

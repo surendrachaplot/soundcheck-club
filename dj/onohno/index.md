@@ -1,6 +1,6 @@
 # Onohno
 
-Onohno is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - House of Growfunding, Brussels on Fri, 20 Nov 2026.
+Onohno is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - House of Growfunding, Brussels on Fri, 20 Nov 2026.
 
 Onohno is a techno and acid artist based in France, with 18 gigs on soundcheck across Berlin, Brussels, Florence and Lyon and 3 more. Often billed alongside OTON, CAAG and Nefeli. Next up: TBA - House of Growfunding, Brussels on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Onohno is a techno and acid artist based in France, with 18 gigs on soundcheck a
 
 OTON, CAAG, Nefeli
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onohno/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onohno/)*

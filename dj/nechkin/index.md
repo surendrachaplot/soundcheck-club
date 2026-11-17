@@ -1,8 +1,8 @@
 # Nechkin
 
-Nechkin is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Block42, Nuanu Creative City, Bali on Sat, 12 Dec 2026.
+Nechkin is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Block42, Nuanu Creative City, Bali on Sat, 12 Dec 2026.
 
-Nechkin is a minimal and techno artist, with 8 gigs on soundcheck across Bali, Bangkok and Dubai. Often billed alongside Latex, ALI THE LOVER and AOKI takamasa. Next up: Block42, Nuanu Creative City, Bali on Sat 12 Dec.
+Nechkin is a minimal and techno artist based in Russia, with 8 gigs on soundcheck across Bali, Bangkok and Dubai. Often billed alongside Latex, ALI THE LOVER and AOKI takamasa. Next up: Block42, Nuanu Creative City, Bali on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Nechkin is a minimal and techno artist, with 8 gigs on soundcheck across Bali, B
 
 Latex (1), ALI THE LOVER, AOKI takamasa
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nechkin/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nechkin/)*

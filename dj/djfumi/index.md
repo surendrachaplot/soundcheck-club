@@ -1,13 +1,14 @@
 # DJ FUMI
 
-DJ FUMI is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Psyon, Okinawa on Fri, 11 Dec 2026.
+DJ FUMI is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Daphnia, Osaka on Sat, 28 Nov 2026.
 
-DJ FUMI is a techno and psytrance artist based in Japan, with 15 gigs on soundcheck across Bangkok, Kyushu, Okinawa and Osaka and 1 more. Often billed alongside FUMI, BEENIE PIMP and Blackship. Next up: Psyon, Okinawa on Fri 11 Dec.
+DJ FUMI is a techno and psytrance artist based in Japan, with 16 gigs on soundcheck across Bangkok, Kyushu, Okinawa and Osaka and 1 more. Often billed alongside FUMI, BEENIE PIMP and Blackship. Next up: Club Daphnia, Osaka on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Club Daphnia | Osaka |
 | Fri, 11 Dec 2026 | Psyon | Okinawa |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ FUMI is a techno and psytrance artist based in Japan, with 15 gigs on soundch
 
 FUMI, BEENIE PIMP, Blackship
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfumi/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfumi/)*

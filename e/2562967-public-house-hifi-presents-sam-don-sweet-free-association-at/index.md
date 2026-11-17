@@ -1,10 +1,10 @@
 # Public House Hifi presents Sam Don (Sweet Free Association) at Gingerino's Pizza
 
-Public House Hifi presents Sam Don (Sweet Free Association) at Gingerino's Pizza on Fri 27 Nov, Newcastle. 3 artists: Diz Jockey, Sam Don and Vinny Vins. House and Disco. See the line-up on soundcheck.
+Public House Hifi presents Sam Don (Sweet Free Association) at Gingerino's Pizza on Fri 18 Dec, Newcastle. 3 artists: Diz Jockey, Sam Don and Vinny Vins. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 27 Nov 2026 |
+| Date | Fri, 18 Dec 2026 |
 | Venue | Gingerino's Pizza |
 | City | Newcastle |
 

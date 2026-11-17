@@ -1,8 +1,8 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Budino & Bunney" on Fri, 20 Nov 2026.
+The Lubber Fiend is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Budino & Bunney" on Fri, 20 Nov 2026.
 
-The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Berwick (Live), Budino, Bunney and Elijah Minnelli and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
+The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Adzmandala, Berwick (Live), Budino and Bunney and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
 ## What's on
 
@@ -12,11 +12,11 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming 
 | Fri, 27 Nov 2026 | Ambo Club w. Phuong-Dan, Love-Songs, Acid Drones + more | Jon Cornbill, Phuong Dan |
 | Sat, 28 Nov 2026 | DoNotDisturb presents // Redshift | Redshift (2) |
 | Sat, 5 Dec 2026 | Patrol Records x Keep Moovin' presents... Berwick (Live) | Berwick (Live), FroD, LA!NE, PIP. |
-| Sat, 12 Dec 2026 | Ghost Dubs, Elijah Minnelli + support | Elijah Minnelli, Ghost Dubs |
+| Sat, 12 Dec 2026 | Ghost Dubs, Elijah Minnelli + support | Adzmandala, Elijah Minnelli, Ghost Dubs |
 | Thu, 31 Dec 2026 | LUBBER FIEND NYE | Jon Cornbill |
 
 ## Address
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

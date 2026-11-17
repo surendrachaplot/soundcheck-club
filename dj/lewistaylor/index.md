@@ -1,6 +1,6 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Prohibition Brisbane, Brisbane on Sat, 21 Nov 2026.
+Lewis Taylor is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Prohibition Brisbane, Brisbane on Sat, 21 Nov 2026.
 
 Lewis Taylor is a house and tech house artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Brisbane and 16 more. Often billed alongside Ellia Jaya, Gaskin and Harry Robson. Next up: Prohibition Brisbane, Brisbane on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, with 50 g
 
 Ellia Jaya, Gaskin, Harry Robson
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

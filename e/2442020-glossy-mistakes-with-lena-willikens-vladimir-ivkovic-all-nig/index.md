@@ -1,6 +1,6 @@
 # Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long) at Cadavra
 
-Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long) at Cadavra on Sat 21 Nov, Madrid. 2 artists: Lena Willikens and Vladimir Ivkovic. Electronica. See the line-up on soundcheck.
+Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long) at Cadavra on Sat 21 Nov, Madrid. 3 artists: Glossy Mario, Lena Willikens and Vladimir Ivkovic. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long) at Cadav
 
 ## Line-up
 
+- Glossy Mario
 - Lena Willikens
 - Vladimir Ivkovic
 

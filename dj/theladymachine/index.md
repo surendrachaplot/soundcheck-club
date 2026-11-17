@@ -1,6 +1,6 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Standard Time, Toronto on Fri, 20 Nov 2026.
+The Lady Machine is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Standard Time, Toronto on Fri, 20 Nov 2026.
 
 The Lady Machine is a techno and house artist based in Brazil, with 220 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 55 more. Often billed alongside Freddy K, Blasha & Allatt and DVS1. Next up: Standard Time, Toronto on Fri 20 Nov.
 
@@ -35,4 +35,4 @@ The Lady Machine is a techno and house artist based in Brazil, with 220 gigs on 
 
 Freddy K, Blasha & Allatt, DVS1
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

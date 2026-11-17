@@ -1,6 +1,6 @@
 # Butterhands
 
-Butterhands is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
+Butterhands is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
 
 Butterhands is a house and tech house artist based in Spain, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Greece and 3 more. Often billed alongside Thabo, Blame Anthony and Thalo Santana. Next up: Kino Roland, Zurich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Butterhands is a house and tech house artist based in Spain, with 15 gigs on sou
 
 Thabo, Blame Anthony, Thalo Santana
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*

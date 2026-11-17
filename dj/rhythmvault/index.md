@@ -1,6 +1,6 @@
 # Rhythm Vault
 
-Rhythm Vault is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Baggen, Copenhagen on Fri, 20 Nov 2026.
+Rhythm Vault is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Baggen, Copenhagen on Fri, 20 Nov 2026.
 
 Rhythm Vault is a dub techno and house artist, with 3 gigs on soundcheck across Copenhagen. Often billed alongside Arto, Kirakingkong and Neel Wismann. Next up: Baggen, Copenhagen on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Rhythm Vault is a dub techno and house artist, with 3 gigs on soundcheck across 
 
 Arto (2), Kirakingkong, Neel Wismann
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmvault/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmvault/)*

@@ -1,8 +1,8 @@
 # The 212 Café & Bar
 
-The 212 Café & Bar is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn" on Fri, 20 Nov 2026.
+The 212 Café & Bar is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn" on Fri, 20 Nov 2026.
 
-The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including Bobby O'Donnell, Casika, Four Candles and Fox Mellen and 1 more. See dates, start times and who's playing. 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom.
+The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including Bobby O'Donnell, Casika, Four Candles and Fox Mellen and 2 more. See dates, start times and who's playing. 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom.
 
 ## What's on
 
@@ -12,10 +12,10 @@ The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 5 upcoming g
 | Fri, 27 Nov 2026 | Casika & Friends: Bobby Odonnell  | Bobby O'Donnell, Casika |
 | Sat, 28 Nov 2026 | b_sides social, with Four Candles (Bedrock/Keep Thinking)  | Four Candles |
 | Sat, 28 Nov 2026 | b_sides social - Four Candles - Bedrock Records / Keep Thinking |  |
-| Fri, 4 Dec 2026 | Slipped - FREE ENTRY | Pete Melba |
+| Fri, 4 Dec 2026 | Slipped - FREE ENTRY | Le Frequency, Pete Melba |
 
 ## Address
 
 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom, Leeds
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*

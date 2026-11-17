@@ -1,8 +1,8 @@
 # ALICA RØUGH
 
-ALICA RØUGH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 28 Nov 2026.
+ALICA RØUGH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 28 Nov 2026.
 
-ALICA RØUGH is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside NYXEA, André Skuda and CEEE. Next up: TBA - Secret Location, Berlin on Sat 28 Nov.
+ALICA RØUGH is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside NYXEA, André Skuda and Ankit. Next up: TBA - Secret Location, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ ALICA RØUGH is a techno and trance artist based in Germany, with 4 gigs on soun
 
 ## Shares bills with
 
-NYXEA, André Skuda, CEEE
+NYXEA, André Skuda, Ankit
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicarough/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicarough/)*

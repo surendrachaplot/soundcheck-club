@@ -1,14 +1,15 @@
 # DOVnROBS
 
-DOVnROBS is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at 77, London on Sat, 21 Nov 2026.
+DOVnROBS is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 77, London on Sat, 21 Nov 2026.
 
-DOVnROBS is a tech house and afro house artist based in Lebanon, with 20 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside Chambord, Edann and Malive. Next up: 77, London on Sat 21 Nov.
+DOVnROBS is an afro house and tech house artist based in Lebanon, with 21 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside Chambord, Edann and Malive. Next up: 77, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | 77 | London |
+| Fri, 12 Feb 2027 | 77 | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DOVnROBS is a tech house and afro house artist based in Lebanon, with 20 gigs on
 
 Chambord, Edann, Malive
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dovnrobs/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dovnrobs/)*

@@ -1,6 +1,6 @@
 # UNREC Club with Roe Deers at Freedonia
 
-UNREC Club with Roe Deers at Freedonia on Sat 28 Nov, Barcelona. 3 artists: Heinech, Ludviq and Roe Deers. Electro and Acid. See the line-up on soundcheck.
+UNREC Club with Roe Deers at Freedonia on Sat 28 Nov, Barcelona. 3 artists: Heinech, Ludviq and Roe Deers. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

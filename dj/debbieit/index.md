@@ -1,13 +1,14 @@
 # DEBBIE (IT)
 
-DEBBIE (IT) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Tirana Olympic Park, Tirana on Sun, 29 Nov 2026.
+DEBBIE (IT) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Dept 184, Milan on Fri, 27 Nov 2026.
 
-DEBBIE (IT) is a techno and industrial artist based in Italy, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside MARCO GINELLI, Rorganic and Vinka Wydro. Next up: Tirana Olympic Park, Tirana on Sun 29 Nov.
+DEBBIE (IT) is a techno and industrial artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside MARCO GINELLI, Rorganic and Vinka Wydro. Next up: Club Dept 184, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Club Dept 184 | Milan |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 
 ## Recently played
@@ -25,4 +26,4 @@ DEBBIE (IT) is a techno and industrial artist based in Italy, with 50 gigs on so
 
 MARCO GINELLI, Rorganic, Vinka Wydro
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*

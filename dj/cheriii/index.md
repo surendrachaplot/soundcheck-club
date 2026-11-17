@@ -1,6 +1,6 @@
 # Cheriii
 
-Cheriii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+Cheriii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 Cheriii is a house and techno artist based in France, with 85 gigs on soundcheck across Antwerp, Athens, Barcelona and Berlin and 16 more. Often billed alongside Kubin, Julie Desire and Flemish.Fetish. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Cheriii is a house and techno artist based in France, with 85 gigs on soundcheck
 
 Kubin, Julie Desire, Flemish.Fetish
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*

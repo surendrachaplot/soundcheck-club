@@ -1,6 +1,6 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Deep Listening: Lena Willikens + MBODJ" on Thu, 19 Nov 2026.
+Casa Montjuïc is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Deep Listening: Lena Willikens + MBODJ" on Thu, 19 Nov 2026.
 
 Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
@@ -17,4 +17,4 @@ Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 4 upcoming gi
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

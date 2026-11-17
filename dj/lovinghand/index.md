@@ -1,13 +1,14 @@
 # Loving Hand
 
-Loving Hand is a Electronica and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Society Clubhouse, Toronto on Sun, 27 Dec 2026.
+Loving Hand is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bsmt 254, Toronto on Sun, 6 Dec 2026.
 
-Loving Hand is an electronica and drum & bass artist based in Canada, with 2 gigs on soundcheck across Toronto. Often billed alongside GRRLCRRSH, Kira Loxx and Pauliexoxoxo. Next up: Society Clubhouse, Toronto on Sun 27 Dec.
+Loving Hand is a techno and electronica artist based in Canada, with 3 gigs on soundcheck across Toronto. Often billed alongside GRRLCRRSH, Kira Loxx and Pauliexoxoxo. Next up: Bsmt 254, Toronto on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Bsmt 254 | Toronto |
 | Sun, 27 Dec 2026 | Society Clubhouse | Toronto |
 
 ## Recently played
@@ -18,4 +19,4 @@ Loving Hand is an electronica and drum & bass artist based in Canada, with 2 gig
 
 GRRLCRRSH, Kira Loxx, Pauliexoxoxo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovinghand/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovinghand/)*

@@ -1,6 +1,6 @@
 # Lua Preta
 
-Lua Preta is a Gqom and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Funkhaus Wien, Vienna on Sat, 21 Nov 2026.
+Lua Preta is a Gqom and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Funkhaus Wien, Vienna on Sat, 21 Nov 2026.
 
 Lua Preta is a gqom and bass artist based in Poland, with 3 gigs on soundcheck across Berlin, Bristol and Vienna. Often billed alongside Cajoux, Catu Diosis and Lucha Luna. Next up: Funkhaus Wien, Vienna on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Lua Preta is a gqom and bass artist based in Poland, with 3 gigs on soundcheck a
 
 Cajoux, Catu Diosis, Lucha Luna
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luapreta/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luapreta/)*

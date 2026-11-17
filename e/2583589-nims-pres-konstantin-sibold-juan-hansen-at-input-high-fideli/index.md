@@ -1,6 +1,6 @@
 # ÀNIMS pres Konstantin Sibold, Juan Hansen at INPUT High Fidelity Dance Club
 
-ÀNIMS pres Konstantin Sibold, Juan Hansen at INPUT High Fidelity Dance Club on Fri 11 Dec, Barcelona. 3 artists: Juan Hansen, Konstantin Sibold and Pole Position. Progressive House and Techno. See the line-up on soundcheck.
+ÀNIMS pres Konstantin Sibold, Juan Hansen at INPUT High Fidelity Dance Club on Fri 11 Dec, Barcelona. 4 artists: HeAndMe, Juan Hansen, Konstantin Sibold and Pole Position. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- HeAndMe
 - Juan Hansen
 - Konstantin Sibold
 - Pole Position

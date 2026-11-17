@@ -1,6 +1,6 @@
 # TORMENTA: Bembi B2B CAMILA DI RAUSO, DJ CHRIS, Giulia Mad B2B INA HOUSEZ, Vico Deep, Yhago at EL SÓTANO
 
-TORMENTA: Bembi B2B CAMILA DI RAUSO, DJ CHRIS, Giulia Mad B2B INA HOUSEZ, Vico Deep, Yhago at EL SÓTANO on Fri 4 Dec, Madrid. 4 artists: Bembi, Giulia Mad, Vico Deep and Yhago. House. See the line-up on soundcheck.
+TORMENTA: Bembi B2B CAMILA DI RAUSO, DJ CHRIS, Giulia Mad B2B INA HOUSEZ, Vico Deep, Yhago at EL SÓTANO on Fri 4 Dec, Madrid. 5 artists: Bembi, Camila Di Rauso, Giulia Mad and Vico Deep and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TORMENTA: Bembi B2B CAMILA DI RAUSO, DJ CHRIS, Giulia Mad B2B INA HOUSEZ, Vico D
 ## Line-up
 
 - Bembi
+- Camila Di Rauso
 - Giulia Mad
 - Vico Deep
 - Yhago

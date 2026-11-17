@@ -1,13 +1,14 @@
 # ZapWo
 
-ZapWo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
+ZapWo is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
 
-ZapWo is a drum & bass and techno artist based in Latvia, with 9 gigs on soundcheck across Riga. Often billed alongside EP!C, DRAGONCAT and MISSLORI. Next up: Korpuss, Riga on Sat 28 Nov.
+ZapWo is a drum & bass and techno artist based in Latvia, with 10 gigs on soundcheck across Riga. Often billed alongside EP!C, DEP (LV) and DRAGONCAT. Next up: Korpuss, Riga on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Korpuss | Riga |
 | Sat, 28 Nov 2026 | Korpuss | Riga |
 
 ## Recently played
@@ -23,6 +24,6 @@ ZapWo is a drum & bass and techno artist based in Latvia, with 9 gigs on soundch
 
 ## Shares bills with
 
-EP!C, DRAGONCAT, MISSLORI
+EP!C, DEP (LV), DRAGONCAT
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zapwo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zapwo/)*

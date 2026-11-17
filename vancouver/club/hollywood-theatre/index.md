@@ -1,6 +1,6 @@
 # Hollywood Theatre
 
-Hollywood Theatre is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Emancipator" on Thu, 19 Nov 2026.
+Hollywood Theatre is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Emancipator" on Thu, 19 Nov 2026.
 
 Hollywood Theatre is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including UNKLE. See dates, start times and who's playing. 3123 W Broadway Vancouver, BC V6K 2H2.
 
@@ -16,4 +16,4 @@ Hollywood Theatre is a music venue in Vancouver listed on soundcheck. 3 upcoming
 
 3123 W Broadway Vancouver, BC V6K 2H2, Vancouver
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hollywood-theatre/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hollywood-theatre/)*

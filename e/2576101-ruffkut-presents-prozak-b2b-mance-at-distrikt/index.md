@@ -1,6 +1,6 @@
 # Ruffkut presents: Prozak B2B mance at Distrikt
 
-Ruffkut presents: Prozak B2B mance at Distrikt on Fri 4 Dec, Leeds. 5 artists: ad*n, Cottam, Esdaile and mance and 1 more. House and Garage. See the line-up on soundcheck.
+Ruffkut presents: Prozak B2B mance at Distrikt on Fri 4 Dec, Leeds. 6 artists: ad*n, Chappy, Cottam and Esdaile and 2 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Ruffkut presents: Prozak B2B mance at Distrikt on Fri 4 Dec, Leeds. 5 artists: a
 ## Line-up
 
 - ad*n
+- Chappy
 - Cottam (2)
 - Esdaile
 - mance

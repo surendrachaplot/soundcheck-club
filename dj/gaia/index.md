@@ -1,8 +1,8 @@
 # Gaia
 
-Gaia is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Gaia is a Tech House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
-Gaia is a tech house and afro house artist based in Norway, with 15 gigs on soundcheck across Athens, Glasgow, Kanto and London and 4 more. Often billed alongside DH Moon, Abyss and Adam O. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
+Gaia is a tech house and afro house artist based in Norway, with 16 gigs on soundcheck across Athens, Glasgow, Kanto and London and 4 more. Often billed alongside DH Moon, Abyss and Adam O. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gaia is a tech house and afro house artist based in Norway, with 15 gigs on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
 | Fri, 27 Nov 2026 | Point Ephémère | Paris |
+| Sat, 6 Feb 2027 | The Cause | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gaia is a tech house and afro house artist based in Norway, with 15 gigs on soun
 
 DH Moon, Abyss, Adam O (1)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaia/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaia/)*

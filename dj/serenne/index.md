@@ -1,6 +1,6 @@
 # Serenne
 
-Serenne is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at teller, Seoul on Thu, 19 Nov 2026.
+Serenne is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at teller, Seoul on Thu, 19 Nov 2026.
 
 Serenne is a house and minimal artist based in Switzerland, with 56 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: teller, Seoul on Thu 19 Nov.
 
@@ -30,4 +30,4 @@ Serenne is a house and minimal artist based in Switzerland, with 56 gigs on soun
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*

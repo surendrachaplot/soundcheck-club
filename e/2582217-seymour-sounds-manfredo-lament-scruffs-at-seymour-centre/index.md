@@ -1,6 +1,6 @@
 # Seymour Sounds: MANFREDO LAMENT + Scruffs at Seymour Centre
 
-Seymour Sounds: MANFREDO LAMENT + Scruffs at Seymour Centre on Sat 28 Nov, Sydney. 1 artist: Scruffs. Experimental and Jazz. See the line-up on soundcheck.
+Seymour Sounds: MANFREDO LAMENT + Scruffs at Seymour Centre on Sat 28 Nov, Sydney. 2 artists: Manfredo Lament and Scruffs. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Seymour Sounds: MANFREDO LAMENT + Scruffs at Seymour Centre on Sat 28 Nov, Sydne
 
 ## Line-up
 
+- Manfredo Lament
 - Scruffs
 
 *Source: [soundcheck](https://soundcheck.club/e/2582217-seymour-sounds-manfredo-lament-scruffs-at-seymour-centre/)*

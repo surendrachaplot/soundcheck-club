@@ -1,10 +1,10 @@
 # The Pickle at The Pickle
 
-The Pickle on Wed 25 Nov, Miami. See the line-up on soundcheck.
+The Pickle on Fri 27 Nov, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 25 Nov 2026 |
+| Date | Fri, 27 Nov 2026 |
 | Venue | The Pickle |
 | City | Miami |
 

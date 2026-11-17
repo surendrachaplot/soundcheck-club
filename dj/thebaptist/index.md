@@ -1,13 +1,14 @@
 # The Baptist
 
-The Baptist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 28 Nov 2026.
+The Baptist is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-The Baptist is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Atlanta, Boston, Los Angeles and New York City and 3 more. Often billed alongside Xolo, Amino and Christopher Foor. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 28 Nov.
+The Baptist is a techno and house artist based in United States of America, with 27 gigs on soundcheck across Atlanta, Boston, Los Angeles and New York City and 3 more. Often billed alongside Xolo, M66 and Amino. Next up: Underground SF, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Underground SF | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -23,6 +24,6 @@ The Baptist is a techno and house artist based in United States of America, with
 
 ## Shares bills with
 
-Xolo, Amino, Christopher Foor
+Xolo, M66 (1), Amino
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaptist/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaptist/)*

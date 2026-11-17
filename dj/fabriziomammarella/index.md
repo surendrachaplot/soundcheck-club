@@ -1,14 +1,15 @@
 # Fabrizio Mammarella
 
-Fabrizio Mammarella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Fabrizio Mammarella is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
-Fabrizio Mammarella is a house and techno artist based in Italy, with 109 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 30 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: The Buzz, Berlin on Fri 20 Nov.
+Fabrizio Mammarella is a house and techno artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 30 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: The Buzz, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
+| Sat, 28 Nov 2026 | Peti Kupe | Zagreb |
 | Sat, 19 Dec 2026 | Sala Upload Barcelona | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Fabrizio Mammarella is a house and techno artist based in Italy, with 109 gigs o
 
 Giulia Gutterer, Franz Scala, Charlie
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*

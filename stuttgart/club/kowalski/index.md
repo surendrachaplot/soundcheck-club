@@ -1,8 +1,8 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HERZ & Seele w./ Frida Darko x ATRIC x tim|bre x Katzengold x justUS" on Fri, 20 Nov 2026.
+Kowalski is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "HERZ & Seele w./ Frida Darko x ATRIC x tim|bre x Katzengold x justUS" on Fri, 20 Nov 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs, with line-ups including Black Circle, Einmusik, Frida Darko and Jochen Pash and 2 more. See dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including Black Circle, DJ Soulstar, Einmusik and Frida Darko and 2 more. See dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
@@ -10,12 +10,13 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs, wi
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | HERZ & Seele w./ Frida Darko x ATRIC x tim/bre x Katzengold x justUS | Frida Darko, Katzengold, Seele, justUS, tim/bre |
 | Sat, 21 Nov 2026 | Kowalski Saturdays Special • Black Circle • Jochen Pash | Black Circle, Jochen Pash |
-| Sat, 28 Nov 2026 | Kowalski w/Luca Schuster, Josha  |  |
+| Sat, 28 Nov 2026 | Kowalski Saturdays w/Luca Schuster, Josha |  |
 | Fri, 4 Dec 2026 | Playgrnd 28 presents AKANN (Eden Thessaloniki) | Téodoro |
+| Fri, 11 Dec 2026 | timeless with TOM NOVY & Soulstar | DJ Soulstar, Tom Novy |
 | Fri, 18 Dec 2026 | TRUE LOVE with Einmusik | Einmusik, Noah Shah |
 
 ## Address
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

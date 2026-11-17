@@ -1,14 +1,15 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Heaps Normal Health Club, Sydney on Sun, 22 Nov 2026.
+Eric Duncan is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Heaps Normal Health Club, Sydney on Sun, 22 Nov 2026.
 
-Eric Duncan is a house and disco artist based in United States of America, with 70 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 25 more. Often billed alongside FFAN, Craig Ouar and Monkey Timers. Next up: Heaps Normal Health Club, Sydney on Sun 22 Nov.
+Eric Duncan is a house and disco artist based in United States of America, with 71 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 25 more. Often billed alongside FFAN, Craig Ouar and Monkey Timers. Next up: Heaps Normal Health Club, Sydney on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Heaps Normal Health Club | Sydney |
+| Sun, 22 Nov 2026 | Pleasure Club | Sydney |
 | Thu, 10 Dec 2026 | Outer Heaven | New York City |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
@@ -27,4 +28,4 @@ Eric Duncan is a house and disco artist based in United States of America, with 
 
 FFAN, Craig Ouar, Monkey Timers
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*

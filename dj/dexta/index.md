@@ -1,13 +1,14 @@
 # Dexta
 
-Dexta is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Planet Wax, London on Thu, 26 Nov 2026.
+Dexta is a Drum & Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Planet Wax, London on Fri, 20 Nov 2026.
 
-Dexta is a drum & bass and jungle artist based in United Kingdom, with 108 gigs on soundcheck across London. Often billed alongside Uncle G, Controlled Weirdness and Sicknote. Next up: Planet Wax, London on Thu 26 Nov.
+Dexta is a drum & bass and garage artist based in United Kingdom, with 109 gigs on soundcheck across London. Often billed alongside Uncle G, Controlled Weirdness and Sicknote. Next up: Planet Wax, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Planet Wax | London |
 | Thu, 26 Nov 2026 | Planet Wax | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dexta is a drum & bass and jungle artist based in United Kingdom, with 108 gigs 
 
 Uncle G, Controlled Weirdness, Sicknote
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dexta/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dexta/)*

@@ -1,8 +1,8 @@
 # aRDe
 
-aRDe is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 5 Dec 2026.
+aRDe is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 5 Dec 2026.
 
-aRDe is an electro and club artist, with 13 gigs on soundcheck across Barcelona, Malaga and Miami. Often billed alongside Aiken, Anika Kunst and Sinert. Next up: Doggy Klœb, Malaga on Sat 5 Dec.
+aRDe is an electro and club artist based in Spain, with 13 gigs on soundcheck across Barcelona, Malaga and Miami. Often billed alongside Aiken, Anika Kunst and Sinert. Next up: Doggy Klœb, Malaga on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ aRDe is an electro and club artist, with 13 gigs on soundcheck across Barcelona,
 
 Aiken, Anika Kunst, Sinert
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arde/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arde/)*

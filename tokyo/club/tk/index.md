@@ -1,6 +1,6 @@
 # TK
 
-TK is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "UNVS.vol2" on Sun, 22 Nov 2026.
+TK is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "UNVS.vol2 TECHNO (techhouse, melodic, bigroom) SHIBUYA" on Sun, 22 Nov 2026.
 
 TK is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 13-8 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan.
 
@@ -8,10 +8,10 @@ TK is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, st
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | UNVS.vol2 |  |
+| Sun, 22 Nov 2026 | UNVS.vol2 TECHNO (techhouse, melodic, bigroom) SHIBUYA |  |
 
 ## Address
 
 13-8 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan, Tokyo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tk/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tk/)*

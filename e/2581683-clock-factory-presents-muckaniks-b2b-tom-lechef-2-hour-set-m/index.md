@@ -1,11 +1,11 @@
-# Clock Factory presents: MUCKANIKS B2B TOM LECHEF [2 Hour Set], Mia Pia & KING BOOO at The Clock Factory
+# Clock Factory presents: MUCKANIKS B2B TOM LECHEF [2 Hour Set], Mia Pia & KING BOOO at Clock Factory
 
-Clock Factory presents: MUCKANIKS B2B TOM LECHEF [2 Hour Set], Mia Pia & KING BOOO at The Clock Factory on Fri 22 Jan, Bristol. 2 artists: KING BOOO! and MUCKANIKS. House and Garage. See the line-up on soundcheck.
+Clock Factory presents: MUCKANIKS B2B TOM LECHEF [2 Hour Set], Mia Pia & KING BOOO on Fri 22 Jan, Bristol. 2 artists: KING BOOO! and MUCKANIKS. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 22 Jan 2027 |
-| Venue | The Clock Factory |
+| Venue | Clock Factory |
 | City | Bristol |
 
 ## Line-up

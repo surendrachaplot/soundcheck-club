@@ -1,13 +1,14 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Glove That Fits, London on Thu, 26 Nov 2026.
+LO-LOW is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Georgia Bar, Berlin on Sat, 21 Nov 2026.
 
-LO-LOW is a techno and house artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Berlin, Bologna and London and 4 more. Often billed alongside David Ramsay, Samantha Togni and Someone Sunny. Next up: The Glove That Fits, London on Thu 26 Nov.
+LO-LOW is a techno and house artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Berlin, Bologna and London and 4 more. Often billed alongside David Ramsay, Samantha Togni and Someone Sunny. Next up: Georgia Bar, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Georgia Bar | Berlin |
 | Thu, 26 Nov 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ LO-LOW is a techno and house artist based in United Kingdom, with 92 gigs on sou
 
 David Ramsay, Samantha Togni, Someone Sunny
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

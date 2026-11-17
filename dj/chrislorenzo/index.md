@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Space Miami, Miami on Fri, 20 Nov 2026.
+Chris Lorenzo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Space Miami, Miami on Fri, 20 Nov 2026.
 
 Chris Lorenzo is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Austin, Boston and Calgary and 20 more. Often billed alongside Kaskade, FISHER and Green Velvet. Next up: Club Space Miami, Miami on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Chris Lorenzo is a house and tech house artist based in United Kingdom, with 60 
 
 Kaskade, FISHER, Green Velvet
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

@@ -1,6 +1,6 @@
 # DHÆÜR
 
-DHÆÜR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Fuse, Brussels on Sat, 12 Dec 2026.
+DHÆÜR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fuse, Brussels on Sat, 12 Dec 2026.
 
 DHÆÜR is a techno and house artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside DVS1, Chami and Dustin Zahn. Next up: Fuse, Brussels on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ DHÆÜR is a techno and house artist based in Italy, with 17 gigs on soundcheck 
 
 DVS1, Chami, Dustin Zahn
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dhaeur/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dhaeur/)*

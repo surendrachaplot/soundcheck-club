@@ -1,6 +1,6 @@
 # Le Chapiteau - Marseille
 
-Le Chapiteau - Marseille is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sweat Club W/ Carlala, Scorpio Qveen & more" on Fri, 20 Nov 2026.
+Le Chapiteau - Marseille is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Sweat Club W/ Carlala, Scorpio Qveen & more" on Fri, 20 Nov 2026.
 
 Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
@@ -14,4 +14,4 @@ Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 1 u
 
 38 TVS Notre Dame De Bon Secours, Marseille
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*

@@ -1,6 +1,6 @@
 # Deb FA
 
-Deb FA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at 77, London on Fri, 20 Nov 2026.
+Deb FA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 77, London on Fri, 20 Nov 2026.
 
 Deb FA is an afro house and house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Alan Dixon, Emanuel Satie and Kidflo. Next up: 77, London on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Deb FA is an afro house and house artist based in United Kingdom, with 4 gigs on
 
 Alan Dixon, Emanuel Satie, Kidflo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debfa/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debfa/)*

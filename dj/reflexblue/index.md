@@ -1,6 +1,6 @@
 # Reflex Blue
 
-Reflex Blue is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Carpa & Picnic of El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
+Reflex Blue is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Carpa & Picnic of El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
 
 Reflex Blue is a house and tech house artist based in Australia, with 118 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 41 more. Often billed alongside Doudou MD, Fumiya Tanaka and Gene On Earth. Next up: Carpa & Picnic of El Poble Espanyol, Barcelona on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Reflex Blue is a house and tech house artist based in Australia, with 118 gigs o
 
 Doudou MD, Fumiya Tanaka, Gene On Earth
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

@@ -1,8 +1,8 @@
 # African Stevenson
 
-African Stevenson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Mason Bar, Cyprus on Sat, 12 Dec 2026.
+African Stevenson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mason Bar, Cyprus on Sat, 12 Dec 2026.
 
-African Stevenson is a house and techno artist based in Cyprus, with 4 gigs on soundcheck across Amsterdam, Berlin and Cyprus. Often billed alongside AMARE, AVA Irandoost and Alias33. Next up: Mason Bar, Cyprus on Sat 12 Dec.
+African Stevenson is a house and techno artist based in Cyprus, with 4 gigs on soundcheck across Amsterdam, Berlin and Cyprus. Often billed alongside AMARE, AVA Irandoost and Agnes. Next up: Mason Bar, Cyprus on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ African Stevenson is a house and techno artist based in Cyprus, with 4 gigs on s
 
 ## Shares bills with
 
-AMARE, AVA Irandoost, Alias33
+AMARE, AVA Irandoost, Agnes
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/africanstevenson/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/africanstevenson/)*

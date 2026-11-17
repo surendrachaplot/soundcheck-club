@@ -1,6 +1,6 @@
 # hi beam
 
-hi beam is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
+hi beam is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
 
 hi beam is a techno and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Daniel Duese, Eddi Sander and Marc Machado. Next up: Jonny Knüppel, Berlin on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ hi beam is a techno and tech house artist based in Germany, with 5 gigs on sound
 
 Daniel Duese, Eddi Sander, Marc Machado
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hibeam/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hibeam/)*

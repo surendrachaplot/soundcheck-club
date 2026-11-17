@@ -1,6 +1,6 @@
 # Matthias Meyer
 
-Matthias Meyer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 20 Nov 2026.
+Matthias Meyer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 20 Nov 2026.
 
 Matthias Meyer is a house and deep house artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Noble Savage, Tbilisi on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Matthias Meyer is a house and deep house artist based in Germany, with 67 gigs o
 
 Stimmhalt, Slurm McKenzie, Budakid
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasmeyer/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasmeyer/)*

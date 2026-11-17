@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "GET TINY 3: GET MASSIVE" on Fri, 20 Nov 2026.
+Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "GET TINY 3: GET MASSIVE" on Fri, 20 Nov 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including AC (dot robot), Baptist (UK), Bloomii and Bok Bok and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -18,4 +18,4 @@ Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with l
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

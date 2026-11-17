@@ -1,6 +1,6 @@
 # BPK (1)
 
-BPK (1) is a Electronica and Pop artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Villages Taproom, London on Fri, 20 Nov 2026.
+BPK (1) is a Electronica and Pop artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Villages Taproom, London on Fri, 20 Nov 2026.
 
 BPK is an electronica and pop artist based in United Kingdom, with 5 gigs on soundcheck across Edinburgh and London. Often billed alongside Nikki Guild, Bolam and Caligari_. Next up: Villages Taproom, London on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ BPK is an electronica and pop artist based in United Kingdom, with 5 gigs on sou
 
 Nikki Guild, Bolam, Caligari_
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bpk-1/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bpk-1/)*

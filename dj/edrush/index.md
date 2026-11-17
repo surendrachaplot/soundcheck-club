@@ -1,6 +1,6 @@
 # Ed Rush
 
-Ed Rush is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - B17 Art Complex, Bogotá on Fri, 11 Dec 2026.
+Ed Rush is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - B17 Art Complex, Bogotá on Fri, 11 Dec 2026.
 
 Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 36 more. Often billed alongside Optical, Audio and Black Sun Empire. Next up: TBA - B17 Art Complex, Bogotá on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 75 gigs
 
 Optical, Audio, Black Sun Empire
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*

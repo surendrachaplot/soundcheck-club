@@ -1,14 +1,13 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Breakfast Club #523 (Free Party)" on Mon, 16 Nov 2026.
+OneSixOne is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Nico Bloom - onesixone Thursday's" on Thu, 19 Nov 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Trace, Amber Ferraro, Ana Teles and Emel and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Trace, Amber Ferraro, Emel and Jay Ramon and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 16 Nov 2026 | Breakfast Club #523 (Free Party) | Ana Teles, Felipe Martinez |
 | Thu, 19 Nov 2026 | Nico Bloom - onesixone Thursday's |  |
 | Fri, 20 Nov 2026 | Yarra - onesixone | Adam Trace, Amber Ferraro, Jay Ramon, Yarra (2) |
 | Mon, 23 Nov 2026 | Breakfast Club #524 (Emel, Tsukimi + very special guests) | Emel, Jmcee |
@@ -19,4 +18,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, w
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Roadrunner, Boston on Fri, 20 Nov 2026.
+Sara Landry is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Roadrunner, Boston on Fri, 20 Nov 2026.
 
 Sara Landry is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside I Hate Models, Nico Moreno and 999999999. Next up: Roadrunner, Boston on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Sara Landry is a techno and house artist based in United States of America, with
 
 I Hate Models, Nico Moreno, 999999999
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

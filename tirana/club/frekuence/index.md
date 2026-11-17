@@ -1,6 +1,6 @@
 # Frekuence
 
-Frekuence is a music venue in Tirana with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Frekuence — Chic Creatures presents Genc Elezaj, BUTë and Leo" on Fri, 20 Nov 2026.
+Frekuence is a music venue in Tirana with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Frekuence — Chic Creatures presents Genc Elezaj, BUTë and Leo" on Fri, 20 Nov 2026.
 
 Frekuence is a music venue in Tirana listed on soundcheck. 3 upcoming gigs, with line-ups including DUNISHA, leo(AL), Nani Killa and XVIII. See dates, start times and who's playing. Kompleksi Fari, Tirana.
 
@@ -16,4 +16,4 @@ Frekuence is a music venue in Tirana listed on soundcheck. 3 upcoming gigs, with
 
 Kompleksi Fari, Tirana, Tirana
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/frekuence/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/frekuence/)*

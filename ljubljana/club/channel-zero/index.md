@@ -1,6 +1,6 @@
 # Channel Zero
 
-Channel Zero is a music venue in Ljubljana with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "DeepEnd! - 11 YEARS ANNIVERSARY" on Fri, 20 Nov 2026.
+Channel Zero is a music venue in Ljubljana with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "DeepEnd! - 11 YEARS ANNIVERSARY" on Fri, 20 Nov 2026.
 
 Channel Zero is a music venue in Ljubljana listed on soundcheck. 2 upcoming gigs, with line-ups including Krissønik, Marka San, Raketa (SL) and Steeevie. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Channel Zero is a music venue in Ljubljana listed on soundcheck. 2 upcoming gigs
 | Fri, 20 Nov 2026 | DeepEnd! - 11 YEARS ANNIVERSARY | Marka San, Raketa (SL) |
 | Fri, 4 Dec 2026 | AFERA • Steeevie, Krissønik, Zidane | Krissønik, Steeevie |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/channel-zero/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/channel-zero/)*

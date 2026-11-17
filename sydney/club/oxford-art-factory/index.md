@@ -1,6 +1,6 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "VENNA - SYDNEY - Oxford Art Factory" on Thu, 19 Nov 2026.
+Oxford Art Factory is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "VENNA - SYDNEY - Oxford Art Factory" on Thu, 19 Nov 2026.
 
 Oxford Art Factory is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including 4am Kru, Animistic Beliefs, Bambii and C.FRIM and 2 more. See dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
@@ -11,7 +11,7 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 11 upcoming 
 | Thu, 19 Nov 2026 | VENNA - SYDNEY - Oxford Art Factory |  |
 | Fri, 20 Nov 2026 | Marcel Dettmann & Gerd Janson [GER] | Gerd Janson, Marcel Dettmann |
 | Sun, 22 Nov 2026 | Ultra Naté - AUSTRALIA Tour 2026 | Ultra Naté |
-| Fri, 27 Nov 2026 | CELESTIA天体: Venesiaworld (SYD) | CLAIR (BAI) |
+| Fri, 27 Nov 2026 | CELESTIA天体: Venesiaworld (SYD) | CLAIR (BAI), Heelsontile |
 | Fri, 27 Nov 2026 | Litework Vol. 3 | IXNAEY |
 | Fri, 4 Dec 2026 | CLUBHAUS x The Door List: The Factory Party | Animistic Beliefs, C.FRIM, Cristal No.5, Haus of Ralph, MIRASIA, Rakish, Sriracha Czaddy |
 | Sat, 5 Dec 2026 | LF SYSTEM - SYDNEY | LF SYSTEM |
@@ -23,4 +23,4 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 11 upcoming 
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

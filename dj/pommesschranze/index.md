@@ -1,6 +1,6 @@
 # Pommes Schranze
 
-Pommes Schranze is a Pop artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Die Trompete, Bochum on Thu, 19 Nov 2026.
+Pommes Schranze is a Pop artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Die Trompete, Bochum on Thu, 19 Nov 2026.
 
 Pommes Schranze is a pop artist based in Germany, with 4 gigs on soundcheck across Bochum and Iserlohn. Next up: Die Trompete, Bochum on Thu 19 Nov.
 
@@ -16,4 +16,4 @@ Pommes Schranze is a pop artist based in Germany, with 4 gigs on soundcheck acro
 
 - Rotunde, Bochum · Sat, 14 Nov 2026
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pommesschranze/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pommesschranze/)*

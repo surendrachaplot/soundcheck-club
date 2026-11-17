@@ -1,6 +1,6 @@
 # Denes Toth
 
-Denes Toth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at MODULE, Copenhagen on Fri, 27 Nov 2026.
+Denes Toth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at MODULE, Copenhagen on Fri, 27 Nov 2026.
 
 Denes Toth is a house and techno artist based in Slovakia, with 66 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Konik (SK), Secret Factory and Baime. Next up: MODULE, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Denes Toth is a house and techno artist based in Slovakia, with 66 gigs on sound
 
 Konik (SK), Secret Factory, Baime
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*

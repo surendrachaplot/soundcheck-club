@@ -1,8 +1,8 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 27 Nov 2026.
+Gee Lane is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 27 Nov 2026.
 
-Gee Lane is a house and disco artist based in Spain, with 127 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 37 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Frankhan Selectist, Istanbul on Fri 27 Nov.
+Gee Lane is a house and disco artist based in Spain, with 128 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 37 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Frankhan Selectist, Istanbul on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gee Lane is a house and disco artist based in Spain, with 127 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 5 Dec 2026 | Nitsa Club | Barcelona |
+| Fri, 18 Dec 2026 | La Paloma | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gee Lane is a house and disco artist based in Spain, with 127 gigs on soundcheck
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

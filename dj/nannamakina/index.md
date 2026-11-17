@@ -1,8 +1,8 @@
 # Nanna Makina
 
-Nanna Makina is a Trance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Nanna Makina is a Trance and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Nanna Makina is a trance and hardcore artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow, Liverpool and Manchester. Often billed alongside MC Tazo, 2 Sick Puppiez and 2FEL. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
+Nanna Makina is a trance and hardcore artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow, Liverpool and Manchester. Often billed alongside DJ Zitkus, MC Tazo and 2 Sick Puppiez. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nanna Makina is a trance and hardcore artist based in United Kingdom, with 7 gig
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | The Classic Grand | Glasgow |
+| Fri, 1 Jan 2027 | Tempo | Glasgow |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Nanna Makina is a trance and hardcore artist based in United Kingdom, with 7 gig
 
 ## Shares bills with
 
-MC Tazo, 2 Sick Puppiez, 2FEL
+DJ Zitkus, MC Tazo, 2 Sick Puppiez
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*

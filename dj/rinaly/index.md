@@ -1,6 +1,6 @@
 # Rinaly
 
-Rinaly is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Rinaly is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Rinaly is a trance and techno artist based in Japan, with 8 gigs on soundcheck across Amsterdam, London, Miami and Minneapolis/St Paul and 1 more. Often billed alongside Somna, AMPRS&ND and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -24,4 +24,4 @@ Rinaly is a trance and techno artist based in Japan, with 8 gigs on soundcheck a
 
 Somna, AMPRS&ND, Adam Beyer
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*

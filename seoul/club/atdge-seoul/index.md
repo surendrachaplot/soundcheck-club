@@ -1,6 +1,6 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "KYVU, J.bin" on Wed, 18 Nov 2026.
+Atdge Seoul is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "KYVU, J.bin" on Wed, 18 Nov 2026.
 
 Atdge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including ccb, Haemi Park, Hwiah and J.bin and 2 more. See dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
@@ -18,4 +18,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, wit
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

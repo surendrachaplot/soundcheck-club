@@ -1,6 +1,6 @@
 # Tresor New Faces at Tresor / Globus
 
-Tresor New Faces at Tresor / Globus on Wed 23 Dec, Berlin. 4 artists: eveava, Fabian Kienzler, Nocturne and Short Finger. Techno and House. See the line-up on soundcheck.
+Tresor New Faces at Tresor / Globus on Wed 23 Dec, Berlin. 5 artists: 3RDV, eveava, Fabian Kienzler and Nocturne and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Tresor New Faces at Tresor / Globus on Wed 23 Dec, Berlin. 4 artists: eveava, Fa
 
 ## Line-up
 
+- 3RDV
 - eveava
 - Fabian Kienzler
 - Nocturne

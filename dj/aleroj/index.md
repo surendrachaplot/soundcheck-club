@@ -1,6 +1,6 @@
 # Aleroj
 
-Aleroj is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Strays, Detroit on Sat, 21 Nov 2026.
+Aleroj is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Strays, Detroit on Sat, 21 Nov 2026.
 
 Aleroj is a guaracha and latin bass artist based in Colombia, with 85 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogot and 29 more. Often billed alongside Isablu, 2AT and CRRDR. Next up: The Strays, Detroit on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Aleroj is a guaracha and latin bass artist based in Colombia, with 85 gigs on so
 
 Isablu, 2AT, CRRDR
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleroj/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleroj/)*

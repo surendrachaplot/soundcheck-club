@@ -1,6 +1,6 @@
 # Peckham Arches
 
-Peckham Arches is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "NYE Party" on Thu, 31 Dec 2026.
+Peckham Arches is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "NYE Party at Peckham Arches" on Thu, 31 Dec 2026.
 
 Peckham Arches is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Chinese Daughter. See dates, start times and who's playing. 213 Blenheim Grove, London, SE15 4QL.
 
@@ -8,10 +8,10 @@ Peckham Arches is a music venue in London listed on soundcheck. 1 upcoming gig, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 31 Dec 2026 | NYE Party | Chinese Daughter |
+| Thu, 31 Dec 2026 | NYE Party at Peckham Arches | Chinese Daughter |
 
 ## Address
 
 213 Blenheim Grove, London, SE15 4QL, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/peckham-arches/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/peckham-arches/)*

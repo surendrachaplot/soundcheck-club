@@ -1,6 +1,6 @@
 # The High Dive
 
-The High Dive is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Goth Night: Make Art! Not War." on Fri, 27 Nov 2026.
+The High Dive is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Goth Night: Make Art! Not War." on Fri, 27 Nov 2026.
 
 The High Dive is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -14,4 +14,4 @@ The High Dive is a music venue in Detroit listed on soundcheck. 1 upcoming gig. 
 
 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-high-dive/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-high-dive/)*

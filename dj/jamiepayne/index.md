@@ -1,13 +1,14 @@
 # Jamie Payne
 
-Jamie Payne is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at E1, London on Sun, 27 Dec 2026.
+Jamie Payne is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 93 Feet East, London on Sat, 19 Dec 2026.
 
-Jamie Payne is a tech house and deep house artist based in United Kingdom, with 5 gigs on soundcheck across Ibiza and London. Often billed alongside Ben Sterling, Bread & Butter and Chanel Carmichael. Next up: E1, London on Sun 27 Dec.
+Jamie Payne is a tech house and deep house artist based in United Kingdom, with 6 gigs on soundcheck across Ibiza and London. Often billed alongside Ben Sterling, Bread & Butter and Chanel Carmichael. Next up: 93 Feet East, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | 93 Feet East | London |
 | Sun, 27 Dec 2026 | E1 | London |
 
 ## Recently played
@@ -21,4 +22,4 @@ Jamie Payne is a tech house and deep house artist based in United Kingdom, with 
 
 Ben Sterling, Bread & Butter, Chanel Carmichael
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepayne/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepayne/)*

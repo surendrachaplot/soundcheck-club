@@ -1,6 +1,6 @@
 # zendo
 
-zendo is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ZEROTOKYO, Tokyo on Tue, 17 Nov 2026.
+zendo is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ZEROTOKYO, Tokyo on Tue, 17 Nov 2026.
 
 zendo is a hip-hop and bass artist, with 20 gigs on soundcheck across Leipzig and Tokyo. Often billed alongside ShioriyBradshaw, Gen Yamada and HIMAWARI. Next up: ZEROTOKYO, Tokyo on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ zendo is a hip-hop and bass artist, with 20 gigs on soundcheck across Leipzig an
 
 ShioriyBradshaw, Gen Yamada, HIMAWARI
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zendo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zendo/)*

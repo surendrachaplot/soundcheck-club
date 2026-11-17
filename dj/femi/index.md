@@ -1,6 +1,6 @@
 # Femi
 
-Femi is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Vespers Club, London on Sat, 21 Nov 2026.
+Femi is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Vespers Club, London on Sat, 21 Nov 2026.
 
 Femi is a club and pop artist based in Sweden, with 9 gigs on soundcheck across Amsterdam, Barcelona, London and Paris and 2 more. Often billed alongside Lokey, ALCATRAZ and Aemilius. Next up: Vespers Club, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Femi is a club and pop artist based in Sweden, with 9 gigs on soundcheck across 
 
 Lokey, ALCATRAZ, Aemilius
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femi/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femi/)*

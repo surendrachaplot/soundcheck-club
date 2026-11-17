@@ -1,6 +1,6 @@
 # Hyper Synthesized Surrender at Studio dB
 
-Hyper Synthesized Surrender at Studio dB on Fri 27 Nov, Berlin. 3 artists: Bungalovv, Mithril and XI-N. Ambient and Experimental. See the line-up on soundcheck.
+Hyper Synthesized Surrender at Studio dB on Fri 27 Nov, Berlin. 5 artists: Bungalovv, Mithril, Silk Touch and studio hot swap and 1 more. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Hyper Synthesized Surrender at Studio dB on Fri 27 Nov, Berlin. 3 artists: Bunga
 
 - Bungalovv
 - Mithril
+- Silk Touch
+- studio hot swap
 - XI-N
 
 *Source: [soundcheck](https://soundcheck.club/e/2571079-hyper-synthesized-surrender-at-studio-db/)*

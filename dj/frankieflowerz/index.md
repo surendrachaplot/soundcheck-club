@@ -1,14 +1,13 @@
 # Frankie Flowerz
 
-Frankie Flowerz is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at KitKatClub, Berlin on Mon, 16 Nov 2026.
+Frankie Flowerz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at KitKatClub, Berlin on Mon, 23 Nov 2026.
 
-Frankie Flowerz is a techno and house artist based in Germany, with 215 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Madrid and 2 more. Often billed alongside Diego Montiel, Norman Weber and Diana May. Next up: KitKatClub, Berlin on Mon 16 Nov.
+Frankie Flowerz is a techno and house artist based in Germany, with 215 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Madrid and 2 more. Often billed alongside Diego Montiel, Norman Weber and Diana May. Next up: KitKatClub, Berlin on Mon 23 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 16 Nov 2026 | KitKatClub | Berlin |
 | Mon, 23 Nov 2026 | KitKatClub | Berlin |
 | Mon, 30 Nov 2026 | KitKatClub | Berlin |
 | Mon, 7 Dec 2026 | KitKatClub | Berlin |
@@ -16,6 +15,7 @@ Frankie Flowerz is a techno and house artist based in Germany, with 215 gigs on 
 
 ## Recently played
 
+- KitKatClub, Berlin · Mon, 16 Nov 2026
 - KitKatClub, Berlin · Mon, 9 Nov 2026
 - KitKatClub, Berlin · Mon, 2 Nov 2026
 - KitKatClub, Berlin · Mon, 26 Oct 2026
@@ -23,10 +23,9 @@ Frankie Flowerz is a techno and house artist based in Germany, with 215 gigs on 
 - KitKatClub, Berlin · Mon, 12 Oct 2026
 - KitKatClub, Berlin · Mon, 5 Oct 2026
 - KitKatClub, Berlin · Mon, 28 Sept 2026
-- KitKatClub, Berlin · Mon, 21 Sept 2026
 
 ## Shares bills with
 
 Diego Montiel, Norman Weber, Diana May
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieflowerz/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieflowerz/)*

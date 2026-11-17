@@ -1,14 +1,15 @@
 # EYRA
 
-EYRA is a Latin Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
+EYRA is a Latin Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
 
-EYRA is a latin bass and experimental artist based in United Kingdom, with 39 gigs on soundcheck across Barcelona, Berlin and Lisbon. Often billed alongside MUCK, Just Claudia and Chica Acosta. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 28 Nov.
+EYRA is a latin bass and experimental artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Berlin and Lisbon. Often billed alongside MUCK, Just Claudia and Chica Acosta. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
+| Sat, 28 Nov 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ EYRA is a latin bass and experimental artist based in United Kingdom, with 39 gi
 
 MUCK, Just Claudia, Chica Acosta
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyra/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyra/)*

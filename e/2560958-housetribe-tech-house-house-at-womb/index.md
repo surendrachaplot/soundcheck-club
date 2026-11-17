@@ -1,6 +1,6 @@
 # HOUSETRIBE (TECH HOUSE / HOUSE) at WOMB
 
-HOUSETRIBE (TECH HOUSE / HOUSE) at WOMB on Sat 21 Nov, Tokyo. 10 artists: Addiy, AIBA, ANZU and CARTOON and 6 more. House and Tech House. See the line-up on soundcheck.
+HOUSETRIBE (TECH HOUSE / HOUSE) at WOMB on Sat 21 Nov, Tokyo. 11 artists: Addiy, AIBA, ANZU and CARTOON and 7 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ HOUSETRIBE (TECH HOUSE / HOUSE) at WOMB on Sat 21 Nov, Tokyo. 10 artists: Addiy,
 - CARTOON
 - Chika Luna
 - Dan Miyagishi
+- Elena Berry
 - HiTOMi
 - Nausica
 - PUNK N MATRIX

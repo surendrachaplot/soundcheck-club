@@ -1,6 +1,6 @@
 # Foxy Nora
 
-Foxy Nora is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 21 Nov 2026.
+Foxy Nora is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 21 Nov 2026.
 
 Foxy Nora is a house and funk / soul artist based in United States of America, with 17 gigs on soundcheck across Baltimore and Philadelphia. Often billed alongside ADAB, CalvoMusic and Cubby. Next up: Warehouse on Watts, Philadelphia on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Foxy Nora is a house and funk / soul artist based in United States of America, w
 
 ADAB, CalvoMusic, Cubby
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foxynora/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foxynora/)*

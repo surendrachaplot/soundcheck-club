@@ -1,6 +1,6 @@
 # Mousetwat
 
-Mousetwat is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Crybaby, San Francisco/Oakland on Sat, 21 Nov 2026.
+Mousetwat is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Crybaby, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Mousetwat is a club and bass artist based in United States of America, with 3 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Bbymutha, DJ Ari B and Joogmac. Next up: Crybaby, San Francisco/Oakland on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Mousetwat is a club and bass artist based in United States of America, with 3 gi
 
 Bbymutha, DJ Ari B, Joogmac
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousetwat/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousetwat/)*

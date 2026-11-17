@@ -1,6 +1,6 @@
 # Kabasa
 
-Kabasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Charlie, Munich on Fri, 18 Dec 2026.
+Kabasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Charlie, Munich on Fri, 18 Dec 2026.
 
 Kabasa is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Berlin, Munich and Tokyo. Often billed alongside LION (DE), mojo and -AKARI-. Next up: Charlie, Munich on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Kabasa is a house and techno artist based in United States of America, with 10 g
 
 LION (DE), mojo, -AKARI-
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabasa/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabasa/)*

@@ -1,6 +1,6 @@
 # Naboklage
 
-Naboklage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Jaeger, Oslo on Wed, 18 Nov 2026.
+Naboklage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Jaeger, Oslo on Wed, 18 Nov 2026.
 
 Naboklage is a techno and house artist based in Norway, with 38 gigs on soundcheck across Amsterdam, Bergen, Budapest and Copenhagen and 1 more. Often billed alongside Skodde, Komet99 and G-HA. Next up: Jaeger, Oslo on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Naboklage is a techno and house artist based in Norway, with 38 gigs on soundche
 
 Skodde, Komet99, G-HA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*

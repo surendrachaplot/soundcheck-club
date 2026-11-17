@@ -1,6 +1,6 @@
 # GRETA (2)
 
-GRETA (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 11 Dec 2026.
+GRETA (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 11 Dec 2026.
 
 GRETA is a house and techno artist based in Italy, with 65 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 4 more. Often billed alongside ki:ke, Ramî and Julian Feierabend. Next up: Crack Bellmer, Berlin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ GRETA is a house and techno artist based in Italy, with 65 gigs on soundcheck ac
 
 ki:ke, Ramî, Julian Feierabend
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*

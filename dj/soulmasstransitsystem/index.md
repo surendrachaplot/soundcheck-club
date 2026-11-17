@@ -1,6 +1,6 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at block., Dublin on Sat, 21 Nov 2026.
+Soul Mass Transit System is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at block., Dublin on Sat, 21 Nov 2026.
 
 Soul Mass Transit System is a garage and house artist based in United Kingdom, with 167 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Faster Horses. Next up: block., Dublin on Sat 21 Nov.
 
@@ -34,4 +34,4 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 Silva Bumpa, Dr Dubplate, Faster Horses
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

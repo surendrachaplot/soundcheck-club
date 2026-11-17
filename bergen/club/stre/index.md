@@ -1,6 +1,6 @@
 # Østre
 
-Østre is a music venue in Bergen with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Ekko pres. Elori Saxl og Henry Solomon «Seeing is Forgetting»" on Wed, 18 Nov 2026.
+Østre is a music venue in Bergen with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Ekko pres. Elori Saxl og Henry Solomon «Seeing is Forgetting»" on Wed, 18 Nov 2026.
 
 Østre is a music venue in Bergen listed on soundcheck. 4 upcoming gigs, with line-ups including Dis Fig, Hildisvini, Reckless Kettle and upsammy. See dates, start times and who's playing. Østre Skostredet 3; 5017 Bergen; Norway.
 
@@ -17,4 +17,4 @@
 
 Østre Skostredet 3; 5017 Bergen; Norway, Bergen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*

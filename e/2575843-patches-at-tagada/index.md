@@ -1,6 +1,6 @@
 # Patches at Tagada
 
-Patches at Tagada on Sat 28 Nov, Vienna. 3 artists: dj ayran, Meander and Philo_. Breakbeat and Club. See the line-up on soundcheck.
+Patches at Tagada on Sat 28 Nov, Vienna. 4 artists: dj ayran, Meander, Philo_ and Tursa. Breakbeat and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Patches at Tagada on Sat 28 Nov, Vienna. 3 artists: dj ayran, Meander and Philo_
 - dj ayran
 - Meander (1)
 - Philo_
+- Tursa
 
 *Source: [soundcheck](https://soundcheck.club/e/2575843-patches-at-tagada/)*

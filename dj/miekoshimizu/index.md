@@ -1,8 +1,8 @@
 # Mieko Shimizu
 
-Mieko Shimizu is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
+Mieko Shimizu is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
 
-Mieko Shimizu is an experimental and idm artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Dhangsha, Axon and Benge. Next up: All is Joy Studios, London on Sat 28 Nov.
+Mieko Shimizu is an experimental and idm artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Dhangsha, Agnes Haus and Axon. Next up: All is Joy Studios, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Mieko Shimizu is an experimental and idm artist based in United Kingdom, with 5 
 
 ## Shares bills with
 
-Dhangsha, Axon, Benge
+Dhangsha, Agnes Haus, Axon
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miekoshimizu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miekoshimizu/)*

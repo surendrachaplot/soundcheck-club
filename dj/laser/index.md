@@ -1,13 +1,14 @@
 # Laser
 
-Laser is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Osaka, Japan, Osaka on Thu, 15 Apr 2027.
+Laser is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at R Lounge, Tokyo on Sat, 12 Dec 2026.
 
-Laser is a techno and hip-hop artist based in Italy, with 11 gigs on soundcheck across Kyoto, Milan, New York City and Osaka and 1 more. Often billed alongside GS Projekt, LØST and Yoshitaka Shirakura. Next up: TBA - Osaka, Japan, Osaka on Thu 15 Apr.
+Laser is a techno and hip-hop artist based in Italy, with 12 gigs on soundcheck across Kyoto, Milan, New York City and Osaka and 1 more. Often billed alongside GS Projekt, LØST and Yoshitaka Shirakura. Next up: R Lounge, Tokyo on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | R Lounge | Tokyo |
 | Thu, 15 Apr 2027 | TBA - Osaka, Japan | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ Laser is a techno and hip-hop artist based in Italy, with 11 gigs on soundcheck 
 
 GS Projekt, LØST, Yoshitaka Shirakura
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laser/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laser/)*

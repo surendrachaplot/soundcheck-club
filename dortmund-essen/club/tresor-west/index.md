@@ -1,6 +1,6 @@
 # Tresor.West
 
-Tresor.West is a music venue in Dortmund / Essen with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Tresor.West The Last Days" on Sat, 21 Nov 2026.
+Tresor.West is a music venue in Dortmund / Essen with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Tresor.West The Last Days" on Sat, 21 Nov 2026.
 
 Tresor.West is a music venue in Dortmund / Essen listed on soundcheck. 3 upcoming gigs, with line-ups including Justine Perry, Ahmet Sisman, Anuli and Benjamin Damage and 2 more. See dates, start times and who's playing. Phoenixplatz 4, 44263 Dortmund.
 
@@ -16,4 +16,4 @@ Tresor.West is a music venue in Dortmund / Essen listed on soundcheck. 3 upcomin
 
 Phoenixplatz 4, 44263 Dortmund, Dortmund / Essen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/tresor-west/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/tresor-west/)*

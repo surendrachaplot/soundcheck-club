@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "CC:DISCO" on Fri, 20 Nov 2026.
+VENT is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "CC:DISCO" on Fri, 20 Nov 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including 50Minimals, AI, AKIRAM EN and ANNĒ and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -15,7 +15,7 @@ VENT is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line
 | Fri, 4 Dec 2026 | Cleric / Clergy Records × RHYTOS | Cleric, DANA NADA, Habgud, Herbalistek, JOMA (2), Kent Oria, lostbaggage, 大陸/Riku (2) |
 | Sat, 5 Dec 2026 | CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents | Carrier, DJ Python, Lil Mofo |
 | Fri, 11 Dec 2026 | Kangding Ray / MIND OFF | Dani Savant, Kangding Ray |
-| Sat, 12 Dec 2026 | Batu , Haruka , AKIRAM EN / VENT 10th Anniversary | AKIRAM EN, Batu, Bundo, Crazy Neo, Haruka, NITA, Nova |
+| Sat, 12 Dec 2026 | Batu , Haruka , AKIRAM EN / VENT 10th Anniversary | AKIRAM EN, Batu, Bundo, Crazy Neo, Haruka, Kai Galactic, NITA, Nova |
 | Fri, 18 Dec 2026 | KIA / TOGENKYO | 50Minimals, Kia (DE), Kimgundi, MAYURASHKA, Manaha |
 | Sat, 19 Dec 2026 | Garrett David , Tomoki Tamura / QUERICO x YOYAKU | Garrett David, Tomoki Tamura |
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

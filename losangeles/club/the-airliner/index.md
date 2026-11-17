@@ -1,6 +1,6 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "VINSON presents: Good Company" on Tue, 17 Nov 2026.
+The Airliner is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "VINSON presents: Good Company" on Tue, 17 Nov 2026.
 
 The Airliner is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Ava Blank, Ben Dragon, Juliet Mendoza and liv.fl0 and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
@@ -18,4 +18,4 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 5 upcoming gi
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

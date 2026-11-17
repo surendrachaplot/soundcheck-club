@@ -1,6 +1,6 @@
 # Ivan Logos
 
-Ivan Logos is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
+Ivan Logos is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
 
 Ivan Logos is a techno and industrial artist, with 5 gigs on soundcheck across Bangkok, Barcelona, Saint Petersburg and Thailand. Often billed alongside Amal, Ancient Methods and Andi. Next up: Stepan Razin Factory, Saint Petersburg on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Ivan Logos is a techno and industrial artist, with 5 gigs on soundcheck across B
 
 Amal, Ancient Methods, Andi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanlogos/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanlogos/)*

@@ -1,6 +1,6 @@
 # Club 1
 
-Club 1 is a music venue in Santiago with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "19 de Noviembre en CLUB 1: FRVNCCSCV - Machromel" on Thu, 19 Nov 2026.
+Club 1 is a music venue in Santiago with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "19 de Noviembre en CLUB 1: FRVNCCSCV - Machromel" on Thu, 19 Nov 2026.
 
 Club 1 is a music venue in Santiago listed on soundcheck. 4 upcoming gigs, with line-ups including Andrea Riffo and FRVNCCSCV. See dates, start times and who's playing. Bombero Nuñez 1. Recoleta..
 
@@ -9,7 +9,7 @@ Club 1 is a music venue in Santiago listed on soundcheck. 4 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | 19 de Noviembre en CLUB 1: FRVNCCSCV - Machromel | FRVNCCSCV |
-| Sat, 21 Nov 2026 | 21 de Noviembre en CLUB 1: Colorblind - Eterenoretorno - Xia |  |
+| Sat, 21 Nov 2026 | 21 de Noviembre en CLUB 1: Coolorblind - Eternoretorno - Xia |  |
 | Fri, 27 Nov 2026 | 27 de Noviembre en CLUB 1: Jeremías Hinojosa - Naboru - Tokio |  |
 | Sat, 28 Nov 2026 | 28 de Noviembre en CLUB 1: [CLUB 1 x Hebi] Andrea Riffo - Joaks - Oblivion | Andrea Riffo |
 
@@ -17,4 +17,4 @@ Club 1 is a music venue in Santiago listed on soundcheck. 4 upcoming gigs, with 
 
 Bombero Nuñez 1. Recoleta., Santiago
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*

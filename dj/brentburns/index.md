@@ -1,6 +1,6 @@
 # Brent Burns
 
-Brent Burns is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Dual, Bangkok on Fri, 20 Nov 2026.
+Brent Burns is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Dual, Bangkok on Fri, 20 Nov 2026.
 
 Brent Burns is a house and techno artist based in Thailand, with 91 gigs on soundcheck across Bangkok, Budapest, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside Seelie, Mumsfilibaba and Mr.Mowgli. Next up: Dual, Bangkok on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Brent Burns is a house and techno artist based in Thailand, with 91 gigs on soun
 
 Seelie, Mumsfilibaba, Mr.Mowgli
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brentburns/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brentburns/)*

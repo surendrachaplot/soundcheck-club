@@ -1,6 +1,6 @@
 # SOHO ELECTRONIC 2026 at All is Joy Studios
 
-SOHO ELECTRONIC 2026 at All is Joy Studios on Sat 28 Nov, London. 8 artists: Axon, Cosmic Kazannik, DJ S (UK) and lifeloose and 4 more. Experimental and Electronica. See the line-up on soundcheck.
+SOHO ELECTRONIC 2026 at All is Joy Studios on Sat 28 Nov, London. 9 artists: Agnes Haus, Axon, Cosmic Kazannik and DJ S (UK) and 5 more. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SOHO ELECTRONIC 2026 at All is Joy Studios on Sat 28 Nov, London. 8 artists: Axo
 
 ## Line-up
 
+- Agnes Haus
 - Axon
 - Cosmic Kazannik
 - DJ S (UK)

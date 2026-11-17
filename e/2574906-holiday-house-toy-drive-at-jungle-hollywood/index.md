@@ -1,6 +1,6 @@
 # Holiday House Toy Drive at Jungle Hollywood
 
-Holiday House Toy Drive at Jungle Hollywood on Sat 12 Dec, Los Angeles. 4 artists: DJ Colette, DJ Dazy, Joel DeMarzo and Thee-O. House and Deep House. See the line-up on soundcheck.
+Holiday House Toy Drive at Jungle Hollywood on Sat 12 Dec, Los Angeles. 5 artists: Cory Wells, DJ Colette, DJ Dazy and Joel DeMarzo and 1 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Holiday House Toy Drive at Jungle Hollywood on Sat 12 Dec, Los Angeles. 4 artist
 
 ## Line-up
 
+- Cory Wells
 - DJ Colette
 - DJ Dazy
 - Joel DeMarzo

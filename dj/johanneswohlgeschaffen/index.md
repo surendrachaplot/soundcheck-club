@@ -1,15 +1,14 @@
 # Johannes Wohlgeschaffen
 
-Johannes Wohlgeschaffen is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 21 Nov 2026.
+Johannes Wohlgeschaffen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 21 Nov 2026.
 
-Johannes Wohlgeschaffen is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside DJ Sweedee, Lisek and OCIN. Next up: Lokschuppen Berlin, Berlin on Sat 21 Nov.
+Johannes Wohlgeschaffen is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside DJ Sweedee, Lisek and OCIN. Next up: Lokschuppen Berlin, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Lokschuppen Berlin | Berlin |
-| Sun, 6 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Johannes Wohlgeschaffen is a techno and trance artist based in Germany, with 16 
 
 DJ Sweedee, Lisek, OCIN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johanneswohlgeschaffen/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johanneswohlgeschaffen/)*

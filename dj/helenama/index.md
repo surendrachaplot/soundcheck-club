@@ -1,6 +1,6 @@
 # Helena Ma
 
-Helena Ma is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at POTENT, Shanghai on Sat, 21 Nov 2026.
+Helena Ma is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at POTENT, Shanghai on Sat, 21 Nov 2026.
 
 Helena Ma is a techno and trance artist based in United States of America, with 3 gigs on soundcheck across New York City and Shanghai. Often billed alongside Daybreak, Clarisa Kimskii and James Newmarch. Next up: POTENT, Shanghai on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Helena Ma is a techno and trance artist based in United States of America, with 
 
 Daybreak, Clarisa Kimskii, James Newmarch
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenama/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenama/)*

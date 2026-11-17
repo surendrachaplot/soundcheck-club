@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Spineria rec. Takeover" on Fri, 20 Nov 2026.
+Giselle is a music venue in Düsseldorf with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Spineria rec. Takeover" on Fri, 20 Nov 2026.
 
 Giselle is a music venue in Düsseldorf listed on soundcheck. 10 upcoming gigs, with line-ups including Bergen (DE), Daniel Fritschi, Felix Klatt and Mille (DE) and 2 more. See dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -23,4 +23,4 @@ Giselle is a music venue in Düsseldorf listed on soundcheck. 10 upcoming gigs, 
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

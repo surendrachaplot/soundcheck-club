@@ -1,8 +1,8 @@
 # umru
 
-umru is a Club and Pop artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kingdom Nightclub, Austin on Fri, 20 Nov 2026.
+umru is a Club and Pop artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kingdom Nightclub, Austin on Fri, 20 Nov 2026.
 
-umru is a club and pop artist based in United States of America, with 175 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 56 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Kingdom Nightclub, Austin on Fri 20 Nov.
+umru is a club and pop artist based in United States of America, with 176 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 56 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Kingdom Nightclub, Austin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ umru is a club and pop artist based in United States of America, with 175 gigs o
 | Fri, 20 Nov 2026 | Kingdom Nightclub | Austin |
 | Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Fri, 27 Nov 2026 | Mooi Space | Toronto |
+| Sat, 12 Dec 2026 | Neck of the Woods | Auckland |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Thu, 31 Dec 2026 | Concord Music Hall | Chicago |
 | Fri, 8 Jan 2027 | 1015 Folsom | San Francisco/Oakland |
@@ -30,4 +31,4 @@ umru is a club and pop artist based in United States of America, with 175 gigs o
 
 Petal Supply, Ninajirachi, GRRL
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

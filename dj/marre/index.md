@@ -1,14 +1,15 @@
 # MARRE
 
-MARRE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
+MARRE is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
 
-MARRE is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Berlin, Brandenburg, Leipzig and Mecklenburg Vorpommern and 1 more. Often billed alongside Erebos, EMZN and maedchenballern. Next up: Siggi, Brandenburg on Sat 28 Nov.
+MARRE is a techno and trance artist based in Germany, with 39 gigs on soundcheck across Berlin, Brandenburg, Leipzig and Mecklenburg Vorpommern and 1 more. Often billed alongside Erebos, maedchenballern and EMZN. Next up: Siggi, Brandenburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Siggi | Brandenburg |
+| Sat, 19 Dec 2026 | ROSA | Berlin |
 | Tue, 22 Dec 2026 | Der Weiße Hase | Berlin |
 | Fri, 8 Jan 2027 | AMT | Berlin |
 
@@ -25,6 +26,6 @@ MARRE is a techno and trance artist based in Germany, with 38 gigs on soundcheck
 
 ## Shares bills with
 
-Erebos, EMZN, maedchenballern
+Erebos, maedchenballern, EMZN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marre/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marre/)*

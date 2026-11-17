@@ -1,6 +1,6 @@
 # Sundae Suki
 
-Sundae Suki is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Avalon Lounge, New York City on Sat, 21 Nov 2026.
+Sundae Suki is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Avalon Lounge, New York City on Sat, 21 Nov 2026.
 
 Sundae Suki is a house and trance artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Baby Prince, Lemz and RTMC. Next up: The Avalon Lounge, New York City on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Sundae Suki is a house and trance artist based in United States of America, with
 
 Baby Prince, Lemz, RTMC
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaesuki/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaesuki/)*

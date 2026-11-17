@@ -1,8 +1,8 @@
 # Chicane
 
-Chicane is a Trance and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 28 Nov 2026.
+Chicane is a Trance and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 28 Nov 2026.
 
-Chicane is a trance and house artist based in United Kingdom, with 33 gigs on soundcheck across Belfast, Brighton, Brisbane and Bristol and 16 more. Often billed alongside Leena Punks, Seb Fontaine and Amy Wiles. Next up: Joshua Brooks, Manchester on Sat 28 Nov.
+Chicane is a trance and house artist based in United Kingdom, with 35 gigs on soundcheck across Belfast, Brighton, Brisbane and Bristol and 16 more. Often billed alongside Leena Punks, Seb Fontaine and Amy Wiles. Next up: Joshua Brooks, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,9 +11,11 @@ Chicane is a trance and house artist based in United Kingdom, with 33 gigs on so
 | Sat, 28 Nov 2026 | Joshua Brooks | Manchester |
 | Fri, 22 Jan 2027 | Hotel Brunswick | Byron-bay |
 | Sat, 23 Jan 2027 | The Shed, Ozworld | Gold-coast |
+| Sat, 23 Jan 2027 | The Shed | Brisbane |
 | Sun, 24 Jan 2027 | Burleigh Town Hotel | Queensland |
 | Fri, 29 Jan 2027 | The Warehouse Townsville | Queensland |
 | Sat, 30 Jan 2027 | Gilligan's Hotel & Resort | Queensland |
+| Sat, 30 Jan 2027 | Gilligan's Backpackers Hotel & Resort | Brisbane |
 | Sat, 6 Feb 2027 | The Timber Yard | Melbourne |
 | Sat, 13 Feb 2027 | The Ivy | Sydney |
 | Sat, 20 Feb 2027 | Hotel Steyne | Sydney |
@@ -34,4 +36,4 @@ Chicane is a trance and house artist based in United Kingdom, with 33 gigs on so
 
 Leena Punks, Seb Fontaine, Amy Wiles
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicane/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicane/)*

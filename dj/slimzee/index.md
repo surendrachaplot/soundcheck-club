@@ -1,14 +1,13 @@
 # Slimzee
 
-Slimzee is a Grime and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Slimzee is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Gretchen, Berlin on Sat, 21 Nov 2026.
 
-Slimzee is a grime and garage artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Riko Dan, Boylan and MJK. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
+Slimzee is a grime and garage artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Riko Dan, Boylan and MJK. Next up: Gretchen, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 21 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Slimzee is a grime and garage artist based in United Kingdom, with 57 gigs on so
 
 Riko Dan, Boylan, MJK
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimzee/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimzee/)*

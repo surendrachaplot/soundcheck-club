@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 23 Dec, Berlin. 7 artists: Ankit, ANML FIT, Blck-Swan and Danny Subsonic and 3 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 23 Dec, Berlin. 8 artists: Ankit, ANML FIT, Blck-Swan and Danny Subsonic and 4 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ TECHNO MITTWOCH at Sensorium on Wed 23 Dec, Berlin. 7 artists: Ankit, ANML FIT, 
 - el Capitan
 - EVYA
 - Samo Rane
+- SULTXN
 
 *Source: [soundcheck](https://soundcheck.club/e/2518140-techno-mittwoch-at-sensorium/)*

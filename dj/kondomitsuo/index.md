@@ -1,13 +1,14 @@
 # KONDO Mitsuo
 
-KONDO Mitsuo is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Noon + Cafe, Osaka on Fri, 4 Dec 2026.
+KONDO Mitsuo is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 29 Nov 2026.
 
-KONDO Mitsuo is a deep house and house artist based in Japan, with 106 gigs on soundcheck across Osaka. Often billed alongside yu-more, Junki Akutagawa and aqtagawa. Next up: Noon + Cafe, Osaka on Fri 4 Dec.
+KONDO Mitsuo is a deep house and house artist based in Japan, with 107 gigs on soundcheck across Osaka and Tokyo. Often billed alongside yu-more, Junki Akutagawa and aqtagawa. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Fri, 4 Dec 2026 | Noon + Cafe | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ KONDO Mitsuo is a deep house and house artist based in Japan, with 106 gigs on s
 
 yu-more, Junki Akutagawa, aqtagawa
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kondomitsuo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kondomitsuo/)*

@@ -1,8 +1,8 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Movers, Nottingham on Thu, 19 Nov 2026.
+Grace Sands is a House and Deep House artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Movers, Nottingham on Thu, 19 Nov 2026.
 
-Grace Sands is a house and deep house artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 24 more. Often billed alongside Roi Perez, Stuart Patterson and Angel D'lite. Next up: Movers, Nottingham on Thu 19 Nov.
+Grace Sands is a house and deep house artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 24 more. Often billed alongside Roi Perez, Stuart Patterson and Angel D'lite. Next up: Movers, Nottingham on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 157 g
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Movers | Nottingham |
 | Fri, 27 Nov 2026 | Paloma | Berlin |
+| Sat, 5 Dec 2026 | The Cause | London |
 | Fri, 11 Dec 2026 | Colour Factory | London |
 | Sun, 13 Dec 2026 | The Ministry | London |
 | Fri, 18 Dec 2026 | Arch 14 | London |
@@ -32,4 +33,4 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 157 g
 
 Roi Perez, Stuart Patterson, Angel D'lite
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

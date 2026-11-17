@@ -1,13 +1,14 @@
 # Miss Kittin
 
-Miss Kittin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Sala Cocó, Madrid on Sat, 5 Dec 2026.
+Miss Kittin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 28 Nov 2026.
 
-Miss Kittin is a techno and house artist based in France, with 113 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: Sala Cocó, Madrid on Sat 5 Dec.
+Miss Kittin is a techno and house artist based in France, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: Peti Kupe, Zagreb on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Peti Kupe | Zagreb |
 | Sat, 5 Dec 2026 | Sala Cocó | Madrid |
 | Sat, 19 Dec 2026 | Warehouse | Nantes |
 | Fri, 1 Jan 2027 | C12 | Brussels |
@@ -27,4 +28,4 @@ Miss Kittin is a techno and house artist based in France, with 113 gigs on sound
 
 The Hacker, BASHKKA, JakoJako
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*

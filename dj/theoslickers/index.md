@@ -1,6 +1,6 @@
 # Theo Slickers
 
-Theo Slickers is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Void Club, Berlin on Fri, 18 Dec 2026.
+Theo Slickers is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Void Club, Berlin on Fri, 18 Dec 2026.
 
 Theo Slickers is a drum & bass and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Anna Hoeber, Antiquis Anima and Katja Kilig. Next up: Void Club, Berlin on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Theo Slickers is a drum & bass and techno artist based in Germany, with 5 gigs o
 
 Anna Hoeber, Antiquis Anima, Katja Kilig
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoslickers/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoslickers/)*

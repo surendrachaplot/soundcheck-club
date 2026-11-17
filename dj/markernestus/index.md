@@ -1,6 +1,6 @@
 # Mark Ernestus
 
-Mark Ernestus is a Dub Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Fidelity Studio, Dublin on Fri, 20 Nov 2026.
+Mark Ernestus is a Dub Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fidelity Studio, Dublin on Fri, 20 Nov 2026.
 
 Mark Ernestus is a dub techno and dub artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: Fidelity Studio, Dublin on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Mark Ernestus is a dub techno and dub artist based in Germany, with 38 gigs on s
 
 CCL, Objekt, Arthur (DE)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*

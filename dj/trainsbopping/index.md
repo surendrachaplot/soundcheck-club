@@ -1,6 +1,6 @@
 # trainsbopping
 
-trainsbopping is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at M.O.T, London on Thu, 11 Feb 2027.
+trainsbopping is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at M.O.T, London on Thu, 11 Feb 2027.
 
 trainsbopping is a hardcore and breakcore artist based in United Kingdom, with 5 gigs on soundcheck across Leeds and London. Often billed alongside ANT1, B1OS and Jawrs. Next up: M.O.T, London on Thu 11 Feb.
 
@@ -21,4 +21,4 @@ trainsbopping is a hardcore and breakcore artist based in United Kingdom, with 5
 
 ANT1 (2), B1OS, Jawrs
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trainsbopping/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trainsbopping/)*

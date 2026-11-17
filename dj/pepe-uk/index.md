@@ -1,14 +1,15 @@
 # Pépe
 
-Pépe is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
+Pépe is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
 
-Pépe is an electronica and techno artist based in Spain, with 35 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Baldman, Just Claudia and AINES. Next up: TBA -  LFO, Madrid on Sat 21 Nov.
+Pépe is an electronica and techno artist based in Spain, with 36 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Baldman, Just Claudia and EYRA. Next up: TBA -  LFO, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA -  LFO | Madrid |
+| Sat, 28 Nov 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Pépe is an electronica and techno artist based in Spain, with 35 gigs on soundc
 
 ## Shares bills with
 
-Baldman, Just Claudia, AINES
+Baldman, Just Claudia, EYRA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepe-uk/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepe-uk/)*

@@ -1,6 +1,6 @@
 # southstar at EXIL
 
-southstar at EXIL on Fri 20 Nov, Zurich. 1 artist: southstar. See the line-up on soundcheck.
+southstar at EXIL on Fri 20 Nov, Zurich. 2 artists: Jess Mawi and southstar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ southstar at EXIL on Fri 20 Nov, Zurich. 1 artist: southstar. See the line-up on
 
 ## Line-up
 
+- Jess Mawi
 - southstar
 
 *Source: [soundcheck](https://soundcheck.club/e/2505578-southstar-at-exil/)*

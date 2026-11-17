@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "ERA: N&O + Maper" on Thu, 19 Nov 2026.
+Oven Club is a music venue in Valencia with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "ERA: N&O + Maper" on Thu, 19 Nov 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, with line-ups including Camion Bazar, CAMMMMM, Chico Blanco and Elena Megi and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -19,4 +19,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, wi
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

@@ -1,13 +1,17 @@
 # Ductwork Houston
 
-Ductwork Houston is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Eric Prydz" on Sat, 7 Nov 2026.
+Ductwork Houston is a music venue in Houston with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Afrojack" on Fri, 20 Nov 2026.
 
-Ductwork Houston is a music venue in Houston listed on soundcheck. 1 upcoming gig, with line-ups including Eric Prydz. See dates, start times and who's playing.
+Ductwork Houston is a music venue in Houston listed on soundcheck. 5 upcoming gigs, with line-ups including Afrojack, Deorro, HNTR and Sport Mode. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Eric Prydz | Eric Prydz |
+| Fri, 20 Nov 2026 | Afrojack | Afrojack, HNTR |
+| Sat, 21 Nov 2026 | Crankdat |  |
+| Sun, 22 Nov 2026 | Crankdat | Sport Mode |
+| Fri, 27 Nov 2026 | Deorro | Deorro |
+| Sat, 28 Nov 2026 | Deathpact |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/ductwork-houston/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/ductwork-houston/)*

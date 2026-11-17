@@ -1,6 +1,6 @@
 # Col the Doctor
 
-Col the Doctor is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Planet Wax, London on Thu, 19 Nov 2026.
+Col the Doctor is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Planet Wax, London on Thu, 19 Nov 2026.
 
 Col the Doctor is a bass and experimental artist based in Canada, with 4 gigs on soundcheck across Bristol, London and Vancouver. Often billed alongside Vic Parker, Bronwyn and Vasho. Next up: Planet Wax, London on Thu 19 Nov.
 
@@ -20,4 +20,4 @@ Col the Doctor is a bass and experimental artist based in Canada, with 4 gigs on
 
 Vic Parker, Bronwyn, Vasho
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colthedoctor/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colthedoctor/)*

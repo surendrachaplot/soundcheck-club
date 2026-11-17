@@ -1,6 +1,6 @@
-# Snug 10 Year Anniversary x Horn at Horn
+# Snug 10-Year Anniversary x Horn at Horn
 
-Snug 10 Year Anniversary x Horn on Fri 11 Dec, Bangkok. 3 artists: Brownie Popkens, Jacob Meehan and Joe Delon. House. See the line-up on soundcheck.
+Snug 10-Year Anniversary x Horn on Fri 11 Dec, Bangkok. 3 artists: Brownie Popkens, Jacob Meehan and Joe Delon. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "RUI HAYAKAWA/STACK/Manaha" on Mon, 16 Nov 2026.
+Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Hii/煌/rikuto/Shinsuke Goto" on Tue, 17 Nov 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including David Fogarty, DJ Zenta, Iori and levolant and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including David Fogarty, DJ Zenta, Iori and levolant and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 16 Nov 2026 | RUI HAYAKAWA/STACK/Manaha | Manaha |
 | Tue, 17 Nov 2026 | Hii/煌/rikuto/Shinsuke Goto | Shinsuke Goto |
 | Thu, 19 Nov 2026 | Mr.Disco Kid |  |
 | Sat, 21 Nov 2026 | CLUB NEVERLAND |  |
@@ -23,4 +22,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with l
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

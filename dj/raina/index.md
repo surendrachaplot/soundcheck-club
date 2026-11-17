@@ -1,6 +1,6 @@
 # Raina
 
-Raina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 21 Nov 2026.
+Raina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 21 Nov 2026.
 
 Raina is a house and techno artist based in Taiwan, with 40 gigs on soundcheck across Bristol, Taipei and Tokyo. Often billed alongside Sam Ritter, CHIEN and Debbie with an 'S'. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Raina is a house and techno artist based in Taiwan, with 40 gigs on soundcheck a
 
 Sam Ritter, CHIEN, Debbie with an 'S'
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raina/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raina/)*

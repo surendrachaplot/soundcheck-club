@@ -1,13 +1,14 @@
 # Adam Freeland
 
-Adam Freeland is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Yard, Manchester on Sat, 28 Nov 2026.
+Adam Freeland is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Nasjonalgalleriet, Oslo on Fri, 20 Nov 2026.
 
-Adam Freeland is an electro and breakbeat artist based in United States of America, with 3 gigs on soundcheck across Barcelona, Budapest and Manchester. Often billed alongside Basement Jaxx, Chris Massey and Evil Nine. Next up: The Yard, Manchester on Sat 28 Nov.
+Adam Freeland is an electro and house artist based in United States of America, with 4 gigs on soundcheck across Barcelona, Budapest, Manchester and Oslo. Often billed alongside Anthony Linell, Basement Jaxx and Brnr. Next up: Nasjonalgalleriet, Oslo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Nasjonalgalleriet | Oslo |
 | Sat, 28 Nov 2026 | The Yard | Manchester |
 
 ## Recently played
@@ -17,6 +18,6 @@ Adam Freeland is an electro and breakbeat artist based in United States of Ameri
 
 ## Shares bills with
 
-Basement Jaxx, Chris Massey, Evil Nine
+Anthony Linell, Basement Jaxx, Brnr
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamfreeland/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamfreeland/)*

@@ -1,14 +1,15 @@
 # DJ Dios
 
-DJ Dios is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
+DJ Dios is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
 
-DJ Dios is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Berlin, Lower Saxony and Münster. Often billed alongside FRÆNCIS, JENKA and KYUB. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
+DJ Dios is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin, Lower Saxony and Münster. Often billed alongside FRÆNCIS, JENKA and KYUB. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Holy Poly | Lower-saxony |
+| Fri, 4 Dec 2026 | Void Club | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Dios is a techno and trance artist based in Germany, with 14 gigs on soundche
 
 FRÆNCIS, JENKA, KYUB
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdios/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdios/)*

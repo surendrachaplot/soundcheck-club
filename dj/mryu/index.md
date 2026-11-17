@@ -1,8 +1,8 @@
 # Mr Yu
 
-Mr Yu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Mr Yu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
-Mr Yu is a house and techno artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside Lily FM, Bouki and Bozo. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
+Mr Yu is a house and techno artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside Lily FM, Acacia and Bouki. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Mr Yu is a house and techno artist based in Australia, with 4 gigs on soundcheck
 
 ## Shares bills with
 
-Lily FM, Bouki, Bozo
+Lily FM, Acacia, Bouki
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mryu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mryu/)*

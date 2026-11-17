@@ -1,6 +1,6 @@
 # DTEXX
 
-DTEXX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
+DTEXX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
 
 DTEXX is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: OST, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DTEXX is a techno and trance artist based in Germany, with 65 gigs on soundcheck
 
 SIKXTO, Filialleiter, Trancestrudel
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dtexx/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dtexx/)*

@@ -1,6 +1,6 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "DHOLERO" on Thu, 19 Nov 2026.
+Bolero is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "DHOLERO" on Thu, 19 Nov 2026.
 
 Bolero is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including ANDOW, COOK SWEET, Dj Bal-T and KARAYAN and 2 more. See dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Bolero is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*

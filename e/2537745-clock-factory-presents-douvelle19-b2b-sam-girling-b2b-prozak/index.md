@@ -1,11 +1,11 @@
-# Clock Factory presents: Douvelle19 B2B Sam Girling B2B Prozak [3 Hour Set] at The Clock Factory
+# Clock Factory presents: Douvelle19 B2B Sam Girling B2B Prozak [3 Hour Set] at Clock Factory
 
-Clock Factory presents: Douvelle19 B2B Sam Girling B2B Prozak [3 Hour Set] at The Clock Factory on Fri 11 Dec, Bristol. 2 artists: Douvelle19 and Prozak (IRL). Bass and Garage. See the line-up on soundcheck.
+Clock Factory presents: Douvelle19 B2B Sam Girling B2B Prozak [3 Hour Set] on Fri 11 Dec, Bristol. 2 artists: Douvelle19 and Prozak (IRL). Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 11 Dec 2026 |
-| Venue | The Clock Factory |
+| Venue | Clock Factory |
 | City | Bristol |
 
 ## Line-up

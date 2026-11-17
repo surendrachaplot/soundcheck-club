@@ -1,13 +1,14 @@
 # Hugo Sanchez
 
-Hugo Sanchez is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+Hugo Sanchez is a Experimental and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at OHM, Berlin on Fri, 20 Nov 2026.
 
-Hugo Sanchez is an experimental and downtempo artist based in Italy, with 39 gigs on soundcheck across Bologna, Milan and Rome. Often billed alongside Simona Beat, Vladimir Ivkovic and Bluemarina. Next up: TBA, Rome on Sat 5 Dec.
+Hugo Sanchez is an experimental and downtempo artist based in Italy, with 40 gigs on soundcheck across Berlin, Bologna, Milan and Rome. Often billed alongside Simona Beat, Vladimir Ivkovic and Bluemarina. Next up: OHM, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | OHM | Berlin |
 | Sat, 5 Dec 2026 | TBA | Rome |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hugo Sanchez is an experimental and downtempo artist based in Italy, with 39 gig
 
 Simona Beat, Vladimir Ivkovic, Bluemarina
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugosanchez/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugosanchez/)*

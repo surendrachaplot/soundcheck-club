@@ -1,6 +1,6 @@
 # MOTA
 
-MOTA is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at LAUT, Barcelona on Sun, 22 Nov 2026.
+MOTA is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at LAUT, Barcelona on Sun, 22 Nov 2026.
 
 MOTA is a techno and drum & bass artist based in Spain, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Maduk, Javi gOn and BACO. Next up: LAUT, Barcelona on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ MOTA is a techno and drum & bass artist based in Spain, with 197 gigs on soundch
 
 Maduk, Javi gOn, BACO
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mota/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mota/)*

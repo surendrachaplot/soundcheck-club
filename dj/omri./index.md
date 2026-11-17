@@ -1,8 +1,8 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+OMRI. is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-OMRI. is a house and tech house artist based in Israel, with 80 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 24 more. Often billed alongside Damian Lazarus, Franky Rizardo and Jamie Jones. Next up: Factory Town, Miami on Wed 2 Dec.
+OMRI. is a house and tech house artist based in Israel, with 81 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 24 more. Often billed alongside Damian Lazarus, Franky Rizardo and Jamie Jones. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ OMRI. is a house and tech house artist based in Israel, with 80 gigs on soundche
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
 | Fri, 18 Dec 2026 | TBA - aqua Hong Kong | Hong Kong |
+| Fri, 1 Jan 2027 | Prysm Nightclub | Chicago |
 | Sun, 7 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 
 ## Recently played
@@ -28,4 +29,4 @@ OMRI. is a house and tech house artist based in Israel, with 80 gigs on soundche
 
 Damian Lazarus, Franky Rizardo, Jamie Jones
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*

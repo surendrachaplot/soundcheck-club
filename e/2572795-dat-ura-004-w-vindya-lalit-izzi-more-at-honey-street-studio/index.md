@@ -1,6 +1,6 @@
 # DAT_URA 004 W/ Vindya, LALIT, Izzi, & MORE at Honey Street Studio
 
-DAT_URA 004 W/ Vindya, LALIT, Izzi, & MORE at Honey Street Studio on Sun 22 Nov, Manchester. 5 artists: Izzi, KOSO, LALIT and Qoqnut and 1 more. Techno and Club. See the line-up on soundcheck.
+DAT_URA 004 W/ Vindya, LALIT, Izzi, & MORE at Honey Street Studio on Sun 22 Nov, Manchester. 6 artists: Izzi, KOSO, LALIT and Mahin and 2 more. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ DAT_URA 004 W/ Vindya, LALIT, Izzi, & MORE at Honey Street Studio on Sun 22 Nov,
 - Izzi
 - KOSO
 - LALIT
+- Mahin
 - Qoqnut
 - Vindya
 

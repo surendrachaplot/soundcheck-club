@@ -1,8 +1,8 @@
 # Quartz
 
-Quartz is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Phonox, London on Fri, 29 Jan 2027.
+Quartz is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Phonox, London on Fri, 29 Jan 2027.
 
-Quartz is a drum & bass and jungle artist, with 5 gigs on soundcheck across London, San Francisco/Oakland and Sheffield. Often billed alongside SP:MC, Amy Kisnorbo and Ant TC1. Next up: Phonox, London on Fri 29 Jan.
+Quartz is a drum & bass and jungle artist based in United Kingdom, with 5 gigs on soundcheck across London, San Francisco/Oakland and Sheffield. Often billed alongside SP:MC, Amy Kisnorbo and Ant TC1. Next up: Phonox, London on Fri 29 Jan.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Quartz is a drum & bass and jungle artist, with 5 gigs on soundcheck across Lond
 
 SP:MC, Amy Kisnorbo, Ant TC1
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quartz/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quartz/)*

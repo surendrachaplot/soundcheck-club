@@ -1,8 +1,8 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Noventeros" on Sat, 28 Nov 2026.
+LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Noventeros" on Sat, 28 Nov 2026.
 
-LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including AAfrAA, Abdon, BASHKKA and Brenda Serna and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
+LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including AAfrAA, Abdon, BASHKKA and Brenda Serna and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
 ## What's on
 
@@ -17,10 +17,10 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, w
 | Sat, 19 Dec 2026 | 33 Aniversario FRIENDS CLUB |  |
 | Fri, 25 Dec 2026 | Space of Sound CHRISTMAS with De La Swing, Technasia | AAfrAA, Abdon, De La Swing, Nic Vesperi, Technasia, jose fajardo |
 | Sat, 26 Dec 2026 | Brenda Serna ALL NIGHT LONG | Brenda Serna (2) |
-| Fri, 1 Jan 2027 | AÑO NUEVO SPACE ORIGEN |  |
+| Sat, 26 Dec 2026 | Solo Viking pres. Ragnarok | Solo Viking |
 
 ## Address
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

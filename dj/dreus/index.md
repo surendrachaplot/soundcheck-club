@@ -1,6 +1,6 @@
 # Dreus
 
-Dreus is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at DEX, Moscow on Sat, 21 Nov 2026.
+Dreus is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at DEX, Moscow on Sat, 21 Nov 2026.
 
 Dreus is a hardcore and techno artist based in Cyprus, with 7 gigs on soundcheck across Cyprus, Moscow, Sofia and Wroclaw. Often billed alongside Penny K, SKORPINA and Niotech. Next up: DEX, Moscow on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Dreus is a hardcore and techno artist based in Cyprus, with 7 gigs on soundcheck
 
 Penny K, SKORPINA, Niotech
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreus/)*

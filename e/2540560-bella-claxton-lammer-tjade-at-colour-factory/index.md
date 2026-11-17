@@ -1,6 +1,6 @@
-# Bella Claxton + LAMMER + Tjade at Colour Factory
+# Bella Claxton, LAMMER, Tjade at Colour Factory
 
-Bella Claxton + LAMMER + Tjade at Colour Factory on Fri 20 Nov, London. 3 artists: Bella Claxton, LAMMER and Tjade. Trance and House. See the line-up on soundcheck.
+Bella Claxton, LAMMER, Tjade at Colour Factory on Fri 20 Nov, London. 3 artists: Bella Claxton, LAMMER and Tjade. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

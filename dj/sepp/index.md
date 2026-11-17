@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at E1, London on Sat, 28 Nov 2026.
+Sepp is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at E1, London on Sat, 28 Nov 2026.
 
 Sepp is a minimal and house artist based in Romania, with 123 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 40 more. Often billed alongside Nu Zau, Arapu and Traumer. Next up: E1, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sepp is a minimal and house artist based in Romania, with 123 gigs on soundcheck
 
 Nu Zau, Arapu, Traumer
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

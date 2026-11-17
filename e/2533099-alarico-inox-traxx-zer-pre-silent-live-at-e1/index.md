@@ -1,6 +1,6 @@
 # Alarico, Inox Traxx, Zerø, Pre Silent (live) at E1
 
-Alarico, Inox Traxx, Zerø, Pre Silent (live) at E1 on Sat 21 Nov, London. 4 artists: Alarico, Inox Traxx, Pre Silent and Zerø. Techno. See the line-up on soundcheck.
+Alarico, Inox Traxx, Zerø, Pre Silent (live) at E1 on Sat 21 Nov, London. 5 artists: Alarico, Inox Traxx, Pre Silent and Val Enfys and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Alarico, Inox Traxx, Zerø, Pre Silent (live) at E1 on Sat 21 Nov, London. 4 art
 - Alarico
 - Inox Traxx
 - Pre Silent
+- Val Enfys
 - Zerø
 
 *Source: [soundcheck](https://soundcheck.club/e/2533099-alarico-inox-traxx-zer-pre-silent-live-at-e1/)*

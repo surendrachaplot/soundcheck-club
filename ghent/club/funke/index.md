@@ -1,8 +1,8 @@
 # Funke
 
-Funke is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "dreamcastmoe live band — support by Lefto Early Bird" on Wed, 18 Nov 2026.
+Funke is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "dreamcastmoe live band — support by Lefto Early Bird" on Wed, 18 Nov 2026.
 
-Funke is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line-ups including dreamcastmoe, Lefto Early Bird, SOLARYTHM and Yogg. See dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
+Funke is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line-ups including Angel D'lite, dreamcastmoe, Fais Le Beau and Lefto Early Bird and 1 more. See dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
 ## What's on
 
@@ -10,10 +10,10 @@ Funke is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | dreamcastmoe live band — support by Lefto Early Bird | Lefto Early Bird, dreamcastmoe |
 | Sat, 21 Nov 2026 | FUNKE_EMOM9000 |  |
-| Sat, 21 Nov 2026 | FUNKE_ Konfusus Kollektif | SOLARYTHM, Yogg |
+| Fri, 4 Dec 2026 | cadans at Funke ghent | Angel D'lite, Fais Le Beau, séa (BE) |
 
 ## Address
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

@@ -1,6 +1,6 @@
 # Underload at TBA
 
-Underload at TBA on Fri 27 Nov, Sydney. 2 artists: Baba Boubou and Jungist. Bass. See the line-up on soundcheck.
+Underload at TBA on Fri 27 Nov, Sydney. 3 artists: Baba Boubou, Jungist and Seohbin. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Underload at TBA on Fri 27 Nov, Sydney. 2 artists: Baba Boubou and Jungist. Bass
 
 - Baba Boubou
 - Jungist
+- Seohbin
 
 *Source: [soundcheck](https://soundcheck.club/e/2583526-underload-at-tba/)*

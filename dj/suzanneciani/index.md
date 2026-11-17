@@ -1,6 +1,6 @@
 # Suzanne Ciani
 
-Suzanne Ciani is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Hollywood Avondale, Auckland on Wed, 25 Nov 2026.
+Suzanne Ciani is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Hollywood Avondale, Auckland on Wed, 25 Nov 2026.
 
 Suzanne Ciani is an experimental and electronica artist based in United States of America, with 36 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 23 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: The Hollywood Avondale, Auckland on Wed 25 Nov.
 
@@ -28,4 +28,4 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 
 Actress, Eiko Ishibashi, Blawan
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*

@@ -1,6 +1,6 @@
 # The Freemasons
 
-The Freemasons is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Codesouth presents Late To The Disco - Halloween 2026" on Sat, 31 Oct 2026.
+The Freemasons is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Codesouth presents - Late To The Disco" on Sat, 28 Nov 2026.
 
 The Freemasons is a music venue in Brighton listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ The Freemasons is a music venue in Brighton listed on soundcheck. 1 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Codesouth presents Late To The Disco - Halloween 2026 |  |
+| Sat, 28 Nov 2026 | Codesouth presents - Late To The Disco |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-freemasons/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-freemasons/)*

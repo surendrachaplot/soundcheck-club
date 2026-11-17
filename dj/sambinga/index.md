@@ -1,8 +1,8 @@
 # Sam Binga
 
-Sam Binga is a Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Favela Chic, New Orleans on Sat, 5 Dec 2026.
+Sam Binga is a Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Favela Chic, New Orleans on Sat, 5 Dec 2026.
 
-Sam Binga is a bass and garage artist based in United Kingdom, with 102 gigs on soundcheck across Atlanta, Auckland, Austin and Baltimore and 46 more. Often billed alongside Addison Groove, Bianca Oblivion and Amy Kisnorbo. Next up: Favela Chic, New Orleans on Sat 5 Dec.
+Sam Binga is a bass and garage artist based in United Kingdom, with 103 gigs on soundcheck across Atlanta, Auckland, Austin and Baltimore and 46 more. Often billed alongside Addison Groove, Bianca Oblivion and Amy Kisnorbo. Next up: Favela Chic, New Orleans on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sam Binga is a bass and garage artist based in United Kingdom, with 102 gigs on 
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Favela Chic | New Orleans |
 | Thu, 17 Dec 2026 | public records | New York City |
+| Sat, 6 Feb 2027 | The Cause | London |
 | Fri, 12 Feb 2027 | Sidney & Matilda | Sheffield |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
@@ -28,4 +29,4 @@ Sam Binga is a bass and garage artist based in United Kingdom, with 102 gigs on 
 
 Addison Groove, Bianca Oblivion, Amy Kisnorbo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*

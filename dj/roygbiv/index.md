@@ -1,6 +1,6 @@
 # Roygbiv
 
-Roygbiv is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Ikii, Berlin on Wed, 2 Dec 2026.
+Roygbiv is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ikii, Berlin on Wed, 2 Dec 2026.
 
 Roygbiv is an ambient and experimental artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Electro Magnetic Goldstar, 0dysseus and DJ Treibsand. Next up: Ikii, Berlin on Wed 2 Dec.
 
@@ -20,4 +20,4 @@ Roygbiv is an ambient and experimental artist based in Germany, with 4 gigs on s
 
 Electro Magnetic Goldstar, 0dysseus, DJ Treibsand
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roygbiv/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roygbiv/)*

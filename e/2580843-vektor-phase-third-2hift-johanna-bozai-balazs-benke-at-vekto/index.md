@@ -1,6 +1,6 @@
 # VEKTOR PHASE - THIRD 2HIFT, Johanna Bozai, Balazs_, Benke at Vektor - The Klub
 
-VEKTOR PHASE - THIRD 2HIFT, Johanna Bozai, Balazs_, Benke at Vektor - The Klub on Fri 27 Nov, Budapest. 2 artists: Johanna Bozai and THIRD 2HIFT. Techno. See the line-up on soundcheck.
+VEKTOR PHASE - THIRD 2HIFT, Johanna Bozai, Balazs_, Benke at Vektor - The Klub on Fri 27 Nov, Budapest. 3 artists: Balazs_, Johanna Bozai and THIRD 2HIFT. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VEKTOR PHASE - THIRD 2HIFT, Johanna Bozai, Balazs_, Benke at Vektor - The Klub o
 
 ## Line-up
 
+- Balazs_
 - Johanna Bozai
 - THIRD 2HIFT
 

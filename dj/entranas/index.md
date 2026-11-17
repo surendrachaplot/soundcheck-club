@@ -1,6 +1,6 @@
 # Entrañas
 
-Entrañas is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Cafeteria, Toronto on Fri, 20 Nov 2026.
+Entrañas is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Cafeteria, Toronto on Fri, 20 Nov 2026.
 
 Entrañas is a latin bass and club artist based in Ecuador, with 40 gigs on soundcheck across Barcelona, Berlin, Bogotá and Chicago and 22 more. Often billed alongside Aleroj, Merca Bae and 2AT. Next up: Cafeteria, Toronto on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Entrañas is a latin bass and club artist based in Ecuador, with 40 gigs on soun
 
 Aleroj, Merca Bae, 2AT
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entranas/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entranas/)*

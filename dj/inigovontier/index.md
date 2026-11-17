@@ -1,6 +1,6 @@
 # Iñigo Vontier
 
-Iñigo Vontier is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fünk, Mexico City on Fri, 20 Nov 2026.
+Iñigo Vontier is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Fünk, Mexico City on Fri, 20 Nov 2026.
 
 Iñigo Vontier is a techno and house artist based in Mexico, with 104 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 25 more. Often billed alongside Sabrina, Concret and SABRINA. Next up: Fünk, Mexico City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Iñigo Vontier is a techno and house artist based in Mexico, with 104 gigs on so
 
 Sabrina, Concret, SABRINA (3)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inigovontier/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inigovontier/)*

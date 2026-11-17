@@ -1,6 +1,6 @@
 # Hyper Real at Berghain | Panorama Bar | Säule
 
-Hyper Real at Berghain | Panorama Bar | Säule on Thu 3 Dec, Berlin. 4 artists: iarna, Kutmah, Ma Sha and Opium Hum. See the line-up on soundcheck.
+Hyper Real at Berghain | Panorama Bar | Säule on Thu 3 Dec, Berlin. 5 artists: Denham Audio, iarna, Kutmah and Ma Sha and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Hyper Real at Berghain | Panorama Bar | Säule on Thu 3 Dec, Berlin. 4 artists: 
 
 ## Line-up
 
+- Denham Audio
 - iarna
 - Kutmah
 - Ma Sha

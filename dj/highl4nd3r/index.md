@@ -1,6 +1,6 @@
 # HIGHL4ND3R
 
-HIGHL4ND3R is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at MODULE, Copenhagen on Thu, 19 Nov 2026.
+HIGHL4ND3R is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at MODULE, Copenhagen on Thu, 19 Nov 2026.
 
 HIGHL4ND3R is a techno and trance artist based in Denmark, with 3 gigs on soundcheck across Copenhagen. Often billed alongside Aerocell, Ziggy Stardubb and avoN. Next up: MODULE, Copenhagen on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ HIGHL4ND3R is a techno and trance artist based in Denmark, with 3 gigs on soundc
 
 Aerocell, Ziggy Stardubb, avoN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highl4nd3r/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highl4nd3r/)*

@@ -1,6 +1,6 @@
 # Ross Purcell
 
-Ross Purcell is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Pen And Pencil, Manchester on Sat, 27 Feb 2027.
+Ross Purcell is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Pen And Pencil, Manchester on Sat, 27 Feb 2027.
 
 Ross Purcell is a deep house and house artist based in Ireland, with 3 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Chris Hewitt, JOC (A Deeper Groove) and Steph (A Deeper Groove). Next up: The Pen And Pencil, Manchester on Sat 27 Feb.
 
@@ -19,4 +19,4 @@ Ross Purcell is a deep house and house artist based in Ireland, with 3 gigs on s
 
 Chris Hewitt, JOC (A Deeper Groove), Steph (A Deeper Groove)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosspurcell/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosspurcell/)*

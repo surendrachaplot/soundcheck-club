@@ -1,8 +1,8 @@
 # Røsenwasser
 
-Røsenwasser is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
+Røsenwasser is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
 
-Røsenwasser is a techno and tech house artist based in Latvia, with 5 gigs on soundcheck across Berlin and Riga. Often billed alongside Julka, KIVII and d4ia. Next up: Sensorium, Berlin on Sat 21 Nov.
+Røsenwasser is a techno and tech house artist based in Latvia, with 5 gigs on soundcheck across Berlin and Riga. Often billed alongside Dudulina, Julka and KIVII. Next up: Sensorium, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Røsenwasser is a techno and tech house artist based in Latvia, with 5 gigs on s
 
 ## Shares bills with
 
-Julka (2), KIVII, d4ia
+Dudulina, Julka (2), KIVII
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosenwasser/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosenwasser/)*

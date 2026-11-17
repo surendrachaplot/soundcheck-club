@@ -1,13 +1,14 @@
 # Xqte
 
-Xqte is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - SECRET WHAREHOUSE, Berlin on Sat, 19 Dec 2026.
+Xqte is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - EX OPG, Naples on Sat, 28 Nov 2026.
 
-Xqte is a techno and acid artist based in Italy, with 10 gigs on soundcheck across Berlin, Bologna, Naples and Rome. Often billed alongside DJ YUME, Markantonio and Backlogs. Next up: TBA - SECRET WHAREHOUSE, Berlin on Sat 19 Dec.
+Xqte is a techno and acid artist based in Italy, with 11 gigs on soundcheck across Berlin, Bologna, Naples and Rome. Often billed alongside DJ YUME, Markantonio and Backlogs. Next up: TBA - EX OPG, Naples on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | TBA - EX OPG | Naples |
 | Sat, 19 Dec 2026 | TBA - SECRET WHAREHOUSE | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Xqte is a techno and acid artist based in Italy, with 10 gigs on soundcheck acro
 
 DJ YUME, Markantonio, Backlogs
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xqte/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xqte/)*

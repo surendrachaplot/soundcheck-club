@@ -1,6 +1,6 @@
 # unceen with ANDATA & HOOM at Südpol
 
-unceen with ANDATA & HOOM at Südpol on Fri 18 Dec, Hamburg. 5 artists: ANDATA, HOOM, Natalox and SPORTMANN and 1 more. Trance and House. See the line-up on soundcheck.
+unceen with ANDATA & HOOM at Südpol on Fri 18 Dec, Hamburg. 6 artists: ANDATA, HOOM, Natalox and SPORTMANN and 2 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ unceen with ANDATA & HOOM at Südpol on Fri 18 Dec, Hamburg. 5 artists: ANDATA, 
 - Natalox
 - SPORTMANN
 - unjani
+- Worthmann
 
 *Source: [soundcheck](https://soundcheck.club/e/2549748-unceen-with-andata-hoom-at-s-dpol/)*

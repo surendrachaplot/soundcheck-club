@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Centre PHI, Montreal on Fri, 20 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Centre PHI, Montreal on Fri, 20 Nov 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Centre PHI, Montreal on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

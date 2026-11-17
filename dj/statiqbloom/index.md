@@ -1,6 +1,6 @@
 # Statiqbloom
 
-Statiqbloom is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
+Statiqbloom is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
 
 Statiqbloom is a techno and industrial artist based in Germany, with 23 gigs on soundcheck across Athens, Berlin, Brussels and Dortmund / Essen and 5 more. Often billed alongside Adam X, Blush Response and Choronzon. Next up: ROSA, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Statiqbloom is a techno and industrial artist based in Germany, with 23 gigs on 
 
 Adam X, Blush Response, Choronzon
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/statiqbloom/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/statiqbloom/)*

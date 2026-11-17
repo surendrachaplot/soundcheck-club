@@ -1,14 +1,16 @@
 # Maul (2)
 
-Maul (2) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Trinity Drug Store, Toronto on Sun, 15 Nov 2026.
+Maul (2) is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Trinity Drug Store, Toronto on Sun, 15 Nov 2026.
 
-Maul is a techno and hardcore artist based in Canada, with 17 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and MVCHE. Next up: Trinity Drug Store, Toronto on Sun 15 Nov.
+Maul is a techno and hardcore artist based in Canada, with 19 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and MVCHE. Next up: Trinity Drug Store, Toronto on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Trinity Drug Store | Toronto |
+| Sun, 22 Nov 2026 | Trinity Drug Store | Toronto |
+| Thu, 31 Dec 2026 | TBA | Toronto |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Maul is a techno and hardcore artist based in Canada, with 17 gigs on soundcheck
 
 KILL 9 1, R4TS, MVCHE
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*

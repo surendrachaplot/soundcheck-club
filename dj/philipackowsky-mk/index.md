@@ -1,14 +1,15 @@
 # Philip Ackowsky
 
-Philip Ackowsky is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Gore Lounge Club, Belgrade on Fri, 20 Nov 2026.
+Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Gore Lounge Club, Belgrade on Fri, 20 Nov 2026.
 
-Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, with 52 gigs on soundcheck across Amsterdam, Belgrade, Ibiza and Istanbul and 3 more. Often billed alongside Abdy, Marixia and Alex Micca. Next up: Gore Lounge Club, Belgrade on Fri 20 Nov.
+Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, with 53 gigs on soundcheck across Amsterdam, Belgrade, Ibiza and Istanbul and 3 more. Often billed alongside Abdy, Marixia and Alex Micca. Next up: Gore Lounge Club, Belgrade on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Gore Lounge Club | Belgrade |
+| Sat, 21 Nov 2026 | Klub 20/44 | Belgrade |
 | Fri, 4 Dec 2026 | Liquid Club | Malta |
 | Fri, 18 Dec 2026 | Gianpula Village | Malta |
 
@@ -27,4 +28,4 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 
 Abdy, Marixia, Alex Micca
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*

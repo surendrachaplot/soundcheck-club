@@ -1,6 +1,6 @@
 # M-High
 
-M-High is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Barbary, Philadelphia on Fri, 20 Nov 2026.
+M-High is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Barbary, Philadelphia on Fri, 20 Nov 2026.
 
 M-High is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside Prunk, Job de Jong and Sidney Charles. Next up: The Barbary, Philadelphia on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ M-High is a house and tech house artist based in Netherlands, with 195 gigs on s
 
 Prunk, Job de Jong, Sidney Charles
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

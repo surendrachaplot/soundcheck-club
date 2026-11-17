@@ -1,6 +1,6 @@
 # DOTS at EKKO
 
-DOTS at EKKO on Sat 21 Nov, Utrecht. 1 artist: Jolani Jhones. Garage and Club. See the line-up on soundcheck.
+DOTS at EKKO on Sat 21 Nov, Utrecht. 2 artists: FORTBEIGE and Jolani Jhones. Garage and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DOTS at EKKO on Sat 21 Nov, Utrecht. 1 artist: Jolani Jhones. Garage and Club. S
 
 ## Line-up
 
+- FORTBEIGE
 - Jolani Jhones
 
 *Source: [soundcheck](https://soundcheck.club/e/2559073-dots-at-ekko/)*

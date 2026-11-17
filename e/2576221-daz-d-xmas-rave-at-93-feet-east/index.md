@@ -1,6 +1,6 @@
 # Dazéd ➔ Xmas Rave at 93 Feet East
 
-Dazéd ➔ Xmas Rave at 93 Feet East on Sat 12 Dec, London. 6 artists: Banksie, Brian Smith, DRIA and FLORA THA EXPLORA and 2 more. Tech House and Deep House. See the line-up on soundcheck.
+Dazéd ➔ Xmas Rave at 93 Feet East on Sat 12 Dec, London. 7 artists: Banksie, Brian Smith, DRIA and EMLEE and 3 more. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Dazéd ➔ Xmas Rave at 93 Feet East on Sat 12 Dec, London. 6 artists: Banksie, 
 - Banksie
 - Brian Smith
 - DRIA
+- EMLEE
 - FLORA THA EXPLORA
 - HARTY
 - Rhiavas

@@ -1,6 +1,6 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
+2HOT2PLAY is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
 
 2HOT2PLAY is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Augsburg and 38 more. Often billed alongside L.zwo, Mika Heggemann and PRADA2000. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
 
@@ -34,4 +34,4 @@
 
 L.zwo, Mika Heggemann, PRADA2000
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

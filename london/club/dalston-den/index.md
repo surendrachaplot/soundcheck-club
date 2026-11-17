@@ -1,6 +1,6 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "If I Don't Dance I Cry" on Tue, 17 Nov 2026.
+Dalston Den is a music venue in London with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "If I Don't Dance I Cry" on Tue, 17 Nov 2026.
 
 Dalston Den is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Agility, Amy Kisnorbo, Blake and Bryn Brax and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
@@ -15,7 +15,7 @@ Dalston Den is a music venue in London listed on soundcheck. 11 upcoming gigs, w
 | Sat, 28 Nov 2026 | FunkYouUp - Danger In The Den |  |
 | Fri, 4 Dec 2026 | EYG x D2S: Baltimore 2 Jersey 2 Dalston  | Amy Kisnorbo, CalvoMusic, Carma, Tah (1) |
 | Sat, 5 Dec 2026 | TINYLAND |  |
-| Fri, 11 Dec 2026 | Breakfast Club #3 | Donnie on a Bike, Nou (UK) |
+| Fri, 11 Dec 2026 | Breakfast Club #3 | Donnie on a Bike, Nou (UK), Telex |
 | Thu, 17 Dec 2026 | PULSE |  |
 | Fri, 18 Dec 2026 | Work It |  |
 
@@ -23,4 +23,4 @@ Dalston Den is a music venue in London listed on soundcheck. 11 upcoming gigs, w
 
 91-93 Kingsland High Street, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

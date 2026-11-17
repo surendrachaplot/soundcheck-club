@@ -1,14 +1,15 @@
 # ALOT
 
-ALOT is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Core, Madrid on Sat, 21 Nov 2026.
+ALOT is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Core, Madrid on Sat, 21 Nov 2026.
 
-ALOT is a house and disco artist based in United States of America, with 33 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 8 more. Often billed alongside Kapote, Gee Lane and Arpy Brown. Next up: Core, Madrid on Sat 21 Nov.
+ALOT is a house and disco artist based in United States of America, with 34 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 8 more. Often billed alongside Gee Lane, Kapote and Arpy Brown. Next up: Core, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Core | Madrid |
+| Fri, 18 Dec 2026 | La Paloma | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ALOT is a house and disco artist based in United States of America, with 33 gigs
 
 ## Shares bills with
 
-Kapote, Gee Lane, Arpy Brown
+Gee Lane, Kapote, Arpy Brown
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alot/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alot/)*

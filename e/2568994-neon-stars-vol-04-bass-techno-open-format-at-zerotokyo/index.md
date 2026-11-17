@@ -1,6 +1,6 @@
 # NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT - at ZEROTOKYO
 
-NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT - at ZEROTOKYO on Fri 27 Nov, Tokyo. 7 artists: Carpainter, HATSUYUKI, knell and Seimei and 3 more. Techno and Bass. See the line-up on soundcheck.
+NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT - at ZEROTOKYO on Fri 27 Nov, Tokyo. 8 artists: æ-chan, Carpainter, HATSUYUKI and knell and 4 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT - at ZEROTOKYO on Fri 27 Nov, To
 
 ## Line-up
 
+- æ-chan
 - Carpainter
 - HATSUYUKI
 - knell

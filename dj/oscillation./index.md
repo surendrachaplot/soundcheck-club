@@ -1,6 +1,6 @@
 # Oscillation.
 
-Oscillation. is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Greyhound, London on Sat, 21 Nov 2026.
+Oscillation. is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Greyhound, London on Sat, 21 Nov 2026.
 
 Oscillation. is a house and broken beat artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Ayanna Heaven, DREY (UK) and Last Nubian. Next up: The Greyhound, London on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Oscillation. is a house and broken beat artist based in United Kingdom, with 3 g
 
 Ayanna Heaven, DREY (UK), Last Nubian
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscillation./)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscillation./)*

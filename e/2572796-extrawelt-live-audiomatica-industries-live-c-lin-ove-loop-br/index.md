@@ -1,6 +1,6 @@
 # Extrawelt (Live), Audiomatica Industries (Live), Călin, OvE - LOOP BRE∆KER #5 at Forge
 
-Extrawelt (Live), Audiomatica Industries (Live), Călin, OvE - LOOP BRE∆KER #5 at Forge on Fri 18 Dec, Bucharest. 1 artist: Extrawelt. EBM and Minimal Techno. See the line-up on soundcheck.
+Extrawelt (Live), Audiomatica Industries (Live), Călin, OvE - LOOP BRE∆KER #5 at Forge on Fri 18 Dec, Bucharest. 3 artists: _calin_, Extrawelt and OvE. EBM and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Extrawelt (Live), Audiomatica Industries (Live), Călin, OvE - LOOP BRE∆KER #5
 
 ## Line-up
 
+- _calin_
 - Extrawelt
+- OvE (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2572796-extrawelt-live-audiomatica-industries-live-c-lin-ove-loop-br/)*

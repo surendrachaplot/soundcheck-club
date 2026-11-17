@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Rubedo III" on Thu, 19 Nov 2026.
+The Glove That Fits is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Rubedo III" on Thu, 19 Nov 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alaïs, Amor Ante, Aniaef and ANTØNIØ. and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -16,11 +16,11 @@ The Glove That Fits is a music venue in London listed on soundcheck. 15 upcoming
 | Sat, 28 Nov 2026 | CLUB BOOTS VOL III | Harry Gay, Jess Hands, Katie Baxter, Meg Ward, Sita Shah, miniMel |
 | Fri, 4 Dec 2026 | RИFT | Desert Bor, Nikolaider, Sokolyann, XANDY |
 | Sat, 5 Dec 2026 | PINHOLE 4.0 | GLASSBASS, Hanno Hinkelbein, Kutkh Jackdaw, LATO, Laura MRLS, TOOTHTAXI |
-| Fri, 11 Dec 2026 | The Pound | Alaïs, Sleepy Jean, YSL (Young Saucy Lovers) |
+| Fri, 11 Dec 2026 | The Pound | Alaïs, Sleepy Jean, YSL (Young Saucy Lovers), chimney sweep |
 | Sat, 12 Dec 2026 | Amadeus presents: Logan Fisher, Jai Thompson, Flash Mitra | Flash Mitra, Logan Fisher |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

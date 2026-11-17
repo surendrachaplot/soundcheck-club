@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 22 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Eric Prydz w/ Cristoph, Glusko" on Fri, 20 Nov 2026.
+Echostage is a music venue in Washington DC with 22 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Eric Prydz w/ Cristoph, Glusko" on Fri, 20 Nov 2026.
 
 Echostage is a music venue in Washington DC listed on soundcheck. 22 upcoming gigs, with line-ups including ANASI, Bella Renee, Casey Club and Chris Lake and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 22 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

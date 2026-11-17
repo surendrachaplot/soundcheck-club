@@ -1,14 +1,15 @@
 # Abyss
 
-Abyss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Abyss is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
-Abyss is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Bangkok, Budapest, Frankfurt and Hamburg and 5 more. Often billed alongside Andrija Jäger, Edu Sono and Dubtist. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
+Abyss is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Bangkok, Budapest, Frankfurt and Hamburg and 6 more. Often billed alongside Andrija Jäger, Edu Sono and Dubtist. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
+| Sat, 21 Nov 2026 | Silencio | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Abyss is a techno and trance artist based in Germany, with 13 gigs on soundcheck
 
 Andrija Jäger, Edu Sono, Dubtist
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abyss/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abyss/)*

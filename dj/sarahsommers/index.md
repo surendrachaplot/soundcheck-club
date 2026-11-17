@@ -1,6 +1,6 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Howler, Melbourne on Sat, 12 Dec 2026.
+Sarah Sommers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Howler, Melbourne on Sat, 12 Dec 2026.
 
 Sarah Sommers is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 27 more. Often billed alongside Handmade, Josef Kunz and Dr. Rubinstein. Next up: Howler, Melbourne on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Sarah Sommers is a techno and house artist based in Germany, with 64 gigs on sou
 
 Handmade, Josef Kunz, Dr. Rubinstein
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

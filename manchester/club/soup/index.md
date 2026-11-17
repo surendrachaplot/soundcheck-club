@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "DUBSTATE: Douvelle19, Kitsch, imad:re & Ginster " on Fri, 20 Nov 2026.
+Soup is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "DUBSTATE: Douvelle19, Kitsch, imad:re & Ginster " on Fri, 20 Nov 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Bobby Scallop, CONE, Cowper and Douvelle19 and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

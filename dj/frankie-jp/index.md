@@ -1,14 +1,15 @@
 # Frankie $
 
-Frankie $ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at VENT, Tokyo on Sun, 22 Nov 2026.
+Frankie $ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at VENT, Tokyo on Sun, 22 Nov 2026.
 
-Frankie $ is a house and techno artist based in Japan, with 128 gigs on soundcheck across Kyoto, Osaka, Prague and Tbilisi and 1 more. Often billed alongside Hayato Iwaki, Al Jones and YANNY. Next up: VENT, Tokyo on Sun 22 Nov.
+Frankie $ is a house and techno artist based in Japan, with 129 gigs on soundcheck across Kyoto, Osaka, Prague and Tbilisi and 1 more. Often billed alongside Hayato Iwaki, Al Jones and YANNY. Next up: VENT, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | VENT | Tokyo |
+| Wed, 30 Dec 2026 | TBA | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Frankie $ is a house and techno artist based in Japan, with 128 gigs on soundche
 
 Hayato Iwaki, Al Jones, YANNY (1)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*

@@ -1,14 +1,14 @@
 # xtcemi
 
-xtcemi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, San Francisco/Oakland on Sat, 14 Nov 2026.
+xtcemi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at El Rio, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-xtcemi is a club and techno artist based in United States of America, with 35 gigs on soundcheck across San Francisco/Oakland. Often billed alongside @djlobottomy, DJ Saratonin and Just Another Bitch. Next up: TBA, San Francisco/Oakland on Sat 14 Nov.
+xtcemi is a club and techno artist based in United States of America, with 36 gigs on soundcheck across San Francisco/Oakland. Often billed alongside @djlobottomy, DJ Saratonin and Just Another Bitch. Next up: El Rio, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA | San Francisco/Oakland |
+| Sat, 28 Nov 2026 | El Rio | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ xtcemi is a club and techno artist based in United States of America, with 35 gi
 
 @djlobottomy, DJ Saratonin, Just Another Bitch
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtcemi/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtcemi/)*

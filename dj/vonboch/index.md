@@ -1,6 +1,6 @@
 # Von Boch
 
-Von Boch is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 21 Nov 2026.
+Von Boch is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 21 Nov 2026.
 
 Von Boch is a house and afro house artist based in United States of America, with 4 gigs on soundcheck across Düsseldorf, Los Angeles and Miami. Often billed alongside Annicka, Blaise S and Josef Schumacher. Next up: ORIGIN, Los Angeles on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Von Boch is a house and afro house artist based in United States of America, wit
 
 Annicka, Blaise S, Josef Schumacher
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonboch/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonboch/)*

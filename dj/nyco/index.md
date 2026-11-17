@@ -1,0 +1,28 @@
+# Nyco (FR)
+
+Nyco (FR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Super7, Lyon on Sat, 21 Nov 2026.
+
+Nyco (FR) is a techno and hardcore artist based in France, with 22 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Karlsruhe and 5 more. Often billed alongside Aphøtic, KARAH and XRTN. Next up: Super7, Lyon on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Super7 | Lyon |
+
+## Recently played
+
+- Gotec, Karlsruhe · Sat, 10 Oct 2026
+- Kilomètre25, Paris · Sat, 8 Aug 2026
+- BASIS, Utrecht · Sat, 25 Jul 2026
+- Mia Mao, Paris · Fri, 17 Jul 2026
+- Thuishaven, Amsterdam · Sat, 13 Jun 2026
+- Strijkviertel, Utrecht · Sat, 6 Jun 2026
+- Warehouse Elementenstraat, Amsterdam · Sat, 14 Feb 2026
+- Super5, Lyon · Sat, 10 Jan 2026
+
+## Shares bills with
+
+Aphøtic, KARAH, XRTN
+
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*

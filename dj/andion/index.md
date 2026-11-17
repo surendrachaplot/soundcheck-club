@@ -1,13 +1,14 @@
 # Andion
 
-Andion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Lisboa, Lisbon on Fri, 4 Dec 2026.
+Andion is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Harbour Music Shelter, Lisbon on Sun, 22 Nov 2026.
 
-Andion is a house and techno artist based in Portugal, with 8 gigs on soundcheck across Lisbon. Often billed alongside Simone, Simonee and Bernardo Vaz. Next up: TBA - Lisboa, Lisbon on Fri 4 Dec.
+Andion is a house and techno artist based in Portugal, with 9 gigs on soundcheck across Lisbon. Often billed alongside Simone, Simonee and Bernardo Vaz. Next up: Harbour Music Shelter, Lisbon on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Harbour Music Shelter | Lisbon |
 | Fri, 4 Dec 2026 | TBA - Lisboa | Lisbon |
 
 ## Recently played
@@ -24,4 +25,4 @@ Andion is a house and techno artist based in Portugal, with 8 gigs on soundcheck
 
 Simone (3), Simonee, Bernardo Vaz
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andion/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andion/)*

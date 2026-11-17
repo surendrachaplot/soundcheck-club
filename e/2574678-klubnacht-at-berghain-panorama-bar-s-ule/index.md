@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 5 Dec, Berlin. 14 artists: BASHKKA, Brennan, Derrick Carter and DJ MARIA. and 10 more. See the line-up on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 5 Dec, Berlin. 15 artists: BASHKKA, Brennan, Derrick Carter and DJ MARIA. and 11 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 5 Dec, Berlin. 14 artists: 
 - Fiedel
 - Kr!z
 - Kyle Geiger
+- Luke Solomon
 - Ogazón
 - Red Rooms
 - Rosie Ama

@@ -1,6 +1,6 @@
 # Abstract (US)
 
-Abstract (US) is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 27 Nov 2026.
+Abstract (US) is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 27 Nov 2026.
 
 Abstract (US) is an electronica and bass artist based in United States of America, with 5 gigs on soundcheck across Amsterdam and Milan. Often billed alongside WaxFiend, Aaron Dunkies and Antal. Next up: Skatecafe, Amsterdam on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Abstract (US) is an electronica and bass artist based in United States of Americ
 
 WaxFiend, Aaron Dunkies, Antal
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstract-us/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstract-us/)*

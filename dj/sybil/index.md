@@ -1,6 +1,6 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+Sybil is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
 Sybil is a techno and trance artist based in United Kingdom, with 143 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside .VRIL, BASHKKA and Kia (AU). Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Sybil is a techno and trance artist based in United Kingdom, with 143 gigs on so
 
 .VRIL, BASHKKA, Kia (AU)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

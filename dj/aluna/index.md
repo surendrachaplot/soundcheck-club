@@ -1,6 +1,6 @@
 # Aluna
 
-Aluna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
+Aluna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
 
 Aluna is a house and techno artist based in United Kingdom, with 60 gigs on soundcheck across Austin, Barcelona, Bristol and Calgary and 21 more. Often billed alongside Coco & Breezy, RaeCola and Grimes. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
 
@@ -25,4 +25,4 @@ Aluna is a house and techno artist based in United Kingdom, with 60 gigs on soun
 
 Coco & Breezy, RaeCola, Grimes
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*

@@ -1,13 +1,14 @@
 # Cosimo Damiano
 
-Cosimo Damiano is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Forte Prenestino, Rome on Fri, 27 Nov 2026.
+Cosimo Damiano is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at OHM, Berlin on Fri, 20 Nov 2026.
 
-Cosimo Damiano is a techno and electronica artist based in Italy, with 46 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside Future Nomadz, Gattonero and Neel. Next up: Forte Prenestino, Rome on Fri 27 Nov.
+Cosimo Damiano is a techno and electronica artist based in Italy, with 47 gigs on soundcheck across Berlin, Milan, Rome and Turin. Often billed alongside Future Nomadz, Gattonero and Neel. Next up: OHM, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | OHM | Berlin |
 | Fri, 27 Nov 2026 | Forte Prenestino | Rome |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cosimo Damiano is a techno and electronica artist based in Italy, with 46 gigs o
 
 Future Nomadz, Gattonero, Neel
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimodamiano/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimodamiano/)*

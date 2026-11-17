@@ -1,6 +1,6 @@
 # P4 (1)
 
-P4 (1) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+P4 (1) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 P4 is a tech house and house artist based in Italy, with 5 gigs on soundcheck across Barcelona, Ibiza, Naples and Thailand. Often billed alongside Afrodite, Aga and Alex Albrecht. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ P4 is a tech house and house artist based in Italy, with 5 gigs on soundcheck ac
 
 Afrodite (2), Aga, Alex Albrecht
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p4-1/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p4-1/)*

@@ -1,6 +1,6 @@
 # THE OTHER SIDE presents: Sama' Abdulhadi at THE OTHER SIDE
 
-THE OTHER SIDE presents: Sama' Abdulhadi on Sat 28 Nov, Amsterdam. 1 artist: Sama' Abdulhadi. Techno and Tech House. See the line-up on soundcheck.
+THE OTHER SIDE presents: Sama' Abdulhadi on Sat 28 Nov, Amsterdam. 3 artists: Luigi Madonna, Prance and Sama' Abdulhadi. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ THE OTHER SIDE presents: Sama' Abdulhadi on Sat 28 Nov, Amsterdam. 1 artist: Sam
 
 ## Line-up
 
+- Luigi Madonna
+- Prance
 - Sama' Abdulhadi
 
 *Source: [soundcheck](https://soundcheck.club/e/2571809-the-other-side-presents-sama-abdulhadi-at-the-other-side/)*

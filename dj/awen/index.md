@@ -1,6 +1,6 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
+AWEN is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
 
 AWEN is an afro house and house artist based in France, with 88 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: Trübsee Station, Engelberg, Switzerland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ AWEN is an afro house and house artist based in France, with 88 gigs on soundche
 
 Shimza, DJEFF, Francis Mercier
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

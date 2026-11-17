@@ -1,6 +1,6 @@
 # Antonym
 
-Antonym is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
+Antonym is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
 
 Antonym is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 19 more. Often billed alongside DJ Pinky Promise, Carluschka and Elon Bass. Next up: Mia Mao, Paris on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Antonym is a techno and trance artist based in Germany, with 114 gigs on soundch
 
 DJ Pinky Promise, Carluschka, Elon Bass
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonym/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonym/)*

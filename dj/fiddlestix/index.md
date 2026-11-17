@@ -1,6 +1,6 @@
 # Fiddlestix
 
-Fiddlestix is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Shredenhams, Bristol on Fri, 20 Nov 2026.
+Fiddlestix is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Shredenhams, Bristol on Fri, 20 Nov 2026.
 
 Fiddlestix is an electronica and house artist based in United Kingdom, with 3 gigs on soundcheck across Bristol. Often billed alongside Capo Lee, Chez de Milo and Hayliegh. Next up: Shredenhams, Bristol on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Fiddlestix is an electronica and house artist based in United Kingdom, with 3 gi
 
 Capo Lee, Chez de Milo, Hayliegh
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiddlestix/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiddlestix/)*

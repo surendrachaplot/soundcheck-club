@@ -1,6 +1,6 @@
 # Theia Daja
 
-Theia Daja is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Skin Club, Madrid on Fri, 27 Nov 2026.
+Theia Daja is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Skin Club, Madrid on Fri, 27 Nov 2026.
 
 Theia Daja is a techno and electronica artist based in Colombia, with 35 gigs on soundcheck across Barcelona and Madrid. Often billed alongside NETN, DJ TURBO and Alejandro Gata. Next up: Skin Club, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Theia Daja is a techno and electronica artist based in Colombia, with 35 gigs on
 
 NETN, DJ TURBO, Alejandro Gata
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*

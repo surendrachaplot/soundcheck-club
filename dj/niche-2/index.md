@@ -1,8 +1,8 @@
 # NICHE (2)
 
-NICHE (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at H0L0, New York City on Thu, 19 Nov 2026.
+NICHE (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at H0L0, New York City on Thu, 19 Nov 2026.
 
-NICHE is a garage and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Sangarang, Body Copy and F33L5. Next up: H0L0, New York City on Thu 19 Nov.
+NICHE is a garage and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Sangarang, Body Copy and Diantoro. Next up: H0L0, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ NICHE is a garage and house artist based in United States of America, with 4 gig
 
 ## Shares bills with
 
-Sangarang, Body Copy, F33L5
+Sangarang, Body Copy, Diantoro
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niche-2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niche-2/)*

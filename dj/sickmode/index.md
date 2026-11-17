@@ -1,6 +1,6 @@
 # Sickmode
 
-Sickmode is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+Sickmode is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
 
 Sickmode is a hardcore and techno artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Bangkok, Brussels and Cologne and 12 more. Often billed alongside Angerfist, Dimitri K and Da Tweekaz. Next up: Brussels Expo, Brussels on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ Sickmode is a hardcore and techno artist based in Netherlands, with 20 gigs on s
 
 Angerfist, Dimitri K, Da Tweekaz
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*

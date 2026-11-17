@@ -1,6 +1,6 @@
 # Pauliexoxoxo
 
-Pauliexoxoxo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Society Clubhouse, Toronto on Sun, 27 Dec 2026.
+Pauliexoxoxo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Society Clubhouse, Toronto on Sun, 27 Dec 2026.
 
 Pauliexoxoxo is a techno and electro artist based in Canada, with 23 gigs on soundcheck across Toronto. Often billed alongside Vyl3t, Audi Étoffe and Hycastle. Next up: Society Clubhouse, Toronto on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Pauliexoxoxo is a techno and electro artist based in Canada, with 23 gigs on sou
 
 Vyl3t, Audi Étoffe, Hycastle
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauliexoxoxo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauliexoxoxo/)*

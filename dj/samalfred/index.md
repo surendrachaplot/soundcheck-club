@@ -1,14 +1,15 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Sub Club, Glasgow on Thu, 19 Nov 2026.
+Sam Alfred is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sub Club, Glasgow on Thu, 19 Nov 2026.
 
-Sam Alfred is a house and techno artist based in Egypt, with 162 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: Sub Club, Glasgow on Thu 19 Nov.
+Sam Alfred is a house and techno artist based in Egypt, with 163 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: Sub Club, Glasgow on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Sub Club | Glasgow |
+| Sat, 21 Nov 2026 | FVTVR | Paris |
 | Sat, 21 Nov 2026 | FVTVR | Paris |
 | Fri, 27 Nov 2026 | The Limelight | Belfast |
 | Sat, 12 Dec 2026 | Mondo | Madrid |
@@ -35,4 +36,4 @@ Sam Alfred is a house and techno artist based in Egypt, with 162 gigs on soundch
 
 Club Angel, SAIDAH, X CLUB.
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

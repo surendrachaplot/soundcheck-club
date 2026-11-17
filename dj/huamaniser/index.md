@@ -1,14 +1,15 @@
 # Huamaniser
 
-Huamaniser is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+Huamaniser is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
 
-Huamaniser is a techno and house artist based in Spain, with 57 gigs on soundcheck across Amsterdam, Berlin, Dresden and Dublin and 5 more. Often billed alongside Rakans, Cristian Marras and Khloe. Next up: KREUZWERK, Berlin on Sat 5 Dec.
+Huamaniser is a techno and house artist based in Spain, with 58 gigs on soundcheck across Amsterdam, Berlin, Dresden and Dublin and 5 more. Often billed alongside Rakans, Cristian Marras and Khloe. Next up: KREUZWERK, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | KREUZWERK | Berlin |
+| Fri, 11 Dec 2026 | TBA - LFO.exp | Madrid |
 | Sat, 12 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Huamaniser is a techno and house artist based in Spain, with 57 gigs on soundche
 
 Rakans, Cristian Marras, Khloe
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huamaniser/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huamaniser/)*

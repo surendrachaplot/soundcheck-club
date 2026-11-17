@@ -1,6 +1,6 @@
 # Ghoztbomb
 
-Ghoztbomb is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Strays, Detroit on Fri, 20 Nov 2026.
+Ghoztbomb is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Strays, Detroit on Fri, 20 Nov 2026.
 
 Ghoztbomb is an industrial and techno artist based in United States of America, with 3 gigs on soundcheck across Detroit and Ohio. Next up: The Strays, Detroit on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ Ghoztbomb is an industrial and techno artist based in United States of America, 
 
 - The Strays, Detroit · Wed, 14 Oct 2026
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoztbomb/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoztbomb/)*

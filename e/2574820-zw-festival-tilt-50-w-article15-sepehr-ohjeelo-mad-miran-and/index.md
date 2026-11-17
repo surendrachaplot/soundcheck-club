@@ -1,6 +1,6 @@
-# ZW-FESTIVAL TILT #50 w/ Article15, Sepehr, ohjeelo, mad miran and others at Zentralwäscherei
+# ZW-FESTIVAL TILT #50 w/ ARTICLE15, Sepehr, ohjeelo, mad miran and others at Zentralwäscherei
 
-ZW-FESTIVAL TILT #50 w/ Article15, Sepehr, ohjeelo, mad miran and others at Zentralwäscherei on Sat 21 Nov, Zurich. 5 artists: mad miran, Mukuna, ohjeelo and Phrex and 1 more. Club. See the line-up on soundcheck.
+ZW-FESTIVAL TILT #50 w/ ARTICLE15, Sepehr, ohjeelo, mad miran and others at Zentralwäscherei on Sat 21 Nov, Zurich. 5 artists: mad miran, Mukuna, ohjeelo and Phrex and 1 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

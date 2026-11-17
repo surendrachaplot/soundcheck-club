@@ -1,6 +1,6 @@
 # ADAM19
 
-ADAM19 is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kramladen, Vienna on Thu, 3 Dec 2026.
+ADAM19 is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kramladen, Vienna on Thu, 3 Dec 2026.
 
 ADAM19 is a techno and minimal techno artist based in Austria, with 3 gigs on soundcheck across Vienna. Often billed alongside Farbod, Post Scriptum and Rui de Janeiro. Next up: Kramladen, Vienna on Thu 3 Dec.
 
@@ -19,4 +19,4 @@ ADAM19 is a techno and minimal techno artist based in Austria, with 3 gigs on so
 
 Farbod, Post Scriptum, Rui de Janeiro
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adam19/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adam19/)*

@@ -1,8 +1,8 @@
 # PYOTOR
 
-PYOTOR is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wee Red Bar, Edinburgh on Sat, 5 Dec 2026.
+PYOTOR is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Wee Red Bar, Edinburgh on Sat, 5 Dec 2026.
 
-PYOTOR is a club and experimental artist, with 5 gigs on soundcheck across Edinburgh. Often billed alongside Buckfast Barbie, LVRA and Phoebe Roper. Next up: The Wee Red Bar, Edinburgh on Sat 5 Dec.
+PYOTOR is a club and experimental artist based in United Kingdom, with 5 gigs on soundcheck across Edinburgh. Often billed alongside Buckfast Barbie, LVRA and Phoebe Roper. Next up: The Wee Red Bar, Edinburgh on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ PYOTOR is a club and experimental artist, with 5 gigs on soundcheck across Edinb
 
 Buckfast Barbie, LVRA, Phoebe Roper
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyotor/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyotor/)*

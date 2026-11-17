@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 17 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "BBC Radio 6 Music: New Music Fix Live" on Thu, 19 Nov 2026.
+Movers is a music venue in Nottingham with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "BBC Radio 6 Music: New Music Fix Live" on Thu, 19 Nov 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Traska, Another Place, Brawther and Crazy P and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -15,7 +15,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 17 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Cuba Fundraiser: Salsa Dance Class |  |
 | Fri, 27 Nov 2026 | Truth & Lies: Wild and Heavy International Rhythms |  |
 | Sat, 28 Nov 2026 | discotech x Quadrant: Terry Francis, Rob Pearson + more | Jordan Diston, Rob Pearson, Terry Francis |
-| Thu, 3 Dec 2026 | Honey Dips: Bedazzle Bandannas Workshop + Party |  |
+| Thu, 3 Dec 2026 | Honey Dips: Bedazzle Workshop + Party |  |
 | Fri, 4 Dec 2026 | disko kix: disco, funk, house, soul & leftfield |  |
 | Sat, 5 Dec 2026 | Ordinary People: Deep House & Jazz |  |
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 17 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

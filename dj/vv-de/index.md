@@ -1,6 +1,6 @@
 # VV$ (DE)
 
-VV$ (DE) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Geist im Glas, Berlin on Fri, 20 Nov 2026.
+VV$ (DE) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Geist im Glas, Berlin on Fri, 20 Nov 2026.
 
 VV$ (DE) is a club and bass artist based in Germany, with 10 gigs on soundcheck across Berlin, Copenhagen and New York City. Often billed alongside N3LYSTAR, ABIBA and Alissa Zaddi. Next up: Geist im Glas, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ VV$ (DE) is a club and bass artist based in Germany, with 10 gigs on soundcheck 
 
 N3LYSTAR, ABIBA, Alissa Zaddi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vv-de/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vv-de/)*

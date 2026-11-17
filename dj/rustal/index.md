@@ -1,6 +1,6 @@
 # Rustal
 
-Rustal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 27 Nov 2026.
+Rustal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 27 Nov 2026.
 
 Rustal is a techno and house artist based in Ireland, with 42 gigs on soundcheck across Berlin, Cork, Detroit and Dublin and 1 more. Often billed alongside Offtrack, Ayolxi and Chaz Moloney. Next up: Hang Dai Chinese, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Rustal is a techno and house artist based in Ireland, with 42 gigs on soundcheck
 
 Offtrack, Ayolxi, Chaz Moloney
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rustal/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rustal/)*

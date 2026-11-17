@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Nicky Miller Release Film Party: PETIT DÉJEUNER" on Wed, 18 Nov 2026.
+Lark is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Nicky Miller Release Film Party: PETIT DÉJEUNER" on Wed, 18 Nov 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including ANTHEM, Electrosexual, Nitebleach and Sodomland. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -18,4 +18,4 @@ Lark is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

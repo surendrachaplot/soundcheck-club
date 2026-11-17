@@ -1,6 +1,6 @@
-# CARGO & JACKY ICKX invites w Felinae, Cobb Douglas + more (FREE TILL 01:00) at DETROIT CLUB
+# CARGO & JACKY ICKX invites w Felinae, Cobb Douglas + more (FREE TILL 01:00 w free ticket) at DETROIT CLUB
 
-CARGO & JACKY ICKX invites w Felinae, Cobb Douglas + more (FREE TILL 01:00) at DETROIT CLUB on Sat 21 Nov, Barcelona. 5 artists: CARGO (DE), Cobb Douglas, DiscoDaisy and Felinae and 1 more. Trance and Techno. See the line-up on soundcheck.
+CARGO & JACKY ICKX invites w Felinae, Cobb Douglas + more (FREE TILL 01:00 w free ticket) at DETROIT CLUB on Sat 21 Nov, Barcelona. 5 artists: CARGO (DE), Cobb Douglas, DiscoDaisy and Felinae and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Giulia Gutterer
 
-Giulia Gutterer is a Italo Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at AMT, Berlin on Fri, 20 Nov 2026.
+Giulia Gutterer is a Italo Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at AMT, Berlin on Fri, 20 Nov 2026.
 
 Giulia Gutterer is an italo disco and house artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 20 more. Often billed alongside Fabrizio Mammarella, Franz Scala and Curses. Next up: AMT, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Giulia Gutterer is an italo disco and house artist based in Italy, with 78 gigs 
 
 Fabrizio Mammarella, Franz Scala, Curses
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*

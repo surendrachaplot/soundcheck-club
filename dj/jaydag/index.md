@@ -1,14 +1,15 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Jayda G is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
-Jayda G is a house and techno artist based in Canada, with 141 gigs on soundcheck across Amsterdam, Austria, Bali and Barcelona and 54 more. Often billed alongside salute, Ewan McVicar and Melvo Baptiste. Next up: Verbier, Switzerland on Fri 20 Nov.
+Jayda G is a house and techno artist based in Canada, with 142 gigs on soundcheck across Amsterdam, Austria, Bali and Barcelona and 54 more. Often billed alongside salute, Ewan McVicar and Melvo Baptiste. Next up: Verbier, Switzerland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
+| Sat, 5 Dec 2026 | The Cause | London |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
@@ -30,4 +31,4 @@ Jayda G is a house and techno artist based in Canada, with 141 gigs on soundchec
 
 salute, Ewan McVicar, Melvo Baptiste
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

@@ -1,13 +1,15 @@
 # DMITRI ABSINTHE
 
-DMITRI ABSINTHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at W Osaka, Osaka on Sat, 28 Nov 2026.
+DMITRI ABSINTHE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Shinsaibashi, Osaka on Fri, 20 Nov 2026.
 
-DMITRI ABSINTHE is a house and techno artist based in Japan, with 107 gigs on soundcheck across Kansai, Kyoto, Osaka and Rome. Often billed alongside MAX PELA, Nao Nomura and YUUKI YOSHIYAMA. Next up: W Osaka, Osaka on Sat 28 Nov.
+DMITRI ABSINTHE is a house and techno artist based in Japan, with 109 gigs on soundcheck across Kansai, Kyoto, Osaka and Rome. Often billed alongside MAX PELA, Nao Nomura and YUUKI YOSHIYAMA. Next up: TBA - Shinsaibashi, Osaka on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TBA - Shinsaibashi | Osaka |
+| Sat, 21 Nov 2026 | Joule | Osaka |
 | Sat, 28 Nov 2026 | W Osaka | Osaka |
 
 ## Recently played
@@ -25,4 +27,4 @@ DMITRI ABSINTHE is a house and techno artist based in Japan, with 107 gigs on so
 
 MAX PELA, Nao Nomura, YUUKI YOSHIYAMA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitriabsinthe/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitriabsinthe/)*

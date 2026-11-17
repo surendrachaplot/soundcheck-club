@@ -1,8 +1,8 @@
 # Moorhaus
 
-Moorhaus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Moorhaus is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Moorhaus is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Chicago, Madison, Miami and New York City. Often billed alongside Muffy, Dunes of Dawn and ChaseWest. Next up: Factory Town, Miami on Wed 2 Dec.
+Moorhaus is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Chicago, Madison, Miami and New York City. Often billed alongside Muffy, Dunes of Dawn and ChaseWest. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Moorhaus is a house and techno artist based in United States of America, with 28
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
+| Fri, 1 Jan 2027 | Prysm Nightclub | Chicago |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Moorhaus is a house and techno artist based in United States of America, with 28
 
 Muffy, Dunes of Dawn, ChaseWest
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*

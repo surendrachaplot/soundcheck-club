@@ -1,6 +1,6 @@
 # Headache at The Ground at Club Space
 
-Headache at The Ground at Club Space on Sun 22 Nov, Miami. 1 artist: AMR*. Downtempo and Electronica. See the line-up on soundcheck.
+Headache at The Ground at Club Space on Sun 22 Nov, Miami. 2 artists: AMR* and Headache. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Headache at The Ground at Club Space on Sun 22 Nov, Miami. 1 artist: AMR*. Downt
 ## Line-up
 
 - AMR*
+- Headache
 
 *Source: [soundcheck](https://soundcheck.club/e/2583289-headache-at-the-ground-at-club-space/)*

@@ -1,8 +1,8 @@
 # James Ruskin
 
-James Ruskin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tunnel Club, Birmingham on Fri, 4 Dec 2026.
+James Ruskin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tunnel Club, Birmingham on Fri, 4 Dec 2026.
 
-James Ruskin is a techno and electro artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Regis, Ben Sims and Cecilia Tosh. Next up: Tunnel Club, Birmingham on Fri 4 Dec.
+James Ruskin is a techno and electro artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Regis, Ben Sims and Cecilia Tosh. Next up: Tunnel Club, Birmingham on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ James Ruskin is a techno and electro artist based in United Kingdom, with 66 gig
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Tunnel Club | Birmingham |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
+| Sat, 12 Dec 2026 | Lanificio 159 | Rome |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ James Ruskin is a techno and electro artist based in United Kingdom, with 66 gig
 
 Regis, Ben Sims, Cecilia Tosh
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*

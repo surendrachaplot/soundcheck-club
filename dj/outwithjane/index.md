@@ -1,6 +1,6 @@
 # OutWithJane
 
-OutWithJane is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Koralle, Dresden on Fri, 20 Nov 2026.
+OutWithJane is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Koralle, Dresden on Fri, 20 Nov 2026.
 
 OutWithJane is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Larry Love, T.Schaui and Kalitos. Next up: Koralle, Dresden on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ OutWithJane is a house and techno artist based in Germany, with 17 gigs on sound
 
 Larry Love, T.Schaui, Kalitos
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*

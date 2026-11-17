@@ -1,6 +1,6 @@
 # Silvia Ponce
 
-Silvia Ponce is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mitsuki, Tokyo on Sun, 22 Nov 2026.
+Silvia Ponce is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mitsuki, Tokyo on Sun, 22 Nov 2026.
 
 Silvia Ponce is a techno and tech house artist based in Ecuador, with 4 gigs on soundcheck across Bogotá, Medellin, Osaka and Tokyo. Often billed alongside Nicola Cruz, AOKI takamasa and Alex Jockey. Next up: Mitsuki, Tokyo on Sun 22 Nov.
 
@@ -20,4 +20,4 @@ Silvia Ponce is a techno and tech house artist based in Ecuador, with 4 gigs on 
 
 Nicola Cruz, AOKI takamasa, Alex Jockey
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silviaponce/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silviaponce/)*

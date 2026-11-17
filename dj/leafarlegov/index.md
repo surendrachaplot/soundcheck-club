@@ -1,6 +1,6 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Leafar Legov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Leafar Legov is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 44 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -26,4 +26,4 @@ Leafar Legov is a house and techno artist based in Germany, with 114 gigs on sou
 
 Konstantin, Edward, Map.ache
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*

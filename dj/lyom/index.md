@@ -1,6 +1,6 @@
 # LYOM
 
-LYOM is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 19 Nov 2026.
+LYOM is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 19 Nov 2026.
 
 LYOM is a techno and trance artist based in Japan, with 16 gigs on soundcheck across Seoul and Tokyo. Often billed alongside EMILIO, Calavera and STRATAH. Next up: Z Maruyama, Tokyo on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ LYOM is a techno and trance artist based in Japan, with 16 gigs on soundcheck ac
 
 EMILIO (3), Calavera, STRATAH
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*

@@ -1,6 +1,6 @@
 # Floetic
 
-Floetic is a Hip-Hop and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Barfly, London on Wed, 18 Nov 2026.
+Floetic is a Hip-Hop and Grime artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Barfly, London on Wed, 18 Nov 2026.
 
 Floetic is a hip-hop and grime artist, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Kieran Dotwav, CHAOS and NAIM JUNIOR. Next up: Barfly, London on Wed 18 Nov.
 
@@ -23,4 +23,4 @@ Floetic is a hip-hop and grime artist, with 7 gigs on soundcheck across Bristol 
 
 Kieran Dotwav, CHAOS, NAIM JUNIOR
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floetic/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floetic/)*

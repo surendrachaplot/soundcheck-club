@@ -1,6 +1,6 @@
 # okocz
 
-okocz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Good Room, New York City on Sat, 28 Nov 2026.
+okocz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Good Room, New York City on Sat, 28 Nov 2026.
 
 okocz is a techno and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside skoglund, Erik Braun and HNDRNC. Next up: Good Room, New York City on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ okocz is a techno and house artist based in United States of America, with 4 gig
 
 skoglund, Erik Braun, HNDRNC
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okocz/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okocz/)*

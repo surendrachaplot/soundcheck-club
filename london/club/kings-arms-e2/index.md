@@ -1,6 +1,6 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Kings Turntable: Malou [21.11.26]" on Sat, 21 Nov 2026.
+Kings Arms E2 is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Kings Turntable: Malou [21.11.26]" on Sat, 21 Nov 2026.
 
 Kings Arms E2 is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Here on Earth, MAÏS and NOYB. See dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
@@ -23,4 +23,4 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 10 upcoming gigs,
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

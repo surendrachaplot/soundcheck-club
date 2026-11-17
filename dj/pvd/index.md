@@ -1,6 +1,6 @@
 # Paul Van Dyk
 
-Paul Van Dyk is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Document, Bristol on Sat, 13 Feb 2027.
+Paul Van Dyk is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Document, Bristol on Sat, 13 Feb 2027.
 
 Paul Van Dyk is a trance and progressive house artist based in Germany, with 189 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 70 more. Often billed alongside Aly & Fila, John '00' Fleming and John O'Callaghan. Next up: Document, Bristol on Sat 13 Feb.
 
@@ -26,4 +26,4 @@ Paul Van Dyk is a trance and progressive house artist based in Germany, with 189
 
 Aly & Fila, John '00' Fleming, John O'Callaghan
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvd/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvd/)*

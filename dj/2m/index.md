@@ -1,6 +1,6 @@
 # 2M
 
-2M is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Folklor, Lausanne on Thu, 19 Nov 2026.
+2M is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Folklor, Lausanne on Thu, 19 Nov 2026.
 
 2M is a techno and deep house artist based in Germany, with 22 gigs on soundcheck across Brussels, Copenhagen, Dublin and Lausanne and 3 more. Often billed alongside Alex Dallas, Manuel Fischer and Kalabrese. Next up: Folklor, Lausanne on Thu 19 Nov.
 
@@ -25,4 +25,4 @@
 
 Alex Dallas, Manuel Fischer, Kalabrese
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2m/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2m/)*

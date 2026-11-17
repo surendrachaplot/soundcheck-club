@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "MOVING D-EDGE SP pres.: P1: Kolombo. DOPECUPID. Fran Bortolossi. KEVIN B2B TUNIS" on Thu, 19 Nov 2026.
+D-EDGE is a music venue in Sao Paulo with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "MOVING D-EDGE SP pres.: P1: Kolombo. DOPECUPID. Fran Bortolossi. KEVIN B2B TUNIS" on Thu, 19 Nov 2026.
 
 D-EDGE is a music venue in Sao Paulo listed on soundcheck. 9 upcoming gigs, with line-ups including Amine Edge, BAPP, Bauhouse and Botanic Soundsystem and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -22,4 +22,4 @@ D-EDGE is a music venue in Sao Paulo listed on soundcheck. 9 upcoming gigs, with
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

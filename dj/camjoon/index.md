@@ -1,0 +1,28 @@
+# Cam Joon
+
+Cam Joon is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Carpet Shop, London on Thu, 10 Dec 2026.
+
+Cam Joon is a bass and club artist based in United Kingdom, with 35 gigs on soundcheck across London and Manchester. Often billed alongside INGI, FNKD and Maxwell Owin. Next up: The Carpet Shop, London on Thu 10 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 10 Dec 2026 | The Carpet Shop | London |
+
+## Recently played
+
+- The Carpet Shop, London · Sat, 31 Oct 2026
+- The Carpet Shop, London · Thu, 8 Oct 2026
+- TBA - Near Salisbury, London · Fri, 12 Jun 2026
+- The Carpet Shop, London · Fri, 22 May 2026
+- Ormside Projects, London · Sat, 25 Apr 2026
+- Corsica Studios, London · Fri, 23 Jan 2026
+- The Carpet Shop, London · Wed, 31 Dec 2025
+- The Carpet Shop, London · Sat, 20 Dec 2025
+
+## Shares bills with
+
+INGI, FNKD, Maxwell Owin
+
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camjoon/)*

@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "ROOTZ x Turbina" on Thu, 19 Nov 2026.
+Turbina is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "ROOTZ x Turbina" on Thu, 19 Nov 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Andrey Pushkarev, Atashi, Bencsama and Deepbass and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -21,4 +21,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

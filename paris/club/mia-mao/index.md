@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "RESONANCE: JOCKEY NARVAL, OYO B2B CAMPOREALE " on Thu, 19 Nov 2026.
+Mia Mao is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "RESONANCE: JOCKEY NARVAL, OYO B2B CAMPOREALE " on Thu, 19 Nov 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including 999999999, ADB (FR), AEREA and Alex Nantaya and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -9,7 +9,7 @@ Mia Mao is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | RESONANCE: JOCKEY NARVAL, OYO B2B CAMPOREALE  | PROXYMA, SHRED 2000 |
-| Fri, 20 Nov 2026 | 2Much 2nd Birthday: Somewhen, Antonym, Paralich & More | Antonym, Dj Koyla, Paralich, Somewhen |
+| Fri, 20 Nov 2026 | 2Much 2nd birthday : Somewhen, Antonym, Die Klar & more | Antonym, Die Klar, Dj Koyla, Paralich, Somewhen |
 | Sat, 21 Nov 2026 | Hot Meal : Bad Boombox, Mischluft, Mija & More | Bad Boombox, Janis Zielinski, Mija, Mischluft, lizaliza |
 | Thu, 26 Nov 2026 | Bouncin — Koboyo & Friends | DJ Angel (1), Equus Belli, Isa Tchesnokova, Koboyo, Sept |
 | Fri, 27 Nov 2026 | Polyamor: davyboi, Mika Heggemann, Cara Elizabeth & More | Cara Elizabeth, Cleopard2000, Mika Heggemann, davyboi |
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with l
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

@@ -1,6 +1,6 @@
 # Stevy Lab
 
-Stevy Lab is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - House of Growfunding, Brussels on Fri, 20 Nov 2026.
+Stevy Lab is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - House of Growfunding, Brussels on Fri, 20 Nov 2026.
 
 Stevy Lab is a progressive house artist, with 5 gigs on soundcheck across Brussels. Often billed alongside Quibron, kedakeda and Sarah Wanita. Next up: TBA - House of Growfunding, Brussels on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Stevy Lab is a progressive house artist, with 5 gigs on soundcheck across Brusse
 
 Quibron, kedakeda, Sarah Wanita
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevylab/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevylab/)*

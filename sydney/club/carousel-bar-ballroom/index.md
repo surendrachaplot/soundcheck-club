@@ -1,8 +1,8 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "immense x AFTER HOURS presents. Ellia Jaya" on Fri, 20 Nov 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "immense x AFTER HOURS presents. Ellia Jaya" on Fri, 20 Nov 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 13 upcoming gigs, with line-ups including Bushbaby, Caike., Cristina Lazic and Ellia Jaya and 2 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 17 upcoming gigs, with line-ups including Bushbaby, Caike., Cristina Lazic and Ellia Jaya and 2 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 13 upco
 | Sun, 29 Nov 2026 | Carousel Sundays |  |
 | Fri, 4 Dec 2026 | Dayglow Presents: Bushbaby | Bushbaby, Sekta |
 | Sat, 5 Dec 2026 | ★ S.A.S.H Sydney ★ Cristina Lazic ★ Saturday 5th December ★ | Cristina Lazic |
-| Sat, 12 Dec 2026 | ★ S.A.S.H Sydney ★ Saturday 12th December ★ |  |
+| Sun, 6 Dec 2026 | Carousel Sundays |  |
 
 ## Address
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

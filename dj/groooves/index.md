@@ -1,6 +1,6 @@
 # Groooves
 
-Groooves is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Red Brick Records, Manchester on Sat, 5 Dec 2026.
+Groooves is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Red Brick Records, Manchester on Sat, 5 Dec 2026.
 
 Groooves is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Leeds, London and Manchester. Often billed alongside Cam Harrop, Redshift and 7ommes. Next up: Red Brick Records, Manchester on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Groooves is a house and tech house artist based in United Kingdom, with 8 gigs o
 
 Cam Harrop, Redshift (2), 7ommes
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groooves/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groooves/)*

@@ -1,13 +1,14 @@
 # Wildealer
 
-Wildealer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mermaid Beach Resort, Bangladesh on Fri, 29 Jan 2027.
+Wildealer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Cloud 11, Bangkok on Thu, 31 Dec 2026.
 
-Wildealer is a house and tech house artist based in Thailand, with 47 gigs on soundcheck across Amsterdam, Bangkok, Bangladesh and Ibiza and 6 more. Often billed alongside IYY (TH), Meltmode and PunTue. Next up: Mermaid Beach Resort, Bangladesh on Fri 29 Jan.
+Wildealer is a house and tech house artist based in Thailand, with 48 gigs on soundcheck across Amsterdam, Bangkok, Bangladesh and Ibiza and 6 more. Often billed alongside IYY (TH), Meltmode and PunTue. Next up: Cloud 11, Bangkok on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Cloud 11 | Bangkok |
 | Fri, 29 Jan 2027 | Mermaid Beach Resort | Bangladesh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Wildealer is a house and tech house artist based in Thailand, with 47 gigs on so
 
 IYY (TH), Meltmode (2), PunTue
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*

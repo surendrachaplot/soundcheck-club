@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "CASA: BLESSINGS OF THE 2020s (FT EXTRA SCOTTISH ARTISTS) // TUESDAY 17th NOVEMBER" on Tue, 17 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "CASA: BLESSINGS OF THE 2020s (FT EXTRA SCOTTISH ARTISTS) // TUESDAY 17th NOVEMBER" on Tue, 17 Nov 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 27 upcoming gigs, with line-ups including Chris Liberator, Co-Accused, Crazy P and Doc Scott and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 27 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

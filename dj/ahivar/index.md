@@ -1,6 +1,6 @@
 # ahivar
 
-ahivar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri, 11 Dec 2026.
+ahivar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri, 11 Dec 2026.
 
 ahivar is a house and techno artist based in Thailand, with 22 gigs on soundcheck across Bangkok and Thailand. Often billed alongside Meltmode, Wildealer and DJ Krit Morton. Next up: TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ ahivar is a house and techno artist based in Thailand, with 22 gigs on soundchec
 
 Meltmode (2), Wildealer, DJ Krit Morton
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahivar/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahivar/)*

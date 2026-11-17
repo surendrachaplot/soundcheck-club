@@ -1,6 +1,6 @@
 # dev.n
 
-dev.n is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Bourbon On Division, Chicago on Fri, 27 Nov 2026.
+dev.n is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bourbon On Division, Chicago on Fri, 27 Nov 2026.
 
 dev.n is a club and ghetto tech artist based in United States of America, with 10 gigs on soundcheck across Baltimore, Chicago and New York City. Often billed alongside Mo Mami, NoahG and BRATATTACK. Next up: Bourbon On Division, Chicago on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ dev.n is a club and ghetto tech artist based in United States of America, with 1
 
 Mo Mami, NoahG, BRATATTACK
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*

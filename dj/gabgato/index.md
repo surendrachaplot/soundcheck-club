@@ -1,6 +1,6 @@
 # Gab Gato
 
-Gab Gato is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Luma, Milan on Thu, 31 Dec 2026.
+Gab Gato is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Luma, Milan on Thu, 31 Dec 2026.
 
 Gab Gato is an electro and electronica artist, with 4 gigs on soundcheck across Madrid and Milan. Often billed alongside Carl Craig, Dopplereffekt and F. Vinuesa. Next up: Luma, Milan on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Gab Gato is an electro and electronica artist, with 4 gigs on soundcheck across 
 
 Carl Craig, Dopplereffekt, F. Vinuesa
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabgato/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabgato/)*

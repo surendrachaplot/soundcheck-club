@@ -1,6 +1,6 @@
 # NUTMEG
 
-NUTMEG is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Knock, Tokyo on Fri, 5 Nov 2027.
+NUTMEG is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Knock, Tokyo on Fri, 5 Nov 2027.
 
 NUTMEG is a techno and acid artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside HIDAI, Do Shock Booze and AMG SAIMURA (TECHVANE). Next up: Knock, Tokyo on Fri 5 Nov.
 
@@ -25,4 +25,4 @@ NUTMEG is a techno and acid artist based in Japan, with 10 gigs on soundcheck ac
 
 HIDAI, Do Shock Booze, AMG SAIMURA (TECHVANE)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutmeg/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutmeg/)*

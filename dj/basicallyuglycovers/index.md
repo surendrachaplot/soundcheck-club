@@ -1,8 +1,8 @@
 # Basically Ugly Covers
 
-Basically Ugly Covers is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Lento Hi Fi Bar, Naples on Fri, 27 Nov 2026.
+Basically Ugly Covers is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Lento Hi Fi Bar, Naples on Fri, 27 Nov 2026.
 
-Basically Ugly Covers is a disco and house artist, with 11 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside Jason K (IT), Valerio Delphi and Delfonic. Next up: Lento Hi Fi Bar, Naples on Fri 27 Nov.
+Basically Ugly Covers is a disco and house artist based in Italy, with 11 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside Jason K (IT), Valerio Delphi and Delfonic. Next up: Lento Hi Fi Bar, Naples on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Basically Ugly Covers is a disco and house artist, with 11 gigs on soundcheck ac
 
 Jason K (IT), Valerio Delphi, Delfonic
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basicallyuglycovers/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basicallyuglycovers/)*

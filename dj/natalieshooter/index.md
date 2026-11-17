@@ -1,13 +1,14 @@
 # Natalie Shooter
 
-Natalie Shooter is a Funk / Soul and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Fox and Firkin, London on Fri, 22 Jan 2027.
+Natalie Shooter is a Funk / Soul and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bal Chavaux, Paris on Fri, 11 Dec 2026.
 
-Natalie Shooter is a funk / soul and afrobeat artist based in United Kingdom, with 29 gigs on soundcheck across Dubai, Hamburg, London and Paris. Often billed alongside Ernesto Chahoud, Beirut Groove Collective and Hamish & Toby. Next up: The Fox and Firkin, London on Fri 22 Jan.
+Natalie Shooter is a funk / soul and afrobeat artist based in United Kingdom, with 30 gigs on soundcheck across Dubai, Hamburg, London and Paris. Often billed alongside Ernesto Chahoud, Beirut Groove Collective and Hamish & Toby. Next up: Bal Chavaux, Paris on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Bal Chavaux | Paris |
 | Fri, 22 Jan 2027 | The Fox and Firkin | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Natalie Shooter is a funk / soul and afrobeat artist based in United Kingdom, wi
 
 Ernesto Chahoud, Beirut Groove Collective, Hamish & Toby
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieshooter/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieshooter/)*

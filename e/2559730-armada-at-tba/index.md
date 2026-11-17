@@ -1,6 +1,6 @@
 # Armada at TBA
 
-Armada at TBA on Wed 30 Dec, Sydney. 25 artists: $CRAIC, Chiaro, Ditzy and DJ GOANNA and 21 more. IDM and Psytrance. See the line-up on soundcheck.
+Armada at TBA on Wed 30 Dec, Sydney. 26 artists: $CRAIC, Chiaro, Ditzy and DJ GOANNA and 22 more. IDM and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Armada at TBA on Wed 30 Dec, Sydney. 25 artists: $CRAIC, Chiaro, Ditzy and DJ GO
 - Ekul
 - finedining
 - Flatground
+- Gen Unit
 - Glacial
 - Hans
 - Harold

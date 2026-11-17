@@ -1,8 +1,8 @@
 # Paquita Gordon
 
-Paquita Gordon is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 21 Nov 2026.
+Paquita Gordon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 21 Nov 2026.
 
-Paquita Gordon is a house and techno artist based in Italy, with 147 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Francesco Del Garda, BASHKKA and Marco Shuttle. Next up: Les Enfants Brillants, Barcelona on Sat 21 Nov.
+Paquita Gordon is a house and techno artist based in Italy, with 148 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Francesco Del Garda, BASHKKA and Marco Shuttle. Next up: Les Enfants Brillants, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paquita Gordon is a house and techno artist based in Italy, with 147 gigs on sou
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Thu, 31 Dec 2026 | The Cause | London |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
@@ -29,4 +30,4 @@ Paquita Gordon is a house and techno artist based in Italy, with 147 gigs on sou
 
 Francesco Del Garda, BASHKKA, Marco Shuttle
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*

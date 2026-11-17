@@ -1,6 +1,6 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Taiwanese Bubble Tea   & DIY Instrument Making" on Tue, 17 Nov 2026.
+Pastiche is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Taiwanese Bubble Tea   & DIY Instrument Making" on Tue, 17 Nov 2026.
 
 Pastiche is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Dorian Concept. See dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
@@ -17,4 +17,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with 
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

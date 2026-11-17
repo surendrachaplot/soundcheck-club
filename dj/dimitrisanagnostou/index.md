@@ -1,6 +1,6 @@
 # Dimitris Anagnostou
 
-Dimitris Anagnostou is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Het Salon, Amsterdam on Fri, 20 Nov 2026.
+Dimitris Anagnostou is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Het Salon, Amsterdam on Fri, 20 Nov 2026.
 
 Dimitris Anagnostou is a house and tech house artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Vasko Parisis, Kreutziger and David Gtronic. Next up: Het Salon, Amsterdam on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Dimitris Anagnostou is a house and tech house artist, with 7 gigs on soundcheck 
 
 Vasko Parisis, Kreutziger, David Gtronic
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrisanagnostou/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrisanagnostou/)*

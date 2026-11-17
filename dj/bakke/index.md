@@ -1,6 +1,6 @@
 # Bakke
 
-Bakke is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Ground at Club Space, Miami on Thu, 3 Dec 2026.
+Bakke is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Ground at Club Space, Miami on Thu, 3 Dec 2026.
 
 Bakke is a house and tech house artist based in United States of America, with 161 gigs on soundcheck across Atlanta, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Danyelino, Thunderpony and Ms. Mada. Next up: The Ground at Club Space, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Bakke is a house and tech house artist based in United States of America, with 1
 
 Danyelino, Thunderpony, Ms. Mada
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*

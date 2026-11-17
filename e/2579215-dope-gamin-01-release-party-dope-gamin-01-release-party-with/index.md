@@ -1,6 +1,6 @@
 # 【Dope Gamin'01】RELEASE PARTY Dope Gamin' 01 RELEASE PARTY with VGM Sound Collision at Wakuwaku Panic
 
-【Dope Gamin'01】RELEASE PARTY Dope Gamin' 01 RELEASE PARTY with VGM Sound Collision at Wakuwaku Panic on Sat 21 Nov, Tokyo. 4 artists: --- mr ---, KJ Physical, tom2 and Zeqoo. Techno and Electro. See the line-up on soundcheck.
+【Dope Gamin'01】RELEASE PARTY Dope Gamin' 01 RELEASE PARTY with VGM Sound Collision at Wakuwaku Panic on Sat 21 Nov, Tokyo. 5 artists: --- mr ---, KJ Physical, T.P. and tom2 and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - --- mr ---
 - KJ Physical
+- T.P.
 - tom2
 - Zeqoo
 

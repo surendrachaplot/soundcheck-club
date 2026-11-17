@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Hop on The Top - The Last Jam - La Terrrazza 2026" on Fri, 20 Nov 2026.
+La Terrrazza is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Hop on The Top - The Last Jam - La Terrrazza 2026" on Fri, 20 Nov 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including DJ AMAZING, GIVIO, Octave One and Piem. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -15,4 +15,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

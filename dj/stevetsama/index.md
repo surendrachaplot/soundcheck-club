@@ -1,6 +1,6 @@
 # Steve Tsama
 
-Steve Tsama is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Burger Disco Club, Athens on Wed, 18 Nov 2026.
+Steve Tsama is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Burger Disco Club, Athens on Wed, 18 Nov 2026.
 
 Steve Tsama is a club and tech house artist, with 11 gigs on soundcheck across Athens. Often billed alongside Kobo, Mikele and Tolis Q. Next up: Burger Disco Club, Athens on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Steve Tsama is a club and tech house artist, with 11 gigs on soundcheck across A
 
 Kobo, Mikele, Tolis Q
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetsama/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetsama/)*

@@ -1,6 +1,6 @@
 # Export: one year at export
 
-Export: one year at export on Fri 27 Nov, Rotterdam. 19 artists: Ambu Bambu, dirtydms, Dr Banana and Helmond Lang and 15 more. Techno and House. See the line-up on soundcheck.
+Export: one year at export on Fri 27 Nov, Rotterdam. 20 artists: Ambu Bambu, dirtydms, Dr Banana and Helmond Lang and 16 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -29,5 +29,6 @@ Export: one year at export on Fri 27 Nov, Rotterdam. 19 artists: Ambu Bambu, dir
 - Pims
 - silver pearl
 - Sunnysoposted
+- Yentl.
 
 *Source: [soundcheck](https://soundcheck.club/e/2572750-export-one-year-at-export/)*

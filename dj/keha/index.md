@@ -1,6 +1,6 @@
 # keha
 
-keha is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
+keha is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
 
 keha is a trance and techno artist based in Austria, with 30 gigs on soundcheck across Nürnberg and Vienna. Often billed alongside Joey, Crystal O and KILIÅN. Next up: Das Werk, Vienna on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ keha is a trance and techno artist based in Austria, with 30 gigs on soundcheck 
 
 Joey (2), Crystal O, KILIÅN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keha/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keha/)*

@@ -1,6 +1,6 @@
 # Dj Nico
 
-Dj Nico is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 20 Nov 2026.
+Dj Nico is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 20 Nov 2026.
 
 Dj Nico is a club and ghetto tech artist based in United States of America, with 66 gigs on soundcheck across Atlanta, Baltimore, Chicago and Detroit and 14 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: Reactor Shanghai, Shanghai on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Dj Nico is a club and ghetto tech artist based in United States of America, with
 
 Cquestt, Qemist, shekdash
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*

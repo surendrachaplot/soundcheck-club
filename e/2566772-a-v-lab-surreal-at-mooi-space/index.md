@@ -1,6 +1,6 @@
 # A/V LAB: Surreal at Mooi Space
 
-A/V LAB: Surreal at Mooi Space on Fri 20 Nov, Toronto. 2 artists: Kiki LeFreak and Marnigurl. Electro and EBM. See the line-up on soundcheck.
+A/V LAB: Surreal at Mooi Space on Fri 20 Nov, Toronto. 4 artists: blapcode, Golnoush Mirsalari, Kiki LeFreak and Marnigurl. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ A/V LAB: Surreal at Mooi Space on Fri 20 Nov, Toronto. 2 artists: Kiki LeFreak a
 
 ## Line-up
 
+- blapcode
+- Golnoush Mirsalari
 - Kiki LeFreak
 - Marnigurl
 

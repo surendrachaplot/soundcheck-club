@@ -1,17 +1,18 @@
 # Haze (1)
 
-Haze (1) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club 1722 Afterhours, Baltimore on Sat, 14 Nov 2026.
+Haze (1) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Churchill's Pub, Miami on Sat, 21 Nov 2026.
 
-Haze is a house and jungle artist based in Ukraine, with 16 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Brighton and 5 more. Often billed alongside VSMR, Vincent Lang and Julian Rtr. Next up: Club 1722 Afterhours, Baltimore on Sat 14 Nov.
+Haze is a house and jungle artist based in Ukraine, with 17 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Brighton and 6 more. Often billed alongside VSMR, Vincent Lang and Julian Rtr. Next up: Churchill's Pub, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club 1722 Afterhours | Baltimore |
+| Sat, 21 Nov 2026 | Churchill's Pub | Miami |
 
 ## Recently played
 
+- Club 1722 Afterhours, Baltimore · Sat, 14 Nov 2026
 - Legal, Munich · Fri, 13 Nov 2026
 - Meet Berlage, Amsterdam · Sat, 24 Oct 2026
 - Legal, Munich · Fri, 21 Aug 2026
@@ -19,10 +20,9 @@ Haze is a house and jungle artist based in Ukraine, with 16 gigs on soundcheck a
 - TBA, Sydney · Sat, 27 Jun 2026
 - Legal, Munich · Sat, 7 Feb 2026
 - TBA - Daily Dosis, Munich · Fri, 30 May 2025
-- Le Ministère, Montreal · Fri, 14 Mar 2025
 
 ## Shares bills with
 
 VSMR, Vincent Lang, Julian Rtr
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*

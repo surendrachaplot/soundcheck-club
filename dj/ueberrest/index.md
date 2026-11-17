@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Arzenal, Budapest on Fri, 20 Nov 2026.
+Ueberrest is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Arzenal, Budapest on Fri, 20 Nov 2026.
 
 Ueberrest is a techno and trance artist based in Switzerland, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 55 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Arzenal, Budapest on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist based in Switzerland, with 134 gigs on s
 
 Kobosil, Somewhen, KUKO
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

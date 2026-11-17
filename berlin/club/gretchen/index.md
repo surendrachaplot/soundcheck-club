@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "SOLOMON FOX *live // CANCELLED" on Tue, 17 Nov 2026.
+Gretchen is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SOLOMON FOX *live // CANCELLED" on Tue, 17 Nov 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including Allynx, anna andersrum, Ant TC1 and Beardyman and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

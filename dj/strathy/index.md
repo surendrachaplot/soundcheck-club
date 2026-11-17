@@ -1,6 +1,6 @@
 # Strathy
 
-Strathy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Baalsaal, Hamburg on Sat, 5 Dec 2026.
+Strathy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Baalsaal, Hamburg on Sat, 5 Dec 2026.
 
 Strathy is a techno and house artist, with 37 gigs on soundcheck across Hamburg and Tbilisi. Often billed alongside Aliha, GRØMM and Lifka. Next up: Baalsaal, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Strathy is a techno and house artist, with 37 gigs on soundcheck across Hamburg 
 
 Aliha, GRØMM, Lifka
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strathy/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strathy/)*

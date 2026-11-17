@@ -1,14 +1,15 @@
 # Bex
 
-Bex is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Solace, Melbourne on Fri, 20 Nov 2026.
+Bex is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Solace, Melbourne on Fri, 20 Nov 2026.
 
-Bex is a house and techno artist based in Australia, with 100 gigs on soundcheck across Adelaide, Berlin, Brussels and Hobart and 6 more. Often billed alongside Terri, Hannah D and Mike Callander. Next up: Solace, Melbourne on Fri 20 Nov.
+Bex is a house and techno artist based in Australia, with 101 gigs on soundcheck across Adelaide, Berlin, Brussels and Hobart and 6 more. Often billed alongside Terri, Hannah D and Mike Callander. Next up: Solace, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Solace | Melbourne |
+| Fri, 11 Dec 2026 | Collingwood Basement | Melbourne |
 | Sat, 12 Dec 2026 | TBA | Sydney |
 
 ## Recently played
@@ -26,4 +27,4 @@ Bex is a house and techno artist based in Australia, with 100 gigs on soundcheck
 
 Terri (2), Hannah D, Mike Callander
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bex/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bex/)*

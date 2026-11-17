@@ -1,6 +1,6 @@
 # Vivi Wonder
 
-Vivi Wonder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
+Vivi Wonder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
 
 Vivi Wonder is a techno and house artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Calypsis, Enamour and Etiennette. Next up: Jonny Knüppel, Berlin on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Vivi Wonder is a techno and house artist, with 4 gigs on soundcheck across Berli
 
 Calypsis, Enamour, Etiennette
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viviwonder/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viviwonder/)*

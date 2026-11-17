@@ -1,0 +1,19 @@
+# Caleb Laurenson, Wheats b2b Tommy Philips at Shelter Amsterdam
+
+Caleb Laurenson, Wheats b2b Tommy Philips at Shelter Amsterdam on Fri 20 Nov, Amsterdam. 5 artists: Caleb Laurenson, DJ ORA, IDEMI and Lily C-D and 1 more. House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 20 Nov 2026 |
+| Venue | Shelter Amsterdam |
+| City | Amsterdam |
+
+## Line-up
+
+- Caleb Laurenson
+- DJ ORA
+- IDEMI
+- Lily C-D
+- Wheats
+
+*Source: [soundcheck](https://soundcheck.club/e/2539693-caleb-laurenson-wheats-b2b-tommy-philips-at-shelter-amsterda/)*

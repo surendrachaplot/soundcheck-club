@@ -1,6 +1,6 @@
 # The Menendez Brothers & Friends (20th November) at E1
 
-The Menendez Brothers & Friends (20th November) at E1 on Fri 20 Nov, London. 1 artist: The Menendez Brothers. House and Tech House. See the line-up on soundcheck.
+The Menendez Brothers & Friends (20th November) at E1 on Fri 20 Nov, London. 4 artists: CHAR, felix, Matt Lee and The Menendez Brothers. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ The Menendez Brothers & Friends (20th November) at E1 on Fri 20 Nov, London. 1 a
 
 ## Line-up
 
+- CHAR
+- felix (2)
+- Matt Lee
 - The Menendez Brothers
 
 *Source: [soundcheck](https://soundcheck.club/e/2537709-the-menendez-brothers-friends-20th-november-at-e1/)*

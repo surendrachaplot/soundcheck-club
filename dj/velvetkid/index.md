@@ -1,6 +1,6 @@
 # Velvet Kid
 
-Velvet Kid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Meteoro, Barcelona on Thu, 19 Nov 2026.
+Velvet Kid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Meteoro, Barcelona on Thu, 19 Nov 2026.
 
 Velvet Kid is a techno and house artist based in Peru, with 13 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Isa Enes, Ale Hope and Camikazy Uzi. Next up: Meteoro, Barcelona on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Velvet Kid is a techno and house artist based in Peru, with 13 gigs on soundchec
 
 Isa Enes, Ale Hope, Camikazy Uzi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetkid/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetkid/)*

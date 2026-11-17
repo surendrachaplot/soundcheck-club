@@ -1,14 +1,15 @@
 # Snad
 
-Snad is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at public records, New York City on Sat, 28 Nov 2026.
+Snad is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at public records, New York City on Sat, 28 Nov 2026.
 
-Snad is a house and minimal artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 20 more. Often billed alongside Jakob Seidensticker, Mejia and Bärtaub. Next up: public records, New York City on Sat 28 Nov.
+Snad is a house and minimal artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 21 more. Often billed alongside Jakob Seidensticker, Mejia and Bärtaub. Next up: public records, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | public records | New York City |
+| Sat, 5 Dec 2026 | Process PDX | Portland |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -27,4 +28,4 @@ Snad is a house and minimal artist based in United States of America, with 65 gi
 
 Jakob Seidensticker, Mejia, Bärtaub
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*

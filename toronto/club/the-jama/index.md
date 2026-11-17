@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "snd.rtrn presents: Xicada / Interastral Communications EP Release" on Fri, 20 Nov 2026.
+The Jama is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "snd.rtrn presents: Xicada / Interastral Communications EP Release" on Fri, 20 Nov 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including 999ADJ, anise, Brock Stacey and Daniel Bell and 2 more. See dates, start times and who's playing. 961 College Street.
 
@@ -20,4 +20,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with
 
 961 College Street, Toronto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

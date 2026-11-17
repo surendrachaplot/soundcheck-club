@@ -1,6 +1,6 @@
 # Pablo Flor
 
-Pablo Flor is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Flash, Washington DC on Fri, 18 Dec 2026.
+Pablo Flor is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Flash, Washington DC on Fri, 18 Dec 2026.
 
 Pablo Flor is a minimal and house artist, with 12 gigs on soundcheck across New York City and Washington DC. Often billed alongside David Gaviria, Juan Toca Rico and Tomas Lobo. Next up: Flash, Washington DC on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Pablo Flor is a minimal and house artist, with 12 gigs on soundcheck across New 
 
 David Gaviria, Juan Toca Rico, Tomas Lobo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloflor/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloflor/)*

@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "DJ BORING & Sam Alfred" on Thu, 19 Nov 2026.
+Sub Club is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "DJ BORING & Sam Alfred" on Thu, 19 Nov 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including FLETCH, Alien Communications, Archie Hamilton and Ben Hemsley and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, wit
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

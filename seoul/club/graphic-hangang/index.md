@@ -1,13 +1,13 @@
 # Graphic Hangang
 
-Graphic Hangang is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "giegling in Seoul" on Sat, 28 Nov 2026.
+Graphic Hangang is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "giegling in Seoul" on Sat, 28 Nov 2026.
 
-Graphic Hangang is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Edward, Konstantin, Lawrence and Yamour. See dates, start times and who's playing.
+Graphic Hangang is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Afrodite, Chae, Dakim and Edward and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | giegling in Seoul | Edward, Konstantin, Lawrence, Yamour |
+| Sat, 28 Nov 2026 | giegling in Seoul | Afrodite (2), Chae, Dakim, Edward, Hansy, Hogun, Jetset Trash, Jongho, Joon Kwak, Kibum, Konstantin, Lawrence, Mogwaa, Mottomo, Oviduct, S.O.N.S, Yamour |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/graphic-hangang/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/graphic-hangang/)*

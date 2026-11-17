@@ -1,6 +1,6 @@
 # Ryan Hæng
 
-Ryan Hæng is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
+Ryan Hæng is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
 
 Ryan Hæng is a tech house and house artist, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside MELINA, Marco Baskind and Surreal (DE). Next up: Club Frau Holle, Hamburg on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Ryan Hæng is a tech house and house artist, with 6 gigs on soundcheck across Be
 
 MELINA (3), Marco Baskind, Surreal (DE)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhaeng/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhaeng/)*

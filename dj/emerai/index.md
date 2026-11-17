@@ -1,6 +1,6 @@
 # emerai
 
-emerai is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 28 Nov 2026.
+emerai is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 28 Nov 2026.
 
 emerai is a techno and electro artist based in Poland, with 6 gigs on soundcheck across Florence, Krakow, Poland and Warsaw. Often billed alongside dtekk, Beatrice M. and Tom Boogizm. Next up: Sekta Selekta, Krakow on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ emerai is a techno and electro artist based in Poland, with 6 gigs on soundcheck
 
 dtekk, Beatrice M., Tom Boogizm
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emerai/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emerai/)*

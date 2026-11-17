@@ -1,14 +1,15 @@
 # Big Lil
 
-Big Lil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 28 Nov 2026.
+Big Lil is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 28 Nov 2026.
 
-Big Lil is a techno and house artist based in United States of America, with 62 gigs on soundcheck across Bratislava and Prague. Often billed alongside Fembot, Kaotic and PRDELANZA. Next up: Bukanyr Boat, Prague on Sat 28 Nov.
+Big Lil is a techno and house artist based in United States of America, with 63 gigs on soundcheck across Bratislava and Prague. Often billed alongside Fembot, AVHD and Kaotic. Next up: Bukanyr Boat, Prague on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Bukanyr Boat | Prague |
+| Sat, 12 Dec 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Big Lil is a techno and house artist based in United States of America, with 62 
 
 ## Shares bills with
 
-Fembot, Kaotic, PRDELANZA
+Fembot, AVHD, Kaotic
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*

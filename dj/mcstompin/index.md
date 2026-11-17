@@ -1,13 +1,14 @@
 # MC Stompin
 
-MC Stompin is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 24 Apr 2027.
+MC Stompin is a Trance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Vienna's, Glasgow on Sat, 6 Feb 2027.
 
-MC Stompin is a hardcore and club artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow and Newcastle. Often billed alongside Andy Whitby, MC Jonak and MC Stretch. Next up: The Classic Grand, Glasgow on Sat 24 Apr.
+MC Stompin is a trance and hardcore artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow and Newcastle. Often billed alongside Andy Whitby, MC Jonak and MC Stretch. Next up: Vienna's, Glasgow on Sat 6 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 6 Feb 2027 | Vienna's | Glasgow |
 | Sat, 24 Apr 2027 | The Classic Grand | Glasgow |
 
 ## Recently played
@@ -21,4 +22,4 @@ MC Stompin is a hardcore and club artist based in United Kingdom, with 5 gigs on
 
 Andy Whitby, MC Jonak, MC Stretch
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstompin/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstompin/)*

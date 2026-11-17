@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "ALL NIGHT LONG: SJ Yellow" on Mon, 16 Nov 2026.
+Fuchs2 is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk" on Fri, 20 Nov 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including 2NDRA, 3ever, Adamatron and AddlyMuff and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including 2NDRA, 3ever, Adamatron and AddlyMuff and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 16 Nov 2026 | ALL NIGHT LONG: SJ Yellow | SJ Yellow |
 | Fri, 20 Nov 2026 | HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk | DJ KING KOBRA, Theya, tmk (CZ) |
 | Sat, 21 Nov 2026 | Family Therapy 4 | Asher, parashoot |
 | Thu, 26 Nov 2026 | LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily | AddlyMuff, VLZQUES, weimar |
@@ -22,4 +21,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with li
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

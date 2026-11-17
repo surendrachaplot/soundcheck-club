@@ -1,14 +1,15 @@
 # LX one
 
-LX one is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Phonox, London on Fri, 22 Jan 2027.
+LX one is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Phonox, London on Fri, 22 Jan 2027.
 
-LX one is a drum & bass and dubstep artist based in United Kingdom, with 13 gigs on soundcheck across Bristol and London. Often billed alongside SP:MC, Cesco and MC GQ. Next up: Phonox, London on Fri 22 Jan.
+LX one is a drum & bass and dubstep artist based in United Kingdom, with 14 gigs on soundcheck across Bristol and London. Often billed alongside SP:MC, MC GQ and Cesco. Next up: Phonox, London on Fri 22 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 22 Jan 2027 | Phonox | London |
+| Sat, 6 Feb 2027 | The Cause | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ LX one is a drum & bass and dubstep artist based in United Kingdom, with 13 gigs
 
 ## Shares bills with
 
-SP:MC, Cesco, MC GQ
+SP:MC, MC GQ, Cesco
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lxone/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lxone/)*

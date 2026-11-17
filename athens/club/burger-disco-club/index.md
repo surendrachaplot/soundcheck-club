@@ -1,6 +1,6 @@
 # Burger Disco Club
 
-Burger Disco Club is a music venue in Athens with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "ELECTRIC DISCO" on Wed, 18 Nov 2026.
+Burger Disco Club is a music venue in Athens with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "ELECTRIC DISCO" on Wed, 18 Nov 2026.
 
 Burger Disco Club is a music venue in Athens listed on soundcheck. 7 upcoming gigs, with line-ups including ClubKid, George Apergis, Lil' Louis and Luke Una and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
 
@@ -20,4 +20,4 @@ Burger Disco Club is a music venue in Athens listed on soundcheck. 7 upcoming gi
 
 11 Nikis St,  Athens, 105 57 GREECE, Athens
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*

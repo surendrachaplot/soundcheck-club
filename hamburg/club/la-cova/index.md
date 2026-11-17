@@ -1,6 +1,6 @@
 # La Cova
 
-La Cova is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Ballz - men only" on Fri, 20 Nov 2026.
+La Cova is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Ballz - men only" on Fri, 20 Nov 2026.
 
 La Cova is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including An Chen, DJ SEXSTASY, Eva Nyx and Floor Force One and 2 more. See dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
 
@@ -17,4 +17,4 @@ La Cova is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with 
 
 Reeperbahn 152, 20359 Hamburg, Hamburg
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*

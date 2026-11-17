@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Market Hotel, New York City on Sat, 21 Nov 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Market Hotel, New York City on Sat, 21 Nov 2026.
 
 DJ Assault is a ghetto tech and techno artist based in United States of America, with 185 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Fullbodydurag, Detroit In Effect and DJ Godfather. Next up: Market Hotel, New York City on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 Fullbodydurag, Detroit In Effect, DJ Godfather
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

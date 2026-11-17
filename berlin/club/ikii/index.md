@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "VvoovV: Deep Listening Sessions" on Wed, 2 Dec 2026.
+Ikii is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "VvoovV: Deep Listening Sessions" on Wed, 2 Dec 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including 0dysseus, Andrea Ida, Der Opium Queen and DJ Treibsand and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

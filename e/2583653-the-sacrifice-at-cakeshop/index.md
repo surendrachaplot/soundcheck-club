@@ -1,6 +1,6 @@
 # The Sacrifice at Cakeshop
 
-The Sacrifice at Cakeshop on Sat 21 Nov, Seoul. 4 artists: Bamboo Princess, Excultist, mitsu and rue. Electro and Pop. See the line-up on soundcheck.
+The Sacrifice at Cakeshop on Sat 21 Nov, Seoul. 5 artists: Bamboo Princess, Excultist, mitsu and rue and 1 more. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ The Sacrifice at Cakeshop on Sat 21 Nov, Seoul. 4 artists: Bamboo Princess, Excu
 - Excultist
 - mitsu (2)
 - rue (3)
+- Sinchek
 
 *Source: [soundcheck](https://soundcheck.club/e/2583653-the-sacrifice-at-cakeshop/)*

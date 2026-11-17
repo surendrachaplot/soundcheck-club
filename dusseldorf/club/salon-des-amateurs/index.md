@@ -1,6 +1,6 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "SUBVERTED with Anamorph " on Sat, 21 Nov 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SUBVERTED with Anamorph " on Sat, 21 Nov 2026.
 
 Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 5 upcoming gigs, with line-ups including Anamorph, Das Firmament, DJ Narciso and Keshavara and 2 more. See dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
@@ -18,4 +18,4 @@ Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 5 upcom
 
 Grabbeplatz 4; 40213 Düsseldorf; Germany, Düsseldorf
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*

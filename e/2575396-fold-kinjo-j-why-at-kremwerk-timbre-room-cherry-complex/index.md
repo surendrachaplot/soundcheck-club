@@ -1,6 +1,6 @@
 # Fold: Kinjo, J.Why at Kremwerk-Timbre Room-Cherry Complex
 
-Fold: Kinjo, J.Why at Kremwerk-Timbre Room-Cherry Complex on Sat 21 Nov, Seattle. 1 artist: Kinjo. See the line-up on soundcheck.
+Fold: Kinjo, J.Why at Kremwerk-Timbre Room-Cherry Complex on Sat 21 Nov, Seattle. 2 artists: J.Why and Kinjo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Fold: Kinjo, J.Why at Kremwerk-Timbre Room-Cherry Complex on Sat 21 Nov, Seattle
 
 ## Line-up
 
+- J.Why
 - Kinjo
 
 *Source: [soundcheck](https://soundcheck.club/e/2575396-fold-kinjo-j-why-at-kremwerk-timbre-room-cherry-complex/)*

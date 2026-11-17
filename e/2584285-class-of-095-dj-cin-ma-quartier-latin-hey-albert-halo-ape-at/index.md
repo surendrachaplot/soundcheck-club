@@ -1,6 +1,6 @@
 # CLASS OF 095 - DJ Cinéma Quartier Latin, HEY: ALBERT, HALO, .ape at Bar Datcha
 
-CLASS OF 095 - DJ Cinéma Quartier Latin, HEY: ALBERT, HALO, .ape at Bar Datcha on Sat 5 Dec, Montreal. 1 artist: HEY: ALBERT. See the line-up on soundcheck.
+CLASS OF 095 - DJ Cinéma Quartier Latin, HEY: ALBERT, HALO, .ape at Bar Datcha on Sat 5 Dec, Montreal. 2 artists: Halo Varga and HEY: ALBERT. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CLASS OF 095 - DJ Cinéma Quartier Latin, HEY: ALBERT, HALO, .ape at Bar Datcha 
 
 ## Line-up
 
+- Halo Varga
 - HEY: ALBERT
 
 *Source: [soundcheck](https://soundcheck.club/e/2584285-class-of-095-dj-cin-ma-quartier-latin-hey-albert-halo-ape-at/)*

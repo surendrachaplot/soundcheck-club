@@ -1,6 +1,6 @@
 # Christianshavns Beboerhus
 
-Christianshavns Beboerhus is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "GENTS (DJ Set) // Beboerhuset" on Thu, 19 Nov 2026.
+Christianshavns Beboerhus is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "GENTS (DJ Set) // Beboerhuset" on Thu, 19 Nov 2026.
 
 Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including CTM, Emil F, Frederik Valentin and Mija Milovic. See dates, start times and who's playing. Dronningensgade 34, 1420 Copenhagen K.
 
@@ -16,4 +16,4 @@ Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 3
 
 Dronningensgade 34, 1420 Copenhagen K, Copenhagen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*

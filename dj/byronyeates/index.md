@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at BRET, Amsterdam on Sat, 21 Nov 2026.
+Byron Yeates is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at BRET, Amsterdam on Sat, 21 Nov 2026.
 
 Byron Yeates is a techno and house artist, with 218 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 55 more. Often billed alongside THC, DHC and Angel D'lite. Next up: BRET, Amsterdam on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Byron Yeates is a techno and house artist, with 218 gigs on soundcheck across Am
 
 THC, DHC, Angel D'lite
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

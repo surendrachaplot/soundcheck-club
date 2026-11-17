@@ -1,8 +1,8 @@
 # Olita (UK)
 
-Olita (UK) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Algha's Plantroom, London on Sat, 28 Nov 2026.
+Olita (UK) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Algha's Plantroom, London on Sat, 28 Nov 2026.
 
-Olita (UK) is a house and techno artist based in United Kingdom, with 68 gigs on soundcheck across Antwerp, Berlin, Birmingham and London and 6 more. Often billed alongside Sam Bangura, Neb Spook and Harry McCanna. Next up: Algha's Plantroom, London on Sat 28 Nov.
+Olita (UK) is a house and techno artist based in United Kingdom, with 69 gigs on soundcheck across Antwerp, Berlin, Birmingham and London and 6 more. Often billed alongside Sam Bangura, Neb Spook and Harry McCanna. Next up: Algha's Plantroom, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Olita (UK) is a house and techno artist based in United Kingdom, with 68 gigs on
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Algha's Plantroom | London |
 | Sun, 6 Dec 2026 | Starlane Pizza Bar | London |
+| Thu, 31 Dec 2026 | The Cause | London |
 | Thu, 31 Dec 2026 | Concept Haus | Manchester |
 
 ## Recently played
@@ -27,4 +28,4 @@ Olita (UK) is a house and techno artist based in United Kingdom, with 68 gigs on
 
 Sam Bangura, Neb Spook, Harry McCanna
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olitauk/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olitauk/)*

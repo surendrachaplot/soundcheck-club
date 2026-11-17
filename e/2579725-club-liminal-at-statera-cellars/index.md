@@ -1,6 +1,6 @@
 # Club Liminal at Statera Cellars
 
-Club Liminal at Statera Cellars on Fri 4 Dec, Portland. 2 artists: Maude Vôs and othrwrld. Techno. See the line-up on soundcheck.
+Club Liminal at Statera Cellars on Fri 4 Dec, Portland. 3 artists: Ajota, Maude Vôs and othrwrld. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Club Liminal at Statera Cellars on Fri 4 Dec, Portland. 2 artists: Maude Vôs an
 
 ## Line-up
 
+- Ajota
 - Maude Vôs
 - othrwrld
 

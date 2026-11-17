@@ -1,6 +1,6 @@
 # VTSS
 
-VTSS is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+VTSS is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
 
 VTSS is a techno and house artist based in Poland, with 204 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 70 more. Often billed alongside I Hate Models, Patrick Mason and KI/KI. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ VTSS is a techno and house artist based in Poland, with 204 gigs on soundcheck a
 
 I Hate Models, Patrick Mason, KI/KI
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

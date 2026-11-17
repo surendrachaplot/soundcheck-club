@@ -1,6 +1,6 @@
 # ARMANDO
 
-ARMANDO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
+ARMANDO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
 
 ARMANDO is a techno and house artist based in Portugal, with 37 gigs on soundcheck across Berlin, London, Milan and Stuttgart. Often billed alongside IKIIR, Hertz Collision and Lady Goccia. Next up: Renate, Berlin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ ARMANDO is a techno and house artist based in Portugal, with 37 gigs on soundche
 
 IKIIR, Hertz Collision, Lady Goccia
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*

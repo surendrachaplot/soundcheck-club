@@ -1,8 +1,8 @@
 # Niak
 
-Niak is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Dec 2026.
+Niak is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Dec 2026.
 
-Niak is a house and electro artist, with 4 gigs on soundcheck across Barcelona. Often billed alongside Alex Pott, Alexis Cabrera and Ion Pananides. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 3 Dec.
+Niak is a house and electro artist based in Spain, with 4 gigs on soundcheck across Barcelona. Often billed alongside Alex Pott, Alexis Cabrera and Ion Pananides. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Niak is a house and electro artist, with 4 gigs on soundcheck across Barcelona. 
 
 Alex Pott, Alexis Cabrera, Ion Pananides
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niak/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niak/)*

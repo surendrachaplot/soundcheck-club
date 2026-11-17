@@ -1,6 +1,6 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Femme Frequency x Faenix" on Fri, 20 Nov 2026.
+MÄX is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Femme Frequency x Faenix" on Fri, 20 Nov 2026.
 
 MÄX is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 1luu, Alle Farben, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
@@ -23,4 +23,4 @@ MÄX is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with lin
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

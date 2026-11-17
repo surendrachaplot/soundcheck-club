@@ -1,6 +1,6 @@
 # Dalek
 
-Dalek is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Blindspot*, Bucharest on Sat, 5 Dec 2026.
+Dalek is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Blindspot*, Bucharest on Sat, 5 Dec 2026.
 
 Dalek is a hardcore and techno artist based in Romania, with 14 gigs on soundcheck across Bucharest. Often billed alongside Meiremax, Project Morpheus and Neotroxian. Next up: Blindspot*, Bucharest on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Dalek is a hardcore and techno artist based in Romania, with 14 gigs on soundche
 
 Meiremax, Project Morpheus, Neotroxian
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dalek/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dalek/)*

@@ -1,6 +1,6 @@
 # Le Poisson Volant
 
-Le Poisson Volant is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "DJ Sundae & Alexis Le-Tan" on Thu, 19 Nov 2026.
+Le Poisson Volant is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "DJ Sundae & Alexis Le-Tan" on Thu, 19 Nov 2026.
 
 Le Poisson Volant is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Alexis Le-Tan, DJ Sundae, Erna (FR) and Kokoprisci and 2 more. See dates, start times and who's playing. 5 Rue Marguerite Moret, 75011 Paris.
 
@@ -15,4 +15,4 @@ Le Poisson Volant is a music venue in Paris listed on soundcheck. 2 upcoming gig
 
 5 Rue Marguerite Moret, 75011 Paris, Paris
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*

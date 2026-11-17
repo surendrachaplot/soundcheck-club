@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Change the Beat: Sydney Blu's Birthday Fundraiser" on Fri, 20 Nov 2026.
+Wiggle Room is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Change the Beat: Sydney Blu's Birthday Fundraiser" on Fri, 20 Nov 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Cole, Barroness, Carabetta and Cozmic Cat and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -23,4 +23,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, 
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

@@ -1,6 +1,6 @@
 # Chris Bekker
 
-Chris Bekker is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+Chris Bekker is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
 
 Chris Bekker is a techno and tech house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside KEN (DE), Tobias Sommer and PADERKID. Next up: KitKatClub, Berlin on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Chris Bekker is a techno and tech house artist based in Germany, with 39 gigs on
 
 KEN (DE), Tobias Sommer, PADERKID
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbekker/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbekker/)*

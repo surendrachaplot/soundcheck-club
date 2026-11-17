@@ -1,6 +1,6 @@
 # 50 | 50
 
-50 | 50 is a music venue in Medellin with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "NØƎMA Collective pres: NASCENT" on Fri, 20 Nov 2026.
+50 | 50 is a music venue in Medellin with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "NØƎMA Collective pres: NASCENT" on Fri, 20 Nov 2026.
 
 50 | 50 is a music venue in Medellin listed on soundcheck. 6 upcoming gigs, with line-ups including Ben UFO, Brenda., Dagga and dj lomalinda and 2 more. See dates, start times and who's playing. Cra. 50 #34-62 Piso 2, La Candelaria, Medellín.
 
@@ -19,4 +19,4 @@
 
 Cra. 50 #34-62 Piso 2, La Candelaria, Medellín, Medellin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*

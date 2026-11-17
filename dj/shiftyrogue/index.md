@@ -1,0 +1,28 @@
+# Shifty Rogue
+
+Shifty Rogue is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 12 Dec 2026.
+
+Shifty Rogue is a jungle and drum & bass artist based in United States of America, with 15 gigs on soundcheck across Berlin, Frankfurt and London. Often billed alongside KaraKara, DJ Chromz and Hovercat. Next up: YAAM Berlin, Berlin on Sat 12 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 12 Dec 2026 | YAAM Berlin | Berlin |
+
+## Recently played
+
+- Void Club, Berlin · Sat, 3 Oct 2026
+- YAAM Berlin, Berlin · Sat, 26 Sept 2026
+- TBA, Berlin · Fri, 25 Sept 2026
+- Silbergold, Frankfurt · Sat, 19 Sept 2026
+- YAAM Berlin, Berlin · Fri, 14 Aug 2026
+- YAAM Berlin, Berlin · Sat, 27 Jun 2026
+- Paloma, Berlin · Sat, 20 Jun 2026
+- Humboldthain Club, Berlin · Sat, 6 Jun 2026
+
+## Shares bills with
+
+KaraKara, DJ Chromz, Hovercat
+
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftyrogue/)*

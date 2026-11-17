@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "RINSE: Y U QT B2B Faster Horses" on Fri, 20 Nov 2026.
+Lakota is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "RINSE: Y U QT B2B Faster Horses" on Fri, 20 Nov 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Faster Horses, Teddy Killerz and T & Sugah and 1 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

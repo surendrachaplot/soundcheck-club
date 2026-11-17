@@ -1,6 +1,6 @@
 # Kramladen
 
-Kramladen is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Paycheque + arthur the gang" on Tue, 17 Nov 2026.
+Kramladen is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Paycheque + arthur the gang" on Tue, 17 Nov 2026.
 
 Kramladen is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including ADAM19, DYMINIX, Leen Tilt and MORASS. See dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
 
@@ -18,4 +18,4 @@ Kramladen is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with
 
 U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien, Vienna
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*

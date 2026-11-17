@@ -1,6 +1,6 @@
-# ✧YǓǓN x SUÀN: food & listening night✧ at TBA
+# YǓǓN x SUÀN: food & listening night at TBA
 
-✧YǓǓN x SUÀN: food & listening night✧ at TBA on Sat 28 Nov, Berlin. 6 artists: bianyachichi, Daniel Majer, FISHFLU and Niamhzk and 2 more. Ambient and Experimental. See the line-up on soundcheck.
+YǓǓN x SUÀN: food & listening night at TBA on Sat 28 Nov, Berlin. 6 artists: bianyachichi, Daniel Majer, FISHFLU and Niamhzk and 2 more. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

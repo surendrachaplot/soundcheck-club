@@ -1,6 +1,6 @@
 # Josh Taylor
 
-Josh Taylor is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at EQ San Diego, San Diego on Thu, 3 Dec 2026.
+Josh Taylor is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at EQ San Diego, San Diego on Thu, 3 Dec 2026.
 
 Josh Taylor is a techno and industrial artist based in United States of America, with 27 gigs on soundcheck across San Diego. Often billed alongside Byrd US, Nico Hartt and Agents Of Alchemy. Next up: EQ San Diego, San Diego on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Josh Taylor is a techno and industrial artist based in United States of America,
 
 Byrd US, Nico Hartt, Agents Of Alchemy
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtaylor/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtaylor/)*

@@ -1,8 +1,8 @@
 # Franz Matthews
 
-Franz Matthews is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Greyhound, London on Fri, 20 Nov 2026.
+Franz Matthews is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Greyhound, London on Fri, 20 Nov 2026.
 
-Franz Matthews is a house and deep house artist based in France, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Istanbul and 4 more. Often billed alongside Bonnie Spacey, Barbur and ONNI. Next up: The Greyhound, London on Fri 20 Nov.
+Franz Matthews is a house and deep house artist based in France, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Istanbul and 4 more. Often billed alongside Bonnie Spacey, Barbur and ONNI. Next up: The Greyhound, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Franz Matthews is a house and deep house artist based in France, with 33 gigs on
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Greyhound | London |
 | Sat, 21 Nov 2026 | Wimborne St Giles, Dorset | South-east |
+| Fri, 22 Jan 2027 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Franz Matthews is a house and deep house artist based in France, with 33 gigs on
 
 Bonnie Spacey, Barbur, ONNI
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzmatthews/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzmatthews/)*

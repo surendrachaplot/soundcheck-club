@@ -1,6 +1,6 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 002" on Sun, 13 Dec 2026.
+ciao ciao Bar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 002" on Sun, 13 Dec 2026.
 
 ciao ciao Bar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including CFF.VALE, Champagner.Jannick, justcallmesergio and Loves_kills and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
@@ -15,4 +15,4 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, 
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

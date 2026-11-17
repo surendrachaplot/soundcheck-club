@@ -1,6 +1,6 @@
 # kamesou
 
-kamesou is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Triangle, Osaka on Sat, 5 Dec 2026.
+kamesou is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Triangle, Osaka on Sat, 5 Dec 2026.
 
 kamesou is a techno and psytrance artist based in Japan, with 11 gigs on soundcheck across Osaka. Often billed alongside ZAGUN, dyn (JP) and Kaoll. Next up: Triangle, Osaka on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ kamesou is a techno and psytrance artist based in Japan, with 11 gigs on soundch
 
 ZAGUN, dyn (JP), Kaoll
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamesou/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamesou/)*

@@ -1,13 +1,14 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
+John Tejada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - IYKYK , Los Angeles on Fri, 27 Nov 2026.
 
-John Tejada is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Denver and 8 more. Often billed alongside DJ Sneak, Danny Goliger and Dj Kerry. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
+John Tejada is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Denver and 8 more. Often billed alongside Connor Mikami, DJ Sneak and Danny Goliger. Next up: TBA - IYKYK , Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA - IYKYK  | Los Angeles |
 | Fri, 16 Apr 2027 | TBA - Campground 1H from DTLA | Los-angeles |
 
 ## Recently played
@@ -23,6 +24,6 @@ John Tejada is a house and techno artist based in United States of America, with
 
 ## Shares bills with
 
-DJ Sneak, Danny Goliger, Dj Kerry
+Connor Mikami, DJ Sneak, Danny Goliger
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

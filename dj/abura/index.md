@@ -1,13 +1,14 @@
 # Abura
 
-Abura is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at WOMB, Tokyo on Wed, 30 Dec 2026.
+Abura is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at WOMB, Tokyo on Wed, 30 Dec 2026.
 
-Abura is a techno and trance artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside Matsunami, Celter and DJ Bin. Next up: WOMB, Tokyo on Wed 30 Dec.
+Abura is a techno and trance artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside Matsunami, Celter and DJ Bin. Next up: WOMB, Tokyo on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Dec 2026 | WOMB | Tokyo |
 | Wed, 30 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Abura is a techno and trance artist based in Japan, with 9 gigs on soundcheck ac
 
 Matsunami, Celter, DJ Bin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abura/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abura/)*

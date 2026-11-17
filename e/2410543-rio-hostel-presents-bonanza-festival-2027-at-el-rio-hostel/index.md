@@ -15,7 +15,6 @@ Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colomb
 - Andy Martin
 - Anna Wall
 - Autopilot
-- Azzi On The Beat
 - Bclip
 - Benny (El Rio Hostel)
 - BMG
@@ -69,6 +68,7 @@ Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colomb
 - Shanti Celeste
 - Shjva
 - Silkie
+- Soju Gang
 - Tama Sumo
 - Taylor Shockley
 - theories

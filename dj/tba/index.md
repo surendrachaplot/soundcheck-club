@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kult, Belgrade on Wed, 18 Nov 2026.
+TBA is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kult, Belgrade on Wed, 18 Nov 2026.
 
-TBA is a techno and house artist based in Georgia, with 287 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 53 more. Often billed alongside PARIS (AU), SHARE (NL) and Gerald VDH. Next up: Kult, Belgrade on Wed 18 Nov.
+TBA is a techno and house artist based in Georgia, with 291 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 53 more. Often billed alongside PARIS (AU), SHARE (NL) and Gerald VDH. Next up: Kult, Belgrade on Wed 18 Nov.
 
 ## Upcoming shows
 
@@ -11,15 +11,15 @@ TBA is a techno and house artist based in Georgia, with 287 gigs on soundcheck a
 | Wed, 18 Nov 2026 | Kult | Belgrade |
 | Sat, 21 Nov 2026 | Electric Ballroom | London |
 | Wed, 25 Nov 2026 | Kult | Belgrade |
+| Wed, 25 Nov 2026 | Iron Bar and Lounge | New York City |
+| Wed, 25 Nov 2026 | Copacabana | New York City |
+| Wed, 25 Nov 2026 | Bliss Terasu | New York City |
+| Wed, 25 Nov 2026 | Haswell Greens | New York City |
 | Sat, 28 Nov 2026 | Electric Ballroom | London |
 | Sat, 28 Nov 2026 | Slaktkyrkan | Stockholm |
 | Sat, 5 Dec 2026 | Electric Ballroom | London |
 | Sat, 12 Dec 2026 | Electric Ballroom | London |
 | Sat, 19 Dec 2026 | Electric Ballroom | London |
-| Sat, 19 Dec 2026 | TBA - Lisboa | Lisbon |
-| Sat, 16 Jan 2027 | Electric Ballroom | London |
-| Sat, 23 Jan 2027 | Electric Ballroom | London |
-| Sat, 30 Jan 2027 | Electric Ballroom | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist based in Georgia, with 287 gigs on soundcheck a
 
 PARIS (AU), SHARE (NL), Gerald VDH
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

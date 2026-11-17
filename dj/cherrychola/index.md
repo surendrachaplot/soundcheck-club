@@ -1,6 +1,6 @@
 # Cherry Chola
 
-Cherry Chola is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Cherry Chola is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Cherry Chola is a house and electronica artist based in Australia, with 4 gigs on soundcheck across Melbourne, Mexico City and Sydney. Often billed alongside 1tbsp, 6 SENSE and Ahadadream. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Cherry Chola is a house and electronica artist based in Australia, with 4 gigs o
 
 1tbsp, 6 SENSE, Ahadadream
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychola/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychola/)*

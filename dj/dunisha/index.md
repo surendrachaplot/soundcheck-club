@@ -1,6 +1,6 @@
 # DUNISHA
 
-DUNISHA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Frekuence, Tirana on Sat, 12 Dec 2026.
+DUNISHA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Frekuence, Tirana on Sat, 12 Dec 2026.
 
 DUNISHA is a techno and breakbeat artist based in Albania, with 9 gigs on soundcheck across Athens, Lisbon and Tirana. Often billed alongside FRNS, On.play and ZeroCase. Next up: Frekuence, Tirana on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DUNISHA is a techno and breakbeat artist based in Albania, with 9 gigs on soundc
 
 FRNS, On.play, ZeroCase
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dunisha/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dunisha/)*

@@ -1,6 +1,6 @@
 # Old & Rich
 
-Old & Rich is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Twist Bar, Prague on Fri, 4 Dec 2026.
+Old & Rich is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Twist Bar, Prague on Fri, 4 Dec 2026.
 
 Old & Rich are an acid and disco duo based in Czech Republic, with 39 gigs on soundcheck across Prague. Often billed alongside Jak Sen, Austin Powers and Raphael Kosmos. Next up: Twist Bar, Prague on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Old & Rich are an acid and disco duo based in Czech Republic, with 39 gigs on so
 
 Jak Sen, Austin Powers, Raphael Kosmos
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldrich/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldrich/)*

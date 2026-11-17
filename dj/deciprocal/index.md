@@ -1,6 +1,6 @@
 # Deciprocal
 
-Deciprocal is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Subspace, Denver on Sat, 5 Dec 2026.
+Deciprocal is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Subspace, Denver on Sat, 5 Dec 2026.
 
 Deciprocal is a techno and acid artist, with 3 gigs on soundcheck across Denver. Often billed alongside BMG, Brunson and Laru. Next up: Subspace, Denver on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Deciprocal is a techno and acid artist, with 3 gigs on soundcheck across Denver.
 
 BMG, Brunson, Laru
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deciprocal/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deciprocal/)*

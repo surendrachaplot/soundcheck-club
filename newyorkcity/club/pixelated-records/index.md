@@ -1,6 +1,6 @@
 # Pixelated Records
 
-Pixelated Records is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Ladies in Frequency: Frequency No. 002" on Fri, 11 Dec 2026.
+Pixelated Records is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Ladies in Frequency: Frequency No. 002" on Fri, 11 Dec 2026.
 
 Pixelated Records is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including LADYLIZBK. See dates, start times and who's playing. 792 Onderdonk Ave, Ridgewood, NY 11385, USA.
 
@@ -15,4 +15,4 @@ Pixelated Records is a music venue in New York City listed on soundcheck. 2 upco
 
 792 Onderdonk Ave, Ridgewood, NY 11385, USA, New York City
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*

@@ -1,6 +1,6 @@
 # NEGITIV - VALYRIA RITUAL at 74 Hall
 
-NEGITIV - VALYRIA RITUAL at 74 Hall on Sat 21 Nov, Istanbul. 3 artists: NEGITIV, VERSION 34 and VRDS. Techno. See the line-up on soundcheck.
+NEGITIV - VALYRIA RITUAL at 74 Hall on Sat 21 Nov, Istanbul. 4 artists: NEGITIV, PASHEX, VERSION 34 and VRDS. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NEGITIV - VALYRIA RITUAL at 74 Hall on Sat 21 Nov, Istanbul. 3 artists: NEGITIV,
 ## Line-up
 
 - NEGITIV
+- PASHEX
 - VERSION 34
 - VRDS
 

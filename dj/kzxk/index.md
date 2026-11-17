@@ -1,6 +1,6 @@
 # KZXK
 
-KZXK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at LE Generator Paris, Paris on Sat, 21 Nov 2026.
+KZXK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at LE Generator Paris, Paris on Sat, 21 Nov 2026.
 
 KZXK is a techno and electro artist based in France, with 24 gigs on soundcheck across Paris. Often billed alongside 400 Coups, Minuit, AAZRAEM and Christie. Next up: LE Generator Paris, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KZXK is a techno and electro artist based in France, with 24 gigs on soundcheck 
 
 400 Coups, Minuit, AAZRAEM, Christie
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kzxk/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kzxk/)*

@@ -1,8 +1,8 @@
 # Spinks
 
-Spinks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Old Church, London on Sat, 21 Nov 2026.
+Spinks is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Old Church, London on Sat, 21 Nov 2026.
 
-Spinks is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: The Old Church, London on Sat 21 Nov.
+Spinks is a techno and house artist based in United Kingdom, with 59 gigs on soundcheck across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: The Old Church, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Spinks is a techno and house artist based in United Kingdom, with 58 gigs on sou
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | The Old Church | London |
 | Fri, 27 Nov 2026 | Rolling Stock | London |
+| Fri, 15 Jan 2027 | Volks | Brighton |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Spinks is a techno and house artist based in United Kingdom, with 58 gigs on sou
 
 Atoxyl, Yiota, Acid Carbon
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*

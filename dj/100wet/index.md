@@ -1,6 +1,6 @@
 # 100%WET
 
-100%WET is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Voxhall, Aarhus on Thu, 26 Nov 2026.
+100%WET is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Voxhall, Aarhus on Thu, 26 Nov 2026.
 
 100%WET is an electronic artist based in Denmark, with 4 gigs on soundcheck across Aarhus and Copenhagen. Often billed alongside Astrid Engberg, Melodi Ghazal and Wedding. Next up: Voxhall, Aarhus on Thu 26 Nov.
 
@@ -20,4 +20,4 @@
 
 Astrid Engberg, Melodi Ghazal, Wedding
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/100wet/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/100wet/)*

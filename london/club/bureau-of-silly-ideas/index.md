@@ -1,6 +1,6 @@
 # Bureau of Silly Ideas
 
-Bureau of Silly Ideas is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Adventures in Dub #18" on Thu, 5 Nov 2026.
+Bureau of Silly Ideas is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Adventures in Dub: New Years Day with SLICKnBOBBY (full live band and sound system)" on Fri, 1 Jan 2027.
 
 Bureau of Silly Ideas is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 18 Valentia Pl, Brixton, London SW9 8PJ, United Kingdom.
 
@@ -8,10 +8,10 @@ Bureau of Silly Ideas is a music venue in London listed on soundcheck. 1 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Adventures in Dub #18 |  |
+| Fri, 1 Jan 2027 | Adventures in Dub: New Years Day with SLICKnBOBBY (full live band and sound system) |  |
 
 ## Address
 
 18 Valentia Pl, Brixton, London SW9 8PJ, United Kingdom, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bureau-of-silly-ideas/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bureau-of-silly-ideas/)*

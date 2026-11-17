@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "complot.techno" on Fri, 20 Nov 2026.
+Lasociaciøn is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "complot.techno" on Fri, 20 Nov 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Amperia, Ania Bruster, Arlase and Babu and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -23,4 +23,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, 
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

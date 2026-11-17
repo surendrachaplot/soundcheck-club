@@ -16,7 +16,7 @@ Ciało: Alarico on Fri 11 Dec, Wroclaw. 9 artists: Alarico, Fideshi, Franczesko 
 - Jellin
 - KinkyOutsider
 - Kovvalsky
-- MKO
+- MKO (PL)
 - Nowosad
 - Spectribe
 

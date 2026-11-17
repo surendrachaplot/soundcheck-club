@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "PLEASERS" on Fri, 20 Nov 2026.
+Garage Noord is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "PLEASERS" on Fri, 20 Nov 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Apsāya, AUCO, August (NL) and baby ganoush and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -18,4 +18,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

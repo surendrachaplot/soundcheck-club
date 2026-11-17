@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Maria Arnal, GEISTE" on Thu, 19 Nov 2026.
+Badaboum is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Maria Arnal, GEISTE" on Thu, 19 Nov 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming gigs. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming gigs. See d
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

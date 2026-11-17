@@ -1,6 +1,6 @@
 # Chris Hewitt
 
-Chris Hewitt is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Pen And Pencil, Manchester on Sat, 27 Feb 2027.
+Chris Hewitt is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Pen And Pencil, Manchester on Sat, 27 Feb 2027.
 
 Chris Hewitt is a house and deep house artist based in United Kingdom, with 3 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Ross Purcell, JOC (A Deeper Groove) and Steph (A Deeper Groove). Next up: The Pen And Pencil, Manchester on Sat 27 Feb.
 
@@ -19,4 +19,4 @@ Chris Hewitt is a house and deep house artist based in United Kingdom, with 3 gi
 
 Ross Purcell, JOC (A Deeper Groove), Steph (A Deeper Groove)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishewitt/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishewitt/)*

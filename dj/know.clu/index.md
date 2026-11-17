@@ -1,14 +1,15 @@
 # know.clu
 
-know.clu is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at New Guernica, Melbourne on Sat, 21 Nov 2026.
+know.clu is a IDM and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at New Guernica, Melbourne on Sat, 21 Nov 2026.
 
-know.clu is an idm and electronica artist based in Australia, with 46 gigs on soundcheck across Adelaide, Australian Capital Territory, Brisbane and Hobart and 3 more. Often billed alongside 0800KIN, clutsee and xXdjsexycoolgirlXx. Next up: New Guernica, Melbourne on Sat 21 Nov.
+know.clu is an idm and electronica artist based in Australia, with 47 gigs on soundcheck across Adelaide, Australian Capital Territory, Brisbane and Hobart and 3 more. Often billed alongside 0800KIN, clutsee and xXdjsexycoolgirlXx. Next up: New Guernica, Melbourne on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | New Guernica | Melbourne |
+| Sat, 28 Nov 2026 | TBA | Brisbane |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ know.clu is an idm and electronica artist based in Australia, with 46 gigs on so
 
 0800KIN, clutsee, xXdjsexycoolgirlXx
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/know.clu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/know.clu/)*

@@ -1,6 +1,6 @@
 # Pulse x Be Yourself: Holden Federico & Laia at TBA
 
-Pulse x Be Yourself: Holden Federico & Laia at TBA on Sat 21 Nov, Portland. 3 artists: Holden Federico, Laia and Trustfall. Techno. See the line-up on soundcheck.
+Pulse x Be Yourself: Holden Federico & Laia at TBA on Sat 21 Nov, Portland. 4 artists: Ajota, Holden Federico, Laia and Trustfall. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pulse x Be Yourself: Holden Federico & Laia at TBA on Sat 21 Nov, Portland. 3 ar
 
 ## Line-up
 
+- Ajota
 - Holden Federico
 - Laia
 - Trustfall

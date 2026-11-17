@@ -1,6 +1,6 @@
 # FEEL THE RYTHM BY KRAWALL at Helios37
 
-FEEL THE RYTHM BY KRAWALL at Helios37 on Sat 21 Nov, Cologne. 5 artists: AELVA K, Lianka, SHARNEA and Shawty and 1 more. Techno. See the line-up on soundcheck.
+FEEL THE RYTHM BY KRAWALL at Helios37 on Sat 21 Nov, Cologne. 6 artists: AELVA K, Elyante, Lianka and SHARNEA and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FEEL THE RYTHM BY KRAWALL at Helios37 on Sat 21 Nov, Cologne. 5 artists: AELVA K
 ## Line-up
 
 - AELVA K
+- Elyante
 - Lianka
 - SHARNEA
 - Shawty

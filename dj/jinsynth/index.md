@@ -1,6 +1,6 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
+Jin Synth is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Jin Synth is a techno and experimental artist, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Luigi Tozzi, Efdemin and Quelza. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Jin Synth is a techno and experimental artist, with 64 gigs on soundcheck across
 
 Luigi Tozzi, Efdemin, Quelza
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

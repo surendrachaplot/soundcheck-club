@@ -1,11 +1,16 @@
 # Labyrinth presents: Distruction Boyz at Village Underground
 
-Labyrinth presents: Distruction Boyz at Village Underground on Fri 27 Nov, London. Afro House and Afro Tech. See the line-up on soundcheck.
+Labyrinth presents: Distruction Boyz at Village Underground on Fri 27 Nov, London. 2 artists: Golden Lady and K3. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 27 Nov 2026 |
 | Venue | Village Underground |
 | City | London |
+
+## Line-up
+
+- Golden Lady
+- K3 (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2545746-labyrinth-presents-distruction-boyz-at-village-underground/)*

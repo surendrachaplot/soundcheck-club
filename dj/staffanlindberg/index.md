@@ -1,6 +1,6 @@
 # Staffan Lindberg
 
-Staffan Lindberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
+Staffan Lindberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
 
 Staffan Lindberg is a techno and house artist based in Sweden, with 24 gigs on soundcheck across Copenhagen, Lisbon, London and Malmo and 1 more. Often billed alongside Joanna Party, Pjotr and Sean Fender. Next up: Reimersholme Hotel, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Staffan Lindberg is a techno and house artist based in Sweden, with 24 gigs on s
 
 Joanna Party, Pjotr, Sean Fender
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staffanlindberg/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staffanlindberg/)*

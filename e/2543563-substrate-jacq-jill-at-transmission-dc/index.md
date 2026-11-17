@@ -1,6 +1,6 @@
 # SUBSTRATE: Jacq Jill at TRANSMISSION DC
 
-SUBSTRATE: Jacq Jill at TRANSMISSION DC on Thu 19 Nov, Washington DC. 1 artist: Jacq Jill. Techno. See the line-up on soundcheck.
+SUBSTRATE: Jacq Jill at TRANSMISSION DC on Thu 19 Nov, Washington DC. 2 artists: Jacq Jill and kabir.. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SUBSTRATE: Jacq Jill at TRANSMISSION DC on Thu 19 Nov, Washington DC. 1 artist: 
 ## Line-up
 
 - Jacq Jill
+- kabir.
 
 *Source: [soundcheck](https://soundcheck.club/e/2543563-substrate-jacq-jill-at-transmission-dc/)*

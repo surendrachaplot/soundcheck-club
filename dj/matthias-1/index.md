@@ -1,8 +1,8 @@
 # Matthias (1)
 
-Matthias (1) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club 77, Sydney on Fri, 20 Nov 2026.
+Matthias (1) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club 77, Sydney on Fri, 20 Nov 2026.
 
-Matthias is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 40 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Club 77, Sydney on Fri 20 Nov.
+Matthias is a techno and house artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 40 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Club 77, Sydney on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Matthias is a techno and house artist based in Germany, with 119 gigs on soundch
 | Fri, 20 Nov 2026 | Club 77 | Sydney |
 | Sat, 21 Nov 2026 | Miscellania | Melbourne |
 | Sat, 19 Dec 2026 | TBA - Secret Location - Vesuvius Area  | Naples |
+| Thu, 31 Dec 2026 | The Cause | London |
+| Sun, 7 Feb 2027 | Macadam | Nantes |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
@@ -28,4 +30,4 @@ Matthias is a techno and house artist based in Germany, with 119 gigs on soundch
 
 So-Fi, Ancut, Brasi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

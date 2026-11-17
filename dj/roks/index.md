@@ -1,6 +1,6 @@
 # ROKS
 
-ROKS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
+ROKS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
 
 ROKS is a techno and industrial artist based in Russia, with 5 gigs on soundcheck across Bangkok, Beijing, Rest Of Russia and Saint Petersburg. Often billed alongside REIKS, Abelle and Annie. Next up: Stepan Razin Factory, Saint Petersburg on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ ROKS is a techno and industrial artist based in Russia, with 5 gigs on soundchec
 
 REIKS, Abelle, Annie
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roks/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roks/)*

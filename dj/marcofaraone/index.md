@@ -1,6 +1,6 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Marco Faraone is a Techno and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Marco Faraone is a techno and tech house artist based in Italy, with 165 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -33,4 +33,4 @@ Marco Faraone is a techno and tech house artist based in Italy, with 165 gigs on
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

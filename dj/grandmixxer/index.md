@@ -1,6 +1,6 @@
 # Grandmixxer
 
-Grandmixxer is a Grime and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Gretchen, Berlin on Sat, 21 Nov 2026.
+Grandmixxer is a Grime and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Gretchen, Berlin on Sat, 21 Nov 2026.
 
 Grandmixxer is a grime and dub artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Manga Saint Hilare, Flowdan and Mantra. Next up: Gretchen, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Grandmixxer is a grime and dub artist based in United Kingdom, with 27 gigs on s
 
 Manga Saint Hilare, Flowdan, Mantra
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmixxer/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmixxer/)*

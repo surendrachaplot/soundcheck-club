@@ -1,6 +1,6 @@
 # Baseck
 
-Baseck is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Collapse, Pittsburgh on Sat, 12 Dec 2026.
+Baseck is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Collapse, Pittsburgh on Sat, 12 Dec 2026.
 
 Baseck is a hardcore and breakcore artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Flapjack, Thrasher and Xanopticon. Next up: Collapse, Pittsburgh on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Baseck is a hardcore and breakcore artist based in United States of America, wit
 
 Flapjack, Thrasher, Xanopticon
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*

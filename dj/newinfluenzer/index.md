@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
+Newinfluenzer is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
 
 Newinfluenzer is a techno and electro artist based in Germany, with 102 gigs on soundcheck across Berlin, Dortmund / Essen, Frankfurt and Hamburg and 6 more. Often billed alongside DJ MELL G, yamyam and DJ SOURCE. Next up: glimmer, Hamburg on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Newinfluenzer is a techno and electro artist based in Germany, with 102 gigs on 
 
 DJ MELL G, yamyam, DJ SOURCE
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

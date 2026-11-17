@@ -1,6 +1,6 @@
 # Odd Shy Guy
 
-Odd Shy Guy is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fitzroy, Berlin on Sun, 29 Nov 2026.
+Odd Shy Guy is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Fitzroy, Berlin on Sun, 29 Nov 2026.
 
 Odd Shy Guy is a bass and electronica artist based in Italy, with 32 gigs on soundcheck across Berlin, Bologna, Bristol and London and 4 more. Often billed alongside Rose Again, Volantis and Katatonic Silentio. Next up: Fitzroy, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Odd Shy Guy is a bass and electronica artist based in Italy, with 32 gigs on sou
 
 Rose Again, Volantis, Katatonic Silentio
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oddshyguy/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oddshyguy/)*

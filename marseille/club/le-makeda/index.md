@@ -1,6 +1,6 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Boogie Nights #5 Discobolos invite Colette & Léo & Mokic" on Fri, 20 Nov 2026.
+Le Makeda is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Boogie Nights #5 Discobolos invite Colette & Léo & Mokic" on Fri, 20 Nov 2026.
 
 Le Makeda is a music venue in Marseille listed on soundcheck. 4 upcoming gigs, with line-ups including Miss Jay (RO) and TTristana. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
@@ -17,4 +17,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 4 upcoming gigs, w
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

@@ -1,6 +1,6 @@
 # Luk Vicent
 
-Luk Vicent is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mojo, Hamburg on Thu, 31 Dec 2026.
+Luk Vicent is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mojo, Hamburg on Thu, 31 Dec 2026.
 
 Luk Vicent is a house and breakbeat artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside freesi, Anton Jonathan and Jean Mauj. Next up: Mojo, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Luk Vicent is a house and breakbeat artist based in Germany, with 17 gigs on sou
 
 freesi, Anton Jonathan, Jean Mauj
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukvicent/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukvicent/)*

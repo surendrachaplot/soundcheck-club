@@ -1,6 +1,6 @@
 # TBA - Volta
 
-TBA - Volta is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Kiff Year Two" on Fri, 27 Nov 2026.
+TBA - Volta is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Kiff Year Two" on Fri, 27 Nov 2026.
 
 TBA - Volta is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Hypponix. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Volta is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Kiff Year Two | Hypponix |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tba-volta/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tba-volta/)*

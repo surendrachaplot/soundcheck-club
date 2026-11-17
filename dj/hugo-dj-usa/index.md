@@ -1,14 +1,15 @@
 # Hugo (US)
 
-Hugo (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at feedbk, New York City on Fri, 20 Nov 2026.
+Hugo (US) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at feedbk, New York City on Fri, 20 Nov 2026.
 
-Hugo (US) is a house and techno artist, with 28 gigs on soundcheck across Boston, Los Angeles, New York City and Washington DC. Often billed alongside Taiga, Burchan Acar and Manny (us). Next up: feedbk, New York City on Fri 20 Nov.
+Hugo (US) is a house and techno artist, with 29 gigs on soundcheck across Bologna, Boston, Los Angeles and New York City and 1 more. Often billed alongside Taiga, Burchan Acar and Manny (us). Next up: feedbk, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | feedbk | New York City |
+| Sat, 19 Dec 2026 | Velostazione Dynamo Bologna | Bologna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hugo (US) is a house and techno artist, with 28 gigs on soundcheck across Boston
 
 Taiga, Burchan Acar, Manny (us)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-dj-usa/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-dj-usa/)*

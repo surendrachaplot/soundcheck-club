@@ -1,6 +1,6 @@
 # Ark3r
 
-Ark3r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
+Ark3r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
 
 Ark3r is a house and techno artist based in Czech Republic, with 60 gigs on soundcheck across Berlin, Czech Republic, Dresden and Los Angeles and 1 more. Often billed alongside De Mode, kuju and Anton Kubikov. Next up: Bike Jesus, Prague on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ark3r is a house and techno artist based in Czech Republic, with 60 gigs on soun
 
 De Mode, kuju, Anton Kubikov
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ark3r/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ark3r/)*

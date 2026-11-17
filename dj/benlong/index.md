@@ -1,6 +1,6 @@
 # Ben Long
 
-Ben Long is a Techno and Dancehall artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Chuchle Racecourse, Prague on Sat, 21 Nov 2026.
+Ben Long is a Techno and Dancehall artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Chuchle Racecourse, Prague on Sat, 21 Nov 2026.
 
 Ben Long is a techno and dancehall artist based in United Kingdom, with 3 gigs on soundcheck across London, Medellin and Prague. Often billed alongside Amotik, Anthony Linell and Cobblestone Jazz. Next up: Chuchle Racecourse, Prague on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Ben Long is a techno and dancehall artist based in United Kingdom, with 3 gigs o
 
 Amotik, Anthony Linell, Cobblestone Jazz
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benlong/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benlong/)*

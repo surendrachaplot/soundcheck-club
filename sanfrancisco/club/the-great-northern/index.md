@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HELP ME LOSE MY MIND: n808 | WYA? | OL!V!A | KEAUTY" on Fri, 20 Nov 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "HELP ME LOSE MY MIND: n808 | WYA? | OL!V!A | KEAUTY" on Fri, 20 Nov 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including ALMAS, Anderson Bourne, Anthony Mansfield and Beverly Chills and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

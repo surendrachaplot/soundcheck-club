@@ -1,6 +1,6 @@
 # Rafush
 
-Rafush is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at OHM, Berlin on Thu, 17 Dec 2026.
+Rafush is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at OHM, Berlin on Thu, 17 Dec 2026.
 
 Rafush is a bass and house artist based in Brazil, with 134 gigs on soundcheck across Basel, Berlin, Cologne and Hamburg and 5 more. Often billed alongside Dj Goodboy, ADAM MUNNINGS and Kontronatura. Next up: OHM, Berlin on Thu 17 Dec.
 
@@ -26,4 +26,4 @@ Rafush is a bass and house artist based in Brazil, with 134 gigs on soundcheck a
 
 Dj Goodboy, ADAM MUNNINGS, Kontronatura
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*

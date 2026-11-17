@@ -1,6 +1,6 @@
 # Vicky Kroon
 
-Vicky Kroon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Banana Beach Club by Sollis 2.0, Phuket on Thu, 14 Jan 2027.
+Vicky Kroon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Banana Beach Club by Sollis 2.0, Phuket on Thu, 14 Jan 2027.
 
 Vicky Kroon is a techno and house artist based in Spain, with 11 gigs on soundcheck across Berlin, Ho Chi Minh City, Ibiza and Istanbul and 5 more. Often billed alongside Animal Feelings, Bruz and Chaim. Next up: Banana Beach Club by Sollis 2.0, Phuket on Thu 14 Jan.
 
@@ -25,4 +25,4 @@ Vicky Kroon is a techno and house artist based in Spain, with 11 gigs on soundch
 
 Animal Feelings, Bruz, Chaim
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vickykroon/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vickykroon/)*

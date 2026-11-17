@@ -1,14 +1,15 @@
 # Josie Tabb
 
-Josie Tabb is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Patterns, Brighton on Fri, 11 Dec 2026.
+Josie Tabb is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Patterns, Brighton on Fri, 11 Dec 2026.
 
-Josie Tabb is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Brighton and London. Often billed alongside Markus Saarländer, ÉRIU and Asa Ray. Next up: Patterns, Brighton on Fri 11 Dec.
+Josie Tabb is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Brighton and London. Often billed alongside Markus Saarländer, ÉRIU and Acid Carbon. Next up: Patterns, Brighton on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Patterns | Brighton |
+| Fri, 15 Jan 2027 | Volks | Brighton |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Josie Tabb is a house and tech house artist based in United Kingdom, with 8 gigs
 
 ## Shares bills with
 
-Markus Saarländer, ÉRIU, Asa Ray
+Markus Saarländer, ÉRIU, Acid Carbon
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josietabb/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josietabb/)*

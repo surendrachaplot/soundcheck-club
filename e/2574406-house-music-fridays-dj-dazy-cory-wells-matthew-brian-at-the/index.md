@@ -1,6 +1,6 @@
 # House Music Fridays: DJ Dazy, Cory Wells + Matthew Brian at The Air Conditioned Lounge
 
-House Music Fridays: DJ Dazy, Cory Wells + Matthew Brian at The Air Conditioned Lounge on Fri 27 Nov, San Diego. 2 artists: DJ Dazy and Matthew Brian. House. See the line-up on soundcheck.
+House Music Fridays: DJ Dazy, Cory Wells + Matthew Brian at The Air Conditioned Lounge on Fri 27 Nov, San Diego. 3 artists: Cory Wells, DJ Dazy and Matthew Brian. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ House Music Fridays: DJ Dazy, Cory Wells + Matthew Brian at The Air Conditioned 
 
 ## Line-up
 
+- Cory Wells
 - DJ Dazy
 - Matthew Brian
 

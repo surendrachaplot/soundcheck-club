@@ -1,6 +1,6 @@
-# Blade Rave at TBA
+# BLADE RAVE at TBA
 
-Blade Rave at TBA on Sun 31 Oct, Berlin. 1 artist: JORDVN PRINCE. See the line-up on soundcheck.
+BLADE RAVE at TBA on Sun 31 Oct, Berlin. 1 artist: JORDVN PRINCE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

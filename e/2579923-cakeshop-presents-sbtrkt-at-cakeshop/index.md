@@ -1,11 +1,20 @@
 # Cakeshop presents: SBTRKT at Cakeshop
 
-Cakeshop presents: SBTRKT on Wed 25 Nov, Seoul. Garage and Club. See the line-up on soundcheck.
+Cakeshop presents: SBTRKT on Wed 25 Nov, Seoul. 6 artists: AEIDA, Coziest, Ligrye and SBTRKT and 2 more. Garage and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Wed, 25 Nov 2026 |
 | Venue | Cakeshop |
 | City | Seoul |
+
+## Line-up
+
+- AEIDA
+- Coziest
+- Ligrye
+- SBTRKT
+- Shins
+- WEEUN KIM
 
 *Source: [soundcheck](https://soundcheck.club/e/2579923-cakeshop-presents-sbtrkt-at-cakeshop/)*

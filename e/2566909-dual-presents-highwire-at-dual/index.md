@@ -1,6 +1,6 @@
 # DUAL presents HIGHWIRE at Dual
 
-DUAL presents HIGHWIRE at Dual on Sat 21 Nov, Bangkok. 6 artists: DMT Disco, Eizu 映図, Kunanon and MOODYBOOM and 2 more. Techno and House. See the line-up on soundcheck.
+DUAL presents HIGHWIRE at Dual on Sat 21 Nov, Bangkok. 7 artists: DMT Disco, Eizu 映図, Kunanon and MM (TH) and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ DUAL presents HIGHWIRE at Dual on Sat 21 Nov, Bangkok. 6 artists: DMT Disco, Eiz
 - DMT Disco
 - Eizu 映図
 - Kunanon
+- MM (TH)
 - MOODYBOOM
 - Payu
 - Shinfish

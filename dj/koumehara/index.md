@@ -1,6 +1,6 @@
 # Ko Umehara
 
-Ko Umehara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Koara, Tokyo on Sat, 21 Nov 2026.
+Ko Umehara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Koara, Tokyo on Sat, 21 Nov 2026.
 
 Ko Umehara is a techno and house artist based in Japan, with 56 gigs on soundcheck across Tokyo. Often billed alongside Iori Wakasa, Haruka and IRON. Next up: Koara, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ko Umehara is a techno and house artist based in Japan, with 56 gigs on soundche
 
 Iori Wakasa, Haruka, IRON
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*

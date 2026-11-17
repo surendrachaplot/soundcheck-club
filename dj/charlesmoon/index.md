@@ -1,6 +1,6 @@
 # Charles Moon
 
-Charles Moon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Pianos, New York City on Wed, 18 Nov 2026.
+Charles Moon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Pianos, New York City on Wed, 18 Nov 2026.
 
 Charles Moon is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 8 more. Often billed alongside MOOD HSM, Gi Gi and IN PRAISE. Next up: Pianos, New York City on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Charles Moon is a house and techno artist based in United States of America, wit
 
 MOOD HSM, Gi Gi, IN PRAISE
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmoon/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmoon/)*

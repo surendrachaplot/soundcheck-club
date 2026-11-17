@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 15 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "5 Years sweat Birthday Special with Pancratio - Edwin - Ferial - Miro" on Fri, 20 Nov 2026.
+Fridas Pier is a music venue in Stuttgart with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "5 Years sweat Birthday Special with Pancratio - Edwin - Ferial - Miro" on Fri, 20 Nov 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming gigs, with line-ups including Bjørnson, Chris Hirose, Chris Schwarzwälder and Danilo Filipe and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming gigs
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

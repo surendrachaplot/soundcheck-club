@@ -1,6 +1,6 @@
 # bīsu
 
-bīsu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+bīsu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 bīsu is a house and techno artist based in Germany, with 34 gigs on soundcheck across Athens, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Horst Haller, Ciao 3lla and Sinamin. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ bīsu is a house and techno artist based in Germany, with 34 gigs on soundcheck 
 
 Horst Haller, Ciao 3lla, Sinamin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisu/)*

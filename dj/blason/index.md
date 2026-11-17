@@ -1,14 +1,14 @@
 # Blason
 
-Blason is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - TBA, North on Fri, 27 Nov 2026.
+Blason is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
 
-Blason is a house and techno artist based in United Kingdom, with 24 gigs on soundcheck across London, Manchester, North and Nottingham and 2 more. Often billed alongside Ethan., Kian OK and Birrell. Next up: TBA - TBA, North on Fri 27 Nov.
+Blason is a house and techno artist based in United Kingdom, with 24 gigs on soundcheck across London, Manchester, North and Nottingham and 2 more. Often billed alongside Ethan., Kian OK and Birrell. Next up: 1520, North on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA - TBA | North |
+| Fri, 27 Nov 2026 | 1520 | North |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Blason is a house and techno artist based in United Kingdom, with 24 gigs on sou
 
 Ethan., Kian OK, Birrell
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blason/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blason/)*

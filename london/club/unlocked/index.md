@@ -1,6 +1,6 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Parable: Andhim, TIMANTI, Nat Gohl" on Fri, 20 Nov 2026.
+UNLOCKED is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Parable: Andhim, TIMANTI, Nat Gohl" on Fri, 20 Nov 2026.
 
 UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Andhim, Clara Rosa, Daniel Ward and Don Diablo and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
@@ -22,4 +22,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming gigs, with 
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

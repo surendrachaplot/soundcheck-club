@@ -1,6 +1,6 @@
 # Ghost Dubs, Elijah Minnelli + support at The Lubber Fiend
 
-Ghost Dubs, Elijah Minnelli + support at The Lubber Fiend on Sat 12 Dec, Newcastle. 2 artists: Elijah Minnelli and Ghost Dubs. Dub and Dub Techno. See the line-up on soundcheck.
+Ghost Dubs, Elijah Minnelli + support at The Lubber Fiend on Sat 12 Dec, Newcastle. 3 artists: Adzmandala, Elijah Minnelli and Ghost Dubs. Dub and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ghost Dubs, Elijah Minnelli + support at The Lubber Fiend on Sat 12 Dec, Newcast
 
 ## Line-up
 
+- Adzmandala
 - Elijah Minnelli
 - Ghost Dubs
 

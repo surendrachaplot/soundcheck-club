@@ -1,8 +1,8 @@
 # JENKA
 
-JENKA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
+JENKA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
 
-JENKA is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin, Dresden, Hamburg and Lower Saxony and 2 more. Often billed alongside FRÆNCIS, DJ Dios and KYUB. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
+JENKA is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin, Dresden, Hamburg and Lower Saxony and 2 more. Often billed alongside FRÆNCIS, DJ Dios and KYUB. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JENKA is a techno and trance artist based in Germany, with 21 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Holy Poly | Lower-saxony |
 | Sat, 21 Nov 2026 | Baalsaal | Hamburg |
+| Fri, 4 Dec 2026 | Void Club | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ JENKA is a techno and trance artist based in Germany, with 21 gigs on soundcheck
 
 FRÆNCIS, DJ Dios, KYUB
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenka/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenka/)*

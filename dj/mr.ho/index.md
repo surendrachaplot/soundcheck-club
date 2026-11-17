@@ -1,17 +1,19 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 28 Nov 2026.
+Mr. Ho is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 28 Nov 2026.
 
-Mr. Ho is a house and techno artist based in China, with 149 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 51 more. Often billed alongside Luca Lozano, Wada Yosuke and Xiaolin. Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 28 Nov.
+Mr. Ho is a house and techno artist based in China, with 151 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 51 more. Often billed alongside Luca Lozano, Wada Yosuke and Satoshi Otsuki. Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Clutch, Warehouse Bangkok | Bangkok |
+| Sat, 5 Dec 2026 | 宀 Club | Hong Kong |
 | Fri, 11 Dec 2026 | Bastet | Philadelphia |
 | Sat, 12 Dec 2026 | Signal | New York City |
 | Fri, 18 Dec 2026 | Castle Mandawa, Rajasthan | Other-regions |
+| Thu, 31 Dec 2026 | 宀 Club | Hong Kong |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -27,6 +29,6 @@ Mr. Ho is a house and techno artist based in China, with 149 gigs on soundcheck 
 
 ## Shares bills with
 
-Luca Lozano, Wada Yosuke, Xiaolin
+Luca Lozano, Wada Yosuke, Satoshi Otsuki
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

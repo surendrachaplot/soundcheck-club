@@ -1,18 +1,21 @@
 # Bar Part Time
 
-Bar Part Time is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Oso Feo + LLLOYD" on Fri, 30 Oct 2026.
+Bar Part Time is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "HydeFM Residency" on Thu, 19 Nov 2026.
 
-Bar Part Time is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including llloyd (US), Oso Feo and Wonja. See dates, start times and who's playing. 496 14th Street.
+Bar Part Time is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including Ari Goldman, DJ Patrick and Tony Price. See dates, start times and who's playing. 496 14th Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Oso Feo + LLLOYD | Oso Feo, llloyd (US) |
-| Sat, 31 Oct 2026 | B.P.T. Is Dead Halloween w/ Wonja + Anya | Wonja |
+| Thu, 19 Nov 2026 | HydeFM Residency |  |
+| Fri, 20 Nov 2026 | Ari Goldman (Beautiful Swimmers) | Ari Goldman |
+| Sat, 21 Nov 2026 | Tony Price | Tony Price |
+| Fri, 27 Nov 2026 | SutroFM Party |  |
+| Sat, 28 Nov 2026 | DJ Patrick + Izaak S | DJ Patrick |
 
 ## Address
 
 496 14th Street, San Francisco/Oakland
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*

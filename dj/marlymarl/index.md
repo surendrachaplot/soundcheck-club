@@ -1,6 +1,6 @@
 # Marly Marl
 
-Marly Marl is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Moon Club, Bristol on Sat, 30 Jan 2027.
+Marly Marl is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Moon Club, Bristol on Sat, 30 Jan 2027.
 
 Marly Marl is a drum & bass and jungle artist based in United Kingdom, with 16 gigs on soundcheck across Bristol and London. Often billed alongside Kenny Ken, Nicky Blackmarket and Bryan Gee. Next up: Moon Club, Bristol on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Marly Marl is a drum & bass and jungle artist based in United Kingdom, with 16 g
 
 Kenny Ken, Nicky Blackmarket, Bryan Gee
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*

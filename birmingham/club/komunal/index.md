@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Amaru JTS, Mars, Kamil Yan & more" on Fri, 20 Nov 2026.
+komunal is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Amaru JTS, Mars, Kamil Yan & more" on Fri, 20 Nov 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 5 upcoming gigs, with line-ups including Harry Rowe, Lomax, Mars (FR) and Pe.trecere. See dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -18,4 +18,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 5 upcoming gigs, wi
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

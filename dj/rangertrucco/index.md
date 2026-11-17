@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Ranger Trucco is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Ranger Trucco is a house and tech house artist based in United States of America, with 109 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 31 more. Often billed alongside Prunk, KETTAMA and Ms. Mada. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 Prunk, KETTAMA, Ms. Mada
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

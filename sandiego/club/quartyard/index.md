@@ -1,6 +1,6 @@
 # Quartyard
 
-Quartyard is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Siesta Fiesta, Doc Martin, H Foundation, Bertin" on Sat, 28 Nov 2026.
+Quartyard is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Siesta Fiesta, Doc Martin, H Foundation, Bertin" on Sat, 28 Nov 2026.
 
 Quartyard is a music venue in San Diego listed on soundcheck. 4 upcoming gigs, with line-ups including Cris Herrera, Doc Martin, Eddie Amador and H-Foundation and 2 more. See dates, start times and who's playing. 1301 Market Street, San Diego, CA.
 
@@ -17,4 +17,4 @@ Quartyard is a music venue in San Diego listed on soundcheck. 4 upcoming gigs, w
 
 1301 Market Street, San Diego, CA, San Diego
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*

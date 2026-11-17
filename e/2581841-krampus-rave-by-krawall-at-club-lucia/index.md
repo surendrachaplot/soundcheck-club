@@ -1,6 +1,6 @@
 # KRAMPUS RAVE BY KRAWALL at Club Lucia
 
-KRAMPUS RAVE BY KRAWALL at Club Lucia on Sat 5 Dec, Vienna. 2 artists: maro and TONKS. Trance and Techno. See the line-up on soundcheck.
+KRAMPUS RAVE BY KRAWALL at Club Lucia on Sat 5 Dec, Vienna. 3 artists: Elyante, maro and TONKS. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KRAMPUS RAVE BY KRAWALL at Club Lucia on Sat 5 Dec, Vienna. 2 artists: maro and 
 
 ## Line-up
 
+- Elyante
 - maro
 - TONKS
 

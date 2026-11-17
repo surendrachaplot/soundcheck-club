@@ -1,6 +1,6 @@
 # Wildish
 
-Wildish is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 28 Nov 2026.
+Wildish is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 28 Nov 2026.
 
 Wildish is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Cardiff, Glasgow and Leeds and 3 more. Often billed alongside Ellia Jaya, Gaskin and BTAY. Next up: The Marlborough Red Room, Glasgow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Wildish is a house and tech house artist based in United Kingdom, with 9 gigs on
 
 Ellia Jaya, Gaskin, BTAY
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*

@@ -1,14 +1,15 @@
 # Denham Audio
 
-Denham Audio is a Breakbeat and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Amber's, Manchester on Fri, 27 Nov 2026.
+Denham Audio is a Breakbeat and Garage artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Amber's, Manchester on Fri, 27 Nov 2026.
 
-Denham Audio is a breakbeat and garage artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 50 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Amber's, Manchester on Fri 27 Nov.
+Denham Audio is a breakbeat and garage artist based in United Kingdom, with 163 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 50 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Amber's, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Amber's | Manchester |
+| Thu, 3 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 3 Dec 2026 | Phonox | London |
 | Fri, 11 Dec 2026 | Smoke & Mirrors | Chicago |
 
@@ -27,4 +28,4 @@ Denham Audio is a breakbeat and garage artist based in United Kingdom, with 162 
 
 Mani Festo, Rebekah Abdeen, Borai
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*

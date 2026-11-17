@@ -1,6 +1,6 @@
 # Visceral Room & ALTEREGO at TBA - Powered by: Void Acoustics
 
-Visceral Room & ALTEREGO at TBA - Powered by: Void Acoustics on Sat 28 Nov, Madrid. 8 artists: Elias the Prophet, Fgdj, J.C. and Krahm and 4 more. Techno and Minimal Techno. See the line-up on soundcheck.
+Visceral Room & ALTEREGO at TBA - Powered by: Void Acoustics on Sat 28 Nov, Madrid. 10 artists: Elias the Prophet, Fgdj, J.C. and Krahm and 6 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,8 +14,10 @@ Visceral Room & ALTEREGO at TBA - Powered by: Void Acoustics on Sat 28 Nov, Madr
 - Fgdj
 - J.C.
 - Krahm
+- NITTA
 - PW DISTORTION
 - Rodri Martin
+- Safia
 - Safia (2)
 - Santek
 

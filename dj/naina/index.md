@@ -1,14 +1,14 @@
 # Naina
 
-Naina is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Magazine London, London on Sat, 28 Nov 2026.
+Naina is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at KOKO, London on Sat, 28 Nov 2026.
 
-Naina is a jungle and garage artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bristol, Leeds and London and 4 more. Often billed alongside Janaway, Napes and SHERELLE. Next up: Magazine London, London on Sat 28 Nov.
+Naina is a jungle and garage artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bristol, Leeds and London and 4 more. Often billed alongside Janaway, Napes and SHERELLE. Next up: KOKO, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Magazine London | London |
+| Sat, 28 Nov 2026 | KOKO | London |
 | Fri, 18 Dec 2026 | The Cause | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ Naina is a jungle and garage artist based in United Kingdom, with 28 gigs on sou
 
 Janaway, Napes, SHERELLE
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naina/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naina/)*

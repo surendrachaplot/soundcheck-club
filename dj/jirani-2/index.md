@@ -1,8 +1,8 @@
 # Jirani (2)
 
-Jirani (2) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Planet Wax, London on Sat, 21 Nov 2026.
+Jirani (2) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Planet Wax, London on Sat, 21 Nov 2026.
 
-Jirani is a drum & bass and jungle artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Pinks, Tilly and Gui (PT). Next up: Planet Wax, London on Sat 21 Nov.
+Jirani is a drum & bass and jungle artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Pinks, Tilly and Anti Unreal. Next up: Planet Wax, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Jirani is a drum & bass and jungle artist based in United Kingdom, with 4 gigs o
 
 ## Shares bills with
 
-Pinks, Tilly, Gui (PT)
+Pinks, Tilly, Anti Unreal
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jirani-2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jirani-2/)*

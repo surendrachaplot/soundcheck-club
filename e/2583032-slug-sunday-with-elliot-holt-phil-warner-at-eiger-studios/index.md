@@ -1,6 +1,6 @@
 # Slug Sunday with Elliot Holt & Phil Warner at Eiger Studios
 
-Slug Sunday with Elliot Holt & Phil Warner at Eiger Studios on Sun 13 Dec, Leeds. 3 artists: Elliot Holt, Keone and Phil Warner. Ambient and Downtempo. See the line-up on soundcheck.
+Slug Sunday with Elliot Holt & Phil Warner at Eiger Studios on Sun 13 Dec, Leeds. 4 artists: Elliot Holt, Jamie Paul, Keone and Phil Warner. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Slug Sunday with Elliot Holt & Phil Warner at Eiger Studios on Sun 13 Dec, Leeds
 ## Line-up
 
 - Elliot Holt
+- Jamie Paul
 - Keone (2)
 - Phil Warner
 

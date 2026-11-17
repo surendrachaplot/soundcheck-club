@@ -1,6 +1,6 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Fitzroy, Berlin on Fri, 20 Nov 2026.
+Olga Korol is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fitzroy, Berlin on Fri, 20 Nov 2026.
 
 Olga Korol is a house and minimal artist based in Ukraine, with 124 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 46 more. Often billed alongside Per Hammar, Pentti Igor and Cristi Cons. Next up: Fitzroy, Berlin on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Olga Korol is a house and minimal artist based in Ukraine, with 124 gigs on soun
 
 Per Hammar, Pentti Igor, Cristi Cons
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

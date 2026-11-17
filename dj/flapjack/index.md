@@ -1,14 +1,15 @@
 # Flapjack
 
-Flapjack is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Portland on Sat, 2 Jan 2027.
+Flapjack is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Portland on Sat, 2 Jan 2027.
 
-Flapjack is a hardcore and gabber artist based in United States of America, with 45 gigs on soundcheck across Austin, Chicago, Los Angeles and Madrid and 9 more. Often billed alongside Baseck, Technopagan and BL4ZE. Next up: TBA, Portland on Sat 2 Jan.
+Flapjack is a hardcore and gabber artist based in United States of America, with 46 gigs on soundcheck across Austin, Boston, Chicago and Los Angeles and 10 more. Often billed alongside Baseck, Technopagan and BL4ZE. Next up: TBA, Portland on Sat 2 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 2 Jan 2027 | TBA | Portland |
+| Fri, 15 Jan 2027 | 288 Green St | Boston |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Flapjack is a hardcore and gabber artist based in United States of America, with
 
 Baseck, Technopagan, BL4ZE
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flapjack/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flapjack/)*

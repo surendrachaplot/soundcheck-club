@@ -1,14 +1,14 @@
 # roam DJs
 
-roam DJs is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bambi's, Toronto on Sat, 12 Dec 2026.
+roam DJs is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bambi's, Toronto on Fri, 11 Dec 2026.
 
-roam DJs is a house and jazz artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, Antal and CARISTA. Next up: Bambi's, Toronto on Sat 12 Dec.
+roam DJs is a house and jazz artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, Antal and CARISTA. Next up: Bambi's, Toronto on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Dec 2026 | Bambi's | Toronto |
+| Fri, 11 Dec 2026 | Bambi's | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ roam DJs is a house and jazz artist based in Canada, with 9 gigs on soundcheck a
 
 999ADJ, Antal, CARISTA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roamdjs/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roamdjs/)*

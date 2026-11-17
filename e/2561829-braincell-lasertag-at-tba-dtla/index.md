@@ -1,6 +1,6 @@
 # BRAINCELL LASERTAG at TBA - DTLA
 
-BRAINCELL LASERTAG at TBA - DTLA on Sat 28 Nov, Los Angeles. 3 artists: Honeydü, Jake Mora and Nikki Nair. House and Club. See the line-up on soundcheck.
+BRAINCELL LASERTAG at TBA - DTLA on Sat 28 Nov, Los Angeles. 4 artists: fm.gh0st, Honeydü, Jake Mora and Nikki Nair. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BRAINCELL LASERTAG at TBA - DTLA on Sat 28 Nov, Los Angeles. 3 artists: Honeydü
 
 ## Line-up
 
+- fm.gh0st
 - Honeydü
 - Jake Mora
 - Nikki Nair

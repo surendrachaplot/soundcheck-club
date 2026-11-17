@@ -1,6 +1,6 @@
 # 'Ø'presents NOVA at Enter Shibuya
 
-'Ø'presents NOVA at Enter Shibuya on Fri 20 Nov, Tokyo. 4 artists: IRON, levolant, Sakuma and SOGI. Techno and Electro. See the line-up on soundcheck.
+'Ø'presents NOVA at Enter Shibuya on Fri 20 Nov, Tokyo. 5 artists: IRON, Kai Galactic, levolant and Sakuma and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - IRON
+- Kai Galactic
 - levolant
 - Sakuma
 - SOGI

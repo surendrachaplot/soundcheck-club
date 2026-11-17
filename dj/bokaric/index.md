@@ -1,6 +1,6 @@
 # Bokaric
 
-Bokaric is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 21 Nov 2026.
+Bokaric is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 21 Nov 2026.
 
 Bokaric is a techno artist based in Serbia, with 22 gigs on soundcheck across Berlin. Often billed alongside Masarini, DEN!SE and Jasmin Giovanazzi. Next up: Acud Macht NEU, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Bokaric is a techno artist based in Serbia, with 22 gigs on soundcheck across Be
 
 Masarini, DEN!SE, Jasmin Giovanazzi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bokaric/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bokaric/)*

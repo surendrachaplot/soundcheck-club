@@ -1,6 +1,6 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at All My Friends, London on Thu, 19 Nov 2026.
+Jacques Greene is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at All My Friends, London on Thu, 19 Nov 2026.
 
 Jacques Greene is a house and techno artist based in Canada, with 116 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 39 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: All My Friends, London on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Jacques Greene is a house and techno artist based in Canada, with 116 gigs on so
 
 Nosaj Thing, Jubilee, Coffintexts
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

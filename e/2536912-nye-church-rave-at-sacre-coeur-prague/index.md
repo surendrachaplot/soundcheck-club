@@ -1,6 +1,6 @@
 # † NYE CHURCH RAVE † at Sacre Coeur Prague
 
-† NYE CHURCH RAVE † at Sacre Coeur Prague on Thu 31 Dec, Prague. 5 artists: KOBOV, NANCY, NONSENSE (CZ) and Orkus and 1 more. Techno and House. See the line-up on soundcheck.
+† NYE CHURCH RAVE † at Sacre Coeur Prague on Thu 31 Dec, Prague. 6 artists: DAVILLO, KOBOV, NANCY and NONSENSE (CZ) and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- DAVILLO
 - KOBOV
 - NANCY (2)
 - NONSENSE (CZ)

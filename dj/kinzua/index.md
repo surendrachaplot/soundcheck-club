@@ -1,6 +1,6 @@
 # Kinzua
 
-Kinzua is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Kinzua is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Kinzua is a techno and house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 10 more. Often billed alongside Lena Willikens, Vladimir Ivkovic and .VRIL. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kinzua is a techno and house artist based in Germany, with 48 gigs on soundcheck
 
 Lena Willikens, Vladimir Ivkovic, .VRIL
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinzua/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinzua/)*

@@ -1,6 +1,6 @@
 # JD. REID
 
-JD. REID is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Palais, London on Fri, 20 Nov 2026.
+JD. REID is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Palais, London on Fri, 20 Nov 2026.
 
 JD. REID is a club and bass artist based in United Kingdom, with 29 gigs on soundcheck across Dublin, Leeds, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Palais, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ JD. REID is a club and bass artist based in United Kingdom, with 29 gigs on soun
 
 Bok Bok, Halogenix, Call Super
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*

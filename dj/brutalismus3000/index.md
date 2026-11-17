@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
+Brutalismus 3000 is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
 
 Brutalismus 3000 is a techno and hardcore artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside DJ Gigola, MCR-T and Boys Noize. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ Brutalismus 3000 is a techno and hardcore artist based in Germany, with 87 gigs 
 
 DJ Gigola, MCR-T, Boys Noize
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

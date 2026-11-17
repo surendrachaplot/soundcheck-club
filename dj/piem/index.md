@@ -1,6 +1,6 @@
 # Piem
 
-Piem is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at La Terrrazza, Barcelona on Sat, 21 Nov 2026.
+Piem is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at La Terrrazza, Barcelona on Sat, 21 Nov 2026.
 
 Piem is a house and tech house artist based in Spain, with 163 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Nesi, GIVIO and Tamborero. Next up: La Terrrazza, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Piem is a house and tech house artist based in Spain, with 163 gigs on soundchec
 
 Nesi, GIVIO, Tamborero
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*

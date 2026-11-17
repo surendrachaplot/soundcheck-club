@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Bassiani, Tbilisi on Fri, 20 Nov 2026.
+D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bassiani, Tbilisi on Fri, 20 Nov 2026.
 
 D.Dan is a techno and house artist based in United States of America, with 239 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Bassiani, Tbilisi on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist based in United States of America, with 239 g
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

@@ -1,8 +1,8 @@
 # Enei
 
-Enei is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at E1, London on Sat, 21 Nov 2026.
+Enei is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at E1, London on Sat, 21 Nov 2026.
 
-Enei is a drum & bass and jungle artist based in Russia, with 64 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Berlin and 30 more. Often billed alongside Kasra, Jakes and EN:VY. Next up: E1, London on Sat 21 Nov.
+Enei is a drum & bass and jungle artist based in Russia, with 65 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Berlin and 30 more. Often billed alongside Kasra, Jakes and EN:VY. Next up: E1, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Enei is a drum & bass and jungle artist based in Russia, with 64 gigs on soundch
 | Sat, 5 Dec 2026 | Mia Mao | Paris |
 | Sat, 12 Dec 2026 | Grelle Forelle | Vienna |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
+| Sat, 6 Feb 2027 | The Cause | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Enei is a drum & bass and jungle artist based in Russia, with 64 gigs on soundch
 
 Kasra, Jakes, EN:VY
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*

@@ -1,9 +1,9 @@
 # u/lefty (@lefty)
 
-u/lefty (@lefty) has logged 44 gigs across 26 venues in 10 cities on soundcheck, based in London.
+u/lefty (@lefty) has logged 45 gigs across 27 venues in 10 cities on soundcheck, based in London.
 
-- Gigs logged: 44
-- Venues: 26
+- Gigs logged: 45
+- Venues: 27
 - Cities: 10
 - Seen live: 149
 

@@ -1,6 +1,6 @@
 # Port of Call: Cu at Cu
 
-Port of Call: Cu on Fri 27 Nov, London. 3 artists: Mossambi, Sines of Change and squidj. Dubstep and Dub Techno. See the line-up on soundcheck.
+Port of Call: Cu on Fri 27 Nov, London. 4 artists: interpreter, Mossambi, Sines of Change and squidj. Dubstep and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Port of Call: Cu on Fri 27 Nov, London. 3 artists: Mossambi, Sines of Change and
 
 ## Line-up
 
+- interpreter (2)
 - Mossambi
 - Sines of Change
 - squidj

@@ -1,14 +1,15 @@
 # SCNR
 
-SCNR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 21 Nov 2026.
+SCNR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 21 Nov 2026.
 
-SCNR is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Zurich. Often billed alongside Cortez, Tajara and GCOD. Next up: Frieda's Büxe, Zurich on Sat 21 Nov.
+SCNR is a techno and house artist based in Switzerland, with 7 gigs on soundcheck across Zurich. Often billed alongside Tajara, Cortez and Thomas Bianco. Next up: Frieda's Büxe, Zurich on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Frieda's Büxe | Zurich |
+| Sat, 28 Nov 2026 | Amboss Rampe | Zurich |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ SCNR is a techno and house artist based in Switzerland, with 6 gigs on soundchec
 
 ## Shares bills with
 
-Cortez (2), Tajara, GCOD
+Tajara, Cortez (2), Thomas Bianco
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*

@@ -1,8 +1,8 @@
 # Mack Gibson
 
-Mack Gibson is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Veeda, London on Fri, 20 Nov 2026.
+Mack Gibson is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Veeda, London on Fri, 20 Nov 2026.
 
-Mack Gibson is a house and garage artist based in United Kingdom, with 8 gigs on soundcheck across London and Newcastle. Often billed alongside Molly Sinnott, Cassius Holland and Freddie Paxton. Next up: Club Veeda, London on Fri 20 Nov.
+Mack Gibson is a house and garage artist based in United Kingdom, with 8 gigs on soundcheck across London and Newcastle. Often billed alongside Molly Sinnott, Cassius Holland and DAGZ. Next up: Club Veeda, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Mack Gibson is a house and garage artist based in United Kingdom, with 8 gigs on
 
 ## Shares bills with
 
-Molly Sinnott, Cassius Holland, Freddie Paxton
+Molly Sinnott, Cassius Holland, DAGZ
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackgibson/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackgibson/)*

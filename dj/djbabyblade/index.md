@@ -1,6 +1,6 @@
 # DJ Babyblade
 
-DJ Babyblade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
+DJ Babyblade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
 
 DJ Babyblade is a techno and house artist based in Germany, with 123 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 3 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: glimmer, Hamburg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ DJ Babyblade is a techno and house artist based in Germany, with 123 gigs on sou
 
 EliaHaze, DJ SOURCE, Anton Jonathan
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyblade/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyblade/)*

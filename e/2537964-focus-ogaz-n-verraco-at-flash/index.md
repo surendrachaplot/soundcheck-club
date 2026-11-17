@@ -1,6 +1,6 @@
 # FOCUS: Ogazón - Verraco at Flash
 
-FOCUS: Ogazón - Verraco at Flash on Sat 21 Nov, Washington DC. 4 artists: Andy Big, Cassia, Ogazón and Verraco. Techno and Minimal Techno. See the line-up on soundcheck.
+FOCUS: Ogazón - Verraco at Flash on Sat 21 Nov, Washington DC. 5 artists: Andy Big, Cassia, Dytrip and Ogazón and 1 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ FOCUS: Ogazón - Verraco at Flash on Sat 21 Nov, Washington DC. 4 artists: Andy 
 
 - Andy Big
 - Cassia
+- Dytrip
 - Ogazón
 - Verraco
 

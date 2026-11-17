@@ -1,6 +1,6 @@
 # Communion (E0013) at Mena Berlin
 
-Communion (E0013) at Mena Berlin on Fri 4 Dec, Berlin. 6 artists: Dardenne, Dj Berru, Kyra and paaradoxx and 2 more. Techno and Dub Techno. See the line-up on soundcheck.
+Communion (E0013) at Mena Berlin on Fri 4 Dec, Berlin. 7 artists: Dardenne, Dj Berru, Droxxid and Kyra and 3 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Communion (E0013) at Mena Berlin on Fri 4 Dec, Berlin. 6 artists: Dardenne, Dj B
 
 - Dardenne
 - Dj Berru
+- Droxxid
 - Kyra (1)
 - paaradoxx
 - session 4000

@@ -1,8 +1,8 @@
 # Solune
 
-Solune is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Edge Miami, Miami on Sat, 21 Nov 2026.
+Solune is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Edge Miami, Miami on Sat, 21 Nov 2026.
 
-Solune is a house and deep house artist based in Germany, with 5 gigs on soundcheck across Miami and Sydney. Often billed alongside Conosur, Jessy Nimni and Bouki. Next up: Edge Miami, Miami on Sat 21 Nov.
+Solune is a house and deep house artist based in Germany, with 5 gigs on soundcheck across Miami and Sydney. Often billed alongside Conosur, Jessy Nimni and Acacia. Next up: Edge Miami, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Solune is a house and deep house artist based in Germany, with 5 gigs on soundch
 
 ## Shares bills with
 
-Conosur, Jessy Nimni, Bouki
+Conosur, Jessy Nimni, Acacia
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solune/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solune/)*

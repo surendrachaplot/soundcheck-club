@@ -1,6 +1,6 @@
 # BRÆK: BEFORE at Centrála
 
-BRÆK: BEFORE at Centrála on Sat 21 Nov, Prague. 6 artists: 2NDRA, mmmm, NEUWERTH and Nøteleks and 2 more. Techno and Hardcore. See the line-up on soundcheck.
+BRÆK: BEFORE at Centrála on Sat 21 Nov, Prague. 7 artists: 2NDRA, KVLTOBSKVRA, mmmm and NEUWERTH and 3 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ BRÆK: BEFORE at Centrála on Sat 21 Nov, Prague. 6 artists: 2NDRA, mmmm, NEUWER
 ## Line-up
 
 - 2NDRA
+- KVLTOBSKVRA
 - mmmm
 - NEUWERTH
 - Nøteleks

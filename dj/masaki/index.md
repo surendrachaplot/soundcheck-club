@@ -1,6 +1,6 @@
 # Masaki
 
-Masaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at club asia, Tokyo on Wed, 18 Nov 2026.
+Masaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at club asia, Tokyo on Wed, 18 Nov 2026.
 
 Masaki is a house and techno artist based in Australia, with 11 gigs on soundcheck across Tokyo. Often billed alongside Anri, Kojiro and Yamariki. Next up: club asia, Tokyo on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Masaki is a house and techno artist based in Australia, with 11 gigs on soundche
 
 Anri, Kojiro, Yamariki
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masaki/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masaki/)*

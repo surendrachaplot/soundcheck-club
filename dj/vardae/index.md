@@ -1,13 +1,14 @@
 # Vardae
 
-Vardae is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at OIL Club, Shenzhen on Fri, 11 Dec 2026.
+Vardae is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 4 Dec 2026.
 
-Vardae is a techno and drum & bass artist based in France, with 46 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Konduku, GiGi FM and Spekki Webu. Next up: OIL Club, Shenzhen on Fri 11 Dec.
+Vardae is a techno and dub techno artist based in France, with 47 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 20 more. Often billed alongside Konduku, GiGi FM and Spekki Webu. Next up: Pillbox Beijing, Beijing on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Pillbox Beijing | Beijing |
 | Fri, 11 Dec 2026 | OIL Club | Shenzhen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vardae is a techno and drum & bass artist based in France, with 46 gigs on sound
 
 Konduku, GiGi FM, Spekki Webu
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*

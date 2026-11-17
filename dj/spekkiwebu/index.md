@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Crypt (New Orleans), New Orleans on Fri, 20 Nov 2026.
+Spekki Webu is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Crypt (New Orleans), New Orleans on Fri, 20 Nov 2026.
 
 Spekki Webu is a techno and house artist based in Netherlands, with 232 gigs on soundcheck across Amsterdam, Athens, Auckland and Baltimore and 56 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: The Crypt (New Orleans), New Orleans on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Spekki Webu is a techno and house artist based in Netherlands, with 232 gigs on 
 
 Mama Snake, OCCA, Feral
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

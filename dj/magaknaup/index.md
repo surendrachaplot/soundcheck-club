@@ -1,6 +1,6 @@
 # Maga Knaup
 
-Maga Knaup is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sala Siroco, Madrid on Sat, 5 Dec 2026.
+Maga Knaup is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sala Siroco, Madrid on Sat, 5 Dec 2026.
 
 Maga Knaup is a techno and house artist based in Spain, with 4 gigs on soundcheck across Madrid. Often billed alongside Alexis mayer, Belkan and Djen. Next up: Sala Siroco, Madrid on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Maga Knaup is a techno and house artist based in Spain, with 4 gigs on soundchec
 
 Alexis mayer, Belkan, Djen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magaknaup/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magaknaup/)*

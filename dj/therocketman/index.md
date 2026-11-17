@@ -1,6 +1,6 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+The Rocketman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 The Rocketman is a techno and trance artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 24 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ The Rocketman is a techno and trance artist based in Netherlands, with 46 gigs o
 
 Maddix, Hannah Laing, Amber Broos
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

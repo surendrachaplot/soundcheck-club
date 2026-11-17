@@ -1,8 +1,8 @@
 # Multiple People
 
-Multiple People is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Cafe Triste, Los Angeles on Mon, 30 Nov 2026.
+Multiple People is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Cafe Triste, Los Angeles on Mon, 30 Nov 2026.
 
-Multiple People is an experimental and ambient artist based in United States of America, with 16 gigs on soundcheck across Berlin, Brussels, London and Los Angeles and 3 more. Often billed alongside pollensource, Cwondo and Patch+. Next up: Cafe Triste, Los Angeles on Mon 30 Nov.
+Multiple People is an experimental and ambient artist based in United States of America, with 18 gigs on soundcheck across Berlin, Brussels, Kyoto and London and 5 more. Often billed alongside pollensource, Cwondo and Dove. Next up: Cafe Triste, Los Angeles on Mon 30 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Multiple People is an experimental and ambient artist based in United States of 
 | --- | --- | --- |
 | Mon, 30 Nov 2026 | Cafe Triste | Los Angeles |
 | Fri, 4 Dec 2026 | Forestlimit | Tokyo |
+| Fri, 11 Dec 2026 | West Harlem | Kyoto |
+| Sat, 12 Dec 2026 | Teranoma Tidepool | Osaka |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ Multiple People is an experimental and ambient artist based in United States of 
 
 ## Shares bills with
 
-pollensource, Cwondo, Patch+
+pollensource, Cwondo, Dove
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multiplepeople/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multiplepeople/)*

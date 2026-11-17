@@ -1,6 +1,6 @@
 # ozone at Eiger Studios
 
-ozone at Eiger Studios on Sat 12 Dec, Leeds. 3 artists: Jake Rollinson, Livvy Loo and ORI (ozone). House and Acid. See the line-up on soundcheck.
+ozone at Eiger Studios on Sat 12 Dec, Leeds. 4 artists: Chappy, Jake Rollinson, Livvy Loo and ORI (ozone). House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ozone at Eiger Studios on Sat 12 Dec, Leeds. 3 artists: Jake Rollinson, Livvy Lo
 
 ## Line-up
 
+- Chappy
 - Jake Rollinson
 - Livvy Loo
 - ORI (ozone)

@@ -1,6 +1,6 @@
 # Mavvi
 
-Mavvi is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Mavvi is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Mavvi is an electronica and house artist based in Venezuela, with 7 gigs on soundcheck across Barcelona, Bogotá, Budapest and Colombia and 2 more. Often billed alongside KARO, Adi (CO) and Andrea Arias. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -23,4 +23,4 @@ Mavvi is an electronica and house artist based in Venezuela, with 7 gigs on soun
 
 KARO (4), Adi (CO), Andrea Arias
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mavvi/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mavvi/)*

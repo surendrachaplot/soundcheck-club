@@ -1,6 +1,6 @@
 # Jaytech
 
-Jaytech is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Jackhammer Chicago, Chicago on Sat, 21 Nov 2026.
+Jaytech is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Jackhammer Chicago, Chicago on Sat, 21 Nov 2026.
 
 Jaytech is a trance and progressive house artist based in Australia, with 10 gigs on soundcheck across Chicago, New York City, San Diego and San Francisco/Oakland and 3 more. Often billed alongside Farius, Kristina Sky and 16BL. Next up: The Jackhammer Chicago, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jaytech is a trance and progressive house artist based in Australia, with 10 gig
 
 Farius, Kristina Sky, 16BL
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytech/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytech/)*

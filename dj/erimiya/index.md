@@ -1,13 +1,14 @@
 # ERIMIYA
 
-ERIMIYA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at WOMB, Tokyo on Wed, 30 Dec 2026.
+ERIMIYA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at WOMB, Tokyo on Wed, 30 Dec 2026.
 
-ERIMIYA is a techno and trance artist based in Japan, with 92 gigs on soundcheck across Okinawa, Osaka, Seoul and Tokyo. Often billed alongside RINALUCKY, Kojiro and DJ Yogurt. Next up: WOMB, Tokyo on Wed 30 Dec.
+ERIMIYA is a techno and trance artist based in Japan, with 93 gigs on soundcheck across Okinawa, Osaka, Seoul and Tokyo. Often billed alongside RINALUCKY, Kojiro and DJ Yogurt. Next up: WOMB, Tokyo on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Dec 2026 | WOMB | Tokyo |
 | Wed, 30 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ ERIMIYA is a techno and trance artist based in Japan, with 92 gigs on soundcheck
 
 RINALUCKY, Kojiro, DJ Yogurt
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erimiya/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erimiya/)*

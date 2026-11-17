@@ -1,6 +1,6 @@
 # The Cantina 1st Birthday at The System
 
-The Cantina 1st Birthday at The System on Sat 21 Nov, Sheffield. 3 artists: Freddie Grisbi, obviouslyalex and The Doobskins. Tech House and Deep House. See the line-up on soundcheck.
+The Cantina 1st Birthday at The System on Sat 21 Nov, Sheffield. 4 artists: Freddie Grisbi, obviouslyalex, Robyn Jade and The Doobskins. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ The Cantina 1st Birthday at The System on Sat 21 Nov, Sheffield. 3 artists: Fred
 
 - Freddie Grisbi
 - obviouslyalex
+- Robyn Jade
 - The Doobskins
 
 *Source: [soundcheck](https://soundcheck.club/e/2576320-the-cantina-1st-birthday-at-the-system/)*

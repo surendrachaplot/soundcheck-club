@@ -1,6 +1,6 @@
 # llloyd (US)
 
-llloyd (US) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 19 Nov 2026.
+llloyd (US) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 19 Nov 2026.
 
 llloyd (US) is a bass and techno artist based in United States of America, with 52 gigs on soundcheck across Austin, Los Angeles, New York City and Osaka and 2 more. Often billed alongside suade (US), DJ Tips and nonsuit. Next up: 1015 Folsom, San Francisco/Oakland on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ llloyd (US) is a bass and techno artist based in United States of America, with 
 
 suade (US), DJ Tips, nonsuit
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/llloyd-us/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/llloyd-us/)*

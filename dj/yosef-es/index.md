@@ -1,6 +1,6 @@
 # Yosef (ES)
 
-Yosef (ES) is a Garage and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Magno, Madrid on Thu, 26 Nov 2026.
+Yosef (ES) is a Garage and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Magno, Madrid on Thu, 26 Nov 2026.
 
 Yosef (ES) is a garage and electronica artist based in Spain, with 124 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Madrid and 2 more. Often billed alongside Diego Armando, Maxvll and Keiranai. Next up: Club Magno, Madrid on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Yosef (ES) is a garage and electronica artist based in Spain, with 124 gigs on s
 
 Diego Armando, Maxvll, Keiranai
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*

@@ -28,7 +28,7 @@ RA25 x Tresor Berlin at Tresor / Globus on Sat 21 Nov, Berlin. 21 artists: Akua,
 - Peverelist
 - PLO Man
 - Richard Akingbehin
-- Slimzee
+- Ship Sket
 - Sybil
 - The Hacker
 

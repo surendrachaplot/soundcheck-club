@@ -1,6 +1,6 @@
 # RUBEN CARTER
 
-RUBEN CARTER is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Madrid, Madrid on Sat, 21 Nov 2026.
+RUBEN CARTER is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Madrid, Madrid on Sat, 21 Nov 2026.
 
 RUBEN CARTER is a techno artist based in Spain, with 3 gigs on soundcheck across Madrid. Often billed alongside Hector MAD, Elisa Bee and Mr Coalman. Next up: TBA - Madrid, Madrid on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ RUBEN CARTER is a techno artist based in Spain, with 3 gigs on soundcheck across
 
 Hector MAD, Elisa Bee, Mr Coalman
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubencarter/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubencarter/)*

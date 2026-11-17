@@ -1,6 +1,6 @@
 # GENNARO
 
-GENNARO is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Amnesia Milano, Milan on Sat, 28 Nov 2026.
+GENNARO is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Amnesia Milano, Milan on Sat, 28 Nov 2026.
 
 GENNARO is a tech house and house artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Chicago, Cologne and Dortmund / Essen and 14 more. Often billed alongside Mason Collective, Ben Sterling and ChaseWest. Next up: Amnesia Milano, Milan on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ GENNARO is a tech house and house artist based in Italy, with 29 gigs on soundch
 
 Mason Collective, Ben Sterling, ChaseWest
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*

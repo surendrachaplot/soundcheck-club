@@ -1,8 +1,8 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
+Ivan Smagghe is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
-Ivan Smagghe is a techno and house artist based in France, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
+Ivan Smagghe is a techno and house artist based in France, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ivan Smagghe is a techno and house artist based in France, with 218 gigs on soun
 | Fri, 27 Nov 2026 | FOLD | London |
 | Fri, 18 Dec 2026 | The Carpet Shop | London |
 | Sat, 19 Dec 2026 | Gewölbe | Cologne |
+| Thu, 31 Dec 2026 | The Cause | London |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 | Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
 | Fri, 4 Jun 2027 | Umoya | Naples |
@@ -33,4 +34,4 @@ Ivan Smagghe is a techno and house artist based in France, with 218 gigs on soun
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

@@ -1,6 +1,6 @@
 # Meat Free NYD Party 2027 at The DBA
 
-Meat Free NYD Party 2027 at The DBA on Fri 1 Jan, Manchester. 8 artists: aalice, AOIFE, Blasha & Allatt and Decka and 4 more. Techno. See the line-up on soundcheck.
+Meat Free NYD Party 2027 at The DBA on Fri 1 Jan, Manchester. 9 artists: aalice, AOIFE, Blasha & Allatt and Bucko and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Meat Free NYD Party 2027 at The DBA on Fri 1 Jan, Manchester. 8 artists: aalice,
 - aalice
 - AOIFE
 - Blasha & Allatt
+- Bucko
 - Decka
 - Kabay
 - R.M.K

@@ -1,6 +1,6 @@
 # Nightvision x Elevate presents: Dennis Ferrer // Sub Club, Glasgow at Sub Club
 
-Nightvision x Elevate presents: Dennis Ferrer // Sub Club, Glasgow on Sun 14 Feb, Glasgow. 1 artist: Dennis Ferrer. See the line-up on soundcheck.
+Nightvision x Elevate presents: Dennis Ferrer // Sub Club, Glasgow on Sun 14 Feb, Glasgow. 1 artist: Dennis Ferrer. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bappy
 
-Bappy is a Bass and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 20 Nov 2026.
+Bappy is a Bass and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 20 Nov 2026.
 
 Bappy is a bass and afro tech artist based in Australia, with 3 gigs on soundcheck across London and Melbourne. Often billed alongside BDE, Coco Em and Crybaby. Next up: Angel Music Bar, Melbourne on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Bappy is a bass and afro tech artist based in Australia, with 3 gigs on soundche
 
 BDE, Coco Em, Crybaby
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bappy/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bappy/)*

@@ -1,6 +1,6 @@
 # Kirk (US)
 
-Kirk (US) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
+Kirk (US) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
 
 Kirk (US) is a techno and club artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Berlin, Chicago and Cologne and 10 more. Often billed alongside HOTPRETTY, Ariel Zetina and BLACKCLUB. Next up: Ritter Butzke, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Kirk (US) is a techno and club artist based in United States of America, with 74
 
 HOTPRETTY, Ariel Zetina, BLACKCLUB
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*

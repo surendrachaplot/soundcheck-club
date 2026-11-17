@@ -1,8 +1,8 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Malkata Tekila, Sofia on Fri, 20 Nov 2026.
+Shonky is a House and Minimal artist with 13 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Malkata Tekila, Sofia on Fri, 20 Nov 2026.
 
-Shonky is a house and minimal artist based in France, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Malkata Tekila, Sofia on Fri 20 Nov.
+Shonky is a house and minimal artist based in France, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Malkata Tekila, Sofia on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Shonky is a house and minimal artist based in France, with 258 gigs on soundchec
 | Fri, 18 Dec 2026 | Kassa Boat | Budapest |
 | Sat, 19 Dec 2026 | REC Napoli | Naples |
 | Fri, 25 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Thu, 31 Dec 2026 | The Cause | London |
 | Thu, 31 Dec 2026 | Signal | New York City |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
-| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Shonky is a house and minimal artist based in France, with 258 gigs on soundchec
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

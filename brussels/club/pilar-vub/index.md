@@ -1,6 +1,6 @@
 # Pilar - VUB
 
-Pilar - VUB is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Eliana Glass + Elisabeth Klinck & Nils Vermeulen" on Tue, 17 Nov 2026.
+Pilar - VUB is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Eliana Glass + Elisabeth Klinck & Nils Vermeulen" on Tue, 17 Nov 2026.
 
 Pilar - VUB is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Boulevard de la Plaine 2, 1050 Ixelles, Belgium.
 
@@ -15,4 +15,4 @@ Pilar - VUB is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. 
 
 Boulevard de la Plaine 2, 1050 Ixelles, Belgium, Brussels
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*

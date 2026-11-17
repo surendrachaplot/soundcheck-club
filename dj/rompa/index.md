@@ -1,6 +1,6 @@
 # Rompa
 
-Rompa is a Bass and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Paloma, Berlin on Sat, 21 Nov 2026.
+Rompa is a Bass and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Paloma, Berlin on Sat, 21 Nov 2026.
 
 Rompa is a bass and progressive house artist based in Germany, with 14 gigs on soundcheck across Berlin and Munich. Often billed alongside Brootworth, Delta Division and Dangermami. Next up: Paloma, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rompa is a bass and progressive house artist based in Germany, with 14 gigs on s
 
 Brootworth, Delta Division, Dangermami
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rompa/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rompa/)*

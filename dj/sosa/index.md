@@ -1,6 +1,6 @@
 # Sosa
 
-Sosa is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Sosa is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Sosa is a tech house and house artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside East End Dubs, FISHER and Paco Osuna. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Sosa is a tech house and house artist based in United States of America, with 81
 
 East End Dubs, FISHER, Paco Osuna
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*

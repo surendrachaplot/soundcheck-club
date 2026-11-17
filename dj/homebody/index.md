@@ -1,8 +1,8 @@
 # homebody
 
-homebody is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Sydney on Fri, 27 Nov 2026.
+homebody is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Sydney on Fri, 27 Nov 2026.
 
-homebody is a bass and club artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside Mincy, ATARANGI and Attu. Next up: TBA, Sydney on Fri 27 Nov.
+homebody is a bass and club artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside Mincy, ATARANGI and Acacia. Next up: TBA, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ homebody is a bass and club artist based in Australia, with 4 gigs on soundcheck
 
 ## Shares bills with
 
-Mincy, ATARANGI, Attu
+Mincy, ATARANGI, Acacia
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homebody/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homebody/)*

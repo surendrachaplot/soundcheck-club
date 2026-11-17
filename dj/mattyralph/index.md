@@ -1,8 +1,8 @@
 # Matty Ralph
 
-Matty Ralph is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Matty Ralph is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Matty Ralph is a techno and trance artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow, Los Angeles and New York City. Often billed alongside AMMARA, Blasterjaxx and Gammer. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Matty Ralph is a techno and trance artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow, Los Angeles, New York City and Thailand. Often billed alongside AMMARA, Billy Gillies and Blasterjaxx. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,9 +13,10 @@ Matty Ralph is a techno and trance artist based in United Kingdom, with 5 gigs o
 | Sat, 21 Nov 2026 | Melrose Ballroom | New York City |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
+| Fri, 29 Jan 2027 | Alexa Beach Club | Thailand |
 
 ## Shares bills with
 
-AMMARA, Blasterjaxx, Gammer
+AMMARA, Billy Gillies, Blasterjaxx
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyralph/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyralph/)*

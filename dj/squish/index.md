@@ -1,6 +1,6 @@
 # Squish
 
-Squish is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Autumn Three, London on Sat, 13 Feb 2027.
+Squish is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Autumn Three, London on Sat, 13 Feb 2027.
 
 Squish is a bass and techno artist based in South Korea, with 10 gigs on soundcheck across London, Los Angeles, Manchester and San Francisco/Oakland and 1 more. Often billed alongside Cold Hippie, Form Affinity and Yuzo. Next up: Autumn Three, London on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Squish is a bass and techno artist based in South Korea, with 10 gigs on soundch
 
 Cold Hippie, Form Affinity, Yuzo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squish/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squish/)*

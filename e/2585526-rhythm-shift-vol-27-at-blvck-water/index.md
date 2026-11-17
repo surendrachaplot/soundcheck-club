@@ -1,6 +1,6 @@
 # RHYTHM SHIFT Vol.27 at Blvck Water
 
-RHYTHM SHIFT Vol.27 at Blvck Water on Wed 25 Nov, Osaka. 2 artists: Chopstick and WOLT. Techno and Psytrance. See the line-up on soundcheck.
+RHYTHM SHIFT Vol.27 at Blvck Water on Wed 25 Nov, Osaka. 2 artists: WOLT and ZAGUN. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ RHYTHM SHIFT Vol.27 at Blvck Water on Wed 25 Nov, Osaka. 2 artists: Chopstick an
 
 ## Line-up
 
-- Chopstick (3)
 - WOLT
+- ZAGUN
 
 *Source: [soundcheck](https://soundcheck.club/e/2585526-rhythm-shift-vol-27-at-blvck-water/)*

@@ -1,6 +1,6 @@
 # Griffin Maxwell Brooks
 
-Griffin Maxwell Brooks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Green Room NYC, New York City on Fri, 11 Dec 2026.
+Griffin Maxwell Brooks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Green Room NYC, New York City on Fri, 11 Dec 2026.
 
 Griffin Maxwell Brooks is a house and techno artist based in United States of America, with 67 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 3 more. Often billed alongside Amber Valentine, Jojo Lorenzo and SKYWALKER (US). Next up: Green Room NYC, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Griffin Maxwell Brooks is a house and techno artist based in United States of Am
 
 Amber Valentine, Jojo Lorenzo, SKYWALKER (US)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/griffinmaxwellbrooks/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/griffinmaxwellbrooks/)*

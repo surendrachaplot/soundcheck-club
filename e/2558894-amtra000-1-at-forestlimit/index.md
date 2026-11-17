@@ -1,6 +1,6 @@
 # amtra000.1 at Forestlimit
 
-amtra000.1 at Forestlimit on Sun 22 Nov, Tokyo. 1 artist: Azrel. Bass. See the line-up on soundcheck.
+amtra000.1 at Forestlimit on Sun 22 Nov, Tokyo. 2 artists: Azrel and Kyosuke Takagi. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ amtra000.1 at Forestlimit on Sun 22 Nov, Tokyo. 1 artist: Azrel. Bass. See the l
 ## Line-up
 
 - Azrel
+- Kyosuke Takagi
 
 *Source: [soundcheck](https://soundcheck.club/e/2558894-amtra000-1-at-forestlimit/)*

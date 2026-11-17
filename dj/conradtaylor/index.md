@@ -1,6 +1,6 @@
 # Conrad Taylor
 
-Conrad Taylor is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Concord Music Hall, Chicago on Sat, 26 Dec 2026.
+Conrad Taylor is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Concord Music Hall, Chicago on Sat, 26 Dec 2026.
 
 Conrad Taylor is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Austin, Berlin, Chicago and Dallas Fort Worth and 8 more. Often billed alongside Flash Gea, Marie Vaunt and hhunter. Next up: Concord Music Hall, Chicago on Sat 26 Dec.
 
@@ -28,4 +28,4 @@ Conrad Taylor is a techno and house artist based in United States of America, wi
 
 Flash Gea, Marie Vaunt, hhunter
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*

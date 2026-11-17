@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "NIGHTSHIFT - Cubo Mágico Showcase with Eduardo" on Thu, 19 Nov 2026.
+Plano B is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "NIGHTSHIFT - Cubo Mágico Showcase with Eduardo" on Thu, 19 Nov 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with line-ups including Alive, Jen Cardini, Joao Semedo and Objekt and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -21,4 +21,4 @@ Plano B is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with li
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

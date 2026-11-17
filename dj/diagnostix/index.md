@@ -1,14 +1,15 @@
 # Diagnostix
 
-Diagnostix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Thekla, Bristol on Fri, 20 Nov 2026.
+Diagnostix is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Thekla, Bristol on Fri, 20 Nov 2026.
 
-Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Crossy and Benny L. Next up: Thekla, Bristol on Fri 20 Nov.
+Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Crossy and Benny L. Next up: Thekla, Bristol on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Thekla | Bristol |
+| Sat, 21 Nov 2026 | Nottingham Secret Garden | Nottingham |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 53 g
 
 Carasel, Crossy, Benny L
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*

@@ -1,6 +1,6 @@
 # Nulab Chengdu
 
-Nulab Chengdu is a music venue in Chengdu with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "厅 | 浩室之徒 @Tin" on Fri, 20 Nov 2026.
+Nulab Chengdu is a music venue in Chengdu with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "厅 | 浩室之徒 @Tin" on Fri, 20 Nov 2026.
 
 Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 7 upcoming gigs, with line-ups including Airbear, Florian Picasso, Hunkut and JUGG and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
 
@@ -20,4 +20,4 @@ Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 7 upcoming gigs,
 
 No.666. Yong'an Rd. Jinjiang Dist. Chengdu China, Chengdu
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*

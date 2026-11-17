@@ -1,6 +1,6 @@
 # jungli (2)
 
-jungli (2) is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Vespers Club, London on Fri, 5 Feb 2027.
+jungli (2) is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Vespers Club, London on Fri, 5 Feb 2027.
 
 jungli is a bass and garage artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside HashR, Hoodwink and AXU. Next up: Vespers Club, London on Fri 5 Feb.
 
@@ -19,4 +19,4 @@ jungli is a bass and garage artist based in United Kingdom, with 3 gigs on sound
 
 HashR, Hoodwink, AXU (2)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jungli-2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jungli-2/)*

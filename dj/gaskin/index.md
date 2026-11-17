@@ -1,6 +1,6 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Gaskin is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Gaskin is a house and tech house artist based in United Kingdom, with 194 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 38 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Gaskin is a house and tech house artist based in United Kingdom, with 194 gigs o
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

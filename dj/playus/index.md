@@ -1,6 +1,6 @@
 # play/us
 
-play/us is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
+play/us is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
 
 play/us is a house and electro artist based in Germany, with 5 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside CHIEF QUEEF, charli/e and Beqqi. Next up: TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun 13 Dec.
 
@@ -21,4 +21,4 @@ play/us is a house and electro artist based in Germany, with 5 gigs on soundchec
 
 CHIEF QUEEF, charli/e, Beqqi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playus/)*

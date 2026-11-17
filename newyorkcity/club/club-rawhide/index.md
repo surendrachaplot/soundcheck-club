@@ -1,21 +1,21 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "CODED Thursdays 11.19.26" on Thu, 19 Nov 2026.
+Club Rawhide is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "CODED Thursdays 11.19.26 w/ Corey Craig, DROPO" on Thu, 19 Nov 2026.
 
-Club Rawhide is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Boomer Banks, DJ Dawson, DROPO and Jacky Sommer and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | CODED Thursdays 11.19.26 |  |
+| Thu, 19 Nov 2026 | CODED Thursdays 11.19.26 w/ Corey Craig, DROPO | DROPO |
 | Thu, 19 Nov 2026 | Bear Happy Hour at The Rambles at Rawhide |  |
-| Fri, 20 Nov 2026 | Club Rawhide FRIDAY NIGHT 11.20.26 |  |
-| Sat, 21 Nov 2026 | Club Rawhide SATURDAY NIGHT 11.21.26 |  |
-| Sun, 22 Nov 2026 | LOVE SENSATION SUNDAYS 11.22.26 |  |
+| Fri, 20 Nov 2026 | Club Rawhide FRIDAY NIGHT 11.20.26 w/ Will Automagic, William Francis, Will Jack | Will Automagic, Will Jack, William Francis |
+| Sat, 21 Nov 2026 | Club Rawhide SATURDAY NIGHT 11.21.26 w/ DJ LINA, Dawson, Boomer Banks | Boomer Banks, DJ Dawson |
+| Sun, 22 Nov 2026 | LOVE SENSATION SUNDAYS 11.22.26 w/ Jacky Sommer (Analog Soul), Joey with the Mustache | Jacky Sommer, Joey with the Mustache |
 
 ## Address
 
 250 W 26TH ST, New York City
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

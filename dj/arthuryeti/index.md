@@ -1,13 +1,14 @@
 # Arthur Yeti
 
-Arthur Yeti is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
+Arthur Yeti is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Apotheka, Manila on Fri, 27 Nov 2026.
 
-Arthur Yeti is a techno and bass artist based in China, with 36 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 11 more. Often billed alongside JFÜNG, Joesnotdead and Mengzy. Next up: OIL Club, Shenzhen on Fri 4 Dec.
+Arthur Yeti is a bass and techno artist based in China, with 37 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 11 more. Often billed alongside JFÜNG, Joesnotdead and Mengzy. Next up: Apotheka, Manila on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Apotheka | Manila |
 | Fri, 4 Dec 2026 | OIL Club | Shenzhen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Arthur Yeti is a techno and bass artist based in China, with 36 gigs on soundche
 
 JFÜNG, Joesnotdead, Mengzy
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthuryeti/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthuryeti/)*

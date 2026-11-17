@@ -1,6 +1,6 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 21 Nov 2026.
+Hasvat Informant is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 21 Nov 2026.
 
 Hasvat Informant is a techno and trance artist based in Australia, with 74 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brisbane and 10 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Den Anden Side, Copenhagen on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Hasvat Informant is a techno and trance artist based in Australia, with 74 gigs 
 
 Mama Snake, Cloudy Ku, Simrana
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*

@@ -1,6 +1,6 @@
 # Nick Carroll
 
-Nick Carroll is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Monkey Loft, Seattle on Sat, 21 Nov 2026.
+Nick Carroll is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Monkey Loft, Seattle on Sat, 21 Nov 2026.
 
 Nick Carroll is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Portland and Seattle. Often billed alongside DJ SH1-TR, KJ3 (US) and Lord Phatrick. Next up: The Monkey Loft, Seattle on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nick Carroll is a house and techno artist based in United States of America, wit
 
 DJ SH1-TR, KJ3 (US), Lord Phatrick
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*

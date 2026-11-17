@@ -1,6 +1,6 @@
 # Customs
 
-Customs is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 20 Dec 2026.
+Customs is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 20 Dec 2026.
 
 Customs is a disco and house artist based in United Kingdom, with 3 gigs on soundcheck across London and Manchester. Often billed alongside Almo, Basement Maxx and Mackie. Next up: Vittoria Wharf Studio, London on Sun 20 Dec.
 
@@ -19,4 +19,4 @@ Customs is a disco and house artist based in United Kingdom, with 3 gigs on soun
 
 Almo, Basement Maxx, Mackie
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/customs/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/customs/)*

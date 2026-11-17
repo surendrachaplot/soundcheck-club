@@ -1,6 +1,6 @@
 # Bunney
 
-Bunney is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 20 Nov 2026.
+Bunney is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 20 Nov 2026.
 
 Bunney is a house and techno artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Bogotá, Brussels and Ghent and 4 more. Often billed alongside Dockett Eddy, Gabriel Finch and Kuba'97. Next up: The Lubber Fiend, Newcastle on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Bunney is a house and techno artist based in United Kingdom, with 71 gigs on sou
 
 Dockett Eddy, Gabriel Finch, Kuba'97
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*

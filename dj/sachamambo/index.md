@@ -1,13 +1,14 @@
 # Sacha Mambo
 
-Sacha Mambo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Tell Me, Sofia on Sat, 19 Dec 2026.
+Sacha Mambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Super7, Lyon on Sun, 22 Nov 2026.
 
-Sacha Mambo is a techno and house artist based in France, with 48 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 6 more. Often billed alongside Matej Rusmir, Stevie Whisper and illillillillill. Next up: Tell Me, Sofia on Sat 19 Dec.
+Sacha Mambo is a techno and house artist based in France, with 49 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 7 more. Often billed alongside Matej Rusmir, Stevie Whisper and illillillillill. Next up: Super7, Lyon on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Super7 | Lyon |
 | Sat, 19 Dec 2026 | Tell Me | Sofia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sacha Mambo is a techno and house artist based in France, with 48 gigs on soundc
 
 Matej Rusmir, Stevie Whisper, illillillillill
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*

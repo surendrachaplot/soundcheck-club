@@ -1,14 +1,15 @@
 # Pridi
 
-Pridi is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 21 Nov 2026.
+Pridi is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 21 Nov 2026.
 
-Pridi is a tech house and minimal artist based in Belarus, with 31 gigs on soundcheck across Antwerp, Berlin, Brussels and Hamburg and 4 more. Often billed alongside Plastik, Ilya Semashkevich and Shjva. Next up: Sekta Selekta, Krakow on Sat 21 Nov.
+Pridi is a tech house and minimal artist based in Belarus, with 32 gigs on soundcheck across Antwerp, Berlin, Brussels and Hamburg and 4 more. Often billed alongside Plastik, Ilya Semashkevich and Shjva. Next up: Sekta Selekta, Krakow on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Sekta Selekta | Krakow |
+| Fri, 11 Dec 2026 | B-SIDE | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pridi is a tech house and minimal artist based in Belarus, with 31 gigs on sound
 
 Plastik (1), Ilya Semashkevich, Shjva
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pridi/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pridi/)*

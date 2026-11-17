@@ -1,6 +1,6 @@
 # Amp POWERPLAY at Amp
 
-Amp POWERPLAY on Sat 21 Nov, Münster. 3 artists: Delm, RED MOJO and Vinur. Trance and Techno. See the line-up on soundcheck.
+Amp POWERPLAY on Sat 21 Nov, Münster. 4 artists: Delm, JanDue, RED MOJO and Vinur. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Amp POWERPLAY on Sat 21 Nov, Münster. 3 artists: Delm, RED MOJO and Vinur. Tran
 ## Line-up
 
 - Delm
+- JanDue
 - RED MOJO
 - Vinur
 

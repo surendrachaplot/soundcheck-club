@@ -1,0 +1,11 @@
+# PRTY: CIRCO at Tempo
+
+PRTY: CIRCO at Tempo on Sat 28 Nov, Glasgow. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 28 Nov 2026 |
+| Venue | Tempo |
+| City | Glasgow |
+
+*Source: [soundcheck](https://soundcheck.club/e/2585845-prty-circo-at-tempo/)*

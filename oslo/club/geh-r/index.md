@@ -1,6 +1,6 @@
 # Gehør
 
-Gehør is a music venue in Oslo with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Groove Chronicles VI" on Sat, 21 Nov 2026.
+Gehør is a music venue in Oslo with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Groove Chronicles VI" on Sat, 21 Nov 2026.
 
 Gehør is a music venue in Oslo listed on soundcheck. 2 upcoming gigs, with line-ups including Bellicose, Commissar  Lag and Of Norway. See dates, start times and who's playing. Bernt ankers gate 39, 0179 Oslo.
 
@@ -15,4 +15,4 @@ Gehør is a music venue in Oslo listed on soundcheck. 2 upcoming gigs, with line
 
 Bernt ankers gate 39, 0179 Oslo, Oslo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/geh-r/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/geh-r/)*

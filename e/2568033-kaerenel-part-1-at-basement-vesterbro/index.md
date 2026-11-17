@@ -1,6 +1,6 @@
 # Kaerenel: Part 1 at Basement Vesterbro
 
-Kaerenel: Part 1 at Basement Vesterbro on Fri 20 Nov, Copenhagen. 3 artists: jjjacob, Mesak and natq. Electro and Experimental. See the line-up on soundcheck.
+Kaerenel: Part 1 at Basement Vesterbro on Fri 20 Nov, Copenhagen. 4 artists: jjjacob, Mesak, natq and Virginia Supreme. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Kaerenel: Part 1 at Basement Vesterbro on Fri 20 Nov, Copenhagen. 3 artists: jjj
 - jjjacob
 - Mesak
 - natq
+- Virginia Supreme
 
 *Source: [soundcheck](https://soundcheck.club/e/2568033-kaerenel-part-1-at-basement-vesterbro/)*

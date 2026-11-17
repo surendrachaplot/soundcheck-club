@@ -1,6 +1,6 @@
 # SMUT LOCALS NIGHT at SMUT Athens
 
-SMUT LOCALS NIGHT at SMUT Athens on Sat 28 Nov, Athens. 3 artists: Ayshel, FlökosH and IVRA. Club. See the line-up on soundcheck.
+SMUT LOCALS NIGHT at SMUT Athens on Sat 28 Nov, Athens. 4 artists: Ayshel, EREVOS, FlökosH and IVRA. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SMUT LOCALS NIGHT at SMUT Athens on Sat 28 Nov, Athens. 3 artists: Ayshel, Flök
 ## Line-up
 
 - Ayshel
+- EREVOS
 - FlökosH
 - IVRA
 

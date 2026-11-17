@@ -1,13 +1,14 @@
 # Jacky Sommer
 
-Jacky Sommer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Refuge, New York City on Sat, 5 Dec 2026.
+Jacky Sommer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Rawhide, New York City on Sun, 22 Nov 2026.
 
-Jacky Sommer is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Baltimore, Berlin, New York City and Pittsburgh. Often billed alongside Analog Soul, DatKat and Mike Servito. Next up: Refuge, New York City on Sat 5 Dec.
+Jacky Sommer is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Baltimore, Berlin, New York City and Pittsburgh. Often billed alongside Analog Soul, DatKat and Mike Servito. Next up: Club Rawhide, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Club Rawhide | New York City |
 | Sat, 5 Dec 2026 | Refuge | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jacky Sommer is a house and techno artist based in United States of America, wit
 
 Analog Soul, DatKat, Mike Servito
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackysommer/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackysommer/)*

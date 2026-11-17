@@ -1,8 +1,8 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "ØUT: Saphire LeFleur, Kou2tatane, Avenir" on Wed, 18 Nov 2026.
+Rex Club is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "ØUT: Saphire LeFleur, Kou2tatane, Avenir" on Wed, 18 Nov 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Abr., Avenir, Bakean and Camille Luciani and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Abr., Avenir, Bakean and Camille Luciani and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

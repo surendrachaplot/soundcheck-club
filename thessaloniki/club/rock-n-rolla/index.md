@@ -1,14 +1,13 @@
 # Rock N Rolla
 
-Rock N Rolla is a music venue in Thessaloniki with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pay AT&T Bill Online Without Logging In: Fast Guest Pay Guide" on Sat, 14 Nov 2026.
+Rock N Rolla is a music venue in Thessaloniki with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "How to Use the AT&T Pay My Bill Website (Quick & Easy Guide)" on Sat, 21 Nov 2026.
 
-Rock N Rolla is a music venue in Thessaloniki listed on soundcheck. 2 upcoming gigs, with line-ups including Calm, Frantic, Ghoulish and Louise Rossiter. See dates, start times and who's playing.
+Rock N Rolla is a music venue in Thessaloniki listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Pay AT&T Bill Online Without Logging In: Fast Guest Pay Guide | Calm, Frantic |
-| Sat, 14 Nov 2026 | FLAT22: CTZN001 Release Party | Ghoulish, Louise Rossiter |
+| Sat, 21 Nov 2026 | How to Use the AT&T Pay My Bill Website (Quick & Easy Guide) |  |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/thessaloniki/club/rock-n-rolla/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/thessaloniki/club/rock-n-rolla/)*

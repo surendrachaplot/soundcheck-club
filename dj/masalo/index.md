@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Masalo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Masalo is a house and disco artist based in Netherlands, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Kamma, Antal and DJ Tennis. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Masalo is a house and disco artist based in Netherlands, with 143 gigs on soundc
 
 Kamma, Antal, DJ Tennis
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

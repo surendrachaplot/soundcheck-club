@@ -1,6 +1,6 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Sauvage" on Fri, 20 Nov 2026.
+Cabaret Sauvage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Sauvage" on Fri, 20 Nov 2026.
 
 Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aubry, BAB MUSIQUE, Chinau and Dan Shake and 2 more. See dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
@@ -19,4 +19,4 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming gigs,
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

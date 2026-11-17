@@ -1,6 +1,6 @@
 # Chantal Michelle
 
-Chantal Michelle is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bar Laika, New York City on Tue, 17 Nov 2026.
+Chantal Michelle is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bar Laika, New York City on Tue, 17 Nov 2026.
 
 Chantal Michelle is an experimental and ambient artist based in United States of America, with 17 gigs on soundcheck across Berlin, Glasgow, London and Mexico City and 2 more. Often billed alongside Alliyah Enyo, William Basinski and Abby Echiverri. Next up: Bar Laika, New York City on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Chantal Michelle is an experimental and ambient artist based in United States of
 
 Alliyah Enyo, William Basinski, Abby Echiverri
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chantalmichelle/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chantalmichelle/)*

@@ -1,6 +1,6 @@
 # Signal Temple x AV Nights at Blindspot*
 
-Signal Temple x AV Nights at Blindspot* on Fri 20 Nov, Bucharest. 7 artists: Alienmade, ANIN, D-Fuze and Drao and 3 more. Dubstep and Grime. See the line-up on soundcheck.
+Signal Temple x AV Nights at Blindspot* on Fri 20 Nov, Bucharest. 8 artists: Alienmade, ANIN, D-Fuze and Drao and 4 more. Dubstep and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Signal Temple x AV Nights at Blindspot* on Fri 20 Nov, Bucharest. 7 artists: Ali
 - ANIN
 - D-Fuze
 - Drao
+- Eye Ark
 - Gheordu
 - Kundarini
 - Low Freq

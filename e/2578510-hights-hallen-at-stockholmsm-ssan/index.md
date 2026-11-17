@@ -1,6 +1,6 @@
 # HIGHTS HALLEN at Stockholmsmässan
 
-HIGHTS HALLEN at Stockholmsmässan on Sat 30 Jan, Stockholm. 2 artists: 7heads and TOKI (SE). Techno and Tech House. See the line-up on soundcheck.
+HIGHTS HALLEN at Stockholmsmässan on Sat 30 Jan, Stockholm. 3 artists: 7heads, Anja Schneider and TOKI (SE). Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HIGHTS HALLEN at Stockholmsmässan on Sat 30 Jan, Stockholm. 2 artists: 7heads a
 ## Line-up
 
 - 7heads
+- Anja Schneider
 - TOKI (SE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2578510-hights-hallen-at-stockholmsm-ssan/)*

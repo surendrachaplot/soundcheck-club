@@ -1,14 +1,16 @@
 # kentaraw
 
-kentaraw is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Numm, Tokyo on Thu, 26 Nov 2026.
+kentaraw is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Red Bar, Tokyo on Thu, 19 Nov 2026.
 
-kentaraw is a minimal and house artist based in Japan, with 5 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Yuta Suzuki, yoshiken and yyshuu. Next up: Numm, Tokyo on Thu 26 Nov.
+kentaraw is a house and minimal artist based in Japan, with 7 gigs on soundcheck across Seoul and Tokyo. Often billed alongside yoshiken, yyshuu and Sinqmin. Next up: Red Bar, Tokyo on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Red Bar | Tokyo |
 | Thu, 26 Nov 2026 | Numm | Tokyo |
+| Sat, 5 Dec 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -19,6 +21,6 @@ kentaraw is a minimal and house artist based in Japan, with 5 gigs on soundcheck
 
 ## Shares bills with
 
-Yuta Suzuki, yoshiken, yyshuu
+yoshiken, yyshuu, Sinqmin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaraw/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaraw/)*

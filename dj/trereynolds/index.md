@@ -1,6 +1,6 @@
 # Tre Reynolds
 
-Tre Reynolds is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Elsewhere, New York City on Fri, 20 Nov 2026.
+Tre Reynolds is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Elsewhere, New York City on Fri, 20 Nov 2026.
 
 Tre Reynolds is a tech house and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside Danny Howard, Fatzo and Oden. Next up: Elsewhere, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Tre Reynolds is a tech house and house artist based in United Kingdom, with 58 g
 
 Danny Howard, Fatzo, Oden
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*

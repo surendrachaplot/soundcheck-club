@@ -1,14 +1,15 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Concourse Project, Austin on Thu, 31 Dec 2026.
+Azzecca is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Concourse Project, Austin on Thu, 31 Dec 2026.
 
-Azzecca is a house and techno artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 28 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: The Concourse Project, Austin on Thu 31 Dec.
+Azzecca is a house and techno artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 28 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: The Concourse Project, Austin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | The Concourse Project | Austin |
+| Fri, 1 Jan 2027 | Prysm Nightclub | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Azzecca is a house and techno artist based in United States of America, with 94 
 
 Gorgon City, Boys Noize, Chris Lake
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

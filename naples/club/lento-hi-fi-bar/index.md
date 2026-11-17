@@ -1,6 +1,6 @@
 # Lento Hi Fi Bar
 
-Lento Hi Fi Bar is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Lento Hi Fi pres Nilo" on Wed, 18 Nov 2026.
+Lento Hi Fi Bar is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Lento Hi Fi pres Nilo" on Wed, 18 Nov 2026.
 
 Lento Hi Fi Bar is a music venue in Naples listed on soundcheck. 10 upcoming gigs, with line-ups including Basically Ugly Covers, Curcio, DLP and Fantasie Safari and 2 more. See dates, start times and who's playing. Via Giovanni Paladino 23 80138.
 
@@ -23,4 +23,4 @@ Lento Hi Fi Bar is a music venue in Naples listed on soundcheck. 10 upcoming gig
 
 Via Giovanni Paladino 23 80138, Naples
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/lento-hi-fi-bar/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/lento-hi-fi-bar/)*

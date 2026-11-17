@@ -1,6 +1,6 @@
 # Spirála at Bike Jesus
 
-Spirála at Bike Jesus on Sat 21 Nov, Prague. 3 artists: ionai, Miss Univers and VNNUK. Techno. See the line-up on soundcheck.
+Spirála at Bike Jesus on Sat 21 Nov, Prague. 4 artists: Alke, ionai, Miss Univers and VNNUK. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Spirála at Bike Jesus on Sat 21 Nov, Prague. 3 artists: ionai, Miss Univers and
 
 ## Line-up
 
+- Alke
 - ionai
 - Miss Univers
 - VNNUK

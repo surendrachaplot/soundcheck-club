@@ -1,6 +1,6 @@
 # MUCKANIKS
 
-MUCKANIKS is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Racket Space, Dublin on Sat, 28 Nov 2026.
+MUCKANIKS is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Racket Space, Dublin on Sat, 28 Nov 2026.
 
 MUCKANIKS is a garage and bass artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Dublin, Leeds and Liverpool and 2 more. Often billed alongside BVNQUET, Higgo and LLEAHDAVIES. Next up: The Racket Space, Dublin on Sat 28 Nov.
 
@@ -10,7 +10,7 @@ MUCKANIKS is a garage and bass artist based in United Kingdom, with 10 gigs on s
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Racket Space | Dublin |
 | Fri, 11 Dec 2026 | Yes | Manchester |
-| Fri, 22 Jan 2027 | The Clock Factory | Bristol |
+| Fri, 22 Jan 2027 | Clock Factory | Bristol |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ MUCKANIKS is a garage and bass artist based in United Kingdom, with 10 gigs on s
 
 BVNQUET, Higgo, LLEAHDAVIES
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muckaniks/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muckaniks/)*

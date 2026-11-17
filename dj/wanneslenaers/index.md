@@ -1,6 +1,6 @@
 # Wannes Lenaers
 
-Wannes Lenaers is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Wannes Lenaers is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Wannes Lenaers is a techno and psytrance artist based in Belgium, with 47 gigs on soundcheck across Berlin, Brussels and Ghent. Often billed alongside trillosta, Daesical and EMILIJA. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Wannes Lenaers is a techno and psytrance artist based in Belgium, with 47 gigs o
 
 trillosta, Daesical, EMILIJA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wanneslenaers/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wanneslenaers/)*

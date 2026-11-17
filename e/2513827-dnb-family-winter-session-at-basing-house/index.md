@@ -1,6 +1,6 @@
 # dnb family: winter session at Basing House
 
-dnb family: winter session at Basing House on Sat 5 Dec, London. 3 artists: Jirani, Pinks and Wilman. Drum & Bass and Jungle. See the line-up on soundcheck.
+dnb family: winter session at Basing House on Sat 5 Dec, London. 4 artists: Anti Unreal, Jirani, Pinks and Wilman. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ dnb family: winter session at Basing House on Sat 5 Dec, London. 3 artists: Jira
 
 ## Line-up
 
+- Anti Unreal
 - Jirani (2)
 - Pinks
 - Wilman

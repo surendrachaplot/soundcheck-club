@@ -1,6 +1,6 @@
 # Vorick
 
-Vorick is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kran Beograd, Belgrade on Fri, 27 Nov 2026.
+Vorick is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kran Beograd, Belgrade on Fri, 27 Nov 2026.
 
 Vorick is a techno and tech house artist based in Bulgaria, with 37 gigs on soundcheck across Belgrade, London, Paris and Sofia. Often billed alongside Egor Sintsoff, HUMAN ERROR and NEGITIV. Next up: Kran Beograd, Belgrade on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Vorick is a techno and tech house artist based in Bulgaria, with 37 gigs on soun
 
 Egor Sintsoff, HUMAN ERROR, NEGITIV
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorick/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorick/)*

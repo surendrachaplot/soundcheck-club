@@ -1,6 +1,6 @@
 # Amélie
 
-Amélie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Azumaya, Tokyo on Thu, 26 Nov 2026.
+Amélie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Azumaya, Tokyo on Thu, 26 Nov 2026.
 
 Amélie is a techno and house artist, with 3 gigs on soundcheck across Bristol and Tokyo. Often billed alongside ACID NAGATA, Minor Science and Shimon. Next up: Azumaya, Tokyo on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Amélie is a techno and house artist, with 3 gigs on soundcheck across Bristol a
 
 ACID NAGATA, Minor Science, Shimon
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amelie/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amelie/)*

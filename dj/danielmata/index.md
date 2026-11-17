@@ -1,8 +1,8 @@
 # Daniel Mata
 
-Daniel Mata is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 28 Nov 2026.
+Daniel Mata is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 28 Nov 2026.
 
-Daniel Mata is a house and tech house artist, with 9 gigs on soundcheck across Berlin. Often billed alongside crydebleich, Cardi-O and BUTTCHIN. Next up: Süss War Gestern, Berlin on Sat 28 Nov.
+Daniel Mata is a house and tech house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside crydebleich, Cardi-O and BUTTCHIN. Next up: Süss War Gestern, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daniel Mata is a house and tech house artist, with 9 gigs on soundcheck across B
 
 crydebleich, Cardi-O, BUTTCHIN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmata/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmata/)*

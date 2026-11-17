@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+Brunello is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
 
 Brunello is a house and tech house artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Austin, Bali and Chicago and 9 more. Often billed alongside VTSS, Brutalismus 3000 and Dennis Cruz. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Brunello is a house and tech house artist based in United States of America, wit
 
 VTSS, Brutalismus 3000, Dennis Cruz
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

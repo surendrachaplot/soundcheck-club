@@ -1,6 +1,6 @@
 # X-MAS KRAWALL ALL WEEKEND LONG at Helios37
 
-X-MAS KRAWALL ALL WEEKEND LONG at Helios37 on Sat 19 Dec, Cologne. 4 artists: DJ Discostoff, Rosilicious, two girls one mom and ZAHNATZIN. Trance and Techno. See the line-up on soundcheck.
+X-MAS KRAWALL ALL WEEKEND LONG at Helios37 on Sat 19 Dec, Cologne. 5 artists: DJ Discostoff, Elyante, Rosilicious and two girls one mom and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ X-MAS KRAWALL ALL WEEKEND LONG at Helios37 on Sat 19 Dec, Cologne. 4 artists: DJ
 ## Line-up
 
 - DJ Discostoff
+- Elyante
 - Rosilicious
 - two girls one mom
 - ZAHNATZIN

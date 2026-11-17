@@ -1,6 +1,6 @@
 # Katharsis -Pre Countdown Label Showcase 2026- at TBA
 
-Katharsis -Pre Countdown Label Showcase 2026- at TBA on Wed 30 Dec, Tokyo. 5 artists: adak7, DJ Sodeyama, LiaRako and Masafumi Take and 1 more. Techno. See the line-up on soundcheck.
+Katharsis -Pre Countdown Label Showcase 2026- at TBA on Wed 30 Dec, Tokyo. 6 artists: adak7, DJ Sodeyama, Frankie $ and LiaRako and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Katharsis -Pre Countdown Label Showcase 2026- at TBA on Wed 30 Dec, Tokyo. 5 art
 
 - adak7
 - DJ Sodeyama
+- Frankie $
 - LiaRako
 - Masafumi Take
 - Takaaki Itoh

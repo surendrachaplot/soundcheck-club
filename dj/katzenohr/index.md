@@ -1,6 +1,6 @@
 # Katzenohr
 
-Katzenohr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Beate Uwe, Berlin on Sat, 19 Dec 2026.
+Katzenohr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Beate Uwe, Berlin on Sat, 19 Dec 2026.
 
 Katzenohr is a house and techno artist based in Germany, with 43 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside ELIZEN THE EMPEROR, WIEK and ple:xy. Next up: Beate Uwe, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Katzenohr is a house and techno artist based in Germany, with 43 gigs on soundch
 
 ELIZEN THE EMPEROR, WIEK, ple:xy
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katzenohr/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katzenohr/)*

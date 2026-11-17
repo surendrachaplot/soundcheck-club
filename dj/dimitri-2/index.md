@@ -1,6 +1,6 @@
 # Dimitri (2)
 
-Dimitri (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Amsterdam on Sat, 13 Feb 2027.
+Dimitri (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Amsterdam on Sat, 13 Feb 2027.
 
 Dimitri is a house and techno artist based in Vietnam, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Alexander Koning, Divine and Lucien Foort. Next up: TBA, Amsterdam on Sat 13 Feb.
 
@@ -20,4 +20,4 @@ Dimitri is a house and techno artist based in Vietnam, with 4 gigs on soundcheck
 
 Alexander Koning, Divine, Lucien Foort
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-2/)*

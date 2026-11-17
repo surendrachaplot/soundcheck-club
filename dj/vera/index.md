@@ -1,6 +1,6 @@
 # Vera
 
-Vera is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, London on Sat, 21 Nov 2026.
+Vera is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, London on Sat, 21 Nov 2026.
 
 Vera is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 40 more. Often billed alongside Edward, Eli Verveine and Gwenan. Next up: TBA, London on Sat 21 Nov.
 
@@ -9,7 +9,7 @@ Vera is a techno and house artist based in Germany, with 156 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA | London |
-| Fri, 27 Nov 2026 | TBA - TBA | North |
+| Fri, 27 Nov 2026 | 1520 | North |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 | Fri, 29 Jan 2027 | 24 Kitchen Street | Liverpool |
@@ -31,4 +31,4 @@ Vera is a techno and house artist based in Germany, with 156 gigs on soundcheck 
 
 Edward, Eli Verveine, Gwenan
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*

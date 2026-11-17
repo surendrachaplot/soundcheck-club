@@ -1,6 +1,6 @@
 # Club NYX
 
-Club NYX is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "3xNYX: Burn The House Down" on Sat, 28 Nov 2026.
+Club NYX is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "3xNYX: Burn The House Down" on Sat, 28 Nov 2026.
 
 Club NYX is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Emma Champagne Queen, FREY., Gabriell and Kutkyle. See dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
@@ -15,4 +15,4 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, wi
 
 Reguliersdwarsstraat 42, 1017BM Amsterdam, Amsterdam
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*

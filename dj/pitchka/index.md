@@ -1,8 +1,8 @@
 # PITCHKA
 
-PITCHKA is a Pop and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Rubix Warehouse & Tetris Studios, Melbourne on Fri, 11 Dec 2026.
+PITCHKA is a Pop and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Rubix Warehouse & Tetris Studios, Melbourne on Fri, 11 Dec 2026.
 
-PITCHKA is a pop and house artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside Zalina, Aquenta and Azzi On The Beat. Next up: Rubix Warehouse & Tetris Studios, Melbourne on Fri 11 Dec.
+PITCHKA is a pop and house artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside Zalina, Aquenta and Deepa. Next up: Rubix Warehouse & Tetris Studios, Melbourne on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ PITCHKA is a pop and house artist based in Australia, with 3 gigs on soundcheck 
 
 ## Shares bills with
 
-Zalina, Aquenta, Azzi On The Beat
+Zalina, Aquenta, Deepa
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchka/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchka/)*

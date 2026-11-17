@@ -1,6 +1,6 @@
 # Utah
 
-Utah is a Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
+Utah is a Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
 
 Utah is a bass artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 46 more. Often billed alongside APP, Alaska and Debit. Next up: Stepan Razin Factory, Saint Petersburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Utah is a bass artist based in United Kingdom, with 149 gigs on soundcheck acros
 
 APP, Alaska (2), Debit
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/utah/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/utah/)*

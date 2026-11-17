@@ -1,8 +1,8 @@
 # IAMBP
 
-IAMBP is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Rex Club, Paris on Sat, 21 Nov 2026.
+IAMBP is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Rex Club, Paris on Sat, 21 Nov 2026.
 
-IAMBP is a house and electro artist based in France, with 100 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 22 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Rex Club, Paris on Sat 21 Nov.
+IAMBP is a house and electro artist based in France, with 101 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 22 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Rex Club, Paris on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ IAMBP is a house and electro artist based in France, with 100 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Rex Club | Paris |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
+| Thu, 31 Dec 2026 | The Cause | London |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -27,4 +28,4 @@ IAMBP is a house and electro artist based in France, with 100 gigs on soundcheck
 
 HearThug, Occibel, Alyhas
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

@@ -1,6 +1,6 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "RAWAX 15 YEARS ANNIVERSARY WITH Dana Ruh & Robert Drewek" on Fri, 4 Dec 2026.
+Silbergold is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "RAWAX 15 YEARS ANNIVERSARY WITH Dana Ruh & Robert Drewek" on Fri, 4 Dec 2026.
 
 Silbergold is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including Dana Ruh and Robert Drewek. See dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
@@ -14,4 +14,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, w
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

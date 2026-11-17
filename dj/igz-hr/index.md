@@ -1,14 +1,15 @@
 # IGZ (HR)
 
-IGZ (HR) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 20 Nov 2026.
+IGZ (HR) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 20 Nov 2026.
 
-IGZ (HR) is a house and tech house artist based in Croatia, with 28 gigs on soundcheck across Croatia, London and Zagreb. Often billed alongside bubble o, Dav and Tim Kern. Next up: Mali Barbarellas, Croatia on Fri 20 Nov.
+IGZ (HR) is a house and tech house artist based in Croatia, with 29 gigs on soundcheck across Croatia, London and Zagreb. Often billed alongside bubble o, Dav and Tim Kern. Next up: Mali Barbarellas, Croatia on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Mali Barbarellas | Croatia |
+| Sat, 28 Nov 2026 | TBA - Secret location DM @afteregochronicles on instagram | Zagreb |
 | Sat, 28 Nov 2026 | Masters | Zagreb |
 
 ## Recently played
@@ -26,4 +27,4 @@ IGZ (HR) is a house and tech house artist based in Croatia, with 28 gigs on soun
 
 bubble o, Dav, Tim Kern
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igz-hr/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igz-hr/)*

@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Mockingbird, Denver on Sat, 21 Nov 2026.
+Boss Priester is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mockingbird, Denver on Sat, 21 Nov 2026.
 
 Boss Priester is a house and tech house artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Mockingbird, Denver on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Boss Priester is a house and tech house artist based in Netherlands, with 114 gi
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

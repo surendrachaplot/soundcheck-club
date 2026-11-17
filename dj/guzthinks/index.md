@@ -1,6 +1,6 @@
 # Guz Thinks
 
-Guz Thinks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 26 Dec 2026.
+Guz Thinks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 26 Dec 2026.
 
 Guz Thinks is a techno and house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Cote de Boeuf and the Elegant 1, Deus Ex Machina (DEM) and Christopher Ivor. Next up: THE OTHER SIDE, Amsterdam on Sat 26 Dec.
 
@@ -22,4 +22,4 @@ Guz Thinks is a techno and house artist based in Netherlands, with 6 gigs on sou
 
 Cote de Boeuf and the Elegant 1, Deus Ex Machina (DEM), Christopher Ivor
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guzthinks/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guzthinks/)*

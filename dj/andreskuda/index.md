@@ -1,8 +1,8 @@
 # André Skuda
 
-André Skuda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Sensorium, Berlin on Wed, 18 Nov 2026.
+André Skuda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sensorium, Berlin on Wed, 18 Nov 2026.
 
-André Skuda is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside PETDuo, ALICA RØUGH and Ankit. Next up: Sensorium, Berlin on Wed 18 Nov.
+André Skuda is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Ankit, PETDuo and ALICA RØUGH. Next up: Sensorium, Berlin on Wed 18 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ André Skuda is a techno and house artist based in Germany, with 5 gigs on sound
 
 ## Shares bills with
 
-PETDuo, ALICA RØUGH, Ankit
+Ankit, PETDuo, ALICA RØUGH
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreskuda/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreskuda/)*

@@ -1,6 +1,6 @@
 # SuperUser
 
-SuperUser is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Oath, Tokyo on Sat, 21 Nov 2026.
+SuperUser is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Oath, Tokyo on Sat, 21 Nov 2026.
 
 SuperUser is a techno and house artist based in United Kingdom, with 67 gigs on soundcheck across Bangkok, Osaka, Tokyo and Valencia. Often billed alongside DJ Dante, uuu7 and Drinkss. Next up: Oath, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SuperUser is a techno and house artist based in United Kingdom, with 67 gigs on 
 
 DJ Dante, uuu7, Drinkss
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superuser/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superuser/)*

@@ -1,6 +1,6 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "B2B (Back2Back)" on Fri, 20 Nov 2026.
+Nordstern is a music venue in Basel with 13 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "B2B (Back2Back)" on Fri, 20 Nov 2026.
 
 Nordstern is a music venue in Basel listed on soundcheck. 13 upcoming gigs, with line-ups including Alci, Alignment, Aline (CH) and Andrea Oliva and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
@@ -23,4 +23,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 13 upcoming gigs, with
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

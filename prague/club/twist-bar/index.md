@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Jakob 00 release party" on Wed, 18 Nov 2026.
+Twist Bar is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Jakob 00 release party" on Wed, 18 Nov 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Atch22, Atoloi, Dash (CZ) and DJ Fett Burger and 2 more. See dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with
 | Sat, 28 Nov 2026 | Atch22, Kobayashi Maru | Atch22, Kobayashi Maru |
 | Fri, 4 Dec 2026 | Compact Disco: Twist with DJ Fett Burger (NOR) | DJ Fett Burger, Jorgos, Old & Rich |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

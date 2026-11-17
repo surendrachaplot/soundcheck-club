@@ -1,6 +1,6 @@
 # K Wata
 
-K Wata is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+K Wata is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
 K Wata is a techno and bass artist based in United States of America, with 71 gigs on soundcheck across Beijing, Central, Chengdu and Chicago and 21 more. Often billed alongside Enayet, Simisea and rrao. Next up: Nowadays, New York City on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ K Wata is a techno and bass artist based in United States of America, with 71 gi
 
 Enayet, Simisea, rrao
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*

@@ -1,8 +1,8 @@
-# Azzi On The Beat
+# Soju Gang
 
-Azzi On The Beat is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Soju Gang is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Azzi On The Beat is a house and techno artist, with 134 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 32 more. Often billed alongside Jyoty, Haus of Ralph and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Soju Gang is a house and techno artist, with 134 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 32 more. Often billed alongside Jyoty, Haus of Ralph and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Azzi On The Beat is a house and techno artist, with 134 gigs on soundcheck acros
 
 Jyoty, Haus of Ralph, AANO
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*

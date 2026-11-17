@@ -1,6 +1,6 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Brancaleone, Rome on Sat, 28 Nov 2026.
+Polygonia is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Brancaleone, Rome on Sat, 28 Nov 2026.
 
 Polygonia is a techno and house artist based in Germany, with 255 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 73 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Brancaleone, Rome on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Polygonia is a techno and house artist based in Germany, with 255 gigs on soundc
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

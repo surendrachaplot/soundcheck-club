@@ -1,8 +1,8 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Fünk, Mexico City on Sat, 21 Nov 2026.
+Petre Inspirescu is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fünk, Mexico City on Sat, 21 Nov 2026.
 
-Petre Inspirescu is a house and minimal artist based in Romania, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Fünk, Mexico City on Sat 21 Nov.
+Petre Inspirescu is a house and minimal artist based in Romania, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Fünk, Mexico City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Petre Inspirescu is a house and minimal artist based in Romania, with 85 gigs on
 | Fri, 11 Dec 2026 | fi | Cologne |
 | Sat, 12 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Ampere | Antwerp |
+| Sat, 19 Dec 2026 | Club Guesthouse | Bucharest |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Petre Inspirescu is a house and minimal artist based in Romania, with 85 gigs on
 
 Rhadoo, Raresh, RPR Soundsystem
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*

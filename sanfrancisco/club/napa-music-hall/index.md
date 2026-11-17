@@ -1,6 +1,6 @@
 # Napa Music Hall
 
-Napa Music Hall is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Salty Residency - Friendsgiving" on Fri, 27 Nov 2026.
+Napa Music Hall is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Salty Residency - Friendsgiving" on Fri, 27 Nov 2026.
 
 Napa Music Hall is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including DeepMilk and Tamer_1oc. See dates, start times and who's playing. 1030 Main St, Napa, CA 94559, United States.
 
@@ -14,4 +14,4 @@ Napa Music Hall is a music venue in San Francisco/Oakland listed on soundcheck. 
 
 1030 Main St, Napa, CA 94559, United States, San Francisco/Oakland
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*

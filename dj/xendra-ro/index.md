@@ -1,6 +1,6 @@
 # Xendra
 
-Xendra is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Bucharest on Fri, 4 Dec 2026.
+Xendra is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Bucharest on Fri, 4 Dec 2026.
 
 Xendra is a techno and hardcore artist, with 6 gigs on soundcheck across Bucharest. Often billed alongside Neotroxian, Felix the Cat and Project Morpheus. Next up: TBA, Bucharest on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Xendra is a techno and hardcore artist, with 6 gigs on soundcheck across Buchare
 
 Neotroxian, Felix the Cat, Project Morpheus
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xendra-ro/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xendra-ro/)*

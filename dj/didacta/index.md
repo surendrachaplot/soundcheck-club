@@ -1,14 +1,14 @@
 # Didacta
 
-Didacta is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Radio Estrella, Bogotá on Fri, 13 Nov 2026.
+Didacta is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Video Club, Bogotá on Fri, 20 Nov 2026.
 
-Didacta is a techno and club artist based in Colombia, with 30 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Ritornelo, DJ Triste and Aguirre. Next up: Radio Estrella, Bogotá on Fri 13 Nov.
+Didacta is a techno and club artist based in Colombia, with 31 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Ritornelo, DJ Triste and Aguirre. Next up: Video Club, Bogotá on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Radio Estrella | Bogotá |
+| Fri, 20 Nov 2026 | Video Club | Bogotá |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Didacta is a techno and club artist based in Colombia, with 30 gigs on soundchec
 
 Ritornelo, DJ Triste, Aguirre
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/didacta/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/didacta/)*

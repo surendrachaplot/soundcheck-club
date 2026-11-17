@@ -1,6 +1,6 @@
 # Rocco (BR)
 
-Rocco (BR) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat, 5 Dec 2026.
+Rocco (BR) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat, 5 Dec 2026.
 
 Rocco (BR) is a house and tech house artist based in Ireland, with 3 gigs on soundcheck across Dublin. Often billed alongside Charlie Fry, Eymen and G.G (LB). Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Rocco (BR) is a house and tech house artist based in Ireland, with 3 gigs on sou
 
 Charlie Fry, Eymen, G.G (LB)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roccobr/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roccobr/)*

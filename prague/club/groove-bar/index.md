@@ -1,6 +1,6 @@
 # Groove Bar
 
-Groove Bar is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Knag" on Thu, 19 Nov 2026.
+Groove Bar is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Knag" on Thu, 19 Nov 2026.
 
 Groove Bar is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Manntracs and SIL. See dates, start times and who's playing. Voršilská 6, Praha 1 / 110 00.
 
@@ -16,4 +16,4 @@ Groove Bar is a music venue in Prague listed on soundcheck. 3 upcoming gigs, wit
 
 Voršilská 6, Praha 1 / 110 00, Prague
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/groove-bar/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/groove-bar/)*

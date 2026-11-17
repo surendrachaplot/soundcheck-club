@@ -1,6 +1,6 @@
 # ENDO INVITES SUBOTNIK (DE) at Toldi Klub
 
-ENDO INVITES SUBOTNIK (DE) at Toldi Klub on Fri 27 Nov, Budapest. 2 artists: riko (DE) and schraeder. Techno. See the line-up on soundcheck.
+ENDO INVITES SUBOTNIK (DE) at Toldi Klub on Fri 27 Nov, Budapest. 3 artists: Calippo, riko (DE) and schraeder. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ENDO INVITES SUBOTNIK (DE) at Toldi Klub on Fri 27 Nov, Budapest. 2 artists: rik
 
 ## Line-up
 
+- Calippo
 - riko (DE)
 - schraeder
 

@@ -1,6 +1,6 @@
 # HUUSH: Mia Moretti, HEN YANNI & FRIENDS at Silencio
 
-HUUSH: Mia Moretti, HEN YANNI & FRIENDS at Silencio on Sat 21 Nov, Paris. 2 artists: HEN YANNI and Mia Moretti. See the line-up on soundcheck.
+HUUSH: Mia Moretti, HEN YANNI & FRIENDS at Silencio on Sat 21 Nov, Paris. 4 artists: Abyss, Dj Norma, HEN YANNI and Mia Moretti. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ HUUSH: Mia Moretti, HEN YANNI & FRIENDS at Silencio on Sat 21 Nov, Paris. 2 arti
 
 ## Line-up
 
+- Abyss
+- Dj Norma
 - HEN YANNI
 - Mia Moretti
 

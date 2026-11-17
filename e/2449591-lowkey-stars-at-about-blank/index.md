@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ at ://about blank
 
-★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 22 artists: *Tia*, Alexander Pohl, Amin Fallaha and Anna Kasyan and 18 more. Trance and Techno. See the line-up on soundcheck.
+★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 25 artists: *Tia*, Alexander Pohl, Amin Fallaha and Anna Kasyan and 21 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@
 - Anna Kasyan
 - CEEE
 - Charlotte Lion
+- David George
 - DJ YumYum
 - DjRundfunk
 - fiber.optyik
@@ -23,6 +24,7 @@
 - J4NNICH
 - Justus Hildebrand
 - KANIKA
+- KIKKA (2)
 - Mariposa x Lyra
 - mer.ve
 - Noxumi
@@ -32,5 +34,6 @@
 - Stolzenberg
 - Tenacious T
 - TONKS
+- V4NNI
 
 *Source: [soundcheck](https://soundcheck.club/e/2449591-lowkey-stars-at-about-blank/)*

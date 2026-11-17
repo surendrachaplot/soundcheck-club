@@ -1,6 +1,6 @@
 # Sonorama
 
-Sonorama is a music venue in Medellin with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "TOMOKI TAMURA" on Fri, 27 Nov 2026.
+Sonorama is a music venue in Medellin with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "TOMOKI TAMURA" on Fri, 27 Nov 2026.
 
 Sonorama is a music venue in Medellin listed on soundcheck. 2 upcoming gigs, with line-ups including Insolent, Paul Ritch and Vannesa Gnz. See dates, start times and who's playing. Carrera 37 #10 - 37.
 
@@ -15,4 +15,4 @@ Sonorama is a music venue in Medellin listed on soundcheck. 2 upcoming gigs, wit
 
 Carrera 37 #10 - 37, Medellin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*

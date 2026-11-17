@@ -1,6 +1,6 @@
 # San Francisco
 
-San Francisco is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Minor Attractions w/ Dan Jose, Moss M & B Current" on Thu, 19 Nov 2026.
+San Francisco is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Minor Attractions w/ Dan Jose, Moss M & B Current" on Thu, 19 Nov 2026.
 
 San Francisco is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including B Current, Cinema Royale, dreamcastmoe and Moss M and 1 more. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
 
@@ -20,4 +20,4 @@ San Francisco is a music venue in Amsterdam listed on soundcheck. 7 upcoming gig
 
 Zeedijk 40, Amsterdam, Netherlands 1012 AZ, Amsterdam
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*

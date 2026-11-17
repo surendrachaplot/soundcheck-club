@@ -1,6 +1,6 @@
 # CU-SITH
 
-CU-SITH is a Experimental and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
+CU-SITH is a Experimental and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
 
 CU-SITH is an experimental and hardcore artist based in United Kingdom, with 4 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ACHIRĀ, slyn and Dan Jakson. Next up: The Mash House, Edinburgh on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ CU-SITH is an experimental and hardcore artist based in United Kingdom, with 4 g
 
 ACHIRĀ, slyn, Dan Jakson
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cu-sith/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cu-sith/)*

@@ -1,6 +1,6 @@
 # JFOX
 
-JFOX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat, 19 Dec 2026.
+JFOX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat, 19 Dec 2026.
 
 JFOX is a techno and trance artist based in United Kingdom, with 33 gigs on soundcheck across Athens, Ibiza, London and Thessaloniki and 1 more. Often billed alongside DJ LIL-E, Eseccaro and Leviminks. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ JFOX is a techno and trance artist based in United Kingdom, with 33 gigs on soun
 
 DJ LIL-E, Eseccaro, Leviminks
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfox/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfox/)*

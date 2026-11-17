@@ -1,6 +1,6 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Kazimier Garden presents: Alien Communications, De La Reef, Luudo, Limb" on Sat, 21 Nov 2026.
+Kazimier Garden is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Kazimier Garden presents: Alien Communications, De La Reef, Luudo, Limb" on Sat, 21 Nov 2026.
 
 Kazimier Garden is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including aaypea, Alien Communications, De La Reef and Jacinta and 2 more. See dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
@@ -17,4 +17,4 @@ Kazimier Garden is a music venue in Liverpool listed on soundcheck. 4 upcoming g
 
 32B Seel Street, Liverpool, United Kingdom, Liverpool
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*

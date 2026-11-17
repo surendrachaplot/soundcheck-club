@@ -1,6 +1,6 @@
 # Just Jane
 
-Just Jane is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+Just Jane is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
 Just Jane is a bass and garage artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Tim Reaper, Oldboy and Plastician. Next up: M.O.T, London on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Just Jane is a bass and garage artist based in United Kingdom, with 88 gigs on s
 
 Tim Reaper, Oldboy (2), Plastician
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justjane/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justjane/)*

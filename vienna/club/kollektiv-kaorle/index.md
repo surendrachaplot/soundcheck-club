@@ -1,6 +1,6 @@
 # Kollektiv Kaorle
 
-Kollektiv Kaorle is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Siluh Soirée #14: TRAMHAUS (NL) + MODECENTER (AT)" on Thu, 19 Nov 2026.
+Kollektiv Kaorle is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Siluh Soirée #14: TRAMHAUS (NL) + MODECENTER (AT)" on Thu, 19 Nov 2026.
 
 Kollektiv Kaorle is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with line-ups including Inou Ki Endo and Ssaliva. See dates, start times and who's playing. Baumgartner Höhe 1 1140 WIen, Otto Wagner Areal Pavillion 21.
 
@@ -16,4 +16,4 @@ Kollektiv Kaorle is a music venue in Vienna listed on soundcheck. 3 upcoming gig
 
 Baumgartner Höhe 1 1140 WIen, Otto Wagner Areal Pavillion 21, Vienna
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kollektiv-kaorle/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kollektiv-kaorle/)*

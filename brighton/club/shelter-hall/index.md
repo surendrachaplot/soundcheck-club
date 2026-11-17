@@ -1,6 +1,6 @@
 # Shelter Hall
 
-Shelter Hall is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Detour Discotheque NYE" on Thu, 31 Dec 2026.
+Shelter Hall is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Detour Discotheque NYE" on Thu, 31 Dec 2026.
 
 Shelter Hall is a music venue in Brighton listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Shelter Hall is a music venue in Brighton listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Detour Discotheque NYE |  |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/shelter-hall/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/shelter-hall/)*

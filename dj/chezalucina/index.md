@@ -1,6 +1,6 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Dalston Superstore, London on Fri, 20 Nov 2026.
+CHEZA LUCINA is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Dalston Superstore, London on Fri, 20 Nov 2026.
 
 CHEZA LUCINA is a jungle and bass artist based in United Kingdom, with 64 gigs on soundcheck across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Dalston Superstore, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ CHEZA LUCINA is a jungle and bass artist based in United Kingdom, with 64 gigs o
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

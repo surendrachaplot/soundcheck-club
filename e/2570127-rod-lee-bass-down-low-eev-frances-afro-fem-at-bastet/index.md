@@ -1,6 +1,6 @@
 # Rod Lee, Bass Down Low || Eev Frances, afro.fem at Bastet
 
-Rod Lee, Bass Down Low || Eev Frances, afro.fem at Bastet on Fri 20 Nov, Philadelphia. 5 artists: Eev Frances, low iron, Nail Salon and Phreakwency and 1 more. Club. See the line-up on soundcheck.
+Rod Lee, Bass Down Low || Eev Frances, afro.fem at Bastet on Fri 20 Nov, Philadelphia. 6 artists: afro.fem, Eev Frances, low iron and Nail Salon and 2 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rod Lee, Bass Down Low || Eev Frances, afro.fem at Bastet on Fri 20 Nov, Philade
 
 ## Line-up
 
+- afro.fem
 - Eev Frances
 - low iron
 - Nail Salon (2)

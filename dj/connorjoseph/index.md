@@ -1,8 +1,8 @@
 # Connor Joseph
 
-Connor Joseph is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Connor Joseph is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
-Connor Joseph is a downtempo and experimental artist based in South Africa, with 3 gigs on soundcheck across Cape Town. Often billed alongside Balou, Ben Probert and Cody Losper. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
+Connor Joseph is a downtempo and experimental artist based in South Africa, with 3 gigs on soundcheck across Cape Town. Often billed alongside Balou, Ben Probert and Chamberlain Park. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Connor Joseph is a downtempo and experimental artist based in South Africa, with
 
 ## Shares bills with
 
-Balou (2), Ben Probert, Cody Losper
+Balou (2), Ben Probert, Chamberlain Park
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connorjoseph/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connorjoseph/)*

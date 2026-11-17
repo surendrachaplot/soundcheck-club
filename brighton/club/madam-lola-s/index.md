@@ -1,6 +1,6 @@
 # Madam Lola's
 
-Madam Lola's is a music venue in Brighton with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Mistress" on Fri, 20 Nov 2026.
+Madam Lola's is a music venue in Brighton with 13 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Mistress" on Fri, 20 Nov 2026.
 
 Madam Lola's is a music venue in Brighton listed on soundcheck. 13 upcoming gigs. See dates, start times and who's playing. 83 St George's Road, Brighton, BN2 1EF.
 
@@ -23,4 +23,4 @@ Madam Lola's is a music venue in Brighton listed on soundcheck. 13 upcoming gigs
 
 83 St George's Road, Brighton, BN2 1EF, Brighton
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/madam-lola-s/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/madam-lola-s/)*

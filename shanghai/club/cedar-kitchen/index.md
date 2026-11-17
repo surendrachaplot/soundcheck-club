@@ -1,13 +1,13 @@
 # Cedar Kitchen
 
-Cedar Kitchen is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "understory; last summer drive" on Sat, 31 Oct 2026.
+Cedar Kitchen is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "XMQ presents: DJ yesyes & Simon Frank" on Fri, 27 Nov 2026.
 
-Cedar Kitchen is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Cedar Kitchen is a music venue in Shanghai listed on soundcheck. 1 upcoming gig, with line-ups including DJ yesyes and Simon Frank. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | understory; last summer drive |  |
+| Fri, 27 Nov 2026 | XMQ presents: DJ yesyes & Simon Frank | DJ yesyes, Simon Frank |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/cedar-kitchen/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/cedar-kitchen/)*

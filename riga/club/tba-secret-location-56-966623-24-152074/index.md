@@ -1,6 +1,6 @@
 # TBA - SECRET LOCATION / 56.966623, 24.152074
 
-TBA - SECRET LOCATION / 56.966623, 24.152074 is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Platz fur Tanz x Techno: Pfirter (AR), Moteka (FR)" on Fri, 20 Nov 2026.
+TBA - SECRET LOCATION / 56.966623, 24.152074 is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Platz fur Tanz x Techno: Pfirter (AR), Moteka (FR)" on Fri, 20 Nov 2026.
 
 TBA - SECRET LOCATION / 56.966623, 24.152074 is a music venue in Riga listed on soundcheck. 1 upcoming gig, with line-ups including Ksenia Kamikaza, Moteka, Pfirter and XSYNC19. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - SECRET LOCATION / 56.966623, 24.152074 is a music venue in Riga listed on 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Platz fur Tanz x Techno: Pfirter (AR), Moteka (FR) | Ksenia Kamikaza, Moteka, Pfirter, XSYNC19 |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/tba-secret-location-56-966623-24-152074/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/tba-secret-location-56-966623-24-152074/)*

@@ -1,6 +1,6 @@
 # Lottus
 
-Lottus is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Vasco Valente" on Sat, 21 Nov 2026.
+Lottus is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Vasco Valente" on Sat, 21 Nov 2026.
 
 Lottus is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with line-ups including Amulador, OSTINATO, Vasco Valente and Xavier (UK). See dates, start times and who's playing. Rua De Monchique 15, Juanto A  Alfandega.
 
@@ -17,4 +17,4 @@ Lottus is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with lin
 
 Rua De Monchique 15, Juanto A  Alfandega, Porto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/lottus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/lottus/)*

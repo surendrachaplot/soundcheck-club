@@ -1,6 +1,6 @@
 # Hotel Labtwentytwo
 
-Hotel Labtwentytwo is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "CALYMA The Opening" on Sat, 21 Nov 2026.
+Hotel Labtwentytwo is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "CALYMA The Opening" on Sat, 21 Nov 2026.
 
 Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including LYNNA and SOFIA PINEDA. See dates, start times and who's playing. Calle de peru 102, Barcelona, 08018, Spain.
 
@@ -16,4 +16,4 @@ Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 3 upcomin
 
 Calle de peru 102, Barcelona, 08018, Spain, Barcelona
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-labtwentytwo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-labtwentytwo/)*

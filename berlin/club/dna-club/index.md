@@ -1,8 +1,8 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "TRIEBWERK ZERØ" on Fri, 20 Nov 2026.
+DNA. CLUB is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "TRIEBWERK ZERØ" on Fri, 20 Nov 2026.
 
-DNA. CLUB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Blck-Swan, Caren Callas, cell1 and KERT (DE) and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
+DNA. CLUB is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Blck-Swan, Caren Callas, cell1 and KERT (DE) and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
 ## What's on
 
@@ -11,10 +11,11 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with
 | Fri, 20 Nov 2026 | TRIEBWERK ZERØ | Blck-Swan, KERT (DE), Lisatrix, Zona Interdunar, cell1 |
 | Sat, 21 Nov 2026 | [CANCELLED] NAH. KLUB NIGHT |  |
 | Sat, 21 Nov 2026 | I Woke Up At Kotti! (Finest House-Music All Night Long) | Caren Callas |
+| Fri, 27 Nov 2026 | Get-Together: OPEN DECKS - presented by DNA. CLUB |  |
 | Sat, 12 Dec 2026 | RAPSUIT - by Streetbeat |  |
 
 ## Address
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

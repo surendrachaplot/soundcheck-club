@@ -1,6 +1,6 @@
 # Euca 2026 at TBA - 3.5 Hours West of Gadigal
 
-Euca 2026 at TBA - 3.5 Hours West of Gadigal on Fri 11 Dec, Sydney. 25 artists: Bouki, Bozo, C.FRIM and Elijah Something and 21 more. See the line-up on soundcheck.
+Euca 2026 at TBA - 3.5 Hours West of Gadigal on Fri 11 Dec, Sydney. 26 artists: Acacia, Bouki, Bozo and C.FRIM and 22 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Euca 2026 at TBA - 3.5 Hours West of Gadigal on Fri 11 Dec, Sydney. 25 artists: 
 
 ## Line-up
 
+- Acacia
 - Bouki
 - Bozo
 - C.FRIM

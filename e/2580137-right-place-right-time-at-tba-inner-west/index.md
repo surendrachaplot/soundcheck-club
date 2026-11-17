@@ -1,6 +1,6 @@
 # Right Place Right Time at TBA - INNER WEST
 
-Right Place Right Time at TBA - INNER WEST on Sat 21 Nov, Sydney. 5 artists: Cedar, F0ulplay, Lily FM and Pixelchick and 1 more. Techno and Downtempo. See the line-up on soundcheck.
+Right Place Right Time at TBA - INNER WEST on Sat 21 Nov, Sydney. 6 artists: Cedar, F0ulplay, Heelsontile and Lily FM and 2 more. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Right Place Right Time at TBA - INNER WEST on Sat 21 Nov, Sydney. 5 artists: Ced
 
 - Cedar (2)
 - F0ulplay
+- Heelsontile
 - Lily FM
 - Pixelchick
 - Rydeen (AU)

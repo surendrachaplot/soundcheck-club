@@ -1,13 +1,14 @@
 # ACHO
 
-ACHO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Dogenzaka Church, Tokyo on Sun, 29 Nov 2026.
+ACHO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Needle, Shanghai on Thu, 19 Nov 2026.
 
-ACHO is a house and techno artist, with 15 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), aixx and ANZU. Next up: Dogenzaka Church, Tokyo on Sun 29 Nov.
+ACHO is a house and techno artist based in Dominican Republic, with 16 gigs on soundcheck across Shanghai and Tokyo. Often billed alongside SIGNAL (JP), aixx and ANZU. Next up: Needle, Shanghai on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Needle | Shanghai |
 | Sun, 29 Nov 2026 | Dogenzaka Church | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ ACHO is a house and techno artist, with 15 gigs on soundcheck across Tokyo. Ofte
 
 SIGNAL (JP), aixx, ANZU
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acho/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acho/)*

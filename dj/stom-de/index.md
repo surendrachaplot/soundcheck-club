@@ -1,6 +1,6 @@
 # Stom
 
-Stom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
+Stom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
 
 Stom is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin and Prague. Often billed alongside Tinco, KEROSENE (ZA) and Lukr Range. Next up: ÆDEN, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Stom is a techno and house artist based in Germany, with 22 gigs on soundcheck a
 
 Tinco, KEROSENE (ZA), Lukr Range
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stom-de/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stom-de/)*

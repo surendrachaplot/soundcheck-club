@@ -1,6 +1,6 @@
 # Nice presents: Club Veeda takeover at Club Veeda
 
-Nice presents: Club Veeda takeover on Fri 20 Nov, London. 1 artist: Mack Gibson. House. See the line-up on soundcheck.
+Nice presents: Club Veeda takeover on Fri 20 Nov, London. 2 artists: DAGZ and Mack Gibson. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Nice presents: Club Veeda takeover on Fri 20 Nov, London. 1 artist: Mack Gibson.
 
 ## Line-up
 
+- DAGZ
 - Mack Gibson
 
 *Source: [soundcheck](https://soundcheck.club/e/2565446-nice-presents-club-veeda-takeover-at-club-veeda/)*

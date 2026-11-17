@@ -1,8 +1,8 @@
 # Egg London
 
-Egg London is a music venue in London with 34 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 18 Nov 2026.
+Egg London is a music venue in London with 35 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 18 Nov 2026.
 
-Egg London is a music venue in London listed on soundcheck. 34 upcoming gigs, with line-ups including Aidyscape, Andrew Sharpe, AR (UK) and Beezo and 2 more. See dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including Aidyscape, Andrew Sharpe, AR (UK) and Beezo and 2 more. See dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Egg London is a music venue in London listed on soundcheck. 34 upcoming gigs, wi
 | Sat, 21 Nov 2026 | The Asylum x ENRG Sound | Beezo, DJ Eastwood, DJ S (UK), JAYDAA, Pioneer, Scottie D, Shenin Amara, Supa D, TERMINAL 4 |
 | Wed, 25 Nov 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 | Fri, 27 Nov 2026 | Egg LDN Pres: Autumn Sessions - House, Tech House, Deep House |  |
+| Fri, 27 Nov 2026 | Rec Pres: Elexsandom Ldn debut | Raymond |
 | Sat, 28 Nov 2026 | Stampede - End Of Year Party |  |
 | Wed, 2 Dec 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 | Fri, 4 Dec 2026 | Distinct Ldn | AR (UK), Dweezyd, Miss Chants |
-| Fri, 4 Dec 2026 | Maloka Club: House, Latin, Afro House |  |
 
 ## Address
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

@@ -1,6 +1,6 @@
 # Cut Hands
 
-Cut Hands is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Multiple Venues, Barcelona on Wed, 28 Apr 2027.
+Cut Hands is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Multiple Venues, Barcelona on Wed, 28 Apr 2027.
 
 Cut Hands is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across Barcelona, Budapest and Vienna. Often billed alongside Curbside Lambsear, RNXRX and Rrose. Next up: TBA - Multiple Venues, Barcelona on Wed 28 Apr.
 
@@ -19,4 +19,4 @@ Cut Hands is an electronic artist based in United Kingdom, with 3 gigs on soundc
 
 Curbside Lambsear, RNXRX, Rrose
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuthands/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuthands/)*

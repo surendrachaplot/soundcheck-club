@@ -1,6 +1,6 @@
 # Red Gate Arts Society
 
-Red Gate Arts Society is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Lobe Studio x Red Gate Fundraiser" on Fri, 20 Nov 2026.
+Red Gate Arts Society is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Lobe Studio x Red Gate Fundraiser" on Fri, 20 Nov 2026.
 
 Red Gate Arts Society is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including Gulod Tanawin, Heimerikk, i+eo and niki disc and 2 more. See dates, start times and who's playing. 1965 Main St, Vancouver, BC V5T 3C1, Canada.
 
@@ -15,4 +15,4 @@ Red Gate Arts Society is a music venue in Vancouver listed on soundcheck. 2 upco
 
 1965 Main St, Vancouver, BC V5T 3C1, Canada, Vancouver
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/red-gate-arts-society/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/red-gate-arts-society/)*

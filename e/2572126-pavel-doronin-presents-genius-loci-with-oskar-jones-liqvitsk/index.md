@@ -1,6 +1,6 @@
 # Pavel Doronin presents Genius Loci with Oskar Jones & Liqvitsky at Coldharbour Blue
 
-Pavel Doronin presents Genius Loci with Oskar Jones & Liqvitsky at Coldharbour Blue on Thu 10 Dec, London. 1 artist: Pavel Doronin. Ambient and Experimental. See the line-up on soundcheck.
+Pavel Doronin presents Genius Loci with Oskar Jones & Liqvitsky at Coldharbour Blue on Thu 10 Dec, London. 2 artists: Liqvitsky and Pavel Doronin. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pavel Doronin presents Genius Loci with Oskar Jones & Liqvitsky at Coldharbour B
 
 ## Line-up
 
+- Liqvitsky
 - Pavel Doronin
 
 *Source: [soundcheck](https://soundcheck.club/e/2572126-pavel-doronin-presents-genius-loci-with-oskar-jones-liqvitsk/)*

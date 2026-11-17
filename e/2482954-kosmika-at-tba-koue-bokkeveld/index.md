@@ -1,6 +1,6 @@
 # kosmika at TBA - Koue Bokkeveld
 
-kosmika at TBA - Koue Bokkeveld on Wed 30 Dec, Cape Town. 7 artists: Esa, Friends of Friends Soundsystem, Josh.DLM and LightBeams and 3 more. See the line-up on soundcheck.
+kosmika at TBA - Koue Bokkeveld on Wed 30 Dec, Cape Town. 8 artists: Esa, Friends of Friends Soundsystem, Josh.DLM and LightBeams and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ kosmika at TBA - Koue Bokkeveld on Wed 30 Dec, Cape Town. 7 artists: Esa, Friend
 - Friends of Friends Soundsystem
 - Josh.DLM
 - LightBeams
+- Pierre-Estienne
 - Slow Motion City
 - Terrence Pearce
 - White Nite

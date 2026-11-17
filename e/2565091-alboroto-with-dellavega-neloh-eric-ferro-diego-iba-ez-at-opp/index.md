@@ -1,6 +1,6 @@
 # alboroto with Dellavega, neloh, eric ferro, diego ibañez at Opposite
 
-alboroto with Dellavega, neloh, eric ferro, diego ibañez at Opposite on Fri 20 Nov, Barcelona. 1 artist: Dellavega. House and Tech House. See the line-up on soundcheck.
+alboroto with Dellavega, neloh, eric ferro, diego ibañez at Opposite on Fri 20 Nov, Barcelona. 2 artists: Dellavega and Neloh. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ alboroto with Dellavega, neloh, eric ferro, diego ibañez at Opposite on Fri 20 
 ## Line-up
 
 - Dellavega
+- Neloh
 
 *Source: [soundcheck](https://soundcheck.club/e/2565091-alboroto-with-dellavega-neloh-eric-ferro-diego-iba-ez-at-opp/)*

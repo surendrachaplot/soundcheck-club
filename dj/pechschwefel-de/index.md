@@ -1,6 +1,6 @@
 # Pech&Schwefel
 
-Pech&Schwefel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Tranzit, Hamburg on Fri, 4 Dec 2026.
+Pech&Schwefel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tranzit, Hamburg on Fri, 4 Dec 2026.
 
 Pech&Schwefel is a house and techno artist based in Germany, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside PyjamaMama, Rosilicious and Ani con Gas. Next up: Tranzit, Hamburg on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Pech&Schwefel is a house and techno artist based in Germany, with 3 gigs on soun
 
 PyjamaMama, Rosilicious, Ani con Gas
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pechschwefel-de/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pechschwefel-de/)*

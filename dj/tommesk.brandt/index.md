@@ -1,14 +1,15 @@
 # Tommes K. Brandt
 
-Tommes K. Brandt is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fitzroy, Berlin on Sun, 22 Nov 2026.
+Tommes K. Brandt is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fitzroy, Berlin on Sun, 22 Nov 2026.
 
-Tommes K. Brandt is a house and club artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside 7ommes, Better Call Paul and Darwin Stapel. Next up: Fitzroy, Berlin on Sun 22 Nov.
+Tommes K. Brandt is a house and disco artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Nikklaas, 7ommes and Better Call Paul. Next up: Fitzroy, Berlin on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Fitzroy | Berlin |
+| Sat, 5 Dec 2026 | Süss War Gestern | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tommes K. Brandt is a house and club artist based in Germany, with 9 gigs on sou
 
 ## Shares bills with
 
-7ommes, Better Call Paul, Darwin Stapel
+Nikklaas, 7ommes, Better Call Paul
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*

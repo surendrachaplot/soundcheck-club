@@ -1,6 +1,6 @@
 # Luzztro 23rd Birthday at Luzztro
 
-Luzztro 23rd Birthday on Sat 21 Nov, Warsaw. 19 artists: Claude Degas, Daro, DJ POLKOMTEL and Drumaddition and 15 more. Techno and House. See the line-up on soundcheck.
+Luzztro 23rd Birthday on Sat 21 Nov, Warsaw. 20 artists: Claude Degas, Daro, DJ POLKOMTEL and Drumaddition and 16 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Luzztro 23rd Birthday on Sat 21 Nov, Warsaw. 19 artists: Claude Degas, Daro, DJ 
 - EXCE
 - FVBN
 - Halina World
+- kameleON (2)
 - KoZa
 - Kuriozum
 - Kuvau

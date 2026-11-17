@@ -1,6 +1,6 @@
 # Jumping Jack Frost
 
-Jumping Jack Frost is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Social, London on Sat, 5 Dec 2026.
+Jumping Jack Frost is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Social, London on Sat, 5 Dec 2026.
 
 Jumping Jack Frost is a drum & bass and jungle artist based in United Kingdom, with 83 gigs on soundcheck across Birmingham, Brighton, Bristol and London and 4 more. Often billed alongside Funsta, Moose and DJ Brockie. Next up: The Social, London on Sat 5 Dec.
 
@@ -11,7 +11,7 @@ Jumping Jack Frost is a drum & bass and jungle artist based in United Kingdom, w
 | Sat, 5 Dec 2026 | The Social | London |
 | Sat, 12 Dec 2026 | Hootananny Brixton | London |
 | Sun, 27 Dec 2026 | Egg London | London |
-| Sat, 23 Jan 2027 | The Clock Factory | Bristol |
+| Sat, 23 Jan 2027 | Clock Factory | Bristol |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Jumping Jack Frost is a drum & bass and jungle artist based in United Kingdom, w
 
 Funsta, Moose, DJ Brockie
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpingjackfrost/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpingjackfrost/)*

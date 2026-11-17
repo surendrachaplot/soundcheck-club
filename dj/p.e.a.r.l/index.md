@@ -1,8 +1,8 @@
 # P.E.A.R.L.
 
-P.E.A.R.L. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Azimut Club, Turin on Sat, 21 Nov 2026.
+P.E.A.R.L. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Azimut Club, Turin on Sat, 21 Nov 2026.
 
-P.E.A.R.L. is a techno and house artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Not A Headliner, Adriana Lopez and Henning Baer. Next up: Azimut Club, Turin on Sat 21 Nov.
+P.E.A.R.L. is a techno and house artist based in Spain, with 98 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Not A Headliner, Adriana Lopez and Henning Baer. Next up: Azimut Club, Turin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ P.E.A.R.L. is a techno and house artist based in Spain, with 97 gigs on soundche
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Azimut Club | Turin |
 | Sat, 28 Nov 2026 | Nitsa Club | Barcelona |
+| Fri, 4 Dec 2026 | KHIDI | Tbilisi |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ P.E.A.R.L. is a techno and house artist based in Spain, with 97 gigs on soundche
 
 Not A Headliner, Adriana Lopez, Henning Baer
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*

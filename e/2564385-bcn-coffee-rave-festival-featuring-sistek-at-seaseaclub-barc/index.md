@@ -1,6 +1,6 @@
 # Bcn Coffee Rave Festival featuring Sistek at Seaseaclub Barcelona
 
-Bcn Coffee Rave Festival featuring Sistek at Seaseaclub Barcelona on Sat 21 Nov, Barcelona. 2 artists: MARTISTA and Sistek. House and Afro House. See the line-up on soundcheck.
+Bcn Coffee Rave Festival featuring Sistek at Seaseaclub Barcelona on Sat 21 Nov, Barcelona. 3 artists: MARTISTA, NOTJUST and Sistek. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Bcn Coffee Rave Festival featuring Sistek at Seaseaclub Barcelona on Sat 21 Nov,
 ## Line-up
 
 - MARTISTA
+- NOTJUST
 - Sistek
 
 *Source: [soundcheck](https://soundcheck.club/e/2564385-bcn-coffee-rave-festival-featuring-sistek-at-seaseaclub-barc/)*

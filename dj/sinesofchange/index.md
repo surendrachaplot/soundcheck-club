@@ -1,8 +1,8 @@
 # Sines of Change
 
-Sines of Change is a Dub Techno and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Bullingdon, South-east on Wed, 25 Nov 2026.
+Sines of Change is a Dub Techno and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Bullingdon, South-east on Wed, 25 Nov 2026.
 
-Sines of Change is a dub techno and dubstep artist based in United Kingdom, with 2 gigs on soundcheck across London and South East. Often billed alongside Mossambi, sea elegans and squidj. Next up: The Bullingdon, South East on Wed 25 Nov.
+Sines of Change is a dub techno and dubstep artist based in United Kingdom, with 2 gigs on soundcheck across London and South East. Often billed alongside Mossambi, interpreter and sea elegans. Next up: The Bullingdon, South East on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Sines of Change is a dub techno and dubstep artist based in United Kingdom, with
 
 ## Shares bills with
 
-Mossambi, sea elegans, squidj
+Mossambi, interpreter (2), sea elegans
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesofchange/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesofchange/)*

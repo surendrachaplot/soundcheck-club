@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Soirée presents: Derrik Munoz" on Wed, 18 Nov 2026.
+Outer Heaven is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Soirée presents: Derrik Munoz" on Wed, 18 Nov 2026.
 
 Outer Heaven is a music venue in New York City listed on soundcheck. 22 upcoming gigs, with line-ups including AGELESS, Amelia Holt, Armii1n and Bruno Limma and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 22 upcoming
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

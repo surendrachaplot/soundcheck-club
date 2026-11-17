@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "The Field" on Wed, 18 Nov 2026.
+Strange Brew is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "The Field" on Wed, 18 Nov 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Beatrice M., Chez de Milo, Foodman and Francesco Del Garda and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -19,4 +19,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, 
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

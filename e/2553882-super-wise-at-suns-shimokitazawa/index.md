@@ -1,6 +1,6 @@
 # SUPER WISE at Suns Shimokitazawa
 
-SUPER WISE at Suns Shimokitazawa on Sat 21 Nov, Tokyo. 3 artists: DJ Don, HW BINGO and Ryuga Saito. Bass and Jungle. See the line-up on soundcheck.
+SUPER WISE at Suns Shimokitazawa on Sat 21 Nov, Tokyo. 2 artists: HW BINGO and Ryuga Saito. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ SUPER WISE at Suns Shimokitazawa on Sat 21 Nov, Tokyo. 3 artists: DJ Don, HW BIN
 
 ## Line-up
 
-- DJ Don
 - HW BINGO
 - Ryuga Saito
 

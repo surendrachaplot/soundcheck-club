@@ -1,14 +1,15 @@
 # 3RDV
 
-3RDV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+3RDV is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
-3RDV is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Coco, Empro and Josephine Wedekind. Next up: Hoppetosse, Berlin on Fri 27 Nov.
+3RDV is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside eveava, Coco and Empro. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Hoppetosse | Berlin |
+| Wed, 23 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -21,6 +22,6 @@
 
 ## Shares bills with
 
-Coco, Empro, Josephine Wedekind
+eveava, Coco, Empro
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdv/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdv/)*

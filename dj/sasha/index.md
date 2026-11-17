@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Rhythm, Toronto on Thu, 19 Nov 2026.
+Sasha is a Progressive House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Rhythm, Toronto on Thu, 19 Nov 2026.
 
 Sasha is a progressive house and techno artist based in United Kingdom, with 190 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside John Digweed, Franky Wah and Patrice Bäumel. Next up: Rhythm, Toronto on Thu 19 Nov.
 
@@ -36,4 +36,4 @@ Sasha is a progressive house and techno artist based in United Kingdom, with 190
 
 John Digweed, Franky Wah, Patrice Bäumel
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

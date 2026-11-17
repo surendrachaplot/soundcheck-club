@@ -1,0 +1,18 @@
+# Marcel Bortoni
+
+Marcel Bortoni is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
+
+Marcel Bortoni is a tech house and techno artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside ChéRebel, EVYA and KIVII. Next up: Sensorium, Berlin on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Sensorium | Berlin |
+| Fri, 4 Dec 2026 | Sensorium | Berlin |
+
+## Shares bills with
+
+ChéRebel, EVYA, KIVII
+
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelbortoni/)*

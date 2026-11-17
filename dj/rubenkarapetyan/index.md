@@ -1,14 +1,15 @@
 # Ruben Karapetyan
 
-Ruben Karapetyan is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at NEO CLUB ROMA, Rome on Sun, 20 Dec 2026.
+Ruben Karapetyan is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at NEO CLUB ROMA, Rome on Sun, 20 Dec 2026.
 
-Ruben Karapetyan is a progressive house and deep house artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Lisbon, Los Angeles and Mexico City and 5 more. Often billed alongside DJ Ruby, Around Us and Callecat. Next up: NEO CLUB ROMA, Rome on Sun 20 Dec.
+Ruben Karapetyan is a progressive house and deep house artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Lisbon, Los Angeles and Mexico City and 5 more. Often billed alongside DJ Ruby, Around Us and Callecat. Next up: NEO CLUB ROMA, Rome on Sun 20 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Dec 2026 | NEO CLUB ROMA | Rome |
+| Sat, 30 Jan 2027 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ruben Karapetyan is a progressive house and deep house artist based in United St
 
 DJ Ruby, Around Us, Callecat
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenkarapetyan/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenkarapetyan/)*

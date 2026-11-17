@@ -1,6 +1,6 @@
 # CLUSTER 2026: a multi-venue nightlife festival in Ghent, fully driven by youth at TBA - Ghent (multi-venue)
 
-CLUSTER 2026: a multi-venue nightlife festival in Ghent, fully driven by youth at TBA - Ghent (multi-venue) on Fri 27 Nov, Ghent. 29 artists: Ado, AMIRA, Bent and BOg and 25 more. Club and Electronica. See the line-up on soundcheck.
+CLUSTER 2026: a multi-venue nightlife festival in Ghent, fully driven by youth at TBA - Ghent (multi-venue) on Fri 27 Nov, Ghent. 30 artists: Ado, AMIRA, Bent and BOg and 26 more. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ CLUSTER 2026: a multi-venue nightlife festival in Ghent, fully driven by youth a
 - Donna
 - Dr4kken
 - droomwolkje
+- E2kie
 - Erykah
 - Ilena
 - Ina Kaysen

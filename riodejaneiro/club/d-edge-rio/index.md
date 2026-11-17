@@ -1,6 +1,6 @@
 # D-Edge RIO
 
-D-Edge RIO is a music venue in Rio de Janeiro with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "D-Edge Rio apresenta RATIER & FRIENDS" on Thu, 19 Nov 2026.
+D-Edge RIO is a music venue in Rio de Janeiro with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "D-Edge Rio apresenta RATIER & FRIENDS" on Thu, 19 Nov 2026.
 
 D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 5 upcoming gigs, with line-ups including AIKO, DiskoTekaa*, Gabe Live and Julianna and 2 more. See dates, start times and who's playing. Av. Rodrigues Alves, 293, Saúde.
 
@@ -18,4 +18,4 @@ D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 5 upcoming g
 
 Av. Rodrigues Alves, 293, Saúde, Rio de Janeiro
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*

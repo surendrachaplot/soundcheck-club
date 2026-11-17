@@ -1,6 +1,6 @@
 # Naone
 
-Naone is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Azimut Club, Turin on Fri, 20 Nov 2026.
+Naone is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Azimut Club, Turin on Fri, 20 Nov 2026.
 
 Naone is a techno and house artist based in South Korea, with 192 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 36 more. Often billed alongside mad miran, Doudou MD and Iggy P. Next up: Azimut Club, Turin on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Naone is a techno and house artist based in South Korea, with 192 gigs on soundc
 
 mad miran, Doudou MD, Iggy P
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

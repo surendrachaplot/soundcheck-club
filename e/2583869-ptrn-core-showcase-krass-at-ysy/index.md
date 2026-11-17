@@ -1,6 +1,6 @@
 # PTRN Core Showcase: KRASS at YSY
 
-PTRN Core Showcase: KRASS at YSY on Sat 21 Nov, Berlin. 1 artist: RON B. Techno and House. See the line-up on soundcheck.
+PTRN Core Showcase: KRASS at YSY on Sat 21 Nov, Berlin. 2 artists: Ege Arda and RON B. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PTRN Core Showcase: KRASS at YSY on Sat 21 Nov, Berlin. 1 artist: RON B. Techno 
 
 ## Line-up
 
+- Ege Arda
 - RON B
 
 *Source: [soundcheck](https://soundcheck.club/e/2583869-ptrn-core-showcase-krass-at-ysy/)*

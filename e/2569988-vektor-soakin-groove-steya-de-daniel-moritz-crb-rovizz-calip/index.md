@@ -1,6 +1,6 @@
 # VEKTOR SOAKIN' GROOVE - STEYA (DE), Daniel Moritz, CRB, Rovizz, Calippo at Vektor - The Klub
 
-VEKTOR SOAKIN' GROOVE - STEYA (DE), Daniel Moritz, CRB, Rovizz, Calippo at Vektor - The Klub on Fri 20 Nov, Budapest. 4 artists: CRB, Daniel Moritz, Rovizz and STEYA. Techno. See the line-up on soundcheck.
+VEKTOR SOAKIN' GROOVE - STEYA (DE), Daniel Moritz, CRB, Rovizz, Calippo at Vektor - The Klub on Fri 20 Nov, Budapest. 5 artists: Calippo, CRB, Daniel Moritz and Rovizz and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VEKTOR SOAKIN' GROOVE - STEYA (DE), Daniel Moritz, CRB, Rovizz, Calippo at Vekto
 
 ## Line-up
 
+- Calippo
 - CRB
 - Daniel Moritz
 - Rovizz

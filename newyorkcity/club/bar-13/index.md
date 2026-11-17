@@ -1,6 +1,6 @@
 # Bar 13
 
-Bar 13 is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Cabros Chicos: Aventura Night - Bachata Dance Party" on Sat, 21 Nov 2026.
+Bar 13 is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Cabros Chicos: Aventura Night - Bachata Dance Party" on Sat, 21 Nov 2026.
 
 Bar 13 is a music venue in New York City listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 35 East 13th Street; New York, NY 10003; United States.
 
@@ -16,4 +16,4 @@ Bar 13 is a music venue in New York City listed on soundcheck. 3 upcoming gigs. 
 
 35 East 13th Street; New York, NY 10003; United States, New York City
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-13/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-13/)*

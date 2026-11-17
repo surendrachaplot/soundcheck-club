@@ -1,8 +1,8 @@
 # Nikolina
 
-Nikolina is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Music Station, Lisbon on Mon, 30 Nov 2026.
+Nikolina is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Music Station, Lisbon on Mon, 30 Nov 2026.
 
-Nikolina is a techno and trance artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Restricted, Onlynumbers and Azyr. Next up: Music Station, Lisbon on Mon 30 Nov.
+Nikolina is a techno and trance artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Restricted, Onlynumbers and Azyr. Next up: Music Station, Lisbon on Mon 30 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nikolina is a techno and trance artist based in United Kingdom, with 131 gigs on
 | Fri, 4 Dec 2026 | Hansemesse, Rostock | Mecklenburg-vorpommern |
 | Sat, 5 Dec 2026 | Maimarkthalle | Mannheim |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Fri, 11 Dec 2026 | Club Vaag | Antwerp |
 | Fri, 18 Dec 2026 | Inter Expo Centre | Sofia |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -32,4 +33,4 @@ Nikolina is a techno and trance artist based in United Kingdom, with 131 gigs on
 
 Restricted, Onlynumbers, Azyr
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

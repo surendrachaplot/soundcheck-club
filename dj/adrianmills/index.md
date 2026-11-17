@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
+Adrian Mills is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
 Adrian Mills is a techno and trance artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
@@ -32,4 +32,4 @@ Adrian Mills is a techno and trance artist based in Germany, with 272 gigs on so
 
 Cloudy, KUKO, Serafina
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

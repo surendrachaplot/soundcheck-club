@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Alle Farben - A World full of Colors Club Tour 2026" on Fri, 20 Nov 2026.
+Bootshaus is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Alle Farben - A World full of Colors Club Tour 2026" on Fri, 20 Nov 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including Alle Farben, Brennan Heart, cablu and Deborah De Luca and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including Against All Ødds, Alle Farben, AVANT and Baset and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 4 Dec 2026 | HOLLER AT ME | Noel Holler |
 | Sat, 5 Dec 2026 | Brennan Heart: 4 HOUR SOLO SET (25 YEARS SPECIAL) | Brennan Heart |
 | Fri, 11 Dec 2026 | Sara Landry pres. by Bootshaus | Sara Landry |
+| Sat, 12 Dec 2026 | Korolova pres by Bootshaus | Against All Ødds, Baset, Korolova |
 | Fri, 18 Dec 2026 | INURFASE MASSIVE: THROUGH THE LOOKING GLASS |  |
 | Sat, 19 Dec 2026 | UNREAL X KUKO All Night Long World Tour END OF THE TOUR | KUKO |
-| Sun, 27 Dec 2026 | SO - 27.12.2026 / KitKatClub |  |
 
 ## Address
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

@@ -1,6 +1,6 @@
 # Leba
 
-Leba is a Gqom and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Panke, Berlin on Sat, 21 Nov 2026.
+Leba is a Gqom and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Panke, Berlin on Sat, 21 Nov 2026.
 
 Leba is a gqom and bass artist based in Brazil, with 3 gigs on soundcheck across Berlin. Often billed alongside CCTV, Cmba and DATA RYDER. Next up: Panke, Berlin on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Leba is a gqom and bass artist based in Brazil, with 3 gigs on soundcheck across
 
 CCTV, Cmba, DATA RYDER
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leba/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leba/)*

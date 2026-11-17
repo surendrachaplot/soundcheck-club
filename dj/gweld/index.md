@@ -1,8 +1,8 @@
 # GWELD
 
-GWELD is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Eden, New York City on Fri, 20 Nov 2026.
+GWELD is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Eden, New York City on Fri, 20 Nov 2026.
 
-GWELD is a techno and industrial artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Berlin, Budapest and Lisbon and 4 more. Often billed alongside KASSIS, BSLS and BØĘRY. Next up: Eden, New York City on Fri 20 Nov.
+GWELD is a techno and industrial artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 6 more. Often billed alongside KASSIS, BSLS and BØĘRY. Next up: Eden, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ GWELD is a techno and industrial artist based in Netherlands, with 10 gigs on so
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
 | Sat, 5 Dec 2026 | Tunnel | Milan |
 | Fri, 18 Dec 2026 | OST | Berlin |
+| Sat, 19 Dec 2026 | The Grey Space In The Middle | The Hague |
+| Thu, 31 Dec 2026 | Club Vaag | Antwerp |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ GWELD is a techno and industrial artist based in Netherlands, with 10 gigs on so
 
 KASSIS, BSLS, BØĘRY
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gweld/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gweld/)*

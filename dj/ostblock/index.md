@@ -1,8 +1,8 @@
 # Ostblock
 
-Ostblock is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bunker, Turin on Fri, 27 Nov 2026.
+Ostblock is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bunker, Turin on Fri, 27 Nov 2026.
 
-Ostblock is a breakbeat and techno artist, with 11 gigs on soundcheck across Berlin, Hamburg, Hanoi and Leipzig and 1 more. Often billed alongside Little Vanya, Kotyk Murkotyk and .Cheka. Next up: Bunker, Turin on Fri 27 Nov.
+Ostblock is a breakbeat and techno artist based in Ukraine, with 11 gigs on soundcheck across Berlin, Hamburg, Hanoi and Leipzig and 1 more. Often billed alongside Little Vanya, Kotyk Murkotyk and .Cheka. Next up: Bunker, Turin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ostblock is a breakbeat and techno artist, with 11 gigs on soundcheck across Ber
 
 Little Vanya, Kotyk Murkotyk, .Cheka
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ostblock/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ostblock/)*

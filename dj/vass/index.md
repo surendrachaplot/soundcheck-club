@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+Vass is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
 Vass is a techno and electro artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 38 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: FOLD, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Vass is a techno and electro artist based in United Kingdom, with 120 gigs on so
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

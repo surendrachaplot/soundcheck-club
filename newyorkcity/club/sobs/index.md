@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "SOB's presents: Best of the Best: Bollywood Dance Class & Competition" on Tue, 17 Nov 2026.
+SOBs is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SOB's presents: Best of the Best: Bollywood Dance Class & Competition" on Tue, 17 Nov 2026.
 
 SOBs is a music venue in New York City listed on soundcheck. 18 upcoming gigs. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -23,4 +23,4 @@ SOBs is a music venue in New York City listed on soundcheck. 18 upcoming gigs. S
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

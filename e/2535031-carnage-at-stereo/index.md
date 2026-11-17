@@ -1,6 +1,6 @@
 # CARNAGE at Stereo
 
-CARNAGE at Stereo on Sat 12 Dec, Glasgow. 3 artists: COURTEZ, FIORENZA and MISS FRENXH. Techno. See the line-up on soundcheck.
+CARNAGE at Stereo on Sat 12 Dec, Glasgow. 2 artists: COURTEZ and FIORENZA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ CARNAGE at Stereo on Sat 12 Dec, Glasgow. 3 artists: COURTEZ, FIORENZA and MISS 
 
 - COURTEZ
 - FIORENZA
-- MISS FRENXH
 
 *Source: [soundcheck](https://soundcheck.club/e/2535031-carnage-at-stereo/)*

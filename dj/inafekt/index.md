@@ -1,13 +1,14 @@
 # Inafekt
 
-Inafekt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Inafekt is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bewley's Café Theatre, Dublin on Sat, 21 Nov 2026.
 
-Inafekt is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 16 more. Often billed alongside Entasia, Kyle Starkey and DART. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Inafekt is a house and techno artist based in United Kingdom, with 59 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 16 more. Often billed alongside Entasia, Kyle Starkey and DART. Next up: Bewley's Café Theatre, Dublin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Bewley's Café Theatre | Dublin |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 11 Dec 2026 | Chinese Laundry | Sydney |
 
@@ -26,4 +27,4 @@ Inafekt is a house and techno artist based in United Kingdom, with 58 gigs on so
 
 Entasia, Kyle Starkey, DART
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

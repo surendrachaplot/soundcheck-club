@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Rhythm Workshop Series: Digital DJing" on Wed, 18 Nov 2026.
+Rhythm is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Rhythm Workshop Series: Digital DJing" on Wed, 18 Nov 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Ankathesia, Arapu, AUX_ID and Barbara Preisinger and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with 
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

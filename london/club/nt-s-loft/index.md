@@ -1,6 +1,6 @@
 # NT's Loft
 
-NT's Loft is a music venue in London with 22 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "NT's Loft: Detroit In Effect [Extended Set] + Katya" on Fri, 20 Nov 2026.
+NT's Loft is a music venue in London with 22 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "NT's Loft: Detroit In Effect [Extended Set] + Katya" on Fri, 20 Nov 2026.
 
 NT's Loft is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including babyschön, Detroit In Effect, Douvelle19 and FS Green and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ NT's Loft is a music venue in London listed on soundcheck. 22 upcoming gigs, wit
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*

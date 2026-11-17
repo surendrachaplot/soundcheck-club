@@ -1,6 +1,6 @@
 # Origin
 
-Origin is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Mont Rouge" on Sat, 21 Nov 2026.
+Origin is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Mont Rouge" on Sat, 21 Nov 2026.
 
 Origin is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including Annicka, Blaise S, Breakbot and Cquestt and 2 more. See dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
 
@@ -21,4 +21,4 @@ Origin is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, wi
 
 613 Imperial St., Los Angeles, CA 90021, Los Angeles
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*

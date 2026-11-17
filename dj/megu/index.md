@@ -1,6 +1,6 @@
 # megu
 
-megu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
+megu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
 
 megu is a house and techno artist, with 3 gigs on soundcheck across Tokyo. Often billed alongside BLUEMEW, Iori Wakasa and Ko Umehara. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ megu is a house and techno artist, with 3 gigs on soundcheck across Tokyo. Often
 
 BLUEMEW, Iori Wakasa, Ko Umehara
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megu/)*

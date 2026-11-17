@@ -1,6 +1,6 @@
 # NACHTVORM at TBA - Rotterdam Noord
 
-NACHTVORM at TBA - Rotterdam Noord on Sat 21 Nov, Utrecht. 2 artists: Kade Noir and VAREX. Techno. See the line-up on soundcheck.
+NACHTVORM at TBA - Rotterdam Noord on Sat 21 Nov, Utrecht. 3 artists: Kade Noir, Schachtwerk and VAREX. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NACHTVORM at TBA - Rotterdam Noord on Sat 21 Nov, Utrecht. 2 artists: Kade Noir 
 ## Line-up
 
 - Kade Noir
+- Schachtwerk
 - VAREX
 
 *Source: [soundcheck](https://soundcheck.club/e/2515196-nachtvorm-at-tba-rotterdam-noord/)*

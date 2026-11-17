@@ -1,8 +1,8 @@
 # Emir Kaynak
 
-Emir Kaynak is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Süss War Gestern, Berlin on Fri, 20 Nov 2026.
+Emir Kaynak is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Süss War Gestern, Berlin on Fri, 20 Nov 2026.
 
-Emir Kaynak is a house and tech house artist, with 7 gigs on soundcheck across Bali, Berlin and Istanbul. Often billed alongside CATAWR, Kirr and ONNI. Next up: Süss War Gestern, Berlin on Fri 20 Nov.
+Emir Kaynak is a house and tech house artist based in Turkey, with 7 gigs on soundcheck across Bali, Berlin and Istanbul. Often billed alongside CATAWR, Kirr and ONNI. Next up: Süss War Gestern, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Emir Kaynak is a house and tech house artist, with 7 gigs on soundcheck across B
 
 CATAWR, Kirr, ONNI
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emirkaynak/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emirkaynak/)*

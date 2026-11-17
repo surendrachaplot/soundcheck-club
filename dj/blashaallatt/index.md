@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Blasha & Allatt is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Blasha & Allatt are a techno and house duo based in United Kingdom, with 316 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 66 more. Often billed alongside aalice, Freddy K and Steffi. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -35,4 +35,4 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 316 gig
 
 aalice, Freddy K, Steffi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

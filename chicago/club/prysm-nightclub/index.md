@@ -1,8 +1,8 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "THE LAB: Natalia Roth" on Fri, 20 Nov 2026.
+Prysm Nightclub is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "THE LAB: Natalia Roth" on Fri, 20 Nov 2026.
 
-Prysm Nightclub is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with line-ups including Cole Terrazas, Enrico Sangiuliano, Iváno Lima and Kapote and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
+Prysm Nightclub is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including FLETCH, Azzecca, Cole Terrazas and DJ Tennis and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
 
 ## What's on
 
@@ -14,11 +14,13 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 8 upcoming gig
 | Sat, 5 Dec 2026 | Toy Tonics: Chicago Jam | Kapote, Sam Ruffillo |
 | Sat, 26 Dec 2026 | Transitions at SERUM: TOBEHONEST & NO STATIC | TOBEHONEST |
 | Sun, 27 Dec 2026 | Transitions at THE LAB: Dan Molinari & Rippy |  |
+| Tue, 29 Dec 2026 | Transitions at SERUM: Marsolo & Kidoo | Kidoo, Marsolo |
 | Thu, 31 Dec 2026 | SERUM NYE: Marco Strous, Rooléh, SLAMM, & Cole Terrazas | Cole Terrazas, Marco Strous, Muffy, Rooléh, SLAMM |
-| Fri, 29 Jan 2027 | Transitions at SERUM: Marsolo & Kidoo | Kidoo, Marsolo |
+| Fri, 1 Jan 2027 | SERUM: DAY ONE | Azzecca, DJ Tennis, FLETCH, INPHINITY, Jimi Jules, Joshwa, Matroda, Moorhaus, OMRI., Patrick Topping, RUZE |
+| Sat, 23 Jan 2027 | Serum: GENESI | GENESI |
 
 ## Address
 
 1543 N Kingsbury St, Chicago
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

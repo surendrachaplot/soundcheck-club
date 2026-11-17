@@ -1,6 +1,6 @@
 # Adria (ES)
 
-Adria (ES) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 31 Dec 2026.
+Adria (ES) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 31 Dec 2026.
 
 Adria (ES) is a house and electro artist based in Spain, with 139 gigs on soundcheck across Barcelona, Bucharest, Ibiza and Lisbon and 3 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Adria (ES) is a house and electro artist based in Spain, with 139 gigs on soundc
 
 Pau Rosés, Vince Void, Alex Garcia (2)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*

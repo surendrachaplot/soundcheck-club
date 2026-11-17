@@ -1,6 +1,6 @@
 # D LAI
 
-D LAI is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Groovetank Live, London on Sat, 12 Dec 2026.
+D LAI is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Groovetank Live, London on Sat, 12 Dec 2026.
 
 D LAI is a techno and minimal techno artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Adela, AALEX and Alythia Kwan. Next up: Groovetank Live, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ D LAI is a techno and minimal techno artist based in United Kingdom, with 15 gig
 
 Adela, AALEX, Alythia Kwan
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlai/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlai/)*

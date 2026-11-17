@@ -1,6 +1,6 @@
 # MODULE NYE 2027 at MODULE
 
-MODULE NYE 2027 on Fri 1 Jan, Copenhagen. 10 artists: Anders HP, Bestrawa, Captain Bubblegum and CERJ and 6 more. Trance and Techno. See the line-up on soundcheck.
+MODULE NYE 2027 on Fri 1 Jan, Copenhagen. 11 artists: Anders HP, Bestrawa, Captain Bubblegum and CERJ and 7 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ MODULE NYE 2027 on Fri 1 Jan, Copenhagen. 10 artists: Anders HP, Bestrawa, Capta
 - Bestrawa
 - Captain Bubblegum
 - CERJ
+- D3TRMNT
 - DJ Spice
 - Holysss
 - KAMIKAZEM

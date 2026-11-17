@@ -1,6 +1,6 @@
 # Shamanu
 
-Shamanu is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TRAUM, Antwerp on Sat, 19 Dec 2026.
+Shamanu is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TRAUM, Antwerp on Sat, 19 Dec 2026.
 
 Shamanu is a psytrance and techno artist based in Germany, with 5 gigs on soundcheck across Antwerp and Munich. Often billed alongside Olli Rubber, André Dancekowski and NICI NICE. Next up: TRAUM, Antwerp on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Shamanu is a psytrance and techno artist based in Germany, with 5 gigs on soundc
 
 Olli Rubber, André Dancekowski, NICI NICE
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamanu/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamanu/)*

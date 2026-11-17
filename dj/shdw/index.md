@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 20 Nov 2026.
+SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 20 Nov 2026.
 
 SHDW is a techno and house artist based in Germany, with 265 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 86 more. Often billed alongside ANNĒ, Alarico and DAX J. Next up: Tokonoma Club, Frankfurt on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist based in Germany, with 265 gigs on soundcheck 
 
 ANNĒ, Alarico, DAX J
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

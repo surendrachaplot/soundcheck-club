@@ -1,6 +1,6 @@
 # GiGi FM at Smoke & Mirrors
 
-GiGi FM at Smoke & Mirrors on Sat 5 Dec, Chicago. 2 artists: GiGi FM and Hot Take. Techno. See the line-up on soundcheck.
+GiGi FM at Smoke & Mirrors on Sat 5 Dec, Chicago. 3 artists: GiGi FM, Hot Take and Nomingia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ GiGi FM at Smoke & Mirrors on Sat 5 Dec, Chicago. 2 artists: GiGi FM and Hot Tak
 
 - GiGi FM
 - Hot Take
+- Nomingia
 
 *Source: [soundcheck](https://soundcheck.club/e/2582910-gigi-fm-at-smoke-mirrors/)*

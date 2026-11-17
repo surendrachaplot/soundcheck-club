@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Open Decks with STEEN & Remniqe + Iconic Demonic EP Release Party" on Tue, 17 Nov 2026.
+SILO is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Open Decks with STEEN & Remniqe + Iconic Demonic EP Release Party" on Tue, 17 Nov 2026.
 
 SILO is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including Anthony Romano, Bella Hex, Bruce Wayne (US) and ceviché and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in New York City listed on soundcheck. 33 upcoming gigs, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

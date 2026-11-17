@@ -1,6 +1,6 @@
 # Unbalance
 
-Unbalance is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
+Unbalance is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
 
 Unbalance is an industrial and techno artist based in Russia, with 5 gigs on soundcheck across Dubai, Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: Stepan Razin Factory, Saint Petersburg on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Unbalance is an industrial and techno artist based in Russia, with 5 gigs on sou
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*

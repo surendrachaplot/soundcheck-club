@@ -1,6 +1,6 @@
 # WAXXXMAS w/ LOCKLEAD, LEWIS CARROLL, A FOR ALPHA at SWG3
 
-WAXXXMAS w/ LOCKLEAD, LEWIS CARROLL, A FOR ALPHA at SWG3 on Fri 18 Dec, Glasgow. 2 artists: A For Alpha and Lewis Carroll. See the line-up on soundcheck.
+WAXXXMAS w/ LOCKLEAD, LEWIS CARROLL, A FOR ALPHA at SWG3 on Fri 18 Dec, Glasgow. 2 artists: A For Alpha and Lewis Carroll. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

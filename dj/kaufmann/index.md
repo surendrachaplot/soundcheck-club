@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Kaufmann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Kaufmann is a techno and house artist based in Germany, with 165 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 33 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Kaufmann is a techno and house artist based in Germany, with 165 gigs on soundch
 
 Leon Licht, Memo., ADAMN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

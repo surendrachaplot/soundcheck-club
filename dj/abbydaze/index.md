@@ -1,13 +1,14 @@
 # Abby Daze
 
-Abby Daze is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Jam Jar, Bristol on Fri, 27 Nov 2026.
+Abby Daze is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Planet Wax, London on Sun, 22 Nov 2026.
 
-Abby Daze is a jungle and drum & bass artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Bristol and London. Often billed alongside A.N.T, Uncle G and Yasmine (UK). Next up: The Jam Jar, Bristol on Fri 27 Nov.
+Abby Daze is a jungle and drum & bass artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Bristol and London. Often billed alongside Uncle G, A.N.T and Yasmine (UK). Next up: Planet Wax, London on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Planet Wax | London |
 | Fri, 27 Nov 2026 | The Jam Jar | Bristol |
 | Thu, 10 Dec 2026 | Planet Wax | London |
 | Sat, 19 Dec 2026 | Arks of Deptford | London |
@@ -25,6 +26,6 @@ Abby Daze is a jungle and drum & bass artist based in United Kingdom, with 66 gi
 
 ## Shares bills with
 
-A.N.T, Uncle G, Yasmine (UK)
+Uncle G, A.N.T, Yasmine (UK)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*

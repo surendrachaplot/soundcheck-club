@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Rx presents: Darren Black / CHEKA / PERT" on Tue, 17 Nov 2026.
+AMT is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Rx presents: Darren Black / CHEKA / PERT" on Tue, 17 Nov 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including .Cheka, Achilles, ALIS. and Anja Schneider and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line
 | Fri, 4 Dec 2026 | Sexpressions  | Bobaz, DJ SEXSTASY, GI.O, Rishka, Towicz |
 | Sat, 5 Dec 2026 | Moritz Biebl invites x CiaoCiao | BAHAA AL DEEN, Diva International, Karim Alkhayat, Madame Charlie, Moritz Biebl, Mython |
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

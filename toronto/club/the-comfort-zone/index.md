@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Morning Mass pres. Hatiras & Spacedisco" on Sat, 21 Nov 2026.
+The Comfort Zone is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Morning Mass pres. Hatiras & Spacedisco" on Sat, 21 Nov 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including Burnii, Hatiras, Jerome Robins and KILL 9 1 and 2 more. See dates, start times and who's playing. 1369 Queen St. West.
 
@@ -18,4 +18,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 5 upcoming gi
 
 1369 Queen St. West, Toronto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

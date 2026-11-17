@@ -1,6 +1,6 @@
 # El Gato
 
-El Gato is a Neo Perreo and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Botanero, Chicago on Fri, 20 Nov 2026.
+El Gato is a Neo Perreo and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Botanero, Chicago on Fri, 20 Nov 2026.
 
 El Gato is a neo perreo and latin bass artist, with 5 gigs on soundcheck across Chicago. Often billed alongside J. Córdova, karennoid and 2AT. Next up: Botanero, Chicago on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ El Gato is a neo perreo and latin bass artist, with 5 gigs on soundcheck across 
 
 J. Córdova, karennoid, 2AT
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elgato-us/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elgato-us/)*

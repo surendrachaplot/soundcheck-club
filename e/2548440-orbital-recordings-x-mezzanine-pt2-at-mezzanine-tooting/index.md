@@ -1,6 +1,6 @@
 # ORBITAL RECORDINGS X MEZZANINE PT2 at Mezzanine - Tooting
 
-ORBITAL RECORDINGS X MEZZANINE PT2 at Mezzanine - Tooting on Sat 28 Nov, London. 4 artists: Counter Culture, Mulate, Robba and Shaddows. Drum & Bass and Jungle. See the line-up on soundcheck.
+ORBITAL RECORDINGS X MEZZANINE PT2 at Mezzanine - Tooting on Sat 28 Nov, London. 5 artists: Counter Culture, Ed Culprit, Mulate and Robba and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ORBITAL RECORDINGS X MEZZANINE PT2 at Mezzanine - Tooting on Sat 28 Nov, London.
 ## Line-up
 
 - Counter Culture
+- Ed Culprit
 - Mulate
 - Robba
 - Shaddows

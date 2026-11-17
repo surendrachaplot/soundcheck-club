@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 26 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Smolna TRIBE pres. Surtarang + Special Guest Karthik Krishna - Live Music Session" on Thu, 19 Nov 2026.
+Smolna is a music venue in Warsaw with 26 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Smolna TRIBE pres. Surtarang + Special Guest Karthik Krishna - Live Music Session" on Thu, 19 Nov 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 26 upcoming gigs, with line-ups including AMRTUM, Anika, BEXA and Butwho and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 26 upcoming gigs, with l
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

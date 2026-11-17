@@ -1,6 +1,6 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Grand Boston, Boston on Thu, 19 Nov 2026.
+Frost Children is a Pop and Electronica artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Grand Boston, Boston on Thu, 19 Nov 2026.
 
 Frost Children is a pop and electronica artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 27 more. Often billed alongside 10cust, ali rq and Anetha. Next up: The Grand Boston, Boston on Thu 19 Nov.
 
@@ -32,4 +32,4 @@ Frost Children is a pop and electronica artist based in United States of America
 
 10cust, ali rq, Anetha
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*

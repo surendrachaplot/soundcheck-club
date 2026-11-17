@@ -1,6 +1,6 @@
 # Fabio Santos
 
-Fabio Santos is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Toffler, Rotterdam on Sat, 5 Dec 2026.
+Fabio Santos is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Toffler, Rotterdam on Sat, 5 Dec 2026.
 
 Fabio Santos is a house and garage artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Leeds and 4 more. Often billed alongside Michel de Hey, Luis Ripa and AAT (NL). Next up: Toffler, Rotterdam on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Fabio Santos is a house and garage artist based in Netherlands, with 35 gigs on 
 
 Michel de Hey, Luis Ripa, AAT (NL)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*

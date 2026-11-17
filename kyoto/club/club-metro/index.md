@@ -1,8 +1,8 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 27 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Schnellertollermeier -Shadow Web- Japan Tour 2026 in Kyoto" on Tue, 17 Nov 2026.
+Club Metro is a music venue in Kyoto with 28 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Schnellertollermeier -Shadow Web- Japan Tour 2026 in Kyoto" on Tue, 17 Nov 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 27 upcoming gigs, with line-ups including DJ Krush, DJ Masda, Hisashi Aochi and Howie B and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 28 upcoming gigs, with line-ups including DJ Krush, DJ Masda, Hisashi Aochi and Howie B and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 27 upcoming gigs, wit
 | Sat, 21 Nov 2026 | WeLove Kyoto | Nick Reverse |
 | Sun, 22 Nov 2026 | SOILFUNKNESS |  |
 | Mon, 23 Nov 2026 | DoitJAZZ! 20th Anniversary meets Mendel | Masaki Tamura, Mendel, Naoki Yoda, SOTA, Yukari BB |
-| Thu, 26 Nov 2026 | ärk | rick (4) |
+| Wed, 25 Nov 2026 | Basement |  |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

@@ -1,6 +1,6 @@
 # LEGGY
 
-LEGGY is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
+LEGGY is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
 
 LEGGY is a bass and techno artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside Kassita, NFRMT and masheen. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ LEGGY is a bass and techno artist based in Australia, with 4 gigs on soundcheck 
 
 Kassita, NFRMT, masheen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leggy/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leggy/)*

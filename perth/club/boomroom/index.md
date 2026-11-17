@@ -1,6 +1,6 @@
 # boomroom
 
-boomroom is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Pariah (UK) + 3ras3r @ boomroom" on Fri, 20 Nov 2026.
+boomroom is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Pariah (UK) + 3ras3r @ boomroom" on Fri, 20 Nov 2026.
 
 boomroom is a music venue in Perth listed on soundcheck. 3 upcoming gigs, with line-ups including Ahadadream, BASHKKA and Pariah. See dates, start times and who's playing. Rear Laneway, 224 William Street, Northbridge.
 
@@ -16,4 +16,4 @@ boomroom is a music venue in Perth listed on soundcheck. 3 upcoming gigs, with l
 
 Rear Laneway, 224 William Street, Northbridge, Perth
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/boomroom/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/boomroom/)*

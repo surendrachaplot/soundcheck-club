@@ -1,6 +1,6 @@
 # Basement Vesterbro
 
-Basement Vesterbro is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Kaerenel: Part 1" on Fri, 20 Nov 2026.
+Basement Vesterbro is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Kaerenel: Part 1" on Fri, 20 Nov 2026.
 
 Basement Vesterbro is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including Bjørn Svin, Cristian Vogel, jjjacob and Mesak and 2 more. See dates, start times and who's playing. Enghavevej 42, 1674 København V.
 
@@ -8,11 +8,11 @@ Basement Vesterbro is a music venue in Copenhagen listed on soundcheck. 2 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kaerenel: Part 1 | Mesak, jjjacob, natq |
+| Fri, 20 Nov 2026 | Kaerenel: Part 1 | Mesak, Virginia Supreme, jjjacob, natq |
 | Sat, 12 Dec 2026 | Kaerenel: Part 2 | Bjørn Svin, Cristian Vogel, SØS Gunver Ryberg, Ulf Eriksson, natq |
 
 ## Address
 
 Enghavevej 42, 1674 København V, Copenhagen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/basement-vesterbro/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/basement-vesterbro/)*

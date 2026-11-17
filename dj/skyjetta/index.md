@@ -1,6 +1,6 @@
 # SKY JETTA
 
-SKY JETTA is a Ghetto Tech and Club artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Sent to ticket holders day of, New York City on Thu, 19 Nov 2026.
+SKY JETTA is a Ghetto Tech and Club artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Sent to ticket holders day of, New York City on Thu, 19 Nov 2026.
 
 SKY JETTA is a ghetto tech and club artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Chicago, Detroit and Houston and 6 more. Often billed alongside DJ KILLA SQUID, Daniro and Donavan Glover. Next up: TBA - Sent to ticket holders day of, New York City on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ SKY JETTA is a ghetto tech and club artist based in United States of America, wi
 
 DJ KILLA SQUID, Daniro, Donavan Glover
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*

@@ -1,8 +1,8 @@
 # Brizze
 
-Brizze is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Void Club, Berlin on Sat, 12 Dec 2026.
+Brizze is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Void Club, Berlin on Sat, 12 Dec 2026.
 
-Brizze is a techno and industrial artist based in Germany, with 57 gigs on soundcheck across Berlin. Often billed alongside DaSoMaZo, Wachbär and Kopflos. Next up: Void Club, Berlin on Sat 12 Dec.
+Brizze is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Berlin. Often billed alongside DaSoMaZo, Wachbär and Kopflos. Next up: Void Club, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Brizze is a techno and industrial artist based in Germany, with 57 gigs on sound
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Void Club | Berlin |
 | Sat, 2 Jan 2027 | Void Club | Berlin |
+| Sat, 13 Feb 2027 | Void Club | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Brizze is a techno and industrial artist based in Germany, with 57 gigs on sound
 
 DaSoMaZo, Wachbär, Kopflos
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brizze/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brizze/)*

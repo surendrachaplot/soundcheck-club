@@ -1,8 +1,8 @@
 # Neck of the Woods
 
-Neck of the Woods is a music venue in Auckland with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "United presents: OMAR+" on Fri, 27 Nov 2026.
+Neck of the Woods is a music venue in Auckland with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "United presents: OMAR+" on Fri, 27 Nov 2026.
 
-Neck of the Woods is a music venue in Auckland listed on soundcheck. 6 upcoming gigs, with line-ups including Ash, JSquare, Lady Shaka and Lola and 2 more. See dates, start times and who's playing. 155 Karangahape Road, Auckland 1010, New Zealand.
+Neck of the Woods is a music venue in Auckland listed on soundcheck. 7 upcoming gigs, with line-ups including Ash, JSquare, Lady Shaka and Lola and 2 more. See dates, start times and who's playing. 155 Karangahape Road, Auckland 1010, New Zealand.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Neck of the Woods is a music venue in Auckland listed on soundcheck. 6 upcoming 
 | Fri, 27 Nov 2026 | Hardphoria: BOUNCEPHORIA VOL. 2 | Ash, JSquare, MRTN |
 | Fri, 4 Dec 2026 | BSM And EP Present: Sorchalula Why So Far EP Release |  |
 | Sat, 5 Dec 2026 | Lady Shaka Presents: Whaea | Lady Shaka |
+| Sat, 12 Dec 2026 | NYMPHO: umru RETURNS TO AOTEAROA | monoga.my, umru |
 | Sat, 16 Jan 2027 | Broad Spectrum Music Presents: Wraz And Hypho |  |
 | Sat, 16 Jan 2027 | Broad Spectrum Music Presents: Wraz And Hypho |  |
 
@@ -19,4 +20,4 @@ Neck of the Woods is a music venue in Auckland listed on soundcheck. 6 upcoming 
 
 155 Karangahape Road, Auckland 1010, New Zealand, Auckland
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*

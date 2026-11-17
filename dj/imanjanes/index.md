@@ -1,6 +1,6 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
+Iman Janes is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
 
 Iman Janes is a techno and tech house artist based in France, with 32 gigs on soundcheck across Berlin, Bratislava, Brussels and Dortmund / Essen and 8 more. Often billed alongside Alarico, KALTBLUME and Sicion. Next up: AMT, Berlin on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Iman Janes is a techno and tech house artist based in France, with 32 gigs on so
 
 Alarico, KALTBLUME, Sicion
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

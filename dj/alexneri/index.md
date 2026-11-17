@@ -1,6 +1,6 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
+Alex Neri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
 Alex Neri is a house and techno artist based in Italy, with 99 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside GNMR, Giammarco Orsini and Marcolino. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Alex Neri is a house and techno artist based in Italy, with 99 gigs on soundchec
 
 GNMR, Giammarco Orsini, Marcolino
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*

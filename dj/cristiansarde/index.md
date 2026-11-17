@@ -1,6 +1,6 @@
 # Cristian Sarde
 
-Cristian Sarde is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Casual, Hong Kong on Sat, 5 Dec 2026.
+Cristian Sarde is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Casual, Hong Kong on Sat, 5 Dec 2026.
 
 Cristian Sarde is a house and techno artist based in Italy, with 88 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 30 more. Often billed alongside Alex Dima, Lorenzo Aribone and Munir Nadir. Next up: Casual, Hong Kong on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Cristian Sarde is a house and techno artist based in Italy, with 88 gigs on soun
 
 Alex Dima, Lorenzo Aribone, Munir Nadir
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansarde/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansarde/)*

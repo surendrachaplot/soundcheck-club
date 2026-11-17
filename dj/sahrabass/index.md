@@ -1,6 +1,6 @@
 # Sahra Bass
 
-Sahra Bass is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 16 Jan 2027.
+Sahra Bass is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 16 Jan 2027.
 
 Sahra Bass is a techno and house artist, with 68 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside FLAVE, Urem and Frida Darko. Next up: Ritter Butzke, Berlin on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Sahra Bass is a techno and house artist, with 68 gigs on soundcheck across Barce
 
 FLAVE, Urem, Frida Darko
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahrabass/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahrabass/)*

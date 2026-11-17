@@ -1,8 +1,8 @@
 # Y-DAPT
 
-Y-DAPT is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tunnel, Milan on Sat, 12 Dec 2026.
+Y-DAPT is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tunnel, Milan on Sat, 12 Dec 2026.
 
-Y-DAPT is a house and tech house artist based in Italy, with 71 gigs on soundcheck across Amsterdam, Barcelona, Los Angeles and Milan. Often billed alongside MAGNVM!, Gumbelly and STYLOPHONIC. Next up: Tunnel, Milan on Sat 12 Dec.
+Y-DAPT is a house and tech house artist based in Italy, with 72 gigs on soundcheck across Amsterdam, Barcelona, Los Angeles and Milan. Often billed alongside MAGNVM!, Gumbelly and STYLOPHONIC. Next up: Tunnel, Milan on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Y-DAPT is a house and tech house artist based in Italy, with 71 gigs on soundche
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Tunnel | Milan |
 | Thu, 17 Dec 2026 | Ragoo | Milan |
+| Sat, 30 Jan 2027 | Tunnel | Milan |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Y-DAPT is a house and tech house artist based in Italy, with 71 gigs on soundche
 
 MAGNVM!, Gumbelly, STYLOPHONIC
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/y-dapt/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/y-dapt/)*

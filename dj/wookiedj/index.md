@@ -1,14 +1,15 @@
 # Wookie
 
-Wookie is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Love Inn, Bristol on Fri, 4 Dec 2026.
+Wookie is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Love Inn, Bristol on Fri, 4 Dec 2026.
 
-Wookie is a garage and house artist based in United Kingdom, with 38 gigs on soundcheck across Birmingham, Bristol, Edinburgh and Liverpool and 4 more. Often billed alongside Matt Jam Lamont, DJ Spoony and Mark Radford. Next up: The Love Inn, Bristol on Fri 4 Dec.
+Wookie is a garage and house artist based in United Kingdom, with 39 gigs on soundcheck across Birmingham, Bristol, Edinburgh and Liverpool and 4 more. Often billed alongside Matt Jam Lamont, DJ Spoony and Mark Radford. Next up: The Love Inn, Bristol on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | The Love Inn | Bristol |
+| Thu, 10 Dec 2026 | Fisher Gate Point | Nottingham |
 | Tue, 29 Dec 2026 | Dahlia Stereo | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ Wookie is a garage and house artist based in United Kingdom, with 38 gigs on sou
 
 Matt Jam Lamont, DJ Spoony, Mark Radford
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*

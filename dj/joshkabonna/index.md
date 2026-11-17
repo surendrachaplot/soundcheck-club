@@ -1,6 +1,6 @@
 # Joshkabonna
 
-Joshkabonna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
+Joshkabonna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
 
 Joshkabonna is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Brizze, Aida Arko and Amo (IT). Next up: Lokschuppen Berlin, Berlin on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Joshkabonna is a techno and trance artist based in Germany, with 3 gigs on sound
 
 Brizze, Aida Arko, Amo (IT)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkabonna/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkabonna/)*

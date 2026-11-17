@@ -1,8 +1,8 @@
 # Sievert Serviert
 
-Sievert Serviert is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+Sievert Serviert is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
-Sievert Serviert is a techno and trance artist based in Germany, with 43 gigs on soundcheck across Berlin. Often billed alongside elvito, OLED and cell1. Next up: ÆDEN, Berlin on Fri 27 Nov.
+Sievert Serviert is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Berlin. Often billed alongside elvito, OLED and cell1. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sievert Serviert is a techno and trance artist based in Germany, with 43 gigs on
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | ÆDEN | Berlin |
 | Sat, 5 Dec 2026 | PKH Warehouse | Berlin |
+| Fri, 29 Jan 2027 | Void Club | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sievert Serviert is a techno and trance artist based in Germany, with 43 gigs on
 
 elvito, OLED, cell1
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sievertserviert/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sievertserviert/)*

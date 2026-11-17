@@ -1,8 +1,8 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "The Third Room with Ahmet Sisman, Claudio PRC, Di²" on Fri, 20 Nov 2026.
+Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "The Third Room with Ahmet Sisman, Claudio PRC, Di²" on Fri, 20 Nov 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 14 upcoming gigs, with line-ups including Paula Tape, Ahmet Sisman, AMSL and Anatoli [DE] and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including Paula Tape, Ahmet Sisman, AMSL and Anatoli [DE] and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 14 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

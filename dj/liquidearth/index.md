@@ -1,6 +1,6 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Refuge, New York City on Fri, 20 Nov 2026.
+Liquid Earth is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Refuge, New York City on Fri, 20 Nov 2026.
 
 Liquid Earth is a house and techno artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Refuge, New York City on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Liquid Earth is a house and techno artist based in United States of America, wit
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

@@ -1,6 +1,6 @@
 # Drum & Bass Sessions feat. Roni Size at Mad Chiller World
 
-Drum & Bass Sessions feat. Roni Size at Mad Chiller World on Sat 21 Nov, Tampa Bay. 3 artists: AK1200, Rat Galactic and Roni Size. Drum & Bass and Jungle. See the line-up on soundcheck.
+Drum & Bass Sessions feat. Roni Size at Mad Chiller World on Sat 21 Nov, Tampa Bay. 4 artists: AK1200, DJ DARA, Rat Galactic and Roni Size. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Drum & Bass Sessions feat. Roni Size at Mad Chiller World on Sat 21 Nov, Tampa B
 ## Line-up
 
 - AK1200
+- DJ DARA
 - Rat Galactic
 - Roni Size
 

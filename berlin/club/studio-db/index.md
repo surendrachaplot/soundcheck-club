@@ -1,6 +1,6 @@
 # Studio dB
 
-Studio dB is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "MARIAMA - THE MO(U)RNING STAR EP Release Show" on Thu, 19 Nov 2026.
+Studio dB is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "MARIAMA - THE MO(U)RNING STAR EP Release Show" on Thu, 19 Nov 2026.
 
 Studio dB is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including AGUSTIN BARBEI, Ariela Leiva, Bungalovv and FatAles and 2 more. See dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
 
@@ -11,7 +11,7 @@ Studio dB is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with
 | Thu, 19 Nov 2026 | MARIAMA - THE MO(U)RNING STAR EP Release Show | Mariama |
 | Sat, 21 Nov 2026 | Brocante Club x Corpo de Baile: Club & Vinyl Market | Ariela Leiva, FatAles, Mamede, kamishibai, riss |
 | Sun, 22 Nov 2026 | Rosa Landers - Pre-Listening Event (Solvay EP) | Rosa Landers |
-| Fri, 27 Nov 2026 | Hyper Synthesized Surrender | Bungalovv, Mithril, XI-N |
+| Fri, 27 Nov 2026 | Hyper Synthesized Surrender | Bungalovv, Mithril, Silk Touch, XI-N, studio hot swap |
 | Sat, 28 Nov 2026 | KOTODAMA | Izumi Yamamoto, Ken Okuda |
 | Sat, 5 Dec 2026 | EVLAY & YUNNI: EPIDERMIS RELEASE PARTY | AGUSTIN BARBEI, SIVINSKI, TINKERHELL, Tomas Crow |
 | Sun, 13 Dec 2026 | Jazz Lambaux, Felicity J Lord & 2002 with Local Gr0up  |  |
@@ -20,4 +20,4 @@ Studio dB is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with
 
 Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin, Berlin
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*

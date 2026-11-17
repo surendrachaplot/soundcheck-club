@@ -1,6 +1,6 @@
 # Sébastien Forrester
 
-Sébastien Forrester is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Péniche Adélaïde, Paris on Sat, 5 Dec 2026.
+Sébastien Forrester is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Péniche Adélaïde, Paris on Sat, 5 Dec 2026.
 
 Sébastien Forrester is an experimental and bass artist based in France, with 10 gigs on soundcheck across Brussels, Lyon, Montreal and Paris and 2 more. Often billed alongside Brodinski, Sara Persico and 0neo. Next up: Péniche Adélaïde, Paris on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sébastien Forrester is an experimental and bass artist based in France, with 10
 
 Brodinski, Sara Persico, 0neo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienforrester/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienforrester/)*

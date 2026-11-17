@@ -1,6 +1,6 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Charlotte de Witte is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Charlotte de Witte is a techno and house artist based in Belgium, with 169 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 63 more. Often billed alongside Enrico Sangiuliano, Adiel and Joseph Capriati. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Charlotte de Witte is a techno and house artist based in Belgium, with 169 gigs 
 
 Enrico Sangiuliano, Adiel, Joseph Capriati
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 15 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "BEAUZ" on Fri, 20 Nov 2026.
+BERHTA is a music venue in Washington DC with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "BEAUZ" on Fri, 20 Nov 2026.
 
 BERHTA is a music venue in Washington DC listed on soundcheck. 15 upcoming gigs, with line-ups including Arlo, Bob Moses, bradeazy and Carl Craig and 2 more. See dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washington DC listed on soundcheck. 15 upcoming gigs,
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

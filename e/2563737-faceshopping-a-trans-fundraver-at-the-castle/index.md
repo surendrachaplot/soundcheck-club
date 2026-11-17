@@ -1,6 +1,6 @@
 # FACESHOPPING: A TRANS FUNDRAVER at The Castle
 
-FACESHOPPING: A TRANS FUNDRAVER at The Castle on Fri 27 Nov, London. 1 artist: Spacelike. Techno and Jungle. See the line-up on soundcheck.
+FACESHOPPING: A TRANS FUNDRAVER at The Castle on Fri 27 Nov, London. 2 artists: Dirt Angel and Spacelike. Techno and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FACESHOPPING: A TRANS FUNDRAVER at The Castle on Fri 27 Nov, London. 1 artist: S
 
 ## Line-up
 
+- Dirt Angel
 - Spacelike
 
 *Source: [soundcheck](https://soundcheck.club/e/2563737-faceshopping-a-trans-fundraver-at-the-castle/)*

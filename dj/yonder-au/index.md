@@ -1,6 +1,6 @@
 # YØNDER
 
-YØNDER is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
+YØNDER is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
 
 YØNDER is a trance and techno artist based in Austria, with 30 gigs on soundcheck across Berlin, Munich, Nürnberg and Vienna. Often billed alongside Joey, Crystal O and KILIÅN. Next up: Das Werk, Vienna on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ YØNDER is a trance and techno artist based in Austria, with 30 gigs on soundche
 
 Joey (2), Crystal O, KILIÅN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonder-au/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonder-au/)*

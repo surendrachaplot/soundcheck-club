@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Frame, Dublin on Fri, 20 Nov 2026.
+MARRØN is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Frame, Dublin on Fri, 20 Nov 2026.
 
 MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Frame, Dublin on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 
 Blasha & Allatt, Ben Klock, Freddy K
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

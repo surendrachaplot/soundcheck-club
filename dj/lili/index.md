@@ -1,6 +1,6 @@
 # LILI
 
-LILI is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mint XL, Leeds on Fri, 11 Dec 2026.
+LILI is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mint XL, Leeds on Fri, 11 Dec 2026.
 
 LILI is a tech house and house artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Ibiza, Leeds and London and 4 more. Often billed alongside ADMNTi, Cam Stockman and L.P. Rhythm. Next up: Mint XL, Leeds on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ LILI is a tech house and house artist based in United Kingdom, with 32 gigs on s
 
 ADMNTi, Cam Stockman, L.P. Rhythm
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

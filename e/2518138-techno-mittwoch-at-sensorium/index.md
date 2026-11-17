@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 16 Dec, Berlin. 11 artists: b.e.n.m, Bee Lincoln, Claramonte and Determiner and 7 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 16 Dec, Berlin. 12 artists: b.e.n.m, Bee Lincoln, BROMAN-C and Claramonte and 8 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ TECHNO MITTWOCH at Sensorium on Wed 16 Dec, Berlin. 11 artists: b.e.n.m, Bee Lin
 
 - b.e.n.m
 - Bee Lincoln
+- BROMAN-C
 - Claramonte
 - Determiner
 - jaynetics

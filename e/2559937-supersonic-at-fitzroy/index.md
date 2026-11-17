@@ -10,7 +10,7 @@ SUPERSONIC at Fitzroy on Sat 5 Dec, Berlin. 6 artists: BFAM, Carmelina, Eline (B
 
 ## Line-up
 
-- BFAM
+- BFAM (2)
 - Carmelina
 - Eline (BE)
 - POLSCHI (2)

@@ -1,6 +1,6 @@
 # Jake Fitz
 
-Jake Fitz is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 31 Dec 2026.
+Jake Fitz is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 31 Dec 2026.
 
 Jake Fitz is an electronica and house artist based in Ireland, with 9 gigs on soundcheck across Amsterdam, Belfast and Dublin. Often billed alongside ALISHA, CAOIMHE and DIEBYVEG. Next up: The Telegraph Building, Belfast on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jake Fitz is an electronica and house artist based in Ireland, with 9 gigs on so
 
 ALISHA, CAOIMHE, DIEBYVEG
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*

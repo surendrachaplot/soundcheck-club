@@ -1,6 +1,6 @@
 # Headache at Outset
 
-Headache at Outset on Fri 20 Nov, Chicago. 1 artist: Vegyn. See the line-up on soundcheck.
+Headache at Outset on Fri 20 Nov, Chicago. 2 artists: Headache and Vegyn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Headache at Outset on Fri 20 Nov, Chicago. 1 artist: Vegyn. See the line-up on s
 
 ## Line-up
 
+- Headache
 - Vegyn
 
 *Source: [soundcheck](https://soundcheck.club/e/2445731-headache-at-outset/)*

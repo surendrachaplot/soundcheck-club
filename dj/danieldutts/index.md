@@ -1,6 +1,6 @@
 # Daniel Dutts
 
-Daniel Dutts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Outer Heaven, New York City on Thu, 3 Dec 2026.
+Daniel Dutts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Outer Heaven, New York City on Thu, 3 Dec 2026.
 
 Daniel Dutts is a house and techno artist based in United States of America, with 86 gigs on soundcheck across Boston, Chicago, London and Mexico City and 4 more. Often billed alongside Pablo Romero, CAMILLA and Luciio. Next up: Outer Heaven, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Daniel Dutts is a house and techno artist based in United States of America, wit
 
 Pablo Romero, CAMILLA, Luciio
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldutts/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldutts/)*

@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
+Truncate is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
 
 Truncate is a techno and house artist based in United States of America, with 167 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 51 more. Often billed alongside Drumcell, DJ Hyperactive and Ben Sims. Next up: Radio Estrella, Bogotá on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ Truncate is a techno and house artist based in United States of America, with 16
 
 Drumcell, DJ Hyperactive, Ben Sims
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

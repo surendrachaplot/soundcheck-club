@@ -1,6 +1,6 @@
 # Immy
 
-Immy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
+Immy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
 
 Immy is a house and techno artist based in Canada, with 108 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 6 more. Often billed alongside Triqi, Jana Falcon and DJ NORTHERN. Next up: Den Anden Side, Copenhagen on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Immy is a house and techno artist based in Canada, with 108 gigs on soundcheck a
 
 Triqi, Jana Falcon, DJ NORTHERN
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*

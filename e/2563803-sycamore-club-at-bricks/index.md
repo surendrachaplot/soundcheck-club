@@ -1,6 +1,6 @@
 # SYCAMORE.club at Bricks
 
-SYCAMORE.club at Bricks on Fri 27 Nov, London. 2 artists: Henson and Parff. House. See the line-up on soundcheck.
+SYCAMORE.club at Bricks on Fri 27 Nov, London. 3 artists: Gusto, Henson and Parff. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SYCAMORE.club at Bricks on Fri 27 Nov, London. 2 artists: Henson and Parff. Hous
 
 ## Line-up
 
+- Gusto (2)
 - Henson
 - Parff
 

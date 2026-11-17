@@ -1,6 +1,6 @@
 # Planet Mambo I Specka Club at Specka
 
-Planet Mambo I Specka Club on Fri 11 Dec, Madrid. 2 artists: Aro Rey and Love Moreno. Electronica. See the line-up on soundcheck.
+Planet Mambo I Specka Club on Fri 11 Dec, Madrid. 3 artists: Aro Rey, GLOB4D and Love Moreno. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Planet Mambo I Specka Club on Fri 11 Dec, Madrid. 2 artists: Aro Rey and Love Mo
 ## Line-up
 
 - Aro Rey
+- GLOB4D
 - Love Moreno
 
 *Source: [soundcheck](https://soundcheck.club/e/2582912-planet-mambo-i-specka-club-at-specka/)*

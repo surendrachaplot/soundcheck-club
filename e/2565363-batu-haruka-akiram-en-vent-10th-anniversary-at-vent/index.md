@@ -1,6 +1,6 @@
 # Batu , Haruka , AKIRAM EN / VENT 10th Anniversary at VENT
 
-Batu , Haruka , AKIRAM EN / VENT 10th Anniversary on Sat 12 Dec, Tokyo. 7 artists: AKIRAM EN, Batu, Bundo and Crazy Neo and 3 more. Techno. See the line-up on soundcheck.
+Batu , Haruka , AKIRAM EN / VENT 10th Anniversary on Sat 12 Dec, Tokyo. 8 artists: AKIRAM EN, Batu, Bundo and Crazy Neo and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Batu , Haruka , AKIRAM EN / VENT 10th Anniversary on Sat 12 Dec, Tokyo. 7 artist
 - Bundo
 - Crazy Neo
 - Haruka
+- Kai Galactic
 - NITA
 - Nova
 

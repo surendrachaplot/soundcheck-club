@@ -1,6 +1,6 @@
 # tech-nas
 
-tech-nas is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at DeTour, Tokyo on Sat, 21 Nov 2026.
+tech-nas is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at DeTour, Tokyo on Sat, 21 Nov 2026.
 
 tech-nas is a techno and house artist based in Japan, with 16 gigs on soundcheck across London and Tokyo. Often billed alongside marimari, Kaori Watt and ultramantra. Next up: DeTour, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ tech-nas is a techno and house artist based in Japan, with 16 gigs on soundcheck
 
 marimari, Kaori Watt, ultramantra
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tech-nas/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tech-nas/)*

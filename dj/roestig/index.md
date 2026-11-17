@@ -1,8 +1,8 @@
 # ROESTIG
 
-ROESTIG is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+ROESTIG is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
-ROESTIG is a club and house artist, with 4 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside AMIRA, Ado and BOg. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
+ROESTIG is a club and house artist based in Belgium, with 4 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside AMIRA, Ado and BOg. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ ROESTIG is a club and house artist, with 4 gigs on soundcheck across Antwerp, Br
 
 AMIRA, Ado, BOg
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roestig/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roestig/)*

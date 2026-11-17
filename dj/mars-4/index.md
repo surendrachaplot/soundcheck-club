@@ -1,14 +1,15 @@
 # MARS (4)
 
-MARS (4) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
+MARS (4) is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
 
-MARS is a techno and breakbeat artist based in United States of America, with 11 gigs on soundcheck across Denver, London and Prague. Often billed alongside AVHD, VISNEACS and 2NDRA. Next up: Ankali & Planeta Za, Prague on Sat 21 Nov.
+MARS is a techno and breakbeat artist based in United States of America, with 12 gigs on soundcheck across Denver, London and Prague. Often billed alongside AVHD, SJ Yellow and Technadze. Next up: Ankali & Planeta Za, Prague on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Ankali & Planeta Za | Prague |
+| Sat, 12 Dec 2026 | Trojský Pivovar | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MARS is a techno and breakbeat artist based in United States of America, with 11
 
 ## Shares bills with
 
-AVHD, VISNEACS, 2NDRA
+AVHD, SJ Yellow, Technadze
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mars-4/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mars-4/)*

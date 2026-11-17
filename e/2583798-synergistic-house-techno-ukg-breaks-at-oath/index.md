@@ -1,6 +1,6 @@
 # SYNERGISTIC -HOUSE, TECHNO, UKG, BREAKS- at Oath
 
-SYNERGISTIC -HOUSE, TECHNO, UKG, BREAKS- at Oath on Tue 17 Nov, Tokyo. 3 artists: AI, Kazuki Sasaki(SYNERGISTIC) and SOGI. Techno and House. See the line-up on soundcheck.
+SYNERGISTIC -HOUSE, TECHNO, UKG, BREAKS- at Oath on Tue 17 Nov, Tokyo. 4 artists: Kazuki Sasaki(SYNERGISTIC), MileZ, S3R4PH and SOGI. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,9 @@ SYNERGISTIC -HOUSE, TECHNO, UKG, BREAKS- at Oath on Tue 17 Nov, Tokyo. 3 artists
 
 ## Line-up
 
-- AI (10)
 - Kazuki Sasaki(SYNERGISTIC)
+- MileZ
+- S3R4PH
 - SOGI
 
 *Source: [soundcheck](https://soundcheck.club/e/2583798-synergistic-house-techno-ukg-breaks-at-oath/)*

@@ -1,6 +1,6 @@
 # Marc Machado
 
-Marc Machado is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
+Marc Machado is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
 
 Marc Machado is a techno and house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside hi beam, Daniel Duese and Zehlendorfer Disco Squad. Next up: Jonny Knüppel, Berlin on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Marc Machado is a techno and house artist based in Germany, with 3 gigs on sound
 
 hi beam, Daniel Duese, Zehlendorfer Disco Squad
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmachado/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmachado/)*

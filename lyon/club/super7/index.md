@@ -1,20 +1,24 @@
 # Super7
 
-Super7 is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Super7: Lieu De Vie Et Club" on Thu, 19 Nov 2026.
+Super7 is a music venue in Lyon with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Crowd Control • RAKLA MATÉ" on Thu, 19 Nov 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line-ups including Aï Smash, Clarence, Crowd Control and KIRARA and 2 more. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Super7: Lieu De Vie Et Club |  |
-| Fri, 20 Nov 2026 | Super7: Lieu De Vie Et Club |  |
-| Sat, 21 Nov 2026 | Super7: Lieu De Vie Et Club |  |
-| Sun, 22 Nov 2026 | Super7: Lieu De Vie Et Club |  |
+| Thu, 19 Nov 2026 | Crowd Control • RAKLA MATÉ | Crowd Control, Rakla Maté (2) |
+| Fri, 20 Nov 2026 | Clarence • KIRARA | Clarence, KIRARA |
+| Sat, 21 Nov 2026 | Kosme & YOUR • NYCO | Kosme, Nyco (FR) |
+| Sun, 22 Nov 2026 | LILY OF THE VALLEY • Sacha Mambo | Sacha Mambo |
+| Thu, 26 Nov 2026 | MASTAÏ • Trepanado | Trepanado |
+| Fri, 27 Nov 2026 | Maelita RELEASE PARTY • TRAVERSE DJ'S | Maelita |
+| Sat, 28 Nov 2026 | Aï Smash • Pedro Bertho | Aï Smash, Pedro Bertho |
+| Sun, 29 Nov 2026 | CHANI • Stakhan | Stakhan |
 
 ## Address
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

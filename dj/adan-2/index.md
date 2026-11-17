@@ -1,6 +1,6 @@
 # ADAN (2)
 
-ADAN (2) is a Afro House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Aaja Basement, London on Fri, 20 Nov 2026.
+ADAN (2) is a Afro House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Aaja Basement, London on Fri, 20 Nov 2026.
 
 ADAN is an afro house and garage artist based in Palestine, with 3 gigs on soundcheck across London. Often billed alongside Dan Alani, Dylan Pasqua and Godsfave. Next up: Aaja Basement, London on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ ADAN is an afro house and garage artist based in Palestine, with 3 gigs on sound
 
 Dan Alani, Dylan Pasqua, Godsfave
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adan-2/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adan-2/)*

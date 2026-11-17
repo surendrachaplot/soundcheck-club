@@ -1,6 +1,6 @@
 # Xmas Krawall All Weekend Long at Helios37
 
-Xmas Krawall All Weekend Long at Helios37 on Fri 18 Dec, Cologne. 3 artists: Rosilicious, two girls one mom and ZAHNATZIN. Trance and Techno. See the line-up on soundcheck.
+Xmas Krawall All Weekend Long at Helios37 on Fri 18 Dec, Cologne. 4 artists: Elyante, Rosilicious, two girls one mom and ZAHNATZIN. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Xmas Krawall All Weekend Long at Helios37 on Fri 18 Dec, Cologne. 3 artists: Ros
 
 ## Line-up
 
+- Elyante
 - Rosilicious
 - two girls one mom
 - ZAHNATZIN

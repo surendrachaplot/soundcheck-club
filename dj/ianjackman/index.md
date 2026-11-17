@@ -1,8 +1,8 @@
 # Ian Jackman
 
-Ian Jackman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Cabaret Berlin, Montreal on Sat, 5 Dec 2026.
+Ian Jackman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Cabaret Berlin, Montreal on Sat, 5 Dec 2026.
 
-Ian Jackman is a house and tech house artist, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside Plastik Patrik, Fawn Big Canoe and Paolo Askia. Next up: Cabaret Berlin, Montreal on Sat 5 Dec.
+Ian Jackman is a house and tech house artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside Plastik Patrik, Fawn Big Canoe and Paolo Askia. Next up: Cabaret Berlin, Montreal on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ian Jackman is a house and tech house artist, with 11 gigs on soundcheck across 
 
 Plastik Patrik, Fawn Big Canoe, Paolo Askia
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianjackman/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianjackman/)*

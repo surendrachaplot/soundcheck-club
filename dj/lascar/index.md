@@ -1,6 +1,6 @@
 # Lascar
 
-Lascar is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 5 Dec 2026.
+Lascar is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 5 Dec 2026.
 
 Lascar is an acid and electro artist based in France, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Taylor Taylor (NL), Ferro and Mission Architect. Next up: Waterhouse Studios, Amsterdam on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Lascar is an acid and electro artist based in France, with 3 gigs on soundcheck 
 
 Taylor Taylor (NL), Ferro, Mission Architect
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lascar/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lascar/)*

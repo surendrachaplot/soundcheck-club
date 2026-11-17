@@ -1,6 +1,6 @@
 # Zeldenrust
 
-Zeldenrust is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
+Zeldenrust is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
 
 Zeldenrust is a house and deep house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam. Often billed alongside Neo (NL), Hannecart and Pablo. Next up: Toekomstmuziek, Amsterdam on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Zeldenrust is a house and deep house artist based in Netherlands, with 19 gigs o
 
 Neo (NL), Hannecart, Pablo (5)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeldenrust/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeldenrust/)*

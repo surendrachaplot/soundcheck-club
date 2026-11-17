@@ -1,6 +1,6 @@
 # ECZODIA
 
-ECZODIA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+ECZODIA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
 ECZODIA is a techno and hardcore artist based in France, with 96 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 41 more. Often billed alongside LESSSS, OMAKS and Jacidorex. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ ECZODIA is a techno and hardcore artist based in France, with 96 gigs on soundch
 
 LESSSS, OMAKS, Jacidorex
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*

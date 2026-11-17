@@ -1,6 +1,6 @@
 # Brian Alt
 
-Brian Alt is a Afro House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Manso Espacio, Barcelona on Fri, 20 Nov 2026.
+Brian Alt is a Afro House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Manso Espacio, Barcelona on Fri, 20 Nov 2026.
 
 Brian Alt is an afro house and funk / soul artist based in Spain, with 4 gigs on soundcheck across Barcelona. Often billed alongside REPE and YULIE. Next up: TBA - Manso Espacio, Barcelona on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Brian Alt is an afro house and funk / soul artist based in Spain, with 4 gigs on
 
 REPE, YULIE
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brianalt/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brianalt/)*

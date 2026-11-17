@@ -1,6 +1,6 @@
 # Sala Upload Barcelona
 
-Sala Upload Barcelona is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Manuelas" on Sat, 21 Nov 2026.
+Sala Upload Barcelona is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Manuelas" on Sat, 21 Nov 2026.
 
 Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Diego Montiel, Enzio Etchaberri and Fabrizio Mammarella. See dates, start times and who's playing. Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona.
 
@@ -16,4 +16,4 @@ Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 3 upco
 
 Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona, Barcelona
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*

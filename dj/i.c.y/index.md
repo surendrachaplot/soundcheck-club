@@ -1,6 +1,6 @@
 # I.C.Y
 
-I.C.Y is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+I.C.Y is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 I.C.Y is a techno and bass artist based in Australia, with 3 gigs on soundcheck across Sydney. Often billed alongside Lopro, Quakes and Autogenesis. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ I.C.Y is a techno and bass artist based in Australia, with 3 gigs on soundcheck 
 
 Lopro, Quakes, Autogenesis
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i.c.y/)*
+*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i.c.y/)*
