@@ -1,6 +1,6 @@
 # Breakfast Club #3 at Dalston Den
 
-Breakfast Club #3 at Dalston Den on Fri 11 Dec, London. 3 artists: Donnie on a Bike, Nou (UK) and Telex. Garage and Dubstep. See the line-up on soundcheck.
+Breakfast Club #3 at Dalston Den on Fri 11 Dec, London. 4 artists: Donnie on a Bike, jude, Nou (UK) and Telex. Garage and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Breakfast Club #3 at Dalston Den on Fri 11 Dec, London. 3 artists: Donnie on a B
 ## Line-up
 
 - Donnie on a Bike
+- jude
 - Nou (UK)
 - Telex
 

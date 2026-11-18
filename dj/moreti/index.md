@@ -1,6 +1,6 @@
 # Møreti
 
-Møreti is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tendance, Prague on Fri, 20 Nov 2026.
+Møreti is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Tendance, Prague on Fri, 20 Nov 2026.
 
 Møreti is a techno and acid artist based in Czech Republic, with 52 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside Vapanda, Eva Porating and Raphael Kosmos. Next up: Tendance, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Møreti is a techno and acid artist based in Czech Republic, with 52 gigs on sou
 
 Vapanda, Eva Porating, Raphael Kosmos
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moreti/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moreti/)*

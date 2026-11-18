@@ -1,6 +1,6 @@
 # Los Cabra
 
-Los Cabra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Los Cabra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Los Cabra is a techno and house artist based in Argentina, with 19 gigs on soundcheck across Barcelona, Berlin and Istanbul. Often billed alongside Borella, Mona Moore and NÚRIA (DE). Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Los Cabra is a techno and house artist based in Argentina, with 19 gigs on sound
 
 Borella, Mona Moore, NÚRIA (DE)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loscabra/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loscabra/)*

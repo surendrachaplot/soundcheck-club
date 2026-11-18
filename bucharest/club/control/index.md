@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Two Wrongs: Actress" on Thu, 19 Nov 2026.
+control is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Two Wrongs: Actress" on Thu, 19 Nov 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including Actress, ALISTARM, ANIN and Benjamin Fröhlich and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -21,4 +21,4 @@ control is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, wit
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

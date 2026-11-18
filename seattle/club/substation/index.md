@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 19 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Social House presents: Julian Fijma" on Wed, 18 Nov 2026.
+Substation is a music venue in Seattle with 19 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Social House presents: Julian Fijma" on Wed, 18 Nov 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 19 upcoming gigs, with line-ups including 1tbsp, Buunshin, Josh Baker and Julian Fijma. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 19 upcoming gigs, w
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

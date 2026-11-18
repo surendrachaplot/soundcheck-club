@@ -1,6 +1,6 @@
 # Terminal Trax
 
-Terminal Trax is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
+Terminal Trax is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
 
 Terminal Trax is a techno and trance artist based in France, with 15 gigs on soundcheck across Montreal, Nantes and Paris. Often billed alongside In-Tan, Alhena_ and VI100. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Terminal Trax is a techno and trance artist based in France, with 15 gigs on sou
 
 In-Tan, Alhena_, VI100
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminaltrax/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminaltrax/)*

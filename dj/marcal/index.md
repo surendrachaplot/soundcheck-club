@@ -1,6 +1,6 @@
 # Marcal
 
-Marcal is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Post Bar, Helsinki on Fri, 4 Dec 2026.
+Marcal is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Post Bar, Helsinki on Fri, 4 Dec 2026.
 
 Marcal is a techno and house artist based in Brazil, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 55 more. Often billed alongside Ignez, Amotik and Efdemin. Next up: Post Bar, Helsinki on Fri 4 Dec.
 
@@ -31,4 +31,4 @@ Marcal is a techno and house artist based in Brazil, with 120 gigs on soundcheck
 
 Ignez, Amotik, Efdemin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

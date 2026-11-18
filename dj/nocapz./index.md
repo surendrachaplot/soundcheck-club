@@ -1,6 +1,6 @@
 # nocapz.
 
-nocapz. is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sun, 3 Jan 2027.
+nocapz. is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sun, 3 Jan 2027.
 
 nocapz. is a house and tech house artist based in Brazil, with 15 gigs on soundcheck across Chicago, Malta, Miami and Naples and 5 more. Often billed alongside Mochakk, Dennis Ferrer and HoneyLuv. Next up: Museu do Amanhã, Rio de Janeiro on Sun 3 Jan.
 
@@ -26,4 +26,4 @@ nocapz. is a house and tech house artist based in Brazil, with 15 gigs on soundc
 
 Mochakk, Dennis Ferrer, HoneyLuv
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*

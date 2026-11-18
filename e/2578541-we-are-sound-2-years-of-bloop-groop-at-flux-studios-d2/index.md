@@ -1,6 +1,6 @@
 # WE ARE SOUND! 2 Years of Bloop Groop at Flux Studios D2
 
-WE ARE SOUND! 2 Years of Bloop Groop at Flux Studios D2 on Fri 20 Nov, Dublin. 3 artists: Greg Oleksevic, Papal State and UWM.. Techno and House. See the line-up on soundcheck.
+WE ARE SOUND! 2 Years of Bloop Groop at Flux Studios D2 on Fri 20 Nov, Dublin. 4 artists: ANALOG, Greg Oleksevic, Papal State and UWM.. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WE ARE SOUND! 2 Years of Bloop Groop at Flux Studios D2 on Fri 20 Nov, Dublin. 3
 
 ## Line-up
 
+- ANALOG (4)
 - Greg Oleksevic
 - Papal State
 - UWM.

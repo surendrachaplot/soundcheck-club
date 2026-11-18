@@ -1,6 +1,6 @@
 # Miss Purple Shampoo
 
-Miss Purple Shampoo is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Supernatural Haus, Miami on Thu, 19 Nov 2026.
+Miss Purple Shampoo is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Supernatural Haus, Miami on Thu, 19 Nov 2026.
 
 Miss Purple Shampoo is a club and techno artist based in United States of America, with 21 gigs on soundcheck across Miami. Often billed alongside SPELL, Zac and DJ SABI. Next up: Supernatural Haus, Miami on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Miss Purple Shampoo is a club and techno artist based in United States of Americ
 
 SPELL, Zac (4), DJ SABI
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misspurpleshampoo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misspurpleshampoo/)*

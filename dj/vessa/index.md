@@ -1,6 +1,6 @@
 # Vessa
 
-Vessa is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Collingwood Basement, Melbourne on Thu, 19 Nov 2026.
+Vessa is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Collingwood Basement, Melbourne on Thu, 19 Nov 2026.
 
 Vessa is a techno and experimental artist based in Australia, with 16 gigs on soundcheck across Melbourne. Often billed alongside Løst Reflexion, Cloudy Ku and Her Waveform. Next up: Collingwood Basement, Melbourne on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Vessa is a techno and experimental artist based in Australia, with 16 gigs on so
 
 Løst Reflexion, Cloudy Ku, Her Waveform
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vessa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vessa/)*

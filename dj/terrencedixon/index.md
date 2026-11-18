@@ -1,6 +1,6 @@
 # Terrence Dixon
 
-Terrence Dixon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Marble Bar, Detroit on Sat, 21 Nov 2026.
+Terrence Dixon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Marble Bar, Detroit on Sat, 21 Nov 2026.
 
 Terrence Dixon is a techno and house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 13 more. Often billed alongside Cody Hammer, DAIYAH and Developer. Next up: Marble Bar, Detroit on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Terrence Dixon is a techno and house artist based in United States of America, w
 
 Cody Hammer, DAIYAH, Developer
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*

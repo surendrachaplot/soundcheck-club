@@ -1,13 +1,13 @@
 # The Domino
 
-The Domino is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "DON BOLLES OF GERMS, 45 GRAVE, WFMU'S "WIRED UP!"" on Sat, 7 Nov 2026.
+The Domino is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Pleasure Savior presents: THANKS FOR NOTHING with Jake Ryan b2b Tokidokihoe" on Wed, 25 Nov 2026.
 
-The Domino is a music venue in New Orleans listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+The Domino is a music venue in New Orleans listed on soundcheck. 1 upcoming gig, with line-ups including Tokidokihoe. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | DON BOLLES OF GERMS, 45 GRAVE, WFMU'S "WIRED UP!" |  |
+| Wed, 25 Nov 2026 | Pleasure Savior presents: THANKS FOR NOTHING with Jake Ryan b2b Tokidokihoe | Tokidokihoe |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-domino/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-domino/)*

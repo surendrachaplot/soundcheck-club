@@ -1,6 +1,6 @@
 # The New Theatre
 
-The New Theatre is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Chris McCormack - The Bones of the Old World (Live A/V Album Premiere)" on Fri, 27 Nov 2026.
+The New Theatre is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Chris McCormack - The Bones of the Old World (Live A/V Album Premiere)" on Fri, 27 Nov 2026.
 
 The New Theatre is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including Fran Hartnett. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The New Theatre is a music venue in Dublin listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Chris McCormack - The Bones of the Old World (Live A/V Album Premiere) | Fran Hartnett |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-new-theatre/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-new-theatre/)*

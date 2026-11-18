@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
+davyboi is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
 
-davyboi is a techno and trance artist based in Germany, with 200 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 47 more. Often billed alongside Mika Heggemann, Cleopard2000 and Trancemaster Krause. Next up: Komplexo Tempo, Sao Paulo on Sat 21 Nov.
+davyboi is a techno and trance artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside Mika Heggemann, Cleopard2000 and Trancemaster Krause. Next up: Komplexo Tempo, Sao Paulo on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ davyboi is a techno and trance artist based in Germany, with 200 gigs on soundch
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Fri, 27 Nov 2026 | Mia Mao | Paris |
 | Fri, 4 Dec 2026 | Academy LA | Los Angeles |
+| Sat, 12 Dec 2026 | Radius | Chicago |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Sat, 1 May 2027 | Komplex Berlin | Berlin |
@@ -30,4 +31,4 @@ davyboi is a techno and trance artist based in Germany, with 200 gigs on soundch
 
 Mika Heggemann, Cleopard2000, Trancemaster Krause
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

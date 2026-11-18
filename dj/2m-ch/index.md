@@ -1,13 +1,14 @@
 # 2M (CH)
 
-2M (CH) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
+2M (CH) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Folklor, Lausanne on Thu, 19 Nov 2026.
 
-2M (CH) is a house and electronica artist based in Switzerland, with 32 gigs on soundcheck across Amsterdam, Brussels, Lausanne and Madrid and 2 more. Often billed alongside Alex Dallas, Chloé Caillet and KAYYAK. Next up: Kino Roland, Zurich on Sat 28 Nov.
+2M (CH) is a house and electronica artist based in Switzerland, with 33 gigs on soundcheck across Amsterdam, Brussels, Lausanne and Madrid and 2 more. Often billed alongside Alex Dallas, Chloé Caillet and KAYYAK. Next up: Folklor, Lausanne on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Folklor | Lausanne |
 | Sat, 28 Nov 2026 | Kino Roland | Zurich |
 
 ## Recently played
@@ -25,4 +26,4 @@
 
 Alex Dallas, Chloé Caillet, KAYYAK
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2m-ch/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2m-ch/)*

@@ -1,14 +1,15 @@
 # Memotech
 
-Memotech is a Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Left Bank, Tbilisi on Sat, 21 Nov 2026.
+Memotech is a Bass and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Left Bank, Tbilisi on Sat, 21 Nov 2026.
 
-Memotech is a bass and deep house artist based in Georgia, with 103 gigs on soundcheck across Cologne, Copenhagen, Istanbul and Tbilisi and 1 more. Often billed alongside Kraumur, Ash Scholem and Gio Shengelia. Next up: Left Bank, Tbilisi on Sat 21 Nov.
+Memotech is a bass and deep house artist based in Georgia, with 104 gigs on soundcheck across Batumi, Cologne, Copenhagen and Istanbul and 2 more. Often billed alongside Kraumur, Ash Scholem and Gio Shengelia. Next up: Left Bank, Tbilisi on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Left Bank | Tbilisi |
+| Sat, 28 Nov 2026 | Kibe | Batumi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Memotech is a bass and deep house artist based in Georgia, with 103 gigs on soun
 
 Kraumur, Ash Scholem, Gio Shengelia
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memotech/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memotech/)*

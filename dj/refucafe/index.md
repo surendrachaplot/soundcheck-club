@@ -1,6 +1,6 @@
 # ReFuCafé
 
-ReFuCafé is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at WOMB, Tokyo on Wed, 18 Nov 2026.
+ReFuCafé is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at WOMB, Tokyo on Wed, 18 Nov 2026.
 
 ReFuCafé is a drum & bass and house artist based in Japan, with 85 gigs on soundcheck across Tokyo. Often billed alongside SN_Yeah, DJ AKi and KEiTA. Next up: WOMB, Tokyo on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ ReFuCafé is a drum & bass and house artist based in Japan, with 85 gigs on soun
 
 SN_Yeah, DJ AKi, KEiTA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/refucafe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/refucafe/)*

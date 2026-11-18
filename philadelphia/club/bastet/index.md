@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Rod Lee, Bass Down Low || Eev Frances, afro.fem" on Fri, 20 Nov 2026.
+Bastet is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rod Lee, Bass Down Low || Eev Frances, afro.fem" on Fri, 20 Nov 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including afro.fem, Andre Power, Ash Lauryn and Big Queso and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -14,10 +14,10 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, w
 | Wed, 25 Nov 2026 | THANKSGIVING EVE with BWC Sounds | DJ Sylo, Joshua Lang |
 | Fri, 27 Nov 2026 | BASTET PRESENTS: Loidis, John Raffaele | John Raffaele, Loidis |
 | Sat, 28 Nov 2026 | THE OTHER SIDE OF SOUND feat. Andre Power & Ash Lauryn | Andre Power, Ash Lauryn, DJ Dommis, KINGSPY |
-| Fri, 11 Dec 2026 | Klasse Wrecks Showcase: Mr. Ho b2b Lucas Lozano, Sweater, Noelani, Bridget B, Jezze B | Bridget B, Luca Lozano, Mr. Ho, Sweater |
+| Fri, 11 Dec 2026 | Subsurface x Transmit: Klasse Wrecks w Mr. Ho b2b Lucas Lozano, Sweater + more | Bridget B, Luca Lozano, Mr. Ho, Noelani, Sweater |
 
 ## Address
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

@@ -1,8 +1,8 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "FJAAK & Hiroko Yamamura presented by Public Works" on Fri, 20 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 18 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "FJAAK & Hiroko Yamamura presented by Public Works" on Fri, 20 Nov 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 upcoming gigs, with line-ups including Alkemiss Erika, Cali Rose, Clancy Hickinbotham and Dangerous Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 18 upcoming gigs, with line-ups including Alkemiss Erika, Cali Rose, Clancy Hickinbotham and Dangerous Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

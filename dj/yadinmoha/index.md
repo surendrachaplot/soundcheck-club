@@ -1,6 +1,6 @@
 # Yadin Moha
 
-Yadin Moha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at RASA, Singapore on Fri, 20 Nov 2026.
+Yadin Moha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at RASA, Singapore on Fri, 20 Nov 2026.
 
 Yadin Moha is a techno and house artist based in Singapore, with 45 gigs on soundcheck across Amsterdam, Bangkok, Hamburg and Hanoi and 6 more. Often billed alongside Nanogram, Guido Balboa and Kugel. Next up: RASA, Singapore on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Yadin Moha is a techno and house artist based in Singapore, with 45 gigs on soun
 
 Nanogram, Guido Balboa, Kugel
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*

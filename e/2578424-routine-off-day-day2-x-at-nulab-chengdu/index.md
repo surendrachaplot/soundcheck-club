@@ -1,6 +1,6 @@
-# Routine Off Day - 固定假期 Day2 X 东秩序 特别版 at Nulab Chengdu
+# Routine Off Day - 固定假期 Day2 X 东秩序：大声武器 at Nulab Chengdu
 
-Routine Off Day - 固定假期 Day2 X 东秩序 特别版 at Nulab Chengdu on Sat 28 Nov, Chengdu. 4 artists: JUGG, Nighttrain2000, PUNX and Taiga. Techno and Bass. See the line-up on soundcheck.
+Routine Off Day - 固定假期 Day2 X 东秩序：大声武器 at Nulab Chengdu on Sat 28 Nov, Chengdu. 4 artists: JUGG, Nighttrain2000, PUNX and Taiga. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

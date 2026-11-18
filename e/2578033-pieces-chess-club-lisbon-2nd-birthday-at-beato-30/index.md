@@ -1,6 +1,6 @@
 # Pieces Chess Club Lisbon 2nd Birthday at Beato 30
 
-Pieces Chess Club Lisbon 2nd Birthday at Beato 30 on Sat 28 Nov, Lisbon. 4 artists: Dj Nulo, Fvbricia, Helviofox and Violet (PT). See the line-up on soundcheck.
+Pieces Chess Club Lisbon 2nd Birthday at Beato 30 on Sat 28 Nov, Lisbon. 6 artists: Dj Nulo, Ellis Ferrere, Fvbricia and Helviofox and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ Pieces Chess Club Lisbon 2nd Birthday at Beato 30 on Sat 28 Nov, Lisbon. 4 artis
 ## Line-up
 
 - Dj Nulo
+- Ellis Ferrere
 - Fvbricia
 - Helviofox
+- Sinnotsin
 - Violet (PT)
 
 *Source: [soundcheck](https://soundcheck.club/e/2578033-pieces-chess-club-lisbon-2nd-birthday-at-beato-30/)*

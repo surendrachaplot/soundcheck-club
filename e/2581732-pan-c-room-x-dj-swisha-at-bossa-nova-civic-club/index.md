@@ -1,6 +1,6 @@
 # PAN!C ROOM X DJ SWISHA at Bossa Nova Civic Club
 
-PAN!C ROOM X DJ SWISHA at Bossa Nova Civic Club on Sat 28 Nov, New York City. 5 artists: DJ SWISHA, duco, NIJEII and WADDLE and 1 more. Techno and Ghetto Tech. See the line-up on soundcheck.
+PAN!C ROOM X DJ SWISHA at Bossa Nova Civic Club on Sat 28 Nov, New York City. 4 artists: DJ SWISHA, NIJEII, WADDLE and y2aura. Techno and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ PAN!C ROOM X DJ SWISHA at Bossa Nova Civic Club on Sat 28 Nov, New York City. 5 
 ## Line-up
 
 - DJ SWISHA
-- duco
 - NIJEII
 - WADDLE
 - y2aura

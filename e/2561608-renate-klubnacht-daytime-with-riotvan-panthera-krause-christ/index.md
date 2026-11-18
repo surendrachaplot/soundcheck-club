@@ -1,6 +1,6 @@
 # Renate Klubnacht & Daytime with Riotvan, Panthera Krause, Christine Benz at Renate
 
-Renate Klubnacht & Daytime with Riotvan, Panthera Krause, Christine Benz on Sat 19 Dec, Berlin. 8 artists: C.K, Christine Benz, Jennifer Touch and Karl Kobs and 4 more. See the line-up on soundcheck.
+Renate Klubnacht & Daytime with Riotvan, Panthera Krause, Christine Benz on Sat 19 Dec, Berlin. 7 artists: Christine Benz, Jennifer Touch, Karl Kobs and Monty DJ and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Renate Klubnacht & Daytime with Riotvan, Panthera Krause, Christine Benz on Sat 
 
 ## Line-up
 
-- C.K
 - Christine Benz
 - Jennifer Touch
 - Karl Kobs

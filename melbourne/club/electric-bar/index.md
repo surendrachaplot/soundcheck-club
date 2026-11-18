@@ -1,6 +1,6 @@
 # ELECTRIC BAR
 
-ELECTRIC BAR is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Sundara Pres. Samantha Loveridge (Innervisions/When Stars Align)" on Sun, 6 Dec 2026.
+ELECTRIC BAR is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sundara Pres. Samantha Loveridge (Innervisions/When Stars Align)" on Sun, 6 Dec 2026.
 
 ELECTRIC BAR is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Samantha Loveridge. See dates, start times and who's playing. 265 Chapel St, Prahran 3181.
 
@@ -14,4 +14,4 @@ ELECTRIC BAR is a music venue in Melbourne listed on soundcheck. 1 upcoming gig,
 
 265 Chapel St, Prahran 3181, Melbourne
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/electric-bar/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/electric-bar/)*

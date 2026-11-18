@@ -1,6 +1,6 @@
 # Marie Malarie
 
-Marie Malarie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kauz, Zurich on Fri, 20 Nov 2026.
+Marie Malarie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kauz, Zurich on Fri, 20 Nov 2026.
 
 Marie Malarie is a house and techno artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Byron Yeates, FAFF and Michelle Manetti. Next up: Kauz, Zurich on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Marie Malarie is a house and techno artist based in United Kingdom, with 141 gig
 
 Byron Yeates, FAFF, Michelle Manetti
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*

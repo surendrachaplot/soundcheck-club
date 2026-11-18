@@ -1,6 +1,6 @@
 # Sophiaaaahjkl;8901
 
-Sophiaaaahjkl;8901 is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Thee Stork Club, San Francisco/Oakland on Thu, 19 Nov 2026.
+Sophiaaaahjkl;8901 is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Thee Stork Club, San Francisco/Oakland on Thu, 19 Nov 2026.
 
 Sophiaaaahjkl;8901 is a breakcore and hardcore artist based in United States of America, with 9 gigs on soundcheck across Los Angeles, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Technopagan, Creep-P and DJ Saratonin. Next up: Thee Stork Club, San Francisco/Oakland on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Sophiaaaahjkl;8901 is a breakcore and hardcore artist based in United States of 
 
 Technopagan, Creep-P, DJ Saratonin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaaaahjkl8901/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaaaahjkl8901/)*

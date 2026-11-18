@@ -1,13 +1,14 @@
 # Nick Boyd
 
-Nick Boyd is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Hot Mass, Pittsburgh on Sat, 21 Nov 2026.
+Nick Boyd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Showtime Lounge, Washington DC on Fri, 20 Nov 2026.
 
-Nick Boyd is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Boston, New York City and Pittsburgh. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: Hot Mass, Pittsburgh on Sat 21 Nov.
+Nick Boyd is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Boston, New York City, Pittsburgh and Washington DC. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: Showtime Lounge, Washington DC on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Showtime Lounge | Washington DC |
 | Sat, 21 Nov 2026 | Hot Mass | Pittsburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nick Boyd is a house and techno artist based in United States of America, with 5
 
 MIRA MIRA, Devoye, EscaFlowne
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*

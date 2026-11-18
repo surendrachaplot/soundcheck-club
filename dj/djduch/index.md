@@ -1,6 +1,6 @@
 # DJ Duch
 
-DJ Duch is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Wesola Immersive, Krakow on Fri, 20 Nov 2026.
+DJ Duch is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Wesola Immersive, Krakow on Fri, 20 Nov 2026.
 
 DJ Duch is a house and electronica artist based in Poland, with 22 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Teskko, DJ POLKOMTEL and naked relaxing. Next up: Wesola Immersive, Krakow on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ DJ Duch is a house and electronica artist based in Poland, with 22 gigs on sound
 
 Teskko, DJ POLKOMTEL, naked relaxing
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduch/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduch/)*

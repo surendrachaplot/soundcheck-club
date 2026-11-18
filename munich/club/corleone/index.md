@@ -1,6 +1,6 @@
 # Corleone
 
-Corleone is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "BamBam Baw/ Kit Curse" on Sat, 21 Nov 2026.
+Corleone is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "BamBam Baw/ Kit Curse" on Sat, 21 Nov 2026.
 
 Corleone is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Sendlinger-Tor-Platz 7, 80336 München.
 
@@ -14,4 +14,4 @@ Corleone is a music venue in Munich listed on soundcheck. 1 upcoming gig. See da
 
 Sendlinger-Tor-Platz 7, 80336 München, Munich
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*

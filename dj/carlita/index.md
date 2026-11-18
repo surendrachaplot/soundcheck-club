@@ -1,6 +1,6 @@
 # Carlita
 
-Carlita is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
+Carlita is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
 Carlita is a house and techno artist based in Turkey, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
@@ -28,4 +28,4 @@ Carlita is a house and techno artist based in Turkey, with 214 gigs on soundchec
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

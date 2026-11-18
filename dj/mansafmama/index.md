@@ -1,14 +1,15 @@
 # Mansaf Mama
 
-Mansaf Mama is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at public records, New York City on Thu, 19 Nov 2026.
+Mansaf Mama is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at public records, New York City on Thu, 19 Nov 2026.
 
-Mansaf Mama is a club and bass artist based in United States of America, with 17 gigs on soundcheck across Detroit, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Nadim Maghzal, ARMANA KHAN and Azure. Next up: public records, New York City on Thu 19 Nov.
+Mansaf Mama is a club and bass artist based in United States of America, with 18 gigs on soundcheck across Detroit, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Nadim Maghzal, ARMANA KHAN and MNSA. Next up: public records, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | public records | New York City |
+| Fri, 4 Dec 2026 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mansaf Mama is a club and bass artist based in United States of America, with 17
 
 ## Shares bills with
 
-Nadim Maghzal, ARMANA KHAN, Azure
+Nadim Maghzal, ARMANA KHAN, MNSA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansafmama/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansafmama/)*

@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SILVER SYNTHETIC" on Fri, 20 Nov 2026.
+Lehmann Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SILVER SYNTHETIC" on Fri, 20 Nov 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs, with line-ups including Blasha & Allatt, DVAID, GIØ and GLIA and 2 more. See dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -8,11 +8,11 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | SILVER SYNTHETIC | DVAID, GIØ (1), GROOVESICK, nordcorreia.mp3 |
+| Fri, 20 Nov 2026 | SILVER SYNTHETIC | DVAID, GIØ (1), GROOVESICK, Nelli, nordcorreia.mp3 |
 | Fri, 18 Dec 2026 | shockwerk x Frenzy *2026 closing* | Blasha & Allatt, GLIA, Tino Machauer, lex_shockwerk |
 
 ## Address
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

@@ -1,6 +1,6 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Vino Disco Thursdays: Tony Jacks & Teeto" on Thu, 19 Nov 2026.
+Vino Disco is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Vino Disco Thursdays: Tony Jacks & Teeto" on Thu, 19 Nov 2026.
 
 Vino Disco is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Akpossoul, Atlas Heir, Don Barbarino and Jean Pascal Groove and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
@@ -20,4 +20,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, w
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

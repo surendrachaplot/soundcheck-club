@@ -1,6 +1,6 @@
 # MONĪ
 
-MONĪ is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
+MONĪ is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 MONĪ is a house and afro house artist based in United States of America, with 16 gigs on soundcheck across San Francisco/Oakland. Often billed alongside IZIK, Vann Essa and ANCARCO. Next up: The Great Northern, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MONĪ is a house and afro house artist based in United States of America, with 1
 
 IZIK, Vann Essa, ANCARCO
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moni/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moni/)*

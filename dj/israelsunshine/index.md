@@ -1,6 +1,6 @@
 # Israel Sunshine
 
-Israel Sunshine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 18 Nov 2026.
+Israel Sunshine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 18 Nov 2026.
 
 Israel Sunshine is a house and techno artist based in Venezuela, with 67 gigs on soundcheck across Miami, Orlando and Tampa Bay. Often billed alongside Leo Del Toro, Puma (US) and Lou Flores. Next up: Do Not Sit On The Furniture, Miami on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ Israel Sunshine is a house and techno artist based in Venezuela, with 67 gigs on
 
 Leo Del Toro, Puma (US), Lou Flores
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/israelsunshine/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/israelsunshine/)*

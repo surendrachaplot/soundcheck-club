@@ -1,6 +1,6 @@
 # K39
 
-K39 is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "WE ARE ONE x BLOODMOON - K39 - 4 Floors - 3 Etagen" on Sat, 21 Nov 2026.
+K39 is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "WE ARE ONE x BLOODMOON - K39 - 4 Floors - 3 Etagen" on Sat, 21 Nov 2026.
 
 K39 is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Chris Wood, DJ Achim Feuervogel, Meat and doppeltes lottchen and 2 more. See dates, start times and who's playing. Kaiserstraße 39, 60329 Frankfurt am Main.
 
@@ -20,4 +20,4 @@ K39 is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with li
 
 Kaiserstraße 39, 60329 Frankfurt am Main, Frankfurt
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*

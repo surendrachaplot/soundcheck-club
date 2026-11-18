@@ -1,6 +1,6 @@
 # LORI (NL)
 
-LORI (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+LORI (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 LORI (NL) is a house and techno artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, Hamburg, London and Rotterdam and 1 more. Often billed alongside Izak Jules, Dennis Quin and MISSLORI. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ LORI (NL) is a house and techno artist based in Netherlands, with 42 gigs on sou
 
 Izak Jules, Dennis Quin, MISSLORI
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lori-nl/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lori-nl/)*

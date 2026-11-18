@@ -1,6 +1,6 @@
 # Jardin Hospice
 
-Jardin Hospice is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Your After Work Is Our Work" on Thu, 19 Nov 2026.
+Jardin Hospice is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Your After Work Is Our Work" on Thu, 19 Nov 2026.
 
 Jardin Hospice is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Fady One and PEZAR. See dates, start times and who's playing. Rue du Grand Hospice 7, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ Jardin Hospice is a music venue in Brussels listed on soundcheck. 2 upcoming gig
 
 Rue du Grand Hospice 7, 1000 Bruxelles, Brussels
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jardin-hospice/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jardin-hospice/)*

@@ -1,6 +1,6 @@
 # EXIT CLUB at EXIT Glasgow
 
-EXIT CLUB at EXIT Glasgow on Sat 12 Dec, Glasgow. 3 artists: Ireen Amnes, Kuba Château and TRSSX. See the line-up on soundcheck.
+EXIT CLUB at EXIT Glasgow on Sat 12 Dec, Glasgow. 3 artists: Ireen Amnes, Kuba Château and TRSSX. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

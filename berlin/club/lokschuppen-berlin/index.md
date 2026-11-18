@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 50 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "GOAT BOX Live" on Wed, 18 Nov 2026.
+Lokschuppen Berlin is a music venue in Berlin with 50 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "GOAT BOX Live" on Wed, 18 Nov 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 50 upcoming gigs, with line-ups including .Cheka, 3LEEZA, 5euroGoldi and Aida Arko and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 50 upcoming gigs, with line-ups including .Cheka, 3LEEZA, 5euroGoldi and YOVA and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 50 upcoming 
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

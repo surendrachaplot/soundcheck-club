@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 26 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "OIL Soundsystem Showcase-Day 1" on Fri, 20 Nov 2026.
+OIL Club is a music venue in Shenzhen with 26 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "OIL Soundsystem Showcase-Day 1" on Fri, 20 Nov 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 26 upcoming gigs, with line-ups including 1OO1O, 33EMYBW, 3ASiC and ADEAD and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -13,7 +13,7 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 26 upcoming gigs, wi
 | Sun, 22 Nov 2026 | HOUSE in da house | TiaNT |
 | Thu, 26 Nov 2026 | Dissolve The Ego Area 55B Vol. 3 |  |
 | Fri, 27 Nov 2026 | System 5周年呈现：Amnesia Scanner+DJ Love | Amnesia Scanner, DJ Love |
-| Fri, 27 Nov 2026 | System 5周年 | Amnesia Scanner |
+| Fri, 27 Nov 2026 | System 5周年 | Amnesia Scanner, Fatalis, Sirens, Sulk |
 | Sat, 28 Nov 2026 | Slave to The Rave: DJ Godfather + L.F.T | DJ Godfather, L.F.T., Sulk, Wittes |
 | Sun, 29 Nov 2026 | 東南亞逼 |  |
 | Fri, 4 Dec 2026 | 油九周年派对 OIL 9 Year Anniversary-Day 1 | 33EMYBW, 3ASiC, Alion, Arthur Yeti, Fengshui, Knopha, Replica.mp3, SPOTLITE, Shanghai Ultra, Sirens, Sulk |
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 26 upcoming gigs, wi
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

@@ -1,6 +1,6 @@
 # Edna Martinez
 
-Edna Martinez is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
+Edna Martinez is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
 
 Edna Martinez is a techno and latin bass artist based in Colombia, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 12 more. Often billed alongside Cheb Runner, ARN4L2 and Ahmed Eid. Next up: Mercado Livre Arena Pacaembu, Sao Paulo on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ Edna Martinez is a techno and latin bass artist based in Colombia, with 36 gigs 
 
 Cheb Runner, ARN4L2, Ahmed Eid
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ednamartinez/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ednamartinez/)*

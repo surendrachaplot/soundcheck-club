@@ -1,8 +1,8 @@
 # Caratastrophe
 
-Caratastrophe is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
+Caratastrophe is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
 
-Caratastrophe is an electronic artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Jhariah, Jake Korolev and DJ Passion Fruit. Next up: Mood Ring, New York City on Thu 19 Nov.
+Caratastrophe is a club and ghetto tech artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Jhariah, ILUVDOMRICH and Jake Korolev. Next up: Mood Ring, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Caratastrophe is an electronic artist based in United States of America, with 5 
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Mood Ring | New York City |
 | Thu, 19 Nov 2026 | Lovejoy’s | New York City |
+| Fri, 4 Dec 2026 | Hart Bar | New York City |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Caratastrophe is an electronic artist based in United States of America, with 5 
 
 ## Shares bills with
 
-Jhariah, Jake Korolev, DJ Passion Fruit
+Jhariah, ILUVDOMRICH, Jake Korolev
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*

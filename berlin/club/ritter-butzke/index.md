@@ -1,8 +1,8 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Worakls" on Fri, 20 Nov 2026.
+Ritter Butzke is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Worakls" on Fri, 20 Nov 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Wann and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Wann and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 21 upcoming gigs,
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

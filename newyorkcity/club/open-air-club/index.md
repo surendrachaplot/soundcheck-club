@@ -1,6 +1,6 @@
 # Open Air Club
 
-Open Air Club is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Chronicels: Henry Neely, Kris Lee, Julian Mikjaniec & more" on Thu, 19 Nov 2026.
+Open Air Club is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Chronicels: Henry Neely, Kris Lee, Julian Mikjaniec & more" on Thu, 19 Nov 2026.
 
 Open Air Club is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Henry Neely, KOZLOW, Kris Lee and Max B and 1 more. See dates, start times and who's playing. 190 Allen Street, 7th Floor.
 
@@ -17,4 +17,4 @@ Open Air Club is a music venue in New York City listed on soundcheck. 4 upcoming
 
 190 Allen Street, 7th Floor, New York City
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/open-air-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/open-air-club/)*

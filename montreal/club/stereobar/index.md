@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Julya Karma - Pinch" on Fri, 20 Nov 2026.
+StereoBar is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Julya Karma - Pinch" on Fri, 20 Nov 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, with line-ups including GNMR, Hilel Lev, Julya Karma and LAMALICE and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -17,4 +17,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, wi
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

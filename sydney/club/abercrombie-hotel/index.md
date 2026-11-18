@@ -1,8 +1,8 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "MONDE SONIQ" on Fri, 20 Nov 2026.
+Abercrombie Hotel is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "MONDE SONIQ" on Fri, 20 Nov 2026.
 
-Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Ali Bilal, Ari Kiko, BASHKKA and Eoin DJ and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
+Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including Ali Bilal, Ari Kiko, BASHKKA and Eoin DJ and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming g
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

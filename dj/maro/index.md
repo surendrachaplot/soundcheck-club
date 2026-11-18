@@ -1,6 +1,6 @@
 # maro
 
-maro is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Loft, Vienna on Fri, 27 Nov 2026.
+maro is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Loft, Vienna on Fri, 27 Nov 2026.
 
 maro is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Melbourne, Seoul and Vienna. Often billed alongside Max Wagner, Kat Ze and GOLDI (AT). Next up: The Loft, Vienna on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ maro is a techno and trance artist based in Germany, with 38 gigs on soundcheck 
 
 Max Wagner, Kat Ze, GOLDI (AT)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maro/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maro/)*

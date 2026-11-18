@@ -1,6 +1,6 @@
 # young oldmann
 
-young oldmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+young oldmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 young oldmann is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Felix Cornelsen, DJ CHICHI and Vio PRG. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ young oldmann is a house and techno artist based in Germany, with 6 gigs on soun
 
 Felix Cornelsen, DJ CHICHI, Vio PRG
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngoldmann/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngoldmann/)*

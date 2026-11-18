@@ -1,6 +1,6 @@
 # Sam Ama
 
-Sam Ama is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
+Sam Ama is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
 
 Sam Ama is a techno and trance artist based in France, with 8 gigs on soundcheck across Berlin and Paris. Often billed alongside Sinesthesia, -OA- and Ad Astra. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Sam Ama is a techno and trance artist based in France, with 8 gigs on soundcheck
 
 Sinesthesia, -OA-, Ad Astra
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samama/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samama/)*

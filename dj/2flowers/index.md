@@ -1,6 +1,6 @@
 # 2flowers
 
-2flowers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - East Van, Vancouver on Thu, 19 Nov 2026.
+2flowers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - East Van, Vancouver on Thu, 19 Nov 2026.
 
 2flowers is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Vancouver. Often billed alongside LVT, DJ Hockey and INNEZZ. Next up: TBA - East Van, Vancouver on Thu 19 Nov.
 
@@ -26,4 +26,4 @@
 
 LVT, DJ Hockey, INNEZZ
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2flowers/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2flowers/)*

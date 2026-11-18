@@ -1,6 +1,6 @@
 # chago_91
 
-chago_91 is a Hardcore and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Osmo x Marusan, Montreal on Sat, 21 Nov 2026.
+chago_91 is a Hardcore and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Osmo x Marusan, Montreal on Sat, 21 Nov 2026.
 
 chago_91 is a hardcore and ghetto tech artist based in Chile, with 5 gigs on soundcheck across Montreal. Often billed alongside Ana Luisa, DJ Syncronizada and Excalibur. Next up: Osmo x Marusan, Montreal on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ chago_91 is a hardcore and ghetto tech artist based in Chile, with 5 gigs on sou
 
 Ana Luisa, DJ Syncronizada, Excalibur
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chago_91/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chago_91/)*

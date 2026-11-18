@@ -1,6 +1,6 @@
 # Riva
 
-Riva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
+Riva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
 
 Riva is a techno and house artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Teecra, D.Dan and DJ TOOL. Next up: The Cause, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Riva is a techno and house artist based in United Kingdom, with 48 gigs on sound
 
 Teecra, D.Dan, DJ TOOL
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riva/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riva/)*

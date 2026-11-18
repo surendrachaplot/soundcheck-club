@@ -1,6 +1,6 @@
 # No Vista: Mike Q, Mike Gip, Daniro, Brick Bandits at Bossa Nova Civic Club
 
-No Vista: Mike Q, Mike Gip, Daniro, Brick Bandits at Bossa Nova Civic Club on Fri 20 Nov, New York City. 2 artists: Daniro and MikeQ. Club. See the line-up on soundcheck.
+No Vista: Mike Q, Mike Gip, Daniro, Brick Bandits at Bossa Nova Civic Club on Fri 20 Nov, New York City. 3 artists: Daniro, Mike Gip and MikeQ. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ No Vista: Mike Q, Mike Gip, Daniro, Brick Bandits at Bossa Nova Civic Club on Fr
 ## Line-up
 
 - Daniro
+- Mike Gip
 - MikeQ
 
 *Source: [soundcheck](https://soundcheck.club/e/2576309-no-vista-mike-q-mike-gip-daniro-brick-bandits-at-bossa-nova/)*

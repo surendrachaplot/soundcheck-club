@@ -1,6 +1,6 @@
 # Azrel
 
-Azrel is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Forestlimit, Tokyo on Wed, 18 Nov 2026.
+Azrel is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Forestlimit, Tokyo on Wed, 18 Nov 2026.
 
 Azrel is a trance and techno artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Kyoto, Leeds and London and 4 more. Often billed alongside abejisama, Lil Farm and Loveblade. Next up: Forestlimit, Tokyo on Wed 18 Nov.
 
@@ -27,4 +27,4 @@ Azrel is a trance and techno artist based in United Kingdom, with 20 gigs on sou
 
 abejisama, Lil Farm, Loveblade
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azrel/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azrel/)*

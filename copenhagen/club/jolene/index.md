@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SYNTHETICA with DJ Algorythm & avoN" on Thu, 19 Nov 2026.
+Jolene is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SYNTHETICA with DJ Algorythm & avoN" on Thu, 19 Nov 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including avoN, C.K, Crisco and Dee Brown and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -18,4 +18,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

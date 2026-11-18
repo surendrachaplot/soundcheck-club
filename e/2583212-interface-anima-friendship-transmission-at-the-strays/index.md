@@ -1,6 +1,6 @@
 # iNTERFACE aNIMA: fRIENDSHIP tRANSMISSION at The Strays
 
-iNTERFACE aNIMA: fRIENDSHIP tRANSMISSION at The Strays on Fri 27 Nov, Detroit. 3 artists: DJ FLP, DJ Girl and fi3nd. Breakbeat and Drum & Bass. See the line-up on soundcheck.
+iNTERFACE aNIMA: fRIENDSHIP tRANSMISSION at The Strays on Fri 27 Nov, Detroit. 4 artists: cdjane3k, DJ FLP, DJ Girl and fi3nd. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ iNTERFACE aNIMA: fRIENDSHIP tRANSMISSION at The Strays on Fri 27 Nov, Detroit. 3
 
 ## Line-up
 
+- cdjane3k
 - DJ FLP
 - DJ Girl
 - fi3nd

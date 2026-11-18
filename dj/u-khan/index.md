@@ -1,14 +1,15 @@
 # U-Khan
 
-U-Khan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tender, Melbourne on Thu, 19 Nov 2026.
+U-Khan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Tender, Melbourne on Thu, 19 Nov 2026.
 
-U-Khan is a techno and house artist based in New Zealand, with 28 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ Stingray 313, Garth Linton and Greer. Next up: Tender, Melbourne on Thu 19 Nov.
+U-Khan is a techno and house artist based in New Zealand, with 29 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ Stingray 313, Garth Linton and Greer. Next up: Tender, Melbourne on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Tender | Melbourne |
+| Sat, 9 Jan 2027 | Abercrombie Hotel | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ U-Khan is a techno and house artist based in New Zealand, with 28 gigs on soundc
 
 DJ Stingray 313, Garth Linton, Greer
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-khan/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-khan/)*

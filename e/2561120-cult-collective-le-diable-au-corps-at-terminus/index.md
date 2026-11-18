@@ -1,6 +1,6 @@
 # Cult Collective & Le Diable Au Corps at Terminus
 
-Cult Collective & Le Diable Au Corps at Terminus on Sat 21 Nov, Paris. 4 artists: COLLISION, Mental, Tazlow and Tekno. Acid and Hardcore. See the line-up on soundcheck.
+Cult Collective & Le Diable Au Corps at Terminus on Sat 21 Nov, Paris. 4 artists: COLLISION, Mental, Tazlow and Tekno. Hardcore and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

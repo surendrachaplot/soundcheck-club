@@ -1,6 +1,6 @@
 # Ireen Amnes
 
-Ireen Amnes is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
+Ireen Amnes is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
 
 Ireen Amnes is a techno and experimental artist, with 78 gigs on soundcheck across Amsterdam, Athens, Berlin and Bologna and 13 more. Often billed alongside Faux Naif, Infinity Division and Chloe Lula. Next up: TBA - Secret Location, Berlin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Ireen Amnes is a techno and experimental artist, with 78 gigs on soundcheck acro
 
 Faux Naif, Infinity Division, Chloe Lula
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*

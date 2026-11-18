@@ -1,6 +1,6 @@
 # The Grey Space In The Middle
 
-The Grey Space In The Middle is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SEXIIMUNDO" on Sat, 5 Dec 2026.
+The Grey Space In The Middle is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SEXIIMUNDO" on Sat, 5 Dec 2026.
 
 The Grey Space In The Middle is a music venue in The Hague listed on soundcheck. 2 upcoming gigs, with line-ups including Ania Utset, Aphøtic, awhlkuhn and GWELD and 2 more. See dates, start times and who's playing. Paviljoensgracht 20, 2512 BP Den Haag, Netherlands.
 
@@ -15,4 +15,4 @@ The Grey Space In The Middle is a music venue in The Hague listed on soundcheck.
 
 Paviljoensgracht 20, 2512 BP Den Haag, Netherlands, The Hague
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/the-grey-space-in-the-middle/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/the-grey-space-in-the-middle/)*

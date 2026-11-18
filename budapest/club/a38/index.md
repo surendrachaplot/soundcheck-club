@@ -1,6 +1,6 @@
 # A38
 
-A38 is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Bad Bunny Party (Budapest)" on Fri, 20 Nov 2026.
+A38 is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Bad Bunny Party (Budapest)" on Fri, 20 Nov 2026.
 
 A38 is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including isu, Kanine, Luigi Tozzi and Mala. See dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
@@ -19,4 +19,4 @@ A38 is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with lin
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

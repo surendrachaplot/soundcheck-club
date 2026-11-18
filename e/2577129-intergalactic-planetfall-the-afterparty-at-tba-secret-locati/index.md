@@ -1,6 +1,6 @@
 # INTERGALACTIC PLANETFALL - THE AFTERPARTY at TBA - Secret Location 
 
-INTERGALACTIC PLANETFALL - THE AFTERPARTY at TBA - Secret Location  on Fri 20 Nov, Tokyo. 4 artists: Anapol, Drinkss, frndj and uuu7. Breakbeat and Techno. See the line-up on soundcheck.
+INTERGALACTIC PLANETFALL - THE AFTERPARTY at TBA - Secret Location  on Fri 20 Nov, Tokyo. 5 artists: Anapol, DJ Drift, Drinkss and frndj and 1 more. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ INTERGALACTIC PLANETFALL - THE AFTERPARTY at TBA - Secret Location  on Fri 20 No
 ## Line-up
 
 - Anapol
+- DJ Drift
 - Drinkss
 - frndj
 - uuu7

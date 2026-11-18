@@ -1,6 +1,6 @@
 # Moodswing Records presents at Starlane Pizza Bar
 
-Moodswing Records presents at Starlane Pizza Bar on Fri 18 Dec, London. 5 artists: DJ Perception, Harry Luda, Jack Mensah and Jeremy Sylvester and 1 more. House and Garage. See the line-up on soundcheck.
+Moodswing Records presents at Starlane Pizza Bar on Fri 18 Dec, London. 6 artists: DJ Perception, Dr. Zoot, Harry Luda and Jack Mensah and 2 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Moodswing Records presents at Starlane Pizza Bar on Fri 18 Dec, London. 5 artist
 ## Line-up
 
 - DJ Perception
+- Dr. Zoot
 - Harry Luda
 - Jack Mensah
 - Jeremy Sylvester

@@ -1,6 +1,6 @@
 # HOT CREATIONS MADRID at Florida Park
 
-HOT CREATIONS MADRID at Florida Park on Sun 13 Dec, Madrid. 6 artists: DLOU, Hector Couto, Lee Foss and Martin Balladares and 2 more. House. See the line-up on soundcheck.
+HOT CREATIONS MADRID at Florida Park on Sun 13 Dec, Madrid. 7 artists: DLOU, Giannattasio, Hector Couto and Lee Foss and 3 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HOT CREATIONS MADRID at Florida Park on Sun 13 Dec, Madrid. 6 artists: DLOU, Hec
 ## Line-up
 
 - DLOU
+- Giannattasio
 - Hector Couto
 - Lee Foss
 - Martin Balladares

@@ -1,6 +1,6 @@
 # BKG Takeover at H0L0
 
-BKG Takeover at H0L0 on Thu 19 Nov, New York City. 3 artists: Diantoro, NICHE and Sangarang. House and Garage. See the line-up on soundcheck.
+BKG Takeover at H0L0 on Thu 19 Nov, New York City. 4 artists: Diantoro, Ladler, NICHE and Sangarang. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ BKG Takeover at H0L0 on Thu 19 Nov, New York City. 3 artists: Diantoro, NICHE an
 ## Line-up
 
 - Diantoro
+- Ladler
 - NICHE (2)
 - Sangarang
 

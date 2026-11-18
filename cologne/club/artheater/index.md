@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SOUND SOUND x Mike Momburg All Night Long with Kara Okay, KIM SWIM, Milion" on Fri, 20 Nov 2026.
+Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SOUND SOUND x Mike Momburg All Night Long with Kara Okay, KIM SWIM, Milion" on Fri, 20 Nov 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, Domenik Deckert and Elisen and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -20,4 +20,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

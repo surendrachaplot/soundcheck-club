@@ -1,6 +1,6 @@
 # Mesken at OXI at OXI
 
-Mesken at OXI on Sat 28 Nov, Berlin. 7 artists: Anaté, barkın, CHUKWU and Mati Amoretti and 3 more. House. See the line-up on soundcheck.
+Mesken at OXI on Sat 28 Nov, Berlin. 8 artists: Anaté, barkın, CHUKWU and Mati Amoretti and 4 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ Mesken at OXI on Sat 28 Nov, Berlin. 7 artists: Anaté, barkın, CHUKWU and Mati
 - Monile
 - oulcan
 - Rakim Under
+- Scalarandis
 
 *Source: [soundcheck](https://soundcheck.club/e/2556889-mesken-at-oxi-at-oxi/)*

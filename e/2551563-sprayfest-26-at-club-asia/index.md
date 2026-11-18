@@ -1,6 +1,6 @@
 # SPRAYFEST '26 at club asia
 
-SPRAYFEST '26 at club asia on Sun 27 Dec, Tokyo. 7 artists: DJ Q, Genick, Jacotanu and kyo and 3 more. Bass and Garage. See the line-up on soundcheck.
+SPRAYFEST '26 at club asia on Sun 27 Dec, Tokyo. 8 artists: DJ Q, Genick, Jacotanu and kyo and 4 more. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ SPRAYFEST '26 at club asia on Sun 27 Dec, Tokyo. 7 artists: DJ Q, Genick, Jacota
 - Jacotanu
 - kyo (3)
 - Nizikawa
+- OBXR.
 - SPRAYBOX
 - That Fancy I
 

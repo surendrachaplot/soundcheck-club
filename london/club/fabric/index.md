@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 31 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "AVAION, Notre Dame, LF SYSTEM, Eats Everything, REMIXIA, Hayley Zalassi + more" on Fri, 20 Nov 2026.
+fabric is a music venue in London with 32 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "AVAION, Notre Dame, LF SYSTEM, Eats Everything, REMIXIA, Hayley Zalassi + more" on Fri, 20 Nov 2026.
 
-fabric is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Adam Clark and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Adam Clark and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
@@ -15,7 +15,7 @@ fabric is a music venue in London listed on soundcheck. 31 upcoming gigs, with l
 | Fri, 27 Nov 2026 | fabric x Sennheiser present ORII: The Lineage Mixtape | AUKA, BIG DRECO, Chedda Bred, D'Monk, DJ Programma, Entek, Neue Grafik, limi |
 | Sat, 28 Nov 2026 | fabric: Palms Trax, Ogazón, Mathew Jonson (Live), Antal, Joe Claussell, DJ Subaru + more | Antal, DJ Subaru, Joe Claussell, Mathew Jonson, Ogazón, Palms Trax, floor length skirts |
 | Sat, 28 Nov 2026 | Groove Odyssey [Daytime] | DJ Murrell, Groove Assassin, Lauren Thompson, Mark Osborne, Natasha Diggs, Ricky Morrison, Ronnie Herel, Sol Brown, Steve (IT) |
-| Sun, 29 Nov 2026 | CAYA by fabric: Drifted Records - Jay Tripwire, Charlie DK, Taye Empo, Holly Why | Holly Why, Jay Tripwire |
+| Sun, 29 Nov 2026 | CAYA by fabric: Drifted Records - Jay Tripwire, Charlie DK, Taye Empo, Holly Why | Charlie DK, Holly Why, Jay Tripwire |
 | Fri, 4 Dec 2026 | FABRICLIVE X DEEP MEDi 20: Mala, Kahn & Neek, Channel One, Dubkasm, Kundarini B2B Breakfake  | Breakfake, Channel One Sound, Dubkasm, Felixculpah, Kahn, Kundarini, Mala, Neek, Sasha Steppa, Sheba Q, Silkie |
 | Sat, 5 Dec 2026 | fabric x 20yrs of Klockworks: Ben Klock B2B Ryan Elliott, Cassy, STERAC B2B ROD, NEUX, BOBBY  | Ben Klock, Benny Rodrigues, Bobby., Cassy, NEUX, ROD, Ryan Elliott, STERAC |
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 31 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

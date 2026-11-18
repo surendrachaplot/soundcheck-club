@@ -1,6 +1,6 @@
 # Blindspot*
 
-Blindspot* is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Signal Temple x AV Nights" on Fri, 20 Nov 2026.
+Blindspot* is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Signal Temple x AV Nights" on Fri, 20 Nov 2026.
 
 Blindspot* is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs, with line-ups including Alienmade, AMEDEUS, Amnesico and ANIN and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
 
@@ -11,7 +11,7 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs,
 | Fri, 20 Nov 2026 | Signal Temple x AV Nights | ANIN, Alienmade, D-Fuze, Drao, Eye Ark, Gheordu, Kundarini, Low Freq |
 | Fri, 27 Nov 2026 | SSS x TDIB with MAX DURANTE, FILTRACK, Árni, NTHR | FILTRACK, MAX DURANTE, NTHR, Árni |
 | Sat, 28 Nov 2026 | TEKNOW | ESCU |
-| Sat, 5 Dec 2026 | ALPHA SPECTRUM: BONUS LEVEL | Dalek, Meiremax, Neotroxian, Project Morpheus |
+| Sat, 5 Dec 2026 | ALPHA SPECTRUM: BONUS LEVEL | Dalek, JÜLLS, Meiremax, Neotroxian, Project Morpheus |
 | Fri, 11 Dec 2026 | Function Z4 |  |
 | Sat, 19 Dec 2026 | SSS & TDIB pres. ART.1.43 |  |
 | Thu, 31 Dec 2026 | TEKNEWYEAR |  |
@@ -23,4 +23,4 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs,
 
 Bulevardul Energeticienilor 13-15, Bucharest
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*

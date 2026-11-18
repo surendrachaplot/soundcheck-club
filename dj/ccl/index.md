@@ -1,8 +1,8 @@
 # CCL
 
-CCL is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tender, Melbourne on Thu, 19 Nov 2026.
+CCL is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Tender, Melbourne on Thu, 19 Nov 2026.
 
-CCL is a techno and house artist based in United States of America, with 235 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 71 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Tender, Melbourne on Thu 19 Nov.
+CCL is a techno and house artist based in United States of America, with 236 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 71 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Tender, Melbourne on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CCL is a techno and house artist based in United States of America, with 235 gig
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Tender | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Sun, 22 Nov 2026 | Miscellania | Melbourne |
 | Fri, 4 Dec 2026 | 24 Kitchen Street | Liverpool |
 | Sun, 6 Dec 2026 | OHM | Berlin |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
@@ -32,4 +33,4 @@ CCL is a techno and house artist based in United States of America, with 235 gig
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
+Shanti Celeste is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
 
-Shanti Celeste is a house and techno artist based in United Kingdom, with 235 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: DSTRKT Club Berlin, Berlin on Fri 27 Nov.
+Shanti Celeste is a house and techno artist based in United Kingdom, with 236 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: DSTRKT Club Berlin, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 235 gi
 | Sat, 5 Dec 2026 | Den Anden Side | Copenhagen |
 | Sat, 12 Dec 2026 | public records | New York City |
 | Thu, 31 Dec 2026 | Phonox | London |
+| Sat, 27 Feb 2027 | fabric | London |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Sun, 28 Mar 2027 | NDSM Docklands | Amsterdam |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
-| Sat, 28 Aug 2027 | Southwark Park | London |
 | Sat, 28 Aug 2027 | Southwark Park | London |
 
 ## Recently played
@@ -36,4 +36,4 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 235 gi
 
 Peach, Saoirse, Ogazón
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

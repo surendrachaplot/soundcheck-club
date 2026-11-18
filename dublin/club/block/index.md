@@ -1,8 +1,8 @@
 # block.
 
-block. is a music venue in Dublin with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Block x Outset: Natte Visstick" on Fri, 20 Nov 2026.
+block. is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Block x Outset: Natte Visstick" on Fri, 20 Nov 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 15 upcoming gigs, with line-ups including Benji King, bernie soundmate, BIIA and Chlär and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including ALPER SKR, Benji King, bernie soundmate and BIIA and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
@@ -23,4 +23,4 @@ block. is a music venue in Dublin listed on soundcheck. 15 upcoming gigs, with l
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

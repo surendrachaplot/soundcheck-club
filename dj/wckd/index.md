@@ -1,6 +1,6 @@
 # WCKD
 
-WCKD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Drip Kuala Lumpur, Kuala Lumpur on Fri, 20 Nov 2026.
+WCKD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Drip Kuala Lumpur, Kuala Lumpur on Fri, 20 Nov 2026.
 
 WCKD is a techno and house artist based in Malaysia, with 17 gigs on soundcheck across Kuala Lumpur. Often billed alongside Jason Voon, Alam and Meliha. Next up: TBA - Drip Kuala Lumpur, Kuala Lumpur on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ WCKD is a techno and house artist based in Malaysia, with 17 gigs on soundcheck 
 
 Jason Voon, Alam, Meliha
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wckd/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wckd/)*

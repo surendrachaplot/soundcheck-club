@@ -1,14 +1,15 @@
 # Cabin Luv Affair
 
-Cabin Luv Affair is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Malasaña, Madrid on Thu, 19 Nov 2026.
+Cabin Luv Affair is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Malasaña, Madrid on Thu, 19 Nov 2026.
 
-Cabin Luv Affair is a house and electronica artist based in Spain, with 15 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Jay Luna, BIHABI and CINCOCEROSEIS. Next up: Club Malasaña, Madrid on Thu 19 Nov.
+Cabin Luv Affair is a house and electronica artist based in Spain, with 16 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Jay Luna, BIHABI and CINCOCEROSEIS. Next up: Club Malasaña, Madrid on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Club Malasaña | Madrid |
+| Sat, 21 Nov 2026 | berlinClub | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cabin Luv Affair is a house and electronica artist based in Spain, with 15 gigs 
 
 Jay Luna, BIHABI, CINCOCEROSEIS
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabinluvaffair/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabinluvaffair/)*

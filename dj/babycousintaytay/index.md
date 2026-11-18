@@ -1,6 +1,6 @@
 # BABY COUSIN TAY TAY
 
-BABY COUSIN TAY TAY is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sly Grog Lounge, North-carolina on Fri, 20 Nov 2026.
+BABY COUSIN TAY TAY is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sly Grog Lounge, North-carolina on Fri, 20 Nov 2026.
 
 BABY COUSIN TAY TAY is an experimental and club artist based in United States of America, with 6 gigs on soundcheck across Charlotte and North Carolina. Often billed alongside DJ Extraa, Aumnï and Simon SMTHNG. Next up: Sly Grog Lounge, North Carolina on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ BABY COUSIN TAY TAY is an experimental and club artist based in United States of
 
 DJ Extraa, Aumnï, Simon SMTHNG
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babycousintaytay/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babycousintaytay/)*

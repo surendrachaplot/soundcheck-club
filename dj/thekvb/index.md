@@ -1,6 +1,6 @@
 # The KVB
 
-The KVB is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Zappa Barka Ušće bb, Belgrade on Thu, 10 Dec 2026.
+The KVB is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Zappa Barka Ušće bb, Belgrade on Thu, 10 Dec 2026.
 
 The KVB is a post-punk and electronica artist, with 6 gigs on soundcheck across Amsterdam, Belgrade, Liverpool and Milan and 1 more. Often billed alongside Afra, Alienata and British Murder Boys. Next up: Zappa Barka Ušće bb, Belgrade on Thu 10 Dec.
 
@@ -22,4 +22,4 @@ The KVB is a post-punk and electronica artist, with 6 gigs on soundcheck across 
 
 Afra, Alienata, British Murder Boys
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thekvb/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thekvb/)*

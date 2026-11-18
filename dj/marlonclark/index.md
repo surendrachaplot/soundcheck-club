@@ -1,13 +1,14 @@
 # Marlon Clark
 
-Marlon Clark is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Great Fulford, West-wales on Thu, 22 Jul 2027.
+Marlon Clark is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
 
-Marlon Clark is a minimal and minimal techno artist based in United Kingdom, with 12 gigs on soundcheck across Brussels, Copenhagen, Glasgow and Krakow and 6 more. Often billed alongside Dr Banana, Jake Hodgkinson and Amaliah. Next up: Great Fulford, West Wales on Thu 22 Jul.
+Marlon Clark is a minimal and minimal techno artist based in United Kingdom, with 13 gigs on soundcheck across Brussels, Copenhagen, Glasgow and Krakow and 6 more. Often billed alongside Dr Banana, Jake Hodgkinson and Real Deal. Next up: Secret Location, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Secret Location | London |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
@@ -23,6 +24,6 @@ Marlon Clark is a minimal and minimal techno artist based in United Kingdom, wit
 
 ## Shares bills with
 
-Dr Banana, Jake Hodgkinson, Amaliah
+Dr Banana, Jake Hodgkinson, Real Deal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*

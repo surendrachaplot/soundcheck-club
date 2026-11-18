@@ -1,6 +1,6 @@
 # Fembot
 
-Fembot is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bike Jesus, Prague on Sat, 21 Nov 2026.
+Fembot is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bike Jesus, Prague on Sat, 21 Nov 2026.
 
 Fembot is a techno and house artist based in Poland, with 65 gigs on soundcheck across Los Angeles and Prague. Often billed alongside Big Lil, Kaotic and Misha Jaru. Next up: Bike Jesus, Prague on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Fembot is a techno and house artist based in Poland, with 65 gigs on soundcheck 
 
 Big Lil, Kaotic, Misha Jaru
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fembot/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fembot/)*

@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Veneno Club presents Entrañas" on Fri, 20 Nov 2026.
+Cafeteria is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Veneno Club presents Entrañas" on Fri, 20 Nov 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Ana Luisa and Blkvirgo and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -19,4 +19,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, wit
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

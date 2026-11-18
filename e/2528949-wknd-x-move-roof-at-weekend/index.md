@@ -1,6 +1,6 @@
 # WKND X MOVE ROOF at Weekend
 
-WKND X MOVE ROOF at Weekend on Fri 20 Nov, Berlin. 3 artists: Anna Belove, Misha Svirid and Phonique. Techno and House. See the line-up on soundcheck.
+WKND X MOVE ROOF at Weekend on Fri 20 Nov, Berlin. 4 artists: Anna Belove, Easy Lizzy, Misha Svirid and Phonique. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ WKND X MOVE ROOF at Weekend on Fri 20 Nov, Berlin. 3 artists: Anna Belove, Misha
 ## Line-up
 
 - Anna Belove
+- Easy Lizzy
 - Misha Svirid
 - Phonique
 

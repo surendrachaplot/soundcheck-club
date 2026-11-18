@@ -1,14 +1,15 @@
 # Arlanoa
 
-Arlanoa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
+Arlanoa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
 
-Arlanoa is a techno and house artist based in France, with 39 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hamburg and 6 more. Often billed alongside DJ Bienveillance, Eclectic Elektra and Julie Desire. Next up: AMT, Berlin on Sat 21 Nov.
+Arlanoa is a techno and house artist based in France, with 40 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hamburg and 6 more. Often billed alongside DJ Bienveillance, Eclectic Elektra and Julie Desire. Next up: AMT, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | AMT | Berlin |
+| Sat, 12 Dec 2026 | Chausseestrasse 131 | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Arlanoa is a techno and house artist based in France, with 39 gigs on soundcheck
 
 DJ Bienveillance, Eclectic Elektra, Julie Desire
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlanoa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlanoa/)*

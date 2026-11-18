@@ -1,6 +1,6 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Cotton Club (Lleida), East on Fri, 20 Nov 2026.
+Maadraassoo is a Pop and Electro artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Cotton Club (Lleida), East on Fri, 20 Nov 2026.
 
 Maadraassoo is a pop and electro artist based in Spain, with 228 gigs on soundcheck across Barcelona, East, Madrid and Mallorca and 1 more. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: TBA - Cotton Club (Lleida), East on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ Maadraassoo is a pop and electro artist based in Spain, with 228 gigs on soundch
 
 !!! (Chk Chk Chk), Baldman, Chica Acosta
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*

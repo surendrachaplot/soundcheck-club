@@ -1,8 +1,8 @@
 # Inigo Kennedy
 
-Inigo Kennedy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Lanna Club, North on Sat, 28 Nov 2026.
+Inigo Kennedy is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lanna Club, North on Sat, 28 Nov 2026.
 
-Inigo Kennedy is a techno and acid artist based in United Kingdom, with 14 gigs on soundcheck across Barcelona, Detroit, London and Madrid and 4 more. Often billed alongside Tensal, 30drop and A DJ Named SNE. Next up: Lanna Club, North on Sat 28 Nov.
+Inigo Kennedy is a techno and acid artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, Detroit, Latvia and London and 5 more. Often billed alongside Tensal, 30drop and A DJ Named SNE. Next up: Lanna Club, North on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Inigo Kennedy is a techno and acid artist based in United Kingdom, with 14 gigs 
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Lanna Club | North |
 | Sat, 19 Dec 2026 | Mia Mao | Paris |
+| Sat, 3 Jul 2027 | TBA - Liepājas Metalurgs | Latvia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Inigo Kennedy is a techno and acid artist based in United Kingdom, with 14 gigs 
 
 Tensal, 30drop, A DJ Named SNE
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inigokennedy/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inigokennedy/)*

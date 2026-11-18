@@ -1,6 +1,6 @@
 # Avgustin
 
-Avgustin is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mesmeric Sofia, Sofia on Thu, 31 Dec 2026.
+Avgustin is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Mesmeric Sofia, Sofia on Thu, 31 Dec 2026.
 
 Avgustin is a minimal techno and house artist, with 7 gigs on soundcheck across Berlin, Sofia and Toulouse. Often billed alongside Eufórico, Adriana and Charlie. Next up: Mesmeric Sofia, Sofia on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Avgustin is a minimal techno and house artist, with 7 gigs on soundcheck across 
 
 Eufórico, Adriana (3), Charlie
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avgustin-bg/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avgustin-bg/)*

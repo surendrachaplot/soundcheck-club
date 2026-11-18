@@ -1,6 +1,6 @@
 # Milla More
 
-Milla More is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
+Milla More is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
 
 Milla More is a house and acid artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Alexander Koning, Divine and Funkerman. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
 
@@ -15,4 +15,4 @@ Milla More is a house and acid artist based in Netherlands, with 2 gigs on sound
 
 Alexander Koning, Divine, Funkerman
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millamore/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millamore/)*

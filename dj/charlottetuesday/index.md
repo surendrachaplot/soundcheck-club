@@ -1,6 +1,6 @@
 # Charlotte Tuesday
 
-Charlotte Tuesday is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Oran Mor, Glasgow on Wed, 18 Nov 2026.
+Charlotte Tuesday is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Oran Mor, Glasgow on Wed, 18 Nov 2026.
 
 Charlotte Tuesday is a disco and house artist based in United Kingdom, with 32 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Porto. Often billed alongside David Barbarossa, OOFT and Temple Sniper. Next up: Oran Mor, Glasgow on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Charlotte Tuesday is a disco and house artist based in United Kingdom, with 32 g
 
 David Barbarossa, OOFT, Temple Sniper
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottetuesday/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottetuesday/)*

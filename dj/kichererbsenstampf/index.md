@@ -1,6 +1,6 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Amp, Münster on Sat, 28 Nov 2026.
+kichererbsenstampf is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Amp, Münster on Sat, 28 Nov 2026.
 
 kichererbsenstampf is a trance and techno artist based in Germany, with 55 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 6 more. Often billed alongside VLUNA, Sabu! and CARGO (DE). Next up: Amp, Münster on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ kichererbsenstampf is a trance and techno artist based in Germany, with 55 gigs 
 
 VLUNA, Sabu!, CARGO (DE)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*

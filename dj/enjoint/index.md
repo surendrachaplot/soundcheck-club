@@ -1,13 +1,14 @@
 # Enjoint
 
-Enjoint is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Oddity Club, Athens on Sat, 19 Dec 2026.
+Enjoint is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Host, Thessaloniki on Fri, 27 Nov 2026.
 
-Enjoint is a techno and trance artist based in Greece, with 15 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Clowl, MAXImum and Decø. Next up: Oddity Club, Athens on Sat 19 Dec.
+Enjoint is a techno and trance artist based in Greece, with 16 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Clowl, Decø and MAXImum. Next up: The Host, Thessaloniki on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | The Host | Thessaloniki |
 | Sat, 19 Dec 2026 | Oddity Club | Athens |
 
 ## Recently played
@@ -23,6 +24,6 @@ Enjoint is a techno and trance artist based in Greece, with 15 gigs on soundchec
 
 ## Shares bills with
 
-Clowl, MAXImum, Decø
+Clowl, Decø, MAXImum
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enjoint/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enjoint/)*

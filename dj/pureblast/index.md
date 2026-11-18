@@ -1,6 +1,6 @@
 # Pureblast
 
-Pureblast is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Le Trabendo, Paris on Fri, 4 Dec 2026.
+Pureblast is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Trabendo, Paris on Fri, 4 Dec 2026.
 
 Pureblast is a techno and trance artist based in France, with 48 gigs on soundcheck across Berlin, Bordeaux, Brisbane and Brussels and 19 more. Often billed alongside Audrey Danza, Olympe4000 and VEL (MA). Next up: Le Trabendo, Paris on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Pureblast is a techno and trance artist based in France, with 48 gigs on soundch
 
 Audrey Danza, Olympe4000, VEL (MA)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*

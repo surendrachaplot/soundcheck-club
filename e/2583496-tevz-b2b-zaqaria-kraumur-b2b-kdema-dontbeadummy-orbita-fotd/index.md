@@ -1,6 +1,6 @@
 # tevz B2B Zaqaria • Kraumur B2B Kdema • Dontbeadummy • ORBITA • FOTD at Mtkvarze
 
-tevz B2B Zaqaria • Kraumur B2B Kdema • Dontbeadummy • ORBITA • FOTD at Mtkvarze on Fri 20 Nov, Tbilisi. 2 artists: Kraumur and ORBITA. See the line-up on soundcheck.
+tevz B2B Zaqaria • Kraumur B2B Kdema • Dontbeadummy • ORBITA • FOTD at Mtkvarze on Fri 20 Nov, Tbilisi. 3 artists: FOTD, Kraumur and ORBITA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ tevz B2B Zaqaria • Kraumur B2B Kdema • Dontbeadummy • ORBITA • FOTD at M
 
 ## Line-up
 
+- FOTD
 - Kraumur
 - ORBITA
 

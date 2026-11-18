@@ -1,6 +1,6 @@
 # Segment
 
-Segment is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Golden Gate, Berlin on Sat, 28 Nov 2026.
+Segment is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Golden Gate, Berlin on Sat, 28 Nov 2026.
 
 Segment is a techno and club artist based in Czech Republic, with 22 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside LickMySoul, Marie Pravda and Høll. Next up: Golden Gate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Segment is a techno and club artist based in Czech Republic, with 22 gigs on sou
 
 LickMySoul, Marie Pravda, Høll
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/segment/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/segment/)*

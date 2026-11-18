@@ -1,13 +1,14 @@
 # Justfin
 
-Justfin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Justfin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Comeout Rider Station, Chongqing on Fri, 20 Nov 2026.
 
-Justfin is a techno and house artist based in United Kingdom, with 26 gigs on soundcheck across Bangkok, Berlin, Chongqing and Hanoi and 3 more. Often billed alongside EeechooO, Sacre and Stelios Vassiloudis. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Justfin is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Bangkok, Berlin, Chongqing and Hanoi and 3 more. Often billed alongside EeechooO, Sacre and Stelios Vassiloudis. Next up: Comeout Rider Station, Chongqing on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Comeout Rider Station | Chongqing |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -25,4 +26,4 @@ Justfin is a techno and house artist based in United Kingdom, with 26 gigs on so
 
 EeechooO, Sacre, Stelios Vassiloudis
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*

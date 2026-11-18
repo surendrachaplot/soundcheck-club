@@ -1,6 +1,6 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
+Prismode is a Techno and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
 
 Prismode is a techno and progressive house artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Jaeger, Oslo on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Prismode is a techno and progressive house artist based in Germany, with 124 gig
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

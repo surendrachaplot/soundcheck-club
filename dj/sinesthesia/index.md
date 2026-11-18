@@ -1,6 +1,6 @@
 # Sinesthesia
 
-Sinesthesia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
+Sinesthesia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
 
 Sinesthesia is a techno and house artist based in France, with 18 gigs on soundcheck across Berlin, Nantes and Paris. Often billed alongside Iman Janes, Bailey Ibbs and Ian Maur. Next up: ÆDEN, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Sinesthesia is a techno and house artist based in France, with 18 gigs on soundc
 
 Iman Janes, Bailey Ibbs, Ian Maur
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*

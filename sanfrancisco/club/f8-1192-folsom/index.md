@@ -1,14 +1,13 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Interzone - 6 Year Anniversary" on Tue, 17 Nov 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Strut SF and F8 present Jenö & Markie" on Wed, 18 Nov 2026.
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 17 upcoming gigs, with line-ups including Aleki, ALEX GOODCAT, Ardalan and at-at and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 18 upcoming gigs, with line-ups including Aleki, ALEX GOODCAT, Ardalan and at-at and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | Interzone - 6 Year Anniversary | Byter, Hex Embrace, Hopelesss |
 | Wed, 18 Nov 2026 | Strut SF and F8 present Jenö & Markie | Emilio Orlandi, Jeno, Markie |
 | Thu, 19 Nov 2026 | Wayward | Yaz |
 | Thu, 19 Nov 2026 | Causmic Creative presents Cannabass |  |
@@ -18,9 +17,10 @@ F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | Wed, 25 Nov 2026 | Strut SF and F8 present Thanksgiving Eve Feat. Ardalan | Ardalan, Franky Boissy |
 | Thu, 26 Nov 2026 | Strut SF and F8 present Thanksgiving Eve Feat. Ardalan | Ardalan |
 | Thu, 26 Nov 2026 | Teego presents The Annual Thanksgiving Night Party | ALEX GOODCAT, HIDRA, Mode Leeloo |
+| Sat, 28 Nov 2026 | program audio: Carlos Souffront | Carlos Souffront, Moonpie, Oso Feo, The Baptist, dj kelleyjane, lilia, sfcowboy |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

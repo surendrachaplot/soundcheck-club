@@ -1,6 +1,6 @@
 # KLOE
 
-KLOE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
+KLOE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
 
 KLOE is a techno and minimal techno artist based in Spain, with 34 gigs on soundcheck across Berlin, Ibiza and Madrid. Often billed alongside FORTUNATA, KITAE and Lexmax. Next up: ÆDEN, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ KLOE is a techno and minimal techno artist based in Spain, with 34 gigs on sound
 
 FORTUNATA, KITAE, Lexmax
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloe/)*

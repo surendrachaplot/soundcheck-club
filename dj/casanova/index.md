@@ -1,6 +1,6 @@
 # Casa Nova
 
-Casa Nova is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Flash, Washington DC on Fri, 20 Nov 2026.
+Casa Nova is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Flash, Washington DC on Fri, 20 Nov 2026.
 
 Casa Nova is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Barcelona, Nashville and Richmond and 1 more. Often billed alongside MAXIMILIANO (US), Candywax and Room 12. Next up: Flash, Washington DC on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Casa Nova is a house and techno artist based in United States of America, with 3
 
 MAXIMILIANO (US), Candywax, Room 12
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casanova/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casanova/)*

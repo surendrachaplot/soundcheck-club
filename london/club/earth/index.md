@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "EartH presents Gigi Masin" on Wed, 18 Nov 2026.
+EartH is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "EartH presents Gigi Masin" on Wed, 18 Nov 2026.
 
 EartH is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and Buttechno and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -23,4 +23,4 @@ EartH is a music venue in London listed on soundcheck. 12 upcoming gigs, with li
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

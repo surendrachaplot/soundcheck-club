@@ -1,8 +1,8 @@
 # Aaja Basement
 
-Aaja Basement is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Knees Up Collective: Gaza Soup Kitchen Fundraiser" on Fri, 20 Nov 2026.
+Aaja Basement is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Knees Up Collective: Gaza Soup Kitchen Fundraiser" on Fri, 20 Nov 2026.
 
-Aaja Basement is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ADAN, AMAR (UK), DELARA and Drinks On Me and 2 more. See dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
+Aaja Basement is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including ADAN, AMAR (UK), DELARA and Drinks On Me and 2 more. See dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Aaja Basement is a music venue in London listed on soundcheck. 5 upcoming gigs, 
 | Fri, 4 Dec 2026 | Corefusion X This Thing Of Ours - MERRY CORE-MAS |  |
 | Sat, 5 Dec 2026 | The Healing Process 013: Plus One | Drinks On Me, SHIFT K3Y, Stresshead |
 | Fri, 11 Dec 2026 | sWARM signals x MID WEEK SESSION presents HYPHAE | AMAR (UK), DELARA, GOIA AMO, Jordan K Joseph, Juan San Lucas, Love Sensation, Modlar, PAVEL__, Yazmin (UK), metrologic |
+| Sat, 12 Dec 2026 | FOURCAST PRESENTS : UK LAUNCH PARTY | Van Wilkins, fae (UK) |
 
 ## Address
 
 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*

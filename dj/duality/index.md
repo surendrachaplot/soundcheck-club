@@ -1,6 +1,6 @@
 # Duality
 
-Duality is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 27 Nov 2026.
+Duality is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 27 Nov 2026.
 
 Duality is a techno and house artist based in Philippines, with 71 gigs on soundcheck across Bangkok, Berlin, Bristol and Geneva and 10 more. Often billed alongside Versailles, SIGNAL (JP) and baby ikea. Next up: The Ground at Club Space, Miami on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Duality is a techno and house artist based in Philippines, with 71 gigs on sound
 
 Versailles, SIGNAL (JP), baby ikea
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*

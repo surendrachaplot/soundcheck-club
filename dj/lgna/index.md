@@ -1,6 +1,6 @@
 # LGNA
 
-LGNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 4 Dec 2026.
+LGNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 4 Dec 2026.
 
 LGNA is a techno and house artist based in Brazil, with 10 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside ilse dorine, Christoph Cham and VITTAO. Next up: Toekomstmuziek, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ LGNA is a techno and house artist based in Brazil, with 10 gigs on soundcheck ac
 
 ilse dorine, Christoph Cham, VITTAO
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lgna/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lgna/)*

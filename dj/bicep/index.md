@@ -1,6 +1,6 @@
 # Bicep
 
-Bicep is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Bicep is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Bicep is a house and techno artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austria and 45 more. Often billed alongside Peggy Gou, TSHA and salute. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -33,4 +33,4 @@ Bicep is a house and techno artist based in United Kingdom, with 87 gigs on soun
 
 Peggy Gou, TSHA, salute
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*

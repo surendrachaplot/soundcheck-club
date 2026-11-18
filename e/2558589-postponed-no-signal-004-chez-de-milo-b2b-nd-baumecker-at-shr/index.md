@@ -1,0 +1,18 @@
+# POSTPONED - NO SIGNAL 004 - CHEZ DE MILO B2B ND_BAUMECKER - at Shredenhams
+
+POSTPONED - NO SIGNAL 004 - CHEZ DE MILO B2B ND_BAUMECKER - at Shredenhams on Fri 20 Nov, Bristol. 4 artists: Chez de Milo, Fiddlestix, JOSPH HTZ and nd_baumecker. House and Electronica. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 20 Nov 2026 |
+| Venue | Shredenhams |
+| City | Bristol |
+
+## Line-up
+
+- Chez de Milo
+- Fiddlestix
+- JOSPH HTZ
+- nd_baumecker
+
+*Source: [soundcheck](https://soundcheck.club/e/2558589-postponed-no-signal-004-chez-de-milo-b2b-nd-baumecker-at-shr/)*

@@ -1,6 +1,6 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+UFO95 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 UFO95 is a techno and house artist based in France, with 198 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 71 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ UFO95 is a techno and house artist based in France, with 198 gigs on soundcheck 
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

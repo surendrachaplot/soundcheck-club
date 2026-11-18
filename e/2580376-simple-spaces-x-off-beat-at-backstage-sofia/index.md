@@ -1,6 +1,6 @@
 # Simple Spaces x OFF BEAT at Backstage Sofia
 
-Simple Spaces x OFF BEAT at Backstage Sofia on Sat 21 Nov, Sofia. 2 artists: velibor and Xander.404. Techno and House. See the line-up on soundcheck.
+Simple Spaces x OFF BEAT at Backstage Sofia on Sat 21 Nov, Sofia. 3 artists: Frattle, velibor and Xander.404. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Simple Spaces x OFF BEAT at Backstage Sofia on Sat 21 Nov, Sofia. 2 artists: vel
 
 ## Line-up
 
+- Frattle
 - velibor
 - Xander.404
 

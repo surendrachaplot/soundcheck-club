@@ -1,6 +1,6 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Max Dean B2B Luke Dean (UK) - Sydney" on Sat, 21 Nov 2026.
+The Ivy is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Max Dean B2B Luke Dean (UK) - Sydney" on Sat, 21 Nov 2026.
 
 The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including Anetha, Bari, Benwal and Casual P and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
@@ -21,4 +21,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with l
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

@@ -1,6 +1,6 @@
 # Ams (FR)
 
-Ams (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 12 x 12, Bangkok on Sat, 21 Nov 2026.
+Ams (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 12 x 12, Bangkok on Sat, 21 Nov 2026.
 
 Ams (FR) is a house and techno artist based in France, with 62 gigs on soundcheck across Bangkok, Barcelona, Berlin and Florence and 11 more. Often billed alongside Camille Doe, GOGO GREEN and Lefblom. Next up: 12 x 12, Bangkok on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ams (FR) is a house and techno artist based in France, with 62 gigs on soundchec
 
 Camille Doe, GOGO GREEN, Lefblom
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amsfr/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amsfr/)*

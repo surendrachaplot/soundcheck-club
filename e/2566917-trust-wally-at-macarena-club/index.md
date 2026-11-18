@@ -1,6 +1,6 @@
 # Trust Wally at Macarena Club
 
-Trust Wally at Macarena Club on Fri 20 Nov, Barcelona. 2 artists: Wally Lopez and WOBERMAD. See the line-up on soundcheck.
+Trust Wally at Macarena Club on Fri 20 Nov, Barcelona. 3 artists: HAMPTOM, Wally Lopez and WOBERMAD. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Trust Wally at Macarena Club on Fri 20 Nov, Barcelona. 2 artists: Wally Lopez an
 
 ## Line-up
 
+- HAMPTOM
 - Wally Lopez
 - WOBERMAD
 

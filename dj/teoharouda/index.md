@@ -1,13 +1,14 @@
 # Teo Harouda
 
-Teo Harouda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Depo Klub, Zagreb on Sat, 5 Dec 2026.
+Teo Harouda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depo Klub, Zagreb on Fri, 20 Nov 2026.
 
-Teo Harouda is a techno and house artist based in Croatia, with 93 gigs on soundcheck across Amsterdam, Bratislava, Ibiza and London and 1 more. Often billed alongside Teychee, Fabian Jakopetz and Pavle Phial. Next up: Depo Klub, Zagreb on Sat 5 Dec.
+Teo Harouda is a techno and house artist based in Croatia, with 94 gigs on soundcheck across Amsterdam, Bratislava, Ibiza and London and 1 more. Often billed alongside Teychee, Fabian Jakopetz and Pavle Phial. Next up: Depo Klub, Zagreb on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Depo Klub | Zagreb |
 | Sat, 5 Dec 2026 | Depo Klub | Zagreb |
 
 ## Recently played
@@ -25,4 +26,4 @@ Teo Harouda is a techno and house artist based in Croatia, with 93 gigs on sound
 
 Teychee, Fabian Jakopetz, Pavle Phial
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teoharouda/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teoharouda/)*

@@ -1,6 +1,6 @@
 # Harris & FORD pres by LOONYLAND at Bootshaus
 
-Harris & FORD pres by LOONYLAND at Bootshaus on Fri 22 Jan, Cologne. 1 artist: Harris. See the line-up on soundcheck.
+Harris & FORD pres by LOONYLAND at Bootshaus on Fri 22 Jan, Cologne. 1 artist: Harris. EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

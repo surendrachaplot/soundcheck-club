@@ -1,13 +1,14 @@
 # Emily Jeanne
 
-Emily Jeanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Unmute, Hanoi on Sat, 28 Nov 2026.
+Emily Jeanne is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Wigwam, Shanghai on Sat, 21 Nov 2026.
 
-Emily Jeanne is a techno and house artist based in Belgium, with 113 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Carrier, DjRUM and upsammy. Next up: Unmute, Hanoi on Sat 28 Nov.
+Emily Jeanne is a techno and house artist based in Belgium, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Carrier, DjRUM and upsammy. Next up: Wigwam, Shanghai on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Wigwam | Shanghai |
 | Sat, 28 Nov 2026 | Unmute | Hanoi |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
@@ -26,4 +27,4 @@ Emily Jeanne is a techno and house artist based in Belgium, with 113 gigs on sou
 
 Carrier, DjRUM, upsammy
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjeanne/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjeanne/)*

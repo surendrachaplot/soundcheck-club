@@ -1,6 +1,6 @@
 # Emily Nash
 
-Emily Nash is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Keys Yarm, North on Wed, 23 Dec 2026.
+Emily Nash is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Keys Yarm, North on Wed, 23 Dec 2026.
 
 Emily Nash is a tech house and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Charlotte Van de Peer, George Mensah and Sammy Porter. Next up: The Keys Yarm, North on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ Emily Nash is a tech house and house artist based in United Kingdom, with 25 gig
 
 Charlotte Van de Peer, George Mensah, Sammy Porter
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilynash/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilynash/)*

@@ -1,6 +1,6 @@
 # HATHOR
 
-HATHOR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 12 Dec 2026.
+HATHOR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 12 Dec 2026.
 
 HATHOR is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Frank Rayo, BNZN and AKIIM. Next up: Edelfettwerk, Hamburg on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ HATHOR is a techno and trance artist based in Germany, with 30 gigs on soundchec
 
 Frank Rayo, BNZN, AKIIM
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hathor/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hathor/)*

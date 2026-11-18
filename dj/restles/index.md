@@ -1,6 +1,6 @@
 # RestLes
 
-RestLes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bsmt 254, Toronto on Sun, 6 Dec 2026.
+RestLes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bsmt 254, Toronto on Sun, 6 Dec 2026.
 
 RestLes is a techno and house artist, with 17 gigs on soundcheck across New York City and Toronto. Often billed alongside Ryan King, Daniel Schutten and Marivs. Next up: Bsmt 254, Toronto on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ RestLes is a techno and house artist, with 17 gigs on soundcheck across New York
 
 Ryan King (2), Daniel Schutten, Marivs
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restles/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restles/)*

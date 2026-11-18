@@ -1,6 +1,6 @@
 # Bellaire
 
-Bellaire is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Le Bikini, South-east on Fri, 27 Nov 2026.
+Bellaire is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Bikini, South-east on Fri, 27 Nov 2026.
 
 Bellaire is a house and disco artist based in France, with 59 gigs on soundcheck across Amsterdam, Antwerp, Bordeaux and Brighton and 22 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: Le Bikini, South East on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Bellaire is a house and disco artist based in France, with 59 gigs on soundcheck
 
 Contrecoeur, Armand Van Helden, Breakbot
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*

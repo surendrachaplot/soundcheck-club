@@ -1,6 +1,6 @@
 # Gop Tun DJs
 
-Gop Tun DJs is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Secret, Rio de Janeiro on Fri, 20 Nov 2026.
+Gop Tun DJs is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret, Rio de Janeiro on Fri, 20 Nov 2026.
 
 Gop Tun DJs is a house and disco artist based in Brazil, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside Cashu, Giu Nunez and Millos Kaiser. Next up: TBA - Secret, Rio de Janeiro on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Gop Tun DJs is a house and disco artist based in Brazil, with 85 gigs on soundch
 
 Cashu, Giu Nunez, Millos Kaiser
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goptundjs/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goptundjs/)*

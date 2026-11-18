@@ -1,6 +1,6 @@
 # Lisa de Lune
 
-Lisa de Lune is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 119, Berlin on Fri, 27 Nov 2026.
+Lisa de Lune is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 119, Berlin on Fri, 27 Nov 2026.
 
 Lisa de Lune is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Ben Green, Schense and Taktgeber. Next up: 119, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lisa de Lune is a techno and tech house artist based in Germany, with 17 gigs on
 
 Ben Green, Schense, Taktgeber
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisadelune/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisadelune/)*

@@ -1,6 +1,6 @@
 # Pürü
 
-Pürü is a Pop and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Annie, Amsterdam on Fri, 20 Nov 2026.
+Pürü is a Pop and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Annie, Amsterdam on Fri, 20 Nov 2026.
 
 Pürü is a pop and breakbeat artist based in Finland, with 6 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside SULTAN, Candy Coup and Aiscream. Next up: Club Annie, Amsterdam on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Pürü is a pop and breakbeat artist based in Finland, with 6 gigs on soundcheck
 
 SULTAN, Candy Coup, Aiscream
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puru/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puru/)*

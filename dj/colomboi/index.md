@@ -1,6 +1,6 @@
 # Colomboi
 
-Colomboi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Radio Estrella, Bogotá on Sat, 12 Dec 2026.
+Colomboi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Radio Estrella, Bogotá on Sat, 12 Dec 2026.
 
 Colomboi is a techno and electro artist, with 14 gigs on soundcheck across Bogotá, Madrid and Medellin. Often billed alongside Paàl, Surfer Rosa and Varju. Next up: Radio Estrella, Bogotá on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Colomboi is a techno and electro artist, with 14 gigs on soundcheck across Bogot
 
 Paàl, Surfer Rosa, Varju
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colomboi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colomboi/)*

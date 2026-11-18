@@ -1,6 +1,6 @@
 # SNOWCAVEMAN
 
-SNOWCAVEMAN is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sunday Sunday, Mexico City on Thu, 19 Nov 2026.
+SNOWCAVEMAN is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sunday Sunday, Mexico City on Thu, 19 Nov 2026.
 
 SNOWCAVEMAN is a house and italo disco artist based in Mexico, with 27 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Helsinki and 5 more. Often billed alongside Soos, AURELIA (MX) and Mystery Affair. Next up: Sunday Sunday, Mexico City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ SNOWCAVEMAN is a house and italo disco artist based in Mexico, with 27 gigs on s
 
 Soos, AURELIA (MX), Mystery Affair
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snowcaveman/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snowcaveman/)*

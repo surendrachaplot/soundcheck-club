@@ -1,8 +1,8 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and Electro artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Helena Hauff is a Techno and Electro artist with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
-Helena Hauff is a techno and electro artist based in Germany, with 246 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside DVS1, Ben UFO and Job Jobse. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+Helena Hauff is a techno and electro artist based in Germany, with 248 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside DVS1, Ben UFO and Job Jobse. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Helena Hauff is a techno and electro artist based in Germany, with 246 gigs on s
 | Sat, 5 Dec 2026 | Subdeck | Bratislava |
 | Sat, 12 Dec 2026 | Peti Kupe | Zagreb |
 | Sun, 13 Dec 2026 | Hoppetosse | Berlin |
+| Fri, 18 Dec 2026 | Rex Club | Paris |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 | Thu, 31 Dec 2026 | Sidney Myer Music Bowl | Melbourne |
+| Sat, 9 Jan 2027 | Abercrombie Hotel | Sydney |
 | Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
-| Fri, 4 Jun 2027 | Clydeside Live | Glasgow |
-| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Helena Hauff is a techno and electro artist based in Germany, with 246 gigs on s
 
 DVS1, Ben UFO, Job Jobse
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

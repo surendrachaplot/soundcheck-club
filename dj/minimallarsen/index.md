@@ -1,6 +1,6 @@
 # Minimal Larsen
 
-Minimal Larsen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bunker, Turin on Sat, 28 Nov 2026.
+Minimal Larsen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bunker, Turin on Sat, 28 Nov 2026.
 
 Minimal Larsen is a techno and house artist based in Italy, with 14 gigs on soundcheck across Athens, Milan and Turin. Often billed alongside Rent Boy, Puro and CSCX. Next up: Bunker, Turin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Minimal Larsen is a techno and house artist based in Italy, with 14 gigs on soun
 
 Rent Boy, Puro, CSCX
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minimallarsen/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minimallarsen/)*

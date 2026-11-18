@@ -1,6 +1,6 @@
 # nutenrieth
 
-nutenrieth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Barracuda Bar, Cologne on Fri, 20 Nov 2026.
+nutenrieth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Barracuda Bar, Cologne on Fri, 20 Nov 2026.
 
 nutenrieth is a techno and house artist based in Germany, with 9 gigs on soundcheck across Cologne and Hamburg. Often billed alongside Jerome Soir, KIMME and Roses OD. Next up: Barracuda Bar, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ nutenrieth is a techno and house artist based in Germany, with 9 gigs on soundch
 
 Jerome Soir, KIMME, Roses OD
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*

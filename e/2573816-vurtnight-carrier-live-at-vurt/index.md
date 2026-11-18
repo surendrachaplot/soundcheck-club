@@ -1,6 +1,6 @@
 # vurtnight Carrier Live at vurt.
 
-vurtnight Carrier Live at vurt. on Sat 28 Nov, Seoul. 1 artist: Carrier. Techno. See the line-up on soundcheck.
+vurtnight Carrier Live at vurt. on Sat 28 Nov, Seoul. 4 artists: Carrier, Djilogue, GOBI and SUZAN. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ vurtnight Carrier Live at vurt. on Sat 28 Nov, Seoul. 1 artist: Carrier. Techno.
 ## Line-up
 
 - Carrier
+- Djilogue
+- GOBI
+- SUZAN (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2573816-vurtnight-carrier-live-at-vurt/)*

@@ -1,10 +1,10 @@
 # Tender 2nd Birthday ~ Ex Ponto + Synergy Trilogy + Uberwench at Tender
 
-Tender 2nd Birthday ~ Ex Ponto + Synergy Trilogy + Uberwench on Sat 21 Nov, Melbourne. Ambient and Experimental. See the line-up on soundcheck.
+Tender 2nd Birthday ~ Ex Ponto + Synergy Trilogy + Uberwench on Sat 28 Nov, Melbourne. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 21 Nov 2026 |
+| Date | Sat, 28 Nov 2026 |
 | Venue | Tender |
 | City | Melbourne |
 

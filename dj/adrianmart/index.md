@@ -1,6 +1,6 @@
 # Adrian Mart
 
-Adrian Mart is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Goya Social Club, Madrid on Sat, 21 Nov 2026.
+Adrian Mart is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Goya Social Club, Madrid on Sat, 21 Nov 2026.
 
 Adrian Mart is a house and club artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Danjers, Enrico Vergo and ALEX FÖX. Next up: Goya Social Club, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Adrian Mart is a house and club artist based in Spain, with 14 gigs on soundchec
 
 Danjers, Enrico Vergo, ALEX FÖX
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmart/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmart/)*

@@ -1,13 +1,14 @@
 # Dj handbag
 
-Dj handbag is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+Dj handbag is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
-Dj handbag is a house and techno artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: OST, Berlin on Thu 31 Dec.
+Dj handbag is a house and techno artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: 119, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | 119 | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dj handbag is a house and techno artist based in Germany, with 90 gigs on soundc
 
 Daniel Berj, ADAM MUNNINGS, DJ Hyaluron
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*

@@ -1,14 +1,14 @@
 # Winkieb
 
-Winkieb is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Gearbox, Bangkok on Sat, 21 Nov 2026.
+Winkieb is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Warehouse Talat Noi, Bangkok on Sat, 21 Nov 2026.
 
-Winkieb is a techno and experimental artist based in Thailand, with 37 gigs on soundcheck across Bangkok, Hanoi, Leipzig and Seoul and 1 more. Often billed alongside Marmosets, DJ Sweed and Club Mascot. Next up: TBA - Gearbox, Bangkok on Sat 21 Nov.
+Winkieb is a techno and experimental artist based in Thailand, with 37 gigs on soundcheck across Bangkok, Hanoi, Leipzig and Seoul and 1 more. Often billed alongside Marmosets, DJ Sweed and Club Mascot. Next up: The Warehouse Talat Noi, Bangkok on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Gearbox | Bangkok |
+| Sat, 21 Nov 2026 | The Warehouse Talat Noi | Bangkok |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Winkieb is a techno and experimental artist based in Thailand, with 37 gigs on s
 
 Marmosets, DJ Sweed, Club Mascot
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winkieb/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winkieb/)*

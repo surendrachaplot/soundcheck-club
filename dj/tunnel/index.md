@@ -1,6 +1,6 @@
 # Tunnel
 
-Tunnel is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
+Tunnel is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
 
 Tunnel is a techno and industrial artist based in United States of America, with 18 gigs on soundcheck across Beijing, Berlin, Denver and Minneapolis/St Paul and 3 more. Often billed alongside Viktor Kampf, Ilyas S and Strasse 95. Next up: Sensorium, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tunnel is a techno and industrial artist based in United States of America, with
 
 Viktor Kampf, Ilyas S, Strasse 95
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnel/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnel/)*

@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Alex Picone + Reformed Society [Play]" on Fri, 20 Nov 2026.
+LAUT is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Alex Picone + Reformed Society [Play]" on Fri, 20 Nov 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including ABSIS, Alex Picone, BAMBI (BE) and Cosmo (KR) and 2 more. See dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -22,4 +22,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with l
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

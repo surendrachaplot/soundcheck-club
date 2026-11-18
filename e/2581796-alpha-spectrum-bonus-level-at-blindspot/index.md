@@ -1,6 +1,6 @@
 # ALPHA SPECTRUM: BONUS LEVEL at Blindspot*
 
-ALPHA SPECTRUM: BONUS LEVEL at Blindspot* on Sat 5 Dec, Bucharest. 4 artists: Dalek, Meiremax, Neotroxian and Project Morpheus. Techno and Hardcore. See the line-up on soundcheck.
+ALPHA SPECTRUM: BONUS LEVEL at Blindspot* on Sat 5 Dec, Bucharest. 5 artists: Dalek, JÜLLS, Meiremax and Neotroxian and 1 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ALPHA SPECTRUM: BONUS LEVEL at Blindspot* on Sat 5 Dec, Bucharest. 4 artists: Da
 ## Line-up
 
 - Dalek
+- JÜLLS
 - Meiremax
 - Neotroxian
 - Project Morpheus

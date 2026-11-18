@@ -1,6 +1,6 @@
 # Bexblu & Paul Stephan World Tour - Brighton at Patterns
 
-Bexblu & Paul Stephan World Tour - Brighton at Patterns on Thu 11 Feb, Brighton. Funk / Soul and Grime. See the line-up on soundcheck.
+Bexblu & Paul Stephan World Tour - Brighton at Patterns on Thu 11 Feb, Brighton. Hip-Hop and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

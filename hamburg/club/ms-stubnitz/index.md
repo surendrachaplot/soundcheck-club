@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "5 Jahre Pastanaga" on Sat, 21 Nov 2026.
+MS Stubnitz is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "5 Jahre Pastanaga" on Sat, 21 Nov 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including AMRTUM, AFAR, Alex Benz and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, 
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

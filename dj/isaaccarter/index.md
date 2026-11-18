@@ -1,8 +1,8 @@
 # Isaac Carter
 
-Isaac Carter is a House and Deep House artist with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 21 Nov 2026.
+Isaac Carter is a House and Deep House artist with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 21 Nov 2026.
 
-Isaac Carter is a house and deep house artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Vittoria Wharf Studio, London on Sat 21 Nov.
+Isaac Carter is a house and deep house artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Vittoria Wharf Studio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 106 
 | Wed, 2 Dec 2026 | Floyd | Miami |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 5 Dec 2026 | Refuge | New York City |
+| Sat, 12 Dec 2026 | TBA | Denver |
 | Sat, 19 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 31 Dec 2026 | The Cause | London |
 | Sun, 28 Mar 2027 | NDSM Docklands | Amsterdam |
@@ -34,4 +35,4 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 106 
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

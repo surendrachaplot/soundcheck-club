@@ -1,8 +1,8 @@
 # ing (UK)
 
-ing (UK) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Joule, Osaka on Fri, 27 Nov 2026.
+ing (UK) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Joule, Osaka on Fri, 27 Nov 2026.
 
-ing (UK) is a bass and techno artist, with 18 gigs on soundcheck across Osaka. Often billed alongside Astro, Bloody Cheeki $odz and Hickson. Next up: Joule, Osaka on Fri 27 Nov.
+ing (UK) is a bass and techno artist based in United Kingdom, with 18 gigs on soundcheck across Osaka. Often billed alongside Astro, Bloody Cheeki $odz and Hickson. Next up: Joule, Osaka on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ing (UK) is a bass and techno artist, with 18 gigs on soundcheck across Osaka. O
 
 Astro, Bloody Cheeki $odz, Hickson
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inguk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inguk/)*

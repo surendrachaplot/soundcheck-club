@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Cloonee is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 32 more. Often billed alongside Jamie Jones, Sosa and Franky Rizardo. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs o
 
 Jamie Jones, Sosa, Franky Rizardo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

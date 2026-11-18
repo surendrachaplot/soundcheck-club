@@ -1,8 +1,8 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE)" on Fri, 20 Nov 2026.
+Vespers Club is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE)" on Fri, 20 Nov 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including abejizaza, Abobo, Aïsha Devi and Ama (UK) and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including abejizaza, Abobo, Aïsha Devi and Ama (UK) and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Vespers Club is a music venue in London listed on soundcheck. 17 upcoming gigs, 
 | Sat, 28 Nov 2026 | Cubicle Culture | Abobo, Hans Raider, Munkwerk |
 | Sun, 29 Nov 2026 | Half East and Most Christmas Grotto |  |
 | Tue, 1 Dec 2026 | KOMAoto: The Fox Project Fundraiser | DJ mǐn, Kekeneko, PALMREADER, VEYRA, abejizaza, optionlist |
+| Fri, 4 Dec 2026 | SWAGEVER |  |
+| Sat, 5 Dec 2026 | SEX ON THE DANCEFLOOR |  |
 | Sun, 6 Dec 2026 | Motive Hunter: The FREE Motive Before Christmas (Open Decks + Day Party) |  |
-| Wed, 9 Dec 2026 | FRÄME - Live AV Show & Support |  |
-| Wed, 9 Dec 2026 | Främe Live AV Show + Mattia Zucchelli | Främe, Løgømyx, Mattia Zucchelli |
 
 ## Address
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

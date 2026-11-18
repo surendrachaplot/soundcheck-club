@@ -1,8 +1,8 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
+KLOFAMA is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
 
-KLOFAMA is a techno and industrial artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Arzenal, Budapest on Fri 27 Nov.
+KLOFAMA is a techno and industrial artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 48 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Arzenal, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 113 gigs on
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 | Fri, 8 Jan 2027 | Docks | Hamburg |
+| Sat, 16 Jan 2027 | Interference | Toulouse |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 113 gigs on
 
 KARAH, SLVL, Fantasm
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

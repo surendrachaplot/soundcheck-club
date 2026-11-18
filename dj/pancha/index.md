@@ -1,13 +1,14 @@
 # Pancha
 
-Pancha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 12 Dec 2026.
+Pancha is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
 
-Pancha is a techno and electro artist based in Poland, with 4 gigs on soundcheck across Warsaw. Often billed alongside Łomża, Dynamic Goose and Dedenia. Next up: K-Bar Powiśle, Warsaw on Sat 12 Dec.
+Pancha is a techno and electro artist based in Poland, with 5 gigs on soundcheck across Warsaw. Often billed alongside Łomża, Dynamic Goose and BEXA. Next up: Smolna, Warsaw on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Smolna | Warsaw |
 | Sat, 12 Dec 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played
@@ -18,6 +19,6 @@ Pancha is a techno and electro artist based in Poland, with 4 gigs on soundcheck
 
 ## Shares bills with
 
-Łomża, Dynamic Goose, Dedenia
+Łomża, Dynamic Goose, BEXA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pancha/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pancha/)*

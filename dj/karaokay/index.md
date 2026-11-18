@@ -1,6 +1,6 @@
 # Kara Okay
 
-Kara Okay is a House and Trance artist with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sala Cocó, Madrid on Thu, 19 Nov 2026.
+Kara Okay is a House and Trance artist with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala Cocó, Madrid on Thu, 19 Nov 2026.
 
 Kara Okay is a house and trance artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Antwerp, Australian Capital Territory and Bali and 20 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: Sala Cocó, Madrid on Thu 19 Nov.
 
@@ -36,4 +36,4 @@ Kara Okay is a house and trance artist based in Netherlands, with 88 gigs on sou
 
 DART, Bella Claxton, Freddi
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*

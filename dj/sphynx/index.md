@@ -1,6 +1,6 @@
 # Sphynx
 
-Sphynx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Throw Social DC, Washington DC on Sat, 21 Nov 2026.
+Sphynx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Throw Social DC, Washington DC on Sat, 21 Nov 2026.
 
 Sphynx is a house and disco artist based in Brazil, with 13 gigs on soundcheck across Athens, Los Angeles, New York City and Sao Paulo and 1 more. Often billed alongside Vermelho, Zopelar and Capetini. Next up: Throw Social DC, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sphynx is a house and disco artist based in Brazil, with 13 gigs on soundcheck a
 
 Vermelho, Zopelar, Capetini
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sphynx/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sphynx/)*

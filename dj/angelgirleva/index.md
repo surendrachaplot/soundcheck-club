@@ -1,6 +1,6 @@
 # angelgirl EVA
 
-angelgirl EVA is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at crobar, Cleveland on Fri, 20 Nov 2026.
+angelgirl EVA is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at crobar, Cleveland on Fri, 20 Nov 2026.
 
 angelgirl EVA is a techno and ambient artist based in United States of America, with 12 gigs on soundcheck across Cleveland, Detroit, New York City and Pittsburgh. Often billed alongside Innergroove, Le Schlippy and Joey Sardelle. Next up: crobar, Cleveland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ angelgirl EVA is a techno and ambient artist based in United States of America, 
 
 Innergroove, Le Schlippy, Joey Sardelle
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgirleva/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgirleva/)*

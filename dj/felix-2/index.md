@@ -1,6 +1,6 @@
 # felix (2)
 
-felix (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at E1, London on Fri, 20 Nov 2026.
+felix (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at E1, London on Fri, 20 Nov 2026.
 
 felix is a techno and tech house artist based in Switzerland, with 11 gigs on soundcheck across Berlin, Brisbane, Budapest and Frankfurt and 4 more. Often billed alongside (NOT) XCESS, Akoriz and Alexander Aurel. Next up: E1, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ felix is a techno and tech house artist based in Switzerland, with 11 gigs on so
 
 (NOT) XCESS, Akoriz, Alexander Aurel
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-2/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-2/)*

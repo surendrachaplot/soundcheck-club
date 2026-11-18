@@ -1,6 +1,6 @@
 # Yee. Turns 2 at Social Room
 
-Yee. Turns 2 at Social Room on Fri 20 Nov, Hong Kong. 5 artists: ILLI (HK), KOLAK, M8-MDM8 and Oscar Days and 1 more. Drum & Bass and Techno. See the line-up on soundcheck.
+Yee. Turns 2 at Social Room on Fri 20 Nov, Hong Kong. 6 artists: adam. (UK), ILLI (HK), KOLAK and M8-MDM8 and 2 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yee. Turns 2 at Social Room on Fri 20 Nov, Hong Kong. 5 artists: ILLI (HK), KOLA
 
 ## Line-up
 
+- adam. (UK)
 - ILLI (HK)
 - KOLAK
 - M8-MDM8

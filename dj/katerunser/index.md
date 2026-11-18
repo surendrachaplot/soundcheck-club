@@ -1,6 +1,6 @@
 # KaterUnser
 
-KaterUnser is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Kyogare, Kyoto on Sat, 21 Nov 2026.
+KaterUnser is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Kyogare, Kyoto on Sat, 21 Nov 2026.
 
 KaterUnser is a techno and house artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chubu and 8 more. Often billed alongside Miss Oana, Leefia and Toltech. Next up: TBA - Kyogare, Kyoto on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ KaterUnser is a techno and house artist based in Germany, with 19 gigs on soundc
 
 Miss Oana, Leefia, Toltech
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katerunser/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katerunser/)*

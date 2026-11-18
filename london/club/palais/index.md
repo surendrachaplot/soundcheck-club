@@ -1,8 +1,8 @@
 # Palais
 
-Palais is a music venue in London with 20 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "DAYTIMERS: anu, Darama, JD. REID, Noni-Mouse, Rasa, Temujin  " on Fri, 20 Nov 2026.
+Palais is a music venue in London with 21 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "DAYTIMERS: anu, Darama, JD. REID, Noni-Mouse, Rasa, Temujin  " on Fri, 20 Nov 2026.
 
-Palais is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including anu, Bakey, Bindās and Darama and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including anu, Bakey, Bindās and Bitter Babe and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 20 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

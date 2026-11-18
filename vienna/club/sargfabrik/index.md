@@ -1,13 +1,13 @@
 # Sargfabrik
 
-Sargfabrik is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "SWIRL POOL II" on Fri, 23 Oct 2026.
+Sargfabrik is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "SWIRL POOL III" on Fri, 20 Nov 2026.
 
-Sargfabrik is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including MARAws. See dates, start times and who's playing.
+Sargfabrik is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | SWIRL POOL II | MARAws |
+| Fri, 20 Nov 2026 | SWIRL POOL III |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sargfabrik/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sargfabrik/)*

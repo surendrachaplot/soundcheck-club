@@ -1,6 +1,6 @@
 # Coco (2)
 
-Coco (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
+Coco (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
 
 Coco is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin, Calgary, Hamburg and London and 2 more. Often billed alongside ALOKIN, Alicea and Alina Viktoria. Next up: Sensorium, Berlin on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Coco is a techno and house artist based in Germany, with 8 gigs on soundcheck ac
 
 ALOKIN, Alicea, Alina Viktoria
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coco-2/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coco-2/)*

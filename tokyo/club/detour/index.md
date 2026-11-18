@@ -1,6 +1,6 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "club .2 - Midweek Groove" on Wed, 18 Nov 2026.
+DeTour is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "club .2 - Midweek Groove" on Wed, 18 Nov 2026.
 
 DeTour is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including ASIN, BEPPU, bloodymarii and Dress and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
@@ -19,4 +19,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with lin
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

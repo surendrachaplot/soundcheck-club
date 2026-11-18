@@ -1,6 +1,6 @@
 # Diego Armando
 
-Diego Armando is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Magno, Madrid on Thu, 17 Dec 2026.
+Diego Armando is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Magno, Madrid on Thu, 17 Dec 2026.
 
 Diego Armando is a baile funk and electronica artist based in Spain, with 140 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and London and 5 more. Often billed alongside Maxvll, Yosef (ES) and Yosef. Next up: Club Magno, Madrid on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Diego Armando is a baile funk and electronica artist based in Spain, with 140 gi
 
 Maxvll, Yosef (ES), Yosef
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoarmando/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoarmando/)*

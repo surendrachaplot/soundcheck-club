@@ -1,6 +1,6 @@
 # SEE YOU LATER
 
-SEE YOU LATER is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+SEE YOU LATER is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 SEE YOU LATER is a techno and hardcore artist based in Belgium, with 7 gigs on soundcheck across Berlin and Ghent. Often billed alongside KASIENKA, droomwolkje and Stinny Stone. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ SEE YOU LATER is a techno and hardcore artist based in Belgium, with 7 gigs on s
 
 KASIENKA, droomwolkje, Stinny Stone
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seeyoulater/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seeyoulater/)*

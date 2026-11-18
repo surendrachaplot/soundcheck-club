@@ -1,6 +1,6 @@
 # El Castillo de Barracas
 
-El Castillo de Barracas is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Voyant Groove Vol. 4" on Sat, 19 Dec 2026.
+El Castillo de Barracas is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Voyant Groove Vol. 4" on Sat, 19 Dec 2026.
 
 El Castillo de Barracas is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ El Castillo de Barracas is a music venue in Buenos Aires listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Voyant Groove Vol. 4 |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/el-castillo-de-barracas/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/el-castillo-de-barracas/)*

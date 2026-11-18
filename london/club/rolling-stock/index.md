@@ -1,6 +1,6 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "FLAT50 Vol.1" on Fri, 20 Nov 2026.
+Rolling Stock is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "FLAT50 Vol.1" on Fri, 20 Nov 2026.
 
 Rolling Stock is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alan Banks, Cat Caesura, Josh German and KingCrowney and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
@@ -8,7 +8,7 @@ Rolling Stock is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | FLAT50 Vol.1 |  |
+| Fri, 20 Nov 2026 | FLAT50 Vol.1 | Will Gooddy |
 | Sat, 21 Nov 2026 | AWAKEN [AWKN] |  |
 | Fri, 27 Nov 2026 | EXPANSIVE | Cat Caesura, Larnie, Spinks, Tribal |
 | Sat, 28 Nov 2026 | Soul Deep - Infinity Rhythm Sessions | KingCrowney, Matty Gillespie, Mike Millrain, Mikey DJ, Mr Roach, Randy Peterson |
@@ -21,4 +21,4 @@ Rolling Stock is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

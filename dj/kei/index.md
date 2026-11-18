@@ -1,14 +1,15 @@
 # KEi
 
-KEi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Pintology, Tokyo on Sat, 21 Nov 2026.
+KEi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Pintology, Tokyo on Sat, 21 Nov 2026.
 
-KEi is a techno and house artist based in Bulgaria, with 36 gigs on soundcheck across Osaka, Seoul, Sofia and South Korea and 1 more. Often billed alongside Gumbo, 35DH-1 and Adroit Joe. Next up: Pintology, Tokyo on Sat 21 Nov.
+KEi is a techno and house artist based in Bulgaria, with 37 gigs on soundcheck across Osaka, Seoul, Sofia and South Korea and 1 more. Often billed alongside Gumbo, 35DH-1 and Adroit Joe. Next up: Pintology, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Pintology | Tokyo |
+| Sun, 22 Nov 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KEi is a techno and house artist based in Bulgaria, with 36 gigs on soundcheck a
 
 Gumbo, 35DH-1, Adroit Joe
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*

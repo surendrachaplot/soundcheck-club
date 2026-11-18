@@ -1,6 +1,6 @@
 # EN1GMACLUB 4 YEARS ANNIVERSARY at TBA - ENTITY POWERED BY VOID ACCOUSTICS
 
-EN1GMACLUB 4 YEARS ANNIVERSARY at TBA - ENTITY POWERED BY VOID ACCOUSTICS on Fri 27 Nov, Madrid. 6 artists: Cerescente, FUKCNORMAL, FYLJA and Luska and 2 more. Techno and Electronica. See the line-up on soundcheck.
+EN1GMACLUB 4 YEARS ANNIVERSARY at TBA - ENTITY POWERED BY VOID ACCOUSTICS on Fri 27 Nov, Madrid. 7 artists: Cerescente, Dystopik, FUKCNORMAL and FYLJA and 3 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ EN1GMACLUB 4 YEARS ANNIVERSARY at TBA - ENTITY POWERED BY VOID ACCOUSTICS on Fri
 ## Line-up
 
 - Cerescente
+- Dystopik
 - FUKCNORMAL
 - FYLJA
 - Luska

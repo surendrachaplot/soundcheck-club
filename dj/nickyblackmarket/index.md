@@ -1,8 +1,8 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
 
-Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, with 152 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 12 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: The Clock Factory, Bristol on Fri 20 Nov.
+Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 12 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: The Clock Factory, Bristol on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, wi
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | Electric Brixton | London |
 | Sat, 12 Dec 2026 | Brixton Jamm | London |
+| Sat, 12 Dec 2026 | Lakota | Bristol |
 | Fri, 18 Dec 2026 | Komedia Bath | West-wales |
 | Sat, 26 Dec 2026 | Ministry Of Sound | London |
 | Sun, 27 Dec 2026 | Egg London | London |
@@ -35,4 +36,4 @@ Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, wi
 
 Nicky B, Kenny Ken, Ray Keith
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*

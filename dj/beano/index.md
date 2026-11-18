@@ -1,6 +1,6 @@
 # Beano
 
-Beano is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Volks, Brighton on Wed, 9 Dec 2026.
+Beano is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Volks, Brighton on Wed, 9 Dec 2026.
 
 Beano is a drum & bass and jungle artist based in United Kingdom, with 31 gigs on soundcheck across Brighton, Budapest, Leeds and London and 2 more. Often billed alongside MYNX, Kleu and Deefa. Next up: Volks, Brighton on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Beano is a drum & bass and jungle artist based in United Kingdom, with 31 gigs o
 
 MYNX, Kleu, Deefa
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beano/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beano/)*

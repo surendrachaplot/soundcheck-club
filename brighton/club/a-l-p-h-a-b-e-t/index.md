@@ -1,6 +1,6 @@
 # A L P H A B E T
 
-A L P H A B E T is a music venue in Brighton with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Purple Rave, Purple Cave" on Fri, 20 Nov 2026.
+A L P H A B E T is a music venue in Brighton with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Purple Rave, Purple Cave" on Fri, 20 Nov 2026.
 
 A L P H A B E T is a music venue in Brighton listed on soundcheck. 5 upcoming gigs, with line-ups including Carl Finlow, Carl Hastings, Joey T and Kelvin Andrews and 2 more. See dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
 
@@ -18,4 +18,4 @@ A L P H A B E T is a music venue in Brighton listed on soundcheck. 5 upcoming gi
 
 11 Dyke Road.  Brighton.  BN1 3FE.  UK., Brighton
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*

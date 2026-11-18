@@ -1,6 +1,6 @@
 # Shanghai Nightclub
 
-Shanghai Nightclub is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Fuego  - Christmas Warm Up party" on Thu, 19 Nov 2026.
+Shanghai Nightclub is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Fuego  - Christmas Warm Up party" on Thu, 19 Nov 2026.
 
 Shanghai Nightclub is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 16a George St, Edinburgh EH2 2PF.
 
@@ -14,4 +14,4 @@ Shanghai Nightclub is a music venue in Edinburgh listed on soundcheck. 1 upcomin
 
 16a George St, Edinburgh EH2 2PF, Edinburgh
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/shanghai-nightclub/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/shanghai-nightclub/)*

@@ -1,6 +1,6 @@
 # Ina Kaysen
 
-Ina Kaysen is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Ina Kaysen is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Ina Kaysen is a techno and electro artist based in Belgium, with 16 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Bobbi Watson, Harold mp1 and Ampe. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Ina Kaysen is a techno and electro artist based in Belgium, with 16 gigs on soun
 
 Bobbi Watson, Harold mp1, Ampe
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*

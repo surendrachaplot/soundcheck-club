@@ -1,6 +1,6 @@
 # SKARROS
 
-SKARROS is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Raedli, Zurich on Fri, 18 Dec 2026.
+SKARROS is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Raedli, Zurich on Fri, 18 Dec 2026.
 
 SKARROS is a techno and electronica artist, with 5 gigs on soundcheck across Belgrade, Zagreb and Zurich. Often billed alongside ANDWHO, Gruber and ShibiDorra. Next up: Raedli, Zurich on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ SKARROS is a techno and electronica artist, with 5 gigs on soundcheck across Bel
 
 ANDWHO, Gruber, ShibiDorra
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skarros/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skarros/)*

@@ -1,8 +1,8 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Thérèse's Micro Festival" on Wed, 18 Nov 2026.
+Kantine am Berghain is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Thérèse's Micro Festival" on Wed, 18 Nov 2026.
 
-Kantine am Berghain is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Baba Stiltz, Camilla Tarantino, Lust For Youth and MATTAM and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Baba Stiltz, Camilla Tarantino, Lust For Youth and MATTAM and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
@@ -15,10 +15,11 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 8 upcoming 
 | Thu, 17 Dec 2026 | Xeno & Oaklander // Kantine am Berghain, Berlin | Xeno & Oaklander |
 | Fri, 15 Jan 2027 | Lust For Youth (Sacred Bones / live) | Lust For Youth |
 | Wed, 27 Jan 2027 | Baba Stiltz & friends | Baba Stiltz |
+| Mon, 15 Feb 2027 | BINA. - SOFT RAGE SOCIETY |  |
 | Thu, 4 Mar 2027 | SHXCXCHCXSH Live | Camilla Tarantino, MATTAM, Raymond V, SHXCXCHCXSH, Torn (RU), Vū |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

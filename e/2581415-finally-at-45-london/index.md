@@ -1,6 +1,6 @@
 # Finally at 45 London
 
-Finally at 45 London on Thu 26 Nov, London. Bass and UK Funky. See the line-up on soundcheck.
+Finally at 45 London on Thu 26 Nov, London. UK Funky and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # leverson
 
-leverson is a R&B and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Ponsonby Social Club, Auckland on Thu, 19 Nov 2026.
+leverson is a R&B and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Ponsonby Social Club, Auckland on Thu, 19 Nov 2026.
 
 leverson is a r&b and hip-hop artist based in United Kingdom, with 195 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Ponsonby Social Club, Auckland on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ leverson is a r&b and hip-hop artist based in United Kingdom, with 195 gigs on s
 
 Signorina, Omari King, Omari
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

@@ -1,6 +1,6 @@
 # Terrace
 
-Terrace is a Garage and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
+Terrace is a Garage and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
 
 Terrace is a garage and tech house artist based in Netherlands, with 21 gigs on soundcheck across Dublin, Ho Chi Minh City, Ibiza and London and 3 more. Often billed alongside ALISHA, Belmar (UK) and Robbie Doherty. Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Terrace is a garage and tech house artist based in Netherlands, with 21 gigs on 
 
 ALISHA, Belmar (UK), Robbie Doherty
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrace/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrace/)*

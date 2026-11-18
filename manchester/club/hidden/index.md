@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Riley presents Get with The Program - Manchester" on Fri, 20 Nov 2026.
+Hidden is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Riley presents Get with The Program - Manchester" on Fri, 20 Nov 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with line-ups including 2FEL, Agnelli & Nelson, Allius and Antonym and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

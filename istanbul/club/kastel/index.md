@@ -1,8 +1,8 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "MADE OF SOUND" on Wed, 18 Nov 2026.
+Kastel is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "MADE OF SOUND" on Wed, 18 Nov 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Adana Twins, AEREA, Alexandr Grecov and Alican and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Adana Twins, AEREA, Alexandr Grecov and Alican and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with 
 | Fri, 11 Dec 2026 | Township Rebellion | Township Rebellion |
 | Fri, 18 Dec 2026 | AEREA LIVE ISTANBUL | AEREA |
 | Sat, 19 Dec 2026 | Juan Hansen (LIVE) | Juan Hansen |
+| Thu, 31 Dec 2026 | New Year's Eve 2027 - Kastel |  |
 
 ## Address
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

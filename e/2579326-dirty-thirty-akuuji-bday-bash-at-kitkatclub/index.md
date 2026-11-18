@@ -1,6 +1,6 @@
 # Dirty Thirty - Akuuji Bday Bash at KitKatClub
 
-Dirty Thirty - Akuuji Bday Bash at KitKatClub on Sun 29 Nov, Berlin. 2 artists: Marvel Gold and Somaphon. Techno and Psytrance. See the line-up on soundcheck.
+Dirty Thirty - Akuuji Bday Bash at KitKatClub on Sun 29 Nov, Berlin. 3 artists: Ahanjack, Marvel Gold and Somaphon. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dirty Thirty - Akuuji Bday Bash at KitKatClub on Sun 29 Nov, Berlin. 2 artists: 
 
 ## Line-up
 
+- Ahanjack
 - Marvel Gold
 - Somaphon
 

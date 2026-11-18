@@ -1,6 +1,6 @@
 # ALEX GOODCAT
 
-ALEX GOODCAT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 26 Nov 2026.
+ALEX GOODCAT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 26 Nov 2026.
 
 ALEX GOODCAT is a house and tech house artist based in United States of America, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Mode Leeloo, HIDRA and Black Panda. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ ALEX GOODCAT is a house and tech house artist based in United States of America,
 
 Mode Leeloo, HIDRA, Black Panda
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgoodcat/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgoodcat/)*

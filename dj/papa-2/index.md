@@ -1,13 +1,14 @@
 # PAPA (US)
 
-PAPA (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
+PAPA (US) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Good Room, New York City on Thu, 19 Nov 2026.
 
-PAPA (US) is a house and techno artist, with 22 gigs on soundcheck across Miami and New York City. Often billed alongside Extra Meesh, Gee Dee and JÄK-87. Next up: Las Rosas, Miami on Sat 21 Nov.
+PAPA (US) is a house and techno artist, with 23 gigs on soundcheck across Miami and New York City. Often billed alongside Extra Meesh, Gee Dee and JÄK-87. Next up: Good Room, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Good Room | New York City |
 | Sat, 21 Nov 2026 | Las Rosas | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ PAPA (US) is a house and techno artist, with 22 gigs on soundcheck across Miami 
 
 Extra Meesh, Gee Dee, JÄK-87
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papa-2/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papa-2/)*

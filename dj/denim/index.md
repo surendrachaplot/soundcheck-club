@@ -1,13 +1,14 @@
 # Denim
 
-Denim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Nursery At Flemington, Melbourne on Fri, 1 Jan 2027.
+Denim is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 22 Nov 2026.
 
-Denim is a techno and house artist based in Australia, with 28 gigs on soundcheck across Adelaide, Brisbane, Hobart and London and 4 more. Often billed alongside FUKHED, C.FRIM and Gumm. Next up: The Nursery At Flemington, Melbourne on Fri 1 Jan.
+Denim is a techno and house artist based in Australia, with 29 gigs on soundcheck across Adelaide, Brisbane, Hobart and London and 4 more. Often billed alongside FUKHED, C.FRIM and Caucasian Opportunities. Next up: Smith St Hotel, Melbourne on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Smith St Hotel | Melbourne |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ Denim is a techno and house artist based in Australia, with 28 gigs on soundchec
 
 ## Shares bills with
 
-FUKHED, C.FRIM, Gumm
+FUKHED, C.FRIM, Caucasian Opportunities
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denim/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denim/)*

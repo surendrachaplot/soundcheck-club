@@ -1,6 +1,6 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Psy-kick #5 FAEYAN-BDimensional-Cejn-Esquita-Jagsonify-Primal" on Sat, 21 Nov 2026.
+Noce KRK is a music venue in Krakow with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Psy-kick #5 FAEYAN-BDimensional-Cejn-Esquita-Jagsonify-Primal" on Sat, 21 Nov 2026.
 
 Noce KRK is a music venue in Krakow listed on soundcheck. 3 upcoming gigs, with line-ups including AB, Esquita, KOBOV and Monica Gash and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
@@ -16,4 +16,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 3 upcoming gigs, with 
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

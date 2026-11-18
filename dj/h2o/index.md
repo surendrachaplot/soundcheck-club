@@ -1,6 +1,6 @@
 # H2O
 
-H2O is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Le 211, Paris on Sun, 22 Nov 2026.
+H2O is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Le 211, Paris on Sun, 22 Nov 2026.
 
 H2O is a techno and electro artist, with 42 gigs on soundcheck across Brussels, Marseille, Paris and Rio de Janeiro. Often billed alongside Jacky Jeane, Blanche and Amau. Next up: Le 211, Paris on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ H2O is a techno and electro artist, with 42 gigs on soundcheck across Brussels, 
 
 Jacky Jeane, Blanche, Amau
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h2o/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h2o/)*

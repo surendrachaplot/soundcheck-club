@@ -1,6 +1,6 @@
 # FUNKTION at Oath
 
-FUNKTION at Oath on Thu 19 Nov, Tokyo. 2 artists: Omar Santis and Ren Yokoi. House and Hip-Hop. See the line-up on soundcheck.
+FUNKTION at Oath on Thu 19 Nov, Tokyo. 3 artists: Dukwa, Omar Santis and Ren Yokoi. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FUNKTION at Oath on Thu 19 Nov, Tokyo. 2 artists: Omar Santis and Ren Yokoi. Hou
 
 ## Line-up
 
+- Dukwa
 - Omar Santis
 - Ren Yokoi
 

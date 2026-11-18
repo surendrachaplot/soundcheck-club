@@ -1,6 +1,6 @@
 # Frevo X FRONTLINE at Ministerium Club
 
-Frevo X FRONTLINE at Ministerium Club on Mon 30 Nov, Lisbon. 3 artists: N3LYSTAR, R4KEL and Saint Caboclo. Baile Funk and Rio Funk. See the line-up on soundcheck.
+Frevo X FRONTLINE at Ministerium Club on Mon 30 Nov, Lisbon. 4 artists: N3LYSTAR, R4KEL, Saint Caboclo and Zauo. Baile Funk and Rio Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Frevo X FRONTLINE at Ministerium Club on Mon 30 Nov, Lisbon. 3 artists: N3LYSTAR
 - N3LYSTAR
 - R4KEL
 - Saint Caboclo
+- Zauo
 
 *Source: [soundcheck](https://soundcheck.club/e/2580338-frevo-x-frontline-at-ministerium-club/)*

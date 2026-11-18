@@ -1,6 +1,6 @@
 # Makadsi
 
-Makadsi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Signal, New York City on Fri, 18 Dec 2026.
+Makadsi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Signal, New York City on Fri, 18 Dec 2026.
 
 Makadsi is a house and techno artist based in Lebanon, with 90 gigs on soundcheck across Barcelona, Berlin, Brussels and Ibiza and 7 more. Often billed alongside Sterling Juan Diaz, Dangerous Rose and FASHION (US). Next up: Signal, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Makadsi is a house and techno artist based in Lebanon, with 90 gigs on soundchec
 
 Sterling Juan Diaz, Dangerous Rose, FASHION (US)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*

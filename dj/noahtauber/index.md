@@ -1,13 +1,14 @@
 # Noah Tauber
 
-Noah Tauber is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Glove That Fits, London on Sun, 20 Dec 2026.
+Noah Tauber is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at XOYO, London on Sat, 28 Nov 2026.
 
-Noah Tauber is a techno and dub techno artist based in United Kingdom, with 28 gigs on soundcheck across Berlin, Glasgow, Hamburg and Lisbon and 3 more. Often billed alongside nohexcode, Ylia (UK) and ANTØNIØ.. Next up: The Glove That Fits, London on Sun 20 Dec.
+Noah Tauber is a techno and dub techno artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Glasgow, Hamburg and Lisbon and 3 more. Often billed alongside nohexcode, Ylia (UK) and ANTØNIØ.. Next up: XOYO, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | XOYO | London |
 | Sun, 20 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Noah Tauber is a techno and dub techno artist based in United Kingdom, with 28 g
 
 nohexcode, Ylia (UK), ANTØNIØ.
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*

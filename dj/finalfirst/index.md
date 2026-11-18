@@ -1,6 +1,6 @@
 # Final First
 
-Final First is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sly Grog Lounge, North-carolina on Fri, 20 Nov 2026.
+Final First is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sly Grog Lounge, North-carolina on Fri, 20 Nov 2026.
 
 Final First is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Atlanta, Chicago and North Carolina. Often billed alongside Anónima, DJ NSA and Playr1. Next up: Sly Grog Lounge, North Carolina on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Final First is a techno and house artist based in United States of America, with
 
 Anónima, DJ NSA, Playr1
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finalfirst/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finalfirst/)*

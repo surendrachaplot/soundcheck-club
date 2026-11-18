@@ -1,0 +1,13 @@
+# Sofakids
+
+Sofakids is a music venue in Chongqing with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "NIGHT SHIFT" on Sat, 21 Nov 2026.
+
+Sofakids is a music venue in Chongqing listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | NIGHT SHIFT |  |
+
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/sofakids/)*

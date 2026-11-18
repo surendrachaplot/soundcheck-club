@@ -1,6 +1,6 @@
 # SlREN
 
-SlREN is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 74 Hall, Istanbul on Sat, 26 Dec 2026.
+SlREN is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 74 Hall, Istanbul on Sat, 26 Dec 2026.
 
 SlREN is a techno and industrial artist based in Turkey, with 6 gigs on soundcheck across Istanbul. Often billed alongside Arda Yazkan, Taha Sezgin and ALİN. Next up: 74 Hall, Istanbul on Sat 26 Dec.
 
@@ -22,4 +22,4 @@ SlREN is a techno and industrial artist based in Turkey, with 6 gigs on soundche
 
 Arda Yazkan, Taha Sezgin, ALİN
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slren/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slren/)*

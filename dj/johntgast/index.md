@@ -1,6 +1,6 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Spanners, London on Fri, 20 Nov 2026.
+John T. Gast is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Spanners, London on Fri, 20 Nov 2026.
 
 John T. Gast is an experimental and dub artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: Spanners, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ John T. Gast is an experimental and dub artist based in United Kingdom, with 69 
 
 Devon Rexi, i-sha, Carrier
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

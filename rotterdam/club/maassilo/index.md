@@ -1,6 +1,6 @@
 # Maassilo
 
-Maassilo is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "TIKTAK NYE INDOOR FESTIVAL" on Thu, 31 Dec 2026.
+Maassilo is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "TIKTAK NYE INDOOR FESTIVAL" on Thu, 31 Dec 2026.
 
 Maassilo is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Bruhze, Counterstrike, DEF and DOLPHIN and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
@@ -15,4 +15,4 @@ Maassilo is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs, wi
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*

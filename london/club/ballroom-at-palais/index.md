@@ -1,6 +1,6 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Ballroom at Palais: Daytimers" on Fri, 20 Nov 2026.
+Ballroom at Palais is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Ballroom at Palais: Daytimers" on Fri, 20 Nov 2026.
 
 Ballroom at Palais is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Bindās, Kyle Parsley, LUMA (UK) and Small Crab and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -18,4 +18,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 5 upcoming g
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

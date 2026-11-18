@@ -1,6 +1,6 @@
 # JACK MARLOW
 
-JACK MARLOW is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Hidden, Manchester on Sat, 21 Nov 2026.
+JACK MARLOW is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Hidden, Manchester on Sat, 21 Nov 2026.
 
 JACK MARLOW is a garage and house artist based in United Kingdom, with 57 gigs on soundcheck across Berlin, Boston, Brighton and Brisbane and 19 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: Hidden, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ JACK MARLOW is a garage and house artist based in United Kingdom, with 57 gigs o
 
 GEE LEE, Lemtom, salameh
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*

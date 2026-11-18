@@ -1,6 +1,6 @@
 # ACHO
 
-ACHO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Needle, Shanghai on Thu, 19 Nov 2026.
+ACHO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Needle, Shanghai on Thu, 19 Nov 2026.
 
 ACHO is a house and techno artist based in Dominican Republic, with 16 gigs on soundcheck across Shanghai and Tokyo. Often billed alongside SIGNAL (JP), aixx and ANZU. Next up: Needle, Shanghai on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ ACHO is a house and techno artist based in Dominican Republic, with 16 gigs on s
 
 SIGNAL (JP), aixx, ANZU
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acho/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acho/)*

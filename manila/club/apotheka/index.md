@@ -1,6 +1,6 @@
 # Apotheka
 
-Apotheka is a music venue in Manila with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "CHEKE & KIDS presents: CHECK UP with THUGSTA Live" on Wed, 18 Nov 2026.
+Apotheka is a music venue in Manila with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "CHEKE & KIDS presents: CHECK UP with THUGSTA Live" on Wed, 18 Nov 2026.
 
 Apotheka is a music venue in Manila listed on soundcheck. 7 upcoming gigs, with line-ups including Arthur Yeti, Duality, HARUNA and T33G33. See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
 
@@ -20,4 +20,4 @@ Apotheka is a music venue in Manila listed on soundcheck. 7 upcoming gigs, with 
 
 G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines, Manila
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*

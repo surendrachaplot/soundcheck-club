@@ -1,6 +1,6 @@
 # Nina Pixina
 
-Nina Pixina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Forge, Bucharest on Fri, 20 Nov 2026.
+Nina Pixina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Forge, Bucharest on Fri, 20 Nov 2026.
 
 Nina Pixina is a techno and trance artist based in Romania, with 42 gigs on soundcheck across Barcelona, Brighton, Bucharest and Leeds and 2 more. Often billed alongside Gloria Rose, RRUDEGIRLLL and TEDESCO. Next up: Forge, Bucharest on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nina Pixina is a techno and trance artist based in Romania, with 42 gigs on soun
 
 Gloria Rose, RRUDEGIRLLL, TEDESCO
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*

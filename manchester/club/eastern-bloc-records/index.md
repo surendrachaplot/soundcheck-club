@@ -1,6 +1,6 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Scrambled Network" on Thu, 19 Nov 2026.
+Eastern Bloc Records is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Scrambled Network" on Thu, 19 Nov 2026.
 
 Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including AdomasLP, BinaryFunction, Daz Mac and General TG and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
@@ -23,4 +23,4 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 14 upc
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

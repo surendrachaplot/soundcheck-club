@@ -1,6 +1,6 @@
 # KIVII
 
-KIVII is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
+KIVII is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
 
 KIVII is a tech house and techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside ChéRebel, Dudulina and EVYA. Next up: Sensorium, Berlin on Sat 21 Nov.
 
@@ -16,4 +16,4 @@ KIVII is a tech house and techno artist based in Germany, with 3 gigs on soundch
 
 ChéRebel, Dudulina, EVYA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kivii/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kivii/)*

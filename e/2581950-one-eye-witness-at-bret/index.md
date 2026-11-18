@@ -1,6 +1,6 @@
 # One Eye Witness at BRET
 
-One Eye Witness at BRET on Sat 12 Dec, Amsterdam. 2 artists: Evan Baggs and Hylke. House. See the line-up on soundcheck.
+One Eye Witness at BRET on Sat 12 Dec, Amsterdam. 2 artists: Evan Baggs and Hylke. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

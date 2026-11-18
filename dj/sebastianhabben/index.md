@@ -1,14 +1,15 @@
 # Sebastian Habben
 
-Sebastian Habben is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Open Ground, Wuppertal on Sat, 12 Dec 2026.
+Sebastian Habben is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Open Ground, Wuppertal on Sat, 12 Dec 2026.
 
-Sebastian Habben is a house and techno artist based in Germany, with 17 gigs on soundcheck across Cologne and Wuppertal. Often billed alongside ISABELL, Sandilé and Marcel Janovsky. Next up: Open Ground, Wuppertal on Sat 12 Dec.
+Sebastian Habben is a house and techno artist based in Germany, with 18 gigs on soundcheck across Cologne and Wuppertal. Often billed alongside ISABELL, Marcel Janovsky and Sandilé. Next up: Open Ground, Wuppertal on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Open Ground | Wuppertal |
+| Sun, 27 Dec 2026 | Gewölbe | Cologne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sebastian Habben is a house and techno artist based in Germany, with 17 gigs on 
 
 ## Shares bills with
 
-ISABELL (1), Sandilé, Marcel Janovsky
+ISABELL (1), Marcel Janovsky, Sandilé
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianhabben/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianhabben/)*

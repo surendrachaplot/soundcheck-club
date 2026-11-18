@@ -1,6 +1,6 @@
 # Upper East
 
-Upper East is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "The Launch" on Fri, 20 Nov 2026.
+Upper East is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "The Launch" on Fri, 20 Nov 2026.
 
 Upper East is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Dimanté, Erly Tepshi, FLORA THA EXPLORA and Folek and 2 more. See dates, start times and who's playing. 30 Bidder Street, London, E16 4SH, United Kingdom.
 
@@ -18,4 +18,4 @@ Upper East is a music venue in London listed on soundcheck. 5 upcoming gigs, wit
 
 30 Bidder Street, London, E16 4SH, United Kingdom, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/upper-east/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/upper-east/)*

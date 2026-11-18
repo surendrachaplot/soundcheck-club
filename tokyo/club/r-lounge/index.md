@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Techno's High" on Thu, 19 Nov 2026.
+R Lounge is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Techno's High" on Thu, 19 Nov 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including AKARI, akii, ATT and Attik and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with 
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Jimi Jules is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Jimi Jules is a house and techno artist based in Switzerland, with 221 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Dixon, Âme and Trikk. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Jimi Jules is a house and techno artist based in Switzerland, with 221 gigs on s
 
 Dixon, Âme, Trikk
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

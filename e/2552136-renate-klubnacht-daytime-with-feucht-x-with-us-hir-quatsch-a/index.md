@@ -1,6 +1,6 @@
 # Renate Klubnacht & Daytime with FEUCHT X WITH US, HIR & Quatsch at Renate
 
-Renate Klubnacht & Daytime with FEUCHT X WITH US, HIR & Quatsch on Sat 5 Dec, Berlin. 8 artists: Amphia, Barbad, CHRANDY and Doctora Amor and 4 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht & Daytime with FEUCHT X WITH US, HIR & Quatsch on Sat 5 Dec, Berlin. 11 artists: Amphia, Barbad, CHRANDY and Crystal and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,11 @@ Renate Klubnacht & Daytime with FEUCHT X WITH US, HIR & Quatsch on Sat 5 Dec, Be
 - Amphia
 - Barbad
 - CHRANDY
+- Crystal (3)
 - Doctora Amor
 - Femur
+- François Dulac
+- hi.fí
 - Julie Desire
 - Khloe
 - Mars O10C

@@ -1,6 +1,6 @@
 # DJ Bone presents: FURTHER NYE 2026 at RADION
 
-DJ Bone presents: FURTHER NYE 2026 at RADION on Thu 31 Dec, Amsterdam. 14 artists: 1morning, Azucy, DAIYAH and DJ Bone and 10 more. Techno and House. See the line-up on soundcheck.
+DJ Bone presents: FURTHER NYE 2026 at RADION on Thu 31 Dec, Amsterdam. 15 artists: 1morning, Azucy, DAIYAH and DJ Bone and 11 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ DJ Bone presents: FURTHER NYE 2026 at RADION on Thu 31 Dec, Amsterdam. 14 artist
 - Mr Andy
 - Nuno dos Santos
 - Remy Unger
+- Serge Jansen
 - Seven (2)
 - softchaos
 - Waajeed

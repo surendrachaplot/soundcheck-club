@@ -1,6 +1,6 @@
 # Teuro
 
-Teuro is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 11 Dec 2026.
+Teuro is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 11 Dec 2026.
 
 Teuro is an experimental and dub artist based in Germany, with 14 gigs on soundcheck across Cologne, Düsseldorf, Leipzig and Tbilisi. Often billed alongside Voltmar, Grischerr and Trancesetters of Westphalia. Next up: Salon des Amateurs, Düsseldorf on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Teuro is an experimental and dub artist based in Germany, with 14 gigs on soundc
 
 Voltmar, Grischerr, Trancesetters of Westphalia
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teuro/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teuro/)*

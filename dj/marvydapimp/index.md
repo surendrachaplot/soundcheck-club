@@ -1,6 +1,6 @@
 # Marvy Da Pimp
 
-Marvy Da Pimp is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Paramour, Brussels on Sat, 21 Nov 2026.
+Marvy Da Pimp is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Paramour, Brussels on Sat, 21 Nov 2026.
 
 Marvy Da Pimp is a footwork and ghetto tech artist based in France, with 7 gigs on soundcheck across Brussels and Paris. Often billed alongside Naynaydluxx, Amdience and Big Dope P. Next up: Paramour, Brussels on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Marvy Da Pimp is a footwork and ghetto tech artist based in France, with 7 gigs 
 
 Naynaydluxx, Amdience, Big Dope P
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvydapimp/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvydapimp/)*

@@ -1,14 +1,15 @@
 # Alexej
 
-Alexej is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Nikki Tiger, Hamburg on Fri, 20 Nov 2026.
+Alexej is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Nikki Tiger, Hamburg on Fri, 20 Nov 2026.
 
-Alexej is a house and techno artist based in Germany, with 18 gigs on soundcheck across Hamburg. Often billed alongside CHICHO, JASHTECH and Pamadii. Next up: Nikki Tiger, Hamburg on Fri 20 Nov.
+Alexej is a house and techno artist based in Germany, with 19 gigs on soundcheck across Hamburg. Often billed alongside JASHTECH, CHICHO and Burak55. Next up: Nikki Tiger, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Nikki Tiger | Hamburg |
+| Thu, 31 Dec 2026 | 7th Heaven | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alexej is a house and techno artist based in Germany, with 18 gigs on soundcheck
 
 ## Shares bills with
 
-CHICHO, JASHTECH, Pamadii
+JASHTECH, CHICHO, Burak55
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexej/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexej/)*

@@ -1,14 +1,15 @@
 # Emmanuelle 5
 
-Emmanuelle 5 is a Industrial and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Insomnia, Berlin on Fri, 4 Dec 2026.
+Emmanuelle 5 is a Industrial and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Insomnia, Berlin on Fri, 4 Dec 2026.
 
-Emmanuelle 5 is an industrial and post-punk artist based in France, with 17 gigs on soundcheck across Berlin and Paris. Often billed alongside The Shredder, Paulina Panik and Aliénore. Next up: Insomnia, Berlin on Fri 4 Dec.
+Emmanuelle 5 is an industrial and post-punk artist based in France, with 18 gigs on soundcheck across Berlin and Paris. Often billed alongside The Shredder, Paulina Panik and Aliénore. Next up: Insomnia, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Insomnia | Berlin |
+| Fri, 5 Feb 2027 | Insomnia | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Emmanuelle 5 is an industrial and post-punk artist based in France, with 17 gigs
 
 The Shredder, Paulina Panik, Aliénore
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelle5/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelle5/)*

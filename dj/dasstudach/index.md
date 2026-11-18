@@ -1,6 +1,6 @@
 # dasstudach
 
-dasstudach is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
+dasstudach is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
 
 dasstudach is a techno and trance artist based in Switzerland, with 160 gigs on soundcheck across Amsterdam, Basel, Berlin and Bern and 28 more. Often billed alongside Megix, Lola Cerise and Kander. Next up: Gotec, Karlsruhe on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ dasstudach is a techno and trance artist based in Switzerland, with 160 gigs on 
 
 Megix, Lola Cerise, Kander
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*

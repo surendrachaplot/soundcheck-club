@@ -1,6 +1,6 @@
 # Nicco Lupen
 
-Nicco Lupen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at El Espacio, Bogotá on Fri, 20 Nov 2026.
+Nicco Lupen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at El Espacio, Bogotá on Fri, 20 Nov 2026.
 
 Nicco Lupen is a house and tech house artist based in Italy, with 42 gigs on soundcheck across Bogotá and Prague. Often billed alongside Sam Gittis, Romerlin and rockorosso. Next up: El Espacio, Bogotá on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nicco Lupen is a house and tech house artist based in Italy, with 42 gigs on sou
 
 Sam Gittis, Romerlin, rockorosso
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*

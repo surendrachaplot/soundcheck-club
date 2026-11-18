@@ -1,13 +1,14 @@
 # Corios
 
-Corios is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at fi, Cologne on Sat, 5 Dec 2026.
+Corios is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
 
-Corios is a techno and downtempo artist based in Germany, with 60 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 5 more. Often billed alongside Maria Theresia von Eberg, Elias Goldmund and Naicet. Next up: fi, Cologne on Sat 5 Dec.
+Corios is a techno and house artist based in Germany, with 61 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 5 more. Often billed alongside Maria Theresia von Eberg, Elias Goldmund and Naicet. Next up: Komplex Berlin, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Komplex Berlin | Berlin |
 | Sat, 5 Dec 2026 | fi | Cologne |
 | Sat, 6 Feb 2027 | Ritter Butzke | Berlin |
 
@@ -26,4 +27,4 @@ Corios is a techno and downtempo artist based in Germany, with 60 gigs on soundc
 
 Maria Theresia von Eberg, Elias Goldmund, Naicet
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/corios/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/corios/)*

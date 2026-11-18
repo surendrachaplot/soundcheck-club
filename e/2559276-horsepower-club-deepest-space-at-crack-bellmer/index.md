@@ -1,6 +1,6 @@
 # Horsepower Club: Deepest Space at Crack Bellmer
 
-Horsepower Club: Deepest Space at Crack Bellmer on Sat 21 Nov, Berlin. 5 artists: 2727, Casey Fable, Miss T Delight and Rare Highs and 1 more. Techno and Bass. See the line-up on soundcheck.
+Horsepower Club: Deepest Space at Crack Bellmer on Sat 21 Nov, Berlin. 6 artists: 2727, Casey Fable, Kiki Dolce and Miss T Delight and 2 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Horsepower Club: Deepest Space at Crack Bellmer on Sat 21 Nov, Berlin. 5 artists
 
 - 2727
 - Casey Fable
+- Kiki Dolce
 - Miss T Delight
 - Rare Highs
 - Vytauras

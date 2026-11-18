@@ -1,6 +1,6 @@
 # Katsu
 
-Katsu is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - VELVET Lounge, Tokyo on Wed, 18 Nov 2026.
+Katsu is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - VELVET Lounge, Tokyo on Wed, 18 Nov 2026.
 
 Katsu is a techno and industrial artist based in Philippines, with 13 gigs on soundcheck across Manila, Osaka and Tokyo. Often billed alongside Kaito, DALJAE and DICE. Next up: TBA - VELVET Lounge, Tokyo on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ Katsu is a techno and industrial artist based in Philippines, with 13 gigs on so
 
 Kaito, DALJAE, DICE
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katsu/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katsu/)*

@@ -1,6 +1,6 @@
 # Photek
 
-Photek is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
+Photek is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
 
 Photek is a drum & bass and jungle artist based in United Kingdom, with 28 gigs on soundcheck across Antwerp, Berlin, Boston and Bristol and 14 more. Often billed alongside Goldie, Diverge and Ant TC1. Next up: Factory Town, Miami on Thu 3 Dec.
 
@@ -30,4 +30,4 @@ Photek is a drum & bass and jungle artist based in United Kingdom, with 28 gigs 
 
 Goldie, Diverge, Ant TC1
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*

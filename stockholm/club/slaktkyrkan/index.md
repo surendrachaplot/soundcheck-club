@@ -1,6 +1,6 @@
 # Slaktkyrkan
 
-Slaktkyrkan is a music venue in Stockholm with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Rebūke - Stockholm" on Fri, 20 Nov 2026.
+Slaktkyrkan is a music venue in Stockholm with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rebūke - Stockholm" on Fri, 20 Nov 2026.
 
 Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs, with line-ups including Dillinja, HLZ, JONOS and Nachtigaller and 2 more. See dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
 
@@ -18,4 +18,4 @@ Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs,
 
 Styckmästargatan 10, 121 62 Johanneshov, Svezia, Stockholm
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*

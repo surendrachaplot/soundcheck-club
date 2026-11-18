@@ -1,6 +1,6 @@
 # Schwofdrossel
 
-Schwofdrossel is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Beate Uwe, Berlin on Sun, 27 Dec 2026.
+Schwofdrossel is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Beate Uwe, Berlin on Sun, 27 Dec 2026.
 
 Schwofdrossel is a downtempo and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Copenhagen and 3 more. Often billed alongside Anders HP, Baime and Bomchello. Next up: Beate Uwe, Berlin on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Schwofdrossel is a downtempo and techno artist based in Germany, with 23 gigs on
 
 Anders HP, Baime, Bomchello
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwofdrossel/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwofdrossel/)*

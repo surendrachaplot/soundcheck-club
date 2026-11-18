@@ -1,6 +1,6 @@
 # Bal Chavaux
 
-Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Club Humide for TDOR" on Fri, 20 Nov 2026.
+Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Club Humide for TDOR" on Fri, 20 Nov 2026.
 
 Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Ernesto Chahoud, inadiloop, Lucifer and Majdolen and 2 more. See dates, start times and who's playing. 1 Av. de la Résistance, 93100 Montreuil.
 
@@ -17,4 +17,4 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, wit
 
 1 Av. de la Résistance, 93100 Montreuil, Paris
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*

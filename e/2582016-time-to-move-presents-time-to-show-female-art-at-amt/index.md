@@ -1,6 +1,6 @@
 # TIME TO MOVE presents: time to show female art at AMT
 
-TIME TO MOVE presents: time to show female art at AMT on Fri 8 Jan, Berlin. 3 artists: M4RY, MARRE and PyjamaMama. Techno and House. See the line-up on soundcheck.
+TIME TO MOVE presents: time to show female art at AMT on Fri 8 Jan, Berlin. 4 artists: HENI, M4RY, MARRE and PyjamaMama. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TIME TO MOVE presents: time to show female art at AMT on Fri 8 Jan, Berlin. 3 ar
 
 ## Line-up
 
+- HENI
 - M4RY
 - MARRE
 - PyjamaMama

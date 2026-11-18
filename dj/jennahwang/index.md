@@ -1,6 +1,6 @@
 # JENNA HWANG
 
-JENNA HWANG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Stoked&stoned, Seoul on Fri, 20 Nov 2026.
+JENNA HWANG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stoked&stoned, Seoul on Fri, 20 Nov 2026.
 
 JENNA HWANG is a house and techno artist, with 16 gigs on soundcheck across Seoul. Often billed alongside Sebibadboy, Youngseok and Gyusco. Next up: Stoked&stoned, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ JENNA HWANG is a house and techno artist, with 16 gigs on soundcheck across Seou
 
 Sebibadboy, Youngseok, Gyusco
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennahwang/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennahwang/)*

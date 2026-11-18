@@ -1,6 +1,6 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Richard Akingbehin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
 Richard Akingbehin is a techno and house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Tikiman, Fadi Mohem and OK Williams. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Richard Akingbehin is a techno and house artist based in United Kingdom, with 14
 
 Tikiman, Fadi Mohem, OK Williams
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

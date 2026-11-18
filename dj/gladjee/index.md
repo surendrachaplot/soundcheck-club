@@ -1,6 +1,6 @@
 # GLADJEE
 
-GLADJEE is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tunnel, Milan on Sat, 5 Dec 2026.
+GLADJEE is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Tunnel, Milan on Sat, 5 Dec 2026.
 
 GLADJEE is a techno and electronica artist based in Italy, with 43 gigs on soundcheck across Budapest, Milan, Rome and Sicily and 1 more. Often billed alongside AllaDerivaLontano, Hi/Fi and Mark Wark. Next up: Tunnel, Milan on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ GLADJEE is a techno and electronica artist based in Italy, with 43 gigs on sound
 
 AllaDerivaLontano, Hi/Fi, Mark Wark
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gladjee/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gladjee/)*

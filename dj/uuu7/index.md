@@ -1,6 +1,6 @@
 # uuu7
 
-uuu7 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Secret Location , Tokyo on Fri, 20 Nov 2026.
+uuu7 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location , Tokyo on Fri, 20 Nov 2026.
 
 uuu7 is a techno and house artist based in Japan, with 138 gigs on soundcheck across Tokyo. Often billed alongside EMILIO, Drinkss and SIGNAL (JP). Next up: TBA - Secret Location , Tokyo on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ uuu7 is a techno and house artist based in Japan, with 138 gigs on soundcheck ac
 
 EMILIO (3), Drinkss, SIGNAL (JP)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*

@@ -1,6 +1,6 @@
 # seren.a
 
-seren.a is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at FFT Düsseldorf, Düsseldorf on Sat, 21 Nov 2026.
+seren.a is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at FFT Düsseldorf, Düsseldorf on Sat, 21 Nov 2026.
 
 seren.a is a techno and house artist, with 11 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Tbilisi. Often billed alongside MarXa, Alisa Berger and Magical Grrrl. Next up: FFT Düsseldorf, Düsseldorf on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ seren.a is a techno and house artist, with 11 gigs on soundcheck across Berlin, 
 
 MarXa, Alisa Berger, Magical Grrrl
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seren.a/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seren.a/)*

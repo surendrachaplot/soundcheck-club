@@ -1,14 +1,15 @@
 # Silverlining
 
-Silverlining is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+Silverlining is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
-Silverlining is a house and tech house artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside 3 Minds, Sueezo and Trixie (UK). Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
+Silverlining is a house and tech house artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 26 more. Often billed alongside 3 Minds, Sueezo and Trixie (UK). Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
+| Sat, 28 Nov 2026 | Movers | Nottingham |
 | Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
 | Fri, 1 Jan 2027 | RADION | Amsterdam |
 
@@ -27,4 +28,4 @@ Silverlining is a house and tech house artist based in United Kingdom, with 109 
 
 3 Minds, Sueezo, Trixie (UK)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*

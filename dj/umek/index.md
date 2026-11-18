@@ -1,14 +1,15 @@
 # Umek
 
-Umek is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
+Umek is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
 
-Umek is a techno and electro artist based in Slovenia, with 64 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside SKIY, Sam Wolfe and A.N.I.. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
+Umek is a techno and electro artist based in Slovenia, with 65 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside SKIY, Sam Wolfe and A.N.I.. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
+| Sat, 12 Dec 2026 | Atlantic Sound | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Umek is a techno and electro artist based in Slovenia, with 64 gigs on soundchec
 
 SKIY, Sam Wolfe, A.N.I.
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umek/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umek/)*

@@ -1,6 +1,6 @@
 # Introducing Voltage at Eiger Studios
 
-Introducing Voltage at Eiger Studios on Sat 28 Nov, Leeds. 2 artists: BUTCHABOI and SUBVISIONS. Techno and Acid. See the line-up on soundcheck.
+Introducing Voltage at Eiger Studios on Sat 28 Nov, Leeds. 3 artists: AAMEE, BUTCHABOI and SUBVISIONS. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Introducing Voltage at Eiger Studios on Sat 28 Nov, Leeds. 2 artists: BUTCHABOI 
 
 ## Line-up
 
+- AAMEE
 - BUTCHABOI
 - SUBVISIONS
 

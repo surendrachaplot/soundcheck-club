@@ -1,6 +1,6 @@
 # Takuya Nakamura at Flash
 
-Takuya Nakamura at Flash on Sat 5 Dec, Washington DC. 3 artists: Julez, Proxxy and Takuya Nakamura. Drum & Bass and Jungle. See the line-up on soundcheck.
+Takuya Nakamura at Flash on Sat 5 Dec, Washington DC. 5 artists: Dub Science, Julez, Proxxy and spades and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Takuya Nakamura at Flash on Sat 5 Dec, Washington DC. 3 artists: Julez, Proxxy a
 
 ## Line-up
 
+- Dub Science
 - Julez (2)
 - Proxxy
+- spades
 - Takuya Nakamura
 
 *Source: [soundcheck](https://soundcheck.club/e/2532222-takuya-nakamura-at-flash/)*

@@ -1,10 +1,10 @@
 # Luxtura at THE OTHER SIDE
 
-Luxtura at THE OTHER SIDE on Fri 11 Dec, Amsterdam. Techno and Ambient. See the line-up on soundcheck.
+Luxtura at THE OTHER SIDE on Thu 14 Jan, Amsterdam. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 11 Dec 2026 |
+| Date | Thu, 14 Jan 2027 |
 | Venue | THE OTHER SIDE |
 | City | Amsterdam |
 

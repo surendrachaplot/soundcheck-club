@@ -1,6 +1,6 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Fri, 20 Nov 2026.
+Carl Cox is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Carl Cox is a techno and house artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 54 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Pier 48's Shed A, San Francisco/Oakland on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Carl Cox is a techno and house artist based in United Kingdom, with 159 gigs on 
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

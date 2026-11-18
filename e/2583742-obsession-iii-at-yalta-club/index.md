@@ -1,6 +1,6 @@
 # Obsession III at Yalta Club
 
-Obsession III at Yalta Club on Fri 15 Jan, Sofia. 3 artists: Razzor, Stameni and viktorija. Techno. See the line-up on soundcheck.
+Obsession III at Yalta Club on Fri 15 Jan, Sofia. 4 artists: Mila Wav, Razzor, Stameni and viktorija. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Obsession III at Yalta Club on Fri 15 Jan, Sofia. 3 artists: Razzor, Stameni and
 
 ## Line-up
 
+- Mila Wav
 - Razzor
 - Stameni
 - viktorija

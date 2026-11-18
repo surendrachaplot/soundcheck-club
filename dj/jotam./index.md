@@ -1,6 +1,6 @@
 # Jotam.
 
-Jotam. is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Rote Flora, Hamburg on Sat, 21 Nov 2026.
+Jotam. is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Rote Flora, Hamburg on Sat, 21 Nov 2026.
 
 Jotam. is a techno and ambient artist based in Germany, with 5 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Howler (UK), Alex Levin and Appleblim. Next up: Rote Flora, Hamburg on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Jotam. is a techno and ambient artist based in Germany, with 5 gigs on soundchec
 
 Howler (UK), Alex Levin, Appleblim
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotam./)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotam./)*

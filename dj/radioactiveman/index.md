@@ -1,6 +1,6 @@
 # Radioactive Man
 
-Radioactive Man is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 20 Nov 2026.
+Radioactive Man is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 20 Nov 2026.
 
 Radioactive Man is an electro and techno artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 21 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Humboldthain Club, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Radioactive Man is an electro and techno artist based in United Kingdom, with 90
 
 Unai Trotti, Craig Richards, Alien Communications
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*

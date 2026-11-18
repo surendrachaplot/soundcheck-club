@@ -1,6 +1,6 @@
 # Maison 3
 
-Maison 3 is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween Party" on Sat, 31 Oct 2026.
+Maison 3 is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "MAISON 3 Présente: Rem's Martinez" on Fri, 20 Nov 2026.
 
 Maison 3 is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Maison 3 is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dat
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Halloween Party |  |
+| Fri, 20 Nov 2026 | MAISON 3 Présente: Rem's Martinez |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/maison-3/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/maison-3/)*

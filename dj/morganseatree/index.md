@@ -1,8 +1,8 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+Morgan Seatree is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
 
-Morgan Seatree is a house and tech house artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 28 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
+Morgan Seatree is a house and tech house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 28 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Morgan Seatree is a house and tech house artist based in United Kingdom, with 98
 | Fri, 4 Dec 2026 | Club Vaag | Antwerp |
 | Sat, 5 Dec 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 19 Dec 2026 | Inter-City | The Hague |
+| Sun, 31 Jan 2027 | Thuishaven | Amsterdam |
 | Fri, 4 Jun 2027 | Clydeside Live | Glasgow |
 
 ## Recently played
@@ -32,4 +33,4 @@ Morgan Seatree is a house and tech house artist based in United Kingdom, with 98
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

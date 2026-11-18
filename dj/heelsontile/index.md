@@ -1,6 +1,6 @@
 # Heelsontile
 
-Heelsontile is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - INNER WEST, Sydney on Sat, 21 Nov 2026.
+Heelsontile is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - INNER WEST, Sydney on Sat, 21 Nov 2026.
 
 Heelsontile is a downtempo and electronica artist based in Australia, with 2 gigs on soundcheck across Sydney. Often billed alongside CLAIR (BAI), Cedar and F0ulplay. Next up: TBA - INNER WEST, Sydney on Sat 21 Nov.
 
@@ -15,4 +15,4 @@ Heelsontile is a downtempo and electronica artist based in Australia, with 2 gig
 
 CLAIR (BAI), Cedar (2), F0ulplay
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelsontile/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelsontile/)*

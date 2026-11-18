@@ -1,14 +1,15 @@
 # fae (UK)
 
-fae (UK) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
+fae (UK) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
-fae (UK) is a house and garage artist based in United Kingdom, with 81 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 3 more. Often billed alongside ohmydais, Ell Murphy and Jhumka. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
+fae (UK) is a house and garage artist based in United Kingdom, with 82 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 3 more. Often billed alongside ohmydais, Ell Murphy and Jhumka. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
+| Sat, 12 Dec 2026 | Aaja Basement | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ fae (UK) is a house and garage artist based in United Kingdom, with 81 gigs on s
 
 ohmydais, Ell Murphy, Jhumka
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faeuk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faeuk/)*

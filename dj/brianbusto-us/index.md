@@ -1,14 +1,15 @@
 # Brian Busto
 
-Brian Busto is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 21 Nov 2026.
+Brian Busto is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 21 Nov 2026.
 
-Brian Busto is a house and deep house artist based in United States of America, with 116 gigs on soundcheck across Orlando and Tampa Bay. Often billed alongside Rat Galactic, Christian Parchuke and Jason Kitchen. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 21 Nov.
+Brian Busto is a house and deep house artist based in United States of America, with 117 gigs on soundcheck across Orlando and Tampa Bay. Often billed alongside Rat Galactic, Jason Kitchen and Christian Parchuke. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | The Nest at St. Pete Brewing Co. | Tampa Bay |
+| Sat, 12 Dec 2026 | The Castle | Tampa Bay |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Brian Busto is a house and deep house artist based in United States of America, 
 
 ## Shares bills with
 
-Rat Galactic, Christian Parchuke, Jason Kitchen
+Rat Galactic, Jason Kitchen, Christian Parchuke
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brianbusto-us/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brianbusto-us/)*

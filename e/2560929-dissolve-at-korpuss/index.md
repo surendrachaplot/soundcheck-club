@@ -1,6 +1,6 @@
 # Dissolve at Korpuss
 
-Dissolve at Korpuss on Fri 20 Nov, Riga. 2 artists: DEP (LV) and VIKUSH. Drum & Bass and Techno. See the line-up on soundcheck.
+Dissolve at Korpuss on Fri 20 Nov, Riga. 3 artists: DEP (LV), VIKUSH and VON MONTAIN. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Dissolve at Korpuss on Fri 20 Nov, Riga. 2 artists: DEP (LV) and VIKUSH. Drum & 
 
 - DEP (LV)
 - VIKUSH
+- VON MONTAIN
 
 *Source: [soundcheck](https://soundcheck.club/e/2560929-dissolve-at-korpuss/)*

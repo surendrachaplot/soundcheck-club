@@ -1,6 +1,6 @@
 # EMARE return at NOT FOR SALE at Not For Sale Gallery
 
-EMARE return at NOT FOR SALE at Not For Sale Gallery on Sat 12 Dec, London. 3 artists: Leaches, Mattia Zucchelli and Simon Mós. Techno and Dub Techno. See the line-up on soundcheck.
+EMARE return at NOT FOR SALE at Not For Sale Gallery on Sat 12 Dec, London. 4 artists: Leaches, Marilena, Mattia Zucchelli and Simon Mós. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ EMARE return at NOT FOR SALE at Not For Sale Gallery on Sat 12 Dec, London. 3 ar
 ## Line-up
 
 - Leaches
+- Marilena
 - Mattia Zucchelli
 - Simon Mós
 

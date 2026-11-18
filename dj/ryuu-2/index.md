@@ -1,8 +1,8 @@
 # ryuu (2)
 
-ryuu (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
+ryuu (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
 
-ryuu is a house and techno artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside Pokaska, S.H.V and Shimon Taka. Next up: MIDNIGHT EAST, Tokyo on Fri 27 Nov.
+ryuu is a house and techno artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside S.H.V, Pokaska and Shimon Taka. Next up: MIDNIGHT EAST, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ ryuu is a house and techno artist based in Japan, with 13 gigs on soundcheck acr
 
 ## Shares bills with
 
-Pokaska, S.H.V, Shimon Taka
+S.H.V, Pokaska, Shimon Taka
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu-2/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu-2/)*

@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Još Gori Live - Day 1" on Fri, 20 Nov 2026.
+Karmakoma is a music venue in Belgrade with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Još Gori Live - Day 1" on Fri, 20 Nov 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 9 upcoming gigs, with line-ups including Aneri, Bosko Balos, Breezy S and Cruz (PT) and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -22,4 +22,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 9 upcoming gigs, wi
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

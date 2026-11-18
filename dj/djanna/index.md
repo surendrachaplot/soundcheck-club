@@ -1,6 +1,6 @@
 # ANNA
 
-ANNA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Coda, Toronto on Fri, 20 Nov 2026.
+ANNA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Coda, Toronto on Fri, 20 Nov 2026.
 
 ANNA is a techno and house artist based in Brazil, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Vintage Culture, Carlita and Adam Beyer. Next up: Coda, Toronto on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ ANNA is a techno and house artist based in Brazil, with 123 gigs on soundcheck a
 
 Vintage Culture, Carlita, Adam Beyer
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

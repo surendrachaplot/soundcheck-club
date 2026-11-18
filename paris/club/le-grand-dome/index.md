@@ -1,13 +1,13 @@
 # Le Grand Dome
 
-Le Grand Dome is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap" on Thu, 31 Dec 2026.
+Le Grand Dome is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap" on Thu, 31 Dec 2026.
 
-Le Grand Dome is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including SANTØS and Vieze Asbak. See dates, start times and who's playing.
+Le Grand Dome is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Creeds, SANTØS and Vieze Asbak. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 31 Dec 2026 | Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap | SANTØS, Vieze Asbak |
+| Thu, 31 Dec 2026 | Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap | Creeds, SANTØS, Vieze Asbak |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-grand-dome/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-grand-dome/)*

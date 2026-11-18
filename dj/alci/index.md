@@ -1,6 +1,6 @@
 # Alci
 
-Alci is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Nordstern, Basel on Fri, 27 Nov 2026.
+Alci is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Nordstern, Basel on Fri, 27 Nov 2026.
 
 Alci is a house and minimal artist based in Switzerland, with 127 gigs on soundcheck across Amsterdam, Atlanta, Bahrain and Barcelona and 31 more. Often billed alongside Flavio (CH), Mateo Dufour and Toman. Next up: Nordstern, Basel on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Alci is a house and minimal artist based in Switzerland, with 127 gigs on soundc
 
 Flavio (CH), Mateo Dufour, Toman
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

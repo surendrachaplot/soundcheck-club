@@ -1,17 +1,18 @@
 # Violetta
 
-Violetta is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "PHONORAMA" on Sat, 21 Nov 2026.
+Violetta is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Back to basic" on Thu, 19 Nov 2026.
 
-Violetta is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Shoko-Bons. See dates, start times and who's playing. B1F 3-1-9 Shibuya, Shibuya-ku, 150-0002 Tokyo.
+Violetta is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AMG SAIMURA (TECHVANE), Aquarium and Shoko-Bons. See dates, start times and who's playing. B1F 3-1-9 Shibuya, Shibuya-ku, 150-0002 Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Back to basic | AMG SAIMURA (TECHVANE), Aquarium |
 | Sat, 21 Nov 2026 | PHONORAMA | Shoko-Bons |
 
 ## Address
 
 B1F 3-1-9 Shibuya, Shibuya-ku, 150-0002 Tokyo, Tokyo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/violetta/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/violetta/)*

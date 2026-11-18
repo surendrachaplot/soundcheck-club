@@ -1,6 +1,6 @@
 # Lomax
 
-Lomax is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at komunal, Birmingham on Sat, 21 Nov 2026.
+Lomax is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at komunal, Birmingham on Sat, 21 Nov 2026.
 
 Lomax is a house and techno artist based in Japan, with 159 gigs on soundcheck across Amsterdam, Birmingham, Ho Chi Minh City and Kyoto and 4 more. Often billed alongside Stones Taro, kitapon and droove. Next up: komunal, Birmingham on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Lomax is a house and techno artist based in Japan, with 159 gigs on soundcheck a
 
 Stones Taro, kitapon, droove
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lomax/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lomax/)*

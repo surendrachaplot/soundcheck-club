@@ -1,13 +1,14 @@
 # Dj Bal-T
 
-Dj Bal-T is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bolero, Seoul on Thu, 19 Nov 2026.
+Dj Bal-T is a Club and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Thu, 19 Nov 2026.
 
-Dj Bal-T is a drum & bass and garage artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Bristol, London and Melbourne and 2 more. Often billed alongside DJ Habibeats, Arjxn and COOK SWEET. Next up: Bolero, Seoul on Thu 19 Nov.
+Dj Bal-T is a club and drum & bass artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Bristol, London and Melbourne and 2 more. Often billed alongside DJ Habibeats, Silly Silky and Unkelchubbz. Next up: Bolero, Seoul on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Bolero | Seoul |
 | Thu, 19 Nov 2026 | Bolero | Seoul |
 
 ## Recently played
@@ -23,6 +24,6 @@ Dj Bal-T is a drum & bass and garage artist based in United Kingdom, with 9 gigs
 
 ## Shares bills with
 
-DJ Habibeats, Arjxn, COOK SWEET
+DJ Habibeats, Silly Silky, Unkelchubbz
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbal-t/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbal-t/)*

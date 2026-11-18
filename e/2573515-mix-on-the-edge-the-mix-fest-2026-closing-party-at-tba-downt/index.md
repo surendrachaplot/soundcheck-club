@@ -1,6 +1,6 @@
 # MIX On The Edge: The MIX FEST 2026 Closing Party at TBA - Downtown Manhattan Loft
 
-MIX On The Edge: The MIX FEST 2026 Closing Party at TBA - Downtown Manhattan Loft on Sat 21 Nov, New York City. 6 artists: Amygdala, Buffy, Kneaku and MTHR TRSA and 2 more. Bass and Experimental. See the line-up on soundcheck.
+MIX On The Edge: The MIX FEST 2026 Closing Party at TBA - Downtown Manhattan Loft on Sat 21 Nov, New York City. 7 artists: Amygdala, Buffy, Kneaku and MTHR TRSA and 3 more. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ MIX On The Edge: The MIX FEST 2026 Closing Party at TBA - Downtown Manhattan Lof
 - Buffy
 - Kneaku
 - MTHR TRSA
+- Soo Intoit
 - Tristan Allen
 - VILE
 

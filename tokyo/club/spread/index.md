@@ -1,6 +1,6 @@
 # Spread
 
-Spread is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "micoto 1st Anniversary Party" on Sat, 14 Nov 2026.
+Spread is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Parallel Line × Gospel" on Tue, 8 Dec 2026.
 
 Spread is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -8,10 +8,10 @@ Spread is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | micoto 1st Anniversary Party |  |
+| Tue, 8 Dec 2026 | Parallel Line × Gospel |  |
 
 ## Address
 
 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*

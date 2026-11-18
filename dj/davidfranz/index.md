@@ -1,6 +1,6 @@
 # David Franz
 
-David Franz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Legal, Munich on Sat, 21 Nov 2026.
+David Franz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Legal, Munich on Sat, 21 Nov 2026.
 
 David Franz is a house and tech house artist based in Germany, with 16 gigs on soundcheck across Munich. Often billed alongside Niko S., Ellice and Käthe. Next up: Legal, Munich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ David Franz is a house and tech house artist based in Germany, with 16 gigs on s
 
 Niko S., Ellice, Käthe
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfranz/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfranz/)*

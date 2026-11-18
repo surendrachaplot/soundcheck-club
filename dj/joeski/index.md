@@ -1,6 +1,6 @@
 # Joeski
 
-Joeski is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Lion's Den, Miami on Fri, 20 Nov 2026.
+Joeski is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Lion's Den, Miami on Fri, 20 Nov 2026.
 
 Joeski is a house and afro house artist, with 62 gigs on soundcheck across Austin, Boston, Charlotte and Chicago and 15 more. Often billed alongside DJ Joeski, DJ Chus and Black Coffee. Next up: Lion's Den, Miami on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Joeski is a house and afro house artist, with 62 gigs on soundcheck across Austi
 
 DJ Joeski, DJ Chus, Black Coffee
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*

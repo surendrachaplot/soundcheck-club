@@ -1,6 +1,6 @@
 # Ricardo Baez
 
-Ricardo Baez is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Apollo Club Milano, Milan on Sat, 21 Nov 2026.
+Ricardo Baez is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Apollo Club Milano, Milan on Sat, 21 Nov 2026.
 
 Ricardo Baez is a house and techno artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Florence and 6 more. Often billed alongside gaiden, Teo Naddi and Inopia. Next up: Apollo Club Milano, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Ricardo Baez is a house and techno artist based in Italy, with 102 gigs on sound
 
 gaiden, Teo Naddi, Inopia
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardobaez/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardobaez/)*

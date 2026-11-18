@@ -1,6 +1,6 @@
 # naafi
 
-naafi is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Fairfield Club, Glasgow on Sun, 22 Nov 2026.
+naafi is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Fairfield Club, Glasgow on Sun, 22 Nov 2026.
 
 naafi is a techno and baile funk artist, with 17 gigs on soundcheck across Edinburgh, Glasgow, Los Angeles and Toronto. Often billed alongside Ard1n, Daksh and myst milano.. Next up: Fairfield Club, Glasgow on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ naafi is a techno and baile funk artist, with 17 gigs on soundcheck across Edinb
 
 Ard1n, Daksh, myst milano.
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naafi-uk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naafi-uk/)*

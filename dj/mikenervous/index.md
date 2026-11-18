@@ -1,6 +1,6 @@
 # Mike Nervous
 
-Mike Nervous is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Negroni Bistro & Sushi Bar, Miami on Thu, 19 Nov 2026.
+Mike Nervous is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Negroni Bistro & Sushi Bar, Miami on Thu, 19 Nov 2026.
 
 Mike Nervous is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 4 more. Often billed alongside Benny Soto, Lazaro Casanova and Mandiz. Next up: Negroni Bistro & Sushi Bar, Miami on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Mike Nervous is a house and tech house artist based in United States of America,
 
 Benny Soto, Lazaro Casanova, Mandiz
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*

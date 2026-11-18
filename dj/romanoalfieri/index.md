@@ -1,6 +1,6 @@
 # Romano Alfieri
 
-Romano Alfieri is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Silencio, Paris on Thu, 19 Nov 2026.
+Romano Alfieri is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Silencio, Paris on Thu, 19 Nov 2026.
 
 Romano Alfieri is a tech house and electronica artist based in Italy, with 14 gigs on soundcheck across London, Milan, Naples and Paris and 2 more. Often billed alongside Germano Ventura, Ale Bi and Chaos In The CBD. Next up: Silencio, Paris on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Romano Alfieri is a tech house and electronica artist based in Italy, with 14 gi
 
 Germano Ventura, Ale Bi, Chaos In The CBD
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanoalfieri/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanoalfieri/)*

@@ -1,6 +1,6 @@
 # Simon Doty
 
-Simon Doty is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bar Oriente, Mexico City on Sat, 28 Nov 2026.
+Simon Doty is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bar Oriente, Mexico City on Sat, 28 Nov 2026.
 
 Simon Doty is a progressive house and house artist based in Canada, with 118 gigs on soundcheck across Adelaide, Austin, Baltimore and Boston and 43 more. Often billed alongside Marsh, Braxton and Dosem. Next up: Bar Oriente, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Simon Doty is a progressive house and house artist based in Canada, with 118 gig
 
 Marsh, Braxton, Dosem
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*

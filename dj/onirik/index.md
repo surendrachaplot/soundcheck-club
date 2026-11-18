@@ -1,6 +1,6 @@
 # Onirik
 
-Onirik is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
+Onirik is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
 
 Onirik is a house and techno artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside GNMR, Karine and Ancut. Next up: Signal, New York City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Onirik is a house and techno artist based in Germany, with 74 gigs on soundcheck
 
 GNMR, Karine, Ancut
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*

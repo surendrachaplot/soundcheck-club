@@ -1,8 +1,8 @@
 # DAVI
 
-DAVI is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Spin, San Diego on Sat, 5 Dec 2026.
+DAVI is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Spin, San Diego on Sat, 5 Dec 2026.
 
-DAVI is a house and deep house artist based in United States of America, with 71 gigs on soundcheck across Dallas/Fort Worth, Kyoto, Los Angeles and Medellin and 9 more. Often billed alongside Anton Tumas, Ray Kash and Doc Martin. Next up: Spin, San Diego on Sat 5 Dec.
+DAVI is a house and deep house artist based in United States of America, with 72 gigs on soundcheck across Dallas/Fort Worth, Kyoto, Los Angeles and Medellin and 9 more. Often billed alongside Anton Tumas, Ray Kash and Doc Martin. Next up: Spin, San Diego on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DAVI is a house and deep house artist based in United States of America, with 71
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Spin | San Diego |
 | Fri, 11 Dec 2026 | Do Not Sit On The Furniture | Miami |
+| Fri, 22 Jan 2027 | SILO | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DAVI is a house and deep house artist based in United States of America, with 71
 
 Anton Tumas, Ray Kash, Doc Martin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*

@@ -1,6 +1,6 @@
 # Form at G.R Cafe Terrace
 
-Form at G.R Cafe Terrace on Sun 6 Dec, Osaka. 1 artist: LEiCA. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Form at G.R Cafe Terrace on Sun 6 Dec, Osaka. 2 artists: LEiCA and Mameron. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Form at G.R Cafe Terrace on Sun 6 Dec, Osaka. 1 artist: LEiCA. Drum & Bass and D
 ## Line-up
 
 - LEiCA
+- Mameron
 
 *Source: [soundcheck](https://soundcheck.club/e/2582755-form-at-g-r-cafe-terrace/)*

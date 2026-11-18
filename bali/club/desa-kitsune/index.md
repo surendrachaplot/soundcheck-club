@@ -1,14 +1,13 @@
 # Desa Kitsune
 
-Desa Kitsune is a music venue in Bali with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Benja" on Tue, 17 Nov 2026.
+Desa Kitsune is a music venue in Bali with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Elation" on Fri, 20 Nov 2026.
 
-Desa Kitsune is a music venue in Bali listed on soundcheck. 10 upcoming gigs, with line-ups including AMÉMÉ, Benja, Carl Cox and Franc Fala and 2 more. See dates, start times and who's playing.
+Desa Kitsune is a music venue in Bali listed on soundcheck. 9 upcoming gigs, with line-ups including AMÉMÉ, Carl Cox, Franc Fala and JUNO (DE) and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | Benja | Benja |
 | Fri, 20 Nov 2026 | Elation | PAPU, Rowen Clark |
 | Tue, 24 Nov 2026 | Franc Fala | Franc Fala |
 | Tue, 24 Nov 2026 | JUNO | JUNO (DE) |
@@ -19,4 +18,4 @@ Desa Kitsune is a music venue in Bali listed on soundcheck. 10 upcoming gigs, wi
 | Tue, 15 Dec 2026 | Ranger Trucco | Ranger Trucco |
 | Tue, 5 Jan 2027 | Carl Cox | Carl Cox |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsune/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsune/)*

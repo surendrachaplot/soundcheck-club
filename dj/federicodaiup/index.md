@@ -1,13 +1,14 @@
 # Federico Daiup
 
-Federico Daiup is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
+Federico Daiup is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Only the Wild Ones, Los Angeles on Sun, 22 Nov 2026.
 
-Federico Daiup is a house and minimal artist based in Argentina, with 11 gigs on soundcheck across Los Angeles, Miami and Seattle. Often billed alongside Colored Craig, Bodeler and Konifer. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 12 Dec.
+Federico Daiup is a house and minimal artist based in Argentina, with 12 gigs on soundcheck across Los Angeles, Miami and Seattle. Often billed alongside Colored Craig, Bodeler and Konifer. Next up: Only the Wild Ones, Los Angeles on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Only the Wild Ones | Los Angeles |
 | Sat, 12 Dec 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Federico Daiup is a house and minimal artist based in Argentina, with 11 gigs on
 
 Colored Craig, Bodeler, Konifer
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicodaiup/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicodaiup/)*

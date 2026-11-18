@@ -1,6 +1,6 @@
 # Sidecar
 
-Sidecar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Bagon vol. 1" on Thu, 19 Nov 2026.
+Sidecar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Bagon vol. 1" on Thu, 19 Nov 2026.
 
 Sidecar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including INOFF, Maadraassoo and Victor Hugo. See dates, start times and who's playing. Plaça Reial, 7; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Sidecar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, wi
 
 Plaça Reial, 7; 08002 Barcelona; Spain, Barcelona
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*

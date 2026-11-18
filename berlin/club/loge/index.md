@@ -1,6 +1,6 @@
 # Loge.
 
-Loge. is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Gnoomes (live)" on Fri, 20 Nov 2026.
+Loge. is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Gnoomes, Telemat" on Fri, 20 Nov 2026.
 
 Loge. is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Kinzigstraße 9, 10247 Berlin, Germany.
 
@@ -8,10 +8,10 @@ Loge. is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Gnoomes (live) |  |
+| Fri, 20 Nov 2026 | Gnoomes, Telemat |  |
 
 ## Address
 
 Kinzigstraße 9, 10247 Berlin, Germany, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/loge/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/loge/)*

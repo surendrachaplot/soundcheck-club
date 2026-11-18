@@ -1,6 +1,6 @@
 # Discopatía with Transparent Sound at Cadavra
 
-Discopatía with Transparent Sound at Cadavra on Fri 11 Dec, Madrid. 4 artists: Aury, Ed Warner, Sindicato Del Baile and Transparent Sound. Electronica. See the line-up on soundcheck.
+Discopatía with Transparent Sound at Cadavra on Fri 11 Dec, Madrid. 5 artists: Aury, Ed Warner, Sindicato Del Baile and Transparent Sound and 1 more. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Discopatía with Transparent Sound at Cadavra on Fri 11 Dec, Madrid. 4 artists: 
 - Ed Warner
 - Sindicato Del Baile
 - Transparent Sound
+- Valle
 
 *Source: [soundcheck](https://soundcheck.club/e/2583513-discopat-a-with-transparent-sound-at-cadavra/)*

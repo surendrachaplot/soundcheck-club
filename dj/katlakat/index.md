@@ -1,6 +1,6 @@
 # Kat La Kat
 
-Kat La Kat is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Castle of Good Hope, Cape-town on Sat, 16 Jan 2027.
+Kat La Kat is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Castle of Good Hope, Cape-town on Sat, 16 Jan 2027.
 
 Kat La Kat is a house and deep house artist based in South Africa, with 5 gigs on soundcheck across Cape Town. Often billed alongside !Sooks, Black Villain and Cody Losper. Next up: The Castle of Good Hope, Cape Town on Sat 16 Jan.
 
@@ -21,4 +21,4 @@ Kat La Kat is a house and deep house artist based in South Africa, with 5 gigs o
 
 !Sooks, Black Villain, Cody Losper
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katlakat/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katlakat/)*

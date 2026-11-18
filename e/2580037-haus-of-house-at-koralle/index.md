@@ -1,6 +1,6 @@
 # Haus of House at Koralle
 
-Haus of House at Koralle on Fri 20 Nov, Dresden. 3 artists: Gabriele Congedo, Larry Love and OutWithJane. House and Tech House. See the line-up on soundcheck.
+Haus of House at Koralle on Fri 20 Nov, Dresden. 4 artists: Gabriele Congedo, Larry Love, Martinika and OutWithJane. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Haus of House at Koralle on Fri 20 Nov, Dresden. 3 artists: Gabriele Congedo, La
 
 - Gabriele Congedo
 - Larry Love
+- Martinika
 - OutWithJane
 
 *Source: [soundcheck](https://soundcheck.club/e/2580037-haus-of-house-at-koralle/)*

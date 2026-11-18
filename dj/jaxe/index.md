@@ -1,6 +1,6 @@
 # Jaxe
 
-Jaxe is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Klub SPATiF, Warsaw on Fri, 20 Nov 2026.
+Jaxe is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Klub SPATiF, Warsaw on Fri, 20 Nov 2026.
 
 Jaxe is an electronica and techno artist based in Poland, with 5 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Adelix, Avashi and Beniovska. Next up: Klub SPATiF, Warsaw on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Jaxe is an electronica and techno artist based in Poland, with 5 gigs on soundch
 
 Adelix, Avashi, Beniovska
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxe/)*

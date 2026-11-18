@@ -1,13 +1,14 @@
 # Julia Maria
 
-Julia Maria is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
+Julia Maria is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ingang, Amsterdam on Sun, 22 Nov 2026.
 
-Julia Maria is a techno and dub techno artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Rotterdam and 3 more. Often billed alongside BIANKA, Delano Legito and JSPRV35. Next up: ANTIA, Netherlands on Fri 27 Nov.
+Julia Maria is a techno and house artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Rotterdam and 3 more. Often billed alongside Delano Legito, BIANKA and JSPRV35. Next up: ingang, Amsterdam on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | ingang | Amsterdam |
 | Fri, 27 Nov 2026 | ANTIA | Netherlands |
 
 ## Recently played
@@ -23,6 +24,6 @@ Julia Maria is a techno and dub techno artist based in Netherlands, with 32 gigs
 
 ## Shares bills with
 
-BIANKA, Delano Legito, JSPRV35
+Delano Legito, BIANKA, JSPRV35
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliamaria/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliamaria/)*

@@ -1,6 +1,6 @@
 # Anton Kubikov
 
-Anton Kubikov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
+Anton Kubikov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
 
 Anton Kubikov is a techno and house artist based in Russia, with 45 gigs on soundcheck across Bali, Beijing, Berlin and Budapest and 6 more. Often billed alongside Robert Drewek, Daniel Neighbour and Ark3r. Next up: Bike Jesus, Prague on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Anton Kubikov is a techno and house artist based in Russia, with 45 gigs on soun
 
 Robert Drewek, Daniel Neighbour, Ark3r
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonkubikov/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonkubikov/)*

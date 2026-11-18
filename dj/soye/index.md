@@ -1,6 +1,6 @@
 # Soyé
 
-Soyé is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Alimentation Générale, Paris on Sat, 28 Nov 2026.
+Soyé is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Alimentation Générale, Paris on Sat, 28 Nov 2026.
 
 Soyé is a disco and house artist, with 5 gigs on soundcheck across Paris. Often billed alongside Ixpé. Next up: Alimentation Générale, Paris on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Soyé is a disco and house artist, with 5 gigs on soundcheck across Paris. Often
 
 Ixpé
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soye/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soye/)*

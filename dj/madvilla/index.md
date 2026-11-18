@@ -1,8 +1,8 @@
 # MADVILLA
 
-MADVILLA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 26 Nov 2026.
+MADVILLA is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 26 Nov 2026.
 
-MADVILLA is a house and tech house artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 21 more. Often billed alongside Garrett David, Benji King and Captain Wallop. Next up: The Berkeley Suite, Glasgow on Thu 26 Nov.
+MADVILLA is a house and tech house artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 21 more. Often billed alongside Garrett David, Benji King and Captain Wallop. Next up: The Berkeley Suite, Glasgow on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MADVILLA is a house and tech house artist based in United States of America, wit
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | The Berkeley Suite | Glasgow |
 | Fri, 4 Dec 2026 | Secret Location - North London | London |
+| Fri, 1 Jan 2027 | Doka | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MADVILLA is a house and tech house artist based in United States of America, wit
 
 Garrett David, Benji King, Captain Wallop
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*

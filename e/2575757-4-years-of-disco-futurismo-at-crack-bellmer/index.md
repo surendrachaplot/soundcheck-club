@@ -1,6 +1,6 @@
 # 4 Years of Disco Futurismo at Crack Bellmer
 
-4 Years of Disco Futurismo at Crack Bellmer on Sat 19 Dec, Berlin. 2 artists: Moni von Pisani and Zehlendorfer Disco Squad. House and Disco. See the line-up on soundcheck.
+4 Years of Disco Futurismo at Crack Bellmer on Sat 19 Dec, Berlin. 3 artists: Frau Mü, Moni von Pisani and Zehlendorfer Disco Squad. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Frau Mü
 - Moni von Pisani
 - Zehlendorfer Disco Squad
 

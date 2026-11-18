@@ -1,6 +1,6 @@
 # Gigi Masin
 
-Gigi Masin is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at EartH, London on Wed, 18 Nov 2026.
+Gigi Masin is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at EartH, London on Wed, 18 Nov 2026.
 
 Gigi Masin is an ambient and electronica artist based in Italy, with 11 gigs on soundcheck across Berlin, Dublin, Glasgow and Helsinki and 5 more. Often billed alongside Valentina Magaletti, Tony Njoku and upsammy. Next up: EartH, London on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ Gigi Masin is an ambient and electronica artist based in Italy, with 11 gigs on 
 
 Valentina Magaletti, Tony Njoku, upsammy
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*

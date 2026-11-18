@@ -1,6 +1,6 @@
 # Sebastian Mullaert
 
-Sebastian Mullaert is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Konzerthaus Berlin, Berlin on Sat, 21 Nov 2026.
+Sebastian Mullaert is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Konzerthaus Berlin, Berlin on Sat, 21 Nov 2026.
 
 Sebastian Mullaert is a techno and house artist based in Sweden, with 29 gigs on soundcheck across Amsterdam, Basel, Berlin and Brighton and 12 more. Often billed alongside Mathew Jonson, Barker and Dorisburg. Next up: Konzerthaus Berlin, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sebastian Mullaert is a techno and house artist based in Sweden, with 29 gigs on
 
 Mathew Jonson, Barker, Dorisburg
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*

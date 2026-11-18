@@ -1,6 +1,6 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
+Nico Moreno is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
 
 Nico Moreno is a techno and house artist based in France, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 86 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 21 Nov.
 
@@ -33,4 +33,4 @@ Nico Moreno is a techno and house artist based in France, with 228 gigs on sound
 
 I Hate Models, DYEN, Trym
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

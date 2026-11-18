@@ -1,13 +1,14 @@
 # Damytic
 
-Damytic is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Damytic is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 6 Dec 2026.
 
-Damytic is a minimal and house artist based in Colombia, with 5 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Benny (El Rio Hostel), Panthora and SAMM UKWU. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Damytic is a minimal and house artist based in Colombia, with 6 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Benny (El Rio Hostel), Mavvi and Panthora. Next up: El Rio Hostel, Colombia on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | El Rio Hostel | Colombia |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -19,6 +20,6 @@ Damytic is a minimal and house artist based in Colombia, with 5 gigs on soundche
 
 ## Shares bills with
 
-Benny (El Rio Hostel), Panthora, SAMM UKWU
+Benny (El Rio Hostel), Mavvi, Panthora
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damytic/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damytic/)*

@@ -1,6 +1,6 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Flash, Washington DC on Sat, 28 Nov 2026.
+Clovis is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Flash, Washington DC on Sat, 28 Nov 2026.
 
 Clovis is a house and minimal artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 18 more. Often billed alongside Topper, Cesar Merveille and Inner. Next up: Flash, Washington DC on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Clovis is a house and minimal artist based in Germany, with 102 gigs on soundche
 
 Topper, Cesar Merveille, Inner
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*

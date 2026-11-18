@@ -1,6 +1,6 @@
 # RECORD STORE DAY at LKR at Low Key Records
 
-RECORD STORE DAY at LKR at Low Key Records on Sun 6 Dec, Sofia. 1 artist: Frykk. House and Tech House. See the line-up on soundcheck.
+RECORD STORE DAY at LKR at Low Key Records on Sun 6 Dec, Sofia. 2 artists: Frykk and stfn. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ RECORD STORE DAY at LKR at Low Key Records on Sun 6 Dec, Sofia. 1 artist: Frykk.
 ## Line-up
 
 - Frykk
+- stfn
 
 *Source: [soundcheck](https://soundcheck.club/e/2584013-record-store-day-at-lkr-at-low-key-records/)*

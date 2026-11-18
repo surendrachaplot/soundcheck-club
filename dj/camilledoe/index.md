@@ -1,6 +1,6 @@
 # Camille Doe
 
-Camille Doe is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at La Gravière, Geneva on Fri, 20 Nov 2026.
+Camille Doe is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Gravière, Geneva on Fri, 20 Nov 2026.
 
 Camille Doe is a house and garage artist based in France, with 85 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 13 more. Often billed alongside Lefblom, GOGO GREEN and Interplanetary Criminal. Next up: La Gravière, Geneva on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Camille Doe is a house and garage artist based in France, with 85 gigs on soundc
 
 Lefblom, GOGO GREEN, Interplanetary Criminal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*

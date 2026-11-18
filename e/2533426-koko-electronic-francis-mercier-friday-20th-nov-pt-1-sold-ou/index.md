@@ -1,0 +1,17 @@
+# KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) [SOLD OUT] at KOKO
+
+KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) [SOLD OUT] on Fri 20 Nov, London. 3 artists: Francis Mercier, Nadrums and Neyl. Afro House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 20 Nov 2026 |
+| Venue | KOKO |
+| City | London |
+
+## Line-up
+
+- Francis Mercier
+- Nadrums
+- Neyl (1)
+
+*Source: [soundcheck](https://soundcheck.club/e/2533426-koko-electronic-francis-mercier-friday-20th-nov-pt-1-sold-ou/)*

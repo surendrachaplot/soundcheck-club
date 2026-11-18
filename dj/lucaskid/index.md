@@ -1,6 +1,6 @@
 # Lucas Kid
 
-Lucas Kid is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ACERVO BAR, Rio de Janeiro on Fri, 20 Nov 2026.
+Lucas Kid is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ACERVO BAR, Rio de Janeiro on Fri, 20 Nov 2026.
 
 Lucas Kid is a baile funk and techno artist based in Brazil, with 14 gigs on soundcheck across Barcelona, Brussels, Mexico City and Rio de Janeiro and 2 more. Often billed alongside Carlos do Complexo, JCVS and Kontronatura. Next up: ACERVO BAR, Rio de Janeiro on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lucas Kid is a baile funk and techno artist based in Brazil, with 14 gigs on sou
 
 Carlos do Complexo, JCVS, Kontronatura
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaskid/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaskid/)*

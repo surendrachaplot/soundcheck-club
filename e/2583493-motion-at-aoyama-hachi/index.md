@@ -1,6 +1,6 @@
 # Motion at Aoyama Hachi
 
-Motion at Aoyama Hachi on Sun 6 Dec, Tokyo. 7 artists: KAIKAI, MAHO, MZKN and SAKI and 3 more. Techno and House. See the line-up on soundcheck.
+Motion at Aoyama Hachi on Sun 6 Dec, Tokyo. 8 artists: Hitoshi Takamatsu, KAIKAI, MAHO and MZKN and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Motion at Aoyama Hachi on Sun 6 Dec, Tokyo. 7 artists: KAIKAI, MAHO, MZKN and SA
 
 ## Line-up
 
+- Hitoshi Takamatsu
 - KAIKAI
 - MAHO
 - MZKN

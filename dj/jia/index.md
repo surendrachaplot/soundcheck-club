@@ -1,14 +1,15 @@
 # JIA
 
-JIA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Walter Studios, Phoenix on Sat, 21 Nov 2026.
+JIA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Walter Studios, Phoenix on Sat, 21 Nov 2026.
 
-JIA is a techno and acid artist based in Guam, with 52 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Chengdu and 18 more. Often billed alongside NEKTER, Jonny Maven and 999999999. Next up: Walter Studios, Phoenix on Sat 21 Nov.
+JIA is a techno and acid artist based in Guam, with 53 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Chengdu and 18 more. Often billed alongside NEKTER, 999999999 and Jonny Maven. Next up: Walter Studios, Phoenix on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Walter Studios | Phoenix |
+| Fri, 18 Dec 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ JIA is a techno and acid artist based in Guam, with 52 gigs on soundcheck across
 
 ## Shares bills with
 
-NEKTER, Jonny Maven, 999999999
+NEKTER, 999999999, Jonny Maven
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jia/)*

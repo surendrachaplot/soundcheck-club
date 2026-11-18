@@ -1,14 +1,14 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Ezequiel Arias" on Fri, 20 Nov 2026.
+NUMBER 90 LONDON is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Ezequiel Arias" on Fri, 20 Nov 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Akua, Alba Heidari, Alisdair and Amaliah and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Akua, Alba Heidari, Alisdair and Amaliah and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Ezequiel Arias | Ezequiel Arias, Maze 28 |
+| Fri, 20 Nov 2026 | Ezequiel Arias | Ezequiel Arias, Jody Barr |
 | Sat, 21 Nov 2026 | M.A.D Records 6th BIRTHDAY | Ellie Anderson, Make A Dance, Tino |
 | Sun, 22 Nov 2026 | Cartulis 17th Anniversary After Party | Cecilio, Laurine |
 | Fri, 27 Nov 2026 | Faem e Li presents: Malix & Friends | Amaliah, LORA S, Nyra, Selassie TBC, malix |
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

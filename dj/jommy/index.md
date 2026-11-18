@@ -1,13 +1,14 @@
 # JOMMY
 
-JOMMY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Unit, Tokyo on Sat, 12 Dec 2026.
+JOMMY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Sat, 21 Nov 2026.
 
-JOMMY is a house and techno artist, with 65 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside KINGMCK, DJ SHINTARO and YUVIE. Next up: Unit, Tokyo on Sat 12 Dec.
+JOMMY is a house and techno artist, with 66 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside KINGMCK, DJ SHINTARO and YUVIE. Next up: Bolero, Seoul on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Bolero | Seoul |
 | Sat, 12 Dec 2026 | Unit | Tokyo |
 | Sun, 13 Dec 2026 | Circus Osaka | Osaka |
 
@@ -26,4 +27,4 @@ JOMMY is a house and techno artist, with 65 gigs on soundcheck across Kyoto, Osa
 
 KINGMCK, DJ SHINTARO, YUVIE
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jommy/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jommy/)*

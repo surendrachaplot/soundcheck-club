@@ -1,8 +1,8 @@
 # N_dog
 
-N_dog is a Bass and Pop artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 21 Nov 2026.
+N_dog is a Bass and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 21 Nov 2026.
 
-N_dog is a bass and pop artist, with 6 gigs on soundcheck across Tokyo. Often billed alongside ATMK, CRAZYHYUGA and HEAVEN'S GATE CREW. Next up: ZEROTOKYO, Tokyo on Sat 21 Nov.
+N_dog is a bass and pop artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside ATMK, CRAZYHYUGA and HEAVEN'S GATE CREW. Next up: ZEROTOKYO, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ N_dog is a bass and pop artist, with 6 gigs on soundcheck across Tokyo. Often bi
 
 ATMK, CRAZYHYUGA, HEAVEN'S GATE CREW
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ndog-jp/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ndog-jp/)*

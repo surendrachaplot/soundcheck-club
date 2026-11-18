@@ -1,6 +1,6 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "CORE #011 by UNDERCITY" on Sat, 21 Nov 2026.
+UNDERCITY is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "CORE #011 by UNDERCITY" on Sat, 21 Nov 2026.
 
 UNDERCITY is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including ANNĒ, aya, C!AO and Guinneissik and 2 more. See dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
@@ -18,4 +18,4 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with 
 
 Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*

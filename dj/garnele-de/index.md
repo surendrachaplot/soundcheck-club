@@ -1,6 +1,6 @@
 # GARNELE
 
-GARNELE is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 20 Nov 2026.
+GARNELE is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 20 Nov 2026.
 
 GARNELE is a house and jungle artist based in Germany, with 5 gigs on soundcheck across Berlin, Liverpool and London. Often billed alongside DJ VALENTINE, FITS ME FUNNY and Reformist. Next up: Chausseestrasse 131, Berlin on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ GARNELE is a house and jungle artist based in Germany, with 5 gigs on soundcheck
 
 DJ VALENTINE, FITS ME FUNNY, Reformist
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garnele-de/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garnele-de/)*

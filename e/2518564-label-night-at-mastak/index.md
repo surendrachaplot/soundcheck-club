@@ -1,6 +1,6 @@
 # Label Night at Mastak
 
-Label Night at Mastak on Sat 12 Dec, Warsaw. 2 artists: koktelbel and zeroday. Techno. See the line-up on soundcheck.
+Label Night at Mastak on Sat 12 Dec, Warsaw. 4 artists: Kacper Fronczak, koktelbel, NOSAL and zeroday. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Label Night at Mastak on Sat 12 Dec, Warsaw. 2 artists: koktelbel and zeroday. T
 
 ## Line-up
 
+- Kacper Fronczak
 - koktelbel
+- NOSAL
 - zeroday
 
 *Source: [soundcheck](https://soundcheck.club/e/2518564-label-night-at-mastak/)*

@@ -1,6 +1,6 @@
 # Nedelcut
 
-Nedelcut is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
+Nedelcut is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
 
 Nedelcut is a techno and minimal techno artist based in Romania, with 5 gigs on soundcheck across Berlin, Bucharest and Shanghai. Often billed alongside Michael Ius, ALISTARM and Ada Kaleh. Next up: Crack Bellmer, Berlin on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Nedelcut is a techno and minimal techno artist based in Romania, with 5 gigs on 
 
 Michael Ius, ALISTARM, Ada Kaleh
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedelcut/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedelcut/)*

@@ -1,6 +1,6 @@
 # be.lanuit
 
-be.lanuit is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Esbirra Ibiza, Ibiza on Fri, 20 Nov 2026.
+be.lanuit is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Esbirra Ibiza, Ibiza on Fri, 20 Nov 2026.
 
 be.lanuit is a house and balearic artist, with 17 gigs on soundcheck across Ibiza and Madrid. Often billed alongside Cami Layé Okún, Coco Maria and Kenneth Bager. Next up: Esbirra Ibiza, Ibiza on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ be.lanuit is a house and balearic artist, with 17 gigs on soundcheck across Ibiz
 
 Cami Layé Okún, Coco Maria, Kenneth Bager
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/be.lanuit/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/be.lanuit/)*

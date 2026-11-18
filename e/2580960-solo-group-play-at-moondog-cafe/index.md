@@ -1,6 +1,6 @@
 # Solo & Group Play at Moondog Cafe
 
-Solo & Group Play at Moondog Cafe on Fri 20 Nov, Detroit. 3 artists: caitlin c. harvey, Josh Dunn and Shigeto. Techno and Experimental. See the line-up on soundcheck.
+Solo & Group Play at Moondog Cafe on Fri 20 Nov, Detroit. 4 artists: caitlin c. harvey, Jared Talaga, Josh Dunn and Shigeto. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Solo & Group Play at Moondog Cafe on Fri 20 Nov, Detroit. 3 artists: caitlin c. 
 ## Line-up
 
 - caitlin c. harvey
+- Jared Talaga
 - Josh Dunn
 - Shigeto
 

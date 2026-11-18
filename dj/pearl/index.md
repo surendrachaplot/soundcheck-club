@@ -1,6 +1,6 @@
 # pearl
 
-pearl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Greyhound, London on Fri, 27 Nov 2026.
+pearl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Greyhound, London on Fri, 27 Nov 2026.
 
 pearl is a house and techno artist based in Canada, with 13 gigs on soundcheck across London, Toronto and Vancouver. Often billed alongside AKU, Milo and Amor Ante. Next up: The Greyhound, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ pearl is a house and techno artist based in Canada, with 13 gigs on soundcheck a
 
 AKU (3), Milo (5), Amor Ante
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pearl/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pearl/)*

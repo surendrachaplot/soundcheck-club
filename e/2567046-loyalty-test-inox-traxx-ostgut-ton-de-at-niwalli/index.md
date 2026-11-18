@@ -1,6 +1,6 @@
 # LOYALTY TEST: Inox Traxx (OSTGUT TON, DE) at Ääniwalli
 
-LOYALTY TEST: Inox Traxx (OSTGUT TON, DE) at Ääniwalli on Fri 27 Nov, Helsinki. 2 artists: Inox Traxx and Oikam Orim. Techno. See the line-up on soundcheck.
+LOYALTY TEST: Inox Traxx (OSTGUT TON, DE) at Ääniwalli on Fri 27 Nov, Helsinki. 3 artists: Inox Traxx, Jccnv and Oikam Orim. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LOYALTY TEST: Inox Traxx (OSTGUT TON, DE) at Ääniwalli on Fri 27 Nov, Helsinki
 ## Line-up
 
 - Inox Traxx
+- Jccnv
 - Oikam Orim
 
 *Source: [soundcheck](https://soundcheck.club/e/2567046-loyalty-test-inox-traxx-ostgut-ton-de-at-niwalli/)*

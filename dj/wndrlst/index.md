@@ -1,6 +1,6 @@
 # WNDRLST
 
-WNDRLST is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at K9 Station, Serbia on Sat, 28 Nov 2026.
+WNDRLST is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at K9 Station, Serbia on Sat, 28 Nov 2026.
 
 WNDRLST is a techno and industrial artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 36 more. Often billed alongside Doruksen, KØZLØV and LESSSS. Next up: K9 Station, Serbia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ WNDRLST is a techno and industrial artist based in Netherlands, with 72 gigs on 
 
 Doruksen, KØZLØV, LESSSS
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wndrlst/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wndrlst/)*

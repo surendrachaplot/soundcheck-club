@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fortuna Hall, Prague on Sat, 5 Dec 2026.
+Winson Ngoh is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fortuna Hall, Prague on Sat, 5 Dec 2026.
 
 Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside KUKO, Fantasm and KLOFAMA. Next up: Fortuna Hall, Prague on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs
 
 KUKO, Fantasm, KLOFAMA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

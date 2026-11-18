@@ -1,6 +1,6 @@
 # dkr x RÀTAVA at Q Club
 
-dkr x RÀTAVA at Q Club on Fri 20 Nov, Milan. 3 artists: Hiroko Hacci, Kongas and NOVZE. Techno and House. See the line-up on soundcheck.
+dkr x RÀTAVA at Q Club on Fri 20 Nov, Milan. 4 artists: Alberto Degano, Hiroko Hacci, Kongas and NOVZE. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ dkr x RÀTAVA at Q Club on Fri 20 Nov, Milan. 3 artists: Hiroko Hacci, Kongas an
 
 ## Line-up
 
+- Alberto Degano
 - Hiroko Hacci
 - Kongas
 - NOVZE

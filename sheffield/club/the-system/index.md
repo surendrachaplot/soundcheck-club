@@ -1,8 +1,8 @@
 # The System
 
-The System is a music venue in Sheffield with 16 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Balance with Suze and Yelnif" on Thu, 19 Nov 2026.
+The System is a music venue in Sheffield with 16 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Balance with Suze and Yelnif" on Thu, 19 Nov 2026.
 
-The System is a music venue in Sheffield listed on soundcheck. 16 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Benedict and DAISY and 2 more. See dates, start times and who's playing.
+The System is a music venue in Sheffield listed on soundcheck. 16 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Just Benedict and DAISY and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -17,6 +17,6 @@ The System is a music venue in Sheffield listed on soundcheck. 16 upcoming gigs,
 | Fri, 27 Nov 2026 | Footprints Jazz Club: Steve Edwards + Khamra |  |
 | Sat, 28 Nov 2026 | Groove Line presents: Ricky Not Richard & Robyn Jade | Ricky Not Richard, Robyn Jade |
 | Sat, 5 Dec 2026 | Apricot Ballroom (December) | Joi L.F, Nonna Fab |
-| Fri, 11 Dec 2026 | Absolute Body Control Xmas Spesh: Red Rack'em + Theo Ward | Red Rack'em |
+| Fri, 11 Dec 2026 | Absolute Body Control Xmas Spesh: Red Rack'em + Theo Ward | Red Rack'em, Theo Ward |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

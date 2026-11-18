@@ -1,17 +1,18 @@
 # Jerrau
 
-Jerrau is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at KABUL à GoGo, Utrecht on Sat, 14 Nov 2026.
+Jerrau is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Sat, 21 Nov 2026.
 
-Jerrau is a house and breakbeat artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Nala Brown, Chinnamasta and Cinnaman. Next up: KABUL à GoGo, Utrecht on Sat 14 Nov.
+Jerrau is a house and breakbeat artist based in Netherlands, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Nala Brown, Chinnamasta and Cinnaman. Next up: Bolero, Seoul on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | KABUL à GoGo | Utrecht |
+| Sat, 21 Nov 2026 | Bolero | Seoul |
 
 ## Recently played
 
+- KABUL à GoGo, Utrecht · Sat, 14 Nov 2026
 - Skatecafe, Amsterdam · Fri, 9 Oct 2026
 - Lavallée, Brussels · Sat, 25 Jul 2026
 - Klaas Kompaan (Boat), Amsterdam · Sat, 27 Jun 2026
@@ -19,10 +20,9 @@ Jerrau is a house and breakbeat artist based in Netherlands, with 78 gigs on sou
 - CLUB RAUM, Amsterdam · Sat, 9 May 2026
 - Mossel & Gin, Amsterdam · Mon, 27 Apr 2026
 - SISSI'S Amsterdam, Amsterdam · Sun, 26 Apr 2026
-- Skatecafe, Amsterdam · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Nala Brown, Chinnamasta, Cinnaman
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrau/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrau/)*

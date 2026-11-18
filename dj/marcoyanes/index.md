@@ -1,6 +1,6 @@
 # Marco Yanes
 
-Marco Yanes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mirage, Hanoi on Sat, 21 Nov 2026.
+Marco Yanes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Mirage, Hanoi on Sat, 21 Nov 2026.
 
 Marco Yanes is a techno and house artist based in Italy, with 49 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Hong Kong and 4 more. Often billed alongside AiLien, Canicule and Dusan Nikolic. Next up: Mirage, Hanoi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Marco Yanes is a techno and house artist based in Italy, with 49 gigs on soundch
 
 AiLien, Canicule, Dusan Nikolic
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyanes/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyanes/)*

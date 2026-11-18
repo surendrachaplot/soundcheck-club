@@ -1,13 +1,15 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "VORTEX: GOTH NIGHT with DJ JACKPOT (QXT's NJ), Mighty Mike Saga, Panzermensch • FRI NOV 20" on Fri, 20 Nov 2026.
+Warehouse on Watts is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Brooke Candy, Bbyafrika, Mel 4ever" on Thu, 19 Nov 2026.
 
-Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including Barbara Tucker, cubby.com, DJ Matpat and DJ Minx and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
+Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 8 upcoming gigs, with line-ups including Barbara Tucker, cubby.com, DJ Matpat and DJ Minx and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Brooke Candy, Bbyafrika, Mel 4ever | Firestone |
+| Thu, 19 Nov 2026 | 454 + Pig the Gemini |  |
 | Fri, 20 Nov 2026 | VORTEX: GOTH NIGHT with DJ JACKPOT (QXT's NJ), Mighty Mike Saga, Panzermensch • FRI NOV 20 |  |
 | Sat, 21 Nov 2026 | Legacy with 9th Wonder, Terry Hunter + more | Barbara Tucker, Foxy Nora, Joshua Lang, Terry Hunter |
 | Sat, 28 Nov 2026 | Club Congress x Repeat Behavior x Porkroll | DJ Matpat, DJ Minx, Nine of Wands, Redevil (2), Tommy Hart, WTCHCRFT, cubby.com, kraftwitch |
@@ -19,4 +21,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 6 upco
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

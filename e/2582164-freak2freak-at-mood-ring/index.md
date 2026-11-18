@@ -1,6 +1,6 @@
 # Freak2Freak at Mood Ring
 
-Freak2Freak at Mood Ring on Sat 28 Nov, New York City. 1 artist: suciopath. See the line-up on soundcheck.
+Freak2Freak at Mood Ring on Sat 28 Nov, New York City. 2 artists: Princess Fiona and suciopath. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Freak2Freak at Mood Ring on Sat 28 Nov, New York City. 1 artist: suciopath. See 
 
 ## Line-up
 
+- Princess Fiona
 - suciopath
 
 *Source: [soundcheck](https://soundcheck.club/e/2582164-freak2freak-at-mood-ring/)*

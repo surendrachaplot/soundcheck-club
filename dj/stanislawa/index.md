@@ -1,13 +1,14 @@
 # Stanislawa
 
-Stanislawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
+Stanislawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at C12, Brussels on Sat, 19 Dec 2026.
 
-Stanislawa is a techno and house artist based in Belgium, with 89 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: C12, Brussels on Fri 1 Jan.
+Stanislawa is a techno and house artist based in Belgium, with 90 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: C12, Brussels on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | C12 | Brussels |
 | Fri, 1 Jan 2027 | C12 | Brussels |
 
 ## Recently played
@@ -25,4 +26,4 @@ Stanislawa is a techno and house artist based in Belgium, with 89 gigs on soundc
 
 Vera Moro, EMILIJA, Helena Lauwaert
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*

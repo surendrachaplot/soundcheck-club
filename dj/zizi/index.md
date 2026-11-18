@@ -1,6 +1,6 @@
 # ZiZi
 
-ZiZi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+ZiZi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
 
 ZiZi is a techno and tech house artist based in Ukraine, with 8 gigs on soundcheck across Prague. Often billed alongside zazitech, DDK and RADYK. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ ZiZi is a techno and tech house artist based in Ukraine, with 8 gigs on soundche
 
 zazitech, DDK (1), RADYK
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zizi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zizi/)*

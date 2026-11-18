@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Márk Bartha - Emese Cuhorka: ENTERING THE LIMBO" on Wed, 18 Nov 2026.
+Arzenal is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Márk Bartha - Emese Cuhorka: ENTERING THE LIMBO" on Wed, 18 Nov 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, with line-ups including 1991 (UK), Afterlife, Alive and Culture Shock and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, wit
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

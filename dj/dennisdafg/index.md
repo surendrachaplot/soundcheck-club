@@ -1,6 +1,6 @@
 # Dennis DAFG
 
-Dennis DAFG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 29 Nov 2026.
+Dennis DAFG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 29 Nov 2026.
 
 Dennis DAFG is a house and techno artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Entree, Shaan and Anastasia Kristensen. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Dennis DAFG is a house and techno artist based in Denmark, with 8 gigs on soundc
 
 Entree, Shaan (2), Anastasia Kristensen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisdafg/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisdafg/)*

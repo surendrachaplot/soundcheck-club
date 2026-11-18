@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "RSI_02" on Fri, 20 Nov 2026.
+Grub Records is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "RSI_02" on Fri, 20 Nov 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, with line-ups including Paniolo and Ricky Not Richard. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -18,4 +18,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

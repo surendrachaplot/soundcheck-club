@@ -1,6 +1,6 @@
 # Meke
 
-Meke is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 28 Nov 2026.
+Meke is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 28 Nov 2026.
 
 Meke is an electro and techno artist based in Poland, with 129 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Kondrat, Badalian and Wagary. Next up: Sekta Selekta, Krakow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Meke is an electro and techno artist based in Poland, with 129 gigs on soundchec
 
 Kondrat, Badalian, Wagary
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meke/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meke/)*

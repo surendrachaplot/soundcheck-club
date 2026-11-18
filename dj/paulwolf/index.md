@@ -1,6 +1,6 @@
 # Paul Wolf
 
-Paul Wolf is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
+Paul Wolf is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
 
 Paul Wolf is a techno and trance artist based in Germany, with 39 gigs on soundcheck across Berlin, Bremen, Cologne and Leipzig. Often billed alongside monervo, Thomas Lizzara and Holy Priest. Next up: TBA, Bremen on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Paul Wolf is a techno and trance artist based in Germany, with 39 gigs on soundc
 
 monervo, Thomas Lizzara, Holy Priest
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*

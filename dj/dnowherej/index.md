@@ -1,6 +1,6 @@
 # D[NOWHERE]J
 
-D[NOWHERE]J is a Gqom and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Forestlimit, Tokyo on Fri, 20 Nov 2026.
+D[NOWHERE]J is a Gqom and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Forestlimit, Tokyo on Fri, 20 Nov 2026.
 
 D[NOWHERE]J is a gqom and afro tech artist based in South Africa, with 8 gigs on soundcheck across Berlin, Cape Town, Manchester and Oslo and 2 more. Often billed alongside COOK SWEET, Godblesscomputers and Gojas. Next up: Forestlimit, Tokyo on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ D[NOWHERE]J is a gqom and afro tech artist based in South Africa, with 8 gigs on
 
 COOK SWEET, Godblesscomputers, Gojas
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dnowherej/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dnowherej/)*

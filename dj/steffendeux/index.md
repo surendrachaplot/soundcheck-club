@@ -1,6 +1,6 @@
 # Steffen Deux
 
-Steffen Deux is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Weekend, Berlin on Sat, 21 Nov 2026.
+Steffen Deux is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Weekend, Berlin on Sat, 21 Nov 2026.
 
 Steffen Deux is a house and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Frankfurt, Istanbul and Mannheim. Often billed alongside Musti Nero, Sasch BBC and ASK:ME. Next up: Weekend, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Steffen Deux is a house and techno artist based in Germany, with 16 gigs on soun
 
 Musti Nero, Sasch BBC, ASK:ME
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffendeux/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffendeux/)*

@@ -1,6 +1,6 @@
 # 02 Victoria Warehouse
 
-02 Victoria Warehouse is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Kanine: Reflections UK/EU Tour (Manchester)" on Fri, 20 Nov 2026.
+02 Victoria Warehouse is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Kanine: Reflections UK/EU Tour (Manchester)" on Fri, 20 Nov 2026.
 
 02 Victoria Warehouse is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Anaïs, Fabio, Grooverider and Kanine and 2 more. See dates, start times and who's playing. Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK.
 
@@ -17,4 +17,4 @@
 
 Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK, Manchester
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/02-victoria-warehouse/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/02-victoria-warehouse/)*

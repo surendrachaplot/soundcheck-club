@@ -1,6 +1,6 @@
 # Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap at Le Grand Dome
 
-Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap at Le Grand Dome on Thu 31 Dec, Paris. 2 artists: SANTØS and Vieze Asbak. Techno and Hardcore. See the line-up on soundcheck.
+Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap at Le Grand Dome on Thu 31 Dec, Paris. 3 artists: Creeds, SANTØS and Vieze Asbak. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Illusion Nye XXL Rave: Creeds Vieze Asbak  Rooler SANTØS Dikke Baap at Le Grand
 
 ## Line-up
 
+- Creeds
 - SANTØS
 - Vieze Asbak
 

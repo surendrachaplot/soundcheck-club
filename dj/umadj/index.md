@@ -1,14 +1,15 @@
 # UMA DJ
 
-UMA DJ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+UMA DJ is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
-UMA DJ is a house and disco artist based in United States of America, with 34 gigs on soundcheck across Los Angeles, Melbourne, New York City and San Francisco/Oakland and 4 more. Often billed alongside Tom of England, Underwaterhasa and Arvin T. Next up: Good Room, New York City on Sun 22 Nov.
+UMA DJ is a house and disco artist based in United States of America, with 35 gigs on soundcheck across Los Angeles, Melbourne, New York City and San Francisco/Oakland and 4 more. Often billed alongside Tom of England, Underwaterhasa and Arvin T. Next up: Good Room, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Good Room | New York City |
+| Sat, 28 Nov 2026 | Le Bain | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ UMA DJ is a house and disco artist based in United States of America, with 34 gi
 
 Tom of England, Underwaterhasa, Arvin T
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*

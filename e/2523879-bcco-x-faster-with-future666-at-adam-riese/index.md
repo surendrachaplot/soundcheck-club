@@ -1,11 +1,15 @@
 # BCCO X FASTER with Future666 at Adam Riese
 
-BCCO X FASTER with Future666 at Adam Riese on Fri 11 Dec, Frankfurt. Techno. See the line-up on soundcheck.
+BCCO X FASTER with Future666 at Adam Riese on Fri 11 Dec, Frankfurt. 1 artist: HENI. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 11 Dec 2026 |
 | Venue | Adam Riese |
 | City | Frankfurt |
+
+## Line-up
+
+- HENI
 
 *Source: [soundcheck](https://soundcheck.club/e/2523879-bcco-x-faster-with-future666-at-adam-riese/)*

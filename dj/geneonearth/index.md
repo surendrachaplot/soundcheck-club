@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 20 Nov 2026.
+Gene On Earth is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 20 Nov 2026.
 
 Gene On Earth is a house and tech house artist based in United States of America, with 228 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 64 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Lux Fragil, Lisbon on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Gene On Earth is a house and tech house artist based in United States of America
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

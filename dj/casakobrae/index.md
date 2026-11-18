@@ -1,6 +1,6 @@
 # Casa Kobrae
 
-Casa Kobrae is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bar Datcha, Montreal on Sat, 21 Nov 2026.
+Casa Kobrae is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bar Datcha, Montreal on Sat, 21 Nov 2026.
 
 Casa Kobrae is a techno and bass artist based in Canada, with 59 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside JASHIM, Katamina and nastygloss. Next up: Bar Datcha, Montreal on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Casa Kobrae is a techno and bass artist based in Canada, with 59 gigs on soundch
 
 JASHIM, Katamina, nastygloss
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*

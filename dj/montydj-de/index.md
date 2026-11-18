@@ -1,6 +1,6 @@
 # Monty DJ
 
-Monty DJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Renate, Berlin on Sat, 19 Dec 2026.
+Monty DJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Renate, Berlin on Sat, 19 Dec 2026.
 
 Monty DJ is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 4 more. Often billed alongside Retromigration, Cinnaman and Dam Swindle. Next up: Renate, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Monty DJ is a house and techno artist based in Netherlands, with 49 gigs on soun
 
 Retromigration, Cinnaman, Dam Swindle
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montydj-de/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montydj-de/)*

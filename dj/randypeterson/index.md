@@ -1,6 +1,6 @@
 # Randy Peterson
 
-Randy Peterson is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+Randy Peterson is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
 Randy Peterson is a deep house and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Jamesey, Leigh Howlett and Matt L-S. Next up: Rolling Stock, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Randy Peterson is a deep house and house artist based in United Kingdom, with 6 
 
 Jamesey, Leigh Howlett, Matt L-S
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randypeterson/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randypeterson/)*

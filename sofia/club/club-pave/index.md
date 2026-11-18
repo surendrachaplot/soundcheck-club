@@ -1,13 +1,13 @@
 # Club Pave
 
-Club Pave is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Хардбас Halloween with UAMEE - Rave Cage Events" on Fri, 30 Oct 2026.
+Club Pave is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sabora Sofia" on Fri, 27 Nov 2026.
 
-Club Pave is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including LPG and Royal Flush. See dates, start times and who's playing.
+Club Pave is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including Joshua Janson, kamoxkami and Raya. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Хардбас Halloween with UAMEE - Rave Cage Events | LPG (2), Royal Flush |
+| Fri, 27 Nov 2026 | Sabora Sofia | Joshua Janson, Raya (2), kamoxkami |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/club-pave/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/club-pave/)*

@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 19 Nov 2026.
+Electrowerkz is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 19 Nov 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Arrosa, AyChibs, Brother of Set and Claudia Kane and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -23,4 +23,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming gigs, 
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

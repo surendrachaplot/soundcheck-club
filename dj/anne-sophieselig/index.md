@@ -1,14 +1,15 @@
 # Anne-Sophie Selig
 
-Anne-Sophie Selig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
+Anne-Sophie Selig is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
 
-Anne-Sophie Selig is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside tzunamic, Der olle Kramer and Fabian Fischbach. Next up: TBA - Westhafen, Berlin on Fri 27 Nov.
+Anne-Sophie Selig is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside tzunamic, Der olle Kramer and Fabian Fischbach. Next up: TBA - Westhafen, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Westhafen | Berlin |
+| Fri, 4 Dec 2026 | DNA. CLUB | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Anne-Sophie Selig is a techno and house artist based in Germany, with 16 gigs on
 
 tzunamic, Der olle Kramer, Fabian Fischbach
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-sophieselig/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-sophieselig/)*

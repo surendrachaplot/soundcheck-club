@@ -1,6 +1,6 @@
 # GIVIO
 
-GIVIO is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at La Terrrazza, Barcelona on Sat, 21 Nov 2026.
+GIVIO is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Terrrazza, Barcelona on Sat, 21 Nov 2026.
 
 GIVIO is a house and tech house artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Sarah Andersson, Nesi and Piem. Next up: La Terrrazza, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ GIVIO is a house and tech house artist based in Spain, with 97 gigs on soundchec
 
 Sarah Andersson, Nesi, Piem
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*

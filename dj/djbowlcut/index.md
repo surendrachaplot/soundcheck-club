@@ -1,6 +1,6 @@
 # DJ Bowlcut
 
-DJ Bowlcut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Stoked&stoned, Seoul on Thu, 19 Nov 2026.
+DJ Bowlcut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stoked&stoned, Seoul on Thu, 19 Nov 2026.
 
 DJ Bowlcut is a house and techno artist based in South Korea, with 88 gigs on soundcheck across Bangkok, Berlin, Bucharest and London and 5 more. Often billed alongside Krijka, Slowmouth and Conan. Next up: Stoked&stoned, Seoul on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ DJ Bowlcut is a house and techno artist based in South Korea, with 88 gigs on so
 
 Krijka, Slowmouth, Conan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*

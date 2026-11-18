@@ -1,6 +1,6 @@
-# Be.Minimal X JOIN.IBIZA : Minube at Sector at Yan Gastro
+# Be.Minimal X JOIN.IBIZA: Minube at Sector at Yan Gastro
 
-Be.Minimal X JOIN.IBIZA : Minube at Sector at Yan Gastro on Sat 21 Nov, Istanbul. 4 artists: Baban, Childplay, Minube and Morteza Minouei. Minimal. See the line-up on soundcheck.
+Be.Minimal X JOIN.IBIZA: Minube at Sector at Yan Gastro on Sat 21 Nov, Istanbul. 4 artists: Baban, Childplay, Minube and Morteza Minouei. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Lisa More
 
-Lisa More is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Le Trabendo, Paris on Fri, 4 Dec 2026.
+Lisa More is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
 
-Lisa More is a techno and club artist based in France, with 94 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 7 more. Often billed alongside RONI, TTristana and Olympe4000. Next up: Le Trabendo, Paris on Fri 4 Dec.
+Lisa More is a techno and club artist based in France, with 95 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 7 more. Often billed alongside RONI, TTristana and Olympe4000. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Dec 2026 | La Station - Gare des Mines | Paris |
 | Fri, 4 Dec 2026 | Le Trabendo | Paris |
 | Fri, 4 Dec 2026 | Le Trabendo | Paris |
 
@@ -26,4 +27,4 @@ Lisa More is a techno and club artist based in France, with 94 gigs on soundchec
 
 RONI, TTristana, Olympe4000
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamore/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamore/)*

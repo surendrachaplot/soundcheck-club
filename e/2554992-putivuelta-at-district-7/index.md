@@ -14,6 +14,6 @@ Putivuelta at District 7 on Fri 11 Dec, Los Angeles. 5 artists: C:3, dustn, Kars
 - dustn
 - Karsten Sollors
 - Shane Thomas
-- TOAD (2)
+- TOAD (LA)
 
 *Source: [soundcheck](https://soundcheck.club/e/2554992-putivuelta-at-district-7/)*

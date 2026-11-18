@@ -1,6 +1,6 @@
 # Rapture
 
-Rapture is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Eden, New York City on Fri, 20 Nov 2026.
+Rapture is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Eden, New York City on Fri, 20 Nov 2026.
 
 Rapture is a techno and industrial artist based in United States of America, with 15 gigs on soundcheck across New York City and Philadelphia. Often billed alongside CRYFXB, Djgothqueen and F 92. Next up: Eden, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Rapture is a techno and industrial artist based in United States of America, wit
 
 CRYFXB, Djgothqueen (3), F 92
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rapture/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rapture/)*

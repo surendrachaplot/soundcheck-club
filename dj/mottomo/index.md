@@ -1,6 +1,6 @@
 # Mottomo
 
-Mottomo is a Ambient and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
+Mottomo is a Ambient and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
 
 Mottomo is an ambient and electro artist based in Germany, with 11 gigs on soundcheck across Berlin, Seoul and South Korea. Often billed alongside Latnam, Hansy and Afrodite. Next up: Graphic Hangang, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mottomo is an ambient and electro artist based in Germany, with 11 gigs on sound
 
 Latnam, Hansy, Afrodite (2)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mottomo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mottomo/)*

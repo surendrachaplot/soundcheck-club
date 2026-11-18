@@ -1,6 +1,6 @@
 # Kosme
 
-Kosme is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Super7, Lyon on Sat, 21 Nov 2026.
+Kosme is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Super7, Lyon on Sat, 21 Nov 2026.
 
 Kosme is a house and techno artist based in France, with 7 gigs on soundcheck across Lyon and Paris. Often billed alongside Madben, D'Julz and Emma B. Next up: Super7, Lyon on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Kosme is a house and techno artist based in France, with 7 gigs on soundcheck ac
 
 Madben, D'Julz, Emma B
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosme/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosme/)*

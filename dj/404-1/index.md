@@ -1,6 +1,6 @@
 # 404 (1)
 
-404 (1) is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Blue Room, Montreal on Thu, 19 Nov 2026.
+404 (1) is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Blue Room, Montreal on Thu, 19 Nov 2026.
 
 404 is a techno and dubstep artist, with 6 gigs on soundcheck across Madrid, Montreal, Seoul and Tokyo. Often billed alongside Taejung, ANDOW and Apachi. Next up: Blue Room, Montreal on Thu 19 Nov.
 
@@ -22,4 +22,4 @@
 
 Taejung, ANDOW, Apachi
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/404-1/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/404-1/)*

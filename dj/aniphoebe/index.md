@@ -1,0 +1,28 @@
+# Ani Phoebe
+
+Ani Phoebe is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Mott 32, Hong Kong on Sat, 21 Nov 2026.
+
+Ani Phoebe is a house and balearic artist based in United States of America, with 80 gigs on soundcheck across Bangkok, Berlin, Detroit and Hanoi and 18 more. Often billed alongside Seelie, Vio PRG and Heels & Souls. Next up: Mott 32, Hong Kong on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Mott 32 | Hong Kong |
+
+## Recently played
+
+- Drama Radio Bar, Mexico City · Wed, 28 Oct 2026
+- Sunday Sunday, Mexico City · Sun, 25 Oct 2026
+- MotorCity Wine, Detroit · Mon, 5 Oct 2026
+- Tigris, Detroit · Sat, 3 Oct 2026
+- Bar Part Time, San Francisco/Oakland · Fri, 11 Sept 2026
+- Night Tales, London · Fri, 4 Sept 2026
+- arkaoda Berlin, Berlin · Fri, 28 Aug 2026
+- Stidilä, Helsinki · Sun, 16 Aug 2026
+
+## Shares bills with
+
+Seelie, Vio PRG, Heels & Souls
+
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

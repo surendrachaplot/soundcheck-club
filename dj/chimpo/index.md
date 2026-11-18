@@ -1,6 +1,6 @@
 # Chimpo
 
-Chimpo is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at District, Liverpool on Sat, 30 Jan 2027.
+Chimpo is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at District, Liverpool on Sat, 30 Jan 2027.
 
 Chimpo is a drum & bass and jungle artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Belfast, Birmingham and Brighton and 13 more. Often billed alongside Rich Reason, Chunky and DJ Flight. Next up: District, Liverpool on Sat 30 Jan.
 
@@ -27,4 +27,4 @@ Chimpo is a drum & bass and jungle artist based in United Kingdom, with 111 gigs
 
 Rich Reason, Chunky, DJ Flight
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*

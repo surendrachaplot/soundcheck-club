@@ -1,8 +1,8 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Native Beach Club, Buenos Aires on Fri, 20 Nov 2026.
+KUKO is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Native Beach Club, Buenos Aires on Fri, 20 Nov 2026.
 
-KUKO is a techno and trance artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Native Beach Club, Buenos Aires on Fri 20 Nov.
+KUKO is a techno and trance artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Native Beach Club, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ KUKO is a techno and trance artist based in Germany, with 259 gigs on soundcheck
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
+| Sat, 19 Dec 2026 | Bootshaus | Cologne |
 | Sat, 19 Dec 2026 | Bootshaus | Cologne |
 | Fri, 4 Jun 2027 | Clydeside Live | Glasgow |
 
@@ -35,4 +36,4 @@ KUKO is a techno and trance artist based in Germany, with 259 gigs on soundcheck
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

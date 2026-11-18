@@ -1,8 +1,8 @@
 # Vegan Cake
 
-Vegan Cake is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
+Vegan Cake is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
 
-Vegan Cake is a trance and techno artist, with 7 gigs on soundcheck across Nantes and Paris. Often billed alongside 69DB, Cannonbar and Corbeille Dallas. Next up: Le 211, Paris on Sat 5 Dec.
+Vegan Cake is a trance and techno artist based in France, with 7 gigs on soundcheck across Nantes and Paris. Often billed alongside 69DB, Cannonbar and Corbeille Dallas. Next up: Le 211, Paris on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Vegan Cake is a trance and techno artist, with 7 gigs on soundcheck across Nante
 
 69DB, Cannonbar, Corbeille Dallas
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vegancake/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vegancake/)*

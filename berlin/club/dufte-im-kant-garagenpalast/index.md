@@ -1,6 +1,6 @@
 # Dufte im Kant-Garagenpalast
 
-Dufte im Kant-Garagenpalast is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Playground" on Sat, 28 Nov 2026.
+Dufte im Kant-Garagenpalast is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Playground" on Sat, 28 Nov 2026.
 
 Dufte im Kant-Garagenpalast is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including MARINI and Wavy. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Dufte im Kant-Garagenpalast is a music venue in Berlin listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Playground | MARINI, Wavy |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dufte-im-kant-garagenpalast/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dufte-im-kant-garagenpalast/)*

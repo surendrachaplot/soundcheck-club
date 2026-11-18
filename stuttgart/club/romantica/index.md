@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Massimiliano Pagliara invites Jorkes, Chaos Disco Club, Hjalte, Stereo Visions" on Fri, 20 Nov 2026.
+Romantica is a music venue in Stuttgart with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Massimiliano Pagliara invites Jorkes, Chaos Disco Club, Hjalte, Stereo Visions" on Fri, 20 Nov 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 4 upcoming gigs, with line-ups including Alexander Maier, Bernd Affleck, chaos.disco.club and Femcat and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -17,4 +17,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 4 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

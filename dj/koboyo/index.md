@@ -1,8 +1,8 @@
 # Koboyo
 
-Koboyo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
+Koboyo is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
 
-Koboyo is a techno and trance artist based in France, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Mia Mao, Paris on Thu 26 Nov.
+Koboyo is a techno and trance artist based in France, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Mia Mao, Paris on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Koboyo is a techno and trance artist based in France, with 108 gigs on soundchec
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Mia Mao | Paris |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
+| Tue, 29 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Koboyo is a techno and trance artist based in France, with 108 gigs on soundchec
 
 Amelie Lens, Ahl Iver, KUSS
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*

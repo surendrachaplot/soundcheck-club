@@ -1,13 +1,14 @@
 # Syana
 
-Syana is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Osler Records, Toronto on Sat, 21 Nov 2026.
+Syana is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Ausgang Plaza, Montreal on Fri, 20 Nov 2026.
 
-Syana is a techno and club artist, with 65 gigs on soundcheck across Montreal and Toronto. Often billed alongside Mossy Mugler, CrisseMarqueur and Chippy Nonstop. Next up: Osler Records, Toronto on Sat 21 Nov.
+Syana is a techno and club artist, with 66 gigs on soundcheck across Montreal and Toronto. Often billed alongside Mossy Mugler, CrisseMarqueur and Chippy Nonstop. Next up: Ausgang Plaza, Montreal on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Ausgang Plaza | Montreal |
 | Sat, 21 Nov 2026 | Osler Records | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Syana is a techno and club artist, with 65 gigs on soundcheck across Montreal an
 
 Mossy Mugler, CrisseMarqueur, Chippy Nonstop
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syana/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syana/)*

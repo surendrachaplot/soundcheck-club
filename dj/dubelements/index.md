@@ -1,6 +1,6 @@
 # Dub Elements
 
-Dub Elements is a Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sala Apolo, Barcelona on Thu, 19 Nov 2026.
+Dub Elements is a Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala Apolo, Barcelona on Thu, 19 Nov 2026.
 
 Dub Elements is a drum & bass artist based in Spain, with 11 gigs on soundcheck across Barcelona, Bilbao, Madrid and Mannheim and 4 more. Often billed alongside Black Sun Empire, Teddy Killerz and Andy C. Next up: Sala Apolo, Barcelona on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Dub Elements is a drum & bass artist based in Spain, with 11 gigs on soundcheck 
 
 Black Sun Empire, Teddy Killerz, Andy C
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubelements/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubelements/)*

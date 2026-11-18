@@ -1,6 +1,6 @@
 # CAYA by fabric: Drifted Records - Jay Tripwire, Charlie DK, Taye Empo, Holly Why at fabric
 
-CAYA by fabric: Drifted Records - Jay Tripwire, Charlie DK, Taye Empo, Holly Why on Sun 29 Nov, London. 2 artists: Holly Why and Jay Tripwire. See the line-up on soundcheck.
+CAYA by fabric: Drifted Records - Jay Tripwire, Charlie DK, Taye Empo, Holly Why on Sun 29 Nov, London. 3 artists: Charlie DK, Holly Why and Jay Tripwire. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CAYA by fabric: Drifted Records - Jay Tripwire, Charlie DK, Taye Empo, Holly Why
 
 ## Line-up
 
+- Charlie DK
 - Holly Why
 - Jay Tripwire
 

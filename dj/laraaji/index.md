@@ -1,6 +1,6 @@
 # Laraaji
 
-Laraaji is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at WWW / WWW X / WWW β, Tokyo on Thu, 31 Dec 2026.
+Laraaji is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at WWW / WWW X / WWW β, Tokyo on Thu, 31 Dec 2026.
 
 Laraaji is an ambient and experimental artist based in United States of America, with 48 gigs on soundcheck across Baltimore, Berlin, Brussels and Cologne and 12 more. Often billed alongside K Wata, Avalon Emerson and Baby Leo. Next up: WWW / WWW X / WWW β, Tokyo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Laraaji is an ambient and experimental artist based in United States of America,
 
 K Wata, Avalon Emerson, Baby Leo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laraaji/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laraaji/)*

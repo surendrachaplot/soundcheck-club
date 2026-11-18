@@ -1,6 +1,6 @@
 # Tetric
 
-Tetric is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 20 Nov 2026.
+Tetric is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 20 Nov 2026.
 
 Tetric is an electro and techno artist based in Spain, with 7 gigs on soundcheck across Barcelona. Often billed alongside Ana Alves, Hades PRX and Queixal. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Tetric is an electro and techno artist based in Spain, with 7 gigs on soundcheck
 
 Ana Alves, Hades PRX, Queixal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tetric/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tetric/)*

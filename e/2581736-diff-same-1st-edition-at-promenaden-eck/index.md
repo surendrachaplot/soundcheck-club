@@ -1,6 +1,6 @@
 # Diff. Same 1st Edition at Promenaden Eck
 
-Diff. Same 1st Edition at Promenaden Eck on Sat 5 Dec, Berlin. 2 artists: Eddeep and MARWELL. Progressive House and Deep House. See the line-up on soundcheck.
+Diff. Same 1st Edition at Promenaden Eck on Sat 5 Dec, Berlin. 3 artists: AMAN (TU), Eddeep and MARWELL. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Diff. Same 1st Edition at Promenaden Eck on Sat 5 Dec, Berlin. 2 artists: Eddeep
 
 ## Line-up
 
+- AMAN (TU)
 - Eddeep
 - MARWELL
 

@@ -1,6 +1,6 @@
 # Semi Peppered
 
-Semi Peppered is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at New Century Locker, Manchester on Fri, 20 Nov 2026.
+Semi Peppered is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at New Century Locker, Manchester on Fri, 20 Nov 2026.
 
 Semi Peppered is a house and bass artist based in United Kingdom, with 33 gigs on soundcheck across Antwerp, Berlin, London and Manchester. Often billed alongside MLE (UK), Camilla Reghenzi and EJ Woodall. Next up: New Century Locker, Manchester on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Semi Peppered is a house and bass artist based in United Kingdom, with 33 gigs o
 
 MLE (UK), Camilla Reghenzi, EJ Woodall
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semipeppered/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semipeppered/)*

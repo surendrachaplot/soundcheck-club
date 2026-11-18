@@ -1,6 +1,6 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+BLOND:ISH is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 BLOND:ISH is a house and techno artist based in Canada, with 157 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Seth Troxler, Marco Carola and Vintage Culture. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -29,4 +29,4 @@ BLOND:ISH is a house and techno artist based in Canada, with 157 gigs on soundch
 
 Seth Troxler, Marco Carola, Vintage Culture
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*

@@ -1,13 +1,14 @@
 # HYBE
 
-HYBE is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Thu, 31 Dec 2026.
+HYBE is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Twisted Lime, Hobart on Fri, 27 Nov 2026.
 
-HYBE is a techno and tech house artist based in India, with 37 gigs on soundcheck across Melbourne. Often billed alongside Etwas, Matteo Freyrie and TEMPER TANTRA. Next up: TBA - Il Mercato Centrale, Melbourne on Thu 31 Dec.
+HYBE is a techno and tech house artist based in India, with 38 gigs on soundcheck across Hobart and Melbourne. Often billed alongside Etwas, Matteo Freyrie and TEMPER TANTRA. Next up: Twisted Lime, Hobart on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Twisted Lime | Hobart |
 | Thu, 31 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ HYBE is a techno and tech house artist based in India, with 37 gigs on soundchec
 
 Etwas, Matteo Freyrie, TEMPER TANTRA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybe/)*

@@ -1,6 +1,6 @@
 # HVOB
 
-HVOB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Gazarte, Athens on Thu, 3 Dec 2026.
+HVOB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Gazarte, Athens on Thu, 3 Dec 2026.
 
 HVOB is a house and techno artist, with 68 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eris Drew, Paul Kalkbrenner and ANOTR. Next up: Gazarte, Athens on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ HVOB is a house and techno artist, with 68 gigs on soundcheck across Amsterdam, 
 
 Eris Drew, Paul Kalkbrenner, ANOTR
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*

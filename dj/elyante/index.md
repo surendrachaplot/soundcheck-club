@@ -1,6 +1,6 @@
 # Elyante
 
-Elyante is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Helios37, Cologne on Sat, 21 Nov 2026.
+Elyante is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Helios37, Cologne on Sat, 21 Nov 2026.
 
 Elyante is a techno and trance artist, with 4 gigs on soundcheck across Cologne and Vienna. Often billed alongside Rosilicious, ZAHNATZIN and two girls one mom. Next up: Helios37, Cologne on Sat 21 Nov.
 
@@ -17,4 +17,4 @@ Elyante is a techno and trance artist, with 4 gigs on soundcheck across Cologne 
 
 Rosilicious, ZAHNATZIN, two girls one mom
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyante/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyante/)*

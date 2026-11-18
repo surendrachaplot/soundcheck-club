@@ -1,6 +1,6 @@
 # REMEMBER PARADISE: EL LEGADO at Fabrik
 
-REMEMBER PARADISE: EL LEGADO at Fabrik on Sat 30 Jan, Madrid. 15 artists: Abel Ramos, Brenda Serna, David Mallada and DJ Marta and 11 more. See the line-up on soundcheck.
+REMEMBER PARADISE: EL LEGADO at Fabrik on Sat 30 Jan, Madrid. 16 artists: Abel Ramos, Brenda Serna, David Mallada and DJ Marta and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ REMEMBER PARADISE: EL LEGADO at Fabrik on Sat 30 Jan, Madrid. 15 artists: Abel R
 - H1pnos1s
 - Luis Bonias
 - Monica X
+- Nina Casth
 - Nita Key
 - Pergo
 - Raul Ortiz

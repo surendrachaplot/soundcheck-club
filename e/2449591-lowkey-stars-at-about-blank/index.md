@@ -17,7 +17,7 @@
 - CEEE
 - Charlotte Lion
 - David George
-- DJ YumYum
+- DJ yum yum
 - DjRundfunk
 - fiber.optyik
 - Florelle

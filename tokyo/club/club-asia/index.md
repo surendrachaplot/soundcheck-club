@@ -1,14 +1,13 @@
 # club asia
 
-club asia is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "PARTY HARD TUESDAY" on Tue, 17 Nov 2026.
+club asia is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "EXODUS vol.259" on Wed, 18 Nov 2026.
 
-club asia is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including 80KIDZ, Acrocanthosaurus, Albino Sound and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+club asia is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including 80KIDZ, Acrocanthosaurus, Albino Sound and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | PARTY HARD TUESDAY |  |
 | Wed, 18 Nov 2026 | EXODUS vol.259 | FUJI TRILL, KANT, Masaki, Yak, ban, ki (43), kyuuu, misa nakamura |
 | Thu, 19 Nov 2026 | DEJI | S3R4PH, Sekitova, kiyota (2) |
 | Thu, 19 Nov 2026 | club asia THURSDAY | Albino Sound, Axefield, Nova, Romy Mats |
@@ -18,9 +17,10 @@ club asia is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with
 | Mon, 23 Nov 2026 | 『HOT GYAL MOVEMENT -TOKYO』 |  |
 | Tue, 24 Nov 2026 | PARTY HARD TUESDAY × MOBILE SPOT -MOBILE SPOT 5th ANNIVERSARY- |  |
 | Wed, 25 Nov 2026 | EXODUS vol.260 | FUJI TRILL, Jellyf!sh, KANT, Yak, ban |
+| Thu, 26 Nov 2026 | club asia THURSDAY | Acrocanthosaurus, MoEPiKA, RYUU, miute |
 
 ## Address
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*

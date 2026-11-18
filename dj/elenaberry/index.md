@@ -1,6 +1,6 @@
 # Elena Berry
 
-Elena Berry is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Perry's Bar Shibuya, Tokyo on Fri, 20 Nov 2026.
+Elena Berry is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Perry's Bar Shibuya, Tokyo on Fri, 20 Nov 2026.
 
 Elena Berry is a house and garage artist based in Japan, with 2 gigs on soundcheck across Tokyo. Often billed alongside AIBA, ANZU and Addiy. Next up: Perry's Bar Shibuya, Tokyo on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ Elena Berry is a house and garage artist based in Japan, with 2 gigs on soundche
 
 AIBA, ANZU, Addiy
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenaberry/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenaberry/)*

@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
+Somewhen is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
 
 Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundcheck across Amsterdam, Antwerp, Austin and Baden W Rttemberg and 73 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Mia Mao, Paris on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundc
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

@@ -1,6 +1,6 @@
 # CUNTIKI ISLAND by Pillow Queen at Twisted Element
 
-CUNTIKI ISLAND by Pillow Queen at Twisted Element on Sat 28 Nov, Calgary. 1 artist: Litney. Techno and Guaracha. See the line-up on soundcheck.
+CUNTIKI ISLAND by Pillow Queen at Twisted Element on Sat 28 Nov, Calgary. 2 artists: Litney and SCANGELOUS. Techno and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ CUNTIKI ISLAND by Pillow Queen at Twisted Element on Sat 28 Nov, Calgary. 1 arti
 ## Line-up
 
 - Litney
+- SCANGELOUS
 
 *Source: [soundcheck](https://soundcheck.club/e/2578637-cuntiki-island-by-pillow-queen-at-twisted-element/)*

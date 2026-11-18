@@ -1,6 +1,6 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Romantica, Stuttgart on Fri, 20 Nov 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Romantica, Stuttgart on Fri, 20 Nov 2026.
 
 Massimiliano Pagliara is a house and techno artist based in Italy, with 280 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 82 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Romantica, Stuttgart on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 280 gigs
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

@@ -1,8 +1,8 @@
 # All My Friends
 
-All My Friends is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "'jg' album launch FREE w RSVP" on Thu, 19 Nov 2026.
+All My Friends is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "'jg' album launch FREE w RSVP" on Thu, 19 Nov 2026.
 
-All My Friends is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Jye, BUD, Copes and Dez (UK) and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
+All My Friends is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Jye, KT, BUD and Copes and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
 ## What's on
 
@@ -16,9 +16,10 @@ All My Friends is a music venue in London listed on soundcheck. 8 upcoming gigs,
 | Sat, 19 Dec 2026 | 9 Years of Still Life: An All-Day Christmas Knees Up | Copes, Dez (UK), Manalou |
 | Sun, 27 Dec 2026 | Our Friends at All My Friends FREE PARTY | Mannequin, VSVN |
 | Thu, 31 Dec 2026 | All My Friends New Year's Eve All Nighter |  |
+| Fri, 1 Jan 2027 | NYD Carry On: The Cause x Sundays.... from 8am onwards x | Copes, Darush, Edward, Free Zing, IAMBP, Izzy, Jos, KT, Matthias (1), Ryan Jones, Wallace |
 
 ## Address
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

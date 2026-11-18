@@ -1,14 +1,15 @@
 # Jhariah
 
-Jhariah is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Lovejoy’s, New York City on Thu, 19 Nov 2026.
+Jhariah is a Ghetto Tech and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lovejoy’s, New York City on Thu, 19 Nov 2026.
 
-Jhariah is an electronic artist based in United States of America, with 3 gigs on soundcheck across New York City. Often billed alongside Caratastrophe and Jake Korolev. Next up: Lovejoy’s, New York City on Thu 19 Nov.
+Jhariah is a ghetto tech and club artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Caratastrophe, Jake Korolev and ILUVDOMRICH. Next up: Lovejoy’s, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Lovejoy’s | New York City |
+| Fri, 4 Dec 2026 | Hart Bar | New York City |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Jhariah is an electronic artist based in United States of America, with 3 gigs o
 
 ## Shares bills with
 
-Caratastrophe, Jake Korolev
+Caratastrophe, Jake Korolev, ILUVDOMRICH
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhariah/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhariah/)*

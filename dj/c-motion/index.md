@@ -1,6 +1,6 @@
 # C-Motion
 
-C-Motion is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
+C-Motion is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
 
 C-Motion is a garage and house artist based in Czech Republic, with 31 gigs on soundcheck across Belgrade, Budapest, Prague and Tbilisi and 1 more. Often billed alongside tg_paul, Big Lil and agap. Next up: Aoyama Hachi, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ C-Motion is a garage and house artist based in Czech Republic, with 31 gigs on s
 
 tg_paul, Big Lil, agap
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c-motion/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c-motion/)*

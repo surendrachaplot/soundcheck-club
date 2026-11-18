@@ -1,6 +1,6 @@
 # Brtinzz
 
-Brtinzz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Market33, Austria on Sat, 21 Nov 2026.
+Brtinzz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Market33, Austria on Sat, 21 Nov 2026.
 
 Brtinzz is a techno and trance artist based in Slovenia, with 62 gigs on soundcheck across Amsterdam, Austria, Barcelona and Belgrade and 12 more. Often billed alongside GLIA, MNTR and Manrick Stapez. Next up: Market33, Austria on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Brtinzz is a techno and trance artist based in Slovenia, with 62 gigs on soundch
 
 GLIA, MNTR, Manrick Stapez
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*

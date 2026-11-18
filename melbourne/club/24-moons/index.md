@@ -1,6 +1,6 @@
 # 24 Moons
 
-24 Moons is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "LOVED & 24 Moons presents - 夜に踊ること。電子音楽。メルボルン" on Sat, 12 Dec 2026.
+24 Moons is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "LOVED & 24 Moons presents - 夜に踊ること。電子音楽。メルボルン" on Sat, 12 Dec 2026.
 
 24 Moons is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2 Arthurton Rd, Northcote 3070 VIC, Australia.
 
@@ -15,4 +15,4 @@
 
 2 Arthurton Rd, Northcote 3070 VIC, Australia, Melbourne
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*

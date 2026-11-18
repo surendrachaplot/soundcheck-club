@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "The Field (Live) + GK Machine (DJ)" on Thu, 19 Nov 2026.
+Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "The Field (Live) + GK Machine (DJ)" on Thu, 19 Nov 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including 6EJOU, Dominique., Frankie Elyse and GK Machine and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

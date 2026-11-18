@@ -1,6 +1,6 @@
 # Tony Romera
 
-Tony Romera is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Martigny Expo., Lausanne on Fri, 22 Jan 2027.
+Tony Romera is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Martigny Expo., Lausanne on Fri, 22 Jan 2027.
 
 Tony Romera is a house and tech house artist based in France, with 38 gigs on soundcheck across Austin, Boston, Calgary and Chicago and 19 more. Often billed alongside Crusy, CASSIMM and LOVRA. Next up: Martigny Expo., Lausanne on Fri 22 Jan.
 
@@ -27,4 +27,4 @@ Tony Romera is a house and tech house artist based in France, with 38 gigs on so
 
 Crusy, CASSIMM, LOVRA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*

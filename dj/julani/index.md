@@ -1,13 +1,14 @@
 # Julani
 
-Julani is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tagada, Vienna on Sat, 5 Dec 2026.
+Julani is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
 
-Julani is a house and acid artist based in Austria, with 21 gigs on soundcheck across Vienna. Often billed alongside PJPJPJ, Anni Herzer and Momo Trosman. Next up: Tagada, Vienna on Sat 5 Dec.
+Julani is a house and acid artist based in Austria, with 22 gigs on soundcheck across Barcelona and Vienna. Often billed alongside PJPJPJ, Anni Herzer and Momo Trosman. Next up: BUS Hexperience, Barcelona on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | BUS Hexperience | Barcelona |
 | Sat, 5 Dec 2026 | Tagada | Vienna |
 | Fri, 18 Dec 2026 | Tagada | Vienna |
 
@@ -26,4 +27,4 @@ Julani is a house and acid artist based in Austria, with 21 gigs on soundcheck a
 
 PJPJPJ, Anni Herzer, Momo Trosman
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*

@@ -1,6 +1,6 @@
 # Hutch
 
-Hutch is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at renae, Manchester on Thu, 19 Nov 2026.
+Hutch is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at renae, Manchester on Thu, 19 Nov 2026.
 
 Hutch is a house and techno artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Berlin, Brighton and Leeds and 3 more. Often billed alongside A For Alpha, Daughters of Frank and Eclair Fifi. Next up: renae, Manchester on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Hutch is a house and techno artist based in United Kingdom, with 38 gigs on soun
 
 A For Alpha, Daughters of Frank, Eclair Fifi
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hutch/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hutch/)*

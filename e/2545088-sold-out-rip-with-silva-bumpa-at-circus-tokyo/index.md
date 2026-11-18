@@ -1,6 +1,6 @@
 # 【SOLD OUT】RIP with Silva Bumpa at Circus Tokyo
 
-【SOLD OUT】RIP with Silva Bumpa at Circus Tokyo on Sat 28 Nov, Tokyo. 11 artists: BANGA RALLY, Genick, Jacotanu and kyo and 7 more. Bass and Garage. See the line-up on soundcheck.
+【SOLD OUT】RIP with Silva Bumpa at Circus Tokyo on Sat 28 Nov, Tokyo. 12 artists: BANGA RALLY, Genick, Jacotanu and kyo and 8 more. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@
 - kyo (3)
 - MOOTOE
 - Nizikawa
+- OBXR.
 - Ogasawara
 - Silva Bumpa
 - SKYTOPIA

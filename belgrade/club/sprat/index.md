@@ -1,6 +1,6 @@
 # Sprat
 
-Sprat is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "DJ Paypal, DJ Chad95 & Feloneezy" on Fri, 27 Nov 2026.
+Sprat is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "DJ Paypal, DJ Chad95 & Feloneezy" on Fri, 27 Nov 2026.
 
 Sprat is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Chad, DJ Paypal and Feloneezy. See dates, start times and who's playing. Cetinjska 15 Belgrade, Serbia.
 
@@ -15,4 +15,4 @@ Sprat is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with l
 
 Cetinjska 15 Belgrade, Serbia, Belgrade
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/sprat/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/sprat/)*

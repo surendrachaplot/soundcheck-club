@@ -1,6 +1,6 @@
 # Olimpiada
 
-Olimpiada is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Pod Gigantami, Warsaw on Sat, 28 Nov 2026.
+Olimpiada is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Pod Gigantami, Warsaw on Sat, 28 Nov 2026.
 
 Olimpiada is a house and garage artist based in Belarus, with 8 gigs on soundcheck across Warsaw. Often billed alongside kipah, HOLLY MOLLY (BY) and The 3D. Next up: Pod Gigantami, Warsaw on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Olimpiada is a house and garage artist based in Belarus, with 8 gigs on soundche
 
 kipah, HOLLY MOLLY (BY), The 3D
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olimpiada/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olimpiada/)*

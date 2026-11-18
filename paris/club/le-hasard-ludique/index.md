@@ -1,6 +1,6 @@
 # Le Hasard Ludique
 
-Le Hasard Ludique is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Cha + ThelmA + Psykasya" on Wed, 18 Nov 2026.
+Le Hasard Ludique is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Cha + ThelmA + Psykasya" on Wed, 18 Nov 2026.
 
 Le Hasard Ludique is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Aili, Arsenal Mikebe, Chico Blanco and Deleter and 2 more. See dates, start times and who's playing. 128, avenue de Saint-Ouen, 75018 Paris, France.
 
@@ -18,4 +18,4 @@ Le Hasard Ludique is a music venue in Paris listed on soundcheck. 5 upcoming gig
 
 128, avenue de Saint-Ouen, 75018 Paris, France, Paris
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-hasard-ludique/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-hasard-ludique/)*

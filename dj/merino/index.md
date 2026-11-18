@@ -1,6 +1,6 @@
 # Merino
 
-Merino is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 50 | 50, Medellin on Sun, 6 Dec 2026.
+Merino is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 50 | 50, Medellin on Sun, 6 Dec 2026.
 
 Merino is a techno and ambient artist based in Colombia, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Sepian, Julianna and Vandel. Next up: 50 | 50, Medellin on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Merino is a techno and ambient artist based in Colombia, with 80 gigs on soundch
 
 Sepian, Julianna, Vandel
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merino/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merino/)*

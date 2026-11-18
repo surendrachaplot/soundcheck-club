@@ -1,6 +1,6 @@
 # kuju
 
-kuju is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
+kuju is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
 
 kuju is an electronic artist based in Czech Republic, with 12 gigs on soundcheck across Prague. Often billed alongside Ark3r, De Mode and Anton Kubikov. Next up: Bike Jesus, Prague on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ kuju is an electronic artist based in Czech Republic, with 12 gigs on soundcheck
 
 Ark3r, De Mode, Anton Kubikov
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuju/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuju/)*

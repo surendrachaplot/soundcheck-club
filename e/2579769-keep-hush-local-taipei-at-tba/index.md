@@ -1,6 +1,6 @@
 # Keep Hush Local: Taipei at TBA
 
-Keep Hush Local: Taipei at TBA on Sat 19 Dec, Taipei. 4 artists: B E N N, Haus of Ralph, Jun (+886) and XAN (TW). Bass and Club. See the line-up on soundcheck.
+Keep Hush Local: Taipei at TBA on Sat 19 Dec, Taipei. 5 artists: B E N N, BB ICE FUN, Haus of Ralph and Jun (+886) and 1 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Keep Hush Local: Taipei at TBA on Sat 19 Dec, Taipei. 4 artists: B E N N, Haus o
 ## Line-up
 
 - B E N N
+- BB ICE FUN
 - Haus of Ralph
 - Jun (+886)
 - XAN (TW)

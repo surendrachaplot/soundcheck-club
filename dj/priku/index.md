@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Priku is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Priku is a house and minimal artist based in Romania, with 192 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -33,4 +33,4 @@ Priku is a house and minimal artist based in Romania, with 192 gigs on soundchec
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

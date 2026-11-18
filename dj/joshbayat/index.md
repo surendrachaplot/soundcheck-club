@@ -1,15 +1,14 @@
 # Josh Bayat
 
-Josh Bayat is a EBM and New Wave artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Loft, Manchester on Fri, 20 Nov 2026.
+Josh Bayat is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Loft, Manchester on Fri, 20 Nov 2026.
 
-Josh Bayat is an ebm and new wave artist based in United Kingdom, with 24 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Simon Scott, Harry James and Al Wootton. Next up: The Loft, Manchester on Fri 20 Nov.
+Josh Bayat is an ebm and new wave artist based in United Kingdom, with 23 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Simon Scott, Harry James and Feldspar. Next up: The Loft, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Loft | Manchester |
-| Sat, 28 Nov 2026 | The Cause | London |
 
 ## Recently played
 
@@ -24,6 +23,6 @@ Josh Bayat is an ebm and new wave artist based in United Kingdom, with 24 gigs o
 
 ## Shares bills with
 
-Simon Scott, Harry James, Al Wootton
+Simon Scott, Harry James, Feldspar
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbayat/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbayat/)*

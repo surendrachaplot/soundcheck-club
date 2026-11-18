@@ -1,6 +1,6 @@
 # Supernatural Haus
 
-Supernatural Haus is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Superqueen: GTA 6 Release Party" on Thu, 19 Nov 2026.
+Supernatural Haus is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Superqueen: GTA 6 Release Party" on Thu, 19 Nov 2026.
 
 Supernatural Haus is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Ale Acosta, Bonita Applebumz, bozito and HAZÓN and 2 more. See dates, start times and who's playing. 777 NE 79th St Miami, FL 33138.
 
@@ -16,4 +16,4 @@ Supernatural Haus is a music venue in Miami listed on soundcheck. 3 upcoming gig
 
 777 NE 79th St Miami, FL 33138, Miami
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/supernatural-haus/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/supernatural-haus/)*

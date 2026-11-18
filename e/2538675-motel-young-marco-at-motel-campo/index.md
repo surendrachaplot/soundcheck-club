@@ -1,6 +1,6 @@
 # Motel ✰ Young Marco at Motel Campo
 
-Motel ✰ Young Marco at Motel Campo on Sat 21 Nov, Geneva. 1 artist: Young Marco. House. See the line-up on soundcheck.
+Motel ✰ Young Marco at Motel Campo on Sat 21 Nov, Geneva. 2 artists: The Young MC and Young Marco. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Motel ✰ Young Marco at Motel Campo on Sat 21 Nov, Geneva. 1 artist: Young Marc
 
 ## Line-up
 
+- The Young MC
 - Young Marco
 
 *Source: [soundcheck](https://soundcheck.club/e/2538675-motel-young-marco-at-motel-campo/)*

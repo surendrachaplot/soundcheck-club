@@ -1,8 +1,8 @@
 # Klangkarussell
 
-Klangkarussell is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
+Klangkarussell is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
 
-Klangkarussell is a house and deep house artist based in Austria, with 49 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside Andre Klang, Michel Sacher and Prismode. Next up: Ritter Butzke, Berlin on Sat 21 Nov.
+Klangkarussell is a deep house and house artist based in Austria, with 51 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Andre Klang, Michel Sacher and Prismode. Next up: Ritter Butzke, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Klangkarussell is a house and deep house artist based in Austria, with 49 gigs o
 | Fri, 15 Jan 2027 | O der Klub | Vienna |
 | Sat, 23 Jan 2027 | 1720 | Los Angeles |
 | Sat, 23 Jan 2027 | 1720 | Los Angeles |
+| Tue, 26 Jan 2027 | The Vogue Theatre | Vancouver |
+| Fri, 29 Jan 2027 | Annabel's Music Hall | Toronto |
 | Sat, 30 Jan 2027 | S.A.T | Montreal |
 
 ## Recently played
@@ -29,4 +31,4 @@ Klangkarussell is a house and deep house artist based in Austria, with 49 gigs o
 
 Andre Klang, Michel Sacher, Prismode
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*

@@ -1,13 +1,14 @@
 # DJ Kirby
 
-DJ Kirby is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Casual, Hong Kong on Sat, 5 Dec 2026.
+DJ Kirby is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Casual, Hong Kong on Sat, 28 Nov 2026.
 
-DJ Kirby is a house and electro artist based in China, with 41 gigs on soundcheck across Chengdu, Chongqing, Hong Kong and Krakow and 2 more. Often billed alongside MLCH, Stitty and AngeliKa. Next up: Casual, Hong Kong on Sat 5 Dec.
+DJ Kirby is a house and electro artist based in China, with 42 gigs on soundcheck across Chengdu, Chongqing, Hong Kong and Krakow and 2 more. Often billed alongside MLCH, Stitty and Zora Chan. Next up: Casual, Hong Kong on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Casual | Hong Kong |
 | Sat, 5 Dec 2026 | Casual | Hong Kong |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ Kirby is a house and electro artist based in China, with 41 gigs on soundchec
 
 ## Shares bills with
 
-MLCH, Stitty, AngeliKa
+MLCH, Stitty, Zora Chan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirby/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirby/)*

@@ -1,6 +1,6 @@
 # Dj Daddy Wannie
 
-Dj Daddy Wannie is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Chicago on Fri, 4 Dec 2026.
+Dj Daddy Wannie is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Chicago on Fri, 4 Dec 2026.
 
 Dj Daddy Wannie is a techno and acid artist based in United States of America, with 11 gigs on soundcheck across Chicago and Detroit. Often billed alongside DJ THADZ, Hungu and Jeremiah Meece. Next up: TBA, Chicago on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dj Daddy Wannie is a techno and acid artist based in United States of America, w
 
 DJ THADZ, Hungu, Jeremiah Meece
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdaddywannie/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdaddywannie/)*

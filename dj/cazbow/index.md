@@ -1,6 +1,6 @@
 # cazbow
 
-cazbow is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ZEROTOKYO, Tokyo on Sun, 22 Nov 2026.
+cazbow is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ZEROTOKYO, Tokyo on Sun, 22 Nov 2026.
 
 cazbow is a techno and bass artist based in Japan, with 43 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside nazanael, TAKENOKO and kengotaki. Next up: ZEROTOKYO, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ cazbow is a techno and bass artist based in Japan, with 43 gigs on soundcheck ac
 
 nazanael, TAKENOKO, kengotaki
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cazbow/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cazbow/)*

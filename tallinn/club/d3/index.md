@@ -1,6 +1,6 @@
 # D3
 
-D3 is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Hybrid Minds: EU Tour 2027 (Tallinn)" on Sat, 21 Nov 2026.
+D3 is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Hybrid Minds: EU Tour 2027 (Tallinn)" on Sat, 21 Nov 2026.
 
 D3 is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-ups including Hybrid Minds and Mozey. See dates, start times and who's playing. Telliskivi 62/2, Tallinn, Harjumaa, Estonia.
 
@@ -16,4 +16,4 @@ D3 is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-
 
 Telliskivi 62/2, Tallinn, Harjumaa, Estonia, Tallinn
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/d3/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/d3/)*

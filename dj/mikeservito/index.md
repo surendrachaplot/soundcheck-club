@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Mike Servito is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Mike Servito is a house and techno artist based in United States of America, with 318 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Shaun J. Wright, Erika and Carlos Souffront. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Shaun J. Wright, Erika, Carlos Souffront
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

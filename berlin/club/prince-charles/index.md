@@ -1,6 +1,6 @@
 # Prince Charles
 
-Prince Charles is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "7 YEARS OF NUDE" on Sat, 21 Nov 2026.
+Prince Charles is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "7 YEARS OF NUDE" on Sat, 21 Nov 2026.
 
 Prince Charles is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including AYURI, Carmelina, Cosmo (KR) and DJ Fuckoff and 2 more. See dates, start times and who's playing. Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Prince Charles is a music venue in Berlin listed on soundcheck. 3 upcoming gigs,
 
 Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*

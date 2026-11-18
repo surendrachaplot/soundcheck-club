@@ -1,6 +1,6 @@
 # CBSmoove + DJ Cozy at Jupiter Disco
 
-CBSmoove + DJ Cozy at Jupiter Disco on Thu 19 Nov, New York City. 1 artist: DJ Cozy. See the line-up on soundcheck.
+CBSmoove + DJ Cozy at Jupiter Disco on Thu 19 Nov, New York City. 1 artist: DJ Cozy. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

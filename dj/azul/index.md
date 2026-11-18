@@ -1,6 +1,6 @@
 # azul
 
-azul is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
+azul is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
 
 azul is a dub and downtempo artist based in Spain, with 11 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Smiley, Truglut and Bea Moy. Next up: TBA - LFO, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ azul is a dub and downtempo artist based in Spain, with 11 gigs on soundcheck ac
 
 Smiley (1), Truglut, Bea Moy
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azul/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azul/)*

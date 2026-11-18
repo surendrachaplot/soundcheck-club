@@ -1,6 +1,6 @@
 # Safestay Rooftop
 
-Safestay Rooftop is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "DUSKGROOVE pres. SECRET ROOFTOP (Daytime House Experience)" on Sat, 21 Nov 2026.
+Safestay Rooftop is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "DUSKGROOVE pres. SECRET ROOFTOP (Daytime House Experience)" on Sat, 21 Nov 2026.
 
 Safestay Rooftop is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Pg. de Gràcia, 33 08007 Barcelona.
 
@@ -14,4 +14,4 @@ Safestay Rooftop is a music venue in Barcelona listed on soundcheck. 1 upcoming 
 
 Pg. de Gràcia, 33 08007 Barcelona, Barcelona
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/safestay-rooftop/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/safestay-rooftop/)*

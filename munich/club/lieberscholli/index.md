@@ -1,15 +1,15 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Kinky Karneval Festival Edition" on Fri, 20 Nov 2026.
+Lieberscholli is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Kinky Karneval Festival Edition" on Fri, 20 Nov 2026.
 
-Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Alessia Cattani, Andrale, Boyko and Cottí Larje and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
+Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Alessia Cattani, Andrale, Cottí Larje and Daniel Neuland and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Kinky Karneval Festival Edition | Alessia Cattani, L.A.X, Sabura |
-| Fri, 27 Nov 2026 | NONSTOP PT. 1 | Boyko, Reduks, Reka Zalan, Rill, Sarica, Shaleen |
+| Fri, 27 Nov 2026 | NONSTOP PT. 1 | Reduks, Reka Zalan, Rill, Sarica, Shaleen |
 | Sat, 28 Nov 2026 | Toon Winter Town | DJ Yugo, Danya (DE), Goiaba, Jeyrototo, LYZA, SHAJAN, kamo. |
 | Sat, 5 Dec 2026 | SECCO DAY CLUB – A VERY SECCO CHRISTMAS powered by daenz | Andrale, Daniel Neuland, Mawu, R3NATA |
 | Fri, 11 Dec 2026 | 11 Years Escon Anniversary – Weekender | DONT BLINK, Frida Darko, Gizmo, Kerry Gold, Mr.Ciao, Nina Hepburn, Roman Adam, Zwie:Tech, sayuara |
@@ -20,4 +20,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

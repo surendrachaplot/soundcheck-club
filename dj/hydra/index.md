@@ -1,6 +1,6 @@
 # Hydra
 
-Hydra is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Blue Room, Montreal on Thu, 19 Nov 2026.
+Hydra is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Blue Room, Montreal on Thu, 19 Nov 2026.
 
 Hydra is a gabber and hardcore artist based in South Africa, with 6 gigs on soundcheck across Madrid, Medellin, Montreal and Tokyo. Often billed alongside 404, Alba and Ash. Next up: Blue Room, Montreal on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Hydra is a gabber and hardcore artist based in South Africa, with 6 gigs on soun
 
 404 (1), Alba (2), Ash
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hydra/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hydra/)*

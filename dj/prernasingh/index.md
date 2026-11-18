@@ -1,14 +1,15 @@
 # Prerna Singh
 
-Prerna Singh is a Techno and Gqom artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Unit 58, London on Fri, 4 Dec 2026.
+Prerna Singh is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Unit 58, London on Fri, 4 Dec 2026.
 
-Prerna Singh is a techno and gqom artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Erica (IT), TECHNOLUX and chet (UK). Next up: Unit 58, London on Fri 4 Dec.
+Prerna Singh is a techno and acid artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Erica (IT), TECHNOLUX and chet (UK). Next up: Unit 58, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Unit 58 | London |
+| Fri, 11 Dec 2026 | Unit 58 | London |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Prerna Singh is a techno and gqom artist based in United Kingdom, with 8 gigs on
 
 Erica (IT), TECHNOLUX, chet (UK)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prernasingh/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prernasingh/)*

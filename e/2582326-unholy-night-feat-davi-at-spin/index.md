@@ -1,6 +1,6 @@
 # Unholy Night feat. DAVI at Spin
 
-Unholy Night feat. DAVI at Spin on Sat 5 Dec, San Diego. 1 artist: DAVI. Progressive House and Deep House. See the line-up on soundcheck.
+Unholy Night feat. DAVI at Spin on Sat 5 Dec, San Diego. 3 artists: Ali Gria, DAVI and match.a.mor. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Unholy Night feat. DAVI at Spin on Sat 5 Dec, San Diego. 1 artist: DAVI. Progres
 
 ## Line-up
 
+- Ali Gria
 - DAVI
+- match.a.mor
 
 *Source: [soundcheck](https://soundcheck.club/e/2582326-unholy-night-feat-davi-at-spin/)*

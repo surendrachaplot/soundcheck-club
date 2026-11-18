@@ -1,14 +1,13 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Sans Soleil w/ Hidi" on Tue, 17 Nov 2026.
+Sans Soleil is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sans Soleil w/ Visionaire Not Millionaire" on Wed, 18 Nov 2026.
 
-Sans Soleil is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Destiny (CA), Ferias, Icky Magdala and Joe Toner and 2 more. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
+Sans Soleil is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including Destiny (CA), Ferias, Icky Magdala and Joe Toner and 2 more. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | Sans Soleil w/ Hidi |  |
 | Wed, 18 Nov 2026 | Sans Soleil w/ Visionaire Not Millionaire | Visionaire Not Millionaire |
 | Thu, 19 Nov 2026 | Sans Soleil w/ Mickey Perez | Mickey Perez |
 | Fri, 20 Nov 2026 | Sans Soleil w/ Destiny | Destiny (CA) |
@@ -20,4 +19,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, 
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

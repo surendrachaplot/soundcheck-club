@@ -1,6 +1,6 @@
 # FVTVR
 
-FVTVR is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SK-11: Setaoc Mass, BLANKA, Arkan" on Fri, 20 Nov 2026.
+FVTVR is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SK-11: Setaoc Mass, BLANKA, Arkan" on Fri, 20 Nov 2026.
 
 FVTVR is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Arkan, Bellaire, Black Loops and BLANKA and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -23,4 +23,4 @@ FVTVR is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with lin
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

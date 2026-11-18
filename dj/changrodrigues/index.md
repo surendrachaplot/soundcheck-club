@@ -1,14 +1,15 @@
 # Chang Rodrigues
 
-Chang Rodrigues is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 21 Nov 2026.
+Chang Rodrigues is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 21 Nov 2026.
 
-Chang Rodrigues is a techno and house artist based in Brazil, with 8 gigs on soundcheck across Barcelona, Berlin and Copenhagen. Often billed alongside NEVERSLEEP, 3rd Party Influence and Aamir. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 21 Nov.
+Chang Rodrigues is a techno and electro artist based in Brazil, with 9 gigs on soundcheck across Barcelona, Berlin and Copenhagen. Often billed alongside NEVERSLEEP, 3rd Party Influence and Aamir. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Pylonen - Frizonen Langebro | Copenhagen |
+| Thu, 3 Dec 2026 | ciao ciao Bar | Berlin |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Chang Rodrigues is a techno and house artist based in Brazil, with 8 gigs on sou
 
 NEVERSLEEP, 3rd Party Influence, Aamir
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/changrodrigues/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/changrodrigues/)*

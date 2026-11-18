@@ -1,6 +1,6 @@
 # neska
 
-neska is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Saint-Denis, Paris on Sat, 28 Nov 2026.
+neska is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Saint-Denis, Paris on Sat, 28 Nov 2026.
 
 neska is a techno and house artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 9 more. Often billed alongside Naone, dirtydms and BERTON. Next up: TBA - Saint-Denis, Paris on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ neska is a techno and house artist based in Spain, with 83 gigs on soundcheck ac
 
 Naone, dirtydms, BERTON
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*

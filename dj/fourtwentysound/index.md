@@ -1,8 +1,8 @@
 # Fourtwenty Sound
 
-Fourtwenty Sound is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Fourtwenty Sound is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Fourtwenty Sound is a house and afro house artist, with 5 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Adi (CO), Andrea Arias and Andy Martin. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Fourtwenty Sound is a house and afro house artist, with 5 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Adi (CO), Alejandro Bernal and Andrea Arias. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Fourtwenty Sound is a house and afro house artist, with 5 gigs on soundcheck acr
 
 ## Shares bills with
 
-Adi (CO), Andrea Arias, Andy Martin
+Adi (CO), Alejandro Bernal, Andrea Arias
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtwentysound/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtwentysound/)*

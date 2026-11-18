@@ -1,6 +1,6 @@
 # Interflow at Teranoma Tidepool
 
-Interflow at Teranoma Tidepool on Sat 28 Nov, Osaka. 1 artist: LEiCA. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Interflow at Teranoma Tidepool on Sat 28 Nov, Osaka. 2 artists: LEiCA and Mameron. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Interflow at Teranoma Tidepool on Sat 28 Nov, Osaka. 1 artist: LEiCA. Drum & Bas
 ## Line-up
 
 - LEiCA
+- Mameron
 
 *Source: [soundcheck](https://soundcheck.club/e/2579937-interflow-at-teranoma-tidepool/)*

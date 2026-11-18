@@ -1,8 +1,8 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "WAX ON WAX OFF" on Fri, 20 Nov 2026.
+TV Lounge is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "WAX ON WAX OFF" on Fri, 20 Nov 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including 888lambchop, Ameera, DJ Minx and DJ Slimey and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including 888lambchop, Ameera, DJ Minx and DJ Slimey and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
@@ -11,6 +11,7 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, wit
 | Fri, 20 Nov 2026 | WAX ON WAX OFF | Ameera, Eddie Logix, Turtle Bugg |
 | Sat, 21 Nov 2026 | Eli Escobar - Extended Set | Eli Escobar, Peter Croce |
 | Wed, 25 Nov 2026 | BIGGEST BAR NIGHT |  |
+| Fri, 27 Nov 2026 | Left On Red | Gina Maria |
 | Sat, 28 Nov 2026 | THANKSGIVING | 888lambchop, DJ Slimey, Fullbodydurag, JMT (2), KRW (1), Marcus NF Harris, Ryan Sadorus, Zoe Talley, jamea., saylem celeste |
 | Sun, 29 Nov 2026 | GOSPEL HOUSE 313 presented by THILL Radio | Terrence Parker |
 | Sat, 5 Dec 2026 | Toribio • sillygirlcarmen • BROOKLYN, DETROIT AND EVERYWHERE THE GROOVE TAKES YOU | Meftah, Toribio, sillygirlcarmen |
@@ -22,4 +23,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

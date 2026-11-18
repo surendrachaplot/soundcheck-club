@@ -1,6 +1,6 @@
 # Ernesto Chahoud
 
-Ernesto Chahoud is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bal Chavaux, Paris on Fri, 11 Dec 2026.
+Ernesto Chahoud is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bal Chavaux, Paris on Fri, 11 Dec 2026.
 
 Ernesto Chahoud is a funk / soul and disco artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Hamburg, London and Los Angeles and 1 more. Often billed alongside Natalie Shooter, Beirut Groove Collective and Hamish & Toby. Next up: Bal Chavaux, Paris on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Ernesto Chahoud is a funk / soul and disco artist based in United Kingdom, with 
 
 Natalie Shooter, Beirut Groove Collective, Hamish & Toby
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*

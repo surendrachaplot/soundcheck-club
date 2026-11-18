@@ -1,6 +1,6 @@
 # Leftfield
 
-Leftfield is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
+Leftfield is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
 
 Leftfield is an electronica and house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Belfast and Birmingham and 19 more. Often billed alongside Posthuman, Batu and Ben Sims. Next up: The Prospect Building, Bristol on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Leftfield is an electronica and house artist based in United Kingdom, with 49 gi
 
 Posthuman, Batu, Ben Sims
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*

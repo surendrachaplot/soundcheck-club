@@ -1,6 +1,6 @@
 # VeryGoodPlus at Club Waziema
 
-VeryGoodPlus at Club Waziema on Sat 21 Nov, San Francisco/Oakland. 1 artist: Albion Street Music. House and Deep House. See the line-up on soundcheck.
+VeryGoodPlus at Club Waziema on Sat 21 Nov, San Francisco/Oakland. 2 artists: Albion Street Music and chi.cho. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ VeryGoodPlus at Club Waziema on Sat 21 Nov, San Francisco/Oakland. 1 artist: Alb
 ## Line-up
 
 - Albion Street Music
+- chi.cho
 
 *Source: [soundcheck](https://soundcheck.club/e/2584589-verygoodplus-at-club-waziema/)*

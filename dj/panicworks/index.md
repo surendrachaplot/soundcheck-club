@@ -1,6 +1,6 @@
 # PANICWORKS
 
-PANICWORKS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at HVEN, Tokyo on Thu, 26 Nov 2026.
+PANICWORKS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at HVEN, Tokyo on Thu, 26 Nov 2026.
 
 PANICWORKS is a techno and bass artist based in Japan, with 44 gigs on soundcheck across Tokyo. Often billed alongside Seimei, VOX and roomquake. Next up: HVEN, Tokyo on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ PANICWORKS is a techno and bass artist based in Japan, with 44 gigs on soundchec
 
 Seimei, VOX (1), roomquake
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*

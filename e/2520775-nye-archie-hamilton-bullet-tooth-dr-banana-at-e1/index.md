@@ -1,6 +1,6 @@
 # NYE: Archie Hamilton, bullet tooth, Dr Banana at E1
 
-NYE: Archie Hamilton, bullet tooth, Dr Banana at E1 on Thu 31 Dec, London. 7 artists: Archie Hamilton, ASHOJU, bullet tooth and Dr Banana and 3 more. House and Garage. See the line-up on soundcheck.
+NYE: Archie Hamilton, bullet tooth, Dr Banana at E1 on Thu 31 Dec, London. 8 artists: Archie Hamilton, ASHOJU, bullet tooth and Dr Banana and 4 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ NYE: Archie Hamilton, bullet tooth, Dr Banana at E1 on Thu 31 Dec, London. 7 ar
 - Dr Banana
 - Emerald
 - Matisa
+- Melody RA+RE
 - Yves Tomas
 
 *Source: [soundcheck](https://soundcheck.club/e/2520775-nye-archie-hamilton-bullet-tooth-dr-banana-at-e1/)*

@@ -1,6 +1,6 @@
 # Patrick Gibin
 
-Patrick Gibin is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tenuta D'amore, Naples on Sat, 19 Dec 2026.
+Patrick Gibin is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Tenuta D'amore, Naples on Sat, 19 Dec 2026.
 
 Patrick Gibin is a house and funk / soul artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Volcov, Kaidi Tatham and Craig White. Next up: Tenuta D'amore, Naples on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Patrick Gibin is a house and funk / soul artist based in Italy, with 26 gigs on 
 
 Volcov, Kaidi Tatham, Craig White
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*

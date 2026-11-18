@@ -1,6 +1,6 @@
 # Dutch Horse Conference
 
-Dutch Horse Conference is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - OPEN / SOURCE, Cape Town on Sat, 21 Nov 2026.
+Dutch Horse Conference is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - OPEN / SOURCE, Cape Town on Sat, 21 Nov 2026.
 
 Dutch Horse Conference is a house and minimal artist based in South Africa, with 7 gigs on soundcheck across Cape Town. Often billed alongside Myeru, AVEM and Bongani Zulu. Next up: TBA - OPEN / SOURCE, Cape Town on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Dutch Horse Conference is a house and minimal artist based in South Africa, with
 
 Myeru, AVEM, Bongani Zulu
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dutchhorseconference/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dutchhorseconference/)*

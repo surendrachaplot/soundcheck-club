@@ -1,6 +1,6 @@
 # Fran Hartnett
 
-Fran Hartnett is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The New Theatre, Dublin on Fri, 27 Nov 2026.
+Fran Hartnett is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The New Theatre, Dublin on Fri, 27 Nov 2026.
 
 Fran Hartnett is a techno and experimental artist based in Ireland, with 9 gigs on soundcheck across Cork, Dublin and Limerick. Often billed alongside Cailín, DJ Jon Barry and Giles Armstrong. Next up: The New Theatre, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Fran Hartnett is a techno and experimental artist based in Ireland, with 9 gigs 
 
 Cailín, DJ Jon Barry, Giles Armstrong
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franhartnett/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franhartnett/)*

@@ -1,6 +1,6 @@
 # KLO (UK)
 
-KLO (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+KLO (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 KLO (UK) is a house and techno artist based in Lebanon, with 26 gigs on soundcheck across Dubai, Florida, London and New York City and 3 more. Often billed alongside Lyss, Phill de Janeiro and Benji King. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ KLO (UK) is a house and techno artist based in Lebanon, with 26 gigs on soundche
 
 Lyss, Phill de Janeiro, Benji King
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klo-uk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klo-uk/)*

@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "MCR-T, B From E, Anna Logic" on Fri, 20 Nov 2026.
+Hangaren is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "MCR-T, B From E, Anna Logic" on Fri, 20 Nov 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, with line-ups including Anna Logic, babysquid, Bad Boombox and B From E and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, 
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

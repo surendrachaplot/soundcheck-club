@@ -1,8 +1,8 @@
 # Form Affinity
 
-Form Affinity is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Autumn Three, London on Sat, 13 Feb 2027.
+Form Affinity is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Autumn Three, London on Sat, 13 Feb 2027.
 
-Form Affinity is an ambient and bass artist, with 10 gigs on soundcheck across London. Often billed alongside Cold Hippie, Madjestic Kasual and Squish. Next up: Autumn Three, London on Sat 13 Feb.
+Form Affinity is an ambient and bass artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Cold Hippie, Madjestic Kasual and Squish. Next up: Autumn Three, London on Sat 13 Feb.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Form Affinity is an ambient and bass artist, with 10 gigs on soundcheck across L
 
 Cold Hippie, Madjestic Kasual, Squish
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formaffinity/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formaffinity/)*

@@ -1,6 +1,6 @@
 # katje
 
-katje is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 93 Feet East, London on Sat, 19 Dec 2026.
+katje is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 93 Feet East, London on Sat, 19 Dec 2026.
 
 katje is a minimal techno and house artist based in United Kingdom, with 6 gigs on soundcheck across Brussels and London. Often billed alongside Laura De Greef, Sopar and Alythia Kwan. Next up: 93 Feet East, London on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ katje is a minimal techno and house artist based in United Kingdom, with 6 gigs 
 
 Laura De Greef, Sopar, Alythia Kwan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katje/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katje/)*

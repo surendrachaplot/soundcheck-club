@@ -1,6 +1,6 @@
 # LINNA
 
-LINNA is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 50 | 50, Medellin on Fri, 20 Nov 2026.
+LINNA is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 50 | 50, Medellin on Fri, 20 Nov 2026.
 
 LINNA is a techno and electronica artist based in Colombia, with 3 gigs on soundcheck across Medellin. Often billed alongside The Fabric Of Reality. Next up: 50 | 50, Medellin on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ LINNA is a techno and electronica artist based in Colombia, with 3 gigs on sound
 
 The Fabric Of Reality
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linna/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linna/)*

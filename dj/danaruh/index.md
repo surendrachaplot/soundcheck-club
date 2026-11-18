@@ -1,6 +1,6 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Silbergold, Frankfurt on Fri, 4 Dec 2026.
+Dana Ruh is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Silbergold, Frankfurt on Fri, 4 Dec 2026.
 
 Dana Ruh is a house and techno artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 48 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Silbergold, Frankfurt on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Dana Ruh is a house and techno artist based in Germany, with 173 gigs on soundch
 
 Alessia Ceruti, Robert Drewek, Sven Vath
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*

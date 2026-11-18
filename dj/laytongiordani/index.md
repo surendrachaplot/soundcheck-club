@@ -1,8 +1,8 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at New City Gas, Montreal on Sat, 28 Nov 2026.
+Layton Giordani is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at New City Gas, Montreal on Sat, 28 Nov 2026.
 
-Layton Giordani is a techno and house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: New City Gas, Montreal on Sat 28 Nov.
+Layton Giordani is a techno and house artist based in United States of America, with 139 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: New City Gas, Montreal on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Layton Giordani is a techno and house artist based in United States of America, 
 | Sat, 28 Nov 2026 | Dstrkt, New City Gas | Montreal |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
+| Thu, 31 Dec 2026 | Plaza Hotel Sydney | Sydney |
 | Thu, 31 Dec 2026 | Plaza Hotel Sydney | Sydney |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
@@ -30,4 +31,4 @@ Layton Giordani is a techno and house artist based in United States of America, 
 
 Adam Beyer, John Summit, Green Velvet
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*

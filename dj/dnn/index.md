@@ -1,6 +1,6 @@
 # DNN
 
-DNN is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
+DNN is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
 
 DNN is a bass and techno artist based in Italy, with 49 gigs on soundcheck across Bologna, Milan and Turin. Often billed alongside Ormeye, Lupo Mangiafrutta and Ayce Bio. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DNN is a bass and techno artist based in Italy, with 49 gigs on soundcheck acros
 
 Ormeye, Lupo Mangiafrutta, Ayce Bio
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dnn/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dnn/)*

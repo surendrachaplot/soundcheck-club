@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "The Shed Residents presents: Lorcan Kelly B2B Chris Flannigan, Princess Glitoris B2B Emma O" on Fri, 20 Nov 2026.
+Yamamori Tengu is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "The Shed Residents presents: Lorcan Kelly B2B Chris Flannigan, Princess Glitoris B2B Emma O" on Fri, 20 Nov 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including Chris Flannigan, Cinthie, Collie and Cormac and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including Chris Flannigan, Cinthie, Collie and Cormac and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs
 | Sat, 28 Nov 2026 | Woozy X Empyrean Wave: Forest Drive West, EMA & stebu Powered by Rub A Dub Hifi | EMA (1), Forest Drive West, stebu |
 | Fri, 4 Dec 2026 | Tengu presents: Cormac's Residency with Cormac All Night Long | Cormac |
 | Sat, 5 Dec 2026 | Tengu presents: Craig Richards All Night Long | Craig Richards |
-| Thu, 10 Dec 2026 | IADJs Winter Ball |  |
+| Thu, 10 Dec 2026 | IADJs presents: XMAS BALL |  |
 | Fri, 11 Dec 2026 | Melodic 15: Patrice Bäumel (3hr Set) | Patrice Bäumel |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

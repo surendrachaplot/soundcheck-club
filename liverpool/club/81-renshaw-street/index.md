@@ -1,6 +1,6 @@
 # 81 Renshaw Street
 
-81 Renshaw Street is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Claire Welles Album Launch" on Fri, 20 Nov 2026.
+81 Renshaw Street is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Claire Welles Album Launch" on Fri, 20 Nov 2026.
 
 81 Renshaw Street is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Anhedonia and Jezebel. See dates, start times and who's playing. 81 Renshaw Street, Liverpool, L1 2SJ.
 
@@ -16,4 +16,4 @@
 
 81 Renshaw Street, Liverpool, L1 2SJ, Liverpool
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/81-renshaw-street/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/81-renshaw-street/)*

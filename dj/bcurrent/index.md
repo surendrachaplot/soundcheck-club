@@ -1,6 +1,6 @@
 # B Current
 
-B Current is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at San Francisco, Amsterdam on Thu, 19 Nov 2026.
+B Current is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at San Francisco, Amsterdam on Thu, 19 Nov 2026.
 
 B Current is an electronic artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Anacalypto, House of Optimism and Eja Penelope. Next up: San Francisco, Amsterdam on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ B Current is an electronic artist based in Netherlands, with 6 gigs on soundchec
 
 Anacalypto, House of Optimism, Eja Penelope
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bcurrent/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bcurrent/)*

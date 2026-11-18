@@ -1,6 +1,6 @@
 # HUNTER STEEL
 
-HUNTER STEEL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Paraiso Estereo, Miami on Fri, 20 Nov 2026.
+HUNTER STEEL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Paraiso Estereo, Miami on Fri, 20 Nov 2026.
 
 HUNTER STEEL is a techno and trance artist based in United States of America, with 7 gigs on soundcheck across Miami. Often billed alongside Franky De Rey, DomnRob and Dadrev. Next up: Paraiso Estereo, Miami on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ HUNTER STEEL is a techno and trance artist based in United States of America, wi
 
 Franky De Rey, DomnRob, Dadrev
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huntersteel/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huntersteel/)*

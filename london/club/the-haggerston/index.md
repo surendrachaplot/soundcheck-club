@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "FES. + Rouzy All Night Long" on Thu, 19 Nov 2026.
+The Haggerston is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "FES. + Rouzy All Night Long" on Thu, 19 Nov 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Big D, Camporeale (FR), FES. and KLOO and 2 more. See dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -17,4 +17,4 @@ The Haggerston is a music venue in London listed on soundcheck. 4 upcoming gigs,
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

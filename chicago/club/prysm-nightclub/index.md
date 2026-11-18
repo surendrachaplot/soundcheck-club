@@ -1,6 +1,6 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "THE LAB: Natalia Roth" on Fri, 20 Nov 2026.
+Prysm Nightclub is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "THE LAB: Natalia Roth" on Fri, 20 Nov 2026.
 
 Prysm Nightclub is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including FLETCH, Azzecca, Cole Terrazas and DJ Tennis and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
 
@@ -23,4 +23,4 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 11 upcoming gi
 
 1543 N Kingsbury St, Chicago
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

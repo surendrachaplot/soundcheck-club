@@ -1,6 +1,6 @@
 # CIBER1A
 
-CIBER1A is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bonobo, Tokyo on Sat, 21 Nov 2026.
+CIBER1A is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bonobo, Tokyo on Sat, 21 Nov 2026.
 
 CIBER1A is a techno and experimental artist, with 15 gigs on soundcheck across Montreal, Tokyo and Toronto. Often billed alongside INDUSTRIALTHROTTLING, MIASALAV and URA. Next up: Bonobo, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CIBER1A is a techno and experimental artist, with 15 gigs on soundcheck across M
 
 INDUSTRIALTHROTTLING, MIASALAV, URA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciber1a/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciber1a/)*

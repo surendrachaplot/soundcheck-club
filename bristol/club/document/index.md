@@ -1,8 +1,8 @@
 # Document
 
-Document is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Gray presents: Antisocial Sound (w/ Electrikal Soundsystem)" on Fri, 27 Nov 2026.
+Document is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Gray presents: Antisocial Sound (w/ Electrikal Soundsystem)" on Fri, 27 Nov 2026.
 
-Document is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including Artemis, A Sagittariun, Bateman and Benny L and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
+Document is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including Artemis, A Sagittariun, Bateman and Benny L and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Document is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with
 | Fri, 11 Dec 2026 | Document x Rosado presents: Paco Osuna & More TBA | Paco Osuna |
 | Sat, 12 Dec 2026 | Document presents: Sasha TBA | Sasha |
 | Sat, 19 Dec 2026 | KOAN Sound - Bristol | KOAN Sound, MIYAMORO |
+| Thu, 31 Dec 2026 | Our Place: NYE (Bristol) |  |
 | Sat, 13 Feb 2027 | Document presents: SHINE Bristol Ft. Paul Van Dyk  | Cosmic Gate, John O'Callaghan, Paul Van Dyk |
 
 ## Address
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

@@ -1,13 +1,14 @@
 # Elliot Holt
 
-Elliot Holt is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Eiger Studios, Leeds on Sun, 13 Dec 2026.
+Elliot Holt is a House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Holding Patterns, Leeds on Fri, 4 Dec 2026.
 
-Elliot Holt is a house and downtempo artist based in United Kingdom, with 36 gigs on soundcheck across Leeds and West Wales. Often billed alongside Cosmikuro, Ellis Weeks and Simon Scott. Next up: Eiger Studios, Leeds on Sun 13 Dec.
+Elliot Holt is a house and downtempo artist based in United Kingdom, with 37 gigs on soundcheck across Leeds and West Wales. Often billed alongside Cosmikuro, Ellis Weeks and Simon Scott. Next up: Holding Patterns, Leeds on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Holding Patterns | Leeds |
 | Sun, 13 Dec 2026 | Eiger Studios | Leeds |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
@@ -26,4 +27,4 @@ Elliot Holt is a house and downtempo artist based in United Kingdom, with 36 gig
 
 Cosmikuro, Ellis Weeks, Simon Scott
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*

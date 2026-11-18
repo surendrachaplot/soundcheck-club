@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Hot Mess with FLINTA* CLUB DECK" on Thu, 19 Nov 2026.
+Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Hot Mess with FLINTA* CLUB DECK" on Thu, 19 Nov 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Nadine Hennig, Acid Pauli, Aio and Alex Neri and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Nadine Hennig, Acid Pauli, Aimé You and Aio and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with li
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

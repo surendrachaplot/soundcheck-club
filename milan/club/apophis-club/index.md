@@ -1,6 +1,6 @@
 # Apophis Club
 
-Apophis Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "X Season: Calliope" on Fri, 20 Nov 2026.
+Apophis Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "X Season: Calliope" on Fri, 20 Nov 2026.
 
 Apophis Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Filippo Costantini, Kim April and Lorenzo Sidoti. See dates, start times and who's playing. Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy.
 
@@ -16,4 +16,4 @@ Apophis Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, wi
 
 Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy, Milan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*

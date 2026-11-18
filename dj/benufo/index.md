@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
+Ben UFO is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
 
 Ben UFO is a techno and house artist based in United Kingdom, with 271 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 80 more. Often billed alongside Helena Hauff, Ogazón and Aurora Halal. Next up: Mint XL, Leeds on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ Ben UFO is a techno and house artist based in United Kingdom, with 271 gigs on s
 
 Helena Hauff, Ogazón, Aurora Halal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

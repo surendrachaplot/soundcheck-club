@@ -1,6 +1,6 @@
 # Kazuki
 
-Kazuki is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at DeTour, Tokyo on Fri, 20 Nov 2026.
+Kazuki is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at DeTour, Tokyo on Fri, 20 Nov 2026.
 
 Kazuki is a hip-hop and r&b artist, with 21 gigs on soundcheck across Bangkok, Melbourne, Osaka and Sydney and 1 more. Often billed alongside DJ B2B, Amu and YUKI (JP). Next up: DeTour, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kazuki is a hip-hop and r&b artist, with 21 gigs on soundcheck across Bangkok, M
 
 DJ B2B, Amu (1), YUKI (JP)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazuki/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazuki/)*

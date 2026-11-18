@@ -1,6 +1,6 @@
 # Friends of Friends Soundsystem
 
-Friends of Friends Soundsystem is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Texas, Cape Town on Sat, 21 Nov 2026.
+Friends of Friends Soundsystem is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Texas, Cape Town on Sat, 21 Nov 2026.
 
 Friends of Friends Soundsystem is a disco and house artist based in South Africa, with 12 gigs on soundcheck across Cape Town. Often billed alongside Terrence Pearce, DJ Fett Burger and Esa. Next up: Texas, Cape Town on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Friends of Friends Soundsystem is a disco and house artist based in South Africa
 
 Terrence Pearce, DJ Fett Burger, Esa
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friendsoffriendssoundsystem/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friendsoffriendssoundsystem/)*

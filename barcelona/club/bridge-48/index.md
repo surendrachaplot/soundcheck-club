@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Rituals pres. Pfirter + Insen + Kala Ros + PILIGN + Daija Showcase" on Thu, 19 Nov 2026.
+Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rituals pres. Pfirter + Insen + Kala Ros + PILIGN + Daija Showcase" on Thu, 19 Nov 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Angie (CY), Atari Stacey, Aude and Burial and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -23,4 +23,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

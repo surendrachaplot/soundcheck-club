@@ -1,6 +1,6 @@
 # Noizer pres. Ivan Szew + Carol Nyx + RŌ b2b SIVINSKI at Les Enfants Brillants
 
-Noizer pres. Ivan Szew + Carol Nyx + RŌ b2b SIVINSKI at Les Enfants Brillants on Thu 24 Dec, Barcelona. 3 artists: Ana Alves, SIVINSKI and Toni Amador. See the line-up on soundcheck.
+Noizer pres. Ivan Szew + Carol Nyx + RŌ b2b SIVINSKI at Les Enfants Brillants on Thu 24 Dec, Barcelona. 2 artists: Ivan Szew and SIVINSKI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,7 @@ Noizer pres. Ivan Szew + Carol Nyx + RŌ b2b SIVINSKI at Les Enfants Brillants o
 
 ## Line-up
 
-- Ana Alves
+- Ivan Szew
 - SIVINSKI
-- Toni Amador
 
 *Source: [soundcheck](https://soundcheck.club/e/2585205-noizer-pres-ivan-szew-carol-nyx-r-b2b-sivinski-at-les-enfant/)*

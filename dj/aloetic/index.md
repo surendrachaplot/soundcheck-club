@@ -1,6 +1,6 @@
 # Aloetic
 
-Aloetic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Oath, Tokyo on Fri, 20 Nov 2026.
+Aloetic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Oath, Tokyo on Fri, 20 Nov 2026.
 
 Aloetic is a techno and house artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside DALJAE, Shimpei Watanabe and YOXIKI. Next up: Oath, Tokyo on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Aloetic is a techno and house artist based in Japan, with 11 gigs on soundcheck 
 
 DALJAE, Shimpei Watanabe, YOXIKI
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aloetic/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aloetic/)*

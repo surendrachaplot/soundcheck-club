@@ -1,8 +1,8 @@
 # 110.Club
 
-110.Club is a music venue in Lyon with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Yoz & Pi-r" on Thu, 19 Nov 2026.
+110.Club is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Yoz & Pi-r" on Thu, 19 Nov 2026.
 
-110.Club is a music venue in Lyon listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing.
+110.Club is a music venue in Lyon listed on soundcheck. 9 upcoming gigs, with line-ups including ABRAXAS VHS. See dates, start times and who's playing.
 
 ## What's on
 
@@ -15,5 +15,7 @@
 | Thu, 26 Nov 2026 | AVVOH KATO |  |
 | Fri, 27 Nov 2026 | I'M NOT A DJ |  |
 | Sat, 28 Nov 2026 | TECH HOUSE TO TECHNO |  |
+| Sat, 5 Dec 2026 | VOLVER |  |
+| Sat, 12 Dec 2026 | Disruptive Collectif | ABRAXAS VHS |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*

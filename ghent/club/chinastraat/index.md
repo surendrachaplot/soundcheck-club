@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Konfusus Kollektif - Curious Cases" on Sat, 21 Nov 2026.
+Chinastraat is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Konfusus Kollektif - Curious Cases" on Sat, 21 Nov 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including Kalki, Low E, Luna Fields and Marcal and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -17,4 +17,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, wit
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

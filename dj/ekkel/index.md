@@ -1,6 +1,6 @@
 # Ekkel
 
-Ekkel is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
+Ekkel is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
 Ekkel is a techno and trance artist based in Norway, with 67 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Marius Bø, Mikkel Rev and Kasper Marott. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Ekkel is a techno and trance artist based in Norway, with 67 gigs on soundcheck 
 
 Marius Bø, Mikkel Rev, Kasper Marott
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

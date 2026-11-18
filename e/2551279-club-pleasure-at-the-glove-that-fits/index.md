@@ -1,6 +1,6 @@
 # CLUB PLEASURE at The Glove That Fits
 
-CLUB PLEASURE at The Glove That Fits on Sat 21 Nov, London. 3 artists: Public Toilet Disco, Sophie Joy and Wes Baggaley. House and Disco. See the line-up on soundcheck.
+CLUB PLEASURE at The Glove That Fits on Sat 21 Nov, London. 4 artists: Public Toilet Disco, Sophie Joy, stav B and Wes Baggaley. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ CLUB PLEASURE at The Glove That Fits on Sat 21 Nov, London. 3 artists: Public To
 
 - Public Toilet Disco
 - Sophie Joy
+- stav B
 - Wes Baggaley
 
 *Source: [soundcheck](https://soundcheck.club/e/2551279-club-pleasure-at-the-glove-that-fits/)*

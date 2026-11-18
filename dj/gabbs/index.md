@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 20 Nov 2026.
+Gabbs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 20 Nov 2026.
 
 Gabbs is a house and techno artist based in Italy, with 205 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 48 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Studio Club Malaga, Malaga on Fri 20 Nov.
 
@@ -35,4 +35,4 @@ Gabbs is a house and techno artist based in Italy, with 205 gigs on soundcheck a
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

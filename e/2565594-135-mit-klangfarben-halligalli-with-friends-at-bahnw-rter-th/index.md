@@ -1,6 +1,6 @@
 # 135+ mit Klangfarben & Halligalli.with.friends at Bahnwärter Thiel
 
-135+ mit Klangfarben & Halligalli.with.friends at Bahnwärter Thiel on Thu 19 Nov, Munich. 6 artists: antyo, Arkinice, Cottí Larje and danuschek and 2 more. See the line-up on soundcheck.
+135+ mit Klangfarben & Halligalli.with.friends at Bahnwärter Thiel on Thu 19 Nov, Munich. 7 artists: antyo, Arkinice, Cottí Larje and danuschek and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@
 - Arkinice
 - Cottí Larje
 - danuschek
+- dB.R
 - DJ Sonnenbrand
 - Terzenbreaker
 

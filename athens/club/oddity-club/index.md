@@ -1,8 +1,8 @@
 # Oddity Club
 
-Oddity Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Patrick Mason at Oddity Club" on Sat, 28 Nov 2026.
+Oddity Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Patrick Mason at Oddity Club" on Sat, 28 Nov 2026.
 
-Oddity Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with line-ups including Adiel, CHEX, Clowl and Enjoint and 2 more. See dates, start times and who's playing. Iraklidon 61, Athina 118 54.
+Oddity Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with line-ups including Adiel, CHEX, Clowl and Enjoint and 2 more. See dates, start times and who's playing. Iraklidon 61, Athina 118 54.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Oddity Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, wi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Patrick Mason at Oddity Club | Innassi, Patrick Mason |
 | Sun, 29 Nov 2026 | Only Fire & TAMTA SUNDAY SERVE  | Fruit Gillette, MAXImum, Nyennea, Only Fire, Sozie, VASSIŁINA |
+| Fri, 18 Dec 2026 | UNITECHNO W/ NEGITIV | Imperium, NEGITIV, Tanison, siasios |
 | Sat, 19 Dec 2026 | ALEMAO x R E J UV | CHEX, Clowl, Enjoint, MAXImum, Parfait |
 | Sat, 26 Dec 2026 | X-MAS W/ TALAMASCA & MAD MAXX/MAD TRIBE X ODDITY | Gamma Epsilon |
 | Thu, 31 Dec 2026 | NYE 2027: Adiel B2B QUEST (5-hour special) at ODDITY | Adiel, Manolaco, Mikee (Athens), Quest (IT) |
@@ -18,4 +19,4 @@ Oddity Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, wi
 
 Iraklidon 61, Athina 118 54, Athens
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*

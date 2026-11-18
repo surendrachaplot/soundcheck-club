@@ -1,6 +1,6 @@
 # NOAH JAMES
 
-NOAH JAMES is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Lilli Escher, Hamburg on Wed, 18 Nov 2026.
+NOAH JAMES is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Lilli Escher, Hamburg on Wed, 18 Nov 2026.
 
 NOAH JAMES is a house and garage artist based in Australia, with 5 gigs on soundcheck across Hamburg and Melbourne. Often billed alongside Benjamin, Boris Dlugosch and HARRII. Next up: Lilli Escher, Hamburg on Wed 18 Nov.
 
@@ -21,4 +21,4 @@ NOAH JAMES is a house and garage artist based in Australia, with 5 gigs on sound
 
 Benjamin (3), Boris Dlugosch, HARRII
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahjames/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahjames/)*

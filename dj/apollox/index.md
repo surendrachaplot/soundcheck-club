@@ -1,6 +1,6 @@
 # Apollo X
 
-Apollo X is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 21 Nov 2026.
+Apollo X is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 21 Nov 2026.
 
 Apollo X is a techno and house artist based in Germany, with 6 gigs on soundcheck across Glasgow, London, Osaka and Philadelphia. Often billed alongside Andrew Cairns, BLU and JMF. Next up: The Classic Grand, Glasgow on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Apollo X is a techno and house artist based in Germany, with 6 gigs on soundchec
 
 Andrew Cairns, BLU (3), JMF
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apollox/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apollox/)*

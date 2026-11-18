@@ -1,6 +1,6 @@
 # Smolna: Pan Pot, Bruno Otranto at Smolna
 
-Smolna: Pan Pot, Bruno Otranto on Fri 20 Nov, Warsaw. 2 artists: Kuba Otlowski and Pan-Pot. Techno. See the line-up on soundcheck.
+Smolna: Pan Pot, Bruno Otranto on Fri 20 Nov, Warsaw. 4 artists: Bruno Otranto, Fideshi, Kuba Otlowski and Pan-Pot. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Smolna: Pan Pot, Bruno Otranto on Fri 20 Nov, Warsaw. 2 artists: Kuba Otlowski a
 
 ## Line-up
 
+- Bruno Otranto
+- Fideshi
 - Kuba Otlowski
 - Pan-Pot
 

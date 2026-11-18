@@ -1,14 +1,15 @@
 # Mona Moore
 
-Mona Moore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Mona Moore is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
-Mona Moore is a techno and house artist based in Germany, with 70 gigs on soundcheck across Berlin, Cologne, Hamburg and Montreal and 4 more. Often billed alongside Stan Starry, Foolik and Sven Dohse. Next up: Kater, Berlin on Thu 31 Dec.
+Mona Moore is a techno and house artist based in Germany, with 71 gigs on soundcheck across Berlin, Cologne, Hamburg and Montreal and 4 more. Often billed alongside Stan Starry, justUS and Foolik. Next up: Kater, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Kater | Berlin |
+| Sat, 9 Jan 2027 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mona Moore is a techno and house artist based in Germany, with 70 gigs on soundc
 
 ## Shares bills with
 
-Stan Starry, Foolik, Sven Dohse
+Stan Starry, justUS, Foolik
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monamoore/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monamoore/)*

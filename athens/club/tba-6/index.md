@@ -1,6 +1,6 @@
 # TBA - Ελασιδών 6, Γκάζι
 
-TBA - Ελασιδών 6, Γκάζι is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Lunatixx Xmuch" on Sat, 26 Dec 2026.
+TBA - Ελασιδών 6, Γκάζι is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Lunatixx Xmuch" on Sat, 26 Dec 2026.
 
 TBA - Ελασιδών 6, Γκάζι is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Ελασιδών 6, Γκάζι is a music venue in Athens listed on soundc
 | --- | --- | --- |
 | Sat, 26 Dec 2026 | Lunatixx Xmuch |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-6/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-6/)*

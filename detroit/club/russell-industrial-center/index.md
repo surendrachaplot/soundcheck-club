@@ -1,8 +1,8 @@
 # Russell Industrial Center
 
-Russell Industrial Center is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "it's murph - Fade Into Nothing Tour" on Fri, 20 Nov 2026.
+Russell Industrial Center is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "it's murph - Fade Into Nothing Tour" on Fri, 20 Nov 2026.
 
-Russell Industrial Center is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including Nils Hoffmann and Wiley. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
+Russell Industrial Center is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Nils Hoffmann, Nora En Pure and Wiley. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 4 up
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | it's murph - Fade Into Nothing Tour | Nils Hoffmann |
 | Fri, 4 Dec 2026 | SIDEPIECE‍ |  |
+| Fri, 1 Jan 2027 | Nora En Pure: New Year's Day | Nora En Pure |
 | Fri, 22 Jan 2027 | AYYBO |  |
 | Sat, 30 Jan 2027 | ZINGARA: THE ALIENS ARE MAKING SOUNDS TOUR | Wiley |
 
@@ -17,4 +18,4 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 4 up
 
 1600 Clay Street; Detroit; Michigan; 48211, Detroit
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*

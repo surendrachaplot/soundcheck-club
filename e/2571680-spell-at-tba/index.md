@@ -1,6 +1,6 @@
 # Spell at TBA
 
-Spell at TBA on Sun 6 Dec, Berlin. 3 artists: Significant Other, Vaahzer and Vladimir Ivkovic. See the line-up on soundcheck.
+Spell at TBA on Sun 6 Dec, Berlin. 4 artists: Significant Other, Vaahzer, Vlada and Vladimir Ivkovic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Spell at TBA on Sun 6 Dec, Berlin. 3 artists: Significant Other, Vaahzer and Vla
 
 - Significant Other
 - Vaahzer
+- Vlada
 - Vladimir Ivkovic
 
 *Source: [soundcheck](https://soundcheck.club/e/2571680-spell-at-tba/)*

@@ -1,6 +1,6 @@
 # Jorgium
 
-Jorgium is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Horn, Bangkok on Thu, 19 Nov 2026.
+Jorgium is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Horn, Bangkok on Thu, 19 Nov 2026.
 
 Jorgium is a techno and breakbeat artist based in Thailand, with 19 gigs on soundcheck across Bangkok. Often billed alongside x_me, InRemission and POKOLENIE MIKROZAYMOV. Next up: Horn, Bangkok on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Jorgium is a techno and breakbeat artist based in Thailand, with 19 gigs on soun
 
 x_me, InRemission, POKOLENIE MIKROZAYMOV
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgium/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgium/)*

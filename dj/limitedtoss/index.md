@@ -1,6 +1,6 @@
 # Limited Toss
 
-Limited Toss is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Daphnia, Osaka on Fri, 4 Dec 2026.
+Limited Toss is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Daphnia, Osaka on Fri, 4 Dec 2026.
 
 Limited Toss is a techno and jungle artist based in Japan, with 32 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Ascalypso and Lomax. Next up: Club Daphnia, Osaka on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Limited Toss is a techno and jungle artist based in Japan, with 32 gigs on sound
 
 KA4U, Ascalypso, Lomax
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limitedtoss/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limitedtoss/)*

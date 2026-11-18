@@ -1,8 +1,8 @@
 # L-CC
 
-L-CC is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Pawnshop, Taipei on Sat, 28 Nov 2026.
+L-CC is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Pawnshop, Taipei on Sat, 28 Nov 2026.
 
-L-CC is a house and techno artist based in Taiwan, with 109 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside Tsui, Gemnital and Jesse Chen. Next up: Pawnshop, Taipei on Sat 28 Nov.
+L-CC is a house and techno artist based in Taiwan, with 111 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside Tsui, Gemnital and Jesse Chen. Next up: Pawnshop, Taipei on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ L-CC is a house and techno artist based in Taiwan, with 109 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Pawnshop | Taipei |
 | Fri, 11 Dec 2026 | Pawnshop | Taipei |
+| Sat, 26 Dec 2026 | Bar Temp. | Bangkok |
+| Sat, 26 Dec 2026 | Elsewhere | Bangkok |
 | Tue, 29 Dec 2026 | Elsewhere | Bangkok |
 
 ## Recently played
@@ -27,4 +29,4 @@ L-CC is a house and techno artist based in Taiwan, with 109 gigs on soundcheck a
 
 Tsui, Gemnital, Jesse Chen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l-cc/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l-cc/)*

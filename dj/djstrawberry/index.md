@@ -1,6 +1,6 @@
 # DJ Strawberry
 
-DJ Strawberry is a Footwork and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Astron Club, Athens on Sat, 28 Nov 2026.
+DJ Strawberry is a Footwork and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Astron Club, Athens on Sat, 28 Nov 2026.
 
 DJ Strawberry is a footwork and bass artist based in Turkey, with 58 gigs on soundcheck across Athens, Berlin, Chicago and Denver and 13 more. Often billed alongside King Softy, Fosil and Jonah P.. Next up: Astron Club, Athens on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ DJ Strawberry is a footwork and bass artist based in Turkey, with 58 gigs on sou
 
 King Softy, Fosil, Jonah P.
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*

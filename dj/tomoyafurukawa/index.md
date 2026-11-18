@@ -1,6 +1,6 @@
 # Tomoya Furukawa
 
-Tomoya Furukawa is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at teller, Seoul on Fri, 20 Nov 2026.
+Tomoya Furukawa is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at teller, Seoul on Fri, 20 Nov 2026.
 
 Tomoya Furukawa is a techno and minimal artist based in Japan, with 20 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside AOKI takamasa, DJ SPOT and Kohei. Next up: teller, Seoul on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Tomoya Furukawa is a techno and minimal artist based in Japan, with 20 gigs on s
 
 AOKI takamasa, DJ SPOT, Kohei
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoyafurukawa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoyafurukawa/)*

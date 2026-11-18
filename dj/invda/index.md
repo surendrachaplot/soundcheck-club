@@ -1,6 +1,6 @@
 # Invda
 
-Invda is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Das Werk, Vienna on Sat, 5 Dec 2026.
+Invda is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Das Werk, Vienna on Sat, 5 Dec 2026.
 
 Invda is a techno artist based in Austria, with 5 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside Albin Brezlan, Huebl and Bokaric. Next up: Das Werk, Vienna on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Invda is a techno artist based in Austria, with 5 gigs on soundcheck across Berl
 
 Albin Brezlan, Huebl, Bokaric
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invda/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invda/)*

@@ -1,6 +1,6 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Joeski, Your Mom" on Fri, 20 Nov 2026.
+Lion's Den is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Joeski, Your Mom" on Fri, 20 Nov 2026.
 
 Lion's Den is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Collins, Chez Damier, DJ Joeski and Israel Sunshine and 2 more. See dates, start times and who's playing. 150 NW 73rd st.
 
@@ -18,4 +18,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with
 
 150 NW 73rd st, Miami
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

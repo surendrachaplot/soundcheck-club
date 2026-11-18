@@ -1,6 +1,6 @@
 # Razin
 
-Razin is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Dürer Kert, Budapest on Sun, 22 Nov 2026.
+Razin is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Dürer Kert, Budapest on Sun, 22 Nov 2026.
 
 Razin is a psytrance and techno artist, with 5 gigs on soundcheck across Budapest. Often billed alongside Ben Dover and TotumFactum. Next up: Dürer Kert, Budapest on Sun 22 Nov.
 
@@ -21,4 +21,4 @@ Razin is a psytrance and techno artist, with 5 gigs on soundcheck across Budapes
 
 Ben Dover, TotumFactum
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razin/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razin/)*

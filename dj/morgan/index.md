@@ -1,14 +1,15 @@
 # Morgan
 
-Morgan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 11 Dec 2026.
+Morgan is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 11 Dec 2026.
 
-Morgan is a house and techno artist based in Australia, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 28 more. Often billed alongside Tomas Station, Magda and O.BEE. Next up: Shelter Amsterdam, Amsterdam on Fri 11 Dec.
+Morgan is a house and techno artist based in Australia, with 143 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 28 more. Often billed alongside Tomas Station, Magda and O.BEE. Next up: Shelter Amsterdam, Amsterdam on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Shelter Amsterdam | Amsterdam |
+| Fri, 18 Dec 2026 | BRET | Amsterdam |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Morgan is a house and techno artist based in Australia, with 142 gigs on soundch
 
 Tomas Station, Magda, O.BEE
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*

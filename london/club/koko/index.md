@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 23 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1)" on Fri, 20 Nov 2026.
+KOKO is a music venue in London with 23 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) [SOLD OUT]" on Fri, 20 Nov 2026.
 
 KOKO is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Anyasa and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -8,9 +8,9 @@ KOKO is a music venue in London listed on soundcheck. 23 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) | Francis Mercier, Nadrums, Neyl (1) |
+| Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) [SOLD OUT] | Francis Mercier, Nadrums, Neyl (1) |
 | Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Weekender (Nov 20,21,22) | Francis Mercier |
-| Sat, 21 Nov 2026 | KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) | Francis Mercier, Makèz, Storm Mollison |
+| Sat, 21 Nov 2026 | KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) [SOLD OUT] | Francis Mercier, Makèz, Storm Mollison |
 | Sun, 22 Nov 2026 | KOKO Electronic: Francis Mercier, Sunday 22nd Nov (Pt.3, Daytime) | Bontan, Francis Mercier, Mayssa |
 | Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) | Agathe Mougin, Alex Wann, Inès Rau, JANE RYSE, Mike Gannu, WhoMadeWho |
 | Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) / (Sat 28th, Hybrid DJ Set) | WhoMadeWho |
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 23 upcoming gigs, with lin
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

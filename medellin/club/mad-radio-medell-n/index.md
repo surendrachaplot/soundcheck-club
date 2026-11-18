@@ -1,14 +1,13 @@
 # Mad Radio Medellín
 
-Mad Radio Medellín is a music venue in Medellin with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "FUSS RADIO SHOW / HOSTED By HASSIO - Basslovers: Sammy Morris / Barreto" on Tue, 17 Nov 2026.
+Mad Radio Medellín is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SONIDO FABRICATO" on Wed, 18 Nov 2026.
 
-Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 5 upcoming gigs, with line-ups including Barreto, DJ MELEJ, Hassio ( COL ) and Sammy Morris. See dates, start times and who's playing. Calle 8a # 33 - 40 Medellín.
+Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 4 upcoming gigs, with line-ups including DJ MELEJ. See dates, start times and who's playing. Calle 8a # 33 - 40 Medellín.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | FUSS RADIO SHOW / HOSTED By HASSIO - Basslovers: Sammy Morris / Barreto | Barreto, Hassio ( COL ), Sammy Morris |
 | Wed, 18 Nov 2026 | SONIDO FABRICATO |  |
 | Thu, 19 Nov 2026 | FEMME FREQUENCY: TAT LAZARO / OTRA NATI |  |
 | Fri, 20 Nov 2026 | MUSIC LOVERS: TEOCREAM & CHARLOTTE / ROWE / DJ MELEJ | DJ MELEJ |
@@ -18,4 +17,4 @@ Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 5 upcomin
 
 Calle 8a # 33 - 40 Medellín, Medellin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*

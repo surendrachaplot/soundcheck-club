@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Tohji Last Live Tokyo MALL Official After Party - HIPHOP -" on Tue, 17 Nov 2026.
+ZEROTOKYO is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "COINCIDENCE - ALL MIX / HOUSE / TECHNO / HIPHOP / LATIN / POPS -" on Thu, 19 Nov 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including æ-chan, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including æ-chan, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | Tohji Last Live Tokyo MALL Official After Party - HIPHOP - | Double Clapperz, nasthug, zendo |
 | Thu, 19 Nov 2026 | COINCIDENCE - ALL MIX / HOUSE / TECHNO / HIPHOP / LATIN / POPS - | DADO |
 | Fri, 20 Nov 2026 | GIGA [-0] 'HARD TRANCE RESURRECTION' - Yoji Biomehanika / Scot Project - | HATSUYUKI, Krankent, Scot Project, Yoji Biomehanika |
 | Sat, 21 Nov 2026 | GOLD DISC - ALL MIX - | CRAZYHYUGA, DJ Shimamura, HEAVEN'S GATE CREW, N_dog, SKYTOPIA, SPRAYBOX, hara (2) |
@@ -18,9 +17,10 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with
 | Sat, 28 Nov 2026 | Locker Room feat. DAISY - HARD TECHNO / TECHNO - | Calavera, DALJAE, Daisy-it, HATSUYUKI, KATSU (2), O.Goo, SHIGEKI NISHIKAWA, STRATAH, Soluna, YOXIKI, kyuuu |
 | Sun, 29 Nov 2026 | REIMEI - HIPHOP / R&B / LATIN / TRAP / DUBSTEP / HARD TECHNO / TECHNO / HOUSE - |  |
 | Fri, 4 Dec 2026 | Marlon Hoffstadt - TRANCE / RAVE - | Marlon Hoffstadt |
+| Sat, 5 Dec 2026 | TRANCE ESSENTIALS presents Ⅶ X TOKYO 10th BIRTHDAY WEEKENDER | AEMI, AVALON, BEPPU, DJ 34, DJ NECO, Greg Downey, HATSUYUKI, John Askew, Remo-con, Simon Patterson, YOSHIMASA, ndk (2) |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

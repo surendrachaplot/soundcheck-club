@@ -1,14 +1,16 @@
 # The3RD
 
-The3RD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Culture Cafe, Bangkok on Fri, 20 Nov 2026.
+The3RD is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Culture Cafe, Bangkok on Fri, 20 Nov 2026.
 
-The3RD is a techno and industrial artist based in Thailand, with 156 gigs on soundcheck across Bangkok. Often billed alongside Gunya, Damon Rider and REIKS. Next up: Culture Cafe, Bangkok on Fri 20 Nov.
+The3RD is a techno and industrial artist based in Thailand, with 158 gigs on soundcheck across Bangkok. Often billed alongside Gunya, Damon Rider and REIKS. Next up: Culture Cafe, Bangkok on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Culture Cafe | Bangkok |
+| Fri, 4 Dec 2026 | Culture Cafe | Bangkok |
+| Fri, 11 Dec 2026 | Culture Cafe | Bangkok |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ The3RD is a techno and industrial artist based in Thailand, with 156 gigs on sou
 
 Gunya, Damon Rider, REIKS
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/the3rd/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/the3rd/)*

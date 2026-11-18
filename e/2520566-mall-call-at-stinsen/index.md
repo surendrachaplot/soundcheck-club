@@ -1,6 +1,6 @@
 # Mall Call at Stinsen
 
-Mall Call at Stinsen on Fri 27 Nov, Stockholm. 22 artists: Antony Szmierek, Bella Sarris, DJ Seinfeld and DJ Suzy and 18 more. See the line-up on soundcheck.
+Mall Call at Stinsen on Fri 27 Nov, Stockholm. 24 artists: Antony Szmierek, Bella Sarris, Bogeyman and DJ Seinfeld and 20 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Mall Call at Stinsen on Fri 27 Nov, Stockholm. 22 artists: Antony Szmierek, Bell
 
 - Antony Szmierek
 - Bella Sarris
+- Bogeyman
 - DJ Seinfeld
 - DJ Suzy
 - FANNY (SE)
@@ -27,6 +28,7 @@ Mall Call at Stinsen on Fri 27 Nov, Stockholm. 22 artists: Antony Szmierek, Bell
 - Overmono
 - Rebecca & Fiona
 - Royksopp
+- Silja Ellis
 - Sofftronic
 - Sofia Kourtesis
 - Surusinghe

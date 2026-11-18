@@ -1,6 +1,6 @@
 # joycxi
 
-joycxi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Moondog Cafe, Detroit on Sat, 26 Dec 2026.
+joycxi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Moondog Cafe, Detroit on Sat, 26 Dec 2026.
 
 joycxi is a techno and club artist based in United States of America, with 35 gigs on soundcheck across Chicago and Detroit. Often billed alongside we1sman, Wax Assassin and AIDEL. Next up: Moondog Cafe, Detroit on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ joycxi is a techno and club artist based in United States of America, with 35 gi
 
 we1sman, Wax Assassin, AIDEL
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*

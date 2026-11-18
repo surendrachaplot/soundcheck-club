@@ -1,6 +1,6 @@
 # Yours Truly (5)
 
-Yours Truly (5) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Index, Dublin on Thu, 10 Dec 2026.
+Yours Truly (5) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Index, Dublin on Thu, 10 Dec 2026.
 
 Yours Truly is a techno and house artist based in Ireland, with 13 gigs on soundcheck across Berlin, Dublin, Galway and London. Often billed alongside Havik, RHYTHMICK and Shampain. Next up: Index, Dublin on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Yours Truly is a techno and house artist based in Ireland, with 13 gigs on sound
 
 Havik, RHYTHMICK, Shampain
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*

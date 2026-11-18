@@ -1,8 +1,8 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi" on Sun, 22 Nov 2026.
+Thuishaven is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi" on Sun, 22 Nov 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Abstract Division, Alexander Koning, Alfredo and Bart Skils and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Abstract Division, Alexander Koning, Alfredo and Bart Skils and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs,
 | Sat, 28 Nov 2026 | 28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA | Abstract Division, BLANKA, ETERNAL JOE, Huey Mnemonic, Jasmín, Jeff Mills, Laure Croft, ROD |
 | Sun, 29 Nov 2026 | 29 NOV- Thuishaven with Jamback 10HRS SOLD OUT | Jamback |
 | Sat, 5 Dec 2026 | 05 DEC - Thuishaven with Bart Skils 5HRS | BIANKA, Bart Skils, Delano Legito, Gerd, Mihai Popoviciu, Reiss, Township Rebellion, Zeynep, neska |
-| Sun, 6 Dec 2026 | 06 DEC - Thuishaven with Mr. Belt & Wezol / Hidde van Wee / Beave | Beave, Hidde van Wee, James Poole, Marijn Jansen, Mr. Belt & Wezol |
+| Sun, 6 Dec 2026 | 06 DEC - Thuishaven with Mr. Belt & Wezol / Hidde van Wee / Beave | Beave, Dan Shake, Hidde van Wee, James Poole, Marijn Jansen, Midas Field, Mr. Belt & Wezol |
 | Sat, 12 Dec 2026 | SOLD OUT - Winter of Love festival 2026 | Alexander Koning, Alfredo, Darren Emerson, Dimitri (1), Divine, Erick E, Funkerman, Gregor Salto, Kim Kaos, Klubbheads, Milla More, ROOG, Sander Kleinenberg, Ven |
 | Sun, 13 Dec 2026 | Thuishaven with Gaskin / Joss Dean / Dennis Quin | Dennis Quin, Gaskin, Joss Dean, Laura De Greef, Stef Davidse |
 | Sat, 19 Dec 2026 | 19 DEC - Thuishaven with Michel de Hey 10HRS | Michel de Hey |
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs,
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

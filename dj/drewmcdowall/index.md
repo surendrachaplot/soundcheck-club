@@ -1,6 +1,6 @@
 # Drew McDowall
 
-Drew McDowall is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Acadana, Hong Kong on Fri, 20 Nov 2026.
+Drew McDowall is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Acadana, Hong Kong on Fri, 20 Nov 2026.
 
 Drew McDowall is an experimental and industrial artist based in United Kingdom, with 35 gigs on soundcheck across Antwerp, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Hiro Kone, Pedro Maia and Aaron Dilloway. Next up: Acadana, Hong Kong on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Drew McDowall is an experimental and industrial artist based in United Kingdom, 
 
 Hiro Kone, Pedro Maia, Aaron Dilloway
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewmcdowall/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewmcdowall/)*

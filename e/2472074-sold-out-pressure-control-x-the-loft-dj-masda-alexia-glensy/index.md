@@ -1,0 +1,17 @@
+# [SOLD OUT] pressure control x The Loft: DJ Masda, Alexia Glensy & Josh Bayat at The Loft
+
+[SOLD OUT] pressure control x The Loft: DJ Masda, Alexia Glensy & Josh Bayat on Fri 20 Nov, Manchester. 3 artists: Alexia Glensy, DJ Masda and Josh Bayat. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 20 Nov 2026 |
+| Venue | The Loft |
+| City | Manchester |
+
+## Line-up
+
+- Alexia Glensy
+- DJ Masda
+- Josh Bayat
+
+*Source: [soundcheck](https://soundcheck.club/e/2472074-sold-out-pressure-control-x-the-loft-dj-masda-alexia-glensy/)*

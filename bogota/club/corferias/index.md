@@ -1,6 +1,6 @@
 # Corferias
 
-Corferias is a music venue in Bogotá with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Baum Festival" on Fri, 12 Feb 2027.
+Corferias is a music venue in Bogotá with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Baum Festival" on Fri, 12 Feb 2027.
 
 Corferias is a music venue in Bogotá listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Corferias is a music venue in Bogotá listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Fri, 12 Feb 2027 | Baum Festival |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/corferias/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/corferias/)*

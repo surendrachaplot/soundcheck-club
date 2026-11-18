@@ -1,6 +1,6 @@
 # Bamboo Princess
 
-Bamboo Princess is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Cakeshop, Seoul on Sat, 21 Nov 2026.
+Bamboo Princess is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cakeshop, Seoul on Sat, 21 Nov 2026.
 
 Bamboo Princess is a club and bass artist, with 22 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Seoul. Often billed alongside NET GALA, dayoung and mokhzolla. Next up: Cakeshop, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Bamboo Princess is a club and bass artist, with 22 gigs on soundcheck across Ban
 
 NET GALA, dayoung, mokhzolla
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambooprincess/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambooprincess/)*

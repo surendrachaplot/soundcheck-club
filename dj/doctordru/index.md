@@ -1,6 +1,6 @@
 # Doctor Dru
 
-Doctor Dru is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
+Doctor Dru is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
 
 Doctor Dru is a house and tech house artist based in Germany, with 15 gigs on soundcheck across Barcelona, Hamburg, Medellin and Mexico City and 2 more. Often billed alongside Miss Manu, Andrea Castells and Bambook. Next up: Club Frau Holle, Hamburg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Doctor Dru is a house and tech house artist based in Germany, with 15 gigs on so
 
 Miss Manu, Andrea Castells, Bambook
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*

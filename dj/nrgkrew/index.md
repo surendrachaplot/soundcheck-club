@@ -1,6 +1,6 @@
 # NRG Krew
 
-NRG Krew is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 5 Dec 2026.
+NRG Krew is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 5 Dec 2026.
 
 NRG Krew is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Berlin, Hannover, Heidelberg and Karlsruhe and 1 more. Often billed alongside LILLI & 4LOVE, 4LOVE and Diffrent. Next up: Disco Zwei, Mannheim on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ NRG Krew is a trance and techno artist based in Germany, with 11 gigs on soundch
 
 LILLI & 4LOVE, 4LOVE, Diffrent
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nrgkrew/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nrgkrew/)*

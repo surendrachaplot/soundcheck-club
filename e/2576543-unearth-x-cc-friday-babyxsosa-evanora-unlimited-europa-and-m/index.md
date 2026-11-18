@@ -1,6 +1,6 @@
 # Unearth x CC Friday: Babyxsosa, Evanora Unlimited, Europa and More at Copenhagen Contemporary
 
-Unearth x CC Friday: Babyxsosa, Evanora Unlimited, Europa and More at Copenhagen Contemporary on Fri 27 Nov, Copenhagen. 4 artists: ELLE FIERCE, Europa, Evanora Unlimited and GB. See the line-up on soundcheck.
+Unearth x CC Friday: Babyxsosa, Evanora Unlimited, Europa and More at Copenhagen Contemporary on Fri 27 Nov, Copenhagen. 5 artists: Babyxsosa, ELLE FIERCE, Europa and Evanora Unlimited and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Unearth x CC Friday: Babyxsosa, Evanora Unlimited, Europa and More at Copenhagen
 
 ## Line-up
 
+- Babyxsosa
 - ELLE FIERCE
 - Europa (1)
 - Evanora Unlimited

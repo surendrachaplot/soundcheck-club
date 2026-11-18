@@ -1,13 +1,14 @@
 # Zoe from Finance
 
-Zoe from Finance is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Tunnels, Aberdeen on Sun, 27 Dec 2026.
+Zoe from Finance is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
-Zoe from Finance is an acid and house artist based in United Kingdom, with 21 gigs on soundcheck across Aberdeen, Edinburgh and Manchester. Often billed alongside Exterior, Hobbes and Davie Miller. Next up: The Tunnels, Aberdeen on Sun 27 Dec.
+Zoe from Finance is an acid and house artist based in United Kingdom, with 22 gigs on soundcheck across Aberdeen, Edinburgh, London and Manchester. Often billed alongside Exterior, Hobbes and Davie Miller. Next up: The Cause, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Cause | London |
 | Sun, 27 Dec 2026 | The Tunnels | Aberdeen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Zoe from Finance is an acid and house artist based in United Kingdom, with 21 gi
 
 Exterior, Hobbes, Davie Miller
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoefromfinance/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoefromfinance/)*

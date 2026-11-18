@@ -1,6 +1,6 @@
 # LeStrange
 
-LeStrange is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Amnesia, Bangkok on Sat, 5 Dec 2026.
+LeStrange is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Amnesia, Bangkok on Sat, 5 Dec 2026.
 
 LeStrange is a techno and industrial artist based in Australia, with 84 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 16 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: Amnesia, Bangkok on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LeStrange is a techno and industrial artist based in Australia, with 84 gigs on 
 
 I-SO, ART IS HARD, Madsync
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*

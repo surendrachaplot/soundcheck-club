@@ -1,6 +1,6 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Al Qudra Desert, Dubai on Sat, 21 Nov 2026.
+Dyed Soundorom is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Al Qudra Desert, Dubai on Sat, 21 Nov 2026.
 
 Dyed Soundorom is a house and minimal artist based in France, with 249 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: TBA - Al Qudra Desert, Dubai on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Dyed Soundorom is a house and minimal artist based in France, with 249 gigs on s
 
 Shonky, Apollonia, Dan Ghenacia
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

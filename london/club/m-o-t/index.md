@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 32 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Factory Setting - live modular synth, techno and experimental - AM sin - bbecks + more" on Thu, 19 Nov 2026.
+M.O.T is a music venue in London with 32 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Factory Setting - live modular synth, techno and experimental - AM sin - bbecks + more" on Thu, 19 Nov 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including A.N.T, alterum, AM sin and ARKNGL and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 32 upcoming gigs, with li
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

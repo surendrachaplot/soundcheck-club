@@ -1,6 +1,6 @@
 # Weekend Traveler — Year-End Party in Osaka at Tacos Bar ADO
 
-Weekend Traveler — Year-End Party in Osaka at Tacos Bar ADO on Sat 19 Dec, Osaka. 2 artists: DJ GEKI and LEiCA. House and Bass. See the line-up on soundcheck.
+Weekend Traveler — Year-End Party in Osaka at Tacos Bar ADO on Sat 19 Dec, Osaka. 3 artists: DJ GEKI, LEiCA and Mameron. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Weekend Traveler — Year-End Party in Osaka at Tacos Bar ADO on Sat 19 Dec, Osa
 
 - DJ GEKI
 - LEiCA
+- Mameron
 
 *Source: [soundcheck](https://soundcheck.club/e/2584089-weekend-traveler-year-end-party-in-osaka-at-tacos-bar-ado/)*

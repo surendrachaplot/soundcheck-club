@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "OPPOSITES" on Fri, 20 Nov 2026.
+Mastak is a music venue in Warsaw with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "OPPOSITES" on Fri, 20 Nov 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Skiba, Alex Kosta, Be.roo and Internal Observer and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -17,10 +17,10 @@ Mastak is a music venue in Warsaw listed on soundcheck. 14 upcoming gigs, with l
 | Sat, 5 Dec 2026 | FĀLĀ | Larix, Mateusz Grzybowski, Nightfall |
 | Sun, 6 Dec 2026 | SUNDAY: dulub / Wise Out | Wise Out |
 | Fri, 11 Dec 2026 | Lampa | JESS.mp5, Maksym Tkach, Samogulov, Shjva |
-| Sat, 12 Dec 2026 | Label Night | koktelbel, zeroday |
+| Sat, 12 Dec 2026 | Label Night | Kacper Fronczak, NOSAL, koktelbel, zeroday |
 
 ## Address
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

@@ -1,6 +1,6 @@
 # Neo (8)
 
-Neo (8) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ernest, Newcastle on Fri, 20 Nov 2026.
+Neo (8) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ernest, Newcastle on Fri, 20 Nov 2026.
 
 Neo is a house and electro artist based in United Kingdom, with 8 gigs on soundcheck across Newcastle. Often billed alongside FroD, Adam Curtain and Alousea. Next up: Ernest, Newcastle on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Neo is a house and electro artist based in United Kingdom, with 8 gigs on soundc
 
 FroD, Adam Curtain, Alousea
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neo-8/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neo-8/)*

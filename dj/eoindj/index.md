@@ -1,6 +1,6 @@
 # Eoin DJ
 
-Eoin DJ is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 28 Nov 2026.
+Eoin DJ is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 28 Nov 2026.
 
 Eoin DJ is a house and trance artist based in Ireland, with 102 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 29 more. Often billed alongside Angel D'lite, Byron Yeates and Carly Zeng. Next up: Abercrombie Hotel, Sydney on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Eoin DJ is a house and trance artist based in Ireland, with 102 gigs on soundche
 
 Angel D'lite, Byron Yeates, Carly Zeng
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eoindj/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eoindj/)*

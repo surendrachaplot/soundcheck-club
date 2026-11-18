@@ -1,6 +1,6 @@
 # Riko Dan
 
-Riko Dan is a Grime and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Panke, Berlin on Fri, 27 Nov 2026.
+Riko Dan is a Grime and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Panke, Berlin on Fri, 27 Nov 2026.
 
 Riko Dan is a grime and bass artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 7 more. Often billed alongside Slimzee, SGT Pokes and MJK. Next up: Panke, Berlin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Riko Dan is a grime and bass artist based in United Kingdom, with 31 gigs on sou
 
 Slimzee, SGT Pokes, MJK
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*

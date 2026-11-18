@@ -1,6 +1,6 @@
 # Le Mondo
 
-Le Mondo is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "DIGITALXSCAPE" on Fri, 20 Nov 2026.
+Le Mondo is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "DIGITALXSCAPE" on Fri, 20 Nov 2026.
 
 Le Mondo is a music venue in Baltimore listed on soundcheck. 1 upcoming gig, with line-ups including human plushie and N3urodegenerate. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Le Mondo is a music venue in Baltimore listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | DIGITALXSCAPE | N3urodegenerate, human plushie |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/le-mondo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/le-mondo/)*

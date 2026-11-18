@@ -1,6 +1,6 @@
-# Elegia x EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay at EXIT Glasgow
+# Elegia X EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay at EXIT Glasgow
 
-Elegia x EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay at EXIT Glasgow on Fri 27 Nov, Glasgow. 4 artists: Conor Thomas, Faux Naif, JayJay and Veronica Vasicka. EBM and Industrial. See the line-up on soundcheck.
+Elegia X EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay at EXIT Glasgow on Fri 27 Nov, Glasgow. 4 artists: Conor Thomas, Faux Naif, JayJay and Veronica Vasicka. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

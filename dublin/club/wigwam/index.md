@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Wigwam presents: Ocean Colour Scene Aftershow feat. Steve Cradock (DJ Set)" on Thu, 19 Nov 2026.
+Wigwam is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Wigwam presents: Ocean Colour Scene Aftershow feat. Steve Cradock (DJ Set)" on Thu, 19 Nov 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including BANSHE, Cailín, Cromby and CULT and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -13,7 +13,7 @@ Wigwam is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with l
 | Sat, 21 Nov 2026 | LOSTBOYJAY Story* | LOSTBOYJAY |
 | Sat, 21 Nov 2026 | Nosso Mambo - Day Party |  |
 | Sat, 21 Nov 2026 | Hybrid Events present: Ignez | FUAM, Hooligan, Ignez |
-| Thu, 26 Nov 2026 | Naught or Nice |  |
+| Thu, 26 Nov 2026 | Naughty or Nice |  |
 | Fri, 27 Nov 2026 | Melodic x Selective Memory: Fejká Live | Fejká, Mulljoy |
 | Fri, 27 Nov 2026 | LOST x Wigwam present: DJ SWISHERMAN b2b CULT | CULT, DJ SWISHERMAN |
 | Fri, 4 Dec 2026 | DUVV presents: Krackk B2B Robin Tasi | Krackk, Robin Tasi |
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with l
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

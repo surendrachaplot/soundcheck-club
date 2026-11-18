@@ -1,6 +1,6 @@
 # Mbar
 
-Mbar is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "AT&T Automated Payment Website: Speedpay Line & Billing Support" on Sat, 21 Nov 2026.
+Mbar is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "AT&T Automated Payment Website: Speedpay Line & Billing Support" on Sat, 21 Nov 2026.
 
 Mbar is a music venue in Cape Town listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mbar is a music venue in Cape Town listed on soundcheck. 1 upcoming gig. See dat
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | AT&T Automated Payment Website: Speedpay Line & Billing Support |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/mbar/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/mbar/)*

@@ -1,6 +1,6 @@
 # Smolna: Partiboi69, RAHA at Smolna
 
-Smolna: Partiboi69, RAHA on Sat 21 Nov, Warsaw. 7 artists: BEXA, Kamilescu, Partiboi69 and RAHA and 3 more. Techno. See the line-up on soundcheck.
+Smolna: Partiboi69, RAHA on Sat 21 Nov, Warsaw. 9 artists: BEXA, Kamilescu, Łomża and Pancha and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Smolna: Partiboi69, RAHA on Sat 21 Nov, Warsaw. 7 artists: BEXA, Kamilescu, Part
 
 - BEXA
 - Kamilescu
+- Łomża
+- Pancha
 - Partiboi69
 - RAHA
 - Verlake

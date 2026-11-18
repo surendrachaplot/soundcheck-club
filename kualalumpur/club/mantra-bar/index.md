@@ -1,6 +1,6 @@
 # Mantra Bar
 
-Mantra Bar is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Nicola Calbi (Beatlab presents)" on Sat, 28 Nov 2026.
+Mantra Bar is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Nicola Calbi (Beatlab presents)" on Sat, 28 Nov 2026.
 
 Mantra Bar is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig, with line-ups including Nicola Calbi. See dates, start times and who's playing. Lot R-E, Bangsar Village 2, 2 Jalan Telawi 1, Bangsar Baru, 59100 Kuala Lumpur.
 
@@ -14,4 +14,4 @@ Mantra Bar is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig
 
 Lot R-E, Bangsar Village 2, 2 Jalan Telawi 1, Bangsar Baru, 59100 Kuala Lumpur, Kuala Lumpur
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/mantra-bar/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/mantra-bar/)*

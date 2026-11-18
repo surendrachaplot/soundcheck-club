@@ -1,8 +1,8 @@
 # DJ DEC
 
-DJ DEC is a Deep House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
+DJ DEC is a Deep House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
 
-DJ DEC is a deep house and garage artist, with 6 gigs on soundcheck across London. Often billed alongside DJ Majesty, Deep Fiktion and JAYDAA. Next up: The Steel Yard, London on Fri 1 Jan.
+DJ DEC is a deep house and garage artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside DJ Majesty, Deep Fiktion and JAYDAA. Next up: The Steel Yard, London on Fri 1 Jan.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ DJ DEC is a deep house and garage artist, with 6 gigs on soundcheck across Londo
 
 DJ Majesty, Deep Fiktion, JAYDAA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdec/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdec/)*

@@ -1,6 +1,6 @@
 # ConCon
 
-ConCon is a Ambient and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 9 Jan 2027.
+ConCon is a Ambient and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 9 Jan 2027.
 
 ConCon is an ambient and pop artist based in United States of America, with 50 gigs on soundcheck across Leeds, Munich and New York City. Often billed alongside BABES The DJ, Adam R and Boyfriend Dick. Next up: Bossa Nova Civic Club, New York City on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ ConCon is an ambient and pop artist based in United States of America, with 50 g
 
 BABES The DJ, Adam R, Boyfriend Dick
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*

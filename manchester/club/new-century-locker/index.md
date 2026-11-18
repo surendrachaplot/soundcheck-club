@@ -1,6 +1,6 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "CROP x New Century presents: ktmelodies" on Fri, 20 Nov 2026.
+New Century Locker is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "CROP x New Century presents: ktmelodies" on Fri, 20 Nov 2026.
 
 New Century Locker is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including 1991 (UK), Adele Tondu, Bimini and Charlie Bones and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
@@ -23,4 +23,4 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 10 upcom
 
 34 Hanover St Manchester M4 4AH, Manchester
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*

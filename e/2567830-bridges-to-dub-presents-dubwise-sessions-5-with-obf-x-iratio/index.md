@@ -1,6 +1,6 @@
 # Bridges to Dub presents: Dubwise Sessions 5 with OBF x Iration Steppas at TBA - Montreal
 
-Bridges to Dub presents: Dubwise Sessions 5 with OBF x Iration Steppas at TBA - Montreal on Sat 28 Nov, Montreal. 5 artists: Asha, Icky Magdala, Iration Steppas and O.B.F and 1 more. Bass and Dub. See the line-up on soundcheck.
+Bridges to Dub presents: Dubwise Sessions 5 with OBF x Iration Steppas at TBA - Montreal on Sat 28 Nov, Montreal. 6 artists: Asha, Clinton Sly, Icky Magdala and Iration Steppas and 2 more. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Bridges to Dub presents: Dubwise Sessions 5 with OBF x Iration Steppas at TBA - 
 ## Line-up
 
 - Asha (4)
+- Clinton Sly
 - Icky Magdala
 - Iration Steppas
 - O.B.F

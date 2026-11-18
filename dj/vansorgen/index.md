@@ -1,6 +1,6 @@
 # VAN SORGEN
 
-VAN SORGEN is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at John Doe, Amsterdam on Thu, 19 Nov 2026.
+VAN SORGEN is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at John Doe, Amsterdam on Thu, 19 Nov 2026.
 
 VAN SORGEN is a techno artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam. Often billed alongside Robin Hastings, Marco Ramos and NAD (NL). Next up: John Doe, Amsterdam on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ VAN SORGEN is a techno artist based in Netherlands, with 16 gigs on soundcheck a
 
 Robin Hastings, Marco Ramos, NAD (NL)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vansorgen/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vansorgen/)*

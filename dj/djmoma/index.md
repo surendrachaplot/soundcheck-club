@@ -1,6 +1,6 @@
 # DJ Moma
 
-DJ Moma is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Arena Samol, Rua Costa Barros, 34 - Gamboa, Rio de Janeiro, Rio de Janeiro on Thu, 19 Nov 2026.
+DJ Moma is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Arena Samol, Rua Costa Barros, 34 - Gamboa, Rio de Janeiro, Rio de Janeiro on Thu, 19 Nov 2026.
 
 DJ Moma is a house and afro house artist, with 142 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Houston and 7 more. Often billed alongside Eli Escobar, Boy Cordero and DJ Mochi. Next up: TBA - Arena Samol, Rua Costa Barros, 34 - Gamboa, Rio de Janeiro, Rio de Janeiro on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ DJ Moma is a house and afro house artist, with 142 gigs on soundcheck across Ams
 
 Eli Escobar, Boy Cordero, DJ Mochi
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoma/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoma/)*

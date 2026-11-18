@@ -1,6 +1,6 @@
 # Larnie Moles
 
-Larnie Moles is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Barfly, London on Fri, 20 Nov 2026.
+Larnie Moles is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Barfly, London on Fri, 20 Nov 2026.
 
 Larnie Moles is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Memory Muscle, Rene LaVice and SAVANNAH. Next up: Barfly, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Larnie Moles is a drum & bass and jungle artist based in United Kingdom, with 18
 
 Memory Muscle, Rene LaVice, SAVANNAH
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larniemoles/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larniemoles/)*

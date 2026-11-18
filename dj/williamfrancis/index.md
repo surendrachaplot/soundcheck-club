@@ -1,6 +1,6 @@
 # William Francis
 
-William Francis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Rawhide, New York City on Fri, 20 Nov 2026.
+William Francis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Rawhide, New York City on Fri, 20 Nov 2026.
 
 William Francis is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Berlin, New York City and Washington DC. Often billed alongside DROPO, Greg Scarnici and Planet B. Next up: Club Rawhide, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ William Francis is a house and techno artist based in United States of America, 
 
 DROPO, Greg Scarnici, Planet B
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamfrancis/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamfrancis/)*

@@ -1,6 +1,6 @@
 # Descent
 
-Descent is a music venue in Boston with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Club Culture: DVS1 & Meschwitz" on Thu, 19 Nov 2026.
+Descent is a music venue in Boston with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Club Culture: DVS1 & Meschwitz" on Thu, 19 Nov 2026.
 
 Descent is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with line-ups including BLXSS, Cam Stockman, D.Dan and DVS1 and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
@@ -18,4 +18,4 @@ Descent is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with l
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

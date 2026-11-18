@@ -1,6 +1,6 @@
 # Simon T
 
-Simon T is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at SAM Sampling Moods, Milan on Sat, 21 Nov 2026.
+Simon T is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at SAM Sampling Moods, Milan on Sat, 21 Nov 2026.
 
 Simon T is a dub techno and techno artist based in Italy, with 54 gigs on soundcheck across London, Milan and Turin. Often billed alongside Lorenzo LSP, Flavio Vecchi and Ricky Montanari. Next up: SAM Sampling Moods, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Simon T is a dub techno and techno artist based in Italy, with 54 gigs on soundc
 
 Lorenzo LSP, Flavio Vecchi, Ricky Montanari
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simont/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simont/)*

@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at D! Club, Lausanne on Thu, 26 Nov 2026.
+Adriatique is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at D! Club, Lausanne on Thu, 26 Nov 2026.
 
 Adriatique is a techno and house artist based in Switzerland, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 50 more. Often billed alongside Mind Against, Colyn and DJ Tennis. Next up: D! Club, Lausanne on Thu 26 Nov.
 
@@ -28,4 +28,4 @@ Adriatique is a techno and house artist based in Switzerland, with 187 gigs on s
 
 Mind Against, Colyn, DJ Tennis
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

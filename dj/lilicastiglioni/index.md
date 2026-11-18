@@ -1,6 +1,6 @@
 # Lili Castiglioni
 
-Lili Castiglioni is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - 17 rue Notre-Dame-de-Nazareth, Paris on Thu, 19 Nov 2026.
+Lili Castiglioni is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - 17 rue Notre-Dame-de-Nazareth, Paris on Thu, 19 Nov 2026.
 
 Lili Castiglioni is an electro and electronica artist based in France, with 6 gigs on soundcheck across Paris and Strasbourg. Often billed alongside 9oodkid, Acid Souljah and Eloi. Next up: TBA - 17 rue Notre-Dame-de-Nazareth, Paris on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Lili Castiglioni is an electro and electronica artist based in France, with 6 gi
 
 9oodkid, Acid Souljah, Eloi
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilicastiglioni/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilicastiglioni/)*

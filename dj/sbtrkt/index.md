@@ -1,6 +1,6 @@
 # SBTRKT
 
-SBTRKT is a Garage and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Cakeshop, Seoul on Wed, 25 Nov 2026.
+SBTRKT is a Garage and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cakeshop, Seoul on Wed, 25 Nov 2026.
 
 SBTRKT is a garage and electronica artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Dixon, Little Dragon and Marcel Dettmann. Next up: Cakeshop, Seoul on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ SBTRKT is a garage and electronica artist based in United Kingdom, with 49 gigs 
 
 Dixon, Little Dragon, Marcel Dettmann
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*

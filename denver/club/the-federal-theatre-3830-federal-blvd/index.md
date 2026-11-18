@@ -1,6 +1,6 @@
 # The Federal Theatre 3830 Federal Blvd
 
-The Federal Theatre 3830 Federal Blvd is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Federal Nights - 1 Year Anniversary Party" on Fri, 20 Nov 2026.
+The Federal Theatre 3830 Federal Blvd is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Federal Nights - 1 Year Anniversary Party" on Fri, 20 Nov 2026.
 
 The Federal Theatre 3830 Federal Blvd is a music venue in Denver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Federal Theatre 3830 Federal Blvd is a music venue in Denver listed on sound
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Federal Nights - 1 Year Anniversary Party |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-federal-theatre-3830-federal-blvd/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-federal-theatre-3830-federal-blvd/)*

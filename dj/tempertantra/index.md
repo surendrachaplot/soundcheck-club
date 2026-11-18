@@ -1,6 +1,6 @@
 # TEMPER TANTRA
 
-TEMPER TANTRA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Glamorama, Melbourne on Sat, 21 Nov 2026.
+TEMPER TANTRA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Glamorama, Melbourne on Sat, 21 Nov 2026.
 
 TEMPER TANTRA is a techno and tech house artist based in Australia, with 15 gigs on soundcheck across Melbourne. Often billed alongside HYBE, FINTEK and TYNOMYTE. Next up: Glamorama, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ TEMPER TANTRA is a techno and tech house artist based in Australia, with 15 gigs
 
 HYBE, FINTEK, TYNOMYTE
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempertantra/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempertantra/)*

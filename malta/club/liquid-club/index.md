@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Neolitika Club Night // Bailey Ibbs" on Sat, 21 Nov 2026.
+Liquid Club is a music venue in Malta with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Neolitika Club Night // Bailey Ibbs" on Sat, 21 Nov 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 8 upcoming gigs, with line-ups including Anna Amato, Anna V., Ashibane and Bailey Ibbs and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -15,10 +15,10 @@ Liquid Club is a music venue in Malta listed on soundcheck. 8 upcoming gigs, wit
 | Fri, 4 Dec 2026 | T6E RESILIENCE by Techno Agency (O.S.M.W.S.T.A) (2 STAGE) | DJ Nasty Deluxe, DJ SIN, Marixia, Mikeonacid, Philip Ackowsky, The Electronic Advance, Tino |
 | Sat, 12 Dec 2026 | two girls one mom | Billy Hills, Dicentra, Morris (1), Naomi Baldacchino, two girls one mom |
 | Sat, 19 Dec 2026 | Disorder |  |
-| Sat, 26 Dec 2026 | REVOLVER pres. SANTØS & BLURRED MOVEMENT B2B VIVU [BOXING DAY KNOCKOUT] | Lombz, MALISTA, MAMO (2), SANTØS |
+| Sat, 26 Dec 2026 | REVOLVER pres. SANTØS & BLURRED MOVEMENT B2B VIVU [BOXING DAY KNOCKOUT] | Lombz, MALISTA, MAMO (2), SANTØS, VIVU (mt) |
 
 ## Address
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

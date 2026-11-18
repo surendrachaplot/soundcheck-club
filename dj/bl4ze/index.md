@@ -1,6 +1,6 @@
 # BL4ZE
 
-BL4ZE is a Guaracha and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
+BL4ZE is a Guaracha and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
 
 BL4ZE is a guaracha and techno artist based in United States of America, with 52 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside T3KNO, 4LOKA and Diablito. Next up: Los Globos, Los Angeles on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ BL4ZE is a guaracha and techno artist based in United States of America, with 52
 
 T3KNO, 4LOKA, Diablito
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bl4ze/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bl4ze/)*

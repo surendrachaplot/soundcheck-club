@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More" on Fri, 20 Nov 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More" on Fri, 20 Nov 2026.
 
-TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 15 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 16 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 15 upcom
 | Fri, 4 Dec 2026 | WORK Harder presents: Rebekah [All Night Long] | Rebekah |
 | Fri, 4 Dec 2026 | Planet Love: livwutang / James Axon / Mez Monty | James Axon, Mez Monty, livwutang |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

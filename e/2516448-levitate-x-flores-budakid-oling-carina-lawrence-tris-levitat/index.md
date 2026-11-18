@@ -1,6 +1,6 @@
 # Levitate x Flores: Budakid, OLING, Carina Lawrence & Tris Levitate at The Lower Third
 
-Levitate x Flores: Budakid, OLING, Carina Lawrence & Tris Levitate at The Lower Third on Sat 28 Nov, London. 4 artists: Budakid, Carina Lawrence, OLING and Tris Levitate. Techno and House. See the line-up on soundcheck.
+Levitate x Flores: Budakid, OLING, Carina Lawrence & Tris Levitate at The Lower Third on Sat 28 Nov, London. 4 artists: Budakid, Carina Lawrence, OLING and Tris Levitate. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

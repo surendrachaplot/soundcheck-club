@@ -1,14 +1,15 @@
 # Täino
 
-Täino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 21 Nov 2026.
+Täino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 21 Nov 2026.
 
-Täino is a techno and house artist based in Czech Republic, with 3 gigs on soundcheck across Prague. Often billed alongside Roman Rai, Funk D'Void and Ludviq. Next up: Bukanyr Boat, Prague on Sat 21 Nov.
+Täino is a house and techno artist based in Czech Republic, with 4 gigs on soundcheck across Prague. Often billed alongside Roman Rai, Biodan and Blackloud. Next up: Bukanyr Boat, Prague on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Bukanyr Boat | Prague |
+| Thu, 31 Dec 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Täino is a techno and house artist based in Czech Republic, with 3 gigs on soun
 
 ## Shares bills with
 
-Roman Rai, Funk D'Void, Ludviq
+Roman Rai, Biodan, Blackloud
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tainocz/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tainocz/)*

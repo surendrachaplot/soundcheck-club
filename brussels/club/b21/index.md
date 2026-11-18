@@ -1,6 +1,6 @@
 # B21
 
-B21 is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Le Yes X ZinZin" on Fri, 27 Nov 2026.
+B21 is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Le Yes X ZinZin" on Fri, 27 Nov 2026.
 
 B21 is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Berdy. See dates, start times and who's playing. Rue de Belgrade, 21 1190 Forest.
 
@@ -14,4 +14,4 @@ B21 is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line
 
 Rue de Belgrade, 21 1190 Forest, Brussels
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*

@@ -1,8 +1,8 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Femme Frequency x Faenix" on Fri, 20 Nov 2026.
+MÄX is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Femme Frequency x Faenix" on Fri, 20 Nov 2026.
 
-MÄX is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 1luu, Alle Farben, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
+MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including 1luu, Alle Farben, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
 ## What's on
 
@@ -13,14 +13,14 @@ MÄX is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with lin
 | Fri, 27 Nov 2026 | Pencil All Night Long | PENCIL |
 | Sat, 28 Nov 2026 | Daft Funk Live – Zurich | Daft Funk Live |
 | Sat, 5 Dec 2026 | Alle Farben - Club Tour | Alle Farben |
+| Fri, 11 Dec 2026 | Rewi x MÄX Zürich | andris |
 | Sat, 12 Dec 2026 | Jazzy - All Night Long | JAZZY (2) |
 | Sat, 19 Dec 2026 | Liquicity Zurich 2026 | Etherwood, Maduk, Muzz Khan |
 | Sat, 26 Dec 2026 | X-MAS Cardio Session with NEGITIV | GCOD, Megix, NEGITIV |
 | Thu, 31 Dec 2026 | New Year's RE:BACK | 1luu, BINA, Cortez (2), DJ Henk, KAïA (2), Megix, Nhū, PENCIL |
-| Fri, 15 Jan 2027 | Closer with Ely Oaks | Ely Oaks |
 
 ## Address
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

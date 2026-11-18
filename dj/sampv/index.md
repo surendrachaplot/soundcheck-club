@@ -1,0 +1,28 @@
+# Sam PV
+
+Sam PV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Lab.Club, London on Fri, 27 Nov 2026.
+
+Sam PV is a house and techno artist based in United Kingdom, with 32 gigs on soundcheck across Hanoi, Leeds, Lisbon and London and 6 more. Often billed alongside Sofie K, Gwenan and Joe Delon. Next up: Lab.Club, London on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | Lab.Club | London |
+
+## Recently played
+
+- NUMBER 90 LONDON, London · Sat, 31 Oct 2026
+- Wharf Chambers, Leeds · Fri, 2 Oct 2026
+- Crate Brewery, London · Sat, 1 Aug 2026
+- OIL Club, Shenzhen · Fri, 22 May 2026
+- NUMBER 90 LONDON, London · Sat, 28 Mar 2026
+- The Lion and Lamb, London · Sun, 22 Mar 2026
+- NUMBER 90 LONDON, London · Sat, 13 Dec 2025
+- The Greyhound, London · Fri, 24 Oct 2025
+
+## Shares bills with
+
+Sofie K, Gwenan, Joe Delon
+
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampv/)*

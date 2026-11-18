@@ -1,6 +1,6 @@
 # WO KEM
 
-WO KEM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 27 Nov 2026.
+WO KEM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 27 Nov 2026.
 
 WO KEM is a house and techno artist based in Spain, with 72 gigs on soundcheck across Barcelona, Berlin, Hamburg and Madrid. Often billed alongside findPeaks, KOKE and ISAAC ARGA. Next up: Hangar48 Club, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ WO KEM is a house and techno artist based in Spain, with 72 gigs on soundcheck a
 
 findPeaks, KOKE, ISAAC ARGA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wokem/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wokem/)*

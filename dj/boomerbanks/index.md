@@ -1,6 +1,6 @@
 # Boomer Banks
 
-Boomer Banks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Rawhide, New York City on Sat, 21 Nov 2026.
+Boomer Banks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Rawhide, New York City on Sat, 21 Nov 2026.
 
 Boomer Banks is a house and techno artist based in United States of America, with 37 gigs on soundcheck across Atlanta, Austin, Houston and Los Angeles and 1 more. Often billed alongside DJ Dawson, DROPO and Mitch Ferrino. Next up: Club Rawhide, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Boomer Banks is a house and techno artist based in United States of America, wit
 
 DJ Dawson, DROPO, Mitch Ferrino
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boomerbanks/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boomerbanks/)*

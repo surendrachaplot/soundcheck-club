@@ -1,6 +1,6 @@
 # Club U
 
-Club U is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Fluffig - Punschabend" on Fri, 20 Nov 2026.
+Club U is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Fluffig - Punschabend" on Fri, 20 Nov 2026.
 
 Club U is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Anna Ullrich, DizzyDray, Rosa Rosen and TAUSEND2Ø. See dates, start times and who's playing. Karlsplatz Objekt U26; 1010 Vienna; Austria.
 
@@ -15,4 +15,4 @@ Club U is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with li
 
 Karlsplatz Objekt U26; 1010 Vienna; Austria, Vienna
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-u/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-u/)*

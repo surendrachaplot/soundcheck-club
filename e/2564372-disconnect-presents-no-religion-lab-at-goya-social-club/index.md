@@ -1,6 +1,6 @@
 # DISCONNECT presents NO RELIGION LAB at Goya Social Club
 
-DISCONNECT presents NO RELIGION LAB at Goya Social Club on Mon 7 Dec, Madrid. 2 artists: Dellavega and Ssero. Tech House. See the line-up on soundcheck.
+DISCONNECT presents NO RELIGION LAB at Goya Social Club on Mon 7 Dec, Madrid. 3 artists: Dellavega, Giannattasio and Ssero. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DISCONNECT presents NO RELIGION LAB at Goya Social Club on Mon 7 Dec, Madrid. 2 
 ## Line-up
 
 - Dellavega
+- Giannattasio
 - Ssero
 
 *Source: [soundcheck](https://soundcheck.club/e/2564372-disconnect-presents-no-religion-lab-at-goya-social-club/)*

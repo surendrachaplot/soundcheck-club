@@ -1,6 +1,6 @@
 # Jacques Greene (Extended DJ Set) - Yes at Yes
 
-Jacques Greene (Extended DJ Set) - Yes on Fri 20 Nov, Manchester. 1 artist: Jacques Greene. Techno and House. See the line-up on soundcheck.
+Jacques Greene (Extended DJ Set) - Yes on Fri 20 Nov, Manchester. 2 artists: Bad Wolf and Jacques Greene. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Jacques Greene (Extended DJ Set) - Yes on Fri 20 Nov, Manchester. 1 artist: Jacq
 
 ## Line-up
 
+- Bad Wolf
 - Jacques Greene
 
 *Source: [soundcheck](https://soundcheck.club/e/2556384-jacques-greene-extended-dj-set-yes-at-yes/)*

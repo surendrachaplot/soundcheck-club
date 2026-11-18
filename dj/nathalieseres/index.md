@@ -1,8 +1,8 @@
 # Nathalie Seres
 
-Nathalie Seres is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Nathalie Seres is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
 
-Nathalie Seres is a house and techno artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 18 more. Often billed alongside DJ Senc, Steffi and Adiel. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
+Nathalie Seres is a house and techno artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 18 more. Often billed alongside Steffi, DJ Senc and Adiel. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Nathalie Seres is a house and techno artist based in Germany, with 81 gigs on so
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
-| Sat, 28 Nov 2026 | The Loft | Manchester |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 | Thu, 31 Dec 2026 | LAUT | Barcelona |
 
@@ -27,6 +26,6 @@ Nathalie Seres is a house and techno artist based in Germany, with 81 gigs on so
 
 ## Shares bills with
 
-DJ Senc, Steffi, Adiel
+Steffi, DJ Senc, Adiel
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*

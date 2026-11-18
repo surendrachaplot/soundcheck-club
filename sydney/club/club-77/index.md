@@ -1,14 +1,14 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Fridays at 77 x BAG: Matthias (Superluminal) Jesse You, Tarj" on Fri, 20 Nov 2026.
+Club 77 is a music venue in Sydney with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Fridays at 77 x BAG: Matthias (Superluminal), Jesse You, Tarj" on Fri, 20 Nov 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including Ayebatonye, Ben Fester, CC:DISCO! and Ciara and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 15 upcoming gigs, with line-ups including au4r33y, Ayebatonye, Ben Fester and CC:DISCO! and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Fridays at 77 x BAG: Matthias (Superluminal) Jesse You, Tarj | Jesse You, Matthias (1), Tarj |
+| Fri, 20 Nov 2026 | Fridays at 77 x BAG: Matthias (Superluminal), Jesse You, Tarj | Jesse You, Matthias (1), Tarj |
 | Sat, 21 Nov 2026 | Club 77: DJ Kiti, Barney Kato | DJ Kiti, Kato |
 | Fri, 27 Nov 2026 | Fridays at 77: Claddy, Ciara | Ciara, Claddy |
 | Sat, 28 Nov 2026 | Club 77: Jimi Dawg, Mike Who | Mike Who |
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with 
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

@@ -1,6 +1,6 @@
 # Roxy
 
-Roxy is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "X CLUB. ∞ ROXY Prague" on Fri, 20 Nov 2026.
+Roxy is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "X CLUB. ∞ ROXY Prague" on Fri, 20 Nov 2026.
 
 Roxy is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Beyer, Ely Oaks, Kanine and Lane 8 and 2 more. See dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Roxy is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with lin
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

@@ -1,6 +1,6 @@
 # Schmeckt auf Eis - grand theft schmecktakel VII at Jonny Knüppel
 
-Schmeckt auf Eis - grand theft schmecktakel VII at Jonny Knüppel on Sat 21 Nov, Berlin. 8 artists: Etiennette, hi beam, Joshua Janson and Joshua Liebe and 4 more. Techno. See the line-up on soundcheck.
+Schmeckt auf Eis - grand theft schmecktakel VII at Jonny Knüppel on Sat 21 Nov, Berlin. 9 artists: Etiennette, FM Bounce, hi beam and Joshua Janson and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Schmeckt auf Eis - grand theft schmecktakel VII at Jonny Knüppel on Sat 21 Nov,
 ## Line-up
 
 - Etiennette
+- FM Bounce
 - hi beam
 - Joshua Janson
 - Joshua Liebe

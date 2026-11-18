@@ -1,6 +1,6 @@
 # MLE (UK)
 
-MLE (UK) is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
+MLE (UK) is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
 
 MLE (UK) is a house and bass artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 7 more. Often billed alongside Bradley Zero, DJ Autumn and Gramrcy. Next up: Tresor / Globus, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ MLE (UK) is a house and bass artist based in United Kingdom, with 59 gigs on sou
 
 Bradley Zero, DJ Autumn, Gramrcy
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mle-uk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mle-uk/)*

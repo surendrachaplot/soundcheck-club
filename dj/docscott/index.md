@@ -1,6 +1,6 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
 
 Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Goldie, Grooverider and Loxy. Next up: Sidney & Matilda, Sheffield on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 120 g
 
 Goldie, Grooverider, Loxy
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

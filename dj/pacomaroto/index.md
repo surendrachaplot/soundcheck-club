@@ -1,0 +1,28 @@
+# Paco Maroto
+
+Paco Maroto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Atlantic Sound, Barcelona on Sat, 12 Dec 2026.
+
+Paco Maroto is a progressive house and techno artist based in Spain, with 10 gigs on soundcheck across Barcelona. Often billed alongside J.Louis, Beto Delgado and Ibañez. Next up: Atlantic Sound, Barcelona on Sat 12 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 12 Dec 2026 | Atlantic Sound | Barcelona |
+
+## Recently played
+
+- M7 Club, Barcelona · Sat, 7 Nov 2026
+- Atlantic Sound, Barcelona · Sat, 11 Apr 2026
+- Downtown Barcelona, Barcelona · Sun, 7 Dec 2025
+- Hotel El Bruc, Barcelona · Sat, 20 Sept 2025
+- DETROIT CLUB, Barcelona · Sat, 23 Aug 2025
+- TBA, Barcelona · Sat, 28 Jun 2025
+- M7 Club, Barcelona · Thu, 31 Oct 2024
+- M7 Club, Barcelona · Sat, 10 Feb 2024
+
+## Shares bills with
+
+J.Louis, Beto Delgado, Ibañez
+
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacomaroto/)*

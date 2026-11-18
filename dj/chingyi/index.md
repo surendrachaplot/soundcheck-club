@@ -1,14 +1,14 @@
 # Chingyi
 
-Chingyi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 11 Nov 2026.
+Chingyi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Wigwam, Shanghai on Sat, 21 Nov 2026.
 
-Chingyi is a techno and house artist based in China, with 33 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Lisbon and 2 more. Often billed alongside ADRIANNA.C, AngeliKa and Faxtory. Next up: Graphic Hangang, Seoul on Wed 11 Nov.
+Chingyi is a techno and house artist based in China, with 34 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Lisbon and 2 more. Often billed alongside ADRIANNA.C, AngeliKa and Faxtory. Next up: Wigwam, Shanghai on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Graphic Hangang | Seoul |
+| Sat, 21 Nov 2026 | Wigwam | Shanghai |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Chingyi is a techno and house artist based in China, with 33 gigs on soundcheck 
 
 ADRIANNA.C, AngeliKa, Faxtory
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*

@@ -1,8 +1,8 @@
 # The Limelight
 
-The Limelight is a music venue in Belfast with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "TELETECH x SHINE - Ali James b2b Mark Blair " on Fri, 20 Nov 2026.
+The Limelight is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "TELETECH x SHINE - Ali James b2b Mark Blair " on Fri, 20 Nov 2026.
 
-The Limelight is a music venue in Belfast listed on soundcheck. 8 upcoming gigs, with line-ups including Ali James, CADZOW, Conor Schmtz and Dave Clarke and 2 more. See dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
+The Limelight is a music venue in Belfast listed on soundcheck. 9 upcoming gigs, with line-ups including Ali James, CADZOW, Conor Schmtz and Dave Clarke and 2 more. See dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
 
 ## What's on
 
@@ -15,10 +15,11 @@ The Limelight is a music venue in Belfast listed on soundcheck. 8 upcoming gigs,
 | Fri, 11 Dec 2026 | SHINE -- OMAR+ | Jordan Villa, Omar+ |
 | Sat, 12 Dec 2026 | SHINE x PRTY -- CADZOW [MAKINA SET] | CADZOW |
 | Sat, 26 Dec 2026 | SUPERSHINE -- Dave Clarke | Conor Schmtz, Dave Clarke, Phil Kieran, Sophie (2) |
+| Sat, 30 Jan 2027 | SHINE -- Oden & Fatzo [LIVE] | Fatzo, Oden |
 | Sat, 6 Feb 2027 | SHINE -- Julian Fijma | Julian Fijma |
 
 ## Address
 
 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom, Belfast
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*

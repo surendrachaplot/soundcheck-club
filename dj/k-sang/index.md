@@ -1,6 +1,6 @@
 # K-Sang
 
-K-Sang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Le Maquis Club, Hanoi on Fri, 20 Nov 2026.
+K-Sang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Maquis Club, Hanoi on Fri, 20 Nov 2026.
 
 K-Sang is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Hocking, George Adore and Feelz. Next up: Le Maquis Club, Hanoi on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ K-Sang is a house and techno artist based in United Kingdom, with 30 gigs on sou
 
 Hocking, George Adore, Feelz
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-sang/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-sang/)*

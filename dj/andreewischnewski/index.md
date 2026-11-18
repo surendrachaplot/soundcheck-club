@@ -1,0 +1,28 @@
+# Andree Wischnewski
+
+Andree Wischnewski is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Insomnia, Berlin on Fri, 11 Dec 2026.
+
+Andree Wischnewski is a techno and tech house artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Basstronauten, Calypsis and Daniel Boon. Next up: Insomnia, Berlin on Fri 11 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 11 Dec 2026 | Insomnia | Berlin |
+
+## Recently played
+
+- TBA, Berlin · Sat, 15 Aug 2026
+- Void Club, Berlin · Fri, 15 May 2026
+- Insomnia, Berlin · Fri, 8 May 2026
+- Insomnia, Berlin · Fri, 9 Jan 2026
+- The Cloud, Berlin · Fri, 29 Aug 2025
+- Der Weiße Hase, Berlin · Fri, 2 May 2025
+- Insomnia, Berlin · Fri, 4 Apr 2025
+- TBA, Berlin · Sun, 6 Oct 2024
+
+## Shares bills with
+
+Basstronauten, Calypsis, Daniel Boon
+
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreewischnewski/)*

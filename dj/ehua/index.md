@@ -1,6 +1,6 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Jazz Cafe, London on Wed, 25 Nov 2026.
+Ehua is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Jazz Cafe, London on Wed, 25 Nov 2026.
 
 Ehua is a techno and bass artist based in Italy, with 138 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 42 more. Often billed alongside Flore, Skee Mask and AliA. Next up: The Jazz Cafe, London on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Ehua is a techno and bass artist based in Italy, with 138 gigs on soundcheck acr
 
 Flore, Skee Mask, AliA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

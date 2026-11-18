@@ -1,6 +1,6 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bassiani, Tbilisi on Fri, 20 Nov 2026.
+Yazzus is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bassiani, Tbilisi on Fri, 20 Nov 2026.
 
 Yazzus is a techno and house artist based in United Kingdom, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Bassiani, Tbilisi on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Yazzus is a techno and house artist based in United Kingdom, with 195 gigs on so
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

@@ -1,6 +1,6 @@
 # GROOVEBABY
 
-GROOVEBABY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
+GROOVEBABY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
 
 GROOVEBABY is a techno and club artist based in Australia, with 14 gigs on soundcheck across Adelaide, Melbourne, Miami and Perth. Often billed alongside BANO (AU), Dancespace and CITIZEN1. Next up: Las Rosas, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ GROOVEBABY is a techno and club artist based in Australia, with 14 gigs on sound
 
 BANO (AU), Dancespace, CITIZEN1
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebaby/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebaby/)*

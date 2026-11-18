@@ -1,6 +1,6 @@
 # Unregular
 
-Unregular is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
+Unregular is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
 
 Unregular is a house and trance artist based in Belgium, with 8 gigs on soundcheck across Amsterdam, Antwerp, The Hague and Utrecht. Often billed alongside Jef Nice, Alycia Bezgo and Arter. Next up: Inter-City, The Hague on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Unregular is a house and trance artist based in Belgium, with 8 gigs on soundche
 
 Jef Nice, Alycia Bezgo, Arter
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*

@@ -1,6 +1,6 @@
 # Katya
 
-Katya is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at NT's Loft, London on Fri, 20 Nov 2026.
+Katya is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NT's Loft, London on Fri, 20 Nov 2026.
 
 Katya is a techno and electro artist based in United Kingdom, with 55 gigs on soundcheck across Bangkok, Berlin, Bristol and London and 2 more. Often billed alongside Alien Communications, Bobby. and Greg Brockmann. Next up: NT's Loft, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Katya is a techno and electro artist based in United Kingdom, with 55 gigs on so
 
 Alien Communications, Bobby., Greg Brockmann
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*

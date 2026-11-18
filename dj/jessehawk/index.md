@@ -1,6 +1,6 @@
 # Jesse Hawk
 
-Jesse Hawk is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at crobar, Cleveland on Fri, 4 Dec 2026.
+Jesse Hawk is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at crobar, Cleveland on Fri, 4 Dec 2026.
 
 Jesse Hawk is a techno and electro artist based in United States of America, with 12 gigs on soundcheck across Cleveland. Often billed alongside Joey Sardelle, Andre Leone and DJ HUSH. Next up: crobar, Cleveland on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Jesse Hawk is a techno and electro artist based in United States of America, wit
 
 Joey Sardelle, Andre Leone, DJ HUSH
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessehawk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessehawk/)*

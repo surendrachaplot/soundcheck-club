@@ -1,13 +1,14 @@
 # Nay Nay
 
-Nay Nay is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
+Nay Nay is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at New Guernica, Melbourne on Fri, 11 Dec 2026.
 
-Nay Nay is a house and club artist based in Australia, with 26 gigs on soundcheck across Birmingham, Manchester, Melbourne and Paris and 1 more. Often billed alongside Zalina, Mon Franco and Casey Leaver. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
+Nay Nay is a house and club artist based in Australia, with 27 gigs on soundcheck across Birmingham, Manchester, Melbourne and Paris and 1 more. Often billed alongside Zalina, Mon Franco and Casey Leaver. Next up: New Guernica, Melbourne on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | New Guernica | Melbourne |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nay Nay is a house and club artist based in Australia, with 26 gigs on soundchec
 
 Zalina, Mon Franco, Casey Leaver
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naynay/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naynay/)*

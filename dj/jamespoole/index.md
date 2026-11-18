@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+James Poole is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 James Poole is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Birmingham, Dublin and Eindhoven and 10 more. Often billed alongside East End Dubs, Hidde van Wee and Julian Fijma. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ James Poole is a house and tech house artist based in United Kingdom, with 15 gi
 
 East End Dubs, Hidde van Wee, Julian Fijma
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

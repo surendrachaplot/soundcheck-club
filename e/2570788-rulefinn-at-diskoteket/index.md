@@ -1,10 +1,10 @@
 # Rulefinn at Diskoteket
 
-Rulefinn at Diskoteket on Sat 20 Mar, Norway. 1 artist: Rulefinn. See the line-up on soundcheck.
+Rulefinn at Diskoteket on Sat 20 Feb, Norway. 1 artist: Rulefinn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 20 Mar 2027 |
+| Date | Sat, 20 Feb 2027 |
 | Venue | Diskoteket |
 | City | Norway |
 

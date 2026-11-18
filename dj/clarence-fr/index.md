@@ -1,6 +1,6 @@
 # Clarence
 
-Clarence is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Super7, Lyon on Fri, 20 Nov 2026.
+Clarence is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Super7, Lyon on Fri, 20 Nov 2026.
 
 Clarence is a techno and experimental artist based in France, with 16 gigs on soundcheck across Berlin and Lyon. Often billed alongside Sklaer, De Santi and Maelita. Next up: Super7, Lyon on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Clarence is a techno and experimental artist based in France, with 16 gigs on so
 
 Sklaer, De Santi, Maelita
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-fr/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-fr/)*

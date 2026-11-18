@@ -1,6 +1,6 @@
 # Big D
 
-Big D is a Afro House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Haggerston, London on Fri, 27 Nov 2026.
+Big D is a Afro House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Haggerston, London on Fri, 27 Nov 2026.
 
 Big D is an afro house and dancehall artist, with 10 gigs on soundcheck across London and Manchester. Often billed alongside KLOO, MA.MOYO and Mr. Redley. Next up: The Haggerston, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Big D is an afro house and dancehall artist, with 10 gigs on soundcheck across L
 
 KLOO, MA.MOYO, Mr. Redley
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigd/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigd/)*

@@ -1,6 +1,6 @@
 # L4NC3
 
-L4NC3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Das Werk, Vienna on Fri, 20 Nov 2026.
+L4NC3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Das Werk, Vienna on Fri, 20 Nov 2026.
 
 L4NC3 is a techno and trance artist based in Austria, with 32 gigs on soundcheck across Vienna. Often billed alongside DJ Böhm, Dan.P and presso. Next up: Das Werk, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ L4NC3 is a techno and trance artist based in Austria, with 32 gigs on soundcheck
 
 DJ Böhm, Dan.P, presso
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l4nc3/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l4nc3/)*

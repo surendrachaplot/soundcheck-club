@@ -1,8 +1,8 @@
 # Ninety One
 
-Ninety One is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Sounds Like London: Jazz Dance w/ Tim Garcia" on Sat, 21 Nov 2026.
+Ninety One is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sounds Like London: Jazz Dance w/ Tim Garcia" on Sat, 21 Nov 2026.
 
-Ninety One is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Calm Stiege, candice a.m, Latecomer and Lily London and 2 more. See dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
+Ninety One is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Calm Stiege, candice a.m, Latecomer and Lily London and 2 more. See dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
 
 ## What's on
 
@@ -10,11 +10,10 @@ Ninety One is a music venue in London listed on soundcheck. 4 upcoming gigs, wit
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Sounds Like London: Jazz Dance w/ Tim Garcia | Tim Garcia, candice a.m |
 | Sat, 28 Nov 2026 | Sounds Like London: Funky Adjacent Takeover | Calm Stiege, Latecomer, Papaoul |
-| Sat, 5 Dec 2026 | Sounds Like London: Scratchclart (UK Funky Special) | Scratcha DVA |
 | Thu, 31 Dec 2026 | Sounds Like London: NYE Shubz | Lily London, Manara, Pinty |
 
 ## Address
 
 91 Brick Ln, London E1 6QL, UK, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*

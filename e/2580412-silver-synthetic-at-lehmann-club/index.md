@@ -1,6 +1,6 @@
 # SILVER SYNTHETIC at Lehmann Club
 
-SILVER SYNTHETIC at Lehmann Club on Fri 20 Nov, Stuttgart. 4 artists: DVAID, GIØ, GROOVESICK and nordcorreia.mp3. See the line-up on soundcheck.
+SILVER SYNTHETIC at Lehmann Club on Fri 20 Nov, Stuttgart. 5 artists: DVAID, GIØ, GROOVESICK and Nelli and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ SILVER SYNTHETIC at Lehmann Club on Fri 20 Nov, Stuttgart. 4 artists: DVAID, GI�
 - DVAID
 - GIØ (1)
 - GROOVESICK
+- Nelli
 - nordcorreia.mp3
 
 *Source: [soundcheck](https://soundcheck.club/e/2580412-silver-synthetic-at-lehmann-club/)*

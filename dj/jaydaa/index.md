@@ -1,6 +1,6 @@
 # JAYDAA
 
-JAYDAA is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Rainbow Pub, Birmingham on Fri, 20 Nov 2026.
+JAYDAA is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Rainbow Pub, Birmingham on Fri, 20 Nov 2026.
 
 JAYDAA is a tech house and house artist based in United Kingdom, with 210 gigs on soundcheck across Algarve, Birmingham, Ibiza and London and 2 more. Often billed alongside Shenin Amara, Jerome Six and Beezo. Next up: The Rainbow Pub, Birmingham on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ JAYDAA is a tech house and house artist based in United Kingdom, with 210 gigs o
 
 Shenin Amara, Jerome Six, Beezo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*

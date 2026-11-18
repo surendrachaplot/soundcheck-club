@@ -1,16 +1,16 @@
 # Backstage Sofia
 
-Backstage Sofia is a music venue in Sofia with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Backstage with Hamatsuki & skyra LIVE" on Fri, 20 Nov 2026.
+Backstage Sofia is a music venue in Sofia with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Backstage with Hamatsuki & skyra LIVE" on Fri, 20 Nov 2026.
 
-Backstage Sofia is a music venue in Sofia listed on soundcheck. 4 upcoming gigs, with line-ups including Adriana, Andrey Pushkarev, DREAMDANCE and Hamatsuki and 2 more. See dates, start times and who's playing.
+Backstage Sofia is a music venue in Sofia listed on soundcheck. 4 upcoming gigs, with line-ups including Adriana, Andrey Pushkarev, DREAMDANCE and Frattle and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Backstage with Hamatsuki & skyra LIVE | Adriana (3), DREAMDANCE, Hamatsuki, skyra |
-| Sat, 21 Nov 2026 | Simple Spaces x OFF BEAT | Xander.404, velibor |
+| Sat, 21 Nov 2026 | Simple Spaces x OFF BEAT | Frattle, Xander.404, velibor |
 | Fri, 11 Dec 2026 | Backstage w/ Andrey Pushkarev ALL NIGHT LONG | Andrey Pushkarev |
 | Sat, 12 Dec 2026 | TABA All Stars |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/backstage-sofia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/backstage-sofia/)*

@@ -1,6 +1,6 @@
 # Lucy Headburn
 
-Lucy Headburn is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ny Bastion, Copenhagen on Fri, 4 Dec 2026.
+Lucy Headburn is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ny Bastion, Copenhagen on Fri, 4 Dec 2026.
 
 Lucy Headburn is a trance and techno artist based in Denmark, with 42 gigs on soundcheck across Amsterdam, Copenhagen and Nantes. Often billed alongside Matriark, Sham (DK) and Filen. Next up: Ny Bastion, Copenhagen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lucy Headburn is a trance and techno artist based in Denmark, with 42 gigs on so
 
 Matriark, Sham (DK), Filen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyheadburn/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyheadburn/)*

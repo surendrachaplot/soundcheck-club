@@ -1,6 +1,6 @@
 # Dažbog
 
-Dažbog is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
+Dažbog is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
 
 Dažbog is a techno and electronica artist based in Serbia, with 16 gigs on soundcheck across Belgrade and Bosnia And Herzegovina. Often billed alongside Balša, Čevut and .Paragon. Next up: Frka, Bosnia And Herzegovina on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dažbog is a techno and electronica artist based in Serbia, with 16 gigs on soun
 
 Balša, Čevut, .Paragon
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dažbog/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dažbog/)*

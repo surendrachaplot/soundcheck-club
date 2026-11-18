@@ -1,6 +1,6 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Human Space Machine is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 Human Space Machine is a techno and dub techno artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Eversines, Cobahn and Kaap. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Human Space Machine is a techno and dub techno artist based in Netherlands, with
 
 Eversines, Cobahn, Kaap
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*

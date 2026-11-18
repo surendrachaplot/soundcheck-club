@@ -1,6 +1,6 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "La Paloma presents: Quantic Dj set + Chica Acosta + Angela Blackburn" on Fri, 20 Nov 2026.
+La Paloma is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "La Paloma presents: Quantic Dj set + Chica Acosta + Angela Blackburn" on Fri, 20 Nov 2026.
 
 La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including ALOT, Chica Acosta, COEO and DJ Paulette and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
@@ -20,4 +20,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, w
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

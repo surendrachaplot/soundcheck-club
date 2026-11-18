@@ -1,6 +1,6 @@
 # Deeper Waters
 
-Deeper Waters is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Corktown Tavern, Detroit on Wed, 25 Nov 2026.
+Deeper Waters is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Corktown Tavern, Detroit on Wed, 25 Nov 2026.
 
 Deeper Waters is a house and funk / soul artist based in United States of America, with 56 gigs on soundcheck across Atlanta and Detroit. Often billed alongside Mike Agent X Clark, Brent Shay and Pitchblnd. Next up: Corktown Tavern, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Deeper Waters is a house and funk / soul artist based in United States of Americ
 
 Mike Agent X Clark, Brent Shay, Pitchblnd
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperwaters/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperwaters/)*

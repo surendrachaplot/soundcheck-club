@@ -1,13 +1,14 @@
 # Showtek
 
-Showtek is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ergo Arena, Gdansk on Sat, 13 Feb 2027.
+Showtek is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sun, 29 Nov 2026.
 
-Showtek is a techno and hardcore artist based in Netherlands, with 20 gigs on soundcheck across Chicago, Denver, Düsseldorf and Gdansk and 12 more. Often billed alongside Coone, Darren Styles and Afrojack. Next up: Ergo Arena, Gdansk on Sat 13 Feb.
+Showtek is a techno and hardcore artist based in Netherlands, with 21 gigs on soundcheck across Chicago, Denver, Düsseldorf and Gdansk and 13 more. Often billed alongside Coone, Darren Styles and Afrojack. Next up: TBA - Il Mercato Centrale, Melbourne on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | TBA - Il Mercato Centrale | Melbourne |
 | Sat, 13 Feb 2027 | Ergo Arena | Gdansk |
 
 ## Recently played
@@ -25,4 +26,4 @@ Showtek is a techno and hardcore artist based in Netherlands, with 20 gigs on so
 
 Coone, Darren Styles, Afrojack
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*

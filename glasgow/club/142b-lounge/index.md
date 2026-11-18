@@ -1,6 +1,6 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "GTA VI RELEASE PARTY" on Thu, 19 Nov 2026.
+142b Lounge is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "GTA VI RELEASE PARTY" on Thu, 19 Nov 2026.
 
 142b Lounge is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
@@ -23,4 +23,4 @@
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

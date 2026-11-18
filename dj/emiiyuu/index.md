@@ -1,6 +1,6 @@
 # emiiyuu
 
-emiiyuu is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at renae, Manchester on Sat, 21 Nov 2026.
+emiiyuu is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at renae, Manchester on Sat, 21 Nov 2026.
 
 emiiyuu is a house and acid artist based in United Kingdom, with 6 gigs on soundcheck across Manchester. Often billed alongside Sharayda, ronch and BANSHII. Next up: renae, Manchester on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ emiiyuu is a house and acid artist based in United Kingdom, with 6 gigs on sound
 
 Sharayda, ronch, BANSHII
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiiyuu/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiiyuu/)*

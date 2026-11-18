@@ -1,6 +1,6 @@
 # Bours?
 
-Bours? is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, New York City on Sat, 28 Nov 2026.
+Bours? is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, New York City on Sat, 28 Nov 2026.
 
 Bours? is a techno and trance artist based in France, with 123 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 46 more. Often billed alongside The Chronics, ØTTA and Alex Nantaya. Next up: TBA, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bours? is a techno and trance artist based in France, with 123 gigs on soundchec
 
 The Chronics, ØTTA, Alex Nantaya
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*

@@ -1,6 +1,6 @@
 # inKKiss
 
-inKKiss is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+inKKiss is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 inKKiss is a techno and industrial artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Utrecht. Often billed alongside Y4R4, AndrewsFox and Deuvren. Next up: Borisov Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ inKKiss is a techno and industrial artist based in Netherlands, with 22 gigs on 
 
 Y4R4, AndrewsFox, Deuvren
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*

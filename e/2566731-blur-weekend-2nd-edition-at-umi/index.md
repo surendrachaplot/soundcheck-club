@@ -21,7 +21,7 @@ BLUR WeekEnd 2nd Edition at UMI on Fri 27 Nov, Brussels. 19 artists: Adi (CO), a
 - Jay Tripwire
 - Karine
 - Leef
-- Mel
+- Mel (FR)
 - Nina Welch
 - Shakolin
 - Sookie

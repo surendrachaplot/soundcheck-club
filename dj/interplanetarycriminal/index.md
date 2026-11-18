@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at NX Newcastle, Newcastle on Sat, 21 Nov 2026.
+Interplanetary Criminal is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NX Newcastle, Newcastle on Sat, 21 Nov 2026.
 
 Interplanetary Criminal is a garage and house artist based in United Kingdom, with 278 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 82 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: NX Newcastle, Newcastle on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 
 Main Phase, MALUGI, KI/KI
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

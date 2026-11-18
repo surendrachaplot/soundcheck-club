@@ -1,6 +1,6 @@
 # Dazzle Drums
 
-Dazzle Drums is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 20 Nov 2026.
+Dazzle Drums is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 20 Nov 2026.
 
 Dazzle Drums is a house and techno artist based in Japan, with 280 gigs on soundcheck across Amsterdam, Barcelona, Kanto and Kyoto and 8 more. Often billed alongside Toshio Matsuura, MINAMI and DJ Emma. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ Dazzle Drums is a house and techno artist based in Japan, with 280 gigs on sound
 
 Toshio Matsuura, MINAMI, DJ Emma
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*

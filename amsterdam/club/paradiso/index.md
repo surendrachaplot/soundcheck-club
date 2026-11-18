@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "KÖLSCH & THE MACHINE" on Thu, 19 Nov 2026.
+Paradiso is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "KÖLSCH & THE MACHINE" on Thu, 19 Nov 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Dynamax, Gysèle, Kobe and Kölsch and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -19,4 +19,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, wi
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

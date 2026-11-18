@@ -1,6 +1,6 @@
 # Miles Amillion
 
-Miles Amillion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Boombox, Miami on Sat, 28 Nov 2026.
+Miles Amillion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Boombox, Miami on Sat, 28 Nov 2026.
 
 Miles Amillion is a house and techno artist, with 6 gigs on soundcheck across Miami. Often billed alongside Mauricio, The Invisible, Alexx in Chainss and CHAOS!. Next up: The Boombox, Miami on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Miles Amillion is a house and techno artist, with 6 gigs on soundcheck across Mi
 
 Mauricio, The Invisible, Alexx in Chainss, CHAOS!
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesamillion/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesamillion/)*

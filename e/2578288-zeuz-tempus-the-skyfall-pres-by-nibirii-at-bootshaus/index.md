@@ -1,6 +1,6 @@
 # ZEUZ - TEMPUS THE SKYFALL pres by NIBIRII at Bootshaus
 
-ZEUZ - TEMPUS THE SKYFALL pres by NIBIRII at Bootshaus on Fri 15 Jan, Cologne. 1 artist: ZEUZ. See the line-up on soundcheck.
+ZEUZ - TEMPUS THE SKYFALL pres by NIBIRII at Bootshaus on Fri 15 Jan, Cologne. 1 artist: ZEUZ. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

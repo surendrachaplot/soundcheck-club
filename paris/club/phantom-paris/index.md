@@ -1,6 +1,6 @@
 # Phantom, Paris
 
-Phantom, Paris is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Phantom : Funk Tribu Presents Tribe Paris" on Fri, 20 Nov 2026.
+Phantom, Paris is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Phantom : Funk Tribu Presents Tribe Paris" on Fri, 20 Nov 2026.
 
 Phantom, Paris is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including 2HOT2PLAY, Bassjackers, Ben Klock and Cloudy and 2 more. See dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
 
@@ -19,4 +19,4 @@ Phantom, Paris is a music venue in Paris listed on soundcheck. 6 upcoming gigs, 
 
 8 Bd de Bercy, 75012 Paris, France, Paris
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*

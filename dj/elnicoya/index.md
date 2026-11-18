@@ -1,14 +1,15 @@
 # El Nicoya
 
-El Nicoya is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
+El Nicoya is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
 
-El Nicoya is a house and disco artist based in Belgium, with 4 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Adam Bkr, Midnight Voodoo and Tocai. Next up: Het Dorp, Amsterdam on Fri 20 Nov.
+El Nicoya is a funk / soul and house artist based in Belgium, with 5 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Adam Bkr, Midnight Voodoo and Tocai. Next up: Het Dorp, Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Het Dorp | Amsterdam |
+| Fri, 4 Dec 2026 | Paramour | Brussels |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ El Nicoya is a house and disco artist based in Belgium, with 4 gigs on soundchec
 
 Adam Bkr, Midnight Voodoo, Tocai
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elnicoya/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elnicoya/)*

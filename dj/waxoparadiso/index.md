@@ -1,14 +1,15 @@
 # Wax'o Paradiso
 
-Wax'o Paradiso is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Collingwood Yards, Melbourne on Sun, 6 Dec 2026.
+Wax'o Paradiso is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Collingwood Yards, Melbourne on Sun, 6 Dec 2026.
 
-Wax'o Paradiso is a house and balearic artist based in Australia, with 61 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 11 more. Often billed alongside DAWS, Kia (AU) and Lauren Hansom. Next up: Collingwood Yards, Melbourne on Sun 6 Dec.
+Wax'o Paradiso is a house and balearic artist based in Australia, with 62 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 11 more. Often billed alongside DAWS, Kia (AU) and Lauren Hansom. Next up: Collingwood Yards, Melbourne on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Collingwood Yards | Melbourne |
+| Sat, 19 Dec 2026 | Club 77 | Sydney |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
@@ -26,4 +27,4 @@ Wax'o Paradiso is a house and balearic artist based in Australia, with 61 gigs o
 
 DAWS, Kia (AU), Lauren Hansom
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*

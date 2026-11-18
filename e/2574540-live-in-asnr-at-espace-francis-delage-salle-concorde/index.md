@@ -1,6 +1,6 @@
 # Live_in_asnr at Espace Francis Delage - Salle Concorde
 
-Live_in_asnr at Espace Francis Delage - Salle Concorde on Sat 28 Nov, Paris. 3 artists: DJ Deep, Flo Massé and Floorfillers. House and Deep House. See the line-up on soundcheck.
+Live_in_asnr at Espace Francis Delage - Salle Concorde on Sat 28 Nov, Paris. 4 artists: DJ Deep, Flo Massé, Floorfillers and Hannita. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Live_in_asnr at Espace Francis Delage - Salle Concorde on Sat 28 Nov, Paris. 3 a
 - DJ Deep
 - Flo Massé
 - Floorfillers (1)
+- Hannita
 
 *Source: [soundcheck](https://soundcheck.club/e/2574540-live-in-asnr-at-espace-francis-delage-salle-concorde/)*

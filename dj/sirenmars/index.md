@@ -1,13 +1,14 @@
 # Siren Mars
 
-Siren Mars is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Igloofest, Montreal on Sat, 6 Feb 2027.
+Siren Mars is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Los Angeles on Fri, 27 Nov 2026.
 
-Siren Mars is a techno and electro artist based in Canada, with 31 gigs on soundcheck across Los Angeles and Montreal. Often billed alongside Monib, Claireyy and Mossy Mugler. Next up: Igloofest, Montreal on Sat 6 Feb.
+Siren Mars is a techno and electro artist based in Canada, with 32 gigs on soundcheck across Los Angeles and Montreal. Often billed alongside Monib, Claireyy and Mossy Mugler. Next up: TBA, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA | Los Angeles |
 | Sat, 6 Feb 2027 | Igloofest | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Siren Mars is a techno and electro artist based in Canada, with 31 gigs on sound
 
 Monib, Claireyy, Mossy Mugler
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirenmars/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirenmars/)*

@@ -1,6 +1,6 @@
 # Dog on Acid
 
-Dog on Acid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
+Dog on Acid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
 
 Dog on Acid is a techno and house artist based in Sweden, with 19 gigs on soundcheck across Amsterdam, Berlin, Dublin and Gothenburg and 2 more. Often billed alongside Psykoterapi, Jessie Granqvist and Ayham. Next up: TBA - Secret Location, Stockholm on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dog on Acid is a techno and house artist based in Sweden, with 19 gigs on soundc
 
 Psykoterapi, Jessie Granqvist, Ayham
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogonacid/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogonacid/)*

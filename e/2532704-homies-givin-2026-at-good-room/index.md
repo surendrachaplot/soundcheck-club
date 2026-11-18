@@ -1,6 +1,6 @@
 # Homies Givin' 2026 at Good Room
 
-Homies Givin' 2026 at Good Room on Thu 19 Nov, New York City. 4 artists: Extra Meesh, gabby cocco, Papa and TYLERFROMWHERE. House and Acid. See the line-up on soundcheck.
+Homies Givin' 2026 at Good Room on Thu 19 Nov, New York City. 4 artists: Extra Meesh, gabby cocco, PAPA (US) and TYLERFROMWHERE. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Homies Givin' 2026 at Good Room on Thu 19 Nov, New York City. 4 artists: Extra M
 
 - Extra Meesh
 - gabby cocco
-- Papa
+- PAPA (US)
 - TYLERFROMWHERE
 
 *Source: [soundcheck](https://soundcheck.club/e/2532704-homies-givin-2026-at-good-room/)*

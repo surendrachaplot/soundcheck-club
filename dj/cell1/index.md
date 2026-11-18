@@ -1,6 +1,6 @@
 # cell1
 
-cell1 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 20 Nov 2026.
+cell1 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 20 Nov 2026.
 
 cell1 is a techno and trance artist, with 51 gigs on soundcheck across Berlin and Dresden. Often billed alongside Al Aslan, Sievert Serviert and Blck-Swan. Next up: DNA. CLUB, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ cell1 is a techno and trance artist, with 51 gigs on soundcheck across Berlin an
 
 Al Aslan, Sievert Serviert, Blck-Swan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*

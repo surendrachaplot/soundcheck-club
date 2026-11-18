@@ -1,6 +1,6 @@
 # Coda
 
-Coda is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "ANNA" on Fri, 20 Nov 2026.
+Coda is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "ANNA" on Fri, 20 Nov 2026.
 
 Coda is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Addy, Cam Stockman, CRISTI:ANA and ANNA and 2 more. See dates, start times and who's playing. 794 Bathurst St.
 
@@ -23,4 +23,4 @@ Coda is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with li
 
 794 Bathurst St, Toronto
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

@@ -1,6 +1,6 @@
 # KASSA Short Circuit w/ Colin Benders at Kassa Boat
 
-KASSA Short Circuit w/ Colin Benders at Kassa Boat on Fri 4 Dec, Budapest. 2 artists: Cvrdwell and LAU. Techno. See the line-up on soundcheck.
+KASSA Short Circuit w/ Colin Benders at Kassa Boat on Fri 4 Dec, Budapest. 3 artists: Cvrdwell, Drinknowhine and LAU. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ KASSA Short Circuit w/ Colin Benders at Kassa Boat on Fri 4 Dec, Budapest. 2 art
 ## Line-up
 
 - Cvrdwell
+- Drinknowhine
 - LAU (6)
 
 *Source: [soundcheck](https://soundcheck.club/e/2578690-kassa-short-circuit-w-colin-benders-at-kassa-boat/)*

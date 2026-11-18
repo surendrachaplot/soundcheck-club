@@ -1,6 +1,6 @@
 # Hotel Ziggy
 
-Hotel Ziggy is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Eris Talent x Searchlight Pictures: Winter Wonderland Holiday Party" on Sat, 5 Dec 2026.
+Hotel Ziggy is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Eris Talent x Searchlight Pictures: Winter Wonderland Holiday Party" on Sat, 5 Dec 2026.
 
 Hotel Ziggy is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 8462 Sunset Blvd, West Hollywood, CA 90069.
 
@@ -18,4 +18,4 @@ Hotel Ziggy is a music venue in Los Angeles listed on soundcheck. 5 upcoming gig
 
 8462 Sunset Blvd, West Hollywood, CA 90069, Los Angeles
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*

@@ -1,14 +1,15 @@
 # MKO (PL)
 
-MKO (PL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Jasna 1, Warsaw on Fri, 20 Nov 2026.
+MKO (PL) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Jasna 1, Warsaw on Fri, 20 Nov 2026.
 
-MKO (PL) is a techno and house artist based in Poland, with 87 gigs on soundcheck across Berlin, Krakow, Manchester and Poznan and 5 more. Often billed alongside PAWEL (PL), Kovvalsky and Ola Teks. Next up: Jasna 1, Warsaw on Fri 20 Nov.
+MKO (PL) is a techno and house artist based in Poland, with 88 gigs on soundcheck across Berlin, Krakow, Manchester and Poznan and 5 more. Often billed alongside PAWEL (PL), Kovvalsky and Ola Teks. Next up: Jasna 1, Warsaw on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Jasna 1 | Warsaw |
+| Fri, 4 Dec 2026 | Jasna 1 | Warsaw |
 | Fri, 11 Dec 2026 | Ciało | Wroclaw |
 
 ## Recently played
@@ -26,4 +27,4 @@ MKO (PL) is a techno and house artist based in Poland, with 87 gigs on soundchec
 
 PAWEL (PL), Kovvalsky, Ola Teks
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*

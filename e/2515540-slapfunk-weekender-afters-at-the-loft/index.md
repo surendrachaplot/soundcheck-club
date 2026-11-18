@@ -1,6 +1,6 @@
 # SlapFunk Weekender - AFTERS at The Loft
 
-SlapFunk Weekender - AFTERS at The Loft on Sat 28 Nov, Manchester. 8 artists: Alexander Skancke, Captain Wallop, DJ Senc and Doudou MD and 4 more. See the line-up on soundcheck.
+SlapFunk Weekender - AFTERS at The Loft on Sat 28 Nov, Manchester. 3 artists: Alexander Skancke, DJ Senc and Doudou MD. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,7 @@ SlapFunk Weekender - AFTERS at The Loft on Sat 28 Nov, Manchester. 8 artists: Al
 ## Line-up
 
 - Alexander Skancke
-- Captain Wallop
 - DJ Senc
 - Doudou MD
-- Fumiya Tanaka
-- Georgia
-- Nathalie Seres
-- Wax Material
 
 *Source: [soundcheck](https://soundcheck.club/e/2515540-slapfunk-weekender-afters-at-the-loft/)*

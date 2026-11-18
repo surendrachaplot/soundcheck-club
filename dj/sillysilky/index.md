@@ -1,13 +1,14 @@
 # Silly Silky
 
-Silly Silky is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bolero, Seoul on Thu, 19 Nov 2026.
+Silly Silky is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Thu, 19 Nov 2026.
 
-Silly Silky is a house and tech house artist based in South Korea, with 12 gigs on soundcheck across Chubu and Seoul. Often billed alongside Departs, Demuk and Jaebin. Next up: Bolero, Seoul on Thu 19 Nov.
+Silly Silky is a house and tech house artist based in South Korea, with 13 gigs on soundcheck across Chubu and Seoul. Often billed alongside Departs, Demuk and Jaebin. Next up: Bolero, Seoul on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Bolero | Seoul |
 | Thu, 19 Nov 2026 | Bolero | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Silly Silky is a house and tech house artist based in South Korea, with 12 gigs 
 
 Departs, Demuk, Jaebin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*

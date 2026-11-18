@@ -1,6 +1,6 @@
 # Luigi Madonna
 
-Luigi Madonna is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 28 Nov 2026.
+Luigi Madonna is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 28 Nov 2026.
 
 Luigi Madonna is a techno and tech house artist based in Italy, with 71 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Indira Paganotto, Joseph Capriati and Markantonio. Next up: THE OTHER SIDE, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Luigi Madonna is a techno and tech house artist based in Italy, with 71 gigs on 
 
 Indira Paganotto, Joseph Capriati, Markantonio
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*

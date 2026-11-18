@@ -1,18 +1,15 @@
 # 331 Old Street
 
-331 Old Street is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Bashment Shoreditch Party - Free Before Midnight" on Fri, 20 Nov 2026.
+331 Old Street is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Afrobeats Meets Amapiano Shoreditch – Everyone Free Before 12AM" on Fri, 27 Nov 2026.
 
-331 Old Street is a music venue in London listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing.
+331 Old Street is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Bashment Shoreditch Party - Free Before Midnight |  |
-| Sat, 21 Nov 2026 | 331 Shoreditch - Hip Hop, Bashment, Afrobeats (Free Tickets) |  |
-| Sat, 21 Nov 2026 | R&B On A Saturday - Shoreditch Free RnB Party |  |
 | Fri, 27 Nov 2026 | Afrobeats Meets Amapiano Shoreditch – Everyone Free Before 12AM |  |
 | Fri, 27 Nov 2026 | 331 Shoreditch - Hip Hop, Bashment, Afrobeats (Free Tickets) |  |
 | Sat, 28 Nov 2026 | R&B On A Saturday - Shoreditch Free RnB Party |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/331-old-street/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/331-old-street/)*

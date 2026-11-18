@@ -1,6 +1,6 @@
 # Alviker
 
-Alviker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sala El Sol, Madrid on Wed, 18 Nov 2026.
+Alviker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala El Sol, Madrid on Wed, 18 Nov 2026.
 
 Alviker is a techno and trance artist based in Spain, with 77 gigs on soundcheck across Bangkok, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside DAVID MENA, Reitze and Alputo. Next up: Sala El Sol, Madrid on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Alviker is a techno and trance artist based in Spain, with 77 gigs on soundcheck
 
 DAVID MENA, Reitze, Alputo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*

@@ -1,6 +1,6 @@
 # Joseph Capriati at Kyo KL
 
-Joseph Capriati at Kyo KL on Thu 26 Nov, Kuala Lumpur. 4 artists: Alam, Axel Groove, Joseph Capriati and Victor G (MY). Techno and House. See the line-up on soundcheck.
+Joseph Capriati at Kyo KL on Thu 26 Nov, Kuala Lumpur. 4 artists: Alam, Axel Groove, Joseph Capriati and Victor G (MY). House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Izzy
 
-Izzy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
+Izzy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
 
-Izzy is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Barcelona, Budapest and London and 6 more. Often billed alongside Comrage, Daniel Morgenstern and A For Alpha. Next up: The Cause, London on Thu 31 Dec.
+Izzy is a house and tech house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Barcelona, Budapest and London and 6 more. Often billed alongside Comrage, Daniel Morgenstern and A For Alpha. Next up: The Cause, London on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | The Cause | London |
+| Fri, 1 Jan 2027 | All My Friends | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Izzy is a house and techno artist based in United States of America, with 22 gig
 
 Comrage, Daniel Morgenstern, A For Alpha
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzy/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzy/)*

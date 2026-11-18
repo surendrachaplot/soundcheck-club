@@ -1,6 +1,6 @@
 # David Gaviria
 
-David Gaviria is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Flash, Washington DC on Fri, 18 Dec 2026.
+David Gaviria is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Flash, Washington DC on Fri, 18 Dec 2026.
 
 David Gaviria is a house and minimal artist based in United States of America, with 10 gigs on soundcheck across New York City and Washington DC. Often billed alongside Pablo Flor, Juan Toca Rico and Camila Wolf. Next up: Flash, Washington DC on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ David Gaviria is a house and minimal artist based in United States of America, w
 
 Pablo Flor, Juan Toca Rico, Camila Wolf
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgaviria/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgaviria/)*

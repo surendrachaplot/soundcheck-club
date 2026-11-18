@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Lucid Dreaming - 15 Years Anniversary with Seba (SE)" on Fri, 20 Nov 2026.
+Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Lucid Dreaming - 15 Years Anniversary with Seba (SE)" on Fri, 20 Nov 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including AAguilAA, Abriss Andrej, Alex Pastore and Anna Hoeber and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -10,7 +10,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wit
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Lucid Dreaming - 15 Years Anniversary with Seba (SE) | CainDNB, Dirty Plates, MARIE.MOON, Seba, Shaded Lines, Upzet |
 | Sat, 21 Nov 2026 | Ziber BERLIN ☆ THIEVES | AAguilAA, BLEACH.LIVE, ELITEWASTE, Glotzer, Melanie Havens, Merlin Cum, Miro Von, RAGE (3), SXCL, ilbroccolovolante, tigerdisco |
-| Fri, 27 Nov 2026 | Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 | Abriss Andrej, Alex Pastore, Anton Quasi, Billain, DAHRAXT, IHOPEIEXIST, Kenzura, Krushak, RMW (DE), Torn (RU), icanseesounds, nillonollin |
+| Fri, 27 Nov 2026 | Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 | Abriss Andrej, Alex Pastore, Anton Quasi, Billain, DAHRAXT, Erotic Cafe', IHOPEIEXIST, Kenzura, Krushak, RMW (DE), Torn (RU), icanseesounds, nillonollin |
 | Sat, 28 Nov 2026 | 8 Years Expedicion with Mountain (JP), Jabba, Jumpat, Upzet, Iza, edgarwilles, Astraluna | Crashkitt, IZA (6), Jame Zname, Kimby, Upzet, Wi5dom, edgarwilles, kogo.berlin |
 | Fri, 4 Dec 2026 | LAYYYERED | Brunce, DJ Dios, DJ Spaßgetränk, FRÆNCIS, HannaHandarbeit, JENKA, Joung Philip, KYUB, Konsument, Maurice Werner, NIKØ, subcutan |
 | Sat, 5 Dec 2026 | Infected x Torque with Rootcreek, Upzet, Ānna Meā, Modulatos, Mavidius | Mavidius, Modulatos, Upzet |
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

@@ -1,6 +1,6 @@
 # Happy Hour: Resonance with Cow Tools, keenus, ConCon at Bossa Nova Civic Club
 
-Happy Hour: Resonance with Cow Tools, keenus, ConCon at Bossa Nova Civic Club on Sat 9 Jan, New York City. 2 artists: ConCon and Cow Tools. Ambient and Downtempo. See the line-up on soundcheck.
+Happy Hour: Resonance with Cow Tools, keenus, ConCon at Bossa Nova Civic Club on Sat 9 Jan, New York City. 3 artists: ConCon, Cow Tools and keenus. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Happy Hour: Resonance with Cow Tools, keenus, ConCon at Bossa Nova Civic Club on
 
 - ConCon
 - Cow Tools
+- keenus
 
 *Source: [soundcheck](https://soundcheck.club/e/2585404-happy-hour-resonance-with-cow-tools-keenus-concon-at-bossa-n/)*

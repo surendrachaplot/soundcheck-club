@@ -1,6 +1,6 @@
 # KIRARA
 
-KIRARA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Super7, Lyon on Fri, 20 Nov 2026.
+KIRARA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Super7, Lyon on Fri, 20 Nov 2026.
 
 KIRARA is a techno and club artist based in South Korea, with 31 gigs on soundcheck across Amsterdam, Brussels, Lyon and Manchester and 7 more. Often billed alongside Ligrye, NET GALA and Seesea. Next up: Super7, Lyon on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ KIRARA is a techno and club artist based in South Korea, with 31 gigs on soundch
 
 Ligrye, NET GALA, Seesea
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirara/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirara/)*

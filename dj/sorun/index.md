@@ -1,6 +1,6 @@
 # Sorun
 
-Sorun is a Breakbeat and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Rex Club, Paris on Sat, 5 Dec 2026.
+Sorun is a Breakbeat and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Rex Club, Paris on Sat, 5 Dec 2026.
 
 Sorun is a breakbeat and club artist based in France, with 31 gigs on soundcheck across Marseille and Paris. Often billed alongside DJ FRRR, BJF and Jiken. Next up: Rex Club, Paris on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sorun is a breakbeat and club artist based in France, with 31 gigs on soundcheck
 
 DJ FRRR, BJF, Jiken
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sorun/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sorun/)*

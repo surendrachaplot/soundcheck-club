@@ -1,6 +1,6 @@
 # Hiroshi Watanabe
 
-Hiroshi Watanabe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kieth Flack, Kyushu on Sun, 13 Dec 2026.
+Hiroshi Watanabe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kieth Flack, Kyushu on Sun, 13 Dec 2026.
 
 Hiroshi Watanabe is a techno and house artist based in Japan, with 26 gigs on soundcheck across Kyoto, Kyushu, Osaka and Tokyo. Often billed alongside Takayuki Kamiya, Kaito and Spinnage. Next up: Kieth Flack, Kyushu on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Hiroshi Watanabe is a techno and house artist based in Japan, with 26 gigs on so
 
 Takayuki Kamiya, Kaito, Spinnage
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroshiwatanabe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroshiwatanabe/)*

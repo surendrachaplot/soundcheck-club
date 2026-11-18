@@ -1,6 +1,6 @@
 # Simon Felix
 
-Simon Felix is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Le Maquis Club, Hanoi on Fri, 20 Nov 2026.
+Simon Felix is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Maquis Club, Hanoi on Fri, 20 Nov 2026.
 
 Simon Felix is a house and acid artist based in Vietnam, with 18 gigs on soundcheck across Hanoi, Melbourne and Seoul. Often billed alongside Sacre, NaiBan and Paperkraft. Next up: Le Maquis Club, Hanoi on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Simon Felix is a house and acid artist based in Vietnam, with 18 gigs on soundch
 
 Sacre, NaiBan, Paperkraft
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfelix/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfelix/)*

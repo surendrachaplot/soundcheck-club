@@ -1,6 +1,6 @@
 # SVESDA
 
-SVESDA is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
+SVESDA is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
 
 SVESDA is an electronic artist based in Spain, with 5 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Gleezy, Alvaro Cabana and DFUNKLUB. Next up: Bridge 48, Barcelona on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ SVESDA is an electronic artist based in Spain, with 5 gigs on soundcheck across 
 
 Gleezy, Alvaro Cabana, DFUNKLUB
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svesda/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svesda/)*

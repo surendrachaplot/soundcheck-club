@@ -1,6 +1,6 @@
 # Sweater
 
-Sweater is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bastet, Philadelphia on Fri, 11 Dec 2026.
+Sweater is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bastet, Philadelphia on Fri, 11 Dec 2026.
 
 Sweater is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Berlin, Boston, Cleveland and Los Angeles and 4 more. Often billed alongside John Raffaele, DJ Dre and Keen. Next up: Bastet, Philadelphia on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Sweater is a house and techno artist based in United States of America, with 55 
 
 John Raffaele, DJ Dre, Keen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*

@@ -1,13 +1,14 @@
 # Stazia
 
-Stazia is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at StereoBar, Montreal on Fri, 27 Nov 2026.
+Stazia is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Vertigo, Toronto on Fri, 20 Nov 2026.
 
-Stazia is a house and tech house artist based in Canada, with 24 gigs on soundcheck across Montreal and Toronto. Often billed alongside RUDEE NIK, Manzone & Strong and Jonathan Rosa. Next up: StereoBar, Montreal on Fri 27 Nov.
+Stazia is a house and tech house artist based in Canada, with 25 gigs on soundcheck across Montreal and Toronto. Often billed alongside RUDEE NIK, Manzone & Strong and Tabbara. Next up: Vertigo, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Vertigo | Toronto |
 | Fri, 27 Nov 2026 | StereoBar | Montreal |
 
 ## Recently played
@@ -23,6 +24,6 @@ Stazia is a house and tech house artist based in Canada, with 24 gigs on soundch
 
 ## Shares bills with
 
-RUDEE NIK, Manzone & Strong, Jonathan Rosa
+RUDEE NIK, Manzone & Strong, Tabbara
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stazia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stazia/)*

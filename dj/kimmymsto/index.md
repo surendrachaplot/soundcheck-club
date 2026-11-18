@@ -1,8 +1,8 @@
 # Kimmy Msto
 
-Kimmy Msto is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at La Cova, Hamburg on Sat, 21 Nov 2026.
+Kimmy Msto is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Cova, Hamburg on Sat, 21 Nov 2026.
 
-Kimmy Msto is a techno and industrial artist, with 6 gigs on soundcheck across Berlin, Hamburg, Hannover and Karlsruhe. Often billed alongside Afem Syko, Alva and Anthony Parasole. Next up: La Cova, Hamburg on Sat 21 Nov.
+Kimmy Msto is a techno and industrial artist based in Syria, with 6 gigs on soundcheck across Berlin, Hamburg, Hannover and Karlsruhe. Often billed alongside Afem Syko, Alva and Anthony Parasole. Next up: La Cova, Hamburg on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Kimmy Msto is a techno and industrial artist, with 6 gigs on soundcheck across B
 
 Afem Syko, Alva, Anthony Parasole
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmymsto/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmymsto/)*

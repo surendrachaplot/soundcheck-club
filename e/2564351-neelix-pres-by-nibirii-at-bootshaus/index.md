@@ -1,6 +1,6 @@
 # NEELIX pres. by NIBIRII at Bootshaus
 
-NEELIX pres. by NIBIRII at Bootshaus on Fri 27 Nov, Cologne. 3 artists: DELTA LABS, Johan (PT) and Momentune. See the line-up on soundcheck.
+NEELIX pres. by NIBIRII at Bootshaus on Fri 27 Nov, Cologne. 3 artists: DELTA LABS, Johan (PT) and Momentune. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

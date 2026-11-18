@@ -1,6 +1,6 @@
 # GLOW (KR)
 
-GLOW (KR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ring, Seoul on Fri, 20 Nov 2026.
+GLOW (KR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ring, Seoul on Fri, 20 Nov 2026.
 
 GLOW (KR) is a house and techno artist based in South Korea, with 22 gigs on soundcheck across Bangkok, Melbourne and Seoul. Often billed alongside Antwork, .2ndfloor and Bae.. Next up: Ring, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ GLOW (KR) is a house and techno artist based in South Korea, with 22 gigs on sou
 
 Antwork, .2ndfloor, Bae.
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glow-kr/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glow-kr/)*

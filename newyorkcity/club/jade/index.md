@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Vinyl Open Deck, hosted by Subcultures" on Wed, 18 Nov 2026.
+Jade is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Vinyl Open Deck, hosted by Subcultures" on Wed, 18 Nov 2026.
 
 Jade is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including DJ mouthbreather, ILUVDOMRICH, Jake Korolev and Mago (US) and 2 more. See dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -16,4 +16,4 @@ Jade is a music venue in New York City listed on soundcheck. 3 upcoming gigs, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

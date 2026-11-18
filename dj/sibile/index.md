@@ -1,8 +1,8 @@
 # Sibilë
 
-Sibilë is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kongresai, Vilnius on Fri, 11 Dec 2026.
+Sibilë is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kongresai, Vilnius on Fri, 11 Dec 2026.
 
-Sibilë is a house and electronica artist, with 7 gigs on soundcheck across Vilnius. Often billed alongside Lukenzo, Acid Pauli and Aiste Regina. Next up: Kongresai, Vilnius on Fri 11 Dec.
+Sibilë is a house and electronica artist based in Lithuania, with 7 gigs on soundcheck across Vilnius. Often billed alongside Lukenzo, Acid Pauli and Aiste Regina. Next up: Kongresai, Vilnius on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Sibilë is a house and electronica artist, with 7 gigs on soundcheck across Viln
 
 Lukenzo, Acid Pauli, Aiste Regina
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibile/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibile/)*

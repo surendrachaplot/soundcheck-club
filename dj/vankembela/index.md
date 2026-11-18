@@ -1,8 +1,8 @@
 # Van Kembela
 
-Van Kembela is a Dembow and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Van Kembela is a Dembow and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Van Kembela is a dembow and afrobeat artist, with 5 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Vandel, Adi (CO) and Andrea Arias. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Van Kembela is a dembow and afrobeat artist, with 5 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Vandel, Adi (CO) and Alejandro Bernal. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Van Kembela is a dembow and afrobeat artist, with 5 gigs on soundcheck across Bo
 
 ## Shares bills with
 
-Vandel, Adi (CO), Andrea Arias
+Vandel, Adi (CO), Alejandro Bernal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vankembela/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vankembela/)*

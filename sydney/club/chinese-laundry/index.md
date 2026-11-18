@@ -1,8 +1,8 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Chinese Laundry Invites JESSE MASS [NL] + Ahadadream" on Fri, 20 Nov 2026.
+Chinese Laundry is a music venue in Sydney with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Chinese Laundry Invites JESSE MASS [NL] + Ahadadream" on Fri, 20 Nov 2026.
 
-Chinese Laundry is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Ahadadream, Andre Zimmer, Blasha & Allatt and Couch Mechanic and 2 more. See dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
+Chinese Laundry is a music venue in Sydney listed on soundcheck. 5 upcoming gigs, with line-ups including Ahadadream, Andre Zimmer, Blasha & Allatt and Couch Mechanic and 2 more. See dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
@@ -11,10 +11,11 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 4 upcoming gigs
 | Fri, 20 Nov 2026 | Chinese Laundry Invites JESSE MASS [NL] + Ahadadream | Ahadadream, Jesse Maas |
 | Sat, 21 Nov 2026 | Chinese Laundry Invites RIRIA [JP] + METHOD PROJECT FT. Luca Garcia [DE] & Mixed Methods | Luca Garcia, Mixed Methods, RIRIA, Shutupgeorgia, Silly Lily |
 | Fri, 27 Nov 2026 | Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLAT + Andre Zimmer + PARTIGIRL | Andre Zimmer, Blasha & Allatt, Couch Mechanic, Mehmet Alpdogan, Mimi J, PARTIGIRL |
+| Sat, 28 Nov 2026 | Chinese Laundry Invites HABIBI HOUSE MAFIA [ALL NIGHT LONG] + STRANGE CADENCE FT GOOSE |  |
 | Fri, 11 Dec 2026 | Chinese Laundry Invites BUMP IN [FULL VENUE TAKEOVER] FT. Smokey Bubblin' B [UK] + Inafekt [UK] | Inafekt, Smokey Bubblin' B |
 
 ## Address
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

@@ -1,8 +1,8 @@
 # Danya (DE)
 
-Danya (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 20 Nov 2026.
+Danya (DE) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 20 Nov 2026.
 
-Danya (DE) is a techno and house artist based in Greece, with 57 gigs on soundcheck across Athens, Berlin, Dortmund / Essen and Hamburg and 8 more. Often billed alongside SIX DIMENSIONS, GRØMM and ATAVEM. Next up: Golden Pudel Club, Hamburg on Fri 20 Nov.
+Danya (DE) is a techno and house artist based in Greece, with 58 gigs on soundcheck across Athens, Berlin, Dortmund / Essen and Hamburg and 8 more. Often billed alongside SIX DIMENSIONS, GRØMM and ATAVEM. Next up: Golden Pudel Club, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danya (DE) is a techno and house artist based in Greece, with 57 gigs on soundch
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Golden Pudel Club | Hamburg |
 | Sat, 28 Nov 2026 | Lieberscholli | Munich |
+| Sat, 5 Dec 2026 | Slot | Hamburg |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Danya (DE) is a techno and house artist based in Greece, with 57 gigs on soundch
 
 SIX DIMENSIONS, GRØMM, ATAVEM
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*

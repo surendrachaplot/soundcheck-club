@@ -1,6 +1,6 @@
 # FRIED 'Socially Acceptable' Launch Party at Living Womb
 
-FRIED 'Socially Acceptable' Launch Party at Living Womb on Fri 20 Nov, London. 1 artist: glas___skin. Electro and Electronica. See the line-up on soundcheck.
+FRIED 'Socially Acceptable' Launch Party at Living Womb on Fri 20 Nov, London. 2 artists: glas___skin and KAPCHA. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ FRIED 'Socially Acceptable' Launch Party at Living Womb on Fri 20 Nov, London. 1
 ## Line-up
 
 - glas___skin
+- KAPCHA
 
 *Source: [soundcheck](https://soundcheck.club/e/2570213-fried-socially-acceptable-launch-party-at-living-womb/)*

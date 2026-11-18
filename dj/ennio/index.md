@@ -1,6 +1,6 @@
 # ENNIO
 
-ENNIO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at OHM, Berlin on Thu, 26 Nov 2026.
+ENNIO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at OHM, Berlin on Thu, 26 Nov 2026.
 
 ENNIO is a techno and house artist, with 95 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 19 more. Often billed alongside HAMY, Faerber and N.R.M. Next up: OHM, Berlin on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ ENNIO is a techno and house artist, with 95 gigs on soundcheck across Amsterdam,
 
 HAMY, Faerber, N.R.M
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*

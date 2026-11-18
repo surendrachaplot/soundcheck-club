@@ -1,6 +1,6 @@
 # The Club (Málaga)
 
-The Club (Málaga) is a music venue in Malaga with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Hello Weekend: house & uk garage" on Thu, 19 Nov 2026.
+The Club (Málaga) is a music venue in Malaga with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Hello Weekend: house & uk garage" on Thu, 19 Nov 2026.
 
 The Club (Málaga) is a music venue in Malaga listed on soundcheck. 6 upcoming gigs, with line-ups including Caliente Isa, Daniel Kelsan, Le Coné and Nukki and 1 more. See dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
 
@@ -19,4 +19,4 @@ The Club (Málaga) is a music venue in Malaga listed on soundcheck. 6 upcoming g
 
 Plaza San Francisco 8 29008 Malaga España, Malaga
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*

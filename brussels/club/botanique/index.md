@@ -1,6 +1,6 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Maria Arnal - Bulie Jordeaux" on Wed, 18 Nov 2026.
+Botanique is a music venue in Brussels with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Maria Arnal - Bulie Jordeaux" on Wed, 18 Nov 2026.
 
 Botanique is a music venue in Brussels listed on soundcheck. 15 upcoming gigs, with line-ups including Anton Friisgaard, Aponogeton, Baba Stiltz and Ben Bertrand and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
@@ -23,4 +23,4 @@ Botanique is a music venue in Brussels listed on soundcheck. 15 upcoming gigs, w
 
 Koningsstraat 236, 1210 Brussels, Belgium, Brussels
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*

@@ -1,8 +1,8 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Shimza is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
-Shimza is an afro house and house artist based in South Africa, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
+Shimza is an afro house and house artist based in South Africa, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Shimza is an afro house and house artist based in South Africa, with 165 gigs on
 | Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 | Fri, 1 Jan 2027 | The Ostrich Farm | Cape-town |
+| Sat, 23 Jan 2027 | Bohemia Beach Club | Dubai |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Shimza is an afro house and house artist based in South Africa, with 165 gigs on
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

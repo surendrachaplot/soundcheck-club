@@ -1,6 +1,6 @@
 # Nico Adomako
 
-Nico Adomako is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Paloma, Berlin on Sat, 19 Dec 2026.
+Nico Adomako is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Paloma, Berlin on Sat, 19 Dec 2026.
 
 Nico Adomako is a club and bass artist, with 80 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 8 more. Often billed alongside Mobilegirl, Kanucia and Bok Bok. Next up: Paloma, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Nico Adomako is a club and bass artist, with 80 gigs on soundcheck across Amster
 
 Mobilegirl, Kanucia, Bok Bok
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoadomako/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoadomako/)*

@@ -1,6 +1,6 @@
 # Cruz (PT)
 
-Cruz (PT) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Karmakoma, Belgrade on Fri, 20 Nov 2026.
+Cruz (PT) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Karmakoma, Belgrade on Fri, 20 Nov 2026.
 
 Cruz (PT) is a house and techno artist based in Portugal, with 87 gigs on soundcheck across Barcelona, Belgrade, Bogotá and Dublin and 4 more. Often billed alongside Kaesar, Ze Salvador and Mary B. Next up: Karmakoma, Belgrade on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Cruz (PT) is a house and techno artist based in Portugal, with 87 gigs on soundc
 
 Kaesar, Ze Salvador, Mary B (2)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*

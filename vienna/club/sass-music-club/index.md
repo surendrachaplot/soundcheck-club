@@ -1,6 +1,6 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Bonkers x Belly Dance Services" on Thu, 19 Nov 2026.
+SASS Music Club is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Bonkers x Belly Dance Services" on Thu, 19 Nov 2026.
 
 SASS Music Club is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including -LaLa-, Æ-X, Crazy Sonic and eira haul and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
@@ -17,4 +17,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 4 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

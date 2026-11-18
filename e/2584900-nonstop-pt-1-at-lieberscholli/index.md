@@ -1,6 +1,6 @@
 # NONSTOP PT. 1 at Lieberscholli
 
-NONSTOP PT. 1 at Lieberscholli on Fri 27 Nov, Munich. 6 artists: Boyko, Reduks, Reka Zalan and Rill and 2 more. Techno. See the line-up on soundcheck.
+NONSTOP PT. 1 at Lieberscholli on Fri 27 Nov, Munich. 5 artists: Reduks, Reka Zalan, Rill and Sarica and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ NONSTOP PT. 1 at Lieberscholli on Fri 27 Nov, Munich. 6 artists: Boyko, Reduks, 
 
 ## Line-up
 
-- Boyko
 - Reduks
 - Reka Zalan
 - Rill

@@ -1,13 +1,14 @@
 # Remma
 
-Remma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
+Remma is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ingang, Amsterdam on Sun, 22 Nov 2026.
 
-Remma is a techno and bass artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague. Often billed alongside Woody92, Cobahn and Loek Frey. Next up: ANTIA, Netherlands on Fri 27 Nov.
+Remma is a techno and bass artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague. Often billed alongside Woody92, Cobahn and Loek Frey. Next up: ingang, Amsterdam on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | ingang | Amsterdam |
 | Fri, 27 Nov 2026 | ANTIA | Netherlands |
 
 ## Recently played
@@ -25,4 +26,4 @@ Remma is a techno and bass artist based in Netherlands, with 39 gigs on soundche
 
 Woody92, Cobahn, Loek Frey
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remma/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remma/)*

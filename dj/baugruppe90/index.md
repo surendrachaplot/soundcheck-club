@@ -1,6 +1,6 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Vaag, Antwerp on Sat, 21 Nov 2026.
+BAUGRUPPE90 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Vaag, Antwerp on Sat, 21 Nov 2026.
 
 BAUGRUPPE90 is a techno and house artist based in Germany, with 189 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 61 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: Club Vaag, Antwerp on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ BAUGRUPPE90 is a techno and house artist based in Germany, with 189 gigs on soun
 
 EliaHaze, ferrari rot, Anton Jonathan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

@@ -1,6 +1,6 @@
 # DJ JM
 
-DJ JM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Villa, Oslo on Sat, 21 Nov 2026.
+DJ JM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Villa, Oslo on Sat, 21 Nov 2026.
 
 DJ JM is a techno and bass artist based in Lithuania, with 67 gigs on soundcheck across Athens, Berlin, Bristol and Brussels and 20 more. Often billed alongside TS Kahuna, Amiraku and A.dixen. Next up: The Villa, Oslo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ JM is a techno and bass artist based in Lithuania, with 67 gigs on soundcheck
 
 TS Kahuna, Amiraku, A.dixen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*

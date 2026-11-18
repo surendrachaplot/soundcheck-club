@@ -1,6 +1,6 @@
 # DE BEEST UITHANGEN — 4th Edition at Treehouse NDSM
 
-DE BEEST UITHANGEN — 4th Edition at Treehouse NDSM on Sun 20 Dec, Amsterdam. 4 artists: Lucía Conde, MBQT, Not Yet and Pedro da Mata. Bass and Electronica. See the line-up on soundcheck.
+DE BEEST UITHANGEN — 4th Edition at Treehouse NDSM on Sun 20 Dec, Amsterdam. 5 artists: KateGia, Lucía Conde, MBQT and Not Yet and 1 more. Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DE BEEST UITHANGEN — 4th Edition at Treehouse NDSM on Sun 20 Dec, Amsterdam. 4
 
 ## Line-up
 
+- KateGia (2)
 - Lucía Conde
 - MBQT
 - Not Yet (2)

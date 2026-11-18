@@ -1,6 +1,6 @@
 # Nick León
 
-Nick León is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Video Club, Bogotá on Fri, 20 Nov 2026.
+Nick León is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Video Club, Bogotá on Fri, 20 Nov 2026.
 
 Nick León is a techno and club artist based in United States of America, with 225 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 62 more. Often billed alongside DJ Python, Bitter Babe and Verraco. Next up: Video Club, Bogotá on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Nick León is a techno and club artist based in United States of America, with 2
 
 DJ Python, Bitter Babe, Verraco
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*

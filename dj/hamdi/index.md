@@ -1,6 +1,6 @@
 # Hamdi
 
-Hamdi is a Dubstep and Garage artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Hamdi is a Dubstep and Garage artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Hamdi is a dubstep and garage artist based in Germany, with 68 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 28 more. Often billed alongside MPH, Oppidan and Flava D. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Hamdi is a dubstep and garage artist based in Germany, with 68 gigs on soundchec
 
 MPH (1), Oppidan, Flava D
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*

@@ -1,6 +1,6 @@
 # KONTUR electronic music festival at Retro Mountain Koh Phangan
 
-KONTUR electronic music festival at Retro Mountain Koh Phangan on Thu 14 Jan, Thailand. 11 artists: Amal, Dawn Razor, Geju and Ivan Logos and 7 more. See the line-up on soundcheck.
+KONTUR electronic music festival at Retro Mountain Koh Phangan on Thu 14 Jan, Thailand. 12 artists: Amal, Dawn Razor, Geju and Ivan Logos and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ KONTUR electronic music festival at Retro Mountain Koh Phangan on Thu 14 Jan, Th
 - Montonn Jira
 - Mvxood
 - Sampol
+- Séxstasy
 - Shao
 - Sofia Rodina
 - Symbol

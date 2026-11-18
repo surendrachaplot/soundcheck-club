@@ -1,6 +1,6 @@
 # WE ARE ONE x Pracht at Pracht
 
-WE ARE ONE x Pracht on Wed 2 Dec, Frankfurt. 2 artists: Kacy and PENELOPE (DE). Trance and Techno. See the line-up on soundcheck.
+WE ARE ONE x Pracht on Wed 2 Dec, Frankfurt. 1 artist: Kacy. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ WE ARE ONE x Pracht on Wed 2 Dec, Frankfurt. 2 artists: Kacy and PENELOPE (DE). 
 ## Line-up
 
 - Kacy
-- PENELOPE (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2585365-we-are-one-x-pracht-at-pracht/)*

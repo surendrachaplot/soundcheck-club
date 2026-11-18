@@ -1,6 +1,6 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 20 Nov 2026.
+Hiroko Yamamura is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Hiroko Yamamura is a techno and house artist based in United States of America, with 171 gigs on soundcheck across Amsterdam, Arkansas, Athens and Austin and 45 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Public Works, San Francisco/Oakland on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

@@ -1,14 +1,13 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Only Us - Sleepless Tuesday" on Tue, 17 Nov 2026.
+Distillery is a music venue in Leipzig with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Roman Flügel × nebula" on Sat, 21 Nov 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, with line-ups including 50PHIE, Andreas Eckhardt, Arman John and a:tok and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 9 upcoming gigs, with line-ups including 50PHIE, Andreas Eckhardt, Arman John and a:tok and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | Only Us - Sleepless Tuesday | DJ Schnürschuh, DJ Skonti, Delirante, Feta Felice, InterStella, STRUMM., Shaleen, Timstagram, itsadisasta |
 | Sat, 21 Nov 2026 | Roman Flügel × nebula | Cynthia Matisse, Lea Jessen, Roman Flügel, a:tok, gabbage, moraine, morphin, noxsonos |
 | Fri, 27 Nov 2026 | Synergy 1 |  |
 | Sat, 28 Nov 2026 | ELOTRANCE × DANCE 'N FRIENDS | 50PHIE, Andreas Eckhardt, CARGO (DE), DJ SeXex, DJ Sonnenbrand, DJ Zugzwang, Felix Schwarzenberger, I$A, Thomas Heinrich |
@@ -23,4 +22,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

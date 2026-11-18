@@ -1,6 +1,6 @@
 # Glossy Mario
 
-Glossy Mario is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Cadavra, Madrid on Sat, 21 Nov 2026.
+Glossy Mario is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cadavra, Madrid on Sat, 21 Nov 2026.
 
 Glossy Mario is a house and disco artist based in Spain, with 57 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 9 more. Often billed alongside María Latina, Fuentes-Guerra and Anacalypto. Next up: Cadavra, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Glossy Mario is a house and disco artist based in Spain, with 57 gigs on soundch
 
 María Latina, Fuentes-Guerra, Anacalypto
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glossymario/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glossymario/)*

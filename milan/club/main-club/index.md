@@ -1,6 +1,6 @@
 # Main Club
 
-Main Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "TEKNODIVA NIGHT" on Sat, 21 Nov 2026.
+Main Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "TEKNODIVA NIGHT" on Sat, 21 Nov 2026.
 
 Main Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including ELNA, Evissimax, MerkMine and STABILINDA. See dates, start times and who's playing. Via Carlo Boncompagni, 44, 20139 Milano MI.
 
@@ -15,4 +15,4 @@ Main Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with 
 
 Via Carlo Boncompagni, 44, 20139 Milano MI, Milan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/main-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/main-club/)*

@@ -1,13 +1,13 @@
 # LX
 
-LX is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pay ComEd Bill by Account Number & Phone Number (2026 Quick Guide)" on Sat, 14 Nov 2026.
+LX is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Pay AT&T Bill Without Logging In: Quick Guest Pay & Speedpay Portal" on Sat, 21 Nov 2026.
 
-LX is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including AnD. See dates, start times and who's playing.
+LX is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Pay ComEd Bill by Account Number & Phone Number (2026 Quick Guide) | AnD |
+| Sat, 21 Nov 2026 | Pay AT&T Bill Without Logging In: Quick Guest Pay & Speedpay Portal |  |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/lx/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/lx/)*

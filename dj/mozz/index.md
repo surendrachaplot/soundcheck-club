@@ -1,6 +1,6 @@
 # Mozz
 
-Mozz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Collingwood Basement, Melbourne on Thu, 19 Nov 2026.
+Mozz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Collingwood Basement, Melbourne on Thu, 19 Nov 2026.
 
 Mozz is a techno and house artist based in Australia, with 26 gigs on soundcheck across Frankfurt, Melbourne and Sydney. Often billed alongside jyc., DAVYROE and Sleep Exchange. Next up: Collingwood Basement, Melbourne on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Mozz is a techno and house artist based in Australia, with 26 gigs on soundcheck
 
 jyc., DAVYROE, Sleep Exchange
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mozz/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mozz/)*

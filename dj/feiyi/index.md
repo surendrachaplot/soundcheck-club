@@ -1,6 +1,6 @@
 # FEIYI
 
-FEIYI is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Reactor Shanghai, Shanghai on Thu, 19 Nov 2026.
+FEIYI is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Reactor Shanghai, Shanghai on Thu, 19 Nov 2026.
 
 FEIYI is a techno and club artist based in China, with 61 gigs on soundcheck across Bangkok, Beijing, Berlin and Chengdu and 9 more. Often billed alongside ZHUO, DJ EBP and arow. Next up: Reactor Shanghai, Shanghai on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ FEIYI is a techno and club artist based in China, with 61 gigs on soundcheck acr
 
 ZHUO, DJ EBP, arow
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feiyi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feiyi/)*

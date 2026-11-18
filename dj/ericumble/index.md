@@ -1,6 +1,6 @@
 # Eric Umble
 
-Eric Umble is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at public records, New York City on Thu, 3 Dec 2026.
+Eric Umble is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at public records, New York City on Thu, 3 Dec 2026.
 
 Eric Umble is a techno and house artist based in United States of America, with 57 gigs on soundcheck across Chicago, Denver, Detroit and New York City and 1 more. Often billed alongside Mark Holcomb, Rebecca Goldberg and Elle Dee. Next up: public records, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Eric Umble is a techno and house artist based in United States of America, with 
 
 Mark Holcomb, Rebecca Goldberg, Elle Dee
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericumble/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericumble/)*

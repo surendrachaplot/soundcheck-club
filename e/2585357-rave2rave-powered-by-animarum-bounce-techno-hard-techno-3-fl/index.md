@@ -1,6 +1,6 @@
 # RAVE2RAVE powered by Animarum: Bounce, Techno, Hard Techno (3 Floors) | 5€ Early Entry at Void Club
 
-RAVE2RAVE powered by Animarum: Bounce, Techno, Hard Techno (3 Floors) | 5€ Early Entry at Void Club on Fri 29 Jan, Berlin. 4 artists: Gerrit X, Patrick Scuro, RichBeat and Sievert Serviert. Trance and Techno. See the line-up on soundcheck.
+RAVE2RAVE powered by Animarum: Bounce, Techno, Hard Techno (3 Floors) | 5€ Early Entry at Void Club on Fri 29 Jan, Berlin. 6 artists: dB.R, Gerrit X, Ola Roström and Patrick Scuro and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ RAVE2RAVE powered by Animarum: Bounce, Techno, Hard Techno (3 Floors) | 5€ Ear
 
 ## Line-up
 
+- dB.R
 - Gerrit X
+- Ola Roström
 - Patrick Scuro
 - RichBeat
 - Sievert Serviert

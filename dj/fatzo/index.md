@@ -1,8 +1,8 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Independent, San Francisco/Oakland on Sat, 28 Nov 2026.
+Fatzo is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Independent, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Fatzo is a house and tech house artist based in France, with 145 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Oden, Sam Divine and Danny Howard. Next up: The Independent, San Francisco/Oakland on Sat 28 Nov.
+Fatzo is a house and tech house artist based in France, with 146 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 44 more. Often billed alongside Oden, Sam Divine and Danny Howard. Next up: The Independent, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Fatzo is a house and tech house artist based in France, with 145 gigs on soundch
 | Sat, 12 Dec 2026 | Descent | Boston |
 | Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 22 Jan 2027 | KOKO | London |
+| Sat, 30 Jan 2027 | The Limelight | Belfast |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Fatzo is a house and tech house artist based in France, with 145 gigs on soundch
 
 Oden, Sam Divine, Danny Howard
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

@@ -1,6 +1,6 @@
 # ZIYING
 
-ZIYING is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+ZIYING is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 ZIYING is a deep house and progressive house artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Adela, Innerstice and Selen. Next up: Bricks, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ ZIYING is a deep house and progressive house artist based in United Kingdom, wit
 
 Adela, Innerstice, Selen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziying/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziying/)*

@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 22 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Folio Magazine Launch Party: 34th Issue" on Wed, 18 Nov 2026.
+Système is a music venue in Montreal with 22 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Folio Magazine Launch Party: 34th Issue" on Wed, 18 Nov 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 22 upcoming gigs, with line-ups including Akpossoul, Asha, Badgalquirit and Bwi-Bwi and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 22 upcoming gigs, wi
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

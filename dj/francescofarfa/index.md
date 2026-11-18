@@ -1,6 +1,6 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Vibe, Brazil on Thu, 19 Nov 2026.
+Francesco Farfa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Vibe, Brazil on Thu, 19 Nov 2026.
 
 Francesco Farfa is a house and techno artist based in Italy, with 118 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 31 more. Often billed alongside Janina, Alex Picone and Hamsa. Next up: Club Vibe, Brazil on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Francesco Farfa is a house and techno artist based in Italy, with 118 gigs on so
 
 Janina, Alex Picone, Hamsa
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

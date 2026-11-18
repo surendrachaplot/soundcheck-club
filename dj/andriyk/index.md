@@ -1,13 +1,14 @@
 # Andriy K.
 
-Andriy K. is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Final, Taipei on Sat, 2 Jan 2027.
+Andriy K. is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Thila Ground, Seoul on Fri, 11 Dec 2026.
 
-Andriy K. is an experimental and ambient artist based in Ukraine, with 83 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 13 more. Often billed alongside AXT, endléa and BLUME. Next up: Final, Taipei on Sat 2 Jan.
+Andriy K. is an experimental and ambient artist based in Ukraine, with 84 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 14 more. Often billed alongside AXT, endléa and BLUME. Next up: Thila Ground, Seoul on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Thila Ground | Seoul |
 | Sat, 2 Jan 2027 | Final | Taipei |
 
 ## Recently played
@@ -25,4 +26,4 @@ Andriy K. is an experimental and ambient artist based in Ukraine, with 83 gigs o
 
 AXT, endléa, BLUME
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*

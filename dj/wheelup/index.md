@@ -1,6 +1,6 @@
 # WheelUP
 
-WheelUP is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Djoon, Paris on Fri, 27 Nov 2026.
+WheelUP is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Djoon, Paris on Fri, 27 Nov 2026.
 
 WheelUP is a broken beat and house artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Bristol, Chongqing and London and 2 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: Djoon, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ WheelUP is a broken beat and house artist based in United Kingdom, with 24 gigs 
 
 Robert Luis, Cengiz, Kojay
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

@@ -1,6 +1,6 @@
 # OÄZiZ at BAR NONE
 
-OÄZiZ at BAR NONE on Sat 28 Nov, Hamburg. 3 artists: Anton Jonathan, Bruna N. and Lenard Klein. House and Electronica. See the line-up on soundcheck.
+OÄZiZ at BAR NONE on Sat 28 Nov, Hamburg. 3 artists: Anton Jonathan, Bruna N. and Murphy (DE). House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ OÄZiZ at BAR NONE on Sat 28 Nov, Hamburg. 3 artists: Anton Jonathan, Bruna N. a
 
 - Anton Jonathan
 - Bruna N.
-- Lenard Klein
+- Murphy (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2570784-o-ziz-at-bar-none/)*

@@ -1,13 +1,14 @@
 # Goldtooth
 
-Goldtooth is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
+Goldtooth is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Western Springs Lakeside Park, Auckland on Sat, 21 Nov 2026.
 
-Goldtooth is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Auckland, Berlin, London and Sydney. Often billed alongside Caru (NZ), Keighto and Surly (JBW). Next up: Whammy Bar, Auckland on Sat 28 Nov.
+Goldtooth is a house and club artist based in United Kingdom, with 19 gigs on soundcheck across Auckland, Berlin, London and Sydney. Often billed alongside Caru (NZ), ANABE and Keighto. Next up: Western Springs Lakeside Park, Auckland on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Western Springs Lakeside Park | Auckland |
 | Sat, 28 Nov 2026 | Whammy Bar | Auckland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Goldtooth is a house and garage artist based in United Kingdom, with 18 gigs on 
 
 ## Shares bills with
 
-Caru (NZ), Keighto, Surly (JBW)
+Caru (NZ), ANABE, Keighto
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldtooth/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldtooth/)*

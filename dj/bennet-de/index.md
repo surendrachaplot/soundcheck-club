@@ -1,6 +1,6 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at public records, New York City on Sat, 21 Nov 2026.
+Bennet (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at public records, New York City on Sat, 21 Nov 2026.
 
 Bennet (DE) is a house and techno artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: public records, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Bennet (DE) is a house and techno artist based in Germany, with 90 gigs on sound
 
 dj sweet6teen, Bambounou, Byron Yeates
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

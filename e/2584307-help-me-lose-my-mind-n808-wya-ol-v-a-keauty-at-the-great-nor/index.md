@@ -1,6 +1,6 @@
 # HELP ME LOSE MY MIND: n808 | WYA? | OL!V!A | KEAUTY at The Great Northern
 
-HELP ME LOSE MY MIND: n808 | WYA? | OL!V!A | KEAUTY at The Great Northern on Fri 20 Nov, San Francisco/Oakland. 1 artist: n808. House and Club. See the line-up on soundcheck.
+HELP ME LOSE MY MIND: n808 | WYA? | OL!V!A | KEAUTY at The Great Northern on Fri 20 Nov, San Francisco/Oakland. 2 artists: KEAUTY and n808. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HELP ME LOSE MY MIND: n808 | WYA? | OL!V!A | KEAUTY at The Great Northern on Fri
 
 ## Line-up
 
+- KEAUTY
 - n808
 
 *Source: [soundcheck](https://soundcheck.club/e/2584307-help-me-lose-my-mind-n808-wya-ol-v-a-keauty-at-the-great-nor/)*

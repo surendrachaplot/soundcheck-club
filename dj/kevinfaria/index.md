@@ -1,6 +1,6 @@
 # Kevin Faria
 
-Kevin Faria is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Coda, Toronto on Fri, 27 Nov 2026.
+Kevin Faria is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Coda, Toronto on Fri, 27 Nov 2026.
 
 Kevin Faria is a tech house and house artist, with 11 gigs on soundcheck across Toronto. Often billed alongside Addy, Farouki and Manzone & Strong. Next up: Coda, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kevin Faria is a tech house and house artist, with 11 gigs on soundcheck across 
 
 Addy, Farouki, Manzone & Strong
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinfaria/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinfaria/)*

@@ -1,6 +1,6 @@
 # Wonderfruit 2026 at The Fields at Siam Country Club
 
-Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 70 artists: Afrodite, Alex Albrecht, Bins and Bouffant Bouffant and 66 more. See the line-up on soundcheck.
+Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 88 artists: Afrodite, Alex Albrecht, Bins and Bouffant Bouffant and 84 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 70 a
 - Bouffant Bouffant
 - Carl Stone
 - Chalo
+- Chambord
 - CHIDA
 - CONG
 - DAR DISKU
@@ -26,11 +27,15 @@ Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 70 a
 - DOTT
 - ECHT!
 - Eli Keszler
+- Emel
 - Felix Dickinson
 - FFAN
 - Gerd Janson
 - Goldcap
+- Gubwubs
+- Gutinbear
 - Hamdi Ryder
+- Hogi
 - Howie B
 - Howie Lee
 - Hugo LX
@@ -46,7 +51,9 @@ Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 70 a
 - Jesse You
 - Jim O'Rourke
 - Joe Delon
+- JonnyVicious
 - Justfin
+- Ken Fan
 - Kuniyuki
 - Kyomi
 - Loyboy
@@ -54,19 +61,27 @@ Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 70 a
 - Mano Le Tough
 - Marcel Dettmann
 - Markie
+- Miss Lil
+- Monkey Business
 - Nicolas Lutz
 - Nightmares on Wax
 - Nomtii
 - Nosaj Thing
 - Nubya Garcia
 - O.BEE
+- Okaydante
 - OMOLOKO
 - Orphx
 - P4 (1)
 - Pam Anantr
 - Payu
 - Pete Herbert
+- Ramses
 - Remcord
+- Richard Fribert
+- Rishi Sippy
+- Robbie Akbal
+- Running Hot
 - SALIN
 - Sea Man
 - Shhhhh
@@ -74,8 +89,11 @@ Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 70 a
 - Sonido Tupinamba
 - Sweely
 - Tangerine Dream
+- ThirstKid
+- Three Less One
 - Tristan Bres
 - Xiaolin
+- Yass & Mali
 - YOKOSUN
 - Youknowsong
 - Yu Yang

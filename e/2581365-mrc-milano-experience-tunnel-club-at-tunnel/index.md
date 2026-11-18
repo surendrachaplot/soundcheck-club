@@ -1,6 +1,6 @@
 # MRC Milano Experience - Tunnel Club at Tunnel
 
-MRC Milano Experience - Tunnel Club on Sat 5 Dec, Milan. 5 artists: cassandrah, GLADJEE, GWELD and KASSIS and 1 more. Techno and Industrial. See the line-up on soundcheck.
+MRC Milano Experience - Tunnel Club on Sat 5 Dec, Milan. 6 artists: cassandrah, GLADJEE, GWELD and HEZAYINCHET and 2 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ MRC Milano Experience - Tunnel Club on Sat 5 Dec, Milan. 5 artists: cassandrah, 
 - cassandrah
 - GLADJEE
 - GWELD
+- HEZAYINCHET
 - KASSIS
 - Niki Istrefi
 

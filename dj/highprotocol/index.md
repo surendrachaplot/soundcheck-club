@@ -1,6 +1,6 @@
 # High Protocol
 
-High Protocol is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Prisma, Berlin on Fri, 12 Feb 2027.
+High Protocol is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Prisma, Berlin on Fri, 12 Feb 2027.
 
 High Protocol is a hardcore and techno artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside DOLTER, Egress and ADAM REC.. Next up: Prisma, Berlin on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ High Protocol is a hardcore and techno artist based in Germany, with 17 gigs on 
 
 DOLTER, Egress, ADAM REC.
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highprotocol/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highprotocol/)*

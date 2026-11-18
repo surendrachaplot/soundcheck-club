@@ -1,6 +1,6 @@
 # Nice Up The Dance Vol. 1 at Else
 
-Nice Up The Dance Vol. 1 at Else on Sun 29 Nov, Kuala Lumpur. 1 artist: Donna Leake. Funk / Soul and Jazz. See the line-up on soundcheck.
+Nice Up The Dance Vol. 1 at Else on Sun 29 Nov, Kuala Lumpur. 2 artists: Donna Leake and Ron Hameed. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Nice Up The Dance Vol. 1 at Else on Sun 29 Nov, Kuala Lumpur. 1 artist: Donna Le
 ## Line-up
 
 - Donna Leake
+- Ron Hameed
 
 *Source: [soundcheck](https://soundcheck.club/e/2581172-nice-up-the-dance-vol-1-at-else/)*

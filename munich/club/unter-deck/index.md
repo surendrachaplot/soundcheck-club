@@ -1,6 +1,6 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Tuesday in Love: Safahs all night long" on Tue, 24 Nov 2026.
+Unter Deck is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Tuesday in Love: Safahs all night long" on Tue, 24 Nov 2026.
 
 Unter Deck is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Safahs. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
@@ -16,4 +16,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 3 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

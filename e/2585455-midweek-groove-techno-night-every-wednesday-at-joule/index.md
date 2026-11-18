@@ -1,6 +1,6 @@
 # MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY at Joule
 
-MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY at Joule on Wed 25 Nov, Osaka. 2 artists: NOBUYA and O-MAN. Techno. See the line-up on soundcheck.
+MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY at Joule on Wed 25 Nov, Osaka. 3 artists: MARIO+CONTROL, NOBUYA and O-MAN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY at Joule on Wed 25 Nov, Osaka. 2 art
 
 ## Line-up
 
+- MARIO+CONTROL
 - NOBUYA (2)
 - O-MAN
 

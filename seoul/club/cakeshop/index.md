@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "h4rdy presents STAMINA: Yemz" on Thu, 19 Nov 2026.
+Cakeshop is a music venue in Seoul with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "h4rdy presents STAMINA: Yemz" on Thu, 19 Nov 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 10 upcoming gigs, with line-ups including AEIDA, Bamboo Princess, Closet Yi and Coziest and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -23,4 +23,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 10 upcoming gigs, with 
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

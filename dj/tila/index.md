@@ -1,6 +1,6 @@
 # TiLA
 
-TiLA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 19 Dec 2026.
+TiLA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 19 Dec 2026.
 
 TiLA is a techno and minimal techno artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow. Often billed alongside SunēX, ITEM9 and Aileron. Next up: Nice N Sleazy, Glasgow on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ TiLA is a techno and minimal techno artist based in United Kingdom, with 5 gigs 
 
 SunēX, ITEM9, Aileron
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tila/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tila/)*

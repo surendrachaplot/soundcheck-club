@@ -1,14 +1,15 @@
 # Mel (FR)
 
-Mel (FR) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Lyon/Villeurbanne, Lyon on Sat, 21 Nov 2026.
+Mel (FR) is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Lyon/Villeurbanne, Lyon on Sat, 21 Nov 2026.
 
-Mel (FR) is a techno and minimal artist based in France, with 18 gigs on soundcheck across Bordeaux, Brussels, Lyon and Paris and 1 more. Often billed alongside Domi (FR), Jolly (FR) and Mathiou. Next up: TBA - Lyon/Villeurbanne, Lyon on Sat 21 Nov.
+Mel (FR) is a techno and minimal artist based in France, with 19 gigs on soundcheck across Bordeaux, Brussels, Lyon and Paris and 1 more. Often billed alongside Domi (FR), Jolly (FR) and Mathiou. Next up: TBA - Lyon/Villeurbanne, Lyon on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Lyon/Villeurbanne | Lyon |
+| Fri, 27 Nov 2026 | UMI | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mel (FR) is a techno and minimal artist based in France, with 18 gigs on soundch
 
 Domi (FR), Jolly (FR), Mathiou
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*

@@ -1,6 +1,6 @@
 # TMFD
 
-TMFD is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Closer Private Warehouse DTLA, Los Angeles on Sat, 28 Nov 2026.
+TMFD is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Closer Private Warehouse DTLA, Los Angeles on Sat, 28 Nov 2026.
 
 TMFD is an amapiano and house artist based in South Africa, with 10 gigs on soundcheck across Austin, London, Los Angeles and Mexico City and 1 more. Often billed alongside BUNZ, DJ Trebuchet and Valeriana. Next up: Closer Private Warehouse DTLA, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ TMFD is an amapiano and house artist based in South Africa, with 10 gigs on soun
 
 BUNZ, DJ Trebuchet, Valeriana
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tmfd/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tmfd/)*

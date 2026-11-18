@@ -1,8 +1,8 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at smartbar, Chicago on Sat, 21 Nov 2026.
+Louie Vega is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at smartbar, Chicago on Sat, 21 Nov 2026.
 
-Louie Vega is a house and disco artist based in United States of America, with 219 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 38 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: smartbar, Chicago on Sat 21 Nov.
+Louie Vega is a house and disco artist based in United States of America, with 220 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 39 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: smartbar, Chicago on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 | Sat, 28 Nov 2026 | Fabriketa | Sao Paulo |
 | Sat, 5 Dec 2026 | The Warehouse Project | Manchester |
 | Sat, 12 Dec 2026 | Open Ground | Wuppertal |
+| Sat, 30 Jan 2027 | Spotify O-EAST | Tokyo |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

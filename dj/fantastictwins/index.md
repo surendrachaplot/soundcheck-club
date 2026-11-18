@@ -1,6 +1,6 @@
 # Fantastic Twins
 
-Fantastic Twins is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Fantastic Twins is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
 
 Fantastic Twins is a techno and electro artist based in France, with 36 gigs on soundcheck across Athens, Belgrade, Berlin and Bordeaux and 15 more. Often billed alongside Denis Stockhausen, Sascha Funke and Khidja. Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
 
@@ -25,4 +25,4 @@ Fantastic Twins is a techno and electro artist based in France, with 36 gigs on 
 
 Denis Stockhausen, Sascha Funke, Khidja
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantastictwins/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantastictwins/)*

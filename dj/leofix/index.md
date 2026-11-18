@@ -1,6 +1,6 @@
 # Leofix
 
-Leofix is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sala El Sol, Madrid on Wed, 18 Nov 2026.
+Leofix is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala El Sol, Madrid on Wed, 18 Nov 2026.
 
 Leofix is a techno and trance artist based in Spain, with 31 gigs on soundcheck across Madrid and Malaga. Often billed alongside Pulpix, Arok Shiva and JvggedDoggie. Next up: Sala El Sol, Madrid on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Leofix is a techno and trance artist based in Spain, with 31 gigs on soundcheck 
 
 Pulpix, Arok Shiva, JvggedDoggie
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leofix/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leofix/)*

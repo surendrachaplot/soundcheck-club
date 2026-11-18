@@ -1,6 +1,6 @@
 # Beave
 
-Beave is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
+Beave is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
 
 Beave is a house and tech house artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Birmingham, London and Paris and 1 more. Often billed alongside Benji King, Job de Jong and Joss Dean. Next up: Thuishaven, Amsterdam on Sun 6 Dec.
 
@@ -22,4 +22,4 @@ Beave is a house and tech house artist based in United Kingdom, with 6 gigs on s
 
 Benji King, Job de Jong, Joss Dean
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beave/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beave/)*

@@ -1,6 +1,6 @@
 # Cuca
 
-Cuca is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu, 19 Nov 2026.
+Cuca is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu, 19 Nov 2026.
 
 Cuca is a techno and house artist based in Brazil, with 55 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Glau, Ananda (BR) and NORA (BR). Next up: TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Cuca is a techno and house artist based in Brazil, with 55 gigs on soundcheck ac
 
 Glau, Ananda (BR), NORA (BR)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuca/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuca/)*

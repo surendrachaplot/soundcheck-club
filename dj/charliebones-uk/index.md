@@ -1,6 +1,6 @@
 # Charlie Bones
 
-Charlie Bones is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Multi Story, London on Sat, 21 Nov 2026.
+Charlie Bones is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Multi Story, London on Sat, 21 Nov 2026.
 
 Charlie Bones is a disco and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Bristol, Dublin and Edinburgh and 6 more. Often billed alongside Hannah Holland, Tash LC and Alex Kassian. Next up: Multi Story, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Charlie Bones is a disco and house artist based in United Kingdom, with 36 gigs 
 
 Hannah Holland, Tash LC, Alex Kassian
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*

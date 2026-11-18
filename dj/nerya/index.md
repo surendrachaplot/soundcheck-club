@@ -1,6 +1,6 @@
 # nerya
 
-nerya is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
+nerya is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
 
 nerya is a techno and trance artist based in Turkey, with 10 gigs on soundcheck across Amsterdam, Berlin, Istanbul and Paris. Often billed alongside AINA.KRU, Alex Friday and Alisa Stovik. Next up: Melkweg, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ nerya is a techno and trance artist based in Turkey, with 10 gigs on soundcheck 
 
 AINA.KRU, Alex Friday, Alisa Stovik
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerya/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerya/)*

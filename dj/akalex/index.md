@@ -1,6 +1,6 @@
 # Akalex
 
-Akalex is a Electro and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Warehouse, Nantes on Sat, 23 Jan 2027.
+Akalex is a Electro and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Warehouse, Nantes on Sat, 23 Jan 2027.
 
 Akalex is an electro and baile funk artist based in France, with 25 gigs on soundcheck across Amsterdam, Geneva, Lisbon and London and 5 more. Often billed alongside Yosef (ES), Diego Armando and MATVEÏ. Next up: Warehouse, Nantes on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Akalex is an electro and baile funk artist based in France, with 25 gigs on soun
 
 Yosef (ES), Diego Armando, MATVEÏ
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*

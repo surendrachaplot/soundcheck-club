@@ -1,6 +1,6 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Under Bron, Stockholm on Fri, 20 Nov 2026.
+Isabel Soto is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Under Bron, Stockholm on Fri, 20 Nov 2026.
 
 Isabel Soto is a techno and house artist based in Venezuela, with 116 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Claudio PRC, Oscar Mulero and Mike Larry. Next up: Under Bron, Stockholm on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Isabel Soto is a techno and house artist based in Venezuela, with 116 gigs on so
 
 Claudio PRC, Oscar Mulero, Mike Larry
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

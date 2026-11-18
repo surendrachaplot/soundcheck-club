@@ -1,8 +1,8 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Afrotonic" on Wed, 18 Nov 2026.
+Golden Pudel Club is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Afrotonic" on Wed, 18 Nov 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including Alphamob, ATAVEM, Danya (DE) and dj blip and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including Alphamob, ATAVEM, Danya (DE) and dj blip and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming g
 | Wed, 25 Nov 2026 | Afrotonic |  |
 | Sat, 28 Nov 2026 | SLIC presents: CLUB ORIGINS with JAXX TMS, Femdelic, Nissa Carrington | Femdelic, JAXX TMS, Nissa Carrington, SLIC Unit |
 | Sun, 29 Nov 2026 | Das Ohr zum Sonntag: DOZSFEST (1/2) | DJ Sprinter, Sarah Q |
+| Thu, 3 Dec 2026 | Good Planets (are hard 2 find) with DJ Heartbreak & Naomi | DJ Dreams, Dj Heartbreak, Hufnagel, Naomi (Berlin) |
 | Sat, 5 Dec 2026 | GOME + The Gang with Doppelgang | Doppelgang, GOME |
 
 ## Address
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

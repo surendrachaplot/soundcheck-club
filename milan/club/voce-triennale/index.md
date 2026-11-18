@@ -1,6 +1,6 @@
 # Voce - Triennale
 
-Voce - Triennale is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Matinée Hanne Lippard, Renato Grieco" on Sun, 29 Nov 2026.
+Voce - Triennale is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Matinée Hanne Lippard, Renato Grieco" on Sun, 29 Nov 2026.
 
 Voce - Triennale is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Viale Emilio Alemagna, 6, 20121 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Voce - Triennale is a music venue in Milan listed on soundcheck. 1 upcoming gig.
 
 Viale Emilio Alemagna, 6, 20121 Milano MI, Italy, Milan
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/voce-triennale/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/voce-triennale/)*

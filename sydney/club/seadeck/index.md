@@ -1,6 +1,6 @@
 # Seadeck
 
-Seadeck is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Gravagerz" on Sat, 21 Nov 2026.
+Seadeck is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Gravagerz" on Sat, 21 Nov 2026.
 
 Seadeck is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Gravagerz. See dates, start times and who's playing. Sydney Harbour, Sydney NSW 2000, Australia.
 
@@ -15,4 +15,4 @@ Seadeck is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with l
 
 Sydney Harbour, Sydney NSW 2000, Australia, Sydney
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/seadeck/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/seadeck/)*

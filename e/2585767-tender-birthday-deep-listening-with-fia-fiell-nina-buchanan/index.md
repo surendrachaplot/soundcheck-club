@@ -1,10 +1,10 @@
-# Tender Birthday ~ Deep Listening with Fia Fiell + Nina Buchanan at Tender
+# Tender Birthday: Deep Listening with Fia Fiell + Nina Buchanan at Tender
 
-Tender Birthday ~ Deep Listening with Fia Fiell + Nina Buchanan on Thu 19 Nov, Melbourne. Ambient and Experimental. See the line-up on soundcheck.
+Tender Birthday: Deep Listening with Fia Fiell + Nina Buchanan on Thu 26 Nov, Melbourne. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 19 Nov 2026 |
+| Date | Thu, 26 Nov 2026 |
 | Venue | Tender |
 | City | Melbourne |
 

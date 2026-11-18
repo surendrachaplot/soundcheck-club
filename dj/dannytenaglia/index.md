@@ -1,6 +1,6 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sub Club, Glasgow on Fri, 4 Dec 2026.
+Danny Tenaglia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sub Club, Glasgow on Fri, 4 Dec 2026.
 
 Danny Tenaglia is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 32 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: Sub Club, Glasgow on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 
 Brandon Block, Darren Emerson, John Course
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

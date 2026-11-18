@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Girls to the front" on Thu, 19 Nov 2026.
+Toldi Klub is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Girls to the front" on Thu, 19 Nov 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Calippo, Chrom, Cvrdwell and Daniel Santiago and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -23,4 +23,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, 
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

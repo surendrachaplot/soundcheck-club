@@ -1,6 +1,6 @@
 # Joey with the Mustache
 
-Joey with the Mustache is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Club Rawhide, New York City on Sun, 22 Nov 2026.
+Joey with the Mustache is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Rawhide, New York City on Sun, 22 Nov 2026.
 
 Joey with the Mustache is a house and disco artist based in United States of America, with 21 gigs on soundcheck across Bogotá, Chicago, Mexico City and New York City and 1 more. Often billed alongside Drew Baker, Grant Tyler and Aspirin. Next up: Club Rawhide, New York City on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Joey with the Mustache is a house and disco artist based in United States of Ame
 
 Drew Baker, Grant Tyler, Aspirin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeywiththemustache/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeywiththemustache/)*

@@ -1,6 +1,6 @@
 # Taku Hirayama
 
-Taku Hirayama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Stoked&stoned, Seoul on Thu, 19 Nov 2026.
+Taku Hirayama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stoked&stoned, Seoul on Thu, 19 Nov 2026.
 
 Taku Hirayama is a techno and house artist based in Japan, with 66 gigs on soundcheck across Bangkok, Chengdu, Chongqing and Hanoi and 7 more. Often billed alongside Finsent C, Anh Vy and Dan-neo. Next up: Stoked&stoned, Seoul on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Taku Hirayama is a techno and house artist based in Japan, with 66 gigs on sound
 
 Finsent C, Anh Vy, Dan-neo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*

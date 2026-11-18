@@ -1,8 +1,8 @@
 # Oden
 
-Oden is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Independent, San Francisco/Oakland on Sat, 28 Nov 2026.
+Oden is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Independent, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Oden is a house and tech house artist based in France, with 152 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 44 more. Often billed alongside Fatzo, Sam Divine and Danny Howard. Next up: The Independent, San Francisco/Oakland on Sat 28 Nov.
+Oden is a house and tech house artist based in France, with 153 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 45 more. Often billed alongside Fatzo, Sam Divine and Danny Howard. Next up: The Independent, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Oden is a house and tech house artist based in France, with 152 gigs on soundche
 | Sat, 12 Dec 2026 | Descent | Boston |
 | Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 22 Jan 2027 | KOKO | London |
+| Sat, 30 Jan 2027 | The Limelight | Belfast |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Oden is a house and tech house artist based in France, with 152 gigs on soundche
 
 Fatzo, Sam Divine, Danny Howard
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

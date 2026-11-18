@@ -1,6 +1,6 @@
 # FLESH - SUNDAYS AFTER CHILL at DETROIT CLUB
 
-FLESH - SUNDAYS AFTER CHILL at DETROIT CLUB on Sun 13 Dec, Barcelona. 3 artists: Daryl Kaplan, FDZ (ES) and Freeka. Techno. See the line-up on soundcheck.
+FLESH - SUNDAYS AFTER CHILL at DETROIT CLUB on Sun 13 Dec, Barcelona. 4 artists: Daryl Kaplan, DSNGDMANN, FDZ (ES) and Freeka. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FLESH - SUNDAYS AFTER CHILL at DETROIT CLUB on Sun 13 Dec, Barcelona. 3 artists:
 ## Line-up
 
 - Daryl Kaplan
+- DSNGDMANN
 - FDZ (ES)
 - Freeka
 

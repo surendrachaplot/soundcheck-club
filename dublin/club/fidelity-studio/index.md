@@ -1,15 +1,18 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Dick Johnson" on Wed, 18 Nov 2026.
+Fidelity Studio is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Dick Johnson" on Wed, 18 Nov 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with line-ups including Basic Channel, Dr Banana, Leon Vynehall and Mark Ernestus and 1 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Basic Channel, Dr Banana, Emmy Shigeta and Leon Vynehall and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Dick Johnson |  |
+| Thu, 19 Nov 2026 | Pablo & Mr. Six |  |
 | Fri, 20 Nov 2026 | Mark Ernestus [Basic Channel] | Basic Channel, Mark Ernestus |
+| Sat, 21 Nov 2026 | Ricky Chong / Charlie Murnane | Ricky Chong |
+| Sun, 22 Nov 2026 | Emmy Shigeta + Madeline | Emmy Shigeta |
 | Fri, 4 Dec 2026 | Move D | Move D |
 | Fri, 11 Dec 2026 | Leon Vynehall & Dr. Banana | Dr Banana, Leon Vynehall |
 
@@ -17,4 +20,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 4 upcoming gigs
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

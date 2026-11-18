@@ -1,6 +1,6 @@
 # MYSTIC PULSE -GET FUNKY, STAY GROOVY- (HOUSE) at Z Maruyama
 
-MYSTIC PULSE -GET FUNKY, STAY GROOVY- (HOUSE) at Z Maruyama on Fri 20 Nov, Tokyo. 2 artists: dj yumi-cco and RUKE. House. See the line-up on soundcheck.
+MYSTIC PULSE -GET FUNKY, STAY GROOVY- (HOUSE) at Z Maruyama on Fri 20 Nov, Tokyo. 3 artists: dj yumi-cco, DSKE and RUKE. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MYSTIC PULSE -GET FUNKY, STAY GROOVY- (HOUSE) at Z Maruyama on Fri 20 Nov, Tokyo
 ## Line-up
 
 - dj yumi-cco
+- DSKE
 - RUKE
 
 *Source: [soundcheck](https://soundcheck.club/e/2569855-mystic-pulse-get-funky-stay-groovy-house-at-z-maruyama/)*

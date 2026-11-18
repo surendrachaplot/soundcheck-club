@@ -1,6 +1,6 @@
-# Bloom with Bambi at Cadavra
+# bloom with Bambi at Cadavra
 
-Bloom with Bambi at Cadavra on Fri 18 Dec, Madrid. 5 artists: Bambi (FR), Blue Terrain, Daldomi and Gala (ES) and 1 more. Techno and Dub Techno. See the line-up on soundcheck.
+bloom with Bambi at Cadavra on Fri 18 Dec, Madrid. 5 artists: Bambi (FR), Blue Terrain, Daldomi and Gala (ES) and 1 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

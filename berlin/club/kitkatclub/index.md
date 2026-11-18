@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "SYMBIOTIKKA at KitKat Club Berlin meets Salty Pleasure" on Wed, 18 Nov 2026.
+KitKatClub is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SYMBIOTIKKA at KitKat Club Berlin meets Salty Pleasure" on Wed, 18 Nov 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including ADAM MUNNINGS, Ari Denaro, BearoOo and Bert and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including ADAM MUNNINGS, Ahanjack, Ari Denaro and BearoOo and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, wi
 | Thu, 26 Nov 2026 | Unity --+-- | Der Eggert, Megaira, Yannick Weineck |
 | Fri, 27 Nov 2026 | PiepShow - BirthdayPiep | Bonq, Chris Bekker, Crystal O, DJ Francis, DJILL, Doram, Flow TNTS, Joey (2), KEN (DE), PADERKID, Tim Hagemann, Tobias Sommer |
 | Sun, 29 Nov 2026 | Nachspiel | MARCEL db |
-| Sun, 29 Nov 2026 | Dirty Thirty - Akuuji Bday Bash | Marvel Gold, Somaphon |
+| Sun, 29 Nov 2026 | Dirty Thirty - Akuuji Bday Bash | Ahanjack, Marvel Gold, Somaphon |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

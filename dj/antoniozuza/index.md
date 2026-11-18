@@ -1,6 +1,6 @@
 # Antonio Zuza
 
-Antonio Zuza is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 28 Nov 2026.
+Antonio Zuza is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 28 Nov 2026.
 
 Antonio Zuza is a house and electronica artist based in Croatia, with 25 gigs on soundcheck across Belgrade, Berlin and Zagreb. Often billed alongside Felver, Ilija Rudman and Fabrizio Mammarella. Next up: Peti Kupe, Zagreb on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Antonio Zuza is a house and electronica artist based in Croatia, with 25 gigs on
 
 Felver, Ilija Rudman, Fabrizio Mammarella
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniozuza/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniozuza/)*

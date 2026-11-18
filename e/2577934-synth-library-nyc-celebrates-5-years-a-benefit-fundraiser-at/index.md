@@ -1,6 +1,6 @@
 # Synth Library NYC Celebrates 5 Years - A Benefit Fundraiser at Nowadays
 
-Synth Library NYC Celebrates 5 Years - A Benefit Fundraiser at Nowadays on Sat 12 Dec, New York City. 5 artists: 8ULENTINA, cry$cross, DJ Haram and Heidi Sabertooth and 1 more. Techno and Electronica. See the line-up on soundcheck.
+Synth Library NYC Celebrates 5 Years - A Benefit Fundraiser at Nowadays on Sat 12 Dec, New York City. 8 artists: 8ULENTINA, AceMo, Andi and Antenes and 4 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,9 @@ Synth Library NYC Celebrates 5 Years - A Benefit Fundraiser at Nowadays on Sat 1
 ## Line-up
 
 - 8ULENTINA
+- AceMo
+- Andi
+- Antenes
 - cry$cross
 - DJ Haram
 - Heidi Sabertooth

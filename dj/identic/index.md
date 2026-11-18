@@ -1,14 +1,15 @@
 # Identic
 
-Identic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 18 Dec 2026.
+Identic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 18 Dec 2026.
 
-Identic is a house and techno artist based in Czech Republic, with 56 gigs on soundcheck across Prague. Often billed alongside Ondrej K, Zissou and Hugorieri. Next up: Bukanyr Boat, Prague on Fri 18 Dec.
+Identic is a house and techno artist based in Czech Republic, with 57 gigs on soundcheck across Prague. Often billed alongside Ondrej K, Manntracs and Zissou. Next up: Bukanyr Boat, Prague on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Bukanyr Boat | Prague |
+| Thu, 31 Dec 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Identic is a house and techno artist based in Czech Republic, with 56 gigs on so
 
 ## Shares bills with
 
-Ondrej K, Zissou, Hugorieri
+Ondrej K, Manntracs, Zissou
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/identic/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/identic/)*

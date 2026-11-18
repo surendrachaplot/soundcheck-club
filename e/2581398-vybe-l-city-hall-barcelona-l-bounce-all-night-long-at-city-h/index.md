@@ -1,6 +1,6 @@
 # VYBE l City Hall BARCELONA l BOUNCE ALL NIGHT LONG at City Hall
 
-VYBE l City Hall BARCELONA l BOUNCE ALL NIGHT LONG on Wed 25 Nov, Barcelona. 2 artists: Pink Id and Yeison M. See the line-up on soundcheck.
+VYBE l City Hall BARCELONA l BOUNCE ALL NIGHT LONG on Wed 25 Nov, Barcelona. 3 artists: MISKO, Pink Id and Yeison M. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VYBE l City Hall BARCELONA l BOUNCE ALL NIGHT LONG on Wed 25 Nov, Barcelona. 2 a
 
 ## Line-up
 
+- MISKO
 - Pink Id
 - Yeison M
 

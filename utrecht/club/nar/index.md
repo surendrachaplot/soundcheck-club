@@ -1,6 +1,6 @@
 # NAR
 
-NAR is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "HOUSE OF NAR / Prins Thomas, Intergalactic Gary, MALOU & More" on Sat, 28 Nov 2026.
+NAR is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "HOUSE OF NAR / Prins Thomas, Intergalactic Gary, MALOU & More" on Sat, 28 Nov 2026.
 
 NAR is a music venue in Utrecht listed on soundcheck. 1 upcoming gig, with line-ups including Droom, Intergalactic Gary, Malou (NL) and Prins Thomas. See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
@@ -14,4 +14,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 1 upcoming gig, with line-
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

@@ -1,14 +1,15 @@
 # Maruwa
 
-Maruwa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+Maruwa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
-Maruwa is a house and techno artist based in Germany, with 158 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 44 more. Often billed alongside Younger Than Me, DJ Heartstring and Surf 2 Glory. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
+Maruwa is a house and techno artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 44 more. Often billed alongside Younger Than Me, DJ Heartstring and Surf 2 Glory. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
+| Sat, 19 Dec 2026 | C12 | Brussels |
 | Thu, 31 Dec 2026 | Mojo | Hamburg |
 
 ## Recently played
@@ -26,4 +27,4 @@ Maruwa is a house and techno artist based in Germany, with 158 gigs on soundchec
 
 Younger Than Me, DJ Heartstring, Surf 2 Glory
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*

@@ -1,14 +1,13 @@
 # Collect - Cais do Sodre
 
-Collect - Cais do Sodre is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "COLLECT w/ SEMEDO" on Tue, 17 Nov 2026.
+Collect - Cais do Sodre is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "COLLECT w/ PHONOQUEST BY BERBERAN" on Wed, 18 Nov 2026.
 
-Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 10 upcoming gigs, with line-ups including Bernardo Vaz, Eluse, Francisco Berberan and Nuno Bernardino and 1 more. See dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
+Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, with line-ups including Bernardo Vaz, Eluse, Francisco Berberan and Nuno Bernardino and 1 more. See dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | COLLECT w/ SEMEDO |  |
 | Wed, 18 Nov 2026 | COLLECT w/ PHONOQUEST BY BERBERAN | Francisco Berberan |
 | Thu, 19 Nov 2026 | COLLECT w/ MONODRIV.E & MDC |  |
 | Fri, 20 Nov 2026 | COLLECT w/ RABAT | Rabat |
@@ -23,4 +22,4 @@ Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 10 upco
 
 R. Nova do Carvalho 60 62, 1200-371 Lisboa, Lisbon
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*

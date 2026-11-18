@@ -1,8 +1,8 @@
 # SAMA (NL)
 
-SAMA (NL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 22 Nov 2026.
+SAMA (NL) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 22 Nov 2026.
 
-SAMA (NL) is a techno and house artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Colombia, Gothenburg and Ibiza and 7 more. Often billed alongside Vera Grace, SHE/HER and BIANKA. Next up: El Rio Hostel, Colombia on Sun 22 Nov.
+SAMA (NL) is a techno and house artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Colombia, Gothenburg and Ibiza and 7 more. Often billed alongside Vera Grace, SHE/HER and VNTM. Next up: El Rio Hostel, Colombia on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SAMA (NL) is a techno and house artist based in Netherlands, with 39 gigs on sou
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | El Rio Hostel | Colombia |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
+| Sat, 9 Jan 2027 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ SAMA (NL) is a techno and house artist based in Netherlands, with 39 gigs on sou
 
 ## Shares bills with
 
-Vera Grace, SHE/HER, BIANKA
+Vera Grace, SHE/HER, VNTM
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*

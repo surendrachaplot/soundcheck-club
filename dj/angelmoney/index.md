@@ -1,6 +1,6 @@
 # Angel Money
 
-Angel Money is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Elsewhere, New York City on Fri, 11 Dec 2026.
+Angel Money is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Elsewhere, New York City on Fri, 11 Dec 2026.
 
 Angel Money is a techno and club artist based in United States of America, with 25 gigs on soundcheck across Barcelona, Chicago, Los Angeles and New York City and 1 more. Often billed alongside DJ Thank You, flirty800 and DJ DEADNAME. Next up: Elsewhere, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Angel Money is a techno and club artist based in United States of America, with 
 
 DJ Thank You, flirty800, DJ DEADNAME
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmoney/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmoney/)*

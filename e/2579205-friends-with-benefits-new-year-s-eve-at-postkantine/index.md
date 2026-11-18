@@ -1,6 +1,6 @@
 # Friends with Benefits – New Year's Eve at Postkantine
 
-Friends with Benefits – New Year's Eve at Postkantine on Thu 31 Dec, Basel. 13 artists: Agonis, Choufleur Mimosa, Elsa (CH) and Gomorra and 9 more. See the line-up on soundcheck.
+Friends with Benefits – New Year's Eve at Postkantine on Thu 31 Dec, Basel. 12 artists: Agonis, Choufleur Mimosa, Elsa (CH) and Gomorra and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ Friends with Benefits – New Year's Eve at Postkantine on Thu 31 Dec, Basel. 13
 - Elsa (CH)
 - Gomorra
 - Herrrouine
-- Ina Ković
 - Jelena
 - Mark Lando
 - Martinesque

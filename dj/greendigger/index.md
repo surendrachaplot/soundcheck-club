@@ -1,6 +1,6 @@
 # green digger
 
-green digger is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Cakeshop, Seoul on Sat, 5 Dec 2026.
+green digger is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cakeshop, Seoul on Sat, 5 Dec 2026.
 
 green digger is a garage and bass artist based in South Korea, with 22 gigs on soundcheck across Chengdu, London and Seoul. Often billed alongside Dabin, Shins and Surge. Next up: Cakeshop, Seoul on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ green digger is a garage and bass artist based in South Korea, with 22 gigs on s
 
 Dabin, Shins, Surge
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greendigger/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greendigger/)*

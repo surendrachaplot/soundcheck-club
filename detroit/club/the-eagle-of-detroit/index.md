@@ -1,6 +1,6 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "TOP2BTTM 1 YEAR ANNIVERSARY" on Sat, 21 Nov 2026.
+The Eagle of Detroit is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "TOP2BTTM 1 YEAR ANNIVERSARY" on Sat, 21 Nov 2026.
 
 The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including AIDEL, bounce kisses, Boyfriend Dick and Earlll and 2 more. See dates, start times and who's playing. 950 West McNichols.
 
@@ -15,4 +15,4 @@ The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcomin
 
 950 West McNichols, Detroit
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*

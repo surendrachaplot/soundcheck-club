@@ -1,6 +1,6 @@
 # Gianni Di Bernardo
 
-Gianni Di Bernardo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Gate Milano, Milan on Sat, 26 Dec 2026.
+Gianni Di Bernardo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Gate Milano, Milan on Sat, 26 Dec 2026.
 
 Gianni Di Bernardo is a techno and industrial artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 23 more. Often billed alongside Luca Agnelli, Mattia Trani and Paolo Ferrara. Next up: Gate Milano, Milan on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Gianni Di Bernardo is a techno and industrial artist based in Italy, with 57 gig
 
 Luca Agnelli, Mattia Trani, Paolo Ferrara
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*

@@ -1,6 +1,6 @@
 # CAPITANA
 
-CAPITANA is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Sala Apolo, Barcelona on Thu, 19 Nov 2026.
+CAPITANA is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala Apolo, Barcelona on Thu, 19 Nov 2026.
 
 CAPITANA is a drum & bass and hardcore artist based in Spain, with 14 gigs on soundcheck across Barcelona. Often billed alongside BALA, ECSTA and PEAK. Next up: Sala Apolo, Barcelona on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ CAPITANA is a drum & bass and hardcore artist based in Spain, with 14 gigs on so
 
 BALA (3), ECSTA, PEAK (2)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capitana/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capitana/)*

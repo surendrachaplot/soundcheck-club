@@ -1,14 +1,15 @@
 # Evissimax
 
-Evissimax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Main Club, Milan on Sat, 21 Nov 2026.
+Evissimax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Main Club, Milan on Sat, 21 Nov 2026.
 
-Evissimax is a techno and house artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 10 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Main Club, Milan on Sat 21 Nov.
+Evissimax is a techno and house artist based in Italy, with 35 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 11 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Main Club, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Main Club | Milan |
+| Thu, 31 Dec 2026 | 1720 | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Evissimax is a techno and house artist based in Italy, with 34 gigs on soundchec
 
 Slim Soledad, Aiden (DE), Faster Horses
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*

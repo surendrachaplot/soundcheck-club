@@ -1,8 +1,8 @@
 # Radius
 
-Radius is a music venue in Chicago with 37 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "PROSPA presents Prophecy" on Fri, 20 Nov 2026.
+Radius is a music venue in Chicago with 39 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "PROSPA presents Prophecy" on Fri, 20 Nov 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 37 upcoming gigs, with line-ups including Adiel, AEREA, ALVES (PT) and Amal Nemer and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 39 upcoming gigs, with line-ups including Adiel, AEREA, ALT8 and ALVES (PT) and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 37 upcoming gigs, with 
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

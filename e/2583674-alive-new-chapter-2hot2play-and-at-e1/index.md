@@ -1,6 +1,6 @@
 # ALIVE New Chapter: 2HOT2PLAY & AnD at E1
 
-ALIVE New Chapter: 2HOT2PLAY & AnD at E1 on Sat 2 Jan, London. 2 artists: 2HOT2PLAY and AnD. Techno. See the line-up on soundcheck.
+ALIVE New Chapter: 2HOT2PLAY & AnD at E1 on Sat 2 Jan, London. 2 artists: 2HOT2PLAY and AnD. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

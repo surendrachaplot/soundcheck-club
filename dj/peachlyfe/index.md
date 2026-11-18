@@ -1,14 +1,15 @@
 # Peachlyfe
 
-Peachlyfe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
+Peachlyfe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
 
-Peachlyfe is a techno and trance artist based in Denmark, with 139 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: Signal, New York City on Fri 27 Nov.
+Peachlyfe is a techno and trance artist based in Denmark, with 140 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: Signal, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Signal | New York City |
+| Sat, 12 Dec 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Peachlyfe is a techno and trance artist based in Denmark, with 139 gigs on sound
 
 Ezy, Schacke, DJ Nah Care
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*

@@ -1,6 +1,6 @@
 # Nukki
 
-Nukki is a Guaracha and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Sala Core, Malaga on Sat, 21 Nov 2026.
+Nukki is a Guaracha and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala Core, Malaga on Sat, 21 Nov 2026.
 
 Nukki is a guaracha and reggaeton artist based in Spain, with 34 gigs on soundcheck across Barcelona, Madrid, Malaga and Montreal. Often billed alongside Sany Delitos, Neeiv and Agu de Barbate. Next up: Sala Core, Malaga on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Nukki is a guaracha and reggaeton artist based in Spain, with 34 gigs on soundch
 
 Sany Delitos, Neeiv, Agu de Barbate
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nukki/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nukki/)*

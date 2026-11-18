@@ -1,6 +1,6 @@
 # q100
 
-q100 is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 1983, Riga on Sat, 21 Nov 2026.
+q100 is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 1983, Riga on Sat, 21 Nov 2026.
 
 q100 is a dubstep and jungle artist based in Estonia, with 5 gigs on soundcheck across Riga and Tallinn. Often billed alongside ENK3I, Adel Force and Bisweed. Next up: 1983, Riga on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ q100 is a dubstep and jungle artist based in Estonia, with 5 gigs on soundcheck 
 
 ENK3I, Adel Force, Bisweed
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q100/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q100/)*

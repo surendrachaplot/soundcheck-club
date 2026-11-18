@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Interval - Elias Mazian [NL] (4 Hours)" on Fri, 20 Nov 2026.
+Glamorama is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Interval - Elias Mazian [NL] (4 Hours)" on Fri, 20 Nov 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Elias Mazian, HAUSWiFE, Milion and TEMPER TANTRA. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -16,4 +16,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, w
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

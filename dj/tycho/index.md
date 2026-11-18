@@ -1,6 +1,6 @@
 # Tycho
 
-Tycho is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 3 Dec 2026.
+Tycho is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 3 Dec 2026.
 
 Tycho is a house and electronica artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Atlanta, Cape Town and Chicago and 16 more. Often billed alongside Polo & Pan, Lane 8 and Mita Gami. Next up: 1015 Folsom, San Francisco/Oakland on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Tycho is a house and electronica artist based in United States of America, with 
 
 Polo & Pan, Lane 8, Mita Gami
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tycho/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tycho/)*

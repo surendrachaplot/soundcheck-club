@@ -1,6 +1,6 @@
 # Daïf
 
-Daïf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Hertz, Seoul on Fri, 20 Nov 2026.
+Daïf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hertz, Seoul on Fri, 20 Nov 2026.
 
 Daïf is a house and techno artist based in France, with 17 gigs on soundcheck across Bangkok, Beijing, Buenos Aires and Los Angeles and 6 more. Often billed alongside Celter, JNS and Acidwork. Next up: Hertz, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Daïf is a house and techno artist based in France, with 17 gigs on soundcheck a
 
 Celter, JNS, Acidwork
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daif/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daif/)*

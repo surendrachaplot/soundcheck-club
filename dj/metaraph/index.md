@@ -1,6 +1,6 @@
 # Metaraph
 
-Metaraph is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
+Metaraph is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
 
 Metaraph is a techno and industrial artist based in United Kingdom, with 181 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 57 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: KitKatClub, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Metaraph is a techno and industrial artist based in United Kingdom, with 181 gig
 
 Mar/us, Ellen Allien, Samantha Togni
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*

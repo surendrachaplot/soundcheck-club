@@ -1,6 +1,6 @@
 # Halo Varga
 
-Halo Varga is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 20 Nov 2026.
+Halo Varga is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 20 Nov 2026.
 
 Halo Varga is a house and minimal artist based in United States of America, with 48 gigs on soundcheck across Chicago, Croatia, Detroit and London and 10 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: Do Not Sit On The Furniture, Miami on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Halo Varga is a house and minimal artist based in United States of America, with
 
 Krane, Adam Rose, Enzo Muro
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*

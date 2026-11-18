@@ -1,6 +1,6 @@
 # Vitess
 
-Vitess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 20 Nov 2026.
+Vitess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 20 Nov 2026.
 
 Vitess is a house and techno artist based in France, with 112 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Grand V, Occibel and Emma B. Next up: Cabaret Sauvage, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Vitess is a house and techno artist based in France, with 112 gigs on soundcheck
 
 Grand V, Occibel, Emma B
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*

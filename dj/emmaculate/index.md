@@ -1,6 +1,6 @@
 # Emmaculate
 
-Emmaculate is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The California Clipper, Chicago on Sat, 21 Nov 2026.
+Emmaculate is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The California Clipper, Chicago on Sat, 21 Nov 2026.
 
 Emmaculate is a house and deep house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Detroit and 7 more. Often billed alongside Terry Hunter, Adorio and Quicktastic. Next up: The California Clipper, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Emmaculate is a house and deep house artist based in United States of America, w
 
 Terry Hunter, Adorio, Quicktastic
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaculate/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaculate/)*

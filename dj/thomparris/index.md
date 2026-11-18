@@ -1,0 +1,28 @@
+# Thom Parris
+
+Thom Parris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Eastway Baths, London on Sat, 5 Dec 2026.
+
+Thom Parris is a house and techno artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Son of Paul, Alfie Aukett and Make A Dance. Next up: Eastway Baths, London on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Eastway Baths | London |
+
+## Recently played
+
+- fabric, London · Sat, 31 Oct 2026
+- Chiave, London · Fri, 28 Aug 2026
+- Two Tribes CAMPFIRE, London · Sat, 30 May 2026
+- Egg London, London · Sat, 30 May 2026
+- Chiave, London · Fri, 20 Mar 2026
+- fabric, London · Sat, 7 Mar 2026
+- Next Door Records Two, London · Fri, 30 Jan 2026
+- Next Door Records Two, London · Sat, 13 Dec 2025
+
+## Shares bills with
+
+Son of Paul, Alfie Aukett, Make A Dance
+
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomparris/)*

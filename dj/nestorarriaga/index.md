@@ -1,6 +1,6 @@
 # Nestor Arriaga
 
-Nestor Arriaga is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Honduras on Fri, 20 Nov 2026.
+Nestor Arriaga is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Honduras on Fri, 20 Nov 2026.
 
 Nestor Arriaga is a house and tech house artist based in Honduras, with 4 gigs on soundcheck across Berlin, Chicago and Honduras. Often billed alongside Alex Kislov, Hypnoize and Isaac Elejalde. Next up: TBA, Honduras on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Nestor Arriaga is a house and tech house artist based in Honduras, with 4 gigs o
 
 Alex Kislov, Hypnoize, Isaac Elejalde
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nestorarriaga/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nestorarriaga/)*

@@ -1,6 +1,6 @@
 # Khalil
 
-Khalil is a Afrobeat and Amapiano artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Le Bain, New York City on Wed, 18 Nov 2026.
+Khalil is a Afrobeat and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Bain, New York City on Wed, 18 Nov 2026.
 
 Khalil is an afrobeat and amapiano artist based in United Kingdom, with 45 gigs on soundcheck across London, Mexico City, Munich and New York City and 1 more. Often billed alongside Matthew Law, WEMI and Eli Escobar. Next up: Le Bain, New York City on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Khalil is an afrobeat and amapiano artist based in United Kingdom, with 45 gigs 
 
 Matthew Law, WEMI, Eli Escobar
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khalil/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khalil/)*

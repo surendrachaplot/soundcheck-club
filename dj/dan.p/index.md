@@ -1,6 +1,6 @@
 # Dan.P
 
-Dan.P is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Das Werk, Vienna on Fri, 20 Nov 2026.
+Dan.P is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Das Werk, Vienna on Fri, 20 Nov 2026.
 
 Dan.P is a techno and trance artist based in Austria, with 34 gigs on soundcheck across Vienna. Often billed alongside DJ Böhm, L4NC3 and presso. Next up: Das Werk, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dan.P is a techno and trance artist based in Austria, with 34 gigs on soundcheck
 
 DJ Böhm, L4NC3, presso
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dan.p/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dan.p/)*

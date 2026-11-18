@@ -1,8 +1,8 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Glue Liverpool V" on Fri, 20 Nov 2026.
+Meraki is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Glue Liverpool V" on Fri, 20 Nov 2026.
 
-Meraki is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including Binny, cuci cuci coo, djcd and FKA Hardcore and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
+Meraki is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Binny, cuci cuci coo, DAISY and djcd and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Meraki is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Glue Liverpool V | Gregganza, Identikid, cuci cuci coo, djcd, k.h0lle |
 | Sat, 21 Nov 2026 | ONNIT001 - Scon / Naybarr / S.I.S (Max Bellis & Noah Peters) |  |
+| Fri, 11 Dec 2026 | The Flower Pot Company: Unearthed | DAISY, Fat Neast, TJOS |
 | Sat, 12 Dec 2026 | core wars 6 + Intrinsic Audio: FKA Hardcore, IFFYHYPE, Gullyteen + more | FKA Hardcore, FOULMOUTH, Gullyteen, IFFYHYPE, Kalisae |
 | Fri, 18 Dec 2026 | Hollow Techno: Binny / Herbie Tawil / Molloy | Binny, Molloy |
 
@@ -17,4 +18,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

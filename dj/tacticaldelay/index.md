@@ -1,14 +1,15 @@
 # Tactical Delay
 
-Tactical Delay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Das Werk, Vienna on Fri, 20 Nov 2026.
+Tactical Delay is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Das Werk, Vienna on Fri, 20 Nov 2026.
 
-Tactical Delay is a techno and trance artist based in Austria, with 6 gigs on soundcheck across Munich and Vienna. Often billed alongside Comrade Martin, Nartig52 and Anna Ullrich. Next up: Das Werk, Vienna on Fri 20 Nov.
+Tactical Delay is a techno and trance artist based in Austria, with 7 gigs on soundcheck across Austria, Munich and Vienna. Often billed alongside Nartig52, Comrade Martin and Anna Ullrich. Next up: Das Werk, Vienna on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Das Werk | Vienna |
+| Sat, 28 Nov 2026 | Soda Club | Austria |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Tactical Delay is a techno and trance artist based in Austria, with 6 gigs on so
 
 ## Shares bills with
 
-Comrade Martin, Nartig52, Anna Ullrich
+Nartig52, Comrade Martin, Anna Ullrich
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tacticaldelay/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tacticaldelay/)*

@@ -1,8 +1,8 @@
 # Terry Hunter
 
-Terry Hunter is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 21 Nov 2026.
+Terry Hunter is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 21 Nov 2026.
 
-Terry Hunter is a house and deep house artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Chicago and 12 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Warehouse on Watts, Philadelphia on Sat 21 Nov.
+Terry Hunter is a house and deep house artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Chicago and 12 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Warehouse on Watts, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Terry Hunter is a house and deep house artist based in United Kingdom, with 104 
 | Sat, 21 Nov 2026 | Warehouse on Watts | Philadelphia |
 | Wed, 25 Nov 2026 | The Chocolate Factory | New York City |
 | Sat, 28 Nov 2026 | Le Nocturne | Chicago |
+| Fri, 15 Jan 2027 | Le Nocturne | Chicago |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Terry Hunter is a house and deep house artist based in United Kingdom, with 104 
 
 Mike Dunn, Wayne Williams, Adorio
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*

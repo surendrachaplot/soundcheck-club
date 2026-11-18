@@ -1,6 +1,6 @@
 # Brick Lane NYE | House Digs, Global Groove, Disco - feat. ARLYSS, Marley, Flat Earth Disco at Brick Lane Tap Room
 
-Brick Lane NYE | House Digs, Global Groove, Disco - feat. ARLYSS, Marley, Flat Earth Disco at Brick Lane Tap Room on Thu 31 Dec, London. 3 artists: ARLYSS, Jahmed and Marley Reid. House and Disco. See the line-up on soundcheck.
+Brick Lane NYE | House Digs, Global Groove, Disco - feat. ARLYSS, Marley, Flat Earth Disco at Brick Lane Tap Room on Thu 31 Dec, London. 4 artists: ARLYSS, Flat Earth Disco, Jahmed and Marley Reid. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Brick Lane NYE | House Digs, Global Groove, Disco - feat. ARLYSS, Marley, Flat E
 ## Line-up
 
 - ARLYSS
+- Flat Earth Disco
 - Jahmed
 - Marley Reid
 

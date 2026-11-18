@@ -1,6 +1,6 @@
 # Deenamic
 
-Deenamic is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 20 Nov 2026.
+Deenamic is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 20 Nov 2026.
 
 Deenamic is a house and deep house artist based in Spain, with 5 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Rafa Santos, ANIMANUEL and DJ Gostoso. Next up: Say No More Madrid, Madrid on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Deenamic is a house and deep house artist based in Spain, with 5 gigs on soundch
 
 Rafa Santos, ANIMANUEL, DJ Gostoso
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deenamic/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deenamic/)*

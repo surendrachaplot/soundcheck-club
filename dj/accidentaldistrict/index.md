@@ -1,6 +1,6 @@
 # Accidental District
 
-Accidental District is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Elsewhere, Bangkok on Thu, 19 Nov 2026.
+Accidental District is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Elsewhere, Bangkok on Thu, 19 Nov 2026.
 
 Accidental District is a techno and house artist, with 36 gigs on soundcheck across Bangkok. Often billed alongside Em-J, Wot? and GUNI. Next up: Elsewhere, Bangkok on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Accidental District is a techno and house artist, with 36 gigs on soundcheck acr
 
 Em-J, Wot?, GUNI
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentaldistrict/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentaldistrict/)*

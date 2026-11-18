@@ -1,6 +1,6 @@
 # Frantzvaag
 
-Frantzvaag is a House and Grime artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Blå, Oslo on Fri, 20 Nov 2026.
+Frantzvaag is a House and Grime artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Blå, Oslo on Fri, 20 Nov 2026.
 
 Frantzvaag is a house and grime artist based in Norway, with 28 gigs on soundcheck across Bergen, Norway, Oslo and Tokyo. Often billed alongside Annweiler, Actress and Casablanca 303. Next up: Blå, Oslo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Frantzvaag is a house and grime artist based in Norway, with 28 gigs on soundche
 
 Annweiler, Actress, Casablanca 303
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frantzvaag/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frantzvaag/)*

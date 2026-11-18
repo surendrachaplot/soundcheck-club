@@ -1,8 +1,8 @@
 # FLORA THA EXPLORA
 
-FLORA THA EXPLORA is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at fabric, London on Sun, 22 Nov 2026.
+FLORA THA EXPLORA is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at fabric, London on Sun, 22 Nov 2026.
 
-FLORA THA EXPLORA is a house and minimal artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Rhiavas, DRIA and Brian Smith. Next up: fabric, London on Sun 22 Nov.
+FLORA THA EXPLORA is a house and minimal artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Rhiavas, DRIA and Jerome Six. Next up: fabric, London on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ FLORA THA EXPLORA is a house and minimal artist based in United Kingdom, with 23
 
 ## Shares bills with
 
-Rhiavas, DRIA, Brian Smith
+Rhiavas, DRIA, Jerome Six
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florathaexplora/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florathaexplora/)*

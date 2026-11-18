@@ -1,6 +1,6 @@
 # Late Night Disco & Friends presents: Disco's In The Name at Two More Years
 
-Late Night Disco & Friends presents: Disco's In The Name at Two More Years on Sat 28 Nov, London. 5 artists: dAydREaM, Daydream Disco, Late Night Disco and Sue From HR and 1 more. House and Disco. See the line-up on soundcheck.
+Late Night Disco & Friends presents: Disco's In The Name at Two More Years on Sat 28 Nov, London. 6 artists: dAydREaM, Daydream Disco, Flat Earth Disco and Late Night Disco and 2 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Late Night Disco & Friends presents: Disco's In The Name at Two More Years on Sa
 
 - dAydREaM
 - Daydream Disco
+- Flat Earth Disco
 - Late Night Disco
 - Sue From HR
 - The London Disco Society

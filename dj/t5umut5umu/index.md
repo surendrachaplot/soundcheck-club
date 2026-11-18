@@ -1,6 +1,6 @@
 # T5UMUT5UMU
 
-T5UMUT5UMU is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Forestlimit, Tokyo on Wed, 18 Nov 2026.
+T5UMUT5UMU is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Forestlimit, Tokyo on Wed, 18 Nov 2026.
 
 T5UMUT5UMU is a techno and bass artist, with 11 gigs on soundcheck across Seoul, Singapore and Tokyo. Often billed alongside Mars89, 7e and AI.U. Next up: Forestlimit, Tokyo on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ T5UMUT5UMU is a techno and bass artist, with 11 gigs on soundcheck across Seoul,
 
 Mars89, 7e, AI.U
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t5umut5umu/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t5umut5umu/)*

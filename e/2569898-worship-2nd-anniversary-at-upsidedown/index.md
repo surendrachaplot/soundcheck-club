@@ -1,6 +1,6 @@
 # WORSHIP 2nd Anniversary at Upsidedown
 
-WORSHIP 2nd Anniversary at Upsidedown on Sat 2 Oct, Osaka. 2 artists: OCCA and OSHALEY. See the line-up on soundcheck.
+WORSHIP 2nd Anniversary at Upsidedown on Sat 2 Oct, Osaka. 2 artists: OCCA and OSHALEY. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

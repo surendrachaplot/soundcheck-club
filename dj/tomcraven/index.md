@@ -1,6 +1,6 @@
 # Tom Craven
 
-Tom Craven is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
+Tom Craven is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
 
 Tom Craven is a house and deep house artist based in United Kingdom, with 17 gigs on soundcheck across Birmingham, Leeds, Lisbon and Manchester and 1 more. Often billed alongside Shez, Lopaski and Peter Glasspool. Next up: Dahlia Stereo, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tom Craven is a house and deep house artist based in United Kingdom, with 17 gig
 
 Shez, Lopaski, Peter Glasspool
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcraven/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcraven/)*

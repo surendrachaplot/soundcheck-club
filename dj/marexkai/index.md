@@ -1,6 +1,6 @@
 # Marex Kai
 
-Marex Kai is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Teritorija, Riga on Sat, 12 Dec 2026.
+Marex Kai is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Teritorija, Riga on Sat, 12 Dec 2026.
 
 Marex Kai is a house and hardcore artist based in United Kingdom, with 5 gigs on soundcheck across Riga. Often billed alongside DENOVA, RAWKORED and XSYNC19. Next up: Teritorija, Riga on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Marex Kai is a house and hardcore artist based in United Kingdom, with 5 gigs on
 
 DENOVA, RAWKORED, XSYNC19
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marexkai/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marexkai/)*

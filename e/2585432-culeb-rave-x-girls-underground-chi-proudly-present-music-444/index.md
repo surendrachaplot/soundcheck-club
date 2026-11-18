@@ -1,6 +1,6 @@
 # CULEB.RAVE X GIRLS UNDERGROUND CHI PROUDLY PRESENT: MUSIC 444 THE SPIRIT - CLUB X RAVE EDITION at TBA
 
-CULEB.RAVE X GIRLS UNDERGROUND CHI PROUDLY PRESENT: MUSIC 444 THE SPIRIT - CLUB X RAVE EDITION at TBA on Fri 4 Dec, Chicago. 7 artists: Dj Daddy Wannie, DJ Rico Culebra, DJ THADZ and Elock and 3 more. Techno and House. See the line-up on soundcheck.
+CULEB.RAVE X GIRLS UNDERGROUND CHI PROUDLY PRESENT: MUSIC 444 THE SPIRIT - CLUB X RAVE EDITION at TBA on Fri 4 Dec, Chicago. 7 artists: Dj Daddy Wannie, DJ Rico Culebra, DJ THADZ and Elock and 3 more. Experimental and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

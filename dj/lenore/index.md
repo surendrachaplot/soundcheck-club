@@ -1,17 +1,18 @@
 # Lenore
 
-Lenore is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Phoenix Landing, Boston on Thu, 12 Nov 2026.
+Lenore is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Phoenix Landing, Boston on Thu, 26 Nov 2026.
 
-Lenore is a drum & bass and jungle artist based in United States of America, with 115 gigs on soundcheck across Boston, Milan and Washington DC. Often billed alongside Mizeyesis, Sully and Terraphorm. Next up: Phoenix Landing, Boston on Thu 12 Nov.
+Lenore is a drum & bass and jungle artist based in United States of America, with 116 gigs on soundcheck across Boston, Milan and Washington DC. Often billed alongside Mizeyesis, Sully and Terraphorm. Next up: Phoenix Landing, Boston on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Phoenix Landing | Boston |
+| Thu, 26 Nov 2026 | Phoenix Landing | Boston |
 
 ## Recently played
 
+- Phoenix Landing, Boston · Thu, 12 Nov 2026
 - Phoenix Landing, Boston · Thu, 29 Oct 2026
 - Phoenix Landing, Boston · Thu, 15 Oct 2026
 - Phoenix Landing, Boston · Thu, 1 Oct 2026
@@ -19,10 +20,9 @@ Lenore is a drum & bass and jungle artist based in United States of America, wit
 - Phoenix Landing, Boston · Thu, 3 Sept 2026
 - The Chemist, Boston · Fri, 28 Aug 2026
 - Zuzu, Boston · Sat, 22 Aug 2026
-- TBA - Lynch Family Skatepark, Boston · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Mizeyesis, Sully, Terraphorm
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenore/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenore/)*

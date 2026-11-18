@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "✮ EERIE COLLECTIVE X The Kitchen ✮" on Fri, 20 Nov 2026.
+Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "✮ EERIE COLLECTIVE X The Kitchen ✮" on Fri, 20 Nov 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Adelia, Arton (CZ), AVHD and Axis Alpha and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -21,4 +21,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming 
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

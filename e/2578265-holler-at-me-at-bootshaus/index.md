@@ -1,6 +1,6 @@
 # HOLLER AT ME at Bootshaus
 
-HOLLER AT ME at Bootshaus on Fri 4 Dec, Cologne. 1 artist: Noel Holler. See the line-up on soundcheck.
+HOLLER AT ME at Bootshaus on Fri 4 Dec, Cologne. 1 artist: Noel Holler. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
-# MUTATE • Octave One live + BIAES, SDN at Basic Club
+# MUTATE • Octave One Live, BIAES, SDN at Basic Club
 
-MUTATE • Octave One live + BIAES, SDN at Basic Club on Mon 7 Dec, Naples. 3 artists: BIAES, Octave One and SDN. Techno. See the line-up on soundcheck.
+MUTATE • Octave One Live, BIAES, SDN at Basic Club on Mon 7 Dec, Naples. 3 artists: BIAES, Octave One and SDN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

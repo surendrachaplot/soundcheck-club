@@ -1,6 +1,6 @@
 # Exit Reality
 
-Exit Reality is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Exit Reality with LOOPINMOTION & AUFA" on Wed, 18 Nov 2026.
+Exit Reality is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Exit Reality with LOOPINMOTION & AUFA" on Wed, 18 Nov 2026.
 
 Exit Reality is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with line-ups including DEZ (SG) and Mathanmatics. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Exit Reality is a music venue in Singapore listed on soundcheck. 5 upcoming gigs
 | Sat, 21 Nov 2026 | Exit Reality with Dez | DEZ (SG) |
 | Sat, 5 Dec 2026 | SZN PARKING PRESENTS: Open Decks // 002 |  |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*

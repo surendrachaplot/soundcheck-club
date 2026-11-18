@@ -1,6 +1,6 @@
 # Café V Lese
 
-Café V Lese is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Karin Park" on Thu, 19 Nov 2026.
+Café V Lese is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Karin Park" on Thu, 19 Nov 2026.
 
 Café V Lese is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including CYNICAL. See dates, start times and who's playing. Krymska 12, Praha 10 - Vrsovice.
 
@@ -15,4 +15,4 @@ Café V Lese is a music venue in Prague listed on soundcheck. 2 upcoming gigs, w
 
 Krymska 12, Praha 10 - Vrsovice, Prague
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/caf-v-lese/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/caf-v-lese/)*

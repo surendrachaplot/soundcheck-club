@@ -1,6 +1,6 @@
 # We Rave You x Bootshaus pres. Nakadia - Pattaya, THA at LAY Beach Club
 
-We Rave You x Bootshaus pres. Nakadia - Pattaya, THA at LAY Beach Club on Wed 9 Dec, Bangkok. 1 artist: Danth. See the line-up on soundcheck.
+We Rave You x Bootshaus pres. Nakadia - Pattaya, THA at LAY Beach Club on Wed 9 Dec, Bangkok. 1 artist: Danth. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

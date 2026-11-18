@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "OVERDRIVE" on Thu, 19 Nov 2026.
+Bsmt 254 is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "OVERDRIVE" on Thu, 19 Nov 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Babies R Stupid, Burnin' Vernon, CAETANO and DJ Barbi and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -21,4 +21,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

@@ -1,6 +1,6 @@
 # Annie Errez
 
-Annie Errez is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
+Annie Errez is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
 
 Annie Errez is a tech house and house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Leeds and 5 more. Often billed alongside Bobby O'Donnell, Enzo Siragusa and Phil Warner. Next up: Mint XL, Leeds on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Annie Errez is a tech house and house artist based in United Kingdom, with 76 gi
 
 Bobby O'Donnell, Enzo Siragusa, Phil Warner
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieerrez/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieerrez/)*

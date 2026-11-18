@@ -1,14 +1,15 @@
 # LE KLOWN
 
-LE KLOWN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Pillbox Beijing, Beijing on Sat, 21 Nov 2026.
+LE KLOWN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Pillbox Beijing, Beijing on Sat, 21 Nov 2026.
 
-LE KLOWN is a techno and hardcore artist based in France, with 28 gigs on soundcheck across Barcelona, Beijing, Bordeaux and Glasgow and 9 more. Often billed alongside KARELBLADE, DUNA ËDEN and Drivr. Next up: Pillbox Beijing, Beijing on Sat 21 Nov.
+LE KLOWN is a techno and hardcore artist based in France, with 29 gigs on soundcheck across Barcelona, Beijing, Bordeaux and Glasgow and 10 more. Often billed alongside KARELBLADE, DUNA ËDEN and Drivr. Next up: Pillbox Beijing, Beijing on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Pillbox Beijing | Beijing |
+| Sat, 5 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LE KLOWN is a techno and hardcore artist based in France, with 28 gigs on soundc
 
 KARELBLADE, DUNA ËDEN, Drivr
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leklown/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leklown/)*

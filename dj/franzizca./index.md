@@ -1,6 +1,6 @@
 # Franzizca.
 
-Franzizca. is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Le Sucre, Lyon on Sat, 28 Nov 2026.
+Franzizca. is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Sucre, Lyon on Sat, 28 Nov 2026.
 
 Franzizca. is a techno and house artist based in Argentina, with 23 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 7 more. Often billed alongside Leena, tINI and Alarico. Next up: Le Sucre, Lyon on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Franzizca. is a techno and house artist based in Argentina, with 23 gigs on soun
 
 Leena, tINI, Alarico
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*

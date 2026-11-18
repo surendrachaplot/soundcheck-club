@@ -1,6 +1,6 @@
 # Colossio
 
-Colossio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Iocerouno, Monterrey on Sat, 21 Nov 2026.
+Colossio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Iocerouno, Monterrey on Sat, 21 Nov 2026.
 
 Colossio is a techno and house artist based in Mexico, with 43 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 4 more. Often billed alongside Cabizbajo, Gáme and Andre VII. Next up: Iocerouno, Monterrey on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Colossio is a techno and house artist based in Mexico, with 43 gigs on soundchec
 
 Cabizbajo, Gáme, Andre VII
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colossio/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colossio/)*

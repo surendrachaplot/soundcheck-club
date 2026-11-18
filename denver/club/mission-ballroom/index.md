@@ -1,6 +1,6 @@
 # Mission Ballroom
 
-Mission Ballroom is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Josh Baker" on Wed, 25 Nov 2026.
+Mission Ballroom is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Josh Baker" on Wed, 25 Nov 2026.
 
 Mission Ballroom is a music venue in Denver listed on soundcheck. 3 upcoming gigs, with line-ups including Hamdi (UK), Josh Baker, Nero and Rohaan and 1 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Mission Ballroom is a music venue in Denver listed on soundcheck. 3 upcoming gig
 | Sat, 12 Dec 2026 | LYNY | Nero, Rohaan |
 | Fri, 12 Mar 2027 | Hamdi | Hamdi (UK) |
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/mission-ballroom/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/mission-ballroom/)*

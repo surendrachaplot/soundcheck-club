@@ -1,6 +1,6 @@
 # TBA - Melbourne, Victoria, Australia
 
-TBA - Melbourne, Victoria, Australia is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "SYNTHETIC REALITY — 07 NOVEMBER 2026" on Sat, 7 Nov 2026.
+TBA - Melbourne, Victoria, Australia is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Synthex Collective Presents: Lost In The Frequency, Found In The Night" on Sat, 5 Dec 2026.
 
 TBA - Melbourne, Victoria, Australia is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - Melbourne, Victoria, Australia is a music venue in Melbourne listed on sou
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | SYNTHETIC REALITY — 07 NOVEMBER 2026 |  |
+| Sat, 5 Dec 2026 | Synthex Collective Presents: Lost In The Frequency, Found In The Night |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-melbourne-victoria-australia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-melbourne-victoria-australia/)*

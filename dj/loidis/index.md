@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Nowadays, New York City on Thu, 19 Nov 2026.
+Loidis is a Techno and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Nowadays, New York City on Thu, 19 Nov 2026.
 
 Loidis is a techno and dub techno artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Nowadays, New York City on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Loidis is a techno and dub techno artist based in United States of America, with
 
 Huerco S., Skee Mask, DJ Python
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

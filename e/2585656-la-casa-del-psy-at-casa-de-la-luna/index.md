@@ -1,6 +1,6 @@
 # LA CASA DEL PSY at Casa De La Luna
 
-LA CASA DEL PSY at Casa De La Luna on Fri 20 Nov, Medellin. 2 artists: elbonitosounds and Violeta Villa. Reggaeton and Psytrance. See the line-up on soundcheck.
+LA CASA DEL PSY at Casa De La Luna on Fri 20 Nov, Medellin. 3 artists: elbonitosounds, Niko Bo and Violeta Villa. Reggaeton and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LA CASA DEL PSY at Casa De La Luna on Fri 20 Nov, Medellin. 2 artists: elbonitos
 ## Line-up
 
 - elbonitosounds
+- Niko Bo
 - Violeta Villa
 
 *Source: [soundcheck](https://soundcheck.club/e/2585656-la-casa-del-psy-at-casa-de-la-luna/)*

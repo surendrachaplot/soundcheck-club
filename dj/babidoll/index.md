@@ -1,6 +1,6 @@
 # BabiDoll
 
-BabiDoll is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
+BabiDoll is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
 
 BabiDoll is a club and techno artist based in United States of America, with 8 gigs on soundcheck across Austin, Los Angeles, Portland and San Francisco/Oakland. Often billed alongside BabiBoi, kuntress and ARMANA KHAN. Next up: Highland Lounge, Austin on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ BabiDoll is a club and techno artist based in United States of America, with 8 g
 
 BabiBoi, kuntress, ARMANA KHAN
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babidoll/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babidoll/)*

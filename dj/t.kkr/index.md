@@ -1,14 +1,15 @@
 # T.K (KR)
 
-T.K (KR) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Bolero, Seoul on Fri, 20 Nov 2026.
+T.K (KR) is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Fri, 20 Nov 2026.
 
-T.K (KR) is a club and house artist based in South Korea, with 38 gigs on soundcheck across Seoul. Often billed alongside DJ Co.kr, Hyejin and DJ POOL. Next up: Bolero, Seoul on Fri 20 Nov.
+T.K (KR) is a club and house artist based in South Korea, with 39 gigs on soundcheck across Seoul. Often billed alongside DJ Co.kr, Hyejin and ANDOW. Next up: Bolero, Seoul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Bolero | Seoul |
+| Sat, 21 Nov 2026 | Bolero | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ T.K (KR) is a club and house artist based in South Korea, with 38 gigs on soundc
 
 ## Shares bills with
 
-DJ Co.kr, Hyejin, DJ POOL
+DJ Co.kr, Hyejin, ANDOW
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*

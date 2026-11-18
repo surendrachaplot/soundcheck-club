@@ -1,14 +1,15 @@
 # Kvanchi
 
-Kvanchi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
+Kvanchi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
 
-Kvanchi is a techno and house artist based in Georgia, with 113 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 13 more. Often billed alongside HVL, Zitto and Kancheli. Next up: Bassiani, Tbilisi on Fri 27 Nov.
+Kvanchi is a techno and house artist based in Georgia, with 114 gigs on soundcheck across Amsterdam, Athens, Batumi and Beijing and 14 more. Often billed alongside HVL, Zitto and Kancheli. Next up: Bassiani, Tbilisi on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Bassiani | Tbilisi |
+| Sat, 28 Nov 2026 | Kibe | Batumi |
 | Fri, 11 Dec 2026 | Bassiani | Tbilisi |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
@@ -27,4 +28,4 @@ Kvanchi is a techno and house artist based in Georgia, with 113 gigs on soundche
 
 HVL, Zitto, Kancheli
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvanchi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvanchi/)*

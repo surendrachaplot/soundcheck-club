@@ -1,6 +1,6 @@
 # Bia Marques
 
-Bia Marques is a Baile Funk and Hip-Hop artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - SACADURA CABRAL 335, Rio de Janeiro on Thu, 19 Nov 2026.
+Bia Marques is a Baile Funk and Hip-Hop artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - SACADURA CABRAL 335, Rio de Janeiro on Thu, 19 Nov 2026.
 
 Bia Marques is a baile funk and hip-hop artist based in Brazil, with 62 gigs on soundcheck across Leeds, London, Manchester and Milan and 3 more. Often billed alongside LETGABS, Daviaa and LOELASH. Next up: TBA - SACADURA CABRAL 335, Rio de Janeiro on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ Bia Marques is a baile funk and hip-hop artist based in Brazil, with 62 gigs on 
 
 LETGABS, Daviaa, LOELASH
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*

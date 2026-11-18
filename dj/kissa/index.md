@@ -1,6 +1,6 @@
 # KISSA
 
-KISSA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri, 20 Nov 2026.
+KISSA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri, 20 Nov 2026.
 
 KISSA is a techno and electro artist based in Germany, with 6 gigs on soundcheck across Hamburg. Often billed alongside TZO, AH-N!CE and Alex Benz. Next up: TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ KISSA is a techno and electro artist based in Germany, with 6 gigs on soundcheck
 
 TZO (1), AH-N!CE, Alex Benz
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kissa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kissa/)*

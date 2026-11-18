@@ -1,6 +1,6 @@
 # Diffrent
 
-Diffrent is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Matilo Park, Rotterdam on Sat, 21 Nov 2026.
+Diffrent is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Matilo Park, Rotterdam on Sat, 21 Nov 2026.
 
 Diffrent is a garage and house artist based in Germany, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Kyle Starkey, Pegassi and SAIDAH. Next up: TBA - Matilo Park, Rotterdam on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Diffrent is a garage and house artist based in Germany, with 165 gigs on soundch
 
 Kyle Starkey, Pegassi, SAIDAH
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

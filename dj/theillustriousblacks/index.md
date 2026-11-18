@@ -1,13 +1,14 @@
 # The Illustrious Blacks
 
-The Illustrious Blacks is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
+The Illustrious Blacks is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Red Eye NY, New York City on Fri, 20 Nov 2026.
 
-The Illustrious Blacks is a house and disco artist based in United States of America, with 93 gigs on soundcheck across Adelaide, Berlin, Boston and Detroit and 18 more. Often billed alongside Boris, Gabrielle Kwarteng and Hercules & Love Affair. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
+The Illustrious Blacks is a house and disco artist based in United States of America, with 94 gigs on soundcheck across Adelaide, Berlin, Boston and Detroit and 18 more. Often billed alongside Boris, DJ Dawson and Gabrielle Kwarteng. Next up: Red Eye NY, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Red Eye NY | New York City |
 | Thu, 11 Mar 2027 | Mantamar Beach Club | Puerto-vallarta |
 
 ## Recently played
@@ -23,6 +24,6 @@ The Illustrious Blacks is a house and disco artist based in United States of Ame
 
 ## Shares bills with
 
-Boris, Gabrielle Kwarteng, Hercules & Love Affair
+Boris, DJ Dawson, Gabrielle Kwarteng
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*

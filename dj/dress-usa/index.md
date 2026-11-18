@@ -1,6 +1,6 @@
 # Dress
 
-Dress is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at DeTour, Tokyo on Fri, 20 Nov 2026.
+Dress is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at DeTour, Tokyo on Fri, 20 Nov 2026.
 
 Dress is a techno and electro artist based in United States of America, with 6 gigs on soundcheck across Berlin, Brussels, Ghent and Tokyo. Often billed alongside Bambounou, Blain and Border One. Next up: DeTour, Tokyo on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Dress is a techno and electro artist based in United States of America, with 6 g
 
 Bambounou, Blain, Border One
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dress-usa/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dress-usa/)*

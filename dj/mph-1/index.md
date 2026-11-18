@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 20 Nov 2026.
+MPH (1) is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 20 Nov 2026.
 
 MPH is a garage and house artist based in United Kingdom, with 137 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: 24 Kitchen Street, Liverpool on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ MPH is a garage and house artist based in United Kingdom, with 137 gigs on sound
 
 Oppidan, Flava D, Hamdi
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

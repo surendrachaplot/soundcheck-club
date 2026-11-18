@@ -1,13 +1,14 @@
 # Latex Fine
 
-Latex Fine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Duin en Strand, Rotterdam on Fri, 19 May 2028.
+Latex Fine is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Docks, Hamburg on Sat, 12 Dec 2026.
 
-Latex Fine is a techno and house artist based in Germany, with 3 gigs on soundcheck across Rotterdam and Saxony Anhalt. Often billed alongside AnG (NL), Early Bird and FREIGEISTER. Next up: Duin en Strand, Rotterdam on Fri 19 May.
+Latex Fine is a techno and house artist based in Germany, with 4 gigs on soundcheck across Hamburg, Rotterdam and Saxony Anhalt. Often billed alongside AnG (NL), Early Bird and FREIGEISTER. Next up: Docks, Hamburg on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Docks | Hamburg |
 | Fri, 19 May 2028 | Duin en Strand | Rotterdam |
 
 ## Recently played
@@ -19,4 +20,4 @@ Latex Fine is a techno and house artist based in Germany, with 3 gigs on soundch
 
 AnG (NL), Early Bird, FREIGEISTER
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latexfine/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latexfine/)*

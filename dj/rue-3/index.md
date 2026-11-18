@@ -1,6 +1,6 @@
 # rue (3)
 
-rue (3) is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
+rue (3) is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
 
 rue is an electro and club artist based in South Korea, with 28 gigs on soundcheck across Seoul. Often billed alongside Excultist, MOHOHOMO and O.od. Next up: Cakeshop, Seoul on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ rue is an electro and club artist based in South Korea, with 28 gigs on soundche
 
 Excultist, MOHOHOMO, O.od
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*

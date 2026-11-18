@@ -1,6 +1,6 @@
 # Fountain LA
 
-Fountain LA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. The next is "Una Noche de Perreo" on Fri, 20 Nov 2026.
+Fountain LA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Una Noche de Perreo" on Fri, 20 Nov 2026.
 
 Fountain LA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including DINABN and JOAQU.N. See dates, start times and who's playing. 2889 W Olympic Blvd, Los Angeles CA 90006.
 
@@ -14,4 +14,4 @@ Fountain LA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig
 
 2889 W Olympic Blvd, Los Angeles CA 90006, Los Angeles
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fountain-la/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fountain-la/)*

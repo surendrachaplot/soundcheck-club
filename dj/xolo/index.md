@@ -1,6 +1,6 @@
 # Xolo
 
-Xolo is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The LookOut, San Francisco/Oakland on Thu, 19 Nov 2026.
+Xolo is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The LookOut, San Francisco/Oakland on Thu, 19 Nov 2026.
 
 Xolo is a techno and acid artist based in United States of America, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside M66, The Baptist and Amino. Next up: The LookOut, San Francisco/Oakland on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ Xolo is a techno and acid artist based in United States of America, with 7 gigs 
 
 M66 (1), The Baptist, Amino
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xolo/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xolo/)*

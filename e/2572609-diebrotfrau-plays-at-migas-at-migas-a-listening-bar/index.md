@@ -1,6 +1,6 @@
-# Diebrotfrau plays at migas at migas, a listening bar
+# diebrotfrau plays at migas at migas, a listening bar
 
-Diebrotfrau plays at migas at migas, a listening bar on Sat 21 Nov, Berlin. See the line-up on soundcheck.
+diebrotfrau plays at migas at migas, a listening bar on Sat 21 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

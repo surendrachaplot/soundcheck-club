@@ -1,8 +1,8 @@
 # KARO (4)
 
-KARO (4) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+KARO (4) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-KARO is a house and minimal artist based in Colombia, with 6 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Mavvi, Adi (CO) and Andrea Arias. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+KARO is a house and minimal artist based in Colombia, with 6 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Mavvi, Adi (CO) and Alejandro Bernal. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ KARO is a house and minimal artist based in Colombia, with 6 gigs on soundcheck 
 
 ## Shares bills with
 
-Mavvi, Adi (CO), Andrea Arias
+Mavvi, Adi (CO), Alejandro Bernal
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karo-4/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karo-4/)*

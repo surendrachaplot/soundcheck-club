@@ -1,6 +1,6 @@
 # POIZN
 
-POIZN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Dec 2026.
+POIZN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Dec 2026.
 
 POIZN is a techno and house artist based in Germany, with 23 gigs on soundcheck across Cologne and Frankfurt. Often billed alongside Harmann, VILLA (DE) and AUHAM. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ POIZN is a techno and house artist based in Germany, with 23 gigs on soundcheck 
 
 Harmann, VILLA (DE), AUHAM
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poizn/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poizn/)*

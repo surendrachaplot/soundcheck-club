@@ -1,6 +1,6 @@
 # Jazzy (IRL)
 
-Jazzy (IRL) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Digital, Newcastle on Sat, 21 Nov 2026.
+Jazzy (IRL) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Digital, Newcastle on Sat, 21 Nov 2026.
 
 Jazzy (IRL) is a house and tech house artist based in Ireland, with 23 gigs on soundcheck across Amsterdam, Austin, Belfast and Boston and 13 more. Often billed alongside RUZE, Badger (UK) and Chris Lorenzo. Next up: Digital, Newcastle on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Jazzy (IRL) is a house and tech house artist based in Ireland, with 23 gigs on s
 
 RUZE, Badger (UK), Chris Lorenzo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyirl/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyirl/)*

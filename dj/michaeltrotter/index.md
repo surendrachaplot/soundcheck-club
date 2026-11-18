@@ -1,6 +1,6 @@
 # Michael Trotter
 
-Michael Trotter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at KEYBAR, New York City on Fri, 27 Nov 2026.
+Michael Trotter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at KEYBAR, New York City on Fri, 27 Nov 2026.
 
 Michael Trotter is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Berlin, Miami and New York City. Often billed alongside Ardio Zemog, Darren Black and David Ohana Aviance. Next up: KEYBAR, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Michael Trotter is a house and techno artist based in United States of America, 
 
 Ardio Zemog, Darren Black, David Ohana Aviance
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeltrotter/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeltrotter/)*

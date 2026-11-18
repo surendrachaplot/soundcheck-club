@@ -1,6 +1,6 @@
 # Rittmus
 
-Rittmus is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+Rittmus is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
 Rittmus is a house and trance artist based in Germany, with 27 gigs on soundcheck across Hamburg and Hannover. Often billed alongside le0never, Anne-Lu and FI3BER. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rittmus is a house and trance artist based in Germany, with 27 gigs on soundchec
 
 le0never, Anne-Lu, FI3BER
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rittmus/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rittmus/)*

@@ -1,6 +1,6 @@
 # -LaLa-
 
--LaLa- is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at SASS Music Club, Vienna on Sat, 21 Nov 2026.
+-LaLa- is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at SASS Music Club, Vienna on Sat, 21 Nov 2026.
 
 -LaLa- is a house and electro artist based in Canada, with 24 gigs on soundcheck across Bangkok, Berlin, Munich and Valencia and 2 more. Often billed alongside Æ-X, IAMBP and Ladrillovitz. Next up: SASS Music Club, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 Æ-X, IAMBP, Ladrillovitz
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-lala-/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-lala-/)*

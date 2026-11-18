@@ -1,6 +1,6 @@
 # Alay
 
-Alay is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
+Alay is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
 
 Alay is a techno and afro house artist based in Switzerland, with 33 gigs on soundcheck across Basel, Ibiza, Switzerland and Zurich. Often billed alongside Ambient Pino, Pomboklap and AANN. Next up: Trübsee Station, Engelberg, Switzerland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alay is a techno and afro house artist based in Switzerland, with 33 gigs on sou
 
 Ambient Pino, Pomboklap, AANN
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alay/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alay/)*

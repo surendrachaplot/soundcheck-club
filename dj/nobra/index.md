@@ -1,6 +1,6 @@
 # NO BRA
 
-NO BRA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Madame X, New York City on Thu, 10 Dec 2026.
+NO BRA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Madame X, New York City on Thu, 10 Dec 2026.
 
 NO BRA is an experimental and electronica artist, with 5 gigs on soundcheck across Berlin, Glasgow, London and New York City. Often billed alongside NEW YORK, Kaitlin Simotics and Mike Levitt. Next up: Madame X, New York City on Thu 10 Dec.
 
@@ -21,4 +21,4 @@ NO BRA is an experimental and electronica artist, with 5 gigs on soundcheck acro
 
 NEW YORK, Kaitlin Simotics, Mike Levitt
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nobra/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nobra/)*

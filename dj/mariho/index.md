@@ -1,6 +1,6 @@
 # MARIHO
 
-MARIHO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at UNDERCITY, Seoul on Fri, 18 Dec 2026.
+MARIHO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at UNDERCITY, Seoul on Fri, 18 Dec 2026.
 
 MARIHO is a psytrance and techno artist based in Japan, with 52 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside C!AO, Tom Monkey and O-MAN. Next up: UNDERCITY, Seoul on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ MARIHO is a psytrance and techno artist based in Japan, with 52 gigs on soundche
 
 C!AO, Tom Monkey, O-MAN
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariho/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariho/)*

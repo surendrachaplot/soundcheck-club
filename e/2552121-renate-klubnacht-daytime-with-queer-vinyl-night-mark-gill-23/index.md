@@ -1,6 +1,6 @@
 # Renate Klubnacht & Daytime with Queer Vinyl Night, Mark Gill & 23XI at Renate
 
-Renate Klubnacht & Daytime with Queer Vinyl Night, Mark Gill & 23XI on Fri 27 Nov, Berlin. 8 artists: Chris Ku, David Böning, Mark Gill and Murrin and 4 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht & Daytime with Queer Vinyl Night, Mark Gill & 23XI on Fri 27 Nov, Berlin. 10 artists: Chris Ku, David Böning, Eva Crystaltips and katja. and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Renate Klubnacht & Daytime with Queer Vinyl Night, Mark Gill & 23XI on Fri 27 No
 
 - Chris Ku
 - David Böning
+- Eva Crystaltips
+- katja.
 - Mark Gill
 - Murrin
 - Pascale Project

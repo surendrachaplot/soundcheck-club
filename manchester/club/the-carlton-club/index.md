@@ -1,6 +1,6 @@
 # The Carlton Club
 
-The Carlton Club is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "NEW WORLDBUILDING 001 " on Thu, 19 Nov 2026.
+The Carlton Club is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "NEW WORLDBUILDING 001 " on Thu, 19 Nov 2026.
 
 The Carlton Club is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Iceboy Violet. See dates, start times and who's playing. Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE.
 
@@ -16,4 +16,4 @@ The Carlton Club is a music venue in Manchester listed on soundcheck. 3 upcoming
 
 Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE, Manchester
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-carlton-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-carlton-club/)*

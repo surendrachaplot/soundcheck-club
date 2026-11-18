@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "URBAN MELODIES -  90s & 2000s Dance Classics" on Sat, 21 Nov 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "URBAN MELODIES -  90s & 2000s Dance Classics" on Sat, 21 Nov 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Amps, ANZU, ATT and DJ B2B and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -18,4 +18,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

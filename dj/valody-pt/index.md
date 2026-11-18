@@ -1,8 +1,8 @@
 # Valody
 
-Valody is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at RADION, Amsterdam on Fri, 27 Nov 2026.
+Valody is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at RADION, Amsterdam on Fri, 27 Nov 2026.
 
-Valody is a techno and house artist based in Portugal, with 83 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Madrid and 6 more. Often billed alongside Maria Cue, Nacho and Anika Kunst. Next up: RADION, Amsterdam on Fri 27 Nov.
+Valody is a techno and house artist based in Portugal, with 84 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Madrid and 6 more. Often billed alongside Maria Cue, Nacho and Anika Kunst. Next up: RADION, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Valody is a techno and house artist based in Portugal, with 83 gigs on soundchec
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
 | Sat, 5 Dec 2026 | TBA - Secret Location | Madrid |
 | Fri, 18 Dec 2026 | RADION | Amsterdam |
+| Sat, 9 Jan 2027 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Valody is a techno and house artist based in Portugal, with 83 gigs on soundchec
 
 Maria Cue, Nacho, Anika Kunst
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*

@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Tiger Weeds with Serge Geyzel (Live)" on Fri, 20 Nov 2026.
+Astron Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Tiger Weeds with Serge Geyzel (Live)" on Fri, 20 Nov 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with line-ups including BMSK, Choronzon, Datalogs and DJ Overdose and 2 more. See dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -19,4 +19,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, wi
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

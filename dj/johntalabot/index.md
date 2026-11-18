@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 20 Nov 2026.
+John Talabot is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 20 Nov 2026.
 
 John Talabot is a house and techno artist based in Spain, with 203 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Studio Club Malaga, Malaga on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ John Talabot is a house and techno artist based in Spain, with 203 gigs on sound
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

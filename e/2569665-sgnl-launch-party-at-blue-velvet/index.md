@@ -1,6 +1,6 @@
 # sgnl Launch Party at Blue Velvet
 
-sgnl Launch Party at Blue Velvet on Sat 21 Nov, Berlin. 4 artists: Dan Haward, Headstorm, Listenblondie and Subtrax. Trance and Techno. See the line-up on soundcheck.
+sgnl Launch Party at Blue Velvet on Sat 21 Nov, Berlin. 5 artists: Dan Haward, Headstorm, Listenblondie and Subtrax and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ sgnl Launch Party at Blue Velvet on Sat 21 Nov, Berlin. 4 artists: Dan Haward, H
 - Headstorm
 - Listenblondie
 - Subtrax
+- YAYA KOISARADAS
 
 *Source: [soundcheck](https://soundcheck.club/e/2569665-sgnl-launch-party-at-blue-velvet/)*

@@ -1,6 +1,6 @@
 # Antares (UK)
 
-Antares (UK) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Zumana Bali, Bali on Wed, 18 Nov 2026.
+Antares (UK) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Zumana Bali, Bali on Wed, 18 Nov 2026.
 
 Antares (UK) is a progressive house and deep house artist based in United Kingdom, with 29 gigs on soundcheck across Athens, Bali, Bangkok and Ibiza and 3 more. Often billed alongside Auric, Balzar and Redfreya. Next up: Zumana Bali, Bali on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Antares (UK) is a progressive house and deep house artist based in United Kingdo
 
 Auric, Balzar, Redfreya
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antares-uk/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antares-uk/)*

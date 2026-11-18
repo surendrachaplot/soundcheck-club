@@ -1,8 +1,8 @@
 # DINABN
 
-DINABN is a Reggaeton and Dembow artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
+DINABN is a Reggaeton and Dembow artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
 
-DINABN is a reggaeton and dembow artist based in United States of America, with 102 gigs on soundcheck across Los Angeles, Mexico City, Portland and San Diego and 2 more. Often billed alongside JOAQU.N, Cquestt and Diablito. Next up: Los Globos, Los Angeles on Thu 19 Nov.
+DINABN is a reggaeton and dembow artist based in United States of America, with 103 gigs on soundcheck across Los Angeles, Mexico City, Portland and San Diego and 2 more. Often billed alongside JOAQU.N, Cquestt and Diablito. Next up: Los Globos, Los Angeles on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DINABN is a reggaeton and dembow artist based in United States of America, with 
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Los Globos | Los Angeles |
 | Fri, 20 Nov 2026 | Fountain LA | Los Angeles |
+| Sat, 5 Dec 2026 | El Cid | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DINABN is a reggaeton and dembow artist based in United States of America, with 
 
 JOAQU.N, Cquestt, Diablito
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinabn/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinabn/)*

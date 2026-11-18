@@ -1,8 +1,8 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Polychrome x Doka Studio with Willow (UK) - Lennie" on Fri, 20 Nov 2026.
+Doka is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Polychrome x Doka Studio with Willow (UK) - Lennie" on Fri, 20 Nov 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including CTRLZORA, Danilo Plessow, I-F and Kléo and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Bevan, CTRLZORA, Danilo Plessow and DJ Pointless and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with l
 | Fri, 11 Dec 2026 | Doka Studio x Call 4 Rhythm with LADYMONIX - KIéo | Kléo, LADYMONIX |
 | Sat, 12 Dec 2026 | Doka Studio x Call 4 Rhythm with LADYMONIX - KIéo | Kléo, LADYMONIX |
 | Sun, 20 Dec 2026 | Ciranda Sundays x Doka Studio with Danilo Plessow - Mendel | Danilo Plessow, Mendel |
+| Fri, 1 Jan 2027 | Doka Studio x Handy Records with MADVILLA - Emmz - Bevan - DJ Pointless [NYE] | Bevan, DJ Pointless, Emmz, MADVILLA |
 
 ## Address
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

@@ -1,8 +1,8 @@
 # Zeina
 
-Zeina is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Outer Heaven, New York City on Fri, 20 Nov 2026.
+Zeina is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Outer Heaven, New York City on Fri, 20 Nov 2026.
 
-Zeina is a house and techno artist based in Egypt, with 54 gigs on soundcheck across Amsterdam, Berlin, Boston and Colombia and 16 more. Often billed alongside O.BEE, Mari.te and Omar Fayyad. Next up: Outer Heaven, New York City on Fri 20 Nov.
+Zeina is a house and techno artist based in Egypt, with 55 gigs on soundcheck across Amsterdam, Berlin, Boston and Colombia and 16 more. Often billed alongside O.BEE, Mari.te and Omar Fayyad. Next up: Outer Heaven, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Zeina is a house and techno artist based in Egypt, with 54 gigs on soundcheck ac
 | Fri, 20 Nov 2026 | Outer Heaven | New York City |
 | Fri, 27 Nov 2026 | Salon Daomé | Montreal |
 | Sat, 28 Nov 2026 | The Jama | Toronto |
+| Sat, 19 Dec 2026 | fabric | London |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
@@ -30,4 +31,4 @@ Zeina is a house and techno artist based in Egypt, with 54 gigs on soundcheck ac
 
 O.BEE, Mari.te, Omar Fayyad
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*

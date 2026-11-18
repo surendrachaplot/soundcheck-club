@@ -1,6 +1,6 @@
 # Mahakali
 
-Mahakali is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Needle, Shanghai on Thu, 19 Nov 2026.
+Mahakali is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Needle, Shanghai on Thu, 19 Nov 2026.
 
 Mahakali is a techno and psytrance artist, with 18 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside ACHO, CicE and Johannes. Next up: Needle, Shanghai on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Mahakali is a techno and psytrance artist, with 18 gigs on soundcheck across Bei
 
 ACHO, CicE, Johannes
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahakali/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahakali/)*

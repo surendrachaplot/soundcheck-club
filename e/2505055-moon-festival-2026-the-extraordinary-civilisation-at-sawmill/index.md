@@ -1,6 +1,6 @@
 # Moon Festival 2026: The Extraordinary Civilisation at Sawmills
 
-Moon Festival 2026: The Extraordinary Civilisation at Sawmills on Thu 31 Dec, Bristol. 13 artists: Badger (UK), Bladerunner, Burt Cope and Camo & Krooked and 9 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Moon Festival 2026: The Extraordinary Civilisation at Sawmills on Thu 31 Dec, Bristol. 14 artists: Badger (UK), Bladerunner, Burt Cope and Camo & Krooked and 10 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ Moon Festival 2026: The Extraordinary Civilisation at Sawmills on Thu 31 Dec, Br
 - Eksman
 - Emily Makis
 - Enei
+- Formula
 - Formula LDN
 - Hang The DJs
 - Original Sin

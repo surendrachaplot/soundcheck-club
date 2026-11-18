@@ -1,6 +1,6 @@
 # Inkonst
 
-Inkonst is a music venue in Malmo with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "EMOM Scania – Electronic Music Open Mic | FRI ENTRÉ" on Wed, 18 Nov 2026.
+Inkonst is a music venue in Malmo with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "EMOM Scania – Electronic Music Open Mic | FRI ENTRÉ" on Wed, 18 Nov 2026.
 
 Inkonst is a music venue in Malmo listed on soundcheck. 8 upcoming gigs, with line-ups including Baba Stiltz, Behrang Mohammadi, Carly Zeng and Frank Bretschneider and 2 more. See dates, start times and who's playing. Bergsgatan 29, 214 22 Malmö, Sweden.
 
@@ -21,4 +21,4 @@ Inkonst is a music venue in Malmo listed on soundcheck. 8 upcoming gigs, with li
 
 Bergsgatan 29, 214 22 Malmö, Sweden, Malmo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*

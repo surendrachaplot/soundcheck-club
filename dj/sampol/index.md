@@ -1,13 +1,14 @@
 # Sampol
 
-Sampol is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Les Enfants Brillants, Barcelona on Mon, 7 Dec 2026.
+Sampol is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sound Machine, Toronto on Fri, 4 Dec 2026.
 
-Sampol is a house and electro artist based in Spain, with 121 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Les Enfants Brillants, Barcelona on Mon 7 Dec.
+Sampol is an electro and house artist based in Spain, with 122 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Sound Machine, Toronto on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Sound Machine | Toronto |
 | Mon, 7 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 | Thu, 14 Jan 2027 | Retro Mountain Koh Phangan | Thailand |
@@ -27,4 +28,4 @@ Sampol is a house and electro artist based in Spain, with 121 gigs on soundcheck
 
 Alex (ES), Hitch, MARYO
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

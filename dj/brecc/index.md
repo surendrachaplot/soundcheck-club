@@ -1,6 +1,6 @@
 # Brecc
 
-Brecc is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at BASIS, Utrecht on Fri, 8 Jan 2027.
+Brecc is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at BASIS, Utrecht on Fri, 8 Jan 2027.
 
 Brecc is a techno and industrial artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside KØZLØV, Charlie Sparks and Cynthia Spiering. Next up: BASIS, Utrecht on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Brecc is a techno and industrial artist based in Netherlands, with 46 gigs on so
 
 KØZLØV, Charlie Sparks, Cynthia Spiering
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brecc/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brecc/)*

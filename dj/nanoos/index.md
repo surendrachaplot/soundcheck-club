@@ -1,8 +1,8 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Descent, Boston on Fri, 20 Nov 2026.
+Nanoos is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Descent, Boston on Fri, 20 Nov 2026.
 
-Nanoos is a club and ghetto tech artist based in United States of America, with 96 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 20 more. Often billed alongside Cquestt, Dj Nico and Fullbodydurag. Next up: Descent, Boston on Fri 20 Nov.
+Nanoos is a club and ghetto tech artist based in United States of America, with 97 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 20 more. Often billed alongside Cquestt, Dj Nico and Fullbodydurag. Next up: Descent, Boston on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nanoos is a club and ghetto tech artist based in United States of America, with 
 | Fri, 27 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 5 Dec 2026 | TBA - Premises | Chicago |
 | Thu, 10 Dec 2026 | Nowadays | New York City |
+| Sat, 12 Dec 2026 | Wicker Park | Chicago |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Nanoos is a club and ghetto tech artist based in United States of America, with 
 
 Cquestt, Dj Nico, Fullbodydurag
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

@@ -1,6 +1,6 @@
 # Lolla Fedolfi
 
-Lolla Fedolfi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Range, Turin on Fri, 20 Nov 2026.
+Lolla Fedolfi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Range, Turin on Fri, 20 Nov 2026.
 
 Lolla Fedolfi is a house and tech house artist based in Italy, with 31 gigs on soundcheck across Milan, Naples, Turin and Zurich. Often billed alongside Dante (H501), AGNES (IT) and Alessio Cristiano. Next up: The Range, Turin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lolla Fedolfi is a house and tech house artist based in Italy, with 31 gigs on s
 
 Dante (H501), AGNES (IT), Alessio Cristiano
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lollafedolfi/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lollafedolfi/)*

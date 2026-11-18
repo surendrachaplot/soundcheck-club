@@ -1,6 +1,6 @@
 # Mikel (1)
 
-Mikel (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
+Mikel (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
 
 Mikel is a techno and industrial artist based in Italy, with 12 gigs on soundcheck across Frankfurt, North and Sydney. Often billed alongside I-SO, JUNN GULDUR and ARTISAH. Next up: Eldorado, North on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mikel is a techno and industrial artist based in Italy, with 12 gigs on soundche
 
 I-SO, JUNN GULDUR, ARTISAH
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikel-1/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikel-1/)*

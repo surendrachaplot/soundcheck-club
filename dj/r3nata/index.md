@@ -1,6 +1,6 @@
 # R3NATA
 
-R3NATA is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
+R3NATA is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
 
 R3NATA is a techno and downtempo artist, with 30 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Miami and 2 more. Often billed alongside Urem, Corios and Elias Goldmund. Next up: Kater, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ R3NATA is a techno and downtempo artist, with 30 gigs on soundcheck across Berli
 
 Urem, Corios, Elias Goldmund
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r3nata/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r3nata/)*

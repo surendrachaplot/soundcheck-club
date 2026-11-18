@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Archie Hamilton is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Archie Hamilton is a house and tech house artist based in United Kingdom, with 235 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

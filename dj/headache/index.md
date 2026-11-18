@@ -1,6 +1,6 @@
 # Headache
 
-Headache is a Electronica and Downtempo artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Outset, Chicago on Fri, 20 Nov 2026.
+Headache is a Electronica and Downtempo artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Outset, Chicago on Fri, 20 Nov 2026.
 
 Headache is an electronica and downtempo artist based in United Kingdom, with 4 gigs on soundcheck across Chicago, London and Miami. Often billed alongside AMR*, Vegyn and Madeline (UK). Next up: Outset, Chicago on Fri 20 Nov.
 
@@ -17,4 +17,4 @@ Headache is an electronica and downtempo artist based in United Kingdom, with 4 
 
 AMR*, Vegyn, Madeline (UK)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headache/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headache/)*

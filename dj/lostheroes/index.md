@@ -1,6 +1,6 @@
 # Lost Heroes
 
-Lost Heroes is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Système, Montreal on Thu, 3 Dec 2026.
+Lost Heroes is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Système, Montreal on Thu, 3 Dec 2026.
 
 Lost Heroes is a house and disco artist based in Canada, with 24 gigs on soundcheck across Montreal. Often billed alongside B'UGO, G L O W Z I and Lia Plutonic. Next up: Système, Montreal on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Lost Heroes is a house and disco artist based in Canada, with 24 gigs on soundch
 
 B'UGO, G L O W Z I, Lia Plutonic
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostheroes/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostheroes/)*

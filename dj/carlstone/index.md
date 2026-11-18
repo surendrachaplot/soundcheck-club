@@ -1,6 +1,6 @@
 # Carl Stone
 
-Carl Stone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Carl Stone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Carl Stone is an experimental and ambient artist based in United States of America, with 26 gigs on soundcheck across Barcelona, Beijing, Berlin and Denver and 13 more. Often billed alongside Crystallmess, DJ Python and Laraaji. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Carl Stone is an experimental and ambient artist based in United States of Ameri
 
 Crystallmess, DJ Python, Laraaji
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*

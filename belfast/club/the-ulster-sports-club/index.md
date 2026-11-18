@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 11 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Blark 30" on Fri, 20 Nov 2026.
+The Ulster Sports Club is a music venue in Belfast with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Blark 30" on Fri, 20 Nov 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming gigs, with line-ups including Blark, Cartin, Conor Schmtz and Emma O and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upco
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

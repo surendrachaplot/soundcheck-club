@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Sound Selectas pres. Proper Flavor Vol. 3 feat. Neumonic" on Thu, 19 Nov 2026.
+The Barbary is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sound Selectas pres. Proper Flavor Vol. 3 feat. Neumonic" on Thu, 19 Nov 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including Angelinkast, Black Box, Kobza and M-High and 2 more. See dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -18,4 +18,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming gi
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

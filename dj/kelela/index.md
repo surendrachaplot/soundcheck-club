@@ -1,6 +1,6 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
+Kelela is a R&B and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
 
 Kelela is a r&b and electronica artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside FiNE, Shanti Celeste and ABRA. Next up: Southwark Park, London on Sat 28 Aug.
 
@@ -26,4 +26,4 @@ Kelela is a r&b and electronica artist based in United States of America, with 2
 
 FiNE, Shanti Celeste, ABRA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*

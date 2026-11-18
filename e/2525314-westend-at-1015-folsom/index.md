@@ -1,6 +1,6 @@
 # Westend at 1015 Folsom
 
-Westend at 1015 Folsom on Fri 20 Nov, San Francisco/Oakland. 1 artist: TOBEHONEST. House. See the line-up on soundcheck.
+Westend at 1015 Folsom on Fri 20 Nov, San Francisco/Oakland. 3 artists: JLittle, Lucci (CA) and TOBEHONEST. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Westend at 1015 Folsom on Fri 20 Nov, San Francisco/Oakland. 1 artist: TOBEHONES
 
 ## Line-up
 
+- JLittle
+- Lucci (CA)
 - TOBEHONEST
 
 *Source: [soundcheck](https://soundcheck.club/e/2525314-westend-at-1015-folsom/)*

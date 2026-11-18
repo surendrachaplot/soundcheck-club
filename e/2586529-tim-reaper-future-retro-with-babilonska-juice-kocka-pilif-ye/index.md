@@ -1,6 +1,6 @@
 # Tim Reaper (Future Retro) with Babilonska, Juice, Kocka, pilif & Yesh at Klub Močvara
 
-Tim Reaper (Future Retro) with Babilonska, Juice, Kocka, pilif & Yesh at Klub Močvara on Sat 12 Dec, Zagreb. 2 artists: Tim Reaper and Yesh. Drum & Bass and Jungle. See the line-up on soundcheck.
+Tim Reaper (Future Retro) with Babilonska, Juice, Kocka, pilif & Yesh at Klub Močvara on Sat 12 Dec, Zagreb. 3 artists: pilif, Tim Reaper and Yesh. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Tim Reaper (Future Retro) with Babilonska, Juice, Kocka, pilif & Yesh at Klub Mo
 
 ## Line-up
 
+- pilif
 - Tim Reaper
 - Yesh
 

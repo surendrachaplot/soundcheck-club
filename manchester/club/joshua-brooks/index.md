@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "TS7 + Newsham - Joshua Brooks Manchester" on Fri, 20 Nov 2026.
+Joshua Brooks is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "TS7 + Newsham - Joshua Brooks Manchester" on Fri, 20 Nov 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including ADR (UK), Andy Manston, AYDN and Benny L and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 15 upcoming g
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

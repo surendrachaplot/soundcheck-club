@@ -1,6 +1,6 @@
 # FRYTM presents: SAGMO (Maccabi House) at Monarch
 
-FRYTM presents: SAGMO (Maccabi House) at Monarch on Sat 5 Dec, San Francisco/Oakland. 4 artists: .KINA, Kohbain, Matony and SAGMO. House and Tech House. See the line-up on soundcheck.
+FRYTM presents: SAGMO (Maccabi House) at Monarch on Sat 5 Dec, San Francisco/Oakland. 6 artists: .KINA, Dahaman, KEAUTY and Kohbain and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ FRYTM presents: SAGMO (Maccabi House) at Monarch on Sat 5 Dec, San Francisco/Oak
 ## Line-up
 
 - .KINA
+- Dahaman
+- KEAUTY
 - Kohbain
 - Matony
 - SAGMO

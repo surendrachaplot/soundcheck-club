@@ -1,6 +1,6 @@
 # BeQuietTM X EWASTE at Tbili Orgia
 
-BeQuietTM X EWASTE at Tbili Orgia on Sat 28 Nov, Tbilisi. 3 artists: borisluvv, rtgvision and Sportsmanship. See the line-up on soundcheck.
+BeQuietTM X EWASTE at Tbili Orgia on Sat 28 Nov, Tbilisi. 3 artists: borisluvv, rtgvision and Sportsmanship. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

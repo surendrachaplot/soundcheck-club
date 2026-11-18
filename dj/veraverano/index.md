@@ -1,6 +1,6 @@
 # Vera Verano
 
-Vera Verano is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at OCZKI, Warsaw on Sat, 28 Nov 2026.
+Vera Verano is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at OCZKI, Warsaw on Sat, 28 Nov 2026.
 
 Vera Verano is a techno and trance artist based in Poland, with 5 gigs on soundcheck across Warsaw. Often billed alongside Casper Weiss, SYS.END and B93 (PL). Next up: OCZKI, Warsaw on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Vera Verano is a techno and trance artist based in Poland, with 5 gigs on soundc
 
 Casper Weiss, SYS.END, B93 (PL)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veraverano/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veraverano/)*

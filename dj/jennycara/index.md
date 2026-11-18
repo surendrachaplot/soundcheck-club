@@ -1,6 +1,6 @@
 # Jenny Cara
 
-Jenny Cara is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
+Jenny Cara is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
 
 Jenny Cara is a house and techno artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Luka (CH), Alex Dallas and Bennet (DE). Next up: The Cause, London on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Jenny Cara is a house and techno artist based in Switzerland, with 124 gigs on s
 
 Luka (CH), Alex Dallas, Bennet (DE)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*

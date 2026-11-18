@@ -1,6 +1,6 @@
 # Move to Groove at Baalsaal
 
-Move to Groove at Baalsaal on Sat 21 Nov, Hamburg. 3 artists: dannycookin, FRÆNCIS and JENKA. Techno and House. See the line-up on soundcheck.
+Move to Groove at Baalsaal on Sat 21 Nov, Hamburg. 4 artists: dannycookin, FRÆNCIS, JENKA and Nelli. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Move to Groove at Baalsaal on Sat 21 Nov, Hamburg. 3 artists: dannycookin, FRÆN
 - dannycookin
 - FRÆNCIS
 - JENKA
+- Nelli
 
 *Source: [soundcheck](https://soundcheck.club/e/2522794-move-to-groove-at-baalsaal/)*

@@ -1,6 +1,6 @@
 # Raw Phonics
 
-Raw Phonics is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - 333, New York City on Fri, 20 Nov 2026.
+Raw Phonics is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - 333, New York City on Fri, 20 Nov 2026.
 
 Raw Phonics is a house and minimal artist based in United States of America, with 47 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Armii1n, Auphoria and Antiics. Next up: TBA - 333, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Raw Phonics is a house and minimal artist based in United States of America, wit
 
 Armii1n, Auphoria, Antiics
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*

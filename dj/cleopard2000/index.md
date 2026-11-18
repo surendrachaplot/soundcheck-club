@@ -1,8 +1,8 @@
 # Cleopard2000
 
-Cleopard2000 is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
+Cleopard2000 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
 
-Cleopard2000 is a techno and trance artist based in Germany, with 191 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 40 more. Often billed alongside Mika Heggemann, Elotrance and Trancemaster Krause. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
+Cleopard2000 is a techno and trance artist based in Germany, with 192 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 40 more. Often billed alongside Mika Heggemann, Elotrance and Trancemaster Krause. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Cleopard2000 is a techno and trance artist based in Germany, with 191 gigs on so
 | Fri, 27 Nov 2026 | Mia Mao | Paris |
 | Sat, 5 Dec 2026 | OST | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
+| Sat, 6 Feb 2027 | Levenslang Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Cleopard2000 is a techno and trance artist based in Germany, with 191 gigs on so
 
 Mika Heggemann, Elotrance, Trancemaster Krause
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*

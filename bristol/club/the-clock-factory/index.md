@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "BOG x Blkout. & Friends" on Thu, 19 Nov 2026.
+The Clock Factory is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "BOG x Blkout. & Friends" on Thu, 19 Nov 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Bryan Gee, Casey Club, Dazee and Euphonique and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -19,4 +19,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 6 upcoming g
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

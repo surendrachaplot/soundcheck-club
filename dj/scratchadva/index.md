@@ -1,14 +1,14 @@
 # Scratcha DVA
 
-Scratcha DVA is a Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Ninety One, London on Sat, 5 Dec 2026.
+Scratcha DVA is a Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 91 Brick Lane, London on Sat, 5 Dec 2026.
 
-Scratcha DVA is a bass and gqom artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Tash LC, Ikonika and Nkisi. Next up: Ninety One, London on Sat 5 Dec.
+Scratcha DVA is a bass and gqom artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Tash LC, Ikonika and Nkisi. Next up: 91 Brick Lane, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | Ninety One | London |
+| Sat, 5 Dec 2026 | 91 Brick Lane | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Scratcha DVA is a bass and gqom artist based in United Kingdom, with 45 gigs on 
 
 Tash LC, Ikonika, Nkisi
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*

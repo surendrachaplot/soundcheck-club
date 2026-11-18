@@ -1,6 +1,6 @@
 # Cristopher Arcuri
 
-Cristopher Arcuri is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Via Valtellina 23, Milan on Sat, 21 Nov 2026.
+Cristopher Arcuri is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Via Valtellina 23, Milan on Sat, 21 Nov 2026.
 
 Cristopher Arcuri is a techno and industrial artist based in Italy, with 42 gigs on soundcheck across Bologna and Milan. Often billed alongside Alessandro Reale, Freak Unique and Pestdokter. Next up: Via Valtellina 23, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cristopher Arcuri is a techno and industrial artist based in Italy, with 42 gigs
 
 Alessandro Reale, Freak Unique, Pestdokter
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristopherarcuri/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristopherarcuri/)*

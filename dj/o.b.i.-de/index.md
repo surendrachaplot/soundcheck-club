@@ -1,6 +1,6 @@
 # O.B.I. (DE)
 
-O.B.I. (DE) is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
+O.B.I. (DE) is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
 
 O.B.I. (DE) is a techno and hardcore artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 37 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: Fusion Club, Münster on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ O.B.I. (DE) is a techno and hardcore artist based in Germany, with 98 gigs on so
 
 Svetec, Johannes Schuster, TANJA MIJU
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*

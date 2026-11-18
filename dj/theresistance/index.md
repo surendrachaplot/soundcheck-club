@@ -1,13 +1,14 @@
 # The Resistance
 
-The Resistance is a Dubstep and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+The Resistance is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bootshaus, Cologne on Fri, 11 Dec 2026.
 
-The Resistance is a dubstep and breakbeat artist based in Netherlands, with 5 gigs on soundcheck across Budapest, Detroit, Florida and Milan and 1 more. Often billed alongside A Hundred Drums, AG (NYC) and BARK. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
+The Resistance is a dubstep and drum & bass artist based in Netherlands, with 6 gigs on soundcheck across Budapest, Cologne, Detroit and Florida and 2 more. Often billed alongside A Hundred Drums, AG (NYC) and BARK. Next up: Bootshaus, Cologne on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Bootshaus | Cologne |
 | Fri, 23 Apr 2027 | Central Florida Fairgrounds | Florida |
 
 ## Recently played
@@ -21,4 +22,4 @@ The Resistance is a dubstep and breakbeat artist based in Netherlands, with 5 gi
 
 A Hundred Drums, AG (NYC), BARK
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*

@@ -1,6 +1,6 @@
 # Jungle with Hicham at Soap House - Ex Saponerie Mira Lanza
 
-Jungle with Hicham at Soap House - Ex Saponerie Mira Lanza on Sat 19 Dec, Rome. 3 artists: Hicham, Matteo Canori and Petra. House and Electronica. See the line-up on soundcheck.
+Jungle with Hicham at Soap House - Ex Saponerie Mira Lanza on Sat 19 Dec, Rome. 4 artists: Filippo Maria, Hicham, Matteo Canori and Petra. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Jungle with Hicham at Soap House - Ex Saponerie Mira Lanza on Sat 19 Dec, Rome. 
 
 ## Line-up
 
+- Filippo Maria
 - Hicham
 - Matteo Canori
 - Petra (4)

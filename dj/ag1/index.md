@@ -1,14 +1,15 @@
 # AG (1)
 
-AG (1) is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
+AG (1) is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
 
-AG is a club and footwork artist based in United States of America, with 44 gigs on soundcheck across Barcelona, Chicago, Miami and New York City and 1 more. Often billed alongside DJ Fat Frog, Petal and Tromac. Next up: Mood Ring, New York City on Thu 19 Nov.
+AG is a club and footwork artist based in United States of America, with 45 gigs on soundcheck across Barcelona, Chicago, Miami and New York City and 1 more. Often billed alongside DJ Fat Frog, Petal and Tromac. Next up: Mood Ring, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Mood Ring | New York City |
+| Sat, 5 Dec 2026 | Green Room NYC | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AG is a club and footwork artist based in United States of America, with 44 gigs
 
 DJ Fat Frog, Petal, Tromac
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*

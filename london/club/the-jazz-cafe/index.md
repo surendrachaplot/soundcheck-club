@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 56 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Rymden" on Wed, 18 Nov 2026.
+The Jazz Cafe is a music venue in London with 57 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rymden" on Wed, 18 Nov 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including Auntie Flo, Bobby., Bugge Wesseltoft and CJ Mackintosh and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 57 upcoming gigs, with line-ups including Auntie Flo, Ayce & Spirit Of House, Bobby. and Bugge Wesseltoft and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 56 upcoming gigs,
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

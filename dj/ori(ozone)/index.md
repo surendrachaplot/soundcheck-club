@@ -1,6 +1,6 @@
 # ORI (ozone)
 
-ORI (ozone) is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Stage and Radio, Manchester on Wed, 18 Nov 2026.
+ORI (ozone) is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Stage and Radio, Manchester on Wed, 18 Nov 2026.
 
 ORI (ozone) is an acid and techno artist based in United Kingdom, with 3 gigs on soundcheck across Leeds and Manchester. Often billed alongside Jake Rollinson, Chappy and E-Boo. Next up: Stage and Radio, Manchester on Wed 18 Nov.
 
@@ -19,4 +19,4 @@ ORI (ozone) is an acid and techno artist based in United Kingdom, with 3 gigs on
 
 Jake Rollinson, Chappy, E-Boo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ori(ozone)/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ori(ozone)/)*

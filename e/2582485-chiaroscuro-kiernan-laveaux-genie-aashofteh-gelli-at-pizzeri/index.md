@@ -1,6 +1,6 @@
 # Chiaroscuro: Kiernan Laveaux, Genie, Aashofteh, gelli at Pizzeria Officina
 
-Chiaroscuro: Kiernan Laveaux, Genie, Aashofteh, gelli at Pizzeria Officina on Fri 20 Nov, Canberra. 3 artists: Aashofteh, Genie and Kiernan Laveaux. See the line-up on soundcheck.
+Chiaroscuro: Kiernan Laveaux, Genie, Aashofteh, gelli at Pizzeria Officina on Fri 20 Nov, Canberra. 3 artists: Aashofteh, Genie and Kiernan Laveaux. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

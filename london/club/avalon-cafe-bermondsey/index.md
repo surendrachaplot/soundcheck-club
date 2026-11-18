@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "How It Started 8: Extended Sessions - 100% Vinyl - Jungle/D&B/Hardcore" on Fri, 27 Nov 2026.
+Avalon Cafe Bermondsey is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "How It Started 8: Extended Sessions - 100% Vinyl - Jungle/D&B/Hardcore" on Fri, 27 Nov 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ETHICS, Hickey, ISORA and MI-ZI and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -18,4 +18,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

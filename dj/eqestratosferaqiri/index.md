@@ -1,6 +1,6 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Art Club, Houston on Thu, 19 Nov 2026.
+EQ (Estratosfera + Qiri) is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Art Club, Houston on Thu, 19 Nov 2026.
 
 EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 27 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 20 more. Often billed alongside Bclip, Isla Den and Jawnino. Next up: Art Club, Houston on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 
 Bclip, Isla Den, Jawnino
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

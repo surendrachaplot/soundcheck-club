@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "Errant Forms: Retrograde's Shadow" on Wed, 18 Nov 2026.
+Mood Ring is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Errant Forms: Retrograde's Shadow" on Wed, 18 Nov 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including AG, ARINI, asapalena and BlackDanielWhite and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including AG, ARINI, asapalena and Bella Hex and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Mood Ring is a music venue in New York City listed on soundcheck. 14 upcoming gi
 | Thu, 19 Nov 2026 | Slayer's Happy Hour | Caratastrophe, DJ Passion Fruit, ILUVDOMRICH |
 | Thu, 19 Nov 2026 | Club Massive | AG (1), Petal, SUCIA!, kstrobez, ogd (1) |
 | Fri, 20 Nov 2026 | Crash Test | Castillonaire, Connector, Max Kulchinsky, Varist, asapalena |
-| Fri, 20 Nov 2026 | FURRGASM |  |
+| Fri, 20 Nov 2026 | FURRGASM | Contact High |
 | Sat, 21 Nov 2026 | Club Moledro | ARINI, Clocky Chulo, DJ ing, Maul Couple, Mozn, To The End., day astro |
+| Sat, 21 Nov 2026 | she.they.dj | Bella Hex, Excuse The Beauty |
 | Sun, 22 Nov 2026 | Starry Records presents 'Earth Green' EP release party | KOOXLA, Petal, Triangles, nextdimensional |
 | Fri, 27 Nov 2026 | WADDLE presents LE KACANG | LE KACANG, Misa (NL), WADDLE, zzzzach |
-| Sat, 28 Nov 2026 | Freak2Freak | suciopath |
-| Sat, 28 Nov 2026 | FEVER DREAM |  |
+| Sat, 28 Nov 2026 | Freak2Freak | Princess Fiona, suciopath |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

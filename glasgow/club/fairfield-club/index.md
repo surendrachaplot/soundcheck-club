@@ -1,6 +1,6 @@
 # Fairfield Club
 
-Fairfield Club is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "The Berkeley Suites 15th BDAY [3PM -12AM]" on Sat, 21 Nov 2026.
+Fairfield Club is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "The Berkeley Suites 15th BDAY [3PM -12AM]" on Sat, 21 Nov 2026.
 
 Fairfield Club is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including naafi, OK Williams, Optimo (Espacio) and Rory Tilt and 1 more. See dates, start times and who's playing. 211 Crossloan Rd, Govan, Glasgow G51 3QD.
 
@@ -15,4 +15,4 @@ Fairfield Club is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs
 
 211 Crossloan Rd, Govan, Glasgow G51 3QD, Glasgow
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/fairfield-club/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/fairfield-club/)*

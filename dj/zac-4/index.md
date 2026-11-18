@@ -1,6 +1,6 @@
 # Zac (4)
 
-Zac (4) is a Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Supernatural Haus, Miami on Thu, 19 Nov 2026.
+Zac (4) is a Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Supernatural Haus, Miami on Thu, 19 Nov 2026.
 
 Zac is a neo perreo artist based in Canada, with 6 gigs on soundcheck across Miami. Often billed alongside Miss Purple Shampoo, DJ SABI and FORESEER. Next up: Supernatural Haus, Miami on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Zac is a neo perreo artist based in Canada, with 6 gigs on soundcheck across Mia
 
 Miss Purple Shampoo, DJ SABI, FORESEER
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zac-4/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zac-4/)*

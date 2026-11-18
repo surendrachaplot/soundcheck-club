@@ -1,6 +1,6 @@
 # WeSA Festival 2026: UnTamed Sound at Thila Ground
 
-WeSA Festival 2026: UnTamed Sound at Thila Ground on Fri 11 Dec, Seoul. 3 artists: France Jobin, Jana Irmert and Ytem. Experimental. See the line-up on soundcheck.
+WeSA Festival 2026: UnTamed Sound at Thila Ground on Fri 11 Dec, Seoul. 4 artists: Andriy K., France Jobin, Jana Irmert and Ytem. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WeSA Festival 2026: UnTamed Sound at Thila Ground on Fri 11 Dec, Seoul. 3 artist
 
 ## Line-up
 
+- Andriy K.
 - France Jobin
 - Jana Irmert
 - Ytem

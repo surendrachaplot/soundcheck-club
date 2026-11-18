@@ -1,14 +1,15 @@
 # GLIA
 
-GLIA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Melt Underground, Buenos Aires on Sat, 21 Nov 2026.
+GLIA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Melt Underground, Buenos Aires on Sat, 21 Nov 2026.
 
-GLIA is a techno and house artist based in Germany, with 65 gigs on soundcheck across Barcelona, Belgrade, Berlin and Buenos Aires and 11 more. Often billed alongside Brtinzz, Pamela Svart and gãl (SI). Next up: Melt Underground, Buenos Aires on Sat 21 Nov.
+GLIA is a techno and house artist based in Germany, with 66 gigs on soundcheck across Barcelona, Belgrade, Berlin and Buenos Aires and 11 more. Often billed alongside Brtinzz, Pamela Svart and gãl (SI). Next up: Melt Underground, Buenos Aires on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Melt Underground | Buenos Aires |
+| Sat, 5 Dec 2026 | 119 | Berlin |
 | Fri, 18 Dec 2026 | Lehmann Club | Stuttgart |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
@@ -27,4 +28,4 @@ GLIA is a techno and house artist based in Germany, with 65 gigs on soundcheck a
 
 Brtinzz, Pamela Svart, gãl (SI)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glia/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glia/)*

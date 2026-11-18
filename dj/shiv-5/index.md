@@ -1,6 +1,6 @@
 # shiv (5)
 
-shiv (5) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
+shiv (5) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
 
 shiv is a bass and electronica artist, with 5 gigs on soundcheck across Barcelona and Bucharest. Often billed alongside Drao, K A I and noidzsh. Next up: control, Bucharest on Thu 19 Nov.
 
@@ -21,4 +21,4 @@ shiv is a bass and electronica artist, with 5 gigs on soundcheck across Barcelon
 
 Drao, K A I, noidzsh
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiv-5/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiv-5/)*

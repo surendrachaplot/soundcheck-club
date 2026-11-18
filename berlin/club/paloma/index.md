@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. The next is "GROOVE BURO w/BROCCOLI" on Thu, 19 Nov 2026.
+Paloma is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "GROOVE BURO w/BROCCOLI" on Thu, 19 Nov 2026.
 
 Paloma is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 11:68PM, Adriano Scopece, ASA 808 and bb:fm and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
@@ -23,4 +23,4 @@ Paloma is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with l
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

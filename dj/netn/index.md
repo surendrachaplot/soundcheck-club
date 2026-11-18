@@ -1,6 +1,6 @@
 # NETN
 
-NETN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Cadavra, Madrid on Thu, 19 Nov 2026.
+NETN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cadavra, Madrid on Thu, 19 Nov 2026.
 
 NETN is a techno and electronica artist based in Spain, with 46 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Theia Daja, DJ TURBO and Alejandro Gata. Next up: Cadavra, Madrid on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ NETN is a techno and electronica artist based in Spain, with 46 gigs on soundche
 
 Theia Daja, DJ TURBO, Alejandro Gata
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*

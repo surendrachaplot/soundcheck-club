@@ -1,14 +1,14 @@
 # Mihigh
 
-Mihigh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Los Angeles on Sat, 14 Nov 2026.
+Mihigh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - 333, New York City on Fri, 20 Nov 2026.
 
-Mihigh is a minimal and house artist based in Romania, with 60 gigs on soundcheck across Barcelona, Bogotá, Brussels and Bucharest and 12 more. Often billed alongside CEZAR, Gescu and Arapu. Next up: TBA, Los Angeles on Sat 14 Nov.
+Mihigh is a minimal and house artist based in Romania, with 61 gigs on soundcheck across Barcelona, Bogotá, Brussels and Bucharest and 13 more. Often billed alongside CEZAR, Gescu and Arapu. Next up: TBA - 333, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA | Los Angeles |
+| Fri, 20 Nov 2026 | TBA - 333 | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Mihigh is a minimal and house artist based in Romania, with 60 gigs on soundchec
 
 CEZAR, Gescu, Arapu
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*

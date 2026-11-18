@@ -1,8 +1,8 @@
 # Konduku
 
-Konduku is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+Konduku is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
-Konduku is a techno and house artist based in Netherlands, with 199 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside DJ Nobu, Woody92 and Kia (AU). Next up: Nowadays, New York City on Sat 21 Nov.
+Konduku is a techno and house artist based in Netherlands, with 201 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside DJ Nobu, Woody92 and Kia (AU). Next up: Nowadays, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Konduku is a techno and house artist based in Netherlands, with 199 gigs on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Nowadays | New York City |
 | Fri, 27 Nov 2026 | Ankali & Planeta Za | Prague |
+| Sat, 28 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Sat, 12 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 19 Dec 2026 | TBA - Poly | Lyon |
 | Fri, 1 Jan 2027 | Backsteinboot | Berlin |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
@@ -32,4 +34,4 @@ Konduku is a techno and house artist based in Netherlands, with 199 gigs on soun
 
 DJ Nobu, Woody92, Kia (AU)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

@@ -1,6 +1,6 @@
 # Miami Modular at Churchill's Pub
 
-Miami Modular at Churchill's Pub on Sat 21 Nov, Miami. 2 artists: Haze and Kira. Techno. See the line-up on soundcheck.
+Miami Modular at Churchill's Pub on Sat 21 Nov, Miami. 3 artists: Haze, Kira and Nosivel. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Miami Modular at Churchill's Pub on Sat 21 Nov, Miami. 2 artists: Haze and Kira.
 
 - Haze (1)
 - Kira (3)
+- Nosivel
 
 *Source: [soundcheck](https://soundcheck.club/e/2586285-miami-modular-at-churchill-s-pub/)*
