@@ -1,8 +1,8 @@
 # Atiké
 
-Atiké is a Baile Funk and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 27 Nov 2026.
+Atiké is a Baile Funk and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 27 Nov 2026.
 
-Atiké is a baile funk and reggaeton artist based in United Kingdom, with 70 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Obeka, Zuri and atalaya. Next up: Cupra City Garage Manchester, Manchester on Fri 27 Nov.
+Atiké is a baile funk and reggaeton artist based in United Kingdom, with 70 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Obeka, Adele Tondu and Zuri. Next up: Cupra City Garage Manchester, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Atiké is a baile funk and reggaeton artist based in United Kingdom, with 70 gig
 
 ## Shares bills with
 
-Obeka, Zuri, atalaya
+Obeka, Adele Tondu, Zuri
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atike/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atike/)*

@@ -1,6 +1,6 @@
 # PARIS (AU)
 
-PARIS (AU) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Silencio, Paris on Sat, 28 Nov 2026.
+PARIS (AU) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Silencio, Paris on Sat, 28 Nov 2026.
 
 PARIS (AU) is a techno and house artist based in Australia, with 50 gigs on soundcheck across Barcelona, Bordeaux, Brisbane and Byron Bay and 10 more. Often billed alongside TBA, Moulin and After X. Next up: Silencio, Paris on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ PARIS (AU) is a techno and house artist based in Australia, with 50 gigs on soun
 
 TBA, Moulin, After X
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parisau/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parisau/)*

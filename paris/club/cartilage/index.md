@@ -1,6 +1,6 @@
 # Cartilage
 
-Cartilage is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "[CANCELLED] TRIBE TEUF ! CARTILAGE INVITE EDOARDO FIGARA & CH'ASKA" on Fri, 20 Nov 2026.
+Cartilage is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "[CANCELLED] TRIBE TEUF ! CARTILAGE INVITE EDOARDO FIGARA & CH'ASKA" on Fri, 20 Nov 2026.
 
 Cartilage is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Edgussss. See dates, start times and who's playing. 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France.
 
@@ -15,4 +15,4 @@ Cartilage is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with 
 
 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*

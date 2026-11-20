@@ -1,6 +1,6 @@
 # RHODE (1)
 
-RHODE (1) is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Sat, 21 Nov 2026.
+RHODE (1) is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bolero, Seoul on Sat, 21 Nov 2026.
 
 RHODE is a club and baile funk artist based in United States of America, with 9 gigs on soundcheck across London and Seoul. Often billed alongside BILL.E, ANDOW and Begonia. Next up: Bolero, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RHODE is a club and baile funk artist based in United States of America, with 9 
 
 BILL.E, ANDOW, Begonia
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhode-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhode-1/)*

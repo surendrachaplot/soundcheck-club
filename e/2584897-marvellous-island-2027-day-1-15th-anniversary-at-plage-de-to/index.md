@@ -1,6 +1,6 @@
 # Marvellous Island 2027, Day 1/ 15th anniversary at Plage De Torcy
 
-Marvellous Island 2027, Day 1/ 15th anniversary at Plage De Torcy on Sat 15 May, Paris. 18 artists: 25EMEHEURE, 999999999, Agathe Mougin and Automatic Writing and 14 more. See the line-up on soundcheck.
+Marvellous Island 2027, Day 1/ 15th anniversary at Plage De Torcy on Sat 15 May, Paris. 19 artists: 25EMEHEURE, 999999999, Agathe Mougin and Automatic Writing and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Marvellous Island 2027, Day 1/ 15th anniversary at Plage De Torcy on Sat 15 May,
 - Agathe Mougin
 - Automatic Writing
 - Bella Claxton
+- Creeds
 - Emma B
 - Fakear
 - Gabrielle Kwarteng

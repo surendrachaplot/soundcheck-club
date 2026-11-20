@@ -1,6 +1,6 @@
 # Shivaionmusic
 
-Shivaionmusic is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Sound House, Dublin on Fri, 20 Nov 2026.
+Shivaionmusic is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Sound House, Dublin on Fri, 20 Nov 2026.
 
 Shivaionmusic is a psytrance and trance artist based in Brazil, with 10 gigs on soundcheck across Dublin. Often billed alongside Aram, JuliosMap and Noisy Chilli. Next up: The Sound House, Dublin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Shivaionmusic is a psytrance and trance artist based in Brazil, with 10 gigs on 
 
 Aram, JuliosMap, Noisy Chilli
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shivaionmusic/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shivaionmusic/)*

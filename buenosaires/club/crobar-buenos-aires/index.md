@@ -1,17 +1,24 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Santiago Garcia at Crobar Buenos Aires" on Sat, 28 Nov 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Crobar Pres.: Cadelago & Super (ARG)" on Fri, 20 Nov 2026.
 
-Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
+Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 8 upcoming gigs, with line-ups including Andre VII, Bodeler, Cosenza and Deer Jade and 2 more. See dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Crobar Pres.: Cadelago & Super (ARG) |  |
+| Sat, 21 Nov 2026 | Crobar Pres.: Bodeler & Manu Desrets | Bodeler, Manu Desrets |
+| Sun, 22 Nov 2026 | Crobar & Vertigo Pres.: KRUELTY & ECZODIA | ECZODIA, KRUELTY |
+| Fri, 27 Nov 2026 | Crobar Pres.: Deer Jade | Deer Jade, Tiello |
 | Sat, 28 Nov 2026 | Santiago Garcia at Crobar Buenos Aires |  |
+| Sat, 5 Dec 2026 | Crobar Pres.: Andre VII | Andre VII |
+| Sat, 12 Dec 2026 | Crobar Pres: Cosenza, Fran Tettamanti, Lulù Matheou, Pato Mallet & Tres | Cosenza |
+| Sat, 19 Dec 2026 | Crobar Pres.: Victoria Engel | Pampa, Ronze, Victoria Engel |
 
 ## Address
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

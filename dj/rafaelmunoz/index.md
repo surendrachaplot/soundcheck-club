@@ -1,6 +1,6 @@
 # Rafael Munoz
 
-Rafael Munoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Chinastraat, Ghent on Sun, 20 Dec 2026.
+Rafael Munoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Chinastraat, Ghent on Sun, 20 Dec 2026.
 
 Rafael Munoz is a techno and house artist based in Belgium, with 39 gigs on soundcheck across Antwerp, Berlin, Bogotá and Brussels and 2 more. Often billed alongside Max. (BE), Initial Code and Clara D. Next up: Chinastraat, Ghent on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Rafael Munoz is a techno and house artist based in Belgium, with 39 gigs on soun
 
 Max. (BE), Initial Code, Clara D
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelmunoz/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelmunoz/)*

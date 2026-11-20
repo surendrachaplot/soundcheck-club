@@ -1,6 +1,6 @@
-# NONSTOP: Sydney Sarayeva, Kridelka, Hey: Albert, Benji b2b Colmee, FREEEMAN at Bar Datcha
+# NONSTOP: Sydney Sarayeva, Kridelka, Hey: Albert, Benji b2b Colmee, DUROCHER at Bar Datcha
 
-NONSTOP: Sydney Sarayeva, Kridelka, Hey: Albert, Benji b2b Colmee, FREEEMAN at Bar Datcha on Sat 28 Nov, Montreal. 1 artist: Sydney Sarayeva. See the line-up on soundcheck.
+NONSTOP: Sydney Sarayeva, Kridelka, Hey: Albert, Benji b2b Colmee, DUROCHER at Bar Datcha on Sat 28 Nov, Montreal. 1 artist: Sydney Sarayeva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

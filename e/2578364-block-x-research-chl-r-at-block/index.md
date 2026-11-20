@@ -1,6 +1,6 @@
 # Block x research: Chlär at block.
 
-Block x research: Chlär at block. on Fri 18 Dec, Dublin. 1 artist: Chlär. Electronica. See the line-up on soundcheck.
+Block x research: Chlär at block. on Fri 18 Dec, Dublin. 2 artists: Chlär and Lunaks. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Block x research: Chlär at block. on Fri 18 Dec, Dublin. 1 artist: Chlär. Elec
 ## Line-up
 
 - Chlär
+- Lunaks
 
 *Source: [soundcheck](https://soundcheck.club/e/2578364-block-x-research-chl-r-at-block/)*

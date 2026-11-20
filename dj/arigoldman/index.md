@@ -1,6 +1,6 @@
 # Ari Goldman
 
-Ari Goldman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 20 Nov 2026.
+Ari Goldman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Ari Goldman is a house and disco artist, with 10 gigs on soundcheck across Miami, Philadelphia, San Francisco/Oakland and Toronto and 1 more. Often billed alongside Joyce Lim, Bil Todd and Bored Lord. Next up: Bar Part Time, San Francisco/Oakland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ari Goldman is a house and disco artist, with 10 gigs on soundcheck across Miami
 
 Joyce Lim, Bil Todd, Bored Lord
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arigoldman/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arigoldman/)*

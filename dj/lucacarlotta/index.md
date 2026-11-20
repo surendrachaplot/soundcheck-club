@@ -1,6 +1,6 @@
 # Luca Carlotta
 
-Luca Carlotta is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
+Luca Carlotta is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
 
 Luca Carlotta is a dubstep and dub artist, with 15 gigs on soundcheck across London, Munich and Vienna. Often billed alongside off supply, Fingers Of God and Kobermann. Next up: Club Exil, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Luca Carlotta is a dubstep and dub artist, with 15 gigs on soundcheck across Lon
 
 off supply, Fingers Of God, Kobermann
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacarlotta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacarlotta/)*

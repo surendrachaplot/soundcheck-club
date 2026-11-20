@@ -1,13 +1,14 @@
 # DUZA
 
-DUZA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Igloofest, Montreal on Thu, 28 Jan 2027.
+DUZA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Salon Daomé, Montreal on Fri, 4 Dec 2026.
 
-DUZA is a house and disco artist based in Canada, with 29 gigs on soundcheck across Montreal. Often billed alongside Manuel Falardeau, FREEEMAN and Napo Lugo. Next up: Igloofest, Montreal on Thu 28 Jan.
+DUZA is a house and disco artist based in Canada, with 30 gigs on soundcheck across Montreal. Often billed alongside Manuel Falardeau, FREEEMAN and Napo Lugo. Next up: Salon Daomé, Montreal on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Salon Daomé | Montreal |
 | Thu, 28 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ DUZA is a house and disco artist based in Canada, with 29 gigs on soundcheck acr
 
 Manuel Falardeau, FREEEMAN, Napo Lugo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*

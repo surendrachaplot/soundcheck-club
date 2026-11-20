@@ -1,0 +1,28 @@
+# Spingall
+
+Spingall is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Cu, London on Fri, 18 Dec 2026.
+
+Spingall is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across London and Sheffield. Often billed alongside BIG REG, Gingall and Dan Zero. Next up: Cu, London on Fri 18 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Dec 2026 | Cu | London |
+
+## Recently played
+
+- Cu, London · Fri, 2 Oct 2026
+- Cu, London · Sat, 6 Jun 2026
+- Shakespeares, Sheffield · Sun, 24 May 2026
+- Distillery N17, London · Fri, 27 Mar 2026
+- Cu, London · Fri, 19 Dec 2025
+- DRUMSHEDS, London · Fri, 5 Dec 2025
+- Cu, London · Fri, 10 Oct 2025
+- Colour Factory, London · Sun, 20 Jul 2025
+
+## Shares bills with
+
+BIG REG, Gingall, Dan Zero
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spingall/)*

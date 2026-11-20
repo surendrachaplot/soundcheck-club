@@ -1,6 +1,6 @@
 # ZEI (Br)
 
-ZEI (Br) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cais da Imperatriz, Rio de Janeiro on Sat, 21 Nov 2026.
+ZEI (Br) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cais da Imperatriz, Rio de Janeiro on Sat, 21 Nov 2026.
 
 ZEI (Br) is a techno and house artist based in Brazil, with 24 gigs on soundcheck across Barcelona, Berlin, Miami and New York City and 3 more. Often billed alongside Cuca, NORA (BR) and Gustabby. Next up: Cais da Imperatriz, Rio de Janeiro on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ ZEI (Br) is a techno and house artist based in Brazil, with 24 gigs on soundchec
 
 Cuca, NORA (BR), Gustabby
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zei-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zei-1/)*

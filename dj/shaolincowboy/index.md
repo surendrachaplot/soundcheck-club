@@ -1,14 +1,15 @@
 # Shaolin Cowboy
 
-Shaolin Cowboy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa Babylon, Argentina on Sat, 21 Nov 2026.
+Shaolin Cowboy is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Babylon, Argentina on Sat, 21 Nov 2026.
 
-Shaolin Cowboy is a house and garage artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 18 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Target Demographic. Next up: Casa Babylon, Argentina on Sat 21 Nov.
+Shaolin Cowboy is a house and garage artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Target Demographic. Next up: Casa Babylon, Argentina on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Casa Babylon | Argentina |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shaolin Cowboy is a house and garage artist based in United Kingdom, with 54 gig
 
 dj poolboi, DJ Cinéma Quartier Latin, Target Demographic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*

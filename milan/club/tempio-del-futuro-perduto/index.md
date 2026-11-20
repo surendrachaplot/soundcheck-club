@@ -1,14 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Tempio Radio Notturna x Disco Sour: Kalina, Naima, Dash" on Thu, 19 Nov 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Oriental Techno Club - 東極玄音寺: Pooja B, Morva, Zenyee" on Fri, 20 Nov 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 11 upcoming gigs, with line-ups including Acidalia, Alimac, Berlin Bunny and cccre and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 10 upcoming gigs, with line-ups including Acidalia, Alimac, Berlin Bunny and cccre and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Tempio Radio Notturna x Disco Sour: Kalina, Naima, Dash | DASH (SLO), Kalina, Naima (2) |
 | Fri, 20 Nov 2026 | Oriental Techno Club - 東極玄音寺: Pooja B, Morva, Zenyee | Morva, Pooja B, Zenyee |
 | Sat, 21 Nov 2026 | DISCO FELINA: Dj Spiller, Futuro Tropicale, Naydiaa, Tania Kim | Futuro Tropicale, Naydiaa, Spiller, Tania Kim |
 | Fri, 27 Nov 2026 | Oriental Techno Club - 東極玄音寺: NYCTO, Morva, DÅwN | DÅwN, Morva, NYCTO |
@@ -18,9 +17,10 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 11 upc
 | Thu, 31 Dec 2026 | 9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Capodanno - Nye - 元旦) | Acidalia, Alimac, Berlin Bunny, Elisa Bee, Eyesdice, Industrial Romantico, Kora Lyssa, Marthial, Morva, Nadia Struiwigh, SHŪ (1), Shaleen, Tania Kim, Waldo, Younger Than Me, ZHAZHA WANG, Zenyee, cccre |
 | Fri, 1 Jan 2027 | Capodanno - Nye - 元旦: Ticket Mattina - Morning Ticket - 早场票 |  |
 | Fri, 1 Jan 2027 | 9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Giorno 2 - Day 2 - 第2天) | DRUM THE SYSTEM live |
+| Sat, 2 Jan 2027 | 9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Giorno 3 - Day 3 - 第3天) | DJ Ralf, Futuro Tropicale, Naydiaa |
 
 ## Address
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

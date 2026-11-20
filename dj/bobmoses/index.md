@@ -1,6 +1,6 @@
 # Bob Moses
 
-Bob Moses is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at BERHTA, Washington DC on Sat, 5 Dec 2026.
+Bob Moses is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at BERHTA, Washington DC on Sat, 5 Dec 2026.
 
 Bob Moses is a house and deep house artist based in Canada, with 60 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 26 more. Often billed alongside Ben Böhmer, Boys Noize and Claptone. Next up: BERHTA, Washington DC on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Bob Moses is a house and deep house artist based in Canada, with 60 gigs on soun
 
 Ben Böhmer, Boys Noize, Claptone
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*

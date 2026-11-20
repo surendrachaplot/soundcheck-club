@@ -1,17 +1,18 @@
 # Frank Tope
 
-Frank Tope is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Timber Loft, London on Sun, 15 Nov 2026.
+Frank Tope is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
 
-Frank Tope is a house and disco artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Tayo, Bustin' Loose and Norman Jay. Next up: The Timber Loft, London on Sun 15 Nov.
+Frank Tope is a disco and acid artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Tayo, Bustin' Loose and Norman Jay. Next up: 40ft Brewery - Blackhorse Road, London on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | The Timber Loft | London |
+| Fri, 1 Jan 2027 | 40ft Brewery - Blackhorse Road | London |
 
 ## Recently played
 
+- The Timber Loft, London · Sun, 15 Nov 2026
 - Blackhorse Lane Multiple Venues, London · Sat, 13 Jun 2026
 - TBA - Thrift Town, 298 Brixton Road SW9 6AG, London · Thu, 4 Jun 2026
 - Various Venues, London · Sat, 2 May 2026
@@ -19,10 +20,9 @@ Frank Tope is a house and disco artist based in United Kingdom, with 9 gigs on s
 - Mad Cats, London · Fri, 24 Jan 2025
 - Various Venues, London · Sat, 4 May 2024
 - The Social, London · Fri, 13 Oct 2023
-- Various Venues, London · Sat, 29 Apr 2023
 
 ## Shares bills with
 
 Tayo, Bustin' Loose, Norman Jay
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franktope/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franktope/)*

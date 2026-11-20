@@ -1,8 +1,8 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "PRISM pres Kangding Ray & Kerrie" on Fri, 20 Nov 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "PRISM pres Kangding Ray & Kerrie" on Fri, 20 Nov 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Ammo Avenue, Bárbara Lago, Blaark and BRUCE GEE and 2 more. See dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Ammo Avenue, Bárbara Lago, Blaark and BRUCE GEE and 2 more. See dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
@@ -23,4 +23,4 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

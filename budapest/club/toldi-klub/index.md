@@ -1,14 +1,13 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Girls to the front" on Thu, 19 Nov 2026.
+Toldi Klub is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "techlab.bp 7 YEARS with Sioc (UK)" on Fri, 20 Nov 2026.
 
-Toldi Klub is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Calippo, Chrom, Cvrdwell and Daniel Santiago and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
+Toldi Klub is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including AIRKEY, Calippo, Chrom and Cvrdwell and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Girls to the front |  |
 | Fri, 20 Nov 2026 | techlab.bp 7 YEARS with Sioc (UK) | IPAR, SLYM, Sioc, Under Silk, szoliver |
 | Sun, 22 Nov 2026 | Tesco Disco X TOLDI |  |
 | Fri, 27 Nov 2026 | ENDO INVITES SUBOTNIK (DE) | Calippo, riko (DE), schraeder |
@@ -17,10 +16,11 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, 
 | Fri, 4 Dec 2026 | DAAD Gathering movie premier & party | Daniel Santiago, Indirect Movement |
 | Sat, 5 Dec 2026 | Toldi KlubNIGHT: isu b2b Cvrdwell all night long | Cvrdwell, isu |
 | Fri, 11 Dec 2026 | TADAM pres. Running Hot | LERM, Running Hot |
+| Thu, 17 Dec 2026 | Loud Cloud • TOLDI | AIRKEY, Gary More, Levi Gava, some1 |
 | Tue, 22 Dec 2026 | DAY4NIGHT - Film Crew Christmas Party at TOLDI | Chrom |
 
 ## Address
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

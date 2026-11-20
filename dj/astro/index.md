@@ -1,13 +1,14 @@
 # Astro
 
-Astro is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Joule, Osaka on Fri, 27 Nov 2026.
+Astro is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Area51 / 17map Minami, Osaka on Sat, 21 Nov 2026.
 
-Astro is a tech house and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 4 more. Often billed alongside O-MAN, Febe and Miss Voltaghe. Next up: Joule, Osaka on Fri 27 Nov.
+Astro is a house and tech house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 4 more. Often billed alongside O-MAN, Febe and Miss Voltaghe. Next up: Area51 / 17map Minami, Osaka on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Area51 / 17map Minami | Osaka |
 | Fri, 27 Nov 2026 | Joule | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ Astro is a tech house and house artist based in United Kingdom, with 52 gigs on 
 
 O-MAN, Febe, Miss Voltaghe
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*

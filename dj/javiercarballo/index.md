@@ -1,14 +1,15 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Sótano Club , Mallorca on Sat, 21 Nov 2026.
+Javier Carballo is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Sótano Club , Mallorca on Sat, 21 Nov 2026.
 
-Javier Carballo is a house and electro artist based in Spain, with 99 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 14 more. Often billed alongside ildec, Berna and Hitch. Next up: TBA - Sótano Club , Mallorca on Sat 21 Nov.
+Javier Carballo is a house and electro artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 14 more. Often billed alongside ildec, Berna and Hitch. Next up: TBA - Sótano Club , Mallorca on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Sótano Club  | Mallorca |
+| Fri, 4 Dec 2026 | Razzmatazz | Barcelona |
 | Sun, 6 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Javier Carballo is a house and electro artist based in Spain, with 99 gigs on so
 
 ildec, Berna, Hitch
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

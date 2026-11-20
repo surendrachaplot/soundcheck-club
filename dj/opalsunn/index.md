@@ -1,6 +1,6 @@
 # Opal Sunn
 
-Opal Sunn is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
+Opal Sunn is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
 
 Opal Sunn is a house and balearic artist based in Germany, with 8 gigs on soundcheck across Barcelona, Berlin, Croatia and Ho Chi Minh City and 3 more. Often billed alongside Alex Kassian, Aurora Halal and Francesco Del Garda. Next up: TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu 17 Jun.
 
@@ -24,4 +24,4 @@ Opal Sunn is a house and balearic artist based in Germany, with 8 gigs on soundc
 
 Alex Kassian, Aurora Halal, Francesco Del Garda
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opalsunn/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opalsunn/)*

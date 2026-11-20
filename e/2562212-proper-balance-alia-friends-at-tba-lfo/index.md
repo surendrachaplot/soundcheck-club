@@ -1,6 +1,6 @@
 # Proper Balance, AliA & Friends at TBA -  LFO
 
-Proper Balance, AliA & Friends at TBA -  LFO on Sat 21 Nov, Madrid. 7 artists: AliA, Baldman, essi and Javi Lier and 3 more. Electronica. See the line-up on soundcheck.
+Proper Balance, AliA & Friends at TBA -  LFO on Sat 21 Nov, Madrid. 7 artists: AliA, Baldman, essi and Javi Lier and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

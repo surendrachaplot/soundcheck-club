@@ -1,6 +1,6 @@
 # YUYA
 
-YUYA is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+YUYA is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
 YUYA is a techno and psytrance artist based in Japan, with 19 gigs on soundcheck across Kanto, Osaka and Tokyo. Often billed alongside ERIMIYA, Tsuyoshi Suzuki and KILLIN. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ YUYA is a techno and psytrance artist based in Japan, with 19 gigs on soundcheck
 
 ERIMIYA, Tsuyoshi Suzuki, KILLIN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuya/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuya/)*

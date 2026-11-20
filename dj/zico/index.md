@@ -1,6 +1,6 @@
 # Zico
 
-Zico is a Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Socore Factory, Osaka on Sat, 21 Nov 2026.
+Zico is a Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Socore Factory, Osaka on Sat, 21 Nov 2026.
 
 Zico is an electro artist based in Germany, with 2 gigs on soundcheck across Osaka. Often billed alongside 1LDK, BABY (PT) and Le Makeup. Next up: Socore Factory, Osaka on Sat 21 Nov.
 
@@ -15,4 +15,4 @@ Zico is an electro artist based in Germany, with 2 gigs on soundcheck across Osa
 
 1LDK, BABY (PT), Le Makeup
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zico/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zico/)*

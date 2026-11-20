@@ -1,6 +1,6 @@
 # RSO.XMAS with Frederic., Echoes Of October, Tizian b2b Lukr Range at RSO.BERLIN
 
-RSO.XMAS with Frederic., Echoes Of October, Tizian b2b Lukr Range at RSO.BERLIN on Fri 25 Dec, Berlin. 4 artists: Echoes Of October, Frederic., Lukr Range and TiZiAN (DE). Techno. See the line-up on soundcheck.
+RSO.XMAS with Frederic., Echoes Of October, Tizian b2b Lukr Range at RSO.BERLIN on Fri 25 Dec, Berlin. 5 artists: Cryptofauna, Echoes Of October, Frederic. and Lukr Range and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RSO.XMAS with Frederic., Echoes Of October, Tizian b2b Lukr Range at RSO.BERLIN 
 
 ## Line-up
 
+- Cryptofauna
 - Echoes Of October
 - Frederic.
 - Lukr Range

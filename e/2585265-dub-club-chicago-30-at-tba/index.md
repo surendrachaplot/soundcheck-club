@@ -1,6 +1,6 @@
-# Dub Club Chicago 30 at TBA
+# DUB CLUB CHICAGO 30 at TBA
 
-Dub Club Chicago 30 at TBA on Fri 18 Dec, Chicago. 1 artist: Selectress Kinky P. Bass and Dub. See the line-up on soundcheck.
+DUB CLUB CHICAGO 30 at TBA on Fri 18 Dec, Chicago. 1 artist: Selectress Kinky P. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

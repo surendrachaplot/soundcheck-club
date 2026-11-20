@@ -1,6 +1,6 @@
 # Anahita Shamsaei
 
-Anahita Shamsaei is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA -  Austria - Linz, Linz on Sat, 21 Nov 2026.
+Anahita Shamsaei is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA -  Austria - Linz, Linz on Sat, 21 Nov 2026.
 
 Anahita Shamsaei is a techno and electro artist based in Iran, with 59 gigs on soundcheck across Berlin, Copenhagen, Istanbul and Karlsruhe and 3 more. Often billed alongside ANAHITA, Tafkanik and Milli. Next up: TBA -  Austria - Linz, Linz on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Anahita Shamsaei is a techno and electro artist based in Iran, with 59 gigs on s
 
 ANAHITA, Tafkanik, Milli
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitashamsaei/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitashamsaei/)*

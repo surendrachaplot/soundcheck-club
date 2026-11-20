@@ -1,6 +1,6 @@
 # Leo Del Toro
 
-Leo Del Toro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Lion's Den, Miami on Sun, 22 Nov 2026.
+Leo Del Toro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lion's Den, Miami on Sun, 22 Nov 2026.
 
 Leo Del Toro is a house and electronica artist based in United States of America, with 85 gigs on soundcheck across Barcelona, Mexico City, Miami and New York City. Often billed alongside Israel Sunshine, Ale Sab and Atomyard. Next up: Lion's Den, Miami on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Leo Del Toro is a house and electronica artist based in United States of America
 
 Israel Sunshine, Ale Sab, Atomyard
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leodeltoro/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leodeltoro/)*

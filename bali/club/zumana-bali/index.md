@@ -1,14 +1,13 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "ANTARES" on Wed, 18 Nov 2026.
+Zumana Bali is a music venue in Bali with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "GIOLI & ASSIA" on Fri, 20 Nov 2026.
 
-Zumana Bali is a music venue in Bali listed on soundcheck. 13 upcoming gigs, with line-ups including Antares (UK), Damian Lazarus, DJ Tennis and Dubfire and 2 more. See dates, start times and who's playing.
+Zumana Bali is a music venue in Bali listed on soundcheck. 12 upcoming gigs, with line-ups including Damian Lazarus, DJ Tennis, Dubfire and Francis Mercier and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | ANTARES | Antares (UK) |
 | Fri, 20 Nov 2026 | GIOLI & ASSIA | Giolì & Assia |
 | Wed, 25 Nov 2026 | Damian Lazarus | Damian Lazarus |
 | Fri, 27 Nov 2026 | Joseph Capriati | Joseph Capriati |
@@ -18,5 +17,6 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 13 upcoming gigs, wit
 | Wed, 16 Dec 2026 | Kitty Amor | Kitty Amor |
 | Fri, 18 Dec 2026 | Dubfire | Dubfire |
 | Sat, 19 Dec 2026 | RODRIGUEZ JR | Rodriguez Jr. |
+| Thu, 31 Dec 2026 | NYE - Francis Mercier PRESENTS SOLÈY | Francis Mercier |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

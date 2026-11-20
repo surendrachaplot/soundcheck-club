@@ -1,6 +1,6 @@
 # Kelbail
 
-Kelbail is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
+Kelbail is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
 
 Kelbail is a house and tech house artist based in France, with 25 gigs on soundcheck across Paris. Often billed alongside In-Tan, Artifak and Cattoni. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kelbail is a house and tech house artist based in France, with 25 gigs on soundc
 
 In-Tan, Artifak, Cattoni
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelbail/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelbail/)*

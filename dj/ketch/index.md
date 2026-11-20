@@ -1,6 +1,6 @@
 # KETCH
 
-KETCH is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
+KETCH is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
 
 KETCH is a techno and minimal techno artist based in Italy, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 22 more. Often billed alongside MZR, Barbosa and Ylia (UK). Next up: TBA - Secret Location, Stockholm on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ KETCH is a techno and minimal techno artist based in Italy, with 66 gigs on soun
 
 MZR, Barbosa, Ylia (UK)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*

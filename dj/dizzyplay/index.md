@@ -1,13 +1,14 @@
 # Dizzy Play
 
-Dizzy Play is a Dubstep and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+Dizzy Play is a Dubstep and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
-Dizzy Play is a dubstep and trance artist based in Sweden, with 7 gigs on soundcheck across Montreal. Often billed alongside Alina (MTL), Dijipoune and Guthrie. Next up: Stereo, Montreal on Sat 5 Dec.
+Dizzy Play is a dubstep and trance artist based in Sweden, with 8 gigs on soundcheck across Montreal. Often billed alongside Alina (MTL), Dijipoune and Guthrie. Next up: Stereo, Montreal on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Stereo | Montreal |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
 
 ## Recently played
@@ -23,4 +24,4 @@ Dizzy Play is a dubstep and trance artist based in Sweden, with 7 gigs on soundc
 
 Alina (MTL), Dijipoune, Guthrie
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyplay/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyplay/)*

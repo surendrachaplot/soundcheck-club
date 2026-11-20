@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "PURE PLEASURE" on Fri, 27 Nov 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "PURE PLEASURE" on Fri, 27 Nov 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Alex Friday, Andreas Henneberg and AREA ØNE and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming 
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

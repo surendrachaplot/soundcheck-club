@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Grund für Exil - 4lthangrund Soliparty" on Fri, 20 Nov 2026.
+Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Grund für Exil - 4lthangrund Soliparty" on Fri, 20 Nov 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including A.N.I., Chris Liebing, DJ DRECKISCH and Karam and 2 more. See dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -17,4 +17,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

@@ -1,6 +1,6 @@
 # Foxx
 
-Foxx is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Exit Club, Brno on Sat, 21 Nov 2026.
+Foxx is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Exit Club, Brno on Sat, 21 Nov 2026.
 
 Foxx is a tech house and techno artist, with 4 gigs on soundcheck across Brno, Freiburg, Hobart and London. Often billed alongside 2HOT2PLAY, 3LEEZA and 999999999. Next up: Exit Club, Brno on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Foxx is a tech house and techno artist, with 4 gigs on soundcheck across Brno, F
 
 2HOT2PLAY, 3LEEZA, 999999999
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foxx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foxx/)*

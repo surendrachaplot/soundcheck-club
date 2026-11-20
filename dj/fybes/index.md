@@ -1,13 +1,14 @@
 # Fybes
 
-Fybes is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Dec 2026.
+Fybes is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Masada, Milan on Sun, 6 Dec 2026.
 
-Fybes is an electro and techno artist based in Italy, with 11 gigs on soundcheck across Bologna, Milan and Naples. Often billed alongside Pabie, Valerio Della Notte and Deyayu. Next up: TBA - Secret Location - Vesuvius Area , Naples on Sat 19 Dec.
+Fybes is an electro and techno artist based in Italy, with 12 gigs on soundcheck across Bologna, Milan and Naples. Often billed alongside Pabie, Valerio Della Notte and Deyayu. Next up: Masada, Milan on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Masada | Milan |
 | Sat, 19 Dec 2026 | TBA - Secret Location - Vesuvius Area  | Naples |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fybes is an electro and techno artist based in Italy, with 11 gigs on soundcheck
 
 Pabie, Valerio Della Notte, Deyayu
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fybes/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fybes/)*

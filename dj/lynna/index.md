@@ -1,6 +1,6 @@
 # LYNNA
 
-LYNNA is a Afro House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Hotel Labtwentytwo, Barcelona on Sat, 21 Nov 2026.
+LYNNA is a Afro House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hotel Labtwentytwo, Barcelona on Sat, 21 Nov 2026.
 
 LYNNA is an afro house and electronica artist based in Chile, with 7 gigs on soundcheck across Barcelona. Often billed alongside HARI, SOFIA PINEDA and &friends. Next up: Hotel Labtwentytwo, Barcelona on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ LYNNA is an afro house and electronica artist based in Chile, with 7 gigs on sou
 
 HARI, SOFIA PINEDA, &friends
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynna/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynna/)*

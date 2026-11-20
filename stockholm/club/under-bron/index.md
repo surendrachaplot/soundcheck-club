@@ -1,8 +1,8 @@
 # Under Bron
 
-Under Bron is a music venue in Stockholm with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "IBNE presents: Isabel Soto, Harami, Andemon, ØSHUN" on Fri, 20 Nov 2026.
+Under Bron is a music venue in Stockholm with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "IBNE presents: Isabel Soto, Harami, Andemon, ØSHUN" on Fri, 20 Nov 2026.
 
-Under Bron is a music venue in Stockholm listed on soundcheck. 12 upcoming gigs, with line-ups including Alexi Delano, Andemon, Anthony Linell and Art Alfie and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
+Under Bron is a music venue in Stockholm listed on soundcheck. 14 upcoming gigs, with line-ups including Alexi Delano, Andemon, Anthony Linell and Art Alfie and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 12 upcoming gigs,
 
 Hammarby slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*

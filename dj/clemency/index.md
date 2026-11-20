@@ -1,14 +1,15 @@
 # Clemency
 
-Clemency is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
+Clemency is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
 
-Clemency is an experimental and techno artist based in United Kingdom, with 31 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London and 2 more. Often billed alongside BFTT, Iceboy Violet and Henzo. Next up: The Yard, Manchester on Fri 27 Nov.
+Clemency is an experimental and techno artist based in United Kingdom, with 32 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London and 2 more. Often billed alongside BFTT, Iceboy Violet and Henzo. Next up: The Yard, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Yard | Manchester |
+| Sat, 30 Jan 2027 | The Loft | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Clemency is an experimental and techno artist based in United Kingdom, with 31 g
 
 BFTT, Iceboy Violet, Henzo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clemency/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clemency/)*

@@ -1,6 +1,6 @@
 # Kings Turntable: MAÏS & NOYB [12.12.26] at Kings Arms E2
 
-Kings Turntable: MAÏS & NOYB [12.12.26] at Kings Arms E2 on Sat 12 Dec, London. 2 artists: MAÏS and NOYB. See the line-up on soundcheck.
+Kings Turntable: MAÏS & NOYB [12.12.26] at Kings Arms E2 on Sat 12 Dec, London. 2 artists: MAÏS and NOYB. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

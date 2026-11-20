@@ -1,14 +1,15 @@
 # BAPP
 
-BAPP is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 28 Nov 2026.
+BAPP is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 28 Nov 2026.
 
-BAPP is a tech house and house artist based in Brazil, with 14 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Adnan Sharif, Spuri and Cactunes. Next up: D-EDGE, Sao Paulo on Sat 28 Nov.
+BAPP is a tech house and house artist based in Brazil, with 15 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Adnan Sharif, Spuri and Anderson Noise. Next up: D-EDGE, Sao Paulo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | D-EDGE | Sao Paulo |
+| Thu, 31 Dec 2026 | D-EDGE | Sao Paulo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ BAPP is a tech house and house artist based in Brazil, with 14 gigs on soundchec
 
 ## Shares bills with
 
-Adnan Sharif, Spuri, Cactunes
+Adnan Sharif, Spuri, Anderson Noise
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bapp/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bapp/)*

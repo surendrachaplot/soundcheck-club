@@ -1,6 +1,6 @@
 # RA25 x Tresor Berlin at Tresor / Globus
 
-RA25 x Tresor Berlin at Tresor / Globus on Sat 21 Nov, Berlin. 21 artists: Akua, Appleblim, Bandulu and Beatrice M. and 17 more. See the line-up on soundcheck.
+RA25 x Tresor Berlin at Tresor / Globus on Sat 21 Nov, Berlin. 15 artists: Akua, Appleblim, Bandulu and Buttechno and 11 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,23 +13,17 @@ RA25 x Tresor Berlin at Tresor / Globus on Sat 21 Nov, Berlin. 21 artists: Akua,
 - Akua
 - Appleblim
 - Bandulu
-- Beatrice M.
 - Buttechno
 - Chloe Lula
 - Dave Angel
-- Decoder
-- dj sweet6teen
 - Evan Baggs
-- Garçon
 - gyrofield
 - Howes
 - Karine
 - Nídia
 - Peverelist
 - PLO Man
-- Richard Akingbehin
 - Ship Sket
-- Sybil
 - The Hacker
 
 *Source: [soundcheck](https://soundcheck.club/e/2499988-ra25-x-tresor-berlin-at-tresor-globus/)*

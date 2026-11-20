@@ -1,8 +1,8 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Rambla de Catalunya 23, Primera Principal, Barcelona on Sun, 22 Nov 2026.
+Jamie 3:26 is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Rambla de Catalunya 23, Primera Principal, Barcelona on Sun, 22 Nov 2026.
 
-Jamie 3:26 is a house and disco artist based in United States of America, with 119 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: TBA - Rambla de Catalunya 23, Primera Principal, Barcelona on Sun 22 Nov.
+Jamie 3:26 is a house and disco artist based in United States of America, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: TBA - Rambla de Catalunya 23, Primera Principal, Barcelona on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | TBA - Rambla de Catalunya 23, Primera Principal | Barcelona |
 | Sat, 12 Dec 2026 | Row 24 Chicago | Chicago |
+| Thu, 31 Dec 2026 | Club Capital | Antwerp |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 
 Young Pulse, Dimitri From Paris, Melvo Baptiste
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

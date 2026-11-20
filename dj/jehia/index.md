@@ -1,13 +1,14 @@
 # Jehia
 
-Jehia is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 28 Nov 2026.
+Jehia is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
 
-Jehia is a bass and experimental artist based in Egypt, with 44 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside B4mba, Assyouti and Lanav. Next up: El Pumarejo Barcelona, Barcelona on Sat 28 Nov.
+Jehia is a bass and experimental artist based in Egypt, with 45 gigs on soundcheck across Barcelona, Berlin, Madrid and Milan and 1 more. Often billed alongside B4mba, Assyouti and Lanav. Next up: Archive Milano, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Archive Milano | Milan |
 | Sat, 28 Nov 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jehia is a bass and experimental artist based in Egypt, with 44 gigs on soundche
 
 B4mba, Assyouti, Lanav
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jehia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jehia/)*

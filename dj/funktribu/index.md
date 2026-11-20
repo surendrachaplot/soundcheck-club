@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Paris, Paris on Fri, 20 Nov 2026.
+Funk Tribu is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Paris, Paris on Fri, 20 Nov 2026.
 
 Funk Tribu is a techno and trance artist based in Colombia, with 212 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Bad Boombox, KI/KI and 999999999. Next up: TBA - Paris, Paris on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ Funk Tribu is a techno and trance artist based in Colombia, with 212 gigs on sou
 
 Bad Boombox, KI/KI, 999999999
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

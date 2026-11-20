@@ -1,0 +1,28 @@
+# Artemuse
+
+Artemuse is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Loft, Vienna on Sat, 12 Dec 2026.
+
+Artemuse is a house and tech house artist based in Austria, with 34 gigs on soundcheck across Berlin and Vienna. Often billed alongside MELIMEKO, Reinhard Zach and Stipo. Next up: The Loft, Vienna on Sat 12 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 12 Dec 2026 | The Loft | Vienna |
+
+## Recently played
+
+- SASS Music Club, Vienna · Thu, 5 Nov 2026
+- Pratersauna, Vienna · Sat, 19 Sept 2026
+- SASS Music Club, Vienna · Fri, 17 Jul 2026
+- FLUCC, Vienna · Sat, 4 Jul 2026
+- FLUCC, Vienna · Sat, 4 Jul 2026
+- SASS Music Club, Vienna · Sat, 4 Jul 2026
+- Porto Pollo, Vienna · Fri, 19 Jun 2026
+- The Loft, Vienna · Sun, 24 May 2026
+
+## Shares bills with
+
+MELIMEKO, Reinhard Zach, Stipo
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artemuse/)*

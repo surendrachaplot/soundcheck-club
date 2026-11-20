@@ -1,14 +1,15 @@
 # ALiNA
 
-ALiNA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Sydney on Sun, 29 Nov 2026.
+ALiNA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Sydney on Sun, 29 Nov 2026.
 
-ALiNA is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 3 more. Often billed alongside Atree, Reece Walker and Sevensol. Next up: TBA, Sydney on Sun 29 Nov.
+ALiNA is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 3 more. Often billed alongside Atree, Reece Walker and Sevensol. Next up: TBA, Sydney on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | TBA | Sydney |
+| Fri, 4 Dec 2026 | TBA | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ALiNA is a house and techno artist based in Germany, with 17 gigs on soundcheck 
 
 Atree, Reece Walker, Sevensol
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alina/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alina/)*

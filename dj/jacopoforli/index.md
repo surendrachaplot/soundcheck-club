@@ -1,13 +1,14 @@
 # Jacopo Forli
 
-Jacopo Forli is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
+Jacopo Forli is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Department 184, Milan on Sat, 5 Dec 2026.
 
-Jacopo Forli is a techno and trance artist based in Italy, with 26 gigs on soundcheck across Berlin, Birmingham, Budapest and Florence and 4 more. Often billed alongside Soffice, Phreenetic and Sciahri. Next up: ÆDEN, Berlin on Fri 18 Dec.
+Jacopo Forli is a techno and trance artist based in Italy, with 27 gigs on soundcheck across Berlin, Birmingham, Budapest and Florence and 4 more. Often billed alongside Soffice, Phreenetic and Sciahri. Next up: Department 184, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Department 184 | Milan |
 | Fri, 18 Dec 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jacopo Forli is a techno and trance artist based in Italy, with 26 gigs on sound
 
 Soffice, Phreenetic, Sciahri
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacopoforli/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacopoforli/)*

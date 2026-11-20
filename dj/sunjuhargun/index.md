@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Sunju Hargun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Sunju Hargun is a techno and house artist based in Thailand, with 118 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Kia (AU), DJ MARIA. and Woody92. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Sunju Hargun is a techno and house artist based in Thailand, with 118 gigs on so
 
 Kia (AU), DJ MARIA., Woody92
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

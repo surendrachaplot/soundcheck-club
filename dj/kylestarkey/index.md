@@ -1,13 +1,14 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Kyle Starkey is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Macadam, Nantes on Fri, 27 Nov 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, with 185 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 47 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
+Kyle Starkey is a techno and house artist based in United Kingdom, with 186 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 48 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Macadam, Nantes on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Macadam | Nantes |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | M.O.T | London |
 | Fri, 11 Dec 2026 | Complex Maastricht | Netherlands |
@@ -33,4 +34,4 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 185 gigs
 
 DART, Benwal, Faster Horses
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

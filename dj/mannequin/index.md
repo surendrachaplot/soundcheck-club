@@ -1,13 +1,15 @@
 # Mannequin
 
-Mannequin is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at All My Friends, London on Sun, 27 Dec 2026.
+Mannequin is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Next Door Records, London on Fri, 18 Dec 2026.
 
-Mannequin is a house and deep house artist based in United Kingdom, with 10 gigs on soundcheck across Lausanne and London. Often billed alongside Steamy Bumplings, Dez (UK) and Inner West. Next up: All My Friends, London on Sun 27 Dec.
+Mannequin is a deep house and house artist based in United Kingdom, with 12 gigs on soundcheck across Lausanne and London. Often billed alongside Dez (UK), Steamy Bumplings and Inner West. Next up: Next Door Records, London on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Next Door Records | London |
+| Fri, 18 Dec 2026 | Next Door Records Two | London |
 | Sun, 27 Dec 2026 | All My Friends | London |
 | Thu, 31 Dec 2026 | NUMBER 90 LONDON | London |
 
@@ -24,6 +26,6 @@ Mannequin is a house and deep house artist based in United Kingdom, with 10 gigs
 
 ## Shares bills with
 
-Steamy Bumplings, Dez (UK), Inner West
+Dez (UK), Steamy Bumplings, Inner West
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mannequin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mannequin/)*

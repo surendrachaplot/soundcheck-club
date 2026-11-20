@@ -1,13 +1,14 @@
 # Manolaco
 
-Manolaco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Oddity Club, Athens on Thu, 31 Dec 2026.
+Manolaco is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Flying Horses, Athens on Sun, 22 Nov 2026.
 
-Manolaco is a house and tech house artist, with 84 gigs on soundcheck across Athens, Bucharest, London and Milan and 2 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Oddity Club, Athens on Thu 31 Dec.
+Manolaco is a house and tech house artist, with 85 gigs on soundcheck across Athens, Bucharest, London and Milan and 2 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Flying Horses, Athens on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Flying Horses | Athens |
 | Thu, 31 Dec 2026 | Oddity Club | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ Manolaco is a house and tech house artist, with 84 gigs on soundcheck across Ath
 
 Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

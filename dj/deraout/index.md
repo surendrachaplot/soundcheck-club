@@ -1,6 +1,6 @@
 # Deraout
 
-Deraout is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Auditorium , Medellin on Fri, 20 Nov 2026.
+Deraout is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Auditorium , Medellin on Fri, 20 Nov 2026.
 
 Deraout is a techno and house artist based in Colombia, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 4 more. Often billed alongside Vannesa Gnz, Andres Gil and Ricardo C. Next up: TBA - Auditorium , Medellin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Deraout is a techno and house artist based in Colombia, with 90 gigs on soundche
 
 Vannesa Gnz, Andres Gil, Ricardo C
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*

@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "VANDALIZED 10 YEARS WITH ZINA RADIO & SKEK" on Fri, 20 Nov 2026.
+Skatecafe is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "VANDALIZED 10 YEARS WITH ZINA RADIO & SKEK" on Fri, 20 Nov 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Abstract (US), Amaliah, baby ganoush and Cadeem LaMarr and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, 
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

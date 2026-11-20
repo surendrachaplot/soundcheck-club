@@ -1,6 +1,6 @@
 # The Final High Hoops at The White Hotel (12 Hour Party) at The White Hotel
 
-The Final High Hoops at The White Hotel (12 Hour Party) on Fri 27 Nov, Manchester. 5 artists: Aiden Francis, Angel D'lite, Fastlove and Merve and 1 more. House. See the line-up on soundcheck.
+The Final High Hoops at The White Hotel (12 Hour Party) on Fri 27 Nov, Manchester. 6 artists: Aiden Francis, Angel D'lite, Fastlove and Marcos (HH/FQR) and 2 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ The Final High Hoops at The White Hotel (12 Hour Party) on Fri 27 Nov, Mancheste
 - Aiden Francis
 - Angel D'lite
 - Fastlove
+- Marcos (HH/FQR)
 - Merve
 - Midland
 

@@ -1,8 +1,8 @@
 # Black Loops
 
-Black Loops is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Audio Club, Geneva on Sat, 21 Nov 2026.
+Black Loops is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Audio Club, Geneva on Sat, 21 Nov 2026.
 
-Black Loops is a house and deep house artist based in Italy, with 163 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 50 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: Audio Club, Geneva on Sat 21 Nov.
+Black Loops is a house and deep house artist based in Italy, with 164 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 50 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: Audio Club, Geneva on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Black Loops is a house and deep house artist based in Italy, with 163 gigs on so
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Audio Club | Geneva |
 | Fri, 4 Dec 2026 | FVTVR | Paris |
+| Thu, 31 Dec 2026 | Prince Charles | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Black Loops is a house and deep house artist based in Italy, with 163 gigs on so
 
 Harrison BDP, Carlo, Turkish
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*

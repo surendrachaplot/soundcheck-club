@@ -1,17 +1,18 @@
 # Diego (8)
 
-Diego (8) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Nubel, Madrid on Sun, 15 Nov 2026.
+Diego (8) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Goya Social Club, Madrid on Fri, 4 Dec 2026.
 
-Diego is a house and deep house artist based in Italy, with 6 gigs on soundcheck across Madrid and Rome. Often billed alongside Cianfo, Cinthie and DHERMIDA. Next up: Nubel, Madrid on Sun 15 Nov.
+Diego is a house and deep house artist based in Italy, with 7 gigs on soundcheck across Madrid and Rome. Often billed alongside Le Nomad, Charlotte (FR) and Cianfo. Next up: Goya Social Club, Madrid on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Nubel | Madrid |
+| Fri, 4 Dec 2026 | Goya Social Club | Madrid |
 
 ## Recently played
 
+- Nubel, Madrid · Sun, 15 Nov 2026
 - Goya Social Club, Madrid · Fri, 13 Nov 2026
 - Grandangolo, Rome · Sat, 11 Jul 2026
 - Café Berlín, Madrid · Fri, 27 Feb 2026
@@ -20,6 +21,6 @@ Diego is a house and deep house artist based in Italy, with 6 gigs on soundcheck
 
 ## Shares bills with
 
-Cianfo, Cinthie, DHERMIDA
+Le Nomad, Charlotte (FR), Cianfo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-8/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-8/)*

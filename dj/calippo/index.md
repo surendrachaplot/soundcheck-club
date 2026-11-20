@@ -1,6 +1,6 @@
 # Calippo
 
-Calippo is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 20 Nov 2026.
+Calippo is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 20 Nov 2026.
 
 Calippo is a techno and trance artist, with 4 gigs on soundcheck across Budapest and Leipzig. Often billed alongside schraeder, Afriqua and Arash Ete. Next up: Vektor - The Klub, Budapest on Fri 20 Nov.
 
@@ -17,4 +17,4 @@ Calippo is a techno and trance artist, with 4 gigs on soundcheck across Budapest
 
 schraeder, Afriqua, Arash Ete
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calippo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calippo/)*

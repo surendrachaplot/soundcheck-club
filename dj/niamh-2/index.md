@@ -1,8 +1,8 @@
-# Niamh (2)
+# Niamh (UK)
 
-Niamh (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 12 Dec 2026.
+Niamh (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 12 Dec 2026.
 
-Niamh is a techno and house artist based in United Kingdom, with 38 gigs on soundcheck across Edinburgh, Leeds, London and Manchester and 1 more. Often billed alongside Aiden Francis, Boo and Aletha. Next up: Honey Street Studio, Manchester on Sat 12 Dec.
+Niamh (UK) is a techno and house artist based in United Kingdom, with 38 gigs on soundcheck across Edinburgh, Leeds, London and Manchester and 1 more. Often billed alongside Aiden Francis, Boo and Aletha. Next up: Honey Street Studio, Manchester on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Niamh is a techno and house artist based in United Kingdom, with 38 gigs on soun
 
 Aiden Francis, Boo, Aletha
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niamh-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niamh-2/)*

@@ -1,8 +1,8 @@
 # Ogasawara
 
-Ogasawara is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
+Ogasawara is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
 
-Ogasawara is a garage and bass artist based in Japan, with 43 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, VECSILLE and Genick. Next up: Circus Tokyo, Tokyo on Sun 22 Nov.
+Ogasawara is a garage and bass artist based in Japan, with 44 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, VECSILLE and Genick. Next up: Circus Tokyo, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ogasawara is a garage and bass artist based in Japan, with 43 gigs on soundcheck
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Circus Tokyo | Tokyo |
 | Sat, 28 Nov 2026 | Circus Tokyo | Tokyo |
+| Sun, 27 Dec 2026 | club asia | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ogasawara is a garage and bass artist based in Japan, with 43 gigs on soundcheck
 
 MOOTOE, VECSILLE, Genick
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogasawara/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogasawara/)*

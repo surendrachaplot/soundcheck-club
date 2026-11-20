@@ -1,6 +1,6 @@
 # vikmatic
 
-vikmatic is a Disco and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Bain, New York City on Fri, 4 Dec 2026.
+vikmatic is a Disco and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Le Bain, New York City on Fri, 4 Dec 2026.
 
 vikmatic is a disco and afrobeat artist based in United States of America, with 28 gigs on soundcheck across New York City. Often billed alongside Arjun Shah, funkin donut and ራሄል (Rachel). Next up: Le Bain, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ vikmatic is a disco and afrobeat artist based in United States of America, with 
 
 Arjun Shah, funkin donut, ራሄል (Rachel)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikmatic/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikmatic/)*

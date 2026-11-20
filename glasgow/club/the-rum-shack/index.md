@@ -1,6 +1,6 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "World of Twist Party: Global Grooves All Night Long" on Sat, 21 Nov 2026.
+The Rum Shack is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "World of Twist Party: Global Grooves All Night Long" on Sat, 21 Nov 2026.
 
 The Rum Shack is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including David Barbarossa, Jurnalist and Quaid. See dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs,
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

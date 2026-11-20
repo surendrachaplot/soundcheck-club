@@ -1,6 +1,6 @@
 # Antdot
 
-Antdot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 6 Dec 2026.
+Antdot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 6 Dec 2026.
 
 Antdot is a house and tech house artist based in Brazil, with 69 gigs on soundcheck across Amsterdam, Buenos Aires, Dubai and Ibiza and 22 more. Often billed alongside Maz (BR), ANNA and Bora Uzer. Next up: Parque Ciudad Empresarial, Santiago on Sun 6 Dec.
 
@@ -9,6 +9,7 @@ Antdot is a house and tech house artist based in Brazil, with 69 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Parque Ciudad Empresarial | Santiago |
+| Sat, 13 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Antdot is a house and tech house artist based in Brazil, with 69 gigs on soundch
 
 Maz (BR), ANNA, Bora Uzer
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*

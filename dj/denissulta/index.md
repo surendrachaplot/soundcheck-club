@@ -1,6 +1,6 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club 415, Brazil on Sat, 21 Nov 2026.
+Denis Sulta is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club 415, Brazil on Sat, 21 Nov 2026.
 
 Denis Sulta is a house and techno artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 56 more. Often billed alongside Ben Hemsley, CHRIS STASSY and Sarah Story. Next up: Club 415, Brazil on Sat 21 Nov.
 
@@ -34,4 +34,4 @@ Denis Sulta is a house and techno artist based in United Kingdom, with 159 gigs 
 
 Ben Hemsley, CHRIS STASSY, Sarah Story
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*

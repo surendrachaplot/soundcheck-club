@@ -1,6 +1,6 @@
 # Harry James
 
-Harry James is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Harry James is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Harry James is a house and acid artist based in United Kingdom, with 51 gigs on soundcheck across Hanoi, Ho Chi Minh City, Istanbul and London. Often billed alongside Rosie Ama, DJ Ouch! and babyschön. Next up: The Cause, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Harry James is a house and acid artist based in United Kingdom, with 51 gigs on 
 
 Rosie Ama, DJ Ouch!, babyschön
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryjames/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryjames/)*

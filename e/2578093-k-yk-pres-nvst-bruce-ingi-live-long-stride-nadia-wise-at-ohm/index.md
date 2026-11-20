@@ -1,6 +1,6 @@
 # kəyk pres. NVST, Bruce, INGI (live), Long Stride & Nadia Wise at OHM
 
-kəyk pres. NVST, Bruce, INGI (live), Long Stride & Nadia Wise at OHM on Thu 10 Dec, Berlin. 5 artists: Bruce, FoxMind, INGI and Nadia Wise and 1 more. Dub and Electronica. See the line-up on soundcheck.
+kəyk pres. NVST, Bruce, INGI (live), Long Stride & Nadia Wise at OHM on Thu 10 Dec, Berlin. 5 artists: Bruce, FoxMind, INGI and Nadia Wise and 1 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

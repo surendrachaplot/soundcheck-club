@@ -1,6 +1,6 @@
 # 工｜工友聚会 at 工gong
 
-工｜工友聚会 at 工gong on Sat 21 Nov, Chengdu. 2 artists: Kongsent and Squidge. See the line-up on soundcheck.
+工｜工友聚会 at 工gong on Sat 21 Nov, Chengdu. 2 artists: Kongsent and Squidge. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

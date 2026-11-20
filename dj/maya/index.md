@@ -1,6 +1,6 @@
 # Maya
 
-Maya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NX Newcastle, Newcastle on Sat, 21 Nov 2026.
+Maya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NX Newcastle, Newcastle on Sat, 21 Nov 2026.
 
 Maya is a techno and house artist based in Italy, with 11 gigs on soundcheck across Ho Chi Minh City, Kyoto, Newcastle and Tokyo. Often billed alongside AHREUM, MARK MILA and Shogo Ito. Next up: NX Newcastle, Newcastle on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Maya is a techno and house artist based in Italy, with 11 gigs on soundcheck acr
 
 AHREUM, MARK MILA, Shogo Ito
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maya/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maya/)*

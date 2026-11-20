@@ -1,13 +1,14 @@
 # MAMO (2)
 
-MAMO (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Liquid Club, Malta on Sat, 26 Dec 2026.
+MAMO (2) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Liquid Club, Malta on Fri, 20 Nov 2026.
 
-MAMO is a techno and industrial artist based in Malta, with 20 gigs on soundcheck across Malta. Often billed alongside MALISTA, Lombz and VRDKT. Next up: Liquid Club, Malta on Sat 26 Dec.
+MAMO is a techno and industrial artist based in Malta, with 21 gigs on soundcheck across Malta. Often billed alongside MALISTA, Lombz and Thibo Verbeke. Next up: Liquid Club, Malta on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Liquid Club | Malta |
 | Sat, 26 Dec 2026 | Liquid Club | Malta |
 
 ## Recently played
@@ -23,6 +24,6 @@ MAMO is a techno and industrial artist based in Malta, with 20 gigs on soundchec
 
 ## Shares bills with
 
-MALISTA, Lombz, VRDKT
+MALISTA, Lombz, Thibo Verbeke
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamo-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamo-2/)*

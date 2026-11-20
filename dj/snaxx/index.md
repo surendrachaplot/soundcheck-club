@@ -1,14 +1,15 @@
 # SNAXX
 
-SNAXX is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+SNAXX is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-SNAXX is a house and techno artist based in Australia, with 44 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Gumm, Andrew88 and Steve Bleas. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+SNAXX is a house and techno artist based in Australia, with 45 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Gumm, Andrew88 and Steve Bleas. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Sun, 29 Nov 2026 | Revolver Upstairs | Melbourne |
 | Sat, 30 Jan 2027 | Preston Warehouse | Melbourne |
 
 ## Recently played
@@ -26,4 +27,4 @@ SNAXX is a house and techno artist based in Australia, with 44 gigs on soundchec
 
 Gumm, Andrew88, Steve Bleas
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snaxx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snaxx/)*

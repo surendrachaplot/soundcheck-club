@@ -1,6 +1,6 @@
 # Ausgang Plaza
 
-Ausgang Plaza is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "KVNT Detour: SNACK" on Fri, 20 Nov 2026.
+Ausgang Plaza is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "KVNT Detour: SNACK" on Fri, 20 Nov 2026.
 
 Ausgang Plaza is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Akpossoul, Amarji King, Dee Diggs and DJ BlackGold and 2 more. See dates, start times and who's playing. 6524 St-Hubert, Montreal, QC, H2S 2M3, Canada.
 
@@ -21,4 +21,4 @@ Ausgang Plaza is a music venue in Montreal listed on soundcheck. 8 upcoming gigs
 
 6524 St-Hubert, Montreal, QC, H2S 2M3, Canada, Montreal
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/ausgang-plaza/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/ausgang-plaza/)*

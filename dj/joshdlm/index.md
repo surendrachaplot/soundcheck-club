@@ -1,6 +1,6 @@
 # Josh.DLM
 
-Josh.DLM is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Josh.DLM is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Josh.DLM is a house and deep house artist based in South Africa, with 9 gigs on soundcheck across Beijing and Cape Town. Often billed alongside Hypoestes, Ben Probert and Kyle Russouw. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -13,6 +13,7 @@ Josh.DLM is a house and deep house artist based in South Africa, with 9 gigs on 
 
 ## Recently played
 
+- TBA - Porcupine Hills, Bot River, Cape Town · Thu, 19 Nov 2026
 - Groundless Factory, Beijing · Fri, 18 Sept 2026
 - TBA - Downtown Ramen, Cape Town · Sat, 8 Aug 2026
 - Mødular., Cape Town · Fri, 10 Apr 2026
@@ -25,4 +26,4 @@ Josh.DLM is a house and deep house artist based in South Africa, with 9 gigs on 
 
 Hypoestes, Ben Probert, Kyle Russouw
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdlm/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdlm/)*

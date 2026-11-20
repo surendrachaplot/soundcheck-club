@@ -1,13 +1,14 @@
 # Carly Carmen
 
-Carly Carmen is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at E1, London on Fri, 27 Nov 2026.
+Carly Carmen is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Upper East, London on Sat, 21 Nov 2026.
 
-Carly Carmen is a tech house and house artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside Dj Cash Only, KAZIA and A.L.F. Next up: E1, London on Fri 27 Nov.
+Carly Carmen is a tech house and house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside Dj Cash Only, Cami Jones and KAZIA. Next up: Upper East, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Upper East | London |
 | Fri, 27 Nov 2026 | E1 | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Carly Carmen is a tech house and house artist based in United Kingdom, with 12 g
 
 ## Shares bills with
 
-Dj Cash Only, KAZIA, A.L.F
+Dj Cash Only, Cami Jones, KAZIA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlycarmen-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlycarmen-uk/)*

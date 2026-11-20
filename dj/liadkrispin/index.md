@@ -1,13 +1,14 @@
 # Liad Krispin
 
-Liad Krispin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 12 Dec 2026.
+Liad Krispin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Südpol, Hamburg on Sat, 5 Dec 2026.
 
-Liad Krispin is a techno and house artist based in United States of America, with 41 gigs on soundcheck across Berlin, Brussels, Copenhagen and Hamburg and 7 more. Often billed alongside Luigi Di Venere, Byron Yeates and Majdolen. Next up: Zinkbad Eventhalle, Zurich on Sat 12 Dec.
+Liad Krispin is a techno and house artist based in United States of America, with 42 gigs on soundcheck across Berlin, Brussels, Copenhagen and Hamburg and 7 more. Often billed alongside Luigi Di Venere, Majdolen and Byron Yeates. Next up: Südpol, Hamburg on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Südpol | Hamburg |
 | Sat, 12 Dec 2026 | Zinkbad Eventhalle | Zurich |
 | Fri, 1 Jan 2027 | KREUZWERK | Berlin |
 
@@ -24,6 +25,6 @@ Liad Krispin is a techno and house artist based in United States of America, wit
 
 ## Shares bills with
 
-Luigi Di Venere, Byron Yeates, Majdolen
+Luigi Di Venere, Majdolen, Byron Yeates
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

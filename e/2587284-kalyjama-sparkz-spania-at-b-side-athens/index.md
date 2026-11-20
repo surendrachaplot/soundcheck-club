@@ -1,10 +1,10 @@
 # Kalyjama / SPARKZ / SPANIA at B side Athens
 
-Kalyjama / SPARKZ / SPANIA at B side Athens on Sat 21 Nov, Athens. 3 artists: Kalyjama, SPANIA and SPARKZ. See the line-up on soundcheck.
+Kalyjama / SPARKZ / SPANIA at B side Athens on Fri 20 Nov, Athens. 3 artists: Kalyjama, SPANIA and SPARKZ. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 21 Nov 2026 |
+| Date | Fri, 20 Nov 2026 |
 | Venue | B side Athens |
 | City | Athens |
 

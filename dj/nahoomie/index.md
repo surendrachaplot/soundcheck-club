@@ -1,14 +1,15 @@
 # Nahoomie
 
-Nahoomie is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
+Nahoomie is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
 
-Nahoomie is a house and electronica artist based in Spain, with 65 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Madrid and 1 more. Often billed alongside Verushka, Alvva and Gazzi. Next up: Razzmatazz, Barcelona on Sat 28 Nov.
+Nahoomie is a house and disco artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Madrid and 1 more. Often billed alongside Verushka, Alvva and Gazzi. Next up: Razzmatazz, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Razzmatazz | Barcelona |
+| Sat, 12 Dec 2026 | La Paloma | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nahoomie is a house and electronica artist based in Spain, with 65 gigs on sound
 
 Verushka, Alvva, Gazzi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahoomie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahoomie/)*

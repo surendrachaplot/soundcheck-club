@@ -1,6 +1,6 @@
 # Dashé
 
-Dashé is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 22 Nov 2026.
+Dashé is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 22 Nov 2026.
 
 Dashé is a techno and club artist based in Australia, with 12 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside Haus of Ralph, Aaliyah Salem and Ayebatonye. Next up: Smith St Hotel, Melbourne on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Dashé is a techno and club artist based in Australia, with 12 gigs on soundchec
 
 Haus of Ralph, Aaliyah Salem, Ayebatonye
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*

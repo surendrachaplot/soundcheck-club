@@ -1,8 +1,8 @@
 # LUISELLE
 
-LUISELLE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
+LUISELLE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
 
-LUISELLE is a techno and house artist based in Germany, with 32 gigs on soundcheck across Berlin, Hannover and London. Often billed alongside Flight Mode (DE), Kobzev and G.oss. Next up: Distillery N17, London on Sat 28 Nov.
+LUISELLE is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin, Hannover and London. Often billed alongside Flight Mode (DE), Kobzev and G.oss. Next up: Distillery N17, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LUISELLE is a techno and house artist based in Germany, with 32 gigs on soundche
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Distillery N17 | London |
 | Sat, 12 Dec 2026 | RSO.BERLIN | Berlin |
+| Thu, 31 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ LUISELLE is a techno and house artist based in Germany, with 32 gigs on soundche
 
 Flight Mode (DE), Kobzev, G.oss
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luiselle/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luiselle/)*

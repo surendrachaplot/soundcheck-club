@@ -1,6 +1,6 @@
 # YOVA
 
-YOVA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+YOVA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 YOVA is a techno and trance artist based in Germany, with 88 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside DJ Henk, Stinny Stone and SOHOE. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ YOVA is a techno and trance artist based in Germany, with 88 gigs on soundcheck 
 
 DJ Henk, Stinny Stone, SOHOE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/YOVA/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/YOVA/)*

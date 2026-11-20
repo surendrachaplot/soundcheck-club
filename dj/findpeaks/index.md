@@ -1,6 +1,6 @@
 # findPeaks
 
-findPeaks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 27 Nov 2026.
+findPeaks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 27 Nov 2026.
 
 findPeaks is a techno and house artist based in Morocco, with 43 gigs on soundcheck across Barcelona, Lyon, Madrid and Milan. Often billed alongside WO KEM, materia hache and Jawad_o. Next up: Hangar48 Club, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ findPeaks is a techno and house artist based in Morocco, with 43 gigs on soundch
 
 WO KEM, materia hache, Jawad_o
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/findpeaks/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/findpeaks/)*

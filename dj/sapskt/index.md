@@ -1,6 +1,6 @@
 # sapskt
 
-sapskt is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
+sapskt is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
 
 sapskt is a techno and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin and Santiago. Often billed alongside VEGANICECREAM, Ankit and EVYA. Next up: Sensorium, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ sapskt is a techno and tech house artist based in Germany, with 7 gigs on soundc
 
 VEGANICECREAM, Ankit, EVYA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sapskt/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sapskt/)*

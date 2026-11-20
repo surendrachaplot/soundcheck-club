@@ -1,6 +1,6 @@
 # Julian Millan
 
-Julian Millan is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Salon Amador, Medellin on Fri, 4 Dec 2026.
+Julian Millan is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Salon Amador, Medellin on Fri, 4 Dec 2026.
 
 Julian Millan is a progressive house and house artist, with 9 gigs on soundcheck across Bogotá, Medellin and Mexico City. Often billed alongside Justek, Dave Seaman and Juan Pablo Torrez. Next up: Salon Amador, Medellin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Julian Millan is a progressive house and house artist, with 9 gigs on soundcheck
 
 Justek, Dave Seaman, Juan Pablo Torrez
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmillan/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmillan/)*

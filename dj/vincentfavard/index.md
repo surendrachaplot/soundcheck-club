@@ -1,14 +1,15 @@
 # Vincent Favard
 
-Vincent Favard is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 22 Nov 2026.
+Vincent Favard is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 22 Nov 2026.
 
-Vincent Favard is a house and techno artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside ABOUT SOFIYA, CHIKA and Calavera. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sun 22 Nov.
+Vincent Favard is a techno and tech house artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside Rickey Shannon, ABOUT SOFIYA and CHIKA. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Fri, 4 Dec 2026 | Enter Shibuya | Tokyo |
 | Sat, 26 Jun 2027 | Ruby Room | Tokyo |
 
 ## Recently played
@@ -17,6 +18,6 @@ Vincent Favard is a house and techno artist based in Japan, with 3 gigs on sound
 
 ## Shares bills with
 
-ABOUT SOFIYA, CHIKA, Calavera
+Rickey Shannon, ABOUT SOFIYA, CHIKA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentfavard/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentfavard/)*

@@ -1,13 +1,14 @@
 # Odd (MY)
 
-Odd (MY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 28 Nov 2026.
+Odd (MY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 21 Nov 2026.
 
-Odd (MY) is a techno and house artist based in Malaysia, with 48 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Meliha and JonnyVicious. Next up: Pisco Bar, Kuala Lumpur on Sat 28 Nov.
+Odd (MY) is a techno and house artist based in Malaysia, with 49 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Meliha and JonnyVicious. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | The Iron Fairies Kuala Lumpur | Kuala Lumpur |
 | Sat, 28 Nov 2026 | Pisco Bar | Kuala Lumpur |
 
 ## Recently played
@@ -25,4 +26,4 @@ Odd (MY) is a techno and house artist based in Malaysia, with 48 gigs on soundch
 
 Alam, Meliha, JonnyVicious
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*

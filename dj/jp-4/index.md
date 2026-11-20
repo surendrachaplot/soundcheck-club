@@ -1,14 +1,16 @@
 # JP (4)
 
-JP (4) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
+JP (4) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 19 Dec 2026.
 
-JP is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Ghent, Liverpool and London and 7 more. Often billed alongside Alexander Koning, Erick E and Remy Unger. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
+JP is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Ghent, Liverpool and London and 7 more. Often billed alongside Alexander Koning, Erick E and Rossi. Next up: Ruis Alkmaar, Amsterdam on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Ruis Alkmaar | Amsterdam |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
+| Sat, 6 Mar 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ JP is a house and techno artist based in United Kingdom, with 29 gigs on soundch
 
 ## Shares bills with
 
-Alexander Koning, Erick E, Remy Unger
+Alexander Koning, Erick E, Rossi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jp-4/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jp-4/)*

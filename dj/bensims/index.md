@@ -1,14 +1,13 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
+Ben Sims is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - AUDITORIUM Cl 44 #68-59, Laureles - Estadio, Medellín, Medellin on Fri, 20 Nov 2026.
 
-Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: Radio Estrella, Bogotá on Thu 19 Nov.
+Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: TBA - AUDITORIUM Cl 44 #68-59, Laureles - Estadio, Medellín, Medellin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Radio Estrella | Bogotá |
 | Fri, 20 Nov 2026 | TBA - AUDITORIUM Cl 44 #68-59, Laureles - Estadio, Medellín | Medellin |
 | Fri, 20 Nov 2026 | TBA - Auditorium  | Medellin |
 | Sat, 21 Nov 2026 | Cali Colombia | Cali |
@@ -22,6 +21,7 @@ Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on 
 
 ## Recently played
 
+- Radio Estrella, Bogotá · Thu, 19 Nov 2026
 - Hungexpo Budapest, Budapest · Fri, 13 Nov 2026
 - Hype Discoteca, Naples · Sat, 17 Oct 2026
 - Circus Tokyo, Tokyo · Fri, 9 Oct 2026
@@ -29,10 +29,9 @@ Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on 
 - Hive Club, Zurich · Fri, 25 Sept 2026
 - Tresor / Globus, Berlin · Sat, 19 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
-- IFEMA, Madrid · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Oscar Mulero, Blasha & Allatt, Nuke
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

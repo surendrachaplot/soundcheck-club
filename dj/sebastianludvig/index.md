@@ -1,6 +1,6 @@
 # Sebastian Ludvig
 
-Sebastian Ludvig is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at M-BIA, Berlin on Sat, 28 Nov 2026.
+Sebastian Ludvig is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at M-BIA, Berlin on Sat, 28 Nov 2026.
 
 Sebastian Ludvig is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin. Often billed alongside DJ Jordan, Millie Forsberg and Son of Adria. Next up: M-BIA, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sebastian Ludvig is a techno and trance artist based in Germany, with 36 gigs on
 
 DJ Jordan, Millie Forsberg, Son of Adria
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianludvig/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianludvig/)*

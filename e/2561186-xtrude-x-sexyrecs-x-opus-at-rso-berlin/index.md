@@ -1,6 +1,6 @@
 # XTRUDE x SEXYRECS X OPUS at RSO.BERLIN
 
-XTRUDE x SEXYRECS X OPUS at RSO.BERLIN on Sat 12 Dec, Berlin. 14 artists: Chontane, Danté, DJ ANGEL (fr) and HUJUS and 10 more. Techno. See the line-up on soundcheck.
+XTRUDE x SEXYRECS X OPUS at RSO.BERLIN on Sat 12 Dec, Berlin. 15 artists: Chontane, Danté, DJ ANGEL (fr) and HUJUS and 11 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ XTRUDE x SEXYRECS X OPUS at RSO.BERLIN on Sat 12 Dec, Berlin. 14 artists: Chonta
 - LUISELLE
 - Marco Bailey
 - Matrixxman
+- Milena Adamis
 - NASTYA NVRSLP
 - Nina Farrina
 - Regent

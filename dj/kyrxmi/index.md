@@ -1,6 +1,6 @@
 # Kyrxmi
 
-Kyrxmi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 1720, Los Angeles on Thu, 31 Dec 2026.
+Kyrxmi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 1720, Los Angeles on Thu, 31 Dec 2026.
 
 Kyrxmi is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Amsterdam and Los Angeles. Often billed alongside Karlim, Albina Van and Aztekan. Next up: 1720, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kyrxmi is a techno and house artist based in United States of America, with 10 g
 
 Karlim, Albina Van, Aztekan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrxmi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrxmi/)*

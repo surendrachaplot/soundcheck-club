@@ -1,6 +1,6 @@
 # AMINO ACID -Cousin- at MIDNIGHT EAST
 
-AMINO ACID -Cousin- at MIDNIGHT EAST on Fri 20 Nov, Tokyo. 7 artists: Cousin, Daigos, Hue Ray and Jyn and 3 more. See the line-up on soundcheck.
+AMINO ACID -Cousin- at MIDNIGHT EAST on Fri 20 Nov, Tokyo. 7 artists: Cousin, Daigos, Hue Ray and Jyn and 3 more. Bass and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shi Shi
 
-Shi Shi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 28 Nov 2026.
+Shi Shi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 28 Nov 2026.
 
 Shi Shi is a house and club artist based in United States of America, with 40 gigs on soundcheck across Chicago, London, Los Angeles and New York City and 3 more. Often billed alongside Pacer, AceMo and sqip. Next up: Val’s Lesbian Bar, Philadelphia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Shi Shi is a house and club artist based in United States of America, with 40 gi
 
 Pacer, AceMo, sqip
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*

@@ -1,15 +1,18 @@
 # au4r33y
 
-au4r33y is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
+au4r33y is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
 
-au4r33y is a techno and house artist based in Australia, with 72 gigs on soundcheck across Bangkok, Beijing, Berlin and Hong Kong and 5 more. Often billed alongside Kato, Paramat and Eddie Guy. Next up: TBA - 2 Hours from Sydney, Sydney on Fri 4 Dec.
+au4r33y is a techno and house artist based in Australia, with 75 gigs on soundcheck across Bangkok, Beijing, Berlin and Hong Kong and 5 more. Often billed alongside Kato, Paramat and Kyuchan. Next up: TBA - 2 Hours from Sydney, Sydney on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | TBA - 2 Hours from Sydney | Sydney |
+| Sat, 5 Dec 2026 | TBA | Sydney |
+| Sun, 6 Dec 2026 | OneSixOne | Melbourne |
 | Sun, 13 Dec 2026 | Club 77 | Sydney |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ au4r33y is a techno and house artist based in Australia, with 72 gigs on soundch
 
 ## Shares bills with
 
-Kato, Paramat, Eddie Guy
+Kato, Paramat, Kyuchan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/au4r33y/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/au4r33y/)*

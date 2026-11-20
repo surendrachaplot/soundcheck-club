@@ -1,8 +1,8 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 21 Nov 2026.
+John Digweed is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 21 Nov 2026.
 
-John Digweed is a progressive house and techno artist based in United Kingdom, with 145 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Óbuda Bay, Budapest on Sat 21 Nov.
+John Digweed is a progressive house and techno artist based in United Kingdom, with 146 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Óbuda Bay, Budapest on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ John Digweed is a progressive house and techno artist based in United Kingdom, w
 | Sat, 21 Nov 2026 | Óbuda Bay | Budapest |
 | Sat, 28 Nov 2026 | block. | Dublin |
 | Sat, 5 Dec 2026 | The Roundhouse | London |
+| Fri, 1 Jan 2027 | Stereo | Montreal |
 | Sat, 3 Jul 2027 | Tofte Manor | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ John Digweed is a progressive house and techno artist based in United Kingdom, w
 
 Sasha, Nick Warren, Sasha & John Digweed
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*

@@ -1,15 +1,13 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "COLLECT w/ NICK CRADDOCK" on Wed, 18 Nov 2026.
+Collect LX Factory is a music venue in Lisbon with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Another Place" on Fri, 20 Nov 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 13 upcoming gigs, with line-ups including 2jack4u, Arque, C3D-E and Certain People and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, with line-ups including 2jack4u, Arque, C3D-E and Certain People and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | COLLECT w/ NICK CRADDOCK | Nick Craddock |
-| Thu, 19 Nov 2026 | COLLECT w/ SIBSON | Sibson |
 | Fri, 20 Nov 2026 | Another Place | 2jack4u, David Rodrigues, Dr. Bruits, George Silver, Nova Retra, Paixão |
 | Fri, 20 Nov 2026 | COLLECT w/ NICOLE | Nicole |
 | Sat, 21 Nov 2026 | Collect LX Factory presents C3D-E (live) | C3D-E, Solid-Funk, Ze Salvador |
@@ -18,9 +16,11 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 13 upcoming 
 | Wed, 25 Nov 2026 | COLLECT w/ PAWL, ARQUE & CERTAIN PEOPLE | Arque, Certain People, Pawl |
 | Thu, 26 Nov 2026 | COLLECT w/ MEIBI | Meibi |
 | Fri, 27 Nov 2026 | Off Topic X Collect LX Factory | Pedro Zoy |
+| Fri, 27 Nov 2026 | COLLECT w/ DARKATEK | DarkateK |
+| Sat, 28 Nov 2026 | WARM with Phil Evans ( Pager Records ) | DJ Honesty, Phil Evans, Telma |
 
 ## Address
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

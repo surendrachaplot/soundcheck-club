@@ -1,13 +1,14 @@
 # PLOYZZ
 
-PLOYZZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+PLOYZZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 27 Nov 2026.
 
-PLOYZZ is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Cyprus and Dortmund / Essen and 4 more. Often billed alongside DeGuzman, SIRO (DE) and GEORGE aka DR.RADSPORT. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
+PLOYZZ is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, Cyprus and Dortmund / Essen and 5 more. Often billed alongside DeGuzman, SIRO (DE) and GEORGE aka DR.RADSPORT. Next up: Lehmann Club, Stuttgart on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Lehmann Club | Stuttgart |
 | Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
 
 ## Recently played
@@ -25,4 +26,4 @@ PLOYZZ is a techno and trance artist based in Germany, with 32 gigs on soundchec
 
 DeGuzman, SIRO (DE), GEORGE aka DR.RADSPORT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ployzz/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ployzz/)*

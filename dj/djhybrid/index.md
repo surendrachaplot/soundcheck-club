@@ -1,13 +1,14 @@
 # DJ Hybrid
 
-DJ Hybrid is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Melkweg, Amsterdam on Mon, 23 Nov 2026.
+DJ Hybrid is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Salzhaus, Zurich on Sat, 21 Nov 2026.
 
-DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Auckland, Boston and Brighton and 13 more. Often billed alongside Benny Page, Deekline and Hypershe. Next up: Melkweg, Amsterdam on Mon 23 Nov.
+DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Auckland, Boston and Brighton and 14 more. Often billed alongside Benny Page, Deekline and Hypershe. Next up: Salzhaus, Zurich on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Salzhaus | Zurich |
 | Mon, 23 Nov 2026 | Melkweg | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 34 gi
 
 Benny Page, Deekline, Hypershe
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*

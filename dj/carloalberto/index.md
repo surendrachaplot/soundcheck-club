@@ -1,6 +1,6 @@
 # Carloalberto
 
-Carloalberto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bonfim, North on Sat, 19 Dec 2026.
+Carloalberto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bonfim, North on Sat, 19 Dec 2026.
 
 Carloalberto is a house and tech house artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 5 more. Often billed alongside KARBONI, Phill Prince and Coni. Next up: Bonfim, North on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Carloalberto is a house and tech house artist based in Italy, with 48 gigs on so
 
 KARBONI, Phill Prince, Coni (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carloalberto/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carloalberto/)*

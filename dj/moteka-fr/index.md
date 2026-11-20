@@ -1,14 +1,14 @@
 # Moteka
 
-Moteka is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - SECRET LOCATION / 56.966623, 24.152074, Riga on Fri, 20 Nov 2026.
+Moteka is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location, Riga on Fri, 20 Nov 2026.
 
-Moteka is a techno and hardcore artist based in France, with 11 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 6 more. Often billed alongside Electric Rescue, Chich and Kmyle. Next up: TBA - SECRET LOCATION / 56.966623, 24.152074, Riga on Fri 20 Nov.
+Moteka is a techno and hardcore artist based in France, with 11 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 6 more. Often billed alongside Electric Rescue, Chich and Kmyle. Next up: TBA - Secret Location, Riga on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - SECRET LOCATION / 56.966623, 24.152074 | Riga |
+| Fri, 20 Nov 2026 | TBA - Secret Location | Riga |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Moteka is a techno and hardcore artist based in France, with 11 gigs on soundche
 
 Electric Rescue, Chich, Kmyle
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moteka-fr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moteka-fr/)*

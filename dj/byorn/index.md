@@ -1,13 +1,14 @@
 # BYØRN
 
-BYØRN is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Groove, Buenos Aires on Sat, 21 Nov 2026.
+BYØRN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Teatro Kantaro, Peru on Fri, 20 Nov 2026.
 
-BYØRN is a techno and trance artist based in Belgium, with 109 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 47 more. Often billed alongside NOVAH, SIKOTI and 6EJOU. Next up: Groove, Buenos Aires on Sat 21 Nov.
+BYØRN is a techno and trance artist based in Belgium, with 110 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 48 more. Often billed alongside NOVAH, SIKOTI and 6EJOU. Next up: Teatro Kantaro, Peru on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Teatro Kantaro | Peru |
 | Sat, 21 Nov 2026 | Groove | Buenos Aires |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 
@@ -26,4 +27,4 @@ BYØRN is a techno and trance artist based in Belgium, with 109 gigs on soundche
 
 NOVAH, SIKOTI, 6EJOU
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*

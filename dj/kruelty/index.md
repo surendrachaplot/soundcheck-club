@@ -1,14 +1,15 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+KRUELTY is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
-KRUELTY is a techno and hardcore artist based in Netherlands, with 96 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
+KRUELTY is a techno and hardcore artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
+| Sun, 22 Nov 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Fri, 27 Nov 2026 | Kompass Klub | Ghent |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 5 Dec 2026 | Afas Live | Amsterdam |
@@ -18,8 +19,7 @@ KRUELTY is a techno and hardcore artist based in Netherlands, with 96 gigs on so
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
-| Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
-| Sat, 13 Feb 2027 | 02 Victoria Warehouse | Manchester |
+| Fri, 1 Jan 2027 | La Cubierta de Leganés | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KRUELTY is a techno and hardcore artist based in Netherlands, with 96 gigs on so
 
 KLOFAMA, SLVL, KARAH
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

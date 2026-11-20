@@ -1,6 +1,6 @@
 # ced.rocks
 
-ced.rocks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
+ced.rocks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
 
 ced.rocks is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DAVIDE, Dellosen and Timeless Moments. Next up: Club Frau Holle, Hamburg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ced.rocks is a house and techno artist based in Germany, with 12 gigs on soundch
 
 DAVIDE (2), Dellosen, Timeless Moments
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ced.rocks/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ced.rocks/)*

@@ -1,6 +1,6 @@
 # smile. at OXI
 
-smile. at OXI on Fri 27 Nov, Berlin. 4 artists: Franko Muçaj, Monokultur, Norman Weber and Pascal Fischer. Techno and House. See the line-up on soundcheck.
+smile. at OXI on Fri 27 Nov, Berlin. 3 artists: Franko Muçaj, Norman Weber and Pascal Fischer. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ smile. at OXI on Fri 27 Nov, Berlin. 4 artists: Franko Muçaj, Monokultur, Norma
 ## Line-up
 
 - Franko Muçaj
-- Monokultur
 - Norman Weber
 - Pascal Fischer
 

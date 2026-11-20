@@ -1,6 +1,6 @@
 # DEN!SE
 
-DEN!SE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
+DEN!SE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
 
 DEN!SE is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Solvados, Jasmin Giovanazzi and SIUL. Next up: ://about blank, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DEN!SE is a techno and house artist based in Germany, with 19 gigs on soundcheck
 
 Solvados, Jasmin Giovanazzi, SIUL (1)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/den!se/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/den!se/)*

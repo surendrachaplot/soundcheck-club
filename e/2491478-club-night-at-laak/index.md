@@ -1,6 +1,6 @@
 # Club Night at Laak
 
-Club Night at Laak on Fri 20 Nov, The Hague. 3 artists: Aurora Halal, Carl H and Mia Cecille. See the line-up on soundcheck.
+Club Night at Laak on Fri 20 Nov, The Hague. 9 artists: amne, Aurora Halal, Carl H and DelFuturo and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,14 @@ Club Night at Laak on Fri 20 Nov, The Hague. 3 artists: Aurora Halal, Carl H and
 
 ## Line-up
 
+- amne
 - Aurora Halal
 - Carl H
+- DelFuturo
+- fetva
+- Freestyler (2)
+- Lux18
 - Mia Cecille
+- Vox supreme
 
 *Source: [soundcheck](https://soundcheck.club/e/2491478-club-night-at-laak/)*

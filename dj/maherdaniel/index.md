@@ -1,8 +1,8 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Maher Daniel is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
-Maher Daniel is a house and minimal artist based in Palestine, with 114 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 29 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: The Pickle, Miami on Thu 3 Dec.
+Maher Daniel is a house and minimal artist based in Palestine, with 115 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 29 more. Often billed alongside Ricardo Villalobos, Danyelino and Sonja Moonear. Next up: The Pickle, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maher Daniel is a house and minimal artist based in Palestine, with 114 gigs on 
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 12 Dec 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Fri, 1 Oct 2027 | Chinois Ibiza | Ibiza |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Maher Daniel is a house and minimal artist based in Palestine, with 114 gigs on 
 
 ## Shares bills with
 
-Danyelino, Ricardo Villalobos, Raresh
+Ricardo Villalobos, Danyelino, Sonja Moonear
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

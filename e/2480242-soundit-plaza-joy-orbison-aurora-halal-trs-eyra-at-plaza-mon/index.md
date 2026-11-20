@@ -13,6 +13,6 @@ SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA at Plaza Monumental de Barce
 - Aurora Halal
 - EYRA
 - Joy Orbison
-- TRS
+- TRS (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2480242-soundit-plaza-joy-orbison-aurora-halal-trs-eyra-at-plaza-mon/)*

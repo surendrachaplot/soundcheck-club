@@ -1,14 +1,15 @@
 # Asa Tate
 
-Asa Tate is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hope House, Leeds on Fri, 27 Nov 2026.
+Asa Tate is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hope House, Leeds on Fri, 27 Nov 2026.
 
-Asa Tate is a house and balearic artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Brighton, Bucharest and Edinburgh and 2 more. Often billed alongside Meg Paine, Tech Support and Zaltsman. Next up: Hope House, Leeds on Fri 27 Nov.
+Asa Tate is a house and balearic artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Brighton, Bucharest and Edinburgh and 2 more. Often billed alongside Meg Paine, Tech Support and Zaltsman. Next up: Hope House, Leeds on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Hope House | Leeds |
+| Sat, 12 Dec 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Asa Tate is a house and balearic artist based in United Kingdom, with 26 gigs on
 
 Meg Paine, Tech Support, Zaltsman
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*

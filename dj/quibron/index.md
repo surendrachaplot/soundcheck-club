@@ -1,6 +1,6 @@
 # Quibron
 
-Quibron is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - House of Growfunding, Brussels on Fri, 20 Nov 2026.
+Quibron is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - House of Growfunding, Brussels on Fri, 20 Nov 2026.
 
 Quibron is a progressive house artist based in Belgium, with 10 gigs on soundcheck across Brussels. Often billed alongside kedakeda, Stevy Lab and Sarah Wanita. Next up: TBA - House of Growfunding, Brussels on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Quibron is a progressive house artist based in Belgium, with 10 gigs on soundche
 
 kedakeda, Stevy Lab, Sarah Wanita
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quibron/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quibron/)*

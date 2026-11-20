@@ -1,6 +1,6 @@
 # Timo Maas at Elespacio
 
-Timo Maas at Elespacio on Sat 12 Dec, Monterrey. 1 artist: Timo Maas. Progressive House and House. See the line-up on soundcheck.
+Timo Maas at Elespacio on Sat 12 Dec, Monterrey. 2 artists: Timo Maas and Vazik. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Timo Maas at Elespacio on Sat 12 Dec, Monterrey. 1 artist: Timo Maas. Progressiv
 ## Line-up
 
 - Timo Maas
+- Vazik
 
 *Source: [soundcheck](https://soundcheck.club/e/2552178-timo-maas-at-elespacio/)*

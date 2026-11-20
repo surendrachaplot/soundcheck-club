@@ -1,8 +1,8 @@
 # Wallace
 
-Wallace is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
+Wallace is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
 
-Wallace is a house and techno artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bergen and 35 more. Often billed alongside Bradley Zero, Gallegos and Moxie. Next up: The Cause, London on Thu 31 Dec.
+Wallace is a house and techno artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bergen and 35 more. Often billed alongside Bradley Zero, Gallegos and Moxie. Next up: The Cause, London on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wallace is a house and techno artist based in United Kingdom, with 89 gigs on so
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | The Cause | London |
 | Fri, 1 Jan 2027 | All My Friends | London |
+| Fri, 1 Jan 2027 | Nazca Club | Madrid |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 
 ## Recently played
@@ -27,4 +28,4 @@ Wallace is a house and techno artist based in United Kingdom, with 89 gigs on so
 
 Bradley Zero, Gallegos, Moxie
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*

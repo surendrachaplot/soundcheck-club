@@ -1,6 +1,6 @@
 # Malou (NL)
 
-Malou (NL) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 28 Nov 2026.
+Malou (NL) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 28 Nov 2026.
 
 Malou (NL) is a house and disco artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Antwerp, Rotterdam and The Hague and 1 more. Often billed alongside David Vunk, Marsman and Gerd Janson. Next up: Het Sieraad, Amsterdam on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Malou (NL) is a house and disco artist based in Netherlands, with 41 gigs on sou
 
 David Vunk, Marsman, Gerd Janson
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malou-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malou-2/)*

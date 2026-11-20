@@ -1,6 +1,6 @@
 # 3 Years of Gestalt with Lucus at Bluesquare
 
-3 Years of Gestalt with Lucus at Bluesquare on Sat 21 Nov, Milan. 3 artists: 760 Dreams, Larain and Velli Reason Wise. House and Club. See the line-up on soundcheck.
+3 Years of Gestalt with Lucus at Bluesquare on Sat 21 Nov, Milan. 5 artists: 760 Dreams, Cristian Comes, Dogs I Know and Larain and 1 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@
 ## Line-up
 
 - 760 Dreams
+- Cristian Comes
+- Dogs I Know
 - Larain
 - Velli Reason Wise
 

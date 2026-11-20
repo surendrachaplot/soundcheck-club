@@ -1,6 +1,6 @@
 # Niabi
 
-Niabi is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ausgang Plaza, Montreal on Fri, 20 Nov 2026.
+Niabi is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ausgang Plaza, Montreal on Fri, 20 Nov 2026.
 
 Niabi is a club and afrobeat artist based in Canada, with 25 gigs on soundcheck across Amsterdam, Montreal, New York City and Stockholm and 1 more. Often billed alongside San Farafina, Moonshine and Pierre Kwenders. Next up: Ausgang Plaza, Montreal on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Niabi is a club and afrobeat artist based in Canada, with 25 gigs on soundcheck 
 
 San Farafina, Moonshine, Pierre Kwenders
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niabi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niabi/)*

@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 32 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "AVAION, Notre Dame, LF SYSTEM, Eats Everything, REMIXIA, Hayley Zalassi + more" on Fri, 20 Nov 2026.
+fabric is a music venue in London with 33 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "AVAION, Notre Dame, LF SYSTEM, Eats Everything, REMIXIA, Hayley Zalassi + more" on Fri, 20 Nov 2026.
 
-fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Adam Clark and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Adam Clark and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

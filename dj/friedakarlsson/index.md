@@ -1,6 +1,6 @@
 # Frieda Karlssøn
 
-Frieda Karlssøn is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
+Frieda Karlssøn is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
 
 Frieda Karlssøn is a techno and disco artist, with 8 gigs on soundcheck across Berlin and Leipzig. Often billed alongside BARTi, Marco Liebreiz and Rosa Kante. Next up: Komplex Berlin, Berlin on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Frieda Karlssøn is a techno and disco artist, with 8 gigs on soundcheck across 
 
 BARTi, Marco Liebreiz, Rosa Kante
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friedakarlsson/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friedakarlsson/)*

@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rise & Shine" on Sat, 28 Nov 2026.
+Recyclart is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Rise & Shine" on Sat, 28 Nov 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Carrageenan, Dasha Fyah and EliseThere. See dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -15,4 +15,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wi
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

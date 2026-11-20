@@ -1,8 +1,8 @@
 # Museu do Amanhã
 
-Museu do Amanhã is a music venue in Rio de Janeiro with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sound of Sunset" on Sun, 3 Jan 2027.
+Museu do Amanhã is a music venue in Rio de Janeiro with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Sound of Sunset" on Sun, 3 Jan 2027.
 
-Museu do Amanhã is a music venue in Rio de Janeiro listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Ten, Adriatique, Ashibah and Beltran and 2 more. See dates, start times and who's playing.
+Museu do Amanhã is a music venue in Rio de Janeiro listed on soundcheck. 8 upcoming gigs, with line-ups including Adam Ten, Adriatique, Antdot and Ashibah and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -15,5 +15,6 @@ Museu do Amanhã is a music venue in Rio de Janeiro listed on soundcheck. 7 upco
 | Mon, 8 Feb 2027 | BOMA presents: Carnaval 2027 with Micheal Bibi, Dennis Cruz & Mau P | Dennis Cruz, ILLUSIONIZE, Mau P, Michael Bibi, Solarce Brothers, Viot |
 | Tue, 9 Feb 2027 | BOMA presents: Carnaval 2027 with FISHER & Mochakk | Beltran, FISHER, Halfcab, Mochakk |
 | Fri, 12 Feb 2027 | BOMA presents: Carnaval 2027 with | Classmatic, Franky Rizardo, Vintage Culture |
+| Sat, 13 Feb 2027 | BOMA presents: Carnaval 2027 Dawn Patrol with Maz & Antdot | ANNA, Antdot, Maz (BR), Volkoder |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/museu-do-amanh/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/museu-do-amanh/)*

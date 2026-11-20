@@ -1,6 +1,6 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mission Ballroom, Denver on Wed, 25 Nov 2026.
+SOSA (UK) is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mission Ballroom, Denver on Wed, 25 Nov 2026.
 
 SOSA (UK) is a house and tech house artist based in United Kingdom, with 119 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 43 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Mission Ballroom, Denver on Wed 25 Nov.
 
@@ -29,4 +29,4 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, with 119 gig
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

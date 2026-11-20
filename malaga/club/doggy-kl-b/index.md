@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Moruki invites Sakro" on Fri, 20 Nov 2026.
+Doggy Klœb is a music venue in Malaga with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Moruki invites Sakro" on Fri, 20 Nov 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 13 upcoming gigs, with line-ups including Andrés Sancho, Annina, aRDe and Arval and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -15,7 +15,7 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 13 upcoming gigs, w
 | Fri, 4 Dec 2026 | UDE Anniversary: 1st Day | Radikal Komcept |
 | Sat, 5 Dec 2026 | UDE Anniversary: 2nd Day | Elektrógena, Maria Cue, aRDe |
 | Sun, 6 Dec 2026 | Undergroove: Arval invites Annina | Annina, Arval |
-| Mon, 7 Dec 2026 | Cultura Club: Nitrile Affair - Marian - Paxeko Baretta | Nitrile Affair |
+| Mon, 7 Dec 2026 | Cultura Club: Marian - Nitrile Affair - Paxeko Baretta | Nitrile Affair |
 | Fri, 11 Dec 2026 | Doppler Project: RDS - Phantom |  |
 | Sat, 12 Dec 2026 | Stand Up showcase | Oren (IT), Peter Grand, YUMA |
 
@@ -23,4 +23,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 13 upcoming gigs, w
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

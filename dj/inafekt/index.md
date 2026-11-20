@@ -1,6 +1,6 @@
 # Inafekt
 
-Inafekt is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bewley's Café Theatre, Dublin on Sat, 21 Nov 2026.
+Inafekt is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bewley's Café Theatre, Dublin on Sat, 21 Nov 2026.
 
 Inafekt is a house and techno artist based in United Kingdom, with 59 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 16 more. Often billed alongside Entasia, Kyle Starkey and DART. Next up: Bewley's Café Theatre, Dublin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Inafekt is a house and techno artist based in United Kingdom, with 59 gigs on so
 
 Entasia, Kyle Starkey, DART
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

@@ -1,14 +1,15 @@
 # Desolate Discotheque
 
-Desolate Discotheque is a EBM and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
+Desolate Discotheque is a EBM and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
 
-Desolate Discotheque is an ebm and italo disco artist based in Germany, with 59 gigs on soundcheck across Athens, Berlin, Budapest and Frankfurt and 5 more. Often billed alongside Xpresso Martina, Unhealed and Electric Visionary. Next up: TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat 28 Nov.
+Desolate Discotheque is an ebm and italo disco artist based in Germany, with 60 gigs on soundcheck across Athens, Berlin, Budapest and Frankfurt and 5 more. Often billed alongside Xpresso Martina, Unhealed and Electric Visionary. Next up: TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Secret Location, Neukölln (near Sonnenallee) | Berlin |
+| Sat, 12 Dec 2026 | 8MM | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Desolate Discotheque is an ebm and italo disco artist based in Germany, with 59 
 
 Xpresso Martina, Unhealed, Electric Visionary
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desolatediscotheque/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desolatediscotheque/)*

@@ -1,6 +1,6 @@
 # Glitterbox Byron Bay 2027 at Beach Hotel - Byron Bay
 
-Glitterbox Byron Bay 2027 at Beach Hotel - Byron Bay on Sat 13 Mar, Byron Bay. 4 artists: Aline Rocha, Horse Meat Disco, Late Nite Tuff Guy and The Shapeshifters. See the line-up on soundcheck.
+Glitterbox Byron Bay 2027 at Beach Hotel - Byron Bay on Sat 13 Mar, Byron Bay. 4 artists: Aline Rocha, Horse Meat Disco, Late Nite Tuff Guy and The Shapeshifters. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Invalid Request
 
-Invalid Request is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Nasjonalgalleriet, Oslo on Fri, 20 Nov 2026.
+Invalid Request is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Nasjonalgalleriet, Oslo on Fri, 20 Nov 2026.
 
 Invalid Request is a techno and house artist based in Netherlands, with 12 gigs on soundcheck across Oslo, Rotterdam and Utrecht. Often billed alongside Charlton, Debbie Huisman and Denn Punk. Next up: Nasjonalgalleriet, Oslo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Invalid Request is a techno and house artist based in Netherlands, with 12 gigs 
 
 Charlton, Debbie Huisman, Denn Punk
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invalidrequest/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invalidrequest/)*

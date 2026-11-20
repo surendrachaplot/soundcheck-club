@@ -1,14 +1,15 @@
 # Snax
 
-Snax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Red Eye NY, New York City on Sat, 21 Nov 2026.
+Snax is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Red Eye NY, New York City on Sat, 21 Nov 2026.
 
-Snax is a house and techno artist based in Germany, with 16 gigs on soundcheck across Atlanta, Berlin, London and New York City and 2 more. Often billed alongside Gustuff, Orik and Adam Cooke. Next up: Red Eye NY, New York City on Sat 21 Nov.
+Snax is a house and techno artist based in Germany, with 17 gigs on soundcheck across Atlanta, Berlin, London and New York City and 2 more. Often billed alongside Gustuff, Orik and Adam Cooke. Next up: Red Eye NY, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Red Eye NY | New York City |
+| Sat, 21 Nov 2026 | Animal | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Snax is a house and techno artist based in Germany, with 16 gigs on soundcheck a
 
 Gustuff, Orik, Adam Cooke
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snax/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snax/)*

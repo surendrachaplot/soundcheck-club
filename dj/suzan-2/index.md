@@ -1,6 +1,6 @@
 # SUZAN (2)
 
-SUZAN (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at vurt., Seoul on Sat, 28 Nov 2026.
+SUZAN (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at vurt., Seoul on Sat, 28 Nov 2026.
 
 SUZAN is a techno and house artist based in South Korea, with 35 gigs on soundcheck across Seoul. Often billed alongside ANSOL, Djilogue and SJK. Next up: vurt., Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SUZAN is a techno and house artist based in South Korea, with 35 gigs on soundch
 
 ANSOL, Djilogue, SJK (1)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzan-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzan-2/)*

@@ -1,6 +1,6 @@
 # Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 002 at ciao ciao Bar
 
-Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 002 at ciao ciao Bar on Sun 13 Dec, Berlin. 4 artists: CFF.VALE, Champagner.Jannick, Marit and maxim_jl. Techno and House. See the line-up on soundcheck.
+Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 002 at ciao ciao Bar on Sun 13 Dec, Berlin. 5 artists: CFF.VALE, Champagner.Jannick, KARINA and Marit and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 002 at ciao ciao Bar on Sun 13
 
 - CFF.VALE
 - Champagner.Jannick
+- KARINA (3)
 - Marit
 - maxim_jl
 

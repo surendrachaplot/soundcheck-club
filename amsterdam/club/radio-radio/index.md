@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "BELLA - All Night" on Fri, 20 Nov 2026.
+Radio Radio is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "BELLA - All Night" on Fri, 20 Nov 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including BELLA (NL), Daiki Fukami, Danielle (UK) and Dany E and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
@@ -10,7 +10,7 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs,
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | BELLA - All Night | BELLA (NL) |
 | Sat, 21 Nov 2026 | Jex Opolis • Dany E | Dany E, Jex Opolis |
-| Thu, 26 Nov 2026 | FERMI presents... From Start to Finish |  |
+| Thu, 26 Nov 2026 | FERMI presents... From Start to Finish | Daiki Fukami, Jiminal (2), Meniac |
 | Fri, 27 Nov 2026 | Danielle • Interstellar Funk | Danielle (UK), Interstellar Funk |
 | Sat, 28 Nov 2026 | CLUB CHOROPHOBIA: Weval (DJ Set) - All Night | Weval |
 | Thu, 10 Dec 2026 | (HOT)SAKE CLUB with Kléo, Daiki & Diggy Doug | Daiki Fukami, Diggy Doug, Kléo |
@@ -20,4 +20,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs,
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

@@ -1,14 +1,15 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at smartbar, Chicago on Sat, 28 Nov 2026.
+Mark Farina is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at smartbar, Chicago on Sat, 28 Nov 2026.
 
-Mark Farina is a house and deep house artist based in United States of America, with 150 gigs on soundcheck across Antwerp, Atlanta, Auckland and Baltimore and 31 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: smartbar, Chicago on Sat 28 Nov.
+Mark Farina is a house and deep house artist based in United States of America, with 151 gigs on soundcheck across Antwerp, Atlanta, Auckland and Baltimore and 31 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: smartbar, Chicago on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | smartbar | Chicago |
+| Sat, 12 Dec 2026 | Revival | Toronto |
 | Sun, 13 Dec 2026 | Wiggle Room | Toronto |
 | Sat, 19 Dec 2026 | Quartyard | San Diego |
 
@@ -27,4 +28,4 @@ Mark Farina is a house and deep house artist based in United States of America, 
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

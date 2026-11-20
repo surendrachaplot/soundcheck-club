@@ -1,6 +1,6 @@
 # Trentemøller
 
-Trentemøller is a Electronica and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at AB Box (Ancienne Belgique), Brussels on Fri, 5 Mar 2027.
+Trentemøller is a Electronica and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at AB Box (Ancienne Belgique), Brussels on Fri, 5 Mar 2027.
 
 Trentemøller is an electronica and hip-hop artist based in Denmark, with 15 gigs on soundcheck across Athens, Berlin, Brussels and Chicago and 9 more. Often billed alongside Bugge Wesseltoft, Lele Sacchi and Ora The Molecule. Next up: AB Box (Ancienne Belgique), Brussels on Fri 5 Mar.
 
@@ -26,4 +26,4 @@ Trentemøller is an electronica and hip-hop artist based in Denmark, with 15 gig
 
 Bugge Wesseltoft, Lele Sacchi, Ora The Molecule
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trentemoller/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trentemoller/)*

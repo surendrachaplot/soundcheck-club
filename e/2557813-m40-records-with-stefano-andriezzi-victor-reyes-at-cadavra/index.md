@@ -1,6 +1,6 @@
 # M40 RECORDS with Stefano Andriezzi & Victor Reyes at Cadavra
 
-M40 RECORDS with Stefano Andriezzi & Victor Reyes at Cadavra on Sat 19 Dec, Madrid. 2 artists: Stefano Andriezzi and Victor Reyes. Electronica. See the line-up on soundcheck.
+M40 RECORDS with Stefano Andriezzi & Victor Reyes at Cadavra on Sat 19 Dec, Madrid. 3 artists: Pillen, Stefano Andriezzi and Victor Reyes. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ M40 RECORDS with Stefano Andriezzi & Victor Reyes at Cadavra on Sat 19 Dec, Madr
 
 ## Line-up
 
+- Pillen
 - Stefano Andriezzi
 - Victor Reyes
 

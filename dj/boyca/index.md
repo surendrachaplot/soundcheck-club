@@ -1,17 +1,18 @@
 # BOYCA
 
-BOYCA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+BOYCA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at KREUZWERK, Berlin on Sat, 19 Dec 2026.
 
-BOYCA is a techno and acid artist based in Switzerland, with 40 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bogotá and 15 more. Often billed alongside Mar/us, Cristian Marras and Shadysnack. Next up: KitKatClub, Berlin on Fri 13 Nov.
+BOYCA is a techno and acid artist based in Switzerland, with 41 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bogotá and 15 more. Often billed alongside Mar/us, Cristian Marras and Shadysnack. Next up: KREUZWERK, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | KitKatClub | Berlin |
+| Sat, 19 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
+- KitKatClub, Berlin · Fri, 13 Nov 2026
 - Life Club Milano, Milan · Fri, 2 Oct 2026
 - Le Sucre, Lyon · Fri, 25 Sept 2026
 - KitKatClub, Berlin · Fri, 11 Sept 2026
@@ -19,10 +20,9 @@ BOYCA is a techno and acid artist based in Switzerland, with 40 gigs on soundche
 - Komplex Berlin, Berlin · Sat, 25 Jul 2026
 - Ferropolis, Leipzig · Fri, 17 Jul 2026
 - Kaputt Club / Proyecto Kinder, Bogotá · Sun, 28 Jun 2026
-- Teatro Caupolican, Santiago · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Mar/us, Cristian Marras, Shadysnack
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyca/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyca/)*

@@ -1,6 +1,6 @@
 # Trix
 
-Trix is a music venue in Antwerp with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "OSKI" on Sat, 21 Nov 2026.
+Trix is a music venue in Antwerp with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "OSKI" on Sat, 21 Nov 2026.
 
 Trix is a music venue in Antwerp listed on soundcheck. 4 upcoming gigs, with line-ups including blackwave., Bolis Pupul, Charlotte Adigéry and horsegiirL and 2 more. See dates, start times and who's playing. Noordersingel 28/30, 2140 Antwerpen, Belgium.
 
@@ -17,4 +17,4 @@ Trix is a music venue in Antwerp listed on soundcheck. 4 upcoming gigs, with lin
 
 Noordersingel 28/30, 2140 Antwerpen, Belgium, Antwerp
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/trix/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/trix/)*

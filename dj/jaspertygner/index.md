@@ -1,13 +1,14 @@
 # Jasper Tygner
 
-Jasper Tygner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Carpet Shop, London on Fri, 12 Feb 2027.
+Jasper Tygner is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 27 Nov 2026.
 
-Jasper Tygner is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Dan Shake, ATRIP and DJ Seinfeld. Next up: The Carpet Shop, London on Fri 12 Feb.
+Jasper Tygner is a house and techno artist based in United Kingdom, with 59 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside Dan Shake, ATRIP and DJ Seinfeld. Next up: The Berkeley Suite, Glasgow on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | The Berkeley Suite | Glasgow |
 | Fri, 12 Feb 2027 | The Carpet Shop | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jasper Tygner is a house and techno artist based in United Kingdom, with 58 gigs
 
 Dan Shake, ATRIP, DJ Seinfeld
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspertygner/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspertygner/)*

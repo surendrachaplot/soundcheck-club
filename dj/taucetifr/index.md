@@ -1,8 +1,8 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Minimal Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
+Tauceti (FR) is a Techno and Minimal Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-Tauceti (FR) is a techno and minimal techno artist based in France, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
+Tauceti (FR) is a techno and minimal techno artist based in France, with 95 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 94 gigs
 | Sat, 28 Nov 2026 | TBA | Boston |
 | Sun, 29 Nov 2026 | TBA - Brooklyn Warehouse | New York City |
 | Fri, 4 Dec 2026 | TBA - East Vancouver | Vancouver |
+| Fri, 11 Dec 2026 | Studio Club Malaga | Malaga |
 | Sat, 19 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Thu, 31 Dec 2026 | Acadana | Hong Kong |
 | Sat, 9 Jan 2027 | SMUT Athens | Athens |
@@ -34,4 +35,4 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 94 gigs
 
 Tommy Four Seven, Psyk, Decoder
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

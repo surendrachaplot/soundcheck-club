@@ -1,8 +1,8 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
+Max Cooper is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
-Max Cooper is a techno and electronica artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 54 more. Often billed alongside Richie Hawtin, Actress and Blawan. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
+Max Cooper is a techno and electronica artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 54 more. Often billed alongside Richie Hawtin, Actress and Blawan. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 133 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
 | Sat, 12 Dec 2026 | TESTBED | Leeds |
+| Sat, 29 May 2027 | Royal Festival Hall | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 133 
 
 Richie Hawtin, Actress, Blawan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

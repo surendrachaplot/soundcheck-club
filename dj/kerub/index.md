@@ -1,14 +1,14 @@
 # KERUB
 
-KERUB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Toronto on Fri, 18 Dec 2026.
+KERUB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at St. Anne's Parish Hall, Toronto on Fri, 18 Dec 2026.
 
-KERUB is a house and techno artist based in Canada, with 20 gigs on soundcheck across Toronto and Vancouver. Often billed alongside moodyjooly, Hycastle and Sappho.XD. Next up: TBA, Toronto on Fri 18 Dec.
+KERUB is a house and techno artist based in Canada, with 20 gigs on soundcheck across Toronto and Vancouver. Often billed alongside moodyjooly, Hycastle and Sappho.XD. Next up: St. Anne's Parish Hall, Toronto on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Dec 2026 | TBA | Toronto |
+| Fri, 18 Dec 2026 | St. Anne's Parish Hall | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ KERUB is a house and techno artist based in Canada, with 20 gigs on soundcheck a
 
 moodyjooly, Hycastle, Sappho.XD
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*

@@ -1,16 +1,14 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Golden Bug" on Fri, 13 Nov 2026.
+Switch Bar is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Golden Bug" on Fri, 13 Nov 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Acid Oslo, Arildo, Golden Bug and inner quiet and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Oslo, Golden Bug, inner quiet and Konnin and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Golden Bug | Golden Bug |
-| Wed, 18 Nov 2026 | Wetness: Roberta, MENTA | MENTA, Roberta |
-| Thu, 19 Nov 2026 | The Dijous Saved My Life: Kokolux, Arildo | Arildo |
 | Fri, 20 Nov 2026 | Mul b2b Sebass, Mop (live) | Mop (live), Mul (3) |
 | Sat, 21 Nov 2026 | Yann Eras & Astro Miriam | Yann Eras |
 | Wed, 25 Nov 2026 | inner quiet, Vultur | inner quiet |
@@ -18,9 +16,11 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs,
 | Fri, 27 Nov 2026 | Symbiotical Records: Nicola Brusegan, Anthony Logan, Gran Vía Sessions | Nicola Brusegan |
 | Sat, 28 Nov 2026 | Acid Oslo, Charlie Levan | Acid Oslo |
 | Wed, 2 Dec 2026 | Bobare Wednesday: Konnin / LeMichael | Konnin, LeMichael |
+| Wed, 6 Jan 2027 | Bobare Wednesday: Gabriela / LeMichael | LeMichael |
+| Wed, 3 Feb 2027 | Bobare Wednesday: Ar1s / LeMichael | LeMichael |
 
 ## Address
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

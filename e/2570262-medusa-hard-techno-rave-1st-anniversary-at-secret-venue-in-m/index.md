@@ -1,11 +1,20 @@
 # MEDUSA Hard Techno Rave: 1st Anniversary at Secret Venue in Minatoku-Nishiazabu
 
-MEDUSA Hard Techno Rave: 1st Anniversary at Secret Venue in Minatoku-Nishiazabu on Sat 5 Dec, Tokyo. Techno and Acid. See the line-up on soundcheck.
+MEDUSA Hard Techno Rave: 1st Anniversary at Secret Venue in Minatoku-Nishiazabu on Sat 5 Dec, Tokyo. 6 artists: Calavera, DØLLHAUS, EMILIO and Kosuke and 2 more. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 5 Dec 2026 |
 | Venue | Secret Venue in Minatoku-Nishiazabu |
 | City | Tokyo |
+
+## Line-up
+
+- Calavera
+- DØLLHAUS
+- EMILIO (3)
+- Kosuke
+- uuu7
+- VÏVÏ
 
 *Source: [soundcheck](https://soundcheck.club/e/2570262-medusa-hard-techno-rave-1st-anniversary-at-secret-venue-in-m/)*

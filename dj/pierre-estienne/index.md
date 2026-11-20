@@ -1,6 +1,6 @@
 # Pierre-Estienne
 
-Pierre-Estienne is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
+Pierre-Estienne is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
 
 Pierre-Estienne is a house and deep house artist based in South Africa, with 14 gigs on soundcheck across Berlin and Cape Town. Often billed alongside Esa, Phijos and Ricardo Pinto. Next up: TBA - Koue Bokkeveld, Cape Town on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Pierre-Estienne is a house and deep house artist based in South Africa, with 14 
 
 Esa, Phijos, Ricardo Pinto
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierre-estienne/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierre-estienne/)*

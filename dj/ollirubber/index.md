@@ -1,14 +1,15 @@
 # Olli Rubber
 
-Olli Rubber is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Legal, Munich on Fri, 20 Nov 2026.
+Olli Rubber is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Legal, Munich on Fri, 20 Nov 2026.
 
-Olli Rubber is a house and tech house artist, with 33 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Munich and 1 more. Often billed alongside Almedina, Tuff Monty and Alles Andere. Next up: Legal, Munich on Fri 20 Nov.
+Olli Rubber is a house and tech house artist, with 34 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Leipzig and 2 more. Often billed alongside Almedina, Tuff Monty and Alles Andere. Next up: Legal, Munich on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Legal | Munich |
+| Sat, 5 Dec 2026 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Olli Rubber is a house and tech house artist, with 33 gigs on soundcheck across 
 
 Almedina (2), Tuff Monty, Alles Andere
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollirubber/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollirubber/)*

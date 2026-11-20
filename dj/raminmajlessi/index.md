@@ -1,6 +1,6 @@
 # Ramin Majlessi
 
-Ramin Majlessi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kiku Room, San Diego on Fri, 20 Nov 2026.
+Ramin Majlessi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Kiku Room, San Diego on Fri, 20 Nov 2026.
 
 Ramin Majlessi is a house and minimal artist based in United States of America, with 29 gigs on soundcheck across New York City and San Diego. Often billed alongside Jimbo James, Chad Andrew and Cris Herrera. Next up: Kiku Room, San Diego on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ramin Majlessi is a house and minimal artist based in United States of America, 
 
 Jimbo James, Chad Andrew, Cris Herrera
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raminmajlessi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raminmajlessi/)*

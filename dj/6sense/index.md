@@ -1,14 +1,15 @@
 # 6 SENSE
 
-6 SENSE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+6 SENSE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-6 SENSE is a techno and house artist based in Australia, with 59 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 20 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+6 SENSE is a techno and house artist based in Australia, with 60 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 20 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Sat, 30 Jan 2027 | Holme Garden | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Ned Bennett, KSMBA, Ollie Lishman
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*

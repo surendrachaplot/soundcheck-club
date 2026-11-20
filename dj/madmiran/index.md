@@ -1,6 +1,6 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Zentralwäscherei, Zurich on Sat, 21 Nov 2026.
+mad miran is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Zentralwäscherei, Zurich on Sat, 21 Nov 2026.
 
 mad miran is a techno and bass artist based in Netherlands, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: Zentralwäscherei, Zurich on Sat 21 Nov.
 
@@ -34,4 +34,4 @@ mad miran is a techno and bass artist based in Netherlands, with 232 gigs on sou
 
 Identified Patient, Pariah, DjRUM
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

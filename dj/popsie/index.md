@@ -1,14 +1,15 @@
 # Popsie
 
-Popsie is a UK Funky and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sigurd CPH, Copenhagen on Fri, 20 Nov 2026.
+Popsie is a UK Funky and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sigurd CPH, Copenhagen on Fri, 20 Nov 2026.
 
-Popsie is an uk funky and jungle artist based in Denmark, with 8 gigs on soundcheck across Berlin, Copenhagen and Sydney. Often billed alongside CALIFANO, Dwonji and Arsom. Next up: Sigurd CPH, Copenhagen on Fri 20 Nov.
+Popsie is an uk funky and jungle artist based in Denmark, with 9 gigs on soundcheck across Berlin, Copenhagen and Sydney. Often billed alongside CALIFANO, Dwonji and Arsom. Next up: Sigurd CPH, Copenhagen on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Sigurd CPH | Copenhagen |
+| Sat, 21 Nov 2026 | Baggen | Copenhagen |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Popsie is an uk funky and jungle artist based in Denmark, with 8 gigs on soundch
 
 CALIFANO, Dwonji, Arsom
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popsie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popsie/)*

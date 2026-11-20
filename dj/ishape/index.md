@@ -1,8 +1,8 @@
 # ISHAPE
 
-ISHAPE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at WDM, Hannover on Fri, 20 Nov 2026.
+ISHAPE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at WDM, Hannover on Fri, 20 Nov 2026.
 
-ISHAPE is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin and Hannover. Often billed alongside Lorenzo Mancino, dxrvo and Brandyy. Next up: WDM, Hannover on Fri 20 Nov.
+ISHAPE is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin and Hannover. Often billed alongside Lorenzo Mancino, dxrvo and Brandyy. Next up: WDM, Hannover on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ISHAPE is a techno and house artist based in Germany, with 10 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | WDM | Hannover |
 | Fri, 27 Nov 2026 | TBA | Berlin |
+| Wed, 9 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ISHAPE is a techno and house artist based in Germany, with 10 gigs on soundcheck
 
 Lorenzo Mancino, dxrvo, Brandyy
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ishape/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ishape/)*

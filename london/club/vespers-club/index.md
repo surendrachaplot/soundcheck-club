@@ -1,8 +1,8 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE)" on Fri, 20 Nov 2026.
+Vespers Club is a music venue in London with 20 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE)" on Fri, 20 Nov 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including abejizaza, Abobo, Aïsha Devi and Ama (UK) and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including abejizaza, Abobo, Aïsha Devi and Ama (UK) and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 19 upcoming gigs, 
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

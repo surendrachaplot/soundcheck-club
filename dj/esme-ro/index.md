@@ -1,6 +1,6 @@
 # ESME
 
-ESME is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Forge, Bucharest on Sat, 12 Dec 2026.
+ESME is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Forge, Bucharest on Sat, 12 Dec 2026.
 
 ESME is a techno and hardcore artist based in Romania, with 14 gigs on soundcheck across Bucharest and Montreal. Often billed alongside FAUST, NTHR and OKTAI. Next up: Forge, Bucharest on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ESME is a techno and hardcore artist based in Romania, with 14 gigs on soundchec
 
 FAUST (1), NTHR, OKTAI
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esme-ro/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esme-ro/)*

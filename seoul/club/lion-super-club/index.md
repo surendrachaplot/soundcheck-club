@@ -1,16 +1,16 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "V.F.L presents LOVE TONIGHT" on Thu, 19 Nov 2026.
+Lion Super Club is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "GLOBAL CALLING: Danny Avila" on Fri, 20 Nov 2026.
 
-Lion Super Club is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including Casepeat, Danny Avila, Kasablanca and Kataploks and 2 more. See dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
+Lion Super Club is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including Arkins, Casepeat, Danny Avila and Kasablanca and 2 more. See dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | V.F.L presents LOVE TONIGHT | LOOZBONE, Sielo, YENA |
 | Fri, 20 Nov 2026 | GLOBAL CALLING: Danny Avila | Danny Avila |
 | Sat, 21 Nov 2026 | TRANCISION presents Omnia | Casepeat, Kataploks, Omnia, Rubato |
+| Thu, 26 Nov 2026 | DOMESTIC CALLING :DUSK × HIGH LINE | Arkins |
 | Fri, 27 Nov 2026 | GLOBAL CALLING: Kasablanca | Kasablanca |
 | Thu, 17 Dec 2026 | GLOBAL CALLING Max Styler | Max Styler |
 
@@ -18,4 +18,4 @@ Lion Super Club is a music venue in Seoul listed on soundcheck. 5 upcoming gigs,
 
 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea, Seoul
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*

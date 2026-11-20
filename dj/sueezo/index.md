@@ -1,13 +1,14 @@
 # Sueezo
 
-Sueezo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at fabric, London on Sat, 19 Dec 2026.
+Sueezo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sundara Club, Ibiza on Sat, 21 Nov 2026.
 
-Sueezo is a house and tech house artist based in Spain, with 80 gigs on soundcheck across Barcelona, Berlin, Budapest and Dublin and 9 more. Often billed alongside Pau Pérez, Pin and Varis. Next up: fabric, London on Sat 19 Dec.
+Sueezo is a house and tech house artist based in Spain, with 81 gigs on soundcheck across Barcelona, Berlin, Budapest and Dublin and 9 more. Often billed alongside Pau Pérez, Pin and Varis. Next up: Sundara Club, Ibiza on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Sundara Club | Ibiza |
 | Sat, 19 Dec 2026 | fabric | London |
 | Thu, 31 Dec 2026 | Spook Club | Valencia |
 
@@ -26,4 +27,4 @@ Sueezo is a house and tech house artist based in Spain, with 80 gigs on soundche
 
 Pau Pérez, Pin, Varis
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sueezo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sueezo/)*

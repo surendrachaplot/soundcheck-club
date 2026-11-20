@@ -1,6 +1,6 @@
 # CY4NIX / K9 Station at K9 Station
 
-CY4NIX / K9 Station on Sat 28 Nov, Serbia. 5 artists: AVCI, CBR., EVRSN and TRUST TRUE and 1 more. See the line-up on soundcheck.
+CY4NIX / K9 Station on Sat 28 Nov, Serbia. 6 artists: AVCI, CBR., EVRSN and Misha Kozak and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ CY4NIX / K9 Station on Sat 28 Nov, Serbia. 5 artists: AVCI, CBR., EVRSN and TRUS
 - AVCI
 - CBR.
 - EVRSN
+- Misha Kozak
 - TRUST TRUE
 - WNDRLST
 

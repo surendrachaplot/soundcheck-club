@@ -1,14 +1,15 @@
 # Flight Mode (DE)
 
-Flight Mode (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
+Flight Mode (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
 
-Flight Mode (DE) is a techno and house artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 3 more. Often billed alongside G.oss, Kobzev and LUISELLE. Next up: Distillery N17, London on Sat 28 Nov.
+Flight Mode (DE) is a techno and house artist based in Italy, with 35 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 3 more. Often billed alongside G.oss, Kobzev and LUISELLE. Next up: Distillery N17, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Distillery N17 | London |
+| Sat, 5 Dec 2026 | 119 | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Flight Mode (DE) is a techno and house artist based in Italy, with 34 gigs on so
 
 G.oss, Kobzev, LUISELLE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flightmode-de/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flightmode-de/)*

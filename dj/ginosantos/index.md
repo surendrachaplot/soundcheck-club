@@ -1,8 +1,8 @@
 # Gino Santos
 
-Gino Santos is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Rose, New York City on Tue, 1 Dec 2026.
+Gino Santos is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Rose, New York City on Tue, 1 Dec 2026.
 
-Gino Santos is a tech house and house artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Jindo. Next up: The Rose, New York City on Tue 1 Dec.
+Gino Santos is a tech house and house artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside Jindo. Next up: The Rose, New York City on Tue 1 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Gino Santos is a tech house and house artist based in United States of America, 
 | Tue, 22 Dec 2026 | The Rose | New York City |
 | Fri, 25 Dec 2026 | The Rose | New York City |
 | Tue, 12 Jan 2027 | The Rose | New York City |
+| Tue, 16 Feb 2027 | The Rose | New York City |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Gino Santos is a tech house and house artist based in United States of America, 
 
 Jindo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginosantos/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginosantos/)*

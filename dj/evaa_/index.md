@@ -1,14 +1,15 @@
 # Evaa_
 
-Evaa_ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 28 Nov 2026.
+Evaa_ is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 28 Nov 2026.
 
-Evaa_ is a techno and house artist based in Italy, with 11 gigs on soundcheck across Berlin, Bologna, Central and Milan and 1 more. Often billed alongside DJ Rou, Achieh and Alexia Glensy. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 28 Nov.
+Evaa_ is a house and electro artist based in Italy, with 12 gigs on soundcheck across Berlin, Bologna, Central and Milan and 2 more. Often billed alongside DJ Rou, Achieh and Alexia Glensy. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Fri, 4 Dec 2026 | Off Topic | Turin |
 | Sat, 5 Dec 2026 | TBA - Secret Location | Central |
 
 ## Recently played
@@ -26,4 +27,4 @@ Evaa_ is a techno and house artist based in Italy, with 11 gigs on soundcheck ac
 
 DJ Rou, Achieh, Alexia Glensy
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*

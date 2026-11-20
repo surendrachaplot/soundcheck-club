@@ -1,6 +1,6 @@
 # Popronde Amsterdam - Het Eindfeest at Melkweg
 
-Popronde Amsterdam - Het Eindfeest at Melkweg on Sat 28 Nov, Amsterdam. 5 artists: De Plaag, Femi, iGor and Maxime (NL) and 1 more. Hip-Hop and Pop. See the line-up on soundcheck.
+Popronde Amsterdam - Het Eindfeest at Melkweg on Sat 28 Nov, Amsterdam. 4 artists: De Plaag, iGor, Maxime (NL) and Mayte. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Popronde Amsterdam - Het Eindfeest at Melkweg on Sat 28 Nov, Amsterdam. 5 artist
 ## Line-up
 
 - De Plaag
-- Femi
 - iGor (2)
 - Maxime (NL)
 - Mayte

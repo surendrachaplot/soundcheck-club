@@ -1,6 +1,6 @@
 # Dave Quam
 
-Dave Quam is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Massive, Seattle on Fri, 20 Nov 2026.
+Dave Quam is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Massive, Seattle on Fri, 20 Nov 2026.
 
 Dave Quam is a club and techno artist based in United States of America, with 24 gigs on soundcheck across Chicago, Denver, Los Angeles and New York City and 3 more. Often billed alongside sqip, N SO and Omari Jazz. Next up: Massive, Seattle on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dave Quam is a club and techno artist based in United States of America, with 24
 
 sqip, N SO, Omari Jazz
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davequam/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davequam/)*

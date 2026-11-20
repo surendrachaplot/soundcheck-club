@@ -1,6 +1,6 @@
 # Andreas Vural
 
-Andreas Vural is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cloud 11, Bangkok on Thu, 31 Dec 2026.
+Andreas Vural is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Cloud 11, Bangkok on Thu, 31 Dec 2026.
 
 Andreas Vural is a techno and tech house artist based in Sweden, with 13 gigs on soundcheck across Bangkok, Manila and Tokyo. Often billed alongside Sziko Bakos, Aidaho and B. Next up: Cloud 11, Bangkok on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Andreas Vural is a techno and tech house artist based in Sweden, with 13 gigs on
 
 Sziko Bakos, Aidaho, B (379)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasvural/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasvural/)*

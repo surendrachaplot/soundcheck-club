@@ -1,6 +1,6 @@
 # Compulsive Leia
 
-Compulsive Leia is a Hardcore and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Gorilla, Manchester on Fri, 4 Dec 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Gorilla, Manchester on Fri, 4 Dec 2026.
 
 Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, with 28 gigs on soundcheck across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Gorilla, Manchester on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, with 2
 
 Takenbymarshall, alterum, it_dont_Matt.er
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*

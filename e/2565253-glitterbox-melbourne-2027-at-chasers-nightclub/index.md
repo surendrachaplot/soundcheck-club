@@ -1,6 +1,6 @@
 # Glitterbox Melbourne 2027 at Chasers Nightclub
 
-Glitterbox Melbourne 2027 at Chasers Nightclub on Fri 12 Mar, Melbourne. 4 artists: Aline Rocha, Horse Meat Disco, Late Nite Tuff Guy and The Shapeshifters. See the line-up on soundcheck.
+Glitterbox Melbourne 2027 at Chasers Nightclub on Fri 12 Mar, Melbourne. 4 artists: Aline Rocha, Horse Meat Disco, Late Nite Tuff Guy and The Shapeshifters. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

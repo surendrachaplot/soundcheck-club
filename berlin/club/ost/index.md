@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 19 Nov 2026.
+OST is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ONYX: 'ONE LAST DANCE' w / Paraçek, two girls one mom, HANÀ" on Fri, 20 Nov 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ALP (DE) and Amøn and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -8,7 +8,6 @@ OST is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | Lukr Range, TAUBE, WAN.1 |
 | Fri, 20 Nov 2026 | ONYX: 'ONE LAST DANCE' w / Paraçek, two girls one mom, HANÀ | Bruno Brero, CARGO (DE), HANÀ, KARISH, Paraçek, two girls one mom |
 | Sat, 21 Nov 2026 | EUPHORIK pres. LUCIID, Nachtigaller, AMØN FEAT FRONSI | Amøn, DJ Banba, DTEXX, Filialleiter, Fronsi, LSG, Luciid, Nachtigaller, SIKXTO, TEZMA, Wieko |
 | Thu, 26 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | Cobb Douglas, Hanne B |
@@ -18,9 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line
 | Fri, 4 Dec 2026 | ULTRA SOZIAL w. Tham, RIKHTER, KTK, SAIKA | KTK (DE), MKHXR, RIKHTER, SAIKA, Tham, Treibende Kraft |
 | Sat, 5 Dec 2026 | Polyamor | Antonym, Bitschu Batschu, Cleopard2000, Diffrent, Elotrance, Plattenlieferant, SATYS FYRE, Talia Dorr, VIVI909 |
 | Thu, 10 Dec 2026 | [FREE ENTRY TILL 00:30] SAVORY | Khyodo, TMS (Dj) |
+| Sat, 12 Dec 2026 | Slave To The Rave 42 | Beau Didier, CJ Bolland, DJ Chromz, Fish56Octagon, Huamaniser, Napes, Soultrain MC, Tigerhead, Wittes, mixtress |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

@@ -1,14 +1,13 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Mutamapago & Ledlights Concert" on Wed, 18 Nov 2026.
+Humboldthain Club is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "5 Years of Ausländerbehörde w/ Radioactive Man, The Burrell Connection, Purita D. and many more" on Fri, 20 Nov 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including 3diz, aykanakdag, CC:NIELOS and DJ Festnetz and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including 3diz, aykanakdag, CC:NIELOS and DJ Festnetz and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Mutamapago & Ledlights Concert |  |
 | Fri, 20 Nov 2026 | 5 Years of Ausländerbehörde w/ Radioactive Man, The Burrell Connection, Purita D. and many more | 3diz, DJ Regret, FoxMind, JEDRANALINE, Purita D, Radioactive Man, The Burrell Connection, aykanakdag |
 | Sat, 21 Nov 2026 | BISOUS | DJ Festnetz, SACID, Siimon |
 | Tue, 24 Nov 2026 | Open Decks & Tischtennis |  |
@@ -18,9 +17,10 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 13 upcoming g
 | Sat, 5 Dec 2026 | Groove District | Juulz, LUV.DELUXE, Philip Bogdan, Sweet G |
 | Tue, 8 Dec 2026 | Open Decks & Tischtennis |  |
 | Fri, 18 Dec 2026 | Dejawie? präsentiert: Ein Kippenspiel |  |
+| Sat, 19 Dec 2026 | Die große Humbi Weihnachtsshow |  |
 
 ## Address
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

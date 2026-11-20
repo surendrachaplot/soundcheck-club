@@ -1,6 +1,6 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Art Club, Houston on Sat, 21 Nov 2026.
+DJ_Dave is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Art Club, Houston on Sat, 21 Nov 2026.
 
 DJ_Dave is a techno and electro artist based in United States of America, with 30 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 10 more. Often billed alongside Alice Longyu Gao, horsegiirL and B0YG1RL. Next up: Art Club, Houston on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ DJ_Dave is a techno and electro artist based in United States of America, with 3
 
 Alice Longyu Gao, horsegiirL, B0YG1RL
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*

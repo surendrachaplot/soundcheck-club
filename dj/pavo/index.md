@@ -1,13 +1,14 @@
 # Pavo
 
-Pavo is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 20 Feb 2027.
+Pavo is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 19 Dec 2026.
 
-Pavo is a hardcore and gabber artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Cologne and Madrid. Often billed alongside Buzz Fuzz, Ruffian and The Darkraver. Next up: Het Sieraad, Amsterdam on Sat 20 Feb.
+Pavo is a hardcore and gabber artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Cologne and Madrid. Often billed alongside Buzz Fuzz, Ruffian and The Darkraver. Next up: Ruis Alkmaar, Amsterdam on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Ruis Alkmaar | Amsterdam |
 | Sat, 20 Feb 2027 | Het Sieraad | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pavo is a hardcore and gabber artist based in Netherlands, with 20 gigs on sound
 
 Buzz Fuzz, Ruffian, The Darkraver
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavo/)*

@@ -1,8 +1,8 @@
 # Carluschka
 
-Carluschka is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at B-SIDE, Warsaw on Sat, 28 Nov 2026.
+Carluschka is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at B-SIDE, Warsaw on Sat, 28 Nov 2026.
 
-Carluschka is a techno and house artist based in Germany, with 135 gigs on soundcheck across Basel, Berlin, Dresden and Hamburg and 9 more. Often billed alongside MATHILDA, BNZN and DJ Pinky Promise. Next up: B-SIDE, Warsaw on Sat 28 Nov.
+Carluschka is a house and techno artist based in Germany, with 136 gigs on soundcheck across Basel, Berlin, Dresden and Hamburg and 9 more. Often billed alongside MATHILDA, BNZN and DJ Pinky Promise. Next up: B-SIDE, Warsaw on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carluschka is a techno and house artist based in Germany, with 135 gigs on sound
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | B-SIDE | Warsaw |
 | Sat, 19 Dec 2026 | Kater | Berlin |
+| Sat, 26 Dec 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 | Thu, 31 Dec 2026 | Mojo | Hamburg |
 
 ## Recently played
@@ -27,4 +28,4 @@ Carluschka is a techno and house artist based in Germany, with 135 gigs on sound
 
 MATHILDA (2), BNZN, DJ Pinky Promise
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

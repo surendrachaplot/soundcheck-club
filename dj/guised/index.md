@@ -1,6 +1,6 @@
 # Guised
 
-Guised is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret location in Bairro Alto, Lisbon on Fri, 20 Nov 2026.
+Guised is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret location in Bairro Alto, Lisbon on Fri, 20 Nov 2026.
 
 Guised is a deep house and minimal artist, with 17 gigs on soundcheck across Lisbon. Often billed alongside Liquor Store Wisemen. Next up: TBA - Secret location in Bairro Alto, Lisbon on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Guised is a deep house and minimal artist, with 17 gigs on soundcheck across Lis
 
 Liquor Store Wisemen
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guised/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guised/)*

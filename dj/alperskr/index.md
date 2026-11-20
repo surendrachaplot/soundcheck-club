@@ -1,6 +1,6 @@
 # ALPER SKR
 
-ALPER SKR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Laboratorio Octogon, Madrid on Sat, 21 Nov 2026.
+ALPER SKR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Laboratorio Octogon, Madrid on Sat, 21 Nov 2026.
 
 ALPER SKR is a techno and trance artist based in Turkey, with 15 gigs on soundcheck across Dublin and Madrid. Often billed alongside SAMUX, WINSLAO and Connect. Next up: Laboratorio Octogon, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ ALPER SKR is a techno and trance artist based in Turkey, with 15 gigs on soundch
 
 SAMUX, WINSLAO, Connect
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*

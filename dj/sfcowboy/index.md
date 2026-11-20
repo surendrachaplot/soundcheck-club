@@ -1,20 +1,20 @@
 # sfcowboy
 
-sfcowboy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 19 Nov 2026.
+sfcowboy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-sfcowboy is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), moth (US) and Lethargy. Next up: 1015 Folsom, San Francisco/Oakland on Thu 19 Nov.
+sfcowboy is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), moth (US) and Lethargy. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sun, 22 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland · Thu, 19 Nov 2026
 - Signal, New York City · Thu, 5 Nov 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 30 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sat, 24 Oct 2026
@@ -22,10 +22,9 @@ sfcowboy is a techno and house artist based in United States of America, with 83
 - Public Works, San Francisco/Oakland · Sun, 27 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
-- Club Six, San Francisco/Oakland · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 erika (SF), moth (US), Lethargy
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sfcowboy/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sfcowboy/)*

@@ -1,6 +1,6 @@
 # Half Baked 17th Birthday W/ Margaret Dygas, Tristan da Cunha, Silverlining & More at NUMBER 90 LONDON
 
-Half Baked 17th Birthday W/ Margaret Dygas, Tristan da Cunha, Silverlining & More at NUMBER 90 LONDON on Sat 5 Dec, London. 9 artists: Dan Andrei, fae (UK), Greg Brockmann and Jive Talk and 5 more. Techno and House. See the line-up on soundcheck.
+Half Baked 17th Birthday W/ Margaret Dygas, Tristan da Cunha, Silverlining & More at NUMBER 90 LONDON on Sat 5 Dec, London. 10 artists: Dan Andrei, fae (UK), Greg Brockmann and Jive Talk and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Half Baked 17th Birthday W/ Margaret Dygas, Tristan da Cunha, Silverlining & Mor
 - fae (UK)
 - Greg Brockmann
 - Jive Talk
+- Jorg Kuning
 - Just Jam
 - Margaret Dygas
 - Sam Bangura

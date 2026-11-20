@@ -1,6 +1,6 @@
 # zi!
 
-zi! is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Brooklyn Warehouse Location <3, New York City on Sun, 29 Nov 2026.
+zi! is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Brooklyn Warehouse Location <3, New York City on Sun, 29 Nov 2026.
 
 zi! is a techno and bass artist based in Canada, with 78 gigs on soundcheck across Auckland, Baltimore, Berlin and Chicago and 11 more. Often billed alongside Field Note, Dijipoune and Lia Plutonic. Next up: TBA - Brooklyn Warehouse Location <3, New York City on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ zi! is a techno and bass artist based in Canada, with 78 gigs on soundcheck acro
 
 Field Note, Dijipoune, Lia Plutonic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*

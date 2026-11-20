@@ -1,6 +1,6 @@
 # Ben Start
 
-Ben Start is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at renae, Manchester on Sat, 21 Nov 2026.
+Ben Start is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at renae, Manchester on Sat, 21 Nov 2026.
 
 Ben Start is a downtempo and house artist, with 7 gigs on soundcheck across Berlin, London and Manchester. Often billed alongside Mouridis, Avsluta and DJ BLUNT. Next up: renae, Manchester on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Ben Start is a downtempo and house artist, with 7 gigs on soundcheck across Berl
 
 Mouridis, Avsluta, DJ BLUNT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/start/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/start/)*

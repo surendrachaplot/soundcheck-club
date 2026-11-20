@@ -1,6 +1,6 @@
 # O.S.M.W.S.T.A BY TECHNO AGENCY at Gianpula Village
 
-O.S.M.W.S.T.A BY TECHNO AGENCY at Gianpula Village on Sat 19 Dec, Malta. 1 artist: Philip Ackowsky. Progressive House and Tech House. See the line-up on soundcheck.
+O.S.M.W.S.T.A BY TECHNO AGENCY at Gianpula Village on Sat 19 Dec, Malta. 2 artists: Marixia and Philip Ackowsky. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ O.S.M.W.S.T.A BY TECHNO AGENCY at Gianpula Village on Sat 19 Dec, Malta. 1 artis
 
 ## Line-up
 
+- Marixia
 - Philip Ackowsky
 
 *Source: [soundcheck](https://soundcheck.club/e/2585428-o-s-m-w-s-t-a-by-techno-agency-at-gianpula-village/)*

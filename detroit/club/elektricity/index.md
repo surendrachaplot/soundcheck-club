@@ -1,6 +1,6 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SODOWN: SCENES OF CONSCIOUSNESS" on Fri, 20 Nov 2026.
+Elektricity is a music venue in Detroit with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "SODOWN: SCENES OF CONSCIOUSNESS" on Fri, 20 Nov 2026.
 
 Elektricity is a music venue in Detroit listed on soundcheck. 12 upcoming gigs, with line-ups including Ghoztbomb, Hi I'm Ghost, Melt (CA) and OOZE and 2 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
@@ -23,4 +23,4 @@ Elektricity is a music venue in Detroit listed on soundcheck. 12 upcoming gigs, 
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

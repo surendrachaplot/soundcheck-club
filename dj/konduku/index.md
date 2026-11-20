@@ -1,20 +1,21 @@
 # Konduku
 
-Konduku is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+Konduku is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 94th Aero Squadron, Miami on Fri, 20 Nov 2026.
 
-Konduku is a techno and house artist based in Netherlands, with 201 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside DJ Nobu, Woody92 and Kia (AU). Next up: Nowadays, New York City on Sat 21 Nov.
+Konduku is a techno and house artist based in Netherlands, with 202 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: 94th Aero Squadron, Miami on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | 94th Aero Squadron | Miami |
 | Sat, 21 Nov 2026 | Nowadays | New York City |
 | Fri, 27 Nov 2026 | Ankali & Planeta Za | Prague |
 | Sat, 28 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 12 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 19 Dec 2026 | TBA - Poly | Lyon |
 | Fri, 1 Jan 2027 | Backsteinboot | Berlin |
-| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 | Fri, 9 Apr 2027 | 宀 Club | Hong-kong |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
@@ -32,6 +33,6 @@ Konduku is a techno and house artist based in Netherlands, with 201 gigs on soun
 
 ## Shares bills with
 
-DJ Nobu, Woody92, Kia (AU)
+DJ Nobu, Kia (AU), Woody92
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

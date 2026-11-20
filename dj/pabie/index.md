@@ -1,17 +1,18 @@
 # Pabie
 
-Pabie is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Audiofficina - HI-FI Corner, Milan on Sat, 14 Nov 2026.
+Pabie is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Masada, Milan on Sun, 6 Dec 2026.
 
-Pabie is an electro and techno artist based in Italy, with 52 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 4 more. Often billed alongside Velardi, Dizzy and SMS (IT). Next up: Audiofficina - HI-FI Corner, Milan on Sat 14 Nov.
+Pabie is an electro and techno artist based in Italy, with 53 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 4 more. Often billed alongside Velardi, Dizzy and SMS (IT). Next up: Masada, Milan on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Audiofficina - HI-FI Corner | Milan |
+| Sun, 6 Dec 2026 | Masada | Milan |
 
 ## Recently played
 
+- Audiofficina - HI-FI Corner, Milan · Sat, 14 Nov 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 7 Nov 2026
 - Studionotte, Milan · Fri, 30 Oct 2026
 - Sabagiro, Tbilisi · Sat, 10 Oct 2026
@@ -19,10 +20,9 @@ Pabie is an electro and techno artist based in Italy, with 52 gigs on soundcheck
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 3 Oct 2026
 - BARDO, Milan · Tue, 15 Sept 2026
 - Bunker, Turin · Sat, 12 Sept 2026
-- Asd Laghi Carcana, Milan · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Velardi, Dizzy, SMS (IT)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*

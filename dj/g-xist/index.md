@@ -1,6 +1,6 @@
 # G.xist
 
-G.xist is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
+G.xist is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Stepan Razin Factory, Saint-petersburg on Sat, 21 Nov 2026.
 
 G.xist is an industrial and techno artist based in France, with 7 gigs on soundcheck across Berlin, London and Saint Petersburg. Often billed alongside Becky Stroke, Crystal Geometry and Fluid. Next up: Stepan Razin Factory, Saint Petersburg on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ G.xist is an industrial and techno artist based in France, with 7 gigs on soundc
 
 Becky Stroke, Crystal Geometry, Fluid
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g-xist/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g-xist/)*

@@ -1,6 +1,6 @@
 # Joey Coco
 
-Joey Coco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Section 8, Melbourne on Sun, 22 Nov 2026.
+Joey Coco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Section 8, Melbourne on Sun, 22 Nov 2026.
 
 Joey Coco is a house and techno artist based in Australia, with 141 gigs on soundcheck across Byron Bay, Canberra, Melbourne and Sydney. Often billed alongside Oscar de Lima, HAUSWiFE and Slumdog. Next up: Section 8, Melbourne on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Joey Coco is a house and techno artist based in Australia, with 141 gigs on soun
 
 Oscar de Lima, HAUSWiFE, Slumdog
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*

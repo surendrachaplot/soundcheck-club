@@ -1,17 +1,18 @@
 # Bella Mode
 
-Bella Mode is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Eagle of Detroit, Detroit on Sat, 14 Nov 2026.
+Bella Mode is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at SOS 7 Mile, Detroit on Sat, 21 Nov 2026.
 
-Bella Mode is a techno and electro artist based in United States of America, with 27 gigs on soundcheck across Chicago, Detroit, New Orleans and New York City. Often billed alongside CMD+JAZMINE, actuator and Alex Hell-n. Next up: The Eagle of Detroit, Detroit on Sat 14 Nov.
+Bella Mode is a techno and electro artist based in United States of America, with 28 gigs on soundcheck across Chicago, Detroit, New Orleans and New York City. Often billed alongside CMD+JAZMINE, actuator and Alex Hell-n. Next up: SOS 7 Mile, Detroit on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Eagle of Detroit | Detroit |
+| Sat, 21 Nov 2026 | SOS 7 Mile | Detroit |
 
 ## Recently played
 
+- The Eagle of Detroit, Detroit · Sat, 14 Nov 2026
 - TBA - Private Location, New York City · Fri, 13 Nov 2026
 - House of Yes, New York City · Sat, 24 Oct 2026
 - Jupiter Disco, New York City · Wed, 14 Oct 2026
@@ -19,10 +20,9 @@ Bella Mode is a techno and electro artist based in United States of America, wit
 - Mood Ring, New York City · Sat, 13 Jun 2026
 - Jupiter Disco, New York City · Sun, 26 Apr 2026
 - SILO, New York City · Thu, 26 Mar 2026
-- Bossa Nova Civic Club, New York City · Tue, 10 Feb 2026
 
 ## Shares bills with
 
 CMD+JAZMINE, actuator, Alex Hell-n
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamode/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamode/)*

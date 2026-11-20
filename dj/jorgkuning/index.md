@@ -1,16 +1,18 @@
 # Jorg Kuning
 
-Jorg Kuning is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+Jorg Kuning is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
-Jorg Kuning is a house and tech house artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 15 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
+Jorg Kuning is a house and tech house artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 16 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 | Fri, 18 Dec 2026 | TBA - Marrickville | Sydney |
+| Sat, 19 Dec 2026 | Old Habits | Perth |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Jorg Kuning is a house and tech house artist based in United Kingdom, with 69 gi
 
 Bitzer Maloney, Daisy Moon, K-LONE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgkuning/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgkuning/)*

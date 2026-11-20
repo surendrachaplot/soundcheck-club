@@ -1,14 +1,15 @@
 # Danth
 
-Danth is a Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at LAY Beach Club, Bangkok on Wed, 9 Dec 2026.
+Danth is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at LAY Beach Club, Bangkok on Wed, 9 Dec 2026.
 
-Danth is a tech house artist, with 9 gigs on soundcheck across Bangkok and Cologne. Often billed alongside Alex Martin, 1991 and A Little Sound. Next up: LAY Beach Club, Bangkok on Wed 9 Dec.
+Danth is a techno and tech house artist, with 10 gigs on soundcheck across Bangkok and Cologne. Often billed alongside Alex Martin, Borgore and 1991. Next up: LAY Beach Club, Bangkok on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 9 Dec 2026 | LAY Beach Club | Bangkok |
+| Thu, 31 Dec 2026 | Bootshaus | Cologne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Danth is a tech house artist, with 9 gigs on soundcheck across Bangkok and Colog
 
 ## Shares bills with
 
-Alex Martin, 1991, A Little Sound
+Alex Martin, Borgore, 1991
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danth/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danth/)*

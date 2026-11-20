@@ -1,6 +1,6 @@
 # Octile
 
-Octile is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Tripla Hofmann, Budapest on Sat, 21 Nov 2026.
+Octile is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tripla Hofmann, Budapest on Sat, 21 Nov 2026.
 
 Octile is a house and minimal artist based in Hungary, with 50 gigs on soundcheck across Budapest and Zagreb. Often billed alongside Korosi, Robert Dobak and Dubtist. Next up: Tripla Hofmann, Budapest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Octile is a house and minimal artist based in Hungary, with 50 gigs on soundchec
 
 Korosi, Robert Dobak, Dubtist
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octile/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octile/)*

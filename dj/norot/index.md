@@ -1,14 +1,16 @@
 # NORO$T
 
-NORO$T is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at BASIS, Utrecht on Sat, 21 Nov 2026.
+NORO$T is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 20 Nov 2026.
 
-NORO$T is a techno and trance artist based in Spain, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 4 more. Often billed alongside BZZHOUND, Fenrick and Linapary. Next up: BASIS, Utrecht on Sat 21 Nov.
+NORO$T is a techno and trance artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 6 more. Often billed alongside BZZHOUND, Fenrick and Linapary. Next up: Central Sector Tirana, Tirana on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Central Sector Tirana | Tirana |
 | Sat, 21 Nov 2026 | BASIS | Utrecht |
+| Sat, 5 Dec 2026 | Alte Kaserne | Zurich |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ NORO$T is a techno and trance artist based in Spain, with 12 gigs on soundcheck 
 
 BZZHOUND, Fenrick, Linapary
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*

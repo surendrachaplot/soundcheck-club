@@ -1,14 +1,15 @@
 # Ssero
 
-Ssero is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Goya Social Club, Madrid on Mon, 7 Dec 2026.
+Ssero is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Goya Social Club, Madrid on Mon, 7 Dec 2026.
 
-Ssero is a tech house and house artist based in Spain, with 30 gigs on soundcheck across Barcelona, Hamburg, Ibiza and Lisbon and 3 more. Often billed alongside Abdon, Dellavega and Pau Guilera. Next up: Goya Social Club, Madrid on Mon 7 Dec.
+Ssero is a tech house and house artist based in Spain, with 31 gigs on soundcheck across Barcelona, Hamburg, Ibiza and Lisbon and 4 more. Often billed alongside Abdon, Dellavega and Pau Guilera. Next up: Goya Social Club, Madrid on Mon 7 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Dec 2026 | Goya Social Club | Madrid |
+| Sat, 19 Dec 2026 | Studio Club Malaga | Malaga |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ssero is a tech house and house artist based in Spain, with 30 gigs on soundchec
 
 Abdon, Dellavega, Pau Guilera
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssero/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssero/)*

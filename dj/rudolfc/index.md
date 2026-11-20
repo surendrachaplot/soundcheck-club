@@ -1,13 +1,14 @@
 # Rudolf C
 
-Rudolf C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Compufunk Records, Osaka on Fri, 27 Nov 2026.
+Rudolf C is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Paper, Seoul on Sat, 21 Nov 2026.
 
-Rudolf C is a house and techno artist based in Germany, with 41 gigs on soundcheck across Adelaide, Beijing, Berlin and Chongqing and 13 more. Often billed alongside Alfred Czital, Ashikaga and Balthazar Martinez. Next up: Compufunk Records, Osaka on Fri 27 Nov.
+Rudolf C is a house and techno artist based in Germany, with 42 gigs on soundcheck across Adelaide, Beijing, Berlin and Chongqing and 13 more. Often billed alongside Alfred Czital, Ashikaga and Balthazar Martinez. Next up: Paper, Seoul on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Paper | Seoul |
 | Fri, 27 Nov 2026 | Compufunk Records | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rudolf C is a house and techno artist based in Germany, with 41 gigs on soundche
 
 Alfred Czital, Ashikaga, Balthazar Martinez
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfc/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfc/)*

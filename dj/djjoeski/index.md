@@ -1,6 +1,6 @@
 # DJ Joeski
 
-DJ Joeski is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Lion's Den, Miami on Fri, 20 Nov 2026.
+DJ Joeski is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lion's Den, Miami on Fri, 20 Nov 2026.
 
 DJ Joeski is a house and tech house artist, with 11 gigs on soundcheck across Austin, Miami, New York City and San Francisco/Oakland and 1 more. Often billed alongside Joeski, DJ Chus and Patrick M. Next up: Lion's Den, Miami on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Joeski is a house and tech house artist, with 11 gigs on soundcheck across Au
 
 Joeski, DJ Chus, Patrick M
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjoeski/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjoeski/)*

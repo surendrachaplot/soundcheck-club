@@ -1,6 +1,6 @@
 # Katz 25
 
-Katz 25 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 28 Nov 2026.
+Katz 25 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 28 Nov 2026.
 
 Katz 25 is a techno and tech house artist based in Japan, with 19 gigs on soundcheck across Tokyo. Often billed alongside ODD, Daisuke Pak and YU-MA. Next up: Enter Shibuya, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Katz 25 is a techno and tech house artist based in Japan, with 19 gigs on soundc
 
 ODD, Daisuke Pak, YU-MA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katz25/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katz25/)*

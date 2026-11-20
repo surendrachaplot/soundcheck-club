@@ -1,6 +1,6 @@
 # Yang Bing
 
-Yang Bing is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Rugs*, Beijing on Sat, 21 Nov 2026.
+Yang Bing is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Rugs*, Beijing on Sat, 21 Nov 2026.
 
 Yang Bing is a techno and house artist based in China, with 84 gigs on soundcheck across Beijing, Belgrade, Berlin and Chengdu and 3 more. Often billed alongside DJ-BLUE, Jeff Chong and DJ Eric Lee. Next up: Rugs*, Beijing on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Yang Bing is a techno and house artist based in China, with 84 gigs on soundchec
 
 DJ-BLUE, Jeff Chong, DJ Eric Lee
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yangbing/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yangbing/)*

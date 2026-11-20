@@ -1,6 +1,6 @@
 # CLAIR (BAI)
 
-CLAIR (BAI) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 27 Nov 2026.
+CLAIR (BAI) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 27 Nov 2026.
 
 CLAIR (BAI) is a trance and techno artist based in China, with 24 gigs on soundcheck across Beijing, Brisbane, Madrid and Melbourne and 8 more. Often billed alongside seretide, zzm and Beibeilon. Next up: Oxford Art Factory, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CLAIR (BAI) is a trance and techno artist based in China, with 24 gigs on soundc
 
 seretide, zzm (2), Beibeilon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*

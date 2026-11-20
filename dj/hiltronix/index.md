@@ -1,6 +1,6 @@
 # Hiltronix
 
-Hiltronix is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
+Hiltronix is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
 
 Hiltronix is a house and electro artist based in United States of America, with 19 gigs on soundcheck across Miami and New York City. Often billed alongside Ostara, Phaxas and Carozilla. Next up: Las Rosas, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hiltronix is a house and electro artist based in United States of America, with 
 
 Ostara, Phaxas, Carozilla
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiltronix/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiltronix/)*

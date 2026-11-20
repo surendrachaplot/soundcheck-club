@@ -1,6 +1,6 @@
 # madmami
 
-madmami is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Klub SPATiF, Warsaw on Fri, 20 Nov 2026.
+madmami is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Klub SPATiF, Warsaw on Fri, 20 Nov 2026.
 
 madmami is a bass and electronica artist based in Poland, with 18 gigs on soundcheck across Warsaw. Often billed alongside gummi, Facheroia and Generator42. Next up: Klub SPATiF, Warsaw on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ madmami is a bass and electronica artist based in Poland, with 18 gigs on soundc
 
 gummi, Facheroia, Generator42
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmami/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmami/)*

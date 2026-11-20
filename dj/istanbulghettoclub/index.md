@@ -1,6 +1,6 @@
 # Istanbul Ghetto Club
 
-Istanbul Ghetto Club is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at B-Side Münster, Münster on Thu, 31 Dec 2026.
+Istanbul Ghetto Club is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at B-Side Münster, Münster on Thu, 31 Dec 2026.
 
 Istanbul Ghetto Club is a techno and acid artist based in Turkey, with 49 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 30 more. Often billed alongside Azu Tiwaline, Mehmet Aslan and BASHKKA. Next up: B-Side Münster, Münster on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Istanbul Ghetto Club is a techno and acid artist based in Turkey, with 49 gigs o
 
 Azu Tiwaline, Mehmet Aslan, BASHKKA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*

@@ -1,6 +1,6 @@
 # NADA Lisbon
 
-NADA Lisbon is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "STUDIO CLUB at TIGA Village" on Sat, 28 Nov 2026.
+NADA Lisbon is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "STUDIO CLUB at TIGA Village" on Sat, 28 Nov 2026.
 
 NADA Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Jaco Reigosa and Sandro Martins. See dates, start times and who's playing. R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal.
 
@@ -16,4 +16,4 @@ NADA Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, wi
 
 R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal, Lisbon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*

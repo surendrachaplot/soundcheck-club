@@ -1,6 +1,6 @@
 # Faze Action
 
-Faze Action is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Filly Brook, London on Thu, 31 Dec 2026.
+Faze Action is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Filly Brook, London on Thu, 31 Dec 2026.
 
 Faze Action is a house and disco artist based in United Kingdom, with 18 gigs on soundcheck across London, Los Angeles, Osaka and Seoul. Often billed alongside Desert Hearts, Dirtybird and M A W. Next up: Filly Brook, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Faze Action is a house and disco artist based in United Kingdom, with 18 gigs on
 
 Desert Hearts, Dirtybird, M A W
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fazeaction/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fazeaction/)*

@@ -1,13 +1,14 @@
 # BILL.E
 
-BILL.E is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Sat, 21 Nov 2026.
+BILL.E is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at RO Seoul, Seoul on Fri, 20 Nov 2026.
 
-BILL.E is a club and hip-hop artist based in South Korea, with 45 gigs on soundcheck across Bangkok, London and Seoul. Often billed alongside Daul, KINGMCK and RHODE. Next up: Bolero, Seoul on Sat 21 Nov.
+BILL.E is a club and hip-hop artist based in South Korea, with 46 gigs on soundcheck across Bangkok, London and Seoul. Often billed alongside Daul, KINGMCK and RHODE. Next up: RO Seoul, Seoul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | RO Seoul | Seoul |
 | Sat, 21 Nov 2026 | Bolero | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ BILL.E is a club and hip-hop artist based in South Korea, with 45 gigs on soundc
 
 Daul, KINGMCK, RHODE (1)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bill.e/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bill.e/)*

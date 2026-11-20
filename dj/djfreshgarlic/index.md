@@ -1,14 +1,15 @@
 # DJ Fresh Garlic
 
-DJ Fresh Garlic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 5 Dec 2026.
+DJ Fresh Garlic is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 5 Dec 2026.
 
-DJ Fresh Garlic is a house and disco artist based in Germany, with 15 gigs on soundcheck across Berlin and Tirana. Often billed alongside Cheap Coffee, Czech Strings and NicolasNico. Next up: Süss War Gestern, Berlin on Sat 5 Dec.
+DJ Fresh Garlic is a house and disco artist based in Germany, with 16 gigs on soundcheck across Berlin and Tirana. Often billed alongside Cheap Coffee, Czech Strings and NicolasNico. Next up: Süss War Gestern, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Süss War Gestern | Berlin |
+| Thu, 10 Dec 2026 | Bulbul Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Fresh Garlic is a house and disco artist based in Germany, with 15 gigs on so
 
 Cheap Coffee, Czech Strings, NicolasNico
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreshgarlic/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreshgarlic/)*

@@ -1,14 +1,13 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, London on Thu, 19 Nov 2026.
+Yung Singh is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
-Yung Singh is a garage and house artist based in United Kingdom, with 194 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 67 more. Often billed alongside Bakey, Overmono and salute. Next up: TBA, London on Thu 19 Nov.
+Yung Singh is a garage and house artist based in United Kingdom, with 194 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 67 more. Often billed alongside Bakey, Overmono and salute. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | TBA | London |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | Stinsen | Stockholm |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
@@ -18,6 +17,7 @@ Yung Singh is a garage and house artist based in United Kingdom, with 194 gigs o
 
 ## Recently played
 
+- TBA, London · Thu, 19 Nov 2026
 - The Loft, Manchester · Sat, 14 Nov 2026
 - Quarters, Brighton · Fri, 13 Nov 2026
 - Roxy, Prague · Sat, 7 Nov 2026
@@ -25,10 +25,9 @@ Yung Singh is a garage and house artist based in United Kingdom, with 194 gigs o
 - Gaswrx Birmingham, London · Sat, 31 Oct 2026
 - Sneaky Pete's, Edinburgh · Fri, 30 Oct 2026
 - Akvárium Klub, Budapest · Fri, 16 Oct 2026
-- Uus Laine, Tallinn · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Bakey, Overmono, salute
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

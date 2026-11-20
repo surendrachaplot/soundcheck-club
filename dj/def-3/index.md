@@ -1,13 +1,14 @@
 # DEF (3)
 
-DEF (3) is a Dancehall and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Maassilo, Rotterdam on Thu, 31 Dec 2026.
+DEF (3) is a Dancehall and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Crust Basement, Athens on Sat, 21 Nov 2026.
 
-DEF is a dancehall and hip-hop artist based in India, with 3 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Donna, 249.92 and 36framez. Next up: Maassilo, Rotterdam on Thu 31 Dec.
+DEF is a dancehall and hip-hop artist based in India, with 4 gigs on soundcheck across Amsterdam, Athens and Rotterdam. Often billed alongside Donna, 249.92 and 36framez. Next up: Crust Basement, Athens on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Crust Basement | Athens |
 | Thu, 31 Dec 2026 | Maassilo | Rotterdam |
 
 ## Recently played
@@ -19,4 +20,4 @@ DEF is a dancehall and hip-hop artist based in India, with 3 gigs on soundcheck 
 
 Donna, 249.92, 36framez
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/def-3/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/def-3/)*

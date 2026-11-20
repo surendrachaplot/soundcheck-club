@@ -1,6 +1,6 @@
 # Matt Arnold
 
-Matt Arnold is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH, London on Fri, 18 Dec 2026.
+Matt Arnold is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH, London on Fri, 18 Dec 2026.
 
 Matt Arnold is a tech house and techno artist based in United Kingdom, with 37 gigs on soundcheck across London and Melbourne. Often billed alongside Diego Gee, Etwas and Ophelie Mercury. Next up: TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH, London on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Matt Arnold is a tech house and techno artist based in United Kingdom, with 37 g
 
 Diego Gee, Etwas, Ophelie Mercury
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*

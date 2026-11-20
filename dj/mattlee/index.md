@@ -1,6 +1,6 @@
 # Matt Lee
 
-Matt Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at E1, London on Fri, 20 Nov 2026.
+Matt Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at E1, London on Fri, 20 Nov 2026.
 
 Matt Lee is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Hanoi and London. Often billed alongside George Adore, Hocking and Mullen. Next up: E1, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Matt Lee is a house and techno artist based in United Kingdom, with 17 gigs on s
 
 George Adore, Hocking, Mullen
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattlee/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattlee/)*

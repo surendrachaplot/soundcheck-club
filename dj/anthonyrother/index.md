@@ -1,8 +1,8 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
+Anthony Rother is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
 
-Anthony Rother is a techno and electro artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Helena Hauff, Asymptote and DJ MELL G. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 27 Nov.
+Anthony Rother is a techno and electro artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Helena Hauff, Asymptote and DJ MELL G. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anthony Rother is a techno and electro artist based in Germany, with 98 gigs on 
 | Fri, 27 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 28 Nov 2026 | Het Sieraad | Amsterdam |
 | Sat, 5 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 1 Jan 2027 | UMI | Brussels |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Anthony Rother is a techno and electro artist based in Germany, with 98 gigs on 
 
 Helena Hauff, Asymptote, DJ MELL G
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*

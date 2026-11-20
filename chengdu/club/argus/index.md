@@ -1,6 +1,6 @@
 # Argus
 
-Argus is a music venue in Chengdu with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "NewviewProject 新视角计划" on Sat, 14 Nov 2026.
+Argus is a music venue in Chengdu with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "NewviewProject新视角计划Vol.2" on Fri, 20 Nov 2026.
 
 Argus is a music venue in Chengdu listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Argus is a music venue in Chengdu listed on soundcheck. 1 upcoming gig. See date
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | NewviewProject 新视角计划 |  |
+| Fri, 20 Nov 2026 | NewviewProject新视角计划Vol.2 |  |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/argus/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/argus/)*

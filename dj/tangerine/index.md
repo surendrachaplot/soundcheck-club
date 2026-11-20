@@ -1,8 +1,8 @@
 # Tangerine
 
-Tangerine is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Rooftop Bar, Melbourne on Sun, 13 Dec 2026.
+Tangerine is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Rooftop Bar, Melbourne on Sun, 13 Dec 2026.
 
-Tangerine is a techno and trance artist based in Australia, with 63 gigs on soundcheck across Berlin, Copenhagen, Hobart and London and 6 more. Often billed alongside LOIF, Moopie and Kia (AU). Next up: Rooftop Bar, Melbourne on Sun 13 Dec.
+Tangerine is a techno and trance artist based in Australia, with 64 gigs on soundcheck across Berlin, Copenhagen, Hobart and London and 6 more. Often billed alongside LOIF, Moopie and Kia (AU). Next up: Rooftop Bar, Melbourne on Sun 13 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tangerine is a techno and trance artist based in Australia, with 63 gigs on soun
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | Rooftop Bar | Melbourne |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tangerine is a techno and trance artist based in Australia, with 63 gigs on soun
 
 LOIF, Moopie, Kia (AU)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tangerine/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tangerine/)*

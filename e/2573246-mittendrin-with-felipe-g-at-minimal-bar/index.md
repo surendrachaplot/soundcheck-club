@@ -1,6 +1,6 @@
 # Mittendrin with Felipe G at Minimal Bar
 
-Mittendrin with Felipe G at Minimal Bar on Wed 17 Feb, Berlin. 1 artist: Felipe G. See the line-up on soundcheck.
+Mittendrin with Felipe G at Minimal Bar on Wed 17 Feb, Berlin. 1 artist: Felipe G. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

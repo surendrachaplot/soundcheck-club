@@ -1,8 +1,8 @@
 # Josh Steers
 
-Josh Steers is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
+Josh Steers is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
 
-Josh Steers is a house and techno artist based in United States of America, with 111 gigs on soundcheck across Bogotá, Detroit, Los Angeles and Mexico City and 3 more. Often billed alongside Sterling Juan Diaz, Nita Aviance and Michael Magnan. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
+Josh Steers is a house and techno artist based in United States of America, with 112 gigs on soundcheck across Bogotá, Detroit, Los Angeles and Mexico City and 4 more. Often billed alongside Sterling Juan Diaz, Nita Aviance and Michael Magnan. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Josh Steers is a house and techno artist based in United States of America, with
 | Fri, 20 Nov 2026 | TBA - TWO FLOOR WAREHOUSE  | New York City |
 | Fri, 20 Nov 2026 | Unveiled | New York City |
 | Sat, 12 Dec 2026 | TBA - DTLA | Los Angeles |
+| Fri, 1 Jan 2027 | The Foundry | San Francisco/Oakland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Josh Steers is a house and techno artist based in United States of America, with
 
 Sterling Juan Diaz, Nita Aviance, Michael Magnan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*

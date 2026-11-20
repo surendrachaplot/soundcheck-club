@@ -1,14 +1,15 @@
 # Lilian
 
-Lilian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 28 Nov 2026.
+Lilian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 28 Nov 2026.
 
-Lilian is a house and techno artist based in Australia, with 88 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 5 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: Second Story Studios, Melbourne on Sat 28 Nov.
+Lilian is a house and techno artist based in Australia, with 89 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 5 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: Second Story Studios, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Second Story Studios | Melbourne |
+| Sun, 29 Nov 2026 | Dr Morse | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lilian is a house and techno artist based in Australia, with 88 gigs on soundche
 
 Boogs, Matteo Freyrie, Spacey Space
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*

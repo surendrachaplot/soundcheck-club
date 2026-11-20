@@ -1,6 +1,6 @@
 # Vassallo
 
-Vassallo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Holding Patterns, Leeds on Fri, 20 Nov 2026.
+Vassallo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Holding Patterns, Leeds on Fri, 20 Nov 2026.
 
 Vassallo is a techno and electro artist based in United Kingdom, with 20 gigs on soundcheck across Belfast, Leeds, London and Manchester and 1 more. Often billed alongside Chin, Joe Reece and Phil Warner. Next up: Holding Patterns, Leeds on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Vassallo is a techno and electro artist based in United Kingdom, with 20 gigs on
 
 Chin, Joe Reece, Phil Warner
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vassallo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vassallo/)*

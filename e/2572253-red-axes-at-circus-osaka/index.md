@@ -1,6 +1,6 @@
 # Red Axes at Circus Osaka
 
-Red Axes at Circus Osaka on Sat 5 Dec, Osaka. 2 artists: idiotYuuka and Red Axes. Techno and House. See the line-up on soundcheck.
+Red Axes at Circus Osaka on Sat 5 Dec, Osaka. 3 artists: idiotYuuka, rangasako and Red Axes. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Red Axes at Circus Osaka on Sat 5 Dec, Osaka. 2 artists: idiotYuuka and Red Axes
 ## Line-up
 
 - idiotYuuka
+- rangasako
 - Red Axes
 
 *Source: [soundcheck](https://soundcheck.club/e/2572253-red-axes-at-circus-osaka/)*

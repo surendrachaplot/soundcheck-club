@@ -1,8 +1,8 @@
 # SouthPawBrown
 
-SouthPawBrown is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Harmony Cafe, Toronto on Thu, 10 Dec 2026.
+SouthPawBrown is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Harmony Cafe, Toronto on Thu, 10 Dec 2026.
 
-SouthPawBrown is a house and techno artist based in Canada, with 26 gigs on soundcheck across Toronto. Often billed alongside Antitrust, Barroness and Landan Brawley. Next up: The Harmony Cafe, Toronto on Thu 10 Dec.
+SouthPawBrown is a house and techno artist based in Canada, with 27 gigs on soundcheck across Toronto. Often billed alongside Antitrust, Barroness and Landan Brawley. Next up: The Harmony Cafe, Toronto on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SouthPawBrown is a house and techno artist based in Canada, with 26 gigs on soun
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | The Harmony Cafe | Toronto |
 | Sat, 12 Dec 2026 | Insomnia Lounge | Toronto |
+| Sat, 26 Dec 2026 | Insomnia Lounge | Toronto |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ SouthPawBrown is a house and techno artist based in Canada, with 26 gigs on soun
 
 Antitrust, Barroness, Landan Brawley
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*

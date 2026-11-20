@@ -1,6 +1,6 @@
 # Better
 
-Better is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
+Better is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
 
 Better is a house and tech house artist based in South Korea, with 195 gigs on soundcheck across Amsterdam, Seoul, South Korea and Taipei and 1 more. Often billed alongside Ruta, Beejay and Liza (KR). Next up: Casa Corona Seoul, Seoul on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Better is a house and tech house artist based in South Korea, with 195 gigs on s
 
 Ruta (2), Beejay, Liza (KR)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/better/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/better/)*

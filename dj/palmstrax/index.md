@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
+Palms Trax is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
 Palms Trax is a house and techno artist based in Germany, with 221 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 67 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
@@ -34,4 +34,4 @@ Palms Trax is a house and techno artist based in Germany, with 221 gigs on sound
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

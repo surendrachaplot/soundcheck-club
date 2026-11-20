@@ -1,14 +1,13 @@
 # Yes
 
-Yes is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Desperados Lotería presents Conducta" on Thu, 19 Nov 2026.
+Yes is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Jacques Greene (Extended DJ Set) - Yes" on Fri, 20 Nov 2026.
 
-Yes is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Anish Kumar, Bad Wolf, Conducta and Girls of the Internet and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
+Yes is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Anish Kumar, Aurat, Bad Wolf and Girls of the Internet and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Desperados Lotería presents Conducta | Conducta |
 | Fri, 20 Nov 2026 | Jacques Greene (Extended DJ Set) - Yes | Bad Wolf, Jacques Greene |
 | Sat, 21 Nov 2026 | [CANCELLED] 10 Years of Deptford Northern Soul Club |  |
 | Sat, 21 Nov 2026 | The Big Unofficial Fontaines Afterparty |  |
@@ -18,9 +17,10 @@ Yes is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with 
 | Fri, 27 Nov 2026 | PIRI & FREINDS |  |
 | Sat, 28 Nov 2026 | Medlock & PC18 ALL NIGHT LONG | Medlock |
 | Sat, 28 Nov 2026 | Sonnee Presents: SOLAA Manchester | Jumbled, Sonnee, gr00vy.cat |
+| Sat, 28 Nov 2026 | DISCO PUSS: No Ifs, Buts or Maybes… | Rich Reason |
 
 ## Address
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

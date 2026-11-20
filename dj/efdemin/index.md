@@ -1,8 +1,8 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kino Siska, Ljubljana on Sat, 21 Nov 2026.
+Efdemin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kino Siska, Ljubljana on Sat, 21 Nov 2026.
 
-Efdemin is a techno and house artist based in Germany, with 136 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 37 more. Often billed alongside Polygonia, Steffi and Quelza. Next up: Kino Siska, Ljubljana on Sat 21 Nov.
+Efdemin is a techno and house artist based in Germany, with 137 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 37 more. Often billed alongside Polygonia, Steffi and Quelza. Next up: Kino Siska, Ljubljana on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Efdemin is a techno and house artist based in Germany, with 136 gigs on soundche
 | Sat, 21 Nov 2026 | Kino Siska | Ljubljana |
 | Sat, 28 Nov 2026 | Goethe Institut Thailand | Bangkok |
 | Fri, 18 Dec 2026 | Jimmy Jazz | North |
+| Sat, 19 Dec 2026 | Razzmatazz | Barcelona |
 | Sat, 6 Feb 2027 | fabric | London |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -29,4 +30,4 @@ Efdemin is a techno and house artist based in Germany, with 136 gigs on soundche
 
 Polygonia, Steffi, Quelza
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

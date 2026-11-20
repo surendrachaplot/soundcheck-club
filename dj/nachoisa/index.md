@@ -1,6 +1,6 @@
 # Nacho Isa
 
-Nacho Isa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Green Room NYC, New York City on Sat, 12 Dec 2026.
+Nacho Isa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New York City on Sat, 12 Dec 2026.
 
 Nacho Isa is a house and deep house artist based in Spain, with 43 gigs on soundcheck across Berlin, Ibiza, Istanbul and Mexico City and 3 more. Often billed alongside Madmotormiquel, Mashrik and Echonomist. Next up: Green Room NYC, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Nacho Isa is a house and deep house artist based in Spain, with 43 gigs on sound
 
 Madmotormiquel, Mashrik, Echonomist
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoisa/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoisa/)*

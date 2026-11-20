@@ -1,6 +1,6 @@
 # Ángel Molina
 
-Ángel Molina is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala X, South on Fri, 20 Nov 2026.
+Ángel Molina is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sala X, South on Fri, 20 Nov 2026.
 
 Ángel Molina is a techno and industrial artist based in Spain, with 47 gigs on soundcheck across Barcelona, Madrid, Malaga and South. Often billed alongside Imox, 30drop and Bicep. Next up: Sala X, South on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 Imox, 30drop, Bicep
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmolina-es/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmolina-es/)*

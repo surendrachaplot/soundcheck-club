@@ -1,6 +1,6 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fuse, Brussels on Fri, 20 Nov 2026.
+Partiboi69 is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fuse, Brussels on Fri, 20 Nov 2026.
 
 Partiboi69 is a techno and house artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 83 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: Fuse, Brussels on Fri 20 Nov.
 
@@ -11,7 +11,7 @@ Partiboi69 is a techno and house artist based in Australia, with 230 gigs on sou
 | Fri, 20 Nov 2026 | Fuse | Brussels |
 | Sat, 21 Nov 2026 | Smolna | Warsaw |
 | Fri, 27 Nov 2026 | The Cause | London |
-| Sat, 28 Nov 2026 | Sala Cocó | Madrid |
+| Sat, 28 Nov 2026 | Mondo | Madrid |
 | Sun, 29 Nov 2026 | Lofi | Amsterdam |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
@@ -34,4 +34,4 @@ Partiboi69 is a techno and house artist based in Australia, with 230 gigs on sou
 
 Juicy Romance, KETTAMA, DJ Heartstring
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

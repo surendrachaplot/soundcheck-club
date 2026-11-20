@@ -1,8 +1,8 @@
 # BEPPU
 
-BEPPU is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
+BEPPU is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
 
-BEPPU is a techno and trance artist based in Japan, with 157 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Takami, Nanlaze and Remo-con. Next up: BRAND SHIBUYA, Tokyo on Sun 22 Nov.
+BEPPU is a techno and trance artist based in Japan, with 160 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Takami, Nanlaze and Remo-con. Next up: BRAND SHIBUYA, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,9 @@ BEPPU is a techno and trance artist based in Japan, with 157 gigs on soundcheck 
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | BRAND SHIBUYA | Tokyo |
 | Sun, 22 Nov 2026 | DeTour | Tokyo |
+| Fri, 27 Nov 2026 | DeTour | Tokyo |
+| Sat, 28 Nov 2026 | DeTour | Tokyo |
+| Sun, 29 Nov 2026 | DeTour | Tokyo |
 | Sat, 5 Dec 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
@@ -27,4 +30,4 @@ BEPPU is a techno and trance artist based in Japan, with 157 gigs on soundcheck 
 
 Takami, Nanlaze, Remo-con
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*

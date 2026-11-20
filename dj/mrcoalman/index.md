@@ -1,6 +1,6 @@
 # Mr Coalman
 
-Mr Coalman is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fever, Bilbao on Fri, 20 Nov 2026.
+Mr Coalman is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fever, Bilbao on Fri, 20 Nov 2026.
 
 Mr Coalman is a techno artist based in Norway, with 3 gigs on soundcheck across Bilbao, Madrid and Oslo. Often billed alongside Elisa Bee, Akrelya and Hector MAD. Next up: Fever, Bilbao on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Mr Coalman is a techno artist based in Norway, with 3 gigs on soundcheck across 
 
 Elisa Bee, Akrelya, Hector MAD
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrcoalman/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrcoalman/)*

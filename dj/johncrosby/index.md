@@ -1,17 +1,18 @@
 # John Crosby
 
-John Crosby is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Thu, 12 Nov 2026.
+John Crosby is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Beetroot, Berlin on Sat, 21 Nov 2026.
 
-John Crosby is a house and dub techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Eluzid, Aaronovsky and Acidfinky. Next up: TBA, Berlin on Thu 12 Nov.
+John Crosby is a house and dub techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Eluzid, Tomaso M. and Aaronovsky. Next up: Beetroot, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | TBA | Berlin |
+| Sat, 21 Nov 2026 | Beetroot | Berlin |
 
 ## Recently played
 
+- TBA - Near Neckarstr 6, NK, Berlin · Thu, 12 Nov 2026
 - TBA - near Rathaus Neukolln U7, Berlin · Thu, 22 Oct 2026
 - Phantom Bar Berlin, Berlin · Thu, 24 Sept 2026
 - Phantom Bar Berlin, Berlin · Thu, 20 Aug 2026
@@ -22,6 +23,6 @@ John Crosby is a house and dub techno artist based in Germany, with 8 gigs on so
 
 ## Shares bills with
 
-Eluzid, Aaronovsky, Acidfinky
+Eluzid, Tomaso M., Aaronovsky
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johncrosby/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johncrosby/)*

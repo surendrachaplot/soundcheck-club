@@ -1,6 +1,6 @@
 # PERISinLE
 
-PERISinLE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Donna, Leipzig on Sat, 19 Dec 2026.
+PERISinLE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Donna, Leipzig on Sat, 19 Dec 2026.
 
 PERISinLE is a house and tech house artist based in Germany, with 27 gigs on soundcheck across Leipzig and Munich. Often billed alongside catchycrew, Martin Young and Chris Manura. Next up: Donna, Leipzig on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ PERISinLE is a house and tech house artist based in Germany, with 27 gigs on sou
 
 catchycrew, Martin Young, Chris Manura
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perisinle/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perisinle/)*

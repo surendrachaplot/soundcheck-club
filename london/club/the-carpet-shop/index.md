@@ -1,8 +1,8 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Juls - Tabom (All Night Long) - The Carpet Shop" on Fri, 20 Nov 2026.
+The Carpet Shop is a music venue in London with 20 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Juls - Tabom (All Night Long) - The Carpet Shop" on Fri, 20 Nov 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including 909 Hotline, Cam Joon, Cormac and Dan Beaumont and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including 909 Hotline, Alexander Nut, Cam Joon and Cormac and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 18 upcoming gig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

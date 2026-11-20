@@ -1,18 +1,18 @@
 # NATALIA.
 
-NATALIA. is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mood Ring, New York City on Wed, 18 Nov 2026.
+NATALIA. is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Jupiter Disco, New York City on Sat, 28 Nov 2026.
 
-NATALIA. is a club and house artist based in United States of America, with 43 gigs on soundcheck across Baltimore, Dublin, Frankfurt and Leipzig and 3 more. Often billed alongside Syd (US), KOOB and Love Higher. Next up: Mood Ring, New York City on Wed 18 Nov.
+NATALIA. is a club and house artist based in United States of America, with 43 gigs on soundcheck across Baltimore, Dublin, Frankfurt and Leipzig and 3 more. Often billed alongside Syd (US), KOOB and Love Higher. Next up: Jupiter Disco, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Mood Ring | New York City |
 | Sat, 28 Nov 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
+- Mood Ring, New York City · Wed, 18 Nov 2026
 - Bossa Nova Civic Club, New York City · Tue, 25 Aug 2026
 - Institut fuer Zukunft (IfZ), Leipzig · Sat, 25 Jul 2026
 - Housebar 55, Frankfurt · Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ NATALIA. is a club and house artist based in United States of America, with 43 g
 - Bossa Nova Civic Club, New York City · Mon, 20 Jul 2026
 - Z, Toronto · Sat, 11 Jul 2026
 - Bossa Nova Civic Club, New York City · Sat, 4 Jul 2026
-- Bossa Nova Civic Club, New York City · Tue, 31 Mar 2026
 
 ## Shares bills with
 
 Syd (US), KOOB, Love Higher
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia./)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia./)*

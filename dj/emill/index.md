@@ -1,14 +1,15 @@
 # EM ILL
 
-EM ILL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+EM ILL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
-EM ILL is a techno and house artist based in Poland, with 16 gigs on soundcheck across Warsaw. Often billed alongside blessthemess, KoZa and HANICZ. Next up: Luzztro, Warsaw on Sat 21 Nov.
+EM ILL is a techno and house artist based in Poland, with 17 gigs on soundcheck across Warsaw. Often billed alongside blessthemess, KoZa and HANICZ. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Luzztro | Warsaw |
+| Sat, 28 Nov 2026 | Smolna | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ EM ILL is a techno and house artist based in Poland, with 16 gigs on soundcheck 
 
 blessthemess, KoZa, HANICZ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emill/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emill/)*

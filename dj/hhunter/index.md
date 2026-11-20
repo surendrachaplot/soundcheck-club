@@ -1,6 +1,6 @@
 # hhunter
 
-hhunter is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+hhunter is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
 hhunter is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas Fort Worth and 10 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
@@ -29,4 +29,4 @@ hhunter is a techno and house artist based in United States of America, with 83 
 
 Elarm, Kula, Flores Negras
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

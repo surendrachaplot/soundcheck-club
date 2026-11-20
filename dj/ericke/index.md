@@ -1,8 +1,8 @@
 # Erick E
 
-Erick E is a House and Acid artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TivoliVredenburg, Utrecht on Sat, 28 Nov 2026.
+Erick E is a House and Acid artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TivoliVredenburg, Utrecht on Sat, 28 Nov 2026.
 
-Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: TivoliVredenburg, Utrecht on Sat 28 Nov.
+Erick E is a house and acid artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: TivoliVredenburg, Utrecht on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 | Sun, 27 Dec 2026 | Luxor Live | Netherlands |
 | Wed, 30 Dec 2026 | Brasserie Polderfabriek | Netherlands |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
+| Sat, 6 Mar 2027 | Thuishaven | Amsterdam |
 | Sat, 10 Apr 2027 | Thuishaven | Amsterdam |
 | Sat, 4 Sept 2027 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 
@@ -32,4 +33,4 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

@@ -1,6 +1,6 @@
 # Blaark
 
-Blaark is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Blaark is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
 
 Blaark is a techno and electronica artist based in Spain, with 18 gigs on soundcheck across Barcelona and Madrid. Often billed alongside MÄEM, Audiolux and Lowsystem. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Blaark is a techno and electronica artist based in Spain, with 18 gigs on soundc
 
 MÄEM, Audiolux, Lowsystem
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blaark/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blaark/)*

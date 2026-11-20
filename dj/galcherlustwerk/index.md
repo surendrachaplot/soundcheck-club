@@ -1,8 +1,8 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Galcher Lustwerk is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Galcher Lustwerk is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 19 more. Often billed alongside Devoye, Priori and Bill Patrick. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Galcher Lustwerk is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 19 more. Often billed alongside Devoye, Priori and Bill Patrick. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 20 Nov 2026 | Miscellania | Melbourne |
 | Sat, 28 Nov 2026 | Signal | New York City |
+| Sat, 5 Dec 2026 | Stereo | Montreal |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
 | Sat, 26 Dec 2026 | Nowadays | New York City |
 
@@ -29,4 +30,4 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 
 Devoye, Priori, Bill Patrick
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*

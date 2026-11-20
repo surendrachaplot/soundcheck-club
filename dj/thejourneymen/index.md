@@ -1,6 +1,6 @@
 # The Journey Men
 
-The Journey Men is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - VARIOUS, Malta on Thu, 16 Sept 2027.
+The Journey Men is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - VARIOUS, Malta on Thu, 16 Sept 2027.
 
 The Journey Men is a deep house and house artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Glasgow, Lisbon and Liverpool and 2 more. Often billed alongside Craig Smith, DJ Spen and David Bailey (UK). Next up: TBA - VARIOUS, Malta on Thu 16 Sept.
 
@@ -25,4 +25,4 @@ The Journey Men is a deep house and house artist based in United Kingdom, with 1
 
 Craig Smith, DJ Spen, David Bailey (UK)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourneymen/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourneymen/)*

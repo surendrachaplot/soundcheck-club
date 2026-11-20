@@ -1,8 +1,8 @@
 # Marc Kinchen
 
-Marc Kinchen is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Beach House San Diego, San Diego on Sat, 5 Dec 2026.
+Marc Kinchen is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Beach House San Diego, San Diego on Sat, 5 Dec 2026.
 
-Marc Kinchen is a house and tech house artist based in United States of America, with 110 gigs on soundcheck across Antwerp, Austin, Bali and Barcelona and 28 more. Often billed alongside Calvin Harris, Sonny Fodera and Green Velvet. Next up: Beach House San Diego, San Diego on Sat 5 Dec.
+Marc Kinchen is a house and tech house artist based in United States of America, with 111 gigs on soundcheck across Antwerp, Austin, Bali and Barcelona and 29 more. Often billed alongside Calvin Harris, Sonny Fodera and Green Velvet. Next up: Beach House San Diego, San Diego on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Marc Kinchen is a house and tech house artist based in United States of America,
 | Sat, 5 Dec 2026 | Beach House San Diego | San Diego |
 | Sat, 6 Feb 2027 | Depot | Cardiff |
 | Sat, 6 Mar 2027 | The Telegraph Building | Belfast |
+| Sat, 13 Mar 2027 | Gaswrx Birmingham | Birmingham |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Marc Kinchen is a house and tech house artist based in United States of America,
 
 Calvin Harris, Sonny Fodera, Green Velvet
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*

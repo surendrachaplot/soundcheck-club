@@ -1,6 +1,6 @@
 # SOCALLED: HSTN & FRIENDS at Stage and Radio
 
-SOCALLED: HSTN & FRIENDS at Stage and Radio on Thu 3 Dec, Manchester. 6 artists: D-LIA, Ginster, HSTN and imad:re and 2 more. Techno and House. See the line-up on soundcheck.
+SOCALLED: HSTN & FRIENDS at Stage and Radio on Thu 3 Dec, Manchester. 6 artists: D-LIA, Ginster, HSTN and imad:re and 2 more. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

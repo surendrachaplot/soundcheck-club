@@ -1,6 +1,6 @@
 # Jasper James
 
-Jasper James is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Jasper James is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
 Jasper James is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 30 more. Often billed alongside Ewan McVicar, MiNNA and Armand Van Helden. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Jasper James is a house and techno artist based in United Kingdom, with 99 gigs 
 
 Ewan McVicar, MiNNA, Armand Van Helden
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*

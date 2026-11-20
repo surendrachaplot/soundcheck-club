@@ -1,6 +1,6 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 21 Nov 2026.
+Make A Dance is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 21 Nov 2026.
 
 Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 40 more. Often billed alongside Paula Tape, Lulah Francs and Tash LC. Next up: NUMBER 90 LONDON, London on Sat 21 Nov.
 
@@ -34,4 +34,4 @@ Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs 
 
 Paula Tape, Lulah Francs, Tash LC
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

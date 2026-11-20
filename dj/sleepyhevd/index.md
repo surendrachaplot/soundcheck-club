@@ -1,8 +1,8 @@
 # SLEEPY HEVD
 
-SLEEPY HEVD is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
+SLEEPY HEVD is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
 
-SLEEPY HEVD is a bass and electro artist based in Japan, with 24 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Project E.i.M, Noway and In-Character. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
+SLEEPY HEVD is a bass and electro artist based in Japan, with 24 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Project E.i.M, NO WAY and In-Character. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ SLEEPY HEVD is a bass and electro artist based in Japan, with 24 gigs on soundch
 
 ## Shares bills with
 
-Project E.i.M, Noway, In-Character
+Project E.i.M, NO WAY, In-Character
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyhevd/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyhevd/)*

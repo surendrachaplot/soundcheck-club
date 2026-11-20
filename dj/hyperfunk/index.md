@@ -1,6 +1,6 @@
 # Hyperfunk
 
-Hyperfunk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 18 Dec 2026.
+Hyperfunk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 18 Dec 2026.
 
 Hyperfunk is a house and electro artist based in Ireland, with 16 gigs on soundcheck across Dublin, London and Munich. Often billed alongside Sam Alfred, DJ SHORTKING and charlois. Next up: Yamamori Tengu, Dublin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Hyperfunk is a house and electro artist based in Ireland, with 16 gigs on soundc
 
 Sam Alfred, DJ SHORTKING, charlois
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfunk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfunk/)*

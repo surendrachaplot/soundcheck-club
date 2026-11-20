@@ -1,8 +1,8 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Boranimals, TINNO" on Fri, 20 Nov 2026.
+Resume Valencia is a music venue in Valencia with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Boranimals, TINNO" on Fri, 20 Nov 2026.
 
-Resume Valencia is a music venue in Valencia listed on soundcheck. 11 upcoming gigs, with line-ups including Boranimals, Elena Megi and Fino Fino. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
+Resume Valencia is a music venue in Valencia listed on soundcheck. 15 upcoming gigs, with line-ups including Boranimals, Elena Megi and Fino Fino. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 11 upcoming g
 | Sat, 21 Nov 2026 | MUVEMENT |  |
 | Fri, 27 Nov 2026 | ELENA MEGI, Fino Fino | Elena Megi, Fino Fino |
 | Sat, 28 Nov 2026 | RAW PLANET |  |
-| Fri, 4 Dec 2026 | Matias Richer, Mar Strap |  |
-| Sat, 5 Dec 2026 | Yosu, Nestor |  |
+| Fri, 4 Dec 2026 | Marc Strap, IKO |  |
+| Sat, 5 Dec 2026 | Matias Richer, Nestor |  |
 | Fri, 11 Dec 2026 | Koseki — All Night Long |  |
 | Sat, 12 Dec 2026 | AAA+, Gorka |  |
 | Fri, 18 Dec 2026 | Pau Perez, IKAKO |  |
-| Thu, 24 Dec 2026 | Aaron Gehrig, N&O |  |
+| Sat, 19 Dec 2026 | Pizzicatto, Berni |  |
 
 ## Address
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

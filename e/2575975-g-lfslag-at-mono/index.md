@@ -1,6 +1,6 @@
 # G*LFSLAG at Mono
 
-G*LFSLAG at Mono on Sat 21 Nov, Rotterdam. 2 artists: Skeptic and Snooz. Garage and Electronica. See the line-up on soundcheck.
+G*LFSLAG at Mono on Sat 21 Nov, Rotterdam. 3 artists: DOA, Skeptic and Snooz. Garage and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ G*LFSLAG at Mono on Sat 21 Nov, Rotterdam. 2 artists: Skeptic and Snooz. Garage 
 
 ## Line-up
 
+- DOA (2)
 - Skeptic
 - Snooz
 

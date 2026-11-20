@@ -1,6 +1,6 @@
 # Emmy Shigeta
 
-Emmy Shigeta is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Fidelity Studio, Dublin on Sun, 22 Nov 2026.
+Emmy Shigeta is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Fidelity Studio, Dublin on Sun, 22 Nov 2026.
 
 Emmy Shigeta is a house and minimal artist based in Japan, with 6 gigs on soundcheck across Dublin. Often billed alongside Alexia Glensy, Cap and CarlosAnguLo. Next up: Fidelity Studio, Dublin on Sun 22 Nov.
 
@@ -22,4 +22,4 @@ Emmy Shigeta is a house and minimal artist based in Japan, with 6 gigs on soundc
 
 Alexia Glensy, Cap, CarlosAnguLo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyshigeta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyshigeta/)*

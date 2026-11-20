@@ -1,8 +1,8 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fuse, Brussels on Fri, 20 Nov 2026.
+LB aka LABAT is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fuse, Brussels on Fri, 20 Nov 2026.
 
-LB aka LABAT is a techno and house artist based in France, with 229 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 68 more. Often billed alongside DJ Gigola, Partiboi69 and Juicy Romance. Next up: Fuse, Brussels on Fri 20 Nov.
+LB aka LABAT is a techno and house artist based in France, with 232 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 70 more. Often billed alongside DJ Gigola, Partiboi69 and Juicy Romance. Next up: Fuse, Brussels on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,9 @@ LB aka LABAT is a techno and house artist based in France, with 229 gigs on soun
 | Sat, 21 Nov 2026 | FVTVR | Paris |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Sat, 23 Jan 2027 | Preston Warehouse | Melbourne |
+| Sat, 20 Feb 2027 | Le Bikini | South-west |
+| Sat, 20 Feb 2027 | Graanfabriek | Netherlands |
+| Sat, 10 Apr 2027 | OST | Berlin |
 | Sat, 15 May 2027 | Plage De Torcy | Paris |
 
 ## Recently played
@@ -30,4 +33,4 @@ LB aka LABAT is a techno and house artist based in France, with 229 gigs on soun
 
 DJ Gigola, Partiboi69, Juicy Romance
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

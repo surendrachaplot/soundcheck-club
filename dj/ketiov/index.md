@@ -1,8 +1,8 @@
 # Ketiov
 
-Ketiov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Ketiov is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
-Ketiov is a house and techno artist based in Spain, with 32 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Lisbon and 3 more. Often billed alongside Fernanda Arrau, Marcos in Dub and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
+Ketiov is a house and techno artist based in Spain, with 33 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Lisbon and 3 more. Often billed alongside Marcos in Dub, Fernanda Arrau and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ketiov is a house and techno artist based in Spain, with 32 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 6 Dec 2026 | LAB theCLUB | Madrid |
+| Sat, 2 Jan 2027 | Sala ART | Madrid |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Ketiov is a house and techno artist based in Spain, with 32 gigs on soundcheck a
 
 ## Shares bills with
 
-Fernanda Arrau, Marcos in Dub, Cormac
+Marcos in Dub, Fernanda Arrau, Cormac
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketiov/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketiov/)*

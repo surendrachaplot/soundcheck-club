@@ -1,6 +1,6 @@
 # Yarni
 
-Yarni is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Grub Stretford, Manchester on Fri, 27 Nov 2026.
+Yarni is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Grub Stretford, Manchester on Fri, 27 Nov 2026.
 
 Yarni is a jazz and house artist based in United Kingdom, with 9 gigs on soundcheck across Manchester and Sheffield. Often billed alongside La Rumba, Sirrey and Just Benedict. Next up: Grub Stretford, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Yarni is a jazz and house artist based in United Kingdom, with 9 gigs on soundch
 
 La Rumba, Sirrey, Just Benedict
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yarni-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yarni-uk/)*

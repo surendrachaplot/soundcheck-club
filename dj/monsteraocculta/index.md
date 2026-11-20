@@ -1,14 +1,15 @@
 # Monstera Occulta
 
-Monstera Occulta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Paramour, Brussels on Fri, 4 Dec 2026.
+Monstera Occulta is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Paramour, Brussels on Fri, 4 Dec 2026.
 
-Monstera Occulta is a techno and house artist based in Belgium, with 25 gigs on soundcheck across Brussels and Paris. Often billed alongside Ottoman Grüw, DJ ATHOME and Dana Kuehr. Next up: Paramour, Brussels on Fri 4 Dec.
+Monstera Occulta is a techno and ebm artist based in Belgium, with 26 gigs on soundcheck across Brussels and Paris. Often billed alongside Ottoman Grüw, DJ ATHOME and Dana Kuehr. Next up: Paramour, Brussels on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Paramour | Brussels |
+| Thu, 10 Dec 2026 | Paramour | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Monstera Occulta is a techno and house artist based in Belgium, with 25 gigs on 
 
 Ottoman Grüw, DJ ATHOME, Dana Kuehr
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monsteraocculta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monsteraocculta/)*

@@ -1,6 +1,6 @@
 # SUPERPAMANOKE at elipamanoke
 
-SUPERPAMANOKE at elipamanoke on Sat 5 Dec, Leipzig. 6 artists: DJ Cringey, DZBL, ILOVDADDYZ and Lars Goldammer and 2 more. See the line-up on soundcheck.
+SUPERPAMANOKE at elipamanoke on Sat 5 Dec, Leipzig. 6 artists: DJ Cringey, DZBL, ILOVDADDYZ and Lars Goldammer and 2 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

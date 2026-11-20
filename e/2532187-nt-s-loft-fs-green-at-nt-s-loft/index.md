@@ -1,6 +1,6 @@
 # NT's Loft: FS Green at NT's Loft
 
-NT's Loft: FS Green on Fri 27 Nov, London. 1 artist: FS Green. See the line-up on soundcheck.
+NT's Loft: FS Green on Fri 27 Nov, London. 2 artists: FS Green and K2RAH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ NT's Loft: FS Green on Fri 27 Nov, London. 1 artist: FS Green. See the line-up o
 ## Line-up
 
 - FS Green
+- K2RAH
 
 *Source: [soundcheck](https://soundcheck.club/e/2532187-nt-s-loft-fs-green-at-nt-s-loft/)*

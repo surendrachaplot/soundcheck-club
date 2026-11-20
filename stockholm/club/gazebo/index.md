@@ -1,6 +1,6 @@
 # Gazebo
 
-Gazebo is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "NYE - NO QUIET ENDINGS" on Thu, 31 Dec 2026.
+Gazebo is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "NYE - NO QUIET ENDINGS" on Thu, 31 Dec 2026.
 
 Gazebo is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Ahiram, Antonsson, Ed Noodle and Hraach and 2 more. See dates, start times and who's playing. Upplagsvägen 22, 142 91 Skogås.
 
@@ -14,4 +14,4 @@ Gazebo is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with 
 
 Upplagsvägen 22, 142 91 Skogås, Stockholm
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*

@@ -1,13 +1,14 @@
 # MAIA
 
-MAIA is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+MAIA is a Minimal Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
-MAIA is a minimal techno and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Barcelona, London, Los Angeles and Sao Paulo and 1 more. Often billed alongside Andrea Giudice, Reeno and Pas2problemes. Next up: Brixton Radio, London on Sat 21 Nov.
+MAIA is a minimal techno and tech house artist based in United Kingdom, with 36 gigs on soundcheck across Barcelona, London, Los Angeles and Sao Paulo and 1 more. Often billed alongside Andrea Giudice, Reeno and Pas2problemes. Next up: Brixton Radio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Brixton Radio | London |
 | Sat, 21 Nov 2026 | Brixton Radio | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ MAIA is a minimal techno and tech house artist based in United Kingdom, with 35 
 
 Andrea Giudice, Reeno, Pas2problemes
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maia/)*

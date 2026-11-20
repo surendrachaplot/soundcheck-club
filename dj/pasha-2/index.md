@@ -1,6 +1,6 @@
 # Pasha (2)
 
-Pasha (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sabagiro, Tbilisi on Sat, 21 Nov 2026.
+Pasha (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sabagiro, Tbilisi on Sat, 21 Nov 2026.
 
 Pasha is a house and techno artist based in Georgia, with 18 gigs on soundcheck across Tbilisi and Toronto. Often billed alongside Parna, Giorgi Devadze and Ash Scholem. Next up: Sabagiro, Tbilisi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Pasha is a house and techno artist based in Georgia, with 18 gigs on soundcheck 
 
 Parna, Giorgi Devadze, Ash Scholem
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha-2/)*

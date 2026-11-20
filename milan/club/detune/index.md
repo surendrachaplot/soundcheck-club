@@ -1,6 +1,6 @@
 # Detune
 
-Detune is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Serendeepity x Detune" on Fri, 20 Nov 2026.
+Detune is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Serendeepity x Detune" on Fri, 20 Nov 2026.
 
 Detune is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Lele Sacchi, Marais and Marcello. See dates, start times and who's playing. Via Felice Casati 24, 20124 Milano.
 
@@ -17,4 +17,4 @@ Detune is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with lin
 
 Via Felice Casati 24, 20124 Milano, Milan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*

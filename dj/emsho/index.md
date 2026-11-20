@@ -1,14 +1,14 @@
 # Emsho
 
-Emsho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
+Emsho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 314 Scholes, New York City on Fri, 20 Nov 2026.
 
-Emsho is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and CAMILLA. Next up: TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri 13 Nov.
+Emsho is a house and techno artist based in United States of America, with 79 gigs on soundcheck across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and CAMILLA. Next up: 314 Scholes, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Playground 1114 Bedford Avenue Brooklyn | New York City |
+| Fri, 20 Nov 2026 | 314 Scholes | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Emsho is a house and techno artist based in United States of America, with 78 gi
 
 Bella Mutino, Armii1n, CAMILLA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emsho/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emsho/)*

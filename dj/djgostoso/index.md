@@ -1,6 +1,6 @@
 # DJ Gostoso
 
-DJ Gostoso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 20 Nov 2026.
+DJ Gostoso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 20 Nov 2026.
 
 DJ Gostoso is a house and techno artist based in Spain, with 23 gigs on soundcheck across Lisbon and Madrid. Often billed alongside Gostoso, DJ Feet and OG Juan. Next up: Say No More Madrid, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Gostoso is a house and techno artist based in Spain, with 23 gigs on soundche
 
 Gostoso, DJ Feet, OG Juan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgostoso/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgostoso/)*

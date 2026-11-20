@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "VINTENOVE BAILES invites State OFFF + Tekhole •.¸" on Sat, 21 Nov 2026.
+Panke is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "VINTENOVE BAILES invites State OFFF + Tekhole •.¸" on Sat, 21 Nov 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alias Shay, Amuleto Manuela, AXT and Bacon Chang and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -21,4 +21,4 @@ Panke is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with lin
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

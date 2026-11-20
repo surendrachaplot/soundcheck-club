@@ -1,6 +1,6 @@
 # Smudge Proof
 
-Smudge Proof is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
+Smudge Proof is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
 
 Smudge Proof is an acid and house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Highlander, J Bentley and KPAX. Next up: Hoxton Cabin, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Smudge Proof is an acid and house artist based in United Kingdom, with 13 gigs o
 
 Highlander, J Bentley, KPAX
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smudgeproof/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smudgeproof/)*

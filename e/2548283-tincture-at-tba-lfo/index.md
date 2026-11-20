@@ -1,6 +1,6 @@
 # Tincture at TBA - LFO
 
-Tincture at TBA - LFO on Sat 5 Dec, Madrid. 7 artists: azul, beltranz, Blue Terrain and Claws and 3 more. Dub and Electronica. See the line-up on soundcheck.
+Tincture at TBA - LFO on Sat 5 Dec, Madrid. 6 artists: beltranz, Blue Terrain, Claws and colell and 2 more. Dub and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Tincture at TBA - LFO on Sat 5 Dec, Madrid. 7 artists: azul, beltranz, Blue Terr
 
 ## Line-up
 
-- azul
 - beltranz
 - Blue Terrain
 - Claws

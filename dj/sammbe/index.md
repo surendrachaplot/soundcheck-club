@@ -1,14 +1,15 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 26 Dec 2026.
+Samm (BE) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 26 Dec 2026.
 
-Samm (BE) is a house and afro house artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: Waagnatie Expo & Events, Antwerp on Sat 26 Dec.
+Samm (BE) is a house and afro house artist based in Belgium, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: Waagnatie Expo & Events, Antwerp on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Dec 2026 | Waagnatie Expo & Events | Antwerp |
+| Sun, 24 Jan 2027 | Savaya Bali | Bali |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Samm (BE) is a house and afro house artist based in Belgium, with 63 gigs on sou
 
 AJNA, ARODES, Alex Wann
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

@@ -1,6 +1,6 @@
 # Mercorn
 
-Mercorn is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Daylight, Dublin on Fri, 11 Dec 2026.
+Mercorn is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Daylight, Dublin on Fri, 11 Dec 2026.
 
 Mercorn is a house and trance artist based in Ireland, with 43 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Bull Horris, Cáit and Gary. Next up: TBA - Daylight, Dublin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Mercorn is a house and trance artist based in Ireland, with 43 gigs on soundchec
 
 Bull Horris, Cáit, Gary (3)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mercorn/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mercorn/)*

@@ -1,13 +1,14 @@
 # Vox supreme
 
-Vox supreme is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Time is the new space, Rotterdam on Fri, 20 Nov 2026.
+Vox supreme is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Laak, The Hague on Fri, 20 Nov 2026.
 
-Vox supreme is a techno and bass artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Bali, Berlin and Brussels and 6 more. Often billed alongside dirtydms, Cosmox and CyberFairy777. Next up: Time is the new space, Rotterdam on Fri 20 Nov.
+Vox supreme is a techno and bass artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Bali, Berlin and Brussels and 6 more. Often billed alongside dirtydms, Cosmox and CyberFairy777. Next up: Laak, The Hague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Laak | The Hague |
 | Fri, 20 Nov 2026 | Time is the new space | Rotterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vox supreme is a techno and bass artist based in Netherlands, with 31 gigs on so
 
 dirtydms, Cosmox, CyberFairy777
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voxsupreme/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voxsupreme/)*

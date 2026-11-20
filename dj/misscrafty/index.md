@@ -1,6 +1,6 @@
 # Miss Crafty
 
-Miss Crafty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Sat, 21 Nov 2026.
+Miss Crafty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Miss Crafty is a techno and house artist based in United States of America, with 52 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside SNAQ, JustJovani and Romii. Next up: TBA - San Francisco, San Francisco/Oakland on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Miss Crafty is a techno and house artist based in United States of America, with
 
 SNAQ, JustJovani, Romii
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*

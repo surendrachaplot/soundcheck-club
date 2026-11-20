@@ -1,14 +1,14 @@
 # JAKKÖ
 
-JAKKÖ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Se enviará la ubicación por correo el día antes del evento, Barcelona on Sat, 21 Nov 2026.
+JAKKÖ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - SECRET LOCATION (El dia antes del evento se enviará x correo:), Barcelona on Sat, 21 Nov 2026.
 
-JAKKÖ is a techno and industrial artist based in Spain, with 30 gigs on soundcheck across Barcelona, Berlin, Madrid and Mallorca and 1 more. Often billed alongside Cobb Douglas, Ozzwald and NHYMPH. Next up: TBA - Se enviará la ubicación por correo el día antes del evento, Barcelona on Sat 21 Nov.
+JAKKÖ is a techno and industrial artist based in Spain, with 30 gigs on soundcheck across Barcelona, Berlin, Madrid and Mallorca and 1 more. Often billed alongside Cobb Douglas, Ozzwald and NHYMPH. Next up: TBA - SECRET LOCATION (El dia antes del evento se enviará x correo:), Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Se enviará la ubicación por correo el día antes del evento | Barcelona |
+| Sat, 21 Nov 2026 | TBA - SECRET LOCATION (El dia antes del evento se enviará x correo:) | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ JAKKÖ is a techno and industrial artist based in Spain, with 30 gigs on soundch
 
 Cobb Douglas, Ozzwald, NHYMPH
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakko/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakko/)*

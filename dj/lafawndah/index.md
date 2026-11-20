@@ -1,14 +1,14 @@
 # KUKII
 
-KUKII is a Electro and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+KUKII is a Electro and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 21 Nov 2026.
 
-KUKII is an electro and r&b artist, with 15 gigs on soundcheck across Berlin, London, Los Angeles and Lyon and 7 more. Often billed alongside Adrian Sherwood, Dj Babatr and Kabeaushé. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
+KUKII is an electro and r&b artist, with 15 gigs on soundcheck across Berlin, London, Los Angeles and Lyon and 7 more. Often billed alongside Adrian Sherwood, Dj Babatr and Kabeaushé. Next up: La Station - Gare des Mines, Paris on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | La Station - Gare des Mines | Paris |
+| Sat, 21 Nov 2026 | La Station - Gare des Mines | Paris |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ KUKII is an electro and r&b artist, with 15 gigs on soundcheck across Berlin, Lo
 
 Adrian Sherwood, Dj Babatr, Kabeaushé
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafawndah/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafawndah/)*

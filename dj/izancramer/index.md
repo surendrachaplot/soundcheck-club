@@ -1,6 +1,6 @@
 # IZAN CRAMER
 
-IZAN CRAMER is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Barcelona on Sat, 5 Dec 2026.
+IZAN CRAMER is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Barcelona on Sat, 5 Dec 2026.
 
 IZAN CRAMER is a techno and dub techno artist based in Spain, with 32 gigs on soundcheck across Amsterdam, Barcelona and Valencia. Often billed alongside Albert Veryn, Freeka and Ana Alves. Next up: TBA, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ IZAN CRAMER is a techno and dub techno artist based in Spain, with 32 gigs on so
 
 Albert Veryn, Freeka, Ana Alves
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izancramer/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izancramer/)*

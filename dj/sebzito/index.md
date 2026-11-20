@@ -1,8 +1,8 @@
 # Seb Zito
 
-Seb Zito is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Seb Zito is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
-Seb Zito is a house and tech house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 30 more. Often billed alongside Rossko, ACA (YU) and East End Dubs. Next up: fabric, London on Fri 27 Nov.
+Seb Zito is a house and tech house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 30 more. Often billed alongside Rossko, ACA (YU) and East End Dubs. Next up: fabric, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Seb Zito is a house and tech house artist based in United Kingdom, with 130 gigs
 | Fri, 27 Nov 2026 | fabric | London |
 | Sat, 28 Nov 2026 | World Headquarters | Newcastle |
 | Sat, 5 Dec 2026 | Sankeys | Manchester |
+| Thu, 31 Dec 2026 | La Brisa | Bali |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Seb Zito is a house and tech house artist based in United Kingdom, with 130 gigs
 
 Rossko, ACA (YU), East End Dubs
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*

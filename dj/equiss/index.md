@@ -1,6 +1,6 @@
 # EQUISS
 
-EQUISS is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Green Room NYC, New York City on Sat, 5 Dec 2026.
+EQUISS is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New York City on Sat, 5 Dec 2026.
 
 EQUISS is a club and techno artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 20 more. Often billed alongside OSSX, ELISE (US) and Bok Bok. Next up: Green Room NYC, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ EQUISS is a club and techno artist based in United States of America, with 86 gi
 
 OSSX, ELISE (US), Bok Bok
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*

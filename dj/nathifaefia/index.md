@@ -1,6 +1,6 @@
 # NATHIFA EFIA
 
-NATHIFA EFIA is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at murmur, Amsterdam on Sun, 6 Dec 2026.
+NATHIFA EFIA is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at murmur, Amsterdam on Sun, 6 Dec 2026.
 
 NATHIFA EFIA is a house and amapiano artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, London and Paris. Often billed alongside AAA, Zoë Janice and Drea. Next up: murmur, Amsterdam on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ NATHIFA EFIA is a house and amapiano artist based in Netherlands, with 15 gigs o
 
 AAA, Zoë Janice, Drea
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathifaefia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathifaefia/)*

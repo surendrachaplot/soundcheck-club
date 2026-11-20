@@ -1,6 +1,6 @@
 # ZSG Werfthalle
 
-ZSG Werfthalle is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Slash Your Utility Bills: How to Lower Electricity & Internet Costs Today" on Sat, 21 Nov 2026.
+ZSG Werfthalle is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Slash Your Utility Bills: How to Lower Electricity & Internet Costs Today" on Sat, 21 Nov 2026.
 
 ZSG Werfthalle is a music venue in Zurich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ ZSG Werfthalle is a music venue in Zurich listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Slash Your Utility Bills: How to Lower Electricity & Internet Costs Today |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zsg-werfthalle/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zsg-werfthalle/)*

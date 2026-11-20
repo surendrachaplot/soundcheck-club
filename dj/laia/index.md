@@ -1,8 +1,8 @@
 # Laia
 
-Laia is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at public records, New York City on Fri, 20 Nov 2026.
+Laia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at public records, New York City on Fri, 20 Nov 2026.
 
-Laia is a techno and house artist based in Spain, with 135 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and The Lady Machine. Next up: public records, New York City on Fri 20 Nov.
+Laia is a techno and house artist based in Spain, with 137 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 18 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Héctor Oaks. Next up: public records, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -14,8 +14,10 @@ Laia is a techno and house artist based in Spain, with 135 gigs on soundcheck ac
 | Sun, 6 Dec 2026 | The Bassement | Madrid |
 | Thu, 10 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
+| Fri, 18 Dec 2026 | Bassiani | Tbilisi |
 | Sat, 19 Dec 2026 | FOLD | London |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
+| Fri, 19 Feb 2027 | Sala de Armas | North |
 
 ## Recently played
 
@@ -30,6 +32,6 @@ Laia is a techno and house artist based in Spain, with 135 gigs on soundcheck ac
 
 ## Shares bills with
 
-Roll Dann, Shadow Hrym (ES), The Lady Machine
+Roll Dann, Shadow Hrym (ES), Héctor Oaks
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*

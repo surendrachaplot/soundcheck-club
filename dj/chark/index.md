@@ -1,6 +1,6 @@
 # Char(k)
 
-Char(k) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Solace, Melbourne on Fri, 4 Dec 2026.
+Char(k) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Solace, Melbourne on Fri, 4 Dec 2026.
 
 Char(k) is a tech house and house artist based in Australia, with 22 gigs on soundcheck across London and Melbourne. Often billed alongside Séarlait, Silki and Hannah D. Next up: Solace, Melbourne on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Char(k) is a tech house and house artist based in Australia, with 22 gigs on sou
 
 Séarlait, Silki, Hannah D
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chark/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chark/)*

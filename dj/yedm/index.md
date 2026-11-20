@@ -1,8 +1,8 @@
 # YËDM
 
-YËDM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
+YËDM is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
 
-YËDM is a techno and trance artist based in Germany, with 71 gigs on soundcheck across Barcelona, Berlin, Cologne and Hannover and 5 more. Often billed alongside Amøn, Cobb Douglas and Shemm. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
+YËDM is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Barcelona, Berlin, Cologne and Hannover and 5 more. Often billed alongside Amøn, Cobb Douglas and Shemm. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ YËDM is a techno and trance artist based in Germany, with 71 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 12 Dec 2026 | Indiego Glocksee | Hannover |
+| Sat, 23 Jan 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ YËDM is a techno and trance artist based in Germany, with 71 gigs on soundcheck
 
 Amøn, Cobb Douglas, Shemm
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yedm/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yedm/)*

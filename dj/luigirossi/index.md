@@ -1,8 +1,8 @@
 # Luigi Rossi
 
-Luigi Rossi is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sigma, Ibiza on Thu, 26 Nov 2026.
+Luigi Rossi is a Minimal and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sigma, Ibiza on Thu, 26 Nov 2026.
 
-Luigi Rossi is a minimal and minimal techno artist based in Italy, with 60 gigs on soundcheck across Berlin, Frankfurt, Ibiza and Prague and 1 more. Often billed alongside Eclud, The Liquid Dude and Cesar Vinzent. Next up: Sigma, Ibiza on Thu 26 Nov.
+Luigi Rossi is a minimal and minimal techno artist based in Italy, with 61 gigs on soundcheck across Berlin, Frankfurt, Ibiza and Prague and 1 more. Often billed alongside Eclud, The Liquid Dude and Cesar Vinzent. Next up: Sigma, Ibiza on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luigi Rossi is a minimal and minimal techno artist based in Italy, with 60 gigs 
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Sigma | Ibiza |
 | Thu, 10 Dec 2026 | Sigma | Ibiza |
+| Thu, 17 Dec 2026 | Sigma | Ibiza |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Luigi Rossi is a minimal and minimal techno artist based in Italy, with 60 gigs 
 
 Eclud, The Liquid Dude, Cesar Vinzent
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigirossi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigirossi/)*

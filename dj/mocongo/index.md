@@ -1,6 +1,6 @@
 # Mocongo
 
-Mocongo is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 21 Nov 2026.
+Mocongo is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 21 Nov 2026.
 
 Mocongo is a house and trance artist based in Georgia, with 49 gigs on soundcheck across Dallas/Fort Worth and Tbilisi. Often billed alongside Hatsvali, Monk and Giorgi Devadze. Next up: Mtkvarze, Tbilisi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mocongo is a house and trance artist based in Georgia, with 49 gigs on soundchec
 
 Hatsvali, Monk (2), Giorgi Devadze
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocongo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocongo/)*

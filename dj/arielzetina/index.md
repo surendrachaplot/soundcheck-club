@@ -1,8 +1,8 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Dolphin, Philadelphia on Sat, 21 Nov 2026.
+Ariel Zetina is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Dolphin, Philadelphia on Sat, 21 Nov 2026.
 
-Ariel Zetina is a techno and house artist based in United States of America, with 205 gigs on soundcheck across Amsterdam, Athens, Atlanta and Berlin and 27 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: The Dolphin, Philadelphia on Sat 21 Nov.
+Ariel Zetina is a techno and house artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Athens, Atlanta and Berlin and 27 more. Often billed alongside Miss Twink USA, Carly Zeng and Glamour Cadaver. Next up: The Dolphin, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ariel Zetina is a techno and house artist based in United States of America, wit
 | Sat, 21 Nov 2026 | The Dolphin | Philadelphia |
 | Sat, 5 Dec 2026 | Paragon | New York City |
 | Sat, 12 Dec 2026 | smartbar | Chicago |
+| Thu, 17 Dec 2026 | smartbar | Chicago |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Ariel Zetina is a techno and house artist based in United States of America, wit
 
 ## Shares bills with
 
-Miss Twink USA, Carly Zeng, Madeline (Chi)
+Miss Twink USA, Carly Zeng, Glamour Cadaver
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

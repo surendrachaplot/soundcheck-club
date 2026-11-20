@@ -1,6 +1,6 @@
 # Alan Fitzpatrick at Ritter Butzke
 
-Alan Fitzpatrick at Ritter Butzke on Sat 21 Nov, Berlin. 3 artists: Alan Fitzpatrick, NÚRIA (DE) and Techmo. Techno. See the line-up on soundcheck.
+Alan Fitzpatrick at Ritter Butzke on Sat 21 Nov, Berlin. 7 artists: Alan Fitzpatrick, Bernd Bugatti, Liebe Nachbarn and NÚRIA (DE) and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,11 @@ Alan Fitzpatrick at Ritter Butzke on Sat 21 Nov, Berlin. 3 artists: Alan Fitzpat
 ## Line-up
 
 - Alan Fitzpatrick
+- Bernd Bugatti
+- Liebe Nachbarn
 - NÚRIA (DE)
+- Prismode
+- Solvane
 - Techmo
 
 *Source: [soundcheck](https://soundcheck.club/e/2495614-alan-fitzpatrick-at-ritter-butzke/)*

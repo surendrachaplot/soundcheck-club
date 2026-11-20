@@ -1,17 +1,18 @@
 # Lotty
 
-Lotty is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at VEF Vasarnīca, Riga on Fri, 13 Nov 2026.
+Lotty is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Korpuss, Riga on Fri, 4 Dec 2026.
 
-Lotty is a techno and tech house artist based in Latvia, with 8 gigs on soundcheck across Basel, Riga and Zurich. Often billed alongside HP-82, Ikss and Sundown. Next up: VEF Vasarnīca, Riga on Fri 13 Nov.
+Lotty is a techno and tech house artist based in Latvia, with 9 gigs on soundcheck across Basel, Riga and Zurich. Often billed alongside HP-82, Ikss and Sundown. Next up: Korpuss, Riga on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | VEF Vasarnīca | Riga |
+| Fri, 4 Dec 2026 | Korpuss | Riga |
 
 ## Recently played
 
+- VEF Vasarnīca, Riga · Fri, 13 Nov 2026
 - Korpuss, Riga · Fri, 30 Oct 2026
 - Hartmanis Manor, Riga · Fri, 21 Aug 2026
 - Teritorija, Riga · Fri, 6 Mar 2026
@@ -24,4 +25,4 @@ Lotty is a techno and tech house artist based in Latvia, with 8 gigs on soundche
 
 HP-82, Ikss, Sundown
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotty/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotty/)*

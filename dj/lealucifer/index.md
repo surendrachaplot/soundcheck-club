@@ -1,13 +1,14 @@
 # lealucifer
 
-lealucifer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 29 Nov 2026.
+lealucifer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Rollberg26, Berlin on Fri, 27 Nov 2026.
 
-lealucifer is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside CUNT REMEMBER, Dirty Daddy Don and Dmitra. Next up: TBA - Secret Location, Berlin on Sun 29 Nov.
+lealucifer is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside CUNT REMEMBER, Dirty Daddy Don and Dmitra. Next up: Rollberg26, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Rollberg26 | Berlin |
 | Sun, 29 Nov 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ lealucifer is a techno and house artist based in Germany, with 23 gigs on soundc
 
 CUNT REMEMBER, Dirty Daddy Don, Dmitra
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lealucifer/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lealucifer/)*

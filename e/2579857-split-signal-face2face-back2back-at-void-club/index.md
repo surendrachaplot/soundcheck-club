@@ -1,6 +1,6 @@
-# Split Signal - Face2face & Back2back at Void Club
+# Split Signal - Face2face  Back2back at Void Club
 
-Split Signal - Face2face & Back2back at Void Club on Sat 19 Dec, Berlin. 9 artists: Dirty Plates, IZA, K.EULE and kutscher and 5 more. Drum & Bass and Techno. See the line-up on soundcheck.
+Split Signal - Face2face  Back2back at Void Club on Sat 19 Dec, Berlin. 10 artists: CosmiKat, Dirty Plates, IZA and K.EULE and 6 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Split Signal - Face2face & Back2back at Void Club on Sat 19 Dec, Berlin. 9 artis
 
 ## Line-up
 
+- CosmiKat
 - Dirty Plates (2)
 - IZA (6)
 - K.EULE

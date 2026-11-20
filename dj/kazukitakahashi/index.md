@@ -1,8 +1,8 @@
 # Kazuki Takahashi
 
-Kazuki Takahashi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Door Club, Berlin on Fri, 20 Nov 2026.
+Kazuki Takahashi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Door Club, Berlin on Fri, 20 Nov 2026.
 
-Kazuki Takahashi is a house and techno artist based in Japan, with 25 gigs on soundcheck across Berlin and London. Often billed alongside Emilion Dollar Baby, Yukari and Tina Technotic. Next up: The Door Club, Berlin on Fri 20 Nov.
+Kazuki Takahashi is a house and techno artist based in Japan, with 26 gigs on soundcheck across Berlin and London. Often billed alongside Emilion Dollar Baby, Yukari and Tina Technotic. Next up: The Door Club, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kazuki Takahashi is a house and techno artist based in Japan, with 25 gigs on so
 | Sun, 22 Nov 2026 | Union Club, Vauxhall | London |
 | Sat, 28 Nov 2026 | 45 London | London |
 | Sun, 29 Nov 2026 | Prisma | Berlin |
+| Sun, 14 Mar 2027 | Not For Sale Gallery | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Kazuki Takahashi is a house and techno artist based in Japan, with 25 gigs on so
 
 Emilion Dollar Baby, Yukari, Tina Technotic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*

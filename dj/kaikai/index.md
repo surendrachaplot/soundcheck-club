@@ -1,20 +1,20 @@
 # KAIKAI
 
-KAIKAI is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Azumaya, Tokyo on Wed, 18 Nov 2026.
+KAIKAI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 28 Nov 2026.
 
-KAIKAI is a house and techno artist based in Japan, with 43 gigs on soundcheck across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), Krankent and MOTOKA. Next up: Azumaya, Tokyo on Wed 18 Nov.
+KAIKAI is a house and techno artist based in Japan, with 43 gigs on soundcheck across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), Krankent and MOTOKA. Next up: Enter Shibuya, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Azumaya | Tokyo |
 | Sat, 28 Nov 2026 | Enter Shibuya | Tokyo |
 | Sun, 6 Dec 2026 | Aoyama Hachi | Tokyo |
 | Wed, 9 Dec 2026 | Azumaya | Tokyo |
 
 ## Recently played
 
+- Azumaya, Tokyo · Wed, 18 Nov 2026
 - Aoyama Hachi, Tokyo · Sun, 1 Nov 2026
 - Dogenzaka Church, Tokyo · Thu, 29 Oct 2026
 - UTOPIA / DYSTOPIA, Tokyo · Sat, 24 Oct 2026
@@ -22,10 +22,9 @@ KAIKAI is a house and techno artist based in Japan, with 43 gigs on soundcheck a
 - Débris, Tokyo · Sat, 17 Oct 2026
 - Aoyama Hachi, Tokyo · Sun, 11 Oct 2026
 - Shibuya OTO, Tokyo · Sun, 11 Oct 2026
-- Royal Lounge, Tokyo · Mon, 5 Oct 2026
 
 ## Shares bills with
 
 SIGNAL (JP), Krankent, MOTOKA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*

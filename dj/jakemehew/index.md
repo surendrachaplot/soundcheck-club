@@ -1,6 +1,6 @@
 # Jake Mehew
 
-Jake Mehew is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Vinyl Whistle, Leeds on Tue, 24 Nov 2026.
+Jake Mehew is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Vinyl Whistle, Leeds on Tue, 24 Nov 2026.
 
 Jake Mehew is a techno and experimental artist based in United Kingdom, with 17 gigs on soundcheck across Glasgow, Leeds and London. Often billed alongside nilehn, NikNak and TRSSX. Next up: The Vinyl Whistle, Leeds on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Jake Mehew is a techno and experimental artist based in United Kingdom, with 17 
 
 nilehn, NikNak, TRSSX
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemehew/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemehew/)*

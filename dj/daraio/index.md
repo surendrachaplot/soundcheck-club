@@ -1,6 +1,6 @@
 # Daraio
 
-Daraio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Urban Spree, Berlin on Sat, 21 Nov 2026.
+Daraio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Urban Spree, Berlin on Sat, 21 Nov 2026.
 
 Daraio is a techno and house artist based in Italy, with 22 gigs on soundcheck across Berlin, Malaga, Milan and Paris. Often billed alongside Andrea Fiorito, Carmela Ciocia and Francesco Passantino. Next up: Urban Spree, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Daraio is a techno and house artist based in Italy, with 22 gigs on soundcheck a
 
 Andrea Fiorito, Carmela Ciocia, Francesco Passantino
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daraio/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daraio/)*

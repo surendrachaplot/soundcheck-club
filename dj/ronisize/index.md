@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mad Chiller World, Tampa Bay on Sat, 21 Nov 2026.
+Roni Size is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mad Chiller World, Tampa Bay on Sat, 21 Nov 2026.
 
 Roni Size is a drum & bass and jungle artist based in United Kingdom, with 93 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 40 more. Often billed alongside Grooverider, LTJ Bukem and Fabio. Next up: Mad Chiller World, Tampa Bay on Sat 21 Nov.
 
@@ -34,4 +34,4 @@ Roni Size is a drum & bass and jungle artist based in United Kingdom, with 93 gi
 
 Grooverider, LTJ Bukem, Fabio
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

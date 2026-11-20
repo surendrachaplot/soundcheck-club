@@ -1,6 +1,6 @@
 # Liukk
 
-Liukk is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Veracura, Rome on Fri, 20 Nov 2026.
+Liukk is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Veracura, Rome on Fri, 20 Nov 2026.
 
 Liukk is a techno and dub techno artist based in Italy, with 16 gigs on soundcheck across Rome. Often billed alongside GipoLow, Stiky Verde and Bluemarina. Next up: Veracura, Rome on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Liukk is a techno and dub techno artist based in Italy, with 16 gigs on soundche
 
 GipoLow, Stiky Verde, Bluemarina
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liukk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liukk/)*

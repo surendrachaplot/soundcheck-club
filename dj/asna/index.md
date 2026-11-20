@@ -1,6 +1,6 @@
 # asna
 
-asna is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Romandie, Lausanne on Sat, 28 Nov 2026.
+asna is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Le Romandie, Lausanne on Sat, 28 Nov 2026.
 
 asna is a techno and afro tech artist, with 9 gigs on soundcheck across Berlin, Bordeaux, Cologne and Geneva and 3 more. Often billed alongside Aaro, Catu Diosis and Charisse C. Next up: Le Romandie, Lausanne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ asna is a techno and afro tech artist, with 9 gigs on soundcheck across Berlin, 
 
 Aaro (3), Catu Diosis, Charisse C
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asna/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asna/)*

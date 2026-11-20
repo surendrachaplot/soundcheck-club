@@ -1,11 +1,11 @@
-# Platz fur Tanz x Techno: Pfirter (AR), Moteka (FR) at TBA - SECRET LOCATION / 56.966623, 24.152074
+# Platz fur Tanz x Techno: Pfirter (AR), Moteka (FR) at TBA - Secret Location
 
-Platz fur Tanz x Techno: Pfirter (AR), Moteka (FR) at TBA - SECRET LOCATION / 56.966623, 24.152074 on Fri 20 Nov, Riga. 4 artists: Ksenia Kamikaza, Moteka, Pfirter and XSYNC19. Techno and Hardcore. See the line-up on soundcheck.
+Platz fur Tanz x Techno: Pfirter (AR), Moteka (FR) at TBA - Secret Location on Fri 20 Nov, Riga. 4 artists: Ksenia Kamikaza, Moteka, Pfirter and XSYNC19. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 20 Nov 2026 |
-| Venue | TBA - SECRET LOCATION / 56.966623, 24.152074 |
+| Venue | TBA - Secret Location |
 | City | Riga |
 
 ## Line-up

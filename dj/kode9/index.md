@@ -1,6 +1,6 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Kode9 is a Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 53 more. Often billed alongside Tim Reaper, Mala and Skee Mask. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs o
 
 Tim Reaper, Mala, Skee Mask
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

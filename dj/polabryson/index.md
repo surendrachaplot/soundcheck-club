@@ -1,8 +1,8 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Grelle Forelle, Vienna on Sat, 21 Nov 2026.
+Pola & Bryson is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Grelle Forelle, Vienna on Sat, 21 Nov 2026.
 
-Pola & Bryson are a drum & bass and jungle duo based in United Kingdom, with 87 gigs on soundcheck across Auckland, Baltimore, Barcelona and Berlin and 44 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Grelle Forelle, Vienna on Sat 21 Nov.
+Pola & Bryson are a drum & bass and jungle duo based in United Kingdom, with 88 gigs on soundcheck across Auckland, Baltimore, Barcelona and Berlin and 44 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Grelle Forelle, Vienna on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Pola & Bryson are a drum & bass and jungle duo based in United Kingdom, with 87 
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Sun, 6 Dec 2026 | Pandora Sevilla | South |
 | Sun, 27 Dec 2026 | Klokgebouw | Eindhoven |
+| Sat, 30 Jan 2027 | fabric | London |
 | Sat, 4 Dec 2027 | Brno Exhibition Centre | Brno |
 
 ## Recently played
@@ -31,4 +32,4 @@ Pola & Bryson are a drum & bass and jungle duo based in United Kingdom, with 87 
 
 Emily Makis, Camo & Krooked, Hybrid Minds
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

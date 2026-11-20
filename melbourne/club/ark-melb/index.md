@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "ark // Ellia Jaya [UK] - Dark x Guerrilla Afterparty" on Sat, 21 Nov 2026.
+ark (Melb) is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ark // Ellia Jaya [UK] - Dark x Guerrilla Afterparty" on Sat, 21 Nov 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Auramatic, Cybernet, Dan Newman and DJ Optimism and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -9,7 +9,7 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | ark // Ellia Jaya [UK] - Dark x Guerrilla Afterparty | Ellia Jaya, TREY (2) |
-| Sat, 28 Nov 2026 | ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] | Auramatic, Dan Newman, Merel Helderman |
+| Sat, 28 Nov 2026 | ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] - Neo | Auramatic, Dan Newman, Merel Helderman |
 | Sat, 5 Dec 2026 | ark // Smokey Bubblin' B [UK] - Marli - DJ Optimism | DJ Optimism, Marli, Smokey Bubblin' B |
 | Sat, 12 Dec 2026 | ark // RTK Tarantino [UK] - ????? [??] | RTK Tarantino |
 | Sat, 19 Dec 2026 | ark // Cybernet - Ed Kent - Mabel - Nak | Cybernet, Ed Kent, Mabel, Nak (AU) |
@@ -22,4 +22,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, 
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

@@ -1,8 +1,8 @@
 # Palais
 
-Palais is a music venue in London with 21 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "DAYTIMERS: anu, Darama, JD. REID, Noni-Mouse, Rasa, Temujin  " on Fri, 20 Nov 2026.
+Palais is a music venue in London with 26 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "DAYTIMERS: anu, Darama, JD. REID, Noni-Mouse, Rasa, Temujin  " on Fri, 20 Nov 2026.
 
-Palais is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including anu, Bakey, Bindās and Bitter Babe and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including anu, Bakey, Bindās and Bitter Babe and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Palais is a music venue in London listed on soundcheck. 21 upcoming gigs, with l
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | DAYTIMERS: anu, Darama, JD. REID, Noni-Mouse, Rasa, Temujin   | Bindās, Darama, JD. REID, Noni-Mouse, Rasa (IN), Temujin, anu, vish |
 | Sat, 21 Nov 2026 | Palais: Sugar Free (All Night Long) | Kyle Parsley, Luma, Sugar Free |
-| Fri, 27 Nov 2026 | Origins: Main Phase (All Night Long) | Main Phase, Small Crab, Yasmine (UK) |
+| Fri, 27 Nov 2026 | [SOLD OUT] Origins: Main Phase (All Night Long)  | Main Phase, Small Crab, Yasmine (UK) |
 | Sat, 28 Nov 2026 | Origins: Moxie (All Night Long) [SOLD OUT] | Moxie |
 | Fri, 4 Dec 2026 | Palais: Ignez (All Night Long) | Ignez |
 | Sat, 5 Dec 2026 | Palais: Suze Ijó, Giles Smith & Serenda | Giles Smith, Serenda, Suze Ijó |
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 21 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

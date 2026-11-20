@@ -1,6 +1,6 @@
 # Glitterbox Perth 2027 at Port Beach Brewery
 
-Glitterbox Perth 2027 at Port Beach Brewery on Sun 14 Mar, Perth. 4 artists: Aline Rocha, Dr Packer, Horse Meat Disco and The Shapeshifters. See the line-up on soundcheck.
+Glitterbox Perth 2027 at Port Beach Brewery on Sun 14 Mar, Perth. 4 artists: Aline Rocha, Dr Packer, Horse Meat Disco and The Shapeshifters. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

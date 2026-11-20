@@ -1,6 +1,6 @@
 # Foodman
 
-Foodman is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Strange Brew, Bristol on Fri, 4 Dec 2026.
+Foodman is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Strange Brew, Bristol on Fri, 4 Dec 2026.
 
 Foodman is a techno and experimental artist based in Japan, with 71 gigs on soundcheck across Bristol, Chicago, Chubu and Denver and 15 more. Often billed alongside Taigen Kawabe, E.O.U and NTsKi. Next up: Strange Brew, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Foodman is a techno and experimental artist based in Japan, with 71 gigs on soun
 
 Taigen Kawabe, E.O.U, NTsKi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foodman/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foodman/)*

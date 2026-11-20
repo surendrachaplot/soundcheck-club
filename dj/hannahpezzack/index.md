@@ -1,6 +1,6 @@
 # Hannah Pezzack
 
-Hannah Pezzack is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at murmur, Amsterdam on Sat, 21 Nov 2026.
+Hannah Pezzack is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at murmur, Amsterdam on Sat, 21 Nov 2026.
 
 Hannah Pezzack is an experimental and electronica artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Berlin, Cologne and Utrecht. Often billed alongside Elina Tapio, Luke Cohlen and AliA. Next up: murmur, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hannah Pezzack is an experimental and electronica artist based in Netherlands, w
 
 Elina Tapio, Luke Cohlen, AliA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahpezzack/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahpezzack/)*

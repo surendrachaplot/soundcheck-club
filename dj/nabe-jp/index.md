@@ -1,6 +1,6 @@
 # NABE
 
-NABE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stardust Garage, Austin on Fri, 20 Nov 2026.
+NABE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Stardust Garage, Austin on Fri, 20 Nov 2026.
 
 NABE is a techno and house artist, with 92 gigs on soundcheck across Austin, Osaka and Tokyo. Often billed alongside Dr.Tommy, O-MAN and Yos.. Next up: Stardust Garage, Austin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ NABE is a techno and house artist, with 92 gigs on soundcheck across Austin, Osa
 
 Dr.Tommy, O-MAN, Yos.
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nabe-jp/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nabe-jp/)*

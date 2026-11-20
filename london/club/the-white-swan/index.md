@@ -1,17 +1,18 @@
 # The White Swan
 
-The White Swan is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Unofficial Suede & Manic Street Preachers O2 afterparty (London)" on Fri, 6 Nov 2026.
+The White Swan is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "SleazeBox indie disco at White Swan (free entry)" on Sat, 12 Dec 2026.
 
-The White Swan is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
+The White Swan is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Jerome Six, Marly Marl, Shiloh (UK) and Zkeletonz. See dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Unofficial Suede & Manic Street Preachers O2 afterparty (London) |  |
+| Sat, 12 Dec 2026 | SleazeBox indie disco at White Swan (free entry) | Zkeletonz |
+| Sat, 12 Dec 2026 | Krush Christmas Session | Jerome Six, Marly Marl, Shiloh (UK) |
 
 ## Address
 
 556 Commercial Road, Limehouse, E14 7JD, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*

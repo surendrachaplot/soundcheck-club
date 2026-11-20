@@ -1,6 +1,6 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Schall & Schabernack" on Fri, 20 Nov 2026.
+Club Lucia is a music venue in Vienna with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Schall & Schabernack" on Fri, 20 Nov 2026.
 
 Club Lucia is a music venue in Vienna listed on soundcheck. 11 upcoming gigs, with line-ups including A_Phan, AMOVV, Chiara Allnutt and COIDO and 2 more. See dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
@@ -23,4 +23,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 11 upcoming gigs, wi
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

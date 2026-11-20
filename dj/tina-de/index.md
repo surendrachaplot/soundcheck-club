@@ -1,0 +1,28 @@
+# Tina (DE)
+
+Tina (DE) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at OHM, Berlin on Fri, 20 Nov 2026.
+
+Tina (DE) is a house and electronica artist based in Germany, with 22 gigs on soundcheck across Berlin, Buenos Aires, Rome and Tbilisi. Often billed alongside DJ Pete, Key Clef and Nathalie Seres. Next up: OHM, Berlin on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | OHM | Berlin |
+
+## Recently played
+
+- OHM, Berlin · Fri, 25 Sept 2026
+- Renate, Berlin · Thu, 3 Sept 2026
+- Fluxbau, Berlin · Sun, 9 Aug 2026
+- THE MAGICK BAR, Rome · Thu, 11 Jun 2026
+- OHM, Berlin · Sun, 19 Apr 2026
+- OHM, Berlin · Fri, 20 Feb 2026
+- OHM, Berlin · Fri, 2 Jan 2026
+- Solid, Berlin · Sat, 4 Oct 2025
+
+## Shares bills with
+
+DJ Pete, Key Clef, Nathalie Seres
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tina-de/)*

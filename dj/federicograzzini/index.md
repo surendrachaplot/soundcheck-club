@@ -1,6 +1,6 @@
 # Federico Grazzini
 
-Federico Grazzini is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sonar, Central on Fri, 20 Nov 2026.
+Federico Grazzini is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sonar, Central on Fri, 20 Nov 2026.
 
 Federico Grazzini is a tech house and house artist based in Italy, with 17 gigs on soundcheck across Barcelona, Central, Ibiza and Lisbon and 4 more. Often billed alongside Defex, Davina Moss and Milou. Next up: Sonar, Central on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Federico Grazzini is a tech house and house artist based in Italy, with 17 gigs 
 
 Defex, Davina Moss, Milou
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicograzzini/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicograzzini/)*

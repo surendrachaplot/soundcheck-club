@@ -1,6 +1,6 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
+Coffintexts is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
 
 Coffintexts is a techno and house artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 39 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: MAD Club Live, Miami on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Coffintexts is a techno and house artist based in United States of America, with
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

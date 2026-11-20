@@ -1,6 +1,6 @@
 # Dicky Trisco
 
-Dicky Trisco is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at CANVAS, Dundee on Sat, 12 Dec 2026.
+Dicky Trisco is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at CANVAS, Dundee on Sat, 12 Dec 2026.
 
 Dicky Trisco is a disco and house artist based in United Kingdom, with 76 gigs on soundcheck across Aberdeen, Bangkok, Barcelona and Brazil and 16 more. Often billed alongside Natasha Kitty Katt, Lisa Loud and Irena Stanisic. Next up: CANVAS, Dundee on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Dicky Trisco is a disco and house artist based in United Kingdom, with 76 gigs o
 
 Natasha Kitty Katt, Lisa Loud, Irena Stanisic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*

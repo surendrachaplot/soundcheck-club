@@ -1,6 +1,6 @@
 # IceMorph
 
-IceMorph is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+IceMorph is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 IceMorph is a house and techno artist based in United Kingdom, with 31 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Ibiza and 6 more. Often billed alongside Bicep, Ross From Friends and DJ Stingray 313. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ IceMorph is a house and techno artist based in United Kingdom, with 31 gigs on s
 
 Bicep, Ross From Friends, DJ Stingray 313
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icemorph/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icemorph/)*

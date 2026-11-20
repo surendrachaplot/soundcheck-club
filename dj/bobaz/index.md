@@ -1,6 +1,6 @@
 # Bobaz
 
-Bobaz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
+Bobaz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
 
 Bobaz is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin and Manchester. Often billed alongside KLING&KLANG, 2FEL and ASLO. Next up: AMT, Berlin on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Bobaz is a techno and trance artist based in Germany, with 5 gigs on soundcheck 
 
 KLING&KLANG, 2FEL, ASLO
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobaz/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobaz/)*

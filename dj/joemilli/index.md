@@ -1,6 +1,6 @@
 # Joe Milli
 
-Joe Milli is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Greyhound, London on Fri, 20 Nov 2026.
+Joe Milli is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Greyhound, London on Fri, 20 Nov 2026.
 
 Joe Milli is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside Kassian, Big Kani and Syz. Next up: The Greyhound, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Joe Milli is a house and techno artist based in United Kingdom, with 51 gigs on 
 
 Kassian, Big Kani, Syz
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joemilli/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joemilli/)*

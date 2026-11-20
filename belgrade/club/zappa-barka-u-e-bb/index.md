@@ -1,6 +1,6 @@
 # Zappa Barka Ušće bb
 
-Zappa Barka Ušće bb is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "THE KVB IN BELGRADE" on Thu, 10 Dec 2026.
+Zappa Barka Ušće bb is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "THE KVB IN BELGRADE" on Thu, 10 Dec 2026.
 
 Zappa Barka Ušće bb is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Lalalar and The KVB. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Zappa Barka Ušće bb is a music venue in Belgrade listed on soundcheck. 2 upcom
 | Thu, 10 Dec 2026 | THE KVB IN BELGRADE | The KVB |
 | Sat, 19 Dec 2026 | LALALAR IN BELGRADE | Lalalar |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/zappa-barka-u-e-bb/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/zappa-barka-u-e-bb/)*

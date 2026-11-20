@@ -1,14 +1,15 @@
 # yamyam
 
-yamyam is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at glimmer, Hamburg on Sat, 28 Nov 2026.
+yamyam is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at glimmer, Hamburg on Sat, 28 Nov 2026.
 
-yamyam is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Hamburg and Hannover. Often billed alongside Newinfluenzer, 11Schnull and Loi. Next up: glimmer, Hamburg on Sat 28 Nov.
+yamyam is a techno and bass artist based in Germany, with 36 gigs on soundcheck across Hamburg and Hannover. Often billed alongside Newinfluenzer, 11Schnull and Loi. Next up: glimmer, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | glimmer | Hamburg |
+| Thu, 17 Dec 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ yamyam is a techno and trance artist based in Germany, with 35 gigs on soundchec
 
 Newinfluenzer, 11Schnull, Loi (1)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyam/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyam/)*

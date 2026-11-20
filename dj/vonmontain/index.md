@@ -1,6 +1,6 @@
 # VON MONTAIN
 
-VON MONTAIN is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Korpuss, Riga on Fri, 20 Nov 2026.
+VON MONTAIN is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Korpuss, Riga on Fri, 20 Nov 2026.
 
 VON MONTAIN is a drum & bass and techno artist based in Latvia, with 2 gigs on soundcheck across Riga. Often billed alongside VIKUSH, DEP (LV) and DRAGONCAT. Next up: Korpuss, Riga on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ VON MONTAIN is a drum & bass and techno artist based in Latvia, with 2 gigs on s
 
 VIKUSH, DEP (LV), DRAGONCAT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonmontain/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonmontain/)*

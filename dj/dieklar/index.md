@@ -1,6 +1,6 @@
 # Die Klar
 
-Die Klar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
+Die Klar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
 
 Die Klar is a techno and trance artist based in France, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 16 more. Often billed alongside DJ Kwamē, DJ Caline and Dj Schnake. Next up: Mia Mao, Paris on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Die Klar is a techno and trance artist based in France, with 72 gigs on soundche
 
 DJ Kwamē, DJ Caline, Dj Schnake
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*

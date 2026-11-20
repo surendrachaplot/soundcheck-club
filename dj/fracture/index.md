@@ -1,6 +1,6 @@
 # Fracture
 
-Fracture is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at FOLD, London on Fri, 20 Nov 2026.
+Fracture is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FOLD, London on Fri, 20 Nov 2026.
 
 Fracture is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, Mantra and DJ Flight. Next up: FOLD, London on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Fracture is a drum & bass and jungle artist based in United Kingdom, with 56 gig
 
 Tim Reaper, Mantra, DJ Flight
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*

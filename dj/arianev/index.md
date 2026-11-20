@@ -1,14 +1,15 @@
 # Ariane V
 
-Ariane V is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at EartH Kitchen, London on Fri, 20 Nov 2026.
+Ariane V is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at EartH Kitchen, London on Fri, 20 Nov 2026.
 
-Ariane V is a house and disco artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Ben Gomori, Gaucho (UK) and Liv Ayers. Next up: EartH Kitchen, London on Fri 20 Nov.
+Ariane V is a house and disco artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Ben Gomori, Gaucho (UK) and Liv Ayers. Next up: EartH Kitchen, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | EartH Kitchen | London |
+| Fri, 1 Jan 2027 | 40ft Brewery - Blackhorse Road | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ariane V is a house and disco artist based in United Kingdom, with 107 gigs on s
 
 Ben Gomori, Gaucho (UK), Liv Ayers
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*

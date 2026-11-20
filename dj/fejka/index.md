@@ -1,14 +1,14 @@
 # Fejká
 
-Fejká is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Blique by Nobis Rooftop, Stockholm on Sat, 21 Nov 2026.
+Fejká is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Blique by Nobis, Stockholm on Sat, 21 Nov 2026.
 
-Fejká is a house and techno artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 24 more. Often billed alongside Estiva, Kalipo and ALLKNIGHT. Next up: Blique by Nobis Rooftop, Stockholm on Sat 21 Nov.
+Fejká is a house and techno artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 24 more. Often billed alongside Estiva, Kalipo and ALLKNIGHT. Next up: Blique by Nobis, Stockholm on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Blique by Nobis Rooftop | Stockholm |
+| Sat, 21 Nov 2026 | Blique by Nobis | Stockholm |
 | Fri, 27 Nov 2026 | Wigwam | Dublin |
 | Wed, 2 Dec 2026 | Bike Jesus | Prague |
 | Mon, 14 Dec 2026 | Lido Berlin | Berlin |
@@ -30,4 +30,4 @@ Fejká is a house and techno artist based in Germany, with 67 gigs on soundcheck
 
 Estiva, Kalipo, ALLKNIGHT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*

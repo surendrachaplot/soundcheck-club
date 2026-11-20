@@ -1,13 +1,14 @@
 # GIIN
 
-GIIN is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
+GIIN is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sarab, Singapore on Fri, 20 Nov 2026.
 
-GIIN is a techno and electro artist based in Mongolia, with 8 gigs on soundcheck across Beijing, Shanghai, Shenzhen and Taipei. Often billed alongside ADEAD, DJ Nobu and Duan Ran. Next up: Pawnshop, Taipei on Sat 21 Nov.
+GIIN is a techno and electro artist based in Mongolia, with 9 gigs on soundcheck across Beijing, Shanghai, Shenzhen and Singapore and 1 more. Often billed alongside ADEAD, DJ Nobu and Duan Ran. Next up: Sarab, Singapore on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Sarab | Singapore |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |
 
 ## Recently played
@@ -24,4 +25,4 @@ GIIN is a techno and electro artist based in Mongolia, with 8 gigs on soundcheck
 
 ADEAD, DJ Nobu, Duan Ran
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giin/)*

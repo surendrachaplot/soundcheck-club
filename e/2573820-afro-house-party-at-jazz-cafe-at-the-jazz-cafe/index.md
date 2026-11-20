@@ -1,6 +1,6 @@
-# Afro-house Party at Jazz Cafe at The Jazz Cafe
+# Afro House Party at Jazz Cafe at The Jazz Cafe
 
-Afro-house Party at Jazz Cafe at The Jazz Cafe on Fri 1 Jan, London. Amapiano and Afro House. See the line-up on soundcheck.
+Afro House Party at Jazz Cafe at The Jazz Cafe on Fri 1 Jan, London. Amapiano and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

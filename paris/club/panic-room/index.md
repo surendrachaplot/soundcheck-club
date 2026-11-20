@@ -1,15 +1,13 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SOUS LE RADAR" on Wed, 18 Nov 2026.
+Panic Room is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "MADELEINE RECORDS" on Fri, 20 Nov 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Djane and Midori (Menace). See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including Djane and Midori (Menace). See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | SOUS LE RADAR |  |
-| Thu, 19 Nov 2026 | ECHOES COLLECTIVE |  |
 | Fri, 20 Nov 2026 | MADELEINE RECORDS |  |
 | Sat, 21 Nov 2026 | Soldd6 | Djane |
 | Wed, 25 Nov 2026 | UNA |  |
@@ -18,9 +16,11 @@ Panic Room is a music venue in Paris listed on soundcheck. 16 upcoming gigs, wit
 | Sat, 28 Nov 2026 | T'AIMES LES ROSES |  |
 | Wed, 2 Dec 2026 | GROOVE SOLUTION |  |
 | Thu, 3 Dec 2026 | GROOVE CLUB | Midori (Menace) |
+| Fri, 4 Dec 2026 | SWEET MUSIC AGENCY X EXODUS CALL |  |
+| Sat, 5 Dec 2026 | UNDERGROUND SOUND |  |
 
 ## Address
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

@@ -1,14 +1,15 @@
 # Kudeki
 
-Kudeki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
+Kudeki is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
 
-Kudeki is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Berlin, Bologna, Detroit and Leipzig and 6 more. Often billed alongside Torsion, Fawks and monosym. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
+Kudeki is a techno and house artist based in United States of America, with 68 gigs on soundcheck across Berlin, Bologna, Detroit and Leipzig and 6 more. Often billed alongside Torsion, Fawks and monosym. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 11 Dec 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kudeki is a techno and house artist based in United States of America, with 67 g
 
 Torsion, Fawks, monosym
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*

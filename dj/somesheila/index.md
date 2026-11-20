@@ -1,0 +1,28 @@
+# Some Sheila
+
+Some Sheila is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Revolver Upstairs, Melbourne on Sun, 22 Nov 2026.
+
+Some Sheila is a house and techno artist based in Australia, with 25 gigs on soundcheck across Melbourne and Sydney. Often billed alongside J-OK, Cara Murphy and HAUSWiFE. Next up: Revolver Upstairs, Melbourne on Sun 22 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 22 Nov 2026 | Revolver Upstairs | Melbourne |
+
+## Recently played
+
+- Glamorama, Melbourne · Sat, 3 Oct 2026
+- Lardner Park, Melbourne · Fri, 28 Nov 2025
+- OneSixOne, Melbourne · Thu, 31 Jul 2025
+- OneSixOne, Melbourne · Thu, 22 May 2025
+- Glamorama, Melbourne · Sat, 28 Sept 2024
+- Revolver Upstairs, Melbourne · Sun, 5 May 2024
+- Oxford Underground, Sydney · Sat, 20 Apr 2024
+- Glamorama, Melbourne · Fri, 12 Apr 2024
+
+## Shares bills with
+
+J-OK, Cara Murphy, HAUSWiFE
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somesheila/)*

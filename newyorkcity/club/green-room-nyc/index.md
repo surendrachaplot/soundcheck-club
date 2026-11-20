@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Golden Record NYC x Misbehave present DJ Qu" on Fri, 20 Nov 2026.
+Green Room NYC is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Golden Record NYC x Misbehave present DJ Qu" on Fri, 20 Nov 2026.
 
 Green Room NYC is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Aline Brooklyn, AG, ALDAVE and Aria Pash and 2 more. See dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -11,7 +11,7 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 9 upcomin
 | Fri, 20 Nov 2026 | Golden Record NYC x Misbehave present DJ Qu | Bella Mutino, CAMILLA, Corazón De Melon, DJ Qu, Mario Polanco |
 | Sat, 21 Nov 2026 | Sights & Sounds: Et al. – Demi Riquísimo (extended set) | Atilla Ural, Demi Riquisimo, Van Der Laan, gabby cocco |
 | Sun, 22 Nov 2026 | Moving | ATEQ, Aria Pash, Elsaq, Kiyoshi |
-| Wed, 25 Nov 2026 | Golden Record NYC presents Eli Escobar | Eli Escobar |
+| Wed, 25 Nov 2026 | Golden Record NYC presents Eli Escobar | Eli Escobar, Omer Mil |
 | Sat, 28 Nov 2026 | RAW CUTS Records: Thanksgiving | ALDAVE, Armii1n, Auphoria, EREZ.JPG, La Vega, RICCI (US), Rana Iravani |
 | Fri, 4 Dec 2026 | Golden Record NYC x pregame present Krol B2B Aline Brooklyn | Aline Brooklyn, Armii1n, Krol, Monk (2), Tim Lucent |
 | Sat, 5 Dec 2026 | No Vista x DJ Godfather | AG (1), D3NIM, DJ Godfather, DJ SWISHA, EDEN BEKELE, EQUISS |
@@ -22,4 +22,4 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 9 upcomin
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

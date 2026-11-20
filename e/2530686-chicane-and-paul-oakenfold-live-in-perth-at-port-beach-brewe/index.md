@@ -1,6 +1,6 @@
 # Chicane and Paul Oakenfold LIVE IN PERTH at Port Beach Brewery
 
-Chicane and Paul Oakenfold LIVE IN PERTH at Port Beach Brewery on Sat 6 Mar, Perth. 2 artists: Chicane and Paul Oakenfold. See the line-up on soundcheck.
+Chicane and Paul Oakenfold LIVE IN PERTH at Port Beach Brewery on Sat 6 Mar, Perth. 2 artists: Chicane and Paul Oakenfold. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

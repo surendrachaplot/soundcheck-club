@@ -1,6 +1,6 @@
 # DJ Dante
 
-DJ Dante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Oath, Tokyo on Sat, 21 Nov 2026.
+DJ Dante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Oath, Tokyo on Sat, 21 Nov 2026.
 
 DJ Dante is a house and techno artist based in Japan, with 50 gigs on soundcheck across Tokyo. Often billed alongside SuperUser, DANA NADA and PEAKING. Next up: Oath, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Dante is a house and techno artist based in Japan, with 50 gigs on soundcheck
 
 SuperUser, DANA NADA, PEAKING
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdante/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdante/)*

@@ -1,6 +1,6 @@
 # Kittin / Kendal / DJ SWISHERMAN at Mondo
 
-Kittin / Kendal / DJ SWISHERMAN at Mondo on Sat 5 Dec, Madrid. 2 artists: DJ SWISHERMAN and Kendal. See the line-up on soundcheck.
+Kittin / Kendal / DJ SWISHERMAN at Mondo on Sat 5 Dec, Madrid. 3 artists: DJ SWISHERMAN, Kendal and Miss Kittin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Kittin / Kendal / DJ SWISHERMAN at Mondo on Sat 5 Dec, Madrid. 2 artists: DJ SWI
 
 - DJ SWISHERMAN
 - Kendal
+- Miss Kittin
 
 *Source: [soundcheck](https://soundcheck.club/e/2564884-kittin-kendal-dj-swisherman-at-mondo/)*

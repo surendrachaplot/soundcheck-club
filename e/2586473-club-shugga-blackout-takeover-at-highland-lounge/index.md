@@ -1,6 +1,6 @@
 # Club Shugga Blackout Takeover at Highland Lounge
 
-Club Shugga Blackout Takeover at Highland Lounge on Fri 27 Nov, Austin. 4 artists: Amarji King, BabiDoll, kuntress and Shy Margiela. Club and EBM. See the line-up on soundcheck.
+Club Shugga Blackout Takeover at Highland Lounge on Fri 27 Nov, Austin. 5 artists: Amarji King, BabiDoll, DragonnQueen and kuntress and 1 more. Club and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Club Shugga Blackout Takeover at Highland Lounge on Fri 27 Nov, Austin. 4 artist
 
 - Amarji King
 - BabiDoll
+- DragonnQueen
 - kuntress
 - Shy Margiela
 

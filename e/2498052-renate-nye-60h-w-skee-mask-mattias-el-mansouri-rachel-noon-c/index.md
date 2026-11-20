@@ -1,6 +1,6 @@
 # Renate NYE 60h w/ Skee Mask, Mattias El Mansouri, Rachel Noon, CEM, ferrari rot  + many more at Renate
 
-Renate NYE 60h w/ Skee Mask, Mattias El Mansouri, Rachel Noon, CEM, ferrari rot  + many more on Thu 31 Dec, Berlin. 63 artists: Aalia Iraki, AAMIROO, alizé.e and Amy Dabbs and 59 more. Techno and House. See the line-up on soundcheck.
+Renate NYE 60h w/ Skee Mask, Mattias El Mansouri, Rachel Noon, CEM, ferrari rot  + many more on Thu 31 Dec, Berlin. 68 artists: Aalia Iraki, AAMIROO, alizé.e and Amy Dabbs and 64 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Renate NYE 60h w/ Skee Mask, Mattias El Mansouri, Rachel Noon, CEM, ferrari rot 
 - Ana Selina
 - ATTA
 - ATZENPUNK
+- Big Leg
 - Camilla Rae
 - CEM
 - Christa K
@@ -33,8 +34,11 @@ Renate NYE 60h w/ Skee Mask, Mattias El Mansouri, Rachel Noon, CEM, ferrari rot 
 - Housecall
 - Huijari
 - JD Typo
+- John Loveless
 - karete bu
+- La Schmock
 - le0never
+- Leon Licht
 - lex_shockwerk
 - Lush Lab
 - Lyo.
@@ -56,6 +60,7 @@ Renate NYE 60h w/ Skee Mask, Mattias El Mansouri, Rachel Noon, CEM, ferrari rot 
 - Richie Beige
 - Rill
 - Robin Flux
+- Rosa Kante
 - Running Hot
 - SAM (9)
 - SENERGI

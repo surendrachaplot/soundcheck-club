@@ -1,6 +1,6 @@
 # The Bronze Owl
 
-The Bronze Owl is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "The Bronze Owl NYE 27 NYC" on Sat, 31 Oct 2026.
+The Bronze Owl is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "The Bronze Owl NYE 27 NYC" on Thu, 31 Dec 2026.
 
 The Bronze Owl is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ The Bronze Owl is a music venue in New York City listed on soundcheck. 1 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Bronze Owl NYE 27 NYC |  |
+| Thu, 31 Dec 2026 | The Bronze Owl NYE 27 NYC |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-bronze-owl/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-bronze-owl/)*

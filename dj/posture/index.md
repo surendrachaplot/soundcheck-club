@@ -1,6 +1,6 @@
 # Posture
 
-Posture is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
+Posture is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
 
 Posture is a techno and house artist based in Germany, with 75 gigs on soundcheck across Berlin, Copenhagen, Dresden and Mexico City. Often billed alongside Dj handbag, Light Plastic and Sparkly Pony. Next up: ÆDEN, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Posture is a techno and house artist based in Germany, with 75 gigs on soundchec
 
 Dj handbag, Light Plastic, Sparkly Pony
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/posture/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/posture/)*

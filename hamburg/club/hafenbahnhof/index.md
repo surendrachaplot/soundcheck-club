@@ -1,6 +1,6 @@
 # Hafenbahnhof
 
-Hafenbahnhof is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "DJ Kollektors Party" on Fri, 20 Nov 2026.
+Hafenbahnhof is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "DJ Kollektors Party" on Fri, 20 Nov 2026.
 
 Hafenbahnhof is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Große Elbstraße 276, 22767 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Hafenbahnhof is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs. 
 
 Große Elbstraße 276, 22767 Hamburg, Germany, Hamburg
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenbahnhof/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenbahnhof/)*

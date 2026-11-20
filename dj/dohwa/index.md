@@ -1,6 +1,6 @@
 # DOHWA
 
-DOHWA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at MUA Haus Seoul, Seoul on Fri, 20 Nov 2026.
+DOHWA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at MUA Haus Seoul, Seoul on Fri, 20 Nov 2026.
 
 DOHWA is a house and minimal artist based in South Korea, with 9 gigs on soundcheck across Seoul. Often billed alongside iigong, Gumi and 01. Next up: MUA Haus Seoul, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DOHWA is a house and minimal artist based in South Korea, with 9 gigs on soundch
 
 iigong, Gumi, 01 (1)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dohwa/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dohwa/)*

@@ -1,6 +1,6 @@
 # The Air Conditioned Lounge
 
-The Air Conditioned Lounge is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "House Music Fridays ALL VINYL: Enrique Muraoka (Ensenada, MX), Farron (LA) + Candace Ferguson" on Fri, 20 Nov 2026.
+The Air Conditioned Lounge is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "House Music Fridays ALL VINYL: Enrique Muraoka (Ensenada, MX), Farron (LA) + Candace Ferguson" on Fri, 20 Nov 2026.
 
 The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 4 upcoming gigs, with line-ups including Cory Wells, Danny Grisa, DJ Dazy and Matthew Brian. See dates, start times and who's playing. 4673 30th St, San Diego, CA 92116.
 
@@ -17,4 +17,4 @@ The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 4
 
 4673 30th St, San Diego, CA 92116, San Diego
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*

@@ -1,6 +1,6 @@
 # Alfred Heinrichs
 
-Alfred Heinrichs is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 27 Nov 2026.
+Alfred Heinrichs is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 27 Nov 2026.
 
 Alfred Heinrichs is a techno and electro artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 12 more. Often billed alongside Mark Dekoda, Nicolas Julian and Nusha. Next up: Airport Würzburg, Nürnberg on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Alfred Heinrichs is a techno and electro artist based in Germany, with 54 gigs o
 
 Mark Dekoda, Nicolas Julian, Nusha
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*

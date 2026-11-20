@@ -1,6 +1,6 @@
 # Thalo Santana
 
-Thalo Santana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at fi, Cologne on Fri, 18 Dec 2026.
+Thalo Santana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at fi, Cologne on Fri, 18 Dec 2026.
 
 Thalo Santana is a house and techno artist based in Brazil, with 75 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside Thabo, Kolter and Leon Hagen. Next up: fi, Cologne on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Thalo Santana is a house and techno artist based in Brazil, with 75 gigs on soun
 
 Thabo, Kolter, Leon Hagen
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thalosantana/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thalosantana/)*

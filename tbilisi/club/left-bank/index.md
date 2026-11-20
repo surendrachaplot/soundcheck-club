@@ -1,6 +1,6 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Left Bank Clubnight: Person X • Payam Parvizi • HerShey" on Fri, 20 Nov 2026.
+Left Bank is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Left Bank Clubnight: Person X • Payam Parvizi • HerShey" on Fri, 20 Nov 2026.
 
 Left Bank is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Giorgi Pipia, Memotech, Payam Parvizi and Person X. See dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
@@ -15,4 +15,4 @@ Left Bank is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, wit
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

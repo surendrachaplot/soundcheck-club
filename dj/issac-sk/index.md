@@ -1,6 +1,6 @@
 # Issac.
 
-Issac. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ring, Seoul on Fri, 20 Nov 2026.
+Issac. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ring, Seoul on Fri, 20 Nov 2026.
 
 Issac. is an electro and house artist based in South Korea, with 14 gigs on soundcheck across Berlin, London and Seoul. Often billed alongside Jimin, Coolrnch and Lyumin. Next up: Ring, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Issac. is an electro and house artist based in South Korea, with 14 gigs on soun
 
 Jimin, Coolrnch, Lyumin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/issac-sk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/issac-sk/)*

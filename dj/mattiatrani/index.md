@@ -1,14 +1,15 @@
 # Mattia Trani
 
-Mattia Trani is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at You Club, North on Sat, 21 Nov 2026.
+Mattia Trani is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at You Club, North on Sat, 21 Nov 2026.
 
-Mattia Trani is a techno and industrial artist based in Italy, with 42 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 13 more. Often billed alongside Gianni Di Bernardo, Luca Agnelli and V111. Next up: You Club, North on Sat 21 Nov.
+Mattia Trani is a techno and industrial artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 13 more. Often billed alongside Gianni Di Bernardo, Luca Agnelli and V111. Next up: You Club, North on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | You Club | North |
+| Sat, 19 Dec 2026 | TBA - Palax Arena - Ferrara Fiere | North |
 | Thu, 31 Dec 2026 | Cocoricò | North |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mattia Trani is a techno and industrial artist based in Italy, with 42 gigs on s
 
 Gianni Di Bernardo, Luca Agnelli, V111
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*

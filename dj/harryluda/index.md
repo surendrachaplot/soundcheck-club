@@ -1,6 +1,6 @@
 # Harry Luda
 
-Harry Luda is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 18 Dec 2026.
+Harry Luda is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 18 Dec 2026.
 
 Harry Luda is a garage and house artist based in United Kingdom, with 27 gigs on soundcheck across London and Paris. Often billed alongside DEVZ, DJ Perception and Jeremy Sylvester. Next up: Starlane Pizza Bar, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Harry Luda is a garage and house artist based in United Kingdom, with 27 gigs on
 
 DEVZ, DJ Perception, Jeremy Sylvester
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryluda/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryluda/)*

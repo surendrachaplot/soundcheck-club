@@ -1,6 +1,6 @@
 # Bevan
 
-Bevan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Doka, Amsterdam on Fri, 1 Jan 2027.
+Bevan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Doka, Amsterdam on Fri, 1 Jan 2027.
 
 Bevan is a house and disco artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Antwerp, London and Milan and 3 more. Often billed alongside DJ Pointless, Jeremy Underground and MARINI. Next up: Doka, Amsterdam on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Bevan is a house and disco artist based in Netherlands, with 52 gigs on soundche
 
 DJ Pointless, Jeremy Underground, MARINI
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bevan/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bevan/)*

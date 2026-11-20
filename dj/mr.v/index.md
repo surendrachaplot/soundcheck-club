@@ -1,6 +1,6 @@
 # Mr. V
 
-Mr. V is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cardiff Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
+Mr. V is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cardiff Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Mr. V is a house and deep house artist based in United States of America, with 171 gigs on soundcheck across Amsterdam, Charlotte, Dallas/Fort Worth and Detroit and 9 more. Often billed alongside Julius Papp, David Harness and Franky Boissy. Next up: Cardiff Lounge, San Francisco/Oakland on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Mr. V is a house and deep house artist based in United States of America, with 1
 
 Julius Papp, David Harness, Franky Boissy
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*

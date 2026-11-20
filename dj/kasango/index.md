@@ -1,6 +1,6 @@
 # Kasango
 
-Kasango is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Somewhere Nowhere NYC, New York City on Fri, 20 Nov 2026.
+Kasango is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Somewhere Nowhere NYC, New York City on Fri, 20 Nov 2026.
 
 Kasango is an afro house and house artist based in South Africa, with 54 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 18 more. Often billed alongside Francis Mercier, Khenya and Caiiro. Next up: Somewhere Nowhere NYC, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kasango is an afro house and house artist based in South Africa, with 54 gigs on
 
 Francis Mercier, Khenya, Caiiro
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasango/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasango/)*

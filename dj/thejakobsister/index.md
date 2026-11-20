@@ -1,8 +1,8 @@
 # The Jakob Sister
 
-The Jakob Sister is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Amp, Münster on Fri, 20 Nov 2026.
+The Jakob Sister is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Amp, Münster on Fri, 20 Nov 2026.
 
-The Jakob Sister is a trance and techno artist based in Germany, with 127 gigs on soundcheck across Amsterdam, Antwerp, Austria and Berlin and 25 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: Amp, Münster on Fri 20 Nov.
+The Jakob Sister is a trance and techno artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Antwerp, Austria and Berlin and 26 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: Amp, Münster on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ The Jakob Sister is a trance and techno artist based in Germany, with 127 gigs o
 | Sat, 28 Nov 2026 | Helios37 | Cologne |
 | Sat, 19 Dec 2026 | Kater | Berlin |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
+| Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
+| Fri, 8 Jan 2027 | Le Petit Salon | Lyon |
 | Wed, 7 Apr 2027 | TBA - Zillertal, Zirmstadl & Kaboom | Austria |
 
 ## Recently played
@@ -30,4 +32,4 @@ The Jakob Sister is a trance and techno artist based in Germany, with 127 gigs o
 
 Sabu!, RaverPik, Blame the Booker
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thejakobsister/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thejakobsister/)*

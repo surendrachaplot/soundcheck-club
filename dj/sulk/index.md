@@ -1,6 +1,6 @@
 # Sulk
 
-Sulk is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at OIL Club, Shenzhen on Fri, 20 Nov 2026.
+Sulk is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OIL Club, Shenzhen on Fri, 20 Nov 2026.
 
 Sulk is a techno and club artist based in Taiwan, with 97 gigs on soundcheck across Beijing, Chengdu, Chongqing and Hanoi and 5 more. Often billed alongside KATRINA, DJ 86 and KUAN. Next up: OIL Club, Shenzhen on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Sulk is a techno and club artist based in Taiwan, with 97 gigs on soundcheck acr
 
 KATRINA, DJ 86, KUAN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*

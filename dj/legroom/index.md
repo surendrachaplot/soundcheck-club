@@ -1,13 +1,14 @@
 # Leg Room
 
-Leg Room is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bar  Milagro, New York City on Thu, 3 Dec 2026.
+Leg Room is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bar  Milagro, New York City on Thu, 3 Dec 2026.
 
-Leg Room is a house and techno artist based in United States of America, with 70 gigs on soundcheck across New York City. Often billed alongside Seth Hosko, Shek and Parker Mac. Next up: Bar  Milagro, New York City on Thu 3 Dec.
+Leg Room is a house and techno artist based in United States of America, with 71 gigs on soundcheck across New York City. Often billed alongside Seth Hosko, Shek and Parker Mac. Next up: Bar  Milagro, New York City on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | Bar  Milagro | New York City |
 | Thu, 3 Dec 2026 | Bar  Milagro | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Leg Room is a house and techno artist based in United States of America, with 70
 
 Seth Hosko, Shek, Parker Mac
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/legroom/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/legroom/)*

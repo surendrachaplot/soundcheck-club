@@ -1,6 +1,6 @@
 # Yentl.
 
-Yentl. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
+Yentl. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
 
 Yentl. is a house and electro artist based in Belgium, with 69 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 7 more. Often billed alongside Ampe, Ben Kamal and DJ Rino. Next up: export, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Yentl. is a house and electro artist based in Belgium, with 69 gigs on soundchec
 
 Ampe, Ben Kamal, DJ Rino
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*

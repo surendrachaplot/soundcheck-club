@@ -1,8 +1,8 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 20 Nov 2026.
+Sonja Moonear is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 20 Nov 2026.
 
-Sonja Moonear is a house and techno artist based in Switzerland, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 66 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Frankhan Selectist, Istanbul on Fri 20 Nov.
+Sonja Moonear is a house and techno artist based in Switzerland, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 67 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Frankhan Selectist, Istanbul on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -16,8 +16,10 @@ Sonja Moonear is a house and techno artist based in Switzerland, with 215 gigs o
 | Sat, 12 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Sun, 13 Dec 2026 | Klakaz | Athens |
 | Sat, 19 Dec 2026 | Postkantine | Basel |
+| Tue, 5 Jan 2027 | TBA - Aguaverde Wine Lodge  | Uruguay |
 | Sat, 29 May 2027 | The Pitt Market | Edinburgh |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
+| Fri, 1 Oct 2027 | Chinois Ibiza | Ibiza |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ Sonja Moonear is a house and techno artist based in Switzerland, with 215 gigs o
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

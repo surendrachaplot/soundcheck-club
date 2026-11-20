@@ -1,14 +1,14 @@
 # Club Zimmermanns
 
-Club Zimmermanns is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Aquarium" on Thu, 19 Nov 2026.
+Club Zimmermanns is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Aquarium" on Thu, 26 Nov 2026.
 
-Club Zimmermanns is a music venue in Cologne listed on soundcheck. 3 upcoming gigs, with line-ups including Max Blumen and SpaceWax. See dates, start times and who's playing. Venloer Str. 39, 50672 Köln, Germany.
+Club Zimmermanns is a music venue in Cologne listed on soundcheck. 3 upcoming gigs, with line-ups including Max Blumen. See dates, start times and who's playing. Venloer Str. 39, 50672 Köln, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Aquarium | SpaceWax |
+| Thu, 26 Nov 2026 | Aquarium |  |
 | Fri, 27 Nov 2026 | AETHER x NOREYA: The darker side of Drum and Bass |  |
 | Fri, 11 Dec 2026 | 7 Jahre UnderDive - 16h Kollektiv XL Rave #3 | Max Blumen |
 
@@ -16,4 +16,4 @@ Club Zimmermanns is a music venue in Cologne listed on soundcheck. 3 upcoming gi
 
 Venloer Str. 39, 50672 Köln, Germany, Cologne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-zimmermanns/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-zimmermanns/)*

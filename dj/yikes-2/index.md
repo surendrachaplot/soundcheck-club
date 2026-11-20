@@ -1,8 +1,8 @@
 # Yikes
 
-Yikes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Footscray Community Arts Centre, Melbourne on Sat, 5 Dec 2026.
+Yikes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Footscray Community Arts Centre, Melbourne on Sat, 5 Dec 2026.
 
-Yikes is a house and techno artist based in Australia, with 68 gigs on soundcheck across Brisbane, Hamburg, Melbourne and Montreal and 3 more. Often billed alongside DJ PGZ, Moopie and Kia (AU). Next up: Footscray Community Arts Centre, Melbourne on Sat 5 Dec.
+Yikes is a house and techno artist based in Australia, with 68 gigs on soundcheck across Brisbane, Hamburg, Melbourne and Montreal and 3 more. Often billed alongside DJ PGZ, Kia (AU) and Moopie. Next up: Footscray Community Arts Centre, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Yikes is a house and techno artist based in Australia, with 68 gigs on soundchec
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
-| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 
 ## Recently played
 
@@ -28,6 +28,6 @@ Yikes is a house and techno artist based in Australia, with 68 gigs on soundchec
 
 ## Shares bills with
 
-DJ PGZ, Moopie, Kia (AU)
+DJ PGZ, Kia (AU), Moopie
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yikes-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yikes-2/)*

@@ -1,0 +1,11 @@
+# [CANCELLED] FELLAS *live at Gretchen
+
+[CANCELLED] FELLAS *live at Gretchen on Tue 15 Dec, Berlin. Hip-Hop and Jazz. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Tue, 15 Dec 2026 |
+| Venue | Gretchen |
+| City | Berlin |
+
+*Source: [soundcheck](https://soundcheck.club/e/2511397-cancelled-fellas-live-at-gretchen/)*

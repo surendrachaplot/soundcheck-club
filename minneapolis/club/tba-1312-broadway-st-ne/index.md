@@ -1,6 +1,6 @@
 # TBA - 1312 BROADWAY ST NE
 
-TBA - 1312 BROADWAY ST NE is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "CLUB PERREO - TQTQT EDITION" on Sat, 21 Nov 2026.
+TBA - 1312 BROADWAY ST NE is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "CLUB PERREO - TQTQT EDITION" on Sat, 21 Nov 2026.
 
 TBA - 1312 BROADWAY ST NE is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 1312 BROADWAY ST NE is a music venue in Minneapolis/St Paul listed on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | CLUB PERREO - TQTQT EDITION |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-1312-broadway-st-ne/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-1312-broadway-st-ne/)*

@@ -1,14 +1,14 @@
 # RTRP
 
-RTRP is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
+RTRP is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 28 Nov 2026.
 
-RTRP is a house and disco artist based in South Korea, with 272 gigs on soundcheck across Bangkok, Ho Chi Minh City, Osaka and Seoul and 1 more. Often billed alongside Cityboy from Seoul, grid (KR) and Conan. Next up: Stoked&stoned, Seoul on Mon 9 Nov.
+RTRP is a house and disco artist based in South Korea, with 273 gigs on soundcheck across Bangkok, Ho Chi Minh City, Osaka and Seoul and 1 more. Often billed alongside Cityboy from Seoul, grid (KR) and Conan. Next up: Atdge Seoul, Seoul on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Stoked&stoned | Seoul |
+| Sat, 28 Nov 2026 | Atdge Seoul | Seoul |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ RTRP is a house and disco artist based in South Korea, with 272 gigs on soundche
 
 Cityboy from Seoul, grid (KR), Conan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rtrp/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rtrp/)*

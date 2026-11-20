@@ -1,6 +1,6 @@
 # Sasha Kohana
 
-Sasha Kohana is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at City Hall, Barcelona on Fri, 20 Nov 2026.
+Sasha Kohana is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at City Hall, Barcelona on Fri, 20 Nov 2026.
 
 Sasha Kohana is an afro house and deep house artist based in Ukraine, with 19 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside HNKS, Archi-tech and Kertsman. Next up: City Hall, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Sasha Kohana is an afro house and deep house artist based in Ukraine, with 19 gi
 
 HNKS, Archi-tech, Kertsman
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashakohana/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashakohana/)*

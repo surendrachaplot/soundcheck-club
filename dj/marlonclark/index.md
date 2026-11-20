@@ -1,6 +1,6 @@
 # Marlon Clark
 
-Marlon Clark is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
+Marlon Clark is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
 
 Marlon Clark is a minimal and minimal techno artist based in United Kingdom, with 13 gigs on soundcheck across Brussels, Copenhagen, Glasgow and Krakow and 6 more. Often billed alongside Dr Banana, Jake Hodgkinson and Real Deal. Next up: Secret Location, London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Marlon Clark is a minimal and minimal techno artist based in United Kingdom, wit
 
 Dr Banana, Jake Hodgkinson, Real Deal
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*

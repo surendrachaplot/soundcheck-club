@@ -1,14 +1,15 @@
 # Alex Rush
 
-Alex Rush is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
+Alex Rush is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
 
-Alex Rush is an afro house and deep house artist based in Spain, with 11 gigs on soundcheck across Barcelona, Bucharest, Ibiza and London. Often billed alongside BIØY, CARSA and Fat-P. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
+Alex Rush is an afro house and house artist based in Spain, with 12 gigs on soundcheck across Barcelona, Bucharest, Ibiza and London. Often billed alongside BIØY, CARSA and EdiP. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Romaero - Baneasa | Bucharest |
+| Sun, 22 Nov 2026 | Kristal Club | Bucharest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alex Rush is an afro house and deep house artist based in Spain, with 11 gigs on
 
 ## Shares bills with
 
-BIØY, CARSA, Fat-P
+BIØY, CARSA, EdiP
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrush/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrush/)*

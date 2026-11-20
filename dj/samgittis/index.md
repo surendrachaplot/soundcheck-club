@@ -1,14 +1,15 @@
 # Sam Gittis
 
-Sam Gittis is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bike Jesus, Prague on Sat, 28 Nov 2026.
+Sam Gittis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bike Jesus, Prague on Sat, 28 Nov 2026.
 
-Sam Gittis is a house and tech house artist based in United States of America, with 131 gigs on soundcheck across Berlin, Budapest, Leipzig and London and 4 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed. Next up: Bike Jesus, Prague on Sat 28 Nov.
+Sam Gittis is a house and tech house artist based in United States of America, with 132 gigs on soundcheck across Berlin, Budapest, Leipzig and London and 4 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed. Next up: Bike Jesus, Prague on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Bike Jesus | Prague |
+| Thu, 31 Dec 2026 | Gabriel Loci | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sam Gittis is a house and tech house artist based in United States of America, w
 
 Sebastian Paiza, Chad Andrew, Tatomed (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*

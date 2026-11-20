@@ -1,30 +1,28 @@
 # Donae'o
 
-Donae'o is a UK Funky and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
+Donae'o is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bread & Butter Arch, London on Sat, 6 Feb 2027.
 
-Donae'o is an uk funky and garage artist based in United Kingdom, with 29 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and DJ EZ. Next up: Electric Brixton, London on Fri 13 Nov.
+Donae'o is an uk funky and garage artist based in United Kingdom, with 30 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and DJ EZ. Next up: Bread & Butter Arch, London on Sat 6 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Electric Brixton | London |
-| Sat, 14 Nov 2026 | Electric Brixton | London |
-| Sat, 14 Nov 2026 | Electric Brixton | London |
+| Sat, 6 Feb 2027 | Bread & Butter Arch | London |
 
 ## Recently played
 
+- Electric Brixton, London · Sat, 14 Nov 2026
+- Electric Brixton, London · Sat, 14 Nov 2026
 - Electric Brixton, London · Fri, 13 Nov 2026
 - Bread and Butter, London · Fri, 30 Oct 2026
 - Freight Brixton, London · Sat, 29 Aug 2026
 - Studio 338, London · Sat, 22 Aug 2026
 - The Steel Yard, London · Sat, 8 Aug 2026
 - Dixie Queen Paddle Steamer, London · Sat, 4 Jul 2026
-- Bar15, Stockholm · Sat, 23 May 2026
-- Brixton Jamm, London · Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Crazy Cousinz, Jojo Deevoy, DJ EZ
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*

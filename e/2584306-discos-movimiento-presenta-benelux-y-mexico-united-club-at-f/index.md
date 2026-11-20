@@ -1,6 +1,6 @@
 # Discos Movimiento presenta: Benelux y Mexico united Club at Fünk
 
-Discos Movimiento presenta: Benelux y Mexico united Club at Fünk on Sat 12 Dec, Mexico City. 4 artists: Caim, DJ Rino, Nico Borgio and Ursula Prawn. Techno and House. See the line-up on soundcheck.
+Discos Movimiento presenta: Benelux y Mexico united Club at Fünk on Sat 12 Dec, Mexico City. 5 artists: DJ Rino, EM2K, Gerhard and Nico Borgio and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,9 @@ Discos Movimiento presenta: Benelux y Mexico united Club at Fünk on Sat 12 Dec,
 
 ## Line-up
 
-- Caim
 - DJ Rino
+- EM2K
+- Gerhard
 - Nico Borgio
 - Ursula Prawn
 

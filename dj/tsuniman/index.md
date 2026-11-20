@@ -1,6 +1,6 @@
 # TSUNIMAN
 
-TSUNIMAN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Arca, Milan on Fri, 20 Nov 2026.
+TSUNIMAN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Arca, Milan on Fri, 20 Nov 2026.
 
 TSUNIMAN is a techno and trance artist based in Switzerland, with 112 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 14 more. Often billed alongside Tash LC, Avsluta and Formant Value. Next up: Arca, Milan on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ TSUNIMAN is a techno and trance artist based in Switzerland, with 112 gigs on so
 
 Tash LC, Avsluta, Formant Value
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuniman/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuniman/)*

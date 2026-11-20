@@ -1,8 +1,8 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Mothership, Auckland on Sat, 28 Nov 2026.
+Sam Divine is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Mothership, Auckland on Sat, 28 Nov 2026.
 
-Sam Divine is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 43 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: The Mothership, Auckland on Sat 28 Nov.
+Sam Divine is a house and tech house artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 43 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: The Mothership, Auckland on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 191 gi
 | Sat, 12 Dec 2026 | The Ivy | Sydney |
 | Thu, 31 Dec 2026 | OVO Arena Wembley | London |
 | Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
+| Sat, 6 Feb 2027 | O2 Academy Sheffield | Sheffield |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 191 gi
 
 Low Steppa, Lowsteppa, Arielle Free
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "INFLUENCE PRESENTS: RAGETRAIN & RIZZO" on Sat, 21 Nov 2026.
+The Grand Social is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "INFLUENCE PRESENTS: RAGETRAIN & RIZZO" on Sat, 21 Nov 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with line-ups including Connect and Henri Bergmann. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -16,4 +16,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 3 upcoming gig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

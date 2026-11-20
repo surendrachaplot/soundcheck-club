@@ -1,6 +1,6 @@
 # John Bowtie
 
-John Bowtie is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Coya Club, Dubai on Fri, 20 Nov 2026.
+John Bowtie is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Coya Club, Dubai on Fri, 20 Nov 2026.
 
 John Bowtie is a house and tech house artist based in France, with 129 gigs on soundcheck across Dubai, Geneva and Lausanne. Often billed alongside Paul Svenson, KENZA KAYATI and TOOLANI. Next up: Coya Club, Dubai on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ John Bowtie is a house and tech house artist based in France, with 129 gigs on s
 
 Paul Svenson (2), KENZA KAYATI, TOOLANI
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbowtie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbowtie/)*

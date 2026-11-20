@@ -1,18 +1,18 @@
 # Maxime Denuc
 
-Maxime Denuc is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sankt Hedwigs-Kathedrale, Berlin on Wed, 18 Nov 2026.
+Maxime Denuc is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Église Saint-Eustache, Paris on Thu, 3 Dec 2026.
 
-Maxime Denuc is an experimental and ambient artist based in Belgium, with 9 gigs on soundcheck across Berlin, Brussels, Cologne and London and 2 more. Often billed alongside Mika Oki, Actress and AliA. Next up: Sankt Hedwigs-Kathedrale, Berlin on Wed 18 Nov.
+Maxime Denuc is an experimental and ambient artist based in Belgium, with 9 gigs on soundcheck across Berlin, Brussels, Cologne and London and 2 more. Often billed alongside Mika Oki, Actress and AliA. Next up: Église Saint-Eustache, Paris on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Sankt Hedwigs-Kathedrale | Berlin |
 | Thu, 3 Dec 2026 | Église Saint-Eustache | Paris |
 
 ## Recently played
 
+- Sankt Hedwigs-Kathedrale, Berlin · Wed, 18 Nov 2026
 - Silence Please, New York City · Tue, 27 Oct 2026
 - Kölner Philharmonie, Cologne · Wed, 23 Sept 2026
 - Gedächtniskirche, Berlin · Fri, 29 Nov 2024
@@ -25,4 +25,4 @@ Maxime Denuc is an experimental and ambient artist based in Belgium, with 9 gigs
 
 Mika Oki, Actress, AliA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedenuc/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedenuc/)*

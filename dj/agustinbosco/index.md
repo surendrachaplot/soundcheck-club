@@ -1,6 +1,6 @@
 # Agustin Bosco
 
-Agustin Bosco is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 21 Nov 2026.
+Agustin Bosco is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 21 Nov 2026.
 
 Agustin Bosco is a tech house and garage artist based in Argentina, with 8 gigs on soundcheck across Barcelona. Often billed alongside FREDDIESS, Vanyra and Agustín Negri. Next up: Sala Apolo, Barcelona on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Agustin Bosco is a tech house and garage artist based in Argentina, with 8 gigs 
 
 FREDDIESS, Vanyra, Agustín Negri
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbosco/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbosco/)*

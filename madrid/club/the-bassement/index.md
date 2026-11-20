@@ -1,15 +1,15 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "NITRO: EARGASM GOD + LUZZY + Tasuik B2B Køni + ZENEA B2B Møstroh" on Thu, 19 Nov 2026.
+The Bassement is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ONGOING presents Elli Acula, Felicie, Luxi Villar & Anna Jevills" on Fri, 20 Nov 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including AEREA, Ana Alves, Ania Bruster and Anna Jevills and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Adriana Lopez, AEREA, Ana Alves and Ania Bruster and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | NITRO: EARGASM GOD + LUZZY + Tasuik B2B Køni + ZENEA B2B Møstroh | EARGASM GOD, Køni, Møstroh, Tasuik |
 | Fri, 20 Nov 2026 | ONGOING presents Elli Acula, Felicie, Luxi Villar & Anna Jevills | Anna Jevills, Elli Acula, Félicie, Luxi Villar |
+| Sat, 21 Nov 2026 | TELETECH Official After Party |  |
 | Thu, 26 Nov 2026 | DVRKSUN MADRID ROUND 3 | Fernanda Martins, Gaston Zani, Per Pleks |
 | Fri, 27 Nov 2026 | JAZZY at BASSMNT CLUB hosted by ROOTS : Francesco Del Garda | Francesco Del Garda, Unai Trotti |
 | Sat, 28 Nov 2026 | Laster Club presents Dasha Rush, Phara & Laia B2B Liszt | Dasha Rush, Laia, Liszt, Phara |
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 13 upcoming gigs,
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

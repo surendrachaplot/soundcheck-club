@@ -1,6 +1,6 @@
 # Stephan Panev
 
-Stephan Panev is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Low Key Records, Sofia on Fri, 20 Nov 2026.
+Stephan Panev is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Low Key Records, Sofia on Fri, 20 Nov 2026.
 
 Stephan Panev is a techno and electronica artist based in Bulgaria, with 37 gigs on soundcheck across Berlin and Sofia. Often billed alongside J-Lost, Bosha and Deyan Dimitrov. Next up: Low Key Records, Sofia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Stephan Panev is a techno and electronica artist based in Bulgaria, with 37 gigs
 
 J-Lost, Bosha, Deyan Dimitrov
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanpanev/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanpanev/)*

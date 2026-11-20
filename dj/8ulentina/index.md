@@ -1,14 +1,15 @@
 # 8ULENTINA
 
-8ULENTINA is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Nowadays, New York City on Sat, 12 Dec 2026.
+8ULENTINA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Nowadays, New York City on Sat, 12 Dec 2026.
 
-8ULENTINA is a techno and experimental artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Los Angeles, Mexico City and Minneapolis/St Paul and 6 more. Often billed alongside Embaci, DJ Haram and Doula. Next up: Nowadays, New York City on Sat 12 Dec.
+8ULENTINA is a techno and club artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, Los Angeles, Mexico City and Minneapolis/St Paul and 6 more. Often billed alongside Embaci, DJ Haram and Doula. Next up: Nowadays, New York City on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Nowadays | New York City |
+| Sun, 13 Dec 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Embaci, DJ Haram, Doula
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8ulentina/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8ulentina/)*

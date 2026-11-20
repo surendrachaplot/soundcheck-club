@@ -1,6 +1,6 @@
 # Umbo
 
-Umbo is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "FISHNET" on Sat, 21 Nov 2026.
+Umbo is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "FISHNET" on Sat, 21 Nov 2026.
 
 Umbo is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including Disse, Guyus, Nic Krog and Phrex and 2 more. See dates, start times and who's playing. Wasserwerkstrasse 89a, 8037 Zürich, Switzerland.
 
@@ -17,4 +17,4 @@ Umbo is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line
 
 Wasserwerkstrasse 89a, 8037 Zürich, Switzerland, Zurich
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*

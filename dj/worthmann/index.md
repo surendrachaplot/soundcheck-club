@@ -1,6 +1,6 @@
 # Worthmann
 
-Worthmann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at WDM, Hannover on Sat, 21 Nov 2026.
+Worthmann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at WDM, Hannover on Sat, 21 Nov 2026.
 
 Worthmann is a house and techno artist based in Germany, with 2 gigs on soundcheck across Hamburg and Hannover. Often billed alongside SPORTMANN, ANDATA and HOOM. Next up: WDM, Hannover on Sat 21 Nov.
 
@@ -15,4 +15,4 @@ Worthmann is a house and techno artist based in Germany, with 2 gigs on soundche
 
 SPORTMANN, ANDATA, HOOM
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worthmann/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worthmann/)*

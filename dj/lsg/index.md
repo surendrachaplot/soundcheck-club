@@ -1,14 +1,16 @@
 # LSG
 
-LSG is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
+LSG is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
 
-LSG is a techno and trance artist based in United Kingdom, with 41 gigs on soundcheck across Aberdeen, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside nordcorreia.mp3, MAURO and Gourski. Next up: OST, Berlin on Sat 21 Nov.
+LSG is a techno and trance artist based in United Kingdom, with 43 gigs on soundcheck across Aberdeen, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside nordcorreia.mp3, MAURO and OSKAMAXX. Next up: OST, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | OST | Berlin |
+| Sat, 28 Nov 2026 | Artheater | Cologne |
+| Sat, 13 Mar 2027 | Turbinenhalle | North-rhine-westphalia |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ LSG is a techno and trance artist based in United Kingdom, with 41 gigs on sound
 
 ## Shares bills with
 
-nordcorreia.mp3, MAURO, Gourski
+nordcorreia.mp3, MAURO, OSKAMAXX
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*

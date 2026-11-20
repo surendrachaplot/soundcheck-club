@@ -1,6 +1,6 @@
 # Casual P
 
-Casual P is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Casual P is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Casual P is a house and garage artist based in Australia, with 26 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Couch Mechanic and Jane Decks. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Casual P is a house and garage artist based in Australia, with 26 gigs on soundc
 
 Ari Kiko, Couch Mechanic, Jane Decks
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*

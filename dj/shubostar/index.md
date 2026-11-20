@@ -1,6 +1,6 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club 415, Brazil on Sat, 21 Nov 2026.
+Shubostar is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club 415, Brazil on Sat, 21 Nov 2026.
 
 Shubostar is a house and techno artist based in South Korea, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 44 more. Often billed alongside Mano Le Tough, Âme and Mochakk. Next up: Club 415, Brazil on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Shubostar is a house and techno artist based in South Korea, with 124 gigs on so
 
 Mano Le Tough, Âme, Mochakk
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*

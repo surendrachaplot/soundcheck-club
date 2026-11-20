@@ -1,6 +1,6 @@
-# Sweet Greens Full Day Quest ft. Secret Guest - Sauna > Food  Music > Afters @ Cause at Eastway Baths
+# Sweet Greens Full Day Quest ft. Secret Guest - Sauna > Food > Music > Afters @ Cause at Eastway Baths
 
-Sweet Greens Full Day Quest ft. Secret Guest - Sauna > Food  Music > Afters @ Cause at Eastway Baths on Sat 5 Dec, London. 7 artists: Char Char, Dolce Verde, Harri Pepper and Marina Lović and 3 more. Downtempo. See the line-up on soundcheck.
+Sweet Greens Full Day Quest ft. Secret Guest - Sauna > Food > Music > Afters @ Cause at Eastway Baths on Sat 5 Dec, London. 7 artists: Char Char, Dolce Verde, Harri Pepper and Marina Lović and 3 more. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

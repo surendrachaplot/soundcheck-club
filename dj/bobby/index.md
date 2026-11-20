@@ -1,8 +1,8 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kapsule, Liverpool on Fri, 20 Nov 2026.
+Bobby. is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kapsule, Liverpool on Fri, 20 Nov 2026.
 
-Bobby. is a techno and house artist based in United Kingdom, with 152 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 35 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Kapsule, Liverpool on Fri 20 Nov.
+Bobby. is a techno and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 36 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Kapsule, Liverpool on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bobby. is a techno and house artist based in United Kingdom, with 152 gigs on so
 | Sat, 5 Dec 2026 | fabric | London |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 | Sat, 9 Jan 2027 | The Jazz Cafe | London |
+| Sat, 20 Feb 2027 | Azimut Club | Turin |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
@@ -29,4 +30,4 @@ Bobby. is a techno and house artist based in United Kingdom, with 152 gigs on so
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

@@ -1,6 +1,6 @@
 # Rezzett
 
-Rezzett is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Silent Green, Berlin on Fri, 11 Dec 2026.
+Rezzett is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Silent Green, Berlin on Fri, 11 Dec 2026.
 
 Rezzett is an experimental and techno artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Josey Rebelle, John T. Gast and mad miran. Next up: Silent Green, Berlin on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Rezzett is an experimental and techno artist based in United Kingdom, with 21 gi
 
 Josey Rebelle, John T. Gast, mad miran
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*

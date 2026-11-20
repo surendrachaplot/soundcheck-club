@@ -1,6 +1,6 @@
 # Fosters
 
-Fosters is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Twisted Lime, Hobart on Fri, 27 Nov 2026.
+Fosters is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Twisted Lime, Hobart on Fri, 27 Nov 2026.
 
 Fosters is a techno and house artist based in Australia, with 57 gigs on soundcheck across Hobart and Melbourne. Often billed alongside HYBE, Mount Mike and TEMPER TANTRA. Next up: Twisted Lime, Hobart on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Fosters is a techno and house artist based in Australia, with 57 gigs on soundch
 
 HYBE, Mount Mike, TEMPER TANTRA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*

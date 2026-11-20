@@ -1,6 +1,6 @@
 # Emnesia
 
-Emnesia is a Pop and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The American, Vancouver on Sat, 21 Nov 2026.
+Emnesia is a Pop and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The American, Vancouver on Sat, 21 Nov 2026.
 
 Emnesia is a pop and dubstep artist based in Canada, with 12 gigs on soundcheck across Vancouver. Often billed alongside INDUSTRIALGRADECHILLER, 3DMA and Al Ex. Next up: The American, Vancouver on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Emnesia is a pop and dubstep artist based in Canada, with 12 gigs on soundcheck 
 
 INDUSTRIALGRADECHILLER, 3DMA, Al Ex
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emnesia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emnesia/)*

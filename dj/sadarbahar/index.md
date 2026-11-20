@@ -1,6 +1,6 @@
 # Sadar Bahar
 
-Sadar Bahar is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at NT's Loft, London on Sat, 13 Feb 2027.
+Sadar Bahar is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at NT's Loft, London on Sat, 13 Feb 2027.
 
 Sadar Bahar is a disco and house artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 17 more. Often billed alongside Kamma, DJ Spen and Masalo. Next up: NT's Loft, London on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Sadar Bahar is a disco and house artist based in United States of America, with 
 
 Kamma, DJ Spen, Masalo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadarbahar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadarbahar/)*

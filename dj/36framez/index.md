@@ -1,6 +1,6 @@
 # 36framez
 
-36framez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+36framez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
 36framez is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Munich, Netherlands and Rotterdam and 1 more. Often billed alongside Doppelgang, Lola Edo and TWIENA. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
@@ -27,4 +27,4 @@
 
 Doppelgang, Lola Edo, TWIENA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*

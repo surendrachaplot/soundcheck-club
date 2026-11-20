@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 43 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Insomnia: Kessler, Ned Spencer & YAZ" on Thu, 19 Nov 2026.
+Phonox is a music venue in London with 42 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Ross From Friends & LOVEFOXY: 4 Fridays at Phonox (20th Nov)" on Fri, 20 Nov 2026.
 
-Phonox is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-ups including Aba Shanti-I, A LOVE FROM OUTER SPACE, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 42 upcoming gigs, with line-ups including Aba Shanti-I, A LOVE FROM OUTER SPACE, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Insomnia: Kessler, Ned Spencer & YAZ | Kessler, Ned Spencer |
 | Fri, 20 Nov 2026 | Ross From Friends & LOVEFOXY: 4 Fridays at Phonox (20th Nov) | LOVEFOXY, Ross From Friends |
 | Sat, 21 Nov 2026 | Dusky: Originals (2010 - 2025 Set) | Dusky, rumu |
 | Sat, 21 Nov 2026 | Phonox: Truly Madly, Facta & K-LONE | Facta, K-LONE, Truly Madly |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 43 upcoming gigs, with l
 | Sat, 28 Nov 2026 | Phonox: Angel D'lite & 0K Williams | Angel D'lite, OK Williams |
 | Wed, 2 Dec 2026 | HEADACHE PRESENTS: OFFICIAL AFTER PARTY | Headache, Vegyn |
 | Thu, 3 Dec 2026 | Insomnia: Denham Audio, Jungle George & Et Al | Denham Audio |
+| Fri, 4 Dec 2026 | Denis Sulta (All Night Long) [Opening party] | Denis Sulta |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

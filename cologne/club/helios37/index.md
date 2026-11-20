@@ -1,8 +1,8 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "(sold out) SCHRANZ is BACK Köln with Felix Kröcher" on Fri, 20 Nov 2026.
+Helios37 is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "(sold out) SCHRANZ is BACK Köln with Felix Kröcher" on Fri, 20 Nov 2026.
 
-Helios37 is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including AELVA K, Belasto, Bensonius and DJ Discostoff and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
+Helios37 is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including AELVA K, Belasto, Bensonius and DJ Discostoff and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Helios37 is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wit
 | Sat, 5 Dec 2026 | FIEBERTRAUM - HARD EDITION |  |
 | Fri, 18 Dec 2026 | Xmas Krawall All Weekend Long | Elyante, Rosilicious, ZAHNATZIN, two girls one mom |
 | Sat, 19 Dec 2026 | X-MAS KRAWALL ALL WEEKEND LONG | DJ Discostoff, Elyante, Rosilicious, ZAHNATZIN, two girls one mom |
+| Sat, 26 Dec 2026 | BZZBZZ TECHNO | DJ Mat, DJ SODBRENNEN, Flex on Trax, HENNESY, LEO.PARDYY, MARRED, NØCT, SPEEDO (2), The Lerrys |
 | Sat, 30 Jan 2027 | BZZBZZ TECHNO x RCL | HENNESY, Pamela Rave, SCHMALLE, SPEEDO (2), Trancestrudel, flotti kotti |
-| Fri, 12 Feb 2027 | bratty • with charli xcx & other brat coded artists • köln |  |
 
 ## Address
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

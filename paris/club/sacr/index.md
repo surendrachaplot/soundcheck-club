@@ -1,8 +1,8 @@
 # Sacré
 
-Sacré is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sacré Présente: Makèz & Friends" on Fri, 20 Nov 2026.
+Sacré is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Sacré Présente: Makèz & Friends" on Fri, 20 Nov 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including Beave, COEO, Crazy P and Daisybelle and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Beave, COEO, Crazy P and Daisybelle and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with li
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

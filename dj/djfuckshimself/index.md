@@ -1,6 +1,6 @@
 # DJ Fucks Himself
 
-DJ Fucks Himself is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
+DJ Fucks Himself is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
 
 DJ Fucks Himself is a techno and bass artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 16 more. Often billed alongside HiHat, Young Lychee and Lenny Fuck. Next up: TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ DJ Fucks Himself is a techno and bass artist based in Germany, with 83 gigs on s
 
 HiHat, Young Lychee, Lenny Fuck
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*

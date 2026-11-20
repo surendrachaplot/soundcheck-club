@@ -1,17 +1,18 @@
 # Shelter
 
-Shelter is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Shelter Seoul" on Sat, 14 Nov 2026.
+Shelter is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Echo Sequence_Shelter Seoul" on Fri, 20 Nov 2026.
 
-Shelter is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Honn, JUNG(KR), Kimdongsun and MOVIN.KR and 1 more. See dates, start times and who's playing. Seoul, Itaewon-dong 119-8, 5th floor, Post Code : 04350.
+Shelter is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including bumv, Honn, Messiahwaits and NO.LINK and 2 more. See dates, start times and who's playing. Seoul, Itaewon-dong 119-8, 5th floor, Post Code : 04350.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Shelter Seoul | Honn, JUNG(KR), Kimdongsun, MOVIN.KR, WUGU |
+| Fri, 20 Nov 2026 | Echo Sequence_Shelter Seoul | NO.LINK, Yomi, bumv, rerekat |
+| Sat, 21 Nov 2026 | AAE_Shelter Seoul | Honn, Messiahwaits |
 
 ## Address
 
 Seoul, Itaewon-dong 119-8, 5th floor, Post Code : 04350, Seoul
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/shelter/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/shelter/)*

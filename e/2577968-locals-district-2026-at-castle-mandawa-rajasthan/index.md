@@ -1,6 +1,6 @@
 # Locals District 2026 at Castle Mandawa, Rajasthan
 
-Locals District 2026 at Castle Mandawa, Rajasthan on Fri 18 Dec, Other Regions. 19 artists: Aiden Francis, ANSWER (IN), Anushka (IN) and Audrey Danza and 15 more. See the line-up on soundcheck.
+Locals District 2026 at Castle Mandawa, Rajasthan on Fri 18 Dec, Other Regions. 20 artists: Aiden Francis, ANSWER (IN), Anushka (IN) and Audrey Danza and 16 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Locals District 2026 at Castle Mandawa, Rajasthan on Fri 18 Dec, Other Regions. 
 - Anushka (IN)
 - Audrey Danza
 - Avantika
+- DFault
 - Direct Drive
 - DOTT
 - Ekkel

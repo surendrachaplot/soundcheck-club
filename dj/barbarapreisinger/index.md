@@ -1,8 +1,8 @@
 # Barbara Preisinger
 
-Barbara Preisinger is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Rhythm, Toronto on Fri, 20 Nov 2026.
+Barbara Preisinger is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Rhythm, Toronto on Fri, 20 Nov 2026.
 
-Barbara Preisinger is a house and techno artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Foehn & Jerome, Alexander Skancke and Zip. Next up: Rhythm, Toronto on Fri 20 Nov.
+Barbara Preisinger is a house and techno artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Foehn & Jerome, Alexander Skancke and Zip. Next up: Rhythm, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Barbara Preisinger is a house and techno artist based in Germany, with 72 gigs o
 | Sat, 21 Nov 2026 | TBA | Mexico-city |
 | Sat, 21 Nov 2026 | TBA - Recibe la ubicación con la compra de tu ticket | Mexico City |
 | Sat, 28 Nov 2026 | ://about blank | Berlin |
+| Sat, 5 Dec 2026 | Centrum Wystawienniczo Kongresowe | Poland |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 1 Jan 2027 | ZENNER | Berlin |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
@@ -31,4 +32,4 @@ Barbara Preisinger is a house and techno artist based in Germany, with 72 gigs o
 
 Foehn & Jerome, Alexander Skancke, Zip
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*

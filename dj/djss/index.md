@@ -1,15 +1,17 @@
 # DJ SS
 
-DJ SS is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
+DJ SS is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
 
-DJ SS is a drum & bass and jungle artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Birmingham and 24 more. Often billed alongside Nicky Blackmarket, Bladerunner and Grooverider. Next up: Electric Brixton, London on Sat 5 Dec.
+DJ SS is a drum & bass and jungle artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Birmingham and 24 more. Often billed alongside Nicky Blackmarket, Bladerunner and Grooverider. Next up: Electric Brixton, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Electric Brixton | London |
+| Sat, 19 Dec 2026 | Brixton Jamm | London |
 | Thu, 31 Dec 2026 | Tunnel Club | Birmingham |
+| Fri, 1 Jan 2027 | Not For Sale Gallery | London |
 | Sat, 9 Jan 2027 | KOKO | London |
 | Sat, 6 Feb 2027 | The Warehouse | Leeds |
 
@@ -28,4 +30,4 @@ DJ SS is a drum & bass and jungle artist based in United Kingdom, with 83 gigs o
 
 Nicky Blackmarket, Bladerunner, Grooverider
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djss/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djss/)*

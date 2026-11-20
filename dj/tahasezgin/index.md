@@ -1,6 +1,6 @@
 # Taha Sezgin
 
-Taha Sezgin is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 74 Hall, Istanbul on Sat, 26 Dec 2026.
+Taha Sezgin is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 74 Hall, Istanbul on Sat, 26 Dec 2026.
 
 Taha Sezgin is a techno and acid artist based in Turkey, with 21 gigs on soundcheck across Istanbul. Often billed alongside Arda Yazkan, SlREN and CNVN. Next up: 74 Hall, Istanbul on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Taha Sezgin is a techno and acid artist based in Turkey, with 21 gigs on soundch
 
 Arda Yazkan, SlREN, CNVN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tahasezgin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tahasezgin/)*

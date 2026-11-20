@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Celia^s Birthday Bash" on Fri, 20 Nov 2026.
+Baalsaal is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Celia's Birthday Bash" on Fri, 20 Nov 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, with line-ups including Andra (DE), dannycookin, FRÆNCIS and JENKA and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -8,7 +8,7 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Celia^s Birthday Bash |  |
+| Fri, 20 Nov 2026 | Celia's Birthday Bash |  |
 | Sat, 21 Nov 2026 | Move to Groove | FRÆNCIS, JENKA, Nelli, dannycookin |
 | Fri, 27 Nov 2026 | Antonia's B meets 2HARD4U |  |
 | Sat, 28 Nov 2026 | STCTRS w/ Larook (Geheimclub), URSUS , RØØB  | Larook, ROOB |
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, wit
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

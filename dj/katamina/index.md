@@ -1,6 +1,6 @@
 # Katamina
 
-Katamina is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at parking.radio, Quebec City on Sat, 28 Nov 2026.
+Katamina is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at parking.radio, Quebec City on Sat, 28 Nov 2026.
 
 Katamina is a techno and hardcore artist based in Canada, with 56 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside Casa Kobrae, nastygloss and Meen Moreen. Next up: parking.radio, Quebec City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Katamina is a techno and hardcore artist based in Canada, with 56 gigs on soundc
 
 Casa Kobrae, nastygloss, Meen Moreen
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*

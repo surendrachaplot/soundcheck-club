@@ -1,14 +1,15 @@
 # THEOS (1)
 
-THEOS (1) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
+THEOS (1) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
-THEOS is a house and electro artist, with 61 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Brussels and 12 more. Often billed alongside Vitess, Mira Ló and Deborah Aime La Bagarre. Next up: FVTVR, Paris on Fri 4 Dec.
+THEOS is a house and electro artist, with 62 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Brussels and 12 more. Often billed alongside Vitess, Mira Ló and Deborah Aime La Bagarre. Next up: FVTVR, Paris on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | FVTVR | Paris |
+| Thu, 31 Dec 2026 | Hippodrome Parilly | Lyon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ THEOS is a house and electro artist, with 61 gigs on soundcheck across Amsterdam
 
 Vitess, Mira Ló, Deborah Aime La Bagarre
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theos/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theos/)*

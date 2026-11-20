@@ -1,18 +1,19 @@
 # Alphabae
 
-Alphabae is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Wed, 18 Nov 2026.
+Alphabae is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Cova, Hamburg on Sat, 28 Nov 2026.
 
-Alphabae is a techno and house artist, with 9 gigs on soundcheck across Hamburg. Often billed alongside Schott, Bernd and WAYRA. Next up: Fabrique im Gängeviertel, Hamburg on Wed 18 Nov.
+Alphabae is a techno and trance artist, with 10 gigs on soundcheck across Hamburg. Often billed alongside Schott, Bernd and WAYRA. Next up: La Cova, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Fabrique im Gängeviertel | Hamburg |
 | Sat, 28 Nov 2026 | La Cova | Hamburg |
+| Sat, 12 Dec 2026 | Tranzit | Hamburg |
 
 ## Recently played
 
+- Fabrique im Gängeviertel, Hamburg · Wed, 18 Nov 2026
 - glimmer, Hamburg · Sat, 24 Oct 2026
 - Helgoländer Allee, Hamburg · Sat, 29 Aug 2026
 - YOTO, Hamburg · Sat, 29 Aug 2026
@@ -25,4 +26,4 @@ Alphabae is a techno and house artist, with 9 gigs on soundcheck across Hamburg.
 
 Schott (2), Bernd, WAYRA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alphabae/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alphabae/)*

@@ -1,6 +1,6 @@
 # Ken Okuda
 
-Ken Okuda is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
+Ken Okuda is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
 
 Ken Okuda is a house and jazz artist based in Germany, with 65 gigs on soundcheck across Antwerp, Berlin, Hamburg and London and 2 more. Often billed alongside D'Monk, Orlando Rosé and Femdelic. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Ken Okuda is a house and jazz artist based in Germany, with 65 gigs on soundchec
 
 D'Monk, Orlando Rosé, Femdelic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenokuda/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenokuda/)*

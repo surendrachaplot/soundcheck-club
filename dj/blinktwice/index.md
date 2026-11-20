@@ -1,6 +1,6 @@
 # Blink Twice
 
-Blink Twice is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Horse & Groom, London on Fri, 27 Nov 2026.
+Blink Twice is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Horse & Groom, London on Fri, 27 Nov 2026.
 
 Blink Twice is a house and tech house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Adaje, BOA and DJ Heat. Next up: The Horse & Groom, London on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Blink Twice is a house and tech house artist based in United Kingdom, with 6 gig
 
 Adaje, BOA (1), DJ Heat
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blinktwice/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blinktwice/)*

@@ -1,6 +1,6 @@
 # Oliver Moon
 
-Oliver Moon is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hoppetosse, Berlin on Fri, 11 Dec 2026.
+Oliver Moon is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Hoppetosse, Berlin on Fri, 11 Dec 2026.
 
 Oliver Moon is a house and acid artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona, Berlin and London. Often billed alongside Free Zing, Alien Communications and Silverlining. Next up: Hoppetosse, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Oliver Moon is a house and acid artist based in United Kingdom, with 18 gigs on 
 
 Free Zing, Alien Communications, Silverlining
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermoon/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermoon/)*

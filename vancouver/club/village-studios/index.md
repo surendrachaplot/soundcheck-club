@@ -1,6 +1,6 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Stacked pres. Dennett" on Fri, 20 Nov 2026.
+Village Studios is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Stacked pres. Dennett" on Fri, 20 Nov 2026.
 
 Village Studios is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs, with line-ups including Charlie Shell, Dubfire and Zorza. See dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
@@ -18,4 +18,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 5 upcoming g
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

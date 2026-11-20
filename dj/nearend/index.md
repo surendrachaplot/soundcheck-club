@@ -1,6 +1,6 @@
 # Near End
 
-Near End is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 28 Nov 2026.
+Near End is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 28 Nov 2026.
 
 Near End is a techno and house artist based in Switzerland, with 18 gigs on soundcheck across Basel and Zurich. Often billed alongside Thomas Bianco, Jelena and kso12. Next up: Amboss Rampe, Zurich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Near End is a techno and house artist based in Switzerland, with 18 gigs on soun
 
 Thomas Bianco, Jelena, kso12
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nearend/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nearend/)*

@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Resonance On The Ground curated by IKLECTIK" on Thu, 19 Nov 2026.
+Club Cheek is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "D4NCE THERAPY - VOL 2" on Fri, 20 Nov 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Ruby SD, batgirl, Born Weekend and Cardi-O and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Ruby SD, batgirl, Born Weekend and Cardi-O and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Resonance On The Ground curated by IKLECTIK |  |
 | Fri, 20 Nov 2026 | D4NCE THERAPY - VOL 2 | Born Weekend, MIDRIB, Proc Fiskal |
 | Sat, 21 Nov 2026 | BRIXTON BOOGIE ALLNIGHTER |  |
 | Fri, 27 Nov 2026 | Meet In The MIDI | Karim Bitar, T.NO, Tovsky, mi-el, siân manee |
@@ -23,4 +22,4 @@ Club Cheek is a music venue in London listed on soundcheck. 10 upcoming gigs, wi
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

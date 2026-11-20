@@ -1,6 +1,6 @@
-# Celia^s Birthday Bash at Baalsaal
+# Celia's Birthday Bash at Baalsaal
 
-Celia^s Birthday Bash at Baalsaal on Fri 20 Nov, Hamburg. See the line-up on soundcheck.
+Celia's Birthday Bash at Baalsaal on Fri 20 Nov, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SKDG WestWeelde - Moody Mehran, Lasse Top, Boris Coelman, Alec Dienaar" on Fri, 20 Nov 2026.
+WestWeelde is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "SKDG WestWeelde - Moody Mehran, Lasse Top, Boris Coelman, Alec Dienaar" on Fri, 20 Nov 2026.
 
 WestWeelde is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Alec Dienaar, Analog Kitchen, Andhim and Boris Coelman and 2 more. See dates, start times and who's playing. Klönneplein 4.
 
@@ -20,4 +20,4 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, 
 
 Klönneplein 4, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

@@ -1,6 +1,6 @@
 # T7 Paris
 
-T7 Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "T7: Alex Wann" on Fri, 20 Nov 2026.
+T7 Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "T7: Alex Wann" on Fri, 20 Nov 2026.
 
 T7 Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Alex Wann. See dates, start times and who's playing. Place des Insurgés de Varsovie, 75015 Paris.
 
@@ -14,4 +14,4 @@ T7 Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, with li
 
 Place des Insurgés de Varsovie, 75015 Paris, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/t7-paris/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/t7-paris/)*

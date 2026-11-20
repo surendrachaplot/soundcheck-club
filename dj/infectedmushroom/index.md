@@ -1,6 +1,6 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Infected Mushroom is a Psytrance and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Infected Mushroom is a psytrance and trance artist based in Israel, with 53 gigs on soundcheck across Athens, Atlanta, Austin and Berlin and 27 more. Often billed alongside Angerfist, Astrix and Billy Gillies. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Infected Mushroom is a psytrance and trance artist based in Israel, with 53 gigs
 
 Angerfist, Astrix, Billy Gillies
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

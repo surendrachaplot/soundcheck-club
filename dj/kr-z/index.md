@@ -1,6 +1,6 @@
 # Kr!z
 
-Kr!z is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ingang, Amsterdam on Sun, 22 Nov 2026.
+Kr!z is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ingang, Amsterdam on Sun, 22 Nov 2026.
 
 Kr!z is a techno and house artist based in Belgium, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: ingang, Amsterdam on Sun 22 Nov.
 
@@ -30,4 +30,4 @@ Kr!z is a techno and house artist based in Belgium, with 123 gigs on soundcheck 
 
 Phara, Border One, Marie-Julie
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*

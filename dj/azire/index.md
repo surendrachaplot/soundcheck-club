@@ -1,14 +1,15 @@
 # Azire
 
-Azire is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Parallel 45, London on Fri, 4 Dec 2026.
+Azire is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Parallel 45, London on Fri, 4 Dec 2026.
 
-Azire is a minimal and house artist based in United Kingdom, with 62 gigs on soundcheck across London and Manchester. Often billed alongside Kesh, Billa Bazz and DeRizzio. Next up: Parallel 45, London on Fri 4 Dec.
+Azire is a house and minimal artist based in United Kingdom, with 63 gigs on soundcheck across London and Manchester. Often billed alongside Kesh, Billa Bazz and DeRizzio. Next up: Parallel 45, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Parallel 45 | London |
+| Fri, 18 Dec 2026 | 45 London | London |
 | Sun, 27 Dec 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ Azire is a minimal and house artist based in United Kingdom, with 62 gigs on sou
 
 Kesh (1), Billa Bazz, DeRizzio
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azire/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azire/)*

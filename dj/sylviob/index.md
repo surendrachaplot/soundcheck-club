@@ -1,6 +1,6 @@
 # Sylvio B
 
-Sylvio B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TRAUM, Antwerp on Sat, 26 Dec 2026.
+Sylvio B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TRAUM, Antwerp on Sat, 26 Dec 2026.
 
 Sylvio B is a house and techno artist based in France, with 30 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Hamburg and 4 more. Often billed alongside Electrosexual, Artocore and Ben Manson. Next up: TRAUM, Antwerp on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Sylvio B is a house and techno artist based in France, with 30 gigs on soundchec
 
 Electrosexual, Artocore, Ben Manson
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviob/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviob/)*

@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "RAVE FOR BENEFITS with Ben Derris, Linus Villa, Carotin uvm" on Fri, 20 Nov 2026.
+://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "RAVE FOR BENEFITS with Ben Derris, Linus Villa, Carotin uvm" on Fri, 20 Nov 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including Aamir, Aexhy, alemiko and Alex.Do and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

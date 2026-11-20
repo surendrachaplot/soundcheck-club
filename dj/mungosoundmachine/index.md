@@ -1,15 +1,16 @@
 # Mungo Sound Machine
 
-Mungo Sound Machine is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Los Angeles on Sun, 22 Nov 2026.
+Mungo Sound Machine is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Apotheke, Los Angeles on Sun, 22 Nov 2026.
 
-Mungo Sound Machine is a house and deep house artist based in United States of America, with 22 gigs on soundcheck across Denver, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Dor Wand, Erik Vehmeyer and Gene On Earth. Next up: TBA, Los Angeles on Sun 22 Nov.
+Mungo Sound Machine is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Denver, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Dor Wand, Erik Vehmeyer and Gene On Earth. Next up: Apotheke, Los Angeles on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | TBA | Los Angeles |
+| Sun, 22 Nov 2026 | Apotheke | Los Angeles |
 | Fri, 27 Nov 2026 | TBA - New Location | Los Angeles |
+| Sun, 29 Nov 2026 | Bar Franca | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mungo Sound Machine is a house and deep house artist based in United States of A
 
 Dor Wand, Erik Vehmeyer, Gene On Earth
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungosoundmachine/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungosoundmachine/)*

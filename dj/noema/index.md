@@ -1,13 +1,14 @@
 # Noema
 
-Noema is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
+Noema is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Exley, New York City on Sun, 22 Nov 2026.
 
-Noema is a house and balearic artist based in Germany, with 20 gigs on soundcheck across Bangkok, Berlin, Istanbul and Medellin and 4 more. Often billed alongside Fabrizio Mammarella, MAGIC JAMS and Alex Kassian. Next up: Little Moon Villa Koh Mak, Thailand on Tue 29 Dec.
+Noema is a house and balearic artist based in Germany, with 21 gigs on soundcheck across Bangkok, Berlin, Istanbul and Medellin and 5 more. Often billed alongside Fabrizio Mammarella, MAGIC JAMS and Alex Kassian. Next up: The Exley, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | The Exley | New York City |
 | Tue, 29 Dec 2026 | Little Moon Villa Koh Mak | Thailand |
 
 ## Recently played
@@ -25,4 +26,4 @@ Noema is a house and balearic artist based in Germany, with 20 gigs on soundchec
 
 Fabrizio Mammarella, MAGIC JAMS, Alex Kassian
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noema/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noema/)*

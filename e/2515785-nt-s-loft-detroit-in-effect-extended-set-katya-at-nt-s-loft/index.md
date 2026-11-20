@@ -1,6 +1,6 @@
 # NT's Loft: Detroit In Effect [Extended Set] + Katya at NT's Loft
 
-NT's Loft: Detroit In Effect [Extended Set] + Katya on Fri 20 Nov, London. 2 artists: Detroit In Effect and Katya. See the line-up on soundcheck.
+NT's Loft: Detroit In Effect [Extended Set] + Katya on Fri 20 Nov, London. 4 artists: Detroit In Effect, ISHA, Katya and Kudan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ NT's Loft: Detroit In Effect [Extended Set] + Katya on Fri 20 Nov, London. 2 art
 ## Line-up
 
 - Detroit In Effect
+- ISHA
 - Katya
+- Kudan
 
 *Source: [soundcheck](https://soundcheck.club/e/2515785-nt-s-loft-detroit-in-effect-extended-set-katya-at-nt-s-loft/)*

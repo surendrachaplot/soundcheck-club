@@ -1,6 +1,6 @@
 # Michelle Kay
 
-Michelle Kay is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 12 Jan 2027.
+Michelle Kay is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 12 Jan 2027.
 
 Michelle Kay is a techno and minimal techno artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 4 more. Often billed alongside Ramsey Neville, Adrian Hex and Junkfile. Next up: Bossa Nova Civic Club, New York City on Tue 12 Jan.
 
@@ -25,4 +25,4 @@ Michelle Kay is a techno and minimal techno artist based in United States of Ame
 
 Ramsey Neville, Adrian Hex, Junkfile
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*

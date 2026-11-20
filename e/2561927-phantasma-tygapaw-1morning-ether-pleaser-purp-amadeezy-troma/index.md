@@ -1,6 +1,6 @@
 # Phantasma: TYGAPAW, 1morning, Ether Pleaser + purp, Amadeezy, Tromac b2b King Virgo at Paragon
 
-Phantasma: TYGAPAW, 1morning, Ether Pleaser + purp, Amadeezy, Tromac b2b King Virgo at Paragon on Fri 20 Nov, New York City. 7 artists: 1morning, Amadeezy, Ether Pleaser and King Virgo and 3 more. Techno and Club. See the line-up on soundcheck.
+Phantasma: TYGAPAW, 1morning, Ether Pleaser + purp, Amadeezy, Tromac b2b King Virgo at Paragon on Fri 20 Nov, New York City. 6 artists: 1morning, Ether Pleaser, King Virgo and purp and 2 more. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Phantasma: TYGAPAW, 1morning, Ether Pleaser + purp, Amadeezy, Tromac b2b King Vi
 ## Line-up
 
 - 1morning
-- Amadeezy
 - Ether Pleaser
 - King Virgo
 - purp

@@ -1,6 +1,6 @@
 # IPAR
 
-IPAR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Toldi Klub, Budapest on Fri, 20 Nov 2026.
+IPAR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Toldi Klub, Budapest on Fri, 20 Nov 2026.
 
 IPAR is a techno and trance artist based in Hungary, with 5 gigs on soundcheck across Berlin and Budapest. Often billed alongside SABBER, Alexa Fluor and Alina Viktoria. Next up: Toldi Klub, Budapest on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ IPAR is a techno and trance artist based in Hungary, with 5 gigs on soundcheck a
 
 SABBER, Alexa Fluor, Alina Viktoria
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ipar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ipar/)*

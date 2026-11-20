@@ -1,13 +1,14 @@
 # Joyce Muniz
 
-Joyce Muniz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Dockland, Münster on Sat, 19 Dec 2026.
+Joyce Muniz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at SASS Music Club, Vienna on Fri, 18 Dec 2026.
 
-Joyce Muniz is a house and techno artist based in Brazil, with 83 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 25 more. Often billed alongside Mira, Nick Hanzo and Anja Schneider. Next up: Dockland, Münster on Sat 19 Dec.
+Joyce Muniz is a house and techno artist based in Brazil, with 84 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 25 more. Often billed alongside Mira, Nick Hanzo and Anja Schneider. Next up: SASS Music Club, Vienna on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | SASS Music Club | Vienna |
 | Sat, 19 Dec 2026 | Dockland | Münster |
 | Thu, 31 Dec 2026 | OXI | Berlin |
 
@@ -26,4 +27,4 @@ Joyce Muniz is a house and techno artist based in Brazil, with 83 gigs on soundc
 
 Mira, Nick Hanzo, Anja Schneider
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joycemuniz/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joycemuniz/)*

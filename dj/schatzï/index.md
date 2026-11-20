@@ -1,6 +1,6 @@
 # Schatzï
 
-Schatzï is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Visionnaire Rome, Rome on Fri, 27 Nov 2026.
+Schatzï is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Visionnaire Rome, Rome on Fri, 27 Nov 2026.
 
 Schatzï is a house and electronica artist based in Italy, with 21 gigs on soundcheck across Berlin, Madrid, Milan and Paris and 1 more. Often billed alongside MaLo, Oceanwax and Coni. Next up: Visionnaire Rome, Rome on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Schatzï is a house and electronica artist based in Italy, with 21 gigs on sound
 
 MaLo, Oceanwax, Coni (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schatzï/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schatzï/)*

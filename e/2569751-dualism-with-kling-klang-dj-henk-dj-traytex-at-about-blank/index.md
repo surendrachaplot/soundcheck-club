@@ -1,6 +1,6 @@
 # DUALISM with KLING&KLANG, DJ Henk, DJ Traytex at ://about blank
 
-DUALISM with KLING&KLANG, DJ Henk, DJ Traytex at ://about blank on Sat 30 Jan, Berlin. 10 artists: alemiko, bbymeister, Bobaz and DJ Henk and 6 more. Trance and Techno. See the line-up on soundcheck.
+DUALISM with KLING&KLANG, DJ Henk, DJ Traytex at ://about blank on Sat 30 Jan, Berlin. 11 artists: alemiko, bbymeister, Bobaz and DJ Henk and 7 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ DUALISM with KLING&KLANG, DJ Henk, DJ Traytex at ://about blank on Sat 30 Jan, B
 - KLING&KLANG
 - Krash Cora
 - Megaira
+- Milia Stella
 - Pamela Rave
 
 *Source: [soundcheck](https://soundcheck.club/e/2569751-dualism-with-kling-klang-dj-henk-dj-traytex-at-about-blank/)*

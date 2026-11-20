@@ -1,6 +1,6 @@
 # Jen Tops
 
-Jen Tops is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - SECRET LOCATION, Seattle on Fri, 27 Nov 2026.
+Jen Tops is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - SECRET LOCATION, Seattle on Fri, 27 Nov 2026.
 
 Jen Tops is a drum & bass and bass artist based in United States of America, with 7 gigs on soundcheck across Denver and Seattle. Often billed alongside Grym, Quaad and Amit. Next up: TBA - SECRET LOCATION, Seattle on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Jen Tops is a drum & bass and bass artist based in United States of America, wit
 
 Grym, Quaad, Amit
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jentops/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jentops/)*

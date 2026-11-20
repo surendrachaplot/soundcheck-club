@@ -1,8 +1,8 @@
 # KOKO
 
-KOKO is a music venue in London with 23 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) [SOLD OUT]" on Fri, 20 Nov 2026.
+KOKO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) [SOLD OUT]" on Fri, 20 Nov 2026.
 
-KOKO is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Anyasa and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Anyasa and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 23 upcoming gigs, with lin
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

@@ -1,6 +1,6 @@
 # Raphael Scemama
 
-Raphael Scemama is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Tomodachi, Ibiza on Fri, 20 Nov 2026.
+Raphael Scemama is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tomodachi, Ibiza on Fri, 20 Nov 2026.
 
 Raphael Scemama is a house and minimal artist based in France, with 20 gigs on soundcheck across Barcelona, Ibiza, London and Paris. Often billed alongside Arthur Nozen, Jeremy Weeks and Anthony Middleton. Next up: Tomodachi, Ibiza on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Raphael Scemama is a house and minimal artist based in France, with 20 gigs on s
 
 Arthur Nozen, Jeremy Weeks, Anthony Middleton
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelscemama/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelscemama/)*

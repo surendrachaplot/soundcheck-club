@@ -1,6 +1,6 @@
 # Is Kill
 
-Is Kill is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Dukes Corner, Dundee on Sat, 21 Nov 2026.
+Is Kill is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Dukes Corner, Dundee on Sat, 21 Nov 2026.
 
 Is Kill is a techno and minimal techno artist based in United Kingdom, with 32 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Sonho, BAYNE and eosap. Next up: Dukes Corner, Dundee on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Is Kill is a techno and minimal techno artist based in United Kingdom, with 32 g
 
 Sonho, BAYNE, eosap
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iskill/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iskill/)*

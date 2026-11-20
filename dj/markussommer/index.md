@@ -1,8 +1,8 @@
 # Markus Sommer
 
-Markus Sommer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Modeci, Seoul on Sat, 21 Nov 2026.
+Markus Sommer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Modeci, Seoul on Sat, 21 Nov 2026.
 
-Markus Sommer is a house and techno artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Tom Ries, Phil Evans and Tzena. Next up: Modeci, Seoul on Sat 21 Nov.
+Markus Sommer is a house and techno artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Tom Ries, Phil Evans and Tzena. Next up: Modeci, Seoul on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Markus Sommer is a house and techno artist based in Germany, with 78 gigs on sou
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Modeci | Seoul |
 | Sat, 5 Dec 2026 | Hoppetosse | Berlin |
+| Fri, 25 Dec 2026 | Under Bron | Stockholm |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Markus Sommer is a house and techno artist based in Germany, with 78 gigs on sou
 
 Tom Ries, Phil Evans, Tzena
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*

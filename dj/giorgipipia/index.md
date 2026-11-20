@@ -1,6 +1,6 @@
 # Giorgi Pipia
 
-Giorgi Pipia is a Hip-Hop and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Left Bank, Tbilisi on Sat, 21 Nov 2026.
+Giorgi Pipia is a Hip-Hop and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Left Bank, Tbilisi on Sat, 21 Nov 2026.
 
 Giorgi Pipia is a hip-hop and electro artist based in Georgia, with 69 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Routes Not Roots, Ash Scholem and Dali (GE). Next up: Left Bank, Tbilisi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Giorgi Pipia is a hip-hop and electro artist based in Georgia, with 69 gigs on s
 
 Routes Not Roots, Ash Scholem, Dali (GE)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgipipia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgipipia/)*

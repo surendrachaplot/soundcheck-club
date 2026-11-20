@@ -1,13 +1,14 @@
 # Edson César
 
-Edson César is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at BRET, Amsterdam on Sun, 20 Dec 2026.
+Edson César is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hal 4 aan de Maas, Rotterdam on Fri, 4 Dec 2026.
 
-Edson César is a tech house and house artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Chico Rose, Maqossa and FAVELOUS. Next up: BRET, Amsterdam on Sun 20 Dec.
+Edson César is a tech house and house artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Chico Rose, Maqossa and Divine. Next up: Hal 4 aan de Maas, Rotterdam on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Hal 4 aan de Maas | Rotterdam |
 | Sun, 20 Dec 2026 | BRET | Amsterdam |
 
 ## Recently played
@@ -17,6 +18,6 @@ Edson César is a tech house and house artist based in Netherlands, with 3 gigs 
 
 ## Shares bills with
 
-Chico Rose, Maqossa, FAVELOUS
+Chico Rose, Maqossa, Divine
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edsoncesar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edsoncesar/)*

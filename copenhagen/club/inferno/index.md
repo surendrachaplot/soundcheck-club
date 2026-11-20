@@ -1,17 +1,18 @@
 # Inferno
 
-Inferno is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Bongo & Pusk inviterer MOLLE LUX på Inferno" on Fri, 27 Nov 2026.
+Inferno is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Bongo & Pusk inviterer MOLLE LUX på Inferno" on Fri, 27 Nov 2026.
 
-Inferno is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Bongo & Pusk. See dates, start times and who's playing. Istedgade 36, 1650 København.
+Inferno is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including Bongo & Pusk. See dates, start times and who's playing. Istedgade 36, 1650 København.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Bongo & Pusk inviterer MOLLE LUX på Inferno | Bongo & Pusk |
+| Fri, 27 Nov 2026 | BONGO & PUSK inviterer MOLLE LUX på INFERNO | Bongo & Pusk |
 
 ## Address
 
 Istedgade 36, 1650 København, Copenhagen
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/inferno/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/inferno/)*

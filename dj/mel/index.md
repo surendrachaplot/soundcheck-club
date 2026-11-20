@@ -1,14 +1,15 @@
 # Mel
 
-Mel is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Nido Marseille, Marseille on Fri, 20 Nov 2026.
+Mel is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Nido Marseille, Marseille on Fri, 20 Nov 2026.
 
-Mel is a drum & bass and house artist based in France, with 10 gigs on soundcheck across Barcelona, Bristol, London and Marseille and 2 more. Often billed alongside Disrupta, 1991 and A.M.C.. Next up: Nido Marseille, Marseille on Fri 20 Nov.
+Mel is a techno and drum & bass artist based in France, with 11 gigs on soundcheck across Barcelona, Bristol, London and Marseille and 3 more. Often billed alongside Disrupta, 1991 and A.M.C.. Next up: Nido Marseille, Marseille on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Nido Marseille | Marseille |
+| Fri, 11 Dec 2026 | la Maison de la Conversation | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mel is a drum & bass and house artist based in France, with 10 gigs on soundchec
 
 Disrupta, 1991, A.M.C.
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mel/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mel/)*

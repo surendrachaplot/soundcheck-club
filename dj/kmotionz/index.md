@@ -1,6 +1,6 @@
 # K Motionz
 
-K Motionz is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Digital, Newcastle on Fri, 20 Nov 2026.
+K Motionz is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Digital, Newcastle on Fri, 20 Nov 2026.
 
 K Motionz is a drum & bass and bass artist based in United Kingdom, with 98 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 36 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: Digital, Newcastle on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ K Motionz is a drum & bass and bass artist based in United Kingdom, with 98 gigs
 
 Hybrid Minds, IC3, Mozey
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*

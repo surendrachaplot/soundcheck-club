@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Laak, The Hague on Fri, 20 Nov 2026.
+Aurora Halal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Laak, The Hague on Fri, 20 Nov 2026.
 
 Aurora Halal is a techno and house artist based in United States of America, with 253 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 63 more. Often billed alongside DJ Nobu, Avalon Emerson and Ben UFO. Next up: Laak, The Hague on Fri 20 Nov.
 
@@ -18,7 +18,7 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 | Fri, 18 Dec 2026 | Post Bar | Helsinki |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | Flash | Washington DC |
-| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 | Thu, 17 Jun 2027 | TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night) | Barcelona |
 
 ## Recently played
@@ -36,4 +36,4 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 
 DJ Nobu, Avalon Emerson, Ben UFO
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

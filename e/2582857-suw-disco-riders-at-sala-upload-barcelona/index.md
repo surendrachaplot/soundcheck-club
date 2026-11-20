@@ -1,6 +1,6 @@
 # SUW Disco Riders at Sala Upload Barcelona
 
-SUW Disco Riders at Sala Upload Barcelona on Sat 19 Dec, Barcelona. 3 artists: Diego Montiel, Enzio Etchaberri and Fabrizio Mammarella. Electronica. See the line-up on soundcheck.
+SUW Disco Riders at Sala Upload Barcelona on Sat 19 Dec, Barcelona. 4 artists: Diego Montiel, Enzio Etchaberri, Fabrizio Mammarella and Radio Vega. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ SUW Disco Riders at Sala Upload Barcelona on Sat 19 Dec, Barcelona. 3 artists: D
 - Diego Montiel
 - Enzio Etchaberri
 - Fabrizio Mammarella
+- Radio Vega
 
 *Source: [soundcheck](https://soundcheck.club/e/2582857-suw-disco-riders-at-sala-upload-barcelona/)*

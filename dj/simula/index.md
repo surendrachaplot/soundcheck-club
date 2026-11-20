@@ -1,18 +1,18 @@
 # Simula
 
-Simula is a Drum & Bass and Dubstep artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Wolfbrook Arena, Christchurch on Fri, 20 Nov 2026.
+Simula is a Drum & Bass and Dubstep artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Trusts Stadium, Auckland on Sat, 21 Nov 2026.
 
-Simula is a drum & bass and dubstep artist based in United Kingdom, with 64 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 30 more. Often billed alongside Hedex, Jakes and Skantia. Next up: Wolfbrook Arena, Christchurch on Fri 20 Nov.
+Simula is a drum & bass and dubstep artist based in United Kingdom, with 65 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 31 more. Often billed alongside Hedex, Skantia and Jakes. Next up: The Trusts Stadium, Auckland on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Wolfbrook Arena | Christchurch |
 | Sat, 21 Nov 2026 | The Trusts Stadium | Auckland |
 | Fri, 4 Dec 2026 | Stealth | Nottingham |
 | Sat, 5 Dec 2026 | Mia Mao | Paris |
 | Sat, 12 Dec 2026 | Grelle Forelle | Vienna |
+| Fri, 19 Mar 2027 | Vivo Beach Club | Puerto-rico |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
@@ -29,6 +29,6 @@ Simula is a drum & bass and dubstep artist based in United Kingdom, with 64 gigs
 
 ## Shares bills with
 
-Hedex, Jakes, Skantia
+Hedex, Skantia, Jakes
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*

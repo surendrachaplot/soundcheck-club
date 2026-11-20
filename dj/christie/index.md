@@ -1,8 +1,8 @@
 # Christie
 
-Christie is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
+Christie is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
 
-Christie is a techno and trance artist based in France, with 40 gigs on soundcheck across Berlin, Marseille, Nantes and Paris and 1 more. Often billed alongside In-Tan, Cattoni and Kelbail. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
+Christie is a techno and trance artist based in France, with 41 gigs on soundcheck across Berlin, Lyon, Marseille and Nantes and 2 more. Often billed alongside In-Tan, Cattoni and Kelbail. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Christie is a techno and trance artist based in France, with 40 gigs on soundche
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | La Rotonde Stalingrad | Paris |
 | Thu, 10 Dec 2026 | Mia Mao | Paris |
+| Thu, 31 Dec 2026 | Hippodrome Parilly | Lyon |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Christie is a techno and trance artist based in France, with 40 gigs on soundche
 
 In-Tan, Cattoni, Kelbail
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christie/)*

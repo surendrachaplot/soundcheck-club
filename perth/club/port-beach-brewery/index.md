@@ -1,13 +1,14 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "House CLTR Perth feat. wAFF (Nature, Hot Creations)" on Fri, 27 Nov 2026.
+Port Beach Brewery is a music venue in Perth with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Upper Vibe: Perth Edition" on Sat, 21 Nov 2026.
 
-Port Beach Brewery is a music venue in Perth listed on soundcheck. 8 upcoming gigs, with line-ups including Aline Rocha, Chicane, David Penn and Dr Packer and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
+Port Beach Brewery is a music venue in Perth listed on soundcheck. 9 upcoming gigs, with line-ups including Aline Rocha, Chicane, David Penn and Dr Packer and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Upper Vibe: Perth Edition |  |
 | Fri, 27 Nov 2026 | House CLTR Perth feat. wAFF (Nature, Hot Creations) | wAFF |
 | Sat, 5 Dec 2026 | Defected Perth 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
 | Fri, 18 Dec 2026 | TRYBE & LGD Pres: Marten Lou | Marten Lou |
@@ -21,4 +22,4 @@ Port Beach Brewery is a music venue in Perth listed on soundcheck. 8 upcoming gi
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

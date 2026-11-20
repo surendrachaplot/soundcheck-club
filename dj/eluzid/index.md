@@ -1,13 +1,14 @@
 # Eluzid
 
-Eluzid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at elipamanoke, Leipzig on Fri, 4 Dec 2026.
+Eluzid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Beetroot, Berlin on Sat, 21 Nov 2026.
 
-Eluzid is a techno and house artist based in Germany, with 71 gigs on soundcheck across Bavaria, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: elipamanoke, Leipzig on Fri 4 Dec.
+Eluzid is a techno and house artist based in Germany, with 72 gigs on soundcheck across Bavaria, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: Beetroot, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Beetroot | Berlin |
 | Fri, 4 Dec 2026 | elipamanoke | Leipzig |
 | Thu, 31 Dec 2026 | Kater | Berlin |
 
@@ -26,4 +27,4 @@ Eluzid is a techno and house artist based in Germany, with 71 gigs on soundcheck
 
 Amin Fallaha, Miran N, aitch
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*

@@ -1,6 +1,6 @@
 # Cellphii
 
-Cellphii is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Western Springs Lakeside Park, Auckland on Sat, 21 Nov 2026.
+Cellphii is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Western Springs Lakeside Park, Auckland on Sat, 21 Nov 2026.
 
 Cellphii is a techno and experimental artist, with 6 gigs on soundcheck across Auckland. Often billed alongside Clay Louis, Peach Milk and ANABE. Next up: Western Springs Lakeside Park, Auckland on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Cellphii is a techno and experimental artist, with 6 gigs on soundcheck across A
 
 Clay Louis, Peach Milk, ANABE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cellphii/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cellphii/)*

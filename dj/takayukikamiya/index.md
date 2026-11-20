@@ -1,6 +1,6 @@
 # Takayuki Kamiya
 
-Takayuki Kamiya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kieth Flack, Kyushu on Sun, 13 Dec 2026.
+Takayuki Kamiya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Kieth Flack, Kyushu on Sun, 13 Dec 2026.
 
 Takayuki Kamiya is a techno and house artist based in Japan, with 52 gigs on soundcheck across Kyushu, Osaka and Tokyo. Often billed alongside Wat, Takami and Spinnage. Next up: Kieth Flack, Kyushu on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Takayuki Kamiya is a techno and house artist based in Japan, with 52 gigs on sou
 
 Wat, Takami, Spinnage
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*

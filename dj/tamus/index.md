@@ -1,13 +1,14 @@
 # Tamus
 
-Tamus is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The White Hotel, Manchester on Fri, 4 Dec 2026.
+Tamus is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Jolene, Copenhagen on Sat, 28 Nov 2026.
 
-Tamus is an experimental and techno artist based in United Kingdom, with 24 gigs on soundcheck across Antwerp, London and Manchester. Often billed alongside Conor Thomas, KD22LR and Medlock. Next up: The White Hotel, Manchester on Fri 4 Dec.
+Tamus is an experimental and techno artist based in United Kingdom, with 25 gigs on soundcheck across Antwerp, Copenhagen, London and Manchester. Often billed alongside Conor Thomas, KD22LR and Medlock. Next up: Jolene, Copenhagen on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Jolene | Copenhagen |
 | Fri, 4 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tamus is an experimental and techno artist based in United Kingdom, with 24 gigs
 
 Conor Thomas, KD22LR, Medlock
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*

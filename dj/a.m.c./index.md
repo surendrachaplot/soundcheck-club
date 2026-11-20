@@ -1,8 +1,8 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 29 more. Often billed alongside Phantom, Koven and IC3. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 29 more. Often billed alongside Phantom, Koven and IC3. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,9 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 52 gigs 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
+| Fri, 18 Dec 2026 | Thirty3hz | South-east |
+| Fri, 19 Mar 2027 | Roxy | Prague |
+| Sat, 20 Mar 2027 | Roxy | Prague |
 | Sat, 4 Dec 2027 | Brno Exhibition Centre | Brno |
 
 ## Recently played
@@ -27,4 +30,4 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 52 gigs 
 
 Phantom, Koven, IC3
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

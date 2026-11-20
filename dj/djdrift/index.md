@@ -1,6 +1,6 @@
 # DJ Drift
 
-DJ Drift is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Secret Location , Tokyo on Fri, 20 Nov 2026.
+DJ Drift is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location , Tokyo on Fri, 20 Nov 2026.
 
 DJ Drift is a techno and breakbeat artist based in Netherlands, with 10 gigs on soundcheck across Tokyo and Zurich. Often billed alongside Anapol, Drinkss and uuu7. Next up: TBA - Secret Location , Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Drift is a techno and breakbeat artist based in Netherlands, with 10 gigs on 
 
 Anapol, Drinkss, uuu7
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdrift/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdrift/)*

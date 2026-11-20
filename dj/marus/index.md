@@ -1,8 +1,8 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Skin Club, Madrid on Sat, 21 Nov 2026.
+Mar/us is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Skin Club, Madrid on Sat, 21 Nov 2026.
 
-Mar/us is a techno and house artist, with 110 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 33 more. Often billed alongside Cristian Marras, Metaraph and BOYCA. Next up: Skin Club, Madrid on Sat 21 Nov.
+Mar/us is a techno and house artist, with 111 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 33 more. Often billed alongside Cristian Marras, Metaraph and BOYCA. Next up: Skin Club, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mar/us is a techno and house artist, with 110 gigs on soundcheck across Amsterda
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Skin Club | Madrid |
 | Sat, 28 Nov 2026 | C12 | Brussels |
+| Sat, 19 Dec 2026 | KREUZWERK | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Mar/us is a techno and house artist, with 110 gigs on soundcheck across Amsterda
 
 Cristian Marras, Metaraph, BOYCA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

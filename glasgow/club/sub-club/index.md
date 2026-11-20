@@ -1,14 +1,13 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "DJ BORING & Sam Alfred" on Thu, 19 Nov 2026.
+Sub Club is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Co-Accused with Dave Clarke & Gary Beck" on Fri, 20 Nov 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including FLETCH, Alien Communications, Archie Hamilton and Ben Hemsley and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with line-ups including FLETCH, Alien Communications, Archie Hamilton and Ben Hemsley and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | DJ BORING & Sam Alfred | DJ BORING, Sam Alfred |
 | Fri, 20 Nov 2026 | Co-Accused with Dave Clarke & Gary Beck | Co-Accused, Dave Clarke, Gary Beck |
 | Sat, 21 Nov 2026 | Subculture with Telford + François K | Francois K, Telford |
 | Thu, 26 Nov 2026 | FLY - Denis Sulta - Glasgow | Denis Sulta |
@@ -18,9 +17,10 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, wit
 | Fri, 4 Dec 2026 | Colours House Party Presents - Danny Tenaglia | Danny Tenaglia |
 | Fri, 4 Dec 2026 | Colours House Party presents - Danny Tenaglia |  |
 | Sat, 5 Dec 2026 | Subculture with Stevie Cox + Blasha & Allatt [House Set] // 11pm - 5am | Blasha & Allatt, Stevie Cox |
+| Sun, 6 Dec 2026 | Nightvision presents: Ben Hemsley // Sub Club, Glasgow | Ben Hemsley |
 
 ## Address
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

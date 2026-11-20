@@ -1,13 +1,14 @@
 # Richard Fribert
 
-Richard Fribert is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Richard Fribert is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kockiri, Seoul on Sat, 21 Nov 2026.
 
-Richard Fribert is a house and disco artist based in Sweden, with 46 gigs on soundcheck across Bangkok, London, Melbourne and Montreal and 9 more. Often billed alongside Lorem Ipsum Crew, Merchant and Cannelle. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Richard Fribert is a house and disco artist based in Sweden, with 47 gigs on soundcheck across Bangkok, London, Melbourne and Montreal and 9 more. Often billed alongside Lorem Ipsum Crew, Merchant and Cannelle. Next up: Kockiri, Seoul on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Kockiri | Seoul |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -25,4 +26,4 @@ Richard Fribert is a house and disco artist based in Sweden, with 46 gigs on sou
 
 Lorem Ipsum Crew, Merchant, Cannelle
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*

@@ -1,8 +1,8 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
+VIVI909 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
 
-VIVI909 is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin, Brandenburg, Cologne and Düsseldorf and 6 more. Often billed alongside Mila Black, CAIVA and Cera Khin. Next up: Gotec, Karlsruhe on Sat 21 Nov.
+VIVI909 is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin, Brandenburg, Cologne and Düsseldorf and 5 more. Often billed alongside Mila Black, CAIVA and Cera Khin. Next up: Gotec, Karlsruhe on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ VIVI909 is a techno and trance artist based in Germany, with 21 gigs on soundche
 | Sat, 21 Nov 2026 | Gotec | Karlsruhe |
 | Sat, 28 Nov 2026 | Siggi | Brandenburg |
 | Sat, 5 Dec 2026 | OST | Berlin |
-| Fri, 11 Dec 2026 | WDM | Hannover |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
@@ -29,4 +28,4 @@ VIVI909 is a techno and trance artist based in Germany, with 21 gigs on soundche
 
 Mila Black, CAIVA, Cera Khin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*

@@ -1,6 +1,6 @@
 # Brunch with Benefits with Bebetta, Chasing Kurt, Karibik Joe b2b OKY at Leib & Seele
 
-Brunch with Benefits with Bebetta, Chasing Kurt, Karibik Joe b2b OKY at Leib & Seele on Sat 12 Dec, Frankfurt. 2 artists: Bebetta and Chasing Kurt. House and Tech House. See the line-up on soundcheck.
+Brunch with Benefits with Bebetta, Chasing Kurt, Karibik Joe b2b OKY at Leib & Seele on Sat 12 Dec, Frankfurt. 3 artists: Bebetta, Chasing Kurt and Karibik Joe. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Brunch with Benefits with Bebetta, Chasing Kurt, Karibik Joe b2b OKY at Leib & S
 
 - Bebetta
 - Chasing Kurt
+- Karibik Joe
 
 *Source: [soundcheck](https://soundcheck.club/e/2570540-brunch-with-benefits-with-bebetta-chasing-kurt-karibik-joe-b/)*

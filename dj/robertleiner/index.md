@@ -1,6 +1,6 @@
 # Robert Leiner
 
-Robert Leiner is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Lasociaciøn, Madrid on Sat, 21 Nov 2026.
+Robert Leiner is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lasociaciøn, Madrid on Sat, 21 Nov 2026.
 
 Robert Leiner is a techno and electro artist based in Sweden, with 19 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Gothenburg and 5 more. Often billed alongside Luke Eargoggle, Aba Shanti-I and Alexander Lind. Next up: Lasociaciøn, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Robert Leiner is a techno and electro artist based in Sweden, with 19 gigs on so
 
 Luke Eargoggle, Aba Shanti-I, Alexander Lind
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*

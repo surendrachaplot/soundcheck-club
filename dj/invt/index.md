@@ -1,14 +1,15 @@
 # INVT
 
-INVT is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+INVT is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-INVT is a house and techno artist based in United States of America, with 135 gigs on soundcheck across Atlanta, Barcelona, Berlin and Birmingham and 37 more. Often billed alongside Danny Daze, Jonny From Space and Jubilee. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+INVT is a house and techno artist based in United States of America, with 136 gigs on soundcheck across Atlanta, Barcelona, Berlin and Birmingham and 37 more. Often billed alongside Danny Daze, Jonny From Space and Jubilee. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Sat, 12 Dec 2026 | StereoBar | Montreal |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
@@ -26,4 +27,4 @@ INVT is a house and techno artist based in United States of America, with 135 gi
 
 Danny Daze, Jonny From Space, Jubilee
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

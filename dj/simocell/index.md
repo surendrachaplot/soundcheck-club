@@ -1,8 +1,8 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at EartH, London on Sat, 28 Nov 2026.
+Simo Cell is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at EartH, London on Sat, 28 Nov 2026.
 
-Simo Cell is a bass and techno artist based in France, with 139 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 61 more. Often billed alongside CCL, DjRUM and Abdullah Miniawy. Next up: EartH, London on Sat 28 Nov.
+Simo Cell is a bass and techno artist based in France, with 140 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 61 more. Often billed alongside CCL, DjRUM and Abdullah Miniawy. Next up: EartH, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Simo Cell is a bass and techno artist based in France, with 139 gigs on soundche
 | Sat, 28 Nov 2026 | EartH | London |
 | Sat, 12 Dec 2026 | OCZKI | Warsaw |
 | Fri, 18 Dec 2026 | OHM | Berlin |
+| Sat, 20 Feb 2027 | Bien Public | Bordeaux |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Simo Cell is a bass and techno artist based in France, with 139 gigs on soundche
 
 CCL, DjRUM, Abdullah Miniawy
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

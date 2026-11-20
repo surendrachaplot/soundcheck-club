@@ -1,14 +1,15 @@
 # EMLEE
 
-EMLEE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
+EMLEE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
 
-EMLEE is a tech house and house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Azire, Banksie and Boo. Next up: 93 Feet East, London on Sat 12 Dec.
+EMLEE is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Azire, B3 and Banksie. Next up: 93 Feet East, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | 93 Feet East | London |
+| Sat, 26 Dec 2026 | Basing House | London |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ EMLEE is a tech house and house artist based in United Kingdom, with 3 gigs on s
 
 ## Shares bills with
 
-Azire, Banksie, Boo
+Azire, B3, Banksie
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emlee-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emlee-uk/)*

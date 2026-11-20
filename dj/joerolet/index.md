@@ -1,6 +1,6 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Joe Rolét is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 Joe Rolét is a tech house and house artist based in United Kingdom, with 29 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Berlin and 10 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Joe Rolét is a tech house and house artist based in United Kingdom, with 29 gig
 
 Fleur Shore, Max Dean, Olive F
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

@@ -1,14 +1,15 @@
 # ANNX
 
-ANNX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+ANNX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
-ANNX is a techno and trance artist based in United Kingdom, with 48 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Bristol and 13 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Low Profile Studios, London on Sat 28 Nov.
+ANNX is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Bristol and 13 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Low Profile Studios, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Low Profile Studios | London |
+| Fri, 11 Dec 2026 | Ballroom at Palais | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ANNX is a techno and trance artist based in United Kingdom, with 48 gigs on soun
 
 Lora Mipsum, noodle, Anna Wall
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*

@@ -1,6 +1,6 @@
 # Harry Shotta
 
-Harry Shotta is a Drum & Bass and Jungle artist with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Harry Shotta is a Drum & Bass and Jungle artist with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside IC3, Logan D and Eksman. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -9,7 +9,6 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
-| Fri, 20 Nov 2026 | The Dome | Liverpool |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 27 Nov 2026 | FORGE | Sheffield |
 | Sat, 28 Nov 2026 | Lab11 | Birmingham |
@@ -20,6 +19,7 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67
 | Tue, 22 Dec 2026 | Brixton Jamm | London |
 | Sun, 27 Dec 2026 | E1 | London |
 | Thu, 31 Dec 2026 | Fire | London |
+| Fri, 5 Feb 2027 | Sidney & Matilda | Sheffield |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67
 
 IC3, Logan D, Eksman
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*

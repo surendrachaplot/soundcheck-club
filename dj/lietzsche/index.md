@@ -1,13 +1,14 @@
 # Lietzsche
 
-Lietzsche is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 5 Dec 2026.
+Lietzsche is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at People's Leisure Club, Edinburgh on Sun, 29 Nov 2026.
 
-Lietzsche is a disco and house artist based in United Kingdom, with 31 gigs on soundcheck across Edinburgh. Often billed alongside discjocelyne, Ann Tweak and HAPOL. Next up: People's Leisure Club, Edinburgh on Sat 5 Dec.
+Lietzsche is a disco and house artist based in United Kingdom, with 32 gigs on soundcheck across Edinburgh. Often billed alongside discjocelyne, Ann Tweak and HAPOL. Next up: People's Leisure Club, Edinburgh on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | People's Leisure Club | Edinburgh |
 | Sat, 5 Dec 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lietzsche is a disco and house artist based in United Kingdom, with 31 gigs on s
 
 discjocelyne, Ann Tweak, HAPOL
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*

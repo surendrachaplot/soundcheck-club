@@ -1,6 +1,6 @@
 # Arca
 
-Arca is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Evolvere pres. Nawaz, Formant Value (live), TSUNIMAN, Hagva" on Fri, 20 Nov 2026.
+Arca is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Evolvere pres. Nawaz, Formant Value (live), TSUNIMAN, Hagva" on Fri, 20 Nov 2026.
 
 Arca is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Bugsy, Cianfo, Davide D'Amico and Dirty Channels and 2 more. See dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
 
@@ -17,4 +17,4 @@ Arca is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-
 
 Via Rimini, 38 20142 Milan, Italy, Milan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*

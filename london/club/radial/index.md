@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "grounded SOCIAL" on Thu, 19 Nov 2026.
+radial is a music venue in London with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Electrobar: James Shinra live + Alien Communications + Plant43 live + Tania Atyabi" on Fri, 20 Nov 2026.
 
 radial is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Curtain, Alien Communications, Amy Cutter and Baby Rollén and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -8,7 +8,6 @@ radial is a music venue in London listed on soundcheck. 12 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | grounded SOCIAL | Delay Grounds |
 | Fri, 20 Nov 2026 | Electrobar: James Shinra live + Alien Communications + Plant43 live + Tania Atyabi | Alien Communications, James Shinra, Plant43, Tania Atyabi |
 | Sat, 21 Nov 2026 | NOIDMATE - radial.london | NOIDMATE |
 | Fri, 27 Nov 2026 | Zen Arcade w/ Harri Pepper & Kyle Toole, Ellie Anderson | Ellie Anderson, Harri Pepper, Kyle Toole |
@@ -18,9 +17,10 @@ radial is a music venue in London listed on soundcheck. 12 upcoming gigs, with l
 | Sat, 5 Dec 2026 | ToadLick | Amy Cutter, Baby Rollén, Georgia Girl, Kenny Blacksmith, Louis Polturak, just bill. |
 | Sat, 12 Dec 2026 | theoracle with Melody & Theo Kottis | Melody RA+RE, Theo Kottis |
 | Fri, 18 Dec 2026 | Electrobar: PRZ live + Alien Communications + Cignol live + CASE | Alien Communications, Case (2), Cignol (2), PRZ |
+| Thu, 31 Dec 2026 | NYE |  |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

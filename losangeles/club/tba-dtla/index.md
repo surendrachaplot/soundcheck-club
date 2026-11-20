@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Grotto - Hewan Aman, Matas" on Fri, 20 Nov 2026.
+TBA - DTLA is a music venue in Los Angeles with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Grotto - Hewan Aman, Matas" on Fri, 20 Nov 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Farahani, AMORAL, Aundreja and BHAOUNCEOUT and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 13 upcoming gig
 | Sat, 12 Dec 2026 | SHELTER 2 YEAR ANNIVERSARY | AMORAL, Mari Sakurai |
 | Sat, 12 Dec 2026 | T4T WRESTLING X Trans*cendent Present: T4T Combat Rave | BHAOUNCEOUT, VILENA |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

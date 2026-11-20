@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Chinese Laundry Invites JESSE MASS [NL] + Ahadadream" on Fri, 20 Nov 2026.
+Chinese Laundry is a music venue in Sydney with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Chinese Laundry Invites JESSE MASS [NL] + Ahadadream" on Fri, 20 Nov 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 5 upcoming gigs, with line-ups including Ahadadream, Andre Zimmer, Blasha & Allatt and Couch Mechanic and 2 more. See dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -18,4 +18,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 5 upcoming gigs
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

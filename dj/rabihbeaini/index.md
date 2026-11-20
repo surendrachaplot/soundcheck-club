@@ -1,6 +1,6 @@
 # Rabih Beaini
 
-Rabih Beaini is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
+Rabih Beaini is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
 
 Rabih Beaini is an experimental and electronica artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Cork and Krakow and 4 more. Often billed alongside Mieko Suzuki, Rashad Becker and Assyouti. Next up: Casa del lago UNAM, Mexico City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Rabih Beaini is an experimental and electronica artist based in Germany, with 32
 
 Mieko Suzuki, Rashad Becker, Assyouti
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabihbeaini/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabihbeaini/)*

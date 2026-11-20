@@ -1,6 +1,6 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Faux Real" on Fri, 20 Nov 2026.
+Cinetol is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Faux Real" on Fri, 20 Nov 2026.
 
 Cinetol is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
@@ -17,4 +17,4 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs. See
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

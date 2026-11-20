@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Stef Mendesidis is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
 Stef Mendesidis is a techno and house artist based in Netherlands, with 167 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Nastia, SHDW and Yanamaste. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Stef Mendesidis is a techno and house artist based in Netherlands, with 167 gigs
 
 Nastia, SHDW, Yanamaste
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

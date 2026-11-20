@@ -1,6 +1,6 @@
 # FOFS – Closing Party at ZIRKA
 
-FOFS – Closing Party at ZIRKA on Fri 20 Nov, Munich. 1 artist: Erhyc. See the line-up on soundcheck.
+FOFS – Closing Party at ZIRKA on Fri 20 Nov, Munich. 1 artist: Erhyc. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

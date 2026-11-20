@@ -1,6 +1,6 @@
 # Time Warp Afterparty: CIARA CUVÉ at YuYu Cine Club
 
-Time Warp Afterparty: CIARA CUVÉ at YuYu Cine Club on Sat 21 Nov, Mexico City. 3 artists: Celice Monnette, Clara Cuvé and sadgal. See the line-up on soundcheck.
+Time Warp Afterparty: CIARA CUVÉ at YuYu Cine Club on Sat 21 Nov, Mexico City. 2 artists: Celice Monnette and sadgal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Time Warp Afterparty: CIARA CUVÉ at YuYu Cine Club on Sat 21 Nov, Mexico City. 
 ## Line-up
 
 - Celice Monnette
-- Clara Cuvé
 - sadgal
 
 *Source: [soundcheck](https://soundcheck.club/e/2576620-time-warp-afterparty-ciara-cuv-at-yuyu-cine-club/)*

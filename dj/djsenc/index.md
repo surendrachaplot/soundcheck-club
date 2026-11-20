@@ -1,8 +1,8 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
+DJ Senc is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
 
-DJ Senc is a house and tech house artist based in Italy, with 143 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: NOWHERE, Manchester on Sat 28 Nov.
+DJ Senc is a house and minimal artist based in Italy, with 144 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: NOWHERE, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Senc is a house and tech house artist based in Italy, with 143 gigs on soundc
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | The Loft | Manchester |
+| Fri, 18 Dec 2026 | Frieda's Büxe | Zurich |
 | Thu, 14 Jan 2027 | Zanzibar - Various Venues | Tanzania |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
@@ -28,4 +29,4 @@ DJ Senc is a house and tech house artist based in Italy, with 143 gigs on soundc
 
 Samuel Deep, Doudou MD, E.LINA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

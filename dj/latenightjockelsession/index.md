@@ -1,14 +1,15 @@
 # Late Night Jockel Session
 
-Late Night Jockel Session is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at MS Stubnitz, Hamburg on Sat, 21 Nov 2026.
+Late Night Jockel Session is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at MS Stubnitz, Hamburg on Sat, 21 Nov 2026.
 
-Late Night Jockel Session is a house and techno artist based in Austria, with 20 gigs on soundcheck across Berlin, Hamburg, Munich and Vienna. Often billed alongside Crew Ombrelle, E-Gerät and Kabeljo. Next up: MS Stubnitz, Hamburg on Sat 21 Nov.
+Late Night Jockel Session is a house and disco artist based in Austria, with 21 gigs on soundcheck across Berlin, Hamburg, Munich and Vienna. Often billed alongside Crew Ombrelle, E-Gerät and Kabeljo. Next up: MS Stubnitz, Hamburg on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | MS Stubnitz | Hamburg |
+| Thu, 17 Dec 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Late Night Jockel Session is a house and techno artist based in Austria, with 20
 
 Crew Ombrelle, E-Gerät, Kabeljo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightjockelsession/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightjockelsession/)*

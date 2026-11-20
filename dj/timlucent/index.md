@@ -1,18 +1,18 @@
 # Tim Lucent
 
-Tim Lucent is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Outer Heaven, New York City on Thu, 19 Nov 2026.
+Tim Lucent is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New-york-city on Fri, 4 Dec 2026.
 
-Tim Lucent is a house and disco artist based in United States of America, with 67 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Laila Amira, Armii1n and Choukroun. Next up: Outer Heaven, New York City on Thu 19 Nov.
+Tim Lucent is a house and disco artist based in United States of America, with 67 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Laila Amira, Armii1n and Choukroun. Next up: Green Room NYC, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Outer Heaven | New York City |
 | Fri, 4 Dec 2026 | Green Room NYC | New-york-city |
 
 ## Recently played
 
+- Outer Heaven, New York City · Thu, 19 Nov 2026
 - Jupiter Disco, New York City · Sat, 7 Nov 2026
 - Green Room NYC, New-york-city · Sat, 17 Oct 2026
 - Dead Letter No. 9, New York City · Fri, 25 Sept 2026
@@ -20,10 +20,9 @@ Tim Lucent is a house and disco artist based in United States of America, with 6
 - Green Room NYC, New York City · Sat, 22 Aug 2026
 - Dead Letter No. 9, New York City · Fri, 14 Aug 2026
 - Good Room, New York City · Sat, 8 Aug 2026
-- Outer Heaven, New York City · Wed, 5 Aug 2026
 
 ## Shares bills with
 
 Laila Amira, Armii1n, Choukroun
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*

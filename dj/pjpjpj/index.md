@@ -1,19 +1,19 @@
 # PJPJPJ
 
-PJPJPJ is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at 12 x 12, Bangkok on Thu, 19 Nov 2026.
+PJPJPJ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tagada, Vienna on Sat, 5 Dec 2026.
 
-PJPJPJ is a house and tech house artist based in Germany, with 22 gigs on soundcheck across Bangkok, Leipzig, Munich and Vienna. Often billed alongside Monti1one, Julani and Lerro. Next up: 12 x 12, Bangkok on Thu 19 Nov.
+PJPJPJ is a house and tech house artist based in Germany, with 22 gigs on soundcheck across Bangkok, Leipzig, Munich and Vienna. Often billed alongside Monti1one, Julani and Lerro. Next up: Tagada, Vienna on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | 12 x 12 | Bangkok |
 | Sat, 5 Dec 2026 | Tagada | Vienna |
 | Fri, 18 Dec 2026 | Tagada | Vienna |
 
 ## Recently played
 
+- 12 x 12, Bangkok · Thu, 19 Nov 2026
 - Tagada, Vienna · Fri, 31 Jul 2026
 - SASS Music Club, Vienna · Fri, 5 Jun 2026
 - Porto Pollo, Vienna · Fri, 5 Jun 2026
@@ -21,10 +21,9 @@ PJPJPJ is a house and tech house artist based in Germany, with 22 gigs on soundc
 - Porto Pollo, Vienna · Fri, 8 May 2026
 - Porto Pollo, Vienna · Thu, 30 Apr 2026
 - SASS Music Club, Vienna · Thu, 16 Apr 2026
-- SASS Music Club, Vienna · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Monti1one, Julani, Lerro
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjpjpj/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjpjpj/)*

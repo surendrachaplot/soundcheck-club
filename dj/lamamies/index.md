@@ -1,6 +1,6 @@
 # Mamie's
 
-Mamie's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat, 21 Nov 2026.
+Mamie's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat, 21 Nov 2026.
 
 Mamie's is a house and techno artist based in France, with 71 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 14 more. Often billed alongside MLCH, Mr. Ho and Antal. Next up: TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mamie's is a house and techno artist based in France, with 71 gigs on soundcheck
 
 MLCH, Mr. Ho, Antal
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamamies/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamamies/)*

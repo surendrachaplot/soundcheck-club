@@ -1,14 +1,15 @@
 # Spud Bencer
 
-Spud Bencer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at PRST, Vienna on Mon, 7 Dec 2026.
+Spud Bencer is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at PRST, Vienna on Mon, 7 Dec 2026.
 
-Spud Bencer is a techno and trance artist based in Austria, with 25 gigs on soundcheck across Vienna. Often billed alongside ENJA, AVO2X and DJ Backstage. Next up: PRST, Vienna on Mon 7 Dec.
+Spud Bencer is a techno and trance artist based in Austria, with 26 gigs on soundcheck across Vienna. Often billed alongside ENJA, AVO2X and DJ Backstage. Next up: PRST, Vienna on Mon 7 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Dec 2026 | PRST | Vienna |
+| Sat, 12 Dec 2026 | The Loft | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Spud Bencer is a techno and trance artist based in Austria, with 25 gigs on soun
 
 ENJA, AVO2X, DJ Backstage
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spudbencer/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spudbencer/)*

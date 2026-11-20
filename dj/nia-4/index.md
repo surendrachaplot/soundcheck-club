@@ -1,0 +1,28 @@
+# NIA (4)
+
+NIA (4) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 23 Jan 2027.
+
+NIA is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Berlin, Cologne, Leipzig and Munich and 1 more. Often billed alongside Amøn, DETOXX and DJ Achim Feuervogel. Next up: Lokschuppen Berlin, Berlin on Sat 23 Jan.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 23 Jan 2027 | Lokschuppen Berlin | Berlin |
+
+## Recently played
+
+- Artheater, Cologne · Fri, 2 Oct 2026
+- Lieberscholli, Munich · Sat, 5 Sept 2026
+- OST, Berlin · Fri, 10 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 22 May 2026
+- Rote Sonne, Munich · Sat, 16 May 2026
+- Westhafen, Leipzig · Sat, 9 May 2026
+- DNA Club, Munich · Thu, 30 Apr 2026
+- OST, Berlin · Fri, 24 Apr 2026
+
+## Shares bills with
+
+Amøn, DETOXX, DJ Achim Feuervogel
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-4/)*

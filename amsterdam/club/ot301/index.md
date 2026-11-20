@@ -1,6 +1,6 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Amsterdam Junglist Kru X Guerilla Bass" on Fri, 20 Nov 2026.
+OT301 is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Amsterdam Junglist Kru X Guerilla Bass" on Fri, 20 Nov 2026.
 
 OT301 is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including akcel, Antoinette, Aria Marzen and Carmen Lisa and 2 more. See dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
@@ -10,7 +10,7 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Amsterdam Junglist Kru X Guerilla Bass |  |
 | Sat, 21 Nov 2026 | ABBYSS-2 | Unit Moebius |
-| Fri, 27 Nov 2026 | Stepping Through |  |
+| Fri, 27 Nov 2026 | Stepping Through invites Footnotes |  |
 | Sat, 28 Nov 2026 | Unknown Electronics 24 | Aria Marzen, Lorenzo Donato, PERAMORE, Plastique01 |
 | Fri, 4 Dec 2026 | Resonance | Carmen Lisa (2), Inez Akker, Lucid Feel, Mick (3), akcel |
 | Sat, 5 Dec 2026 | Melanż | Dominika Karaszewska |
@@ -23,4 +23,4 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

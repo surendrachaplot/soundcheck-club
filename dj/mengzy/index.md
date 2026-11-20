@@ -1,14 +1,16 @@
 # Mengzy
 
-Mengzy is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Casual, Hong Kong on Fri, 27 Nov 2026.
+Mengzy is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Casual, Hong Kong on Fri, 27 Nov 2026.
 
-Mengzy is a drum & bass and house artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Gothenburg, Hong Kong and London and 4 more. Often billed alongside Magnetic Soul, JFÜNG and DJ FU. Next up: Casual, Hong Kong on Fri 27 Nov.
+Mengzy is a drum & bass and house artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Gothenburg, Hong Kong and London and 4 more. Often billed alongside Magnetic Soul, JFÜNG and DJ FU. Next up: Casual, Hong Kong on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Casual | Hong Kong |
+| Sun, 29 Nov 2026 | Casual | Hong Kong |
+| Sun, 29 Nov 2026 | Casual | Hong Kong |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Mengzy is a drum & bass and house artist based in Netherlands, with 47 gigs on s
 
 Magnetic Soul, JFÜNG, DJ FU (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mengzy/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mengzy/)*

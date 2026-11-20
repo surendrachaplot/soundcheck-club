@@ -1,17 +1,18 @@
 # AAAA
 
-AAAA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+AAAA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at nueve cero nueve, Mexico City on Sat, 28 Nov 2026.
 
-AAAA is a techno and house artist based in Mexico, with 79 gigs on soundcheck across Guadalajara, Los Angeles, Mexico City and Monterrey and 4 more. Often billed alongside sadgal, Enya Botello and Ann García. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+AAAA is a techno and house artist based in Mexico, with 80 gigs on soundcheck across Guadalajara, Los Angeles, Mexico City and Monterrey and 4 more. Often billed alongside sadgal, Enya Botello and MNTY. Next up: nueve cero nueve, Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
+| Sat, 28 Nov 2026 | nueve cero nueve | Mexico City |
 
 ## Recently played
 
+- Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - YuYu Cine Club, Mexico City · Fri, 3 Jul 2026
 - Fünk, Mexico City · Sat, 30 May 2026
 - TBA, Mexico City · Fri, 15 May 2026
@@ -19,10 +20,9 @@ AAAA is a techno and house artist based in Mexico, with 79 gigs on soundcheck ac
 - Brutal Mx, Mexico City · Fri, 24 Apr 2026
 - Japan Monterrey, Mexico City · Fri, 13 Feb 2026
 - TBA - colima 367, Mexico City · Fri, 6 Feb 2026
-- Brutal Mx, Mexico City · Sun, 1 Feb 2026
 
 ## Shares bills with
 
-sadgal, Enya Botello, Ann García
+sadgal, Enya Botello, MNTY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaaa-mx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaaa-mx/)*

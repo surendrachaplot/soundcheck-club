@@ -1,6 +1,6 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "ASSEMBLAGE - CONCERT RIOT GRRRL & Marché DIY" on Fri, 20 Nov 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ASSEMBLAGE - CONCERT RIOT GRRRL & Marché DIY" on Fri, 20 Nov 2026.
 
 Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
@@ -19,4 +19,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming gig
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

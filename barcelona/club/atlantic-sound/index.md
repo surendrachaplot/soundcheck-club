@@ -1,6 +1,6 @@
 # Atlantic Sound
 
-Atlantic Sound is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Umek en LOKOTRON" on Sat, 12 Dec 2026.
+Atlantic Sound is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Umek en LOKOTRON" on Sat, 12 Dec 2026.
 
 Atlantic Sound is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Beto Delgado, Paco Maroto, Pestdokter and Umek. See dates, start times and who's playing. Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona.
 
@@ -15,4 +15,4 @@ Atlantic Sound is a music venue in Barcelona listed on soundcheck. 2 upcoming gi
 
 Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona, Barcelona
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-sound/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-sound/)*

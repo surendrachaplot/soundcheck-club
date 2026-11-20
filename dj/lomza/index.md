@@ -1,8 +1,8 @@
 # Łomża
 
-Łomża is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
+Łomża is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
 
-Łomża is a techno and electro artist based in Poland, with 6 gigs on soundcheck across Warsaw. Often billed alongside Pancha, Dynamic Goose and BEXA. Next up: Smolna, Warsaw on Sat 21 Nov.
+Łomża is a techno and house artist based in Poland, with 6 gigs on soundcheck across Warsaw. Often billed alongside Pancha, Dynamic Goose and BEXA. Next up: Smolna, Warsaw on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@
 
 Pancha, Dynamic Goose, BEXA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lomza/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lomza/)*

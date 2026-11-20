@@ -1,14 +1,16 @@
 # mp.ulle
 
-mp.ulle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Neue Welle, Leipzig on Fri, 20 Nov 2026.
+mp.ulle is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Neue Welle, Leipzig on Fri, 20 Nov 2026.
 
-mp.ulle is a house and techno artist based in Germany, with 59 gigs on soundcheck across Bangkok, Berlin, Dresden and Hamburg and 1 more. Often billed alongside marengo, DJ G1NA R. and MIDNXGHT. Next up: Neue Welle, Leipzig on Fri 20 Nov.
+mp.ulle is a house and techno artist based in Germany, with 61 gigs on soundcheck across Bangkok, Berlin, Dresden and Hamburg and 1 more. Often billed alongside marengo, DJ G1NA R. and MIDNXGHT. Next up: Neue Welle, Leipzig on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Neue Welle | Leipzig |
+| Sat, 5 Dec 2026 | Distillery | Leipzig |
+| Fri, 11 Dec 2026 | Neue Welle | Leipzig |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ mp.ulle is a house and techno artist based in Germany, with 59 gigs on soundchec
 
 marengo (2), DJ G1NA R., MIDNXGHT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mp.ulle/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mp.ulle/)*

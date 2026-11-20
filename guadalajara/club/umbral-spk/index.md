@@ -1,6 +1,6 @@
 # Umbral spk
 
-Umbral spk is a music venue in Guadalajara with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Groove Club" on Sat, 28 Nov 2026.
+Umbral spk is a music venue in Guadalajara with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Groove Club" on Sat, 28 Nov 2026.
 
 Umbral spk is a music venue in Guadalajara listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Umbral spk is a music venue in Guadalajara listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Groove Club |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/umbral-spk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/umbral-spk/)*

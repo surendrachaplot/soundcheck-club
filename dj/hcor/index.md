@@ -1,6 +1,6 @@
 # HCOR
 
-HCOR is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
+HCOR is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
 
 HCOR is an electro and techno artist based in Spain, with 40 gigs on soundcheck across Madrid and Malaga. Often billed alongside Semuta, Neurite and Irazu. Next up: Specka, Madrid on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ HCOR is an electro and techno artist based in Spain, with 40 gigs on soundcheck 
 
 Semuta, Neurite, Irazu
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hcor/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hcor/)*

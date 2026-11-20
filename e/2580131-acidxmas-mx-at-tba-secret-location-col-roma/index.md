@@ -1,0 +1,18 @@
+# AcidXmas MX at TBA - Secret Location (Col. Roma)
+
+AcidXmas MX at TBA - Secret Location (Col. Roma) on Sat 19 Dec, Mexico City. 4 artists: DONØ, KUMA OG, kuzike and Neemeye. Techno and Acid. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 19 Dec 2026 |
+| Venue | TBA - Secret Location (Col. Roma) |
+| City | Mexico City |
+
+## Line-up
+
+- DONØ
+- KUMA OG
+- kuzike
+- Neemeye
+
+*Source: [soundcheck](https://soundcheck.club/e/2580131-acidxmas-mx-at-tba-secret-location-col-roma/)*

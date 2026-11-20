@@ -1,14 +1,15 @@
 # Nadia Ksaiba
 
-Nadia Ksaiba is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Carpet Shop, London on Sat, 19 Dec 2026.
+Nadia Ksaiba is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Carpet Shop, London on Sat, 19 Dec 2026.
 
-Nadia Ksaiba is a house and disco artist, with 31 gigs on soundcheck across London and Manchester. Often billed alongside Dan Beaumont, Bill Brewster and Macca.. Next up: The Carpet Shop, London on Sat 19 Dec.
+Nadia Ksaiba is a house and disco artist, with 32 gigs on soundcheck across London and Manchester. Often billed alongside Dan Beaumont, Bill Brewster and Macca.. Next up: The Carpet Shop, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | The Carpet Shop | London |
+| Fri, 1 Jan 2027 | 40ft Brewery - Blackhorse Road | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nadia Ksaiba is a house and disco artist, with 31 gigs on soundcheck across Lond
 
 Dan Beaumont, Bill Brewster, Macca.
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*

@@ -1,13 +1,15 @@
 # Lux18
 
-Lux18 is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
+Lux18 is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Laak, The Hague on Fri, 20 Nov 2026.
 
-Lux18 is a club and bass artist based in France, with 9 gigs on soundcheck across Berlin, Brussels, Paris and Prague. Often billed alongside fetva, Lisa More and notinbed. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
+Lux18 is a club and bass artist based in France, with 11 gigs on soundcheck across Berlin, Brussels, Paris and Prague and 1 more. Often billed alongside fetva, Freestyler and Golce. Next up: Laak, The Hague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Laak | The Hague |
+| Fri, 27 Nov 2026 | Le Poisson Volant | Paris |
 | Wed, 2 Dec 2026 | La Station - Gare des Mines | Paris |
 
 ## Recently played
@@ -23,6 +25,6 @@ Lux18 is a club and bass artist based in France, with 9 gigs on soundcheck acros
 
 ## Shares bills with
 
-fetva, Lisa More, notinbed
+fetva, Freestyler (2), Golce
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*

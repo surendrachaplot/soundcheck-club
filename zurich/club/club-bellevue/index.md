@@ -1,6 +1,6 @@
 # Club Bellevue
 
-Club Bellevue is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "SAMEBLOOD: ALL NIGHT LONG" on Sat, 21 Nov 2026.
+Club Bellevue is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "SAMEBLOOD: ALL NIGHT LONG" on Sat, 21 Nov 2026.
 
 Club Bellevue is a music venue in Zurich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
 
@@ -14,4 +14,4 @@ Club Bellevue is a music venue in Zurich listed on soundcheck. 1 upcoming gig. S
 
 Rämistrasse 6; 8001, Zürich; Switzerland, Zurich
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*

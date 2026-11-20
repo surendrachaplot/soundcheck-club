@@ -1,8 +1,8 @@
 # Shibuya OTO
 
-Shibuya OTO is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Modular Wednesday × acidplex" on Wed, 25 Nov 2026.
+Shibuya OTO is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Modular Wednesday × acidplex" on Wed, 25 Nov 2026.
 
-Shibuya OTO is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Acidclank and USAGI. See dates, start times and who's playing. Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F.
+Shibuya OTO is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Acidclank, USAGI and vinylDJ Eiji Takehana. See dates, start times and who's playing. Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Shibuya OTO is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, wit
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Modular Wednesday × acidplex | Acidclank |
 | Wed, 25 Nov 2026 | Modular Wednesday × acidplex | Acidclank, USAGI |
+| Sat, 12 Dec 2026 | JAZZ'N'BASS D'n'B with a Jazz attitude | vinylDJ Eiji Takehana |
 
 ## Address
 
 Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F, Tokyo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*

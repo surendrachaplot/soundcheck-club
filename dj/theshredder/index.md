@@ -1,14 +1,16 @@
 # The Shredder
 
-The Shredder is a Techno and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Insomnia, Berlin on Fri, 4 Dec 2026.
+The Shredder is a Techno and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Insomnia, Berlin on Fri, 4 Dec 2026.
 
-The Shredder is a techno and post-punk artist based in Germany, with 62 gigs on soundcheck across Berlin. Often billed alongside Emmanuelle 5, Feel .MA and Andi Beat. Next up: Insomnia, Berlin on Fri 4 Dec.
+The Shredder is a techno and post-punk artist based in Germany, with 64 gigs on soundcheck across Berlin. Often billed alongside Emmanuelle 5, Feel .MA and Andi Beat. Next up: Insomnia, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Insomnia | Berlin |
+| Thu, 10 Dec 2026 | Prisma | Berlin |
+| Thu, 31 Dec 2026 | Prisma | Berlin |
 | Fri, 5 Feb 2027 | Insomnia | Berlin |
 
 ## Recently played
@@ -26,4 +28,4 @@ The Shredder is a techno and post-punk artist based in Germany, with 62 gigs on 
 
 Emmanuelle 5, Feel .MA, Andi Beat
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theshredder/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theshredder/)*

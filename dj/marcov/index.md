@@ -1,14 +1,15 @@
 # Marco V
 
-Marco V is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Marco V is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Marco V is a trance and techno artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Budapest, Edinburgh and Frankfurt and 7 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Marco V is a trance and techno artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Budapest, Edinburgh and Frankfurt and 7 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Sat, 6 Mar 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marco V is a trance and techno artist based in Netherlands, with 24 gigs on soun
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*

@@ -1,13 +1,14 @@
 # BRB
 
-BRB is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at President Hotel, Athens on Sun, 29 Nov 2026.
+BRB is a House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Dybbuk, Athens on Fri, 20 Nov 2026.
 
-BRB is a house and afro tech artist based in Greece, with 33 gigs on soundcheck across Amsterdam, Athens and Thessaloniki. Often billed alongside Pablo Nuevo, Friez and Tonya. Next up: President Hotel, Athens on Sun 29 Nov.
+BRB is a house and afro tech artist based in Greece, with 34 gigs on soundcheck across Amsterdam, Athens and Thessaloniki. Often billed alongside Pablo Nuevo, Friez and Tonya. Next up: Dybbuk, Athens on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Dybbuk | Athens |
 | Sun, 29 Nov 2026 | President Hotel | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ BRB is a house and afro tech artist based in Greece, with 33 gigs on soundcheck 
 
 Pablo Nuevo, Friez, Tonya
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brb-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brb-1/)*

@@ -1,6 +1,6 @@
 # Toby Ross
 
-Toby Ross is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
+Toby Ross is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
 
 Toby Ross is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Brighton, Bristol, Leeds and Lisbon and 3 more. Often billed alongside Napes, Deekline and Benny Page. Next up: The Cause, London on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Toby Ross is a drum & bass and jungle artist based in United Kingdom, with 45 gi
 
 Napes, Deekline, Benny Page
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobyross/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobyross/)*

@@ -1,14 +1,15 @@
 # Mafille
 
-Mafille is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+Mafille is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
-Mafille is a bass and techno artist based in France, with 16 gigs on soundcheck across Istanbul, London, Marseille and Nantes and 1 more. Often billed alongside BabyB, Shfoosja and Akira (Buntai). Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
+Mafille is a techno and bass artist based in France, with 17 gigs on soundcheck across Berlin, Istanbul, London and Marseille and 2 more. Often billed alongside BabyB, Butch2Bitch and Kiar Oscuro. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | La Station - Gare des Mines | Paris |
+| Sun, 13 Dec 2026 | Fitzroy | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mafille is a bass and techno artist based in France, with 16 gigs on soundcheck 
 
 ## Shares bills with
 
-BabyB, Shfoosja, Akira (Buntai)
+BabyB, Butch2Bitch, Kiar Oscuro
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*

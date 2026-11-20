@@ -1,6 +1,6 @@
 # Vindya
 
-Vindya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Honey Street Studio, Manchester on Sun, 22 Nov 2026.
+Vindya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Honey Street Studio, Manchester on Sun, 22 Nov 2026.
 
 Vindya is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Liverpool and London and 3 more. Often billed alongside LOCKS, Nakamo and Bethan. Next up: Honey Street Studio, Manchester on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Vindya is a techno and house artist based in United Kingdom, with 46 gigs on sou
 
 LOCKS, Nakamo, Bethan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vindya/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vindya/)*

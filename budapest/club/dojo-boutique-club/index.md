@@ -1,6 +1,6 @@
 # Dojo Boutique Club
 
-Dojo Boutique Club is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "MAJO I DOJO I DJ Syncbutton" on Fri, 20 Nov 2026.
+Dojo Boutique Club is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "MAJO I DOJO I DJ Syncbutton" on Fri, 20 Nov 2026.
 
 Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Budai House Clique, Sobek, DJ Syncbutton and Echonomist and 2 more. See dates, start times and who's playing. Budapest, Zrínyi u. 4/a, 1051, Hungary.
 
@@ -19,4 +19,4 @@ Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 6 upcoming
 
 Budapest, Zrínyi u. 4/a, 1051, Hungary, Budapest
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*

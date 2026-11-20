@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Solo & Group Play" on Fri, 20 Nov 2026.
+Moondog Cafe is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Solo & Group Play" on Fri, 20 Nov 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including AIDEL, caitlin c. harvey, Cody Hammer and Human Robot and 2 more. See dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -17,4 +17,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, 
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

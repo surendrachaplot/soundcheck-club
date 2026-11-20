@@ -1,6 +1,6 @@
 # Ashbeat
 
-Ashbeat is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 28 Nov 2026.
+Ashbeat is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 28 Nov 2026.
 
 Ashbeat is a house and club artist based in New Zealand, with 6 gigs on soundcheck across Berlin. Often billed alongside Julien Josh, ZYMT and fuxi. Next up: Bulbul Berlin, Berlin on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Ashbeat is a house and club artist based in New Zealand, with 6 gigs on soundche
 
 Julien Josh, ZYMT, fuxi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashbeat/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashbeat/)*

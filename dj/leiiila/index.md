@@ -1,6 +1,6 @@
 # Leiiila
 
-Leiiila is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Groundless Factory, Beijing on Fri, 20 Nov 2026.
+Leiiila is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Groundless Factory, Beijing on Fri, 20 Nov 2026.
 
 Leiiila is a jungle and bass artist based in China, with 17 gigs on soundcheck across Beijing, Shenzhen and Tokyo. Often billed alongside MileZ, HALU(Tribal Connection) and DJ TRUCK. Next up: Groundless Factory, Beijing on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Leiiila is a jungle and bass artist based in China, with 17 gigs on soundcheck a
 
 MileZ, HALU(Tribal Connection), DJ TRUCK
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leiiila/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leiiila/)*

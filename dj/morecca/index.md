@@ -1,6 +1,6 @@
 # Morecca
 
-Morecca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
+Morecca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
 
 Morecca is a tech house and house artist, with 8 gigs on soundcheck across Barcelona, Dubai, London and Perth. Often billed alongside AZZA, Clifford Irving and Doorly. Next up: The Court Hotel, Perth on Sun 3 Jan.
 
@@ -24,4 +24,4 @@ Morecca is a tech house and house artist, with 8 gigs on soundcheck across Barce
 
 AZZA, Clifford Irving, Doorly
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morecca/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morecca/)*

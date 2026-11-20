@@ -1,6 +1,6 @@
 # Hidden Spheres
 
-Hidden Spheres is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
+Hidden Spheres is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
 
 Hidden Spheres is a house and deep house artist based in United Kingdom, with 65 gigs on soundcheck across Adelaide, Austin, Bangkok and Berlin and 24 more. Often billed alongside Bradley Zero, Benji B and Cosmo (NY). Next up: Revolver Upstairs, Melbourne on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Hidden Spheres is a house and deep house artist based in United Kingdom, with 65
 
 Bradley Zero, Benji B, Cosmo (NY)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenspheres/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenspheres/)*

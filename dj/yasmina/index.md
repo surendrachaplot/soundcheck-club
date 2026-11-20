@@ -1,6 +1,6 @@
 # YASMINA
 
-YASMINA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bauhaus, Houston on Sat, 21 Nov 2026.
+YASMINA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bauhaus, Houston on Sat, 21 Nov 2026.
 
 YASMINA is a house and afro house artist based in United States of America, with 18 gigs on soundcheck across Barcelona, Berlin, Houston and Leipzig and 7 more. Often billed alongside Yasmina Sadiki, DOS (DE) and Farnozz. Next up: Bauhaus, Houston on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ YASMINA is a house and afro house artist based in United States of America, with
 
 Yasmina Sadiki, DOS (DE), Farnozz
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmina/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmina/)*

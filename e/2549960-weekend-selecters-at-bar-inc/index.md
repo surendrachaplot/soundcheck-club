@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 20 Nov, Osaka. 1 artist: MUSCLECARS. House and Deep House. See the line-up on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 20 Nov, Osaka. 2 artists: MUSCLECARS and rangasako. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ WEEKEND SELECTERS at BAR Inc on Fri 20 Nov, Osaka. 1 artist: MUSCLECARS. House a
 ## Line-up
 
 - MUSCLECARS
+- rangasako
 
 *Source: [soundcheck](https://soundcheck.club/e/2549960-weekend-selecters-at-bar-inc/)*

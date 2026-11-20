@@ -1,6 +1,6 @@
 # Tropic of Keys at à la Folie Paris
 
-Tropic of Keys at à la Folie Paris on Fri 27 Nov, Paris. 2 artists: Ceyda Yagiz and DJ City. House and Acid. See the line-up on soundcheck.
+Tropic of Keys at à la Folie Paris on Fri 27 Nov, Paris. 3 artists: Ceyda Yagiz, DJ City and JONAS. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Tropic of Keys at à la Folie Paris on Fri 27 Nov, Paris. 2 artists: Ceyda Yagiz
 
 - Ceyda Yagiz
 - DJ City
+- JONAS (4)
 
 *Source: [soundcheck](https://soundcheck.club/e/2578282-tropic-of-keys-at-la-folie-paris/)*

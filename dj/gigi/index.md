@@ -1,14 +1,15 @@
 # Gigi
 
-Gigi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Gigi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
-Gigi is a techno and house artist based in Panama, with 34 gigs on soundcheck across Auckland, Barcelona, Christchurch and London and 12 more. Often billed alongside Ika (GE), Angelo Mike and Ash Scholem. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
+Gigi is a techno and house artist based in Panama, with 35 gigs on soundcheck across Auckland, Barcelona, Berlin and Christchurch and 13 more. Often billed alongside Ika (GE), Angelo Mike and Ash Scholem. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 29 Dec 2026 | Matakanarama Festival Site | Auckland |
+| Sun, 3 Jan 2027 | Minimal Bar | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gigi is a techno and house artist based in Panama, with 34 gigs on soundcheck ac
 
 Ika (GE), Angelo Mike, Ash Scholem
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi/)*

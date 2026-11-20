@@ -1,6 +1,6 @@
 # Maxim Covelo
 
-Maxim Covelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kater, Berlin on Fri, 11 Dec 2026.
+Maxim Covelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Kater, Berlin on Fri, 11 Dec 2026.
 
 Maxim Covelo is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Carl Bergé, Talia Dorr and Pauly. Next up: Kater, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Maxim Covelo is a house and techno artist based in Germany, with 15 gigs on soun
 
 Carl Bergé, Talia Dorr, Pauly
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximcovelo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximcovelo/)*

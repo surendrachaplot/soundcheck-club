@@ -1,8 +1,8 @@
 # Rafa Balera
 
-Rafa Balera is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Fatchia, Rio de Janeiro on Fri, 20 Nov 2026.
+Rafa Balera is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Fatchia, Rio de Janeiro on Fri, 20 Nov 2026.
 
-Rafa Balera is a house and disco artist based in Brazil, with 39 gigs on soundcheck across Berlin, Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Mirands, From House to Disco and Paulete Lindacelva. Next up: Fatchia, Rio de Janeiro on Fri 20 Nov.
+Rafa Balera is a house and disco artist based in Brazil, with 40 gigs on soundcheck across Berlin, Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Mirands, From House to Disco and Paulete Lindacelva. Next up: Fatchia, Rio de Janeiro on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Rafa Balera is a house and disco artist based in Brazil, with 39 gigs on soundch
 
 ## Recently played
 
+- Bar de Escuta, Rio de Janeiro · Thu, 19 Nov 2026
 - TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo · Fri, 6 Nov 2026
 - Edifício Martinelli, Sao Paulo · Sat, 3 Oct 2026
 - Maaya, Berlin · Sun, 23 Aug 2026
@@ -19,10 +20,9 @@ Rafa Balera is a house and disco artist based in Brazil, with 39 gigs on soundch
 - Crack Bellmer, Berlin · Sun, 26 Jul 2026
 - Lark, Berlin · Sat, 11 Jul 2026
 - Bar Carmem, Sao Paulo · Fri, 12 Jun 2026
-- Zig Studio, Sao Paulo · Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Mirands, From House to Disco, Paulete Lindacelva
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*

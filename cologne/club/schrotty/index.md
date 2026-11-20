@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "ANTEA with Anne, Grace Dahl, Lacchesi, Norbak, JKS, Flavius, Leon Kofi, Nils Primas, FLACCO" on Fri, 20 Nov 2026.
+Schrotty is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ANTEA with Anne, Grace Dahl, Lacchesi, Norbak, JKS, Flavius, Leon Kofi, Nils Primas, FLACCO" on Fri, 20 Nov 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including Amilli, ANNĒ, Bouncy Bitch and Danilo Filipe and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -18,4 +18,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

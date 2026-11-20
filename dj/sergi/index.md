@@ -1,6 +1,6 @@
 # Sergi
 
-Sergi is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa Montjuïc, Barcelona on Fri, 20 Nov 2026.
+Sergi is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Montjuïc, Barcelona on Fri, 20 Nov 2026.
 
 Sergi is an electronic artist, with 8 gigs on soundcheck across Barcelona. Often billed alongside Demofather, Adria (ES) and LAUCY. Next up: Casa Montjuïc, Barcelona on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Sergi is an electronic artist, with 8 gigs on soundcheck across Barcelona. Often
 
 Demofather, Adria (ES), LAUCY
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergi/)*

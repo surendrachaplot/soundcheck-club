@@ -1,6 +1,6 @@
 # Eptic at SILO
 
-Eptic at SILO on Fri 20 Nov, New York City. 1 artist: Eptic. Dubstep. See the line-up on soundcheck.
+Eptic at SILO on Fri 20 Nov, New York City. 2 artists: Eptic and HGods. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Eptic at SILO on Fri 20 Nov, New York City. 1 artist: Eptic. Dubstep. See the li
 ## Line-up
 
 - Eptic
+- HGods
 
 *Source: [soundcheck](https://soundcheck.club/e/2527841-eptic-at-silo/)*

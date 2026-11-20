@@ -1,6 +1,6 @@
 # Rëgret
 
-Rëgret is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 21 Nov 2026.
+Rëgret is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 21 Nov 2026.
 
 Rëgret is a hardcore and gabber artist based in Japan, with 15 gigs on soundcheck across Osaka and Tokyo. Often billed alongside matres, DJ Shimamura and kakepon. Next up: Circus Tokyo, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rëgret is a hardcore and gabber artist based in Japan, with 15 gigs on soundche
 
 matres, DJ Shimamura, kakepon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*

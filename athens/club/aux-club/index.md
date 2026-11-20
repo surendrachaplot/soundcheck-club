@@ -1,14 +1,13 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "FLUX with HUJUS" on Fri, 20 Nov 2026.
+AUX Club is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "HELEN FREY 21.11 — 422:MASS & HARDWAVE Season 3 Opening · Episode One" on Sat, 21 Nov 2026.
 
-AUX Club is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including a.metz, Alma Libre, Até. and Christian Cambas and 2 more. See dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
+AUX Club is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including a.metz, Alma Libre, Até. and Christian Cambas and 2 more. See dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | FLUX with HUJUS | HUJUS, SALIN |
 | Sat, 21 Nov 2026 | HELEN FREY 21.11 — 422:MASS & HARDWAVE Season 3 Opening · Episode One | Alma Libre, Christian Cambas, Imperium, MATEA |
 | Sat, 28 Nov 2026 | aux : Mathys Lenne | Até., DLV, ELISAVETA, Mathys Lenne, a.metz |
 
@@ -16,4 +15,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with 
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

@@ -1,6 +1,6 @@
 # Paul Svenson (2)
 
-Paul Svenson (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Coya Club, Dubai on Fri, 20 Nov 2026.
+Paul Svenson (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Coya Club, Dubai on Fri, 20 Nov 2026.
 
 Paul Svenson is a house and tech house artist based in France, with 137 gigs on soundcheck across Dubai, Geneva and Lausanne. Often billed alongside John Bowtie, Bachir Salloum and Erik Hagleton. Next up: Coya Club, Dubai on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Paul Svenson is a house and tech house artist based in France, with 137 gigs on 
 
 John Bowtie, Bachir Salloum, Erik Hagleton
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsvenson-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsvenson-2/)*

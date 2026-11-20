@@ -1,6 +1,6 @@
 # Natalia
 
-Natalia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at DeTour, Tokyo on Sat, 21 Nov 2026.
+Natalia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at DeTour, Tokyo on Sat, 21 Nov 2026.
 
 Natalia is a techno and house artist based in Australia, with 17 gigs on soundcheck across Manchester, Sydney, The Hague and Tokyo. Often billed alongside SIGNAL (JP), Sofozor and Krankent. Next up: DeTour, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Natalia is a techno and house artist based in Australia, with 17 gigs on soundch
 
 SIGNAL (JP), Sofozor, Krankent
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia/)*

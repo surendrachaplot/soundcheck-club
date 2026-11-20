@@ -1,6 +1,6 @@
 # Flat Response with Charlotte at Goya Social Club
 
-Flat Response with Charlotte at Goya Social Club on Fri 4 Dec, Madrid. 2 artists: Charlotte (FR) and Le Nomad. House. See the line-up on soundcheck.
+Flat Response with Charlotte at Goya Social Club on Fri 4 Dec, Madrid. 3 artists: Charlotte (FR), Diego and Le Nomad. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Flat Response with Charlotte at Goya Social Club on Fri 4 Dec, Madrid. 2 artists
 ## Line-up
 
 - Charlotte (FR)
+- Diego (8)
 - Le Nomad
 
 *Source: [soundcheck](https://soundcheck.club/e/2568762-flat-response-with-charlotte-at-goya-social-club/)*

@@ -1,6 +1,6 @@
 # Free Party at Void Club
 
-Free Party at Void Club on Fri 18 Dec, Berlin. 5 artists: Anna Hoeber, Antiquis Anima, MixB and Theo Slickers and 1 more. Drum & Bass and Techno. See the line-up on soundcheck.
+Free Party at Void Club on Fri 18 Dec, Berlin. 8 artists: Anna Hoeber, Antiquis Anima, Honschu Lee and LIZZEE and 4 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,10 @@ Free Party at Void Club on Fri 18 Dec, Berlin. 5 artists: Anna Hoeber, Antiquis 
 
 - Anna Hoeber
 - Antiquis Anima
+- Honschu Lee
+- LIZZEE
 - MixB
+- Nerv
 - Theo Slickers
 - Upzet
 

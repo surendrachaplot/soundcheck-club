@@ -1,14 +1,13 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "HISS" on Wed, 18 Nov 2026.
+Aoyama Hachi is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "【Aoyama Hachi -31st Anniversary DAY1-】" on Fri, 20 Nov 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including agap, AiMii, AI.U and AKIRAM EN and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including agap, AiMii, AI.U and AKIRAM EN and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | HISS |  |
 | Fri, 20 Nov 2026 | 【Aoyama Hachi -31st Anniversary DAY1-】 | Mamazu, Samo |
 | Sat, 21 Nov 2026 | Aoyama Hachi -31st Anniversary DAY2 MORNING- | Bundo, Compuma, DNG (1), FELINE (JP), KOTSU, Nari (2), Shinsuke Goto, Terax, YELLOWUHURU, michika |
 | Sat, 21 Nov 2026 | Aoyama Hachi -31st Anniversary DAY2- | AI.U |
@@ -18,9 +17,10 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, w
 | Mon, 23 Nov 2026 | Aoyama Hachi -31st Anniversary DAY4 MORNING- | CALPISS, Celter, HouseCat (2), KA4U, KAKERU, Ko Umehara, Ryosuke (Booze up), Wada Yosuke |
 | Mon, 23 Nov 2026 | 【Aoyama Hachi -31st Anniversary DAY4 AFTERNOON-】 | DJ Kensei |
 | Mon, 23 Nov 2026 | Aoyama Hachi -31st Anniversary DAY4 MORNING- | CALPISS, Celter, HouseCat (2), KA4U, KAKERU, Ko Umehara, Ryosuke, Wada Yosuke |
+| Fri, 27 Nov 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Gara, Kenta Tominaga, vinylDJ Eiji Takehana |
 
 ## Address
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

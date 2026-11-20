@@ -1,14 +1,13 @@
 # Spy Bar
 
-Spy Bar is a music venue in Boston with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "YOUR 80'S MIXTAPE" on Thu, 19 Nov 2026.
+Spy Bar is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "VOYAGE: EURO HOUSE" on Fri, 20 Nov 2026.
 
-Spy Bar is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with line-ups including Bad Lieutenant, Rob Singh and Xoce. See dates, start times and who's playing. 40 Berkeley Street, Boston MA 02116.
+Spy Bar is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Bad Lieutenant, Rob Singh and Xoce. See dates, start times and who's playing. 40 Berkeley Street, Boston MA 02116.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | YOUR 80'S MIXTAPE |  |
 | Fri, 20 Nov 2026 | VOYAGE: EURO HOUSE | Xoce |
 | Sat, 21 Nov 2026 | HOUSE ALWAYS WINS | Bad Lieutenant |
 | Fri, 27 Nov 2026 | Black Friday Freestyle |  |
@@ -18,4 +17,4 @@ Spy Bar is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with l
 
 40 Berkeley Street, Boston MA 02116, Boston
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/spy-bar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/spy-bar/)*

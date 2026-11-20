@@ -1,15 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SoleTies: The Conversation & Crafts Experience" on Wed, 18 Nov 2026.
+SOBs is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "SOB's presents: Sak Pasé: Haitian Fridays with Ted Bounce" on Fri, 20 Nov 2026.
 
-SOBs is a music venue in New York City listed on soundcheck. 17 upcoming gigs. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including DJ TONY TOUCH and Pasha. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | SoleTies: The Conversation & Crafts Experience |  |
-| Thu, 19 Nov 2026 | Fernando Villalona |  |
 | Fri, 20 Nov 2026 | SOB's presents: Sak Pasé: Haitian Fridays with Ted Bounce |  |
 | Sat, 21 Nov 2026 | SOB's presents: Vicente Garcia |  |
 | Sat, 21 Nov 2026 | SOB's presents: Bangers & Mashups: A Night of Afrobeats & British Soul |  |
@@ -18,9 +16,11 @@ SOBs is a music venue in New York City listed on soundcheck. 17 upcoming gigs. S
 | Fri, 27 Nov 2026 | SOB's presents: midwxst: Solitude in Silence Tour |  |
 | Fri, 27 Nov 2026 | SOB's presents: Y2K Party: 2000's vs 2010's |  |
 | Sat, 28 Nov 2026 | SOB's presents: Lavender & Velvet |  |
+| Sat, 28 Nov 2026 | SOB's presents: Perreo De Antes: 2000s x 2010s Reggaeton |  |
+| Sun, 29 Nov 2026 | SOB's presents: The Art of Muzic |  |
 
 ## Address
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

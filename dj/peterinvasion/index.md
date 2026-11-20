@@ -1,6 +1,6 @@
 # Peter Invasion
 
-Peter Invasion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Renate, Berlin on Sat, 19 Dec 2026.
+Peter Invasion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Renate, Berlin on Sat, 19 Dec 2026.
 
 Peter Invasion is a house and techno artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 15 more. Often billed alongside Panthera Krause, Baby Mango and Vincent Neumann. Next up: Renate, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Peter Invasion is a house and techno artist based in Germany, with 58 gigs on so
 
 Panthera Krause, Baby Mango, Vincent Neumann
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*

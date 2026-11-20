@@ -1,6 +1,6 @@
 # Kuro
 
-Kuro is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
+Kuro is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
 
 Kuro is a techno and electro artist based in South Korea, with 90 gigs on soundcheck across Hong Kong, Seoul and Tokyo. Often billed alongside Soraere Brocken, Honn and Minehero. Next up: Casa Corona Seoul, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kuro is a techno and electro artist based in South Korea, with 90 gigs on soundc
 
 Soraere Brocken, Honn, Minehero
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuro/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuro/)*

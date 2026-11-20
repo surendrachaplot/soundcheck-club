@@ -1,6 +1,6 @@
 # YOTA
 
-YOTA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Soul SKG, Thessaloniki on Sat, 5 Dec 2026.
+YOTA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Soul SKG, Thessaloniki on Sat, 5 Dec 2026.
 
 YOTA is a house and electronica artist based in Greece, with 19 gigs on soundcheck across Athens, Hanoi, Thessaloniki and Tokyo. Often billed alongside Irena, STOZ and Irene Kimova. Next up: Soul SKG, Thessaloniki on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ YOTA is a house and electronica artist based in Greece, with 19 gigs on soundche
 
 Irena, STOZ, Irene Kimova
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yota/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yota/)*

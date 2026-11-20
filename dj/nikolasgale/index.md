@@ -1,13 +1,14 @@
 # Nikolas Gale
 
-Nikolas Gale is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Exa Club, Athens on Fri, 27 Nov 2026.
+Nikolas Gale is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Skull Bar, Athens on Sat, 21 Nov 2026.
 
-Nikolas Gale is a house and deep house artist, with 87 gigs on soundcheck across Athens. Often billed alongside Stiko, Useless Co. and Bonso. Next up: Exa Club, Athens on Fri 27 Nov.
+Nikolas Gale is a house and deep house artist, with 88 gigs on soundcheck across Athens. Often billed alongside Stiko, Useless Co. and Bonso. Next up: Skull Bar, Athens on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Skull Bar | Athens |
 | Fri, 27 Nov 2026 | Exa Club | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nikolas Gale is a house and deep house artist, with 87 gigs on soundcheck across
 
 Stiko, Useless Co., Bonso
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolasgale/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolasgale/)*

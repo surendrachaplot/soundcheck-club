@@ -1,6 +1,6 @@
 # Gunselx
 
-Gunselx is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Suma Han, Istanbul on Sat, 21 Nov 2026.
+Gunselx is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Suma Han, Istanbul on Sat, 21 Nov 2026.
 
 Gunselx is a psytrance and techno artist based in Turkey, with 4 gigs on soundcheck across Istanbul. Often billed alongside Ogimaru, BERENALP and Ezkiel. Next up: Suma Han, Istanbul on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Gunselx is a psytrance and techno artist based in Turkey, with 4 gigs on soundch
 
 Ogimaru, BERENALP, Ezkiel
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunselx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunselx/)*

@@ -1,6 +1,6 @@
 # ZA6CORE
 
-ZA6CORE is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+ZA6CORE is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 ZA6CORE is a trance and hardcore artist based in Belgium, with 9 gigs on soundcheck across Berlin and Ghent. Often billed alongside KASIENKA, SEE YOU LATER and droomwolkje. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ZA6CORE is a trance and hardcore artist based in Belgium, with 9 gigs on soundch
 
 KASIENKA, SEE YOU LATER, droomwolkje
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/za6core/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/za6core/)*

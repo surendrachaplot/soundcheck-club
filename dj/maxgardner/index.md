@@ -1,6 +1,6 @@
 # Max Gardner
 
-Max Gardner is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - New warehouse, San Francisco/Oakland on Sat, 12 Dec 2026.
+Max Gardner is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - New warehouse, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 Max Gardner is a techno and electronica artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 10 more. Often billed alongside Adra, Lindsey Herbert and Truncate. Next up: TBA - New warehouse, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Max Gardner is a techno and electronica artist based in United States of America
 
 Adra, Lindsey Herbert, Truncate
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*

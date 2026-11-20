@@ -1,13 +1,14 @@
 # AG (NYC)
 
-AG (NYC) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+AG (NYC) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at feedbk, New York City on Fri, 11 Dec 2026.
 
-AG (NYC) is a house and disco artist based in United States of America, with 53 gigs on soundcheck across Austin, Bangkok, Bogotá and Brussels and 5 more. Often billed alongside Alex Raouf, Tone Troy and Omar Ludwig. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
+AG (NYC) is a house and disco artist based in United States of America, with 54 gigs on soundcheck across Austin, Bangkok, Bogotá and Brussels and 5 more. Often billed alongside Alex Raouf, Tone Troy and Omar Ludwig. Next up: feedbk, New York City on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | feedbk | New York City |
 | Fri, 23 Apr 2027 | Central Florida Fairgrounds | Florida |
 
 ## Recently played
@@ -25,4 +26,4 @@ AG (NYC) is a house and disco artist based in United States of America, with 53 
 
 Alex Raouf, Tone Troy, Omar Ludwig
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agnyc/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agnyc/)*

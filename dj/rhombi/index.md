@@ -1,14 +1,14 @@
 # Rhombi
 
-Rhombi is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Toronto on Fri, 18 Dec 2026.
+Rhombi is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at St. Anne's Parish Hall, Toronto on Fri, 18 Dec 2026.
 
-Rhombi is a drum & bass and bass artist based in Canada, with 25 gigs on soundcheck across Toronto. Often billed alongside Miss Kleio, Zola (TRM) and Jonah K. Next up: TBA, Toronto on Fri 18 Dec.
+Rhombi is a drum & bass and bass artist based in Canada, with 25 gigs on soundcheck across Toronto. Often billed alongside Miss Kleio, Zola (TRM) and Jonah K. Next up: St. Anne's Parish Hall, Toronto on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Dec 2026 | TBA | Toronto |
+| Fri, 18 Dec 2026 | St. Anne's Parish Hall | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Rhombi is a drum & bass and bass artist based in Canada, with 25 gigs on soundch
 
 Miss Kleio, Zola (TRM), Jonah K
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhombi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhombi/)*

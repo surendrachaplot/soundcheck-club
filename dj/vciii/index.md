@@ -1,6 +1,6 @@
 # VCIII
 
-VCIII is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 3 Dec 2026.
+VCIII is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 3 Dec 2026.
 
 VCIII is a progressive house and electronica artist based in Mexico, with 7 gigs on soundcheck across Mexico City. Often billed alongside SSYSTEM, raūsch and BLUMOR. Next up: M.N.Roy, Mexico City on Thu 3 Dec.
 
@@ -23,4 +23,4 @@ VCIII is a progressive house and electronica artist based in Mexico, with 7 gigs
 
 SSYSTEM, raūsch, BLUMOR
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vciii/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vciii/)*

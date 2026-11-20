@@ -1,6 +1,6 @@
 # Corazón De Melon
 
-Corazón De Melon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Green Room NYC, New York City on Fri, 20 Nov 2026.
+Corazón De Melon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New York City on Fri, 20 Nov 2026.
 
 Corazón De Melon is a house and disco artist based in United States of America, with 21 gigs on soundcheck across New York City. Often billed alongside Atilla Ural, Bea Trinidad and Deo'jorge. Next up: Green Room NYC, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Corazón De Melon is a house and disco artist based in United States of America,
 
 Atilla Ural, Bea Trinidad, Deo'jorge
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/corazondemelon/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/corazondemelon/)*

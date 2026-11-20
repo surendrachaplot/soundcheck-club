@@ -1,14 +1,15 @@
 # Wyser
 
-Wyser is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Blue Leopard Lounge, Chicago on Sat, 28 Nov 2026.
+Wyser is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Blue Leopard Lounge, Chicago on Sat, 28 Nov 2026.
 
-Wyser is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Chicago, New Orleans and San Francisco/Oakland. Often billed alongside Shmoo, Ilana Ariella and DJ Lady D. Next up: Blue Leopard Lounge, Chicago on Sat 28 Nov.
+Wyser is a house and deep house artist based in United States of America, with 31 gigs on soundcheck across Chicago, New Orleans and San Francisco/Oakland. Often billed alongside Shmoo, Ilana Ariella and DJ Heather. Next up: Blue Leopard Lounge, Chicago on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Blue Leopard Lounge | Chicago |
+| Sat, 19 Dec 2026 | Masada | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Wyser is a house and deep house artist based in United States of America, with 3
 
 ## Shares bills with
 
-Shmoo, Ilana Ariella, DJ Lady D
+Shmoo, Ilana Ariella, DJ Heather
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyser/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyser/)*

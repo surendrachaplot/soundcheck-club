@@ -1,6 +1,6 @@
 # Weiss
 
-Weiss is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
+Weiss is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
 
 Weiss is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Adelaide, Auckland, Brisbane and Dublin and 14 more. Often billed alongside Doorly, Dusky and Yamariki. Next up: The Court Hotel, Perth on Sun 3 Jan.
 
@@ -26,4 +26,4 @@ Weiss is a house and tech house artist based in United Kingdom, with 24 gigs on 
 
 Doorly, Dusky, Yamariki
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*

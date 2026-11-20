@@ -1,6 +1,6 @@
 # Neo Bar KL 20,21 November Weekender at TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450
 
-Neo Bar KL 20,21 November Weekender at TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450 on Fri 20 Nov, Kuala Lumpur. 1 artist: Meliha. See the line-up on soundcheck.
+Neo Bar KL 20,21 November Weekender at TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450 on Fri 20 Nov, Kuala Lumpur. 1 artist: Meliha. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,15 +1,15 @@
 # Sohrab
 
-Sohrab is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
+Sohrab is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at DURO, Milan on Sat, 5 Dec 2026.
 
-Sohrab is a techno and electro artist based in Iran, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Milan and 4 more. Often billed alongside Aton, GNMR and Alex Neri. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Dec.
+Sohrab is a techno and electro artist based in Iran, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Milan and 3 more. Often billed alongside GNMR, Alex Neri and Aton. Next up: DURO, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | DURO | Milan |
 | Sat, 12 Dec 2026 | Seaseaclub Barcelona | Barcelona |
-| Tue, 5 Jan 2027 | Basic Club | Naples |
 
 ## Recently played
 
@@ -24,6 +24,6 @@ Sohrab is a techno and electro artist based in Iran, with 16 gigs on soundcheck 
 
 ## Shares bills with
 
-Aton, GNMR, Alex Neri
+GNMR, Alex Neri, Aton
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab/)*

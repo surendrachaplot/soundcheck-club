@@ -1,6 +1,6 @@
 # Cristian Arango
 
-Cristian Arango is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Somewhere Nowhere NYC, New York City on Fri, 20 Nov 2026.
+Cristian Arango is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Somewhere Nowhere NYC, New York City on Fri, 20 Nov 2026.
 
 Cristian Arango is a tech house and afro house artist based in United States of America, with 112 gigs on soundcheck across Boston, Houston, Jacksonville and Los Angeles and 3 more. Often billed alongside Oscar G, Anthony Lopez and Matt Martinez. Next up: Somewhere Nowhere NYC, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Cristian Arango is a tech house and afro house artist based in United States of 
 
 Oscar G, Anthony Lopez, Matt Martinez
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianarangolocombia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianarangolocombia/)*

@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Salon Daomé, Montreal on Fri, 20 Nov 2026.
+Huerta is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Salon Daomé, Montreal on Fri, 20 Nov 2026.
 
 Huerta is a house and techno artist based in United States of America, with 138 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 50 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Salon Daomé, Montreal on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Huerta is a house and techno artist based in United States of America, with 138 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

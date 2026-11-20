@@ -1,6 +1,6 @@
 # Sossa
 
-Sossa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Silencio, Paris on Thu, 26 Nov 2026.
+Sossa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Silencio, Paris on Thu, 26 Nov 2026.
 
 Sossa is a house and techno artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Tania Vulcano, Seth Troxler and Prospa. Next up: Silencio, Paris on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Sossa is a house and techno artist based in Italy, with 87 gigs on soundcheck ac
 
 Tania Vulcano, Seth Troxler, Prospa
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sossa/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sossa/)*

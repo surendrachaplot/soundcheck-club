@@ -1,6 +1,6 @@
 # Listen Festival 2026 at TBA - Brussels
 
-Listen Festival 2026 at TBA - Brussels on Sat 21 Nov, Brussels. 62 artists: acidheaven, Adi, Amelia Holt and Angel D'lite and 58 more. Techno and House. See the line-up on soundcheck.
+Listen Festival 2026 at TBA - Brussels on Sat 21 Nov, Brussels. 63 artists: acidheaven, Adi, Amelia Holt and Angel D'lite and 59 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,7 +19,7 @@ Listen Festival 2026 at TBA - Brussels on Sat 21 Nov, Brussels. 62 artists: acid
 - BAVR
 - Bibi Seck
 - Border One
-- Casper
+- Casper (FIN)
 - Clara D
 - cyvira
 - DC Noises
@@ -71,6 +71,7 @@ Listen Festival 2026 at TBA - Brussels on Sat 21 Nov, Brussels. 62 artists: acid
 - Vers
 - Virginia
 - Vuur
+- Warhaus
 - Zora Jones
 
 *Source: [soundcheck](https://soundcheck.club/e/2305608-listen-festival-2026-at-tba-brussels/)*

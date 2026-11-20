@@ -1,6 +1,6 @@
 # SKYWALKER (US)
 
-SKYWALKER (US) is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 26 Nov 2026.
+SKYWALKER (US) is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 26 Nov 2026.
 
 SKYWALKER (US) is a reggaeton and techno artist based in United States of America, with 42 gigs on soundcheck across Antwerp, Ghent and New York City. Often billed alongside Griffin Maxwell Brooks, Riobamba and Amber Valentine. Next up: Bossa Nova Civic Club, New York City on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ SKYWALKER (US) is a reggaeton and techno artist based in United States of Americ
 
 Griffin Maxwell Brooks, Riobamba, Amber Valentine
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skywalker/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skywalker/)*

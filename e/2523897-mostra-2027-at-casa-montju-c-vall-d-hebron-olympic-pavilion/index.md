@@ -1,6 +1,6 @@
 # Mostra 2027 at Casa Montjuïc & Vall d'Hebron Olympic Pavilion
 
-Mostra 2027 at Casa Montjuïc & Vall d'Hebron Olympic Pavilion on Thu 11 Mar, Barcelona. 13 artists: dBridge, DJ Frog, DOC and Doltz and 9 more. See the line-up on soundcheck.
+Mostra 2027 at Casa Montjuïc & Vall d'Hebron Olympic Pavilion on Thu 11 Mar, Barcelona. 14 artists: dBridge, DJ Frog, DOC and Doltz and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Mostra 2027 at Casa Montjuïc & Vall d'Hebron Olympic Pavilion on Thu 11 Mar, Ba
 - Garçon
 - Jane Fitz
 - Lanav
+- Mammo
 - O/V/R
 - Patrick Russell
 - Thomas Köner

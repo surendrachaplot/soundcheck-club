@@ -1,14 +1,14 @@
 # Soyklo
 
-Soyklo is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+Soyklo is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 21 Nov 2026.
 
-Soyklo is a bass and jungle artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg, London and New York City and 1 more. Often billed alongside Nasra, Abibi and DJ NORTHERN. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
+Soyklo is a bass and jungle artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg, London and New York City and 1 more. Often billed alongside Nasra, Abibi and DJ NORTHERN. Next up: La Station - Gare des Mines, Paris on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | La Station - Gare des Mines | Paris |
+| Sat, 21 Nov 2026 | La Station - Gare des Mines | Paris |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Soyklo is a bass and jungle artist based in Germany, with 27 gigs on soundcheck 
 
 Nasra, Abibi, DJ NORTHERN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soyklo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soyklo/)*

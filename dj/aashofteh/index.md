@@ -1,8 +1,8 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Pizzeria Officina, Canberra on Fri, 20 Nov 2026.
+Aashofteh is a Tech House and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Pizzeria Officina, Canberra on Fri, 20 Nov 2026.
 
-Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on soundcheck across Canberra and Melbourne. Often billed alongside Miscmeg, Sofay and ATARANGI. Next up: Pizzeria Officina, Canberra on Fri 20 Nov.
+Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on soundcheck across Canberra and Melbourne. Often billed alongside Miscmeg, D-Grade and Sofay. Next up: Pizzeria Officina, Canberra on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,7 @@ Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on so
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Pizzeria Officina | Canberra |
 | Sun, 22 Nov 2026 | Miscellania | Melbourne |
-| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 
 ## Recently played
 
@@ -25,6 +25,6 @@ Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on so
 
 ## Shares bills with
 
-Miscmeg, Sofay, ATARANGI
+Miscmeg, D-Grade, Sofay
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*

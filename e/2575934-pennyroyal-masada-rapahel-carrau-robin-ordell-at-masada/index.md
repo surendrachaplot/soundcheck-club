@@ -12,7 +12,7 @@ Pennyroyal > Masada > Rapahel Carrau & Robin Ordell on Sun 22 Nov, Milan. 4 arti
 
 - Luca Doobie
 - Raphael Carrau
-- Renzo (1)
+- Renzo (3)
 - Robin Ordell
 
 *Source: [soundcheck](https://soundcheck.club/e/2575934-pennyroyal-masada-rapahel-carrau-robin-ordell-at-masada/)*

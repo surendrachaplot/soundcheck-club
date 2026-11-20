@@ -1,6 +1,6 @@
 # La Fabriek
 
-La Fabriek is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rave For Maidiart" on Fri, 20 Nov 2026.
+La Fabriek is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Rave For Maidiart" on Fri, 20 Nov 2026.
 
 La Fabriek is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Backlight, BISOUX, Chris Youké and Dizo and 2 more. See dates, start times and who's playing. Rue de la petite ile 1A, 1070 Brussels, Belgium.
 
@@ -16,4 +16,4 @@ La Fabriek is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, w
 
 Rue de la petite ile 1A, 1070 Brussels, Belgium, Brussels
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*

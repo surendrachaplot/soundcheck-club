@@ -1,17 +1,18 @@
 # sohrab.
 
-sohrab. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 13 Nov 2026.
+sohrab. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Basic Club, Naples on Tue, 5 Jan 2027.
 
-sohrab. is a techno and house artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 20 more. Often billed alongside GNMR, Brasi and Domenico Rosa. Next up: Village Underground Barcelona, Barcelona on Fri 13 Nov.
+sohrab. is a techno and house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 21 more. Often billed alongside GNMR, Brasi and Domenico Rosa. Next up: Basic Club, Naples on Tue 5 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Village Underground Barcelona | Barcelona |
+| Tue, 5 Jan 2027 | Basic Club | Naples |
 
 ## Recently played
 
+- Village Underground Barcelona, Barcelona · Fri, 13 Nov 2026
 - FOLD, London · Fri, 30 Oct 2026
 - Else, Berlin · Fri, 29 May 2026
 - Poropati, Berlin · Sat, 16 May 2026
@@ -19,10 +20,9 @@ sohrab. is a techno and house artist based in United Kingdom, with 74 gigs on so
 - TBA, Barcelona · Sat, 21 Mar 2026
 - Monkey Bar Dubai One Central, Dubai · Sat, 14 Feb 2026
 - Salon des Amateurs, Düsseldorf · Fri, 30 Jan 2026
-- NUMBER 90 LONDON, London · Thu, 1 Jan 2026
 
 ## Shares bills with
 
 GNMR, Brasi, Domenico Rosa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab-uk/)*

@@ -1,6 +1,6 @@
 # 厅 - Tin's Nite at Nulab Chengdu
 
-厅 - Tin's Nite at Nulab Chengdu on Sat 21 Nov, Chengdu. 2 artists: Konnection and seko (HK). See the line-up on soundcheck.
+厅 - Tin's Nite at Nulab Chengdu on Sat 21 Nov, Chengdu. 2 artists: Konnection and seko (HK). House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

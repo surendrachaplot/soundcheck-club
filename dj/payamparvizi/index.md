@@ -1,6 +1,6 @@
 # Payam Parvizi
 
-Payam Parvizi is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Left Bank, Tbilisi on Fri, 20 Nov 2026.
+Payam Parvizi is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Left Bank, Tbilisi on Fri, 20 Nov 2026.
 
 Payam Parvizi is a techno and acid artist based in Iran, with 38 gigs on soundcheck across Armenia, Berlin, Budapest and Chicago and 4 more. Often billed alongside Mahyar Parsa, Kvanchi and amiraLii. Next up: Left Bank, Tbilisi on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Payam Parvizi is a techno and acid artist based in Iran, with 38 gigs on soundch
 
 Mahyar Parsa, Kvanchi, amiraLii
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*

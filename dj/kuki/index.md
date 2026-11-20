@@ -1,13 +1,14 @@
 # Kuki
 
-Kuki is a Trance and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mia Mao, Paris on Thu, 31 Dec 2026.
+Kuki is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Transformator, Wroclaw on Sat, 5 Dec 2026.
 
-Kuki is a trance and gabber artist based in Poland, with 4 gigs on soundcheck across Paris. Often billed alongside ADB (FR), ANDATA and Arman John. Next up: Mia Mao, Paris on Thu 31 Dec.
+Kuki is a techno and trance artist based in Poland, with 5 gigs on soundcheck across Paris and Wroclaw. Often billed alongside ADB (FR), ANDATA and Arman John. Next up: Transformator, Wroclaw on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Transformator | Wroclaw |
 | Thu, 31 Dec 2026 | Mia Mao | Paris |
 
 ## Recently played
@@ -20,4 +21,4 @@ Kuki is a trance and gabber artist based in Poland, with 4 gigs on soundcheck ac
 
 ADB (FR), ANDATA, Arman John
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuki/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuki/)*

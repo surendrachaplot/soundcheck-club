@@ -1,14 +1,15 @@
 # Edictum
 
-Edictum is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 21 Nov 2026.
+Edictum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 21 Nov 2026.
 
-Edictum is a techno and progressive house artist based in Austria, with 14 gigs on soundcheck across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and DIAS. Next up: the inner circle vienna / wien, Vienna on Sat 21 Nov.
+Edictum is a progressive house and techno artist based in Austria, with 15 gigs on soundcheck across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and The Wash. Next up: the inner circle vienna / wien, Vienna on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | the inner circle vienna / wien | Vienna |
+| Fri, 4 Dec 2026 | The Loft | Vienna |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Edictum is a techno and progressive house artist based in Austria, with 14 gigs 
 
 ## Shares bills with
 
-Fede Frostl, Daniel Darkhofer, DIAS
+Fede Frostl, Daniel Darkhofer, The Wash
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*

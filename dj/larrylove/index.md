@@ -1,6 +1,6 @@
 # Larry Love
 
-Larry Love is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Koralle, Dresden on Fri, 20 Nov 2026.
+Larry Love is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Koralle, Dresden on Fri, 20 Nov 2026.
 
 Larry Love is a house and techno artist based in Germany, with 5 gigs on soundcheck across Dresden and Leipzig. Often billed alongside OutWithJane, Carol Selig and Die Ruhe. Next up: Koralle, Dresden on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Larry Love is a house and techno artist based in Germany, with 5 gigs on soundch
 
 OutWithJane, Carol Selig, Die Ruhe
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larrylove/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larrylove/)*

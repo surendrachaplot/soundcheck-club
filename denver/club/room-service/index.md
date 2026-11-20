@@ -1,14 +1,13 @@
 # Room Service
 
-Room Service is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Nocturno Afterhours" on Thu, 19 Nov 2026.
+Room Service is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Nocturno Afterhours feat. MIKO / C RAD" on Fri, 20 Nov 2026.
 
-Room Service is a music venue in Denver listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Room Service is a music venue in Denver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Nocturno Afterhours |  |
 | Fri, 20 Nov 2026 | Nocturno Afterhours feat. MIKO / C RAD |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/room-service/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/room-service/)*

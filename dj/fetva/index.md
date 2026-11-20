@@ -1,14 +1,16 @@
 # fetva
 
-fetva is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+fetva is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Laak, The Hague on Fri, 20 Nov 2026.
 
-fetva is an experimental and electro artist based in France, with 44 gigs on soundcheck across Athens, Berlin, Bologna and Brussels and 4 more. Often billed alongside Golce, DJ Music and Bamao Yendé. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
+fetva is an experimental and electro artist based in France, with 46 gigs on soundcheck across Athens, Berlin, Bologna and Brussels and 5 more. Often billed alongside Golce, DJ Music and Lux18. Next up: Laak, The Hague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | La Station - Gare des Mines | Paris |
+| Fri, 20 Nov 2026 | Laak | The Hague |
+| Sat, 21 Nov 2026 | La Station - Gare des Mines | Paris |
+| Fri, 27 Nov 2026 | Le Poisson Volant | Paris |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ fetva is an experimental and electro artist based in France, with 44 gigs on sou
 
 ## Shares bills with
 
-Golce, DJ Music, Bamao Yendé
+Golce, DJ Music, Lux18
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*

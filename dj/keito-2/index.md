@@ -1,6 +1,6 @@
 # KEITO (2)
 
-KEITO (2) is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bonobo, Tokyo on Fri, 27 Nov 2026.
+KEITO (2) is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bonobo, Tokyo on Fri, 27 Nov 2026.
 
 KEITO is a techno and afro house artist, with 7 gigs on soundcheck across Hong Kong and Tokyo. Often billed alongside Arthur Yeti, DJ More and Da Yama. Next up: Bonobo, Tokyo on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ KEITO is a techno and afro house artist, with 7 gigs on soundcheck across Hong K
 
 Arthur Yeti, DJ More, Da Yama
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keito-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keito-2/)*

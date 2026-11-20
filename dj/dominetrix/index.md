@@ -1,6 +1,6 @@
 # Dominetrix
 
-Dominetrix is a Electro and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
+Dominetrix is a Electro and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
 
 Dominetrix is an electro and ebm artist based in Spain, with 4 gigs on soundcheck across Barcelona and Vilnius. Often billed alongside shiritaki, Alice Caroline and Bruno (ES). Next up: Elastica, Vilnius on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Dominetrix is an electro and ebm artist based in Spain, with 4 gigs on soundchec
 
 shiritaki, Alice Caroline, Bruno (ES)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*

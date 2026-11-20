@@ -1,6 +1,6 @@
 # DAWS
 
-DAWS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+DAWS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 DAWS is a house and techno artist based in Australia, with 74 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Baby G, Aldonna and Bertie. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ DAWS is a house and techno artist based in Australia, with 74 gigs on soundcheck
 
 Baby G, Aldonna, Bertie
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*

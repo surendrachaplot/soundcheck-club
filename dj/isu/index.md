@@ -1,8 +1,8 @@
 # isu
 
-isu is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Turbina, Budapest on Fri, 20 Nov 2026.
+isu is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Turbina, Budapest on Fri, 20 Nov 2026.
 
-isu is a techno and house artist based in Hungary, with 96 gigs on soundcheck across Budapest. Often billed alongside Dork, Mode and DJ Crimson. Next up: Turbina, Budapest on Fri 20 Nov.
+isu is a techno and house artist based in Hungary, with 96 gigs on soundcheck across Budapest. Often billed alongside Mode, Dork and DJ Crimson. Next up: Turbina, Budapest on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ isu is a techno and house artist based in Hungary, with 96 gigs on soundcheck ac
 
 ## Shares bills with
 
-Dork, Mode, DJ Crimson
+Mode, Dork, DJ Crimson
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isu/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isu/)*

@@ -1,6 +1,6 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "ElectroRoller x La Bellevilloise 'Roller Party'" on Fri, 20 Nov 2026.
+La Bellevilloise is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ElectroRoller x La Bellevilloise 'Roller Party'" on Fri, 20 Nov 2026.
 
 La Bellevilloise is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Amarou, DJ André, Dj Kakashi and DJ Steaw and 2 more. See dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
@@ -19,4 +19,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 6 upcoming gigs
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

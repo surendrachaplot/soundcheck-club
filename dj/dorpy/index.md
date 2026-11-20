@@ -1,6 +1,6 @@
 # Dorpy
 
-Dorpy is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Lakota, Bristol on Fri, 20 Nov 2026.
+Dorpy is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lakota, Bristol on Fri, 20 Nov 2026.
 
 Dorpy is a drum & bass and garage artist based in United Kingdom, with 28 gigs on soundcheck across Bristol. Often billed alongside Jakobin, Demetria and IZZIT. Next up: Lakota, Bristol on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dorpy is a drum & bass and garage artist based in United Kingdom, with 28 gigs o
 
 Jakobin, Demetria, IZZIT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorpy/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorpy/)*

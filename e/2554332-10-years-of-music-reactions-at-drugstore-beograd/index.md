@@ -17,7 +17,7 @@
 - Deeda
 - Edin (Oma)
 - Essio
-- Kalte Liebe
+- FUMI
 - Karina Oksa
 - laccotti
 - Moraitov

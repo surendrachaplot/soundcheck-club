@@ -1,13 +1,14 @@
 # Ricochet
 
-Ricochet is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+Ricochet is a Drum & Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
-Ricochet is a drum & bass and jungle artist based in Bosnia and Herzegovina, with 5 gigs on soundcheck across Brighton and London. Often billed alongside AC13, AJA and Acolyte. Next up: Brixton Radio, London on Sat 21 Nov.
+Ricochet is a drum & bass and garage artist based in Bosnia and Herzegovina, with 6 gigs on soundcheck across Brighton and London. Often billed alongside AJA, MAIA and AC13. Next up: Brixton Radio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Brixton Radio | London |
 | Sat, 21 Nov 2026 | Brixton Radio | London |
 
 ## Recently played
@@ -19,6 +20,6 @@ Ricochet is a drum & bass and jungle artist based in Bosnia and Herzegovina, wit
 
 ## Shares bills with
 
-AC13, AJA, Acolyte
+AJA, MAIA, AC13
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*

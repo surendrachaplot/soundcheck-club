@@ -1,14 +1,15 @@
 # Ann García
 
-Ann García is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Brutal Mx, Mexico City on Sat, 5 Dec 2026.
+Ann García is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Brutal Mx, Mexico City on Sat, 5 Dec 2026.
 
-Ann García is a techno and hardcore artist based in Mexico, with 84 gigs on soundcheck across Bogotá, Guadalajara and Mexico City. Often billed alongside Enya Botello, Magnolia Coronado and nvxrrx. Next up: Brutal Mx, Mexico City on Sat 5 Dec.
+Ann García is a techno and hardcore artist based in Mexico, with 85 gigs on soundcheck across Bogotá, Guadalajara and Mexico City. Often billed alongside Enya Botello, Magnolia Coronado and nvxrrx. Next up: Brutal Mx, Mexico City on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Brutal Mx | Mexico City |
+| Sat, 12 Dec 2026 | Brutal Mx | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ann García is a techno and hardcore artist based in Mexico, with 84 gigs on sou
 
 Enya Botello, Magnolia Coronado, nvxrrx
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anngarcía/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anngarcía/)*

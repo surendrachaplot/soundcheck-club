@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Kinky Karneval Festival Edition" on Fri, 20 Nov 2026.
+Lieberscholli is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Kinky Karneval Festival Edition" on Fri, 20 Nov 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Alessia Cattani, Andrale, Cottí Larje and Daniel Neuland and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -20,4 +20,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

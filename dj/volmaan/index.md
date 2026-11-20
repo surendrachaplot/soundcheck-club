@@ -1,6 +1,6 @@
 # Volmaan
 
-Volmaan is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bikini Club, Barcelona on Sat, 5 Dec 2026.
+Volmaan is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bikini Club, Barcelona on Sat, 5 Dec 2026.
 
 Volmaan is a house and progressive house artist based in Argentina, with 28 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside SACK (AR), Syntonos and YANNIK (CH). Next up: Bikini Club, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Volmaan is a house and progressive house artist based in Argentina, with 28 gigs
 
 SACK (AR), Syntonos, YANNIK (CH)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volmaan/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volmaan/)*

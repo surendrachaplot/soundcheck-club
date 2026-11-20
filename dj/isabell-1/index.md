@@ -1,6 +1,6 @@
 # ISABELL (1)
 
-ISABELL (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at fi, Cologne on Fri, 20 Nov 2026.
+ISABELL (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at fi, Cologne on Fri, 20 Nov 2026.
 
 ISABELL is a techno and house artist based in Germany, with 13 gigs on soundcheck across Cologne. Often billed alongside Sebastian Habben, Elisen and Leolo Lozone. Next up: fi, Cologne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ ISABELL is a techno and house artist based in Germany, with 13 gigs on soundchec
 
 Sebastian Habben, Elisen, Leolo Lozone
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabell-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabell-1/)*

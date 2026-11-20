@@ -1,6 +1,6 @@
 # C.K
 
-C.K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Jolene, Copenhagen on Fri, 20 Nov 2026.
+C.K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Jolene, Copenhagen on Fri, 20 Nov 2026.
 
 C.K is a house and techno artist based in Denmark, with 37 gigs on soundcheck across Amsterdam, Baltimore, Bergen and Berlin and 14 more. Often billed alongside dj sweet6teen, CCL and Cirkeline. Next up: Jolene, Copenhagen on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ C.K is a house and techno artist based in Denmark, with 37 gigs on soundcheck ac
 
 dj sweet6teen, CCL, Cirkeline
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ck-dk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ck-dk/)*

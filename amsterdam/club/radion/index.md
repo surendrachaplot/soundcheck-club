@@ -1,6 +1,6 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rødhåd All Night Long - Vault Sessions & RADION" on Fri, 20 Nov 2026.
+RADION is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Rødhåd All Night Long - Vault Sessions & RADION" on Fri, 20 Nov 2026.
 
 RADION is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 1morning, Adriana Lopez, Akua and Amotik and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
@@ -23,4 +23,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, wit
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

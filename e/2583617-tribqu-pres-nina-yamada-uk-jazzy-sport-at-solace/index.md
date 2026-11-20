@@ -1,6 +1,6 @@
 # Tribqu pres. Nina Yamada (UK/Jazzy Sport) at Solace
 
-Tribqu pres. Nina Yamada (UK/Jazzy Sport) at Solace on Sat 12 Dec, Melbourne. 4 artists: Charms, NALIITA, Nina Yamada and Zjoso. Deep House. See the line-up on soundcheck.
+Tribqu pres. Nina Yamada (UK/Jazzy Sport) at Solace on Sat 12 Dec, Melbourne. 5 artists: Charms, In.ertia, NALIITA and Nina Yamada and 1 more. Deep House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Tribqu pres. Nina Yamada (UK/Jazzy Sport) at Solace on Sat 12 Dec, Melbourne. 4 
 ## Line-up
 
 - Charms
+- In.ertia
 - NALIITA
 - Nina Yamada
 - Zjoso

@@ -1,6 +1,6 @@
 # Natalia Roth
 
-Natalia Roth is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Prysm Nightclub, Chicago on Fri, 20 Nov 2026.
+Natalia Roth is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Prysm Nightclub, Chicago on Fri, 20 Nov 2026.
 
 Natalia Roth is a house and tech house artist based in Puerto Rico, with 153 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bogotá and 22 more. Often billed alongside Danyelino, Ms. Mada and Jamie Jones. Next up: Prysm Nightclub, Chicago on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Natalia Roth is a house and tech house artist based in Puerto Rico, with 153 gig
 
 Danyelino, Ms. Mada, Jamie Jones
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*

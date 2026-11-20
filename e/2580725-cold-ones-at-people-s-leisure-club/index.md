@@ -1,6 +1,6 @@
 # Cold Ones at People's Leisure Club
 
-Cold Ones at People's Leisure Club on Sun 29 Nov, Edinburgh. 3 artists: daiz.y, DJ Cheers and Yas Mine. Club and New Wave. See the line-up on soundcheck.
+Cold Ones at People's Leisure Club on Sun 29 Nov, Edinburgh. 4 artists: daiz.y, DJ Cheers, Lietzsche and Yas Mine. Club and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Cold Ones at People's Leisure Club on Sun 29 Nov, Edinburgh. 3 artists: daiz.y, 
 
 - daiz.y
 - DJ Cheers
+- Lietzsche
 - Yas Mine
 
 *Source: [soundcheck](https://soundcheck.club/e/2580725-cold-ones-at-people-s-leisure-club/)*

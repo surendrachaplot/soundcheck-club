@@ -1,13 +1,13 @@
 # L863
 
-L863 is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "L863 presents Tape Tales Records 10y Anniversary" on Sun, 25 Oct 2026.
+L863 is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "L863 & AMBIVALENT present: Persian Sound" on Sat, 21 Nov 2026.
 
-L863 is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Strada. See dates, start times and who's playing.
+L863 is a music venue in Rome listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | L863 presents Tape Tales Records 10y Anniversary | Strada |
+| Sat, 21 Nov 2026 | L863 & AMBIVALENT present: Persian Sound |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/l863/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/l863/)*

@@ -1,14 +1,19 @@
 # Tall Paul
 
-Tall Paul is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Palm House, Liverpool on Fri, 27 Nov 2026.
+Tall Paul is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Palm House, Liverpool on Fri, 27 Nov 2026.
 
-Tall Paul is a house and trance artist based in United Kingdom, with 36 gigs on soundcheck across Adelaide, Auckland, Birmingham and Glasgow and 7 more. Often billed alongside Seb Fontaine, Mauro Picotto and Ratpack. Next up: Palm House, Liverpool on Fri 27 Nov.
+Tall Paul is a house and trance artist based in United Kingdom, with 41 gigs on soundcheck across Adelaide, Auckland, Birmingham and Brisbane and 10 more. Often billed alongside Seb Fontaine, Todd Terry and Grooverider. Next up: Palm House, Liverpool on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Palm House | Liverpool |
+| Fri, 2 Apr 2027 | White Bay Power Station | Sydney |
+| Sat, 3 Apr 2027 | Superordinary | Brisbane |
+| Sun, 4 Apr 2027 | The Court Hotel | Perth |
+| Fri, 9 Apr 2027 | Shed 10 | Auckland |
+| Sun, 11 Apr 2027 | Miami Marketta | Gold-coast |
 
 ## Recently played
 
@@ -23,6 +28,6 @@ Tall Paul is a house and trance artist based in United Kingdom, with 36 gigs on 
 
 ## Shares bills with
 
-Seb Fontaine, Mauro Picotto, Ratpack
+Seb Fontaine, Todd Terry, Grooverider
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tallpaul/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tallpaul/)*

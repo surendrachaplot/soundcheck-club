@@ -1,6 +1,6 @@
 # Origins: Ross From Friends at Komedia Bath
 
-Origins: Ross From Friends at Komedia Bath on Thu 26 Nov, West Wales. 1 artist: Ross From Friends. See the line-up on soundcheck.
+Origins: Ross From Friends at Komedia Bath on Thu 26 Nov, West Wales. 2 artists: Jomo and Ross From Friends. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Origins: Ross From Friends at Komedia Bath on Thu 26 Nov, West Wales. 1 artist: 
 
 ## Line-up
 
+- Jomo
 - Ross From Friends
 
 *Source: [soundcheck](https://soundcheck.club/e/2536014-origins-ross-from-friends-at-komedia-bath/)*

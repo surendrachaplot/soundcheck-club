@@ -1,13 +1,14 @@
 # Gi Gi
 
-Gi Gi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - A TRANSCENDENTAL SECRET LOCATION !!! , Philadelphia on Fri, 11 Dec 2026.
+Gi Gi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Collapse, Pittsburgh on Sun, 22 Nov 2026.
 
-Gi Gi is a techno and house artist based in United States of America, with 82 gigs on soundcheck across Auckland, Austin, Berlin and Brussels and 25 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: TBA - A TRANSCENDENTAL SECRET LOCATION !!! , Philadelphia on Fri 11 Dec.
+Gi Gi is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Auckland, Austin, Berlin and Brussels and 26 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: Collapse, Pittsburgh on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Collapse | Pittsburgh |
 | Fri, 11 Dec 2026 | TBA - A TRANSCENDENTAL SECRET LOCATION !!!  | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gi Gi is a techno and house artist based in United States of America, with 82 gi
 
 PLO Man, Charles Moon, Conna Haraway
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*

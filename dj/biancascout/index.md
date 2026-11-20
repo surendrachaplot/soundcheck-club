@@ -1,6 +1,6 @@
 # Bianca Scout
 
-Bianca Scout is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Milton Court Concert Hall, London on Wed, 25 Nov 2026.
+Bianca Scout is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Milton Court Concert Hall, London on Wed, 25 Nov 2026.
 
 Bianca Scout is an experimental and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 11 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Milton Court Concert Hall, London on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Bianca Scout is an experimental and electronica artist based in United Kingdom, 
 
 Rainy Miller, 2K88, Lauren Duffus
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*

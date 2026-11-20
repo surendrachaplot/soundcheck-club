@@ -1,6 +1,6 @@
 # A K
 
-A K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Nowadays, New York City on Fri, 18 Dec 2026.
+A K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Nowadays, New York City on Fri, 18 Dec 2026.
 
 A K is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 5 more. Often billed alongside Blackmoonchild, DJ Etta (US) and DJ Minx. Next up: Nowadays, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ A K is a techno and house artist based in United States of America, with 21 gigs
 
 Blackmoonchild, DJ Etta (US), DJ Minx
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*

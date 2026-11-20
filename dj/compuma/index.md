@@ -1,6 +1,6 @@
 # Compuma
 
-Compuma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 21 Nov 2026.
+Compuma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 21 Nov 2026.
 
 Compuma is a techno and house artist based in Japan, with 75 gigs on soundcheck across Chicago, Chubu, Kyoto and Milan and 2 more. Often billed alongside Dr. Nishimura, AKIRAM EN and Shhhhh. Next up: Aoyama Hachi, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Compuma is a techno and house artist based in Japan, with 75 gigs on soundcheck 
 
 Dr. Nishimura, AKIRAM EN, Shhhhh
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/compuma/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/compuma/)*

@@ -1,6 +1,6 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Special Guest (US) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Special Guest (US) is a house and techno artist based in United States of America, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside DJ S (UK), Carasel and Whiney. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Special Guest (US) is a house and techno artist based in United States of Americ
 
 DJ S (UK), Carasel, Whiney
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

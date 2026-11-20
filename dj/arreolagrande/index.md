@@ -1,14 +1,14 @@
 # Arreola Grande
 
-Arreola Grande is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
+Arreola Grande is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Foundry, San Francisco/Oakland on Fri, 1 Jan 2027.
 
-Arreola Grande is a club and techno artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 2dahlia, Aepricity and Bored Lord. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
+Arreola Grande is a techno and club artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 2dahlia, Beverly Chills and Bored Lord. Next up: The Foundry, San Francisco/Oakland on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Underground SF | San Francisco/Oakland |
+| Fri, 1 Jan 2027 | The Foundry | San Francisco/Oakland |
 
 ## Recently played
 
@@ -20,6 +20,6 @@ Arreola Grande is a club and techno artist based in United States of America, wi
 
 ## Shares bills with
 
-2dahlia, Aepricity, Bored Lord
+2dahlia, Beverly Chills, Bored Lord
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arreolagrande/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arreolagrande/)*

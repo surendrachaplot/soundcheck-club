@@ -1,14 +1,15 @@
 # Ruby Lou
 
-Ruby Lou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 28 Nov 2026.
+Ruby Lou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 28 Nov 2026.
 
-Ruby Lou is a house and techno artist based in Australia, with 42 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Slumdog, Mike Callander and Slim Maybe. Next up: Sub Club Melbourne, Melbourne on Sat 28 Nov.
+Ruby Lou is a house and techno artist based in Australia, with 43 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Slumdog, Mike Callander and Slim Maybe. Next up: Sub Club Melbourne, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Sub Club Melbourne | Melbourne |
+| Sun, 29 Nov 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ruby Lou is a house and techno artist based in Australia, with 42 gigs on soundc
 
 Slumdog, Mike Callander, Slim Maybe
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*

@@ -1,16 +1,17 @@
 # RAWKORED
 
-RAWKORED is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Hangr, Sheffield on Sat, 28 Nov 2026.
+RAWKORED is a Techno and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hangr, Sheffield on Sat, 28 Nov 2026.
 
-RAWKORED is a techno and hardcore artist based in Latvia, with 8 gigs on soundcheck across Riga and Sheffield. Often billed alongside XSYNC19, ANASI and DENOVA. Next up: Hangr, Sheffield on Sat 28 Nov.
+RAWKORED is a techno and drum & bass artist based in Latvia, with 9 gigs on soundcheck across Riga and Sheffield. Often billed alongside XSYNC19, ANASI and ARRISHA. Next up: Hangr, Sheffield on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Hangr | Sheffield |
-| Fri, 11 Dec 2026 | Teritorija | Riga |
-| Sat, 12 Dec 2026 | Teritorija | Riga |
+| Fri, 4 Dec 2026 | Korpuss | Riga |
+| Fri, 11 Dec 2026 | TBA - Krišjāņa Barona iela 136, Riga | Riga |
+| Sat, 12 Dec 2026 | TBA - SECRET LOCATION, GRĪZIŅKALNS | Riga |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ RAWKORED is a techno and hardcore artist based in Latvia, with 8 gigs on soundch
 
 ## Shares bills with
 
-XSYNC19, ANASI, DENOVA
+XSYNC19, ANASI, ARRISHA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*

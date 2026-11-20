@@ -1,6 +1,6 @@
 # Jerome Robins
 
-Jerome Robins is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Comfort Zone, Toronto on Sat, 21 Nov 2026.
+Jerome Robins is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Comfort Zone, Toronto on Sat, 21 Nov 2026.
 
 Jerome Robins is a techno and house artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside MC Flipside, Manzone & Strong and Miz Megs. Next up: The Comfort Zone, Toronto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Jerome Robins is a techno and house artist based in Canada, with 24 gigs on soun
 
 MC Flipside, Manzone & Strong, Miz Megs
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromerobins/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromerobins/)*

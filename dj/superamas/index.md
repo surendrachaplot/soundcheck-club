@@ -1,6 +1,6 @@
 # superamas
 
-superamas is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
+superamas is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
 
 superamas is a house and club artist based in France, with 19 gigs on soundcheck across Berlin. Often billed alongside MXX_, APRS and Am Nil. Next up: Urban Spree, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ superamas is a house and club artist based in France, with 19 gigs on soundcheck
 
 MXX_, APRS, Am Nil
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superamas/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superamas/)*

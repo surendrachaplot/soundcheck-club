@@ -1,13 +1,15 @@
 # Gbar
 
-Gbar is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Marrickville, Sydney on Fri, 18 Dec 2026.
+Gbar is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Haven, Byron Bay on Sat, 21 Nov 2026.
 
-Gbar is a techno and tech house artist based in United States of America, with 11 gigs on soundcheck across New York City and Sydney. Often billed alongside Lee Cash, Perna and nataliepops. Next up: TBA - Marrickville, Sydney on Fri 18 Dec.
+Gbar is a techno and tech house artist based in United States of America, with 13 gigs on soundcheck across Byron Bay, New York City and Sydney. Often billed alongside Lee Cash, Perna and nataliepops. Next up: Haven, Byron Bay on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Haven | Byron Bay |
+| Fri, 4 Dec 2026 | TBA | Sydney |
 | Fri, 18 Dec 2026 | TBA - Marrickville | Sydney |
 
 ## Recently played
@@ -25,4 +27,4 @@ Gbar is a techno and tech house artist based in United States of America, with 1
 
 Lee Cash, Perna, nataliepops
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gbar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gbar/)*

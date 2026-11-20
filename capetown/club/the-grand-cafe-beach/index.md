@@ -1,6 +1,6 @@
 # The Grand Cafe & Beach
 
-The Grand Cafe & Beach is a music venue in Cape Town with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Paradisco - Club Tropicana - 5 December 2026" on Sat, 5 Dec 2026.
+The Grand Cafe & Beach is a music venue in Cape Town with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Paradisco - Club Tropicana - 5 December 2026" on Sat, 5 Dec 2026.
 
 The Grand Cafe & Beach is a music venue in Cape Town listed on soundcheck. 3 upcoming gigs, with line-ups including Camilo Franco. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ The Grand Cafe & Beach is a music venue in Cape Town listed on soundcheck. 3 upc
 | Sun, 27 Dec 2026 | BOHO Experience Ibiza - Cape Town, 27 December 2026 | Camilo Franco |
 | Sat, 13 Feb 2027 | Paradisco - Love Sensation |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/the-grand-cafe-beach/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/the-grand-cafe-beach/)*

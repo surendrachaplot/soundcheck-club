@@ -1,6 +1,6 @@
 # TBA - INNER WEST
 
-TBA - INNER WEST is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Right Place Right Time" on Sat, 21 Nov 2026.
+TBA - INNER WEST is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Right Place Right Time (free with rsvp) Day to Night Party + Art Session " on Sat, 21 Nov 2026.
 
 TBA - INNER WEST is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Cedar, F0ulplay, gi and Heelsontile and 2 more. See dates, start times and who's playing.
 
@@ -8,7 +8,7 @@ TBA - INNER WEST is a music venue in Sydney listed on soundcheck. 2 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Right Place Right Time | Cedar (2), F0ulplay, Heelsontile, Lily FM, Pixelchick, Rydeen (AU) |
+| Sat, 21 Nov 2026 | Right Place Right Time (free with rsvp) Day to Night Party + Art Session  | Cedar (2), F0ulplay, Heelsontile, Lily FM, Pixelchick, Rydeen (AU) |
 | Sat, 5 Dec 2026 | CLB pres. Zara, Gi & Grevillea | Zara, gi (24) |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west/)*

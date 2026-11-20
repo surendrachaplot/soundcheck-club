@@ -1,6 +1,6 @@
 # YH (KR)
 
-YH (KR) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
+YH (KR) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
 
 YH (KR) is a house and tech house artist based in South Korea, with 14 gigs on soundcheck across Seoul and South Korea. Often billed alongside Better, LORI (KR) and PIERRE BLANCHE. Next up: Casa Corona Seoul, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ YH (KR) is a house and tech house artist based in South Korea, with 14 gigs on s
 
 Better, LORI (KR), PIERRE BLANCHE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yh-kr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yh-kr/)*

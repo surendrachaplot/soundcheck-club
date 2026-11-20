@@ -1,8 +1,8 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Studio 508, Amsterdam on Sat, 21 Nov 2026.
+Mattias El Mansouri is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Studio 508, Amsterdam on Sat, 21 Nov 2026.
 
-Mattias El Mansouri is a techno and house artist based in Sweden, with 72 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Sergej Orlov, Oberman and Chlär. Next up: Studio 508, Amsterdam on Sat 21 Nov.
+Mattias El Mansouri is a techno and house artist based in Sweden, with 73 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside Sergej Orlov, Oberman and Chlär. Next up: Studio 508, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mattias El Mansouri is a techno and house artist based in Sweden, with 72 gigs o
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Studio 508 | Amsterdam |
 | Thu, 31 Dec 2026 | Renate | Berlin |
+| Tue, 5 Jan 2027 | Sala Zenith | Madrid |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -27,4 +28,4 @@ Mattias El Mansouri is a techno and house artist based in Sweden, with 72 gigs o
 
 Sergej Orlov, Oberman, Chlär
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*

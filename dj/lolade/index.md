@@ -1,6 +1,6 @@
 # lola:de
 
-lola:de is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Om Being, London on Fri, 27 Nov 2026.
+lola:de is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Om Being, London on Fri, 27 Nov 2026.
 
 lola:de is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Joseph Tunde, Goh Well and Jamie de Rooy. Next up: Om Being, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ lola:de is a techno and house artist based in United Kingdom, with 13 gigs on so
 
 Joseph Tunde, Goh Well, Jamie de Rooy
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolade/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolade/)*

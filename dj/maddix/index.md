@@ -1,14 +1,13 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Melbourne Showgrounds, Melbourne on Fri, 20 Nov 2026.
+Maddix is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Randwick Racecourse, Sydney on Sat, 21 Nov 2026.
 
-Maddix is a techno and trance artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: Melbourne Showgrounds, Melbourne on Fri 20 Nov.
+Maddix is a techno and trance artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: Randwick Racecourse, Sydney on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Melbourne Showgrounds | Melbourne |
 | Sat, 21 Nov 2026 | Randwick Racecourse | Sydney |
 | Fri, 11 Dec 2026 | Marina Bay Sands | Singapore |
 | Fri, 22 Jan 2027 | Silo Dallas | Dallas/Fort Worth |
@@ -30,4 +29,4 @@ Maddix is a techno and trance artist based in Netherlands, with 200 gigs on soun
 
 The Rocketman, Billy Gillies, Lilly Palmer
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

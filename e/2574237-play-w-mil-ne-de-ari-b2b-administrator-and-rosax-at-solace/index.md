@@ -1,6 +1,6 @@
 # Play w milène (De) Ari b2b ADMINISTRATOR and Rosax at Solace
 
-Play w milène (De) Ari b2b ADMINISTRATOR and Rosax at Solace on Thu 3 Dec, Melbourne. 7 artists: ADMINISTRATOR, Ari (AU), Hyperprism and milène and 3 more. Techno and House. See the line-up on soundcheck.
+Play w milène (De) Ari b2b ADMINISTRATOR and Rosax at Solace on Thu 3 Dec, Melbourne. 6 artists: ADMINISTRATOR, Ari (AU), Hyperprism and milène and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,5 @@ Play w milène (De) Ari b2b ADMINISTRATOR and Rosax at Solace on Thu 3 Dec, Melb
 - milène
 - Platform Ronnie
 - Rosax
-- Veronica Lanotte
 
 *Source: [soundcheck](https://soundcheck.club/e/2574237-play-w-mil-ne-de-ari-b2b-administrator-and-rosax-at-solace/)*

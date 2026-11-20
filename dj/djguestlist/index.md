@@ -1,13 +1,14 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+DJ GUESTLIST is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
 
-DJ GUESTLIST is a techno and trance artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 38 more. Often billed alongside Paraçek, Cleopard2000 and DJ SPORTSCHUH. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
+DJ GUESTLIST is a techno and trance artist based in Germany, with 158 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 38 more. Often billed alongside Paraçek, Cleopard2000 and DJ SPORTSCHUH. Next up: Gotec, Karlsruhe on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Gotec | Karlsruhe |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ GUESTLIST is a techno and trance artist based in Germany, with 157 gigs on so
 
 Paraçek, Cleopard2000, DJ SPORTSCHUH
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

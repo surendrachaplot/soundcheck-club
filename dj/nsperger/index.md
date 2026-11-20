@@ -1,6 +1,6 @@
 # NSPERGER
 
-NSPERGER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - SECRET SPOT, Santiago on Sat, 21 Nov 2026.
+NSPERGER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - SECRET SPOT, Santiago on Sat, 21 Nov 2026.
 
 NSPERGER is a techno and house artist based in Chile, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 6 more. Often billed alongside Katalina Schwarz, Melania Wonder and Daniela Fuzz. Next up: TBA - SECRET SPOT, Santiago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ NSPERGER is a techno and house artist based in Chile, with 44 gigs on soundcheck
 
 Katalina Schwarz, Melania Wonder, Daniela Fuzz
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*

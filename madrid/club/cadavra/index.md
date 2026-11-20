@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "D-Leria & SERNA at ANFANG" on Thu, 19 Nov 2026.
+Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "TROOPERS x MAGIE NOIRE" on Fri, 20 Nov 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including Abdulla A., Angela Grief, Answer Code Request and Aury and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including Abdulla A., Angela Grief, Answer Code Request and Aury and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | D-Leria & SERNA at ANFANG | D-Leria, NETN, SERNA |
 | Fri, 20 Nov 2026 | TROOPERS x MAGIE NOIRE | Gab Jr., Lisandro Mustapic, Luca Ruiz, MARYO, Mar Bravo, Sazky, Thomas Schmitt |
 | Sat, 21 Nov 2026 | Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long) | Glossy Mario, Lena Willikens, Vladimir Ivkovic |
 | Thu, 26 Nov 2026 | Scuba & Jakka at ANFANG | Jakka, Scuba |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with 
 | Thu, 3 Dec 2026 | Answer Code Request (live) at ANFANG | Answer Code Request |
 | Fri, 4 Dec 2026 | BOOTH: OPEN DECKS | Joseph Platz, MENTA, REGI D |
 | Sat, 5 Dec 2026 | CDVR with Huerta | Huerta |
+| Thu, 10 Dec 2026 | ANFANG FAM DAY | Jakka, Nix (1) |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

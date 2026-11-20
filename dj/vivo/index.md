@@ -1,14 +1,15 @@
 # VIVØ
 
-VIVØ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
+VIVØ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
 
-VIVØ is a techno and house artist based in Poland, with 19 gigs on soundcheck across Krakow, London, Madrid and Warsaw and 1 more. Often billed alongside vitcat, Claude Degas and RĀMZĪ. Next up: Smolna, Warsaw on Sat 21 Nov.
+VIVØ is a techno and house artist based in Poland, with 20 gigs on soundcheck across Krakow, London, Madrid and Warsaw and 1 more. Often billed alongside Claude Degas, vitcat and RĀMZĪ. Next up: Smolna, Warsaw on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Smolna | Warsaw |
+| Sat, 28 Nov 2026 | Smolna | Warsaw |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ VIVØ is a techno and house artist based in Poland, with 19 gigs on soundcheck a
 
 ## Shares bills with
 
-vitcat (3), Claude Degas, RĀMZĪ
+Claude Degas, vitcat (3), RĀMZĪ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivo/)*

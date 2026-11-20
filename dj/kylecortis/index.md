@@ -1,14 +1,15 @@
 # Kyle Cortis
 
-Kyle Cortis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
+Kyle Cortis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
-Kyle Cortis is a techno and house artist based in Malta, with 32 gigs on soundcheck across Berlin, Malta and Rotterdam. Often billed alongside Human Safari, YAZMIN (MT) and Georg MT. Next up: MFCC Arena, Malta on Fri 4 Dec.
+Kyle Cortis is a techno and house artist based in Malta, with 33 gigs on soundcheck across Berlin, Malta and Rotterdam. Often billed alongside Human Safari, YAZMIN (MT) and Georg MT. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Sat, 30 Jan 2027 | Liquid Club | Malta |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kyle Cortis is a techno and house artist based in Malta, with 32 gigs on soundch
 
 Human Safari, YAZMIN (MT), Georg MT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylecortis/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylecortis/)*

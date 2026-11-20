@@ -1,6 +1,6 @@
 # Chausseestrasse 131
 
-Chausseestrasse 131 is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "U R Not Alone Launch Party" on Fri, 20 Nov 2026.
+Chausseestrasse 131 is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "U R Not Alone Launch Party" on Fri, 20 Nov 2026.
 
 Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including ANH THY, Arlanoa, CalvoMusic and DJ FUNKI TASTE and 2 more. See dates, start times and who's playing. Chausseestrasse 131, 10115 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 5 upcoming 
 
 Chausseestrasse 131, 10115 Berlin, Germany, Berlin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*

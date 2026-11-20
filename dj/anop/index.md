@@ -1,13 +1,14 @@
 # Anop
 
-Anop is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Gorilla, Manchester on Fri, 4 Dec 2026.
+Anop is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Meteoro, Barcelona on Sat, 28 Nov 2026.
 
-Anop is a trance and club artist based in United Kingdom, with 46 gigs on soundcheck across Edinburgh, Leeds, London and Manchester. Often billed alongside Princess Elf Bar, ASHTYLR and Akamwave. Next up: Gorilla, Manchester on Fri 4 Dec.
+Anop is a trance and club artist based in United Kingdom, with 47 gigs on soundcheck across Barcelona, Edinburgh, Leeds and London and 1 more. Often billed alongside Princess Elf Bar, ASHTYLR and Akamwave. Next up: Meteoro, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Meteoro | Barcelona |
 | Fri, 4 Dec 2026 | Gorilla | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Anop is a trance and club artist based in United Kingdom, with 46 gigs on soundc
 
 Princess Elf Bar, ASHTYLR, Akamwave
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*

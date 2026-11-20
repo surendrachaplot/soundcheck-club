@@ -1,18 +1,17 @@
 # BIRD
 
-BIRD is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "De Danshal: Hallowhine" on Fri, 30 Oct 2026.
+BIRD is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "360 Degrees: Danilo Plessow" on Fri, 18 Dec 2026.
 
-BIRD is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Spitfire. See dates, start times and who's playing. Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands.
+BIRD is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig, with line-ups including Danilo Plessow. See dates, start times and who's playing. Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | De Danshal: Hallowhine | Spitfire |
-| Sat, 31 Oct 2026 | Hi5 Halloween 2026 |  |
+| Fri, 18 Dec 2026 | 360 Degrees: Danilo Plessow | Danilo Plessow |
 
 ## Address
 
 Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*

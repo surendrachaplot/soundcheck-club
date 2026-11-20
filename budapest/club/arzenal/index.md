@@ -1,15 +1,13 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Márk Bartha - Emese Cuhorka: ENTERING THE LIMBO" on Wed, 18 Nov 2026.
+Arzenal is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Arzenál 7th BDAY W/ UEBERREST (FREE EVENT)" on Fri, 20 Nov 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, with line-ups including 1991 (UK), Afterlife, Alive and Culture Shock and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Afterlife, Alive, Daniel Moritz and Davko and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Márk Bartha - Emese Cuhorka: ENTERING THE LIMBO |  |
-| Thu, 19 Nov 2026 | Boiler Room Budapest w/WORSHIP | 1991 (UK), Culture Shock, Dimension, Sub Focus |
 | Fri, 20 Nov 2026 | Arzenál 7th BDAY W/ UEBERREST (FREE EVENT) | Ueberrest |
 | Fri, 20 Nov 2026 | Arzenal 7th BDAY with Ueberrest | Ueberrest |
 | Fri, 27 Nov 2026 | NRG Budapest - Arzenál | Jezza & Jod, KLOFAMA, Vieze Asbak, Winson, Yoshiko |
@@ -18,9 +16,11 @@ Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, wit
 | Sat, 5 Dec 2026 | TKWT pres. Hard Sessions / Fernanda Martins & Lukas | Fernanda Martins, KALMIKVCS, Lukas (HK), Sikztah |
 | Fri, 11 Dec 2026 | RAWE Pres. Dual Damage  | Dual Damage |
 | Sat, 12 Dec 2026 | The Project x Arzenal: Warehouse with HI:LO (Drumcode - NL) & KAS:ST (Afterlife - FR) | Afterlife, Alive, Davko, KAS:ST, Sikztah |
+| Sat, 19 Dec 2026 | Jauri F2F ALL NIGHT LONG by OUTBREAK | Daniel Moritz, Jauri, Kamafaka, Sikztah |
+| Fri, 12 Mar 2027 | Arzenal pres.: Onlynumbers & SPEEDLIMITER | JAPAU, Jauri, Kamafaka |
 
 ## Address
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

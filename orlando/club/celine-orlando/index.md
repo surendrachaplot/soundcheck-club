@@ -1,14 +1,13 @@
 # Celine Orlando
 
-Celine Orlando is a music venue in Orlando with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "CAPOCHINO - BACK TO LIFE TOUR" on Thu, 19 Nov 2026.
+Celine Orlando is a music venue in Orlando with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "DJ Meredith Marks" on Fri, 27 Nov 2026.
 
-Celine Orlando is a music venue in Orlando listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 22 S Magnolia Ave. Orlando, FL, 32801, USA.
+Celine Orlando is a music venue in Orlando listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 22 S Magnolia Ave. Orlando, FL, 32801, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | CAPOCHINO - BACK TO LIFE TOUR |  |
 | Fri, 27 Nov 2026 | DJ Meredith Marks |  |
 | Thu, 10 Dec 2026 | GorillaT presents: THE INNER MIND TOUR |  |
 | Fri, 11 Dec 2026 | TWIN DIPLOMACY |  |
@@ -17,4 +16,4 @@ Celine Orlando is a music venue in Orlando listed on soundcheck. 4 upcoming gigs
 
 22 S Magnolia Ave. Orlando, FL, 32801, USA, Orlando
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/orlando/club/celine-orlando/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/orlando/club/celine-orlando/)*

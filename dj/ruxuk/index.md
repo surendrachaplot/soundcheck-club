@@ -1,17 +1,18 @@
 # Rux (UK)
 
-Rux (UK) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+Rux (UK) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Palace Vinyl, London on Sat, 5 Dec 2026.
 
-Rux (UK) is a house and garage artist based in Romania, with 8 gigs on soundcheck across Berlin and London. Often billed alongside MADDØG, ALVAZ and Grace Sands. Next up: Dalston Superstore, London on Thu 12 Nov.
+Rux (UK) is a house and electro artist based in Romania, with 9 gigs on soundcheck across Berlin and London. Often billed alongside MADDØG, ALVAZ and Grace Sands. Next up: Palace Vinyl, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Dalston Superstore | London |
+| Sat, 5 Dec 2026 | Palace Vinyl | London |
 
 ## Recently played
 
+- Dalston Superstore, London · Thu, 12 Nov 2026
 - Club Makossa, London · Sun, 5 Jul 2026
 - Crack Bellmer, Berlin · Thu, 18 Jun 2026
 - Bricks, London · Fri, 22 May 2026
@@ -24,4 +25,4 @@ Rux (UK) is a house and garage artist based in Romania, with 8 gigs on soundchec
 
 MADDØG, ALVAZ, Grace Sands
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxuk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxuk/)*

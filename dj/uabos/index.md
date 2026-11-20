@@ -1,6 +1,6 @@
 # Uabos
 
-Uabos is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
+Uabos is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
 Uabos is a house and electronica artist based in Italy, with 54 gigs on soundcheck across Florence, London, Milan and Rome and 3 more. Often billed alongside Giamma Soren, Vannelli Bros and San Pedro. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Uabos is a house and electronica artist based in Italy, with 54 gigs on soundche
 
 Giamma Soren, Vannelli Bros, San Pedro
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*

@@ -1,6 +1,6 @@
 # Carbonatez
 
-Carbonatez is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Luka, Seoul on Fri, 20 Nov 2026.
+Carbonatez is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Luka, Seoul on Fri, 20 Nov 2026.
 
 Carbonatez is a hardcore and gabber artist based in South Korea, with 38 gigs on soundcheck across Seoul. Often billed alongside BASSKRAP, Pennywize and HARDNENDZ. Next up: Luka, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Carbonatez is a hardcore and gabber artist based in South Korea, with 38 gigs on
 
 BASSKRAP, Pennywize, HARDNENDZ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonatez/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonatez/)*

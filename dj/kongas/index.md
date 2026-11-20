@@ -1,6 +1,6 @@
 # Kongas
 
-Kongas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Q Club, Milan on Fri, 20 Nov 2026.
+Kongas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Q Club, Milan on Fri, 20 Nov 2026.
 
 Kongas is a house and techno artist based in Italy, with 7 gigs on soundcheck across Milan, Naples, Rome and Turin. Often billed alongside D-Leria, DRUMS AND CHANTS and AMBRA. Next up: Q Club, Milan on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Kongas is a house and techno artist based in Italy, with 7 gigs on soundcheck ac
 
 D-Leria, DRUMS AND CHANTS, AMBRA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kongas/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kongas/)*

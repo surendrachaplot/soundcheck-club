@@ -1,6 +1,6 @@
 # KRN
 
-KRN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bar Shrimp, Manchester on Sun, 20 Dec 2026.
+KRN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bar Shrimp, Manchester on Sun, 20 Dec 2026.
 
 KRN is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: Bar Shrimp, Manchester on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ KRN is a house and tech house artist based in United Kingdom, with 59 gigs on so
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

@@ -1,6 +1,6 @@
 # MENT Ljubljana 2027 at Kino Siska
 
-MENT Ljubljana 2027 at Kino Siska on Wed 17 Feb, Ljubljana. 7 artists: Abdullah Miniawy, Kikelomo, LinLin and Martyna Basta and 3 more. See the line-up on soundcheck.
+MENT Ljubljana 2027 at Kino Siska on Wed 17 Feb, Ljubljana. 7 artists: Abdullah Miniawy, Kikelomo, LinLin and Martyna Basta and 3 more. Techno and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

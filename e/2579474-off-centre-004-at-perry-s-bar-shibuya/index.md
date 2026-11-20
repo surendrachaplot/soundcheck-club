@@ -1,6 +1,6 @@
 # Off Centre 004 at Perry's Bar Shibuya
 
-Off Centre 004 at Perry's Bar Shibuya on Fri 20 Nov, Tokyo. 3 artists: DJ Flexure, Elena Berry and SKYTOPIA. House and Garage. See the line-up on soundcheck.
+Off Centre 004 at Perry's Bar Shibuya on Fri 20 Nov, Tokyo. 4 artists: æ-chan, DJ Flexure, Elena Berry and SKYTOPIA. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Off Centre 004 at Perry's Bar Shibuya on Fri 20 Nov, Tokyo. 3 artists: DJ Flexur
 
 ## Line-up
 
+- æ-chan
 - DJ Flexure
 - Elena Berry
 - SKYTOPIA

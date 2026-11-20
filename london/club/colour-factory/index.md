@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 22 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "London Jazz Fest Afterparty with Summer Pearl, Marla Kether (DJ), Shortlist Sound" on Fri, 20 Nov 2026.
+Colour Factory is a music venue in London with 22 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "London Jazz Fest Afterparty with Summer Pearl, Marla Kether (DJ), Shortlist Sound" on Fri, 20 Nov 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including 3MR., AMBRR, Andrea Giudice and ASHTATTZ and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 22 upcoming gigs
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

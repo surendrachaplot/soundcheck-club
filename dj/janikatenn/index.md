@@ -1,14 +1,15 @@
 # Janika Tenn
 
-Janika Tenn is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Jazz Cafe, London on Fri, 20 Nov 2026.
+Janika Tenn is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Jazz Cafe, London on Fri, 20 Nov 2026.
 
-Janika Tenn is a house and tech house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and London and 2 more. Often billed alongside Todd Terry, Michael Moog and Steve Taylor. Next up: The Jazz Cafe, London on Fri 20 Nov.
+Janika Tenn is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and London and 3 more. Often billed alongside Todd Terry, Michael Moog and Steve Taylor. Next up: The Jazz Cafe, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Jazz Cafe | London |
+| Fri, 4 Dec 2026 | Armania Phuket | Thailand |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Janika Tenn is a house and tech house artist based in United Kingdom, with 32 gi
 
 Todd Terry, Michael Moog, Steve Taylor
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*

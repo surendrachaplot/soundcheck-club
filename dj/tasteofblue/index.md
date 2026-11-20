@@ -1,6 +1,6 @@
 # Taste of Blue
 
-Taste of Blue is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Groundless Factory, Beijing on Fri, 20 Nov 2026.
+Taste of Blue is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Groundless Factory, Beijing on Fri, 20 Nov 2026.
 
 Taste of Blue is a techno and electro artist based in China, with 36 gigs on soundcheck across Beijing, Berlin, Hong Kong and Shanghai and 1 more. Often billed alongside AngeliKa, Shanda and YUEMING. Next up: Groundless Factory, Beijing on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Taste of Blue is a techno and electro artist based in China, with 36 gigs on sou
 
 AngeliKa, Shanda, YUEMING
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasteofblue/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasteofblue/)*

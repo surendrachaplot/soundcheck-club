@@ -1,6 +1,6 @@
 # On the Rocks (OTR)
 
-On the Rocks (OTR) is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Texas, Cape Town on Sat, 21 Nov 2026.
+On the Rocks (OTR) is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Texas, Cape Town on Sat, 21 Nov 2026.
 
 On the Rocks (OTR) is a house and italo disco artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Cape Town and Mexico City. Often billed alongside AURELIA (MX), Field Notes DJs and Friends of Friends Soundsystem. Next up: Texas, Cape Town on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ On the Rocks (OTR) is a house and italo disco artist based in Netherlands, with 
 
 AURELIA (MX), Field Notes DJs, Friends of Friends Soundsystem
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ontherocksotr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ontherocksotr/)*

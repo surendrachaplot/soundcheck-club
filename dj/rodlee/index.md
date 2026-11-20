@@ -1,14 +1,15 @@
 # Rod Lee
 
-Rod Lee is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bastet, Philadelphia on Fri, 20 Nov 2026.
+Rod Lee is a Club and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bastet, Philadelphia on Fri, 20 Nov 2026.
 
-Rod Lee is a club and house artist based in United States of America, with 9 gigs on soundcheck across Baltimore, New York City, Philadelphia and Washington DC. Often billed alongside DJ Technics, cash.liss and Mighty Mark. Next up: Bastet, Philadelphia on Fri 20 Nov.
+Rod Lee is a club and house artist based in United States of America, with 10 gigs on soundcheck across Baltimore, New York City, Philadelphia and Washington DC. Often billed alongside DJ Technics, cash.liss and Mighty Mark. Next up: Bastet, Philadelphia on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Bastet | Philadelphia |
+| Fri, 20 Nov 2026 | Great Circles | Philadelphia |
 | Sat, 28 Nov 2026 | The Compound | Baltimore |
 | Sat, 5 Dec 2026 | TRANSMISSION DC | Washington DC |
 
@@ -25,4 +26,4 @@ Rod Lee is a club and house artist based in United States of America, with 9 gig
 
 DJ Technics, cash.liss, Mighty Mark
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodlee/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodlee/)*

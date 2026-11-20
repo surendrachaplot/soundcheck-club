@@ -1,8 +1,8 @@
 # DJ SODBRENNEN
 
-DJ SODBRENNEN is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Helios37, Cologne on Fri, 4 Dec 2026.
+DJ SODBRENNEN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Helios37, Cologne on Fri, 4 Dec 2026.
 
-DJ SODBRENNEN is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Oberhausen. Often billed alongside Bensonius, ADEMES and Marco Eisenberg. Next up: Helios37, Cologne on Fri 4 Dec.
+DJ SODBRENNEN is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Oberhausen. Often billed alongside Bensonius, ADEMES and Marco Eisenberg. Next up: Helios37, Cologne on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ SODBRENNEN is a techno and trance artist based in Germany, with 48 gigs on so
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Helios37 | Cologne |
 | Sat, 5 Dec 2026 | Schrotty | Cologne |
+| Sat, 26 Dec 2026 | Helios37 | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ SODBRENNEN is a techno and trance artist based in Germany, with 48 gigs on so
 
 Bensonius, ADEMES, Marco Eisenberg
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodbrennen/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodbrennen/)*

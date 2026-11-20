@@ -1,0 +1,27 @@
+# Enable Secret
+
+Enable Secret is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - LA, Los Angeles on Fri, 4 Dec 2026.
+
+Enable Secret is a trance and techno artist based in United States of America, with 8 gigs on soundcheck across Atlanta, Chicago, Denver and Los Angeles and 1 more. Often billed alongside Purity Filter, Technopagan and Ava Blank. Next up: TBA - LA, Los Angeles on Fri 4 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 4 Dec 2026 | TBA - LA | Los Angeles |
+
+## Recently played
+
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 31 Oct 2026
+- TBA, Chicago · Sat, 11 Apr 2026
+- TBA - Sanctuary Denver, Denver · Fri, 27 Feb 2026
+- The Monty Bar, Los Angeles · Fri, 30 Jan 2026
+- Atlanta Utility Works, Atlanta · Sat, 8 Nov 2025
+- TBA - 341 E 1st St Los Angeles, CA  90012 United States, Los Angeles · Sat, 5 Jul 2025
+- TBA - Richmond Warehouse, San Francisco/Oakland · Sat, 22 Mar 2025
+
+## Shares bills with
+
+Purity Filter, Technopagan, Ava Blank
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enablesecret/)*

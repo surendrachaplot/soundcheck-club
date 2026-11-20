@@ -1,6 +1,6 @@
 # Squash
 
-Squash is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Plastik, Tallinn on Fri, 20 Nov 2026.
+Squash is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Plastik, Tallinn on Fri, 20 Nov 2026.
 
 Squash is a house and techno artist based in Estonia, with 8 gigs on soundcheck across Copenhagen, London and Tallinn. Often billed alongside Aldonna, Charch and Gearmaster. Next up: Plastik, Tallinn on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Squash is a house and techno artist based in Estonia, with 8 gigs on soundcheck 
 
 Aldonna, Charch, Gearmaster
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squash/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squash/)*

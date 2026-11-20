@@ -1,6 +1,6 @@
 # Pableeto
 
-Pableeto is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
+Pableeto is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
 
 Pableeto is a deep house and house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside MAÏS, Make Money Mafia and MI/EN. Next up: Hoxton Cabin, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Pableeto is a deep house and house artist based in United Kingdom, with 11 gigs 
 
 MAÏS, Make Money Mafia, MI/EN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pableeto/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pableeto/)*

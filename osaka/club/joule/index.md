@@ -1,14 +1,13 @@
 # Joule
 
-Joule is a music venue in Osaka with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY" on Wed, 18 Nov 2026.
+Joule is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Crossfade" on Fri, 20 Nov 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, with line-ups including Astro, coolsurf, DMITRI ABSINTHE and f1y and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including Astro, coolsurf, DMITRI ABSINTHE and f1y and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY | NOBUYA (2) |
 | Fri, 20 Nov 2026 | Crossfade | Jonson, Towa, f1y (1) |
 | Sat, 21 Nov 2026 | KINETIC | DMITRI ABSINTHE, MARVY, NOBUYA (2), Nao Nomura |
 | Wed, 25 Nov 2026 | MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY | MARIO+CONTROL, NOBUYA (2), O-MAN |
@@ -21,4 +20,4 @@ Joule is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, with line
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

@@ -1,6 +1,6 @@
 # Deezy (US)
 
-Deezy (US) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 20 Nov 2026.
+Deezy (US) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Deezy (US) is a house and afro house artist, with 11 gigs on soundcheck across Detroit, Portland, San Diego and San Francisco/Oakland. Often billed alongside Matthew Paul, Nick Moss and Carlos Souffront. Next up: Underground SF, San Francisco/Oakland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Deezy (US) is a house and afro house artist, with 11 gigs on soundcheck across D
 
 Matthew Paul, Nick Moss, Carlos Souffront
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deezyus/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deezyus/)*

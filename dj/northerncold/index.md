@@ -1,6 +1,6 @@
 # Northern Cold
 
-Northern Cold is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
+Northern Cold is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
 
 Northern Cold is a techno and acid artist based in United States of America, with 7 gigs on soundcheck across Portland, Seattle and Washington DC. Often billed alongside IN_DUAL, Thalestriss and CLAWZ. Next up: TBA - Washington DC , Washington DC on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Northern Cold is a techno and acid artist based in United States of America, wit
 
 IN_DUAL, Thalestriss, CLAWZ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/northerncold/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/northerncold/)*

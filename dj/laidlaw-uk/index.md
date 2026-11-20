@@ -1,8 +1,8 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lunchbox, Atlanta on Sat, 21 Nov 2026.
+Laidlaw is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lunchbox, Atlanta on Sat, 21 Nov 2026.
 
-Laidlaw is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austria and 42 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Lunchbox, Atlanta on Sat 21 Nov.
+Laidlaw is a house and tech house artist based in United Kingdom, with 214 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austria and 42 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Lunchbox, Atlanta on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 213 gigs 
 | Sat, 21 Nov 2026 | Lunchbox | Atlanta |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Fri, 11 Dec 2026 | block. | Dublin |
+| Fri, 5 Feb 2027 | Academy LA | Los Angeles |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 
 ## Recently played
@@ -28,4 +29,4 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 213 gigs 
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

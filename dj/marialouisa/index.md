@@ -1,6 +1,6 @@
 # Maria Louisa
 
-Maria Louisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ijcatcher, Amsterdam on Sat, 30 Jan 2027.
+Maria Louisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ijcatcher, Amsterdam on Sat, 30 Jan 2027.
 
 Maria Louisa is a house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Doppelgang, Mila Haj Kasem and Selene. Next up: Ijcatcher, Amsterdam on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Maria Louisa is a house and techno artist based in Netherlands, with 9 gigs on s
 
 Doppelgang, Mila Haj Kasem, Selene
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marialouisa/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marialouisa/)*

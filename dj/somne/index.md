@@ -1,14 +1,15 @@
 # SOMNE
 
-SOMNE is a Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
+SOMNE is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
 
-SOMNE is an electronica artist based in Italy, with 9 gigs on soundcheck across Barcelona and Milan. Often billed alongside Creamy, Anthony Rother and Antonio Marrandino. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 27 Nov.
+SOMNE is an electronica and techno artist based in Italy, with 10 gigs on soundcheck across Barcelona and Milan. Often billed alongside Creamy, Anthony Rother and Antonio Marrandino. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Fri, 18 Dec 2026 | DURO | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SOMNE is an electronica artist based in Italy, with 9 gigs on soundcheck across 
 
 Creamy, Anthony Rother, Antonio Marrandino
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somne/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somne/)*

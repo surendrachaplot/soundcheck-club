@@ -1,13 +1,14 @@
 # Jack the Jackal
 
-Jack the Jackal is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 19 Dec 2026.
+Jack the Jackal is a Psytrance and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 19 Dec 2026.
 
-Jack the Jackal is a psytrance and trance artist based in Thailand, with 18 gigs on soundcheck across Bangkok, Ghent, Ho Chi Minh City and Kuala Lumpur. Often billed alongside Puffer P, Sam Laxton and ALPHA (NL). Next up: Bangkok Island, Bangkok on Sat 19 Dec.
+Jack the Jackal is a psytrance and trance artist based in Thailand, with 19 gigs on soundcheck across Bangkok, Ghent, Ho Chi Minh City and Kuala Lumpur. Often billed alongside Puffer P, Sam Laxton and ALPHA (NL). Next up: Bangkok Island, Bangkok on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Bangkok Island | Bangkok |
 | Sat, 19 Dec 2026 | Bangkok Island | Bangkok |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jack the Jackal is a psytrance and trance artist based in Thailand, with 18 gigs
 
 Puffer P, Sam Laxton, ALPHA (NL)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackthejackal/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackthejackal/)*

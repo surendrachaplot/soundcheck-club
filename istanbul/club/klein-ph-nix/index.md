@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Adam Beyer + Fred Lenix + Zafer Atabey" on Fri, 20 Nov 2026.
+Klein Phönix is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Adam Beyer + Fred Lenix + Zafer Atabey" on Fri, 20 Nov 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Beyer, Chris Avantgarde, MoBlack and NTO. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -17,4 +17,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

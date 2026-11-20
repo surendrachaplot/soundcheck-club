@@ -1,10 +1,10 @@
 # BOMA presents: Carnaval 2027 Dawn Patrol with Maz & Antdot at Museu do Amanhã
 
-BOMA presents: Carnaval 2027 Dawn Patrol with Maz & Antdot at Museu do Amanhã on Sat 14 Nov, Rio de Janeiro. 4 artists: ANNA, Antdot, Maz (BR) and Volkoder. See the line-up on soundcheck.
+BOMA presents: Carnaval 2027 Dawn Patrol with Maz & Antdot at Museu do Amanhã on Sat 13 Feb, Rio de Janeiro. 4 artists: ANNA, Antdot, Maz (BR) and Volkoder. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 14 Nov 2026 |
+| Date | Sat, 13 Feb 2027 |
 | Venue | Museu do Amanhã |
 | City | Rio de Janeiro |
 

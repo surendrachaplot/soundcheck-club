@@ -1,6 +1,6 @@
 # ondyne
 
-ondyne is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kauz, Zurich on Fri, 20 Nov 2026.
+ondyne is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kauz, Zurich on Fri, 20 Nov 2026.
 
 ondyne is a house and tech house artist based in Switzerland, with 3 gigs on soundcheck across Zurich. Often billed alongside Christine Benz, Juzz and Luka Staem. Next up: Kauz, Zurich on Fri 20 Nov.
 
@@ -16,4 +16,4 @@ ondyne is a house and tech house artist based in Switzerland, with 3 gigs on sou
 
 Christine Benz, Juzz, Luka Staem
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondyne/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondyne/)*

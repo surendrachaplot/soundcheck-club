@@ -1,0 +1,28 @@
+# Terence Fixmer
+
+Terence Fixmer is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
+
+Terence Fixmer is a techno and ebm artist based in France, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside DJ Hell, Aurora Halal and Olivia. Next up: Sala de Armas, North on Fri 19 Feb.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 19 Feb 2027 | Sala de Armas | North |
+
+## Recently played
+
+- Good Room, New York City · Fri, 30 Oct 2026
+- Lux Fragil, Lisbon · Sat, 19 Sept 2026
+- Nitsa Club, Barcelona · Fri, 19 Jun 2026
+- TILLATEC, Amsterdam · Sat, 6 Jun 2026
+- Moog Club, Barcelona · Wed, 15 Apr 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 24 Jan 2026
+- Star & Shadow Cinema, Newcastle · Fri, 28 Nov 2025
+- Mia Mao, Paris · Sat, 22 Nov 2025
+
+## Shares bills with
+
+DJ Hell, Aurora Halal, Olivia
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terencefixmer/)*

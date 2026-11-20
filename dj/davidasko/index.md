@@ -1,13 +1,14 @@
 # David Asko
 
-David Asko is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at FVTVR, Paris on Thu, 31 Dec 2026.
+David Asko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at KREUZWERK, Berlin on Sat, 19 Dec 2026.
 
-David Asko is a techno and industrial artist based in France, with 43 gigs on soundcheck across Barcelona, Basel, Berlin and Hamburg and 7 more. Often billed alongside Samantha Togni, Somniac One and Mar/us. Next up: FVTVR, Paris on Thu 31 Dec.
+David Asko is a techno and industrial artist based in France, with 44 gigs on soundcheck across Barcelona, Basel, Berlin and Hamburg and 7 more. Often billed alongside Samantha Togni, Mar/us and Somniac One. Next up: KREUZWERK, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | KREUZWERK | Berlin |
 | Thu, 31 Dec 2026 | FVTVR | Paris |
 
 ## Recently played
@@ -23,6 +24,6 @@ David Asko is a techno and industrial artist based in France, with 43 gigs on so
 
 ## Shares bills with
 
-Samantha Togni, Somniac One, Mar/us
+Samantha Togni, Mar/us, Somniac One
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*

@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
+Supergloss is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
 
 Supergloss is a techno and trance artist based in Germany, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 72 more. Often billed alongside Funk Tribu, Omon Breaker and Benwal. Next up: Schrotty, Cologne on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Supergloss is a techno and trance artist based in Germany, with 250 gigs on soun
 
 Funk Tribu, Omon Breaker, Benwal
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

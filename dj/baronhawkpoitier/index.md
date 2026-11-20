@@ -1,13 +1,14 @@
 # Baronhawk Poitier
 
-Baronhawk Poitier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Nowadays, New York City on Thu, 31 Dec 2026.
+Baronhawk Poitier is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Stem And Vine, Baltimore on Sat, 28 Nov 2026.
 
-Baronhawk Poitier is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Atlanta, Baltimore, Berlin and Denver and 8 more. Often billed alongside Joyce Lim, Tommy Cornelis and Karizma. Next up: Nowadays, New York City on Thu 31 Dec.
+Baronhawk Poitier is a house and techno artist based in United States of America, with 138 gigs on soundcheck across Atlanta, Baltimore, Berlin and Denver and 8 more. Often billed alongside Joyce Lim, Tommy Cornelis and Karizma. Next up: Stem And Vine, Baltimore on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Stem And Vine | Baltimore |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Baronhawk Poitier is a house and techno artist based in United States of America
 
 Joyce Lim, Tommy Cornelis, Karizma
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baronhawkpoitier/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baronhawkpoitier/)*

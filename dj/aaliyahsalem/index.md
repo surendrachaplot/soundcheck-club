@@ -1,6 +1,6 @@
 # Aaliyah Salem
 
-Aaliyah Salem is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Miscellania, Melbourne on Sat, 5 Dec 2026.
+Aaliyah Salem is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Miscellania, Melbourne on Sat, 5 Dec 2026.
 
 Aaliyah Salem is a techno and bass artist based in Australia, with 33 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside DJ CASPER, ATARANGI and Girl Tool. Next up: Miscellania, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Aaliyah Salem is a techno and bass artist based in Australia, with 33 gigs on so
 
 DJ CASPER (2), ATARANGI, Girl Tool
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyahsalem/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyahsalem/)*

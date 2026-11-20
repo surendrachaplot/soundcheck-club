@@ -1,15 +1,13 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "RAVING CHARLIE: Hard Techno / Rave w/ B.L.O [DE] / DESTT [PT] / SAINTY / DEVØX" on Wed, 18 Nov 2026.
+nachbar is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "JSPRV35 ALL NIGHT LONG" on Fri, 20 Nov 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including AEZARYA, angelboy, BARROSKINI and Berkan V8 and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including AEZARYA, angelboy, BARROSKINI and Berkan V8 and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave w/ B.L.O [DE] / DESTT [PT] / SAINTY / DEVØX | Zeyvers |
-| Thu, 19 Nov 2026 | 7Fm by Moxes | Moxes |
 | Fri, 20 Nov 2026 | JSPRV35 ALL NIGHT LONG | JSPRV35 |
 | Sat, 21 Nov 2026 | TGIB x nachbar |  |
 | Wed, 25 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave w/ 2FASTKEEPUP [IE] / POKEDECKS / UTOPIA / KYNØ | AEZARYA |
@@ -18,9 +16,11 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, wi
 | Sat, 28 Nov 2026 | 3 YEAR ANNIVERSARY  w/ Ahwlkuhn, Angelboy, BARROSKINI & DE SCHUURMAN | BARROSKINI, De Schuurman, angelboy |
 | Wed, 2 Dec 2026 | RAVING CHARLIE: Hard Techno / Rave w/ FL!M [TH] | FL!M |
 | Thu, 3 Dec 2026 | Sweetlips with Simon Kidzoo & Hagelslag | Hagelslag, Simon Kidzoo |
+| Wed, 9 Dec 2026 | RAVING CHARLIE: Hard Techno / Rave w/ CRYSTAL BITCH / HRTLESS ANGL / KATSUKI  | DJ Crystal Bitch |
+| Wed, 16 Dec 2026 | RAVING CHARLIE: Hard Techno / Rave w/ Fischmonger [CN] | Fischmonger |
 
 ## Address
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

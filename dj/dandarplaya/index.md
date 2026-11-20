@@ -1,6 +1,6 @@
 # dandarplaya
 
-dandarplaya is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bangkok Kunsthalle, Bangkok on Sat, 21 Nov 2026.
+dandarplaya is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bangkok Kunsthalle, Bangkok on Sat, 21 Nov 2026.
 
 dandarplaya is an experimental and hardcore artist based in Russia, with 28 gigs on soundcheck across Bangkok and Seoul. Often billed alongside HU550, kochewww and angelic waves. Next up: Bangkok Kunsthalle, Bangkok on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ dandarplaya is an experimental and hardcore artist based in Russia, with 28 gigs
 
 HU550, kochewww, angelic waves
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dandarplaya/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dandarplaya/)*

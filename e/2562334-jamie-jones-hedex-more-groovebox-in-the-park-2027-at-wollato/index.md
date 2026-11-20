@@ -1,6 +1,6 @@
 # Jamie Jones, Hedex + more - Groovebox In The Park 2027 at Wollaton Park
 
-Jamie Jones, Hedex + more - Groovebox In The Park 2027 at Wollaton Park on Sat 5 Jun, Nottingham. 18 artists: 2Shy MC, A Little Sound, Anil Aras and BassLayerz and 14 more. See the line-up on soundcheck.
+Jamie Jones, Hedex + more - Groovebox In The Park 2027 at Wollaton Park on Sat 5 Jun, Nottingham. 20 artists: 2Shy MC, A Little Sound, Anil Aras and BassLayerz and 16 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,10 +14,12 @@ Jamie Jones, Hedex + more - Groovebox In The Park 2027 at Wollaton Park on Sat 5
 - A Little Sound
 - Anil Aras
 - BassLayerz
+- Cam Stockman
 - Carasel
 - Eksman
 - Hedex
 - IC3
+- Jamback
 - Jamie Jones
 - Job de Jong
 - Kepler

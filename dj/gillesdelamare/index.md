@@ -1,13 +1,14 @@
 # Gilles de la Mare
 
-Gilles de la Mare is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Output, Tokyo on Sun, 17 Jan 2027.
+Gilles de la Mare is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 12 Dec 2026.
 
-Gilles de la Mare is a trance and progressive house artist based in Japan, with 42 gigs on soundcheck across Tokyo. Often billed alongside Jay Turio, Nono THING and BEPPU. Next up: Output, Tokyo on Sun 17 Jan.
+Gilles de la Mare is a trance and progressive house artist based in Japan, with 43 gigs on soundcheck across Tokyo. Often billed alongside Jay Turio, Nono THING and BEPPU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sun, 17 Jan 2027 | Output | Tokyo |
 | Sat, 30 Jan 2027 | or | Tokyo |
 
@@ -26,4 +27,4 @@ Gilles de la Mare is a trance and progressive house artist based in Japan, with 
 
 Jay Turio, Nono THING, BEPPU
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesdelamare/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesdelamare/)*

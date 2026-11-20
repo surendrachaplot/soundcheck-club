@@ -1,15 +1,13 @@
 # Super5
 
-Super5 is a music venue in Lyon with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "THE DARE NIGHT RESIDENCY - SNDWTCH & LUCAT1" on Wed, 18 Nov 2026.
+Super5 is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Tina Tornade at Super(" on Fri, 20 Nov 2026.
 
-Super5 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line-ups including Enshade, Jo Kovaa, Margo (GER) and Reine Mayr and 1 more. See dates, start times and who's playing. 2 Rue de Savy - Lyon.
+Super5 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line-ups including Jo Kovaa, Margo (GER), Reine Mayr and Tina Tornade. See dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | THE DARE NIGHT RESIDENCY - SNDWTCH & LUCAT1 |  |
-| Thu, 19 Nov 2026 | Enshade | Enshade |
 | Fri, 20 Nov 2026 | Tina Tornade at Super( | Tina Tornade |
 | Sat, 21 Nov 2026 | Jo Kovaa | Jo Kovaa |
 | Wed, 25 Nov 2026 | THE DARE NIGHT RESIDENCY - OYSTER CACTHER & TOMMY99 |  |
@@ -21,4 +19,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

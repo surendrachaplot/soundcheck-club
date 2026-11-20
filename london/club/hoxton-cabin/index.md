@@ -1,8 +1,8 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Friends with Benefits! (Fundraiser) [Deep Groovy Acid House]" on Fri, 20 Nov 2026.
+Hoxton Cabin is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Friends with Benefits! (Fundraiser) [Deep Groovy Acid House]" on Fri, 20 Nov 2026.
 
-Hoxton Cabin is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including AAKAARA, Benebe, bvtlr and Cecilia Ena and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
+Hoxton Cabin is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including AAKAARA, acidhousewife3000, Benebe and bvtlr and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 6 upcoming gigs, w
 | Sat, 21 Nov 2026 | murmur - End of Year Edition | Frederik Anthony, Sincerely Simon, bvtlr |
 | Fri, 27 Nov 2026 | Mirror Moves #4 [27.11.26] | Benebe, Cristian Sirica, Dave the Rave, NOYB, vene.tia |
 | Sat, 28 Nov 2026 | RED EYE - PROGRESSIVE-MELODIC-HOUSE | Cecilia Ena, Jesus RedSoul, Michael ReDark |
+| Fri, 4 Dec 2026 | Two years in the basement | Vlad Zinn, acidhousewife3000, dbeater, ttttttttt |
 | Fri, 11 Dec 2026 | Techno Cabal: AAKAARA, Benebe, Juliana Branco, mellj | AAKAARA, Benebe, Juliana Branco |
 | Fri, 18 Dec 2026 | Groovin' Moovin' | DJ Migz |
 
@@ -19,4 +20,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 6 upcoming gigs, w
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

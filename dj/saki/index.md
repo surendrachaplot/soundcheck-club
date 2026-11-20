@@ -1,13 +1,14 @@
 # SAKI
 
-SAKI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 6 Dec 2026.
+SAKI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Area51 / 17map Minami, Osaka on Sat, 21 Nov 2026.
 
-SAKI is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ANZU, DJ B2B and DJ Yazi. Next up: Aoyama Hachi, Tokyo on Sun 6 Dec.
+SAKI is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ANZU, Astro and DJ B2B. Next up: Area51 / 17map Minami, Osaka on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Area51 / 17map Minami | Osaka |
 | Sun, 6 Dec 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ SAKI is a techno and house artist based in United States of America, with 11 gig
 
 ## Shares bills with
 
-ANZU, DJ B2B, DJ Yazi
+ANZU, Astro, DJ B2B
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saki/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saki/)*

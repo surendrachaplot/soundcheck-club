@@ -1,8 +1,8 @@
 # Loxy
 
-Loxy is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Volks, Brighton on Sat, 21 Nov 2026.
+Loxy is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Volks, Brighton on Sat, 21 Nov 2026.
 
-Loxy is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 19 more. Often billed alongside Doc Scott, Blackeye MC and Dillinja. Next up: Volks, Brighton on Sat 21 Nov.
+Loxy is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 19 more. Often billed alongside Doc Scott, Blackeye MC and Dillinja. Next up: Volks, Brighton on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Loxy is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on
 | Sat, 21 Nov 2026 | Volks | Brighton |
 | Sat, 28 Nov 2026 | St Leonards Church - St Leonards | South-east |
 | Sat, 16 Jan 2027 | The Berkeley Suite | Glasgow |
+| Fri, 22 Jan 2027 | Night Tales | London |
 | Sat, 6 Feb 2027 | The Cause | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ Loxy is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on
 
 Doc Scott, Blackeye MC, Dillinja
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*

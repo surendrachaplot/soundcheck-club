@@ -1,6 +1,6 @@
 # Kraak & Smaak
 
-Kraak & Smaak is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
+Kraak & Smaak is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
 
 Kraak & Smaak are an electronica and disco duo based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 8 more. Often billed alongside Knight One, Moods and Alexander Koning. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kraak & Smaak are an electronica and disco duo based in Netherlands, with 22 gig
 
 Knight One, Moods, Alexander Koning
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraaksmaak/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraaksmaak/)*

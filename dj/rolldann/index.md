@@ -1,8 +1,8 @@
 # Roll Dann
 
-Roll Dann is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Bassement, Madrid on Sun, 6 Dec 2026.
+Roll Dann is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Bassement, Madrid on Sun, 6 Dec 2026.
 
-Roll Dann is a techno and acid artist based in Spain, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside Laia, Shadow Hrym (ES) and Philippa Pacho. Next up: The Bassement, Madrid on Sun 6 Dec.
+Roll Dann is a techno and acid artist based in Spain, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside Laia, Shadow Hrym (ES) and Philippa Pacho. Next up: The Bassement, Madrid on Sun 6 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Roll Dann is a techno and acid artist based in Spain, with 87 gigs on soundcheck
 | Fri, 11 Dec 2026 | FVTVR | Paris |
 | Sat, 19 Dec 2026 | FOLD | London |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 1 Jan 2027 | The Bassement | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Roll Dann is a techno and acid artist based in Spain, with 87 gigs on soundcheck
 
 Laia, Shadow Hrym (ES), Philippa Pacho
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*

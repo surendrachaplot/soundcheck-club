@@ -1,6 +1,6 @@
 # DJ Davidé
 
-DJ Davidé is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Entertainment Bar Nest, Tokyo on Sat, 21 Nov 2026.
+DJ Davidé is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Entertainment Bar Nest, Tokyo on Sat, 21 Nov 2026.
 
 DJ Davidé is a techno and tech house artist based in Canada, with 36 gigs on soundcheck across Montreal, Tokyo and Vancouver. Often billed alongside DJ Mushin, Mushin and Omni. Next up: Entertainment Bar Nest, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Davidé is a techno and tech house artist based in Canada, with 36 gigs on so
 
 DJ Mushin, Mushin, Omni
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdavide/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdavide/)*

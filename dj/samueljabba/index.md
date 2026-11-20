@@ -1,13 +1,14 @@
 # Samuel Jabba
 
-Samuel Jabba is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Castle Mandawa, Rajasthan, Other-regions on Fri, 18 Dec 2026.
+Samuel Jabba is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at WOMB, Tokyo on Sat, 12 Dec 2026.
 
-Samuel Jabba is a house and techno artist based in Colombia, with 37 gigs on soundcheck across Athens, Barcelona, Bogotá and Brussels and 9 more. Often billed alongside Buraye, Memek and Charlie Florez. Next up: Castle Mandawa, Rajasthan, Other Regions on Fri 18 Dec.
+Samuel Jabba is a house and techno artist based in Colombia, with 38 gigs on soundcheck across Athens, Barcelona, Bogotá and Brussels and 10 more. Often billed alongside Buraye, Memek and Charlie Florez. Next up: WOMB, Tokyo on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | WOMB | Tokyo |
 | Fri, 18 Dec 2026 | Castle Mandawa, Rajasthan | Other-regions |
 
 ## Recently played
@@ -25,4 +26,4 @@ Samuel Jabba is a house and techno artist based in Colombia, with 37 gigs on sou
 
 Buraye, Memek, Charlie Florez
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samueljabba/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samueljabba/)*

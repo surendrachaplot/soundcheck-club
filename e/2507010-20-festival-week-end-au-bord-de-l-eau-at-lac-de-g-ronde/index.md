@@ -1,6 +1,6 @@
 # 20. Festival Week-end au bord de l'eau at Lac De Géronde
 
-20. Festival Week-end au bord de l'eau at Lac De Géronde on Thu 24 Jun, Switzerland. 5 artists: Gringo del Sol, Judith Ahrends, Konfusia and Sainte Vie and 1 more. See the line-up on soundcheck.
+20. Festival Week-end au bord de l'eau at Lac De Géronde on Thu 24 Jun, Switzerland. 7 artists: Fernanda Pistelli, Gringo del Sol, Judith Ahrends and Konfusia and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@
 
 ## Line-up
 
+- Fernanda Pistelli
 - Gringo del Sol
 - Judith Ahrends
 - Konfusia
 - Sainte Vie
+- Sofia Kourtesis
 - Titoffee
 
 *Source: [soundcheck](https://soundcheck.club/e/2507010-20-festival-week-end-au-bord-de-l-eau-at-lac-de-g-ronde/)*

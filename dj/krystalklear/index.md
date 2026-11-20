@@ -1,6 +1,6 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
+Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
 
 Krystal Klear is a house and techno artist based in Ireland, with 129 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 49 more. Often billed alongside Seth Troxler, Gerd Janson and Âme. Next up: fabric, London on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Krystal Klear is a house and techno artist based in Ireland, with 129 gigs on so
 
 Seth Troxler, Gerd Janson, Âme
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*

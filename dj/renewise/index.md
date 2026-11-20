@@ -1,8 +1,8 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ART Madrid Club, Madrid on Fri, 20 Nov 2026.
+Rene Wise is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ART Madrid Club, Madrid on Fri, 20 Nov 2026.
 
-Rene Wise is a techno and house artist based in United Kingdom, with 288 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: ART Madrid Club, Madrid on Fri 20 Nov.
+Rene Wise is a techno and house artist based in United Kingdom, with 289 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: ART Madrid Club, Madrid on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Rene Wise is a techno and house artist based in United Kingdom, with 288 gigs on
 | Sat, 21 Nov 2026 | KALT | Strasbourg |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 4 Dec 2026 | Mdlr | Singapore |
+| Sat, 5 Dec 2026 | Sfactory Sector D, 3rd Floor | Seoul |
 | Sat, 12 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | Hive Club | Zurich |
 | Sat, 19 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -35,4 +36,4 @@ Rene Wise is a techno and house artist based in United Kingdom, with 288 gigs on
 
 MARRØN, Blasha & Allatt, Ogazón
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

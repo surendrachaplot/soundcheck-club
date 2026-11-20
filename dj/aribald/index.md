@@ -1,6 +1,6 @@
 # Ari Bald
 
-Ari Bald is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
+Ari Bald is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
 
 Ari Bald is a disco and house artist based in Sweden, with 9 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside CJ Scott, Marble and Shakarchi & Stranéus. Next up: Reimersholme Hotel, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ari Bald is a disco and house artist based in Sweden, with 9 gigs on soundcheck 
 
 CJ Scott, Marble, Shakarchi & Stranéus
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aribald/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aribald/)*

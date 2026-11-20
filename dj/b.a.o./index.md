@@ -1,6 +1,6 @@
 # B.A.O.
 
-B.A.O. is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Phantom Bar Berlin, Berlin on Fri, 20 Nov 2026.
+B.A.O. is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Phantom Bar Berlin, Berlin on Fri, 20 Nov 2026.
 
 B.A.O. is a trance and techno artist based in Vietnam, with 28 gigs on soundcheck across Berlin, Ho Chi Minh City and Stuttgart. Often billed alongside elliephunk, BreakLD and Mumu. Next up: Phantom Bar Berlin, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ B.A.O. is a trance and techno artist based in Vietnam, with 28 gigs on soundchec
 
 elliephunk, BreakLD, Mumu
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.a.o./)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.a.o./)*

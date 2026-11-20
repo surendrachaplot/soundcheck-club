@@ -1,6 +1,6 @@
 # Uttaraa
 
-Uttaraa is a Dub Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
+Uttaraa is a Dub Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
 
 Uttaraa is a dub techno and minimal techno artist based in United States of America, with 6 gigs on soundcheck across Austin, Dallas/Fort Worth and New York City. Often billed alongside Oscil, alter.world and Apellum. Next up: Bossa Nova Civic Club, New York City on Sun 22 Nov.
 
@@ -22,4 +22,4 @@ Uttaraa is a dub techno and minimal techno artist based in United States of Amer
 
 Oscil, alter.world, Apellum
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uttaraa/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uttaraa/)*

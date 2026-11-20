@@ -1,8 +1,8 @@
 # a:tok
 
-a:tok is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Distillery, Leipzig on Sat, 21 Nov 2026.
+a:tok is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Distillery, Leipzig on Sat, 21 Nov 2026.
 
-a:tok is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 1 more. Often billed alongside Kwaint, Barbara Hofmann and Jessamine. Next up: Distillery, Leipzig on Sat 21 Nov.
+a:tok is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 1 more. Often billed alongside Kwaint, Barbara Hofmann and Jessamine. Next up: Distillery, Leipzig on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ a:tok is a techno and house artist based in Germany, with 37 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Distillery | Leipzig |
 | Thu, 24 Dec 2026 | ://about blank | Berlin |
+| Thu, 31 Dec 2026 | ://about blank | Berlin |
 | Sat, 23 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ a:tok is a techno and house artist based in Germany, with 37 gigs on soundcheck 
 
 Kwaint, Barbara Hofmann, Jessamine
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*

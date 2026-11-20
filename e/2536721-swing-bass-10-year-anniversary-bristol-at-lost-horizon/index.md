@@ -1,11 +1,15 @@
 # Swing & Bass: 10 Year Anniversary (Bristol) at Lost Horizon
 
-Swing & Bass: 10 Year Anniversary (Bristol) at Lost Horizon on Sat 21 Nov, Bristol. Drum & Bass and Bass. See the line-up on soundcheck.
+Swing & Bass: 10 Year Anniversary (Bristol) at Lost Horizon on Sat 21 Nov, Bristol. 1 artist: Mista Trick. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 21 Nov 2026 |
 | Venue | Lost Horizon |
 | City | Bristol |
+
+## Line-up
+
+- Mista Trick
 
 *Source: [soundcheck](https://soundcheck.club/e/2536721-swing-bass-10-year-anniversary-bristol-at-lost-horizon/)*

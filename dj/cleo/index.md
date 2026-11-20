@@ -1,14 +1,15 @@
 # CLEO
 
-CLEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+CLEO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
 
-CLEO is a techno and house artist based in France, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dresden and 4 more. Often billed alongside ALP (DE), Cleo (AU) and Cleo SNK. Next up: KREUZWERK, Berlin on Sat 5 Dec.
+CLEO is a techno and house artist based in France, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dresden and 4 more. Often billed alongside Kiar Oscuro, ALP (DE) and Cleo (AU). Next up: KREUZWERK, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | KREUZWERK | Berlin |
+| Sun, 13 Dec 2026 | Fitzroy | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ CLEO is a techno and house artist based in France, with 45 gigs on soundcheck ac
 
 ## Shares bills with
 
-ALP (DE), Cleo (AU), Cleo SNK
+Kiar Oscuro, ALP (DE), Cleo (AU)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*

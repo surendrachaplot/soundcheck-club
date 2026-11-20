@@ -1,14 +1,15 @@
 # Cubik
 
-Cubik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 20 Nov 2026.
+Cubik is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 20 Nov 2026.
 
-Cubik is a house and techno artist based in Czech Republic, with 52 gigs on soundcheck across Prague. Often billed alongside Da Moon, Daniel Neighbour and Filburt. Next up: Bukanyr Boat, Prague on Fri 20 Nov.
+Cubik is a house and techno artist based in Czech Republic, with 53 gigs on soundcheck across Prague. Often billed alongside Da Moon, Daniel Neighbour and Filburt. Next up: Bukanyr Boat, Prague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Bukanyr Boat | Prague |
+| Sat, 5 Dec 2026 | Bar v Krymský | Prague |
 | Fri, 11 Dec 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
@@ -26,4 +27,4 @@ Cubik is a house and techno artist based in Czech Republic, with 52 gigs on soun
 
 Da Moon, Daniel Neighbour, Filburt
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cubik/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cubik/)*

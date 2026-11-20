@@ -1,15 +1,14 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 20 Nov 2026.
+dj sweet6teen is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 20 Nov 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: Cobalt Studios, Newcastle on Fri 20 Nov.
+dj sweet6teen is a house and techno artist based in Germany, with 275 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: Cobalt Studios, Newcastle on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Cobalt Studios | Newcastle |
-| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 11 Dec 2026 | Wigwam | Dublin |
 | Sat, 12 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | OXI | Berlin |
@@ -36,4 +35,4 @@ dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on so
 
 Angel D'lite, Peach, Sansibar
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

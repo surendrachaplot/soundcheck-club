@@ -1,6 +1,6 @@
 # Frinda di Lanco
 
-Frinda di Lanco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Sauna Social Club, London on Sun, 29 Nov 2026.
+Frinda di Lanco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sauna Social Club, London on Sun, 29 Nov 2026.
 
 Frinda di Lanco is a disco and house artist based in Germany, with 69 gigs on soundcheck across Bangkok, Berlin, Copenhagen and Dresden and 14 more. Often billed alongside Hendrik Stein, Sound Metaphors Djs and Rena Volvo. Next up: Sauna Social Club, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Frinda di Lanco is a disco and house artist based in Germany, with 69 gigs on so
 
 Hendrik Stein, Sound Metaphors Djs, Rena Volvo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frindadilanco/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frindadilanco/)*

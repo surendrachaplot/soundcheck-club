@@ -1,6 +1,6 @@
 # [Redacted] One Year Anniversary Livestream x Macel Studios at Macel Studios
 
-[Redacted] One Year Anniversary Livestream x Macel Studios on Sun 3 Jan, Toronto. 4 artists: Kai (TO), R-ODERICK, widdows95 and Zellers. Techno and House. See the line-up on soundcheck.
+[Redacted] One Year Anniversary Livestream x Macel Studios on Sun 3 Jan, Toronto. 5 artists: Kai (TO), Korea Town Acid, R-ODERICK and widdows95 and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Kai (TO)
+- Korea Town Acid
 - R-ODERICK
 - widdows95
 - Zellers

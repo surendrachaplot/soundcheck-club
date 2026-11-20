@@ -1,13 +1,14 @@
 # Regent
 
-Regent is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 12 Dec 2026.
+Regent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Crackhouse, Gdansk on Fri, 11 Dec 2026.
 
-Regent is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Bali, Berlin and Dortmund / Essen and 18 more. Often billed alongside SHDW, Chontane and Hemka. Next up: RSO.BERLIN, Berlin on Sat 12 Dec.
+Regent is a techno and house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Bali, Berlin and Dortmund / Essen and 19 more. Often billed alongside SHDW, Chontane and Hemka. Next up: Crackhouse, Gdansk on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Crackhouse | Gdansk |
 | Sat, 12 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Regent is a techno and house artist based in Germany, with 47 gigs on soundcheck
 
 SHDW, Chontane, Hemka
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*

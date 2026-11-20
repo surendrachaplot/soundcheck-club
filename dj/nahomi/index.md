@@ -1,14 +1,15 @@
 # Nahomi
 
-Nahomi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Oath, Tokyo on Fri, 20 Nov 2026.
+Nahomi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Oath, Tokyo on Fri, 20 Nov 2026.
 
-Nahomi is a house and techno artist based in Switzerland, with 51 gigs on soundcheck across Basel, Berlin, Frankfurt and Geneva and 6 more. Often billed alongside Lea Lisa, Eva May and Adolpho & Franky. Next up: Oath, Tokyo on Fri 20 Nov.
+Nahomi is a house and techno artist based in Switzerland, with 52 gigs on soundcheck across Basel, Berlin, Frankfurt and Geneva and 6 more. Often billed alongside Lea Lisa, Eva May and Adolpho & Franky. Next up: Oath, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Oath | Tokyo |
+| Sat, 26 Dec 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nahomi is a house and techno artist based in Switzerland, with 51 gigs on soundc
 
 Lea Lisa, Eva May, Adolpho & Franky
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahomi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahomi/)*

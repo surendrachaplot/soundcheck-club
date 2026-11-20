@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
+Harry McCanna is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
 
 Harry McCanna is a house and tech house artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Vittoria Wharf Studio, London on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 142
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

@@ -1,14 +1,13 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "U:MI All Night Long: Vol. 2" on Thu, 19 Nov 2026.
+Onyx (E1) is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Michael Canitrot - London" on Sat, 21 Nov 2026.
 
-Onyx (E1) is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Ann LoV, ANÆT, Bensley and Bluck and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
+Onyx (E1) is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Ann LoV, ANÆT, Bensley and Bluck and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | U:MI All Night Long: Vol. 2 |  |
 | Sat, 21 Nov 2026 | Michael Canitrot - London | ANÆT, Ann LoV, Max Menaged, Michael Canitrot, O.Maverick, Y // SHH |
 | Sat, 28 Nov 2026 | 25 Years of Genius CRU: MC Fizzy, Zed Bias Mc Neat | MC Creed, MC FIZZY, MC Kie, Neat MC, Pied Piper, Sam Beach, Zed Bias |
 | Fri, 11 Dec 2026 | Proelium Audio x Bass Camp LDN: Bensley, Kyrist, Tantron, Tom Finster | Bensley, Kyrist, Tom Finster |
@@ -18,4 +17,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 5 upcoming gigs, with
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

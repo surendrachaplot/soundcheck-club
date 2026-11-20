@@ -1,14 +1,13 @@
 # Kyo KL
 
-Kyo KL is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Arthi x CALDEE" on Thu, 19 Nov 2026.
+Kyo KL is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Joseph Capriati" on Thu, 26 Nov 2026.
 
-Kyo KL is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including Alam, Arthi, Axel Groove and CALDEE and 2 more. See dates, start times and who's playing.
+Kyo KL is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig, with line-ups including Alam, Axel Groove, Joseph Capriati and Victor G (MY). See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Arthi x CALDEE | Arthi, CALDEE, Roshan |
 | Thu, 26 Nov 2026 | Joseph Capriati | Alam, Axel Groove, Joseph Capriati, Victor G (MY) |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/kyo-kl/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/kyo-kl/)*

@@ -1,6 +1,6 @@
 # Rikky Disco
 
-Rikky Disco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Slakthuset, Stockholm on Fri, 18 Dec 2026.
+Rikky Disco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Slakthuset, Stockholm on Fri, 18 Dec 2026.
 
 Rikky Disco is a disco and house artist, with 11 gigs on soundcheck across Barcelona, London and Stockholm. Often billed alongside Bustin' Loose, Claire Hardman and Fasega. Next up: Slakthuset, Stockholm on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Rikky Disco is a disco and house artist, with 11 gigs on soundcheck across Barce
 
 Bustin' Loose, Claire Hardman, Fasega
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikkydisco/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikkydisco/)*

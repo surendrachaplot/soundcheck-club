@@ -1,6 +1,6 @@
 # Nitepunk at Runnymede Hall
 
-Nitepunk at Runnymede Hall on Fri 27 Nov, Toronto. 2 artists: Lucky 7 and Nitepunk. Drum & Bass. See the line-up on soundcheck.
+Nitepunk at Runnymede Hall on Fri 27 Nov, Toronto. 2 artists: Lucky 7 and Nitepunk. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

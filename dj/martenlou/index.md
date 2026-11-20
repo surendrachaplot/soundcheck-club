@@ -1,6 +1,6 @@
 # Marten Lou
 
-Marten Lou is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Volt Club Milano, Milan on Fri, 20 Nov 2026.
+Marten Lou is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Volt Club Milano, Milan on Fri, 20 Nov 2026.
 
 Marten Lou is an afro house and house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside ARODES, Miss Monique and Andrea Oliva. Next up: Volt Club Milano, Milan on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Marten Lou is an afro house and house artist based in Germany, with 117 gigs on 
 
 ARODES, Miss Monique, Andrea Oliva
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*

@@ -1,6 +1,6 @@
 # The Pickle
 
-The Pickle is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "The Pickle" on Fri, 20 Nov 2026.
+The Pickle is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "The Pickle" on Fri, 20 Nov 2026.
 
 The Pickle is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with line-ups including 1morning, Alexander Franco, Alex Pastor and ALKMST and 2 more. See dates, start times and who's playing. 1395 NW 57th Ave.
 
@@ -9,7 +9,7 @@ The Pickle is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Pickle |  |
-| Fri, 27 Nov 2026 | The Pickle |  |
+| Fri, 27 Nov 2026 | Free Acid with VERBS & Gunk |  |
 | Thu, 3 Dec 2026 | Where Are My Keys - Miami Basel (4 Days) | 1morning, ALKMST, Alex Pastor, Alexander Franco, Anthea, Beki Powell, Brett Johnson, Bruno Limma, Danny Daze, David Berrie, Demi Riquisimo, Desyn, Dyed Soundorom, Dylan Payne, Edward (2), Eleou, Enzo Siragusa, Fumiya Tanaka, Gio Elia, Inbal, Isaac Carter, Janina, Katie, Kev Gee, Lulah Francs, Maher Daniel, Make A Dance, Midnight Magic, Mike Servito, Mystic Bill, Puma, R/V Calypso, Radar (RU), Raphael Carrau, Ricardo Villalobos, Rimaye, San Dee, Shokh, Shonky, Shubostar, Taimur, Terence Tabeau, Tomas Station, Will Renuart, tINI |
 | Fri, 11 Dec 2026 | The Pickle |  |
 | Fri, 18 Dec 2026 | The Pickle |  |
@@ -20,4 +20,4 @@ The Pickle is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with
 
 1395 NW 57th Ave, Miami
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*

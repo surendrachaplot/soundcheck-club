@@ -1,6 +1,6 @@
 # Overload
 
-Overload is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 17 Dec 2026.
+Overload is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 17 Dec 2026.
 
 Overload is a techno and tech house artist based in Russia, with 8 gigs on soundcheck across Berlin, Munich and Tbilisi. Often billed alongside Blck-Swan, Viktor Kampf and BOUNCE SAPIENS. Next up: Bahnwärter Thiel, Munich on Thu 17 Dec.
 
@@ -24,4 +24,4 @@ Overload is a techno and tech house artist based in Russia, with 8 gigs on sound
 
 Blck-Swan, Viktor Kampf, BOUNCE SAPIENS
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*

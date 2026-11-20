@@ -1,6 +1,6 @@
 # fiber.optyik
 
-fiber.optyik is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+fiber.optyik is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 fiber.optyik is a techno and tech house artist based in Nigeria, with 2 gigs on soundcheck across Berlin. Often billed alongside *Tia*, Alexander Pohl and Amin Fallaha. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ fiber.optyik is a techno and tech house artist based in Nigeria, with 2 gigs on 
 
 *Tia*, Alexander Pohl, Amin Fallaha
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiber.optyik/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiber.optyik/)*

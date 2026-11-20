@@ -1,8 +1,8 @@
 # DURO
 
-DURO is a music venue in Milan with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "MOAB - Xiaolin" on Fri, 20 Nov 2026.
+DURO is a music venue in Milan with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "MOAB - Xiaolin" on Fri, 20 Nov 2026.
 
-DURO is a music venue in Milan listed on soundcheck. 11 upcoming gigs, with line-ups including Biocym, Chloé, Dan Ghenacia and DRUMS AND CHANTS and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
+DURO is a music venue in Milan listed on soundcheck. 14 upcoming gigs, with line-ups including Biocym, Chloé, Dan Ghenacia and Dasha Rush and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
 
 ## What's on
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 11 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

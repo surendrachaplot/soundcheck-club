@@ -1,6 +1,6 @@
 # Adam Freeland
 
-Adam Freeland is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Nasjonalgalleriet, Oslo on Fri, 20 Nov 2026.
+Adam Freeland is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Nasjonalgalleriet, Oslo on Fri, 20 Nov 2026.
 
 Adam Freeland is an electro and house artist based in United States of America, with 4 gigs on soundcheck across Barcelona, Budapest, Manchester and Oslo. Often billed alongside Anthony Linell, Basement Jaxx and Brnr. Next up: Nasjonalgalleriet, Oslo on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Adam Freeland is an electro and house artist based in United States of America, 
 
 Anthony Linell, Basement Jaxx, Brnr
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamfreeland/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamfreeland/)*

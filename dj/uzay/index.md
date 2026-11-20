@@ -1,6 +1,6 @@
 # UZAY
 
-UZAY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Teritorija, Riga on Fri, 4 Dec 2026.
+UZAY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Teritorija, Riga on Fri, 4 Dec 2026.
 
 UZAY is a house and techno artist based in Turkey, with 19 gigs on soundcheck across Malta and Riga. Often billed alongside DV8 (LV), Ksenia Kamikaza and Esoniq. Next up: Teritorija, Riga on Fri 4 Dec.
 
@@ -9,7 +9,7 @@ UZAY is a house and techno artist based in Turkey, with 19 gigs on soundcheck ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Teritorija | Riga |
-| Fri, 11 Dec 2026 | Teritorija | Riga |
+| Fri, 11 Dec 2026 | TBA - Krišjāņa Barona iela 136, Riga | Riga |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ UZAY is a house and techno artist based in Turkey, with 19 gigs on soundcheck ac
 
 DV8 (LV), Ksenia Kamikaza, Esoniq
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uzay/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uzay/)*

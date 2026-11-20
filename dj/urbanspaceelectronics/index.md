@@ -1,14 +1,16 @@
 # Urban Space Electronics
 
-Urban Space Electronics is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Inter-City, The Hague on Sat, 28 Nov 2026.
+Urban Space Electronics is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Subterra, The Hague on Sat, 21 Nov 2026.
 
-Urban Space Electronics is a techno and acid artist based in Netherlands, with 4 gigs on soundcheck across The Hague. Often billed alongside Cosmox, HyperLili and Remma. Next up: Inter-City, The Hague on Sat 28 Nov.
+Urban Space Electronics is a techno and acid artist based in Netherlands, with 6 gigs on soundcheck across The Hague. Often billed alongside Cosmox, HyperLili and Jeans (NL). Next up: Subterra, The Hague on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Subterra | The Hague |
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
+| Fri, 18 Dec 2026 | Laak | The Hague |
 
 ## Recently played
 
@@ -18,6 +20,6 @@ Urban Space Electronics is a techno and acid artist based in Netherlands, with 4
 
 ## Shares bills with
 
-Cosmox, HyperLili, Remma
+Cosmox, HyperLili, Jeans (NL)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbanspaceelectronics/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbanspaceelectronics/)*

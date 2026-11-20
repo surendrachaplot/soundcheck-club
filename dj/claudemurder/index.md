@@ -1,6 +1,6 @@
 # Claude Murder
 
-Claude Murder is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 12 Dec 2026.
+Claude Murder is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 12 Dec 2026.
 
 Claude Murder is a hardcore and gabber artist based in France, with 18 gigs on soundcheck across Berlin, Edinburgh, Ghent and Marseille and 1 more. Often billed alongside Karlfroye, Talita Otović and KimberlaID. Next up: La Station - Gare des Mines, Paris on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Claude Murder is a hardcore and gabber artist based in France, with 18 gigs on s
 
 Karlfroye, Talita Otović, KimberlaID
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudemurder/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudemurder/)*

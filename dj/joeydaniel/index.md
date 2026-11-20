@@ -1,8 +1,8 @@
 # Joey Daniel
 
-Joey Daniel is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at E1, London on Sat, 28 Nov 2026.
+Joey Daniel is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at E1, London on Sat, 28 Nov 2026.
 
-Joey Daniel is a tech house and house artist based in Netherlands, with 142 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Budapest and 23 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: E1, London on Sat 28 Nov.
+Joey Daniel is a tech house and house artist based in Netherlands, with 143 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Budapest and 24 more. Often billed alongside Marco Carola, Franky Rizardo and Joëlla Jackson. Next up: E1, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joey Daniel is a tech house and house artist based in Netherlands, with 142 gigs
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | E1 | London |
 | Sat, 12 Dec 2026 | Sala Groove | Madrid |
+| Sun, 2 Jan 2028 | 102 | D-sseldorf |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Joey Daniel is a tech house and house artist based in Netherlands, with 142 gigs
 
 ## Shares bills with
 
-Marco Carola, Franky Rizardo, Ale De Tuglie
+Marco Carola, Franky Rizardo, Joëlla Jackson
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*

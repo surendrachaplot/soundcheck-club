@@ -1,6 +1,6 @@
 # Lars Löffler
 
-Lars Löffler is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
+Lars Löffler is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
 
 Lars Löffler is a techno and tech house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside JORDVN PRINCE, Ankit and Bee Lincoln. Next up: Sensorium, Berlin on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Lars Löffler is a techno and tech house artist based in Germany, with 6 gigs on
 
 JORDVN PRINCE, Ankit, Bee Lincoln
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larsloffler/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larsloffler/)*

@@ -1,13 +1,14 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at VENT, Tokyo on Sat, 19 Dec 2026.
+Garrett David is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Circus Osaka, Osaka on Fri, 18 Dec 2026.
 
-Garrett David is a house and disco artist based in United States of America, with 216 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 41 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: VENT, Tokyo on Sat 19 Dec.
+Garrett David is a house and disco artist based in United States of America, with 217 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 41 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Circus Osaka, Osaka on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Circus Osaka | Osaka |
 | Sat, 19 Dec 2026 | VENT | Tokyo |
 | Sun, 20 Dec 2026 | Sub Club | Glasgow |
 | Thu, 14 Jan 2027 | Zanzibar - Various Venues | Tanzania |
@@ -28,4 +29,4 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

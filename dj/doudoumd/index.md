@@ -1,6 +1,6 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at BRET, Amsterdam on Sat, 21 Nov 2026.
+Doudou MD is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at BRET, Amsterdam on Sat, 21 Nov 2026.
 
 Doudou MD is a house and techno artist based in Netherlands, with 244 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 60 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: BRET, Amsterdam on Sat 21 Nov.
 
@@ -33,4 +33,4 @@ Doudou MD is a house and techno artist based in Netherlands, with 244 gigs on so
 
 Samuel Deep, DJ Senc, Cap
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

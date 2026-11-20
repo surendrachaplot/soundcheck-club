@@ -1,0 +1,28 @@
+# florasystem
+
+florasystem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Toronto on Sat, 12 Dec 2026.
+
+florasystem is a techno and house artist based in Canada, with 40 gigs on soundcheck across Montreal and Toronto. Often billed alongside Hiroki, maxedvisa and Program Sam. Next up: TBA, Toronto on Sat 12 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 12 Dec 2026 | TBA | Toronto |
+
+## Recently played
+
+- Allan Gardens Conservatory, Toronto · Fri, 25 Sept 2026
+- Cherry Beach, Toronto · Sun, 30 Aug 2026
+- Bambi's, Toronto · Sat, 18 Jul 2026
+- 1point4hertz, Toronto · Sat, 27 Jun 2026
+- TBA, Toronto · Sat, 20 Jun 2026
+- Standard Time, Toronto · Sat, 30 May 2026
+- TBA, Toronto · Fri, 15 May 2026
+- Bambi's, Toronto · Sat, 21 Mar 2026
+
+## Shares bills with
+
+Hiroki, maxedvisa, Program Sam
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florasystem/)*

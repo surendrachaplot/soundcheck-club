@@ -1,15 +1,15 @@
 # adamine
 
-adamine is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Dome, Liverpool on Fri, 20 Nov 2026.
+adamine is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FORGE, Sheffield on Fri, 27 Nov 2026.
 
-adamine is a jungle and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Liverpool, Manchester and Sheffield. Often billed alongside Hardcore Babes, Adam F and Harry Shotta. Next up: The Dome, Liverpool on Fri 20 Nov.
+adamine is a jungle and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Liverpool, Manchester and Sheffield. Often billed alongside Hardcore Babes, Adam F and Harry Shotta. Next up: FORGE, Sheffield on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Dome | Liverpool |
 | Fri, 27 Nov 2026 | FORGE | Sheffield |
+| Fri, 14 May 2027 | The Dome | Liverpool |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ adamine is a jungle and drum & bass artist based in United Kingdom, with 16 gigs
 
 Hardcore Babes, Adam F, Harry Shotta
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*

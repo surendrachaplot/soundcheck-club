@@ -1,6 +1,6 @@
 # Neighbourhood w/SLVC (SK) - three floors: house, deep & hypnotic techno, dnb at Chapeau Rouge
 
-Neighbourhood w/SLVC (SK) - three floors: house, deep & hypnotic techno, dnb at Chapeau Rouge on Fri 11 Dec, Prague. 1 artist: Daniel Neighbour. See the line-up on soundcheck.
+Neighbourhood w/SLVC (SK) - three floors: house, deep & hypnotic techno, dnb at Chapeau Rouge on Fri 11 Dec, Prague. 1 artist: Daniel Neighbour. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

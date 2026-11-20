@@ -1,6 +1,6 @@
 # Critical Music XXV at The Cause
 
-Critical Music XXV at The Cause on Sat 6 Feb, London. 33 artists: Amoss, Blackeye MC, Bladerunner and Calyx and 29 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Critical Music XXV at The Cause on Sat 6 Feb, London. 32 artists: Amoss, Blackeye MC, Bladerunner and Calyx and 28 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -39,7 +39,6 @@ Critical Music XXV at The Cause on Sat 6 Feb, London. 33 artists: Amoss, Blackey
 - Sequent
 - SMG (UK)
 - SP:MC
-- Terrace
 - The Upbeats
 - Toby Ross
 - Waeys

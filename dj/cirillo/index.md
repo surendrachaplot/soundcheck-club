@@ -1,13 +1,14 @@
 # Cirillo
 
-Cirillo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 3 Apr 2027.
+Cirillo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cocoricò, North on Tue, 5 Jan 2027.
 
-Cirillo is a techno and electro artist based in Italy, with 18 gigs on soundcheck across Berlin, Bologna, Florence and Mannheim and 4 more. Often billed alongside Antonio Marki, Emix and Francesco Zappala. Next up: Maimarkthalle, Mannheim on Sat 3 Apr.
+Cirillo is a techno and electro artist based in Italy, with 19 gigs on soundcheck across Berlin, Bologna, Florence and Mannheim and 5 more. Often billed alongside Antonio Marki, Emix and Francesco Zappala. Next up: Cocoricò, North on Tue 5 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 5 Jan 2027 | Cocoricò | North |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cirillo is a techno and electro artist based in Italy, with 18 gigs on soundchec
 
 Antonio Marki, Emix, Francesco Zappala
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirillo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirillo/)*

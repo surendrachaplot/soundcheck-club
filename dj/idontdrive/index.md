@@ -1,17 +1,18 @@
 # I DONT DRIVE
 
-I DONT DRIVE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Twisted Element, Calgary on Fri, 13 Nov 2026.
+I DONT DRIVE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Twisted Element, Calgary on Sat, 28 Nov 2026.
 
-I DONT DRIVE is a techno and minimal techno artist based in Canada, with 6 gigs on soundcheck across Calgary. Often billed alongside BRNT, CHAMOKINGS and DJ Hannah. Next up: Twisted Element, Calgary on Fri 13 Nov.
+I DONT DRIVE is a techno and minimal techno artist based in Canada, with 7 gigs on soundcheck across Calgary. Often billed alongside BRNT, CHAMOKINGS and DJ Hannah. Next up: Twisted Element, Calgary on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Twisted Element | Calgary |
+| Sat, 28 Nov 2026 | Twisted Element | Calgary |
 
 ## Recently played
 
+- Twisted Element, Calgary · Fri, 13 Nov 2026
 - Common/UNDRGRND, Calgary · Fri, 12 Jun 2026
 - Common/UNDRGRND, Calgary · Thu, 4 Jun 2026
 - Twisted Element, Calgary · Sat, 23 May 2026
@@ -22,4 +23,4 @@ I DONT DRIVE is a techno and minimal techno artist based in Canada, with 6 gigs 
 
 BRNT, CHAMOKINGS, DJ Hannah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idontdrive/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idontdrive/)*

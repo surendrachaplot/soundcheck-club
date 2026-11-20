@@ -1,6 +1,6 @@
 # Simon TK
 
-Simon TK is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Capers Thornbury, Melbourne on Fri, 27 Nov 2026.
+Simon TK is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Capers Thornbury, Melbourne on Fri, 27 Nov 2026.
 
 Simon TK is a house and techno artist based in Australia, with 42 gigs on soundcheck across Bangkok, Berlin, Hobart and Hong Kong and 3 more. Often billed alongside Hannah D, Edd Fisher and Miki. Next up: Capers Thornbury, Melbourne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Simon TK is a house and techno artist based in Australia, with 42 gigs on soundc
 
 Hannah D, Edd Fisher, Miki (3)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*

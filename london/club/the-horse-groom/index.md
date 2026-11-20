@@ -1,6 +1,6 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Mr Grooves Friday Night Special" on Fri, 20 Nov 2026.
+The Horse & Groom is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Mr Grooves Friday Night Special" on Fri, 20 Nov 2026.
 
 The Horse & Groom is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Blink Twice, Cowlick, Ed Vedra and Em i6 and 2 more. See dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
@@ -16,11 +16,11 @@ The Horse & Groom is a music venue in London listed on soundcheck. 10 upcoming g
 | Sat, 5 Dec 2026 | Soul Selectors daytime Xmas party |  |
 | Sat, 12 Dec 2026 | Soul on Wax free Christmas daytime party |  |
 | Sat, 19 Dec 2026 | Unique Rhythm free Christmas party | Mark Osborne |
-| Sat, 23 Jan 2027 | Spinimana Selectors | Spinimana |
+| Sat, 23 Jan 2027 | Spinimana Selectors - House/Disco/Italo-Disco | Spinimana |
 | Sat, 30 Jan 2027 | Lil Meesh & Friends free Jan party | Lil Meesh, Mikey DJ |
 
 ## Address
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

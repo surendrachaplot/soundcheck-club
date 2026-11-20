@@ -1,6 +1,6 @@
 # G-HA
 
-G-HA is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Jaeger, Oslo on Fri, 20 Nov 2026.
+G-HA is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Jaeger, Oslo on Fri, 20 Nov 2026.
 
 G-HA is a house and techno artist based in Norway, with 265 gigs on soundcheck across Berlin and Oslo. Often billed alongside Olanskii, Øyvind Morken and Vinny Villbass. Next up: Jaeger, Oslo on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ G-HA is a house and techno artist based in Norway, with 265 gigs on soundcheck a
 
 Olanskii, Øyvind Morken, Vinny Villbass
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g-ha/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g-ha/)*

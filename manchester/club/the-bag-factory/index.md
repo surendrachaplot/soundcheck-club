@@ -1,8 +1,8 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Digitise x Bag Factory – Macker, Nick Charles, Lilyn & Vulcan" on Fri, 20 Nov 2026.
+The Bag Factory is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Digitise x Bag Factory – Macker, Nick Charles, Lilyn & Vulcan" on Fri, 20 Nov 2026.
 
-The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Hello From Ben, Lilyn, LYZANDER and Madelaine Jemine and 2 more. See dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
+The Bag Factory is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Hello From Ben, ik0nixx, Lilyn and LYZANDER and 2 more. See dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
 ## What's on
 
@@ -12,7 +12,8 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming 
 | Thu, 26 Nov 2026 | No Weekends Wasted: LIVE 001 | Hello From Ben |
 | Fri, 27 Nov 2026 | foxtrot romeo presents: Geek Chic |  |
 | Sat, 28 Nov 2026 | Dankashire Sounds at Bag Factory |  |
-| Sun, 29 Nov 2026 | MAGENTA 001 | LYZANDER, Qwirk |
+| Sun, 29 Nov 2026 | MAGENTA 001 - Sultry twisted bass music | LYZANDER, Qwirk |
+| Fri, 4 Dec 2026 | CHEEZ-TEK | Willow J, ik0nixx |
 | Sun, 6 Dec 2026 | Club Curated Open Decks & Social: The end of year finale |  |
 | Thu, 10 Dec 2026 | HiPNOTiC Vol.1 | Madelaine Jemine |
 
@@ -20,4 +21,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

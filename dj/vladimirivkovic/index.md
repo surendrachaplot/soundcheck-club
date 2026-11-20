@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Dabadaba, North on Fri, 20 Nov 2026.
+Vladimir Ivkovic is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Dabadaba, North on Fri, 20 Nov 2026.
 
 Vladimir Ivkovic is a techno and house artist based in Germany, with 245 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 81 more. Often billed alongside Lena Willikens, Ivan Smagghe and Jane Fitz. Next up: Dabadaba, North on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 245 gigs on
 | Sat, 21 Nov 2026 | Cadavra | Madrid |
 | Sat, 5 Dec 2026 | Mercati Generali | Sicily |
 | Sun, 6 Dec 2026 | TBA | Berlin |
+| Mon, 7 Dec 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 11 Dec 2026 | Gaffe | London |
 | Sat, 12 Dec 2026 | Robert Johnson | Hesse |
 | Sat, 19 Dec 2026 | Fuse | Brussels |
@@ -19,7 +20,6 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 245 gigs on
 | Sat, 16 Jan 2027 | The White Hotel | Manchester |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 | Tue, 1 Jun 2027 | TBA - Casale dell'arte - Catania  | Sicily |
-| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 245 gigs on
 
 Lena Willikens, Ivan Smagghe, Jane Fitz
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

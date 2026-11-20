@@ -1,6 +1,6 @@
 # Chaouki Alba
 
-Chaouki Alba is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Boston on Sat, 21 Nov 2026.
+Chaouki Alba is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Boston on Sat, 21 Nov 2026.
 
 Chaouki Alba is a house and techno artist based in Morocco, with 37 gigs on soundcheck across Boston and New York City. Often billed alongside Rasaaq, Bintokin and Joe Rizk. Next up: TBA, Boston on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Chaouki Alba is a house and techno artist based in Morocco, with 37 gigs on soun
 
 Rasaaq, Bintokin, Joe Rizk
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaouki/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaouki/)*

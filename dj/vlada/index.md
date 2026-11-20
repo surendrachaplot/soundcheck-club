@@ -1,6 +1,6 @@
 # Vlada
 
-Vlada is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at essaim, Paris on Sat, 21 Nov 2026.
+Vlada is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at essaim, Paris on Sat, 21 Nov 2026.
 
 Vlada is a techno and house artist based in Russia, with 226 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 66 more. Often billed alongside Vaahzer, Kia (AU) and Aurora Halal. Next up: essaim, Paris on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Vlada is a techno and house artist based in Russia, with 226 gigs on soundcheck 
 
 Vaahzer, Kia (AU), Aurora Halal
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

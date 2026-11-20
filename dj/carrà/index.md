@@ -1,6 +1,6 @@
 # carrà
 
-carrà is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Château de Goulaine, Nantes on Thu, 31 Dec 2026.
+carrà is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Château de Goulaine, Nantes on Thu, 31 Dec 2026.
 
 carrà is a techno and progressive house artist based in France, with 8 gigs on soundcheck across Berlin, Brussels, Lyon and Nantes and 1 more. Often billed alongside Combe, DJ Beluga92 and Flash Saba. Next up: Château de Goulaine, Nantes on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ carrà is a techno and progressive house artist based in France, with 8 gigs on 
 
 Combe, DJ Beluga92, Flash Saba
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrà/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrà/)*

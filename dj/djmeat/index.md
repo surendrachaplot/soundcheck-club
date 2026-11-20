@@ -1,6 +1,6 @@
 # Meat
 
-Meat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Meat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 Meat is a house and techno artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Berlin, Chicago and Cologne and 4 more. Often billed alongside Cinthie, Robert Drewek and Eva Crystaltips. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -13,6 +13,7 @@ Meat is a house and techno artist based in Germany, with 72 gigs on soundcheck a
 
 ## Recently played
 
+- Golden Gate, Berlin · Thu, 19 Nov 2026
 - Yellow House, Amsterdam · Sat, 24 Oct 2026
 - Kater, Berlin · Fri, 16 Oct 2026
 - Hoppetosse, Berlin · Fri, 9 Oct 2026
@@ -20,10 +21,9 @@ Meat is a house and techno artist based in Germany, with 72 gigs on soundcheck a
 - RSO.BERLIN, Berlin · Thu, 13 Aug 2026
 - Club der Visionaere, Berlin · Wed, 29 Jul 2026
 - Sparta Schwimmclub, Frankfurt · Sun, 5 Jul 2026
-- Kater, Berlin · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Cinthie, Robert Drewek, Eva Crystaltips
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeat/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeat/)*

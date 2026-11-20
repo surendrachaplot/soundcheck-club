@@ -1,14 +1,15 @@
 # Ben Gomori
 
-Ben Gomori is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at EartH Kitchen, London on Fri, 20 Nov 2026.
+Ben Gomori is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at EartH Kitchen, London on Fri, 20 Nov 2026.
 
-Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: EartH Kitchen, London on Fri 20 Nov.
+Ben Gomori is a house and disco artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: EartH Kitchen, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | EartH Kitchen | London |
+| Fri, 1 Jan 2027 | 40ft Brewery - Blackhorse Road | London |
 | Sat, 6 Mar 2027 | White Bay Power Station | Sydney |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on 
 
 Ariane V, Gaucho (UK), Sarahtonin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*

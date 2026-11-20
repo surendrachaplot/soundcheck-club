@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a Club and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Walter Studios, Phoenix on Fri, 20 Nov 2026.
+DJ SWISHA is a Club and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Walter Studios, Phoenix on Fri, 20 Nov 2026.
 
 DJ SWISHA is a club and house artist based in United States of America, with 232 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 58 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Walter Studios, Phoenix on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ DJ SWISHA is a club and house artist based in United States of America, with 232
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

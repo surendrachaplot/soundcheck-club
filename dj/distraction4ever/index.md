@@ -1,6 +1,6 @@
 # distraction4ever
 
-distraction4ever is a Post-Punk and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Montreal on Fri, 27 Nov 2026.
+distraction4ever is a Post-Punk and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Montreal on Fri, 27 Nov 2026.
 
 distraction4ever is a post-punk and techno artist, with 21 gigs on soundcheck across Berlin, Montreal, New York City and Toronto. Often billed alongside Corinita, Syana and Badgalquirit. Next up: TBA, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ distraction4ever is a post-punk and techno artist, with 21 gigs on soundcheck ac
 
 Corinita, Syana, Badgalquirit
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/distraction4ever/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/distraction4ever/)*

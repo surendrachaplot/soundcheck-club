@@ -1,8 +1,8 @@
 # 77
 
-77 is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "77: Alan Dixon" on Fri, 20 Nov 2026.
+77 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "77: Alan Dixon" on Fri, 20 Nov 2026.
 
-77 is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alan Dixon, AliTR, Birds of Mind and Deb FA and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alan Dixon, AliTR, Birds of Mind and Dan Shake and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
@@ -14,13 +14,13 @@
 | Sun, 29 Nov 2026 | 77 PRESENT SUNDAYZ: DJ Tunez & Dj Maphorisa |  |
 | Fri, 11 Dec 2026 | 77: DEB FA | Deb FA |
 | Sat, 12 Dec 2026 | 77: Birds of Mind | Birds of Mind, Kate Moss |
-| Sun, 13 Dec 2026 | 77 PRESENT SUNDAYZ: DJ OBI |  |
 | Fri, 18 Dec 2026 | 20 Years Of Circle |  |
-| Thu, 31 Dec 2026 | STUDIO 77: NEW YEARS EVE |  |
-| Fri, 12 Feb 2027 | Nightly x DOVnROBS (The 77 Takeover - Feb 12) | DOVnROBS |
+| Sun, 20 Dec 2026 | 77 PRESENT SUNDAYZ: DJ OBI |  |
+| Sat, 26 Dec 2026 | 77 PRESENT: MASAKA AFRICANA |  |
+| Thu, 31 Dec 2026 | STUDIO 77: NEW YEARS EVE / Dan Shake | Dan Shake |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

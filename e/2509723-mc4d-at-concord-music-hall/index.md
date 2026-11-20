@@ -1,6 +1,6 @@
 # MC4D at Concord Music Hall
 
-MC4D at Concord Music Hall on Fri 4 Dec, Chicago. See the line-up on soundcheck.
+MC4D at Concord Music Hall on Fri 4 Dec, Chicago. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

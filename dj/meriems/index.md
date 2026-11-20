@@ -1,14 +1,15 @@
 # Meriem S
 
-Meriem S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ÆDEN, Berlin on Sat, 19 Dec 2026.
+Meriem S is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ÆDEN, Berlin on Sat, 19 Dec 2026.
 
-Meriem S is a house and techno artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Berlin, Brussels and Milan and 2 more. Often billed alongside saHHar, Siggatunez and hi.fí. Next up: ÆDEN, Berlin on Sat 19 Dec.
+Meriem S is a house and techno artist based in Italy, with 42 gigs on soundcheck across Amsterdam, Berlin, Brussels and Milan and 2 more. Often billed alongside saHHar, Siggatunez and Adam Cooke. Next up: ÆDEN, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | ÆDEN | Berlin |
+| Thu, 31 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Meriem S is a house and techno artist based in Italy, with 41 gigs on soundcheck
 
 ## Shares bills with
 
-saHHar, Siggatunez, hi.fí
+saHHar, Siggatunez, Adam Cooke
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*

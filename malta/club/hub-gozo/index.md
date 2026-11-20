@@ -1,6 +1,6 @@
 # Hub Gozo
 
-Hub Gozo is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "HUB Invites LABENGA COLLECTIVE" on Sat, 24 Oct 2026.
+Hub Gozo is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Less Is More" on Fri, 20 Nov 2026.
 
 Hub Gozo is a music venue in Malta listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 15 Triq il Kalati, Sannat, Gozo, Malta.
 
@@ -8,10 +8,10 @@ Hub Gozo is a music venue in Malta listed on soundcheck. 1 upcoming gig. See dat
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | HUB Invites LABENGA COLLECTIVE |  |
+| Fri, 20 Nov 2026 | Less Is More |  |
 
 ## Address
 
 15 Triq il Kalati, Sannat, Gozo, Malta, Malta
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hub-gozo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hub-gozo/)*

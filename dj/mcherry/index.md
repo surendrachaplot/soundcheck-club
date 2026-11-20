@@ -1,6 +1,6 @@
 # mCherry
 
-mCherry is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bar Datcha, Montreal on Sat, 21 Nov 2026.
+mCherry is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bar Datcha, Montreal on Sat, 21 Nov 2026.
 
 mCherry is a latin bass and reggaeton artist based in Argentina, with 39 gigs on soundcheck across Montreal and Vancouver. Often billed alongside La Niña Kiwi, JASHIM and DJ Punani. Next up: Bar Datcha, Montreal on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ mCherry is a latin bass and reggaeton artist based in Argentina, with 39 gigs on
 
 La Niña Kiwi, JASHIM, DJ Punani
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcherry/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcherry/)*

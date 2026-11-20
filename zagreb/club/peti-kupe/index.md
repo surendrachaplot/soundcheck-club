@@ -1,6 +1,6 @@
 # Peti Kupe
 
-Peti Kupe is a music venue in Zagreb with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Music Reactions Indoor Rave Zagreb" on Fri, 20 Nov 2026.
+Peti Kupe is a music venue in Zagreb with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Music Reactions Indoor Rave Zagreb" on Fri, 20 Nov 2026.
 
 Peti Kupe is a music venue in Zagreb listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Farell, Andrey Pushkarev, Antonio Zuza and DIKKA and 2 more. See dates, start times and who's playing. Trnjanska cesta 5, 10000, Zagreb, Croatia.
 
@@ -18,4 +18,4 @@ Peti Kupe is a music venue in Zagreb listed on soundcheck. 5 upcoming gigs, with
 
 Trnjanska cesta 5, 10000, Zagreb, Croatia, Zagreb
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*

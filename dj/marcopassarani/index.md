@@ -1,6 +1,6 @@
 # Marco Passarani
 
-Marco Passarani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Veracura, Rome on Fri, 20 Nov 2026.
+Marco Passarani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Veracura, Rome on Fri, 20 Nov 2026.
 
 Marco Passarani is a techno and electro artist based in Italy, with 21 gigs on soundcheck across Berlin, Bologna, Florence and Glasgow and 11 more. Often billed alongside Alessandro Adriani, Bluemarina and AZA. Next up: Veracura, Rome on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Marco Passarani is a techno and electro artist based in Italy, with 21 gigs on s
 
 Alessandro Adriani, Bluemarina, AZA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*

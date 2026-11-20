@@ -1,6 +1,6 @@
 # Artifak
 
-Artifak is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
+Artifak is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
 
 Artifak is a house and techno artist based in France, with 20 gigs on soundcheck across Barcelona and Paris. Often billed alongside In-Tan, Kelbail and Cattoni. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Artifak is a house and techno artist based in France, with 20 gigs on soundcheck
 
 In-Tan, Kelbail, Cattoni
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artifak/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artifak/)*

@@ -1,10 +1,10 @@
 # SubHarmonic: Adam F [LIVE] - Circles Revisited Tour at The Dome
 
-SubHarmonic: Adam F [LIVE] - Circles Revisited Tour at The Dome on Fri 20 Nov, Liverpool. 6 artists: Adam F, adamine, Hardcore Babes and Harry Shotta and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+SubHarmonic: Adam F [LIVE] - Circles Revisited Tour at The Dome on Fri 14 May, Liverpool. 6 artists: Adam F, adamine, Hardcore Babes and Harry Shotta and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 20 Nov 2026 |
+| Date | Fri, 14 May 2027 |
 | Venue | The Dome |
 | City | Liverpool |
 

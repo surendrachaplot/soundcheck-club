@@ -1,6 +1,6 @@
 # Fabbrica del Vapore
 
-Fabbrica del Vapore is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "1000 VINILI CON NICOLA SAVINO" on Fri, 20 Nov 2026.
+Fabbrica del Vapore is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "1000 VINILI CON NICOLA SAVINO" on Fri, 20 Nov 2026.
 
 Fabbrica del Vapore is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Barbara Boeing, Emmanuelle (BR) and Nesa Azadikhah. See dates, start times and who's playing. Via Giulio Cesare Procaccini, 4, 20154 Milano, Italy.
 
@@ -16,4 +16,4 @@ Fabbrica del Vapore is a music venue in Milan listed on soundcheck. 3 upcoming g
 
 Via Giulio Cesare Procaccini, 4, 20154 Milano, Italy, Milan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/fabbrica-del-vapore/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/fabbrica-del-vapore/)*

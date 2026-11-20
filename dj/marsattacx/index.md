@@ -1,6 +1,6 @@
 # MarsattacX
 
-MarsattacX is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
+MarsattacX is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
 MarsattacX is a techno and electro artist based in Ukraine, with 21 gigs on soundcheck across Barcelona, Berlin, Lisbon and Valencia. Often billed alongside Lucho (VE), Kala Ros and Bejenec. Next up: 119, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MarsattacX is a techno and electro artist based in Ukraine, with 21 gigs on soun
 
 Lucho (VE), Kala Ros, Bejenec
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*

@@ -1,6 +1,6 @@
 # Coach Chris
 
-Coach Chris is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Red Eye NY, New York City on Fri, 20 Nov 2026.
+Coach Chris is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Red Eye NY, New York City on Fri, 20 Nov 2026.
 
 Coach Chris is a house and disco artist based in United States of America, with 19 gigs on soundcheck across New York City, Seattle and Toronto. Often billed alongside DJ Dawson, DROPO and Mitch Ferrino. Next up: Red Eye NY, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Coach Chris is a house and disco artist based in United States of America, with 
 
 DJ Dawson, DROPO, Mitch Ferrino
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coachchris/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coachchris/)*

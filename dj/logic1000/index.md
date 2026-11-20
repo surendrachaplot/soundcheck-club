@@ -1,6 +1,6 @@
 # Logic1000
 
-Logic1000 is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at EartH, London on Fri, 20 Nov 2026.
+Logic1000 is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at EartH, London on Fri, 20 Nov 2026.
 
 Logic1000 is a house and techno artist based in Australia, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DJ Seinfeld, Ross From Friends and DJ Holographic. Next up: EartH, London on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Logic1000 is a house and techno artist based in Australia, with 74 gigs on sound
 
 DJ Seinfeld, Ross From Friends, DJ Holographic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*

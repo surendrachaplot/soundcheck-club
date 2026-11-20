@@ -1,6 +1,6 @@
 # Senso Nacht at Sensorium
 
-Senso Nacht at Sensorium on Fri 27 Nov, Berlin. 7 artists: Camilla Tarantino, Esposito, Loco (IT) and NORA (BR) and 3 more. Techno and Tech House. See the line-up on soundcheck.
+Senso Nacht at Sensorium on Fri 27 Nov, Berlin. 6 artists: Camilla Tarantino, Loco (IT), NORA (BR) and Stallo and 2 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Senso Nacht at Sensorium on Fri 27 Nov, Berlin. 7 artists: Camilla Tarantino, Es
 ## Line-up
 
 - Camilla Tarantino
-- Esposito
 - Loco (IT)
 - NORA (BR)
 - Stallo

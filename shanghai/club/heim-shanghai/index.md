@@ -1,6 +1,6 @@
 # Heim Shanghai
 
-Heim Shanghai is a music venue in Shanghai with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "11.20 周五 - Liányī 1YR Anniversary with Mademoisel" on Fri, 20 Nov 2026.
+Heim Shanghai is a music venue in Shanghai with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "11.20 周五 - Liányī 1YR Anniversary with Mademoisel" on Fri, 20 Nov 2026.
 
 Heim Shanghai is a music venue in Shanghai listed on soundcheck. 5 upcoming gigs, with line-ups including 10000 (CN), 1OO1O, Azrel and CAI and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Heim Shanghai is a music venue in Shanghai listed on soundcheck. 5 upcoming gigs
 | Sat, 28 Nov 2026 | 11.28 周六｜Oranda feat. Cousin | Cousin, Knopha |
 | Fri, 18 Dec 2026 | Shy People & LeavesCalm pres. 1OO1O China Debut | 10000 (CN), 1OO1O |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/heim-shanghai/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/heim-shanghai/)*

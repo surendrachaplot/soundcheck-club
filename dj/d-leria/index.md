@@ -1,21 +1,22 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cadavra, Madrid on Thu, 19 Nov 2026.
+D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 21 Nov 2026.
 
-D-Leria is a techno and house artist based in Italy, with 136 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 45 more. Often billed alongside Key Clef, Functional Disorder and Claudio PRC. Next up: Cadavra, Madrid on Thu 19 Nov.
+D-Leria is a techno and house artist based in Italy, with 137 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 45 more. Often billed alongside Key Clef, Functional Disorder and Claudio PRC. Next up: CLUB RAUM, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Cadavra | Madrid |
 | Sat, 21 Nov 2026 | CLUB RAUM | Amsterdam |
+| Fri, 27 Nov 2026 | Circolo degli Illuminati | Rome |
 | Sat, 5 Dec 2026 | FOLD | London |
 | Fri, 1 Jan 2027 | ELYSIUM SEVILLA | South |
 | Fri, 2 Jul 2027 | TBA - Veta Festival, Barruelo de Santullán | North |
 
 ## Recently played
 
+- Cadavra, Madrid · Thu, 19 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 7 Nov 2026
 - Mia Mao, Paris · Fri, 30 Oct 2026
 - FOLD, London · Sat, 10 Oct 2026
@@ -23,10 +24,9 @@ D-Leria is a techno and house artist based in Italy, with 136 gigs on soundcheck
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Jasna 1, Warsaw · Sat, 19 Sept 2026
 - Q Club, Milan · Fri, 4 Sept 2026
-- THE MAGICK BAR, Rome · Thu, 3 Sept 2026
 
 ## Shares bills with
 
 Key Clef, Functional Disorder, Claudio PRC
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

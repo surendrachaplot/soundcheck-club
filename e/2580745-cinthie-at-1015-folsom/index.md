@@ -1,6 +1,6 @@
 # Cinthie at 1015 Folsom
 
-Cinthie at 1015 Folsom on Fri 27 Nov, San Francisco/Oakland. 1 artist: Cinthie. House. See the line-up on soundcheck.
+Cinthie at 1015 Folsom on Fri 27 Nov, San Francisco/Oakland. 4 artists: Cinthie, dogtooth, Eichef and onemohit. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Cinthie at 1015 Folsom on Fri 27 Nov, San Francisco/Oakland. 1 artist: Cinthie. 
 ## Line-up
 
 - Cinthie
+- dogtooth
+- Eichef
+- onemohit
 
 *Source: [soundcheck](https://soundcheck.club/e/2580745-cinthie-at-1015-folsom/)*

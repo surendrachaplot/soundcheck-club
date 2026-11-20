@@ -1,6 +1,6 @@
 # Guedes (ES)
 
-Guedes (ES) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 9 Jan 2027.
+Guedes (ES) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 9 Jan 2027.
 
 Guedes (ES) is a house and minimal artist based in Venezuela, with 39 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Kid Moss, Galu Bla and MATEO BERGOGLIO. Next up: 303 Audiophile Bar, Barcelona on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Guedes (ES) is a house and minimal artist based in Venezuela, with 39 gigs on so
 
 Kid Moss, Galu Bla, MATEO BERGOGLIO
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guedes-es/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guedes-es/)*

@@ -1,0 +1,28 @@
+# Mode
+
+Mode is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Turbina, Budapest on Fri, 20 Nov 2026.
+
+Mode is a techno and acid artist based in Hungary, with 32 gigs on soundcheck across Budapest. Often billed alongside isu, Dork and Luigi Tozzi. Next up: Turbina, Budapest on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | Turbina | Budapest |
+
+## Recently played
+
+- Turbina, Budapest · Fri, 23 Oct 2026
+- Very Small Club, Budapest · Fri, 26 Jun 2026
+- Very Small Club, Budapest · Fri, 15 May 2026
+- Kassa Boat, Budapest · Fri, 24 Apr 2026
+- A38, Budapest · Sat, 18 Apr 2026
+- Kassa Boat, Budapest · Sat, 7 Mar 2026
+- Turbina, Budapest · Sun, 15 Feb 2026
+- Dürer Kert, Budapest · Sat, 7 Feb 2026
+
+## Shares bills with
+
+isu, Dork, Luigi Tozzi
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mode-hu/)*

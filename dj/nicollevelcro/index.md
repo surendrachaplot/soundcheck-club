@@ -1,6 +1,6 @@
 # Nicolle Velcro
 
-Nicolle Velcro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 21 Nov 2026.
+Nicolle Velcro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 21 Nov 2026.
 
 Nicolle Velcro is a house and techno artist based in Brazil, with 34 gigs on soundcheck across Lisbon. Often billed alongside AZM, Adam Purnell and Kemetic. Next up: Ministerium Club, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nicolle Velcro is a house and techno artist based in Brazil, with 34 gigs on sou
 
 AZM (1), Adam Purnell, Kemetic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*

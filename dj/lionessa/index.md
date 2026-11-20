@@ -1,6 +1,6 @@
 # LIONESSA
 
-LIONESSA is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ilion Plus, Athens on Sat, 21 Nov 2026.
+LIONESSA is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ilion Plus, Athens on Sat, 21 Nov 2026.
 
 LIONESSA is a bass and electro artist based in Egypt, with 31 gigs on soundcheck across Athens, Berlin, Chicago and Dublin and 9 more. Often billed alongside suciopath, PUFF and AWood. Next up: Ilion Plus, Athens on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ LIONESSA is a bass and electro artist based in Egypt, with 31 gigs on soundcheck
 
 suciopath, PUFF, AWood
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lionessa/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lionessa/)*

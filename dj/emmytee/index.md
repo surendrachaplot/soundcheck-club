@@ -1,6 +1,6 @@
 # Emmytee
 
-Emmytee is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Maquis Club, Hanoi on Sat, 21 Nov 2026.
+Emmytee is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Le Maquis Club, Hanoi on Sat, 21 Nov 2026.
 
 Emmytee is a techno and bass artist based in Vietnam, with 42 gigs on soundcheck across Hanoi. Often billed alongside LINHTONIK, HDMI? and Komga. Next up: Le Maquis Club, Hanoi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Emmytee is a techno and bass artist based in Vietnam, with 42 gigs on soundcheck
 
 LINHTONIK, HDMI?, Komga
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmytee/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmytee/)*

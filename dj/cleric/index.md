@@ -1,8 +1,8 @@
 # Cleric
 
-Cleric is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at essaim, Paris on Fri, 20 Nov 2026.
+Cleric is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at essaim, Paris on Fri, 20 Nov 2026.
 
-Cleric is a techno and acid artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Félicie, Habgud and Bailey Ibbs. Next up: essaim, Paris on Fri 20 Nov.
+Cleric is a techno and acid artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 49 more. Often billed alongside Félicie, Habgud and Bailey Ibbs. Next up: essaim, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Cleric is a techno and acid artist based in United Kingdom, with 129 gigs on sou
 | Fri, 4 Dec 2026 | VENT | Tokyo |
 | Sat, 5 Dec 2026 | RASA | Singapore |
 | Fri, 11 Dec 2026 | Galaxy Bar | Christchurch |
+| Fri, 18 Dec 2026 | Afters. | North-island |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Cleric is a techno and acid artist based in United Kingdom, with 129 gigs on sou
 
 Félicie, Habgud, Bailey Ibbs
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*

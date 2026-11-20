@@ -1,14 +1,15 @@
 # HARUNA (2)
 
-HARUNA (2) is a Afro House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Apotheka, Manila on Fri, 20 Nov 2026.
+HARUNA (2) is a Afro House and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Apotheka, Manila on Fri, 20 Nov 2026.
 
-HARUNA is an afro house and afrobeats artist, with 38 gigs on soundcheck across Amsterdam, Barcelona, London and Manila and 3 more. Often billed alongside ZEE-2, JVINCENT and Sham Steele. Next up: Apotheka, Manila on Fri 20 Nov.
+HARUNA is an afro house and afrobeats artist, with 39 gigs on soundcheck across Amsterdam, Barcelona, London and Manila and 3 more. Often billed alongside ZEE-2, JVINCENT and Sham Steele. Next up: Apotheka, Manila on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Apotheka | Manila |
+| Fri, 11 Dec 2026 | The Lower Third | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HARUNA is an afro house and afrobeats artist, with 38 gigs on soundcheck across 
 
 ZEE-2, JVINCENT, Sham Steele
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*

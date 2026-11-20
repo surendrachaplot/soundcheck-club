@@ -1,11 +1,11 @@
-# Partiboi69 pres. Life Extension: Partiboi69 / Juicy Romance / Gerardo Niva at Sala Cocó
+# Partiboi69 pres. Life Extension: Partiboi69 / Juicy Romance / Gerardo Niva at Mondo
 
-Partiboi69 pres. Life Extension: Partiboi69 / Juicy Romance / Gerardo Niva at Sala Cocó on Sat 28 Nov, Madrid. 3 artists: Gerardo Niva, Juicy Romance and Partiboi69. See the line-up on soundcheck.
+Partiboi69 pres. Life Extension: Partiboi69 / Juicy Romance / Gerardo Niva at Mondo on Sat 28 Nov, Madrid. 3 artists: Gerardo Niva, Juicy Romance and Partiboi69. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 28 Nov 2026 |
-| Venue | Sala Cocó |
+| Venue | Mondo |
 | City | Madrid |
 
 ## Line-up

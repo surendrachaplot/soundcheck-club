@@ -1,8 +1,8 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Ben Klock is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
-Ben Klock is a techno and house artist based in Germany, with 307 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 75 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+Ben Klock is a techno and house artist based in Germany, with 308 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 75 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Ben Klock is a techno and house artist based in Germany, with 307 gigs on soundc
 | Fri, 18 Dec 2026 | Gate Milano | Milan |
 | Sat, 19 Dec 2026 | Open Ground | Wuppertal |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sun, 27 Dec 2026 | Index | Dublin |
 | Sat, 13 Feb 2027 | Fuse | Brussels |
 | Sat, 20 Feb 2027 | TBA - Warehouse Location | Toronto |
-| Sat, 27 Mar 2027 | NDSM Docklands | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, with 307 gigs on soundc
 
 Fadi Mohem, Marcel Dettmann, Rødhåd
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

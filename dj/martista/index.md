@@ -1,13 +1,14 @@
 # MARTISTA
 
-MARTISTA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
+MARTISTA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bikini Club, Barcelona on Fri, 20 Nov 2026.
 
-MARTISTA is an afro house and house artist based in Netherlands, with 75 gigs on soundcheck across Barcelona. Often billed alongside Marcel BS, Edu Natored and Cucut. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
+MARTISTA is an afro house and house artist based in Netherlands, with 76 gigs on soundcheck across Barcelona. Often billed alongside Marcel BS, Edu Natored and Cucut. Next up: Bikini Club, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Bikini Club | Barcelona |
 | Sat, 21 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ MARTISTA is an afro house and house artist based in Netherlands, with 75 gigs on
 
 Marcel BS, Edu Natored (2), Cucut
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*

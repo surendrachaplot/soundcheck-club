@@ -1,6 +1,6 @@
 # Golden Record NYC presents Eli Escobar at Green Room NYC
 
-Golden Record NYC presents Eli Escobar at Green Room NYC on Wed 25 Nov, New York City. 1 artist: Eli Escobar. Techno and House. See the line-up on soundcheck.
+Golden Record NYC presents Eli Escobar at Green Room NYC on Wed 25 Nov, New York City. 2 artists: Eli Escobar and Omer Mil. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Golden Record NYC presents Eli Escobar at Green Room NYC on Wed 25 Nov, New York
 ## Line-up
 
 - Eli Escobar
+- Omer Mil
 
 *Source: [soundcheck](https://soundcheck.club/e/2572886-golden-record-nyc-presents-eli-escobar-at-green-room-nyc/)*

@@ -1,6 +1,6 @@
 # STYLI
 
-STYLI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lakota, Bristol on Fri, 20 Nov 2026.
+STYLI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lakota, Bristol on Fri, 20 Nov 2026.
 
 STYLI is a house and techno artist based in Cyprus, with 27 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Manchester. Often billed alongside Aly Berry, MTOM and DASHY. Next up: Lakota, Bristol on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ STYLI is a house and techno artist based in Cyprus, with 27 gigs on soundcheck a
 
 Aly Berry, MTOM, DASHY
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/styli/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/styli/)*

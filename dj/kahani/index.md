@@ -1,6 +1,6 @@
 # Kahani
 
-Kahani is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bauhaus, Houston on Sat, 21 Nov 2026.
+Kahani is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bauhaus, Houston on Sat, 21 Nov 2026.
 
 Kahani is a house and deep house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Austin, Birmingham and Boston and 17 more. Often billed alongside Kunal Merchant, Anvaya and Ethyr. Next up: Bauhaus, Houston on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kahani is a house and deep house artist based in United States of America, with 
 
 Kunal Merchant, Anvaya, Ethyr
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*

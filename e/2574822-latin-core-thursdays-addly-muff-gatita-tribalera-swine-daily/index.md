@@ -1,6 +1,6 @@
 # LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily at Fuchs2
 
-LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily at Fuchs2 on Thu 26 Nov, Prague. 3 artists: AddlyMuff, VLZQUES and weimar. Guaracha and Neo Perreo. See the line-up on soundcheck.
+LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily at Fuchs2 on Thu 26 Nov, Prague. 4 artists: AddlyMuff, Gatita Tribalera, VLZQUES and weimar. Guaracha and Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily at Fuchs2 
 ## Line-up
 
 - AddlyMuff
+- Gatita Tribalera
 - VLZQUES
 - weimar
 

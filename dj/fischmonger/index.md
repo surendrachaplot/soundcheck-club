@@ -1,13 +1,14 @@
 # Fischmonger
 
-Fischmonger is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at nachbar, Amsterdam on Wed, 16 Dec 2026.
+Fischmonger is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Alte Kaserne, Zurich on Sat, 5 Dec 2026.
 
-Fischmonger is a techno and hardcore artist based in China, with 63 gigs on soundcheck across Amsterdam, Beijing, Berlin and Freiburg and 7 more. Often billed alongside SHU, Meguru and PRYMARA. Next up: nachbar, Amsterdam on Wed 16 Dec.
+Fischmonger is a techno and hardcore artist based in China, with 64 gigs on soundcheck across Amsterdam, Beijing, Berlin and Freiburg and 8 more. Often billed alongside SHU, Meguru and PRYMARA. Next up: Alte Kaserne, Zurich on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Alte Kaserne | Zurich |
 | Wed, 16 Dec 2026 | nachbar | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fischmonger is a techno and hardcore artist based in China, with 63 gigs on soun
 
 SHU (2), Meguru, PRYMARA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*

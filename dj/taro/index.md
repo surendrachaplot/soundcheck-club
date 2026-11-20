@@ -1,6 +1,6 @@
 # Taro
 
-Taro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
+Taro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
 
 Taro is a techno and house artist based in Japan, with 49 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside Celter, Mikio Kaminakamura and TIMO. Next up: Aoyama Hachi, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Taro is a techno and house artist based in Japan, with 49 gigs on soundcheck acr
 
 Celter, Mikio Kaminakamura, TIMO
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taro/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taro/)*

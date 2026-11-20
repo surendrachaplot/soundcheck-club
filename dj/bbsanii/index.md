@@ -1,14 +1,13 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Angel Music Bar, Melbourne on Thu, 12 Nov 2026.
+bbsanii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Howler, Melbourne on Sat, 12 Dec 2026.
 
-bbsanii is a techno and house artist based in Australia, with 39 gigs on soundcheck across Australian Capital Territory, Melbourne and Victoria. Often billed alongside JUPiTA, Sophie Forrest and Tina Disco. Next up: Angel Music Bar, Melbourne on Thu 12 Nov.
+bbsanii is a techno and house artist based in Australia, with 39 gigs on soundcheck across Australian Capital Territory, Melbourne and Victoria. Often billed alongside JUPiTA, Sophie Forrest and Tina Disco. Next up: Howler, Melbourne on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Angel Music Bar | Melbourne |
 | Sat, 12 Dec 2026 | Howler | Melbourne |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
@@ -28,4 +27,4 @@ bbsanii is a techno and house artist based in Australia, with 39 gigs on soundch
 
 JUPiTA, Sophie Forrest, Tina Disco
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*

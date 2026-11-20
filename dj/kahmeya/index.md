@@ -1,6 +1,6 @@
 # KAHMEYA
 
-KAHMEYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 5 Dec 2026.
+KAHMEYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 5 Dec 2026.
 
 KAHMEYA is a techno and house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside SHARE (NL), Basistolia and Collé. Next up: Het Sieraad, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ KAHMEYA is a techno and house artist based in Netherlands, with 15 gigs on sound
 
 SHARE (NL), Basistolia, Collé
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahmeya/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahmeya/)*

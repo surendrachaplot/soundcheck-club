@@ -1,6 +1,6 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Ductwork Houston, Houston on Fri, 20 Nov 2026.
+Afrojack is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ductwork Houston, Houston on Fri, 20 Nov 2026.
 
 Afrojack is a house and progressive house artist based in Netherlands, with 62 gigs on soundcheck across Amsterdam, Athens, Boston and Buenos Aires and 24 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: Ductwork Houston, Houston on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Afrojack is a house and progressive house artist based in Netherlands, with 62 g
 
 David Guetta, Paul Reynolds, Francis Mercier
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*

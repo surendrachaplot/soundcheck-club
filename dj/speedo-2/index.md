@@ -1,14 +1,15 @@
 # SPEEDO (2)
 
-SPEEDO (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
+SPEEDO (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
 
-SPEEDO is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin and Cologne. Often billed alongside HENNESY, Pamela Rave and Sasuma. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
+SPEEDO is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin and Cologne. Often billed alongside HENNESY, Pamela Rave and Sasuma. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 26 Dec 2026 | Helios37 | Cologne |
 | Sat, 30 Jan 2027 | Helios37 | Cologne |
 
 ## Recently played
@@ -26,4 +27,4 @@ SPEEDO is a techno and trance artist based in Germany, with 24 gigs on soundchec
 
 HENNESY, Pamela Rave, Sasuma
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedo-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedo-2/)*

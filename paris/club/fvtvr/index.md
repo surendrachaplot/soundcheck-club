@@ -1,8 +1,8 @@
 # FVTVR
 
-FVTVR is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SK-11: Setaoc Mass, BLANKA, Arkan" on Fri, 20 Nov 2026.
+FVTVR is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "SK-11: Setaoc Mass, BLANKA, Arkan" on Fri, 20 Nov 2026.
 
-FVTVR is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Arkan, Bellaire, Black Loops and BLANKA and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+FVTVR is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Alba Franch, Arkan, Bellaire and Black Loops and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
@@ -16,11 +16,11 @@ FVTVR is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with lin
 | Fri, 4 Dec 2026 | PONT NEUF 10 YEARS XXL CLOSING | Bellaire, Black Loops, Demuja, Dylan Dylan, Goldie B, Kamma, Kx9000, Mad Rey, Maison Blanche, Marbré, Masalo, Mira Ló, Naajet (2), THEOS (1), Tour-Maubourg, Young Marco |
 | Sat, 5 Dec 2026 | Pornceptual Does Fvtvr |  |
 | Fri, 11 Dec 2026 | Fvtvr presents LASTER again 30H UNDER THE RED LIGHT | Blasha & Allatt, Chami, Claudio PRC, EMAN (FR), Fadi Mohem, Freddy K, Laia, Louis The 4th, Marcel Dettmann, Marie Montexier, Roll Dann, The Lady Machine |
-| Sat, 19 Dec 2026 | TRANSGENIK |  |
+| Sat, 19 Dec 2026 | TRANSGENIK | Alba Franch, DBBD, Vagabund |
 | Sat, 26 Dec 2026 | Sam Paganini, Carla Schmitt, Sev Dah | Carla Schmitt, Sam Paganini, Sev Dah |
 
 ## Address
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

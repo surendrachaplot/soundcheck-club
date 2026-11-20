@@ -1,17 +1,18 @@
 # BRUX (Aus)
 
-BRUX (Aus) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at public records, New York City on Thu, 19 Nov 2026.
+BRUX (Aus) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
 
-BRUX (Aus) is a bass and electronica artist based in Australia, with 12 gigs on soundcheck across Denver, London, Los Angeles and New York City and 3 more. Often billed alongside Audem, Badbadnotgood and Breaka. Next up: public records, New York City on Thu 19 Nov.
+BRUX (Aus) is a bass and electronica artist based in Australia, with 13 gigs on soundcheck across Denver, London, Los Angeles and New York City and 4 more. Often billed alongside ACHAMA, Audem and Badbadnotgood. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | public records | New York City |
+| Fri, 18 Dec 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
 
+- public records, New York City · Thu, 19 Nov 2026
 - The Bentway, Toronto · Sat, 15 Aug 2026
 - Colour Factory, London · Sat, 11 Apr 2026
 - Elsewhere, New York City · Thu, 19 Mar 2026
@@ -19,10 +20,9 @@ BRUX (Aus) is a bass and electronica artist based in Australia, with 12 gigs on 
 - The Midway, San Francisco/Oakland · Sat, 20 Dec 2025
 - Clifton's Republic, Los Angeles · Fri, 19 Dec 2025
 - House of Yes, New York City · Fri, 29 Aug 2025
-- Club Vinyl, Denver · Fri, 8 Aug 2025
 
 ## Shares bills with
 
-Audem, Badbadnotgood, Breaka
+ACHAMA, Audem, Badbadnotgood
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*

@@ -1,6 +1,6 @@
 # Nemesia
 
-Nemesia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
+Nemesia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
 
 Nemesia is a techno and electro artist based in Bosnia and Herzegovina, with 9 gigs on soundcheck across Belgrade, Bosnia And Herzegovina and Zagreb. Often billed alongside Adnoir, Balša and Dažbog. Next up: Frka, Bosnia And Herzegovina on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nemesia is a techno and electro artist based in Bosnia and Herzegovina, with 9 g
 
 Adnoir, Balša, Dažbog
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nemesia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nemesia/)*

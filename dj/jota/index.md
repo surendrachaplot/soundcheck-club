@@ -1,6 +1,6 @@
 # Jota
 
-Jota is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
+Jota is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
 
 Jota is a house and minimal artist based in Brazil, with 12 gigs on soundcheck across Barcelona, Madrid, Medellin and New York City and 2 more. Often billed alongside Vicenta, Chancleta and Coyado. Next up: The Court Hotel, Perth on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ Jota is a house and minimal artist based in Brazil, with 12 gigs on soundcheck a
 
 Vicenta, Chancleta, Coyado
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jota/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jota/)*

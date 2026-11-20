@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at KOKO, London on Fri, 20 Nov 2026.
+Francis Mercier is a Afro House and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at KOKO, London on Fri, 20 Nov 2026.
 
 Francis Mercier is an afro house and house artist based in United States of America, with 189 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: KOKO, London on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

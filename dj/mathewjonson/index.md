@@ -1,8 +1,8 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Mathew Jonson is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
-Mathew Jonson is a techno and house artist based in Canada, with 161 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 57 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
+Mathew Jonson is a techno and house artist based in Canada, with 163 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 58 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Mathew Jonson is a techno and house artist based in Canada, with 161 gigs on sou
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 28 Nov 2026 | fabric | London |
 | Fri, 11 Dec 2026 | Bassiani | Tbilisi |
+| Fri, 18 Dec 2026 | DURO | Milan |
+| Fri, 19 Feb 2027 | Sala de Armas | North |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -28,4 +30,4 @@ Mathew Jonson is a techno and house artist based in Canada, with 161 gigs on sou
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

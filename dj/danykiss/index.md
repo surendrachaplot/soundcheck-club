@@ -1,6 +1,6 @@
 # DanyKiss
 
-DanyKiss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Boondocks, Houston on Sat, 21 Nov 2026.
+DanyKiss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Boondocks, Houston on Sat, 21 Nov 2026.
 
 DanyKiss is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Houston. Often billed alongside Post Modern Sleaze, XOY and Amarji King. Next up: Boondocks, Houston on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DanyKiss is a techno and house artist based in United States of America, with 20
 
 Post Modern Sleaze, XOY, Amarji King
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danykiss/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danykiss/)*

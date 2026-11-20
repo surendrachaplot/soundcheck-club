@@ -1,13 +1,14 @@
 # Dcascallana
 
-Dcascallana is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Lucia, Vienna on Fri, 18 Dec 2026.
+Dcascallana is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kramladen, Vienna on Thu, 26 Nov 2026.
 
-Dcascallana is a techno and trance artist based in Austria, with 34 gigs on soundcheck across Vienna. Often billed alongside CPR0, DANBERG and pezel. Next up: Club Lucia, Vienna on Fri 18 Dec.
+Dcascallana is a techno and trance artist based in Austria, with 35 gigs on soundcheck across Vienna. Often billed alongside CPR0, DANBERG and pezel. Next up: Kramladen, Vienna on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Kramladen | Vienna |
 | Fri, 18 Dec 2026 | Club Lucia | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dcascallana is a techno and trance artist based in Austria, with 34 gigs on soun
 
 CPR0, DANBERG, pezel
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcascallana/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcascallana/)*

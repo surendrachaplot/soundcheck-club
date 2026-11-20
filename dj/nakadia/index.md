@@ -1,14 +1,16 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Grelle Forelle, Vienna on Sat, 5 Dec 2026.
+Nakadia is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lounge by Warm up Cafe, Thailand on Fri, 27 Nov 2026.
 
-Nakadia is a techno and tech house artist based in Thailand, with 100 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Grelle Forelle, Vienna on Sat 5 Dec.
+Nakadia is a techno and tech house artist based in Thailand, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Lounge by Warm up Cafe, Thailand on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Lounge by Warm up Cafe | Thailand |
 | Sat, 5 Dec 2026 | Grelle Forelle | Vienna |
+| Fri, 23 Jul 2027 | Open Beatz Festival | Bavaria |
 | Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
 
 ## Recently played
@@ -26,4 +28,4 @@ Nakadia is a techno and tech house artist based in Thailand, with 100 gigs on so
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

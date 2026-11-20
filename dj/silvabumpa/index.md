@@ -1,14 +1,13 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at One22, Canberra on Thu, 19 Nov 2026.
+Silva Bumpa is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Silva Bumpa is a garage and house artist based in United Kingdom, with 231 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 59 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: One22, Canberra on Thu 19 Nov.
+Silva Bumpa is a garage and house artist based in United Kingdom, with 231 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 59 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | One22 | Canberra |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 21 Nov 2026 | Liberty Hall | Sydney |
 | Sat, 21 Nov 2026 | Liberty Hall | Sydney |
@@ -23,6 +22,7 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 231 gigs 
 
 ## Recently played
 
+- One22, Canberra · Thu, 19 Nov 2026
 - Peddler Warehouse, Sheffield · Sun, 8 Nov 2026
 - Fuse, Brussels · Sat, 31 Oct 2026
 - Badaboum, Paris · Fri, 30 Oct 2026
@@ -30,10 +30,9 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 231 gigs 
 - Club NYX, Amsterdam · Fri, 23 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Nitsa Club, Barcelona · Fri, 16 Oct 2026
-- Mondo, Madrid · Thu, 15 Oct 2026
 
 ## Shares bills with
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

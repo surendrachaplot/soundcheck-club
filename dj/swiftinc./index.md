@@ -1,6 +1,6 @@
 # Swift Inc.
 
-Swift Inc. is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at RADION, Amsterdam on Fri, 11 Dec 2026.
+Swift Inc. is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at RADION, Amsterdam on Fri, 11 Dec 2026.
 
 Swift Inc. is an electronic artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam. Often billed alongside job sifre, Hannecart and Ici Sans Merci. Next up: RADION, Amsterdam on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Swift Inc. is an electronic artist based in Netherlands, with 8 gigs on soundche
 
 job sifre, Hannecart, Ici Sans Merci
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swiftinc./)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swiftinc./)*

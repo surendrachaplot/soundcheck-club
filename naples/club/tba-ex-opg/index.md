@@ -1,6 +1,6 @@
 # TBA - EX OPG
 
-TBA - EX OPG is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "CIRCUIT PRESENTS: RECLAIM THE BEAT V - EX OPG" on Sat, 28 Nov 2026.
+TBA - EX OPG is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "CIRCUIT PRESENTS: RECLAIM THE BEAT V - EX OPG" on Sat, 28 Nov 2026.
 
 TBA - EX OPG is a music venue in Naples listed on soundcheck. 1 upcoming gig, with line-ups including DJ YUME and Xqte. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - EX OPG is a music venue in Naples listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | CIRCUIT PRESENTS: RECLAIM THE BEAT V - EX OPG | DJ YUME, Xqte |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-ex-opg/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-ex-opg/)*

@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "DOCKYARD FESTIVAL 2026: Teddy Killerz, Pythius, Akov, TC, Special Guest, El Pablo, + MORE" on Sat, 28 Nov 2026.
+Westhafen is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "DOCKYARD FESTIVAL 2026: Teddy Killerz, Pythius, Akov, TC, Special Guest, El Pablo, + MORE" on Sat, 28 Nov 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with line-ups including CAMPA, David Löhlein, Ezio Aguiar and Fennek and 2 more. See dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -19,4 +19,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, wit
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

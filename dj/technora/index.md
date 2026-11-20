@@ -1,13 +1,14 @@
 # TECHNORA
 
-TECHNORA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 18 Dec 2026.
+TECHNORA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at GAP Club, Chengdu on Fri, 20 Nov 2026.
 
-TECHNORA is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Beijing, Berlin, Chengdu and Mannheim and 2 more. Often billed alongside Pablo Minuit, DJ Hysteria and wellnessheim69. Next up: Fridas Pier, Stuttgart on Fri 18 Dec.
+TECHNORA is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Beijing, Berlin, Chengdu and Mannheim and 2 more. Often billed alongside Pablo Minuit, DJ Hysteria and wellnessheim69. Next up: GAP Club, Chengdu on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | GAP Club | Chengdu |
 | Fri, 18 Dec 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
@@ -25,4 +26,4 @@ TECHNORA is a techno and trance artist based in Germany, with 21 gigs on soundch
 
 Pablo Minuit, DJ Hysteria, wellnessheim69
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technora/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technora/)*

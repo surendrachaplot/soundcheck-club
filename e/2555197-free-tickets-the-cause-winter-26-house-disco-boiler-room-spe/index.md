@@ -1,6 +1,6 @@
-# FREE TICKETS: THE CAUSE WINTER 26 – House & Disco BOILER ROOM SPECIAL! at The Cause
+# FREE TICKETS: The Cause Winter 26 – House & Disco BOILER ROOM SPECIAL! at The Cause
 
-FREE TICKETS: THE CAUSE WINTER 26 – House & Disco BOILER ROOM SPECIAL! at The Cause on Fri 27 Nov, London. House and Disco. See the line-up on soundcheck.
+FREE TICKETS: The Cause Winter 26 – House & Disco BOILER ROOM SPECIAL! on Fri 27 Nov, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

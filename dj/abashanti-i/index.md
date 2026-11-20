@@ -1,6 +1,6 @@
 # Aba Shanti-I
 
-Aba Shanti-I is a Dub and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Phonox, London on Sat, 6 Feb 2027.
+Aba Shanti-I is a Dub and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Phonox, London on Sat, 6 Feb 2027.
 
 Aba Shanti-I is a dub and dub techno artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 15 more. Often billed alongside Tash LC, ojoo and Errol. Next up: Phonox, London on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Aba Shanti-I is a dub and dub techno artist based in United Kingdom, with 51 gig
 
 Tash LC, ojoo, Errol
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abashanti-i/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abashanti-i/)*

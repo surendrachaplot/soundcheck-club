@@ -1,14 +1,15 @@
 # Midori Aoyama
 
-Midori Aoyama is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 27 Nov 2026.
+Midori Aoyama is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 27 Nov 2026.
 
-Midori Aoyama is a house and jazz artist based in Japan, with 45 gigs on soundcheck across Kyoto, Melbourne, Osaka and Seoul and 2 more. Often billed alongside FU (JP), AMANE and MINAMI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 27 Nov.
+Midori Aoyama is a house and jazz artist based in Japan, with 46 gigs on soundcheck across Kyoto, Melbourne, Osaka and Seoul and 2 more. Often billed alongside FU (JP), MINAMI and AMANE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Sat, 26 Dec 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Midori Aoyama is a house and jazz artist based in Japan, with 45 gigs on soundch
 
 ## Shares bills with
 
-FU (JP), AMANE, MINAMI
+FU (JP), MINAMI, AMANE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midoriaoyama/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midoriaoyama/)*

@@ -1,13 +1,14 @@
 # MixB
 
-MixB is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Void Club, Berlin on Fri, 18 Dec 2026.
+MixB is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Insomnia, Berlin on Sat, 5 Dec 2026.
 
-MixB is a drum & bass and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Munich. Often billed alongside Saint Popsy, Upzet and Anna Hoeber. Next up: Void Club, Berlin on Fri 18 Dec.
+MixB is a drum & bass and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Munich. Often billed alongside Saint Popsy, Upzet and Anna Hoeber. Next up: Insomnia, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Insomnia | Berlin |
 | Fri, 18 Dec 2026 | Void Club | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ MixB is a drum & bass and techno artist based in Germany, with 10 gigs on soundc
 
 Saint Popsy, Upzet, Anna Hoeber
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixb/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixb/)*

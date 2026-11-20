@@ -1,6 +1,6 @@
 # human plushie
 
-human plushie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Mondo, Baltimore on Fri, 20 Nov 2026.
+human plushie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Le Mondo, Baltimore on Fri, 20 Nov 2026.
 
 human plushie is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Baltimore, Boston, Nashville and New York City and 4 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: Le Mondo, Baltimore on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ human plushie is a techno and house artist based in United States of America, wi
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

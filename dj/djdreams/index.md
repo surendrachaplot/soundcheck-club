@@ -1,6 +1,6 @@
 # DJ Dreams
 
-DJ Dreams is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 3 Dec 2026.
+DJ Dreams is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 3 Dec 2026.
 
 DJ Dreams is a house and disco artist based in Germany, with 29 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside david bay, Hufnagel and Shimmy Robin. Next up: Golden Pudel Club, Hamburg on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ DJ Dreams is a house and disco artist based in Germany, with 29 gigs on soundche
 
 david bay, Hufnagel, Shimmy Robin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreams/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreams/)*

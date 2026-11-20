@@ -1,13 +1,14 @@
 # Marit
 
-Marit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ciao ciao Bar, Berlin on Sun, 13 Dec 2026.
+Marit is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 4 Dec 2026.
 
-Marit is a house and techno artist based in Germany, with 41 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Habibi Grooves, Jana Falcon and Lea Czychy. Next up: ciao ciao Bar, Berlin on Sun 13 Dec.
+Marit is a house and techno artist based in Germany, with 42 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Habibi Grooves, Jana Falcon and Lea Czychy. Next up: Bulbul Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Bulbul Berlin | Berlin |
 | Sun, 13 Dec 2026 | ciao ciao Bar | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Marit is a house and techno artist based in Germany, with 41 gigs on soundcheck 
 
 Habibi Grooves, Jana Falcon, Lea Czychy
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marit/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marit/)*

@@ -1,8 +1,8 @@
 # Cristi Cons
 
-Cristi Cons is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bar A Bar, London on Fri, 20 Nov 2026.
+Cristi Cons is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bar A Bar, London on Fri, 20 Nov 2026.
 
-Cristi Cons is a house and minimal artist based in Romania, with 124 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: Bar A Bar, London on Fri 20 Nov.
+Cristi Cons is a house and minimal artist based in Romania, with 126 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: Bar A Bar, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Cristi Cons is a house and minimal artist based in Romania, with 124 gigs on sou
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Bar A Bar | London |
 | Sat, 28 Nov 2026 | Club Guesthouse | Bucharest |
+| Sat, 12 Dec 2026 | Casual | Hong Kong |
+| Sun, 13 Dec 2026 | Casual | Hong Kong |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Cristi Cons is a house and minimal artist based in Romania, with 124 gigs on sou
 
 Vlad Caia, SIT Amphia, Sublee
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*

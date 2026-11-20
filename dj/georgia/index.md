@@ -1,6 +1,6 @@
 # Georgia
 
-Georgia is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
+Georgia is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
 
 Georgia is a drum & bass and dubstep artist based in Indonesia, with 146 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 47 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: NOWHERE, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Georgia is a drum & bass and dubstep artist based in Indonesia, with 146 gigs on
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*

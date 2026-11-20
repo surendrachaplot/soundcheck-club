@@ -1,13 +1,14 @@
 # Phreenetic
 
-Phreenetic is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
+Phreenetic is a Techno and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Department 184, Milan on Sat, 5 Dec 2026.
 
-Phreenetic is a techno and jazz artist based in Italy, with 7 gigs on soundcheck across Berlin and Florence. Often billed alongside Jacopo Forli, Soffice and Alberto Tolo. Next up: ÆDEN, Berlin on Fri 18 Dec.
+Phreenetic is a techno and jazz artist based in Italy, with 8 gigs on soundcheck across Berlin, Florence and Milan. Often billed alongside Jacopo Forli, Alberto Tolo and Soffice. Next up: Department 184, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Department 184 | Milan |
 | Fri, 18 Dec 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -21,6 +22,6 @@ Phreenetic is a techno and jazz artist based in Italy, with 7 gigs on soundcheck
 
 ## Shares bills with
 
-Jacopo Forli, Soffice, Alberto Tolo
+Jacopo Forli, Alberto Tolo, Soffice
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phreenetic/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phreenetic/)*

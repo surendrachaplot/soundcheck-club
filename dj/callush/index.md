@@ -1,8 +1,8 @@
 # CALLUSH
 
-CALLUSH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Music Station, Lisbon on Mon, 30 Nov 2026.
+CALLUSH is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Music Station, Lisbon on Mon, 30 Nov 2026.
 
-CALLUSH is a techno and trance artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 58 more. Often billed alongside Neon Graveyard, DYEN and Johannes Schuster. Next up: Music Station, Lisbon on Mon 30 Nov.
+CALLUSH is a techno and trance artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 59 more. Often billed alongside Neon Graveyard, DYEN and Johannes Schuster. Next up: Music Station, Lisbon on Mon 30 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CALLUSH is a techno and trance artist based in Germany, with 155 gigs on soundch
 | --- | --- | --- |
 | Mon, 30 Nov 2026 | Music Station | Lisbon |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
+| Sat, 13 Mar 2027 | Turbinenhalle | North-rhine-westphalia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CALLUSH is a techno and trance artist based in Germany, with 155 gigs on soundch
 
 Neon Graveyard, DYEN, Johannes Schuster
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*

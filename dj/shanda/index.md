@@ -1,17 +1,19 @@
 # Shanda
 
-Shanda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Shanda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
-Shanda is a techno and house artist based in China, with 96 gigs on soundcheck across Barcelona, Beijing, Berlin and Düsseldorf and 12 more. Often billed alongside AngeliKa, Taste of Blue and Kim She. Next up: Südpol, Hamburg on Fri 27 Nov.
+Shanda is a techno and house artist based in China, with 97 gigs on soundcheck across Barcelona, Beijing, Berlin and Düsseldorf and 12 more. Often billed alongside AngeliKa, Taste of Blue and Kim She. Next up: Südpol, Hamburg on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Südpol | Hamburg |
+| Fri, 11 Dec 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
+- Casual, Hong Kong · Wed, 18 Nov 2026
 - TBA - Secret Location , Hong Kong · Sat, 7 Nov 2026
 - Renate, Berlin · Sat, 24 Oct 2026
 - [119], Berlin · Fri, 23 Oct 2026
@@ -19,10 +21,9 @@ Shanda is a techno and house artist based in China, with 96 gigs on soundcheck a
 - Tresor / Globus, Berlin · Mon, 31 Aug 2026
 - Karmen Camina, Strasbourg · Sat, 29 Aug 2026
 - TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
-- WDM, Hannover · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 AngeliKa, Taste of Blue, Kim She
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanda/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanda/)*

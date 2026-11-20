@@ -1,6 +1,6 @@
 # Joel
 
-Joel is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Blue Room, Montreal on Sat, 21 Nov 2026.
+Joel is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Blue Room, Montreal on Sat, 21 Nov 2026.
 
 Joel is a techno and electro artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Birmingham, Bristol and Glasgow and 5 more. Often billed alongside Coco, Empro and Fest & Flotter. Next up: Blue Room, Montreal on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Joel is a techno and electro artist based in United Kingdom, with 13 gigs on sou
 
 Coco, Empro, Fest & Flotter
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joel/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joel/)*

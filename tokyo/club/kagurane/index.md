@@ -1,6 +1,6 @@
 # Kagurane
 
-Kagurane is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Revirth presents EARP" on Sat, 21 Nov 2026.
+Kagurane is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Revirth presents EARP" on Sat, 21 Nov 2026.
 
 Kagurane is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including BOW, Koichi Shimizu and Numb (JP). See dates, start times and who's playing. B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825.
 
@@ -14,4 +14,4 @@ Kagurane is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with li
 
 B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825, Tokyo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kagurane/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kagurane/)*

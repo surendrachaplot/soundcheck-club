@@ -1,6 +1,6 @@
-# FREITUM: XXX at Fitzroy
+# FREITUM:XXX at Fitzroy
 
-FREITUM: XXX at Fitzroy on Sat 6 Feb, Berlin. House and Deep House. See the line-up on soundcheck.
+FREITUM:XXX at Fitzroy on Sat 6 Feb, Berlin. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

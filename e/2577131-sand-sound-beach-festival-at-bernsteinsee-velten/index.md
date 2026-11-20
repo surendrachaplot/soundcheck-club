@@ -1,6 +1,6 @@
 # Sand & Sound Beach-Festival at Bernsteinsee Velten
 
-Sand & Sound Beach-Festival at Bernsteinsee Velten on Sat 26 Jun, Brandenburg. 17 artists: Christian Grade, DarK LiZZ, DJ Jordan and Felix Reichelt and 13 more. See the line-up on soundcheck.
+Sand & Sound Beach-Festival at Bernsteinsee Velten on Sat 26 Jun, Brandenburg. 18 artists: Christian Grade, DarK LiZZ, DJ Jordan and Ewelina Koll and 14 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Sand & Sound Beach-Festival at Bernsteinsee Velten on Sat 26 Jun, Brandenburg. 1
 - Christian Grade
 - DarK LiZZ
 - DJ Jordan
+- Ewelina Koll
 - Felix Reichelt
 - GHOST DE
 - Hardy Hard

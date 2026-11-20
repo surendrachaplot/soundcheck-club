@@ -1,8 +1,8 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Factory Basel" on Wed, 2 Dec 2026.
+Factory Town is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Factory Basel" on Wed, 2 Dec 2026.
 
-Factory Town is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including FLETCH, Paula Tape, Yulia Niko and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
+Factory Town is a music venue in Miami listed on soundcheck. 10 upcoming gigs, with line-ups including FLETCH, Paula Tape, Yulia Niko and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Factory Town is a music venue in Miami listed on soundcheck. 9 upcoming gigs, wi
 | Sun, 6 Dec 2026 | Factory Basel (Sunday) | Bastian Bux, Cam Stockman, ChaseWest, Coffintexts, DJ Holographic, DJ Minx, Eats Everything, FLETCH, Gordo, HAAi, Jay de Lys, Jesse Perez, KinAhau, LP Giobbi, Luna Mar, Marsolo, Mike Servito, Moorhaus, OMRI., Paco Osuna, RAJE, Ranger Trucco, Rooléh, TEED, Tommy Phillips, salute |
 | Thu, 31 Dec 2026 | GOOD FORTUNE PRESENTS Dom Dolla 5 HOUR SET WITH GOOD FRIENDS AT MIAMI'S Factory Town THIS NYE | Cole Knight, Dom Dolla, FCUKERS, SG Lewis |
 | Fri, 1 Jan 2027 | TAPE B |  |
+| Fri, 1 Jan 2027 | horsegiirL | ali rq, horsegiirL |
 | Sat, 2 Jan 2027 | Charlotte de Witte | Charlotte de Witte |
 
 ## Address
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

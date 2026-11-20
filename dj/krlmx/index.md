@@ -1,8 +1,8 @@
 # Krl Mx
 
-Krl Mx is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 20 Nov 2026.
+Krl Mx is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 20 Nov 2026.
 
-Krl Mx is a techno and trance artist based in France, with 144 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 48 more. Often billed alongside Cassie Raptor, Shlømo and CALLUSH. Next up: Smoke & Mirrors, Chicago on Fri 20 Nov.
+Krl Mx is a techno and trance artist based in France, with 145 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 48 more. Often billed alongside Cassie Raptor, Shlømo and CALLUSH. Next up: Smoke & Mirrors, Chicago on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Krl Mx is a techno and trance artist based in France, with 144 gigs on soundchec
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Smoke & Mirrors | Chicago |
 | Fri, 27 Nov 2026 | The Comfort Zone | Toronto |
+| Fri, 22 Jan 2027 | Warehouse | Nantes |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Krl Mx is a techno and trance artist based in France, with 144 gigs on soundchec
 
 Cassie Raptor, Shlømo, CALLUSH
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*

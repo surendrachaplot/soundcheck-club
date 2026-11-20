@@ -1,6 +1,6 @@
 # SL8R
 
-SL8R is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Phonox, London on Fri, 15 Jan 2027.
+SL8R is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Phonox, London on Fri, 15 Jan 2027.
 
 SL8R is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Birmingham, Boston, Brighton and Bristol and 11 more. Often billed alongside Bryan Gee, Rich Reason and Metrodome. Next up: Phonox, London on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ SL8R is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on
 
 Bryan Gee, Rich Reason, Metrodome
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*

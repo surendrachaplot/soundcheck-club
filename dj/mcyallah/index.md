@@ -1,6 +1,6 @@
 # MC Yallah
 
-MC Yallah is a Hip-Hop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bigcat, Osaka on Thu, 24 Dec 2026.
+MC Yallah is a Hip-Hop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bigcat, Osaka on Thu, 24 Dec 2026.
 
 MC Yallah is a hip-hop and experimental artist based in Kenya, with 48 gigs on soundcheck across Amsterdam, Athens, Berlin and Bordeaux and 24 more. Often billed alongside Debmaster, DJ Travella and Nsasi. Next up: Bigcat, Osaka on Thu 24 Dec.
 
@@ -26,4 +26,4 @@ MC Yallah is a hip-hop and experimental artist based in Kenya, with 48 gigs on s
 
 Debmaster, DJ Travella, Nsasi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcyallah/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcyallah/)*

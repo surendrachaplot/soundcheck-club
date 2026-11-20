@@ -1,14 +1,15 @@
 # CEM3340
 
-CEM3340 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Luma, Milan on Sat, 28 Nov 2026.
+CEM3340 is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Luma, Milan on Sat, 28 Nov 2026.
 
-CEM3340 is an electro and techno artist based in Italy, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 5 more. Often billed alongside Psycho Mind Transmission, ARMANDO and Acida Dominga. Next up: Luma, Milan on Sat 28 Nov.
+CEM3340 is an electro and techno artist based in Italy, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 6 more. Often billed alongside Psycho Mind Transmission, ARMANDO and Acida Dominga. Next up: Luma, Milan on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Luma | Milan |
+| Fri, 19 Feb 2027 | Sala de Armas | North |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CEM3340 is an electro and techno artist based in Italy, with 15 gigs on soundche
 
 Psycho Mind Transmission, ARMANDO, Acida Dominga
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*

@@ -1,8 +1,8 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 18 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "FJAAK & Hiroko Yamamura presented by Public Works" on Fri, 20 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "FJAAK & Hiroko Yamamura presented by Public Works" on Fri, 20 Nov 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 18 upcoming gigs, with line-ups including Alkemiss Erika, Cali Rose, Clancy Hickinbotham and Dangerous Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including Alkemiss Erika, Bryn Avery, Cali Rose and Chris Lum and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -10,9 +10,9 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 18 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | FJAAK & Hiroko Yamamura presented by Public Works | Clancy Hickinbotham, FJAAK, Hiroko Yamamura, Monoclick |
 | Fri, 20 Nov 2026 | Jonny Wild - Who Let The Zoo Out |  |
-| Sat, 21 Nov 2026 | DEATHPACT: From Darkness, Comes Light: Eclipsed presented by Public Works & DJ Dials |  |
+| Sat, 21 Nov 2026 | DEATHPACT: From Darkness, Comes Light: Eclipsed presented by Public Works & DJ Dials | DJ Dials, DJ Panderer |
 | Fri, 27 Nov 2026 | Skream presented by Goldenvoice | Skream |
-| Fri, 4 Dec 2026 | GUY J presented by Public Works, Safra, Konnekted, & SET | Guy J |
+| Fri, 4 Dec 2026 | GUY J (Open to Close) presented by Public Works, Safra, Konnekted, & SET | Bryn Avery, Guy J, Moheato, Torteline |
 | Sat, 5 Dec 2026 | Desert Dwellers presented by Public Works & Bicycle Day |  |
 | Sat, 5 Dec 2026 | Studio de Laune: Regularfantasy & Max Sprauer | Max Sprauer, Regularfantasy |
 | Fri, 11 Dec 2026 | CERTIFIED FREAK: JIGGLE ALL THE WAY FT. Kevin Aviance | Kevin Aviance, LBXX |
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 18 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

@@ -1,6 +1,6 @@
-# Pauza II Drift II presence at Hive Club
+# Pauza II DRIFT II presence at Hive Club
 
-Pauza II Drift II presence at Hive Club on Sat 19 Dec, Zurich. Techno and House. See the line-up on soundcheck.
+Pauza II DRIFT II presence at Hive Club on Sat 19 Dec, Zurich. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

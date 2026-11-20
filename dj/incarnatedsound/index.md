@@ -1,17 +1,18 @@
 # Incarnated Sound
 
-Incarnated Sound is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Koara, Tokyo on Tue, 10 Nov 2026.
+Incarnated Sound is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Koara, Tokyo on Tue, 8 Dec 2026.
 
-Incarnated Sound is a techno and house artist based in Japan, with 59 gigs on soundcheck across Tokyo. Often billed alongside FLEDtokyo, kubo_ken_1_low and Kajitsu. Next up: Koara, Tokyo on Tue 10 Nov.
+Incarnated Sound is a techno and house artist based in Japan, with 60 gigs on soundcheck across Tokyo. Often billed alongside FLEDtokyo, kubo_ken_1_low and Kajitsu. Next up: Koara, Tokyo on Tue 8 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Koara | Tokyo |
+| Tue, 8 Dec 2026 | Koara | Tokyo |
 
 ## Recently played
 
+- Koara, Tokyo · Tue, 10 Nov 2026
 - Koara, Tokyo · Tue, 13 Oct 2026
 - Koara, Tokyo · Tue, 8 Sept 2026
 - Koara, Tokyo · Tue, 14 Jul 2026
@@ -19,10 +20,9 @@ Incarnated Sound is a techno and house artist based in Japan, with 59 gigs on so
 - Music Cafe Bar One's, Tokyo · Sat, 14 Mar 2026
 - Koara, Tokyo · Tue, 10 Mar 2026
 - Ruby Room, Tokyo · Thu, 19 Feb 2026
-- Koara, Tokyo · Tue, 10 Feb 2026
 
 ## Shares bills with
 
 FLEDtokyo, kubo_ken_1_low, Kajitsu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/incarnatedsound/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/incarnatedsound/)*

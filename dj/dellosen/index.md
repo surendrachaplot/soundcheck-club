@@ -1,6 +1,6 @@
 # Dellosen
 
-Dellosen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
+Dellosen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
 
 Dellosen is a house and techno artist based in Germany, with 9 gigs on soundcheck across Hamburg. Often billed alongside DAVIDE, Schmidde and ced.rocks. Next up: Club Frau Holle, Hamburg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dellosen is a house and techno artist based in Germany, with 9 gigs on soundchec
 
 DAVIDE (2), Schmidde, ced.rocks
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dellosen/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dellosen/)*

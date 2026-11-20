@@ -1,6 +1,6 @@
 # 5 Years of Artificio at 50 | 50
 
-5 Years of Artificio at 50 | 50 on Sat 21 Nov, Medellin. 5 artists: Brenda., Passq, Rainmaker and Retrograde Youth and 1 more. Techno and Electronica. See the line-up on soundcheck.
+5 Years of Artificio at 50 | 50 on Sat 21 Nov, Medellin. 5 artists: Brenda (COL), Passq, Rainmaker and Retrograde Youth and 1 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@
 
 ## Line-up
 
-- Brenda.
+- Brenda (COL)
 - Passq
 - Rainmaker
 - Retrograde Youth

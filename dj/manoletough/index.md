@@ -1,8 +1,8 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at RASA, Singapore on Fri, 27 Nov 2026.
+Mano Le Tough is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at RASA, Singapore on Fri, 27 Nov 2026.
 
-Mano Le Tough is a house and techno artist based in Germany, with 178 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 59 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: RASA, Singapore on Fri 27 Nov.
+Mano Le Tough is a house and techno artist based in Germany, with 179 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 59 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: RASA, Singapore on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mano Le Tough is a house and techno artist based in Germany, with 178 gigs on so
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 18 Dec 2026 | 99 Scott Ave | New York City |
 | Fri, 1 Jan 2027 | 7 Palmer Parade, Cremorne 3121 | Melbourne |
+| Sat, 2 Jan 2027 | East End Studios - Mission Campus | Los Angeles |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Mano Le Tough is a house and techno artist based in Germany, with 178 gigs on so
 
 Âme, Jonathan Kaspar, Sossa
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

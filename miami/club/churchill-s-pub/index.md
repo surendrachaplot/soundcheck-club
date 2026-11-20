@@ -1,6 +1,6 @@
 # Churchill's Pub
 
-Churchill's Pub is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Miami Modular" on Sat, 21 Nov 2026.
+Churchill's Pub is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Miami Modular" on Sat, 21 Nov 2026.
 
 Churchill's Pub is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including Haze, Kira and Nosivel. See dates, start times and who's playing. 5501 NE 2nd Ave; Miami, FL 33127; United States.
 
@@ -14,4 +14,4 @@ Churchill's Pub is a music venue in Miami listed on soundcheck. 1 upcoming gig, 
 
 5501 NE 2nd Ave; Miami, FL 33127; United States, Miami
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/churchill-s-pub/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/churchill-s-pub/)*

@@ -1,6 +1,6 @@
 # Sacre
 
-Sacre is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Le Maquis Club, Hanoi on Fri, 20 Nov 2026.
+Sacre is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Le Maquis Club, Hanoi on Fri, 20 Nov 2026.
 
 Sacre is a house and acid artist based in Canada, with 55 gigs on soundcheck across Amsterdam, Bangkok, Byron Bay and Calgary and 6 more. Often billed alongside Simon Felix, Keimo and Shane.MOV. Next up: Le Maquis Club, Hanoi on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Sacre is a house and acid artist based in Canada, with 55 gigs on soundcheck acr
 
 Simon Felix, Keimo, Shane.MOV
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sacre/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sacre/)*

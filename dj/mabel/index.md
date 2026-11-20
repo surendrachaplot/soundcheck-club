@@ -1,6 +1,6 @@
 # Mabel
 
-Mabel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Miscellania, Melbourne on Sat, 5 Dec 2026.
+Mabel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Miscellania, Melbourne on Sat, 5 Dec 2026.
 
 Mabel is a techno and house artist based in Australia, with 123 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 23 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Miscellania, Melbourne on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Mabel is a techno and house artist based in Australia, with 123 gigs on soundche
 
 suki, Hannah D, Ricky Nord
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*

@@ -1,6 +1,6 @@
 # SUBVERTED with Anamorph at Salon des Amateurs
 
-SUBVERTED with Anamorph at Salon des Amateurs on Sat 21 Nov, Düsseldorf. 2 artists: Anamorph and Marc Matter. Techno and Experimental. See the line-up on soundcheck.
+SUBVERTED with Anamorph at Salon des Amateurs on Sat 21 Nov, Düsseldorf. 2 artists: ANAMORPH_ and Marc Matter. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ SUBVERTED with Anamorph at Salon des Amateurs on Sat 21 Nov, Düsseldorf. 2 arti
 
 ## Line-up
 
-- Anamorph
+- ANAMORPH_
 - Marc Matter
 
 *Source: [soundcheck](https://soundcheck.club/e/2580402-subverted-with-anamorph-at-salon-des-amateurs/)*

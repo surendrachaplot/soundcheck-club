@@ -1,15 +1,15 @@
 # Pacemaker
 
-Pacemaker is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Dome, Liverpool on Fri, 20 Nov 2026.
+Pacemaker is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Cause, London on Fri, 18 Dec 2026.
 
-Pacemaker is a jungle and techno artist based in United Kingdom, with 37 gigs on soundcheck across Cologne, Düsseldorf, Liverpool and London and 1 more. Often billed alongside e-kitty, Hardcore Babes and MYOHMY. Next up: The Dome, Liverpool on Fri 20 Nov.
+Pacemaker is a jungle and techno artist based in United Kingdom, with 37 gigs on soundcheck across Cologne, Düsseldorf, Liverpool and London and 1 more. Often billed alongside e-kitty, Hardcore Babes and MYOHMY. Next up: The Cause, London on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Dome | Liverpool |
 | Fri, 18 Dec 2026 | The Cause | London |
+| Fri, 14 May 2027 | The Dome | Liverpool |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Pacemaker is a jungle and techno artist based in United Kingdom, with 37 gigs on
 
 e-kitty, Hardcore Babes, MYOHMY
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacemaker/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacemaker/)*

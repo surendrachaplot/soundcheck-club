@@ -1,18 +1,20 @@
 # Manda Moor
 
-Manda Moor is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
+Manda Moor is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
 
-Manda Moor is a tech house and house artist based in France, with 190 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Sirus Hood, Jamie Jones and Loco Dice. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
+Manda Moor is a tech house and house artist based in France, with 192 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Sirus Hood, Jamie Jones and Loco Dice. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Romaero - Baneasa | Bucharest |
+| Sun, 22 Nov 2026 | Kristal Club | Bucharest |
 | Fri, 27 Nov 2026 | Bikini Club | Barcelona |
 | Mon, 28 Dec 2026 | IDRA | Manchester |
 | Thu, 31 Dec 2026 | Studio 338 | London |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
+| Sun, 2 Jan 2028 | 102 | D-sseldorf |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Manda Moor is a tech house and house artist based in France, with 190 gigs on so
 
 Sirus Hood, Jamie Jones, Loco Dice
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*

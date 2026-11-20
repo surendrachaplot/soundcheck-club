@@ -1,6 +1,6 @@
 # Luska
 
-Luska is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at feedbk, New York City on Sat, 21 Nov 2026.
+Luska is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at feedbk, New York City on Sat, 21 Nov 2026.
 
 Luska is a techno and electro artist based in Spain, with 69 gigs on soundcheck across Barcelona, Madrid, Malaga and New York City and 2 more. Often billed alongside Nurias, OXNA and Avo (ES). Next up: feedbk, New York City on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Luska is a techno and electro artist based in Spain, with 69 gigs on soundcheck 
 
 Nurias, OXNA, Avo (ES)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*

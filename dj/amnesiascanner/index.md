@@ -1,6 +1,6 @@
 # Amnesia Scanner
 
-Amnesia Scanner is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at OIL Club, Shenzhen on Fri, 27 Nov 2026.
+Amnesia Scanner is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OIL Club, Shenzhen on Fri, 27 Nov 2026.
 
 Amnesia Scanner is an experimental and techno artist based in Germany, with 34 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 15 more. Often billed alongside Freeka Tet, Crystallmess and COUCOU CHLOE. Next up: OIL Club, Shenzhen on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Amnesia Scanner is an experimental and techno artist based in Germany, with 34 g
 
 Freeka Tet, Crystallmess, COUCOU CHLOE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesiascanner/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesiascanner/)*

@@ -1,13 +1,14 @@
 # DANCING WITH STANLEY
 
-DANCING WITH STANLEY is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at renae, Manchester on Fri, 18 Dec 2026.
+DANCING WITH STANLEY is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The DBA, Manchester on Wed, 2 Dec 2026.
 
-DANCING WITH STANLEY is a club and experimental artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Kuriboh, sebastieN and Abena. Next up: renae, Manchester on Fri 18 Dec.
+DANCING WITH STANLEY is a club and experimental artist based in United Kingdom, with 9 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Kuriboh, sebastieN and Abena. Next up: The DBA, Manchester on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Dec 2026 | The DBA | Manchester |
 | Fri, 18 Dec 2026 | renae | Manchester |
 
 ## Recently played
@@ -24,4 +25,4 @@ DANCING WITH STANLEY is a club and experimental artist based in United Kingdom, 
 
 Kuriboh, sebastieN, Abena
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dancingwithstanley/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dancingwithstanley/)*

@@ -1,6 +1,6 @@
 # TJOS
 
-TJOS is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Meraki, Liverpool on Fri, 11 Dec 2026.
+TJOS is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Meraki, Liverpool on Fri, 11 Dec 2026.
 
 TJOS is a garage and house artist based in United Kingdom, with 7 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Amelia Leigh, Ashworth and DAIZ. Next up: Meraki, Liverpool on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ TJOS is a garage and house artist based in United Kingdom, with 7 gigs on soundc
 
 Amelia Leigh, Ashworth, DAIZ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjos/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjos/)*

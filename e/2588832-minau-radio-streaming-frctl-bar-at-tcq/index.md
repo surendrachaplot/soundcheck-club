@@ -1,0 +1,11 @@
+# Minau Radio Streaming (Frctl Bar) at TCQ
+
+Minau Radio Streaming (Frctl Bar) at TCQ on Fri 4 Dec, Buenos Aires. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 4 Dec 2026 |
+| Venue | TCQ |
+| City | Buenos Aires |
+
+*Source: [soundcheck](https://soundcheck.club/e/2588832-minau-radio-streaming-frctl-bar-at-tcq/)*

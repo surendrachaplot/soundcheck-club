@@ -1,6 +1,6 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Malkata Tekila, Sofia on Fri, 20 Nov 2026.
+Janeret is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Malkata Tekila, Sofia on Fri, 20 Nov 2026.
 
 Janeret is a house and minimal artist based in France, with 157 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 56 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: Malkata Tekila, Sofia on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Janeret is a house and minimal artist based in France, with 157 gigs on soundche
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

@@ -1,6 +1,6 @@
 # Michael Klotz
 
-Michael Klotz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
+Michael Klotz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
 
 Michael Klotz is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 2 more. Often billed alongside A.T.E.K, An Chen and Atype. Next up: TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Michael Klotz is a techno and trance artist based in Germany, with 7 gigs on sou
 
 A.T.E.K, An Chen, Atype
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelklotz/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelklotz/)*

@@ -1,6 +1,6 @@
 # AUKA
 
-AUKA is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+AUKA is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 AUKA is a house and reggaeton artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside DJ Programma, limi and Izzi. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AUKA is a house and reggaeton artist based in United Kingdom, with 27 gigs on so
 
 DJ Programma, limi, Izzi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auka/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auka/)*

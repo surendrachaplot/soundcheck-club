@@ -1,6 +1,6 @@
-# XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – LAST FREE TICKETS at The Cause
+# XXL DNB – 140, Bass, Grime, Breaks, Minimal, Rollers – LAST FREE TICKETS at The Cause
 
-XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – LAST FREE TICKETS at The Cause on Fri 27 Nov, London. Bass and Grime. See the line-up on soundcheck.
+XXL DNB – 140, Bass, Grime, Breaks, Minimal, Rollers – LAST FREE TICKETS at The Cause on Fri 27 Nov, London. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

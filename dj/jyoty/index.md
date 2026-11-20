@@ -1,14 +1,13 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TRAUMA, Rio-de-janeiro on Wed, 18 Nov 2026.
+Jyoty is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Jyoty is a house and techno artist based in Netherlands, with 151 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 49 more. Often billed alongside Overmono, Skrillex and Ben UFO. Next up: TRAUMA, Rio De Janeiro on Wed 18 Nov.
+Jyoty is a house and techno artist based in Netherlands, with 151 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 49 more. Often billed alongside Overmono, Skrillex and Ben UFO. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | TRAUMA | Rio-de-janeiro |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sat, 5 Dec 2026 | New Century Locker | Manchester |
@@ -20,6 +19,7 @@ Jyoty is a house and techno artist based in Netherlands, with 151 gigs on soundc
 
 ## Recently played
 
+- TRAUMA, Rio-de-janeiro · Wed, 18 Nov 2026
 - Village Canindé, Sao Paulo · Sat, 14 Nov 2026
 - Cave Club Rio, Rio de Janeiro · Fri, 6 Nov 2026
 - The Pitt Market, Edinburgh · Sat, 31 Oct 2026
@@ -27,10 +27,9 @@ Jyoty is a house and techno artist based in Netherlands, with 151 gigs on soundc
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Fri, 23 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
-- Centre Point, Dublin · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Overmono, Skrillex, Ben UFO
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

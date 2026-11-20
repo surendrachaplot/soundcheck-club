@@ -1,18 +1,18 @@
 # more eaze
 
-more eaze is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Nowadays, New York City on Thu, 19 Nov 2026.
+more eaze is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Baby's All Right, New York City on Mon, 23 Nov 2026.
 
-more eaze is an experimental and ambient artist, with 20 gigs on soundcheck across Berlin, Glasgow, London and Madrid and 5 more. Often billed alongside Carmen Villain, aya and Andriana-Yaroslava Saienko. Next up: Nowadays, New York City on Thu 19 Nov.
+more eaze is an experimental and ambient artist, with 20 gigs on soundcheck across Berlin, Glasgow, London and Madrid and 5 more. Often billed alongside Carmen Villain, aya and Andriana-Yaroslava Saienko. Next up: Baby's All Right, New York City on Mon 23 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Nowadays | New York City |
 | Mon, 23 Nov 2026 | Baby's All Right | New York City |
 
 ## Recently played
 
+- Nowadays, New York City · Thu, 19 Nov 2026
 - TivoliVredenburg, Utrecht · Thu, 5 Nov 2026
 - Centro Cultural Conde Duque, Madrid · Fri, 16 Oct 2026
 - The Glad Cafe, Glasgow · Tue, 1 Sept 2026
@@ -20,10 +20,9 @@ more eaze is an experimental and ambient artist, with 20 gigs on soundcheck acro
 - Sleepwalk, New York City · Sun, 15 Mar 2026
 - Fort Mifflin, Philadelphia · Fri, 19 Sept 2025
 - The Pottery Gym, Philadelphia · Sat, 19 Jul 2025
-- Knockdown Center, New York City · Sat, 21 Jun 2025
 
 ## Shares bills with
 
 Carmen Villain, aya, Andriana-Yaroslava Saienko
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*

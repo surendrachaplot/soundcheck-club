@@ -1,6 +1,6 @@
 # ANARCHYINTHECLUB - BERLIN at OHM
 
-ANARCHYINTHECLUB - BERLIN at OHM on Fri 20 Nov, Berlin. 4 artists: Cosimo Damiano, Hugo Sanchez, Key Clef and Ziúr. See the line-up on soundcheck.
+ANARCHYINTHECLUB - BERLIN at OHM on Fri 20 Nov, Berlin. 5 artists: Cosimo Damiano, Hugo Sanchez, Key Clef and Tina (DE) and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ANARCHYINTHECLUB - BERLIN at OHM on Fri 20 Nov, Berlin. 4 artists: Cosimo Damian
 - Cosimo Damiano
 - Hugo Sanchez
 - Key Clef
+- Tina (DE)
 - Ziúr
 
 *Source: [soundcheck](https://soundcheck.club/e/2586383-anarchyintheclub-berlin-at-ohm/)*

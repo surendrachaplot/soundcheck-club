@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "BLINK: AARON SEVILLA, P.O.U, 2CRIMES, DELTA VAULTS + MORE" on Fri, 20 Nov 2026.
+Ministry Of Sound is a music venue in London with 19 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "BLINK: AARON SEVILLA, P.O.U, 2CRIMES, DELTA VAULTS + MORE" on Fri, 20 Nov 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including AARON SEVILLA, Afrobeat, Amber Rose and Amy Cutter and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -12,7 +12,7 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 19 upcoming g
 | Sat, 21 Nov 2026 | Robbie Doherty, DJ Cosworth B2B Oldboy + more | Caleb Laurenson, Candidate, Chris Gialanze, DJ Cosworth, Danny P, Lily C-D, Niva, Oldboy, Rennie Peters, Robbie Doherty |
 | Tue, 24 Nov 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 | Fri, 27 Nov 2026 | Chris Watson | Chris Watson |
-| Fri, 27 Nov 2026 | HOME ROOTED |  |
+| Fri, 27 Nov 2026 | HOME ROOTED | Amy Os, BDJ, Chanel Carmichael, Joe NBO, Leon, SAM PHONIC, Siân Owen, imad:re |
 | Sat, 28 Nov 2026 | Chris Watson | Chris Watson |
 | Sat, 28 Nov 2026 | Armand Van Helden | Amber Rose, Amy Cutter, Armand Van Helden, DJ Freespirit, Jade Edwards, Jojo Deevoy, Junior Pappa, M Hunny |
 | Tue, 1 Dec 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 19 upcoming g
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

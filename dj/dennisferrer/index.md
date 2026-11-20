@@ -1,8 +1,8 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Dennis Ferrer is a house and tech house artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 35 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Dennis Ferrer is a house and tech house artist based in United States of America, with 149 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 36 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
+| Sun, 27 Dec 2026 | O2 Academy Leeds | Leeds |
 | Thu, 31 Dec 2026 | OVO Arena Wembley | London |
 | Sun, 14 Feb 2027 | Sub Club | Glasgow |
 
@@ -29,4 +30,4 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

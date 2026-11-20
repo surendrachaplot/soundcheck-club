@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Aus.udg x H.O pres. 'The Haps' ft 4ORTTUNE, Kenny Bounce, ECO$YSTEM + more" on Thu, 19 Nov 2026.
+Miscellania is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Misc x Tribqu pres. Galcher Lustwerk LIVE" on Fri, 20 Nov 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Aaliyah Salem, Aashofteh, b. caszh and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -8,7 +8,6 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Aus.udg x H.O pres. 'The Haps' ft 4ORTTUNE, Kenny Bounce, ECO$YSTEM + more |  |
 | Fri, 20 Nov 2026 | Misc x Tribqu pres. Galcher Lustwerk LIVE | D. Tyrone, DJ Earl Grey, Galcher Lustwerk, Kuzco, Zjoso |
 | Sat, 21 Nov 2026 | Spincycle presents Matthias (Superluminal) | Matthias (1), Venus Flytrap (2) |
 | Sun, 22 Nov 2026 | Menace presented by Lady Muck ft. CCL | Aashofteh, CCL, Galiba, Kédu, Miscmeg |
@@ -18,9 +17,10 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs
 | Fri, 4 Dec 2026 | A Colourful Storm: Mark N (Bloody Fist) + Moopie ft. KHA (Posseshot) + Th Duo Trio | CS + Kreme, Mark N, Moopie, Tarquin Manek |
 | Sat, 5 Dec 2026 | Concert A feat. Aaliyah Salem, Mabel, naycab | Aaliyah Salem, Mabel, Naycab |
 | Thu, 10 Dec 2026 | AETERNA pres. jackzebra (CN) - Zhuang Zhuang Tour |  |
+| Mon, 14 Dec 2026 | Evanora Unlimited, Marjorie -W.C. Sinclair - Melbourne | Evanora Unlimited |
 
 ## Address
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

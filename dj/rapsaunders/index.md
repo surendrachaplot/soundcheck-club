@@ -1,14 +1,15 @@
 # Rap Saunders
 
-Rap Saunders is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Timber Loft, London on Sun, 29 Nov 2026.
+Rap Saunders is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Timber Loft, London on Sun, 29 Nov 2026.
 
-Rap Saunders is a house and deep house artist based in United Kingdom, with 22 gigs on soundcheck across Edinburgh, London and Stockholm. Often billed alongside Dennis Christensen, Kojay and Will B. Next up: The Timber Loft, London on Sun 29 Nov.
+Rap Saunders is a house and deep house artist based in United Kingdom, with 23 gigs on soundcheck across Edinburgh, London and Stockholm. Often billed alongside Dennis Christensen, Kojay and Will B. Next up: The Timber Loft, London on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | The Timber Loft | London |
+| Sat, 16 Jan 2027 | radial | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rap Saunders is a house and deep house artist based in United Kingdom, with 22 g
 
 Dennis Christensen, Kojay, Will B
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*

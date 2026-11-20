@@ -1,6 +1,6 @@
 # U-BEND
 
-U-BEND is a Balearic and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Cafe 1001, London on Thu, 31 Dec 2026.
+U-BEND is a Balearic and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cafe 1001, London on Thu, 31 Dec 2026.
 
 U-BEND is a balearic and house artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, London, Manchester and Melbourne. Often billed alongside Charlie Bones, A For Alpha and A-Bril. Next up: Cafe 1001, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ U-BEND is a balearic and house artist based in United Kingdom, with 12 gigs on s
 
 Charlie Bones, A For Alpha, A-Bril
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-bend/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-bend/)*

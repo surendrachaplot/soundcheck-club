@@ -1,8 +1,8 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Silvie Loto" on Sat, 21 Nov 2026.
+Jolene Downtown Miami is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Silvie Loto" on Sat, 21 Nov 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including AMO, Benny Benassi, Daizy and Damian Lazarus and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with line-ups including Milo Ziro, AMO, Benny Benassi and Ben UFO and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming
 | Sat, 5 Dec 2026 | Basel: Francis Mercier | Francis Mercier |
 | Sun, 6 Dec 2026 | Damiam Lazarus, Danny Daze, | Damian Lazarus, Danny Daze |
 | Sat, 12 Dec 2026 | Satoshie Tomiie | AMO, Daizy, Satoshi Tomiie |
+| Sun, 20 Dec 2026 | Jimi Jules | Jimi Jules, Max Stern |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

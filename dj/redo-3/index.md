@@ -1,17 +1,18 @@
 # Redo (3)
 
-Redo (3) is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri, 13 Nov 2026.
+Redo (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
 
-Redo is a techno and downtempo artist based in Belgium, with 6 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Adi, Aroh and Celz. Next up: TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri 13 Nov.
+Redo is an electro and techno artist based in Belgium, with 7 gigs on soundcheck across Antwerp and Brussels. Often billed alongside DJ Rino, SVS and Adi. Next up: UMI, Brussels on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Pelgrimstraat 15, 2000 Antwerpen.  | Antwerp |
+| Fri, 1 Jan 2027 | UMI | Brussels |
 
 ## Recently played
 
+- TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp · Fri, 13 Nov 2026
 - Crevette Records, Brussels · Wed, 4 Nov 2026
 - Jalousy, Brussels · Sat, 27 Jun 2026
 - Jalousy, Brussels · Fri, 17 Apr 2026
@@ -20,6 +21,6 @@ Redo is a techno and downtempo artist based in Belgium, with 6 gigs on soundchec
 
 ## Shares bills with
 
-Adi, Aroh, Celz
+DJ Rino, SVS (1), Adi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redo-3/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redo-3/)*

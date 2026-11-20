@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Nuno dos Santos b2b Remy Unger" on Fri, 20 Nov 2026.
+Het Sieraad is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Nuno dos Santos b2b Remy Unger" on Fri, 20 Nov 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Alexander Koning, Alicia Hahn, Âme and Anthony Rother and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

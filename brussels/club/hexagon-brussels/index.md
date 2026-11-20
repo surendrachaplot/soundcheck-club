@@ -1,13 +1,14 @@
 # Hexagon Brussels
 
-Hexagon Brussels is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "Matinée with Nour Sokhon & Younes Zarhoni" on Wed, 25 Nov 2026.
+Hexagon Brussels is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Matinée with Nour Sokhon & Younes Zarhoni" on Wed, 25 Nov 2026.
 
-Hexagon Brussels is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Nour Sokhon. See dates, start times and who's playing.
+Hexagon Brussels is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Nour Sokhon. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Matinée with Nour Sokhon & Younes Zarhoni | Nour Sokhon |
+| Sat, 19 Dec 2026 | Shab-e Yalda |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/hexagon-brussels/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/hexagon-brussels/)*

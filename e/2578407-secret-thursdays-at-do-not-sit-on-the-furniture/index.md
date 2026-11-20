@@ -1,6 +1,6 @@
 # Secret Thursdays at Do Not Sit On The Furniture
 
-Secret Thursdays at Do Not Sit On The Furniture on Thu 26 Nov, Miami. 1 artist: Less. House and Deep House. See the line-up on soundcheck.
+Secret Thursdays at Do Not Sit On The Furniture on Thu 26 Nov, Miami. 1 artist: Patafunk. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Secret Thursdays at Do Not Sit On The Furniture on Thu 26 Nov, Miami. 1 artist: 
 
 ## Line-up
 
-- Less
+- Patafunk
 
 *Source: [soundcheck](https://soundcheck.club/e/2578407-secret-thursdays-at-do-not-sit-on-the-furniture/)*

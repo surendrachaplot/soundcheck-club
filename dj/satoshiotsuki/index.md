@@ -1,8 +1,8 @@
 # Satoshi Otsuki
 
-Satoshi Otsuki is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mipama ES SU Casa 宮古島, Okinawa on Sat, 28 Nov 2026.
+Satoshi Otsuki is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mipama ES SU Casa 宮古島, Okinawa on Sat, 28 Nov 2026.
 
-Satoshi Otsuki is a techno and house artist based in Japan, with 106 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and Okinawa and 3 more. Often billed alongside levolant, P-YAN and Celter. Next up: Mipama ES SU Casa 宮古島, Okinawa on Sat 28 Nov.
+Satoshi Otsuki is a techno and house artist based in Japan, with 107 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and Okinawa and 3 more. Often billed alongside levolant, P-YAN and Celter. Next up: Mipama ES SU Casa 宮古島, Okinawa on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Satoshi Otsuki is a techno and house artist based in Japan, with 106 gigs on sou
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Mipama ES SU Casa 宮古島 | Okinawa |
 | Sat, 5 Dec 2026 | 宀 Club | Hong Kong |
+| Sat, 12 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Satoshi Otsuki is a techno and house artist based in Japan, with 106 gigs on sou
 
 levolant, P-YAN, Celter
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiotsuki/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiotsuki/)*

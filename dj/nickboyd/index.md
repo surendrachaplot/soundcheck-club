@@ -1,6 +1,6 @@
 # Nick Boyd
 
-Nick Boyd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Showtime Lounge, Washington DC on Fri, 20 Nov 2026.
+Nick Boyd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Showtime Lounge, Washington DC on Fri, 20 Nov 2026.
 
 Nick Boyd is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Boston, New York City, Pittsburgh and Washington DC. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: Showtime Lounge, Washington DC on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nick Boyd is a house and techno artist based in United States of America, with 6
 
 MIRA MIRA, Devoye, EscaFlowne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*

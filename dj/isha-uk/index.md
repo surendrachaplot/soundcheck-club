@@ -1,13 +1,14 @@
 # ISHA
 
-ISHA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Palais, London on Sat, 6 Feb 2027.
+ISHA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NT's Loft, London on Fri, 20 Nov 2026.
 
-ISHA is a techno and house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Brussels, London and Poznan and 2 more. Often billed alongside Armând, Milad and Lola So. Next up: Palais, London on Sat 6 Feb.
+ISHA is a techno and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Brussels, London and Poznan and 2 more. Often billed alongside Armând, Milad and Lola So. Next up: NT's Loft, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | NT's Loft | London |
 | Sat, 6 Feb 2027 | Palais | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ ISHA is a techno and house artist based in United Kingdom, with 35 gigs on sound
 
 Armând, Milad, Lola So
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isha-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isha-uk/)*

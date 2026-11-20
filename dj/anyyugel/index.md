@@ -1,6 +1,6 @@
 # Any Yugël
 
-Any Yugël is a Minimal and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - LE TLM, Paris on Sat, 21 Nov 2026.
+Any Yugël is a Minimal and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - LE TLM, Paris on Sat, 21 Nov 2026.
 
 Any Yugël is a minimal and progressive house artist based in France, with 17 gigs on soundcheck across Montreal and Paris. Often billed alongside Gaspero, CO.KO and Gatien Delobel. Next up: TBA - LE TLM, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Any Yugël is a minimal and progressive house artist based in France, with 17 gi
 
 Gaspero, CO.KO, Gatien Delobel
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyyugel/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyyugel/)*

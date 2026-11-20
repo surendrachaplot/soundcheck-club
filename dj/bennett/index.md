@@ -1,8 +1,8 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - KARREE, Fahnenbergplatz 3, Freiburg on Sat, 5 Dec 2026.
+BENNETT is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - KARREE, Fahnenbergplatz 3, Freiburg on Sat, 5 Dec 2026.
 
-BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 9 more. Often billed alongside I Hate Models, WAN.1 and Charleen Herzig. Next up: TBA - KARREE, Fahnenbergplatz 3, Freiburg on Sat 5 Dec.
+BENNETT is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 10 more. Often billed alongside I Hate Models, WAN.1 and Charleen Herzig. Next up: TBA - KARREE, Fahnenbergplatz 3, Freiburg on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundche
 | Sat, 12 Dec 2026 | Elysia | Basel |
 | Sat, 12 Dec 2026 | Elysia | Basel |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
+| Sat, 23 Jan 2027 | Lokschuppen Berlin | Berlin |
+| Fri, 23 Jul 2027 | Open Beatz Festival | Bavaria |
 | Sat, 28 Aug 2027 | Sommerbad Neuköln | Berlin |
 
 ## Recently played
@@ -30,4 +32,4 @@ BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundche
 
 I Hate Models, WAN.1, Charleen Herzig
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*

@@ -1,6 +1,6 @@
 # oblique (DE)
 
-oblique (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 11 Dec 2026.
+oblique (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 11 Dec 2026.
 
 oblique (DE) is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Olli Obscure, Philena and Silberhauch. Next up: Tokonoma Club, Frankfurt on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ oblique (DE) is a house and techno artist based in Germany, with 14 gigs on soun
 
 Olli Obscure, Philena, Silberhauch
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oblique-de/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oblique-de/)*

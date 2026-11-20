@@ -1,6 +1,6 @@
 # Takt
 
-Takt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Takt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
 Takt is a house and techno artist based in Norway, with 21 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Kanto and 4 more. Often billed alongside G-HA, Olanskii and Deril. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Takt is a house and techno artist based in Norway, with 21 gigs on soundcheck ac
 
 G-HA, Olanskii, Deril
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takt/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takt/)*

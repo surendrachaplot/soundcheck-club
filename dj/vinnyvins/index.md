@@ -1,6 +1,6 @@
 # Vinny Vins
 
-Vinny Vins is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Ouseburn Garden, Newcastle on Sat, 21 Nov 2026.
+Vinny Vins is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ouseburn Garden, Newcastle on Sat, 21 Nov 2026.
 
 Vinny Vins is a disco and house artist based in United Kingdom, with 46 gigs on soundcheck across Newcastle. Often billed alongside Diz Jockey, Bill Brewster and LA!NE. Next up: Ouseburn Garden, Newcastle on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Vinny Vins is a disco and house artist based in United Kingdom, with 46 gigs on 
 
 Diz Jockey, Bill Brewster, LA!NE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvins/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvins/)*

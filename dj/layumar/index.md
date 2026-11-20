@@ -1,6 +1,6 @@
 # La Yumar
 
-La Yumar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
+La Yumar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
 
 La Yumar is a techno and house artist based in Thailand, with 25 gigs on soundcheck across Bangkok. Often billed alongside bunnyman.dogs, IYY (TH) and Psynus. Next up: Speakerbox, Bangkok on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ La Yumar is a techno and house artist based in Thailand, with 25 gigs on soundch
 
 bunnyman.dogs, IYY (TH), Psynus
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/layumar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/layumar/)*

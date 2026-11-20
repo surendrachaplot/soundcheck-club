@@ -1,15 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "ØUT: Saphire LeFleur, Kou2tatane, Avenir" on Wed, 18 Nov 2026.
+Rex Club is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Rex Club presents Hunee - Hunchin' all night long" on Fri, 20 Nov 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Abr., Avenir, Bakean and Camille Luciani and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Abr., Bakean, Camille Luciani and Camporeale (FR) and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | ØUT: Saphire LeFleur, Kou2tatane, Avenir | Avenir |
-| Thu, 19 Nov 2026 | Amd x Under Events Présentent: Hortense de Beauharnais ANL | Hortense de Beauharnais |
 | Fri, 20 Nov 2026 | Rex Club presents Hunee - Hunchin' all night long | Hunee |
 | Sat, 21 Nov 2026 | Rex Club presents: IAMBP all night long | IAMBP |
 | Wed, 25 Nov 2026 | Vice City presents: Myman, NTBR, Placiid | NTBR, Placiid |
@@ -18,9 +16,11 @@ Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with 
 | Wed, 2 Dec 2026 | Baccvs - Rite IV: The Pulse - Camporeale, Tomoo, Droms, Camille Luciani, Bakean | Bakean, Camille Luciani, Camporeale (FR) |
 | Fri, 4 Dec 2026 | Rex Club presents: DJ MARIA. Identified Patient, Nesa Azadikhah | DJ MARIA., Identified Patient, Nesa Azadikhah |
 | Sat, 5 Dec 2026 | Reflect presents: Chippy Nonstop, Saligo, Sorun b2b V.I.E | Chippy Nonstop, Saligo, Sorun |
+| Wed, 9 Dec 2026 | Underbass & Apero Tech: Kyzwall, Dj ratz b2b See Rose | KLÖSS |
+| Thu, 10 Dec 2026 | LTQB invite: ABR. (Live), Kacy, Cheche | Abr., Kacy |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

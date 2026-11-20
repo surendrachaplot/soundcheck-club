@@ -1,6 +1,6 @@
 # Kangding Ray / MIND OFF at VENT
 
-Kangding Ray / MIND OFF at VENT on Fri 11 Dec, Tokyo. 2 artists: Dani Savant and Kangding Ray. Techno. See the line-up on soundcheck.
+Kangding Ray / MIND OFF at VENT on Fri 11 Dec, Tokyo. 3 artists: Dani Savant, Kangding Ray and YouForgot. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Kangding Ray / MIND OFF at VENT on Fri 11 Dec, Tokyo. 2 artists: Dani Savant and
 
 - Dani Savant
 - Kangding Ray
+- YouForgot
 
 *Source: [soundcheck](https://soundcheck.club/e/2578882-kangding-ray-mind-off-at-vent/)*

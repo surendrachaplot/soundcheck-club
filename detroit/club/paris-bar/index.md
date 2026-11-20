@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Pretty Island Record Release + SIREN Dance Party" on Fri, 27 Nov 2026.
+Paris Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Pretty Island Record Release + SIREN Dance Party" on Fri, 27 Nov 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Auntie Chanel, Charles Trees, DJ Don Q and DJ Skeez and 2 more. See dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -15,4 +15,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, wit
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

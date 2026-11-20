@@ -1,6 +1,6 @@
 # Soul Clap
 
-Soul Clap is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Phoenix Landing, Boston on Wed, 25 Nov 2026.
+Soul Clap is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Phoenix Landing, Boston on Wed, 25 Nov 2026.
 
 Soul Clap is a house and disco artist based in United States of America, with 173 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside DJ Minx, Stacey Pullen and FSQ. Next up: Phoenix Landing, Boston on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Soul Clap is a house and disco artist based in United States of America, with 17
 
 DJ Minx, Stacey Pullen, FSQ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*

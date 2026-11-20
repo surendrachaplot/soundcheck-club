@@ -1,6 +1,6 @@
 # Disco Zwei
 
-Disco Zwei is a music venue in Mannheim with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "kleinkram Groove Edition" on Fri, 20 Nov 2026.
+Disco Zwei is a music venue in Mannheim with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "kleinkram Groove Edition" on Fri, 20 Nov 2026.
 
 Disco Zwei is a music venue in Mannheim listed on soundcheck. 5 upcoming gigs, with line-ups including Arok, Baby B (DE), Lizzle and Main Phase and 2 more. See dates, start times and who's playing. T6, 14; 68161 Mannheim; Germany.
 
@@ -18,4 +18,4 @@ Disco Zwei is a music venue in Mannheim listed on soundcheck. 5 upcoming gigs, w
 
 T6, 14; 68161 Mannheim; Germany, Mannheim
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*

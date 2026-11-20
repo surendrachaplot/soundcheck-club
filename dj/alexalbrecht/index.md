@@ -1,6 +1,6 @@
 # Alex Albrecht
 
-Alex Albrecht is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Alex Albrecht is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Alex Albrecht is an ambient and techno artist based in Australia, with 41 gigs on soundcheck across Berlin, Brussels, Budapest and Chengdu and 12 more. Often billed alongside Andy Hart, Pjenné and CHIDA. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -13,6 +13,7 @@ Alex Albrecht is an ambient and techno artist based in Australia, with 41 gigs o
 
 ## Recently played
 
+- Tender, Melbourne · Wed, 18 Nov 2026
 - Angel Music Bar, Melbourne · Sat, 31 Oct 2026
 - The Night Cat, Melbourne · Fri, 14 Aug 2026
 - Coil, Melbourne · Fri, 14 Aug 2026
@@ -20,10 +21,9 @@ Alex Albrecht is an ambient and techno artist based in Australia, with 41 gigs o
 - Tresor / Globus, Berlin · Sat, 11 Jul 2026
 - Pisco Bar, Kuala Lumpur · Sat, 27 Jun 2026
 - Solace, Melbourne · Sat, 16 May 2026
-- Atdge Seoul, Seoul · Fri, 1 May 2026
 
 ## Shares bills with
 
 Andy Hart, Pjenné, CHIDA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*

@@ -1,14 +1,15 @@
 # PUSMUS
 
-PUSMUS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
+PUSMUS is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
 
-PUSMUS is a techno and acid artist based in Croatia, with 43 gigs on soundcheck across Barcelona, Berlin, Budapest and Krakow and 2 more. Often billed alongside Radios, Teychee and Rikros. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
+PUSMUS is a techno and acid artist based in Croatia, with 44 gigs on soundcheck across Barcelona, Berlin, Budapest and Krakow and 2 more. Often billed alongside Radios, Teychee and Rikros. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Peti Kupe | Zagreb |
+| Sat, 9 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ PUSMUS is a techno and acid artist based in Croatia, with 43 gigs on soundcheck 
 
 Radios, Teychee, Rikros
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*

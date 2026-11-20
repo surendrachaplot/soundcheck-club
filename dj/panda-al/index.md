@@ -1,14 +1,14 @@
 # PANDA (AL)
 
-PANDA (AL) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Underground Agimi, Tirana on Tue, 10 Nov 2026.
+PANDA (AL) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 20 Nov 2026.
 
-PANDA (AL) is a house and trance artist based in Albania, with 18 gigs on soundcheck across Tirana. Often billed alongside Bunny The Bug, On.play and leo(AL). Next up: Underground Agimi, Tirana on Tue 10 Nov.
+PANDA (AL) is a house and trance artist based in Albania, with 19 gigs on soundcheck across Tirana. Often billed alongside Bunny The Bug, On.play and leo(AL). Next up: Central Sector Tirana, Tirana on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Underground Agimi | Tirana |
+| Fri, 20 Nov 2026 | Central Sector Tirana | Tirana |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ PANDA (AL) is a house and trance artist based in Albania, with 18 gigs on soundc
 
 Bunny The Bug, On.play, leo(AL)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panda-al/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panda-al/)*

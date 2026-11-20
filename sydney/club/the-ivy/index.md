@@ -1,8 +1,8 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Max Dean B2B Luke Dean (UK) - Sydney" on Sat, 21 Nov 2026.
+The Ivy is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Max Dean B2B Luke Dean (UK) - Sydney" on Sat, 21 Nov 2026.
 
-The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including Anetha, Bari, Benwal and Casual P and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
+The Ivy is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including Anetha, Bari, Benwal and Casual P and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
@@ -15,10 +15,11 @@ The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with l
 | Sun, 29 Nov 2026 | Lost Sundays — November 29 feat. Morgan Seatree, Milion + NewTone | Milion, Morgan Seatree, NewTone |
 | Sat, 12 Dec 2026 | Defected Sydney 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
 | Sun, 3 Jan 2027 | Lost Sundays Block Party — January 3 feat. Ewan McVicar, Faster Horses, Riordan, Anetha  | Anetha, Bari, Benwal, Casual P, DART, Ewan McVicar, Faster Horses, Flava D, Helena Lauwaert, Kailyn Crabbe, PARTIGIRL, Riordan, Saint Ludo, Scruz, Soul Mass Transit System, Supergloss, TIISHA, Tokyo Sexwale, Willo, Yemisul |
+| Sat, 16 Jan 2027 | One Hit & Gustavo Pres. Tobiahs |  |
 | Sat, 13 Feb 2027 | 30 Years of Chicane, Australian National Tour - Sydney | Chicane |
 
 ## Address
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

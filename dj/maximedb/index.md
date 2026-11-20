@@ -1,8 +1,8 @@
 # Maxime dB
 
-Maxime dB is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at M.N.Roy, Mexico City on Fri, 20 Nov 2026.
+Maxime dB is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at M.N.Roy, Mexico City on Fri, 20 Nov 2026.
 
-Maxime dB is a house and techno artist, with 127 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: M.N.Roy, Mexico City on Fri 20 Nov.
+Maxime dB is a house and techno artist, with 128 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: M.N.Roy, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Maxime dB is a house and techno artist, with 127 gigs on soundcheck across Amste
 | Thu, 3 Dec 2026 | Lion's Den | Miami |
 | Fri, 4 Dec 2026 | Flash | Washington DC |
 | Sat, 5 Dec 2026 | Signal | New York City |
+| Fri, 18 Dec 2026 | StereoBar | Montreal |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
@@ -29,4 +30,4 @@ Maxime dB is a house and techno artist, with 127 gigs on soundcheck across Amste
 
 Aline Umber, Aline Brooklyn, Krol
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*

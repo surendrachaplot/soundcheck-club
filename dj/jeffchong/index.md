@@ -1,6 +1,6 @@
 # Jeff Chong
 
-Jeff Chong is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 20 Nov 2026.
+Jeff Chong is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 20 Nov 2026.
 
 Jeff Chong is a techno and house artist based in China, with 80 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 3 more. Often billed alongside CicE, GaoQiao and Yang Bing. Next up: Reactor Shanghai, Shanghai on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jeff Chong is a techno and house artist based in China, with 80 gigs on soundche
 
 CicE, GaoQiao, Yang Bing
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffchong/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffchong/)*

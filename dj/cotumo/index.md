@@ -1,14 +1,15 @@
 # Cotumo
 
-Cotumo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Zur Klappe, Berlin on Wed, 16 Dec 2026.
+Cotumo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Zur Klappe, Berlin on Wed, 16 Dec 2026.
 
-Cotumo is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg, Leipzig and Stuttgart. Often billed alongside Slurm McKenzie, Annina and BUTTCHIN. Next up: Zur Klappe, Berlin on Wed 16 Dec.
+Cotumo is a house and techno artist based in Germany, with 45 gigs on soundcheck across Berlin, Hamburg, Leipzig and Stuttgart. Often billed alongside Slurm McKenzie, Annina and BUTTCHIN. Next up: Zur Klappe, Berlin on Wed 16 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Dec 2026 | Zur Klappe | Berlin |
+| Thu, 17 Dec 2026 | Zur Klappe | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cotumo is a techno and house artist based in Germany, with 44 gigs on soundcheck
 
 Slurm McKenzie, Annina, BUTTCHIN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cotumo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cotumo/)*

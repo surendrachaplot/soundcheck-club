@@ -1,6 +1,6 @@
 # Omakasé at The Cross
 
-Omakasé at The Cross on Fri 4 Dec, London. 1 artist: Kalani. Deep House and Disco. See the line-up on soundcheck.
+Omakasé at The Cross on Fri 4 Dec, London. 1 artist: Girls of the Internet. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Omakasé at The Cross on Fri 4 Dec, London. 1 artist: Kalani. Deep House and Dis
 
 ## Line-up
 
-- Kalani
+- Girls of the Internet
 
 *Source: [soundcheck](https://soundcheck.club/e/2567482-omakas-at-the-cross/)*

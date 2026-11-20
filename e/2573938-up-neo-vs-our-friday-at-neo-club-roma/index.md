@@ -1,6 +1,6 @@
 # UP NEO vs OUR FRIDAY at NEO CLUB ROMA
 
-UP NEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 27 Nov, Rome. 3 artists: Flavio Rago, Marco Rea and Steeve Mask. House and Club. See the line-up on soundcheck.
+UP NEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 27 Nov, Rome. 4 artists: Cristian Scaglione, Flavio Rago, Marco Rea and Steeve Mask. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ UP NEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 27 Nov, Rome. 3 artists: Flavio Rag
 
 ## Line-up
 
+- Cristian Scaglione
 - Flavio Rago
 - Marco Rea
 - Steeve Mask

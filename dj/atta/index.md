@@ -1,8 +1,8 @@
 # ATTA
 
-ATTA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+ATTA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
-ATTA is a house and techno artist based in Japan, with 12 gigs on soundcheck across Berlin, Hamburg, Leeds and Milan and 1 more. Often billed alongside Jeremy Reinhard, Jokka and AAMIROO. Next up: Renate, Berlin on Thu 31 Dec.
+ATTA is a house and techno artist based in Japan, with 12 gigs on soundcheck across Berlin, Hamburg, Leeds and Milan and 1 more. Often billed alongside Jeremy Reinhard, Jokka and Leon Licht. Next up: Renate, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ ATTA is a house and techno artist based in Japan, with 12 gigs on soundcheck acr
 
 ## Shares bills with
 
-Jeremy Reinhard, Jokka, AAMIROO
+Jeremy Reinhard, Jokka, Leon Licht
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atta/)*

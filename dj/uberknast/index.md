@@ -1,6 +1,6 @@
 # UBER KNAST
 
-UBER KNAST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at MODULE, Copenhagen on Fri, 1 Jan 2027.
+UBER KNAST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at MODULE, Copenhagen on Fri, 1 Jan 2027.
 
 UBER KNAST is a techno and trance artist based in Denmark, with 23 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside Minimy, Kardinal Bertram and sore point. Next up: MODULE, Copenhagen on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ UBER KNAST is a techno and trance artist based in Denmark, with 23 gigs on sound
 
 Minimy, Kardinal Bertram, sore point
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberknast/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberknast/)*

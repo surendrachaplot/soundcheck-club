@@ -1,14 +1,15 @@
 # Paper-Cuts
 
-Paper-Cuts is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Angel Music Bar, Melbourne on Sun, 29 Nov 2026.
+Paper-Cuts is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Angel Music Bar, Melbourne on Sun, 29 Nov 2026.
 
-Paper-Cuts is a techno and electronica artist based in Australia, with 43 gigs on soundcheck across Berlin, Canberra, Copenhagen and Helsinki and 3 more. Often billed alongside Mike Midnight, Miscmeg and Venus Flytrap. Next up: Angel Music Bar, Melbourne on Sun 29 Nov.
+Paper-Cuts is a techno and electronica artist based in Australia, with 44 gigs on soundcheck across Berlin, Canberra, Copenhagen and Helsinki and 3 more. Often billed alongside Mike Midnight, Miscmeg and Venus Flytrap. Next up: Angel Music Bar, Melbourne on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Angel Music Bar | Melbourne |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Paper-Cuts is a techno and electronica artist based in Australia, with 43 gigs o
 
 Mike Midnight, Miscmeg, Venus Flytrap (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paper-cuts/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paper-cuts/)*

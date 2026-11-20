@@ -1,19 +1,19 @@
 # Nesta
 
-Nesta is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Gallery, London on Thu, 19 Nov 2026.
+Nesta is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Zanzibar - Various Venues, Tanzania on Thu, 14 Jan 2027.
 
-Nesta is a house and deep house artist based in Lebanon, with 39 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside DJ Senc, Hugo Martinez and Andrea Fiorito. Next up: Gallery, London on Thu 19 Nov.
+Nesta is a house and deep house artist based in Lebanon, with 39 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside DJ Senc, Hugo Martinez and Andrea Fiorito. Next up: Zanzibar - Various Venues, Tanzania on Thu 14 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Gallery | London |
 | Thu, 14 Jan 2027 | Zanzibar - Various Venues | Tanzania |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played
 
+- Gallery, London · Thu, 19 Nov 2026
 - FVTVR, Paris · Fri, 6 Nov 2026
 - Fünk, Mexico City · Fri, 23 Oct 2026
 - Esbirra Ibiza, Ibiza · Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Nesta is a house and deep house artist based in Lebanon, with 39 gigs on soundch
 - Casino La Foresta, Barcelona · Sat, 4 Jul 2026
 - fabric, London · Sat, 27 Jun 2026
 - LA-YAM Rooftop, London · Sat, 27 Jun 2026
-- Rumore Nightclub Capri, Naples · Thu, 25 Jun 2026
 
 ## Shares bills with
 
 DJ Senc, Hugo Martinez, Andrea Fiorito
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*

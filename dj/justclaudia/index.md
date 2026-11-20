@@ -1,6 +1,6 @@
 # Just Claudia
 
-Just Claudia is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Caixaforum, Barcelona on Fri, 27 Nov 2026.
+Just Claudia is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Caixaforum, Barcelona on Fri, 27 Nov 2026.
 
 Just Claudia is a club and bass artist based in Spain, with 56 gigs on soundcheck across Barcelona, Berlin, Lisbon and Liverpool and 5 more. Often billed alongside EYRA, phil in a maze and Lanav. Next up: Caixaforum, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Just Claudia is a club and bass artist based in Spain, with 56 gigs on soundchec
 
 EYRA, phil in a maze, Lanav
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justclaudia/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justclaudia/)*

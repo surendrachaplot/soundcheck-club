@@ -1,6 +1,6 @@
 # Tala Berg
 
-Tala Berg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Romantica, Stuttgart on Fri, 4 Dec 2026.
+Tala Berg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Romantica, Stuttgart on Fri, 4 Dec 2026.
 
 Tala Berg is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside SILSAN, Wanda Wild and AGILY. Next up: Romantica, Stuttgart on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tala Berg is a techno and house artist based in Germany, with 9 gigs on soundche
 
 SILSAN, Wanda Wild, AGILY
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*

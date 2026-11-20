@@ -1,6 +1,6 @@
 # Rosie Ama
 
-Rosie Ama is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at NT's Loft, London on Sat, 21 Nov 2026.
+Rosie Ama is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NT's Loft, London on Sat, 21 Nov 2026.
 
 Rosie Ama is a house and techno artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Matt Cowell, Harry James and Ally Tropical. Next up: NT's Loft, London on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Rosie Ama is a house and techno artist based in United Kingdom, with 39 gigs on 
 
 Matt Cowell, Harry James, Ally Tropical
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*

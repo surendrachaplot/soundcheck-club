@@ -1,6 +1,6 @@
 # ROOTED at Toekomstmuziek
 
-ROOTED at Toekomstmuziek on Fri 4 Dec, Amsterdam. 4 artists: Christoph Cham, ilse dorine, LGNA and VITTAO. Techno and House. See the line-up on soundcheck.
+ROOTED at Toekomstmuziek on Fri 4 Dec, Amsterdam. 5 artists: Christoph Cham, ilse dorine, LGNA and Soof and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ROOTED at Toekomstmuziek on Fri 4 Dec, Amsterdam. 4 artists: Christoph Cham, ils
 - Christoph Cham
 - ilse dorine
 - LGNA
+- Soof
 - VITTAO
 
 *Source: [soundcheck](https://soundcheck.club/e/2571351-rooted-at-toekomstmuziek/)*

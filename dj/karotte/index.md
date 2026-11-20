@@ -1,6 +1,6 @@
 # Karotte
 
-Karotte is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Leib & Seele, Frankfurt on Sat, 28 Nov 2026.
+Karotte is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Leib & Seele, Frankfurt on Sat, 28 Nov 2026.
 
 Karotte is a techno and house artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Gregor Tresher, Lilly Palmer and Anja Schneider. Next up: Leib & Seele, Frankfurt on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Karotte is a techno and house artist based in Germany, with 82 gigs on soundchec
 
 Gregor Tresher, Lilly Palmer, Anja Schneider
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*

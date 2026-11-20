@@ -1,8 +1,8 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 21 Nov 2026.
+Mari.te is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 21 Nov 2026.
 
-Mari.te is a house and techno artist based in Venezuela, with 175 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 46 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 21 Nov.
+Mari.te is a house and techno artist based in Venezuela, with 177 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 46 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Mari.te is a house and techno artist based in Venezuela, with 175 gigs on soundc
 | Sat, 21 Nov 2026 | Clutch, Warehouse Bangkok | Bangkok |
 | Fri, 27 Nov 2026 | Sala Villanos | Madrid |
 | Sat, 28 Nov 2026 | Seaseaclub Barcelona | Barcelona |
+| Sat, 19 Dec 2026 | La Rotonde Stalingrad | Paris |
+| Sat, 26 Dec 2026 | LAUT | Barcelona |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -29,4 +31,4 @@ Mari.te is a house and techno artist based in Venezuela, with 175 gigs on soundc
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

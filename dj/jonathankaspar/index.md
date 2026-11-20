@@ -1,6 +1,6 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Hidden, Manchester on Sat, 21 Nov 2026.
+Jonathan Kaspar is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hidden, Manchester on Sat, 21 Nov 2026.
 
 Jonathan Kaspar is a house and techno artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 35 more. Often billed alongside Mira, Chris Schwarzwälder and Kollektiv Turmstrasse. Next up: Hidden, Manchester on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Jonathan Kaspar is a house and techno artist based in Germany, with 217 gigs on 
 
 Mira, Chris Schwarzwälder, Kollektiv Turmstrasse
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

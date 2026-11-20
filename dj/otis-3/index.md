@@ -1,6 +1,6 @@
 # OTIS (3)
 
-OTIS (3) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 4 Dec 2026.
+OTIS (3) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 4 Dec 2026.
 
 OTIS is a house and electro artist based in Italy, with 39 gigs on soundcheck across Barcelona, Beijing, Berlin and Budapest and 12 more. Often billed alongside Paul Lution, Intheismah and Alex Dima. Next up: Les Enfants Brillants, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ OTIS is a house and electro artist based in Italy, with 39 gigs on soundcheck ac
 
 Paul Lution, Intheismah, Alex Dima
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*

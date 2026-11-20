@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club 415, Brazil on Sat, 21 Nov 2026.
+Innellea is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club 415, Brazil on Sat, 21 Nov 2026.
 
 Innellea is a techno and house artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside Colyn, Mind Against and Adriatique. Next up: Club 415, Brazil on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Innellea is a techno and house artist based in Germany, with 161 gigs on soundch
 
 Colyn, Mind Against, Adriatique
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

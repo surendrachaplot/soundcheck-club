@@ -1,6 +1,6 @@
-# Deep Blue at Nué Seoul
+# DEEP BLUE at Nué Seoul
 
-Deep Blue at Nué Seoul on Fri 20 Nov, Seoul. 4 artists: Hansy, JINHOS, Rob Goodspeed and Sunday Lee. Techno and House. See the line-up on soundcheck.
+DEEP BLUE at Nué Seoul on Fri 20 Nov, Seoul. 4 artists: Hansy, JINHOS, Rob Goodspeed and Sunday Lee. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

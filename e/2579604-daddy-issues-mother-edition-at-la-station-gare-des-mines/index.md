@@ -1,10 +1,10 @@
 # DADDY ISSUES: MOTHER EDITION at La Station - Gare des Mines
 
-DADDY ISSUES: MOTHER EDITION at La Station - Gare des Mines on Sat 28 Nov, Paris. 8 artists: DJ Music, encore une autre, fetva and Golce and 4 more. See the line-up on soundcheck.
+DADDY ISSUES: MOTHER EDITION at La Station - Gare des Mines on Sat 21 Nov, Paris. 8 artists: DJ Music, encore une autre, fetva and Golce and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 28 Nov 2026 |
+| Date | Sat, 21 Nov 2026 |
 | Venue | La Station - Gare des Mines |
 | City | Paris |
 

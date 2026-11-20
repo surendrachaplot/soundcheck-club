@@ -1,6 +1,6 @@
 # DJ Die
 
-DJ Die is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
+DJ Die is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
 
 DJ Die is a jungle and drum & bass artist based in United Kingdom, with 36 gigs on soundcheck across Bristol, London, Manchester and Tokyo. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: KOKO, London on Sat 5 Dec.
 
@@ -9,7 +9,6 @@ DJ Die is a jungle and drum & bass artist based in United Kingdom, with 36 gigs 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | KOKO | London |
-| Wed, 16 Dec 2026 | Dahlia Stereo | Manchester |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ DJ Die is a jungle and drum & bass artist based in United Kingdom, with 36 gigs 
 
 Bryan Gee, Krust, Chimpo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*

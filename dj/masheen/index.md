@@ -1,6 +1,6 @@
 # masheen
 
-masheen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
+masheen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
 
 masheen is a techno and bass artist based in Australia, with 12 gigs on soundcheck across Kuala Lumpur and Sydney. Often billed alongside Kassita, LEGGY and TR4XIE. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ masheen is a techno and bass artist based in Australia, with 12 gigs on soundche
 
 Kassita, LEGGY, TR4XIE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masheen/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masheen/)*

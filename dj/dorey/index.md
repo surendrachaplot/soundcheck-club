@@ -1,6 +1,6 @@
 # DOREY
 
-DOREY is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 27 Nov 2026.
+DOREY is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 27 Nov 2026.
 
 DOREY is a house and trance artist based in United Kingdom, with 16 gigs on soundcheck across Aberdeen, Amsterdam, Brisbane and Dundee and 4 more. Often billed alongside Céleste, Vivace (UK) and AKA DISPLAY. Next up: The Berkeley Suite, Glasgow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DOREY is a house and trance artist based in United Kingdom, with 16 gigs on soun
 
 Céleste, Vivace (UK), AKA DISPLAY
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*

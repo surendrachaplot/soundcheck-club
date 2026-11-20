@@ -1,6 +1,6 @@
 # Lucci (CA)
 
-Lucci (CA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
+Lucci (CA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Lucci (CA) is a techno and house artist, with 21 gigs on soundcheck across San Francisco/Oakland, Tokyo and Vancouver. Often billed alongside AWood, Bronsön and Lord Loubbit. Next up: 1015 Folsom, San Francisco/Oakland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lucci (CA) is a techno and house artist, with 21 gigs on soundcheck across San F
 
 AWood, Bronsön, Lord Loubbit
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucci/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucci/)*

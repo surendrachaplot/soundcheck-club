@@ -1,13 +1,14 @@
 # nillonollin
 
-nillonollin is a Drum & Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+nillonollin is a Drum & Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Drinkhall Venue, Berlin on Fri, 20 Nov 2026.
 
-nillonollin is a drum & bass and electro artist based in Germany, with 13 gigs on soundcheck across Berlin and Munich. Often billed alongside IHOPEIEXIST, icanseesounds and ENOME. Next up: Void Club, Berlin on Fri 27 Nov.
+nillonollin is a drum & bass and electro artist based in Germany, with 14 gigs on soundcheck across Berlin and Munich. Often billed alongside IHOPEIEXIST, icanseesounds and ENOME. Next up: Drinkhall Venue, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Drinkhall Venue | Berlin |
 | Fri, 27 Nov 2026 | Void Club | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ nillonollin is a drum & bass and electro artist based in Germany, with 13 gigs o
 
 IHOPEIEXIST, icanseesounds, ENOME
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nillonollin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nillonollin/)*

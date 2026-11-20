@@ -1,6 +1,6 @@
 # Amotik
 
-Amotik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
+Amotik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
 
 Amotik is a techno and house artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 52 more. Often billed alongside Lea Occhi, Answer Code Request and Olivia Mendez. Next up: BASEMENT, New York City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Amotik is a techno and house artist based in United Kingdom, with 155 gigs on so
 
 Lea Occhi, Answer Code Request, Olivia Mendez
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

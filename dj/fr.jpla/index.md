@@ -1,14 +1,15 @@
 # fr. JPLA
 
-fr. JPLA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+fr. JPLA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
 
-fr. JPLA is a techno and house artist based in Germany, with 87 gigs on soundcheck across Berlin, Dresden, Hamburg and Hannover and 3 more. Often billed alongside karete bu, Barbara Hofmann and Hanna Baertig. Next up: ://about blank, Berlin on Sat 21 Nov.
+fr. JPLA is a techno and house artist based in Germany, with 88 gigs on soundcheck across Berlin, Dresden, Hamburg and Hannover and 3 more. Often billed alongside karete bu, Barbara Hofmann and Hanna Baertig. Next up: ://about blank, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | ://about blank | Berlin |
+| Tue, 15 Dec 2026 | OXI | Berlin |
 | Sat, 23 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ fr. JPLA is a techno and house artist based in Germany, with 87 gigs on soundche
 
 karete bu, Barbara Hofmann, Hanna Baertig
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fr.jpla/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fr.jpla/)*

@@ -1,6 +1,6 @@
 # Rachel de Moncuit
 
-Rachel de Moncuit is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+Rachel de Moncuit is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
 Rachel de Moncuit is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, London and Manchester. Often billed alongside KUSS, Teecra and sweetestcape. Next up: FOLD, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Rachel de Moncuit is a techno and house artist based in United Kingdom, with 7 g
 
 KUSS, Teecra, sweetestcape
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/racheldemoncuit/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/racheldemoncuit/)*

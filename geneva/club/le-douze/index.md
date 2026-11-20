@@ -1,15 +1,13 @@
 # Le Douze
 
-Le Douze is a music venue in Geneva with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Filmar" on Wed, 18 Nov 2026.
+Le Douze is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Lachrymose Rescue Label" on Thu, 26 Nov 2026.
 
-Le Douze is a music venue in Geneva listed on soundcheck. 3 upcoming gigs, with line-ups including Cashu, Toubi and Yolek. See dates, start times and who's playing.
+Le Douze is a music venue in Geneva listed on soundcheck. 1 upcoming gig, with line-ups including Yolek. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Filmar | Cashu |
-| Thu, 19 Nov 2026 | Full of vinyl by nonante club | Toubi |
 | Thu, 26 Nov 2026 | Lachrymose Rescue Label | Yolek |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/le-douze/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/le-douze/)*

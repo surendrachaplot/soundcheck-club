@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Rhythmic Addiction" on Fri, 20 Nov 2026.
+Bricks is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Rhythmic Addiction" on Fri, 20 Nov 2026.
 
 Bricks is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Adela, AVANTIME, Body Clinic and Braaks and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -21,4 +21,4 @@ Bricks is a music venue in London listed on soundcheck. 8 upcoming gigs, with li
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

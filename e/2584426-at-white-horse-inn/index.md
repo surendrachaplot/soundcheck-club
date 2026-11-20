@@ -1,6 +1,6 @@
 # 𝑮𝑰𝑹𝑳 𝑫𝑨𝑵𝑪𝑬 𝑾𝒊𝒏𝒕𝒆𝒓 𝑩𝒂𝒍𝒍 at White Horse Inn
 
-𝑮𝑰𝑹𝑳 𝑫𝑨𝑵𝑪𝑬 𝑾𝒊𝒏𝒕𝒆𝒓 𝑩𝒂𝒍𝒍 at White Horse Inn on Sat 21 Nov, San Francisco/Oakland. 1 artist: ALICE STRIBLING. See the line-up on soundcheck.
+𝑮𝑰𝑹𝑳 𝑫𝑨𝑵𝑪𝑬 𝑾𝒊𝒏𝒕𝒆𝒓 𝑩𝒂𝒍𝒍 at White Horse Inn on Sat 21 Nov, San Francisco/Oakland. 1 artist: ALICE STRIBLING. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

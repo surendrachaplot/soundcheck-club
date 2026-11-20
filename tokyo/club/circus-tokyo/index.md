@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Qrion Japan tour tokyo" on Fri, 20 Nov 2026.
+Circus Tokyo is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Qrion Japan tour tokyo" on Fri, 20 Nov 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including BANGA RALLY, Blacky, Dash (CZ) and DJ Shimamura and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including BANGA RALLY, Blacky, Dash (CZ) and DJ Shimamura and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, w
 | Thu, 26 Nov 2026 | SBTRKT | SBTRKT |
 | Fri, 27 Nov 2026 | BoTT × SPECIAL GUEST K.K. 'FOR FRIENDS BY FRIENDS' | George Bolton |
 | Sat, 28 Nov 2026 | Hearts Grow RYHTHM GAME MUSIC x HARD DANCE MUSIC | Blacky, Dash (CZ), Hiro, Sigha, kors k |
-| Sat, 28 Nov 2026 | 【SOLD OUT】RIP with Silva Bumpa | BANGA RALLY, Genick, Jacotanu, MOOTOE, Nizikawa, OBXR., Ogasawara, SKYTOPIA, Silva Bumpa, That Fancy I, VECSILLE, kyo (3) |
-| Sat, 5 Dec 2026 | Notion in Tokyo | Notion |
+| Sat, 28 Nov 2026 | 【SOLD OUT】RIP with Silva Bumpa | BANGA RALLY, Genick, Jacotanu, MOOTOE, Nizikawa, OBXR., Ogasawara, SKYTOPIA, Silva Bumpa, That Fancy I, VECSILLE, kyo (3), misa² |
+| Sat, 5 Dec 2026 | Notion in Tokyo | NO WAY, Notion, SAKO, VECSILLE, Yess |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

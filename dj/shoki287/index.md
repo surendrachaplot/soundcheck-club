@@ -1,14 +1,15 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
+SHOKI287 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
 
-SHOKI287 is a techno and trance artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 36 more. Often billed alongside DJ Cringey, MCR-T and Justin Tinderdate. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
+SHOKI287 is a techno and trance artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 36 more. Often billed alongside DJ Cringey, MCR-T and Justin Tinderdate. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Kesselhaus Augsburg | Augsburg |
+| Sat, 28 Nov 2026 | Gotec | Karlsruhe |
 | Fri, 11 Dec 2026 | Das Zimmer | Mannheim |
 | Sat, 12 Dec 2026 | AMT | Berlin |
 | Fri, 18 Dec 2026 | E1 | London |
@@ -29,4 +30,4 @@ SHOKI287 is a techno and trance artist based in Germany, with 117 gigs on soundc
 
 DJ Cringey, MCR-T, Justin Tinderdate
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

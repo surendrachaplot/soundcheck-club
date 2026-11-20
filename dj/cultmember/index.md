@@ -1,14 +1,15 @@
 # Cult Member
 
-Cult Member is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cakeshop, Seoul on Fri, 4 Dec 2026.
+Cult Member is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cakeshop, Seoul on Fri, 4 Dec 2026.
 
-Cult Member is a trance and techno artist based in Canada, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Calgary and 22 more. Often billed alongside TDJ, online threat and Torus. Next up: Cakeshop, Seoul on Fri 4 Dec.
+Cult Member is a trance and techno artist based in Canada, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Calgary and 23 more. Often billed alongside TDJ, online threat and Torus. Next up: Cakeshop, Seoul on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Cakeshop | Seoul |
+| Fri, 11 Dec 2026 | Tuff Club | Singapore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cult Member is a trance and techno artist based in Canada, with 42 gigs on sound
 
 TDJ, online threat, Torus
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*

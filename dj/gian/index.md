@@ -1,13 +1,14 @@
 # Gian
 
-Gian is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Giri, Berlin on Wed, 25 Nov 2026.
+Gian is a Industrial and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at John Doe, Amsterdam on Tue, 24 Nov 2026.
 
-Gian is a house and electro artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Aldonna, Blue Hour and Caldo. Next up: Giri, Berlin on Wed 25 Nov.
+Gian is an industrial and house artist based in Germany, with 3 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Aldonna, Blue Hour and Caldo. Next up: John Doe, Amsterdam on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 24 Nov 2026 | John Doe | Amsterdam |
 | Wed, 25 Nov 2026 | Giri | Berlin |
 
 ## Recently played
@@ -18,4 +19,4 @@ Gian is a house and electro artist based in Germany, with 2 gigs on soundcheck a
 
 Aldonna, Blue Hour, Caldo
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gian/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gian/)*

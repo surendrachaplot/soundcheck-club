@@ -1,15 +1,13 @@
 # Hakkabar 院吧
 
-Hakkabar 院吧 is a music venue in Chengdu with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "11.18 周三 |「SOFT MIX」 · STILWELL" on Wed, 18 Nov 2026.
+Hakkabar 院吧 is a music venue in Chengdu with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "11.20 周五 ｜「HYBRID BEATS 」· DJ WINDVEYR" on Fri, 20 Nov 2026.
 
-Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 5 upcoming gigs, with line-ups including 150xs and Kongsent. See dates, start times and who's playing. 成都市科华北路沸城A座1201.
+Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 3 upcoming gigs, with line-ups including Kongsent. See dates, start times and who's playing. 成都市科华北路沸城A座1201.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | 11.18 周三 /「SOFT MIX」 · STILWELL |  |
-| Thu, 19 Nov 2026 | 11.19 周四 /「SOFT MIX」 · 150xs | 150xs |
 | Fri, 20 Nov 2026 | 11.20 周五 ｜「HYBRID BEATS 」· DJ WINDVEYR |  |
 | Sat, 21 Nov 2026 | 11.21 周六 /「HOUSE JUNGLE」· HAL |  |
 | Sun, 22 Nov 2026 | 11.22 周日｜「HYBRID BEATS 」 · Kongsent | Kongsent |
@@ -18,4 +16,4 @@ Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 5 upcoming gig
 
 成都市科华北路沸城A座1201, Chengdu
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*

@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Vivacity 23rd Anniversary - Cubik, Da Moon, Beatfoot, Soulkate" on Fri, 20 Nov 2026.
+Bukanyr Boat is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Vivacity 23rd Anniversary - Cubik, Da Moon, Beatfoot, Soulkate" on Fri, 20 Nov 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Arasion, ASCENDER, Big Lil and Biodan and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 11 upcoming gigs, 
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

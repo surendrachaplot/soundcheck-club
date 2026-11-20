@@ -1,6 +1,6 @@
 # jima
 
-jima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
+jima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
 
 jima is a house and techno artist based in Greece, with 84 gigs on soundcheck across Athens, Hamburg, Milan and Tokyo. Often billed alongside 5harpy, LEFTOLD and bungo. Next up: Aoyama Hachi, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ jima is a house and techno artist based in Greece, with 84 gigs on soundcheck ac
 
 5harpy, LEFTOLD, bungo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jima/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jima/)*

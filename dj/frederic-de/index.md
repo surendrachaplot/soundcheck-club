@@ -1,8 +1,8 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Paraiso Estereo, Miami on Fri, 20 Nov 2026.
+Frederic. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Paraiso Estereo, Miami on Fri, 20 Nov 2026.
 
-Frederic. is a techno and trance artist based in Germany, with 218 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: Paraiso Estereo, Miami on Fri 20 Nov.
+Frederic. is a techno and trance artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: Paraiso Estereo, Miami on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Frederic. is a techno and trance artist based in Germany, with 218 gigs on sound
 | Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
 | Fri, 27 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
+| Fri, 11 Dec 2026 | Silbergold | Frankfurt |
 | Fri, 25 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 26 Feb 2027 | RSO.BERLIN | Berlin |
 
@@ -30,4 +31,4 @@ Frederic. is a techno and trance artist based in Germany, with 218 gigs on sound
 
 CAIVA, Part Time Killer, MCR-T
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

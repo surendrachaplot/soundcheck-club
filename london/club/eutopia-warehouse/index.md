@@ -1,17 +1,19 @@
 # Eutopia Warehouse
 
-Eutopia Warehouse is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "FEMALE SKANKER" on Sat, 5 Dec 2026.
+Eutopia Warehouse is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "FEMALE SKANKER" on Sat, 5 Dec 2026.
 
-Eutopia Warehouse is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including DJ Decimal, Fonti and MC Bushkin. See dates, start times and who's playing. 42 River Rd, Barking, IG11 0DW.
+Eutopia Warehouse is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Decimal, Fonti and MC Bushkin. See dates, start times and who's playing. 42 River Rd, Barking, IG11 0DW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | FEMALE SKANKER | DJ Decimal, Fonti, MC Bushkin |
+| Thu, 31 Dec 2026 | Red Carpet NYE 2026 |  |
+| Sat, 30 Jan 2027 | Hostile Takeover x NOX PAX - III Anniversary |  |
 
 ## Address
 
 42 River Rd, Barking, IG11 0DW, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/eutopia-warehouse/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/eutopia-warehouse/)*

@@ -1,19 +1,19 @@
 # Liquidate
 
-Liquidate is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "PACE" on Sat, 28 Nov 2026.
+Liquidate is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "PACE" on Sat, 28 Nov 2026.
 
-Liquidate is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Gaskill, Ed Tomlinson and Jack Moss. See dates, start times and who's playing. 855 Stockport road.
+Liquidate is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Gaskill, Ed Tomlinson, Jack Moss and King Prawn Dansak and 2 more. See dates, start times and who's playing. 855 Stockport road.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | PACE |  |
-| Fri, 4 Dec 2026 | HARDWeRK 6.5: HARDWeRK |  |
+| Fri, 4 Dec 2026 | HARDWeRK 6.5: HARDWeRK DON'T PAY | King Prawn Dansak, MALVADØNA, Team GB |
 | Sat, 12 Dec 2026 | A Very Kibosh Kristmas - with Evil Plans | Alex Gaskill, Ed Tomlinson, Jack Moss |
 
 ## Address
 
 855 Stockport road, Manchester
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*

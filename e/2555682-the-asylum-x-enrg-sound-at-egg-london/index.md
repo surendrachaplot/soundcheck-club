@@ -1,6 +1,6 @@
 # The Asylum x ENRG Sound at Egg London
 
-The Asylum x ENRG Sound at Egg London on Sat 21 Nov, London. 9 artists: Beezo, DJ Eastwood, DJ S (UK) and JAYDAA and 5 more. House and Afro House. See the line-up on soundcheck.
+The Asylum x ENRG Sound at Egg London on Sat 21 Nov, London. 10 artists: Beezo, DJ Eastwood, DJ S (UK) and JAYDAA and 6 more. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ The Asylum x ENRG Sound at Egg London on Sat 21 Nov, London. 9 artists: Beezo, D
 - DJ Eastwood
 - DJ S (UK)
 - JAYDAA
+- Joe Le Groove
 - Pioneer
 - Scottie D
 - Shenin Amara

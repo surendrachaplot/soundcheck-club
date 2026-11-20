@@ -1,6 +1,6 @@
 # Lexï
 
-Lexï is a Tech House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Lexï is a Tech House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Lexï is a tech house and electronica artist based in Australia, with 3 gigs on soundcheck across Melbourne and Victoria. Often billed alongside AKEYLAH, Love, Jess and ANNĒ. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Lexï is a tech house and electronica artist based in Australia, with 3 gigs on 
 
 AKEYLAH, Love, Jess, ANNĒ
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexï/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexï/)*

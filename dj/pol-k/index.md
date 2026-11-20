@@ -1,17 +1,18 @@
 # Pol K
 
-Pol K is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 14 Nov 2026.
+Pol K is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sundara Club, Ibiza on Sat, 21 Nov 2026.
 
-Pol K is a house and deep house artist based in Spain, with 56 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Carlos Vila, Nuzzo and Hugo Martinez. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 14 Nov.
+Pol K is a house and deep house artist based in Spain, with 57 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Carlos Vila, Nuzzo and Hugo Martinez. Next up: Sundara Club, Ibiza on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sat, 21 Nov 2026 | Sundara Club | Ibiza |
 
 ## Recently played
 
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 14 Nov 2026
 - TBA - Secret Audiophile - C/ Badajoz 115, Barcelona · Sat, 3 Oct 2026
 - 303 Audiophile Bar, Barcelona · Fri, 2 Oct 2026
 - Tipic., Ibiza · Sat, 12 Sept 2026
@@ -19,10 +20,9 @@ Pol K is a house and deep house artist based in Spain, with 56 gigs on soundchec
 - Sunseabar Beach Club, Barcelona · Fri, 4 Sept 2026
 - Sunseabar Beach Club, Barcelona · Sat, 8 Aug 2026
 - Cadavra, Madrid · Fri, 31 Jul 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza · Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Carlos Vila, Nuzzo, Hugo Martinez
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*

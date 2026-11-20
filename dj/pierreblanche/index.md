@@ -1,6 +1,6 @@
 # PIERRE BLANCHE
 
-PIERRE BLANCHE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
+PIERRE BLANCHE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Corona Seoul, Seoul on Fri, 20 Nov 2026.
 
 PIERRE BLANCHE is a techno and house artist based in South Korea, with 28 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Better, Bagagee Viphex13 and HAO(KR). Next up: Casa Corona Seoul, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ PIERRE BLANCHE is a techno and house artist based in South Korea, with 28 gigs o
 
 Better, Bagagee Viphex13, HAO(KR)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierreblanche/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierreblanche/)*

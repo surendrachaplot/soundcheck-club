@@ -1,14 +1,15 @@
 # JANSØ
 
-JANSØ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Michigan on Fri, 4 Dec 2026.
+JANSØ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Michigan on Fri, 4 Dec 2026.
 
-JANSØ is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Detroit and Michigan. Often billed alongside Redax, DJ Candor and Dru Ruiz. Next up: TBA, Michigan on Fri 4 Dec.
+JANSØ is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Detroit and Michigan. Often billed alongside Redax, DJ Candor and Dru Ruiz. Next up: TBA, Michigan on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | TBA | Michigan |
+| Sat, 19 Dec 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JANSØ is a techno and house artist based in United States of America, with 9 gi
 
 Redax, DJ Candor, Dru Ruiz
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janso/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janso/)*

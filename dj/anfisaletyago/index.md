@@ -1,6 +1,6 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Anfisa Letyago is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Adam Beyer, Enrico Sangiuliano and Pan-Pot. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on sou
 
 Adam Beyer, Enrico Sangiuliano, Pan-Pot
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

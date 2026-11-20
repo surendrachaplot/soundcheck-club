@@ -1,13 +1,14 @@
 # NaiBan
 
-NaiBan is a Funk / Soul and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Mirage, Hanoi on Sat, 21 Nov 2026.
+NaiBan is a Funk / Soul and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Factory 47, Hanoi on Fri, 20 Nov 2026.
 
-NaiBan is a funk / soul and techno artist based in Spain, with 24 gigs on soundcheck across Hanoi. Often billed alongside Akatsuki, Simon Felix and Viet Anh. Next up: Mirage, Hanoi on Sat 21 Nov.
+NaiBan is a funk / soul and techno artist based in Spain, with 25 gigs on soundcheck across Hanoi. Often billed alongside Akatsuki, Simon Felix and Vanderbeak. Next up: Factory 47, Hanoi on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Factory 47 | Hanoi |
 | Sat, 21 Nov 2026 | Mirage | Hanoi |
 
 ## Recently played
@@ -23,6 +24,6 @@ NaiBan is a funk / soul and techno artist based in Spain, with 24 gigs on soundc
 
 ## Shares bills with
 
-Akatsuki, Simon Felix, Viet Anh
+Akatsuki, Simon Felix, Vanderbeak
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naiban/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naiban/)*

@@ -1,6 +1,6 @@
 # Madelic
 
-Madelic is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 30 Jan 2027.
+Madelic is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 30 Jan 2027.
 
 Madelic is a house and tech house artist based in Canada, with 48 gigs on soundcheck across London, Tokyo, Toronto and West Wales. Often billed alongside FITS ME FUNNY, AKWA and Elianne. Next up: Vittoria Wharf Studio, London on Sat 30 Jan.
 
@@ -26,4 +26,4 @@ Madelic is a house and tech house artist based in Canada, with 48 gigs on soundc
 
 FITS ME FUNNY, AKWA, Elianne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*

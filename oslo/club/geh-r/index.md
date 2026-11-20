@@ -1,6 +1,6 @@
 # Gehør
 
-Gehør is a music venue in Oslo with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Ade - Gundogan - Fridtjof (malo)" on Fri, 20 Nov 2026.
+Gehør is a music venue in Oslo with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Ade - Gundogan - Fridtjof (malo)" on Fri, 20 Nov 2026.
 
 Gehør is a music venue in Oslo listed on soundcheck. 3 upcoming gigs, with line-ups including Bellicose, Commissar  Lag, Fridtjof and Of Norway. See dates, start times and who's playing. Bernt ankers gate 39, 0179 Oslo.
 
@@ -16,4 +16,4 @@ Gehør is a music venue in Oslo listed on soundcheck. 3 upcoming gigs, with line
 
 Bernt ankers gate 39, 0179 Oslo, Oslo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/geh-r/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/geh-r/)*

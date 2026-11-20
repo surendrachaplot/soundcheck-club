@@ -1,6 +1,6 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Fuchs / Aksak" on Fri, 20 Nov 2026.
+Minimüzikhol is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Fuchs / Aksak" on Fri, 20 Nov 2026.
 
 Minimüzikhol is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with line-ups including Fault, Fuchs, Interstellar Funk and Neocraft and 2 more. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
@@ -18,4 +18,4 @@ Minimüzikhol is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs
 
 Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul, Istanbul
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*

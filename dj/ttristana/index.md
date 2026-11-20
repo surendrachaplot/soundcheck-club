@@ -1,8 +1,8 @@
 # TTristana
 
-TTristana is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+TTristana is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
-TTristana is a techno and club artist based in France, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, Golce and Miss Jay (RO). Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
+TTristana is a techno and club artist based in France, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 9 more. Often billed alongside Lisa More, Golce and Miss Jay (RO). Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TTristana is a techno and club artist based in France, with 68 gigs on soundchec
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | La Station - Gare des Mines | Paris |
 | Fri, 4 Dec 2026 | Le Makeda | Marseille |
+| Sat, 20 Feb 2027 | Bien Public | Bordeaux |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ TTristana is a techno and club artist based in France, with 68 gigs on soundchec
 
 Lisa More, Golce, Miss Jay (RO)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ttristana/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ttristana/)*

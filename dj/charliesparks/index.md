@@ -1,13 +1,14 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Sat, 5 Dec 2026.
+Charlie Sparks is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 4 Dec 2026.
 
-Charlie Sparks is a techno and trance artist based in United Kingdom, with 303 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Athens and 83 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Zenith - Die Kulturhalle, Munich on Sat 5 Dec.
+Charlie Sparks is a techno and trance artist based in United Kingdom, with 304 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Athens and 83 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Studio Club Malaga, Malaga on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Studio Club Malaga | Malaga |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
 | Thu, 31 Dec 2026 | Hala Orion | Wroclaw |
@@ -30,4 +31,4 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 303 g
 
 999999999, Parfait, I Hate Models
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

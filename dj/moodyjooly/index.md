@@ -1,14 +1,14 @@
 # moodyjooly
 
-moodyjooly is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Toronto on Fri, 18 Dec 2026.
+moodyjooly is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at St. Anne's Parish Hall, Toronto on Fri, 18 Dec 2026.
 
-moodyjooly is a club and house artist based in Canada, with 36 gigs on soundcheck across Philadelphia and Toronto. Often billed alongside KERUB, Coco de Mol and Sappho.XD. Next up: TBA, Toronto on Fri 18 Dec.
+moodyjooly is a club and house artist based in Canada, with 36 gigs on soundcheck across Philadelphia and Toronto. Often billed alongside KERUB, Coco de Mol and Sappho.XD. Next up: St. Anne's Parish Hall, Toronto on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Dec 2026 | TBA | Toronto |
+| Fri, 18 Dec 2026 | St. Anne's Parish Hall | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ moodyjooly is a club and house artist based in Canada, with 36 gigs on soundchec
 
 KERUB, Coco de Mol, Sappho.XD
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*

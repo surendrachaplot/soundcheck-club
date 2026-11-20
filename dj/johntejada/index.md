@@ -1,6 +1,6 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - IYKYK , Los Angeles on Fri, 27 Nov 2026.
+John Tejada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - IYKYK , Los Angeles on Fri, 27 Nov 2026.
 
 John Tejada is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Denver and 8 more. Often billed alongside Connor Mikami, DJ Sneak and Danny Goliger. Next up: TBA - IYKYK , Los Angeles on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ John Tejada is a house and techno artist based in United States of America, with
 
 Connor Mikami, DJ Sneak, Danny Goliger
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

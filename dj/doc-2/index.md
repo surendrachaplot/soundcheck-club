@@ -1,13 +1,14 @@
 # DOC (2)
 
-DOC (2) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
+DOC (2) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at LAUT, Barcelona on Sat, 19 Dec 2026.
 
-DOC is a techno and ambient artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Barcelona and Tokyo. Often billed alongside Ario, Cobahn and Vand. Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
+DOC is a techno and ambient artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Barcelona and Tokyo. Often billed alongside Vand, Ario and Cobahn. Next up: LAUT, Barcelona on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | LAUT | Barcelona |
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ DOC is a techno and ambient artist based in Netherlands, with 19 gigs on soundch
 
 ## Shares bills with
 
-Ario, Cobahn, Vand
+Vand, Ario, Cobahn
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-2/)*

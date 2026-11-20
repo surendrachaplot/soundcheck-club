@@ -1,6 +1,6 @@
 # Lumos
 
-Lumos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Rote Sonne, Munich on Fri, 4 Dec 2026.
+Lumos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Rote Sonne, Munich on Fri, 4 Dec 2026.
 
 Lumos is a techno and house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Berlin, Munich and Utrecht. Often billed alongside Hashashin, I-RO and Rosati. Next up: Rote Sonne, Munich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lumos is a techno and house artist based in Netherlands, with 14 gigs on soundch
 
 Hashashin, I-RO, Rosati
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumos/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumos/)*

@@ -1,6 +1,6 @@
 # KINGMCK
 
-KINGMCK is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bolero, Seoul on Fri, 20 Nov 2026.
+KINGMCK is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bolero, Seoul on Fri, 20 Nov 2026.
 
 KINGMCK is a club and hip-hop artist based in South Korea, with 118 gigs on soundcheck across Osaka, Seoul, Shanghai and Tokyo. Often billed alongside Apachi, ANDOW and DJ Co.kr. Next up: Bolero, Seoul on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ KINGMCK is a club and hip-hop artist based in South Korea, with 118 gigs on soun
 
 Apachi, ANDOW, DJ Co.kr
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingmck/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingmck/)*

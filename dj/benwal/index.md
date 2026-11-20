@@ -1,8 +1,8 @@
 # Benwal
 
-Benwal is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Werkspoorkathedraal, Netherlands on Sat, 21 Nov 2026.
+Benwal is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Werkspoorkathedraal, Netherlands on Sat, 21 Nov 2026.
 
-Benwal is a techno and house artist based in Netherlands, with 214 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Werkspoorkathedraal, Netherlands on Sat 21 Nov.
+Benwal is a techno and house artist based in Netherlands, with 215 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Werkspoorkathedraal, Netherlands on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Benwal is a techno and house artist based in Netherlands, with 214 gigs on sound
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 | Sun, 3 Jan 2027 | The Ivy | Sydney |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
+| Sat, 6 Feb 2027 | Opium Club | Vilnius |
 | Thu, 11 Feb 2027 | Renate | Berlin |
-| Tue, 27 Apr 2027 | ‘T Zoet Breda | Netherlands |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist based in Netherlands, with 214 gigs on sound
 
 Kyle Starkey, MALUGI, Bad Boombox
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

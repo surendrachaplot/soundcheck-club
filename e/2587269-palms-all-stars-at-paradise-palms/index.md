@@ -1,6 +1,6 @@
 # Palms All Stars at Paradise Palms
 
-Palms All Stars at Paradise Palms on Fri 20 Nov, Edinburgh. 2 artists: Jacuzzi General and Lara Sinclair. House and Bass. See the line-up on soundcheck.
+Palms All Stars at Paradise Palms on Fri 20 Nov, Edinburgh. 3 artists: Cal Ochiltree, Jacuzzi General and Lara Sinclair. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Palms All Stars at Paradise Palms on Fri 20 Nov, Edinburgh. 2 artists: Jacuzzi G
 
 ## Line-up
 
+- Cal Ochiltree
 - Jacuzzi General
 - Lara Sinclair
 

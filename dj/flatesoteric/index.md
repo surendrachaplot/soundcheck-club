@@ -1,6 +1,6 @@
 # Flat Esoteric
 
-Flat Esoteric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Section 8, Melbourne on Thu, 26 Nov 2026.
+Flat Esoteric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Section 8, Melbourne on Thu, 26 Nov 2026.
 
 Flat Esoteric is a techno and house artist based in Australia, with 22 gigs on soundcheck across Melbourne. Often billed alongside Willis Anne, gross margins and CAITY WATSON. Next up: Section 8, Melbourne on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Flat Esoteric is a techno and house artist based in Australia, with 22 gigs on s
 
 Willis Anne, gross margins, CAITY WATSON
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flatesoteric/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flatesoteric/)*

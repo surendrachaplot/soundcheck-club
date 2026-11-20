@@ -1,6 +1,6 @@
 # Dimitri Kneppers
 
-Dimitri Kneppers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TRAUM, Antwerp on Sat, 5 Dec 2026.
+Dimitri Kneppers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TRAUM, Antwerp on Sat, 5 Dec 2026.
 
 Dimitri Kneppers is a techno and house artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Rotterdam and 1 more. Often billed alongside Sandrien, Remy Unger and ISIS. Next up: TRAUM, Antwerp on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Dimitri Kneppers is a techno and house artist based in Netherlands, with 45 gigs
 
 Sandrien, Remy Unger, ISIS
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*

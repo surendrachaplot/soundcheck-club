@@ -1,6 +1,6 @@
 # Astra Kulturhaus
 
-Astra Kulturhaus is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Wasia Project + Lumï" on Wed, 25 Nov 2026.
+Astra Kulturhaus is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Wasia Project + Lumï" on Wed, 25 Nov 2026.
 
 Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Bolis Pupul, Charlotte Adigéry and Sylvan Esso. See dates, start times and who's playing. Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -18,4 +18,4 @@ Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 5 upcoming gig
 
 Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*

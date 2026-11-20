@@ -1,14 +1,13 @@
 # Cobb Douglas
 
-Cobb Douglas is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 18 Nov 2026.
+Cobb Douglas is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at DETROIT CLUB, Barcelona on Sat, 21 Nov 2026.
 
-Cobb Douglas is a techno and trance artist based in Spain, with 123 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 10 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: Lokschuppen Berlin, Berlin on Wed 18 Nov.
+Cobb Douglas is a techno and trance artist based in Spain, with 123 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 10 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: DETROIT CLUB, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 21 Nov 2026 | DETROIT CLUB | Barcelona |
 | Thu, 26 Nov 2026 | OST | Berlin |
 | Fri, 27 Nov 2026 | Lokschuppen Berlin | Berlin |
@@ -17,6 +16,7 @@ Cobb Douglas is a techno and trance artist based in Spain, with 123 gigs on soun
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin · Wed, 18 Nov 2026
 - Lokschuppen Berlin, Berlin · Sat, 31 Oct 2026
 - ://about blank, Berlin · Sat, 17 Oct 2026
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
@@ -24,10 +24,9 @@ Cobb Douglas is a techno and trance artist based in Spain, with 123 gigs on soun
 - The Comfort Zone, Toronto · Fri, 25 Sept 2026
 - Lokschuppen Berlin, Berlin · Fri, 11 Sept 2026
 - Lokschuppen Berlin, Berlin · Fri, 4 Sept 2026
-- DSTRKT Club Berlin, Berlin · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Ozzwald, Stinny Stone, Amøn
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*

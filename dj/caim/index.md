@@ -1,8 +1,8 @@
 # Caim
 
-Caim is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
+Caim is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
 
-Caim is a house and techno artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 34 more. Often billed alongside Marie K, Eversines and Pieter Jansen. Next up: Signal, New York City on Fri 20 Nov.
+Caim is a house and techno artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 33 more. Often billed alongside Marie K, Eversines and Pieter Jansen. Next up: Signal, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Caim is a house and techno artist based in Netherlands, with 95 gigs on soundche
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Signal | New York City |
 | Sat, 21 Nov 2026 | TBA | Boston |
-| Sat, 12 Dec 2026 | Fünk | Mexico City |
 | Fri, 1 Jan 2027 | Lofi | Amsterdam |
 | Fri, 1 Jan 2027 | Lofi | Amsterdam |
 
@@ -29,4 +28,4 @@ Caim is a house and techno artist based in Netherlands, with 95 gigs on soundche
 
 Marie K (1), Eversines, Pieter Jansen
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*

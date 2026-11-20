@@ -1,6 +1,6 @@
 # DIG MY BOX ON NEW YEARS EVE at Bar Shrimp
 
-DIG MY BOX ON NEW YEARS EVE at Bar Shrimp on Thu 31 Dec, Manchester. 1 artist: Allius. Techno and House. See the line-up on soundcheck.
+DIG MY BOX ON NEW YEARS EVE at Bar Shrimp on Thu 31 Dec, Manchester. 1 artist: Allius. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

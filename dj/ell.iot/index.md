@@ -1,6 +1,6 @@
 # ell.iot
 
-ell.iot is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Fréquence Paris, Paris on Fri, 4 Dec 2026.
+ell.iot is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Fréquence Paris, Paris on Fri, 4 Dec 2026.
 
 ell.iot is a house and electro artist based in United Kingdom, with 25 gigs on soundcheck across Cardiff, Dublin, Leeds and Liverpool and 6 more. Often billed alongside Dowd, DJ Peach Iced Tea and Quick William. Next up: Fréquence Paris, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ell.iot is a house and electro artist based in United Kingdom, with 25 gigs on s
 
 Dowd, DJ Peach Iced Tea, Quick William
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*

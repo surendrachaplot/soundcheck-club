@@ -1,6 +1,6 @@
 # KULT pres. Carl Craig at Kult
 
-KULT pres. Carl Craig at Kult on Fri 11 Dec, Belgrade. 1 artist: Carl Craig. Techno and House. See the line-up on soundcheck.
+KULT pres. Carl Craig at Kult on Fri 11 Dec, Belgrade. 3 artists: Carl Craig, Marko Milosavljevic and Nikola Vemic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ KULT pres. Carl Craig at Kult on Fri 11 Dec, Belgrade. 1 artist: Carl Craig. Tec
 ## Line-up
 
 - Carl Craig
+- Marko Milosavljevic
+- Nikola Vemic
 
 *Source: [soundcheck](https://soundcheck.club/e/2550259-kult-pres-carl-craig-at-kult/)*

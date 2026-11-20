@@ -1,13 +1,14 @@
 # Krane
 
-Krane is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 5 Dec 2026.
+Krane is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Apotheke, Los Angeles on Sun, 22 Nov 2026.
 
-Krane is a house and electronica artist based in Russia, with 144 gigs on soundcheck across Austin, Istanbul, Los Angeles and Miami and 4 more. Often billed alongside Highkin', Arthur Onni and Miro ( Stereokitchen ). Next up: Frankhan Selectist, Istanbul on Sat 5 Dec.
+Krane is a house and electronica artist based in Russia, with 145 gigs on soundcheck across Austin, Istanbul, Los Angeles and Miami and 4 more. Often billed alongside Highkin', Arthur Onni and Miro ( Stereokitchen ). Next up: Apotheke, Los Angeles on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Apotheke | Los Angeles |
 | Sat, 5 Dec 2026 | Frankhan Selectist | Istanbul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Krane is a house and electronica artist based in Russia, with 144 gigs on soundc
 
 Highkin', Arthur Onni, Miro ( Stereokitchen )
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krane/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krane/)*

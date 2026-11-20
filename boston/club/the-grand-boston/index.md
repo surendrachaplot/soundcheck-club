@@ -1,17 +1,17 @@
 # The Grand Boston
 
-The Grand Boston is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "FROSTCHILDREN Afterlife Afterparty (DJ Set)" on Thu, 19 Nov 2026.
+The Grand Boston is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "bradeazy" on Fri, 29 Jan 2027.
 
-The Grand Boston is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Frost Children. See dates, start times and who's playing. 58 Seaport Blvd Suite 300, Boston, MA 02210.
+The Grand Boston is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including bradeazy. See dates, start times and who's playing. 58 Seaport Blvd Suite 300, Boston, MA 02210.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | FROSTCHILDREN Afterlife Afterparty (DJ Set) | Frost Children |
+| Fri, 29 Jan 2027 | bradeazy | bradeazy |
 
 ## Address
 
 58 Seaport Blvd Suite 300, Boston, MA 02210, Boston
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*

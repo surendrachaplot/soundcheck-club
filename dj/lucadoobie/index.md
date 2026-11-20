@@ -1,18 +1,18 @@
 # Luca Doobie
 
-Luca Doobie is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at BARDO, Milan on Wed, 18 Nov 2026.
+Luca Doobie is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Masada, Milan on Sun, 22 Nov 2026.
 
-Luca Doobie is an electronica and techno artist based in Italy, with 16 gigs on soundcheck across Berlin, Bucharest and Milan. Often billed alongside Andromeda (DE), Aznamir and Benjamin Fehr. Next up: BARDO, Milan on Wed 18 Nov.
+Luca Doobie is an electronica and techno artist based in Italy, with 16 gigs on soundcheck across Berlin, Bucharest and Milan. Often billed alongside Andromeda (DE), Aznamir and Benjamin Fehr. Next up: Masada, Milan on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | BARDO | Milan |
 | Sun, 22 Nov 2026 | Masada | Milan |
 
 ## Recently played
 
+- BARDO, Milan · Wed, 18 Nov 2026
 - Detune, Milan · Sat, 26 Sept 2026
 - BARDO BAR, Milan · Wed, 15 Jul 2026
 - Masada, Milan · Sun, 24 May 2026
@@ -20,10 +20,9 @@ Luca Doobie is an electronica and techno artist based in Italy, with 16 gigs on 
 - Masada, Milan · Sun, 29 Mar 2026
 - Masada, Milan · Sun, 25 Jan 2026
 - TBA - TBA, Milan · Sun, 7 Dec 2025
-- Masada, Milan · Sun, 21 Sept 2025
 
 ## Shares bills with
 
 Andromeda (DE), Aznamir, Benjamin Fehr
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadoobie/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadoobie/)*

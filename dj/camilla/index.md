@@ -1,8 +1,8 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Green Room NYC, New York City on Fri, 20 Nov 2026.
+CAMILLA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New York City on Fri, 20 Nov 2026.
 
-CAMILLA is a house and techno artist based in Italy, with 153 gigs on soundcheck across Berlin, Bologna, Boston and Chicago and 7 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: Green Room NYC, New York City on Fri 20 Nov.
+CAMILLA is a house and techno artist based in Italy, with 154 gigs on soundcheck across Berlin, Bologna, Boston and Chicago and 7 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: Green Room NYC, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CAMILLA is a house and techno artist based in Italy, with 153 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Green Room NYC | New York City |
 | Sun, 22 Nov 2026 | feedbk | New York City |
+| Fri, 4 Dec 2026 | feedbk | New York City |
 | Fri, 11 Dec 2026 | Outer Heaven | New York City |
 | Sat, 19 Dec 2026 | Outer Heaven | New York City |
 
@@ -28,4 +29,4 @@ CAMILLA is a house and techno artist based in Italy, with 153 gigs on soundcheck
 
 Joiah, Black Pomade, Shvili
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*

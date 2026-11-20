@@ -1,14 +1,15 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Sin:port is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
-Sin:port is a techno and house artist based in Germany, with 137 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Südpol, Hamburg on Fri 27 Nov.
+Sin:port is a techno and house artist based in Germany, with 138 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Südpol, Hamburg on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Südpol | Hamburg |
+| Fri, 11 Dec 2026 | Jonny Knüppel | Berlin |
 | Fri, 18 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Sin:port is a techno and house artist based in Germany, with 137 gigs on soundch
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

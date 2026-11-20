@@ -1,6 +1,6 @@
 # TECHAWAY pres. Stacey Pullen, Joey Daniel, Jaime Soeiro, Omar Svenson at Sala Groove
 
-TECHAWAY pres. Stacey Pullen, Joey Daniel, Jaime Soeiro, Omar Svenson at Sala Groove on Sat 12 Dec, Madrid. 2 artists: Joey Daniel and Stacey Pullen. House and Tech House. See the line-up on soundcheck.
+TECHAWAY pres. Stacey Pullen, Joey Daniel, Jaime Soeiro, Omar Svenson at Sala Groove on Sat 12 Dec, Madrid. 3 artists: Ian Ludvig, Joey Daniel and Stacey Pullen. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TECHAWAY pres. Stacey Pullen, Joey Daniel, Jaime Soeiro, Omar Svenson at Sala Gr
 
 ## Line-up
 
+- Ian Ludvig
 - Joey Daniel
 - Stacey Pullen
 

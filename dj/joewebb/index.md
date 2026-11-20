@@ -1,8 +1,8 @@
 # Joe Webb
 
-Joe Webb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
+Joe Webb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
 
-Joe Webb is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Leeds and London. Often billed alongside WEBB, Simon Scott and Niamh. Next up: Truman Brewery Multiple Venues, London on Fri 23 Apr.
+Joe Webb is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Leeds and London. Often billed alongside WEBB, Simon Scott and Niamh (UK). Next up: Truman Brewery Multiple Venues, London on Fri 23 Apr.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Joe Webb is a house and techno artist based in United Kingdom, with 29 gigs on s
 
 ## Shares bills with
 
-WEBB, Simon Scott, Niamh (2)
+WEBB, Simon Scott, Niamh (UK)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joewebb/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joewebb/)*

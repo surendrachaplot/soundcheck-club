@@ -1,6 +1,6 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Koenji Cave presents PHANTOM Vol.35" on Fri, 20 Nov 2026.
+Koenji Cave is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Koenji Cave presents PHANTOM Vol.35" on Fri, 20 Nov 2026.
 
 Koenji Cave is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Jerry, kent, NAOKI and Takuya Asakura. See dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
@@ -18,4 +18,4 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, wit
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

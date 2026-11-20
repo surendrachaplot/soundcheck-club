@@ -1,6 +1,6 @@
 # Groovemami
 
-Groovemami is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Skin Club, Madrid on Sat, 28 Nov 2026.
+Groovemami is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Skin Club, Madrid on Sat, 28 Nov 2026.
 
 Groovemami is a techno and house artist based in Spain, with 29 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CH3LO, Rozzer and Amphia. Next up: Skin Club, Madrid on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Groovemami is a techno and house artist based in Spain, with 29 gigs on soundche
 
 CH3LO, Rozzer, Amphia
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*

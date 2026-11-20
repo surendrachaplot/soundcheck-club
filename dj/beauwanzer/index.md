@@ -1,6 +1,6 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Noch Besser Leben, Leipzig on Sat, 21 Nov 2026.
+Beau Wanzer is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Noch Besser Leben, Leipzig on Sat, 21 Nov 2026.
 
 Beau Wanzer is an experimental and techno artist based in United States of America, with 117 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Noch Besser Leben, Leipzig on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Beau Wanzer is an experimental and techno artist based in United States of Ameri
 
 Amber Gris, Dretraxx, L.F.T.
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*

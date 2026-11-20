@@ -1,6 +1,6 @@
-# //glühweingarten x chouchou & friends at ://about blank
+# ://glühweingarten x chouchou & friends at ://about blank
 
-//glühweingarten x chouchou & friends at ://about blank on Sun 20 Dec, Berlin. Electro. See the line-up on soundcheck.
+://glühweingarten x chouchou & friends at ://about blank on Sun 20 Dec, Berlin. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

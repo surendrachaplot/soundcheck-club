@@ -1,14 +1,15 @@
 # Noel Holler
 
-Noel Holler is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Bootshaus, Cologne on Fri, 4 Dec 2026.
+Noel Holler is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bootshaus, Cologne on Fri, 4 Dec 2026.
 
-Noel Holler is a house and electronica artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dubai and 14 more. Often billed alongside Alle Farben, AVAION and BOVSKI. Next up: Bootshaus, Cologne on Fri 4 Dec.
+Noel Holler is a house and electronica artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Bavaria, Berlin and Cologne and 15 more. Often billed alongside Alle Farben, AVAION and BOVSKI. Next up: Bootshaus, Cologne on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Bootshaus | Cologne |
+| Fri, 23 Jul 2027 | Open Beatz Festival | Bavaria |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Noel Holler is a house and electronica artist based in Germany, with 46 gigs on 
 
 Alle Farben, AVAION, BOVSKI
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*

@@ -1,8 +1,8 @@
 # Yamour
 
-Yamour is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Doka, Amsterdam on Sat, 21 Nov 2026.
+Yamour is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Doka, Amsterdam on Sat, 21 Nov 2026.
 
-Yamour is a house and techno artist based in Germany, with 185 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 46 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Doka, Amsterdam on Sat 21 Nov.
+Yamour is a house and techno artist based in Germany, with 187 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 46 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Doka, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,7 +13,9 @@ Yamour is a house and techno artist based in Germany, with 185 gigs on soundchec
 | Sat, 28 Nov 2026 | Graphic Hangang | Seoul |
 | Fri, 4 Dec 2026 | TBA | Sydney |
 | Sat, 5 Dec 2026 | TBA | Melbourne |
+| Sun, 6 Dec 2026 | OneSixOne | Melbourne |
 | Fri, 11 Dec 2026 | Giselle | Düsseldorf |
+| Sat, 19 Dec 2026 | Signal | New York City |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -32,4 +34,4 @@ Yamour is a house and techno artist based in Germany, with 185 gigs on soundchec
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

@@ -1,13 +1,14 @@
 # Juan Gmoney Jaramillo
 
-Juan Gmoney Jaramillo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Keenan's Irish Pub 1900 Dundas St W Unit 13B, Mississauga, Toronto on Thu, 31 Dec 2026.
+Juan Gmoney Jaramillo is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Longshots Shooting and Social, Toronto on Sat, 12 Dec 2026.
 
-Juan Gmoney Jaramillo is a tech house and house artist based in Canada, with 26 gigs on soundcheck across Toronto. Often billed alongside Junior Lopez, TAKiN and Yogi. Next up: TBA - Keenan's Irish Pub 1900 Dundas St W Unit 13B, Mississauga, Toronto on Thu 31 Dec.
+Juan Gmoney Jaramillo is a tech house and house artist based in Canada, with 27 gigs on soundcheck across Toronto. Often billed alongside Junior Lopez, TAKiN and Yogi. Next up: Longshots Shooting and Social, Toronto on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Longshots Shooting and Social | Toronto |
 | Thu, 31 Dec 2026 | TBA - Keenan's Irish Pub 1900 Dundas St W Unit 13B, Mississauga | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Juan Gmoney Jaramillo is a tech house and house artist based in Canada, with 26 
 
 Junior Lopez, TAKiN, Yogi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juangmoneyjaramillo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juangmoneyjaramillo/)*

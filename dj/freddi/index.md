@@ -1,14 +1,13 @@
 # Freddi
 
-Freddi is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 18 Nov 2026.
+Freddi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
 
-Freddi is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Antwerp, Edinburgh and Eindhoven and 4 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Sneaky Pete's, Edinburgh on Wed 18 Nov.
+Freddi is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Antwerp, Edinburgh and Eindhoven and 4 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Thuishaven, Amsterdam on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 27 Nov 2026 | BRET | Amsterdam |
 | Sat, 12 Dec 2026 | Het Sieraad | Amsterdam |
@@ -17,6 +16,7 @@ Freddi is a house and techno artist based in Netherlands, with 52 gigs on soundc
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh · Wed, 18 Nov 2026
 - Beursgebouw, Eindhoven · Sat, 7 Nov 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Ijver, Amsterdam · Thu, 22 Oct 2026
@@ -24,10 +24,9 @@ Freddi is a house and techno artist based in Netherlands, with 52 gigs on soundc
 - Shelter Amsterdam, Amsterdam · Sat, 10 Oct 2026
 - Mondo Open Air, Madrid · Sat, 26 Sept 2026
 - Mondo, Madrid · Sat, 26 Sept 2026
-- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 OLIVIA LENSEN, Gerardo Niva, Kara Okay
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*

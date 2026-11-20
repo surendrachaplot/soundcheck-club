@@ -1,6 +1,6 @@
 # Lorenzo Negri
 
-Lorenzo Negri is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Duel Club, Naples on Sat, 21 Nov 2026.
+Lorenzo Negri is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Duel Club, Naples on Sat, 21 Nov 2026.
 
 Lorenzo Negri is a house and tech house artist based in Italy, with 8 gigs on soundcheck across Naples. Often billed alongside Dens, Alex Bohemien and Diego Cardarelli. Next up: Duel Club, Naples on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Lorenzo Negri is a house and tech house artist based in Italy, with 8 gigs on so
 
 Dens, Alex Bohemien, Diego Cardarelli
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzonegri/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzonegri/)*

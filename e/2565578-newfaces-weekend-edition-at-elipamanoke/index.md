@@ -1,6 +1,6 @@
 # newfaces – weekend edition at elipamanoke
 
-newfaces – weekend edition at elipamanoke on Sat 28 Nov, Leipzig. 3 artists: mizy, orbok and w*sserratte. Trance and Techno. See the line-up on soundcheck.
+newfaces – weekend edition at elipamanoke on Sat 28 Nov, Leipzig. 4 artists: DJ Nasi Goreng, mizy, orbok and w*sserratte. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ newfaces – weekend edition at elipamanoke on Sat 28 Nov, Leipzig. 3 artists: m
 
 ## Line-up
 
+- DJ Nasi Goreng
 - mizy
 - orbok
 - w*sserratte

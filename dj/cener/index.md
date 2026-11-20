@@ -1,6 +1,6 @@
 # Cener
 
-Cener is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Klub K4, Ljubljana on Fri, 27 Nov 2026.
+Cener is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Klub K4, Ljubljana on Fri, 27 Nov 2026.
 
 Cener is a techno and trance artist based in Slovenia, with 6 gigs on soundcheck across Ljubljana. Often billed alongside Nezemlyan, Kadli and Flacc. Next up: Klub K4, Ljubljana on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Cener is a techno and trance artist based in Slovenia, with 6 gigs on soundcheck
 
 Nezemlyan, Kadli, Flacc
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cener/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cener/)*

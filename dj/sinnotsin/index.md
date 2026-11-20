@@ -1,13 +1,14 @@
 # Sinnotsin
 
-Sinnotsin is a Dembow and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Beato 30, Lisbon on Sat, 28 Nov 2026.
+Sinnotsin is a Baile Funk and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at República Da Música, Lisbon on Fri, 27 Nov 2026.
 
-Sinnotsin is a dembow and techno artist based in Portugal, with 22 gigs on soundcheck across Lisbon, Madrid and New York City. Often billed alongside Saint Caboclo, BANU and S4DO. Next up: Beato 30, Lisbon on Sat 28 Nov.
+Sinnotsin is a baile funk and afrobeat artist based in Portugal, with 23 gigs on soundcheck across Lisbon, Madrid and New York City. Often billed alongside Saint Caboclo, BANU and S4DO. Next up: República Da Música, Lisbon on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | República Da Música | Lisbon |
 | Sat, 28 Nov 2026 | Beato 30 | Lisbon |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sinnotsin is a dembow and techno artist based in Portugal, with 22 gigs on sound
 
 Saint Caboclo, BANU (2), S4DO
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnotsin/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnotsin/)*

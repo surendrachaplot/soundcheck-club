@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 27 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "SHANTAEL RAPHAEL (Live)" on Thu, 19 Nov 2026.
+Wax Music Lounge is a music venue in Melbourne with 26 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "JU'SUAN • 'COMMON UNDERSTANDING' Album Launch" on Fri, 20 Nov 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 27 upcoming gigs, with line-ups including BABANASHE, Miles Nautu, Savage The Girl and Steely Ann. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 26 upcoming gigs, with line-ups including BABANASHE, Miles Nautu, Savage The Girl and Steely Ann. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | SHANTAEL RAPHAEL (Live) |  |
 | Fri, 20 Nov 2026 | JU'SUAN • 'COMMON UNDERSTANDING' Album Launch |  |
 | Sat, 21 Nov 2026 | TRIBE | BABANASHE |
 | Mon, 23 Nov 2026 | CIRCADIAN RHYTHMS |  |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 27 upcoming
 | Tue, 1 Dec 2026 | BRAZLOMBIA |  |
 | Wed, 2 Dec 2026 | MELLOWDÍAS THUMP |  |
 | Thu, 3 Dec 2026 | FRESHLY SQUEEZED LIVE |  |
+| Fri, 4 Dec 2026 | BIONIC BOOGIE |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

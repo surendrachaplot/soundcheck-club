@@ -1,0 +1,28 @@
+# P1P3
+
+P1P3 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Powered by Void Acoustics, Madrid on Fri, 4 Dec 2026.
+
+P1P3 is a trance and techno artist based in Spain, with 26 gigs on soundcheck across Madrid. Often billed alongside Miguel Rivas, NVMB and JRG. Next up: TBA - Powered by Void Acoustics, Madrid on Fri 4 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 4 Dec 2026 | TBA - Powered by Void Acoustics | Madrid |
+
+## Recently played
+
+- TBA - Powered by: Void Acoustics, Madrid · Fri, 16 Oct 2026
+- Araña Club, Madrid · Fri, 16 Oct 2026
+- TBA - Powered by: Void Acoustics, Madrid · Fri, 25 Sept 2026
+- Sala Pirandelo, Madrid · Sat, 5 Sept 2026
+- Café Berlín, Madrid · Wed, 2 Sept 2026
+- Sala Pirandelo, Madrid · Sat, 22 Aug 2026
+- Café Berlín, Madrid · Thu, 6 Aug 2026
+- Café Berlín, Madrid · Wed, 24 Jun 2026
+
+## Shares bills with
+
+Miguel Rivas, NVMB, JRG
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p1p3/)*

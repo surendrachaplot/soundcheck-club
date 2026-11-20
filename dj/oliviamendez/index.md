@@ -1,6 +1,6 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Olivia Mendez is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Olivia Mendez is a techno and house artist based in France, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Olivia Mendez is a techno and house artist based in France, with 160 gigs on sou
 
 Chami, Blasha & Allatt, Freddy K
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

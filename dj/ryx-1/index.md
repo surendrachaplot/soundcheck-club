@@ -1,14 +1,15 @@
 # RYX (1)
 
-RYX (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
+RYX (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
 
-RYX is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin, Bucharest, Cologne and Karlsruhe and 5 more. Often billed alongside CÖLN, Badlokk and BBUBU. Next up: Gotec, Karlsruhe on Sat 21 Nov.
+RYX is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Bucharest, Cologne and Karlsruhe and 6 more. Often billed alongside CÖLN, Badlokk and Neon Graveyard. Next up: Gotec, Karlsruhe on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Gotec | Karlsruhe |
+| Sat, 13 Mar 2027 | Turbinenhalle | North-rhine-westphalia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ RYX is a techno and trance artist based in Germany, with 22 gigs on soundcheck a
 
 ## Shares bills with
 
-CÖLN, Badlokk, BBUBU
+CÖLN, Badlokk, Neon Graveyard
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*

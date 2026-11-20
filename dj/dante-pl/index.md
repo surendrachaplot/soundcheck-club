@@ -1,8 +1,8 @@
 # Danté
 
-Danté is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Crackhouse, Gdansk on Sat, 21 Nov 2026.
+Danté is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Crackhouse, Gdansk on Sat, 21 Nov 2026.
 
-Danté is a techno and house artist based in Poland, with 31 gigs on soundcheck across Amsterdam, Bergen, Berlin and Budapest and 10 more. Often billed alongside Sept, CRANZ and Phil Berg. Next up: Crackhouse, Gdansk on Sat 21 Nov.
+Danté is a techno and house artist based in Poland, with 33 gigs on soundcheck across Amsterdam, Bergen, Berlin and Budapest and 11 more. Often billed alongside Sept, CRANZ and Laure Croft. Next up: Crackhouse, Gdansk on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,7 +12,9 @@ Danté is a techno and house artist based in Poland, with 31 gigs on soundcheck 
 | Sat, 28 Nov 2026 | ://about blank | Berlin |
 | Fri, 4 Dec 2026 | Crackhouse | Gdansk |
 | Thu, 10 Dec 2026 | Phonox | London |
+| Fri, 11 Dec 2026 | Klub K4 | Ljubljana |
 | Sat, 12 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 18 Dec 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
 
@@ -27,6 +29,6 @@ Danté is a techno and house artist based in Poland, with 31 gigs on soundcheck 
 
 ## Shares bills with
 
-Sept, CRANZ, Phil Berg
+Sept, CRANZ, Laure Croft
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*

@@ -1,6 +1,6 @@
 # VERKNIPT NYE Eindhoven at Klokgebouw
 
-VERKNIPT NYE Eindhoven at Klokgebouw on Thu 31 Dec, Eindhoven. 18 artists: amara, Aphøtic, Ben Techy and BØĘRY and 14 more. See the line-up on soundcheck.
+VERKNIPT NYE Eindhoven at Klokgebouw on Thu 31 Dec, Eindhoven. 19 artists: amara, Aphøtic, Ben Techy and BØĘRY and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -28,5 +28,6 @@ VERKNIPT NYE Eindhoven at Klokgebouw on Thu 31 Dec, Eindhoven. 18 artists: amara
 - TASSERY
 - THISO
 - Vendex
+- ZUKE
 
 *Source: [soundcheck](https://soundcheck.club/e/2509370-verknipt-nye-eindhoven-at-klokgebouw/)*

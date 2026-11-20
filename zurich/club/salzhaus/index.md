@@ -1,0 +1,17 @@
+# Salzhaus
+
+Salzhaus is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Divercity Bass with Breakage, DJ Hybrid & MOLECULAR" on Sat, 21 Nov 2026.
+
+Salzhaus is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including Breakage, DJ Hybrid and Molecular. See dates, start times and who's playing. Untere Vogelsangstrasse 6; 8400, Winterthur; Switzerland.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Divercity Bass with Breakage, DJ Hybrid & MOLECULAR | Breakage, DJ Hybrid, Molecular (2) |
+
+## Address
+
+Untere Vogelsangstrasse 6; 8400, Winterthur; Switzerland, Zurich
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/salzhaus/)*

@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "System Sol invite Stella Zekri" on Fri, 20 Nov 2026.
+Djoon is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "System Sol invite Stella Zekri" on Fri, 20 Nov 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Broodoo Ramses, Laila Amira, Max Sinàl and Poté and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -18,4 +18,4 @@ Djoon is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

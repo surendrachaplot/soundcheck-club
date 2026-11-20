@@ -1,6 +1,6 @@
 # Panaf Night Club
 
-Panaf Night Club is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "NO BORDERS FRIDAY" on Fri, 20 Nov 2026.
+Panaf Night Club is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "NO BORDERS FRIDAY" on Fri, 20 Nov 2026.
 
 Panaf Night Club is a music venue in Osaka listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Panaf Night Club is a music venue in Osaka listed on soundcheck. 4 upcoming gigs
 | Fri, 27 Nov 2026 | Kendall Boom |  |
 | Sat, 26 Dec 2026 | Black Swan by Maria |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/panaf-night-club/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/panaf-night-club/)*

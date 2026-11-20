@@ -1,14 +1,15 @@
 # Eiger Drums Propaganda
 
-Eiger Drums Propaganda is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
+Eiger Drums Propaganda is a Downtempo and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
 
-Eiger Drums Propaganda is a downtempo and house artist based in France, with 23 gigs on soundcheck across Amsterdam, Athens, Beijing and Brussels and 5 more. Often billed alongside OKO DJ, Onarrivenow and Baggymilziade. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
+Eiger Drums Propaganda is a downtempo and house artist based in France, with 24 gigs on soundcheck across Amsterdam, Athens, Beijing and Brussels and 5 more. Often billed alongside OKO DJ, Onarrivenow and Baggymilziade. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | La Station - Gare des Mines | Paris |
+| Sat, 5 Dec 2026 | Astron Club | Athens |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Eiger Drums Propaganda is a downtempo and house artist based in France, with 23 
 
 OKO DJ, Onarrivenow, Baggymilziade
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eigerdrumspropaganda/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eigerdrumspropaganda/)*

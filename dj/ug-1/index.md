@@ -1,6 +1,6 @@
 # UG (1)
 
-UG (1) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
+UG (1) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
 
 UG is a techno and experimental artist based in Japan, with 15 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Sakuma, age and Mustache X. Next up: Aoyama Hachi, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ UG is a techno and experimental artist based in Japan, with 15 gigs on soundchec
 
 Sakuma, age (1), Mustache X
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*

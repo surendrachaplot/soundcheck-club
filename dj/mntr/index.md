@@ -1,14 +1,15 @@
 # MNTR
 
-MNTR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
+MNTR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
 
-MNTR is a techno and trance artist based in Slovenia, with 14 gigs on soundcheck across Berlin, Ljubljana and Slovenia. Often billed alongside Brtinzz, LEANNE and nobena. Next up: Klub K4, Ljubljana on Sat 21 Nov.
+MNTR is a techno and trance artist based in Slovenia, with 15 gigs on soundcheck across Berlin, Ljubljana and Slovenia. Often billed alongside Brtinzz, LEANNE and nobena. Next up: Klub K4, Ljubljana on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Klub K4 | Ljubljana |
+| Fri, 11 Dec 2026 | Klub K4 | Ljubljana |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MNTR is a techno and trance artist based in Slovenia, with 14 gigs on soundcheck
 
 Brtinzz, LEANNE, nobena
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mntr/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mntr/)*

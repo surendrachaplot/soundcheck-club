@@ -1,6 +1,6 @@
 # Cattoni
 
-Cattoni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
+Cattoni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
 
 Cattoni is a techno and trance artist based in France, with 28 gigs on soundcheck across Berlin, Lyon and Paris. Often billed alongside In-Tan, Artifak and Kelbail. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Cattoni is a techno and trance artist based in France, with 28 gigs on soundchec
 
 In-Tan, Artifak, Kelbail
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*

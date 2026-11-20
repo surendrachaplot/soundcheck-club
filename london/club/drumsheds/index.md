@@ -1,6 +1,6 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 11 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "City Splash with Masicka, Spice, Rampage Sound and many more" on Sat, 21 Nov 2026.
+DRUMSHEDS is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "City Splash with Masicka, Spice, Rampage Sound and many more" on Sat, 21 Nov 2026.
 
 DRUMSHEDS is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Kepler, ADMNTi, Adrian Mills and Alex Farell and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
@@ -9,7 +9,7 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 11 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | City Splash with Masicka, Spice, Rampage Sound and many more | DJ Ace, DJ Nate, Pioneer, Rampage Sound, Spice, Supa D, TERMINAL 4 |
-| Sat, 28 Nov 2026 | FUSE 18th Birthday w/ Enzo Siragusa b2b Rossi., Luciano, Marlie b2b Natalia Roth, Marsolo | ADMNTi, Apollonia, Boss Priester, Brawther, Dan Ghenacia, Dungeon Meat, Dyed Soundorom, E.LINA, Enzo Siragusa, Jhobei, Julian Anthony, Kepler, L.P. Rhythm, Laidlaw, Luciano, Marlie, Marsolo, Natalia Roth, PACH, Reeshy, Rossi, Samuel Deep, Shonky, Sweely, Traumer, Tristan da Cunha, Voigtmann |
+| Sat, 28 Nov 2026 | FUSE 18th Birthday w/ Enzo Siragusa b2b Rossi., Luciano, Marsolo, Reeshy | ADMNTi, Apollonia, Boss Priester, Brawther, Dan Ghenacia, Dungeon Meat, Dyed Soundorom, E.LINA, Enzo Siragusa, Jhobei, Julian Anthony, Kepler, L.P. Rhythm, Laidlaw, Luciano, Marlie, Marsolo, Natalia Roth, PACH, Reeshy, Rossi, Samuel Deep, Shonky, Sweely, Traumer, Tristan da Cunha, Voigtmann |
 | Sat, 28 Nov 2026 | FUSE London |  |
 | Sat, 28 Nov 2026 | FUSE 18th Birthday at Drumshed |  |
 | Sun, 29 Nov 2026 | SOLD OUT Piano People w/ South Gidi, DJ LAG b2b General C'Mamane | DJ LAG, Dj Maphorisa, Nésa Thea, cruz ctrl |
@@ -23,4 +23,4 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 11 upcoming gigs, wit
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

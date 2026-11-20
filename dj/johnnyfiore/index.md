@@ -1,14 +1,16 @@
 # Johnny Fiore
 
-Johnny Fiore is a Disco and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at XOYO, London on Wed, 25 Nov 2026.
+Johnny Fiore is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at XOYO, London on Wed, 25 Nov 2026.
 
-Johnny Fiore is a disco and club artist, with 24 gigs on soundcheck across London and Rome. Often billed alongside Marcelo Tag, Shamiso and Zeth. Next up: XOYO, London on Wed 25 Nov.
+Johnny Fiore is a tech house and house artist, with 26 gigs on soundcheck across London and Rome. Often billed alongside Dimanté, Enrico Chirchiello and Francesco Poggi. Next up: XOYO, London on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | XOYO | London |
+| Sat, 12 Dec 2026 | Protocol | London |
+| Sun, 13 Dec 2026 | Protocol | London |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Johnny Fiore is a disco and club artist, with 24 gigs on soundcheck across Londo
 
 ## Shares bills with
 
-Marcelo Tag, Shamiso, Zeth
+Dimanté, Enrico Chirchiello, Francesco Poggi
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*

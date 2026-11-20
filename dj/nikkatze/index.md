@@ -1,6 +1,6 @@
 # nikkatze
 
-nikkatze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Sao Paulo on Fri, 27 Nov 2026.
+nikkatze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Sao Paulo on Fri, 27 Nov 2026.
 
 nikkatze is a techno and house artist, with 24 gigs on soundcheck across Berlin, Mexico City, New York City and Sao Paulo and 1 more. Often billed alongside Renato Cohen, DJ DUE and Andrea Gram. Next up: TBA, Sao Paulo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ nikkatze is a techno and house artist, with 24 gigs on soundcheck across Berlin,
 
 Renato Cohen, DJ DUE, Andrea Gram
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkatze/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkatze/)*

@@ -1,6 +1,6 @@
 # Salomée
 
-Salomée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
+Salomée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
 
 Salomée is a techno and house artist based in France, with 48 gigs on soundcheck across Barcelona, Bordeaux, Brussels and London and 4 more. Often billed alongside Domi (FR), GNMR and Jolly (FR). Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Salomée is a techno and house artist based in France, with 48 gigs on soundchec
 
 Domi (FR), GNMR, Jolly (FR)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salomee/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salomee/)*

@@ -1,8 +1,8 @@
 # skruba
 
-skruba is a Dubstep and Grime artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+skruba is a Dubstep and Grime artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
-skruba is a dubstep and grime artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Carien, Any Koh and Ben Watson. Next up: Brixton Radio, London on Sat 21 Nov.
+skruba is a dubstep and grime artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Carien, AJA and Ben Watson. Next up: Brixton Radio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ skruba is a dubstep and grime artist based in United Kingdom, with 6 gigs on sou
 
 ## Shares bills with
 
-Carien, Any Koh, Ben Watson
+Carien, AJA, Ben Watson
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*

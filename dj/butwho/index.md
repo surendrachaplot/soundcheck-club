@@ -1,6 +1,6 @@
 # Butwho
 
-Butwho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Smolna, Warsaw on Tue, 24 Nov 2026.
+Butwho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Smolna, Warsaw on Tue, 24 Nov 2026.
 
 Butwho is a techno and house artist based in Poland, with 13 gigs on soundcheck across Warsaw. Often billed alongside Lyor Kalt, Francesca (PL) and SYS.END. Next up: Smolna, Warsaw on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Butwho is a techno and house artist based in Poland, with 13 gigs on soundcheck 
 
 Lyor Kalt, Francesca (PL), SYS.END
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butwho/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butwho/)*

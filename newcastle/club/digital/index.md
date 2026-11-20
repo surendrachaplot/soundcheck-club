@@ -1,14 +1,13 @@
 # Digital
 
-Digital is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "UNIT.90 THURSDAYS" on Thu, 19 Nov 2026.
+Digital is a music venue in Newcastle with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Digital presents: Kmotionz, Conducta & Flowdan (Live)" on Fri, 20 Nov 2026.
 
-Digital is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Kepler, ADR (UK), Andy Whitby and Conducta and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
+Digital is a music venue in Newcastle listed on soundcheck. 13 upcoming gigs, with line-ups including Kepler, ADR (UK), Andy Whitby and Conducta and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | UNIT.90 THURSDAYS |  |
 | Fri, 20 Nov 2026 | Digital presents: Kmotionz, Conducta & Flowdan (Live) | Conducta, Flowdan, K Motionz |
 | Sat, 21 Nov 2026 | DIGITAL Presents Jazzy: Peace & Patience Tour |  |
 | Sat, 21 Nov 2026 | Digital presents Jazzy: Peace & Patience Tour | ADR (UK), Ellie Scougall, James Poole, Jazzy (IRL) |
@@ -18,9 +17,10 @@ Digital is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 28 Nov 2026 | Andy Whitby's BOUNCE GENERATION 360 | Andy Whitby |
 | Fri, 4 Dec 2026 | Digital X Kepler Presents: Contact | DJ Cosworth, Kepler, Oldboy, Reeshy, Soul Mass Transit System, Wakka |
 | Fri, 11 Dec 2026 | CIRCO - All Night Long |  |
+| Fri, 18 Dec 2026 | Digital presents: Luke Dean b2b MJ Cole b2b Lucas Alexander |  |
 
 ## Address
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

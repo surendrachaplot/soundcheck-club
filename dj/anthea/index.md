@@ -1,8 +1,8 @@
 # Anthea
 
-Anthea is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+Anthea is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
 
-Anthea is a house and techno artist based in United Kingdom, with 200 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 55 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Concept Haus, Manchester on Sat 21 Nov.
+Anthea is a house and techno artist based in United Kingdom, with 201 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 56 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Concept Haus, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Anthea is a house and techno artist based in United Kingdom, with 200 gigs on so
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Thu, 3 Dec 2026 | Sable Miami | Miami |
 | Fri, 4 Dec 2026 | TBA - East Williamsburg | New-york-city |
+| Sat, 26 Dec 2026 | Stereo | Montreal |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Anthea is a house and techno artist based in United Kingdom, with 200 gigs on so
 
 Oshana, tINI, Astral Travel
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

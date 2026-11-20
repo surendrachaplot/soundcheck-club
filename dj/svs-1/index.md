@@ -1,14 +1,15 @@
 # SVS (1)
 
-SVS (1) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+SVS (1) is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
-SVS is an electro and house artist based in Belgium, with 29 gigs on soundcheck across Amsterdam, Brussels, Ghent and Madrid. Often billed alongside Nikita, Adi and Violently Happy. Next up: UMI, Brussels on Fri 27 Nov.
+SVS is an electro and house artist based in Belgium, with 30 gigs on soundcheck across Amsterdam, Brussels, Ghent and Madrid. Often billed alongside Nikita, Adi and Leef. Next up: UMI, Brussels on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | UMI | Brussels |
+| Fri, 1 Jan 2027 | UMI | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SVS is an electro and house artist based in Belgium, with 29 gigs on soundcheck 
 
 ## Shares bills with
 
-Nikita, Adi, Violently Happy
+Nikita, Adi, Leef
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svs-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svs-1/)*

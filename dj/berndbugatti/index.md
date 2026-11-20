@@ -1,0 +1,28 @@
+# Bernd Bugatti
+
+Bernd Bugatti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
+
+Bernd Bugatti is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside Liebe Nachbarn, Anna Lazer and DJ Nebelmaschine. Next up: Ritter Butzke, Berlin on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Ritter Butzke | Berlin |
+
+## Recently played
+
+- Bahnwärter Thiel, Munich · Fri, 23 Oct 2026
+- Klunkerkranich, Berlin · Fri, 2 Oct 2026
+- Lieberscholli, Munich · Sat, 12 Sept 2026
+- Beate Uwe, Berlin · Sat, 21 Feb 2026
+- Void Club, Berlin · Fri, 6 Feb 2026
+- AVA Club, Berlin · Fri, 12 Dec 2025
+- Der Weiße Hase, Berlin · Sat, 5 Jul 2025
+- Süss War Gestern, Berlin · Fri, 16 May 2025
+
+## Shares bills with
+
+Liebe Nachbarn, Anna Lazer, DJ Nebelmaschine
+
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berndbugatti/)*

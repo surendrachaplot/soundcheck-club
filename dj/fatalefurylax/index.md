@@ -1,6 +1,6 @@
 # Fatale Furylax
 
-Fatale Furylax is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Les Relais Solidaires, Paris on Sat, 28 Nov 2026.
+Fatale Furylax is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Les Relais Solidaires, Paris on Sat, 28 Nov 2026.
 
 Fatale Furylax is a bass and dubstep artist based in France, with 36 gigs on soundcheck across Bordeaux, Brussels, London and Lyon and 3 more. Often billed alongside Brutal Experiences, Lia Catreux and MARIAD. Next up: Les Relais Solidaires, Paris on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Fatale Furylax is a bass and dubstep artist based in France, with 36 gigs on sou
 
 Brutal Experiences, Lia Catreux, MARIAD
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalefurylax/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalefurylax/)*

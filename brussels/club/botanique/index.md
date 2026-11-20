@@ -1,26 +1,26 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 15 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Maria Arnal - Bulie Jordeaux" on Wed, 18 Nov 2026.
+Botanique is a music venue in Brussels with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Mietze Conte" on Fri, 20 Nov 2026.
 
-Botanique is a music venue in Brussels listed on soundcheck. 15 upcoming gigs, with line-ups including Anton Friisgaard, Aponogeton, Baba Stiltz and Ben Bertrand and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
+Botanique is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with line-ups including Anton Friisgaard, Aponogeton, Baba Stiltz and Ben Bertrand and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Maria Arnal - Bulie Jordeaux | Bulie Jordeaux |
-| Thu, 19 Nov 2026 | Prison Religion + EDU & JUDGITZU | JUDGITZU, Prison Religion |
 | Fri, 20 Nov 2026 | Mietze Conte | Mietze Conte |
-| Thu, 26 Nov 2026 | Judith Kiddo - Melissa Weikart |  |
+| Thu, 26 Nov 2026 | Judith Kiddo |  |
 | Sat, 28 Nov 2026 | 10 YRS STROOM Weekender | Anton Friisgaard, Aponogeton, Ben Bertrand, Ciro Vitiello, Daisy Ray, Eli Wewentxu, Florian TM Zeisig, Hiele, INKASSO, Les Halles, Low Jack, ML (1), Martyna Basta, Nosedrip, OKO DJ, Pablo's Eye, Radio Hito, Sagat, Velv.93, Voice Actor, èvia |
 | Tue, 1 Dec 2026 | Evanora Unlimited | Evanora Unlimited |
 | Thu, 3 Dec 2026 | Pongo | Bona Léa, Pongo |
 | Thu, 10 Dec 2026 | Kevin Richard Martin presents 'Sub Zero' + Farida Amadou  |  |
 | Sat, 12 Dec 2026 | Sub Rosa Label Night | BOW (1), Scanner |
 | Fri, 29 Jan 2027 | The Sound of the Belgian Underground | VINESSETT |
+| Sun, 31 Jan 2027 | Baba Stiltz | Baba Stiltz |
+| Wed, 10 Feb 2027 | Lewis OfMan | Lewis OfMan |
 
 ## Address
 
 Koningsstraat 236, 1210 Brussels, Belgium, Brussels
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*

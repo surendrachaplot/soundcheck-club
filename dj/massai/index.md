@@ -1,14 +1,15 @@
 # Massaï
 
-Massaï is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - LE TLM, Paris on Sat, 21 Nov 2026.
+Massaï is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - LE TLM, Paris on Sat, 21 Nov 2026.
 
-Massaï is a house and electro artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside LAMALICE, Gabriel Belabbas and Man/Ipulate. Next up: TBA - LE TLM, Paris on Sat 21 Nov.
+Massaï is a house and techno artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside LAMALICE, Gabriel Belabbas and Man/Ipulate. Next up: TBA - LE TLM, Paris on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - LE TLM | Paris |
+| Fri, 11 Dec 2026 | la Maison de la Conversation | Paris |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Massaï is a house and electro artist based in United Kingdom, with 95 gigs on s
 
 LAMALICE, Gabriel Belabbas, Man/Ipulate
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*

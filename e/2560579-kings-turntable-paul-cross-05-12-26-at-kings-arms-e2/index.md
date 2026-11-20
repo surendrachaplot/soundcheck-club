@@ -1,6 +1,6 @@
 # Kings Turntable: Paul Cross [05.12.26] at Kings Arms E2
 
-Kings Turntable: Paul Cross [05.12.26] at Kings Arms E2 on Sat 5 Dec, London. Krautrock and Post-Punk. See the line-up on soundcheck.
+Kings Turntable: Paul Cross [05.12.26] at Kings Arms E2 on Sat 5 Dec, London. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

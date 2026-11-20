@@ -1,14 +1,15 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Club 77, Sydney on Fri, 20 Nov 2026.
+Jesse You is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club 77, Sydney on Fri, 20 Nov 2026.
 
-Jesse You is a house and techno artist based in South Korea, with 252 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 15 more. Often billed alongside JNS, Jucid and Jimin. Next up: Club 77, Sydney on Fri 20 Nov.
+Jesse You is a house and techno artist based in South Korea, with 253 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 16 more. Often billed alongside JNS, Jucid and Jimin. Next up: Club 77, Sydney on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Club 77 | Sydney |
+| Sat, 21 Nov 2026 | Haven | Byron Bay |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -26,4 +27,4 @@ Jesse You is a house and techno artist based in South Korea, with 252 gigs on so
 
 JNS, Jucid, Jimin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*

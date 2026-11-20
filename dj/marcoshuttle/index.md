@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at OIL Club, Shenzhen on Fri, 11 Dec 2026.
+Marco Shuttle is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OIL Club, Shenzhen on Fri, 11 Dec 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, with 176 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 47 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: OIL Club, Shenzhen on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Marco Shuttle is a techno and house artist based in Italy, with 176 gigs on soun
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

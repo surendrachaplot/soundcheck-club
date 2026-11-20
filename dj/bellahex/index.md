@@ -1,6 +1,6 @@
 # Bella Hex
 
-Bella Hex is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Mood Ring, New York City on Sat, 21 Nov 2026.
+Bella Hex is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mood Ring, New York City on Sat, 21 Nov 2026.
 
 Bella Hex is a techno and house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside STARLOTTE, JOHNNY O and AJACENT. Next up: Mood Ring, New York City on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Bella Hex is a techno and house artist based in United States of America, with 6
 
 STARLOTTE, JOHNNY O, AJACENT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahex/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahex/)*

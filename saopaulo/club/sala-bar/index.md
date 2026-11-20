@@ -1,14 +1,13 @@
 # Sala Bar
 
-Sala Bar is a music venue in Sao Paulo with 6 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Sala recebe Sarlim" on Thu, 19 Nov 2026.
+Sala Bar is a music venue in Sao Paulo with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Sala recebe Ricardo Pereira" on Fri, 20 Nov 2026.
 
-Sala Bar is a music venue in Sao Paulo listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Rua Fernão Dias, 767, Pinheiros, São Paulo, SP, 05427-011, Brazil.
+Sala Bar is a music venue in Sao Paulo listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. Rua Fernão Dias, 767, Pinheiros, São Paulo, SP, 05427-011, Brazil.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Sala recebe Sarlim |  |
 | Fri, 20 Nov 2026 | Sala recebe Ricardo Pereira |  |
 | Sat, 21 Nov 2026 | Sala recebe Discolada |  |
 | Thu, 26 Nov 2026 | Sala recebe Swings & Batidas |  |
@@ -19,4 +18,4 @@ Sala Bar is a music venue in Sao Paulo listed on soundcheck. 6 upcoming gigs. Se
 
 Rua Fernão Dias, 767, Pinheiros, São Paulo, SP, 05427-011, Brazil, Sao Paulo
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/sala-bar/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/sala-bar/)*

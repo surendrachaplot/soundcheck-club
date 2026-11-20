@@ -1,6 +1,6 @@
-# mélange, By Ben Timi Nuga at 93 Feet East
+# mélange, by Ben Timi Nuga at 93 Feet East
 
-mélange, By Ben Timi Nuga at 93 Feet East on Fri 11 Dec, London. See the line-up on soundcheck.
+mélange, by Ben Timi Nuga at 93 Feet East on Fri 11 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

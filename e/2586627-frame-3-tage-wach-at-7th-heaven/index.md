@@ -1,6 +1,6 @@
 # Frame 3 Tage Wach at 7th Heaven
 
-Frame 3 Tage Wach at 7th Heaven on Thu 31 Dec, Hamburg. 7 artists: Alexej, Benjamin Grimm, Burak55 and DWORAK and 3 more. Techno and House. See the line-up on soundcheck.
+Frame 3 Tage Wach at 7th Heaven on Thu 31 Dec, Hamburg. 11 artists: Alexej, Benjamin Grimm, Burak55 and CHICHO and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,13 @@ Frame 3 Tage Wach at 7th Heaven on Thu 31 Dec, Hamburg. 7 artists: Alexej, Benja
 - Alexej
 - Benjamin Grimm
 - Burak55
+- CHICHO
 - DWORAK
 - JASHTECH
 - LIRICA
+- Mr. Maggio
 - NELØ
+- Return Fall
+- Strichkot
 
 *Source: [soundcheck](https://soundcheck.club/e/2586627-frame-3-tage-wach-at-7th-heaven/)*

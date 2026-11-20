@@ -1,6 +1,6 @@
 # Kaoll
 
-Kaoll is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Blvck Water, Osaka on Fri, 20 Nov 2026.
+Kaoll is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Blvck Water, Osaka on Fri, 20 Nov 2026.
 
 Kaoll is a techno and industrial artist based in Japan, with 30 gigs on soundcheck across Osaka. Often billed alongside FENGX2, LIZA and ZAGUN. Next up: Blvck Water, Osaka on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Kaoll is a techno and industrial artist based in Japan, with 30 gigs on soundche
 
 FENGX2, LIZA (6), ZAGUN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*

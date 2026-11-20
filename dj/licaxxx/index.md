@@ -1,8 +1,8 @@
 # Licaxxx
 
-Licaxxx is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at BAR Inc, Osaka on Mon, 23 Nov 2026.
+Licaxxx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at BAR Inc, Osaka on Mon, 23 Nov 2026.
 
-Licaxxx is a house and techno artist based in Japan, with 102 gigs on soundcheck across Chengdu, Hanoi, Hong Kong and Kyoto and 7 more. Often billed alongside JUN INAGAWA, FELINE (JP) and kengotaki. Next up: BAR Inc, Osaka on Mon 23 Nov.
+Licaxxx is a house and techno artist based in Japan, with 103 gigs on soundcheck across Chengdu, Hanoi, Hong Kong and Kyoto and 7 more. Often billed alongside FELINE (JP), JUN INAGAWA and kengotaki. Next up: BAR Inc, Osaka on Mon 23 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Licaxxx is a house and techno artist based in Japan, with 102 gigs on soundcheck
 | --- | --- | --- |
 | Mon, 23 Nov 2026 | BAR Inc | Osaka |
 | Wed, 9 Dec 2026 | DJ Bar Bridge | Tokyo |
+| Sat, 12 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Licaxxx is a house and techno artist based in Japan, with 102 gigs on soundcheck
 
 ## Shares bills with
 
-JUN INAGAWA, FELINE (JP), kengotaki
+FELINE (JP), JUN INAGAWA, kengotaki
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*

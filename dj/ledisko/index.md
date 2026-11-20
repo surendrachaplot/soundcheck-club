@@ -1,8 +1,8 @@
 # Ledisko
 
-Ledisko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Système, Montreal on Fri, 20 Nov 2026.
+Ledisko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Système, Montreal on Fri, 20 Nov 2026.
 
-Ledisko is a house and disco artist, with 21 gigs on soundcheck across Montreal. Often billed alongside Sancho, Esther Côté and The Fitness. Next up: Système, Montreal on Fri 20 Nov.
+Ledisko is a house and disco artist based in Canada, with 21 gigs on soundcheck across Montreal. Often billed alongside Sancho, Esther Côté and The Fitness. Next up: Système, Montreal on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ledisko is a house and disco artist, with 21 gigs on soundcheck across Montreal.
 
 Sancho, Esther Côté, The Fitness
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ledisko/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ledisko/)*

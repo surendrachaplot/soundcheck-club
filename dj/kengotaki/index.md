@@ -1,8 +1,8 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Kieth Flack, Kyushu on Fri, 20 Nov 2026.
+kengotaki is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kieth Flack, Kyushu on Fri, 20 Nov 2026.
 
-kengotaki is a house and techno artist based in Japan, with 184 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Kieth Flack, Kyushu on Fri 20 Nov.
+kengotaki is a house and techno artist based in Japan, with 186 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Kieth Flack, Kyushu on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ kengotaki is a house and techno artist based in Japan, with 184 gigs on soundche
 | Sun, 22 Nov 2026 | ZEROTOKYO | Tokyo |
 | Thu, 3 Dec 2026 | Circus Osaka | Osaka |
 | Thu, 3 Dec 2026 | Circus Osaka | Osaka |
+| Sat, 5 Dec 2026 | Enter Shibuya | Tokyo |
+| Sat, 12 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ kengotaki is a house and techno artist based in Japan, with 184 gigs on soundche
 
 r1ku, SAMO (JP), YUVIE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*

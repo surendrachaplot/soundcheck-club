@@ -1,14 +1,14 @@
 # Eden Aurelius
 
-Eden Aurelius is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Eden Aurelius is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Signal, New York City on Fri, 11 Dec 2026.
 
-Eden Aurelius is a techno and ambient artist based in United States of America, with 43 gigs on soundcheck across Chicago, Lisbon, New York City and Philadelphia. Often billed alongside Marihito, 320 and Kfeelz. Next up: public records, New York City on Mon 9 Nov.
+Eden Aurelius is a techno and ambient artist based in United States of America, with 44 gigs on soundcheck across Chicago, Lisbon, New York City and Philadelphia. Often billed alongside Marihito, 320 and Kfeelz. Next up: Signal, New York City on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | public records | New York City |
+| Fri, 11 Dec 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Eden Aurelius is a techno and ambient artist based in United States of America, 
 
 Marihito, 320 (1), Kfeelz
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*

@@ -1,14 +1,15 @@
 # Howler (UK)
 
-Howler (UK) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Rote Flora, Hamburg on Sat, 21 Nov 2026.
+Howler (UK) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Rote Flora, Hamburg on Sat, 21 Nov 2026.
 
-Howler (UK) is a techno and ambient artist based in United Kingdom, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Jotam., Appleblim and Forgotten Sounds. Next up: Rote Flora, Hamburg on Sat 21 Nov.
+Howler (UK) is a techno and ambient artist based in United Kingdom, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Jotam., Appleblim and Forgotten Sounds. Next up: Rote Flora, Hamburg on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Rote Flora | Hamburg |
+| Mon, 7 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Howler (UK) is a techno and ambient artist based in United Kingdom, with 6 gigs 
 
 Jotam., Appleblim, Forgotten Sounds
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howler-uk/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howler-uk/)*

@@ -1,13 +1,14 @@
 # Tonya
 
-Tonya is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at President Hotel, Athens on Sun, 29 Nov 2026.
+Tonya is a House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Dybbuk, Athens on Fri, 20 Nov 2026.
 
-Tonya is a house artist based in Greece, with 19 gigs on soundcheck across Athens. Often billed alongside BRB, Pablo Nuevo and DINO ACE. Next up: President Hotel, Athens on Sun 29 Nov.
+Tonya is a house artist based in Greece, with 20 gigs on soundcheck across Athens. Often billed alongside BRB, Pablo Nuevo and DINO ACE. Next up: Dybbuk, Athens on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Dybbuk | Athens |
 | Sun, 29 Nov 2026 | President Hotel | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tonya is a house artist based in Greece, with 19 gigs on soundcheck across Athen
 
 BRB, Pablo Nuevo, DINO ACE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonya/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonya/)*

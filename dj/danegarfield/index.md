@@ -1,6 +1,6 @@
 # Dane Garfield
 
-Dane Garfield is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Orient Express, Seattle on Fri, 20 Nov 2026.
+Dane Garfield is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Orient Express, Seattle on Fri, 20 Nov 2026.
 
 Dane Garfield is a house and deep house artist based in United States of America, with 35 gigs on soundcheck across Seattle. Often billed alongside Brian Lyons, Julie Herrera and Casewag. Next up: Orient Express, Seattle on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dane Garfield is a house and deep house artist based in United States of America
 
 Brian Lyons, Julie Herrera, Casewag
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danegarfield/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danegarfield/)*

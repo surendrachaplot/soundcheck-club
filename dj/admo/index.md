@@ -1,6 +1,6 @@
 # Admo
 
-Admo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+Admo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
 
 Admo is a house and techno artist based in France, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside International Mac, Gene On Earth and Kirill Astra. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
 
@@ -25,4 +25,4 @@ Admo is a house and techno artist based in France, with 79 gigs on soundcheck ac
 
 International Mac, Gene On Earth, Kirill Astra
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*

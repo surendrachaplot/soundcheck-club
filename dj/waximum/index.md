@@ -1,6 +1,6 @@
 # Waximum
 
-Waximum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Big Romance, Dublin on Fri, 20 Nov 2026.
+Waximum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Big Romance, Dublin on Fri, 20 Nov 2026.
 
 Waximum is a house and techno artist based in Ireland, with 30 gigs on soundcheck across Dublin. Often billed alongside Royce Larøca, Hera (IE) and RealTalks Soundsystem. Next up: The Big Romance, Dublin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Waximum is a house and techno artist based in Ireland, with 30 gigs on soundchec
 
 Royce Larøca, Hera (IE), RealTalks Soundsystem
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waximum/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waximum/)*

@@ -1,14 +1,15 @@
 # Syddevil
 
-Syddevil is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at And Club, Johannesburg on Fri, 20 Nov 2026.
+Syddevil is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at And Club, Johannesburg on Fri, 20 Nov 2026.
 
-Syddevil is a house and techno artist based in South Africa, with 2 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Avi Subban, Black Lake and Deano. Next up: And Club, Johannesburg on Fri 20 Nov.
+Syddevil is a house and techno artist based in South Africa, with 3 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Avi Subban, Baby Whitz and Black Lake. Next up: And Club, Johannesburg on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | And Club | Johannesburg |
+| Fri, 15 Jan 2027 | Carfax | Johannesburg |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Syddevil is a house and techno artist based in South Africa, with 2 gigs on soun
 
 ## Shares bills with
 
-Avi Subban, Black Lake, Deano
+Avi Subban, Baby Whitz, Black Lake
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syddevil/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syddevil/)*

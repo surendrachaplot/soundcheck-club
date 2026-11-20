@@ -1,6 +1,6 @@
 # heykazma
 
-heykazma is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at HVEN, Tokyo on Sat, 21 Nov 2026.
+heykazma is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at HVEN, Tokyo on Sat, 21 Nov 2026.
 
 heykazma is a techno and experimental artist based in Japan, with 28 gigs on soundcheck across Tokyo. Often billed alongside Yuki Kawamura, --- mr --- and SiSeN. Next up: HVEN, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ heykazma is a techno and experimental artist based in Japan, with 28 gigs on sou
 
 Yuki Kawamura, --- mr ---, SiSeN
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heykazma/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heykazma/)*

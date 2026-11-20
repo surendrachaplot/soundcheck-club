@@ -1,6 +1,6 @@
 # FrEaKyNoRiKy
 
-FrEaKyNoRiKy is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at HVEN, Tokyo on Sat, 21 Nov 2026.
+FrEaKyNoRiKy is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at HVEN, Tokyo on Sat, 21 Nov 2026.
 
 FrEaKyNoRiKy is a techno and breakbeat artist based in Japan, with 59 gigs on soundcheck across Edinburgh, Frankfurt, London and Montreal and 4 more. Often billed alongside VÏVÏ, M.I.O and 7e. Next up: HVEN, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ FrEaKyNoRiKy is a techno and breakbeat artist based in Japan, with 59 gigs on so
 
 VÏVÏ, M.I.O, 7e
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakynoriky/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakynoriky/)*

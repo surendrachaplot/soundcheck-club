@@ -1,13 +1,14 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Heaps Normal Health Club, Sydney on Sat, 12 Dec 2026.
+Caleb Jackson is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Glamorama, Melbourne on Fri, 11 Dec 2026.
 
-Caleb Jackson is a house and techno artist based in Australia, with 81 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 16 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Heaps Normal Health Club, Sydney on Sat 12 Dec.
+Caleb Jackson is a house and techno artist based in Australia, with 82 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 16 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Glamorama, Melbourne on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Glamorama | Melbourne |
 | Sat, 12 Dec 2026 | Heaps Normal Health Club | Sydney |
 | Sat, 12 Dec 2026 | Heaps Normal Health Club | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
@@ -27,4 +28,4 @@ Caleb Jackson is a house and techno artist based in Australia, with 81 gigs on s
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

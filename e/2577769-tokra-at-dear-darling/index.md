@@ -1,6 +1,6 @@
 # TOKRA at Dear Darling
 
-TOKRA at Dear Darling on Sat 21 Nov, London. 5 artists: Christoph Cham, Dimanté, Dj.Blue.Elephant and LEIA and 1 more. House and Afro House. See the line-up on soundcheck.
+TOKRA at Dear Darling on Sat 21 Nov, London. 4 artists: Christoph Cham, Dimanté, Dj.Blue.Elephant and LEIA. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,5 @@ TOKRA at Dear Darling on Sat 21 Nov, London. 5 artists: Christoph Cham, Dimanté
 - Dimanté
 - Dj.Blue.Elephant
 - LEIA (1)
-- Picep
 
 *Source: [soundcheck](https://soundcheck.club/e/2577769-tokra-at-dear-darling/)*

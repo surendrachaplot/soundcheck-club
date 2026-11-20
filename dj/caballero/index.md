@@ -1,6 +1,6 @@
 # CABALLERO
 
-CABALLERO is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Rama Soundgarden, Medellin on Sun, 29 Nov 2026.
+CABALLERO is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Rama Soundgarden, Medellin on Sun, 29 Nov 2026.
 
 CABALLERO is a progressive house and house artist based in Colombia, with 21 gigs on soundcheck across Medellin, Mexico City and Monterrey. Often billed alongside CaHen, Blanco and Carzoul. Next up: Rama Soundgarden, Medellin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ CABALLERO is a progressive house and house artist based in Colombia, with 21 gig
 
 CaHen, Blanco, Carzoul
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caballero/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caballero/)*

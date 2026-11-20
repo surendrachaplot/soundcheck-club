@@ -1,6 +1,6 @@
 # DONT BLINK
 
-DONT BLINK is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
+DONT BLINK is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
 
 DONT BLINK is a tech house and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Frankfurt and 10 more. Often billed alongside Avocado, Jil Tanner and Juliet Sikora. Next up: Lieberscholli, Munich on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ DONT BLINK is a tech house and techno artist based in Germany, with 23 gigs on s
 
 Avocado, Jil Tanner, Juliet Sikora
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*

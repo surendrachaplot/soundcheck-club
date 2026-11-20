@@ -1,14 +1,15 @@
 # BOA (1)
 
-BOA (1) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at XOYO, London on Wed, 25 Nov 2026.
+BOA (1) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at XOYO, London on Wed, 25 Nov 2026.
 
-BOA is a tech house and house artist based in United Kingdom, with 18 gigs on soundcheck across Ibiza, London, Malta and Manchester. Often billed alongside Olly Brady, SAM PHONIC and MTRG. Next up: XOYO, London on Wed 25 Nov.
+BOA is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 1 more. Often billed alongside Olly Brady, Philip Ackowsky and SAM PHONIC. Next up: XOYO, London on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | XOYO | London |
+| Fri, 18 Dec 2026 | Panama | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ BOA is a tech house and house artist based in United Kingdom, with 18 gigs on so
 
 ## Shares bills with
 
-Olly Brady, SAM PHONIC, MTRG
+Olly Brady, Philip Ackowsky, SAM PHONIC
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*

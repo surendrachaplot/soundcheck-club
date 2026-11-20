@@ -1,6 +1,6 @@
 # Electric Pizza Shop
 
-Electric Pizza Shop is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. The next is "Bay B2B Sui13" on Fri, 20 Nov 2026.
+Electric Pizza Shop is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Bay B2B Sui13" on Fri, 20 Nov 2026.
 
 Electric Pizza Shop is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including KT, B.Love, Egg On Toast and Groove Division and 2 more. See dates, start times and who's playing. 140 Deansgate, Manchester, M3 2RP.
 
@@ -23,4 +23,4 @@ Electric Pizza Shop is a music venue in Manchester listed on soundcheck. 10 upco
 
 140 Deansgate, Manchester, M3 2RP, Manchester
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/electric-pizza-shop/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/electric-pizza-shop/)*

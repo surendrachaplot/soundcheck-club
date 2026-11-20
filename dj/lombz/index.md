@@ -1,13 +1,14 @@
 # Lombz
 
-Lombz is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Liquid Club, Malta on Sat, 26 Dec 2026.
+Lombz is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Liquid Club, Malta on Fri, 20 Nov 2026.
 
-Lombz is a techno and industrial artist based in Malta, with 16 gigs on soundcheck across Malta. Often billed alongside MAMO, MALISTA and VRDKT. Next up: Liquid Club, Malta on Sat 26 Dec.
+Lombz is a techno and industrial artist based in Malta, with 17 gigs on soundcheck across Malta. Often billed alongside MAMO, MALISTA and VRDKT. Next up: Liquid Club, Malta on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Liquid Club | Malta |
 | Sat, 26 Dec 2026 | Liquid Club | Malta |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lombz is a techno and industrial artist based in Malta, with 16 gigs on soundche
 
 MAMO (2), MALISTA, VRDKT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lombz/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lombz/)*

@@ -1,6 +1,6 @@
 # SENSO NACHT at Sensorium
 
-SENSO NACHT at Sensorium on Sat 21 Nov, Berlin. 22 artists: Ankit, Anna Hoeber, babypangi and BROMAN-C and 18 more. Techno and Tech House. See the line-up on soundcheck.
+SENSO NACHT at Sensorium on Sat 21 Nov, Berlin. 23 artists: Ankit, Anna Hoeber, babypangi and BROMAN-C and 19 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -27,6 +27,7 @@ SENSO NACHT at Sensorium on Sat 21 Nov, Berlin. 22 artists: Ankit, Anna Hoeber, 
 - LA BITCHENCIO
 - Lars Löffler
 - Marcel Bortoni
+- Rick Mode
 - Røsenwasser
 - rynbj (2)
 - sapskt

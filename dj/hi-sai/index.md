@@ -1,6 +1,6 @@
 # Hi Sai
 
-Hi Sai is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Z Maruyama, Tokyo on Wed, 2 Dec 2026.
+Hi Sai is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Z Maruyama, Tokyo on Wed, 2 Dec 2026.
 
 Hi Sai is a techno and house artist based in Japan, with 37 gigs on soundcheck across Tokyo. Often billed alongside SUETSUGU, TATSUYA and CLESENT. Next up: Z Maruyama, Tokyo on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Hi Sai is a techno and house artist based in Japan, with 37 gigs on soundcheck a
 
 SUETSUGU, TATSUYA, CLESENT
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-sai/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-sai/)*

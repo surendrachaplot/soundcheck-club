@@ -1,6 +1,6 @@
 # Legri
 
-Legri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Frigo 16 -109, Nice on Fri, 4 Dec 2026.
+Legri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Frigo 16 -109, Nice on Fri, 4 Dec 2026.
 
 Legri is a house and techno artist based in France, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 3 more. Often billed alongside Sam van der Toure, Unnik and Lilley. Next up: Frigo 16 -109, Nice on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Legri is a house and techno artist based in France, with 31 gigs on soundcheck a
 
 Sam van der Toure, Unnik, Lilley
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/legri/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/legri/)*

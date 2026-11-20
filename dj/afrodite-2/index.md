@@ -1,6 +1,6 @@
 # Afrodite (2)
 
-Afrodite (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
+Afrodite (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
 
 Afrodite is a house and techno artist, with 111 gigs on soundcheck across Bangladesh, Hanoi, Hong Kong and Seoul and 5 more. Often billed alongside Moeuv, Gumi and Doyeon. Next up: Graphic Hangang, Seoul on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Afrodite is a house and techno artist, with 111 gigs on soundcheck across Bangla
 
 Moeuv, Gumi, Doyeon
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*

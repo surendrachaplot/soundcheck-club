@@ -1,8 +1,8 @@
 # Costanza
 
-Costanza is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at fi, Cologne on Fri, 20 Nov 2026.
+Costanza is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at fi, Cologne on Fri, 20 Nov 2026.
 
-Costanza is a techno and house artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside Freddy K, Hitam and Chami. Next up: fi, Cologne on Fri 20 Nov.
+Costanza is a techno and house artist based in Italy, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside Hitam, Freddy K and Woody92. Next up: fi, Cologne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Costanza is a techno and house artist based in Italy, with 48 gigs on soundcheck
 | Fri, 20 Nov 2026 | fi | Cologne |
 | Fri, 27 Nov 2026 | TAG Culture Rome | Rome |
 | Fri, 4 Dec 2026 | Jasna 1 | Warsaw |
+| Fri, 11 Dec 2026 | Signal | New York City |
 | Thu, 31 Dec 2026 | OXI | Berlin |
 
 ## Recently played
@@ -26,6 +27,6 @@ Costanza is a techno and house artist based in Italy, with 48 gigs on soundcheck
 
 ## Shares bills with
 
-Freddy K, Hitam, Chami
+Hitam, Freddy K, Woody92
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costanza/)*
+*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costanza/)*
