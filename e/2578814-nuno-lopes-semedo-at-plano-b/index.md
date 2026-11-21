@@ -1,6 +1,6 @@
 # Nuno Lopes + Semedo at Plano B
 
-Nuno Lopes + Semedo at Plano B on Sat 28 Nov, Porto. 1 artist: Joao Semedo. House and Club. See the line-up on soundcheck.
+Nuno Lopes + Semedo at Plano B on Sat 28 Nov, Porto. 2 artists: Joao Semedo and Semedo. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Nuno Lopes + Semedo at Plano B on Sat 28 Nov, Porto. 1 artist: Joao Semedo. Hous
 ## Line-up
 
 - Joao Semedo
+- Semedo
 
 *Source: [soundcheck](https://soundcheck.club/e/2578814-nuno-lopes-semedo-at-plano-b/)*

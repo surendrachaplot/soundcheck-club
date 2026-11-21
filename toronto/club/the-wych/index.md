@@ -1,6 +1,6 @@
 # The Wych
 
-The Wych is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Catch Flights Not Feelings" on Sat, 21 Nov 2026.
+The Wych is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Catch Flights Not Feelings" on Sat, 21 Nov 2026.
 
 The Wych is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including aka RAT and Sixtroke. See dates, start times and who's playing. 1150 Davenport Road, Toronto, Ontario M6H 2G5, Canada.
 
@@ -15,4 +15,4 @@ The Wych is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with
 
 1150 Davenport Road, Toronto, Ontario M6H 2G5, Canada, Toronto
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-wych/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-wych/)*

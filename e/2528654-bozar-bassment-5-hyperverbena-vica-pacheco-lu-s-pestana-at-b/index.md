@@ -1,6 +1,6 @@
 # Bozar Bassment #5: Hyperverbena - Vica Pacheco & Luís Pestana at Bozar
 
-Bozar Bassment #5: Hyperverbena - Vica Pacheco & Luís Pestana on Thu 18 Feb, Brussels. 2 artists: Lechuga Zafiro and Verraco. See the line-up on soundcheck.
+Bozar Bassment #5: Hyperverbena - Vica Pacheco & Luís Pestana on Thu 18 Feb, Brussels. 2 artists: Lechuga Zafiro and Verraco. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

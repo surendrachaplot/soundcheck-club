@@ -1,6 +1,6 @@
 # DJ Cent
 
-DJ Cent is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
+DJ Cent is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
 
 DJ Cent is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Berlin, Detroit and Minneapolis/St Paul. Often billed alongside DJ RIGHTEOUS, DJ Etta (US) and Delano Smith. Next up: TV Lounge, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ DJ Cent is a house and techno artist based in United States of America, with 41 
 
 DJ RIGHTEOUS, DJ Etta (US), Delano Smith
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcent/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcent/)*

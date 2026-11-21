@@ -1,6 +1,6 @@
 # Scandinavian Star
 
-Scandinavian Star is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Pumpehuset, Copenhagen on Thu, 17 Dec 2026.
+Scandinavian Star is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pumpehuset, Copenhagen on Thu, 17 Dec 2026.
 
 Scandinavian Star is a techno and post-punk artist based in Denmark, with 13 gigs on soundcheck across Berlin, Brussels, Copenhagen and London and 3 more. Often billed alongside oqbqbo, Croatian Amor and Vanity Productions. Next up: Pumpehuset, Copenhagen on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Scandinavian Star is a techno and post-punk artist based in Denmark, with 13 gig
 
 oqbqbo, Croatian Amor, Vanity Productions
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scandinavianstar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scandinavianstar/)*

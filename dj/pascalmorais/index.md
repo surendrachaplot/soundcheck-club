@@ -1,6 +1,6 @@
 # Pascal Morais
 
-Pascal Morais is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Soulkitchen, Amsterdam on Fri, 27 Nov 2026.
+Pascal Morais is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Soulkitchen, Amsterdam on Fri, 27 Nov 2026.
 
 Pascal Morais is an afro house and afro tech artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Van Zand, De La Noise and Bun Xapa. Next up: Soulkitchen, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Pascal Morais is an afro house and afro tech artist based in Netherlands, with 1
 
 Van Zand, De La Noise, Bun Xapa
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmorais/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmorais/)*

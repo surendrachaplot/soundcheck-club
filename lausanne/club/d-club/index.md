@@ -1,14 +1,13 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "NTO, Joachim Pastor => SPACE ODYSSEY" on Fri, 20 Nov 2026.
+D! Club is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Adriatique => CURIOUS BEATS" on Thu, 26 Nov 2026.
 
-D! Club is a music venue in Lausanne listed on soundcheck. 8 upcoming gigs, with line-ups including Adriatique, Alicia Hahn, Angerfist and Einmusik and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
+D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with line-ups including Adriatique, Alicia Hahn, Angerfist and Einmusik and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | NTO, Joachim Pastor => SPACE ODYSSEY | Joachim Pastor, NTO |
 | Thu, 26 Nov 2026 | Adriatique => CURIOUS BEATS | Adriatique, Read the News |
 | Fri, 27 Nov 2026 | Vladimir Cauchemar | Nhū, Vladimir Cauchemar |
 | Fri, 4 Dec 2026 | KÖLSCH, Einmusik, Alicia Hahn | Alicia Hahn, Einmusik, Kölsch |
@@ -21,4 +20,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 8 upcoming gigs, with
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

@@ -1,14 +1,13 @@
 # Azyr
 
-Azyr is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Fri, 20 Nov 2026.
+Azyr is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Garage, Madrid on Sat, 21 Nov 2026.
 
-Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Cardiff Students' Union - Y Plas, Cardiff on Fri 20 Nov.
+Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: The Garage, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Cardiff Students' Union - Y Plas | Cardiff |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
@@ -18,6 +17,7 @@ Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soun
 
 ## Recently played
 
+- Cardiff Students' Union - Y Plas, Cardiff · Fri, 20 Nov 2026
 - Club Hípico de Santiago, Santiago · Sat, 14 Nov 2026
 - Club Cultural Lima, Peru · Fri, 13 Nov 2026
 - Palais 12 / Paleis 12 (ING Arena), Brussels · Sat, 7 Nov 2026
@@ -25,10 +25,9 @@ Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soun
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Wamu Theatre, Seattle · Fri, 30 Oct 2026
 - Sainte-Catherine Hall, Montreal · Fri, 23 Oct 2026
-- Mediahaven - Minervahaven, Amsterdam · Wed, 21 Oct 2026
 
 ## Shares bills with
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

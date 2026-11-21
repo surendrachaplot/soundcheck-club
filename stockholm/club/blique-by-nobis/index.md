@@ -1,6 +1,6 @@
 # Blique by Nobis
 
-Blique by Nobis is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Natural Progression - Fejka - LAR - Slow Ted" on Sat, 21 Nov 2026.
+Blique by Nobis is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Natural Progression - Fejka - LAR - Slow Ted" on Sat, 21 Nov 2026.
 
 Blique by Nobis is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Fejká, LAR (UK) and Slow Ted. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Blique by Nobis is a music venue in Stockholm listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Natural Progression - Fejka - LAR - Slow Ted | Fejká, LAR (UK), Slow Ted |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/blique-by-nobis/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/blique-by-nobis/)*

@@ -1,6 +1,6 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Palais, London on Sat, 21 Nov 2026.
+Sugar Free is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Palais, London on Sat, 21 Nov 2026.
 
 Sugar Free is a house and techno artist based in Spain, with 221 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Palais, London on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Sugar Free is a house and techno artist based in Spain, with 221 gigs on soundch
 
 Fonte, Gene On Earth, tINI
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

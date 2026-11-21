@@ -1,6 +1,6 @@
 # Kalabrese
 
-Kalabrese is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kino Roland, Zurich on Sat, 21 Nov 2026.
+Kalabrese is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Kino Roland, Zurich on Sat, 21 Nov 2026.
 
 Kalabrese is a house and electronica artist based in Switzerland, with 125 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: Kino Roland, Zurich on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Kalabrese is a house and electronica artist based in Switzerland, with 125 gigs 
 
 KAYYAK, Alex Dallas, Dejan
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*

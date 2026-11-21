@@ -1,6 +1,6 @@
 # limi
 
-limi is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
+limi is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
 
 limi is a bass and dubstep artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, London and Manchester. Often billed alongside DJ Programma, Neue Grafik and Moontalk (UK). Next up: Lab.Club, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ limi is a bass and dubstep artist based in United Kingdom, with 46 gigs on sound
 
 DJ Programma, Neue Grafik, Moontalk (UK)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limi/)*

@@ -1,8 +1,8 @@
 # Full Moon Fool
 
-Full Moon Fool is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
+Full Moon Fool is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
 
-Full Moon Fool is a house and disco artist, with 19 gigs on soundcheck across Philadelphia. Often billed alongside G I N A, JEWELSSEA and Mario Cotto. Next up: Bastet, Philadelphia on Sat 21 Nov.
+Full Moon Fool is a house and disco artist based in United States of America, with 19 gigs on soundcheck across Philadelphia. Often billed alongside G I N A, JEWELSSEA and Mario Cotto. Next up: Bastet, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Full Moon Fool is a house and disco artist, with 19 gigs on soundcheck across Ph
 
 G I N A, JEWELSSEA, Mario Cotto
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmoonfool/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmoonfool/)*

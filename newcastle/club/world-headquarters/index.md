@@ -1,15 +1,13 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 17 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Kylie Wears Berghaus (Newcastle Debut)" on Fri, 20 Nov 2026.
+World Headquarters is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Teletech x Ali James [World Headquarters, Newcastle]" on Sat, 21 Nov 2026.
 
-World Headquarters is a music venue in Newcastle listed on soundcheck. 17 upcoming gigs, with line-ups including adamgr, Alousea, Dillinja and Diverge and 2 more. See dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
+World Headquarters is a music venue in Newcastle listed on soundcheck. 15 upcoming gigs, with line-ups including adamgr, Dillinja, Diverge and Dusky and 2 more. See dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kylie Wears Berghaus (Newcastle Debut) | Alousea, Kylie Wears Berghaus, Princess Elf Bar |
-| Fri, 20 Nov 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
 | Sat, 21 Nov 2026 | Teletech x Ali James [World Headquarters, Newcastle] |  |
 | Sat, 21 Nov 2026 | Infusion - Residents Party |  |
 | Wed, 25 Nov 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
@@ -18,9 +16,11 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 17 upcomi
 | Sat, 28 Nov 2026 | Seb Zito + Support / Two Years Of Stopgap | JJ Croft, Seb Zito, adamgr |
 | Fri, 4 Dec 2026 | PropaStompaz - Frostbite |  |
 | Sat, 5 Dec 2026 | HARDCORE REVIVAL  |  |
+| Fri, 11 Dec 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
+| Sat, 12 Dec 2026 | Velocity "The Next Chapter” |  |
 
 ## Address
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

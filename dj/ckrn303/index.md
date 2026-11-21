@@ -1,8 +1,8 @@
 # CKRN303
 
-CKRN303 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+CKRN303 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
 
-CKRN303 is a techno and house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Krankent and Sofozor. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
+CKRN303 is a techno and house artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), TECSTONE and Krankent. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CKRN303 is a techno and house artist based in Japan, with 8 gigs on soundcheck a
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Aoyama Hachi | Tokyo |
 | Sat, 5 Dec 2026 | Z Maruyama | Tokyo |
+| Sat, 12 Dec 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ CKRN303 is a techno and house artist based in Japan, with 8 gigs on soundcheck a
 
 ## Shares bills with
 
-SIGNAL (JP), Krankent, Sofozor
+SIGNAL (JP), TECSTONE, Krankent
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ckrn303/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ckrn303/)*

@@ -1,6 +1,6 @@
 # DJ Deep
 
-DJ Deep is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+DJ Deep is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 DJ Deep is a house and techno artist based in France, with 91 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 29 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -14,6 +14,7 @@ DJ Deep is a house and techno artist based in France, with 91 gigs on soundcheck
 
 ## Recently played
 
+- Verbier, Switzerland · Fri, 20 Nov 2026
 - Charlie, Munich · Sat, 14 Nov 2026
 - fi, Cologne · Sat, 7 Nov 2026
 - Bien Public, Bordeaux · Fri, 30 Oct 2026
@@ -21,10 +22,9 @@ DJ Deep is a house and techno artist based in France, with 91 gigs on soundcheck
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - Rex Club, Paris · Sun, 13 Sept 2026
 - TBA, Bordeaux · Sat, 29 Aug 2026
-- BLITZ, Munich · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Kerri Chandler, Chez Damier, DJ Reas
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*

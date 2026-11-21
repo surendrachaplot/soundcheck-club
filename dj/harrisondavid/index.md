@@ -1,8 +1,8 @@
 # Harrison David
 
-Harrison David is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Texas, Cape Town on Sat, 21 Nov 2026.
+Harrison David is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Texas, Cape Town on Sat, 21 Nov 2026.
 
-Harrison David is a disco and balearic artist, with 13 gigs on soundcheck across Cape Town and London. Often billed alongside Deejay Nye, Infiniti and Cosmic Bob. Next up: Texas, Cape Town on Sat 21 Nov.
+Harrison David is a disco and balearic artist based in United Kingdom, with 13 gigs on soundcheck across Cape Town and London. Often billed alongside Deejay Nye, Infiniti and Cosmic Bob. Next up: Texas, Cape Town on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Harrison David is a disco and balearic artist, with 13 gigs on soundcheck across
 
 Deejay Nye, Infiniti, Cosmic Bob
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisondavid/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisondavid/)*

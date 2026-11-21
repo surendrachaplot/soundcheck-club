@@ -1,6 +1,6 @@
 # Pasaporteman
 
-Pasaporteman is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
+Pasaporteman is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
 
 Pasaporteman is a bass and experimental artist based in Spain, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Baba Sy, TNTC and Opoku. Next up: Archive Milano, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Pasaporteman is a bass and experimental artist based in Spain, with 10 gigs on s
 
 Baba Sy, TNTC, Opoku
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasaporteman/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasaporteman/)*

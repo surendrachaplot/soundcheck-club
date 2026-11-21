@@ -1,8 +1,8 @@
 # CHUKWU
 
-CHUKWU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
+CHUKWU is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
 
-CHUKWU is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, London and Los Angeles. Often billed alongside Jana Falcon, Akirahawks and Dee Diggs. Next up: Renate, Berlin on Sat 21 Nov.
+CHUKWU is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, London and Los Angeles. Often billed alongside Jana Falcon, Ahni and Akirahawks. Next up: Renate, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CHUKWU is a house and techno artist based in Germany, with 17 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Renate | Berlin |
 | Sat, 28 Nov 2026 | OXI | Berlin |
+| Fri, 4 Dec 2026 | Fitzroy | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ CHUKWU is a house and techno artist based in Germany, with 17 gigs on soundcheck
 
 ## Shares bills with
 
-Jana Falcon, Akirahawks, Dee Diggs
+Jana Falcon, Ahni, Akirahawks
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chukwu/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chukwu/)*

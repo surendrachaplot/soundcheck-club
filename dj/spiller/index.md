@@ -1,6 +1,6 @@
 # Spiller
 
-Spiller is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
+Spiller is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
 
 Spiller is a house and disco artist based in Italy, with 23 gigs on soundcheck across Bangkok, Copenhagen, Dubai and Ibiza and 13 more. Often billed alongside Dave Lee, Mousse T. and Curcio. Next up: Tempio del Futuro Perduto, Milan on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Spiller is a house and disco artist based in Italy, with 23 gigs on soundcheck a
 
 Dave Lee, Mousse T., Curcio
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*

@@ -1,6 +1,6 @@
 # KITAE
 
-KITAE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA -  Powered by Viod Acoustics, Madrid on Sat, 26 Dec 2026.
+KITAE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA -  Powered by Viod Acoustics, Madrid on Sat, 26 Dec 2026.
 
 KITAE is a techno and trance artist based in Spain, with 56 gigs on soundcheck across Madrid. Often billed alongside Pulpix, Reitze and KLOE. Next up: TBA -  Powered by Viod Acoustics, Madrid on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ KITAE is a techno and trance artist based in Spain, with 56 gigs on soundcheck a
 
 Pulpix, Reitze, KLOE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitae/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitae/)*

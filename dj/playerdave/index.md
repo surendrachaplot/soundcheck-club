@@ -1,14 +1,15 @@
 # Player Dave
 
-Player Dave is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Player Dave is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
-Player Dave is a bass and dubstep artist based in United States of America, with 25 gigs on soundcheck across Atlanta, Charlotte, Chicago and Denver and 10 more. Often billed alongside Jacques Greene, Potions and Sara Landry. Next up: Petco Park, San Diego on Thu 31 Dec.
+Player Dave is a bass and dubstep artist based in United States of America, with 26 gigs on soundcheck across Atlanta, Charlotte, Chicago and Denver and 10 more. Often billed alongside Jacques Greene, Potions and Sara Landry. Next up: Petco Park, San Diego on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
+| Fri, 26 Feb 2027 | Quartyard | San-diego |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Player Dave is a bass and dubstep artist based in United States of America, with
 
 Jacques Greene, Potions, Sara Landry
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*

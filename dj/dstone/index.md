@@ -1,8 +1,8 @@
 # D Stone
 
-D Stone is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Floyd, Miami on Thu, 3 Dec 2026.
+D Stone is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Floyd, Miami on Thu, 3 Dec 2026.
 
-D Stone is a house and tech house artist based in Netherlands, with 120 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Floyd, Miami on Thu 3 Dec.
+D Stone is a house and tech house artist based in Netherlands, with 121 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Floyd, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ D Stone is a house and tech house artist based in Netherlands, with 120 gigs on 
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Floyd | Miami |
 | Sat, 12 Dec 2026 | UNLOCKED | London |
+| Sat, 19 Dec 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ D Stone is a house and tech house artist based in Netherlands, with 120 gigs on 
 
 Benjamin Berg, Benny Rodrigues, Dam Swindle
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*

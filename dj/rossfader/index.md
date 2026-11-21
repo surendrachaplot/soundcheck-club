@@ -1,6 +1,6 @@
 # Ross Fader
 
-Ross Fader is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
+Ross Fader is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
 
 Ross Fader is a drum & bass and jungle artist based in Australia, with 8 gigs on soundcheck across Sydney. Often billed alongside Miss Sunshine, ELi and Floga. Next up: TBA, Sydney on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Ross Fader is a drum & bass and jungle artist based in Australia, with 8 gigs on
 
 Miss Sunshine, ELi, Floga
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfader/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfader/)*

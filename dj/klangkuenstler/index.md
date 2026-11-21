@@ -1,6 +1,6 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+KlangKuenstler is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
 
 KlangKuenstler is a techno and house artist based in Germany, with 212 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
 
@@ -17,6 +17,7 @@ KlangKuenstler is a techno and house artist based in Germany, with 212 gigs on s
 
 ## Recently played
 
+- Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - Tinker Field, Orlando · Fri, 6 Nov 2026
 - Ductwork Houston, Houston · Fri, 6 Nov 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
@@ -24,10 +25,9 @@ KlangKuenstler is a techno and house artist based in Germany, with 212 gigs on s
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Pandora Sevilla, South · Fri, 9 Oct 2026
 - Spook Club, Valencia · Thu, 8 Oct 2026
-- The Forum, Los Angeles · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Daria Kolosova, I Hate Models, Kobosil
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

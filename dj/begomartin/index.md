@@ -1,6 +1,6 @@
 # Bego Martin
 
-Bego Martin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 21 Nov 2026.
+Bego Martin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 21 Nov 2026.
 
 Bego Martin is a house and disco artist based in Spain, with 11 gigs on soundcheck across Ibiza, Madrid and Tbilisi. Often billed alongside Alexis mayer, Brisa Then and Chelu Garcia. Next up: Say No More Madrid, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Bego Martin is a house and disco artist based in Spain, with 11 gigs on soundche
 
 Alexis mayer, Brisa Then, Chelu Garcia
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/begomartin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/begomartin/)*

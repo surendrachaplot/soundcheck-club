@@ -1,6 +1,6 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TRANSMISSION DC, Washington DC on Sat, 21 Nov 2026.
+flotussin is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TRANSMISSION DC, Washington DC on Sat, 21 Nov 2026.
 
 flotussin is a club and techno artist based in United States of America, with 105 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 10 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: TRANSMISSION DC, Washington DC on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ flotussin is a club and techno artist based in United States of America, with 10
 
 Tromac, DJ-SUN, Kotic Couture
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

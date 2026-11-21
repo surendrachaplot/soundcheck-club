@@ -1,6 +1,6 @@
 # Carlos do Complexo
 
-Carlos do Complexo is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat, 21 Nov 2026.
+Carlos do Complexo is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat, 21 Nov 2026.
 
 Carlos do Complexo is a baile funk and house artist based in Brazil, with 53 gigs on soundcheck across Barcelona, Berlin, Bristol and Lisbon and 4 more. Often billed alongside Ananda (BR), Glau and Kontronatura. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Carlos do Complexo is a baile funk and house artist based in Brazil, with 53 gig
 
 Ananda (BR), Glau, Kontronatura
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosdocomplexo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosdocomplexo/)*

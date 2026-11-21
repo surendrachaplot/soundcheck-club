@@ -1,18 +1,18 @@
 # EeechooO
 
-EeechooO is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Comeout Rider Station, Chongqing on Fri, 20 Nov 2026.
+EeechooO is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Fanpai Livehouse, Chongqing on Sat, 21 Nov 2026.
 
-EeechooO is an electro and techno artist based in China, with 9 gigs on soundcheck across Chongqing. Often billed alongside Justfin, DUBlicious and Rui Tang. Next up: Comeout Rider Station, Chongqing on Fri 20 Nov.
+EeechooO is an electro and techno artist based in China, with 9 gigs on soundcheck across Chongqing. Often billed alongside Justfin, DUBlicious and Rui Tang. Next up: Fanpai Livehouse, Chongqing on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Comeout Rider Station | Chongqing |
 | Sat, 21 Nov 2026 | Fanpai Livehouse | Chongqing |
 
 ## Recently played
 
+- Comeout Rider Station, Chongqing · Fri, 20 Nov 2026
 - Comeout Rider Station, Chongqing · Fri, 13 Nov 2026
 - Comeout Rider Station, Chongqing · Fri, 6 Nov 2026
 - Mews Saloon, Chongqing · Sat, 31 Oct 2026
@@ -25,4 +25,4 @@ EeechooO is an electro and techno artist based in China, with 9 gigs on soundche
 
 Justfin, DUBlicious, Rui Tang
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eeechooo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eeechooo/)*

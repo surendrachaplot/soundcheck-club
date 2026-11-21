@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "'Ø'presents NOVA" on Fri, 20 Nov 2026.
+Enter Shibuya is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "crowdsurf -Hiroyuki Kato「ERUC EP」Release Party-" on Sat, 21 Nov 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including AMANE, Daichi, DiscCampForest and DNG and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AMANE, Daichi, DiscCampForest and DNG and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 'Ø'presents NOVA | IRON, Kai Galactic, SOGI, Sakuma, levolant |
 | Sat, 21 Nov 2026 | crowdsurf -Hiroyuki Kato「ERUC EP」Release Party- | DNG (1), YUURI |
 | Sun, 22 Nov 2026 | Vitamin Vol.5 | okadada |
 | Thu, 26 Nov 2026 | Command  | Shoma fr,dambosound |
@@ -23,4 +22,4 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, 
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

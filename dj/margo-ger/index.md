@@ -1,14 +1,15 @@
 # Margo (GER)
 
-Margo (GER) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Super5, Lyon on Sat, 28 Nov 2026.
+Margo (GER) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Super5, Lyon on Sat, 28 Nov 2026.
 
-Margo (GER) is a house and techno artist based in Germany, with 45 gigs on soundcheck across Berlin, Brussels, Hamburg and Hannover and 1 more. Often billed alongside Margo, Carluschka and dj fako. Next up: Super5, Lyon on Sat 28 Nov.
+Margo (GER) is a house and techno artist based in Germany, with 46 gigs on soundcheck across Berlin, Brussels, Hamburg and Hannover and 1 more. Often billed alongside Margo, BODYSHIFT and Carluschka. Next up: Super5, Lyon on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Super5 | Lyon |
+| Fri, 4 Dec 2026 | Fitzroy | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Margo (GER) is a house and techno artist based in Germany, with 45 gigs on sound
 
 ## Shares bills with
 
-Margo, Carluschka, dj fako
+Margo, BODYSHIFT, Carluschka
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-ger/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-ger/)*

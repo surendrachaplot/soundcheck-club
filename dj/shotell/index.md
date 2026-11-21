@@ -1,6 +1,6 @@
 # sho&tell
 
-sho&tell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tuff Club, Singapore on Sat, 21 Nov 2026.
+sho&tell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tuff Club, Singapore on Sat, 21 Nov 2026.
 
 sho&tell is a house and techno artist based in Singapore, with 118 gigs on soundcheck across Singapore and Taipei. Often billed alongside benben, Kevin Sy and VAIBS. Next up: Tuff Club, Singapore on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ sho&tell is a house and techno artist based in Singapore, with 118 gigs on sound
 
 benben, Kevin Sy, VAIBS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shotell/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shotell/)*

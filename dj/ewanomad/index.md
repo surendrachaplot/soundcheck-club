@@ -1,6 +1,6 @@
 # Ewa Nomad
 
-Ewa Nomad is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at OXI, Berlin on Tue, 1 Dec 2026.
+Ewa Nomad is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at OXI, Berlin on Tue, 1 Dec 2026.
 
 Ewa Nomad is a techno and electronica artist based in Ukraine, with 19 gigs on soundcheck across Berlin. Often billed alongside Paat., Costa (FR) and Fangarm. Next up: OXI, Berlin on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Ewa Nomad is a techno and electronica artist based in Ukraine, with 19 gigs on s
 
 Paat., Costa (FR), Fangarm
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanomad/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanomad/)*

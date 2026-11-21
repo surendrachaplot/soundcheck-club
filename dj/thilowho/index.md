@@ -1,6 +1,6 @@
 # Thilo Who
 
-Thilo Who is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lieberscholli, Munich on Thu, 31 Dec 2026.
+Thilo Who is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lieberscholli, Munich on Thu, 31 Dec 2026.
 
 Thilo Who is a techno and psytrance artist based in Germany, with 14 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside sayuara, Moritz Minoa and Basti Steinacker. Next up: Lieberscholli, Munich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Thilo Who is a techno and psytrance artist based in Germany, with 14 gigs on sou
 
 sayuara, Moritz Minoa, Basti Steinacker
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thilowho/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thilowho/)*

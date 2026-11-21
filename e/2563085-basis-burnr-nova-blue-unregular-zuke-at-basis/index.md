@@ -1,6 +1,6 @@
 # BASIS/ BURNR/ Nova Blue/ Unregular/ ZUKE at BASIS
 
-BASIS/ BURNR/ Nova Blue/ Unregular/ ZUKE on Sat 19 Dec, Utrecht. 2 artists: Unregular and ZUKE. Techno and House. See the line-up on soundcheck.
+BASIS/ BURNR/ Nova Blue/ Unregular/ ZUKE on Sat 19 Dec, Utrecht. 3 artists: Nova Blue, Unregular and ZUKE. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BASIS/ BURNR/ Nova Blue/ Unregular/ ZUKE on Sat 19 Dec, Utrecht. 2 artists: Unre
 
 ## Line-up
 
+- Nova Blue
 - Unregular
 - ZUKE
 

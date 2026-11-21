@@ -1,6 +1,6 @@
 # Jungle Delight x Mango Panda - Winter Delight - EggLondon at Egg London
 
-Jungle Delight x Mango Panda - Winter Delight - EggLondon at Egg London on Sun 27 Dec, London. 8 artists: Devious D, DJ Brockie, Funsta and JamieG and 4 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Jungle Delight x Mango Panda - Winter Delight - EggLondon at Egg London on Sun 27 Dec, London. 6 artists: DJ Brockie, JamieG, Jumping Jack Frost and Millz and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,7 @@ Jungle Delight x Mango Panda - Winter Delight - EggLondon at Egg London on Sun 2
 
 ## Line-up
 
-- Devious D
 - DJ Brockie
-- Funsta
 - JamieG
 - Jumping Jack Frost
 - Millz

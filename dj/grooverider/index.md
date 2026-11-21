@@ -1,14 +1,13 @@
 # Grooverider
 
-Grooverider is a Drum & Bass and Jungle artist with 23 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Jaeger, Oslo on Fri, 20 Nov 2026.
+Grooverider is a Drum & Bass and Jungle artist with 22 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
 
-Grooverider is a drum & bass and jungle artist based in United Kingdom, with 159 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 30 more. Often billed alongside Fabio, Nicky Blackmarket and Doc Scott. Next up: Jaeger, Oslo on Fri 20 Nov.
+Grooverider is a drum & bass and jungle artist based in United Kingdom, with 159 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 30 more. Often billed alongside Fabio, Nicky Blackmarket and Doc Scott. Next up: Sidney & Matilda, Sheffield on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Jaeger | Oslo |
 | Sat, 21 Nov 2026 | Sidney & Matilda | Sheffield |
 | Sun, 29 Nov 2026 | The Wardrobe | Leeds |
 | Sat, 26 Dec 2026 | Hare & Hounds | Birmingham |
@@ -20,9 +19,11 @@ Grooverider is a drum & bass and jungle artist based in United Kingdom, with 159
 | Sat, 20 Feb 2027 | Future Yard | Liverpool |
 | Fri, 2 Apr 2027 | White Bay Power Station | Sydney |
 | Sat, 3 Apr 2027 | Superordinary | Brisbane |
+| Sun, 4 Apr 2027 | The Court Hotel | Perth |
 
 ## Recently played
 
+- Jaeger, Oslo · Fri, 20 Nov 2026
 - Night Tales, London · Sun, 15 Nov 2026
 - Outernet Live, London · Sat, 14 Nov 2026
 - Marshall Arena, South-east · Sat, 7 Nov 2026
@@ -30,10 +31,9 @@ Grooverider is a drum & bass and jungle artist based in United Kingdom, with 159
 - The Cambridge Junction, South-east · Sat, 31 Oct 2026
 - Electrowerkz, London · Sat, 17 Oct 2026
 - Phonox, London · Sat, 3 Oct 2026
-- Night Tales, London · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Fabio, Nicky Blackmarket, Doc Scott
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*

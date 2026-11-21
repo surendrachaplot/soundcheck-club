@@ -1,14 +1,15 @@
 # EIGHT
 
-EIGHT is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
+EIGHT is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
 
-EIGHT is a techno and tech house artist based in Japan, with 96 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ALEXANDER M, GReY and RYOHEI. Next up: WOMB, Tokyo on Sun 22 Nov.
+EIGHT is a techno and tech house artist based in Japan, with 97 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ALEXANDER M, GReY and RYOHEI. Next up: WOMB, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | WOMB | Tokyo |
+| Thu, 26 Nov 2026 | Zouk Tokyo | Tokyo |
 | Fri, 27 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ EIGHT is a techno and tech house artist based in Japan, with 96 gigs on soundche
 
 ALEXANDER M, GReY (1), RYOHEI
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*

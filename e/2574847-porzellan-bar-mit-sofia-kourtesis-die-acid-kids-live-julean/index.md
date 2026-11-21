@@ -1,6 +1,6 @@
 # Porzellan Bar mit Sofia Kourtesis, Die Acid Kids (Live), Julean, Andra at Baalsaal
 
-Porzellan Bar mit Sofia Kourtesis, Die Acid Kids (Live), Julean, Andra at Baalsaal on Fri 4 Dec, Hamburg. 3 artists: Andra (DE), Julean and Sofia Kourtesis. Techno and House. See the line-up on soundcheck.
+Porzellan Bar mit Sofia Kourtesis, Die Acid Kids (Live), Julean, Andra at Baalsaal on Fri 4 Dec, Hamburg. 4 artists: Andra (DE), DIE ACID KIDS, Julean and Sofia Kourtesis. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Porzellan Bar mit Sofia Kourtesis, Die Acid Kids (Live), Julean, Andra at Baalsa
 ## Line-up
 
 - Andra (DE)
+- DIE ACID KIDS
 - Julean
 - Sofia Kourtesis
 

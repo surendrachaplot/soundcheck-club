@@ -1,14 +1,13 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
+zwilling. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
 
-zwilling. is a techno and trance artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Uebel & Gefährlich, Hamburg on Fri 20 Nov.
+zwilling. is a techno and trance artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Flanders Expo Centre, Ghent on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Fri, 18 Dec 2026 | RSO.BERLIN | Berlin |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
@@ -17,6 +16,7 @@ zwilling. is a techno and trance artist based in Germany, with 123 gigs on sound
 
 ## Recently played
 
+- Uebel & Gefährlich, Hamburg · Fri, 20 Nov 2026
 - Level 1 @ Cannonball Arts, Seattle · Sat, 14 Nov 2026
 - Ace*Mission, Los Angeles · Fri, 13 Nov 2026
 - Warehouse Elementenstraat, Amsterdam · Sun, 25 Oct 2026
@@ -24,10 +24,9 @@ zwilling. is a techno and trance artist based in Germany, with 123 gigs on sound
 - Parc Floral De Paris, Paris · Fri, 16 Oct 2026
 - Schrotty, Cologne · Fri, 9 Oct 2026
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

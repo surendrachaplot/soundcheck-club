@@ -1,6 +1,6 @@
 # Vittorio Di Mango
 
-Vittorio Di Mango is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Malaga Sin City, Milan on Sat, 28 Nov 2026.
+Vittorio Di Mango is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Malaga Sin City, Milan on Sat, 28 Nov 2026.
 
 Vittorio Di Mango is a techno and house artist based in Italy, with 34 gigs on soundcheck across Milan. Often billed alongside MISERIA, Re Pigi and o3.mp3. Next up: Malaga Sin City, Milan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vittorio Di Mango is a techno and house artist based in Italy, with 34 gigs on s
 
 MISERIA, Re Pigi, o3.mp3
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vittoriodimango/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vittoriodimango/)*

@@ -1,19 +1,18 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "astral.lab x Quake" on Fri, 20 Nov 2026.
+Acud Macht NEU is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "KHOLEKTIV Showcase with Lola Kay" on Sat, 21 Nov 2026.
 
-Acud Macht NEU is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Amowia, Bokaric, DJ Sea View and FILTH.y and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
+Acud Macht NEU is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Amowia, Bokaric, K.Dissent and Lola Kay. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | astral.lab x Quake | DJ Sea View, FILTH.y, Frølår, Signe Alarcón, pnk pnthr, vSto |
-| Sat, 21 Nov 2026 | KHOLEKTIV Showcase with Lola Kay | Bokaric, K.Dissent, Lola Kay, Masarini |
-| Sun, 22 Nov 2026 | sunday service 4th anniversary | Amowia, mandhla |
+| Sat, 21 Nov 2026 | KHOLEKTIV Showcase with Lola Kay | Bokaric, K.Dissent, Lola Kay |
+| Sun, 22 Nov 2026 | sunday service 4th anniversary | Amowia |
 
 ## Address
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

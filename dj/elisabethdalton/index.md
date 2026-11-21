@@ -1,6 +1,6 @@
 # Lis Dalton
 
-Lis Dalton is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
+Lis Dalton is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
 
 Lis Dalton is a techno and house artist based in United States of America, with 78 gigs on soundcheck across Chicago, Detroit, Los Angeles and Montreal and 4 more. Often billed alongside Lia Plutonic, Pascale Project and Field Note. Next up: Signal, New York City on Fri 20 Nov.
 
@@ -16,6 +16,7 @@ Lis Dalton is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- Signal, New York City · Fri, 20 Nov 2026
 - Sans Soleil, Montreal · Sun, 15 Nov 2026
 - TBA - Near/FAW/Wherever You Are, New York City · Sat, 17 Oct 2026
 - The New Hot Mass, Pittsburgh · Sat, 10 Oct 2026
@@ -23,10 +24,9 @@ Lis Dalton is a techno and house artist based in United States of America, with 
 - Sans Soleil, Montreal · Sat, 25 Jul 2026
 - public records, New York City · Fri, 26 Jun 2026
 - Système, Montreal · Thu, 18 Jun 2026
-- Parquette, Montreal · Sun, 10 May 2026
 
 ## Shares bills with
 
 Lia Plutonic, Pascale Project, Field Note
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabethdalton/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabethdalton/)*

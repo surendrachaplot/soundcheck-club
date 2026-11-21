@@ -1,6 +1,6 @@
 # CYB3R T0NIN
 
-CYB3R T0NIN is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sinners and Saints, Washington DC on Fri, 20 Nov 2026.
+CYB3R T0NIN is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sinners and Saints, Washington DC on Fri, 20 Nov 2026.
 
 CYB3R T0NIN is a club and techno artist based in United States of America, with 33 gigs on soundcheck across New York City and Washington DC. Often billed alongside DJ KORIS, JACKIECHANSDOG and Mooncrumb. Next up: Sinners and Saints, Washington DC on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ CYB3R T0NIN is a club and techno artist based in United States of America, with 
 
 ## Recently played
 
+- Sinners and Saints, Washington DC · Fri, 20 Nov 2026
 - Sinners and Saints, Washington DC · Sat, 31 Oct 2026
 - Sinners and Saints, Washington DC · Sat, 10 Oct 2026
 - Bossa Nova Civic Club, New York City · Fri, 2 Oct 2026
@@ -19,10 +20,9 @@ CYB3R T0NIN is a club and techno artist based in United States of America, with 
 - TBA, Washington DC · Sat, 8 Aug 2026
 - City State Brewery, Washington DC · Sat, 20 Jun 2026
 - TBA - 5510 Ellerbie St. Lanham, MD, Washington DC · Sat, 23 May 2026
-- Sinners and Saints, Washington DC · Thu, 23 Apr 2026
 
 ## Shares bills with
 
 DJ KORIS, JACKIECHANSDOG, Mooncrumb
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyb3rt0nin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyb3rt0nin/)*

@@ -1,14 +1,13 @@
 # Super7
 
-Super7 is a music venue in Lyon with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Clarence • KIRARA" on Fri, 20 Nov 2026.
+Super7 is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Kosme & YOUR • NYCO" on Sat, 21 Nov 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 7 upcoming gigs, with line-ups including Aï Smash, Clarence, KIRARA and Kosme and 2 more. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line-ups including Aï Smash, Kosme, Maelita and Nyco (FR) and 2 more. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Clarence • KIRARA | Clarence, KIRARA |
 | Sat, 21 Nov 2026 | Kosme & YOUR • NYCO | Kosme, Nyco (FR) |
 | Sun, 22 Nov 2026 | LILY OF THE VALLEY • Sacha Mambo | Sacha Mambo |
 | Thu, 26 Nov 2026 | MASTAÏ • Trepanado | Trepanado |
@@ -20,4 +19,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 7 upcoming gigs, with line
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

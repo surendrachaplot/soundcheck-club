@@ -1,13 +1,14 @@
 # Shiba
 
-Shiba is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Echostage, Washington DC on Sat, 13 Feb 2027.
+Shiba is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mago, Chubu on Tue, 29 Dec 2026.
 
-Shiba is a house and techno artist, with 3 gigs on soundcheck across Osaka, Tokyo and Washington DC. Often billed alongside ANASI, DJ SPOT and Harukeep. Next up: Echostage, Washington DC on Sat 13 Feb.
+Shiba is a house and techno artist based in Japan, with 4 gigs on soundcheck across Chubu, Osaka, Tokyo and Washington DC. Often billed alongside DJ SPOT, ANASI and AOKI takamasa. Next up: Mago, Chubu on Tue 29 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 29 Dec 2026 | Mago | Chubu |
 | Sat, 13 Feb 2027 | Echostage | Washington DC |
 
 ## Recently played
@@ -17,6 +18,6 @@ Shiba is a house and techno artist, with 3 gigs on soundcheck across Osaka, Toky
 
 ## Shares bills with
 
-ANASI, DJ SPOT, Harukeep
+DJ SPOT, ANASI, AOKI takamasa
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiba/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiba/)*

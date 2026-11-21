@@ -1,6 +1,6 @@
 # U Lad
 
-U Lad is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 23 Jan 2027.
+U Lad is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 23 Jan 2027.
 
 U Lad is a drum & bass and techno artist based in Belarus, with 17 gigs on soundcheck across Warsaw. Often billed alongside Muzaman, Sickute and Solar Tsunami. Next up: K-Bar Powiśle, Warsaw on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ U Lad is a drum & bass and techno artist based in Belarus, with 17 gigs on sound
 
 Muzaman, Sickute, Solar Tsunami
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulad/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulad/)*

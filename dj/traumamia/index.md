@@ -1,6 +1,6 @@
 # TraumaMia
 
-TraumaMia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Odonien, Cologne on Sat, 5 Dec 2026.
+TraumaMia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Odonien, Cologne on Sat, 5 Dec 2026.
 
 TraumaMia is a techno and house artist based in Germany, with 98 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 5 more. Often billed alongside Maurice Mino, Katzengold and Ciao 3lla. Next up: Odonien, Cologne on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ TraumaMia is a techno and house artist based in Germany, with 98 gigs on soundch
 
 Maurice Mino, Katzengold, Ciao 3lla
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*

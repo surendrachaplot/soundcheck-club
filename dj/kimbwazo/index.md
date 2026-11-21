@@ -1,6 +1,6 @@
 # kimbwazo
 
-kimbwazo is a Classical and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lark, Berlin on Sat, 21 Nov 2026.
+kimbwazo is a Classical and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lark, Berlin on Sat, 21 Nov 2026.
 
 kimbwazo is a classical and reggaeton artist, with 20 gigs on soundcheck across Berlin. Often billed alongside El Vago, Maque and Laura Vargas. Next up: Lark, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ kimbwazo is a classical and reggaeton artist, with 20 gigs on soundcheck across 
 
 El Vago, Maque, Laura Vargas
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimbwazo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimbwazo/)*

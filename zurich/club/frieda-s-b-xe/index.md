@@ -1,6 +1,6 @@
 # Frieda's Büxe
 
-Frieda's Büxe is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "groove works with Glaskin Live" on Sat, 21 Nov 2026.
+Frieda's Büxe is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "groove works with Glaskin Live" on Sat, 21 Nov 2026.
 
 Frieda's Büxe is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including Cortez, DJ Senc, Glaskin and Jil Corti and 2 more. See dates, start times and who's playing. Friedaustrasse 23; 8003, Zürich; Switzerland.
 
@@ -18,4 +18,4 @@ Frieda's Büxe is a music venue in Zurich listed on soundcheck. 5 upcoming gigs,
 
 Friedaustrasse 23; 8003, Zürich; Switzerland, Zurich
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*

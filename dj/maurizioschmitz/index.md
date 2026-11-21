@@ -1,6 +1,6 @@
 # Maurizio Schmitz
 
-Maurizio Schmitz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Pacha, Munich on Fri, 11 Dec 2026.
+Maurizio Schmitz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pacha, Munich on Fri, 11 Dec 2026.
 
 Maurizio Schmitz is a techno and house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 22 more. Often billed alongside Sven Vath, André Galluzzi and Tobi Neumann. Next up: Pacha, Munich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Maurizio Schmitz is a techno and house artist based in Germany, with 85 gigs on 
 
 Sven Vath, André Galluzzi, Tobi Neumann
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*

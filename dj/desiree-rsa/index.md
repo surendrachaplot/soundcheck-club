@@ -1,6 +1,6 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+DESIREE (RSA) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 DESIREE (RSA) is a house and techno artist based in South Africa, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Âme, Sossa and Seth Troxler. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -15,6 +15,7 @@ DESIREE (RSA) is a house and techno artist based in South Africa, with 130 gigs 
 
 ## Recently played
 
+- Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Polifonic.MX, Guadalajara · Thu, 19 Nov 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - Pavilhão Carlos Lopes, Lisbon · Sat, 17 Oct 2026
@@ -22,10 +23,9 @@ DESIREE (RSA) is a house and techno artist based in South Africa, with 130 gigs 
 - Petra Theater, Athens · Fri, 18 Sept 2026
 - Labattoir, Thessaloniki · Wed, 16 Sept 2026
 - Lula Club, Madrid · Sat, 12 Sept 2026
-- DC-10, Ibiza · Mon, 24 Aug 2026
 
 ## Shares bills with
 
 Âme, Sossa, Seth Troxler
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

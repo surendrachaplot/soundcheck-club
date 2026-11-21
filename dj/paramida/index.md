@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 PARAMIDA is a house and techno artist based in Germany, with 283 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 63 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -9,7 +9,6 @@ PARAMIDA is a house and techno artist based in Germany, with 283 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Fri, 20 Nov 2026 | TBA - Downtown LA | Los Angeles |
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 5 Dec 2026 | Kult | Belgrade |
 | Fri, 11 Dec 2026 | NX Newcastle | Newcastle |
@@ -21,17 +20,17 @@ PARAMIDA is a house and techno artist based in Germany, with 283 gigs on soundch
 
 ## Recently played
 
+- Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
+- TBA - Downtown LA, Los Angeles · Fri, 20 Nov 2026
 - Switch, Porto · Sat, 14 Nov 2026
 - TBA, Amsterdam · Fri, 13 Nov 2026
 - Circolo degli Illuminati, Rome · Fri, 6 Nov 2026
 - Signal, New York City · Fri, 30 Oct 2026
 - Balboa Salzburg Nightclub, Austria · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
-- Klaproos, Amsterdam · Fri, 23 Oct 2026
-- fabric, London · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

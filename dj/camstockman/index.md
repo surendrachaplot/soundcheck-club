@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Loughborough Student Union, Midlands on Sat, 21 Nov 2026.
+Cam Stockman is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Loughborough Student Union, Midlands on Sat, 21 Nov 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 28 more. Often billed alongside Tommy Phillips, Jamback and Locky. Next up: Loughborough Student Union, Midlands on Sat 21 Nov.
 
@@ -36,4 +36,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 82 g
 
 Tommy Phillips, Jamback, Locky
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

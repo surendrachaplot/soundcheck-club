@@ -1,15 +1,13 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 20 Nov 2026.
+Gerd Janson is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Process PDX, Portland on Wed, 25 Nov 2026.
 
-Gerd Janson is a house and techno artist based in Germany, with 343 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 88 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Oxford Art Factory, Sydney on Fri 20 Nov.
+Gerd Janson is a house and techno artist based in Germany, with 345 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Process PDX, Portland on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
-| Sat, 21 Nov 2026 | Preston Warehouse | Melbourne |
 | Wed, 25 Nov 2026 | Process PDX | Portland |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
@@ -17,11 +15,14 @@ Gerd Janson is a house and techno artist based in Germany, with 343 gigs on soun
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Fri, 18 Dec 2026 | Funkhaus Wien | Vienna |
+| Sat, 19 Dec 2026 | Robert Johnson | Hesse |
 | Fri, 15 Jan 2027 | Sneaky Pete's | Edinburgh |
+| Sat, 23 Jan 2027 | Kassablanca | Jena |
 | Sat, 13 Feb 2027 | fabric | London |
 
 ## Recently played
 
+- Oxford Art Factory, Sydney · Fri, 20 Nov 2026
 - Volt Club Milano, Milan · Sat, 14 Nov 2026
 - TBA, Amsterdam · Fri, 13 Nov 2026
 - Depot Mayfield, Manchester · Sat, 7 Nov 2026
@@ -29,10 +30,9 @@ Gerd Janson is a house and techno artist based in Germany, with 343 gigs on soun
 - Dockland, Münster · Sat, 31 Oct 2026
 - Fidelity Studio, Dublin · Sun, 25 Oct 2026
 - RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
-- WestWeelde, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 Marcel Dettmann, Âme, DJ Tennis
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

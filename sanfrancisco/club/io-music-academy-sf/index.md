@@ -1,6 +1,6 @@
 # IO Music Academy SF
 
-IO Music Academy SF is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Intro to Music Production with Tripleset" on Sat, 12 Dec 2026.
+IO Music Academy SF is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Intro to Music Production with Tripleset" on Sat, 12 Dec 2026.
 
 IO Music Academy SF is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including starfari and Tripleset. See dates, start times and who's playing. 430 Main Street, San Francisco, CA 91405, USA.
 
@@ -15,4 +15,4 @@ IO Music Academy SF is a music venue in San Francisco/Oakland listed on soundche
 
 430 Main Street, San Francisco, CA 91405, USA, San Francisco/Oakland
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/io-music-academy-sf/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/io-music-academy-sf/)*

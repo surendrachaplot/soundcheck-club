@@ -1,6 +1,6 @@
 # Centrific
 
-Centrific is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - TRXX WRHS, Minneapolis-st-paul on Sat, 21 Nov 2026.
+Centrific is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - TRXX WRHS, Minneapolis-st-paul on Sat, 21 Nov 2026.
 
 Centrific is a techno and house artist based in United States of America, with 48 gigs on soundcheck across Chicago, Denver, Detroit and Los Angeles and 7 more. Often billed alongside Dustin Zahn, Christian James and Juana. Next up: TBA - TRXX WRHS, Minneapolis St Paul on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Centrific is a techno and house artist based in United States of America, with 4
 
 Dustin Zahn, Christian James, Juana
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/centrific/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/centrific/)*

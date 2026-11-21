@@ -1,6 +1,6 @@
 # Sinéad
 
-Sinéad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at public records, New York City on Sat, 21 Nov 2026.
+Sinéad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at public records, New York City on Sat, 21 Nov 2026.
 
 Sinéad is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Berlin, Chicago, Cork and Detroit and 22 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: public records, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sinéad is a house and techno artist based in United States of America, with 80 
 
 Shanti Celeste, Louiv, Galen
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*

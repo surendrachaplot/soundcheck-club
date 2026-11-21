@@ -1,6 +1,6 @@
 # MARRED
 
-MARRED is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
+MARRED is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
 
 MARRED is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Berlin and Cologne. Often billed alongside Bouncy Bitch, HENNESY and MAURO. Next up: Artheater, Cologne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ MARRED is a techno and trance artist based in Germany, with 13 gigs on soundchec
 
 Bouncy Bitch, HENNESY, MAURO
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marred/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marred/)*

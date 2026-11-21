@@ -1,6 +1,6 @@
 # Efeewma
 
-Efeewma is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at WWW X, Tokyo on Sat, 12 Dec 2026.
+Efeewma is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at WWW X, Tokyo on Sat, 12 Dec 2026.
 
 Efeewma is a techno and hardcore artist based in Japan, with 22 gigs on soundcheck across Osaka and Tokyo. Often billed alongside EVE, egomania and DIV. Next up: WWW X, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Efeewma is a techno and hardcore artist based in Japan, with 22 gigs on soundche
 
 EVE (1), egomania, DIV
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/efeewma/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/efeewma/)*

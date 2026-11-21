@@ -1,10 +1,10 @@
 # The Flat: Chris Gorrie at Flat HiFi Bar
 
-The Flat: Chris Gorrie at Flat HiFi Bar on Fri 20 Nov, Madrid. 1 artist: Chris Gorrie. See the line-up on soundcheck.
+The Flat: Chris Gorrie at Flat HiFi Bar on Fri 27 Nov, Madrid. 1 artist: Chris Gorrie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 20 Nov 2026 |
+| Date | Fri, 27 Nov 2026 |
 | Venue | Flat HiFi Bar |
 | City | Madrid |
 

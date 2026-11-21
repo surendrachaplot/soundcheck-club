@@ -1,8 +1,8 @@
 # Vithz
 
-Vithz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
+Vithz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
 
-Vithz is a house and techno artist based in Italy, with 129 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Kenia, Black Loops and Gian-Paul. Next up: TBA - NOTTING HILL WEST LONDON , London on Fri 27 Nov.
+Vithz is a house and techno artist based in Italy, with 130 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Kenia, Black Loops and Gian-Paul. Next up: TBA - NOTTING HILL WEST LONDON , London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vithz is a house and techno artist based in Italy, with 129 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - NOTTING HILL WEST LONDON  | London |
 | Fri, 4 Dec 2026 | DURO | Milan |
+| Fri, 11 Dec 2026 | TBA - 52 Walker Street | New York City |
 | Fri, 22 Jan 2027 | DURO | Milan |
 
 ## Recently played
@@ -27,4 +28,4 @@ Vithz is a house and techno artist based in Italy, with 129 gigs on soundcheck a
 
 Kenia, Black Loops, Gian-Paul
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*

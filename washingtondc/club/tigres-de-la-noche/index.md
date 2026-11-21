@@ -1,15 +1,13 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Nü Androids presents: TWOFACED" on Fri, 20 Nov 2026.
+Tigres de la Noche is a music venue in Washington DC with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Nü Androids presents: William Kiss" on Sat, 21 Nov 2026.
 
-Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 11 upcoming gigs, with line-ups including Durante, RUZE and William Kiss. See dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
+Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 9 upcoming gigs, with line-ups including Durante and William Kiss. See dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Nü Androids presents: TWOFACED |  |
-| Fri, 20 Nov 2026 | Nü Androids presents: RUZE | RUZE |
 | Sat, 21 Nov 2026 | Nü Androids presents: William Kiss | William Kiss |
 | Sat, 21 Nov 2026 | Nü Androids presents: 49th and Main |  |
 | Sat, 28 Nov 2026 | Nü Takeover |  |
@@ -18,9 +16,10 @@ Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 11 up
 | Fri, 18 Dec 2026 | Nü Androids x Sh00k Ones present: George Smeddles |  |
 | Fri, 22 Jan 2027 | Nü Androids presents: Blaise Bracic |  |
 | Fri, 29 Jan 2027 | Nü Androids presents: Jacques Greene |  |
+| Sat, 30 Jan 2027 | Nü Androids presents: Durante | Durante |
 
 ## Address
 
 Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA, Washington DC
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*

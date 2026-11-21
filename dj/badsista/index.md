@@ -1,14 +1,13 @@
 # BADSISTA
 
-BADSISTA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+BADSISTA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Horn, Bangkok on Sat, 21 Nov 2026.
 
-BADSISTA is a house and techno artist based in Brazil, with 164 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 55 more. Often billed alongside Cashu, Paulete Lindacelva and Ananda (BR). Next up: Pawnshop, Taipei on Fri 20 Nov.
+BADSISTA is a house and techno artist based in Brazil, with 163 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 55 more. Often billed alongside Cashu, Paulete Lindacelva and Ananda (BR). Next up: Horn, Bangkok on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Pawnshop | Taipei |
 | Sat, 21 Nov 2026 | Horn | Bangkok |
 
 ## Recently played
@@ -26,4 +25,4 @@ BADSISTA is a house and techno artist based in Brazil, with 164 gigs on soundche
 
 Cashu, Paulete Lindacelva, Ananda (BR)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

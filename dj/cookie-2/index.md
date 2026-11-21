@@ -1,6 +1,6 @@
 # Cookie (2)
 
-Cookie (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at XLR, Manchester on Thu, 3 Dec 2026.
+Cookie (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at XLR, Manchester on Thu, 3 Dec 2026.
 
 Cookie is a jungle and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across London, Manchester and Melbourne. Often billed alongside Moonz, Stuart Jefferies and Azire. Next up: XLR, Manchester on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ Cookie is a jungle and drum & bass artist based in United Kingdom, with 6 gigs o
 
 Moonz, Stuart Jefferies, Azire
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cookie-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cookie-2/)*

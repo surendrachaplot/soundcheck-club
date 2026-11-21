@@ -1,6 +1,6 @@
 # The Trinity Centre
 
-The Trinity Centre is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Quantic" on Sat, 21 Nov 2026.
+The Trinity Centre is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Quantic" on Sat, 21 Nov 2026.
 
 The Trinity Centre is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Dubkasm, Footsie, Quantic and Ruby Savage and 2 more. See dates, start times and who's playing. Trinity Road; Bristol BS2 0NW; United Kingdom.
 
@@ -17,4 +17,4 @@ The Trinity Centre is a music venue in Bristol listed on soundcheck. 4 upcoming 
 
 Trinity Road; Bristol BS2 0NW; United Kingdom, Bristol
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*

@@ -1,14 +1,13 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "unceen with GI.O, 3LEEZA, BNZN, 5euroGoldi & DJ WIFI" on Fri, 20 Nov 2026.
+Südpol is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Tempest" on Sat, 21 Nov 2026.
 
-Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, Alessia Ceruti and ALI3N and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
+Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Alessia Ceruti, ALI3N, ANDATA and Anton Jonathan and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | unceen with GI.O, 3LEEZA, BNZN, 5euroGoldi & DJ WIFI | 3LEEZA, 5euroGoldi, BNZN, DJ WIFI, GI.O, Scoozy, Talia Dorr |
 | Sat, 21 Nov 2026 | Tempest | Folic State, Kamila, Sonorous, Surreal (DE) |
 | Thu, 26 Nov 2026 | Flohpol |  |
 | Fri, 27 Nov 2026 | Expedition Südpol | ALI3N, Alessia Ceruti, Barabass, CAMI (DE), Friz07, Joël Ruck, Lisbird, Lou Velours, Maurice Mino, Mimi Love, Muttiah Ashnim, Naicet, Rocko Garoni, Shanda, Sin:port, Susi&Paula, face* |
@@ -20,4 +19,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with 
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

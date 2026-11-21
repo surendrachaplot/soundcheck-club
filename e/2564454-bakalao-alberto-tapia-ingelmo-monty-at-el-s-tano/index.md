@@ -1,6 +1,6 @@
 # BAKALAO: Alberto Tapia, Ingelmo, Monty at EL SÓTANO
 
-BAKALAO: Alberto Tapia, Ingelmo, Monty at EL SÓTANO on Sat 21 Nov, Madrid. 1 artist: Monty. Hardcore and Club. See the line-up on soundcheck.
+BAKALAO: Alberto Tapia, Ingelmo, Monty at EL SÓTANO on Sat 21 Nov, Madrid. 1 artist: Monty. Trance and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

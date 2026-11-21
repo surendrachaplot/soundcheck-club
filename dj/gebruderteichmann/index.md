@@ -1,6 +1,6 @@
 # Gebrüder Teichmann
 
-Gebrüder Teichmann is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Deutsche Kinemathek, Berlin on Sat, 21 Nov 2026.
+Gebrüder Teichmann is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Deutsche Kinemathek, Berlin on Sat, 21 Nov 2026.
 
 Gebrüder Teichmann is an experimental and house artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Jackbox, S-max and Raymond Ernst. Next up: Deutsche Kinemathek, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Gebrüder Teichmann is an experimental and house artist based in Germany, with 1
 
 Jackbox, S-max, Raymond Ernst
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gebruderteichmann/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gebruderteichmann/)*

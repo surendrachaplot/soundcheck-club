@@ -1,6 +1,6 @@
 # MC Creed
 
-MC Creed is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
+MC Creed is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
 
 MC Creed is a garage and house artist based in United Kingdom, with 39 gigs on soundcheck across London. Often billed alongside MC DT, MC CKP and Pied Piper. Next up: Onyx (E1), London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ MC Creed is a garage and house artist based in United Kingdom, with 39 gigs on s
 
 MC DT, MC CKP, Pied Piper
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*

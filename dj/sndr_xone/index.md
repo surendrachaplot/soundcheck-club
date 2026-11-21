@@ -1,6 +1,6 @@
 # SNDR_Xone
 
-SNDR_Xone is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at FLUCC, Vienna on Sat, 21 Nov 2026.
+SNDR_Xone is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at FLUCC, Vienna on Sat, 21 Nov 2026.
 
 SNDR_Xone is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Vienna. Often billed alongside Tatjana Sünder, Fabian Hofer and Kay Barton. Next up: FLUCC, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SNDR_Xone is a techno and tech house artist based in Germany, with 18 gigs on so
 
 Tatjana Sünder, Fabian Hofer (2), Kay Barton
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sndr_xone/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sndr_xone/)*

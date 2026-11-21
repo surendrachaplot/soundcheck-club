@@ -1,14 +1,13 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Juiced 2nd Birthday with dj sweet6teen + James Worker" on Fri, 20 Nov 2026.
+Cobalt Studios is a music venue in Newcastle with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "'Some Like It Early' presents: Marcia Carr" on Sat, 21 Nov 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 12 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 11 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and Immy and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Juiced 2nd Birthday with dj sweet6teen + James Worker | James Worker, dj sweet6teen |
 | Sat, 21 Nov 2026 | 'Some Like It Early' presents: Marcia Carr | Marcia Carr |
 | Sat, 21 Nov 2026 | Midland All Night Long | Midland |
 | Fri, 27 Nov 2026 | Harness - Queer Rave with Immy | Immy |
@@ -18,9 +17,10 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 12 upcoming g
 | Sat, 5 Dec 2026 | Cosmo Sofi All Night Long | Cosmo Sofi |
 | Fri, 11 Dec 2026 | Cosmicomics: Kyle Toole, Casual Max, Kian OK, Tommy 2000, 8 in Orbit | Kian OK, Kyle Toole, Tommy 2000 |
 | Sat, 12 Dec 2026 | SYNRG presents: Tomoki Tamura, Mitch | Tomoki Tamura |
+| Fri, 18 Dec 2026 | Music Sphere presents Skee Mask | Becky Woodcock, Macca (2), Skee Mask |
 
 ## Address
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

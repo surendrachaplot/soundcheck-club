@@ -1,6 +1,6 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Republic, Midlands on Sat, 21 Nov 2026.
+Jamie Fielding is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Republic, Midlands on Sat, 21 Nov 2026.
 
 Jamie Fielding is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 16 more. Often billed alongside Marsolo, Niteplan and Benji King. Next up: Club Republic, Midlands on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 75
 
 Marsolo, Niteplan, Benji King
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

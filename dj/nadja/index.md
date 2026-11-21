@@ -1,6 +1,6 @@
 # Nadja
 
-Nadja is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Skull Bar, Athens on Sat, 21 Nov 2026.
+Nadja is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Skull Bar, Athens on Sat, 21 Nov 2026.
 
 Nadja is a techno and club artist based in Greece, with 49 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Camilo Franco, Ther3min and 118119. Next up: Skull Bar, Athens on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nadja is a techno and club artist based in Greece, with 49 gigs on soundcheck ac
 
 Camilo Franco, Ther3min, 118119
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadja/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadja/)*

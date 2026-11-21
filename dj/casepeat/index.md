@@ -1,6 +1,6 @@
 # Casepeat
 
-Casepeat is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lion Super Club, Seoul on Sat, 21 Nov 2026.
+Casepeat is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lion Super Club, Seoul on Sat, 21 Nov 2026.
 
 Casepeat is a trance and techno artist based in South Korea, with 35 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Kataploks, Kago Pengchi and Purple Rabbit. Next up: Lion Super Club, Seoul on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Casepeat is a trance and techno artist based in South Korea, with 35 gigs on sou
 
 Kataploks, Kago Pengchi, Purple Rabbit
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casepeat/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casepeat/)*

@@ -1,13 +1,14 @@
 # Mas Que Nada Brothers
 
-Mas Que Nada Brothers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Jargo, London on Sat, 19 Dec 2026.
+Mas Que Nada Brothers is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
 
-Mas Que Nada Brothers is a house and disco artist based in United Kingdom, with 108 gigs on soundcheck across Brighton, Bristol, Ibiza and London and 2 more. Often billed alongside Tommy Tickle, Hywel Gregory and Joe Murphy. Next up: Jargo, London on Sat 19 Dec.
+Mas Que Nada Brothers is a house and disco artist based in United Kingdom, with 109 gigs on soundcheck across Brighton, Bristol, Ibiza and London and 2 more. Often billed alongside Tommy Tickle, Hywel Gregory and Fredd Mann. Next up: Oslo Hackney, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Oslo Hackney | London |
 | Sat, 19 Dec 2026 | Jargo | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mas Que Nada Brothers is a house and disco artist based in United Kingdom, with 
 
 ## Shares bills with
 
-Tommy Tickle, Hywel Gregory, Joe Murphy
+Tommy Tickle, Hywel Gregory, Fredd Mann
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*

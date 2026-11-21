@@ -1,6 +1,6 @@
 # Naska
 
-Naska is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 5 Dec 2026.
+Naska is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 5 Dec 2026.
 
 Naska is a house and techno artist based in Italy, with 15 gigs on soundcheck across Barcelona, Berlin, Bologna and Istanbul and 2 more. Often billed alongside Perro Jimbo, DJ Rou and Grem (IT). Next up: Frankhan Selectist, Istanbul on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Naska is a house and techno artist based in Italy, with 15 gigs on soundcheck ac
 
 Perro Jimbo, DJ Rou, Grem (IT)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naska/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naska/)*

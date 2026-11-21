@@ -1,8 +1,8 @@
 # GRAVEDGR
 
-GRAVEDGR is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Schrotty, Cologne on Fri, 27 Nov 2026.
+GRAVEDGR is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Schrotty, Cologne on Fri, 27 Nov 2026.
 
-GRAVEDGR is a techno and hardcore artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 32 more. Often billed alongside NOVAH, CARV and Basswell. Next up: Schrotty, Cologne on Fri 27 Nov.
+GRAVEDGR is a techno and hardcore artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 33 more. Often billed alongside NOVAH, CARV and Basswell. Next up: Schrotty, Cologne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ GRAVEDGR is a techno and hardcore artist based in United States of America, with
 | Sat, 19 Dec 2026 | H0L0 | New York City |
 | Sat, 26 Dec 2026 | BERHTA | Washington DC |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
+| Thu, 18 Feb 2027 | The Grand Boston | Boston |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ GRAVEDGR is a techno and hardcore artist based in United States of America, with
 
 NOVAH, CARV, Basswell
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*

@@ -1,8 +1,8 @@
 # Lilen
 
-Lilen is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Video Club, Bogotá on Fri, 4 Dec 2026.
+Lilen is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Video Club, Bogotá on Fri, 4 Dec 2026.
 
-Lilen is a club and techno artist, with 14 gigs on soundcheck across Bogotá, Guadalajara, Mexico City and Santiago. Often billed alongside DJ Daddy Yonqui, Segunda Mordida and fka phaedra. Next up: Video Club, Bogotá on Fri 4 Dec.
+Lilen is a club and techno artist based in Chile, with 14 gigs on soundcheck across Bogotá, Guadalajara, Mexico City and Santiago. Often billed alongside DJ Daddy Yonqui, Segunda Mordida and fka phaedra. Next up: Video Club, Bogotá on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lilen is a club and techno artist, with 14 gigs on soundcheck across Bogotá, Gu
 
 DJ Daddy Yonqui, Segunda Mordida, fka phaedra
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilen/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilen/)*

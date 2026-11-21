@@ -1,6 +1,6 @@
 # KØZLØV
 
-KØZLØV is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 1720, Los Angeles on Thu, 31 Dec 2026.
+KØZLØV is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 1720, Los Angeles on Thu, 31 Dec 2026.
 
 KØZLØV is a techno and industrial artist based in France, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside CARAVEL, ANXHELA and Stan Christ. Next up: 1720, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ KØZLØV is a techno and industrial artist based in France, with 101 gigs on sou
 
 CARAVEL, ANXHELA, Stan Christ
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlov/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlov/)*

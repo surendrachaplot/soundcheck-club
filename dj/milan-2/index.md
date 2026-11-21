@@ -1,8 +1,8 @@
 # Milan (2)
 
-Milan (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Ötkert, Budapest on Fri, 27 Nov 2026.
+Milan (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ötkert, Budapest on Fri, 27 Nov 2026.
 
-Milan is a house and tech house artist, with 5 gigs on soundcheck across Bangkok, Barcelona, Budapest and Los Angeles and 1 more. Often billed alongside Chippy Nonstop, JENNY VOSS and Jazzie C. Next up: Ötkert, Budapest on Fri 27 Nov.
+Milan is a house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across Bangkok, Barcelona, Budapest and Los Angeles and 1 more. Often billed alongside Chippy Nonstop, JENNY VOSS and Jazzie C. Next up: Ötkert, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Milan is a house and tech house artist, with 5 gigs on soundcheck across Bangkok
 
 Chippy Nonstop, JENNY VOSS, Jazzie C
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milan-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milan-2/)*

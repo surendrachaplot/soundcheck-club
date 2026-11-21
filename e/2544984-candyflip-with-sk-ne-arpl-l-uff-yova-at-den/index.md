@@ -1,6 +1,6 @@
 # CANDYFLIP with Sköne, ARPL, LÄUFF, YOVA at ÆDEN
 
-CANDYFLIP with Sköne, ARPL, LÄUFF, YOVA at ÆDEN on Sat 28 Nov, Berlin. 13 artists: ARPL, brvder jakob, Dj Kuschelschal and elfie and 9 more. Trance and Hardcore. See the line-up on soundcheck.
+CANDYFLIP with Sköne, ARPL, LÄUFF, YOVA at ÆDEN on Sat 28 Nov, Berlin. 14 artists: ARPL, brvder jakob, Dj Kuschelschal and elfie and 10 more. Trance and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ CANDYFLIP with Sköne, ARPL, LÄUFF, YOVA at ÆDEN on Sat 28 Nov, Berlin. 13 art
 - LÄUFF
 - Megaira
 - Melanchromie
+- NÁSSIA
 - Rabe Rax
 - Sköne
 - subga

@@ -1,6 +1,6 @@
 # SPINNUTS
 
-SPINNUTS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bar Boson, Tokyo on Sat, 21 Nov 2026.
+SPINNUTS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bar Boson, Tokyo on Sat, 21 Nov 2026.
 
 SPINNUTS is a techno and experimental artist based in Japan, with 31 gigs on soundcheck across Kansai, Kyoto, Osaka and Tokyo. Often billed alongside Loe (JP), Ascalypso and GYOKU. Next up: Bar Boson, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SPINNUTS is a techno and experimental artist based in Japan, with 31 gigs on sou
 
 Loe (JP), Ascalypso, GYOKU
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinnuts/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinnuts/)*

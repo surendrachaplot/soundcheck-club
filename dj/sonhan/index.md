@@ -1,15 +1,16 @@
 # Sonhan
 
-Sonhan is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Frekuence, Tirana on Sat, 21 Nov 2026.
+Sonhan is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Frekuence, Tirana on Fri, 27 Nov 2026.
 
-Sonhan is a techno and ebm artist based in Belgium, with 54 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Souleiman, Marie-Julie and Phara. Next up: Frekuence, Tirana on Sat 21 Nov.
+Sonhan is a techno and ebm artist based in Belgium, with 55 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Souleiman, Marie-Julie and Phara. Next up: Frekuence, Tirana on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Frekuence | Tirana |
+| Fri, 27 Nov 2026 | Frekuence | Tirana |
 | Fri, 1 Jan 2027 | C12 | Brussels |
+| Sat, 9 Jan 2027 | Masada | Milan |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sonhan is a techno and ebm artist based in Belgium, with 54 gigs on soundcheck a
 
 Souleiman, Marie-Julie, Phara
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*

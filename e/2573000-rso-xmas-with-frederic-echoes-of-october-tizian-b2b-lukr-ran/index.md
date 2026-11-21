@@ -14,6 +14,6 @@ RSO.XMAS with Frederic., Echoes Of October, Tizian b2b Lukr Range at RSO.BERLIN 
 - Echoes Of October
 - Frederic.
 - Lukr Range
-- TiZiAN (DE)
+- Tizian [GER]
 
 *Source: [soundcheck](https://soundcheck.club/e/2573000-rso-xmas-with-frederic-echoes-of-october-tizian-b2b-lukr-ran/)*

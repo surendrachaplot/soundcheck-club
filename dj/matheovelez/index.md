@@ -1,6 +1,6 @@
 # Matheo Velez
 
-Matheo Velez is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sonorama, Medellin on Sat, 21 Nov 2026.
+Matheo Velez is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sonorama, Medellin on Sat, 21 Nov 2026.
 
 Matheo Velez is a tech house and house artist based in Colombia, with 128 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Obando, Spini and Vannesa Gnz. Next up: Sonorama, Medellin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Matheo Velez is a tech house and house artist based in Colombia, with 128 gigs o
 
 Obando, Spini, Vannesa Gnz
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matheovelez/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matheovelez/)*

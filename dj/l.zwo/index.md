@@ -1,8 +1,8 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
+L.zwo is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
 
-L.zwo is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside 2HOT2PLAY, Antonym and OCIN. Next up: Flanders Expo Centre, Ghent on Sat 5 Dec.
+L.zwo is a techno and trance artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside 2HOT2PLAY, Antonym and OCIN. Next up: Flanders Expo Centre, Ghent on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,9 +10,11 @@ L.zwo is a techno and trance artist based in Germany, with 114 gigs on soundchec
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Sat, 12 Dec 2026 | WDM | Hannover |
+| Sat, 19 Dec 2026 | Elysia | Basel |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Sat, 20 Feb 2027 | Phantom, Paris | Paris |
+| Fri, 26 Feb 2027 | Selina's | Sydney |
 | Sat, 27 Feb 2027 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
@@ -30,4 +32,4 @@ L.zwo is a techno and trance artist based in Germany, with 114 gigs on soundchec
 
 2HOT2PLAY, Antonym, OCIN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

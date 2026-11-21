@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Open Ground, Wuppertal on Sat, 21 Nov 2026.
+livwutang is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Open Ground, Wuppertal on Sat, 21 Nov 2026.
 
 livwutang is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 56 more. Often billed alongside Kia (AU), CCL and Richard Akingbehin. Next up: Open Ground, Wuppertal on Sat 21 Nov.
 
@@ -35,4 +35,4 @@ livwutang is a techno and house artist based in United States of America, with 2
 
 Kia (AU), CCL, Richard Akingbehin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

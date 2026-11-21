@@ -1,6 +1,6 @@
 # Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA at Bergson Kunstkraftwerk
 
-Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA at Bergson Kunstkraftwerk on Sat 21 Nov, Munich. 4 artists: DJ Cringey, DVAID, ENERGY TAPE and TARIA. Trance and Techno. See the line-up on soundcheck.
+Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA at Bergson Kunstkraftwerk on Sat 21 Nov, Munich. 5 artists: DJ Cringey, DVAID, ENERGY TAPE and GEORGE RADSPORT and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA at Bergson
 - DJ Cringey
 - DVAID
 - ENERGY TAPE
+- GEORGE RADSPORT
 - TARIA
 
 *Source: [soundcheck](https://soundcheck.club/e/2576050-silo-west-with-dj-cringey-dvaid-energy-tape-george-radsport/)*

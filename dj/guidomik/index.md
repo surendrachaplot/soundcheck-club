@@ -1,6 +1,6 @@
 # Guidomik
 
-Guidomik is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 21 Nov 2026.
+Guidomik is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 21 Nov 2026.
 
 Guidomik is a house and afro house artist based in Argentina, with 51 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Tucu (Tucu), Alexis mayer and Djen. Next up: Hangar48 Club, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Guidomik is a house and afro house artist based in Argentina, with 51 gigs on so
 
 Tucu (Tucu), Alexis mayer, Djen
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guidomik/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guidomik/)*

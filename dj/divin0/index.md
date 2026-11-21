@@ -1,8 +1,8 @@
 # Divin0
 
-Divin0 is a Reggaeton and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 12 Dec 2026.
+Divin0 is a Reggaeton and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 12 Dec 2026.
 
-Divin0 is a reggaeton and techno artist based in France, with 23 gigs on soundcheck across Bordeaux, Brussels, Geneva and Lyon and 3 more. Often billed alongside Rebequita, Anaco and Anetha. Next up: La Machine Du Moulin Rouge, Paris on Sat 12 Dec.
+Divin0 is a reggaeton and house artist based in France, with 24 gigs on soundcheck across Bordeaux, Brussels, Geneva and Lyon and 3 more. Often billed alongside Rebequita, Anaco and Anetha. Next up: La Machine Du Moulin Rouge, Paris on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Divin0 is a reggaeton and techno artist based in France, with 23 gigs on soundch
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 12 Dec 2026 | La Machine Du Moulin Rouge | Paris |
+| Thu, 31 Dec 2026 | Opéra de Lyon | Lyon |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Divin0 is a reggaeton and techno artist based in France, with 23 gigs on soundch
 
 Rebequita, Anaco, Anetha
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divin0/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divin0/)*

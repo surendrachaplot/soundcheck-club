@@ -1,6 +1,6 @@
 # Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau at RSO.BERLIN
 
-Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau at RSO.BERLIN on Fri 27 Nov, Berlin. 5 artists: CAIVA, Frederic., Keyklau and Panteros666 and 1 more. See the line-up on soundcheck.
+Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau at RSO.BERLIN on Fri 27 Nov, Berlin. 6 artists: CAIVA, Frederic., GEORGE RADSPORT and Keyklau and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau at RSO.BER
 
 - CAIVA
 - Frederic.
+- GEORGE RADSPORT
 - Keyklau
 - Panteros666
 - PRADA2000

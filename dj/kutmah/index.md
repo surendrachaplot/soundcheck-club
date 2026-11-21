@@ -1,6 +1,6 @@
 # Kutmah
 
-Kutmah is a Hip-Hop and Ambient artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Galerie Fango, Brandenburg on Sat, 21 Nov 2026.
+Kutmah is a Hip-Hop and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Galerie Fango, Brandenburg on Sat, 21 Nov 2026.
 
 Kutmah is a hip-hop and ambient artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Berlin and Brandenburg. Often billed alongside Opium Hum, Neana and The Gaslamp Killer. Next up: Galerie Fango, Brandenburg on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Kutmah is a hip-hop and ambient artist based in United Kingdom, with 15 gigs on 
 
 Opium Hum, Neana, The Gaslamp Killer
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutmah/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutmah/)*

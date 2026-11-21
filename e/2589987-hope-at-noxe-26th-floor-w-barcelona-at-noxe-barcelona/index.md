@@ -1,6 +1,6 @@
 # HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 24 Dec, Barcelona. 1 artist: Nesi. See the line-up on soundcheck.
+HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 24 Dec, Barcelona. 1 artist: Nesi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

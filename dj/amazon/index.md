@@ -1,6 +1,6 @@
 # Amazon
 
-Amazon is a Dub Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
+Amazon is a Dub Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
 
 Amazon is a dub techno and reggaeton artist based in Brazil, with 13 gigs on soundcheck across Brussels, Milan and Rome. Often billed alongside GS.ELLE, acideyes and ojoo. Next up: Archive Milano, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Amazon is a dub techno and reggaeton artist based in Brazil, with 13 gigs on sou
 
 GS.ELLE, acideyes, ojoo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amazon/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amazon/)*

@@ -1,6 +1,6 @@
 # Miss T Delight
 
-Miss T Delight is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
+Miss T Delight is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
 
 Miss T Delight is a techno and bass artist based in Turkey, with 28 gigs on soundcheck across Berlin and Paris. Often billed alongside Kiar Oscuro, hi.fí and Butch2Bitch. Next up: Crack Bellmer, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Miss T Delight is a techno and bass artist based in Turkey, with 28 gigs on soun
 
 Kiar Oscuro, hi.fí, Butch2Bitch
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*

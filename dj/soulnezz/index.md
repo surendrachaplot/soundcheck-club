@@ -1,6 +1,6 @@
 # Soulnezz
 
-Soulnezz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Pygmalion, Dublin on Sat, 19 Dec 2026.
+Soulnezz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pygmalion, Dublin on Sat, 19 Dec 2026.
 
 Soulnezz is a house and tech house artist based in Brazil, with 29 gigs on soundcheck across Dublin. Often billed alongside Nicole Spagnol, Cam Roberts and Colin Perkins. Next up: Pygmalion, Dublin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Soulnezz is a house and tech house artist based in Brazil, with 29 gigs on sound
 
 Nicole Spagnol, Cam Roberts, Colin Perkins
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnezz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnezz/)*

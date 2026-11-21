@@ -1,14 +1,13 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Malkata Tekila, Sofia on Fri, 20 Nov 2026.
+Janeret is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at La Belle Électrique, South-east on Sat, 19 Dec 2026.
 
-Janeret is a house and minimal artist based in France, with 157 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 56 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: Malkata Tekila, Sofia on Fri 20 Nov.
+Janeret is a house and minimal artist based in France, with 157 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 56 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: La Belle Électrique, South East on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Malkata Tekila | Sofia |
 | Sat, 19 Dec 2026 | La Belle Électrique | South-east |
 | Thu, 31 Dec 2026 | Signal | New York City |
 | Tue, 5 Jan 2027 | TBA - Cenote Experience | Tulum |
@@ -16,6 +15,7 @@ Janeret is a house and minimal artist based in France, with 157 gigs on soundche
 
 ## Recently played
 
+- Malkata Tekila, Sofia · Fri, 20 Nov 2026
 - Klub K4, Ljubljana · Fri, 6 Nov 2026
 - Club Guesthouse, Bucharest · Fri, 6 Nov 2026
 - radial, London · Sun, 1 Nov 2026
@@ -23,10 +23,9 @@ Janeret is a house and minimal artist based in France, with 157 gigs on soundche
 - Badaboum, Paris · Fri, 16 Oct 2026
 - Club Malasaña, Madrid · Sat, 3 Oct 2026
 - The Cause, London · Sat, 26 Sept 2026
-- block., Dublin · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

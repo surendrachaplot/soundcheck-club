@@ -1,6 +1,6 @@
 # Joyhauser
 
-Joyhauser is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Smolna, Warsaw on Sat, 12 Dec 2026.
+Joyhauser is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Smolna, Warsaw on Sat, 12 Dec 2026.
 
 Joyhauser is a techno and house artist based in Belgium, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Juliet Fox, Milo Spykers and Pan-Pot. Next up: Smolna, Warsaw on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Joyhauser is a techno and house artist based in Belgium, with 143 gigs on soundc
 
 Juliet Fox, Milo Spykers, Pan-Pot
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*

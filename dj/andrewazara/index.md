@@ -1,8 +1,8 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 4 Dec 2026.
+Andrew Azara is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 4 Dec 2026.
 
-Andrew Azara is a house and minimal artist, with 45 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Ibiza and 10 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: BORIS CLUB, Barcelona on Fri 4 Dec.
+Andrew Azara is a house and minimal artist based in Ireland, with 45 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Ibiza and 10 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: BORIS CLUB, Barcelona on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Andrew Azara is a house and minimal artist, with 45 gigs on soundcheck across Am
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

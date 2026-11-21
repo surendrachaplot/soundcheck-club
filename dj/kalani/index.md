@@ -1,6 +1,6 @@
 # Kalani
 
-Kalani is a Breakbeat and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hidden, Manchester on Fri, 19 Feb 2027.
+Kalani is a Breakbeat and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hidden, Manchester on Fri, 19 Feb 2027.
 
 Kalani is a breakbeat and electro artist based in United Kingdom, with 27 gigs on soundcheck across Brighton, London, Manchester and Mexico City and 1 more. Often billed alongside Nickon Faith, Incupa97 and k.h0lle. Next up: Hidden, Manchester on Fri 19 Feb.
 
@@ -26,4 +26,4 @@ Kalani is a breakbeat and electro artist based in United Kingdom, with 27 gigs o
 
 Nickon Faith, Incupa97, k.h0lle
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*

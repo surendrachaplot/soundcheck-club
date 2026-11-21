@@ -1,6 +1,6 @@
 # MINDSET at Carousel Bar & Ballroom
 
-MINDSET at Carousel Bar & Ballroom on Fri 27 Nov, Sydney. 5 artists: Caike., LIIA, Nadine B and PAPCO and 1 more. Progressive House and Techno. See the line-up on soundcheck.
+MINDSET at Carousel Bar & Ballroom on Fri 27 Nov, Sydney. 6 artists: bouzeid, Caike., LIIA and Nadine B and 2 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MINDSET at Carousel Bar & Ballroom on Fri 27 Nov, Sydney. 5 artists: Caike., LII
 
 ## Line-up
 
+- bouzeid
 - Caike.
 - LIIA
 - Nadine B

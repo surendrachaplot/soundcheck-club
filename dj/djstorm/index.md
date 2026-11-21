@@ -1,6 +1,6 @@
 # DJ Storm
 
-DJ Storm is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at St Leonards Church - St Leonards, South-east on Sat, 28 Nov 2026.
+DJ Storm is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at St Leonards Church - St Leonards, South-east on Sat, 28 Nov 2026.
 
 DJ Storm is a drum & bass and jungle artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 27 more. Often billed alongside Blackeye MC, Ant TC1 and Doc Scott. Next up: St Leonards Church - St Leonards, South East on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ DJ Storm is a drum & bass and jungle artist based in United Kingdom, with 88 gig
 
 Blackeye MC, Ant TC1, Doc Scott
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*

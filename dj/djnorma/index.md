@@ -1,6 +1,6 @@
 # Dj Norma
 
-Dj Norma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Silencio, Paris on Sat, 21 Nov 2026.
+Dj Norma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Silencio, Paris on Sat, 21 Nov 2026.
 
 Dj Norma is a house and techno artist based in Germany, with 35 gigs on soundcheck across Berlin, Bogotá, Cologne and Hamburg and 6 more. Often billed alongside Greta Spark, Power Squad and ALYF. Next up: Silencio, Paris on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Dj Norma is a house and techno artist based in Germany, with 35 gigs on soundche
 
 Greta Spark, Power Squad, ALYF
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorma/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorma/)*

@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Gray presents: Antisocial Sound (w/ Electrikal Soundsystem)" on Fri, 27 Nov 2026.
+Document is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Gray presents: Antisocial Sound (w/ Electrikal Soundsystem)" on Fri, 27 Nov 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including Artemis, A Sagittariun, Bateman and Benny L and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -23,4 +23,4 @@ Document is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, wit
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

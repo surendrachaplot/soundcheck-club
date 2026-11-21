@@ -1,14 +1,13 @@
 # Animal
 
-Animal is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ANIMAL Friday Night w/ Tigga Calore" on Fri, 20 Nov 2026.
+Animal is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ANIMAL Saturday w/ Snax and Alissa Brianna" on Sat, 21 Nov 2026.
 
-Animal is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Alissa Brianna, Hope 808, Snax and Tigga Calore. See dates, start times and who's playing. 307 Meeker Ave, Brooklyn, NY 11211.
+Animal is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Alissa Brianna, Hope 808 and Snax. See dates, start times and who's playing. 307 Meeker Ave, Brooklyn, NY 11211.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | ANIMAL Friday Night w/ Tigga Calore | Tigga Calore |
 | Sat, 21 Nov 2026 | ANIMAL Saturday w/ Snax and Alissa Brianna | Alissa Brianna, Snax |
 | Sun, 22 Nov 2026 | ANIMAL Sunday w/ Shirley and Hope 808 | Hope 808 |
 
@@ -16,4 +15,4 @@ Animal is a music venue in New York City listed on soundcheck. 3 upcoming gigs, 
 
 307 Meeker Ave, Brooklyn, NY 11211, New York City
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/animal/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/animal/)*

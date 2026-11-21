@@ -1,6 +1,6 @@
 # Drupe Jam
 
-Drupe Jam is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 11 Dec 2026.
+Drupe Jam is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 11 Dec 2026.
 
 Drupe Jam is a house and bass artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Ladiez Drink Free, Mariposa and Perna. Next up: Bossa Nova Civic Club, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Drupe Jam is a house and bass artist based in United States of America, with 26 
 
 Ladiez Drink Free, Mariposa, Perna
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drupejam/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drupejam/)*

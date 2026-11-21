@@ -1,20 +1,20 @@
 # justUS
 
-justUS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
+justUS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 4 Dec 2026.
 
-justUS is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 11 more. Often billed alongside Katzengold, MILLA LOU and Chris Plettenberg. Next up: Kowalski, Stuttgart on Fri 20 Nov.
+justUS is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 11 more. Often billed alongside Katzengold, MILLA LOU and Chris Plettenberg. Next up: Ritter Butzke, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kowalski | Stuttgart |
 | Fri, 4 Dec 2026 | Ritter Butzke | Berlin |
 | Sat, 5 Dec 2026 | Odonien | Cologne |
 | Sat, 9 Jan 2027 | Ritter Butzke | Berlin |
 
 ## Recently played
 
+- Kowalski, Stuttgart · Fri, 20 Nov 2026
 - KitKatClub, Berlin · Fri, 6 Nov 2026
 - Bahnwärter Thiel, Munich · Fri, 16 Oct 2026
 - Ritter Butzke, Berlin · Sat, 10 Oct 2026
@@ -22,10 +22,9 @@ justUS is a techno and house artist based in Germany, with 111 gigs on soundchec
 - Das Werk, Vienna · Sat, 3 Oct 2026
 - Beate Uwe, Berlin · Sat, 19 Sept 2026
 - Gestrandet An Der Jannowitzbrücke, Berlin · Sat, 19 Sept 2026
-- Insomnia, Berlin · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Katzengold, MILLA LOU, Chris Plettenberg
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justus/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justus/)*

@@ -1,18 +1,18 @@
 # DJ Don Q
 
-DJ Don Q is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Spkrbox, Detroit on Fri, 20 Nov 2026.
+DJ Don Q is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Paris Bar, Detroit on Fri, 11 Dec 2026.
 
-DJ Don Q is a house and funk / soul artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside Sheefy McFly, Andrés and Charles Trees. Next up: Spkrbox, Detroit on Fri 20 Nov.
+DJ Don Q is a house and funk / soul artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside Sheefy McFly, Andrés and Charles Trees. Next up: Paris Bar, Detroit on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Spkrbox | Detroit |
 | Fri, 11 Dec 2026 | Paris Bar | Detroit |
 
 ## Recently played
 
+- Spkrbox, Detroit · Fri, 20 Nov 2026
 - Lincoln Factory, Detroit · Sat, 26 Sept 2026
 - Northern Lights Lounge, Detroit · Wed, 7 Jan 2026
 - Paris Bar, Detroit · Fri, 5 Dec 2025
@@ -25,4 +25,4 @@ DJ Don Q is a house and funk / soul artist based in United States of America, wi
 
 Sheefy McFly, Andrés, Charles Trees
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdonq/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdonq/)*

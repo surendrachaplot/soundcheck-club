@@ -1,6 +1,6 @@
 # FILLAN with ADNS, Malingula, Matthieu P, sinkaaf at Fitzroy
 
-FILLAN with ADNS, Malingula, Matthieu P, sinkaaf at Fitzroy on Sat 19 Dec, Berlin. 4 artists: ADNS, Malingula, Matthieu P and sinkaaf. Techno. See the line-up on soundcheck.
+FILLAN with ADNS, Malingula, Matthieu P, sinkaaf at Fitzroy on Sat 19 Dec, Berlin. 6 artists: ADNS, Helia Kiani, Malingula and Matthieu P and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ FILLAN with ADNS, Malingula, Matthieu P, sinkaaf at Fitzroy on Sat 19 Dec, Berli
 ## Line-up
 
 - ADNS
+- Helia Kiani
 - Malingula
 - Matthieu P
+- Parisha
 - sinkaaf
 
 *Source: [soundcheck](https://soundcheck.club/e/2579396-fillan-with-adns-malingula-matthieu-p-sinkaaf-at-fitzroy/)*

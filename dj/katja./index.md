@@ -1,6 +1,6 @@
 # katja.
 
-katja. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
+katja. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
 
 katja. is a house and techno artist based in Germany, with 30 gigs on soundcheck across Berlin. Often billed alongside Mark Gill, 4BLISS# and Calcium Channel. Next up: Renate, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ katja. is a house and techno artist based in Germany, with 30 gigs on soundcheck
 
 Mark Gill, 4BLISS#, Calcium Channel
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katja./)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katja./)*

@@ -1,6 +1,6 @@
 # Robert Piotrowicz
 
-Robert Piotrowicz is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
+Robert Piotrowicz is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
 
 Robert Piotrowicz is an experimental and electronica artist based in Poland, with 16 gigs on soundcheck across Berlin, Krakow, London and Mexico City and 5 more. Often billed alongside Jacek Sienkiewicz, Rashad Becker and Koichi Shimizu. Next up: Casa del lago UNAM, Mexico City on Fri 20 Nov.
 
@@ -9,22 +9,21 @@ Robert Piotrowicz is an experimental and electronica artist based in Poland, wit
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Casa del lago UNAM | Mexico City |
-| Fri, 20 Nov 2026 | Casa del lago UNAM | Mexico City |
 | Wed, 25 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
+- Casa del lago UNAM, Mexico City · Fri, 20 Nov 2026
+- Casa del lago UNAM, Mexico City · Fri, 20 Nov 2026
 - IKLECTIK, London · Fri, 9 Oct 2026
 - Żoliborski Dom Kultury, Warsaw · Sun, 18 Jan 2026
 - vurt., Seoul · Sun, 16 Nov 2025
 - KGR(n), Tokyo · Mon, 10 Nov 2025
 - Kagurane, Tokyo · Mon, 10 Nov 2025
 - Club Daphnia, Osaka · Fri, 7 Nov 2025
-- Club Daphnia, Osaka · Fri, 7 Nov 2025
-- Soup, Tokyo · Mon, 3 Nov 2025
 
 ## Shares bills with
 
 Jacek Sienkiewicz, Rashad Becker, Koichi Shimizu
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpiotrowicz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpiotrowicz/)*

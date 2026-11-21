@@ -1,6 +1,6 @@
 # Alexis Roy
 
-Alexis Roy is a Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ikii, Berlin on Fri, 27 Nov 2026.
+Alexis Roy is a Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ikii, Berlin on Fri, 27 Nov 2026.
 
 Alexis Roy is a downtempo artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Melihsub, Bound Effect and Ines Cartas. Next up: Ikii, Berlin on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Alexis Roy is a downtempo artist, with 6 gigs on soundcheck across Berlin. Often
 
 Melihsub, Bound Effect, Ines Cartas
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisroy/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisroy/)*

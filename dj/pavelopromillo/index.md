@@ -1,6 +1,6 @@
 # Pavelo Promillo
 
-Pavelo Promillo is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ://about blank, Berlin on Sat, 5 Dec 2026.
+Pavelo Promillo is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ://about blank, Berlin on Sat, 5 Dec 2026.
 
 Pavelo Promillo is a trance and techno artist based in Germany, with 59 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside HiHat, Bamela Paywatch and Lenny Fuck. Next up: ://about blank, Berlin on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Pavelo Promillo is a trance and techno artist based in Germany, with 59 gigs on 
 
 HiHat, Bamela Paywatch, Lenny Fuck
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelopromillo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelopromillo/)*

@@ -1,6 +1,6 @@
 # Kobza
 
-Kobza is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Barbary, Philadelphia on Fri, 1 Jan 2027.
+Kobza is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Barbary, Philadelphia on Fri, 1 Jan 2027.
 
 Kobza is a techno and progressive house artist based in Ukraine, with 36 gigs on soundcheck across Philadelphia. Often billed alongside Maddalena, Mayank and NewiZ. Next up: The Barbary, Philadelphia on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Kobza is a techno and progressive house artist based in Ukraine, with 36 gigs on
 
 Maddalena, Mayank, NewiZ
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobza/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobza/)*

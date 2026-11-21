@@ -1,6 +1,6 @@
 # AMOVV
 
-AMOVV is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Club Lucia, Vienna on Fri, 18 Dec 2026.
+AMOVV is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Lucia, Vienna on Fri, 18 Dec 2026.
 
 AMOVV is a techno artist based in Austria, with 5 gigs on soundcheck across Vienna. Often billed alongside CPR0, Dcascallana and Fabian Hofer. Next up: Club Lucia, Vienna on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ AMOVV is a techno artist based in Austria, with 5 gigs on soundcheck across Vien
 
 CPR0, Dcascallana, Fabian Hofer (2)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amovv/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amovv/)*

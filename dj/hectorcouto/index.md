@@ -1,6 +1,6 @@
 # Hector Couto
 
-Hector Couto is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Leone Discoteca, Morocco on Sat, 21 Nov 2026.
+Hector Couto is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Leone Discoteca, Morocco on Sat, 21 Nov 2026.
 
 Hector Couto is a tech house and house artist based in Spain, with 78 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 27 more. Often billed alongside Prunk, Ammo Avenue and Dimmish. Next up: Leone Discoteca, Morocco on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Hector Couto is a tech house and house artist based in Spain, with 78 gigs on so
 
 Prunk, Ammo Avenue, Dimmish
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*

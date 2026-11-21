@@ -1,6 +1,6 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
+Onur Özer is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
 
 Onur Özer is a techno and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Francesco Del Garda, Christian AB and Lumiere. Next up: Tokonoma Club, Frankfurt on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Onur Özer is a techno and house artist based in Germany, with 134 gigs on sound
 
 Francesco Del Garda, Christian AB, Lumiere
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

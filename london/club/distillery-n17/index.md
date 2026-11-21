@@ -1,6 +1,6 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Down The Spiral Vol.2" on Sat, 21 Nov 2026.
+Distillery N17 is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Down The Spiral Vol.2" on Sat, 21 Nov 2026.
 
 Distillery N17 is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Carbon, Alba Heidari, Alfie G and alterum and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
@@ -22,4 +22,4 @@ Distillery N17 is a music venue in London listed on soundcheck. 9 upcoming gigs,
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

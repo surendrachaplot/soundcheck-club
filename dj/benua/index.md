@@ -1,6 +1,6 @@
 # Benua
 
-Benua is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Prisma, Berlin on Thu, 26 Nov 2026.
+Benua is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Prisma, Berlin on Thu, 26 Nov 2026.
 
 Benua is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Hamburg and Vilnius. Often billed alongside The Kiss, Blck-Swan and H7. Next up: Prisma, Berlin on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Benua is a techno and trance artist based in Germany, with 24 gigs on soundcheck
 
 The Kiss, Blck-Swan, H7 (3)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benua/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benua/)*

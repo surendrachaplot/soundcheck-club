@@ -1,14 +1,15 @@
 # Earlll
 
-Earlll is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
+Earlll is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
 
-Earlll is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Detroit. Often billed alongside AIDEL, Amino and Duck Trash. Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
+Earlll is a techno and acid artist based in United States of America, with 11 gigs on soundcheck across Detroit. Often billed alongside AIDEL, Amino and Duck Trash. Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | The Eagle of Detroit | Detroit |
+| Sat, 28 Nov 2026 | Northern Lights Lounge | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Earlll is a techno and house artist based in United States of America, with 10 g
 
 AIDEL, Amino, Duck Trash
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*

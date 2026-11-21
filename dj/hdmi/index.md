@@ -1,6 +1,6 @@
 # HDMI?
 
-HDMI? is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Le Maquis Club, Hanoi on Sat, 21 Nov 2026.
+HDMI? is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Le Maquis Club, Hanoi on Sat, 21 Nov 2026.
 
 HDMI? is a techno and bass artist based in Vietnam, with 28 gigs on soundcheck across Hanoi. Often billed alongside Emmytee, LINHTONIK and Fomococo. Next up: Le Maquis Club, Hanoi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ HDMI? is a techno and bass artist based in Vietnam, with 28 gigs on soundcheck a
 
 Emmytee, LINHTONIK, Fomococo (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hdmi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hdmi/)*

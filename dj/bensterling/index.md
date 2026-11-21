@@ -1,14 +1,13 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+Ben Sterling is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Ben Sterling is a tech house and house artist based in United Kingdom, with 207 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 50 more. Often billed alongside Marco Carola, Dennis Cruz and Max Dean. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
+Ben Sterling is a tech house and house artist based in United Kingdom, with 207 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 50 more. Often billed alongside Marco Carola, Dennis Cruz and Max Dean. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
@@ -32,4 +31,4 @@ Ben Sterling is a tech house and house artist based in United Kingdom, with 207 
 
 Marco Carola, Dennis Cruz, Max Dean
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

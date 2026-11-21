@@ -1,6 +1,6 @@
 # Nebula Estudio
 
-Nebula Estudio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Artlab, Buenos Aires on Sat, 21 Nov 2026.
+Nebula Estudio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Artlab, Buenos Aires on Sat, 21 Nov 2026.
 
 Nebula Estudio is a house and tech house artist based in Argentina, with 9 gigs on soundcheck across Buenos Aires. Often billed alongside Manu Barcelo, Melania Wonder and Pedro Gariani. Next up: Artlab, Buenos Aires on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nebula Estudio is a house and tech house artist based in Argentina, with 9 gigs 
 
 Manu Barcelo, Melania Wonder, Pedro Gariani
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*

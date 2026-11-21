@@ -1,6 +1,6 @@
 # Janky
 
-Janky is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Chicago Eagle, Chicago on Sat, 21 Nov 2026.
+Janky is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Chicago Eagle, Chicago on Sat, 21 Nov 2026.
 
 Janky is a house and techno artist, with 43 gigs on soundcheck across Berlin, Chicago, Istanbul and London and 8 more. Often billed alongside Towicz, Blu9 and Derrick Carter. Next up: Chicago Eagle, Chicago on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Janky is a house and techno artist, with 43 gigs on soundcheck across Berlin, Ch
 
 Towicz, Blu9, Derrick Carter
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*

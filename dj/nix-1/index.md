@@ -1,6 +1,6 @@
 # Nix (1)
 
-Nix (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Cadavra, Madrid on Thu, 10 Dec 2026.
+Nix (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cadavra, Madrid on Thu, 10 Dec 2026.
 
 Nix is a house and techno artist based in Venezuela, with 8 gigs on soundcheck across Amsterdam, Madrid, Medellin and Melbourne and 2 more. Often billed alongside Anso, Dj Andi and Dj Yan. Next up: Cadavra, Madrid on Thu 10 Dec.
 
@@ -24,4 +24,4 @@ Nix is a house and techno artist based in Venezuela, with 8 gigs on soundcheck a
 
 Anso, Dj Andi, Dj Yan
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nix-1/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nix-1/)*

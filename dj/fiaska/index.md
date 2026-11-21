@@ -1,6 +1,6 @@
 # FIASKA
 
-FIASKA is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Liquid Club, Malta on Sat, 28 Nov 2026.
+FIASKA is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Liquid Club, Malta on Sat, 28 Nov 2026.
 
 FIASKA is a techno and dub techno artist based in Germany, with 19 gigs on soundcheck across Berlin and Malta. Often billed alongside Ilyas S, iNK MT and OBLX. Next up: Liquid Club, Malta on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ FIASKA is a techno and dub techno artist based in Germany, with 19 gigs on sound
 
 Ilyas S, iNK MT, OBLX
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiaska/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiaska/)*

@@ -1,8 +1,8 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Domicile, Miami on Fri, 27 Nov 2026.
+OMAKS is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Domicile, Miami on Fri, 27 Nov 2026.
 
-OMAKS is a techno and hardcore artist based in France, with 163 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 55 more. Often billed alongside LESSSS, ANXHELA and Shlømo. Next up: Domicile, Miami on Fri 27 Nov.
+OMAKS is a techno and hardcore artist based in France, with 164 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 55 more. Often billed alongside LESSSS, ANXHELA and Shlømo. Next up: Domicile, Miami on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ OMAKS is a techno and hardcore artist based in France, with 163 gigs on soundche
 | Fri, 18 Dec 2026 | Le Grand Sud | Lille |
 | Sat, 19 Dec 2026 | Parc Des Expositions | Paris |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Fri, 26 Feb 2027 | Selina's | Sydney |
 | Sat, 27 Feb 2027 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
@@ -31,4 +32,4 @@ OMAKS is a techno and hardcore artist based in France, with 163 gigs on soundche
 
 LESSSS, ANXHELA, Shlømo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

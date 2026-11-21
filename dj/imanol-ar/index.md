@@ -1,6 +1,6 @@
 # Imanøl
 
-Imanøl is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Buenos Aires on Sat, 21 Nov 2026.
+Imanøl is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Buenos Aires on Sat, 21 Nov 2026.
 
 Imanøl is a techno and electronica artist, with 6 gigs on soundcheck across Buenos Aires. Often billed alongside DJ CABRON JUSTICIERO and EVIŠKA. Next up: TBA, Buenos Aires on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Imanøl is a techno and electronica artist, with 6 gigs on soundcheck across Bue
 
 , DJ CABRON JUSTICIERO, EVIŠKA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanol-ar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanol-ar/)*

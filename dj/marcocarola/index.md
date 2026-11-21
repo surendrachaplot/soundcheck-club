@@ -1,6 +1,6 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Marco Carola is a Tech House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
 Marco Carola is a tech house and techno artist based in Italy, with 327 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Loco Dice. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
@@ -22,17 +22,17 @@ Marco Carola is a tech house and techno artist based in Italy, with 327 gigs on 
 
 ## Recently played
 
+- Khoroum Valley, Egypt · Fri, 20 Nov 2026
+- TBA, Buenos Aires · Fri, 20 Nov 2026
 - Warehouse ZRH, Zurich · Sat, 14 Nov 2026
 - Fabrique, Milan · Fri, 13 Nov 2026
 - Vale do Anhangabaú, Sao Paulo · Sat, 7 Nov 2026
 - Autodromo Enzo e Dino Ferrari, Bologna · Sat, 31 Oct 2026
 - Theata, London · Fri, 30 Oct 2026
 - Pacha New York, New York City · Sun, 18 Oct 2026
-- Mana Wynwood, Miami · Fri, 16 Oct 2026
-- Pacha New York, New York City · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Franky Rizardo, Ale De Tuglie, Loco Dice
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

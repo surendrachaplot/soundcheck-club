@@ -1,6 +1,6 @@
 # Tallah
 
-Tallah is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 4 Dec 2026.
+Tallah is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 4 Dec 2026.
 
 Tallah is a progressive house and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Astrocue, Anne-Sophie Selig and Fabian Fischbach. Next up: DNA. CLUB, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tallah is a progressive house and tech house artist based in Germany, with 13 gi
 
 Astrocue, Anne-Sophie Selig, Fabian Fischbach
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tallah/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tallah/)*

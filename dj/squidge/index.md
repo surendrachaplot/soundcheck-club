@@ -1,6 +1,6 @@
 # Squidge
 
-Squidge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 工gong, Chengdu on Sat, 21 Nov 2026.
+Squidge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 工gong, Chengdu on Sat, 21 Nov 2026.
 
 Squidge is a house and techno artist based in China, with 28 gigs on soundcheck across Bali, Beijing, Chengdu and Munich and 2 more. Often billed alongside Kashawar, 10000 (CN) and Nighttrain2000. Next up: 工gong, Chengdu on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Squidge is a house and techno artist based in China, with 28 gigs on soundcheck 
 
 Kashawar, 10000 (CN), Nighttrain2000
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squidge/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squidge/)*

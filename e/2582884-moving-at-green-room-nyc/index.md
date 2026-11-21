@@ -1,6 +1,6 @@
 # Moving at Green Room NYC
 
-Moving at Green Room NYC on Sun 22 Nov, New York City. 4 artists: Aria Pash, ATEQ, Elsaq and Kiyoshi. Techno and House. See the line-up on soundcheck.
+Moving at Green Room NYC on Sun 22 Nov, New York City. 4 artists: Aria Pash, ATEQ, Elsaq and Kiyoshi. House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

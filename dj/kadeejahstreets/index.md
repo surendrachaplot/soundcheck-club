@@ -1,6 +1,6 @@
 # Kadeejah Streets
 
-Kadeejah Streets is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Private Location, Seattle on Sat, 21 Nov 2026.
+Kadeejah Streets is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Private Location, Seattle on Sat, 21 Nov 2026.
 
 Kadeejah Streets is a house and acid artist based in United States of America, with 57 gigs on soundcheck across Austin, Osaka, Portland and San Francisco/Oakland and 2 more. Often billed alongside DJ SH1-TR, Sharlese and Lord Phatrick. Next up: TBA - Private Location, Seattle on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Kadeejah Streets is a house and acid artist based in United States of America, w
 
 DJ SH1-TR, Sharlese, Lord Phatrick
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*

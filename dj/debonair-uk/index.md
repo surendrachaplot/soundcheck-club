@@ -1,0 +1,28 @@
+# DEBONAIR
+
+DEBONAIR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+
+DEBONAIR is a techno and house artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, Beijing, Bristol and Chicago and 18 more. Often billed alongside Jubilee, Objekt and BEIGE. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
+
+## Recently played
+
+- Collapse, Pittsburgh · Fri, 6 Nov 2026
+- Green Room NYC, New York City · Sat, 24 Oct 2026
+- EXIT Glasgow, Glasgow · Fri, 2 Oct 2026
+- Venues Across Glasgow, Glasgow · Thu, 24 Sept 2026
+- Ormside Projects, London · Sat, 1 Aug 2026
+- public records, New York City · Thu, 9 Jul 2026
+- Village Underground, London · Sat, 30 May 2026
+- Good Room, New York City · Thu, 7 May 2026
+
+## Shares bills with
+
+Jubilee, Objekt, BEIGE
+
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*

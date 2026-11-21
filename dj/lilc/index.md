@@ -1,6 +1,6 @@
 # Lil C
 
-Lil C is a Dancehall and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
+Lil C is a Dancehall and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
 
 Lil C is a dancehall and club artist based in United Kingdom, with 44 gigs on soundcheck across Auckland, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Lagoon Femshayma, Handsome Rob and Fiyahdred. Next up: The Crypt at St. Matthews Church, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lil C is a dancehall and club artist based in United Kingdom, with 44 gigs on so
 
 Lagoon Femshayma, Handsome Rob, Fiyahdred
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*

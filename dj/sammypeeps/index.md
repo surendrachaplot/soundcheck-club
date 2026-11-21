@@ -1,6 +1,6 @@
 # Sammy Peeps
 
-Sammy Peeps is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
+Sammy Peeps is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
 
 Sammy Peeps is a minimal techno and house artist based in United Kingdom, with 29 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside eosap, DJ Bz and Doogi. Next up: The Outhouse, Edinburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sammy Peeps is a minimal techno and house artist based in United Kingdom, with 2
 
 eosap, DJ Bz, Doogi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammypeeps/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammypeeps/)*

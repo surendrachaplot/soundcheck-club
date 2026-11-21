@@ -1,8 +1,8 @@
 # Appleblim
 
-Appleblim is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Appleblim is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
-Appleblim is a bass and dub artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Bristol, Galway and Istanbul and 4 more. Often billed alongside Low End Activist, DJ Regret and Demdike Stare. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
+Appleblim is a bass and dub artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Bristol, Galway and Istanbul and 5 more. Often billed alongside Low End Activist, DJ Regret and Demdike Stare. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Appleblim is a bass and dub artist based in United Kingdom, with 58 gigs on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 27 Nov 2026 | OHM | Berlin |
+| Sat, 6 Feb 2027 | Open Ground | North-rhine-westphalia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Appleblim is a bass and dub artist based in United Kingdom, with 58 gigs on soun
 
 Low End Activist, DJ Regret, Demdike Stare
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/appleblim/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/appleblim/)*

@@ -1,14 +1,13 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
+Bradley Zero is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hope House, Leeds on Fri, 27 Nov 2026.
 
-Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 61 more. Often billed alongside MLE (UK), Moxie and Sally C. Next up: Tresor / Globus, Berlin on Fri 20 Nov.
+Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 61 more. Often billed alongside MLE (UK), Moxie and Sally C. Next up: Hope House, Leeds on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 27 Nov 2026 | Hope House | Leeds |
 | Sat, 28 Nov 2026 | Kapsule | Liverpool |
 | Sat, 28 Nov 2026 | Kapsule | Liverpool |
@@ -17,6 +16,7 @@ Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs
 
 ## Recently played
 
+- Tresor / Globus, Berlin · Fri, 20 Nov 2026
 - Palais, London · Sat, 14 Nov 2026
 - Volt Club Milano, Milan · Thu, 12 Nov 2026
 - Zwart Goud Record Store, Amsterdam · Wed, 21 Oct 2026
@@ -24,10 +24,9 @@ Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - smartbar, Chicago · Sun, 20 Sept 2026
 - public records, New York City · Sat, 19 Sept 2026
-- The Cause, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 MLE (UK), Moxie, Sally C
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

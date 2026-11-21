@@ -1,6 +1,6 @@
 # o! michello!
 
-o! michello! is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Artefact Milano, Milan on Sat, 21 Nov 2026.
+o! michello! is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Artefact Milano, Milan on Sat, 21 Nov 2026.
 
 o! michello! is a house and disco artist based in Italy, with 13 gigs on soundcheck across Milan. Often billed alongside Deckneeco, Guayaba and Violett Moon. Next up: Artefact Milano, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ o! michello! is a house and disco artist based in Italy, with 13 gigs on soundch
 
 Deckneeco, Guayaba, Violett Moon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o!michello!/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o!michello!/)*

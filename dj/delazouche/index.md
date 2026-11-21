@@ -1,6 +1,6 @@
 # De La Zouche
 
-De La Zouche is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
+De La Zouche is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
 
 De La Zouche is a garage and tech house artist based in United Kingdom, with 7 gigs on soundcheck across London, Manchester and South East. Often billed alongside Adam Romo, Marcos Loveday and RORO. Next up: All My Friends, London on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ De La Zouche is a garage and tech house artist based in United Kingdom, with 7 g
 
 Adam Romo, Marcos Loveday, RORO
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delazouche/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delazouche/)*

@@ -1,6 +1,6 @@
 # Maque
 
-Maque is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lark, Berlin on Sat, 21 Nov 2026.
+Maque is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lark, Berlin on Sat, 21 Nov 2026.
 
 Maque is a latin bass and techno artist based in Bolivia, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 3 more. Often billed alongside auto_timer, DJ LOUI FROM JUPITER4 and Gadutra. Next up: Lark, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Maque is a latin bass and techno artist based in Bolivia, with 48 gigs on soundc
 
 auto_timer, DJ LOUI FROM JUPITER4, Gadutra
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maque/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maque/)*

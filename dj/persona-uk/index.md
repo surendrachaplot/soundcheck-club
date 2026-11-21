@@ -1,6 +1,6 @@
 # Person A
 
-Person A is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Turbina, Budapest on Sat, 19 Dec 2026.
+Person A is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Turbina, Budapest on Sat, 19 Dec 2026.
 
 Person A is a techno and acid artist based in Germany, with 6 gigs on soundcheck across Basel, Budapest, Prague and Santiago. Often billed alongside Amphibian, Axis Alpha and Katamii. Next up: Turbina, Budapest on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Person A is a techno and acid artist based in Germany, with 6 gigs on soundcheck
 
 Amphibian, Axis Alpha, Katamii
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/persona-uk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/persona-uk/)*

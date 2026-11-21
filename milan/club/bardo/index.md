@@ -1,14 +1,13 @@
 # BARDO
 
-BARDO is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "BARDO" on Fri, 20 Nov 2026.
+BARDO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "BARDO" on Sat, 21 Nov 2026.
 
-BARDO is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including HLRTY. See dates, start times and who's playing. Via Plinio 42, Milan, Italy 20129.
+BARDO is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including HLRTY. See dates, start times and who's playing. Via Plinio 42, Milan, Italy 20129.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | BARDO |  |
 | Sat, 21 Nov 2026 | BARDO | HLRTY |
 | Sun, 22 Nov 2026 | BARDO |  |
 
@@ -16,4 +15,4 @@ BARDO is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line
 
 Via Plinio 42, Milan, Italy 20129, Milan
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bardo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bardo/)*

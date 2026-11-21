@@ -1,6 +1,6 @@
 # Shkedul
 
-Shkedul is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Coil, Melbourne on Sat, 21 Nov 2026.
+Shkedul is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Coil, Melbourne on Sat, 21 Nov 2026.
 
 Shkedul is a techno and house artist based in Italy, with 37 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 20 more. Often billed alongside Enrico Vivaldi, Anthea and Ben Klock. Next up: Coil, Melbourne on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Shkedul is a techno and house artist based in Italy, with 37 gigs on soundcheck 
 
 Enrico Vivaldi, Anthea, Ben Klock
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*

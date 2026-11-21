@@ -1,6 +1,6 @@
 # 「lotura」 & Rebels presentan THING: Akira + Adversario + Carcoma LFO + C-System + SCHRZØ at Dabadaba
 
-「lotura」 & Rebels presentan THING: Akira + Adversario + Carcoma LFO + C-System + SCHRZØ at Dabadaba on Sat 26 Dec, North. 5 artists: Adversario, Akira, C-System and Kenya Arakama and 1 more. See the line-up on soundcheck.
+「lotura」 & Rebels presentan THING: Akira + Adversario + Carcoma LFO + C-System + SCHRZØ at Dabadaba on Sat 26 Dec, North. 6 artists: Adversario, Akira, C-System and Carcoma LFO and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - Adversario
 - Akira
 - C-System
+- Carcoma LFO
 - Kenya Arakama
 - SCHRZØ
 

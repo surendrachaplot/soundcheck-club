@@ -1,20 +1,20 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Electric Bristol, Bristol on Fri, 20 Nov 2026.
+Culture Shock is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Concorde 2, Brighton on Sat, 21 Nov 2026.
 
-Culture Shock is a drum & bass and bass artist based in United Kingdom, with 83 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 40 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Electric Bristol, Bristol on Fri 20 Nov.
+Culture Shock is a drum & bass and bass artist based in United Kingdom, with 83 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 40 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Concorde 2, Brighton on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Electric Bristol | Bristol |
 | Sat, 21 Nov 2026 | Concorde 2 | Brighton |
 | Fri, 27 Nov 2026 | Outernet Live | London |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 
 ## Recently played
 
+- Electric Bristol, Bristol · Fri, 20 Nov 2026
 - Arzenal, Budapest · Thu, 19 Nov 2026
 - The Warehouse, Leeds · Sat, 7 Nov 2026
 - Brooklyn Storehouse, New York City · Sat, 17 Oct 2026
@@ -22,10 +22,9 @@ Culture Shock is a drum & bass and bass artist based in United Kingdom, with 83 
 - UNO MALTA, Malta · Thu, 3 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Antwerp Expo, Antwerp · Sat, 22 Aug 2026
-- BERHTA, Washington DC · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Sub Focus, Dimension, 1991
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

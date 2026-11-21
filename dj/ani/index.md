@@ -1,6 +1,6 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+A.N.I. is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 A.N.I. is a techno and trance artist based in Germany, with 225 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -23,6 +23,7 @@ A.N.I. is a techno and trance artist based in Germany, with 225 gigs on soundche
 
 ## Recently played
 
+- The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - Edelfettwerk, Hamburg · Sat, 14 Nov 2026
 - Palais 12 / Paleis 12 (ING Arena), Brussels · Sat, 7 Nov 2026
 - Spook Club, Valencia · Sat, 31 Oct 2026
@@ -30,10 +31,9 @@ A.N.I. is a techno and trance artist based in Germany, with 225 gigs on soundche
 - La Cubierta de Leganés, Madrid · Fri, 30 Oct 2026
 - Sasazu, Prague · Tue, 27 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Wed, 21 Oct 2026
-- OST, Berlin · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

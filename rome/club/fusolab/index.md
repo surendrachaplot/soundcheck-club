@@ -1,6 +1,6 @@
 # Fusolab
 
-Fusolab is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Zinghero in concerto al Fusolab" on Fri, 27 Nov 2026.
+Fusolab is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Zinghero in concerto al Fusolab" on Fri, 27 Nov 2026.
 
 Fusolab is a music venue in Rome listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Fusolab is a music venue in Rome listed on soundcheck. 1 upcoming gig. See dates
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Zinghero in concerto al Fusolab |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/fusolab/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/fusolab/)*

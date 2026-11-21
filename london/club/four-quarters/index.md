@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "NoizHeadz" on Thu, 26 Nov 2026.
+Four Quarters is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "NoizHeadz" on Thu, 26 Nov 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Alfie Fraser, Bluey, Calm Stiege and Declan Knapp and 2 more. See dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -17,4 +17,4 @@ Four Quarters is a music venue in London listed on soundcheck. 4 upcoming gigs, 
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

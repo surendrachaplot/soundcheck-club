@@ -1,14 +1,13 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ABOV" on Fri, 20 Nov 2026.
+KREUZWERK is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Power Dance Club" on Fri, 27 Nov 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Aldonna and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Aldonna and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | ABOV | Beatrice (DE), Mareena, Volvox |
 | Fri, 27 Nov 2026 | Power Dance Club | Amanda Mussi, Byron Yeates, E-Talking, Luigi Di Venere, Majdolen, Maria Politi, Stathis (GR) |
 | Fri, 4 Dec 2026 | M.Á.S | Jana Falcon, KUSS, Mohajer, Rachel Noon, Rachel de Moncuit, Volpe |
 | Sat, 5 Dec 2026 | Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga | ALP (DE), Aunty Nora, CLEO, Huamaniser, KVKN, Lixi, Mama Yha Yha, Nycky Estrella, Ojos de miel, Sub Sahara, VRTL |
@@ -23,4 +22,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

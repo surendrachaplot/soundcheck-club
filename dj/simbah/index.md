@@ -1,6 +1,6 @@
 # SIMBAH
 
-SIMBAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 22 Nov 2026.
+SIMBAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 22 Nov 2026.
 
 SIMBAH is a house and tech house artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside CLESENT, Rickey Shannon and ANDY DEDE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sun 22 Nov.
 
@@ -21,4 +21,4 @@ SIMBAH is a house and tech house artist based in Japan, with 5 gigs on soundchec
 
 CLESENT, Rickey Shannon, ANDY DEDE
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*

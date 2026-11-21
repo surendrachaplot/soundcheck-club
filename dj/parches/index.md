@@ -1,6 +1,6 @@
 # Parches
 
-Parches is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Versalles 64, Mexico City on Sat, 21 Nov 2026.
+Parches is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Versalles 64, Mexico City on Sat, 21 Nov 2026.
 
 Parches is a house and electronica artist based in Mexico, with 9 gigs on soundcheck across Mexico City. Often billed alongside The Essence, allangrank and daveh00d. Next up: Versalles 64, Mexico City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Parches is a house and electronica artist based in Mexico, with 9 gigs on soundc
 
 The Essence, allangrank, daveh00d
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parches/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parches/)*

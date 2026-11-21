@@ -1,14 +1,15 @@
 # Emerald
 
-Emerald is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Fox and Firkin, London on Sat, 21 Nov 2026.
+Emerald is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fox and Firkin, London on Sat, 21 Nov 2026.
 
-Emerald is a house and techno artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Special Request, Aletha and Amaliah. Next up: The Fox and Firkin, London on Sat 21 Nov.
+Emerald is a house and garage artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Special Request, Aletha and Amaliah. Next up: The Fox and Firkin, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | The Fox and Firkin | London |
+| Thu, 10 Dec 2026 | Umusic Store Camden | London |
 | Fri, 18 Dec 2026 | Club Empire | London |
 | Thu, 31 Dec 2026 | E1 | London |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
@@ -29,4 +30,4 @@ Emerald is a house and techno artist based in United Kingdom, with 76 gigs on so
 
 Special Request, Aletha, Amaliah
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*

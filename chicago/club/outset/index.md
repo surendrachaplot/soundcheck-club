@@ -1,14 +1,13 @@
 # Outset
 
-Outset is a music venue in Chicago with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Headache" on Fri, 20 Nov 2026.
+Outset is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Black House Radio" on Sat, 28 Nov 2026.
 
-Outset is a music venue in Chicago listed on soundcheck. 7 upcoming gigs, with line-ups including Amtrac, Headache, UNKLE and Vegyn. See dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
+Outset is a music venue in Chicago listed on soundcheck. 6 upcoming gigs, with line-ups including Amtrac and UNKLE. See dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Headache | Headache, Vegyn |
 | Sat, 28 Nov 2026 | Black House Radio |  |
 | Fri, 4 Dec 2026 | GorillaT |  |
 | Sat, 5 Dec 2026 | Baby Jane |  |
@@ -20,4 +19,4 @@ Outset is a music venue in Chicago listed on soundcheck. 7 upcoming gigs, with l
 
 1675 N Elston Ave, Chicago, IL 60642, Chicago
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*

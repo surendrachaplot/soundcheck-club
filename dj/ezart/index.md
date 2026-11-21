@@ -1,6 +1,6 @@
 # Ezart
 
-Ezart is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Sun, 6 Dec 2026.
+Ezart is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Sun, 6 Dec 2026.
 
 Ezart is an electro and house artist based in Italy, with 16 gigs on soundcheck across Milan. Often billed alongside Daniele Umore, Wrng Pattern and Tao. Next up: CGM - Club Giovanile Milano, Milan on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Ezart is an electro and house artist based in Italy, with 16 gigs on soundcheck 
 
 Daniele Umore, Wrng Pattern, Tao (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezart/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezart/)*

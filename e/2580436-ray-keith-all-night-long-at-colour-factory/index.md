@@ -1,6 +1,6 @@
 # Ray Keith - All Night Long at Colour Factory
 
-Ray Keith - All Night Long at Colour Factory on Sat 23 Jan, London. 1 artist: Ray Keith. See the line-up on soundcheck.
+Ray Keith - All Night Long at Colour Factory on Sat 23 Jan, London. 1 artist: Ray Keith. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

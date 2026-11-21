@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Time Warp Afterparty: Maceo Plex + Iñigo Vontier + Celice" on Fri, 20 Nov 2026.
+Fünk is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Petre Inspirescu + Eduardo Ferreyra + Maneuver" on Sat, 21 Nov 2026.
 
-Fünk is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, with line-ups including Astroboii, ATEQ, Bluecommand and Celice Monnette and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Astroboii, ATEQ, Bluecommand and DJ Rino and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Time Warp Afterparty: Maceo Plex + Iñigo Vontier + Celice | Celice Monnette, Iñigo Vontier, Maceo Plex |
 | Sat, 21 Nov 2026 | Petre Inspirescu + Eduardo Ferreyra + Maneuver | Eduardo Ferreyra, Petre Inspirescu |
 | Thu, 26 Nov 2026 | RE:SET X Fünk: ATEQ + MNTY + Andreas | ATEQ, MNTY |
 | Fri, 27 Nov 2026 | Basement Love: Soul Of Hex + Tiago Oudman + Xwnia Wölf | Soul Of Hex, Tiago Oudman, Xwnia Wölf |
@@ -22,4 +21,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, wit
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

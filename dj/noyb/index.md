@@ -1,6 +1,6 @@
 # NOYB
 
-NOYB is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hoxton Cabin, London on Fri, 27 Nov 2026.
+NOYB is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hoxton Cabin, London on Fri, 27 Nov 2026.
 
 NOYB is a house and disco artist based in Italy, with 38 gigs on soundcheck across Amsterdam and London. Often billed alongside MAÏS, Benebe and anxiousaaron. Next up: Hoxton Cabin, London on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ NOYB is a house and disco artist based in Italy, with 38 gigs on soundcheck acro
 
 MAÏS, Benebe, anxiousaaron
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*

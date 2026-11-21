@@ -1,6 +1,6 @@
 # The Lower Third
 
-The Lower Third is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "AmyElle Presents..." on Sat, 21 Nov 2026.
+The Lower Third is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "AmyElle Presents..." on Sat, 21 Nov 2026.
 
 The Lower Third is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Adela, AmyElle, Bambii and Budakid and 2 more. See dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
 
@@ -20,4 +20,4 @@ The Lower Third is a music venue in London listed on soundcheck. 7 upcoming gigs
 
 26 Denmark St, London, WC2H 8NJ, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*

@@ -1,14 +1,15 @@
 # Dylan C. Greene
 
-Dylan C. Greene is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Thu, 31 Dec 2026.
+Dylan C. Greene is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Thu, 31 Dec 2026.
 
-Dylan C. Greene is a house and disco artist based in United States of America, with 19 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside 3kelves, Supertaste and A-Trak. Next up: Pier 48's Shed A, San Francisco/Oakland on Thu 31 Dec.
+Dylan C. Greene is a house and disco artist based in United States of America, with 20 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside 3kelves, Supertaste and starfari. Next up: Pier 48's Shed A, San Francisco/Oakland on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Pier 48's Shed A | San Francisco/Oakland |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dylan C. Greene is a house and disco artist based in United States of America, w
 
 ## Shares bills with
 
-3kelves, Supertaste, A-Trak
+3kelves, Supertaste, starfari
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc.greene/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc.greene/)*

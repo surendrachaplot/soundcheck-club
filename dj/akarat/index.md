@@ -1,6 +1,6 @@
 # aka RAT
 
-aka RAT is a Club and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wych, Toronto on Sat, 21 Nov 2026.
+aka RAT is a Club and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wych, Toronto on Sat, 21 Nov 2026.
 
 aka RAT is a club and dancehall artist based in Canada, with 4 gigs on soundcheck across Toronto. Often billed alongside Mrii and Selena Savage. Next up: The Wych, Toronto on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ aka RAT is a club and dancehall artist based in Canada, with 4 gigs on soundchec
 
 Mrii, Selena Savage
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akarat/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akarat/)*

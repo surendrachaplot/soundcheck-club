@@ -1,6 +1,6 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 21 Nov 2026.
+Sibil (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 21 Nov 2026.
 
 Sibil is a house and techno artist based in France, with 141 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 40 more. Often billed alongside Mayell, Tau Car and Tomas Station. Next up: Circolo degli Illuminati, Rome on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Sibil is a house and techno artist based in France, with 141 gigs on soundcheck 
 
 Mayell, Tau Car, Tomas Station
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

@@ -1,6 +1,6 @@
 # Quest
 
-Quest is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sun, 22 Nov 2026.
+Quest is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sun, 22 Nov 2026.
 
 Quest is a techno and house artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Gorg-O-Mish, Vancouver on Sun 22 Nov.
 
@@ -30,4 +30,4 @@ Quest is a techno and house artist based in United Kingdom, with 107 gigs on sou
 
 Christian AB, Adiel, Marcel Dettmann
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*

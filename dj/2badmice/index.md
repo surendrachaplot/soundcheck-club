@@ -1,6 +1,6 @@
 # 2 Bad Mice
 
-2 Bad Mice is a Hardcore and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Jam Jar, Bristol on Fri, 27 Nov 2026.
+2 Bad Mice is a Hardcore and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Jam Jar, Bristol on Fri, 27 Nov 2026.
 
 2 Bad Mice is a hardcore and jungle artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside Billy Daniel Bunter, Slipmatt and Jerome Hill. Next up: The Jam Jar, Bristol on Fri 27 Nov.
 
@@ -28,4 +28,4 @@
 
 Billy Daniel Bunter, Slipmatt, Jerome Hill
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*

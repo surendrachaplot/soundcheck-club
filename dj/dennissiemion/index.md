@@ -1,6 +1,6 @@
 # Dennis Siemion
 
-Dennis Siemion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Fusion Club, Münster on Sat, 2 Jan 2027.
+Dennis Siemion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Fusion Club, Münster on Sat, 2 Jan 2027.
 
 Dennis Siemion is a techno and house artist based in Germany, with 34 gigs on soundcheck across Berlin, Hamburg and Münster. Often billed alongside ACCUL, Pechschwarz and Krackk. Next up: Fusion Club, Münster on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Dennis Siemion is a techno and house artist based in Germany, with 34 gigs on so
 
 ACCUL, Pechschwarz, Krackk
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennissiemion/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennissiemion/)*

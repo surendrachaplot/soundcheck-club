@@ -1,6 +1,6 @@
 # Sémaé
 
-Sémaé is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Digital Hub, Dublin on Sat, 21 Nov 2026.
+Sémaé is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Digital Hub, Dublin on Sat, 21 Nov 2026.
 
 Sémaé is a techno and electro artist based in France, with 28 gigs on soundcheck across Dublin. Often billed alongside Fran Ortu, Cailín and Phil Bass. Next up: The Digital Hub, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sémaé is a techno and electro artist based in France, with 28 gigs on soundche
 
 Fran Ortu, Cailín, Phil Bass
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semae/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semae/)*

@@ -1,6 +1,6 @@
 # Pariah
 
-Pariah is a Techno and Bass artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Pariah is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Pariah is a techno and bass artist based in United Kingdom, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside mad miran, Verraco and Blawan. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -9,7 +9,6 @@ Pariah is a techno and bass artist based in United Kingdom, with 187 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
-| Fri, 20 Nov 2026 | boomroom | Perth |
 | Fri, 27 Nov 2026 | TBA | Sydney |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Fri, 11 Dec 2026 | Pawnshop | Taipei |
@@ -22,17 +21,17 @@ Pariah is a techno and bass artist based in United Kingdom, with 187 gigs on sou
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
+- boomroom, Perth · Fri, 20 Nov 2026
 - Nowadays, New York City · Sat, 7 Nov 2026
 - Marble Bar, Detroit · Fri, 6 Nov 2026
 - TRANSMISSION DC, Washington DC · Thu, 5 Nov 2026
 - Ankali & Planeta Za, Prague · Fri, 30 Oct 2026
 - Klaproos, Amsterdam · Sat, 24 Oct 2026
 - Radio Radio, Amsterdam · Sat, 24 Oct 2026
-- CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
-- export, Rotterdam · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 mad miran, Verraco, Blawan
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*

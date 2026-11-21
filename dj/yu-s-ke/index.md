@@ -1,6 +1,6 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at R Lounge, Tokyo on Fri, 1 Jan 2027.
+YU-S-KE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at R Lounge, Tokyo on Fri, 1 Jan 2027.
 
 YU-S-KE is a techno and house artist based in Japan, with 66 gigs on soundcheck across Tokyo. Often billed alongside BEPPU, Q'hey and Takami. Next up: R Lounge, Tokyo on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ YU-S-KE is a techno and house artist based in Japan, with 66 gigs on soundcheck 
 
 BEPPU, Q'hey, Takami
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

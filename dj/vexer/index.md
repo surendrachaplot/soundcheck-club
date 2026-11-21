@@ -1,6 +1,6 @@
 # vexer
 
-vexer is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Willemeen, Netherlands on Fri, 27 Nov 2026.
+vexer is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Willemeen, Netherlands on Fri, 27 Nov 2026.
 
 vexer is a hardcore and techno artist based in Netherlands, with 16 gigs on soundcheck across Berlin, Netherlands, The Hague and Utrecht. Often billed alongside Stefan ZMK, Reflect and Falhaber. Next up: Willemeen, Netherlands on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ vexer is a hardcore and techno artist based in Netherlands, with 16 gigs on soun
 
 Stefan ZMK, Reflect (2), Falhaber
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vexer/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vexer/)*

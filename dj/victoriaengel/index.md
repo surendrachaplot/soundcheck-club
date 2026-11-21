@@ -1,6 +1,6 @@
 # Victoria Engel
 
-Victoria Engel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 19 Dec 2026.
+Victoria Engel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 19 Dec 2026.
 
 Victoria Engel is a techno and tech house artist based in Argentina, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 2 more. Often billed alongside Chris Liebing, Alessandra Fierro and BYØRN. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Victoria Engel is a techno and tech house artist based in Argentina, with 23 gig
 
 Chris Liebing, Alessandra Fierro, BYØRN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaengel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaengel/)*

@@ -1,14 +1,14 @@
 # Alma Libre
 
-Alma Libre is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at AUX Club, Athens on Sat, 21 Nov 2026.
+Alma Libre is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Temple Athens, Athens on Sat, 21 Nov 2026.
 
-Alma Libre is a techno and trance artist based in Greece, with 5 gigs on soundcheck across Athens. Often billed alongside Imperium, MATEA and MVRU. Next up: AUX Club, Athens on Sat 21 Nov.
+Alma Libre is a techno and trance artist based in Greece, with 5 gigs on soundcheck across Athens. Often billed alongside Imperium, MATEA and MVRU. Next up: Temple Athens, Athens on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | AUX Club | Athens |
+| Sat, 21 Nov 2026 | Temple Athens | Athens |
 
 ## Recently played
 
@@ -21,4 +21,4 @@ Alma Libre is a techno and trance artist based in Greece, with 5 gigs on soundch
 
 Imperium, MATEA, MVRU
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almalibre/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almalibre/)*

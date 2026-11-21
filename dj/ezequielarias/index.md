@@ -1,14 +1,13 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 20 Nov 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Ezequiel Arias is a progressive house and deep house artist based in Argentina, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 26 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: NUMBER 90 LONDON, London on Fri 20 Nov.
+Ezequiel Arias is a progressive house and deep house artist based in Argentina, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 26 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | NUMBER 90 LONDON | London |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 21 Nov 2026 | NOWHERE | Manchester |
 | Sat, 21 Nov 2026 | The Loft | Manchester |
@@ -18,17 +17,17 @@ Ezequiel Arias is a progressive house and deep house artist based in Argentina, 
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Fri, 20 Nov 2026
+- TBA, Buenos Aires · Fri, 20 Nov 2026
 - TBA - Chacra El Descanso, La Plata, Buenos Aires · Sun, 8 Nov 2026
 - Oceandiva Original, Netherlands · Sat, 24 Oct 2026
 - Paradiso, Amsterdam · Thu, 22 Oct 2026
 - Bikini Club, Barcelona · Sat, 10 Oct 2026
 - UNO MALTA, Malta · Thu, 8 Oct 2026
 - Radost FX, Prague · Fri, 28 Aug 2026
-- Blue Summer Ibiza Boat, Ibiza · Sun, 16 Aug 2026
-- Paal69, Amsterdam · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Jody Wisternoff, Romain Garcia, Dosem
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

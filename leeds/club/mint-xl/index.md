@@ -1,14 +1,13 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Framework presents Ben UFO, Papa Nugs" on Fri, 20 Nov 2026.
+Mint XL is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Jamback presents Jampacked at Mint XL" on Sat, 21 Nov 2026.
 
-Mint XL is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including ADMNTi, ADR (UK), A For Alpha and Alex Farell and 2 more. See dates, start times and who's playing.
+Mint XL is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including ADMNTi, ADR (UK), A For Alpha and Alex Farell and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Framework presents Ben UFO, Papa Nugs | Annie Errez, Ben UFO, Bobby O'Donnell, Papa Nugs |
 | Sat, 21 Nov 2026 | Jamback presents Jampacked at Mint XL | A For Alpha, Anil Aras, Annie Errez, Bobby O'Donnell, Jamback, Laura De Greef, Marlie |
 | Fri, 27 Nov 2026 | Mint XL presents Alex Farrel | Alex Farell |
 | Sat, 28 Nov 2026 | Framework presents Nicolas Lutz & Junki Inoue | Annie Errez, Bobby O'Donnell, Junki Inoue, Nicolas Lutz, Phil Warner |
@@ -18,4 +17,4 @@ Mint XL is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with li
 | Sat, 19 Dec 2026 | Framework x Mugpie: Christian AB & Unai Trotti | Annie Errez, Christian AB, Unai Trotti |
 | Thu, 31 Dec 2026 | NYE: Truly Madly, Captain Wallop b2b RTK Tarantino | Annie Errez, Captain Wallop, RTK Tarantino, Truly Madly |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

@@ -1,18 +1,17 @@
 # 坚果NUTS
 
-坚果NUTS is a music venue in Chongqing with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "13000KM: from Montreal to CQ" on Fri, 20 Nov 2026.
+坚果NUTS is a music venue in Chongqing with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "SoSo's Dance Party No.MMMM" on Sat, 21 Nov 2026.
 
-坚果NUTS is a music venue in Chongqing listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）.
+坚果NUTS is a music venue in Chongqing listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 13000KM: from Montreal to CQ |  |
 | Sat, 21 Nov 2026 | SoSo's Dance Party No.MMMM |  |
 
 ## Address
 
 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）, Chongqing
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/nuts/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/nuts/)*

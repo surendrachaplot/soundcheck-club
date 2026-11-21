@@ -1,6 +1,6 @@
 # Electra (2)
 
-Electra (2) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at El Chapo Cocktail Bar, Athens on Sat, 21 Nov 2026.
+Electra (2) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at El Chapo Cocktail Bar, Athens on Sat, 21 Nov 2026.
 
 Electra is a techno and industrial artist based in Colombia, with 12 gigs on soundcheck across Athens, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Karashò, Khyodo and SAS. Next up: El Chapo Cocktail Bar, Athens on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Electra is a techno and industrial artist based in Colombia, with 12 gigs on sou
 
 Karashò, Khyodo, SAS (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electra-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electra-2/)*

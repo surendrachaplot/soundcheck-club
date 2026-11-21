@@ -1,6 +1,6 @@
 # Bamboozle
 
-Bamboozle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Phoenix Landing, Boston on Wed, 25 Nov 2026.
+Bamboozle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Phoenix Landing, Boston on Wed, 25 Nov 2026.
 
 Bamboozle is a house and disco artist based in United States of America, with 10 gigs on soundcheck across Boston, New York City and Washington DC. Often billed alongside Soul Clap, 4AM NYC and Bamba. Next up: Phoenix Landing, Boston on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Bamboozle is a house and disco artist based in United States of America, with 10
 
 Soul Clap, 4AM NYC, Bamba
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bamboozle/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bamboozle/)*

@@ -1,6 +1,6 @@
 # 40ft Brewery - Blackhorse Road
 
-40ft Brewery - Blackhorse Road is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Another Thought: NYD" on Fri, 1 Jan 2027.
+40ft Brewery - Blackhorse Road is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Another Thought: NYD w/ Prosumer, Nadia Ksaiba, Frank Tope & Tayo" on Fri, 1 Jan 2027.
 
 40ft Brewery - Blackhorse Road is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Ariane V, Ben Gomori, Frank Tope and Hot Blood and 2 more. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 1 Jan 2027 | Another Thought: NYD | Ariane V, Ben Gomori, Frank Tope, Hot Blood, Nadia Ksaiba, Prosumer, Tayo |
+| Fri, 1 Jan 2027 | Another Thought: NYD w/ Prosumer, Nadia Ksaiba, Frank Tope & Tayo | Ariane V, Ben Gomori, Frank Tope, Hot Blood, Nadia Ksaiba, Prosumer, SlothBoogie, Tayo |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/40ft-brewery-blackhorse-road/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/40ft-brewery-blackhorse-road/)*

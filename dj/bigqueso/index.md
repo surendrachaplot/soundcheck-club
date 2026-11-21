@@ -1,6 +1,6 @@
 # Big Queso
 
-Big Queso is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
+Big Queso is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
 
 Big Queso is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Philadelphia. Often billed alongside Cowa, tj groover and Qino Bounce. Next up: Bastet, Philadelphia on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Big Queso is a house and deep house artist based in United States of America, wi
 
 Cowa, tj groover, Qino Bounce
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*

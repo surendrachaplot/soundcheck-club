@@ -1,14 +1,14 @@
 # BIHABI
 
-BIHABI is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Flat HiFi Bar, Madrid on Sat, 21 Nov 2026.
+BIHABI is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Flat HiFi Bar, Madrid on Sat, 28 Nov 2026.
 
-BIHABI is an electronic artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside DIGUES, Le Nomad and Cabin Luv Affair. Next up: Flat HiFi Bar, Madrid on Sat 21 Nov.
+BIHABI is an electronic artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside DIGUES, Le Nomad and Cabin Luv Affair. Next up: Flat HiFi Bar, Madrid on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Flat HiFi Bar | Madrid |
+| Sat, 28 Nov 2026 | Flat HiFi Bar | Madrid |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ BIHABI is an electronic artist based in Spain, with 9 gigs on soundcheck across 
 
 DIGUES, Le Nomad, Cabin Luv Affair
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bihabi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bihabi/)*

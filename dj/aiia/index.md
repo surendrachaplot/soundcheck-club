@@ -1,8 +1,8 @@
 # AIIA
 
-AIIA is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
+AIIA is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
 
-AIIA is a techno and deep house artist based in Switzerland, with 3 gigs on soundcheck across Switzerland and Zurich. Often billed alongside AWEN, Alay and Ben Böhmer. Next up: Trübsee Station, Engelberg, Switzerland on Sat 28 Nov.
+AIIA is a techno and deep house artist based in Switzerland, with 4 gigs on soundcheck across Switzerland and Zurich. Often billed alongside AWEN, Alay and Anja Schneider. Next up: Trübsee Station, Engelberg, Switzerland on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -14,9 +14,10 @@ AIIA is a techno and deep house artist based in Switzerland, with 3 gigs on soun
 ## Recently played
 
 - Hive Club, Zurich · Sat, 14 Nov 2026
+- Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
 
 ## Shares bills with
 
-AWEN, Alay, Ben Böhmer
+AWEN, Alay, Anja Schneider
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiia/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiia/)*

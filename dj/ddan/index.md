@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bassiani, Tbilisi on Fri, 20 Nov 2026.
+D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-D.Dan is a techno and house artist based in United States of America, with 240 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Bassiani, Tbilisi on Fri 20 Nov.
+D.Dan is a techno and house artist based in United States of America, with 240 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Bassiani | Tbilisi |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -20,9 +19,11 @@ D.Dan is a techno and house artist based in United States of America, with 240 g
 | Thu, 17 Dec 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 18 Dec 2026 | BASEMENT | New York City |
 | Sat, 26 Dec 2026 | TBA - Secret Location | Toronto |
+| Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 
 ## Recently played
 
+- Bassiani, Tbilisi · Fri, 20 Nov 2026
 - FOLD, London · Sat, 14 Nov 2026
 - Turbina, Budapest · Fri, 13 Nov 2026
 - TILLATEC, Amsterdam · Fri, 6 Nov 2026
@@ -30,10 +31,9 @@ D.Dan is a techno and house artist based in United States of America, with 240 g
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - VENT, Tokyo · Sun, 11 Oct 2026
-- UNDERCITY, Seoul · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

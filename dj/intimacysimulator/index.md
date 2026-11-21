@@ -1,14 +1,15 @@
 # Intimacy Simulator
 
-Intimacy Simulator is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
+Intimacy Simulator is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
 
-Intimacy Simulator is a techno and jungle artist based in United States of America, with 31 gigs on soundcheck across Austin, New York City and Philadelphia. Often billed alongside Lucía Beyond, MAJESTYOFDIVINITY and Dazegxd. Next up: Bastet, Philadelphia on Sat 21 Nov.
+Intimacy Simulator is a techno and jungle artist based in United States of America, with 32 gigs on soundcheck across Austin, New York City and Philadelphia. Often billed alongside Lucía Beyond, MAJESTYOFDIVINITY and Dazegxd. Next up: Bastet, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Bastet | Philadelphia |
+| Thu, 17 Dec 2026 | Boyfriend co-op | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Intimacy Simulator is a techno and jungle artist based in United States of Ameri
 
 Lucía Beyond, MAJESTYOFDIVINITY, Dazegxd
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*

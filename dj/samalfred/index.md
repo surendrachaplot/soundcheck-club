@@ -1,6 +1,6 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FVTVR, Paris on Sat, 21 Nov 2026.
+Sam Alfred is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at FVTVR, Paris on Sat, 21 Nov 2026.
 
 Sam Alfred is a house and techno artist based in Egypt, with 163 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: FVTVR, Paris on Sat 21 Nov.
 
@@ -35,4 +35,4 @@ Sam Alfred is a house and techno artist based in Egypt, with 163 gigs on soundch
 
 Club Angel, SAIDAH, X CLUB.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

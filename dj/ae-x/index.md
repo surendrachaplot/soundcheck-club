@@ -1,6 +1,6 @@
 # Æ-X
 
-Æ-X is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at SASS Music Club, Vienna on Sat, 21 Nov 2026.
+Æ-X is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at SASS Music Club, Vienna on Sat, 21 Nov 2026.
 
 Æ-X is a house and electro artist based in Romania, with 25 gigs on soundcheck across Munich, Valencia, Vienna and Zagreb. Often billed alongside -LaLa-, Flœr and Alice (AT). Next up: SASS Music Club, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 -LaLa-, Flœr, Alice (AT)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ae-x/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ae-x/)*

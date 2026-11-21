@@ -1,14 +1,13 @@
 # Shinsuke Goto
 
-Shinsuke Goto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 21 Nov 2026.
+Shinsuke Goto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at WOMB, Tokyo on Sat, 26 Dec 2026.
 
-Shinsuke Goto is a techno and house artist based in Japan, with 181 gigs on soundcheck across Bangkok, Berlin, Düsseldorf and Ho Chi Minh City and 9 more. Often billed alongside Mari Sakurai, YUTA and DJ Yazi. Next up: Aoyama Hachi, Tokyo on Sat 21 Nov.
+Shinsuke Goto is a techno and house artist based in Japan, with 181 gigs on soundcheck across Bangkok, Berlin, Düsseldorf and Ho Chi Minh City and 9 more. Often billed alongside Mari Sakurai, YUTA and DJ Yazi. Next up: WOMB, Tokyo on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Aoyama Hachi | Tokyo |
 | Sat, 26 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Shinsuke Goto is a techno and house artist based in Japan, with 181 gigs on soun
 
 Mari Sakurai, YUTA, DJ Yazi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinsukegoto/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinsukegoto/)*

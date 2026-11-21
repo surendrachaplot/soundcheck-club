@@ -1,6 +1,6 @@
 # Meniac
 
-Meniac is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 26 Nov 2026.
+Meniac is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 26 Nov 2026.
 
 Meniac is a house and acid artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Jakarta. Often billed alongside Jiminal, Daiki Fukami and Aram Mukanay. Next up: Radio Radio, Amsterdam on Thu 26 Nov.
 
@@ -23,4 +23,4 @@ Meniac is a house and acid artist based in Netherlands, with 7 gigs on soundchec
 
 Jiminal (2), Daiki Fukami, Aram Mukanay
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meniac/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meniac/)*

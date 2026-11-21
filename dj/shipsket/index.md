@@ -1,6 +1,6 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Ship Sket is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
 Ship Sket is an experimental and bass artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside KAVARI, Proc Fiskal and Blood of Aza. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Ship Sket is an experimental and bass artist based in United Kingdom, with 87 gi
 
 KAVARI, Proc Fiskal, Blood of Aza
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*

@@ -1,6 +1,6 @@
 # Yemz
 
-Yemz is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 26 Nov 2026.
+Yemz is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 26 Nov 2026.
 
 Yemz is a garage and bass artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Dr Dubplate, Bakey and A For Alpha. Next up: Sneaky Pete's, Edinburgh on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Yemz is a garage and bass artist based in United Kingdom, with 98 gigs on soundc
 
 Dr Dubplate, Bakey, A For Alpha
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*

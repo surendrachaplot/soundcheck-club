@@ -1,8 +1,8 @@
 # Hypponix
 
-Hypponix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA - Volta, Stockholm on Fri, 27 Nov 2026.
+Hypponix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Volta, Stockholm on Fri, 27 Nov 2026.
 
-Hypponix is a house and techno artist, with 5 gigs on soundcheck across London and Stockholm. Often billed alongside Antonsson, GYS (TT) and InStatic. Next up: TBA - Volta, Stockholm on Fri 27 Nov.
+Hypponix is a house and techno artist based in France, with 5 gigs on soundcheck across London and Stockholm. Often billed alongside Antonsson, GYS (TT) and InStatic. Next up: TBA - Volta, Stockholm on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Hypponix is a house and techno artist, with 5 gigs on soundcheck across London a
 
 Antonsson, GYS (TT), InStatic
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypponix/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypponix/)*

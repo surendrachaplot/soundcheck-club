@@ -1,6 +1,6 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Tornado Wallace is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Tornado Wallace is a house and techno artist based in Australia, with 155 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 54 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -16,6 +16,7 @@ Tornado Wallace is a house and techno artist based in Australia, with 155 gigs o
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - Bar Temp., Bangkok · Sat, 14 Nov 2026
 - Café Soleil Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - San Francisco, Amsterdam · Sat, 24 Oct 2026
@@ -23,10 +24,9 @@ Tornado Wallace is a house and techno artist based in Australia, with 155 gigs o
 - Sameheads, Berlin · Sat, 17 Oct 2026
 - Salon des Amateurs, Düsseldorf · Sat, 10 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
-- Cadavra, Madrid · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

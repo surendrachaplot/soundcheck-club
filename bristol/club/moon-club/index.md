@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Eminent w/ Fumiya Tanaka" on Sat, 21 Nov 2026.
+Moon Club is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Eminent w/ Fumiya Tanaka" on Sat, 21 Nov 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including Ant TC1, Arkist, Carl Finlow and DJelley and 2 more. See dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -23,4 +23,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, wi
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

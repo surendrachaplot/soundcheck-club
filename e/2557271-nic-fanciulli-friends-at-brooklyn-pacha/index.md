@@ -1,6 +1,6 @@
 # Nic Fanciulli & Friends at Brooklyn Pacha
 
-Nic Fanciulli & Friends at Brooklyn Pacha on Sat 12 Dec, New York City. 4 artists: Elliot Schooling, Kidoo, Liam Palmer and Nic Fanciulli. See the line-up on soundcheck.
+Nic Fanciulli & Friends at Brooklyn Pacha on Sat 12 Dec, New York City. 5 artists: Archie Hamilton, Elliot Schooling, Kidoo and Liam Palmer and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Nic Fanciulli & Friends at Brooklyn Pacha on Sat 12 Dec, New York City. 4 artist
 
 ## Line-up
 
+- Archie Hamilton
 - Elliot Schooling
 - Kidoo
 - Liam Palmer

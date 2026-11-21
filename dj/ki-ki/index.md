@@ -1,6 +1,6 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Magazine London, London on Sat, 21 Nov 2026.
+KI/KI is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Magazine London, London on Sat, 21 Nov 2026.
 
 KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 80 more. Often billed alongside DJ Gigola, Anetha and Funk Tribu. Next up: Magazine London, London on Sat 21 Nov.
 
@@ -35,4 +35,4 @@ KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundc
 
 DJ Gigola, Anetha, Funk Tribu
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*

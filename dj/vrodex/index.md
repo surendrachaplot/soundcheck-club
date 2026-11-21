@@ -1,6 +1,6 @@
 # Vrodex
 
-Vrodex is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Cozmo Athens, Athens on Sat, 12 Dec 2026.
+Vrodex is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cozmo Athens, Athens on Sat, 12 Dec 2026.
 
 Vrodex is a drum & bass and bass artist, with 14 gigs on soundcheck across Athens. Often billed alongside Bllyz, INFINULL and Jetfu3l. Next up: Cozmo Athens, Athens on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Vrodex is a drum & bass and bass artist, with 14 gigs on soundcheck across Athen
 
 Bllyz, INFINULL, Jetfu3l
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vrodex/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vrodex/)*

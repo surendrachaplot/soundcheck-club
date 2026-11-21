@@ -1,6 +1,6 @@
 # Lulá Luna
 
-Lulá Luna is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Indebt, Amsterdam on Sat, 21 Nov 2026.
+Lulá Luna is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Indebt, Amsterdam on Sat, 21 Nov 2026.
 
 Lulá Luna is an experimental and electronica artist based in France, with 16 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Dj wiggles, Seb H. and mul/ANNA. Next up: Indebt, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lulá Luna is an experimental and electronica artist based in France, with 16 gi
 
 Dj wiggles, Seb H., mul/ANNA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lulaluna/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lulaluna/)*

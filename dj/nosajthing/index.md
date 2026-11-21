@@ -1,6 +1,6 @@
 # Nosaj Thing
 
-Nosaj Thing is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Nosaj Thing is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Nosaj Thing is a techno and experimental artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 34 more. Often billed alongside Jacques Greene, Daito Manabe and Chloé Caillet. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Nosaj Thing is a techno and experimental artist based in United States of Americ
 
 Jacques Greene, Daito Manabe, Chloé Caillet
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*

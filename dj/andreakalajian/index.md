@@ -1,6 +1,6 @@
 # Andrea Kalajian
 
-Andrea Kalajian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
+Andrea Kalajian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
 
 Andrea Kalajian is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Boston and Detroit. Often billed alongside RIRKIN, DJ Cent and Gone Rogue. Next up: TV Lounge, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Andrea Kalajian is a house and techno artist based in United States of America, 
 
 RIRKIN, DJ Cent, Gone Rogue
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreakalajian/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreakalajian/)*

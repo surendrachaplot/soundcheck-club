@@ -1,6 +1,6 @@
 # Diz (1)
 
-Diz (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Masada, Chicago on Sat, 19 Dec 2026.
+Diz (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Masada, Chicago on Sat, 19 Dec 2026.
 
 Diz is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Chicago, Detroit, Ibiza and Los Angeles. Often billed alongside DJ Heather, DJ Colette and Duke Shin. Next up: Masada, Chicago on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Diz is a house and deep house artist based in United States of America, with 23 
 
 DJ Heather, DJ Colette, Duke Shin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*

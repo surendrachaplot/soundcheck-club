@@ -1,6 +1,6 @@
 # Danny Howells
 
-Danny Howells is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Danny Howells is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Danny Howells is a progressive house and house artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 23 more. Often billed alongside Dave Seaman, Graziano Raffa and Hernan Cattaneo. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -15,6 +15,7 @@ Danny Howells is a progressive house and house artist based in United Kingdom, w
 
 ## Recently played
 
+- TBA, Buenos Aires · Fri, 20 Nov 2026
 - Bikini Club, Barcelona · Sat, 24 Oct 2026
 - Bikini Club, Barcelona · Sat, 24 Oct 2026
 - Veronica Schip, Amsterdam · Thu, 22 Oct 2026
@@ -22,10 +23,9 @@ Danny Howells is a progressive house and house artist based in United Kingdom, w
 - Palm House, Liverpool · Sat, 3 Oct 2026
 - The Horse & Groom, London · Sat, 5 Sept 2026
 - Kino, Cork · Sat, 20 Jun 2026
-- Plaza Hotel Sydney, Sydney · Sun, 7 Jun 2026
 
 ## Shares bills with
 
 Dave Seaman, Graziano Raffa, Hernan Cattaneo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*

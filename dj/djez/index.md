@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at KOKO, London on Fri, 1 Jan 2027.
+DJ EZ is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at KOKO, London on Fri, 1 Jan 2027.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 32 more. Often billed alongside Benny Rodrigues, Danny Howard and Sonny Fodera. Next up: KOKO, London on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 112 gigs on sou
 
 Benny Rodrigues, Danny Howard, Sonny Fodera
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

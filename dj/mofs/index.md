@@ -1,13 +1,14 @@
 # MOFS
 
-MOFS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 30 Jan 2027.
+MOFS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Prisma, Berlin on Thu, 24 Dec 2026.
 
-MOFS is a techno and industrial artist based in Costa Rica, with 14 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Leipzig and 1 more. Often billed alongside Hypnosta, NACHTIGALL and Eve Schwarz. Next up: TBA - Secret Location, Berlin on Sat 30 Jan.
+MOFS is a techno and industrial artist based in Costa Rica, with 15 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Leipzig and 1 more. Often billed alongside Hypnosta, NACHTIGALL and Eve Schwarz. Next up: Prisma, Berlin on Thu 24 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Dec 2026 | Prisma | Berlin |
 | Sat, 30 Jan 2027 | TBA - Secret Location | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ MOFS is a techno and industrial artist based in Costa Rica, with 14 gigs on soun
 
 Hypnosta, NACHTIGALL, Eve Schwarz
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*

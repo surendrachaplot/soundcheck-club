@@ -1,6 +1,6 @@
 # Mija
 
-Mija is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mia Mao, Paris on Sat, 21 Nov 2026.
+Mija is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mia Mao, Paris on Sat, 21 Nov 2026.
 
 Mija is a techno and trance artist based in United States of America, with 158 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 60 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Mia Mao, Paris on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Mija is a techno and trance artist based in United States of America, with 158 g
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

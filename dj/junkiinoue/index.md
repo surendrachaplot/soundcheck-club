@@ -1,8 +1,8 @@
 # Junki Inoue
 
-Junki Inoue is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+Junki Inoue is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
-Junki Inoue is a house and techno artist based in Japan, with 137 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Z@p and Vass. Next up: FOLD, London on Sat 21 Nov.
+Junki Inoue is a house and techno artist based in Japan, with 138 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Unai Trotti, Z@p and Vass. Next up: FOLD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Junki Inoue is a house and techno artist based in Japan, with 137 gigs on soundc
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Mint XL | Leeds |
+| Fri, 4 Dec 2026 | Mesmeric Sofia | Sofia |
 | Sat, 12 Dec 2026 | Waterhouse Studios | Amsterdam |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
@@ -28,4 +29,4 @@ Junki Inoue is a house and techno artist based in Japan, with 137 gigs on soundc
 
 Unai Trotti, Z@p, Vass
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*

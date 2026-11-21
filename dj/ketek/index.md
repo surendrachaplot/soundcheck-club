@@ -1,8 +1,8 @@
 # Ketek
 
-Ketek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Ketek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
-Ketek is a techno and psytrance artist based in United Kingdom, with 5 gigs on soundcheck across Liverpool, Manchester and Sydney. Often billed alongside $CRAIC, Ditzy and Ebony Willis. Next up: TBA, Sydney on Wed 30 Dec.
+Ketek is a techno and psytrance artist based in United Kingdom, with 5 gigs on soundcheck across Liverpool, Manchester and Sydney. Often billed alongside $CRAIC, Dit Zy and Ebony Willis. Next up: TBA, Sydney on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Ketek is a techno and psytrance artist based in United Kingdom, with 5 gigs on s
 
 ## Shares bills with
 
-$CRAIC, Ditzy, Ebony Willis
+$CRAIC, Dit Zy, Ebony Willis
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketek/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketek/)*

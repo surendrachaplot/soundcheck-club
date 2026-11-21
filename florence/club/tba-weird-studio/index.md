@@ -1,6 +1,6 @@
 # TBA - Weird Studio
 
-TBA - Weird Studio is a music venue in Florence with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Radio Autentica #131 - Ago (Numa Crew)" on Wed, 2 Dec 2026.
+TBA - Weird Studio is a music venue in Florence with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Radio Autentica #131 - Ago (Numa Crew)" on Wed, 2 Dec 2026.
 
 TBA - Weird Studio is a music venue in Florence listed on soundcheck. 4 upcoming gigs, with line-ups including Ago. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Weird Studio is a music venue in Florence listed on soundcheck. 4 upcoming
 | Wed, 13 Jan 2027 | Radio Autentica #133 - FOAM + Nebula |  |
 | Wed, 27 Jan 2027 | Radio Autentica #134 - Merce Marcia |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/florence/club/tba-weird-studio/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/florence/club/tba-weird-studio/)*

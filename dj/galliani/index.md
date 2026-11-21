@@ -1,6 +1,6 @@
 # galliani
 
-galliani is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Artlab, Buenos Aires on Sat, 21 Nov 2026.
+galliani is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Artlab, Buenos Aires on Sat, 21 Nov 2026.
 
 galliani is a disco and house artist, with 10 gigs on soundcheck across Bogotá, Buenos Aires, Mexico City and Sao Paulo. Often billed alongside Iglesias, Sergio Iglesias and Danesholme. Next up: Artlab, Buenos Aires on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ galliani is a disco and house artist, with 10 gigs on soundcheck across Bogotá,
 
 Iglesias, Sergio Iglesias, Danesholme
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galliani/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galliani/)*

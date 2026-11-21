@@ -1,8 +1,8 @@
 # Kidoo
 
-Kidoo is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Kidoo is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
-Kidoo is a tech house and house artist based in Romania, with 61 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bucharest and 23 more. Often billed alongside Joseph Capriati, Marco Carola and Indira Paganotto. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
+Kidoo is a tech house and house artist based in Romania, with 61 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bucharest and 23 more. Often billed alongside Joseph Capriati, Marco Carola and Archie Hamilton. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Kidoo is a tech house and house artist based in Romania, with 61 gigs on soundch
 
 ## Shares bills with
 
-Joseph Capriati, Marco Carola, Indira Paganotto
+Joseph Capriati, Marco Carola, Archie Hamilton
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*

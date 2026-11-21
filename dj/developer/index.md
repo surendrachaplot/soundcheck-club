@@ -1,14 +1,14 @@
 # Developer
 
-Developer is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Detroit on Sat, 21 Nov 2026.
+Developer is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Bankle, Detroit on Sat, 21 Nov 2026.
 
-Developer is a techno and acid artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Aztekan, Jeff Mills and Nick Dagher. Next up: TBA, Detroit on Sat 21 Nov.
+Developer is a techno and acid artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Aztekan, Jeff Mills and Nick Dagher. Next up: The Bankle, Detroit on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA | Detroit |
+| Sat, 21 Nov 2026 | The Bankle | Detroit |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Tresor / Globus | Berlin |
 
@@ -27,4 +27,4 @@ Developer is a techno and acid artist based in United States of America, with 67
 
 Aztekan, Jeff Mills, Nick Dagher
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*

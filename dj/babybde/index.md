@@ -1,6 +1,6 @@
 # Baby B (DE)
 
-Baby B (DE) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 4 Dec 2026.
+Baby B (DE) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 4 Dec 2026.
 
 Baby B (DE) is a house and acid artist based in Germany, with 7 gigs on soundcheck across Mannheim. Often billed alongside Chris Gerber, DJ Ipek and Gerald VDH. Next up: Disco Zwei, Mannheim on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Baby B (DE) is a house and acid artist based in Germany, with 7 gigs on soundche
 
 Chris Gerber, DJ Ipek, Gerald VDH
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babybde/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babybde/)*

@@ -1,6 +1,6 @@
 # Hitch
 
-Hitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 12 Dec 2026.
+Hitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 12 Dec 2026.
 
 Hitch is a techno and house artist based in Spain, with 104 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Dubai and 6 more. Often billed alongside Alex (ES), Sampol and Javier Carballo. Next up: Les Enfants Brillants, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Hitch is a techno and house artist based in Spain, with 104 gigs on soundcheck a
 
 Alex (ES), Sampol, Javier Carballo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*

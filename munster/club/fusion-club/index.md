@@ -1,6 +1,6 @@
 # Fusion Club
 
-Fusion Club is a music venue in Münster with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Pump x WSDN Weekender" on Fri, 20 Nov 2026.
+Fusion Club is a music venue in Münster with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Pump x WSDN Weekender" on Fri, 20 Nov 2026.
 
 Fusion Club is a music venue in Münster listed on soundcheck. 8 upcoming gigs, with line-ups including Alexia K., ALYF, Chris Liebing and Demontime and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
 
@@ -21,4 +21,4 @@ Fusion Club is a music venue in Münster listed on soundcheck. 8 upcoming gigs, 
 
 Am Hawerkamp 32; 48155 Münster; Germany, Münster
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*

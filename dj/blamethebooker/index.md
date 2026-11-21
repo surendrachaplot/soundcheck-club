@@ -1,13 +1,14 @@
 # Blame the Booker
 
-Blame the Booker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at ://about blank, Berlin on Sat, 5 Dec 2026.
+Blame the Booker is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 27 Nov 2026.
 
-Blame the Booker is a techno and trance artist based in Germany, with 136 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Chengdu and 19 more. Often billed alongside The Jakob Sister, Sabu! and RaverPik. Next up: ://about blank, Berlin on Sat 5 Dec.
+Blame the Booker is a techno and trance artist based in Germany, with 137 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Chengdu and 19 more. Often billed alongside The Jakob Sister, Sabu! and RaverPik. Next up: Humboldthain Club, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Humboldthain Club | Berlin |
 | Sat, 5 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Blame the Booker is a techno and trance artist based in Germany, with 136 gigs o
 
 The Jakob Sister, Sabu!, RaverPik
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethebooker/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethebooker/)*

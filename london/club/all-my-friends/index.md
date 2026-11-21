@@ -1,14 +1,13 @@
 # All My Friends
 
-All My Friends is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Sleepy Jean, LEN & Jye" on Fri, 20 Nov 2026.
+All My Friends is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "All My Friends Birthday: 4 Years of Friends!" on Sat, 21 Nov 2026.
 
-All My Friends is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Jye, KT, BUD and Copes and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
+All My Friends is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including KT, BUD, Copes and Darush and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Sleepy Jean, LEN & Jye | Jye, LEN., Sleepy Jean |
 | Sat, 21 Nov 2026 | All My Friends Birthday: 4 Years of Friends! | BUD (1), George Askaroff, Jonas (2), Josh Wickers, Lyde, justFinn |
 | Sat, 21 Nov 2026 | Wax On Tap Record Fair at AMF Birthday | George Askaroff, Josh Wickers, Lyde, justFinn |
 | Fri, 11 Dec 2026 | Type One Community: Hackney Wick Residency - Free Entry | Kyle Parsley |
@@ -22,4 +21,4 @@ All My Friends is a music venue in London listed on soundcheck. 9 upcoming gigs,
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

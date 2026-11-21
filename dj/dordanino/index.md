@@ -1,6 +1,6 @@
 # Dor Danino
 
-Dor Danino is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Soho House Hong Kong, Hong Kong on Sat, 28 Nov 2026.
+Dor Danino is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Soho House Hong Kong, Hong Kong on Sat, 28 Nov 2026.
 
 Dor Danino is a house and afro house artist based in Israel, with 10 gigs on soundcheck across Guadalajara, Hong Kong, Medellin and Mexico City and 1 more. Often billed alongside Allen Hulsey, Alma Linda and Bora Uzer. Next up: Soho House Hong Kong, Hong Kong on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dor Danino is a house and afro house artist based in Israel, with 10 gigs on sou
 
 Allen Hulsey, Alma Linda, Bora Uzer
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dordanino/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dordanino/)*

@@ -1,14 +1,13 @@
 # block.
 
-block. is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Block x Outset: Natte Visstick" on Fri, 20 Nov 2026.
+block. is a music venue in Dublin with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Block x Omni: Soul Mass Transit System & n4tee" on Sat, 21 Nov 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including ALPER SKR, Benji King, bernie soundmate and BIIA and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 15 upcoming gigs, with line-ups including ALPER SKR, Benji King, bernie soundmate and BIIA and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Block x Outset: Natte Visstick |  |
 | Sat, 21 Nov 2026 | Block x Omni: Soul Mass Transit System & n4tee | Soul Mass Transit System, n4tee |
 | Fri, 27 Nov 2026 | Block x RAW: BIIA | BIIA, NILAAA |
 | Sat, 28 Nov 2026 | Block: John Digweed | John Digweed, Ste Flynn |
@@ -18,9 +17,10 @@ block. is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with l
 | Sat, 12 Dec 2026 | Block x Soundmate: Last Dance Of 2026 | Vandi (ES), bernie soundmate |
 | Fri, 18 Dec 2026 | Block x research: Chlär | Chlär, Lunaks |
 | Sat, 19 Dec 2026 | Block: SYREETA & JWY | JWY (1), SYREETA |
+| Sat, 26 Dec 2026 | Block: Danny P | Danny P |
 
 ## Address
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

@@ -1,6 +1,6 @@
 # Bil-Sol
 
-Bil-Sol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Volks, Brighton on Fri, 15 Jan 2027.
+Bil-Sol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Volks, Brighton on Fri, 15 Jan 2027.
 
 Bil-Sol is a house and techno artist based in United Kingdom, with 18 gigs on soundcheck across Brighton and London. Often billed alongside Spinks, Bethan and Farrant. Next up: Volks, Brighton on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Bil-Sol is a house and techno artist based in United Kingdom, with 18 gigs on so
 
 Spinks, Bethan, Farrant
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bil-sol/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bil-sol/)*

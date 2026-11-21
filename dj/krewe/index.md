@@ -1,6 +1,6 @@
 # Krewe
 
-Krewe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Voodoo Lounge, New Orleans on Sat, 21 Nov 2026.
+Krewe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Voodoo Lounge, New Orleans on Sat, 21 Nov 2026.
 
 Krewe is a house and techno artist based in United States of America, with 10 gigs on soundcheck across New Orleans and New York City. Often billed alongside ZEVi, Funke and Aqua Ruis. Next up: The Voodoo Lounge, New Orleans on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Krewe is a house and techno artist based in United States of America, with 10 gi
 
 ZEVi, Funke, Aqua Ruis
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krewe/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krewe/)*

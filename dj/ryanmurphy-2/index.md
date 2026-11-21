@@ -1,6 +1,6 @@
 # Ryan Murphy (2)
 
-Ryan Murphy (2) is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Mash House, Edinburgh on Sat, 21 Nov 2026.
+Ryan Murphy (2) is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Mash House, Edinburgh on Sat, 21 Nov 2026.
 
 Ryan Murphy is a techno and garage artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh. Often billed alongside OFFGRID, TOOKAST and ARWEN. Next up: The Mash House, Edinburgh on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Ryan Murphy is a techno and garage artist based in United Kingdom, with 10 gigs 
 
 OFFGRID, TOOKAST, ARWEN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmurphy-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmurphy-2/)*

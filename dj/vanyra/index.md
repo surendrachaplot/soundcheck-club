@@ -1,6 +1,6 @@
 # Vanyra
 
-Vanyra is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 21 Nov 2026.
+Vanyra is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 21 Nov 2026.
 
 Vanyra is a garage and tech house artist based in Argentina, with 7 gigs on soundcheck across Barcelona. Often billed alongside FREDDIESS, Agustin Bosco and Majo Alarcon. Next up: Sala Apolo, Barcelona on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Vanyra is a garage and tech house artist based in Argentina, with 7 gigs on soun
 
 FREDDIESS, Agustin Bosco, Majo Alarcon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanyra/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanyra/)*

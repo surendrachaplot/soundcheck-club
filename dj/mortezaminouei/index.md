@@ -1,6 +1,6 @@
 # Morteza Minouei
 
-Morteza Minouei is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 21 Nov 2026.
+Morteza Minouei is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 21 Nov 2026.
 
 Morteza Minouei is a minimal and techno artist based in Iran, with 15 gigs on soundcheck across Istanbul and Tbilisi. Often billed alongside Baban, Childplay and Sharona Lico. Next up: Yan Gastro, Istanbul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Morteza Minouei is a minimal and techno artist based in Iran, with 15 gigs on so
 
 Baban, Childplay, Sharona Lico
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mortezaminouei/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mortezaminouei/)*

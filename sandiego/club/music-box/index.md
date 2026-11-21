@@ -1,15 +1,13 @@
 # Music Box
 
-Music Box is a music venue in San Diego with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Minty Boi Presents: Takuya Nakamura in San Diego" on Fri, 20 Nov 2026.
+Music Box is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "O'Flynn" on Wed, 25 Nov 2026.
 
-Music Box is a music venue in San Diego listed on soundcheck. 8 upcoming gigs, with line-ups including Amtrac, French 79, O'Flynn and Takuya Nakamura. See dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
+Music Box is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, with line-ups including Amtrac, French 79 and O'Flynn. See dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Minty Boi Presents: Takuya Nakamura in San Diego | Takuya Nakamura |
-| Fri, 20 Nov 2026 | Takuya Nakamura | Takuya Nakamura |
 | Wed, 25 Nov 2026 | O'Flynn | O'Flynn |
 | Sat, 28 Nov 2026 | Amtrac | Amtrac |
 | Fri, 4 Dec 2026 | Emancipator |  |
@@ -21,4 +19,4 @@ Music Box is a music venue in San Diego listed on soundcheck. 8 upcoming gigs, w
 
 1337 India St, San Diego, CA 92101, San Diego
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*

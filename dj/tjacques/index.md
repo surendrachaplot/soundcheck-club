@@ -1,6 +1,6 @@
 # T. Jacques
 
-T. Jacques is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at UNLOCKED, London on Sat, 19 Dec 2026.
+T. Jacques is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at UNLOCKED, London on Sat, 19 Dec 2026.
 
 T. Jacques is a house and garage artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Edinburgh and 7 more. Often billed alongside Jive Talk, Penzik & Burns and Adam Chapman. Next up: UNLOCKED, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ T. Jacques is a house and garage artist based in United Kingdom, with 51 gigs on
 
 Jive Talk, Penzik & Burns, Adam Chapman
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjacques/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjacques/)*

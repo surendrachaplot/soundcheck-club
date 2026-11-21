@@ -1,8 +1,8 @@
 # Melvo Baptiste
 
-Melvo Baptiste is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at NT's Loft, London on Fri, 18 Dec 2026.
+Melvo Baptiste is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at NT's Loft, London on Fri, 18 Dec 2026.
 
-Melvo Baptiste is a house and disco artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 23 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: NT's Loft, London on Fri 18 Dec.
+Melvo Baptiste is a house and disco artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 23 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: NT's Loft, London on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Melvo Baptiste is a house and disco artist based in United Kingdom, with 125 gig
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | NT's Loft | London |
 | Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
+| Sat, 1 May 2027 | Various Venues | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Melvo Baptiste is a house and disco artist based in United Kingdom, with 125 gig
 
 Natasha Diggs, The Shapeshifters, Horse Meat Disco
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*

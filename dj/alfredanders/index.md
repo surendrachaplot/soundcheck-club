@@ -1,6 +1,6 @@
 # Alfred Anders
 
-Alfred Anders is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Renate, Berlin on Fri, 18 Dec 2026.
+Alfred Anders is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Renate, Berlin on Fri, 18 Dec 2026.
 
 Alfred Anders is a house and techno artist based in Belgium, with 38 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Lola Haro, DJ Rino and Fais Le Beau. Next up: Renate, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Alfred Anders is a house and techno artist based in Belgium, with 38 gigs on sou
 
 Lola Haro, DJ Rino, Fais Le Beau
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredanders/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredanders/)*

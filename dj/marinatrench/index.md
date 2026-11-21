@@ -1,8 +1,8 @@
 # Marina Trench
 
-Marina Trench is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Audio Club, Geneva on Sat, 21 Nov 2026.
+Marina Trench is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Audio Club, Geneva on Sat, 21 Nov 2026.
 
-Marina Trench is a house and techno artist, with 64 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 16 more. Often billed alongside Dylan Dylan, Kapote and DJ Gregory. Next up: Audio Club, Geneva on Sat 21 Nov.
+Marina Trench is a house and techno artist, with 65 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 16 more. Often billed alongside Dylan Dylan, Kapote and DJ Gregory. Next up: Audio Club, Geneva on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Marina Trench is a house and techno artist, with 64 gigs on soundcheck across Ba
 | Sat, 21 Nov 2026 | Audio Club | Geneva |
 | Fri, 27 Nov 2026 | Le Bikini | South-east |
 | Sat, 28 Nov 2026 | Cabaret Sauvage | Paris |
+| Thu, 31 Dec 2026 | Opéra de Lyon | Lyon |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Marina Trench is a house and techno artist, with 64 gigs on soundcheck across Ba
 
 Dylan Dylan, Kapote, DJ Gregory
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marinatrench/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marinatrench/)*

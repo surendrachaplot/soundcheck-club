@@ -1,6 +1,6 @@
 # Alexa Rosas
 
-Alexa Rosas is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 20 Nov 2026.
+Alexa Rosas is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 20 Nov 2026.
 
 Alexa Rosas is a minimal and house artist based in Mexico, with 7 gigs on soundcheck across Mexico City, Monterrey and San Diego. Often billed alongside Ana Armada, LeFaux and ALDOX. Next up: Topazdeluxe, Monterrey on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ Alexa Rosas is a minimal and house artist based in Mexico, with 7 gigs on soundc
 
 ## Recently played
 
+- Topazdeluxe, Monterrey · Fri, 20 Nov 2026
 - Iocerouno, Monterrey · Sat, 31 Oct 2026
 - Fünk, Mexico City · Thu, 10 Sept 2026
 - Drama Radio Bar, Mexico City · Wed, 9 Sept 2026
@@ -23,4 +24,4 @@ Alexa Rosas is a minimal and house artist based in Mexico, with 7 gigs on soundc
 
 Ana Armada, LeFaux, ALDOX
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexarosas/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexarosas/)*

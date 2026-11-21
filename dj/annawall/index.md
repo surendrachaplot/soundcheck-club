@@ -1,6 +1,6 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Anna Wall is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
 
 Anna Wall is a house and techno artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Anna Wall is a house and techno artist based in United Kingdom, with 127 gigs on
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

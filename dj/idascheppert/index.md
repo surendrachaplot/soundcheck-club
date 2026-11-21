@@ -1,6 +1,6 @@
 # Ida Scheppert
 
-Ida Scheppert is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Void Club, Berlin on Wed, 30 Dec 2026.
+Ida Scheppert is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Void Club, Berlin on Wed, 30 Dec 2026.
 
 Ida Scheppert is a techno and drum & bass artist based in Germany, with 53 gigs on soundcheck across Berlin. Often billed alongside Upzet, KEN (DE) and Boudi Boudin. Next up: Void Club, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Ida Scheppert is a techno and drum & bass artist based in Germany, with 53 gigs 
 
 Upzet, KEN (DE), Boudi Boudin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idascheppert/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idascheppert/)*

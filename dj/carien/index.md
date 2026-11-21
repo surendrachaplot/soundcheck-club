@@ -1,8 +1,8 @@
 # Carien
 
-Carien is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+Carien is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
-Carien is a dubstep and dub artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside skruba, Sophia Nicole and Any Koh. Next up: Brixton Radio, London on Sat 21 Nov.
+Carien is a dubstep and dub artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside skruba, Sophia Nicole and AJA. Next up: Brixton Radio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Carien is a dubstep and dub artist based in United Kingdom, with 5 gigs on sound
 
 ## Shares bills with
 
-skruba, Sophia Nicole, Any Koh
+skruba, Sophia Nicole, AJA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carien/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carien/)*

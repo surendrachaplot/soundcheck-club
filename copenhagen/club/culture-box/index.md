@@ -1,14 +1,13 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 17 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger" on Fri, 20 Nov 2026.
+Culture Box is a music venue in Copenhagen with 16 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "What Happens: Guy J / Tim Andresen / E Perini / Distracted / M Oliveros / AYELEN / Thor Calin" on Sat, 21 Nov 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gigs, with line-ups including Aerocell, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming gigs, with line-ups including Aerocell, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger | AZADÎ, Midele, Simone Zino |
 | Sat, 21 Nov 2026 | What Happens: Guy J / Tim Andresen / E Perini / Distracted / M Oliveros / AYELEN / Thor Calin | AYELEN, Guy J, Thor Calin, Tim Andresen |
 | Fri, 27 Nov 2026 | Kardinal Bertram / steamboi / LMN + SoundConnects 3rd Birthday | Kardinal Bertram, LMN (1), MADITATION, Qwenty, avoN, steamboi |
 | Sat, 28 Nov 2026 | Denis Horvat / Radeckt / Mousan Corr / ULDΛLL / joa picaro | Denis Horvat, Mousan Corr, Radeckt, ULDΛLL, joa picaro |
@@ -18,9 +17,10 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gig
 | Sat, 12 Dec 2026 | HE.SHE.THEY. x SYREN: SYREETA / Bradley Skeng / YOON / DJ 2LATE / ASTA MARI | ASTA MARI, Bradley Skeng, DJ 2LATE, SYREETA, YOON |
 | Fri, 18 Dec 2026 | Elevate presents Bass Rave | AMITTET, ASTA MARI, Deb Foam, JACOBXFREY, MNSTR |
 | Sat, 19 Dec 2026 | What Happens Christmas Extravaganza: Tim Andresen / Lean Robotti / Rexie Lex / Larsh / Eusherr | Rexie Lex, Tim Andresen |
+| Sat, 19 Dec 2026 | What Happens Christmas Extravaganza – DINNER |  |
 
 ## Address
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

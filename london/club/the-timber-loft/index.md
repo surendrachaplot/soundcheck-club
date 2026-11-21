@@ -1,6 +1,6 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Tim Green presents: Memories - London" on Sat, 21 Nov 2026.
+The Timber Loft is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Tim Green presents: Memories - London" on Sat, 21 Nov 2026.
 
 The Timber Loft is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AMBRR, Atjazz, Bad Behli and Carina Lawrence and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
@@ -22,4 +22,4 @@ The Timber Loft is a music venue in London listed on soundcheck. 9 upcoming gigs
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

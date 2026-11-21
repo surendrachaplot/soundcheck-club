@@ -1,14 +1,13 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "TS7 + Newsham - Joshua Brooks Manchester" on Fri, 20 Nov 2026.
+Joshua Brooks is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "EVIE: All Night Long - Joshua Brooks Manchester" on Sat, 21 Nov 2026.
 
-Joshua Brooks is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with line-ups including ADR (UK), Andy Manston, AYDN and Benny L and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
+Joshua Brooks is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including ADR (UK), Andy Manston, AYDN and Benny L and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TS7 + Newsham - Joshua Brooks Manchester | Josh Newsham, TS7 |
 | Sat, 21 Nov 2026 | EVIE: All Night Long - Joshua Brooks Manchester | EVIE UK |
 | Sat, 21 Nov 2026 | Moovin-In - Krafty Kuts/ Plump Djs/ Jaguar Skills/ Phil Hartnol | Jaguar Skills, Krafty Kuts, Plump DJs |
 | Fri, 27 Nov 2026 | Jungle Cakes: Top Cat, Ed Solo & Deekline | Deekline, Navigator |
@@ -18,9 +17,10 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 16 upcoming g
 | Sat, 5 Dec 2026 | Venus |  |
 | Fri, 11 Dec 2026 | ADR, Stef Davidse, Tino - Joshua Brooks Manchester | ADR (UK), Stef Davidse, Tino |
 | Sat, 12 Dec 2026 | Clockwork Orange Manchester | Andy Manston, Brandon Block, Danny Clockwork, Rob Tissera, Rue Jay |
+| Sat, 12 Dec 2026 | Clockwork Orange After Party: Jon Fitz - Joshua Brooks | Jon Fitz |
 
 ## Address
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

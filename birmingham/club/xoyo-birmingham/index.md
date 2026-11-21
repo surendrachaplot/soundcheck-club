@@ -1,6 +1,6 @@
 # XOYO Birmingham
 
-XOYO Birmingham is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Pandora presents 'The Show'" on Sat, 28 Nov 2026.
+XOYO Birmingham is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Pandora presents 'The Show'" on Sat, 28 Nov 2026.
 
 XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Danny Ghost, Lance Morgan, Mr. Limey and Stixy D and 1 more. See dates, start times and who's playing. B9 4AG.
 
@@ -15,4 +15,4 @@ XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 2 upcoming 
 
 B9 4AG, Birmingham
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*

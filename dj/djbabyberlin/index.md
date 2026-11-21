@@ -1,14 +1,13 @@
 # DJ Baby Berlin
 
-DJ Baby Berlin is a New Wave and Post-Punk artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at broad hall., Philadelphia on Fri, 20 Nov 2026.
+DJ Baby Berlin is a New Wave and Post-Punk artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Upstairs at the 700, Philadelphia on Wed, 25 Nov 2026.
 
-DJ Baby Berlin is a new wave and post-punk artist based in United States of America, with 92 gigs on soundcheck across New York City, Pennsylvania and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Mark Cage. Next up: broad hall., Philadelphia on Fri 20 Nov.
+DJ Baby Berlin is a new wave and post-punk artist based in United States of America, with 92 gigs on soundcheck across New York City, Pennsylvania and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Mark Cage. Next up: Upstairs at the 700, Philadelphia on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | broad hall. | Philadelphia |
 | Wed, 25 Nov 2026 | Upstairs at the 700 | Philadelphia |
 | Thu, 3 Dec 2026 | Neon Clown Dream Lounge | Philadelphia |
 | Fri, 4 Dec 2026 | Johnny Brenda's | Philadelphia |
@@ -17,6 +16,7 @@ DJ Baby Berlin is a new wave and post-punk artist based in United States of Amer
 
 ## Recently played
 
+- broad hall., Philadelphia · Fri, 20 Nov 2026
 - Johnny Brenda's, Philadelphia · Fri, 6 Nov 2026
 - Neon Clown Dream Lounge, Philadelphia · Thu, 5 Nov 2026
 - Upstairs at the 700, Philadelphia · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ DJ Baby Berlin is a new wave and post-punk artist based in United States of Amer
 - Johnny Brenda's, Philadelphia · Fri, 2 Oct 2026
 - Neon Clown Dream Lounge, Philadelphia · Thu, 1 Oct 2026
 - Upstairs at the 700, Philadelphia · Fri, 25 Sept 2026
-- broad hall., Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Brad Scott, DJ Nightwitch, Mark Cage
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*

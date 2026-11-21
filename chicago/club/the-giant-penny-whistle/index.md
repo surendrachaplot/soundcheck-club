@@ -1,17 +1,17 @@
 # The Giant Penny Whistle
 
-The Giant Penny Whistle is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "ORO HALLOWEEN 2026" on Sat, 31 Oct 2026.
+The Giant Penny Whistle is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "AREA 773" on Sat, 12 Dec 2026.
 
-The Giant Penny Whistle is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including CeaseDays, King Inesse and M-Dok. See dates, start times and who's playing. 1854 S BLUE ISLAND AVE. CHICAGO IL 60608.
+The Giant Penny Whistle is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including dev.n, DJ Zuni, Fullbodydurag and Vince Lazarus. See dates, start times and who's playing. 1854 S BLUE ISLAND AVE. CHICAGO IL 60608.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | ORO HALLOWEEN 2026 | CeaseDays, King Inesse, M-Dok |
+| Sat, 12 Dec 2026 | AREA 773 | DJ Zuni, Fullbodydurag, Vince Lazarus, dev.n |
 
 ## Address
 
 1854 S BLUE ISLAND AVE. CHICAGO IL 60608, Chicago
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-giant-penny-whistle/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-giant-penny-whistle/)*

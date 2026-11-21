@@ -1,14 +1,13 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "tanzen6000" on Fri, 20 Nov 2026.
+Kauz is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Bass Bude - Love Edition" on Sat, 21 Nov 2026.
 
-Kauz is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with line-ups including Alessia Ceruti, Aline (CH), Anthik and Arutani and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
+Kauz is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including Alessia Ceruti, Aline (CH), Anthik and Arutani and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | tanzen6000 | Luka Staem, Marie Malarie, ondyne |
 | Sat, 21 Nov 2026 | Bass Bude - Love Edition | Anthik, Dirty Doering, Marcus Meinhardt, Mardean, RIGOROS |
 | Thu, 26 Nov 2026 | dunnstig jam |  |
 | Fri, 27 Nov 2026 | Frida Darko | AVEM, Arutani, Frida Darko, Najesh & Artišoko |
@@ -23,4 +22,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with lin
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

@@ -1,6 +1,6 @@
 # Studio Club Invites: Charlie Sparks at Studio Club Malaga
 
-Studio Club Invites: Charlie Sparks at Studio Club Malaga on Fri 4 Dec, Malaga. 2 artists: Charlie Sparks and Part Time Killer. See the line-up on soundcheck.
+Studio Club Invites: Charlie Sparks at Studio Club Malaga on Fri 4 Dec, Malaga. 3 artists: Charlie Sparks, GEORGE RADSPORT and Part Time Killer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Studio Club Invites: Charlie Sparks at Studio Club Malaga on Fri 4 Dec, Malaga. 
 ## Line-up
 
 - Charlie Sparks
+- GEORGE RADSPORT
 - Part Time Killer
 
 *Source: [soundcheck](https://soundcheck.club/e/2587362-studio-club-invites-charlie-sparks-at-studio-club-malaga/)*

@@ -1,6 +1,6 @@
 # John Holt
 
-John Holt is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Valencia on Fri, 27 Nov 2026.
+John Holt is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Valencia on Fri, 27 Nov 2026.
 
 John Holt is a techno and electronica artist based in Andorra, with 9 gigs on soundcheck across Andorra, Barcelona, Madrid and Valencia. Often billed alongside KARØL, Xuanlee and Lady Dammage. Next up: TBA, Valencia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ John Holt is a techno and electronica artist based in Andorra, with 9 gigs on so
 
 KARØL (2), Xuanlee, Lady Dammage
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnholt/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnholt/)*

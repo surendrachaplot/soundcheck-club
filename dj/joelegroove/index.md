@@ -1,6 +1,6 @@
 # Joe Le Groove
 
-Joe Le Groove is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Egg London, London on Sat, 21 Nov 2026.
+Joe Le Groove is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Egg London, London on Sat, 21 Nov 2026.
 
 Joe Le Groove is a tech house and house artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Subject 13, Nookie (UK) and Outrage. Next up: Egg London, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Joe Le Groove is a tech house and house artist based in United Kingdom, with 16 
 
 Subject 13, Nookie (UK), Outrage
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelegroove/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelegroove/)*

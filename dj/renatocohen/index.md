@@ -1,6 +1,6 @@
 # Renato Cohen
 
-Renato Cohen is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
+Renato Cohen is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
 
 Renato Cohen is a house and techno artist based in Brazil, with 65 gigs on soundcheck across Berlin, Bordeaux, Geneva and Lisbon and 3 more. Often billed alongside DJ DUE, Tessuto and nikkatze. Next up: Komplexo Tempo, Sao Paulo on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Renato Cohen is a house and techno artist based in Brazil, with 65 gigs on sound
 
 DJ DUE, Tessuto, nikkatze
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renatocohen/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renatocohen/)*

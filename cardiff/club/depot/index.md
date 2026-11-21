@@ -1,6 +1,6 @@
 # Depot
 
-Depot is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Shangri-La presents: Robbie Doherty" on Thu, 31 Dec 2026.
+Depot is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Shangri-La presents: Robbie Doherty" on Thu, 31 Dec 2026.
 
 Depot is a music venue in Cardiff listed on soundcheck. 4 upcoming gigs, with line-ups including BBY GOOSE, Kill the Void, KLOFAMA and L.P. Rhythm and 2 more. See dates, start times and who's playing. DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales.
 
@@ -17,4 +17,4 @@ Depot is a music venue in Cardiff listed on soundcheck. 4 upcoming gigs, with li
 
 DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales, Cardiff
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*

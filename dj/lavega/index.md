@@ -1,13 +1,14 @@
 # La Vega
 
-La Vega is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New York City on Sat, 28 Nov 2026.
+La Vega is a House and Pop artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mad Radio Miami, Miami on Thu, 26 Nov 2026.
 
-La Vega is a house and pop artist based in United States of America, with 79 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 7 more. Often billed alongside Ree de la Vega, Taradactyl and Jash Jay. Next up: Green Room NYC, New York City on Sat 28 Nov.
+La Vega is a house and pop artist based in United States of America, with 80 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 7 more. Often billed alongside Ree de la Vega, Taradactyl and Jash Jay. Next up: Mad Radio Miami, Miami on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Mad Radio Miami | Miami |
 | Sat, 28 Nov 2026 | Green Room NYC | New York City |
 | Thu, 3 Dec 2026 | Mood Ring | New York City |
 | Sat, 2 Jan 2027 | Outer Heaven | New York City |
@@ -27,4 +28,4 @@ La Vega is a house and pop artist based in United States of America, with 79 gig
 
 Ree de la Vega, Taradactyl, Jash Jay
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*

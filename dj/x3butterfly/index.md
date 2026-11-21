@@ -1,14 +1,13 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 314 Scholes, New York City on Fri, 20 Nov 2026.
+x3butterfly is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at BASEMENT, New York City on Sat, 21 Nov 2026.
 
-x3butterfly is a techno and house artist based in United States of America, with 221 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Beijing and 40 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Meilgaarden. Next up: 314 Scholes, New York City on Fri 20 Nov.
+x3butterfly is a techno and house artist based in United States of America, with 221 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Beijing and 40 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Meilgaarden. Next up: BASEMENT, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 314 Scholes | New York City |
 | Sat, 21 Nov 2026 | BASEMENT | New York City |
 | Fri, 4 Dec 2026 | 3oz Dive Club | San Diego |
 | Fri, 11 Dec 2026 | Bar Datcha | Montreal |
@@ -20,6 +19,7 @@ x3butterfly is a techno and house artist based in United States of America, with
 
 ## Recently played
 
+- 314 Scholes, New York City · Fri, 20 Nov 2026
 - KREUZWERK, Berlin · Sat, 14 Nov 2026
 - nachbar, Amsterdam · Fri, 13 Nov 2026
 - public records, New York City · Sun, 1 Nov 2026
@@ -27,10 +27,9 @@ x3butterfly is a techno and house artist based in United States of America, with
 - Eventhuset, Stockholm · Sat, 24 Oct 2026
 - FOLD, London · Fri, 23 Oct 2026
 - Knockdown Center, New York City · Sat, 17 Oct 2026
-- Mana Wynwood, Miami · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Sterling Juan Diaz, Concrete Husband, Meilgaarden
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*

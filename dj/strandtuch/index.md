@@ -1,6 +1,6 @@
 # Strandtuch
 
-Strandtuch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bonobo, Tokyo on Sat, 21 Nov 2026.
+Strandtuch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bonobo, Tokyo on Sat, 21 Nov 2026.
 
 Strandtuch is a house and techno artist based in France, with 17 gigs on soundcheck across Berlin, Bordeaux, Lyon and Paris and 1 more. Often billed alongside Crowd Control, Maggy Smiss and Denyl Brook. Next up: Bonobo, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Strandtuch is a house and techno artist based in France, with 17 gigs on soundch
 
 Crowd Control, Maggy Smiss, Denyl Brook
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strandtuch/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strandtuch/)*

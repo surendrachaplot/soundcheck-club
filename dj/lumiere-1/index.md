@@ -1,6 +1,6 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at feedbk, New York City on Sat, 21 Nov 2026.
+Lumiere is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at feedbk, New York City on Sat, 21 Nov 2026.
 
 Lumiere is a house and techno artist based in Argentina, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 16 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: feedbk, New York City on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Lumiere is a house and techno artist based in Argentina, with 130 gigs on soundc
 
 Anah, Francesco Del Garda, Binh
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

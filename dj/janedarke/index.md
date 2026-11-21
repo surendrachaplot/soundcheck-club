@@ -1,14 +1,15 @@
 # Jane Darke
 
-Jane Darke is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Old Church, London on Sat, 19 Dec 2026.
+Jane Darke is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Old Church, London on Sat, 19 Dec 2026.
 
-Jane Darke is a techno and ebm artist based in United Kingdom, with 22 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: The Old Church, London on Sat 19 Dec.
+Jane Darke is a techno and ebm artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: The Old Church, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | The Old Church | London |
+| Sat, 19 Dec 2026 | Colours Hoxton | London |
 | Sat, 23 Jan 2027 | The Steel Yard | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Jane Darke is a techno and ebm artist based in United Kingdom, with 22 gigs on s
 
 JON KRIEGER, Arrosa, Claudia Kane
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*

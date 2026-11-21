@@ -1,6 +1,6 @@
 # Cvernovka
 
-Cvernovka is a music venue in Bratislava with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "12 Proven Ways to Lower Your Electricity, Water & Internet Bills Fast" on Sat, 21 Nov 2026.
+Cvernovka is a music venue in Bratislava with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "12 Proven Ways to Lower Your Electricity, Water & Internet Bills Fast" on Sat, 21 Nov 2026.
 
 Cvernovka is a music venue in Bratislava listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cvernovka is a music venue in Bratislava listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | 12 Proven Ways to Lower Your Electricity, Water & Internet Bills Fast |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/cvernovka/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/cvernovka/)*

@@ -1,13 +1,14 @@
 # Neil Pierce
 
-Neil Pierce is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - VARIOUS, Malta on Thu, 16 Sept 2027.
+Neil Pierce is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
 
-Neil Pierce is a deep house and house artist based in United Kingdom, with 40 gigs on soundcheck across Birmingham, Chicago, Dublin and Edinburgh and 6 more. Often billed alongside Sy Sez, Ronnie Herel and DJ Spen. Next up: TBA - VARIOUS, Malta on Thu 16 Sept.
+Neil Pierce is a house and deep house artist based in United Kingdom, with 41 gigs on soundcheck across Birmingham, Chicago, Dublin and Edinburgh and 6 more. Often billed alongside Sy Sez, Ronnie Herel and DJ Spen. Next up: Various Venues, London on Sat 1 May.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 May 2027 | Various Venues | London |
 | Thu, 16 Sept 2027 | TBA - VARIOUS | Malta |
 
 ## Recently played
@@ -25,4 +26,4 @@ Neil Pierce is a deep house and house artist based in United Kingdom, with 40 gi
 
 Sy Sez, Ronnie Herel, DJ Spen
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neilpierce/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neilpierce/)*

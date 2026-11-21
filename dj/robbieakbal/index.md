@@ -1,6 +1,6 @@
 # Robbie Akbal
 
-Robbie Akbal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Robbie Akbal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Robbie Akbal is a house and deep house artist based in Germany, with 38 gigs on soundcheck across Hong Kong, Ibiza, Los Angeles and Mexico City and 9 more. Often billed alongside Conan, SATICA and Afrodite. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Robbie Akbal is a house and deep house artist based in Germany, with 38 gigs on 
 
 Conan, SATICA, Afrodite (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieakbal/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieakbal/)*

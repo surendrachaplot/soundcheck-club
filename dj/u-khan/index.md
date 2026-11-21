@@ -1,6 +1,6 @@
 # U-Khan
 
-U-Khan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 9 Jan 2027.
+U-Khan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 9 Jan 2027.
 
 U-Khan is a techno and house artist based in New Zealand, with 29 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ Stingray 313, Garth Linton and Greer. Next up: Abercrombie Hotel, Sydney on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ U-Khan is a techno and house artist based in New Zealand, with 29 gigs on soundc
 
 DJ Stingray 313, Garth Linton, Greer
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-khan/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-khan/)*

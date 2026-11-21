@@ -1,6 +1,6 @@
 # Manu Desrets
 
-Manu Desrets is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 21 Nov 2026.
+Manu Desrets is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 21 Nov 2026.
 
 Manu Desrets is a tech house and minimal artist based in Argentina, with 17 gigs on soundcheck across Barcelona, Buenos Aires, Madrid and Malaga and 2 more. Often billed alongside Ale De Tuglie, Ale Kis and Almela. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Manu Desrets is a tech house and minimal artist based in Argentina, with 17 gigs
 
 Ale De Tuglie, Ale Kis, Almela
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manudesrets/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manudesrets/)*

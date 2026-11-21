@@ -1,6 +1,6 @@
 # Muzaman
 
-Muzaman is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lunchbox, Atlanta on Sun, 13 Dec 2026.
+Muzaman is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lunchbox, Atlanta on Sun, 13 Dec 2026.
 
 Muzaman is a drum & bass and dubstep artist based in Poland, with 18 gigs on soundcheck across Atlanta, Poland, Prague and Warsaw. Often billed alongside Solar Tsunami, U Lad and long w. Next up: Lunchbox, Atlanta on Sun 13 Dec.
 
@@ -26,4 +26,4 @@ Muzaman is a drum & bass and dubstep artist based in Poland, with 18 gigs on sou
 
 Solar Tsunami, U Lad, long w
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*

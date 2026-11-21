@@ -1,13 +1,14 @@
 # Coûteux
 
-Coûteux is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Complex Maastricht, Netherlands on Fri, 19 Feb 2027.
+Coûteux is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at De Vasim, Nijmegen on Thu, 31 Dec 2026.
 
-Coûteux is an electronic artist, with 2 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside 2HOT2PLAY and NYCO (NL). Next up: Complex Maastricht, Netherlands on Fri 19 Feb.
+Coûteux is an electronic artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam, Netherlands and Nijmegen. Often billed alongside 2HOT2PLAY, DJ Hyperdrive and Lisa Korver. Next up: De Vasim, Nijmegen on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | De Vasim | Nijmegen |
 | Fri, 19 Feb 2027 | Complex Maastricht | Netherlands |
 
 ## Recently played
@@ -16,6 +17,6 @@ Coûteux is an electronic artist, with 2 gigs on soundcheck across Amsterdam and
 
 ## Shares bills with
 
-2HOT2PLAY, NYCO (NL)
+2HOT2PLAY, DJ Hyperdrive, Lisa Korver
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couteux/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couteux/)*

@@ -1,6 +1,6 @@
 # SUS Valentine at Prisma
 
-SUS Valentine at Prisma on Fri 12 Feb, Berlin. 2 artists: DOLTER and High Protocol. Techno and Hardcore. See the line-up on soundcheck.
+SUS Valentine at Prisma on Fri 12 Feb, Berlin. 4 artists: DOLTER, G-Fahr, High Protocol and SimoLant. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ SUS Valentine at Prisma on Fri 12 Feb, Berlin. 2 artists: DOLTER and High Protoc
 ## Line-up
 
 - DOLTER
+- G-Fahr
 - High Protocol
+- SimoLant
 
 *Source: [soundcheck](https://soundcheck.club/e/2583543-sus-valentine-at-prisma/)*

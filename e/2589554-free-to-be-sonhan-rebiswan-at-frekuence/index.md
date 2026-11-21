@@ -1,10 +1,10 @@
 # Free to Be — Sonhan / Rebiswan at Frekuence
 
-Free to Be — Sonhan / Rebiswan at Frekuence on Sat 21 Nov, Tirana. 2 artists: Rebiswan and Sonhan. See the line-up on soundcheck.
+Free to Be — Sonhan / Rebiswan at Frekuence on Fri 27 Nov, Tirana. 2 artists: Rebiswan and Sonhan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 21 Nov 2026 |
+| Date | Fri, 27 Nov 2026 |
 | Venue | Frekuence |
 | City | Tirana |
 

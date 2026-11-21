@@ -1,14 +1,15 @@
 # Rill
 
-Rill is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lieberscholli, Munich on Fri, 27 Nov 2026.
+Rill is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lieberscholli, Munich on Fri, 27 Nov 2026.
 
-Rill is a techno and breakbeat artist based in Germany, with 66 gigs on soundcheck across Berlin, Düsseldorf, Edinburgh and Hamburg and 11 more. Often billed alongside Reka Zalan, Hang Aoki and Hanna Baertig. Next up: Lieberscholli, Munich on Fri 27 Nov.
+Rill is a techno and breakbeat artist based in Germany, with 67 gigs on soundcheck across Berlin, Copenhagen, Düsseldorf and Edinburgh and 12 more. Often billed alongside Reka Zalan, Hang Aoki and Hanna Baertig. Next up: Lieberscholli, Munich on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lieberscholli | Munich |
+| Fri, 4 Dec 2026 | MODULE | Copenhagen |
 | Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Rill is a techno and breakbeat artist based in Germany, with 66 gigs on soundche
 
 Reka Zalan, Hang Aoki, Hanna Baertig
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rill/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rill/)*

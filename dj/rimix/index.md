@@ -1,6 +1,6 @@
 # RIMIX
 
-RIMIX is a R&B and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bread and Butter, London on Fri, 27 Nov 2026.
+RIMIX is a R&B and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bread and Butter, London on Fri, 27 Nov 2026.
 
 RIMIX is a r&b and uk funky artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside ABIMBOLA, AfroLicious Mumma and Afroasis. Next up: Bread and Butter, London on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ RIMIX is a r&b and uk funky artist based in United Kingdom, with 8 gigs on sound
 
 ABIMBOLA, AfroLicious Mumma, Afroasis
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*

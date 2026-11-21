@@ -1,6 +1,6 @@
 # Timelapse
 
-Timelapse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 12 Bar Shanghai, Shanghai on Fri, 27 Nov 2026.
+Timelapse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at 12 Bar Shanghai, Shanghai on Fri, 27 Nov 2026.
 
 Timelapse is a techno and house artist based in Italy, with 6 gigs on soundcheck across Amsterdam, Armenia, Dallas/Fort Worth and Mexico City and 2 more. Often billed alongside AHREUM, AMANN and AMARE. Next up: 12 Bar Shanghai, Shanghai on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Timelapse is a techno and house artist based in Italy, with 6 gigs on soundcheck
 
 AHREUM, AMANN, AMARE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timelapse/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timelapse/)*

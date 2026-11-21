@@ -1,6 +1,6 @@
 # saparilla
 
-saparilla is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at People's Leisure Club, Edinburgh on Tue, 24 Nov 2026.
+saparilla is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at People's Leisure Club, Edinburgh on Tue, 24 Nov 2026.
 
 saparilla is a club and techno artist based in United Kingdom, with 34 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, SOFSOF and makaya. Next up: People's Leisure Club, Edinburgh on Tue 24 Nov.
 
@@ -26,4 +26,4 @@ saparilla is a club and techno artist based in United Kingdom, with 34 gigs on s
 
 Kinz Luiz, SOFSOF, makaya
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*

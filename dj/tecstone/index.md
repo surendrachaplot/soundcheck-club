@@ -1,14 +1,15 @@
 # TECSTONE
 
-TECSTONE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+TECSTONE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
 
-TECSTONE is a techno and house artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
+TECSTONE is a techno and house artist based in Japan, with 31 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Aoyama Hachi | Tokyo |
+| Sat, 12 Dec 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 5 Nov 2027 | Knock | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ TECSTONE is a techno and house artist based in Japan, with 30 gigs on soundcheck
 
 SIGNAL (JP), ALLY, Krankent
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*

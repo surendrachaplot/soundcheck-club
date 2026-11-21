@@ -1,6 +1,6 @@
 # Francesco Pico
 
-Francesco Pico is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 28 Nov 2026.
+Francesco Pico is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 28 Nov 2026.
 
 Francesco Pico is a progressive house and techno artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Around Us, MC PPholl and Ras Paulus. Next up: Kadinsky Cafe, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Francesco Pico is a progressive house and techno artist based in Netherlands, wi
 
 Around Us, MC PPholl, Ras Paulus
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopico/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopico/)*

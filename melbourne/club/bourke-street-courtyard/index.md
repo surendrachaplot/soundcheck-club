@@ -1,14 +1,13 @@
 # Bourke Street Courtyard
 
-Bourke Street Courtyard is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "A Very Very Gay [melb/naarm] - SS 26/27: 03" on Sat, 21 Nov 2026.
+Bourke Street Courtyard is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "All Day I Dream of Melbourne" on Sun, 29 Nov 2026.
 
-Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including BAiiN TWINS, Dj Bouncy, Double Touch and Dave Lee and 2 more. See dates, start times and who's playing. 629 Bourke Street Melbourne, Victoria, Australia.
+Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Dj Bouncy, Double Touch, Dave Lee and Lee Burridge and 2 more. See dates, start times and who's playing. 629 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | A Very Very Gay [melb/naarm] - SS 26/27: 03 | BAiiN TWINS, Rojdar, Sixten (2), WVCHWY |
 | Sun, 29 Nov 2026 | All Day I Dream of Melbourne | Double Touch, Lee Burridge, Lost Desert |
 | Sat, 5 Dec 2026 | ROOTS By BOUNCE Pres. Liva K | Dj Bouncy, Liva K |
 | Thu, 17 Dec 2026 | JIGITZ — 50 BALLERINAS TOUR - MELBOURNE |  |
@@ -18,4 +17,4 @@ Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 5 up
 
 629 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*

@@ -1,14 +1,13 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Native Beach Club, Buenos Aires on Fri, 20 Nov 2026.
+Serafina is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
 
-Serafina is a techno and trance artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Native Beach Club, Buenos Aires on Fri 20 Nov.
+Serafina is a techno and trance artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Komplexo Tempo, Sao Paulo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 4 Dec 2026 | 131 Mccormack St | Toronto |
@@ -20,6 +19,7 @@ Serafina is a techno and trance artist based in Germany, with 202 gigs on soundc
 
 ## Recently played
 
+- Native Beach Club, Buenos Aires · Fri, 20 Nov 2026
 - Level 1 @ Cannonball Arts, Seattle · Sat, 14 Nov 2026
 - Ace*Mission, Los Angeles · Fri, 13 Nov 2026
 - Tunnel Club, Pereira · Fri, 6 Nov 2026
@@ -27,10 +27,9 @@ Serafina is a techno and trance artist based in Germany, with 202 gigs on soundc
 - Audiodrome, Turin · Sat, 31 Oct 2026
 - Sugarfactory, Amsterdam · Wed, 21 Oct 2026
 - Parc Floral De Paris, Paris · Fri, 16 Oct 2026
-- Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

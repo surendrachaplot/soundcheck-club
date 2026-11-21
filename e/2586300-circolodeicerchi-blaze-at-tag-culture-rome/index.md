@@ -1,6 +1,6 @@
 # Circolodeicerchi & Blaze at TAG Culture Rome
 
-Circolodeicerchi & Blaze at TAG Culture Rome on Fri 27 Nov, Rome. 3 artists: Costanza, Gattonero and LPLPLP. Techno and Electro. See the line-up on soundcheck.
+Circolodeicerchi & Blaze at TAG Culture Rome on Fri 27 Nov, Rome. 3 artists: Costanza, Gattonero and LPLPLP. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

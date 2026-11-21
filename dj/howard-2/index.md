@@ -1,6 +1,6 @@
 # howard music
 
-howard music is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Monkeybar, Tokyo on Sat, 28 Nov 2026.
+howard music is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Monkeybar, Tokyo on Sat, 28 Nov 2026.
 
 howard music is a house and tech house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside DJ ISE, Ayana Pattra and HIROKI ASANO. Next up: Monkeybar, Tokyo on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ howard music is a house and tech house artist based in Japan, with 8 gigs on sou
 
 DJ ISE, Ayana Pattra, HIROKI ASANO
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howard-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howard-2/)*

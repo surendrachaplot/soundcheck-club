@@ -1,14 +1,13 @@
 # X(S)INA
 
-X(S)INA is a Techno and Ghetto Tech artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
+X(S)INA is a Techno and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Eagle of Detroit, Detroit on Sat, 21 Nov 2026.
 
-X(S)INA is a techno and ghetto tech artist based in United States of America, with 13 gigs on soundcheck across Detroit. Often billed alongside Garrison XR, we1sman and AIDEL. Next up: Marble Bar, Detroit on Fri 20 Nov.
+X(S)INA is a techno and ghetto tech artist based in United States of America, with 13 gigs on soundcheck across Detroit. Often billed alongside Garrison XR, we1sman and AIDEL. Next up: The Eagle of Detroit, Detroit on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Marble Bar | Detroit |
 | Sat, 21 Nov 2026 | The Eagle of Detroit | Detroit |
 | Tue, 24 Nov 2026 | Spkrbox | Detroit |
 | Wed, 25 Nov 2026 | The Eagle of Detroit | Detroit |
@@ -17,6 +16,7 @@ X(S)INA is a techno and ghetto tech artist based in United States of America, wi
 
 ## Recently played
 
+- Marble Bar, Detroit · Fri, 20 Nov 2026
 - Marble Bar, Detroit · Sat, 14 Nov 2026
 - Paris Bar, Detroit · Sat, 10 Oct 2026
 - Menjo's, Detroit · Sat, 26 Sept 2026
@@ -29,4 +29,4 @@ X(S)INA is a techno and ghetto tech artist based in United States of America, wi
 
 Garrison XR, we1sman, AIDEL
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*

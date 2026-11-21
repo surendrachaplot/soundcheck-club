@@ -1,18 +1,18 @@
 # Afra
 
-Afra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 20 Nov 2026.
+Afra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 28 Nov 2026.
 
-Afra is a techno and house artist based in Netherlands, with 125 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: Pillbox Beijing, Beijing on Fri 20 Nov.
+Afra is a techno and house artist based in Netherlands, with 125 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: Reactor Shanghai, Shanghai on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Pillbox Beijing | Beijing |
 | Sat, 28 Nov 2026 | Reactor Shanghai | Shanghai |
 
 ## Recently played
 
+- Pillbox Beijing, Beijing · Fri, 20 Nov 2026
 - public records, New York City · Fri, 6 Nov 2026
 - Tangent Gallery, Detroit · Sat, 31 Oct 2026
 - Tangent Gallery, Detroit · Fri, 30 Oct 2026
@@ -20,10 +20,9 @@ Afra is a techno and house artist based in Netherlands, with 125 gigs on soundch
 - CLUB RAUM, Amsterdam · Thu, 22 Oct 2026
 - Tresor / Globus, Berlin · Fri, 16 Oct 2026
 - export, Rotterdam · Fri, 2 Oct 2026
-- PIP Den Haag, The Hague · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Serge, Mary Lake, TWIENA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*

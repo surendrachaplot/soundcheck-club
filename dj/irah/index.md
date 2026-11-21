@@ -1,8 +1,8 @@
 # Irah
 
-Irah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+Irah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
-Irah is a techno and house artist, with 33 gigs on soundcheck across Auckland, Bristol, London and Melbourne and 2 more. Often billed alongside Black Dave, Gus McKinna and DJ BK. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
+Irah is a techno and house artist based in Australia, with 33 gigs on soundcheck across Auckland, Bristol, London and Melbourne and 2 more. Often billed alongside Black Dave, Gus McKinna and DJ BK. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Irah is a techno and house artist, with 33 gigs on soundcheck across Auckland, B
 
 Black Dave, Gus McKinna, DJ BK
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irah/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irah/)*

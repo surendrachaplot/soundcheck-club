@@ -1,6 +1,6 @@
 # Dieselboy
 
-Dieselboy is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Rabbit Hole, Charlotte on Sat, 21 Nov 2026.
+Dieselboy is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Rabbit Hole, Charlotte on Sat, 21 Nov 2026.
 
 Dieselboy is a drum & bass and jungle artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Baltimore and Bogotá and 16 more. Often billed alongside Dave Shichman, Craze and Roni Size. Next up: The Rabbit Hole, Charlotte on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Dieselboy is a drum & bass and jungle artist based in United States of America, 
 
 Dave Shichman, Craze, Roni Size
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*

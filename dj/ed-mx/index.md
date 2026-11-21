@@ -1,6 +1,6 @@
 # ED (MX)
 
-ED (MX) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Recibe la ubicación con la compra de tu ticket, Mexico City on Sat, 21 Nov 2026.
+ED (MX) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Recibe la ubicación con la compra de tu ticket, Mexico City on Sat, 21 Nov 2026.
 
 ED (MX) is a house and minimal artist based in Mexico, with 44 gigs on soundcheck across Auckland, Copenhagen, Mexico City and Miami and 1 more. Often billed alongside Itza Chacón, Alo and Mejia. Next up: TBA - Recibe la ubicación con la compra de tu ticket, Mexico City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ ED (MX) is a house and minimal artist based in Mexico, with 44 gigs on soundchec
 
 Itza Chacón, Alo, Mejia
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*

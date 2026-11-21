@@ -1,6 +1,6 @@
 # Takuya Nakamura at The Regency Ballroom
 
-Takuya Nakamura at The Regency Ballroom on Sat 19 Dec, San Francisco/Oakland. 1 artist: Takuya Nakamura. See the line-up on soundcheck.
+Takuya Nakamura at The Regency Ballroom on Sat 19 Dec, San Francisco/Oakland. 2 artists: RP Boo and Takuya Nakamura. Experimental and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Takuya Nakamura at The Regency Ballroom on Sat 19 Dec, San Francisco/Oakland. 1 
 
 ## Line-up
 
+- RP Boo
 - Takuya Nakamura
 
 *Source: [soundcheck](https://soundcheck.club/e/2532668-takuya-nakamura-at-the-regency-ballroom/)*

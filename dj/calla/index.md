@@ -1,6 +1,6 @@
 # Calla
 
-Calla is a Tech House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
+Calla is a Tech House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
 
 Calla is a tech house and electro artist based in United Kingdom, with 23 gigs on soundcheck across Dublin, London and Manchester. Often billed alongside Wilba, Muster Men and Guzman. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Calla is a tech house and electro artist based in United Kingdom, with 23 gigs o
 
 Wilba, Muster Men, Guzman (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calla/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calla/)*

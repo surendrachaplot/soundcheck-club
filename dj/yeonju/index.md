@@ -1,6 +1,6 @@
 # Yeonju
 
-Yeonju is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 18 Nov 2026.
+Yeonju is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 18 Nov 2026.
 
 Yeonju is a techno and house artist based in South Korea, with 72 gigs on soundcheck across Seoul. Often billed alongside Jooheon, Hender and Hogun. Next up: Graphic Hangang, Seoul on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Yeonju is a techno and house artist based in South Korea, with 72 gigs on soundc
 
 Jooheon, Hender, Hogun
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonju/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonju/)*

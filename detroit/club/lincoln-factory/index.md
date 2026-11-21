@@ -1,14 +1,13 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Big A** Party" on Fri, 20 Nov 2026.
+Lincoln Factory is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Mona Black + RAEDY LEX" on Sat, 21 Nov 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Carl Craig, Disc Jockey George, JMT and John Johr and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Carl Craig, John Johr, Mija and Mona Black and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Big A** Party | Disc Jockey George, JMT (2), Planet KaiA, Syd (US), TONIC, we1sman |
 | Sat, 21 Nov 2026 | Mona Black + RAEDY LEX | Mona Black, RAEDY LEX |
 | Sun, 22 Nov 2026 | Memorial Service for Juan Atkins |  |
 | Fri, 27 Nov 2026 | Steve Bug + John Johr | John Johr, Steve Bug |
@@ -19,4 +18,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 6 upcoming gig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

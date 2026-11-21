@@ -1,18 +1,17 @@
 # YOTO
 
-YOTO is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "YOTO x 30 YEARS WILDANDSTYLE" on Fri, 20 Nov 2026.
+YOTO is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "YOTO x WHA GWAAN" on Sat, 21 Nov 2026.
 
-YOTO is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
+YOTO is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | YOTO x 30 YEARS WILDANDSTYLE |  |
 | Sat, 21 Nov 2026 | YOTO x WHA GWAAN |  |
 
 ## Address
 
 Basement, Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*

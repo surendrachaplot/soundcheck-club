@@ -1,8 +1,8 @@
 # Doss
 
-Doss is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
+Doss is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Doss is a club and techno artist based in United States of America, with 62 gigs on soundcheck across Athens, Atlanta, Austin and Berlin and 21 more. Often billed alongside CFCF, Ninajirachi and Yves Tumor. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 28 Nov.
+Doss is a club and techno artist based in United States of America, with 63 gigs on soundcheck across Athens, Atlanta, Austin and Berlin and 21 more. Often billed alongside CFCF, Ninajirachi and Yves Tumor. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Doss is a club and techno artist based in United States of America, with 62 gigs
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Thu, 10 Dec 2026 | Paragon | New York City |
+| Thu, 31 Dec 2026 | Sleeping Village | Chicago |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Doss is a club and techno artist based in United States of America, with 62 gigs
 
 CFCF, Ninajirachi, Yves Tumor
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

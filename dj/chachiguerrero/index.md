@@ -1,6 +1,6 @@
 # Chachi Guerrero
 
-Chachi Guerrero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - 2233 S Wentworth Ave, Chicago on Sun, 29 Nov 2026.
+Chachi Guerrero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 2233 S Wentworth Ave, Chicago on Sun, 29 Nov 2026.
 
 Chachi Guerrero is a house and techno artist based in Venezuela, with 57 gigs on soundcheck across Boston, Chicago, Detroit and New Orleans and 1 more. Often billed alongside La Spacer, CQQCHiFRUIT and Duke Shin. Next up: TBA - 2233 S Wentworth Ave, Chicago on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Chachi Guerrero is a house and techno artist based in Venezuela, with 57 gigs on
 
 La Spacer, CQQCHiFRUIT, Duke Shin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*

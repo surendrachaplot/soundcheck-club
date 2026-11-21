@@ -1,6 +1,6 @@
 # PLAYTIME Pres. Meg10 - Lip Service at Rugs*
 
-PLAYTIME Pres. Meg10 - Lip Service at Rugs* on Fri 27 Nov, Beijing. 3 artists: Cosmic Egg, manju and Meg10. See the line-up on soundcheck.
+PLAYTIME Pres. Meg10 - Lip Service at Rugs* on Fri 27 Nov, Beijing. 3 artists: Cosmic Egg, manju and Meg10. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

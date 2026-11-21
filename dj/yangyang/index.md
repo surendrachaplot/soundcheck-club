@@ -1,6 +1,6 @@
 # Yangyang
 
-Yangyang is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OIL Club, Shenzhen on Fri, 20 Nov 2026.
+Yangyang is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at OIL Club, Shenzhen on Fri, 20 Nov 2026.
 
 Yangyang is a techno and club artist based in China, with 20 gigs on soundcheck across Beijing, Shanghai and Shenzhen. Often billed alongside Alion, Shy Beef and Sirens. Next up: OIL Club, Shenzhen on Fri 20 Nov.
 
@@ -13,6 +13,7 @@ Yangyang is a techno and club artist based in China, with 20 gigs on soundcheck 
 
 ## Recently played
 
+- OIL Club, Shenzhen · Fri, 20 Nov 2026
 - OIL Club, Shenzhen · Sat, 25 Jul 2026
 - OIL Club, Shenzhen · Fri, 26 Jun 2026
 - OIL Club, Shenzhen · Sat, 9 May 2026
@@ -20,10 +21,9 @@ Yangyang is a techno and club artist based in China, with 20 gigs on soundcheck 
 - OIL Club, Shenzhen · Fri, 14 Feb 2025
 - Heim Shanghai, Shanghai · Sat, 1 Jul 2023
 - OIL Club, Shenzhen · Thu, 29 Jun 2023
-- Zhao Dai, Beijing · Wed, 21 Jun 2023
 
 ## Shares bills with
 
 Alion, Shy Beef, Sirens
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yangyang/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yangyang/)*

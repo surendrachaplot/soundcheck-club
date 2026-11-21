@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 22 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ELEMENTS: Special Edition" on Fri, 20 Nov 2026.
+People's Leisure Club is a music venue in Edinburgh with 22 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Dae" on Sat, 21 Nov 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 22 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BORLEY and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -8,7 +8,6 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 22 upc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | ELEMENTS: Special Edition |  |
 | Sat, 21 Nov 2026 | Dae | Duellist, Fear-E, Neil Templar, Thornback |
 | Sat, 21 Nov 2026 | LIKE THIS #030 - SAYERS | Isaac Sayers, Main Ingredient |
 | Sun, 22 Nov 2026 | Let Loose | ButhoTheWarrior |
@@ -18,9 +17,10 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 22 upc
 | Sat, 28 Nov 2026 | Day & Night Party - 8 Years of DRIFT | BPK (1), Bolam, Caligari_, Cornetta, FLIPSIDE., Jedda, Kami-O, Kitsta, Louspresso, Mod Sens, Nikki Guild, SSID, Vinyl Voyages |
 | Sun, 29 Nov 2026 | Cold Ones | DJ Cheers, Lietzsche, Yas Mine, daiz.y |
 | Thu, 3 Dec 2026 | ELEMENTS: Neon | BORLEY, PASO |
+| Fri, 4 Dec 2026 | Box Energy // DJ ESP Woody McBride (LIVE) // Jack Brown & Rueben Hughson | Jack Brown, Woody McBride |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

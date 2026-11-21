@@ -1,6 +1,6 @@
 # Koshin
 
-Koshin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Nué Seoul, Seoul on Sat, 21 Nov 2026.
+Koshin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Nué Seoul, Seoul on Sat, 21 Nov 2026.
 
 Koshin is a techno and house artist based in South Korea, with 99 gigs on soundcheck across Berlin, Seoul and Tokyo. Often billed alongside Hogun, Nujeat and DJ SIN. Next up: Nué Seoul, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Koshin is a techno and house artist based in South Korea, with 99 gigs on soundc
 
 Hogun, Nujeat, DJ SIN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koshin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koshin/)*

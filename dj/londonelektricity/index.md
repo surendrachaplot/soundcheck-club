@@ -1,13 +1,14 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Woodshop, New York City on Sat, 5 Dec 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Phoenix Landing, Boston on Thu, 3 Dec 2026.
 
-London Elektricity is a drum & bass and jungle artist based in United Kingdom, with 64 gigs on soundcheck across Auckland, Berlin, Boston and Bristol and 31 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: The Woodshop, New York City on Sat 5 Dec.
+London Elektricity is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Auckland, Berlin, Boston and Bristol and 31 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: Phoenix Landing, Boston on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | Phoenix Landing | Boston |
 | Sat, 5 Dec 2026 | The Woodshop | New York City |
 | Fri, 18 Dec 2026 | Komedia Bath | West-wales |
 
@@ -26,4 +27,4 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, w
 
 Makoto, Degs, Nu:Tone
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

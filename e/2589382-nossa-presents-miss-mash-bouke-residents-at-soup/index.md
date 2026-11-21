@@ -1,6 +1,6 @@
 # Nossa! presents: Miss Mash, Bouke, Residents at Soup
 
-Nossa! presents: Miss Mash, Bouke, Residents at Soup on Fri 11 Dec, Manchester. 3 artists: Hannah O'Gorman, Keltoi and Miss Mash. Disco and Jazz. See the line-up on soundcheck.
+Nossa! presents: Miss Mash, Bouke, Residents at Soup on Fri 11 Dec, Manchester. 2 artists: Hannah O'Gorman and Keltoi. Disco and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ Nossa! presents: Miss Mash, Bouke, Residents at Soup on Fri 11 Dec, Manchester. 
 
 - Hannah O'Gorman
 - Keltoi
-- Miss Mash
 
 *Source: [soundcheck](https://soundcheck.club/e/2589382-nossa-presents-miss-mash-bouke-residents-at-soup/)*

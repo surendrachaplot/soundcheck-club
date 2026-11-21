@@ -1,6 +1,6 @@
 # Answer Code Request
 
-Answer Code Request is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Answer Code Request is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
 Answer Code Request is a techno and house artist based in Germany, with 153 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Amotik, Barker and Oracy. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
@@ -16,6 +16,7 @@ Answer Code Request is a techno and house artist based in Germany, with 153 gigs
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Fri, 20 Nov 2026
 - Open Ground, Wuppertal · Sat, 14 Nov 2026
 - AMT, Berlin · Fri, 13 Nov 2026
 - TBA - Marsella 47 Colonia Juarez, Mexico City · Fri, 23 Oct 2026
@@ -23,10 +24,9 @@ Answer Code Request is a techno and house artist based in Germany, with 153 gigs
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
 - Schwuz, Berlin · Thu, 1 Oct 2026
 - Flux, Istanbul · Sat, 26 Sept 2026
-- Paradiso, Amsterdam · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Amotik, Barker, Oracy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*

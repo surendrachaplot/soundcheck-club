@@ -1,6 +1,6 @@
 # gabby cocco
 
-gabby cocco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New York City on Sat, 21 Nov 2026.
+gabby cocco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Green Room NYC, New York City on Sat, 21 Nov 2026.
 
 gabby cocco is a house and disco artist based in United States of America, with 75 gigs on soundcheck across Mexico City and New York City. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Green Room NYC, New York City on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ gabby cocco is a house and disco artist based in United States of America, with 
 
 Chloe Battelle, James Juke, Rachel Opert
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*

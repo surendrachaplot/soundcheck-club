@@ -1,6 +1,6 @@
 # Nicola Gavino
 
-Nicola Gavino is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Range, Turin on Fri, 20 Nov 2026.
+Nicola Gavino is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Range, Turin on Fri, 20 Nov 2026.
 
 Nicola Gavino is a tech house and house artist based in Italy, with 105 gigs on soundcheck across Amsterdam, London, Milan and Turin. Often billed alongside YOUniverse, Riverside (IT) and Paul Acquaviva. Next up: The Range, Turin on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ Nicola Gavino is a tech house and house artist based in Italy, with 105 gigs on 
 
 ## Recently played
 
+- The Range, Turin · Fri, 20 Nov 2026
 - The Range, Turin · Fri, 13 Nov 2026
 - The Range, Turin · Fri, 30 Oct 2026
 - The Range, Turin · Fri, 23 Oct 2026
@@ -19,10 +20,9 @@ Nicola Gavino is a tech house and house artist based in Italy, with 105 gigs on 
 - Centralino Club, Turin · Sat, 4 Jul 2026
 - Parco Dora, Turin · Fri, 3 Jul 2026
 - Centralino Club, Turin · Fri, 3 Jul 2026
-- Centralino Club, Turin · Thu, 2 Jul 2026
 
 ## Shares bills with
 
 YOUniverse, Riverside (IT), Paul Acquaviva
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolagavino/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolagavino/)*

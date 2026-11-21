@@ -1,20 +1,20 @@
 # Case (2)
 
-Case (2) is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Glove That Fits, London on Fri, 20 Nov 2026.
+Case (2) is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Stage and Radio, Manchester on Sat, 28 Nov 2026.
 
-Case is an electro and techno artist based in United Kingdom, with 29 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Emerald, Klose One and D.N.S. Next up: The Glove That Fits, London on Fri 20 Nov.
+Case is an electro and techno artist based in United Kingdom, with 29 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Emerald, Klose One and D.N.S. Next up: Stage and Radio, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Glove That Fits | London |
 | Sat, 28 Nov 2026 | Stage and Radio | Manchester |
 | Fri, 18 Dec 2026 | radial | London |
 | Fri, 22 Jan 2027 | The Loco Klub | Bristol |
 
 ## Recently played
 
+- The Glove That Fits, London · Fri, 20 Nov 2026
 - The Fox and Firkin, London · Thu, 24 Sept 2026
 - Moon Club, Bristol · Wed, 16 Sept 2026
 - radial, London · Sat, 27 Jun 2026
@@ -22,10 +22,9 @@ Case is an electro and techno artist based in United Kingdom, with 29 gigs on so
 - M.O.T, London · Fri, 10 Apr 2026
 - The DBA, Manchester · Thu, 2 Apr 2026
 - KOKO, London · Fri, 27 Feb 2026
-- Planet Wax, London · Sat, 6 Dec 2025
 
 ## Shares bills with
 
 Emerald, Klose One, D.N.S
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/case-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/case-2/)*

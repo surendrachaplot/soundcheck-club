@@ -1,6 +1,6 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "nessim & friends w/ dilesmavis b2b dale, nessim b2b luke cohlen & more" on Sat, 21 Nov 2026.
+murmur is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "nessim & friends w/ dilesmavis b2b dale, nessim b2b luke cohlen & more" on Sat, 21 Nov 2026.
 
 murmur is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Dale, Hannah Pezzack, Jo FLM and Luke Cohlen and 2 more. See dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
@@ -18,4 +18,4 @@ murmur is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with
 
 Johan van Hasseltweg 39 HS, 1021 KN Amsterdam, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*

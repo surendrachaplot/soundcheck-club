@@ -1,6 +1,6 @@
 # DJ Egg
 
-DJ Egg is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 19 Dec 2026.
+DJ Egg is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 19 Dec 2026.
 
 DJ Egg is a bass and club artist based in Ireland, with 35 gigs on soundcheck across Cork, Dublin, Galway and Glasgow and 1 more. Often billed alongside Lúnasa, Rhyzine and LYCHEE. Next up: Yamamori Tengu, Dublin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ Egg is a bass and club artist based in Ireland, with 35 gigs on soundcheck ac
 
 Lúnasa, Rhyzine, LYCHEE (3)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djegg/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djegg/)*

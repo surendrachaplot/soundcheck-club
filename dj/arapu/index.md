@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Arapu is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Arapu is a house and minimal artist based in Romania, with 165 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 37 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Arapu is a house and minimal artist based in Romania, with 165 gigs on soundchec
 
 Priku, Seth Troxler, Sossa
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

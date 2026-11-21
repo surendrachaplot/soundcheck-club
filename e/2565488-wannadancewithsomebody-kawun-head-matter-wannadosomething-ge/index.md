@@ -1,6 +1,6 @@
 # wannadancewithsomebody?: Kawun, Head Matter, wannadosomething? (Gesine Kühne & Jakob Mandler) at Bulbul Berlin
 
-wannadancewithsomebody?: Kawun, Head Matter, wannadosomething? (Gesine Kühne & Jakob Mandler) at Bulbul Berlin on Sat 21 Nov, Berlin. 2 artists: Kawun and wannadosomething?. House and Club. See the line-up on soundcheck.
+wannadancewithsomebody?: Kawun, Head Matter, wannadosomething? (Gesine Kühne & Jakob Mandler) at Bulbul Berlin on Sat 21 Nov, Berlin. 3 artists: Head Matter, Kawun and wannadosomething?. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ wannadancewithsomebody?: Kawun, Head Matter, wannadosomething? (Gesine Kühne & 
 
 ## Line-up
 
+- Head Matter
 - Kawun
 - wannadosomething?
 

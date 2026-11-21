@@ -1,6 +1,6 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "OMNOM (360° SET)" on Sat, 21 Nov 2026.
+Concord Music Hall is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "OMNOM (360° SET)" on Sat, 21 Nov 2026.
 
 Concord Music Hall is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including Avi Sic, Conrad Taylor, DJ Thank You and HerShe and 2 more. See dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
@@ -23,4 +23,4 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 11 upcoming
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

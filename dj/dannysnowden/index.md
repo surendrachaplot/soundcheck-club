@@ -1,6 +1,6 @@
 # Danny Snowden
 
-Danny Snowden is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at XOYO, London on Sat, 21 Nov 2026.
+Danny Snowden is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at XOYO, London on Sat, 21 Nov 2026.
 
 Danny Snowden is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Brighton and 12 more. Often billed alongside Sidney Charles, Ashkaan and Burnski. Next up: XOYO, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Danny Snowden is a house and tech house artist based in United Kingdom, with 33 
 
 Sidney Charles, Ashkaan, Burnski
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*

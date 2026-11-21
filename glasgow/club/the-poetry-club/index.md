@@ -1,14 +1,13 @@
 # The Poetry Club
 
-The Poetry Club is a music venue in Glasgow with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Lucid Dreams - Acid Techno" on Fri, 20 Nov 2026.
+The Poetry Club is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "It's Never Too Late presents: Super8 & Tab" on Sat, 21 Nov 2026.
 
-The Poetry Club is a music venue in Glasgow listed on soundcheck. 6 upcoming gigs, with line-ups including Bellarosa, CLO, DJ $YCLOPS and Lily and 1 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+The Poetry Club is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Bellarosa, CLO, DJ $YCLOPS and Lily and 1 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Lucid Dreams - Acid Techno |  |
 | Sat, 21 Nov 2026 | It's Never Too Late presents: Super8 & Tab | Super8 & Tab |
 | Sat, 5 Dec 2026 | Noise Complaint! presents: BELLAROSA, CLO, LILY, DJ $YCLOPS | Bellarosa, CLO (2), DJ $YCLOPS, Lily |
 | Fri, 11 Dec 2026 | Knowehead Sound System: End of year dance |  |
@@ -19,4 +18,4 @@ The Poetry Club is a music venue in Glasgow listed on soundcheck. 6 upcoming gig
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*

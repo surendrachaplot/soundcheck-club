@@ -1,6 +1,6 @@
 # Kataya
 
-Kataya is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 21 Nov 2026.
+Kataya is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 21 Nov 2026.
 
 Kataya is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Ciao 3lla, ANTYA and Acid.Foxy. Next up: Klunkerkranich, Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Kataya is a house and techno artist based in Germany, with 22 gigs on soundcheck
 
 Ciao 3lla, ANTYA, Acid.Foxy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*

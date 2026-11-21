@@ -1,6 +1,6 @@
 # Eclectic Elektra
 
-Eclectic Elektra is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Eclectic Elektra is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Eclectic Elektra is a house and techno artist based in Belgium, with 43 gigs on soundcheck across Antwerp, Berlin, Brussels and Copenhagen and 1 more. Often billed alongside Ansonica, Jelle from the Block and Arlanoa. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Eclectic Elektra is a house and techno artist based in Belgium, with 43 gigs on 
 
 Ansonica, Jelle from the Block, Arlanoa
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eclecticelektra/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eclecticelektra/)*

@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Jolani Jhones + Rico Rosa + LaBlackie + ᵀʰᵉ ᵀʷⁱⁿˢ live" on Fri, 20 Nov 2026.
+Razzmatazz is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Pre-human x Refractor: Alohn, Andrae Durden, Convoluted Mental Mirror, Gaber, Malesa" on Sat, 21 Nov 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including DJ Co.kr, Mutualism (DE), adobeprincess and Akalex and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -8,7 +8,6 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Jolani Jhones + Rico Rosa + LaBlackie + ᵀʰᵉ ᵀʷⁱⁿˢ live | Jolani Jhones, LaBlackie, Marta Mer |
 | Sat, 21 Nov 2026 | Pre-human x Refractor: Alohn, Andrae Durden, Convoluted Mental Mirror, Gaber, Malesa | Andrae Durden, Convoluted Mental Mirror, Malesa |
 | Sat, 21 Nov 2026 | Reeko b2b Tensal + SHXCXCHCXSH Live  Lizz presenta La Chismoteka: Entropika | Blaark, Convoluted Mental Mirror, Kanti, ORFIGYAL, Reeko, SHXCXCHCXSH, Tensal |
 | Thu, 26 Nov 2026 | COBRAH | COBRAH |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs,
 | Sat, 5 Dec 2026 | RAZZCLUB: Dismantle + Speedy J + Black Merlin | Ana Alves, Aura Nox, Black Merlin, Dismantle, Lowprofile, Non Punire, Ruiseñor, Rumbler, Speedy J |
 | Fri, 11 Dec 2026 | RAZZCLUB: Mainline Club: PAURRO + Hello Sasy + Dj Babatr pesenta Venezuelan Groove  | Akalex, Andrea Arias, DJ2D2, Dj Babatr, Dj Deep RH, Hello Sasy, Hidden Memory, John Heaven, Kanti, Maxvll, Nile Fee, PAURRO, PethbUri |
 | Sat, 12 Dec 2026 | RAZZCLUB: Antidoto Club: DJ Co.kr + Objekt + Naone + K Wata | Baldman, Clandestine, DJ Co.kr, Diego Armando, INEXXSTABLE, K Wata, Lux Lisbon, Memory Palace, Naone, Objekt, Rindeau, Strain, Yosef (ES) |
+| Fri, 18 Dec 2026 | RAZZCLUB: Lizz presenta La Chismoteka: Garzi + Casa Pepa x Gallery sessions | Mutualism (DE), ORFIGYAL |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

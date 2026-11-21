@@ -1,8 +1,8 @@
 # Divine Kaos
 
-Divine Kaos is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hal 4 aan de Maas, Rotterdam on Fri, 4 Dec 2026.
+Divine Kaos is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hal 4 aan de Maas, Rotterdam on Fri, 4 Dec 2026.
 
-Divine Kaos is a house and tech house artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and Utrecht. Often billed alongside Divine, Kim Kaos and Benny Rodrigues. Next up: Hal 4 aan de Maas, Rotterdam on Fri 4 Dec.
+Divine Kaos is a house and tech house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and Utrecht. Often billed alongside Divine, Kim Kaos and Funkerman. Next up: Hal 4 aan de Maas, Rotterdam on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Divine Kaos is a house and tech house artist based in Netherlands, with 7 gigs o
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Hal 4 aan de Maas | Rotterdam |
 | Sat, 5 Dec 2026 | Effenaar | Eindhoven |
+| Sat, 2 Jan 2027 | De Helling | Utrecht |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Divine Kaos is a house and tech house artist based in Netherlands, with 7 gigs o
 
 ## Shares bills with
 
-Divine, Kim Kaos, Benny Rodrigues
+Divine, Kim Kaos, Funkerman
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divinekaos/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divinekaos/)*

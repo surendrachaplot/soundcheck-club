@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
+Vera Grace is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
 
 Vera Grace is a techno and industrial artist based in Netherlands, with 139 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 26 Nov.
 
@@ -28,4 +28,4 @@ Vera Grace is a techno and industrial artist based in Netherlands, with 139 gigs
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

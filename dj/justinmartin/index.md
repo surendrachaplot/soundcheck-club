@@ -1,8 +1,8 @@
 # Justin Martin
 
-Justin Martin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Headquarters Beercade, Chicago on Sun, 13 Dec 2026.
+Justin Martin is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Headquarters Beercade, Chicago on Sun, 13 Dec 2026.
 
-Justin Martin is a house and tech house artist based in United States of America, with 100 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 20 more. Often billed alongside MNTRA, Ardalan and Mikey Lion. Next up: Headquarters Beercade, Chicago on Sun 13 Dec.
+Justin Martin is a house and tech house artist based in United States of America, with 101 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 20 more. Often billed alongside MNTRA, Ardalan and DJ Holographic. Next up: Headquarters Beercade, Chicago on Sun 13 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Justin Martin is a house and tech house artist based in United States of America
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | Headquarters Beercade | Chicago |
 | Thu, 31 Dec 2026 | Harbor Island | San Diego |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Justin Martin is a house and tech house artist based in United States of America
 
 ## Shares bills with
 
-MNTRA, Ardalan, Mikey Lion
+MNTRA, Ardalan, DJ Holographic
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*

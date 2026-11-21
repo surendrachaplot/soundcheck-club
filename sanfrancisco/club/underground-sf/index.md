@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Prerogative" on Fri, 20 Nov 2026.
+Underground SF is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Stasis Field" on Sat, 21 Nov 2026.
 
-Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including 480P (US), 9-System, ALICE STRIBLING and Bjørn and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including 480P (US), 9-System, ALICE STRIBLING and Bjørn and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Prerogative | Deezy (US), M66 (1), The Baptist, Xolo |
 | Sat, 21 Nov 2026 | hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Stasis Field | 9-System, Emma Rak, Freeman 713, Midnight Climax |
 | Thu, 26 Nov 2026 | FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮 | ALICE STRIBLING |
 | Sat, 28 Nov 2026 | OnSet | Mossmoss, Peter Clarke |
@@ -21,4 +20,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 8
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

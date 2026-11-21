@@ -1,14 +1,13 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Mira & Chris Schwarzwälder -All Night Long-" on Fri, 20 Nov 2026.
+Odonien is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Lichtblick - Winter Rave in Odonien " on Sat, 21 Nov 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including AEKO, Alyne, andré wiese and Bergen and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including AEKO, Alyne, andré wiese and Bergen and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Mira & Chris Schwarzwälder -All Night Long- | Chris Schwarzwälder, Mira |
 | Sat, 21 Nov 2026 | Lichtblick - Winter Rave in Odonien  |  |
 | Sat, 28 Nov 2026 | OCN - odonische clubnacht | JANEIN, Lizzle, Medha, Stigmatique |
 | Sat, 5 Dec 2026 | Odonien Records invites Berlin Sound Therapy with Melbo & Falke, Alyne, TraumaMia & justUS | Alyne, Falke, Melbo, Pardis, TraumaMia, justUS |
@@ -22,4 +21,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with 
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

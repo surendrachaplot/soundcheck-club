@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "150 with Dimitri Vegas in Fabrik" on Sat, 21 Nov 2026.
+Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "150 with Dimitri Vegas in Fabrik" on Sat, 21 Nov 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, Abel Ramos, Adrian Mills and Akira and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -21,4 +21,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with li
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

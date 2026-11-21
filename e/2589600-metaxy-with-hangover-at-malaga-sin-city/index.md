@@ -1,6 +1,6 @@
 # METAXY with HANGOVER at Malaga Sin City
 
-METAXY with HANGOVER at Malaga Sin City on Sat 28 Nov, Milan. 4 artists: AllaDerivaLontano, GLADJEE, o3.mp3 and Vittorio Di Mango. See the line-up on soundcheck.
+METAXY with HANGOVER at Malaga Sin City on Sat 28 Nov, Milan. 4 artists: AllaDerivaLontano, GLADJEE, o3.mp3 and Vittorio Di Mango. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

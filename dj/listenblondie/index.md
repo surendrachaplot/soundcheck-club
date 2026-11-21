@@ -1,6 +1,6 @@
 # Listenblondie
 
-Listenblondie is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Blue Velvet, Berlin on Sat, 21 Nov 2026.
+Listenblondie is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Blue Velvet, Berlin on Sat, 21 Nov 2026.
 
 Listenblondie is a trance and techno artist based in Germany, with 24 gigs on soundcheck across Berlin and Munich. Often billed alongside Vaneska, ANASTASÍA and Jan Minnerup. Next up: Blue Velvet, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Listenblondie is a trance and techno artist based in Germany, with 24 gigs on so
 
 Vaneska, ANASTASÍA, Jan Minnerup
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/listenblondie/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/listenblondie/)*

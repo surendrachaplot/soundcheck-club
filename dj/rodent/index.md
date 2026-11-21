@@ -1,6 +1,6 @@
 # Rodent
 
-Rodent is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 21 Nov 2026.
+Rodent is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 21 Nov 2026.
 
 Rodent is a drum & bass and jungle artist based in United Kingdom, with 90 gigs on soundcheck across Buenos Aires, Edinburgh, Glasgow and London and 1 more. Often billed alongside F:N (UK), Teknocrat and FOLIE (UK). Next up: Nice N Sleazy, Glasgow on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Rodent is a drum & bass and jungle artist based in United Kingdom, with 90 gigs 
 
 F:N (UK), Teknocrat, FOLIE (UK)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodent/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodent/)*

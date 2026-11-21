@@ -1,6 +1,6 @@
 # suade (US)
 
-suade (US) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 19 Dec 2026.
+suade (US) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 19 Dec 2026.
 
 suade (US) is a techno and bass artist based in United States of America, with 40 gigs on soundcheck across Hong Kong, New York City, Portland and San Francisco/Oakland and 1 more. Often billed alongside llloyd (US), Clearcast and Vertigo. Next up: 宀 Club, Hong Kong on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ suade (US) is a techno and bass artist based in United States of America, with 4
 
 llloyd (US), Clearcast, Vertigo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*

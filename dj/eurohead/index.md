@@ -1,6 +1,6 @@
 # Eurohead
 
-Eurohead is a Trance and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Warfield, San Francisco/Oakland on Sat, 21 Nov 2026.
+Eurohead is a Trance and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Warfield, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Eurohead is a trance and club artist based in Sweden, with 25 gigs on soundcheck across Austin, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside ali rq, Brutalismus 3000 and Frost Children. Next up: The Warfield, San Francisco/Oakland on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Eurohead is a trance and club artist based in Sweden, with 25 gigs on soundcheck
 
 ali rq, Brutalismus 3000, Frost Children
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*

@@ -1,6 +1,6 @@
 # inklingroom: Festival of New Music from Eastern Europe at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects)
 
-inklingroom: Festival of New Music from Eastern Europe at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects) on Thu 18 Feb, London. 10 artists: Buttechno, Gábor Lázár, J.G. Biberkopf and James Holden and 6 more. See the line-up on soundcheck.
+inklingroom: Festival of New Music from Eastern Europe at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects) on Thu 18 Feb, London. 10 artists: Buttechno, Gábor Lázár, J.G. Biberkopf and James Holden and 6 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

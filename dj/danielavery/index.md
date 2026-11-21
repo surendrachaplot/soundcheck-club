@@ -1,14 +1,13 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kassa Boat, Budapest on Fri, 20 Nov 2026.
+Daniel Avery is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gazarte, Greece on Sat, 19 Dec 2026.
 
-Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Richard Fearless, Optimo (Espacio) and IMOGEN. Next up: Kassa Boat, Budapest on Fri 20 Nov.
+Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Richard Fearless, Optimo (Espacio) and IMOGEN. Next up: Gazarte, Greece on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kassa Boat | Budapest |
 | Sat, 19 Dec 2026 | Gazarte | Greece |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Wed, 30 Dec 2026 | Tresor / Globus | Berlin |
@@ -19,6 +18,7 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs
 
 ## Recently played
 
+- Kassa Boat, Budapest · Fri, 20 Nov 2026
 - Sneaky Pete's, Edinburgh · Sun, 15 Nov 2026
 - The Berkeley Suite, Glasgow · Sat, 14 Nov 2026
 - Q35 WAREHOUSE, Turin · Sat, 24 Oct 2026
@@ -26,10 +26,9 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs
 - DURO, Milan · Sat, 10 Oct 2026
 - DURO, Milan · Sat, 10 Oct 2026
 - DURO, Milan · Sat, 10 Oct 2026
-- 528 Ibiza, Ibiza · Tue, 6 Oct 2026
 
 ## Shares bills with
 
 Richard Fearless, Optimo (Espacio), IMOGEN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

@@ -1,6 +1,6 @@
 # VERKNIPT Germany Oberhausen - 13 March at Turbinenhalle
 
-VERKNIPT Germany Oberhausen - 13 March at Turbinenhalle on Sat 13 Mar, North Rhine Westphalia. 17 artists: CALLUSH, Divasi, EDNA and HOOM and 13 more. See the line-up on soundcheck.
+VERKNIPT Germany Oberhausen - 13 March at Turbinenhalle on Sat 13 Mar, North Rhine Westphalia. 18 artists: CALLUSH, Divasi, EDNA and GEORGE RADSPORT and 14 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ VERKNIPT Germany Oberhausen - 13 March at Turbinenhalle on Sat 13 Mar, North Rhi
 - CALLUSH
 - Divasi
 - EDNA
+- GEORGE RADSPORT
 - HOOM
 - In Furcht
 - LSG

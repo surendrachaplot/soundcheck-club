@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Alarico is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 Alarico is a techno and house artist based in Italy, with 324 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 92 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -23,6 +23,7 @@ Alarico is a techno and house artist based in Italy, with 324 gigs on soundcheck
 
 ## Recently played
 
+- Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Magasins Généraux, Paris · Sat, 14 Nov 2026
 - Gotec, Karlsruhe · Fri, 13 Nov 2026
 - The Bassement, Madrid · Sat, 7 Nov 2026
@@ -30,10 +31,9 @@ Alarico is a techno and house artist based in Italy, with 324 gigs on soundcheck
 - Factory Town, Miami · Fri, 30 Oct 2026
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
-- Flint Space, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

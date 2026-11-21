@@ -1,6 +1,6 @@
 # Janko
 
-Janko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Karmakoma, Belgrade on Fri, 27 Nov 2026.
+Janko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Karmakoma, Belgrade on Fri, 27 Nov 2026.
 
 Janko is a house and techno artist based in Serbia, with 37 gigs on soundcheck across Baltimore, Bangkok, Belgrade and Lisbon and 2 more. Often billed alongside Knower, Runy and Baldo. Next up: Karmakoma, Belgrade on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Janko is a house and techno artist based in Serbia, with 37 gigs on soundcheck a
 
 Knower, Runy, Baldo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janko/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janko/)*

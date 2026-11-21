@@ -1,6 +1,6 @@
 # EA SOUND VOL003 at Gólya Presszó
 
-EA SOUND VOL003 at Gólya Presszó on Sat 5 Dec, Budapest. 4 artists: El Nino (HR), GIGASET, HIEN and Thao. Club. See the line-up on soundcheck.
+EA SOUND VOL003 at Gólya Presszó on Sat 5 Dec, Budapest. 3 artists: GIGASET, HIEN and Thao. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ EA SOUND VOL003 at Gólya Presszó on Sat 5 Dec, Budapest. 4 artists: El Nino (H
 
 ## Line-up
 
-- El Nino (HR)
 - GIGASET
 - HIEN
 - Thao

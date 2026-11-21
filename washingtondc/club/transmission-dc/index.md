@@ -1,15 +1,13 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "People's House: discostan" on Fri, 20 Nov 2026.
+TRANSMISSION DC is a music venue in Washington DC with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Club Ghetto Tech: Vol. 10" on Sat, 21 Nov 2026.
 
-TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 7 upcoming gigs, with line-ups including Bodegaparty, Daniro, D.Dan and Dee Clark and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 5 upcoming gigs, with line-ups including Bodegaparty, Daniro, D.Dan and Dee Clark and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | People's House: discostan | discostan |
-| Fri, 20 Nov 2026 | The Equation [Acemo + Swami Sound] |  |
 | Sat, 21 Nov 2026 | Club Ghetto Tech: Vol. 10 | DJ KORIS, Daniro, Grabba Ranks, SKY JETTA, flotussin |
 | Fri, 27 Nov 2026 | Twerk 2 Freedom | Bodegaparty, Tromac, znorthy |
 | Sat, 5 Dec 2026 | Metalheadz Pres. Goldie + Photek | Dee Clark, Goldie, Photek |
@@ -20,4 +18,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 7 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

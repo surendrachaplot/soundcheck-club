@@ -1,6 +1,6 @@
 # Xeno & Oaklander
 
-Xeno & Oaklander is a Industrial and New Wave artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FLUCC, Vienna on Fri, 11 Dec 2026.
+Xeno & Oaklander is a Industrial and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at FLUCC, Vienna on Fri, 11 Dec 2026.
 
 Xeno & Oaklander are an industrial and new wave duo based in United States of America, with 21 gigs on soundcheck across Austin, Baltimore, Berlin and Chicago and 8 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: FLUCC, Vienna on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Xeno & Oaklander are an industrial and new wave duo based in United States of Am
 
 L.Sangre, Martial Canterel, ADULT.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*

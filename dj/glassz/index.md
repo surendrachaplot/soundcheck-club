@@ -1,6 +1,6 @@
 # Glassz
 
-Glassz is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ciało, Wroclaw on Fri, 4 Dec 2026.
+Glassz is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ciało, Wroclaw on Fri, 4 Dec 2026.
 
 Glassz is a techno and bass artist based in Poland, with 78 gigs on soundcheck across Berlin, Krakow, Oslo and Poland and 5 more. Often billed alongside Guiltee, dadan karambolo and Trans Timmermans. Next up: Ciało, Wroclaw on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Glassz is a techno and bass artist based in Poland, with 78 gigs on soundcheck a
 
 Guiltee, dadan karambolo, Trans Timmermans
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glassz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glassz/)*

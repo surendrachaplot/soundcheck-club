@@ -1,6 +1,6 @@
 # Unglued
 
-Unglued is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
+Unglued is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
 
 Unglued is a drum & bass and jungle artist based in United Kingdom, with 63 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Berlin and 28 more. Often billed alongside Degs, Whiney and Metrik. Next up: fabric, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Unglued is a drum & bass and jungle artist based in United Kingdom, with 63 gigs
 
 Degs, Whiney, Metrik
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*

@@ -1,15 +1,14 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Big Boys presents Opening Night with Cottam" on Fri, 20 Nov 2026.
+Eiger Studios is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "CANCELLED - La Bise 1st Birthday: Dan Andrei, Benny Bysouth & Redshift" on Sat, 21 Nov 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including AAMEE, basic chanel, Benny Bysouth and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including AAMEE, basic chanel, Benny Bysouth and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Big Boys presents Opening Night with Cottam | Cottam (2), Joe Ross, Kid Charlemagne |
-| Sat, 21 Nov 2026 | La Bise 1st Birthday: Dan Andrei, Benny Bysouth & Redshift | Benny Bysouth, Dan Andrei, Redshift (2) |
+| Sat, 21 Nov 2026 | CANCELLED - La Bise 1st Birthday: Dan Andrei, Benny Bysouth & Redshift | Benny Bysouth, Dan Andrei, Redshift (2) |
 | Fri, 27 Nov 2026 | desire line with mad miran & residents | Constance, Eve Lizard, mad miran |
 | Sat, 28 Nov 2026 | Introducing Voltage | AAMEE, BUTCHABOI, SUBVISIONS |
 | Fri, 4 Dec 2026 | Biodiversity 004 - basic chanel b2b Dj wiggles | Dj wiggles, Joe FM, Joe Shaw, basic chanel |
@@ -22,4 +21,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, w
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

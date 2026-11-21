@@ -1,14 +1,15 @@
 # saHHar
 
-saHHar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
+saHHar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
 
-saHHar is a techno and house artist based in Germany, with 48 gigs on soundcheck across Berlin, Brussels, Munich and New York City and 1 more. Often billed alongside Omar.D, Meriem S and Al Aslan. Next up: Ankali & Planeta Za, Prague on Sat 21 Nov.
+saHHar is a techno and house artist based in Germany, with 49 gigs on soundcheck across Berlin, Brussels, Munich and New York City and 1 more. Often billed alongside Omar.D, Meriem S and Al Aslan. Next up: Ankali & Planeta Za, Prague on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Ankali & Planeta Za | Prague |
+| Thu, 26 Nov 2026 | Rollbergstr. 26 | Berlin |
 | Fri, 27 Nov 2026 | Gretchen | Berlin |
 | Sat, 19 Dec 2026 | ÆDEN | Berlin |
 
@@ -27,4 +28,4 @@ saHHar is a techno and house artist based in Germany, with 48 gigs on soundcheck
 
 Omar.D, Meriem S, Al Aslan
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahhar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahhar/)*

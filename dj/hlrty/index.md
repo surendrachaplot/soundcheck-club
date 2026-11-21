@@ -1,8 +1,8 @@
 # HLRTY
 
-HLRTY is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at BARDO, Milan on Sat, 21 Nov 2026.
+HLRTY is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at BARDO, Milan on Sat, 21 Nov 2026.
 
-HLRTY is a techno and drum & bass artist, with 7 gigs on soundcheck across Bologna, Milan, New York City and Turin. Often billed alongside Sgio Sgia, 400iso and Brown Excellence. Next up: BARDO, Milan on Sat 21 Nov.
+HLRTY is a techno and drum & bass artist based in Italy, with 7 gigs on soundcheck across Bologna, Milan, New York City and Turin. Often billed alongside Sgio Sgia, 400iso and Brown Excellence. Next up: BARDO, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ HLRTY is a techno and drum & bass artist, with 7 gigs on soundcheck across Bolog
 
 Sgio Sgia, 400iso, Brown Excellence
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hlrty/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hlrty/)*

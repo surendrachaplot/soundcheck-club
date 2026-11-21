@@ -1,6 +1,6 @@
 # Novelist
 
-Novelist is a Grime and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
+Novelist is a Grime and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
 
 Novelist is a grime and bass artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, London, Manchester and Prague and 1 more. Often billed alongside Haseeb Iqbal, CHAMBER45 and Mia Koden. Next up: UNLOCKED, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Novelist is a grime and bass artist based in United Kingdom, with 37 gigs on sou
 
 Haseeb Iqbal, CHAMBER45, Mia Koden
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novelist/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novelist/)*

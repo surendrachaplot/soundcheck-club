@@ -1,8 +1,8 @@
 # Will B
 
-Will B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, London on Sat, 12 Dec 2026.
+Will B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, London on Sat, 12 Dec 2026.
 
-Will B is a house and techno artist, with 18 gigs on soundcheck across Glasgow and London. Often billed alongside A Guy Called Gerald, Rap Saunders and Colin Dale. Next up: TBA, London on Sat 12 Dec.
+Will B is a house and techno artist based in United Kingdom, with 18 gigs on soundcheck across Glasgow and London. Often billed alongside A Guy Called Gerald, Rap Saunders and Colin Dale. Next up: TBA, London on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Will B is a house and techno artist, with 18 gigs on soundcheck across Glasgow a
 
 A Guy Called Gerald, Rap Saunders, Colin Dale
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willb/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willb/)*

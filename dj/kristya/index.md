@@ -1,6 +1,6 @@
 # KRISTYA
 
-KRISTYA is a Electronica and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Nuevo Leon 89, Mexico City on Sat, 21 Nov 2026.
+KRISTYA is a Electronica and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Nuevo Leon 89, Mexico City on Sat, 21 Nov 2026.
 
 KRISTYA is an electronica and latin bass artist based in Mexico, with 21 gigs on soundcheck across Mexico City. Often billed alongside DU'DU (MX), Diego Walle and Enya Botello. Next up: Nuevo Leon 89, Mexico City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KRISTYA is an electronica and latin bass artist based in Mexico, with 21 gigs on
 
 DU'DU (MX), Diego Walle, Enya Botello
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristya/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristya/)*

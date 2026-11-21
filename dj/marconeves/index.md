@@ -1,6 +1,6 @@
 # Marco Neves
 
-Marco Neves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 21 Nov 2026.
+Marco Neves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 21 Nov 2026.
 
 Marco Neves is a techno and house artist based in United States of America, with 51 gigs on soundcheck across Amsterdam, Detroit, Miami and New York City and 1 more. Often billed alongside Tlim Shug, /KATA/ and Lexicon. Next up: Bossa Nova Civic Club, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Marco Neves is a techno and house artist based in United States of America, with
 
 Tlim Shug, /KATA/, Lexicon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*

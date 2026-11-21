@@ -1,6 +1,6 @@
 # dj spa
 
-dj spa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at elipamanoke, Leipzig on Sat, 12 Dec 2026.
+dj spa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at elipamanoke, Leipzig on Sat, 12 Dec 2026.
 
 dj spa is a techno and trance artist, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside 0megavybe, ANKA and Adrian Ernst. Next up: elipamanoke, Leipzig on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ dj spa is a techno and trance artist, with 12 gigs on soundcheck across Berlin a
 
 0megavybe, ANKA (2), Adrian Ernst
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspa/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspa/)*

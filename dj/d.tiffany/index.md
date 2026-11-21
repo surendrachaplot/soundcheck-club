@@ -1,6 +1,6 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at BASEMENT, New York City on Fri, 18 Dec 2026.
+D. Tiffany is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at BASEMENT, New York City on Fri, 18 Dec 2026.
 
 D. Tiffany is a techno and house artist based in Canada, with 199 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 59 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: BASEMENT, New York City on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ D. Tiffany is a techno and house artist based in Canada, with 199 gigs on soundc
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

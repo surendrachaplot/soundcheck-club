@@ -1,6 +1,6 @@
 # Síoda Rua
 
-Síoda Rua is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Pawn Shop, Dublin on Fri, 11 Dec 2026.
+Síoda Rua is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pawn Shop, Dublin on Fri, 11 Dec 2026.
 
 Síoda Rua is a techno and dub techno artist based in Ireland, with 6 gigs on soundcheck across Berlin and Dublin. Often billed alongside Refracted, Temple Rat and AMSL. Next up: Pawn Shop, Dublin on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Síoda Rua is a techno and dub techno artist based in Ireland, with 6 gigs on so
 
 Refracted, Temple Rat, AMSL
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/síodarua/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/síodarua/)*

@@ -1,8 +1,8 @@
 # Onder Hans
 
-Onder Hans is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Disco Exota" on Fri, 27 Nov 2026.
+Onder Hans is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Disco Exota" on Fri, 27 Nov 2026.
 
-Onder Hans is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Aroy Dee, Fouk, Funknoir and G-String and 1 more. See dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
+Onder Hans is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Aroy Dee, Cris-H, Fouk and Funknoir and 2 more. See dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Onder Hans is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Disco Exota | Aroy Dee, Funknoir, G-String |
 | Fri, 4 Dec 2026 | Koma Soundsystem 'invites' Fouk | Fouk, Kid Culture |
+| Sat, 12 Dec 2026 | CLUB NL presents Winter Wonderland | Cris-H, ROOG |
 
 ## Address
 
 Kerkstraat 136-138, 1017 GR Amsterdam, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*

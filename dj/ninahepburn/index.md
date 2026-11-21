@@ -1,19 +1,19 @@
 # Nina Hepburn
 
-Nina Hepburn is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
+Nina Hepburn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sat, 21 Nov 2026.
 
-Nina Hepburn is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Bizzarro Universe, KENZ and SKKIN VELVET. Next up: Kater, Berlin on Fri 20 Nov.
+Nina Hepburn is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Bizzarro Universe, KENZ and SKKIN VELVET. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kater | Berlin |
 | Sat, 21 Nov 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 | Fri, 11 Dec 2026 | Lieberscholli | Munich |
 
 ## Recently played
 
+- Kater, Berlin · Fri, 20 Nov 2026
 - Docks, Hamburg · Sat, 7 Nov 2026
 - Fundbureau, Hamburg · Fri, 6 Nov 2026
 - PKH Warehouse, Berlin · Sat, 31 Oct 2026
@@ -21,10 +21,9 @@ Nina Hepburn is a techno and house artist based in Germany, with 80 gigs on soun
 - Segelschiff Mare Frisium, Hamburg · Fri, 21 Aug 2026
 - Grüner Jäger, Hamburg · Fri, 24 Jul 2026
 - MS Artville, Hamburg · Sat, 18 Jul 2026
-- Die Rakete, Nürnberg · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Bizzarro Universe, KENZ, SKKIN VELVET
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*

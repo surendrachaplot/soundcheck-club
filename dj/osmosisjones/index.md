@@ -1,6 +1,6 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Singapore on Sat, 21 Nov 2026.
+Osmosis Jones is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Singapore on Sat, 21 Nov 2026.
 
 Osmosis Jones is a garage and house artist based in Australia, with 103 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 32 more. Often billed alongside IsGwan, Faster Horses and Prizefight. Next up: TBA, Singapore on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Osmosis Jones is a garage and house artist based in Australia, with 103 gigs on 
 
 IsGwan, Faster Horses, Prizefight
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

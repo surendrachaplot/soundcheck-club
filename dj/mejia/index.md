@@ -1,6 +1,6 @@
 # Mejia
 
-Mejia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Polifonic.MX, Guadalajara on Sat, 21 Nov 2026.
+Mejia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Polifonic.MX, Guadalajara on Sat, 21 Nov 2026.
 
 Mejia is a house and minimal artist based in Mexico, with 141 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Lisbon and 5 more. Often billed alongside Louie Fresco, Bastard Love and Sami Masmoudi. Next up: Polifonic.MX, Guadalajara on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mejia is a house and minimal artist based in Mexico, with 141 gigs on soundcheck
 
 Louie Fresco, Bastard Love, Sami Masmoudi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mejia/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mejia/)*

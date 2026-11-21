@@ -1,14 +1,13 @@
 # Todd Terry
 
-Todd Terry is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Jazz Cafe, London on Fri, 20 Nov 2026.
+Todd Terry is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
 
-Todd Terry is a house and tech house artist based in United States of America, with 166 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: The Jazz Cafe, London on Fri 20 Nov.
+Todd Terry is a house and tech house artist based in United States of America, with 166 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Razzmatazz, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Jazz Cafe | London |
 | Sat, 28 Nov 2026 | Razzmatazz | Barcelona |
 | Fri, 4 Dec 2026 | Armania Phuket | Thailand |
 | Sun, 27 Dec 2026 | Shelbourne Park Stadium | Ireland |
@@ -21,6 +20,7 @@ Todd Terry is a house and tech house artist based in United States of America, w
 
 ## Recently played
 
+- The Jazz Cafe, London · Fri, 20 Nov 2026
 - Sektor 6D, Warsaw · Sat, 14 Nov 2026
 - Freeze HiFi, Liverpool · Sat, 31 Oct 2026
 - Palm House, Liverpool · Fri, 30 Oct 2026
@@ -28,10 +28,9 @@ Todd Terry is a house and tech house artist based in United States of America, w
 - Het Sieraad, Amsterdam · Sun, 25 Oct 2026
 - Borisov Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Borisov Amsterdam, Amsterdam · Thu, 22 Oct 2026
-- Maison Dio Tallinn, Tallinn · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

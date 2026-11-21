@@ -1,6 +1,6 @@
 # WWW New Year Party 2026-27 -108 Spirits- at WWW / WWW X / WWW β
 
-WWW New Year Party 2026-27 -108 Spirits- at WWW / WWW X / WWW β on Thu 31 Dec, Tokyo. 2 artists: Laraaji and Minna-no-Kimochi. Techno and Ambient. See the line-up on soundcheck.
+WWW New Year Party 2026-27 -108 Spirits- at WWW / WWW X / WWW β on Thu 31 Dec, Tokyo. 3 artists: Foodman, Laraaji and Minna-no-Kimochi. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WWW New Year Party 2026-27 -108 Spirits- at WWW / WWW X / WWW β on Thu 31 Dec, 
 
 ## Line-up
 
+- Foodman
 - Laraaji
 - Minna-no-Kimochi
 

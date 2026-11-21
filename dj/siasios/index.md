@@ -1,6 +1,6 @@
 # siasios
 
-siasios is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location, Athens on Sat, 28 Nov 2026.
+siasios is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location, Athens on Sat, 28 Nov 2026.
 
 siasios is a techno and industrial artist based in Greece, with 42 gigs on soundcheck across Athens, Barcelona, Belgrade and Cyprus and 4 more. Often billed alongside Imperium, Pelany and Até.. Next up: TBA - Secret Location, Athens on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ siasios is a techno and industrial artist based in Greece, with 42 gigs on sound
 
 Imperium, Pelany, Até.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siasios/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siasios/)*

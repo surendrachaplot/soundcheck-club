@@ -1,14 +1,13 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "'DANCING TIME AGAIN' die Depeche Mode Party by DJ Whampee" on Fri, 20 Nov 2026.
+Dunckerclub is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "INDEPENDENT TANZMUSIK by DJ Gomez" on Sat, 21 Nov 2026.
 
-Dunckerclub is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
+Dunckerclub is a music venue in Berlin listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 'DANCING TIME AGAIN' die Depeche Mode Party by DJ Whampee |  |
 | Sat, 21 Nov 2026 | INDEPENDENT TANZMUSIK by DJ Gomez |  |
 | Mon, 23 Nov 2026 | Dark Monday |  |
 | Fri, 27 Nov 2026 | 80s Inferno by DJ Funky Henning |  |
@@ -21,4 +20,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. Se
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

@@ -1,14 +1,15 @@
 # NUUP
 
-NUUP is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 21 Nov 2026.
+NUUP is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 21 Nov 2026.
 
-NUUP is a house and techno artist based in Mexico, with 66 gigs on soundcheck across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: M.N.Roy, Mexico City on Sat 21 Nov.
+NUUP is a house and techno artist based in Mexico, with 67 gigs on soundcheck across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: M.N.Roy, Mexico City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | M.N.Roy | Mexico City |
+| Fri, 1 Jan 2027 | Nitsa Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NUUP is a house and techno artist based in Mexico, with 66 gigs on soundcheck ac
 
 Valderrama, Thomas Hernandez, JE·ROME
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*

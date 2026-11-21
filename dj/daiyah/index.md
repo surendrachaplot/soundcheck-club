@@ -1,6 +1,6 @@
 # DAIYAH
 
-DAIYAH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Good Room, New York City on Sat, 28 Nov 2026.
+DAIYAH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Good Room, New York City on Sat, 28 Nov 2026.
 
 DAIYAH is a techno and house artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 8 more. Often billed alongside DJ Bone, Devoye and Juliana Huxtable. Next up: Good Room, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ DAIYAH is a techno and house artist based in United States of America, with 102 
 
 DJ Bone, Devoye, Juliana Huxtable
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*

@@ -1,6 +1,6 @@
 # Nic Krog
 
-Nic Krog is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Umbo, Zurich on Thu, 26 Nov 2026.
+Nic Krog is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Umbo, Zurich on Thu, 26 Nov 2026.
 
 Nic Krog is an experimental and club artist based in Denmark, with 25 gigs on soundcheck across Berlin, Budapest, Copenhagen and Glasgow and 12 more. Often billed alongside Nick Klein, Angelo Harmsworth and Abdullah Miniawy. Next up: Umbo, Zurich on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Nic Krog is an experimental and club artist based in Denmark, with 25 gigs on so
 
 Nick Klein, Angelo Harmsworth, Abdullah Miniawy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickrog/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickrog/)*

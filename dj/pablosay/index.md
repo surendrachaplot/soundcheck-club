@@ -1,14 +1,14 @@
 # Pablo Say
 
-Pablo Say is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+Pablo Say is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
 
-Pablo Say is a techno and house artist based in Spain, with 40 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Cologne and 13 more. Often billed alongside Ramiro Lopez, Spartaque and AKITEK. Next up: TBA, Romania on Fri 18 Jun.
+Pablo Say is a techno and house artist based in Spain, with 40 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Cologne and 13 more. Often billed alongside Ramiro Lopez, Spartaque and AKITEK. Next up: Black Sea Coast Beach, Romania on Fri 18 Jun.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Jun 2027 | TBA | Romania |
+| Fri, 18 Jun 2027 | Black Sea Coast Beach | Romania |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Pablo Say is a techno and house artist based in Spain, with 40 gigs on soundchec
 
 Ramiro Lopez, Spartaque, AKITEK
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*

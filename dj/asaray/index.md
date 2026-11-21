@@ -1,6 +1,6 @@
 # Asa Ray
 
-Asa Ray is a Progressive House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at SIX Feet Under, Cardiff on Sat, 21 Nov 2026.
+Asa Ray is a Progressive House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at SIX Feet Under, Cardiff on Sat, 21 Nov 2026.
 
 Asa Ray is a progressive house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Brighton and Cardiff. Often billed alongside IZP, Ortarix and DJBran. Next up: SIX Feet Under, Cardiff on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Asa Ray is a progressive house and tech house artist based in United Kingdom, wi
 
 IZP (1), Ortarix, DJBran
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asaray/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asaray/)*

@@ -1,13 +1,14 @@
 # Da Yama
 
-Da Yama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
+Da Yama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 21 Nov 2026.
 
-Da Yama is a techno and house artist based in Japan, with 200 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Taichi Kawahira, Kojiro and junkie babe. Next up: Aoyama Hachi, Tokyo on Sun 22 Nov.
+Da Yama is a techno and house artist based in Japan, with 201 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Taichi Kawahira, Kojiro and junkie babe. Next up: THE HAPPY mAN CHEAKS, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | THE HAPPY mAN CHEAKS | Tokyo |
 | Sun, 22 Nov 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Da Yama is a techno and house artist based in Japan, with 200 gigs on soundcheck
 
 Taichi Kawahira, Kojiro, junkie babe
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*

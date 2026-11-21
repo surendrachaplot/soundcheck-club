@@ -1,6 +1,6 @@
 # Ghed
 
-Ghed is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Flux Istanbul, Istanbul on Fri, 4 Dec 2026.
+Ghed is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Flux Istanbul, Istanbul on Fri, 4 Dec 2026.
 
 Ghed is a techno and club artist based in Turkey, with 9 gigs on soundcheck across Istanbul. Often billed alongside el Capitan, Brøde and Cenk Tripper. Next up: Flux Istanbul, Istanbul on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ghed is a techno and club artist based in Turkey, with 9 gigs on soundcheck acro
 
 el Capitan, Brøde, Cenk Tripper
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghed/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghed/)*

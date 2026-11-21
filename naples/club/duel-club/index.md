@@ -1,14 +1,13 @@
 # Duel Club
 
-Duel Club is a music venue in Naples with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Harmonia // Artist T.B.A" on Fri, 20 Nov 2026.
+Duel Club is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ADUNANZA ~ 102 • Alex Bohemien + Lorenzo Negri + Manu P" on Sat, 21 Nov 2026.
 
-Duel Club is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Bohemien, Harmonia, Hito and Jewel Kid and 2 more. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
+Duel Club is a music venue in Naples listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Bohemien, Harmonia, Hito and Jewel Kid and 2 more. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Harmonia // Artist T.B.A |  |
 | Sat, 21 Nov 2026 | ADUNANZA ~ 102 • Alex Bohemien + Lorenzo Negri + Manu P | Alex Bohemien, Lorenzo Negri, Manu P |
 | Sat, 28 Nov 2026 | ADUNANZA ~ 103 • Carloh + Key Eff + Kekka Briganti  | Key Eff |
 | Sat, 5 Dec 2026 | ADUNANZA ~ 104 • Jewel Kid + Alex Bohemien + Marco Ceraso | Alex Bohemien, Jewel Kid, Marco Ceraso |
@@ -22,4 +21,4 @@ Duel Club is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with
 
 Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy, Naples
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*

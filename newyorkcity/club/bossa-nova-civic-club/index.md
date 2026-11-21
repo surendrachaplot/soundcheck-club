@@ -1,14 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "No Vista: Mike Q, Mike Gip, Daniro, Brick Bandits" on Fri, 20 Nov 2026.
+Bossa Nova Civic Club is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "BASE SEVEN: Anthony Parasole / Marco Neves / Pierre Louis / SL" on Sat, 21 Nov 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 28 upcoming gigs, with line-ups including 1-800 GIRLS, 8ULENTINA, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 27 upcoming gigs, with line-ups including 1-800 GIRLS, 8ULENTINA, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | No Vista: Mike Q, Mike Gip, Daniro, Brick Bandits | Daniro, Mike Gip, MikeQ |
 | Sat, 21 Nov 2026 | BASE SEVEN: Anthony Parasole / Marco Neves / Pierre Louis / SL | Anthony Parasole, Marco Neves, Pierre Louis |
 | Sat, 21 Nov 2026 | Elemental Radio Happy Hour | Big Baby Ganja, DJanae |
 | Sun, 22 Nov 2026 | Happy Hour: Oscil, Uttaraa, Alter | Oscil, Uttaraa, alter.world |
@@ -18,9 +17,10 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 28
 | Wed, 25 Nov 2026 | Adam X All Night | Adam X |
 | Thu, 26 Nov 2026 | mikaela presents: vitamin carry | SKYWALKER (US) |
 | Fri, 27 Nov 2026 | Latin Rave Culture with DJ Guari, Angie Rey, Refilled, Nas Leber | Nas Leber, Refilled |
+| Sat, 28 Nov 2026 | PAN!C ROOM X DJ SWISHA | DJ SWISHA, NIJEII, WADDLE, y2aura |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

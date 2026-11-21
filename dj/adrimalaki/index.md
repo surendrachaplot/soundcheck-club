@@ -1,6 +1,6 @@
 # Adri Malaki
 
-Adri Malaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 9 Jan 2027.
+Adri Malaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 9 Jan 2027.
 
 Adri Malaki is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Bangkok, Ho Chi Minh City and Manila. Often billed alongside OK.Hara, Jirus (MELA) and RANDY SALVADOR. Next up: Luu Bar, Ho Chi Minh City on Sat 9 Jan.
 
@@ -22,4 +22,4 @@ Adri Malaki is a techno and house artist based in Switzerland, with 6 gigs on so
 
 OK.Hara, Jirus (MELA), RANDY SALVADOR
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrimalaki/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrimalaki/)*

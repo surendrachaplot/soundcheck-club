@@ -1,6 +1,6 @@
 # PEPIITA
 
-PEPIITA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
+PEPIITA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
 PEPIITA is a house and techno artist based in France, with 68 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Istanbul and 4 more. Often billed alongside Nicol, RAG and Lea Occhi. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ PEPIITA is a house and techno artist based in France, with 68 gigs on soundcheck
 
 Nicol, RAG, Lea Occhi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*

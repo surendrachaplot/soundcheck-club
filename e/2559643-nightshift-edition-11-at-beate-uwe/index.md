@@ -17,6 +17,6 @@ NIGHTSHIFT Edition #11 at Beate Uwe on Sat 28 Nov, Berlin. 8 artists: Better Cal
 - Lobo (DE)
 - Monsai
 - Nikklaas
-- Selin
+- Selin (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2559643-nightshift-edition-11-at-beate-uwe/)*

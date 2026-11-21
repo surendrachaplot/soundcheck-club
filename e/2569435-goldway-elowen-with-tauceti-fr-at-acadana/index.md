@@ -1,6 +1,6 @@
 # Goldway 高威: Elowen with Tauceti (FR) at Acadana
 
-Goldway 高威: Elowen with Tauceti (FR) at Acadana on Thu 31 Dec, Hong Kong. 3 artists: ADRIANNA.C, Mill.H and Tauceti (FR). Techno and Minimal Techno. See the line-up on soundcheck.
+Goldway 高威: Elowen with Tauceti (FR) at Acadana on Thu 31 Dec, Hong Kong. 7 artists: ADRIANNA.C, Mill.H, seko (HK) and Taku Hirayama and 3 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,10 @@ Goldway 高威: Elowen with Tauceti (FR) at Acadana on Thu 31 Dec, Hong Kong. 3 
 
 - ADRIANNA.C
 - Mill.H
+- seko (HK)
+- Taku Hirayama
 - Tauceti (FR)
+- xylon
+- Zarah Fong
 
 *Source: [soundcheck](https://soundcheck.club/e/2569435-goldway-elowen-with-tauceti-fr-at-acadana/)*

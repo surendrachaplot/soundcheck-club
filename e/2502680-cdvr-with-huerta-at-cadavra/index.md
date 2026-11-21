@@ -1,6 +1,6 @@
 # CDVR with Huerta at Cadavra
 
-CDVR with Huerta at Cadavra on Sat 5 Dec, Madrid. 1 artist: Huerta. Electronica. See the line-up on soundcheck.
+CDVR with Huerta at Cadavra on Sat 5 Dec, Madrid. 2 artists: Huerta and Luska. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ CDVR with Huerta at Cadavra on Sat 5 Dec, Madrid. 1 artist: Huerta. Electronica.
 ## Line-up
 
 - Huerta
+- Luska
 
 *Source: [soundcheck](https://soundcheck.club/e/2502680-cdvr-with-huerta-at-cadavra/)*

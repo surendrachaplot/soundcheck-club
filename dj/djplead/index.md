@@ -1,6 +1,6 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+DJ Plead is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 48 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -15,6 +15,7 @@ DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundc
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - Miscellania, Melbourne · Sun, 15 Nov 2026
 - TivoliVredenburg, Utrecht · Thu, 5 Nov 2026
 - TBA - Secret Location (near Frankfurter Allee), Berlin · Wed, 4 Nov 2026
@@ -22,10 +23,9 @@ DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundc
 - Golden Pudel Club, Hamburg · Sun, 18 Oct 2026
 - The White Hotel, Manchester · Sat, 17 Oct 2026
 - Hotel Forum, Krakow · Fri, 9 Oct 2026
-- Hotel Forum, Krakow · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

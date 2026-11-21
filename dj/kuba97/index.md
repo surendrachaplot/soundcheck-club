@@ -1,6 +1,6 @@
 # Kuba'97
 
-Kuba'97 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 201 Below, Perth on Sat, 21 Nov 2026.
+Kuba'97 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at 201 Below, Perth on Sat, 21 Nov 2026.
 
 Kuba'97 is a techno and house artist based in Belgium, with 84 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 25 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: 201 Below, Perth on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Kuba'97 is a techno and house artist based in Belgium, with 84 gigs on soundchec
 
 DJ Rino, Dana Kuehr, Ben Kamal
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*

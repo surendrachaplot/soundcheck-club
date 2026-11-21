@@ -1,6 +1,6 @@
 # Vessee
 
-Vessee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tell Me, Sofia on Thu, 3 Dec 2026.
+Vessee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tell Me, Sofia on Thu, 3 Dec 2026.
 
 Vessee is a techno and house artist based in Bulgaria, with 28 gigs on soundcheck across Sofia. Often billed alongside Miss Lidiya, Shade. and Daniel Zhelev. Next up: Tell Me, Sofia on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Vessee is a techno and house artist based in Bulgaria, with 28 gigs on soundchec
 
 Miss Lidiya, Shade., Daniel Zhelev
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vessee/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vessee/)*

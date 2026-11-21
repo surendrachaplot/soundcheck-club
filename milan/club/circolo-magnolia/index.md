@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Magnolia & Le Cannibale present: Swimming Paul" on Fri, 27 Nov 2026.
+Circolo Magnolia is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Magnolia & Le Cannibale present: Swimming Paul" on Fri, 27 Nov 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Drvmmer (IT), Noisia and Swimming Paul. See dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -15,4 +15,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 2 upcoming gigs
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

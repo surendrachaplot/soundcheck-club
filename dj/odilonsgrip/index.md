@@ -1,14 +1,15 @@
 # Odilon's Grip
 
-Odilon's Grip is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Old Church, London on Sat, 19 Dec 2026.
+Odilon's Grip is a EBM and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Old Church, London on Sat, 19 Dec 2026.
 
-Odilon's Grip is an ebm and techno artist based in United Kingdom, with 25 gigs on soundcheck across Athens, Bogotá, Buenos Aires and Lisbon and 2 more. Often billed alongside Arrosa, Ricardo Castro and Elander Ziggy. Next up: The Old Church, London on Sat 19 Dec.
+Odilon's Grip is an ebm and techno artist based in United Kingdom, with 26 gigs on soundcheck across Athens, Bogotá, Buenos Aires and Lisbon and 2 more. Often billed alongside Arrosa, Ricardo Castro and Elander Ziggy. Next up: The Old Church, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | The Old Church | London |
+| Sat, 19 Dec 2026 | Colours Hoxton | London |
 | Sat, 23 Jan 2027 | The Steel Yard | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Odilon's Grip is an ebm and techno artist based in United Kingdom, with 25 gigs 
 
 Arrosa, Ricardo Castro, Elander Ziggy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odilonsgrip/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odilonsgrip/)*

@@ -1,6 +1,6 @@
 # Selim Aksoz
 
-Selim Aksoz is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Miss Fish Bali, Bali on Sun, 22 Nov 2026.
+Selim Aksoz is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Miss Fish Bali, Bali on Sun, 22 Nov 2026.
 
 Selim Aksoz is an afro house and house artist based in Turkey, with 16 gigs on soundcheck across Bali. Often billed alongside Koda Prague. Next up: Miss Fish Bali, Bali on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Selim Aksoz is an afro house and house artist based in Turkey, with 16 gigs on s
 
 Koda Prague
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selimaksoz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selimaksoz/)*

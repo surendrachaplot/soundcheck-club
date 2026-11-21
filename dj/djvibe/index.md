@@ -1,6 +1,6 @@
 # DJ Vibe
 
-DJ Vibe is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Museu do Carro Elétrico, Porto on Sat, 21 Nov 2026.
+DJ Vibe is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Museu do Carro Elétrico, Porto on Sat, 21 Nov 2026.
 
 DJ Vibe is a house and tech house artist based in Portugal, with 46 gigs on soundcheck across Lausanne, Lisbon, Montreal and New York City and 2 more. Often billed alongside Rui Vargas, Kaesar and Miguel Nery. Next up: Museu do Carro Elétrico, Porto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Vibe is a house and tech house artist based in Portugal, with 46 gigs on soun
 
 Rui Vargas, Kaesar, Miguel Nery
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*

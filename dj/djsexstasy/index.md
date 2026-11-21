@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
+DJ SEXSTASY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
 
 DJ SEXSTASY is a techno and trance artist based in Brazil, with 53 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and GI.O. Next up: MAD Club Live, Miami on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 53 gigs on sound
 
 Rishka, Towicz, GI.O
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

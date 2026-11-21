@@ -1,6 +1,6 @@
 # RUV3N
 
-RUV3N is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club U, Vienna on Fri, 20 Nov 2026.
+RUV3N is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club U, Vienna on Fri, 20 Nov 2026.
 
 RUV3N is a garage and breakbeat artist based in Austria, with 7 gigs on soundcheck across Vienna. Often billed alongside Ratzefummel, MEIOSISS and A.Fruit. Next up: Club U, Vienna on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ RUV3N is a garage and breakbeat artist based in Austria, with 7 gigs on soundche
 
 ## Recently played
 
+- Club U, Vienna · Fri, 20 Nov 2026
 - TBA - The Chamber, Vienna · Fri, 24 Apr 2026
 - Das Werk, Vienna · Wed, 25 Feb 2026
 - Tagada, Vienna · Thu, 5 Feb 2026
@@ -23,4 +24,4 @@ RUV3N is a garage and breakbeat artist based in Austria, with 7 gigs on soundche
 
 Ratzefummel, MEIOSISS, A.Fruit
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruv3n/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruv3n/)*

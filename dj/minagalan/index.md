@@ -1,6 +1,6 @@
 # Mina Galán
 
-Mina Galán is a Techno and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
+Mina Galán is a Techno and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
 
 Mina Galán is a techno and neo perreo artist based in Spain, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside LOVECAT, Manuka Honey and TEDESCO. Next up: Razzmatazz, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Mina Galán is a techno and neo perreo artist based in Spain, with 32 gigs on so
 
 LOVECAT, Manuka Honey, TEDESCO
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*

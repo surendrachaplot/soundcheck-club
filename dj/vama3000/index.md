@@ -1,6 +1,6 @@
 # Vama3000
 
-Vama3000 is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
+Vama3000 is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
 
 Vama3000 is a bass and electronica artist, with 8 gigs on soundcheck across Bologna and Milan. Often billed alongside Amazon, Baba Sy and Condoii. Next up: Archive Milano, Milan on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Vama3000 is a bass and electronica artist, with 8 gigs on soundcheck across Bolo
 
 Amazon, Baba Sy, Condoii
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vama3000/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vama3000/)*

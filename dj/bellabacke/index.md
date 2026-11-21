@@ -1,14 +1,13 @@
 # Bella Backe
 
-Bella Backe is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+Bella Backe is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
 
-Bella Backe is a house and afro house artist based in Sweden, with 78 gigs on soundcheck across Bali, Gothenburg, Ibiza and London and 3 more. Often billed alongside Caleb Jackson, Callyy and Mixed Methods. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
+Bella Backe is a house and afro house artist based in Sweden, with 78 gigs on soundcheck across Bali, Gothenburg, Ibiza and London and 3 more. Often billed alongside Caleb Jackson, Callyy and Mixed Methods. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
@@ -27,4 +26,4 @@ Bella Backe is a house and afro house artist based in Sweden, with 78 gigs on so
 
 Caleb Jackson, Callyy, Mixed Methods
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabacke/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabacke/)*

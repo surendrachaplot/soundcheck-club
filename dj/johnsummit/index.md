@@ -1,8 +1,8 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at United Center, Chicago on Tue, 24 Nov 2026.
+John Summit is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at United Center, Chicago on Tue, 24 Nov 2026.
 
-John Summit is a house and tech house artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 31 more. Often billed alongside Layton Giordani, Eli Brown and Loco Dice. Next up: United Center, Chicago on Tue 24 Nov.
+John Summit is a house and tech house artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 31 more. Often billed alongside Layton Giordani, Eli Brown and Loco Dice. Next up: United Center, Chicago on Tue 24 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ John Summit is a house and tech house artist based in United States of America, 
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 | Fri, 12 Feb 2027 | Forest National - Vorst Nationaal | Belgium |
+| Thu, 18 Feb 2027 | UFO im Velodrom | Berlin |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ John Summit is a house and tech house artist based in United States of America, 
 
 Layton Giordani, Eli Brown, Loco Dice
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*

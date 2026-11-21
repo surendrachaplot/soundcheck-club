@@ -1,6 +1,6 @@
 # JO TRAUNER
 
-JO TRAUNER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
+JO TRAUNER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
 
 JO TRAUNER is a techno and trance artist based in Austria, with 14 gigs on soundcheck across Vienna. Often billed alongside Crystal O, Joey and KILIÅN. Next up: Das Werk, Vienna on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ JO TRAUNER is a techno and trance artist based in Austria, with 14 gigs on sound
 
 Crystal O, Joey (2), KILIÅN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotrauner/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotrauner/)*

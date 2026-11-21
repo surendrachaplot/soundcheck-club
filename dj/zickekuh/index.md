@@ -1,8 +1,8 @@
 # zicke kuh
 
-zicke kuh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+zicke kuh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
-zicke kuh is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Popsen, Deltapeak and MIMI404. Next up: ÆDEN, Berlin on Fri 27 Nov.
+zicke kuh is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Popsen, Deltapeak and FRÆNCIS. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ zicke kuh is a techno and trance artist based in Germany, with 17 gigs on soundc
 
 ## Shares bills with
 
-Popsen, Deltapeak, MIMI404
+Popsen, Deltapeak, FRÆNCIS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zickekuh/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zickekuh/)*

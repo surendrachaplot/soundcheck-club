@@ -1,6 +1,6 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 27 Nov 2026.
+DJ Hell is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 27 Nov 2026.
 
 DJ Hell is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Palais Mascotte, Zurich on Fri 27 Nov.
 
@@ -34,4 +34,4 @@ DJ Hell is a techno and house artist based in Germany, with 154 gigs on soundche
 
 Binh, Paty Vapor, Helena Hauff
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

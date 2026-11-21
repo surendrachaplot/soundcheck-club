@@ -1,6 +1,6 @@
 # Gustabby
 
-Gustabby is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Cais da Imperatriz, Rio de Janeiro on Sat, 21 Nov 2026.
+Gustabby is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cais da Imperatriz, Rio de Janeiro on Sat, 21 Nov 2026.
 
 Gustabby is a baile funk and techno artist based in Brazil, with 42 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside KBRAL, Mariah Miranda and Cuca. Next up: Cais da Imperatriz, Rio de Janeiro on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gustabby is a baile funk and techno artist based in Brazil, with 42 gigs on soun
 
 KBRAL, Mariah Miranda, Cuca
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustabby/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustabby/)*

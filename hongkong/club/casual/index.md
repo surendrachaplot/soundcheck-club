@@ -1,6 +1,6 @@
 # Casual
 
-Casual is a music venue in Hong Kong with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "WOLRD SERIES VOL.4: SOHO THISCO PRESENTED BY BRAHMS AND NEENO" on Fri, 20 Nov 2026.
+Casual is a music venue in Hong Kong with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "WOLRD SERIES VOL.4: SOHO THISCO PRESENTED BY BRAHMS AND NEENO" on Fri, 20 Nov 2026.
 
 Casual is a music venue in Hong Kong listed on soundcheck. 15 upcoming gigs, with line-ups including CASAMUSICA, Cristian Sarde, Cristi Cons and DJ Kirby and 2 more. See dates, start times and who's playing. 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island.
 
@@ -23,4 +23,4 @@ Casual is a music venue in Hong Kong listed on soundcheck. 15 upcoming gigs, wit
 
 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island, Hong Kong
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*

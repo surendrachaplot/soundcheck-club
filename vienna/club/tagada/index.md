@@ -1,6 +1,6 @@
 # Tagada
 
-Tagada is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "SOUNDHOUSE with CED, Mize Hetner, Fabian Hofer" on Sat, 21 Nov 2026.
+Tagada is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "SOUNDHOUSE with CED, Mize Hetner, Fabian Hofer" on Sat, 21 Nov 2026.
 
 Tagada is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including CED/Cedsh, dj ayran, Fabian Hofer and Julani and 2 more. See dates, start times and who's playing. Brunnengasse 76, 1160 Wien, Austria.
 
@@ -17,4 +17,4 @@ Tagada is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with li
 
 Brunnengasse 76, 1160 Wien, Austria, Vienna
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*

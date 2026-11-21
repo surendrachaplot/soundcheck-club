@@ -1,6 +1,6 @@
 # Lazarusman
 
-Lazarusman is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - OPEN / SOURCE, Cape Town on Sat, 21 Nov 2026.
+Lazarusman is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - OPEN / SOURCE, Cape Town on Sat, 21 Nov 2026.
 
 Lazarusman is an afro house and afro tech artist based in South Africa, with 11 gigs on soundcheck across Amsterdam, Cape Town and London. Often billed alongside LevyM, !Sooks and &LEZ. Next up: TBA - OPEN / SOURCE, Cape Town on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Lazarusman is an afro house and afro tech artist based in South Africa, with 11 
 
 LevyM, !Sooks, &LEZ
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarusman-za/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarusman-za/)*

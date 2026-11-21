@@ -1,8 +1,8 @@
 # Talisman
 
-Talisman is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Berlin on Sat, 1 Jul 2028.
+Talisman is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Berlin on Sat, 1 Jul 2028.
 
-Talisman is a drum & bass and techno artist, with 16 gigs on soundcheck across Amsterdam, Berlin, Canberra and Leeds and 3 more. Often billed alongside Basstronauten, Daniel Boon and LD50. Next up: TBA, Berlin on Sat 1 Jul.
+Talisman is a drum & bass and techno artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Berlin, Canberra and Leeds and 3 more. Often billed alongside Basstronauten, Daniel Boon and LD50. Next up: TBA, Berlin on Sat 1 Jul.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Talisman is a drum & bass and techno artist, with 16 gigs on soundcheck across A
 
 Basstronauten, Daniel Boon, LD50
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talisman/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talisman/)*

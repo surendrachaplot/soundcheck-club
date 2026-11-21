@@ -1,6 +1,6 @@
 # Arude
 
-Arude is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at SCHRON, Poznan on Sat, 21 Nov 2026.
+Arude is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at SCHRON, Poznan on Sat, 21 Nov 2026.
 
 Arude is a techno and house artist based in Poland, with 16 gigs on soundcheck across Berlin, Bratislava, Copenhagen and Helsinki and 5 more. Often billed alongside Sincz, Biodan and Denes Toth. Next up: SCHRON, Poznan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Arude is a techno and house artist based in Poland, with 16 gigs on soundcheck a
 
 Sincz, Biodan, Denes Toth
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arude/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arude/)*

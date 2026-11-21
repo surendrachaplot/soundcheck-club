@@ -1,6 +1,6 @@
 # The Field
 
-The Field is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The White Hotel, Manchester on Sun, 22 Nov 2026.
+The Field is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The White Hotel, Manchester on Sun, 22 Nov 2026.
 
 The Field is an ambient and electronica artist based in Sweden, with 6 gigs on soundcheck across Berlin, Bristol, Glasgow and London and 2 more. Often billed alongside Ady Toledano, Arnav and Christa Belle. Next up: The White Hotel, Manchester on Sun 22 Nov.
 
@@ -22,4 +22,4 @@ The Field is an ambient and electronica artist based in Sweden, with 6 gigs on s
 
 Ady Toledano, Arnav, Christa Belle
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thefield/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thefield/)*

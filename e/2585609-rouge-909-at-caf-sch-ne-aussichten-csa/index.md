@@ -1,6 +1,6 @@
 # Rouge 909 at Café Schöne Aussichten (CSA)
 
-Rouge 909 at Café Schöne Aussichten (CSA) on Sat 26 Dec, Hamburg. 3 artists: Andre Zimmer, Carluschka and JOJO PENSE. House. See the line-up on soundcheck.
+Rouge 909 at Café Schöne Aussichten (CSA) on Sat 26 Dec, Hamburg. 4 artists: Andre Zimmer, Carluschka, Finnegan and JOJO PENSE. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Rouge 909 at Café Schöne Aussichten (CSA) on Sat 26 Dec, Hamburg. 3 artists: A
 
 - Andre Zimmer
 - Carluschka
+- Finnegan
 - JOJO PENSE
 
 *Source: [soundcheck](https://soundcheck.club/e/2585609-rouge-909-at-caf-sch-ne-aussichten-csa/)*

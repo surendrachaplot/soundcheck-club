@@ -1,6 +1,6 @@
 # Karolanne
 
-Karolanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Minimal Bar, Berlin on Tue, 1 Dec 2026.
+Karolanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Minimal Bar, Berlin on Tue, 1 Dec 2026.
 
 Karolanne is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Levandream, VEGANICECREAM and DJ Hitwave. Next up: Minimal Bar, Berlin on Tue 1 Dec.
 
@@ -24,4 +24,4 @@ Karolanne is a techno and house artist based in Germany, with 8 gigs on soundche
 
 Levandream, VEGANICECREAM, DJ Hitwave
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*

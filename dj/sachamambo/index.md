@@ -1,6 +1,6 @@
 # Sacha Mambo
 
-Sacha Mambo is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Super7, Lyon on Sun, 22 Nov 2026.
+Sacha Mambo is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Super7, Lyon on Sun, 22 Nov 2026.
 
 Sacha Mambo is a techno and house artist based in France, with 51 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 7 more. Often billed alongside Matej Rusmir, Nicola Mazzetti and Stevie Whisper. Next up: Super7, Lyon on Sun 22 Nov.
 
@@ -28,4 +28,4 @@ Sacha Mambo is a techno and house artist based in France, with 51 gigs on soundc
 
 Matej Rusmir, Nicola Mazzetti, Stevie Whisper
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*

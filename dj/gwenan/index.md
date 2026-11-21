@@ -1,18 +1,18 @@
 # Gwenan
 
-Gwenan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hoppetosse, Berlin on Fri, 20 Nov 2026.
+Gwenan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
 
-Gwenan is a house and techno artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Eli Verveine, Joe Delon and Vera. Next up: Hoppetosse, Berlin on Fri 20 Nov.
+Gwenan is a house and techno artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Eli Verveine, Joe Delon and Vera. Next up: Carreglwyd Estate, West Wales on Thu 10 Jun.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Hoppetosse | Berlin |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
 
+- Hoppetosse, Berlin · Fri, 20 Nov 2026
 - Distillery, Leipzig · Sat, 31 Oct 2026
 - feedbk, New York City · Sat, 3 Oct 2026
 - Gaffe, London · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Gwenan is a house and techno artist based in United Kingdom, with 93 gigs on sou
 - Club der Visionaere, Berlin · Sun, 16 Aug 2026
 - Club der Visionaere, Berlin · Fri, 24 Jul 2026
 - MaHalla, Berlin · Fri, 3 Jul 2026
-- Tresor / Globus, Berlin · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Eli Verveine, Joe Delon, Vera
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenan/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenan/)*

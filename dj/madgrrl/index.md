@@ -1,14 +1,13 @@
 # MADGRRL
 
-MADGRRL is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at M7 Club, Barcelona on Fri, 20 Nov 2026.
+MADGRRL is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mansions Potts Point, Sydney on Fri, 11 Dec 2026.
 
-MADGRRL is a techno and hardcore artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Dallas Fort Worth, Dallas/Fort Worth and Denver and 9 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: M7 Club, Barcelona on Fri 20 Nov.
+MADGRRL is a techno and hardcore artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Dallas Fort Worth, Dallas/Fort Worth and Denver and 9 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: Mansions Potts Point, Sydney on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | M7 Club | Barcelona |
 | Fri, 11 Dec 2026 | Mansions Potts Point | Sydney |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
@@ -16,6 +15,7 @@ MADGRRL is a techno and hardcore artist based in United States of America, with 
 
 ## Recently played
 
+- M7 Club, Barcelona · Fri, 20 Nov 2026
 - TBA - Void Studios, Denver · Sat, 10 Oct 2026
 - Warehouse on Watts, Philadelphia · Fri, 2 Oct 2026
 - Spin, San Diego · Sat, 1 Aug 2026
@@ -23,10 +23,9 @@ MADGRRL is a techno and hardcore artist based in United States of America, with 
 - Enso, Vancouver · Sat, 25 Apr 2026
 - The Echoplex, Los Angeles · Sat, 14 Mar 2026
 - The Foundry, San Francisco/Oakland · Sat, 28 Feb 2026
-- EQ San Diego, San Diego · Sat, 28 Jun 2025
 
 ## Shares bills with
 
 I Hate Models, Azyr, Chris Lake
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*

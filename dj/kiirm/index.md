@@ -1,6 +1,6 @@
 # kiirm
 
-kiirm is a Post-Punk and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Rollberg26, Berlin on Fri, 27 Nov 2026.
+kiirm is a Post-Punk and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Rollberg26, Berlin on Fri, 27 Nov 2026.
 
 kiirm is a post-punk and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin and Glasgow. Often billed alongside MAAY, Wanton Witch and Cloudy Ku. Next up: Rollberg26, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ kiirm is a post-punk and tech house artist based in Germany, with 17 gigs on sou
 
 MAAY, Wanton Witch, Cloudy Ku
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiirm/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiirm/)*

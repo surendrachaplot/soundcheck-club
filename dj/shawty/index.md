@@ -1,14 +1,15 @@
 # Shawty
 
-Shawty is a Neo Perreo and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Helios37, Cologne on Sat, 21 Nov 2026.
+Shawty is a Neo Perreo and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Helios37, Cologne on Sat, 21 Nov 2026.
 
-Shawty is a neo perreo and techno artist based in Spain, with 5 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Shilo, TRYPTAJ and AELVA K. Next up: Helios37, Cologne on Sat 21 Nov.
+Shawty is a neo perreo and techno artist based in Spain, with 6 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Shilo, TRYPTAJ and AELVA K. Next up: Helios37, Cologne on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Helios37 | Cologne |
+| Sat, 28 Nov 2026 | Tranzit | Hamburg |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ Shawty is a neo perreo and techno artist based in Spain, with 5 gigs on soundche
 
 Shilo, TRYPTAJ, AELVA K
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shawty/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shawty/)*

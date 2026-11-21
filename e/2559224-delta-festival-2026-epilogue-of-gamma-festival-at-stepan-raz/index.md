@@ -1,6 +1,6 @@
 # Delta Festival 2026 - Epilogue of Gamma Festival at Stepan Razin Factory
 
-Delta Festival 2026 - Epilogue of Gamma Festival at Stepan Razin Factory on Sat 21 Nov, Saint Petersburg. 11 artists: bionoid, Damne, G.xist and Ivan Logos and 7 more. See the line-up on soundcheck.
+Delta Festival 2026 - Epilogue of Gamma Festival at Stepan Razin Factory on Sat 21 Nov, Saint Petersburg. 13 artists: Ậ.Deniậl, bionoid, CPSL and Damne and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Delta Festival 2026 - Epilogue of Gamma Festival at Stepan Razin Factory on Sat 
 
 ## Line-up
 
+- Ậ.Deniậl
 - bionoid
+- CPSL
 - Damne
 - G.xist
 - Ivan Logos

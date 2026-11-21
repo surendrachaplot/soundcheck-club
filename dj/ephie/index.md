@@ -1,6 +1,6 @@
 # EPHIE
 
-EPHIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Gewölbe, Cologne on Fri, 8 Jan 2027.
+EPHIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Gewölbe, Cologne on Fri, 8 Jan 2027.
 
 EPHIE is a techno and house artist based in Germany, with 36 gigs on soundcheck across Cologne, Dortmund / Essen and Hamburg. Often billed alongside randal1na, Elisen and Eszter. Next up: Gewölbe, Cologne on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ EPHIE is a techno and house artist based in Germany, with 36 gigs on soundcheck 
 
 randal1na, Elisen, Eszter
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ephie/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ephie/)*

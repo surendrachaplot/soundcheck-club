@@ -1,14 +1,13 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Caleb Laurenson, Wheats b2b Tommy Philips" on Fri, 20 Nov 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Andrea Oliva, Argia, Samm" on Sat, 21 Nov 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Andrea Oliva and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Andrea Oliva and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Caleb Laurenson, Wheats b2b Tommy Philips | Caleb Laurenson, DJ ORA, IDEMI, Lily C-D, Wheats |
 | Sat, 21 Nov 2026 | Andrea Oliva, Argia, Samm | Andrea Oliva, Argia, Julien Simmons, Samm, Sebastian Konrad |
 | Fri, 27 Nov 2026 | Shelter 10 YEARS | Benjamin Berg, Dan Dusty, Job de Jong, Kara Okay, Kyra Khaldi, Laura Meester, Nathan Alzon, SOLIT, Stef Davidse, Tom Trago, Tommy Chikara, Tonno Disko |
 | Sat, 28 Nov 2026 | M-High (all night) | Alec Dienaar, Eline, M-High, STIPP |
@@ -18,9 +17,10 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 | Sat, 12 Dec 2026 | AJ Christou, James Poole, Sem Jacobs | AJ Christou, Ammé, James Poole, Ken Spieker |
 | Fri, 18 Dec 2026 | Dennis Quin B2B Job de Jong (all night) | Dennis Quin, Job de Jong |
 | Sat, 19 Dec 2026 | Shelter presents: CLUB.RECORD / S-candalo, DJ Spit, ESTRELLA, Vasco, Victor | DJ Spit, ESTRELLA, Kevin Lo, Pelanoir, S-candalo, Vasco, Victor (DE) |
+| Fri, 25 Dec 2026 | Kyra Khaldi, Sam Girling B2B Julian Anthony | Julian Anthony (US), Kyra Khaldi, Sam Girling, Tykov, lizz.e |
 
 ## Address
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,6 +1,6 @@
 # Cubicle Culture at Vespers Club
 
-Cubicle Culture at Vespers Club on Sat 28 Nov, London. 3 artists: Abobo, Hans Raider and Munkwerk. Techno and Electro. See the line-up on soundcheck.
+Cubicle Culture at Vespers Club on Sat 28 Nov, London. 3 artists: Abobo, Hans Raider and Munkwerk. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

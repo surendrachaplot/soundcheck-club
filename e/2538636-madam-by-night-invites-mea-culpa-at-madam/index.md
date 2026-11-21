@@ -1,6 +1,6 @@
 # Madam by Night invites: Mea Culpa at Madam
 
-Madam by Night invites: Mea Culpa on Fri 18 Dec, Amsterdam. 1 artist: Mike Scot. House. See the line-up on soundcheck.
+Madam by Night invites: Mea Culpa on Fri 18 Dec, Amsterdam. 2 artists: Mike Scot and Steve Taylor. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Madam by Night invites: Mea Culpa on Fri 18 Dec, Amsterdam. 1 artist: Mike Scot.
 ## Line-up
 
 - Mike Scot
+- Steve Taylor
 
 *Source: [soundcheck](https://soundcheck.club/e/2538636-madam-by-night-invites-mea-culpa-at-madam/)*

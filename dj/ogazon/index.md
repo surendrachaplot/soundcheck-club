@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Ogazón is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -23,6 +23,7 @@ Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on sound
 
 ## Recently played
 
+- Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Lx Factory, Lisbon · Sat, 14 Nov 2026
 - Plano B, Porto · Fri, 13 Nov 2026
 - Q35 WAREHOUSE, Turin · Sat, 7 Nov 2026
@@ -30,10 +31,9 @@ Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on sound
 - Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - BRET, Amsterdam · Fri, 23 Oct 2026
-- TBA, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

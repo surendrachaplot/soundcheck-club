@@ -1,6 +1,6 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mondo, Madrid on Sat, 21 Nov 2026.
+DJ SWISHERMAN is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mondo, Madrid on Sat, 21 Nov 2026.
 
 DJ SWISHERMAN is a techno and house artist based in Spain, with 138 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Gerardo Niva, Benwal and EliaHaze. Next up: Mondo, Madrid on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ DJ SWISHERMAN is a techno and house artist based in Spain, with 138 gigs on soun
 
 Gerardo Niva, Benwal, EliaHaze
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

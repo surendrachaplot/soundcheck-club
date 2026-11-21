@@ -1,6 +1,6 @@
 # OTO (NY)
 
-OTO (NY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - 38 Meadow St, Brooklyn, New York City on Sat, 21 Nov 2026.
+OTO (NY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 38 Meadow St, Brooklyn, New York City on Sat, 21 Nov 2026.
 
 OTO (NY) is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Barcelona, Chongqing, New York City and South. Often billed alongside G-Style, SPF 50 and A.N.I.. Next up: TBA - 38 Meadow St, Brooklyn, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ OTO (NY) is a techno and house artist based in United States of America, with 9 
 
 G-Style, SPF 50, A.N.I.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oto-ny/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oto-ny/)*

@@ -1,19 +1,19 @@
 # Kaoru Inoue
 
-Kaoru Inoue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Saloon, Tokyo on Fri, 20 Nov 2026.
+Kaoru Inoue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at WOMB, Tokyo on Thu, 3 Dec 2026.
 
-Kaoru Inoue is a house and techno artist based in Japan, with 44 gigs on soundcheck across Chubu, Kyoto, Mexico City and Osaka and 1 more. Often billed alongside CHIDA, SIGNAL (JP) and TAT2K. Next up: Saloon, Tokyo on Fri 20 Nov.
+Kaoru Inoue is a house and techno artist based in Japan, with 44 gigs on soundcheck across Chubu, Kyoto, Mexico City and Osaka and 1 more. Often billed alongside CHIDA, SIGNAL (JP) and TAT2K. Next up: WOMB, Tokyo on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Saloon | Tokyo |
 | Thu, 3 Dec 2026 | WOMB | Tokyo |
 | Sat, 19 Dec 2026 | Numm | Tokyo |
 
 ## Recently played
 
+- Saloon, Tokyo · Fri, 20 Nov 2026
 - Numm, Tokyo · Fri, 6 Nov 2026
 - Numm, Tokyo · Fri, 6 Nov 2026
 - Goko Farm Auto Campground, Chubu · Sat, 3 Oct 2026
@@ -21,10 +21,9 @@ Kaoru Inoue is a house and techno artist based in Japan, with 44 gigs on soundch
 - Numm, Tokyo · Sat, 1 Aug 2026
 - Numm, Tokyo · Sat, 13 Jun 2026
 - Enter Shibuya, Tokyo · Tue, 5 May 2026
-- Joule, Osaka · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 CHIDA, SIGNAL (JP), TAT2K
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoruinoue/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoruinoue/)*

@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Soundscape presents: The Gathering" on Sat, 21 Nov 2026.
+Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Soundscape presents: The Gathering" on Sat, 21 Nov 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including LALIT, Alex Moore, Arkane and Baby Rollén and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -13,7 +13,7 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 | Sat, 28 Nov 2026 | Banana Hill | Banana Hill, Cervo, Contours, King Kit, SNO (UK) |
 | Sat, 28 Nov 2026 | R2M with Il Bosco & Pangölin | Il Bosco, Liam Oliver, Pangölin, Tom2trax |
 | Sun, 29 Nov 2026 | And Beyond // Adhesive Audio present Vindya b2b Nony B, Fig, Residents | Nony B, Vindya, fig (4) |
-| Fri, 4 Dec 2026 | (DnB & Jungle) Jaded Audio presents: ENTA at HoneyStreet Studio | Enta |
+| Fri, 4 Dec 2026 | (DnB & Jungle) Jaded Audio presents: ENTA at HoneyStreet Studio | Enta, IEUAN |
 | Sat, 5 Dec 2026 | Redesign X Shift presents: Fight Night | F3rg13, Flint (UK), Joe Kind |
 | Sat, 12 Dec 2026 | ✦ CLUBCOSMICA ✦ [Baby Rollén / Niamh / KRÄFTY / Epler] | Baby Rollén, Epler, KRÄFTY, Niamh (UK) |
 | Sat, 12 Dec 2026 | HØL x Perc Trax: Production Workshop with Perc, Arkane, INLIMEN | Arkane, INLIMEN, Perc |
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

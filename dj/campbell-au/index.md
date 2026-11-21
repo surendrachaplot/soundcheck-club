@@ -1,6 +1,6 @@
 # Campbell
 
-Campbell is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Section 8, Melbourne on Thu, 26 Nov 2026.
+Campbell is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Section 8, Melbourne on Thu, 26 Nov 2026.
 
 Campbell is a bass and dubstep artist based in Australia, with 17 gigs on soundcheck across Amsterdam, Berlin, Istanbul and London and 3 more. Often billed alongside Emelyne, Hally and MELTA. Next up: Section 8, Melbourne on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Campbell is a bass and dubstep artist based in Australia, with 17 gigs on soundc
 
 Emelyne, Hally, MELTA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*

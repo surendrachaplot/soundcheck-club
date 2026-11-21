@@ -1,6 +1,6 @@
 # Unboxed + Afterhour at Golden Gate
 
-Unboxed + Afterhour at Golden Gate on Fri 27 Nov, Berlin. 9 artists: A. Brehme, Bonjour Ben, Georgia Bird and ISA and 5 more. See the line-up on soundcheck.
+Unboxed + Afterhour at Golden Gate on Fri 27 Nov, Berlin. 9 artists: A. Brehme, Bonjour Ben, Georgia Bird and ISA (ES) and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Unboxed + Afterhour at Golden Gate on Fri 27 Nov, Berlin. 9 artists: A. Brehme, 
 - A. Brehme
 - Bonjour Ben
 - Georgia Bird
-- ISA
+- ISA (ES)
 - KAT (7)
 - Mattie
 - Nicolas Duvoisin

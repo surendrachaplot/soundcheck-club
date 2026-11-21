@@ -1,6 +1,6 @@
 # Danny Byrd
 
-Danny Byrd is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Danny Byrd is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 47 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 20 more. Often billed alongside DJ SS, Bladerunner and Nicky Blackmarket. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 47 g
 
 DJ SS, Bladerunner, Nicky Blackmarket
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*

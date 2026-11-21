@@ -1,13 +1,14 @@
 # Stckman
 
-Stckman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Great Fulford, West-wales on Thu, 22 Jul 2027.
+Stckman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 19 Dec 2026.
 
-Stckman is a house and techno artist based in Portugal, with 49 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 5 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: Great Fulford, West Wales on Thu 22 Jul.
+Stckman is a house and techno artist based in Portugal, with 50 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 5 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: TBA - Lisboa, Lisbon on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | TBA - Lisboa | Lisbon |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
@@ -25,4 +26,4 @@ Stckman is a house and techno artist based in Portugal, with 49 gigs on soundche
 
 Guigas, ozmin, Raphael Carrau
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*

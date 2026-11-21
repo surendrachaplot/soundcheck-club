@@ -1,6 +1,6 @@
 # Slave To The Rave 43 at OST
 
-Slave To The Rave 43 at OST on Sat 10 Apr, Berlin. 2 artists: DJ Hell and LB aka LABAT. See the line-up on soundcheck.
+Slave To The Rave 43 at OST on Sat 10 Apr, Berlin. 3 artists: DJ Hell, LB aka LABAT and Samurai Breaks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Slave To The Rave 43 at OST on Sat 10 Apr, Berlin. 2 artists: DJ Hell and LB aka
 
 - DJ Hell
 - LB aka LABAT
+- Samurai Breaks
 
 *Source: [soundcheck](https://soundcheck.club/e/2573964-slave-to-the-rave-43-at-ost/)*

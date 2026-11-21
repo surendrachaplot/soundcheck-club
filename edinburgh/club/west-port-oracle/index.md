@@ -1,14 +1,13 @@
 # West Port Oracle
 
-West Port Oracle is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "GREN" on Fri, 20 Nov 2026.
+West Port Oracle is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Matthew Orrell" on Sat, 21 Nov 2026.
 
-West Port Oracle is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Helter Skelper. See dates, start times and who's playing. 27 West Port, Edinburgh EH1 2LD.
+West Port Oracle is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 27 West Port, Edinburgh EH1 2LD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | GREN | Helter Skelper |
 | Sat, 21 Nov 2026 | Matthew Orrell |  |
 | Sat, 5 Dec 2026 | COSMICO with Don O'Kane |  |
 
@@ -16,4 +15,4 @@ West Port Oracle is a music venue in Edinburgh listed on soundcheck. 3 upcoming 
 
 27 West Port, Edinburgh EH1 2LD, Edinburgh
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*

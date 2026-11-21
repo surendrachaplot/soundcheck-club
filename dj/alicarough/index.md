@@ -1,6 +1,6 @@
 # ALICA RØUGH
 
-ALICA RØUGH is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at M-BIA, Berlin on Sat, 21 Nov 2026.
+ALICA RØUGH is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at M-BIA, Berlin on Sat, 21 Nov 2026.
 
 ALICA RØUGH is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside MØABEAT, NYXEA and Støffwechsel. Next up: M-BIA, Berlin on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ ALICA RØUGH is a techno and trance artist based in Germany, with 5 gigs on soun
 
 MØABEAT, NYXEA, Støffwechsel
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicarough/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicarough/)*

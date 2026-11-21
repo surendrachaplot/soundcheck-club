@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Nuno dos Santos b2b Remy Unger" on Fri, 20 Nov 2026.
+Het Sieraad is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Avangart Tabldot - Echonomist - Beswerda - Niiomi" on Sat, 21 Nov 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Alexander Koning, Alicia Hahn, Âme and Anthony Rother and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -8,7 +8,6 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Nuno dos Santos b2b Remy Unger | Nuno dos Santos, Remy Unger |
 | Sat, 21 Nov 2026 | Avangart Tabldot - Echonomist - Beswerda - Niiomi | Avangart Tabldot, Beswerda, Echonomist, Niiomi |
 | Fri, 27 Nov 2026 | Konstantin Sibold (4hrs) - Alicia Hahn | Alicia Hahn, Konstantin Sibold |
 | Sat, 28 Nov 2026 | Anthony Rother - David Vunk - Doppelgang - MALOU | Anthony Rother, David Vunk, Doppelgang, Malou (NL) |
@@ -18,9 +17,10 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs
 | Sat, 19 Dec 2026 | Âme DJ (all day long) | Âme |
 | Thu, 31 Dec 2026 | NYE: Olivier Weiter b2b Miss Melera | Miss Melera, Olivier Weiter |
 | Sat, 23 Jan 2027 | Joachim Pastor, Joris Delacroix, Teho present: PACT | Joachim Pastor, Joris Delacroix, Teho |
+| Sat, 30 Jan 2027 | Patrice Bäumel (3HRS) - Jonathan Kaspar (3HRS) - Luna Ludmila | Jonathan Kaspar, Luna Ludmila, Patrice Bäumel |
 
 ## Address
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

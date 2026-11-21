@@ -1,6 +1,6 @@
 # Frank Funke
 
-Frank Funke is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
+Frank Funke is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
 
 Frank Funke is a techno and electronica artist based in Germany, with 12 gigs on soundcheck across Berlin and Lisbon. Often billed alongside 3rd Party Influence, CPTN and The Dark Wasp. Next up: ciao ciao Bar, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Frank Funke is a techno and electronica artist based in Germany, with 12 gigs on
 
 3rd Party Influence, CPTN, The Dark Wasp
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankfunke/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankfunke/)*

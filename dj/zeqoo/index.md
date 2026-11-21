@@ -1,6 +1,6 @@
 # Zeqoo
 
-Zeqoo is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
+Zeqoo is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
 
 Zeqoo is a techno and footwork artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside tom2, --- mr --- and anolis. Next up: Wakuwaku Panic, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zeqoo is a techno and footwork artist based in Japan, with 24 gigs on soundcheck
 
 tom2, --- mr ---, anolis
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeqoo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeqoo/)*

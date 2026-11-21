@@ -1,6 +1,6 @@
 # Ruby Savage
 
-Ruby Savage is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Trinity Centre, Bristol on Sat, 21 Nov 2026.
+Ruby Savage is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Trinity Centre, Bristol on Sat, 21 Nov 2026.
 
 Ruby Savage is a house and disco artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Shy One, Mendel and Dee Diggs. Next up: The Trinity Centre, Bristol on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Ruby Savage is a house and disco artist based in Netherlands, with 105 gigs on s
 
 Shy One, Mendel, Dee Diggs
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*

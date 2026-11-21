@@ -1,6 +1,6 @@
 # Djammin
 
-Djammin is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Gallery, London on Sat, 21 Nov 2026.
+Djammin is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gallery, London on Sat, 21 Nov 2026.
 
 Djammin is a tech house and house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Bristol, Dubai and Ibiza and 7 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: Gallery, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Djammin is a tech house and house artist based in United Kingdom, with 38 gigs o
 
 Meeshy, Ossie, Skepta
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*

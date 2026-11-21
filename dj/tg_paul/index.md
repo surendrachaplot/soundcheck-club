@@ -1,6 +1,6 @@
 # tg_paul
 
-tg_paul is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
+tg_paul is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
 
 tg_paul is a house and garage artist based in Czech Republic, with 32 gigs on soundcheck across Prague and Tbilisi. Often billed alongside C-Motion, Big Lil and Opi (CZ). Next up: Gabriel Loci, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ tg_paul is a house and garage artist based in Czech Republic, with 32 gigs on so
 
 C-Motion, Big Lil, Opi (CZ)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tg_paul/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tg_paul/)*

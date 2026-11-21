@@ -1,6 +1,6 @@
 # Da Hool
 
-Da Hool is a Afrobeat and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 22 May 2027.
+Da Hool is a Afrobeat and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 22 May 2027.
 
 Da Hool is an afrobeat and trance artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Cologne, Dresden and Düsseldorf and 3 more. Often billed alongside A.N.I., Airwave and Alexander Koning. Next up: Stromwerk Dresden, Dresden on Sat 22 May.
 
@@ -25,4 +25,4 @@ Da Hool is an afrobeat and trance artist based in Germany, with 9 gigs on soundc
 
 A.N.I., Airwave, Alexander Koning
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dahool/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dahool/)*

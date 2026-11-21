@@ -1,6 +1,6 @@
 # Marley Swain
 
-Marley Swain is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Marley Swain is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Marley Swain is an electronica and house artist based in Australia, with 22 gigs on soundcheck across Melbourne, New South Wales and Victoria. Often billed alongside Pjenné, Kia (AU) and Emelyne. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -14,6 +14,7 @@ Marley Swain is an electronica and house artist based in Australia, with 22 gigs
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - Northcote Theatre, Melbourne · Sat, 14 Nov 2026
 - TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales · Fri, 6 Nov 2026
 - TBA, Victoria · Fri, 6 Nov 2026
@@ -21,10 +22,9 @@ Marley Swain is an electronica and house artist based in Australia, with 22 gigs
 - Solace, Melbourne · Sat, 16 May 2026
 - TBA, Melbourne · Sat, 2 May 2026
 - Solace, Melbourne · Fri, 27 Feb 2026
-- Altar Space, Melbourne · Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Pjenné, Kia (AU), Emelyne
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*

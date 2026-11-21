@@ -1,6 +1,6 @@
 # Lizzynice
 
-Lizzynice is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 27 Nov 2026.
+Lizzynice is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 27 Nov 2026.
 
 Lizzynice is a club and bass artist, with 15 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Kate Miller, Rakhi and Basscamp. Next up: Angel Music Bar, Melbourne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lizzynice is a club and bass artist, with 15 gigs on soundcheck across Melbourne
 
 Kate Miller, Rakhi, Basscamp
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzynice/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzynice/)*

@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 21 Nov 2026.
+Sasha is a Progressive House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 21 Nov 2026.
 
 Sasha is a progressive house and techno artist based in United Kingdom, with 190 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside John Digweed, Franky Wah and Patrice Bäumel. Next up: Óbuda Bay, Budapest on Sat 21 Nov.
 
@@ -35,4 +35,4 @@ Sasha is a progressive house and techno artist based in United Kingdom, with 190
 
 John Digweed, Franky Wah, Patrice Bäumel
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

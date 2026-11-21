@@ -1,14 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Credit 00 (live), Midirama & Raphael Kosmos" on Fri, 20 Nov 2026.
+Bike Jesus is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ACT OF THE BOUNCE X HYPE INSPIRED - Fembot - Diva - RADYK - DARDANELLA - SJ Ghost" on Sat, 21 Nov 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 2NDRA, Alke, Anton Kubikov and Ark3r and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including 2NDRA, Alke, Anton Kubikov and Ark3r and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Credit 00 (live), Midirama & Raphael Kosmos | Credit 00, Midirama, Raphael Kosmos |
 | Sat, 21 Nov 2026 | ACT OF THE BOUNCE X HYPE INSPIRED - Fembot - Diva - RADYK - DARDANELLA - SJ Ghost | DARDANELLA, Diva, Fembot, RADYK |
 | Sat, 21 Nov 2026 | Spirála | Alke, Miss Univers, VNNUK, ionai |
 | Fri, 27 Nov 2026 | REVO SOUR ROOM  |  |
@@ -23,4 +22,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, wi
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

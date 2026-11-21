@@ -1,8 +1,8 @@
 # Linska
 
-Linska is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Electric Brixton, London on Sat, 21 Nov 2026.
+Linska is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Electric Brixton, London on Sat, 21 Nov 2026.
 
-Linska is a house and techno artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 22 more. Often billed alongside Gorgon City, Adam Beyer and Eli Brown. Next up: Electric Brixton, London on Sat 21 Nov.
+Linska is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 22 more. Often billed alongside Gorgon City, Adam Beyer and Eli Brown. Next up: Electric Brixton, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Linska is a house and techno artist based in United Kingdom, with 53 gigs on sou
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Electric Brixton | London |
 | Fri, 4 Dec 2026 | 99 Scott Ave | New York City |
+| Fri, 26 Feb 2027 | Outernet Live | London |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Linska is a house and techno artist based in United Kingdom, with 53 gigs on sou
 
 Gorgon City, Adam Beyer, Eli Brown
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

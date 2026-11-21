@@ -1,6 +1,6 @@
 # Biliguudei
 
-Biliguudei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 21 Nov 2026.
+Biliguudei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 21 Nov 2026.
 
 Biliguudei is a techno and house artist based in Mongolia, with 45 gigs on soundcheck across Bangkok, Beijing, Chongqing and Hanoi and 9 more. Often billed alongside Weng Weng, DJ Ouch! and Kai.F. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Biliguudei is a techno and house artist based in Mongolia, with 45 gigs on sound
 
 Weng Weng, DJ Ouch!, Kai.F
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*

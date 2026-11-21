@@ -1,6 +1,6 @@
 # Scott (Afterhours.)
 
-Scott (Afterhours.) is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Dukes Corner, Dundee on Sat, 21 Nov 2026.
+Scott (Afterhours.) is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Dukes Corner, Dundee on Sat, 21 Nov 2026.
 
 Scott (Afterhours.) is a minimal techno and minimal artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Dundee, Edinburgh and Lisbon and 6 more. Often billed alongside Sonho, BAYNE and Is Kill. Next up: Dukes Corner, Dundee on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Scott (Afterhours.) is a minimal techno and minimal artist based in United Kingd
 
 Sonho, BAYNE, Is Kill
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottafterhours./)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottafterhours./)*

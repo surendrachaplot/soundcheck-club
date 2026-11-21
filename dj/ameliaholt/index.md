@@ -1,14 +1,13 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Amelia Holt is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Amelia Holt is a house and techno artist based in Mexico, with 224 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: The Buzz, Berlin on Fri 20 Nov.
+Amelia Holt is a house and techno artist based in Mexico, with 224 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Buzz | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | UMI | Brussels |
 | Fri, 27 Nov 2026 | Sameheads | Berlin |
@@ -19,6 +18,7 @@ Amelia Holt is a house and techno artist based in Mexico, with 224 gigs on sound
 
 ## Recently played
 
+- The Buzz, Berlin · Fri, 20 Nov 2026
 - Xanadu, New York City · Sun, 8 Nov 2026
 - Open Air Club, New York City · Sat, 7 Nov 2026
 - Open Air Club, New York City · Sat, 7 Nov 2026
@@ -26,10 +26,9 @@ Amelia Holt is a house and techno artist based in Mexico, with 224 gigs on sound
 - Blipsy Bar, Los Angeles · Fri, 30 Oct 2026
 - TBA - The Bakery, New York City · Fri, 23 Oct 2026
 - Honey's, New York City · Wed, 21 Oct 2026
-- H0L0, New York City · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Second Contact, 98dots, Cole Evelev
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*

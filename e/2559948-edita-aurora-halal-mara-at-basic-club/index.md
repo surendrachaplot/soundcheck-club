@@ -1,6 +1,6 @@
 # EDITA • Aurora Halal + Mara at Basic Club
 
-EDITA • Aurora Halal + Mara at Basic Club on Sat 21 Nov, Naples. 1 artist: Aurora Halal. See the line-up on soundcheck.
+EDITA • Aurora Halal + Mara at Basic Club on Sat 21 Nov, Naples. 2 artists: Aurora Halal and Mara. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ EDITA • Aurora Halal + Mara at Basic Club on Sat 21 Nov, Naples. 1 artist: Aur
 ## Line-up
 
 - Aurora Halal
+- Mara
 
 *Source: [soundcheck](https://soundcheck.club/e/2559948-edita-aurora-halal-mara-at-basic-club/)*

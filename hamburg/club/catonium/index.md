@@ -1,6 +1,6 @@
 # Catonium
 
-Catonium is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Goa Galaxy - Ice Dimension with LS Dirty" on Sat, 9 Jan 2027.
+Catonium is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Goa Galaxy - Ice Dimension with LS Dirty" on Sat, 9 Jan 2027.
 
 Catonium is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including JOKI, Miss Nansix, Psyfonic and Salz and 2 more. See dates, start times and who's playing. Försterweg 163, 22525 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Catonium is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with
 
 Försterweg 163, 22525 Hamburg, Germany, Hamburg
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/catonium/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/catonium/)*

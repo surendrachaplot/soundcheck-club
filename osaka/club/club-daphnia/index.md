@@ -1,15 +1,13 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "KDM" on Fri, 20 Nov 2026.
+Club Daphnia is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Minagoroshi 23rd Anniversary" on Sat, 28 Nov 2026.
 
-Club Daphnia is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, with line-ups including APEPA, Aspara, C!AO and Daisuke Kakimoto and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
+Club Daphnia is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including APEPA, C!AO, Daisuke Kakimoto and DJ DAIJIRO and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | KDM |  |
-| Fri, 20 Nov 2026 | KDM | Aspara, Mitch Elliott |
 | Sat, 28 Nov 2026 | Minagoroshi 23rd Anniversary | C!AO, DJ DAIJIRO, DJ FUMI, Tsuyoshi Suzuki |
 | Sun, 29 Nov 2026 | DUB CLUB |  |
 | Fri, 4 Dec 2026 | Liquid Sky Lovers Osaka | DJ SOUL SLINGER, Limited Toss |
@@ -21,4 +19,4 @@ Club Daphnia is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, wi
 
 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan, Osaka
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*

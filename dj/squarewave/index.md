@@ -1,6 +1,6 @@
 # Squarewave
 
-Squarewave is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at West Harlem, Kyoto on Sat, 21 Nov 2026.
+Squarewave is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at West Harlem, Kyoto on Sat, 21 Nov 2026.
 
 Squarewave is a dubstep and bass artist based in United States of America, with 7 gigs on soundcheck across Bristol, Kyoto, London and Prague and 2 more. Often billed alongside Charla Green, JAZ IMSKY and Joker. Next up: West Harlem, Kyoto on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Squarewave is a dubstep and bass artist based in United States of America, with 
 
 Charla Green, JAZ IMSKY, Joker
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squarewave/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squarewave/)*

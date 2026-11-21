@@ -1,6 +1,6 @@
 # ORMSIDE presents: DJ Sacred / susu laroche / Ossia / Lord Tusk at Ormside Projects
 
-ORMSIDE presents: DJ Sacred / susu laroche / Ossia / Lord Tusk at Ormside Projects on Wed 9 Dec, London. 3 artists: Lord Tusk, Ossia and susu laroche. See the line-up on soundcheck.
+ORMSIDE presents: DJ Sacred / susu laroche / Ossia / Lord Tusk at Ormside Projects on Wed 9 Dec, London. 4 artists: DJ Sacred, Lord Tusk, Ossia and susu laroche. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ORMSIDE presents: DJ Sacred / susu laroche / Ossia / Lord Tusk at Ormside Projec
 
 ## Line-up
 
+- DJ Sacred
 - Lord Tusk
 - Ossia
 - susu laroche

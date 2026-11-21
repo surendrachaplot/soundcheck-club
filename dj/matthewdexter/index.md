@@ -1,6 +1,6 @@
 # Matthew Dexter
 
-Matthew Dexter is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - ATHarea, Athens on Sun, 29 Nov 2026.
+Matthew Dexter is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - ATHarea, Athens on Sun, 29 Nov 2026.
 
 Matthew Dexter is a trance and techno artist based in Switzerland, with 42 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Jane Fitz, Carl H and Accent'. Next up: TBA - ATHarea, Athens on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Matthew Dexter is a trance and techno artist based in Switzerland, with 42 gigs 
 
 Jane Fitz, Carl H, Accent'
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdexter/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdexter/)*

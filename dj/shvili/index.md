@@ -1,13 +1,14 @@
 # Shvili
 
-Shvili is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Signal, New York City on Thu, 31 Dec 2026.
+Shvili is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at H0L0, New York City on Sat, 28 Nov 2026.
 
-Shvili is a house and techno artist based in Georgia, with 132 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 15 more. Often billed alongside Max Sprauer, CAMILLA and Maksim. Next up: Signal, New York City on Thu 31 Dec.
+Shvili is a house and techno artist based in Georgia, with 133 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 15 more. Often billed alongside Max Sprauer, Maksim and CAMILLA. Next up: H0L0, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | H0L0 | New York City |
 | Thu, 31 Dec 2026 | Signal | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Shvili is a house and techno artist based in Georgia, with 132 gigs on soundchec
 
 ## Shares bills with
 
-Max Sprauer, CAMILLA, Maksim
+Max Sprauer, Maksim, CAMILLA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*

@@ -1,6 +1,6 @@
 # Deorro
 
-Deorro is a House and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ductwork Houston, Houston on Fri, 27 Nov 2026.
+Deorro is a House and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ductwork Houston, Houston on Fri, 27 Nov 2026.
 
 Deorro is a house and latin bass artist based in United States of America, with 34 gigs on soundcheck across Arizona, Austin, Boston and Charlotte and 14 more. Often billed alongside Kaskade, Nico Moreno and Seven Lions. Next up: Ductwork Houston, Houston on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Deorro is a house and latin bass artist based in United States of America, with 
 
 Kaskade, Nico Moreno, Seven Lions
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*

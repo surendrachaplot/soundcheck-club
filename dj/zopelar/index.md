@@ -1,14 +1,15 @@
 # Zopelar
 
-Zopelar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
+Zopelar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
 
-Zopelar is a house and techno artist based in Brazil, with 67 gigs on soundcheck across Amsterdam, Brazil, Lisbon and Lyon and 5 more. Often billed alongside Vermelho, From House to Disco and Paulete Lindacelva. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
+Zopelar is a house and techno artist based in Brazil, with 68 gigs on soundcheck across Amsterdam, Brazil, Lisbon and Lyon and 5 more. Often billed alongside Vermelho, From House to Disco and Paulete Lindacelva. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
+| Thu, 4 Nov 2027 | A.Tela | Sao-paulo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Zopelar is a house and techno artist based in Brazil, with 67 gigs on soundcheck
 
 Vermelho, From House to Disco, Paulete Lindacelva
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*

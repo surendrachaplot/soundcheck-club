@@ -1,6 +1,6 @@
 # Black Merlin
 
-Black Merlin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
+Black Merlin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
 
 Black Merlin is a techno and acid artist based in United Kingdom, with 13 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bristol and 7 more. Often billed alongside Aura Nox, GNMR and 30drop. Next up: Razzmatazz, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Black Merlin is a techno and acid artist based in United Kingdom, with 13 gigs o
 
 Aura Nox, GNMR, 30drop
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmerlin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmerlin/)*

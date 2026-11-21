@@ -1,14 +1,15 @@
 # Yogg
 
-Yogg is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
+Yogg is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
 
-Yogg is a techno and industrial artist, with 22 gigs on soundcheck across Antwerp, Athens, Berlin and Brussels and 7 more. Often billed alongside Katra, Aaron J and Altinbas. Next up: Chinastraat, Ghent on Sat 21 Nov.
+Yogg is a techno and industrial artist, with 23 gigs on soundcheck across Antwerp, Athens, Berlin and Brussels and 7 more. Often billed alongside Katra, Aaron J and Altinbas. Next up: Chinastraat, Ghent on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Chinastraat | Ghent |
+| Sat, 9 Jan 2027 | Circolo Amelia | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yogg is a techno and industrial artist, with 22 gigs on soundcheck across Antwer
 
 Katra, Aaron J, Altinbas
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yogg/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yogg/)*

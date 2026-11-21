@@ -1,8 +1,8 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 28 Nov 2026.
+DJ Minx is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 28 Nov 2026.
 
-DJ Minx is a house and techno artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 38 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Warehouse on Watts, Philadelphia on Sat 28 Nov.
+DJ Minx is a house and techno artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 38 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Warehouse on Watts, Philadelphia on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Minx is a house and techno artist based in United States of America, with 206
 | Sun, 6 Dec 2026 | Factory Town | Miami |
 | Sat, 19 Dec 2026 | TV Lounge | Detroit |
 | Thu, 31 Dec 2026 | 99 Scott Ave | New York City |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 | Sat, 10 Apr 2027 | The Timber Yard | Melbourne |
 
 ## Recently played
@@ -30,4 +31,4 @@ DJ Minx is a house and techno artist based in United States of America, with 206
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

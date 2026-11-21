@@ -1,13 +1,14 @@
 # Sy Sez
 
-Sy Sez is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - VARIOUS, Malta on Thu, 16 Sept 2027.
+Sy Sez is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
 
-Sy Sez is a house and deep house artist based in United Kingdom, with 61 gigs on soundcheck across Birmingham, Leeds, Lisbon and Liverpool and 5 more. Often billed alongside Neil Pierce, Jeremy Sylvester and Boon (UK). Next up: TBA - VARIOUS, Malta on Thu 16 Sept.
+Sy Sez is a house and deep house artist based in United Kingdom, with 62 gigs on soundcheck across Birmingham, Leeds, Lisbon and Liverpool and 5 more. Often billed alongside Neil Pierce, Jeremy Sylvester and LEV (UK). Next up: Various Venues, London on Sat 1 May.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 May 2027 | Various Venues | London |
 | Thu, 16 Sept 2027 | TBA - VARIOUS | Malta |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sy Sez is a house and deep house artist based in United Kingdom, with 61 gigs on
 
 ## Shares bills with
 
-Neil Pierce, Jeremy Sylvester, Boon (UK)
+Neil Pierce, Jeremy Sylvester, LEV (UK)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*

@@ -1,6 +1,6 @@
 # Mascott
 
-Mascott is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tangerine, Manchester on Fri, 4 Dec 2026.
+Mascott is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tangerine, Manchester on Fri, 4 Dec 2026.
 
 Mascott is a disco and house artist based in United Kingdom, with 51 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Mai Tai, Kellit and Mark Whites. Next up: Tangerine, Manchester on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Mascott is a disco and house artist based in United Kingdom, with 51 gigs on sou
 
 Mai Tai, Kellit, Mark Whites
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mascott/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mascott/)*

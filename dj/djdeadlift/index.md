@@ -1,6 +1,6 @@
 # DJ Deadlift
 
-DJ Deadlift is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at PRST, Vienna on Sat, 12 Dec 2026.
+DJ Deadlift is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at PRST, Vienna on Sat, 12 Dec 2026.
 
 DJ Deadlift is a techno and house artist based in Austria, with 37 gigs on soundcheck across Vienna. Often billed alongside TEZIBEL, DREYA and Apua. Next up: PRST, Vienna on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ Deadlift is a techno and house artist based in Austria, with 37 gigs on sound
 
 TEZIBEL, DREYA, Apua
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadlift/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadlift/)*

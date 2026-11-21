@@ -1,6 +1,6 @@
 # Ballroom at Palais: S. Ruston at Ballroom at Palais
 
-Ballroom at Palais: S. Ruston on Sat 12 Dec, London. 1 artist: S Ruston. See the line-up on soundcheck.
+Ballroom at Palais: S. Ruston on Sat 12 Dec, London. 1 artist: S Ruston. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

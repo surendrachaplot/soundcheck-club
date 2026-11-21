@@ -1,6 +1,6 @@
 # Anthony Cruz
 
-Anthony Cruz is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Schubas, Chicago on Fri, 27 Nov 2026.
+Anthony Cruz is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Schubas, Chicago on Fri, 27 Nov 2026.
 
 Anthony Cruz is a house and minimal artist based in United States of America, with 31 gigs on soundcheck across Chicago and Detroit. Often billed alongside Double Dipp, Adorio and Buen Viaje. Next up: Schubas, Chicago on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Anthony Cruz is a house and minimal artist based in United States of America, wi
 
 Double Dipp, Adorio, Buen Viaje
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonycruz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonycruz/)*

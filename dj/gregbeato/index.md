@@ -1,8 +1,8 @@
 # Greg Beato
 
-Greg Beato is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
+Greg Beato is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
 
-Greg Beato is a house and hip-hop artist, with 20 gigs on soundcheck across Miami, New York City and Paris. Often billed alongside Terence Tabeau, Brother Dan and Carozilla. Next up: Las Rosas, Miami on Sat 21 Nov.
+Greg Beato is a house and hip-hop artist based in United States of America, with 20 gigs on soundcheck across Miami, New York City and Paris. Often billed alongside Terence Tabeau, Brother Dan and Carozilla. Next up: Las Rosas, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Greg Beato is a house and hip-hop artist, with 20 gigs on soundcheck across Miam
 
 Terence Tabeau, Brother Dan, Carozilla
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbeato/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbeato/)*

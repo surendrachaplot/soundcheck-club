@@ -1,14 +1,14 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Plume" on Fri, 20 Nov 2026.
+KABUL à GoGo is a music venue in Utrecht with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Sit on my Bass" on Fri, 4 Dec 2026.
 
-KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming gigs, with line-ups including DIØN, Evi, Lukrø and MBQT and 2 more. See dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
+KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming gigs, with line-ups including DIØN, Lukrø, Robbers and Sevenum Six and 2 more. See dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Plume | Evi (1), MBQT, NT-FRAGILE |
+| Fri, 4 Dec 2026 | Sit on my Bass |  |
 | Sat, 5 Dec 2026 | FRIKITONA Vol.5 - ANNIVERSARY | Lukrø |
 | Fri, 18 Dec 2026 | Uphoria x Plaatjes & Maatjes |  |
 | Sat, 19 Dec 2026 | Soenda presents: DIØN All day long | DIØN |
@@ -18,4 +18,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming gigs,
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*

@@ -1,14 +1,15 @@
 # Parisha
 
-Parisha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 30 Nov 2026.
+Parisha is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 30 Nov 2026.
 
-Parisha is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Bangkok, Berlin and Leipzig. Often billed alongside The Blackmailer, die Berts and Esther. Next up: Tresor / Globus, Berlin on Mon 30 Nov.
+Parisha is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Bangkok, Berlin and Leipzig. Often billed alongside The Blackmailer, die Berts and Esther. Next up: Tresor / Globus, Berlin on Mon 30 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 30 Nov 2026 | Tresor / Globus | Berlin |
+| Sat, 19 Dec 2026 | Fitzroy | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Parisha is a techno and trance artist based in Germany, with 26 gigs on soundche
 
 The Blackmailer, die Berts, Esther
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parisha/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parisha/)*

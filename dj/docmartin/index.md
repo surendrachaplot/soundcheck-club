@@ -1,6 +1,6 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at crobar, Cleveland on Sat, 21 Nov 2026.
+Doc Martin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at crobar, Cleveland on Sat, 21 Nov 2026.
 
 Doc Martin is a house and techno artist based in United States of America, with 107 gigs on soundcheck across Amsterdam, Austin, Baltimore and California and 23 more. Often billed alongside DJ M3, DJ Sneak and Mark Farina. Next up: crobar, Cleveland on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Doc Martin is a house and techno artist based in United States of America, with 
 
 DJ M3, DJ Sneak, Mark Farina
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

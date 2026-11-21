@@ -1,6 +1,6 @@
 # Mari Sakurai
 
-Mari Sakurai is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
+Mari Sakurai is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
 
 Mari Sakurai is a techno and house artist based in Japan, with 170 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 26 more. Often billed alongside Shinsuke Goto, YANNY and 7e. Next up: VENT, Tokyo on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Mari Sakurai is a techno and house artist based in Japan, with 170 gigs on sound
 
 Shinsuke Goto, YANNY (1), 7e
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marisakurai/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marisakurai/)*

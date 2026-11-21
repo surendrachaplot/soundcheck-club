@@ -1,6 +1,6 @@
 # Alexx in Chainss
 
-Alexx in Chainss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Taco Kat, Orlando on Sat, 21 Nov 2026.
+Alexx in Chainss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Taco Kat, Orlando on Sat, 21 Nov 2026.
 
 Alexx in Chainss is a techno and acid artist based in United States of America, with 32 gigs on soundcheck across Los Angeles, Miami, New York City and Orlando and 2 more. Often billed alongside Sel.6, SATURNSARii and Berrakka. Next up: Taco Kat, Orlando on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Alexx in Chainss is a techno and acid artist based in United States of America, 
 
 Sel.6, SATURNSARii, Berrakka
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxinchainss/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxinchainss/)*

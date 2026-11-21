@@ -1,6 +1,6 @@
 # Sven Weisemann
 
-Sven Weisemann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+Sven Weisemann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 Sven Weisemann is a house and techno artist based in Germany, with 56 gigs on soundcheck across Berlin, Hamburg, Leipzig and New York City. Often billed alongside Luca Olivotto, Nephews and Eva Crystaltips. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Sven Weisemann is a house and techno artist based in Germany, with 56 gigs on so
 
 Luca Olivotto, Nephews, Eva Crystaltips
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenweisemann/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenweisemann/)*

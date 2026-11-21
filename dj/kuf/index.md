@@ -1,6 +1,6 @@
 # KUF
 
-KUF is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+KUF is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
 KUF is a bass and breakbeat artist based in Germany, with 10 gigs on soundcheck across Berlin, Hamburg, London and Madrid and 2 more. Often billed alongside AJA, Alexandre Laeddis and Andrea Belfi. Next up: Brixton Radio, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KUF is a bass and breakbeat artist based in Germany, with 10 gigs on soundcheck 
 
 AJA, Alexandre Laeddis, Andrea Belfi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuf/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuf/)*

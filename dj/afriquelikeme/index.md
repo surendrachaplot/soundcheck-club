@@ -1,6 +1,6 @@
 # Afrique Like Me
 
-Afrique Like Me is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Standard Time, Toronto on Thu, 31 Dec 2026.
+Afrique Like Me is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Standard Time, Toronto on Thu, 31 Dec 2026.
 
 Afrique Like Me is an afro house and afro tech artist based in Canada, with 26 gigs on soundcheck across Toronto. Often billed alongside Sonic Griot, Razaq El Toro and martinses. Next up: Standard Time, Toronto on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Afrique Like Me is an afro house and afro tech artist based in Canada, with 26 g
 
 Sonic Griot, Razaq El Toro, martinses
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afriquelikeme/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afriquelikeme/)*

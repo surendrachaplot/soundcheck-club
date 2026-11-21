@@ -1,6 +1,6 @@
 # NYB (1)
 
-NYB (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 27 Nov 2026.
+NYB (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 27 Nov 2026.
 
 NYB is a techno and house artist based in China, with 77 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 6 more. Often billed alongside Night Swimmer, Darcy and W.X.M. Next up: Pillbox Beijing, Beijing on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ NYB is a techno and house artist based in China, with 77 gigs on soundcheck acro
 
 Night Swimmer, Darcy, W.X.M
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*

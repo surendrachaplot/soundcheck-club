@@ -1,6 +1,6 @@
 # SELEKTRA
 
-SELEKTRA is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
+SELEKTRA is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
 
 SELEKTRA is a techno and garage artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside WADDLE, digitalgirlfriend and diedforthis. Next up: Hart Bar, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ SELEKTRA is a techno and garage artist based in United States of America, with 1
 
 WADDLE, digitalgirlfriend, diedforthis
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selektra/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selektra/)*

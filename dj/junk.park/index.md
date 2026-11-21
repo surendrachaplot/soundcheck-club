@@ -1,8 +1,8 @@
 # JUNK.PARK
 
-JUNK.PARK is a Pop and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Side:K Osaka, Osaka on Fri, 27 Nov 2026.
+JUNK.PARK is a Pop and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Side:K Osaka, Osaka on Fri, 27 Nov 2026.
 
-JUNK.PARK is a pop and house artist based in Japan, with 2 gigs on soundcheck across Kansai and Osaka. Next up: Side:K Osaka, Osaka on Fri 27 Nov.
+JUNK.PARK is a pop and hip-hop artist based in Japan, with 3 gigs on soundcheck across Kansai, Osaka and Tokyo. Often billed alongside DJ CHIKA. Next up: Side:K Osaka, Osaka on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,5 +10,10 @@ JUNK.PARK is a pop and house artist based in Japan, with 2 gigs on soundcheck ac
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Side:K Osaka | Osaka |
 | Sat, 28 Nov 2026 | Nightclub GALA RESORT | Kansai |
+| Sun, 13 Dec 2026 | WOMB | Tokyo |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junk.park/)*
+## Shares bills with
+
+DJ CHIKA
+
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junk.park/)*

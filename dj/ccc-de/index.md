@@ -1,6 +1,6 @@
 # CcC
 
-CcC is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 21 Nov 2026.
+CcC is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 21 Nov 2026.
 
 CcC is an electronic artist, with 9 gigs on soundcheck across Basel, Berlin and Stuttgart. Often billed alongside DJ Spit, Kobosil and Tamara Wirth. Next up: Lehmann Club, Stuttgart on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CcC is an electronic artist, with 9 gigs on soundcheck across Basel, Berlin and 
 
 DJ Spit, Kobosil, Tamara Wirth
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccc-de/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccc-de/)*

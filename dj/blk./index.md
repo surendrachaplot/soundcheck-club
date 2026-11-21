@@ -1,6 +1,6 @@
 # blk.
 
-blk. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Garage, Madrid on Sat, 21 Nov 2026.
+blk. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Garage, Madrid on Sat, 21 Nov 2026.
 
 blk. is a techno and trance artist based in Ireland, with 153 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 46 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: The Garage, Madrid on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ blk. is a techno and trance artist based in Ireland, with 153 gigs on soundcheck
 
 Azyr, Black Traffic, Charlie Sparks
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

@@ -1,6 +1,6 @@
 # fun2bjane
 
-fun2bjane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+fun2bjane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 fun2bjane is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Etari, Capes and mad gavs. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ fun2bjane is a techno and house artist based in United States of America, with 3
 
 Etari, Capes, mad gavs
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*

@@ -1,19 +1,19 @@
 # Vava (1)
 
-Vava (1) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kassa Boat, Budapest on Fri, 20 Nov 2026.
+Vava (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Atno, Budapest on Sat, 28 Nov 2026.
 
-Vava is a techno and house artist based in Hungary, with 13 gigs on soundcheck across Budapest. Often billed alongside Kiuz, Pizza Amore and ZSÁGER BALÁZS. Next up: Kassa Boat, Budapest on Fri 20 Nov.
+Vava is a techno and house artist based in Hungary, with 13 gigs on soundcheck across Budapest. Often billed alongside Kiuz, Pizza Amore and ZSÁGER BALÁZS. Next up: Atno, Budapest on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kassa Boat | Budapest |
 | Sat, 28 Nov 2026 | Atno | Budapest |
 | Sat, 19 Dec 2026 | Atno | Budapest |
 
 ## Recently played
 
+- Kassa Boat, Budapest · Fri, 20 Nov 2026
 - Palazzo Permanens, Budapest · Sat, 7 Nov 2026
 - Textilgyár, Budapest · Fri, 11 Sept 2026
 - Pontoon Budapest, Budapest · Thu, 3 Sept 2026
@@ -21,10 +21,9 @@ Vava is a techno and house artist based in Hungary, with 13 gigs on soundcheck a
 - Turbina, Budapest · Sat, 18 Jul 2026
 - Palazzo Permanens, Budapest · Thu, 23 Apr 2026
 - Atno, Budapest · Sat, 28 Mar 2026
-- Turbina, Budapest · Fri, 26 Dec 2025
 
 ## Shares bills with
 
 Kiuz, Pizza Amore, ZSÁGER BALÁZS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*

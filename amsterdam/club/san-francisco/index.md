@@ -1,14 +1,13 @@
 # San Francisco
 
-San Francisco is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Dreamcastmoe (45” vinyl set)" on Fri, 20 Nov 2026.
+San Francisco is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Wix’s Birthday Bash" on Sat, 21 Nov 2026.
 
-San Francisco is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Cinema Royale, dreamcastmoe and Mr. Wix. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
+San Francisco is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Cinema Royale and Mr. Wix. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Dreamcastmoe (45” vinyl set) | dreamcastmoe |
 | Sat, 21 Nov 2026 | Wix’s Birthday Bash | Mr. Wix |
 | Sun, 22 Nov 2026 | Weather Report |  |
 | Thu, 26 Nov 2026 | Cinema Royale | Cinema Royale |
@@ -19,4 +18,4 @@ San Francisco is a music venue in Amsterdam listed on soundcheck. 6 upcoming gig
 
 Zeedijk 40, Amsterdam, Netherlands 1012 AZ, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*

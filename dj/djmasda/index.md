@@ -1,14 +1,13 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Loft, Manchester on Fri, 20 Nov 2026.
+DJ Masda is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 239 gigs on soundcheck across Amsterdam, Bali, Bangkok and Bangladesh and 64 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: The Loft, Manchester on Fri 20 Nov.
+DJ Masda is a techno and house artist based in Japan, with 239 gigs on soundcheck across Amsterdam, Bali, Bangkok and Bangladesh and 64 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: FOLD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Loft | Manchester |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Mipama ES SU Casa 宮古島 | Okinawa |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
@@ -20,9 +19,11 @@ DJ Masda is a techno and house artist based in Japan, with 239 gigs on soundchec
 | Fri, 4 Jun 2027 | Umoya | Naples |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- The Loft, Manchester · Fri, 20 Nov 2026
 - SWG3, Glasgow · Fri, 13 Nov 2026
 - SWG3, Glasgow · Fri, 13 Nov 2026
 - SWG3, Glasgow · Fri, 13 Nov 2026
@@ -30,10 +31,9 @@ DJ Masda is a techno and house artist based in Japan, with 239 gigs on soundchec
 - Seaseaclub Barcelona, Barcelona · Sat, 7 Nov 2026
 - Studionotte, Milan · Fri, 6 Nov 2026
 - Platforma Wolff, Bucharest · Fri, 30 Oct 2026
-- Skatecafe, Amsterdam · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

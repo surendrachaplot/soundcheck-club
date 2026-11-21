@@ -1,8 +1,8 @@
 # Sansibar
 
-Sansibar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+Sansibar is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
-Sansibar is a techno and house artist, with 203 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Denzel, dj sweet6teen and Katerina. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
+Sansibar is a techno and house artist, with 204 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 56 more. Often billed alongside Denzel, dj sweet6teen and Katerina. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sansibar is a techno and house artist, with 203 gigs on soundcheck across Amster
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 | Fri, 11 Dec 2026 | TBA - Le Hangar à sucre 12 Rue Urbain V, 13002 Marseille  | Marseille |
 | Fri, 18 Dec 2026 | Post Bar | Helsinki |
+| Sat, 19 Dec 2026 | Elysia | Basel |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -28,4 +29,4 @@ Sansibar is a techno and house artist, with 203 gigs on soundcheck across Amster
 
 Denzel, dj sweet6teen, Katerina
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

@@ -1,6 +1,6 @@
 # Kiff Year Two at TBA - Volta
 
-Kiff Year Two at TBA - Volta on Fri 27 Nov, Stockholm. 1 artist: Hypponix. Techno and House. See the line-up on soundcheck.
+Kiff Year Two at TBA - Volta on Fri 27 Nov, Stockholm. 2 artists: Hypponix and Mole M.. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Kiff Year Two at TBA - Volta on Fri 27 Nov, Stockholm. 1 artist: Hypponix. Techn
 ## Line-up
 
 - Hypponix
+- Mole M.
 
 *Source: [soundcheck](https://soundcheck.club/e/2583283-kiff-year-two-at-tba-volta/)*

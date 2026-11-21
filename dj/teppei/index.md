@@ -1,6 +1,6 @@
 # teppei
 
-teppei is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
+teppei is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
 
 teppei is a techno and house artist based in Japan, with 127 gigs on soundcheck across Bangkok, Hong Kong, Seoul and Tokyo. Often billed alongside SIGNAL (JP), ARUTA and AKIRAM EN. Next up: Aoyama Hachi, Tokyo on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ teppei is a techno and house artist based in Japan, with 127 gigs on soundcheck 
 
 SIGNAL (JP), ARUTA, AKIRAM EN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teppei/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teppei/)*

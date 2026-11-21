@@ -1,14 +1,15 @@
 # Torus
 
-Torus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 21 Nov 2026.
+Torus is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 21 Nov 2026.
 
-Torus is a house and techno artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: Reactor Shanghai, Shanghai on Sat 21 Nov.
+Torus is a house and techno artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside SIGNAL (JP), Evian Christ and MOTOKA. Next up: Reactor Shanghai, Shanghai on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Reactor Shanghai | Shanghai |
+| Sat, 12 Dec 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 18 Dec 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ Torus is a house and techno artist based in Netherlands, with 91 gigs on soundch
 
 ## Shares bills with
 
-SIGNAL (JP), Evian Christ, Ayana Pattra
+SIGNAL (JP), Evian Christ, MOTOKA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*

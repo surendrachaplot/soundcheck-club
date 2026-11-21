@@ -1,6 +1,6 @@
 # Mike Agent X Clark
 
-Mike Agent X Clark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Corktown Tavern, Detroit on Wed, 25 Nov 2026.
+Mike Agent X Clark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Corktown Tavern, Detroit on Wed, 25 Nov 2026.
 
 Mike Agent X Clark are a house and techno duo based in United States of America, with 102 gigs on soundcheck across Cleveland, Detroit, Lausanne and Minneapolis/St Paul and 5 more. Often billed alongside Delano Smith, Deeper Waters and Jesse Cory. Next up: Corktown Tavern, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Mike Agent X Clark are a house and techno duo based in United States of America,
 
 Delano Smith, Deeper Waters, Jesse Cory
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeagentxclark/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeagentxclark/)*

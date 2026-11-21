@@ -1,6 +1,6 @@
 # Terra
 
-Terra is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Terra is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Terra is a techno and disco artist based in Japan, with 34 gigs on soundcheck across Berlin, Chengdu, Cologne and Freiburg and 9 more. Often billed alongside Boreas, Infected Mushroom and PRADA2000. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ Terra is a techno and disco artist based in Japan, with 34 gigs on soundcheck ac
 
 ## Recently played
 
+- The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - Socore Factory, Osaka · Tue, 22 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - SHeLTeR, Tokyo · Sat, 22 Aug 2026
@@ -19,10 +20,9 @@ Terra is a techno and disco artist based in Japan, with 34 gigs on soundcheck ac
 - SHeLTeR, Tokyo · Thu, 23 Jul 2026
 - Numm, Tokyo · Sun, 24 May 2026
 - AXIS, Chengdu · Sat, 1 Nov 2025
-- Alte Kaserne, Zurich · Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Boreas, Infected Mushroom, PRADA2000
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*

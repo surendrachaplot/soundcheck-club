@@ -1,6 +1,6 @@
 # The Timber Yard
 
-The Timber Yard is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Cooper Smith - Peking Duk Paradise Tour" on Fri, 27 Nov 2026.
+The Timber Yard is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Cooper Smith - Peking Duk Paradise Tour" on Fri, 27 Nov 2026.
 
 The Timber Yard is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Anthony Pappa, Chicane, DJ Minx and Don't F**k with Disco and 2 more. See dates, start times and who's playing. 351 Plummer Street, Port Melbourne, Victoria 3207.
 
@@ -18,4 +18,4 @@ The Timber Yard is a music venue in Melbourne listed on soundcheck. 5 upcoming g
 
 351 Plummer Street, Port Melbourne, Victoria 3207, Melbourne
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*

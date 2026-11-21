@@ -1,14 +1,13 @@
 # LAMMER
 
-LAMMER is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Colour Factory, London on Fri, 20 Nov 2026.
+LAMMER is a Trance and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Werkspoorkathedraal, Netherlands on Sat, 21 Nov 2026.
 
-LAMMER is a trance and techno artist based in Netherlands, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside Lisa Korver, Bella Claxton and SAIDAH. Next up: Colour Factory, London on Fri 20 Nov.
+LAMMER is a trance and techno artist based in Netherlands, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside Lisa Korver, Bella Claxton and SAIDAH. Next up: Werkspoorkathedraal, Netherlands on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Colour Factory | London |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 | Sat, 28 Nov 2026 | Prozak 2.0 | Krakow |
 | Sat, 19 Dec 2026 | Zeefgebouw | Netherlands |
@@ -21,6 +20,7 @@ LAMMER is a trance and techno artist based in Netherlands, with 132 gigs on soun
 
 ## Recently played
 
+- Colour Factory, London · Fri, 20 Nov 2026
 - Maassilo, Rotterdam · Sat, 14 Nov 2026
 - The Ground at Club Space, Miami · Fri, 6 Nov 2026
 - RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
@@ -28,10 +28,9 @@ LAMMER is a trance and techno artist based in Netherlands, with 132 gigs on soun
 - NDSM Scheepsbouwloods, Amsterdam · Thu, 22 Oct 2026
 - Club Vaag, Antwerp · Sat, 17 Oct 2026
 - Complex Maastricht, Netherlands · Fri, 16 Oct 2026
-- fi, Cologne · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Lisa Korver, Bella Claxton, SAIDAH
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*

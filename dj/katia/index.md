@@ -1,14 +1,15 @@
 # KATIA
 
-KATIA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at High Club Room, Madrid on Sat, 21 Nov 2026.
+KATIA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at High Club Room, Madrid on Sat, 21 Nov 2026.
 
-KATIA is a techno and house artist based in Spain, with 93 gigs on soundcheck across Athens, Berlin, Brussels and Ghent and 13 more. Often billed alongside Katia Curie, Katia Val and Nizar Sarakbi. Next up: High Club Room, Madrid on Sat 21 Nov.
+KATIA is a techno and house artist based in Spain, with 94 gigs on soundcheck across Athens, Berlin, Brussels and Ghent and 13 more. Often billed alongside Katia Curie, Katia Val and Nizar Sarakbi. Next up: High Club Room, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | High Club Room | Madrid |
+| Fri, 18 Dec 2026 | TBA | Madrid |
 | Thu, 31 Dec 2026 | Spook Club | Valencia |
 
 ## Recently played
@@ -26,4 +27,4 @@ KATIA is a techno and house artist based in Spain, with 93 gigs on soundcheck ac
 
 Katia Curie, Katia Val, Nizar Sarakbi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katia/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katia/)*

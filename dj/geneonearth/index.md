@@ -1,14 +1,13 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 20 Nov 2026.
+Gene On Earth is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Carpa & Picnic of El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
 
-Gene On Earth is a house and tech house artist based in United States of America, with 228 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 64 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Lux Fragil, Lisbon on Fri 20 Nov.
+Gene On Earth is a house and tech house artist based in United States of America, with 228 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 64 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Carpa & Picnic of El Poble Espanyol, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Lux Fragil | Lisbon |
 | Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Sub Club | Glasgow |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
@@ -21,6 +20,7 @@ Gene On Earth is a house and tech house artist based in United States of America
 
 ## Recently played
 
+- Lux Fragil, Lisbon · Fri, 20 Nov 2026
 - The Loft, Manchester · Fri, 13 Nov 2026
 - Eiger Studios, Leeds · Thu, 12 Nov 2026
 - Sekta Selekta, Krakow · Fri, 6 Nov 2026
@@ -28,10 +28,9 @@ Gene On Earth is a house and tech house artist based in United States of America
 - Balagan Roma, Rome · Fri, 30 Oct 2026
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - Garage Noord, Amsterdam · Sun, 25 Oct 2026
-- Pllek, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

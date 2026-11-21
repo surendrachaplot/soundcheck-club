@@ -1,6 +1,6 @@
 # Burmuda London Boat party at Golden Jubilee & Yacht Club
 
-Burmuda London Boat party at Golden Jubilee & Yacht Club on Sat 10 Apr, London. 2 artists: Kev Blundy and PARTS. See the line-up on soundcheck.
+Burmuda London Boat party at Golden Jubilee & Yacht Club on Sat 10 Apr, London. 4 artists: Gaz Rowland, Kev Blundy, Oliver Smith and PARTS. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Burmuda London Boat party at Golden Jubilee & Yacht Club on Sat 10 Apr, London. 
 
 ## Line-up
 
+- Gaz Rowland
 - Kev Blundy
+- Oliver Smith
 - PARTS
 
 *Source: [soundcheck](https://soundcheck.club/e/2544540-burmuda-london-boat-party-at-golden-jubilee-yacht-club/)*

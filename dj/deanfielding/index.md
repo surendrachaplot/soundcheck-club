@@ -1,6 +1,6 @@
 # Dean Fielding
 
-Dean Fielding is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Brilliant Corners, London on Sun, 24 Jan 2027.
+Dean Fielding is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brilliant Corners, London on Sun, 24 Jan 2027.
 
 Dean Fielding is a deep house and disco artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Harry Rook, Jamz Supernova and Joe Hell. Next up: Brilliant Corners, London on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Dean Fielding is a deep house and disco artist based in United Kingdom, with 16 
 
 Harry Rook, Jamz Supernova, Joe Hell
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanfielding/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanfielding/)*

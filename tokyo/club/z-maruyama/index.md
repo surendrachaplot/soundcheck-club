@@ -1,14 +1,13 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "MYSTIC PULSE -GET FUNKY, STAY GROOVY- (HOUSE)" on Fri, 20 Nov 2026.
+Z Maruyama is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Otakutokyo Presents Progressive Session (PROGRESSIVE HOUSE / TECHNO)" on Sat, 21 Nov 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including AHREUM, ASSIGN, Chihoshi and Chika Luna and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AHREUM, ASSIGN, Chihoshi and Chika Luna and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | MYSTIC PULSE -GET FUNKY, STAY GROOVY- (HOUSE) | DSKE, RUKE, dj yumi-cco |
 | Sat, 21 Nov 2026 | Otakutokyo Presents Progressive Session (PROGRESSIVE HOUSE / TECHNO) | Conures (DJ Tokunaga), Drunken Kong, SHIRO, Tuyetmizuno |
 | Sun, 22 Nov 2026 | JAZZTRONIK 'SAMURAI' DJ TOUR IN TOKYO WITH The Library (HOUSE) | The Library |
 | Fri, 27 Nov 2026 | HOUSE SESSION WITH RED RUBY (HOUSE / TECH HOUSE) | Chika Luna, GooPer, Onsawa&tkc |
@@ -23,4 +22,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

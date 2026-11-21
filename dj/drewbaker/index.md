@@ -1,6 +1,6 @@
 # Drew Baker
 
-Drew Baker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Exley, New York City on Sat, 21 Nov 2026.
+Drew Baker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Exley, New York City on Sat, 21 Nov 2026.
 
 Drew Baker is a house and disco artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Joey with the Mustache, Luis Fernando and DJ Dawson. Next up: The Exley, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Drew Baker is a house and disco artist based in United States of America, with 9
 
 Joey with the Mustache, Luis Fernando, DJ Dawson
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewbaker/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewbaker/)*

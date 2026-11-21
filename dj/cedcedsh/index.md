@@ -1,6 +1,6 @@
 # CED/Cedsh
 
-CED/Cedsh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tagada, Vienna on Sat, 21 Nov 2026.
+CED/Cedsh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tagada, Vienna on Sat, 21 Nov 2026.
 
 CED/Cedsh is a techno and trance artist, with 23 gigs on soundcheck across Vienna. Often billed alongside Farad, KRETA and Altberg. Next up: Tagada, Vienna on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ CED/Cedsh is a techno and trance artist, with 23 gigs on soundcheck across Vienn
 
 Farad, KRETA, Altberg
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cedcedsh/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cedcedsh/)*

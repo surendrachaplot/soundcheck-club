@@ -1,6 +1,6 @@
 # Paramour
 
-Paramour is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Let me C U w/ DJ Chad95" on Sat, 21 Nov 2026.
+Paramour is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Let me C U w/ DJ Chad95" on Sat, 21 Nov 2026.
 
 Paramour is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Bkr, AKOMPANIAMENT, Aquiles Navarro and Casper and 2 more. See dates, start times and who's playing. 104 Rue d'Arlon, 1000 Buxelles.
 
@@ -20,4 +20,4 @@ Paramour is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, wit
 
 104 Rue d'Arlon, 1000 Buxelles, Brussels
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*

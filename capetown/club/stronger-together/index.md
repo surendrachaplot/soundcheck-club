@@ -1,6 +1,6 @@
 # Stronger Together
 
-Stronger Together is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Radical Movement" on Sat, 28 Nov 2026.
+Stronger Together is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Radical Movement" on Sat, 28 Nov 2026.
 
 Stronger Together is a music venue in Cape Town listed on soundcheck. 1 upcoming gig, with line-ups including Soulchoke. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Stronger Together is a music venue in Cape Town listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Radical Movement | Soulchoke |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/stronger-together/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/stronger-together/)*

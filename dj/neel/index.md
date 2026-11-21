@@ -1,6 +1,6 @@
 # Neel
 
-Neel is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
+Neel is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Neel is a techno and electronica artist based in Italy, with 119 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Anthony Linell, .VRIL and Donato Dozzy. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
 
@@ -16,6 +16,7 @@ Neel is a techno and electronica artist based in Italy, with 119 gigs on soundch
 
 ## Recently played
 
+- TBA - San Francisco, San Francisco/Oakland · Fri, 20 Nov 2026
 - Gray Area, San Francisco/Oakland · Tue, 17 Nov 2026
 - Gray Area, San Francisco/Oakland · Thu, 12 Nov 2026
 - Tangent Gallery, Detroit · Sat, 31 Oct 2026
@@ -23,10 +24,9 @@ Neel is a techno and electronica artist based in Italy, with 119 gigs on soundch
 - public records, New York City · Fri, 30 Oct 2026
 - CLUB RAUM, Amsterdam · Thu, 22 Oct 2026
 - Bunker, Turin · Fri, 9 Oct 2026
-- Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Anthony Linell, .VRIL, Donato Dozzy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*

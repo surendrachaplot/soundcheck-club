@@ -1,6 +1,6 @@
 # Supernova x Happy Camper at Akasha Las Dalias Club - Ibiza
 
-Supernova x Happy Camper at Akasha Las Dalias Club - Ibiza on Sat 5 Dec, Ibiza. 1 artist: unders. See the line-up on soundcheck.
+Supernova x Happy Camper at Akasha Las Dalias Club - Ibiza on Sat 5 Dec, Ibiza. 2 artists: ricardo kondo and unders. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Supernova x Happy Camper at Akasha Las Dalias Club - Ibiza on Sat 5 Dec, Ibiza. 
 
 ## Line-up
 
+- ricardo kondo
 - unders
 
 *Source: [soundcheck](https://soundcheck.club/e/2555530-supernova-x-happy-camper-at-akasha-las-dalias-club-ibiza/)*

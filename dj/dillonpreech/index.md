@@ -1,6 +1,6 @@
 # Dillon Preech
 
-Dillon Preech is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Belle Isle , Detroit on Sat, 21 Nov 2026.
+Dillon Preech is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Belle Isle , Detroit on Sat, 21 Nov 2026.
 
 Dillon Preech is a techno and minimal techno artist, with 9 gigs on soundcheck across Detroit. Often billed alongside Bileebob, Al Ester and Alvin Hill. Next up: TBA - Belle Isle , Detroit on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dillon Preech is a techno and minimal techno artist, with 9 gigs on soundcheck a
 
 Bileebob, Al Ester, Alvin Hill
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonpreech/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonpreech/)*

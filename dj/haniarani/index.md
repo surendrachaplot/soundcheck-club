@@ -1,6 +1,6 @@
 # Hania Rani
 
-Hania Rani is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
+Hania Rani is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
 Hania Rani is an experimental and electronica artist based in Poland, with 17 gigs on soundcheck across Adelaide, Austin, Berlin and Bristol and 9 more. Often billed alongside 2K88, Arooj Aftab and Hashtag Ensemble. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
@@ -14,6 +14,7 @@ Hania Rani is an experimental and electronica artist based in Poland, with 17 gi
 
 ## Recently played
 
+- MoN Takanawa, Tokyo · Fri, 20 Nov 2026
 - Hindley Street Music Hall, Adelaide · Sat, 11 Jul 2026
 - różne lokalizacje / various venues, Warsaw · Mon, 8 Jun 2026
 - Teatr Wielki - Opera Narodowa, Warsaw · Mon, 8 Jun 2026
@@ -21,10 +22,9 @@ Hania Rani is an experimental and electronica artist based in Poland, with 17 gi
 - TivoliVredenburg, Utrecht · Thu, 6 Nov 2025
 - TBA - Various Venues , Osaka · Fri, 5 Sept 2025
 - Neue Nationalgalerie, Berlin · Thu, 28 Aug 2025
-- Neue Nationalgalerie, Berlin · Wed, 27 Aug 2025
 
 ## Shares bills with
 
 2K88, Arooj Aftab, Hashtag Ensemble
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haniarani/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haniarani/)*

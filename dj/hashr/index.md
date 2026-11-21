@@ -1,6 +1,6 @@
 # HashR
 
-HashR is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Vespers Club, London on Fri, 5 Feb 2027.
+HashR is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Vespers Club, London on Fri, 5 Feb 2027.
 
 HashR is a bass and tech house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Hoodwink, Apostle and Chef Dhruv. Next up: Vespers Club, London on Fri 5 Feb.
 
@@ -23,4 +23,4 @@ HashR is a bass and tech house artist based in United Kingdom, with 7 gigs on so
 
 Hoodwink, Apostle, Chef Dhruv
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hashr/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hashr/)*

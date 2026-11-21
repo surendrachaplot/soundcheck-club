@@ -1,14 +1,13 @@
 # Aquarius Zagreb
 
-Aquarius Zagreb is a music venue in Zagreb with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "U/OFFU pres. Rhyw (Voam,Fever AM Berlin DE)" on Fri, 20 Nov 2026.
+Aquarius Zagreb is a music venue in Zagreb with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "brzeguze with pitaya soundsystem" on Fri, 27 Nov 2026.
 
-Aquarius Zagreb is a music venue in Zagreb listed on soundcheck. 2 upcoming gigs, with line-ups including Grumen, Pitaya Soundsystem and Rhyw. See dates, start times and who's playing.
+Aquarius Zagreb is a music venue in Zagreb listed on soundcheck. 1 upcoming gig, with line-ups including Pitaya Soundsystem. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | U/OFFU pres. Rhyw (Voam,Fever AM Berlin DE) | Grumen, Rhyw |
 | Fri, 27 Nov 2026 | brzeguze with pitaya soundsystem | Pitaya Soundsystem |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/aquarius-zagreb/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/aquarius-zagreb/)*

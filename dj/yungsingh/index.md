@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Yung Singh is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Yung Singh is a garage and house artist based in United Kingdom, with 194 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 67 more. Often billed alongside Bakey, Overmono and salute. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Yung Singh is a garage and house artist based in United Kingdom, with 194 gigs o
 
 Bakey, Overmono, salute
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

@@ -1,6 +1,6 @@
 # KVGE
 
-KVGE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 4 Dec 2026.
+KVGE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 4 Dec 2026.
 
 KVGE is a techno and trance artist based in Canada, with 2 gigs on soundcheck across Toronto. Often billed alongside Crusy, Jerome Robins and KILL 9 1. Next up: The Comfort Zone, Toronto on Fri 4 Dec.
 
@@ -15,4 +15,4 @@ KVGE is a techno and trance artist based in Canada, with 2 gigs on soundcheck ac
 
 Crusy, Jerome Robins, KILL 9 1
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvge/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvge/)*

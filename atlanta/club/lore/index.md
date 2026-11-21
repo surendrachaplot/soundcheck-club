@@ -1,6 +1,6 @@
 # Lore
 
-Lore is a music venue in Atlanta with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Novachrome_08" on Thu, 26 Nov 2026.
+Lore is a music venue in Atlanta with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Novachrome_08" on Thu, 26 Nov 2026.
 
 Lore is a music venue in Atlanta listed on soundcheck. 3 upcoming gigs, with line-ups including Blue Max. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Lore is a music venue in Atlanta listed on soundcheck. 3 upcoming gigs, with lin
 | Fri, 27 Nov 2026 | Club De Vampiros Presents... Black Friday III | Blue Max |
 | Sat, 28 Nov 2026 | Party 4 U - Main Pop Girls (Cloud 9) |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lore/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lore/)*

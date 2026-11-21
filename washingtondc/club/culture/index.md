@@ -1,14 +1,14 @@
 # Culture
 
-Culture is a music venue in Washington DC with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Nü Androids presents: slugg" on Fri, 20 Nov 2026.
+Culture is a music venue in Washington DC with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Beirut Nights In Presents: Beirut To DC" on Sat, 21 Nov 2026.
 
-Culture is a music venue in Washington DC listed on soundcheck. 8 upcoming gigs, with line-ups including Amtrac, NOVAH, Skream and slugg. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
+Culture is a music venue in Washington DC listed on soundcheck. 8 upcoming gigs, with line-ups including Amtrac, NOVAH and Skream. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Nü Androids presents: slugg | slugg |
+| Sat, 21 Nov 2026 | Beirut Nights In Presents: Beirut To DC |  |
 | Wed, 25 Nov 2026 | Nü Androids presents: NOVAH | NOVAH |
 | Wed, 25 Nov 2026 | Nü Androids presents: NOVAH |  |
 | Sat, 28 Nov 2026 | Nü Androids presents: Bryce Alakai |  |
@@ -21,4 +21,4 @@ Culture is a music venue in Washington DC listed on soundcheck. 8 upcoming gigs,
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

@@ -1,6 +1,6 @@
 # Prizefight
 
-Prizefight is a Techno and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Prizefight is a Techno and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Prizefight is a techno and garage artist based in Australia, with 79 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Christchurch and 5 more. Often billed alongside TRUSTEE, IsGwan and WAXX OFF. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -14,6 +14,7 @@ Prizefight is a techno and garage artist based in Australia, with 79 gigs on sou
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - Revolver Upstairs, Melbourne · Sun, 1 Nov 2026
 - Port Beach Brewery, Perth · Sat, 31 Oct 2026
 - Carriageworks, Sydney · Sat, 10 Oct 2026
@@ -21,10 +22,9 @@ Prizefight is a techno and garage artist based in Australia, with 79 gigs on sou
 - Chinese Laundry, Sydney · Fri, 4 Sept 2026
 - The Grand Poobah, Hobart · Sat, 11 Jul 2026
 - Max Watt's, Melbourne · Sat, 4 Jul 2026
-- Haven, Byron Bay · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 TRUSTEE, IsGwan, WAXX OFF
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*

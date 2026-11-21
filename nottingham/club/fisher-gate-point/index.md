@@ -1,14 +1,13 @@
 # Fisher Gate Point
 
-Fisher Gate Point is a music venue in Nottingham with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "5 Years of Jangala: Nottingham Issue / Grand Finale" on Fri, 20 Nov 2026.
+Fisher Gate Point is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "NottsGotSoul X DubFat presents Wookie" on Thu, 10 Dec 2026.
 
-Fisher Gate Point is a music venue in Nottingham listed on soundcheck. 3 upcoming gigs, with line-ups including dj come, M75 and Wookie. See dates, start times and who's playing. Fisher Gate Point, 1a Fisher Gate, Nottingham NG1 1GD.
+Fisher Gate Point is a music venue in Nottingham listed on soundcheck. 2 upcoming gigs, with line-ups including dj come, M75 and Wookie. See dates, start times and who's playing. Fisher Gate Point, 1a Fisher Gate, Nottingham NG1 1GD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 5 Years of Jangala: Nottingham Issue / Grand Finale |  |
 | Thu, 10 Dec 2026 | NottsGotSoul X DubFat presents Wookie | Wookie |
 | Fri, 11 Dec 2026 | Tied In Knots: ELECTRO, BREAKS & UK FUNKY | M75, dj come |
 
@@ -16,4 +15,4 @@ Fisher Gate Point is a music venue in Nottingham listed on soundcheck. 3 upcomin
 
 Fisher Gate Point, 1a Fisher Gate, Nottingham NG1 1GD, Nottingham
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/fisher-gate-point/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/fisher-gate-point/)*

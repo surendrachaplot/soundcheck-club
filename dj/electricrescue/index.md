@@ -1,6 +1,6 @@
 # Electric Rescue
 
-Electric Rescue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Rex Club, Paris on Fri, 11 Dec 2026.
+Electric Rescue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Rex Club, Paris on Fri, 11 Dec 2026.
 
 Electric Rescue is a techno and house artist based in France, with 63 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Geneva and 9 more. Often billed alongside Alys LF, KUSS and Moteka. Next up: Rex Club, Paris on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Electric Rescue is a techno and house artist based in France, with 63 gigs on so
 
 Alys LF, KUSS, Moteka
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electricrescue/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electricrescue/)*

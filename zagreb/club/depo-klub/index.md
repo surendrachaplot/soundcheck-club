@@ -1,6 +1,6 @@
 # Depo Klub
 
-Depo Klub is a music venue in Zagreb with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Elektron" on Fri, 20 Nov 2026.
+Depo Klub is a music venue in Zagreb with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Girls Night with Lau.tastic" on Sat, 21 Nov 2026.
 
 Depo Klub is a music venue in Zagreb listed on soundcheck. 8 upcoming gigs, with line-ups including Bena, Lau.tastic, Sergej Snooze and Tarkno and 2 more. See dates, start times and who's playing. Radnička cesta 27 (bivša tvornica Katran), 10000 Zagreb, Croatia.
 
@@ -8,9 +8,9 @@ Depo Klub is a music venue in Zagreb listed on soundcheck. 8 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Elektron | Teo Harouda |
 | Sat, 21 Nov 2026 | Girls Night with Lau.tastic | Lau.tastic, Teychee |
 | Fri, 27 Nov 2026 | Lenta 01 | Bena, Sergej Snooze |
+| Fri, 27 Nov 2026 | Lenta | Bena, Sergej Snooze |
 | Fri, 4 Dec 2026 | RAVESTATION DEPO CLUB |  |
 | Sat, 5 Dec 2026 | Tarkno at DEPOklub | Tarkno, Teo Harouda, Teychee |
 | Sat, 19 Dec 2026 | X-MASS SCHRANZ RAVE w/GOLPE |  |
@@ -21,4 +21,4 @@ Depo Klub is a music venue in Zagreb listed on soundcheck. 8 upcoming gigs, with
 
 Radnička cesta 27 (bivša tvornica Katran), 10000 Zagreb, Croatia, Zagreb
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/depo-klub/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/depo-klub/)*

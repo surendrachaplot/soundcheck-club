@@ -1,6 +1,6 @@
 # shiritaki
 
-shiritaki is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 10 Dec 2026.
+shiritaki is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 10 Dec 2026.
 
 shiritaki is a house and electro artist, with 33 gigs on soundcheck across Barcelona. Often billed alongside DJ Gamba, PAZ WAZ HERE and .cosm. Next up: 303 Audiophile Bar, Barcelona on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ shiritaki is a house and electro artist, with 33 gigs on soundcheck across Barce
 
 DJ Gamba, PAZ WAZ HERE, .cosm
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiritaki/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiritaki/)*

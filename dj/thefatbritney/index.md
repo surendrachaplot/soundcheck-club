@@ -1,6 +1,6 @@
 # The Fat Britney
 
-The Fat Britney is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at New Century Locker, Manchester on Sat, 28 Nov 2026.
+The Fat Britney is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at New Century Locker, Manchester on Sat, 28 Nov 2026.
 
 The Fat Britney is a house and techno artist based in United Kingdom, with 20 gigs on soundcheck across Manchester. Often billed alongside Bollibubbles, Meme Gold and Aiden Francis. Next up: New Century Locker, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ The Fat Britney is a house and techno artist based in United Kingdom, with 20 gi
 
 Bollibubbles, Meme Gold, Aiden Francis
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thefatbritney/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thefatbritney/)*

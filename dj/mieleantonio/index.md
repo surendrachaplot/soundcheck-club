@@ -1,6 +1,6 @@
 # Miele Antonio
 
-Miele Antonio is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sun, 29 Nov 2026.
+Miele Antonio is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sun, 29 Nov 2026.
 
 Miele Antonio is a house and disco artist based in Italy, with 7 gigs on soundcheck across Naples. Often billed alongside Obbi, Giuseppe Fava and Code27. Next up: Lento Hi Fi Bar, Naples on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ Miele Antonio is a house and disco artist based in Italy, with 7 gigs on soundch
 
 Obbi, Giuseppe Fava, Code27
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mieleantonio/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mieleantonio/)*

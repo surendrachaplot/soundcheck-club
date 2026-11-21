@@ -1,14 +1,13 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Tracing Sound" on Fri, 20 Nov 2026.
+Spook Club is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Spook conection + Special K" on Sat, 21 Nov 2026.
 
-Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, with line-ups including Alarico, alvar., Andres Campo and Ariezzz and 2 more. See dates, start times and who's playing. Pinedo Valencia.
+Spook Club is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, with line-ups including Alarico, alvar., Andres Campo and Ariezzz and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Tracing Sound |  |
 | Sat, 21 Nov 2026 | Spook conection + Special K |  |
 | Sat, 21 Nov 2026 | Special-K with Shoal, Marie Pravda (tickets 10€ in bio) | Marie Pravda, Moy Santana, Pizzicatto, Shoal |
 | Sat, 21 Nov 2026 | Segona Edat col·lectiu (Ricardo Ruiz + Alberto Haller + Vernetta) |  |
@@ -18,9 +17,10 @@ Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, 
 | Sat, 12 Dec 2026 | Richie Hawtin + invitados & Cartulis with Unai Trotti + Vass | Fase Bipolar, Richie Hawtin, SCHRZØ, Unai Trotti, Vass |
 | Sat, 19 Dec 2026 | Andres Campo (extended set) + invitados | Andres Campo |
 | Fri, 25 Dec 2026 | BUGANVILLA · 5º ANIVERSARIO: Christmas Special - Sunbox/Spook Club | Charly S, Clemente (ES), Fes Bondat, Gurrex, alvar. |
+| Fri, 25 Dec 2026 | Wateke x Spook club |  |
 
 ## Address
 
 Pinedo Valencia, Valencia
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

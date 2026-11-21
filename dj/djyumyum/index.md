@@ -1,6 +1,6 @@
 # DJ YumYum
 
-DJ YumYum is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+DJ YumYum is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 DJ YumYum is a techno and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Ankit, Bunny Tsukino and DERICE. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -13,6 +13,7 @@ DJ YumYum is a techno and tech house artist based in Germany, with 11 gigs on so
 
 ## Recently played
 
+- Sensorium, Berlin · Fri, 20 Nov 2026
 - Wilder als Erwartet, Berlin · Sat, 10 Oct 2026
 - Sensorium, Berlin · Fri, 18 Sept 2026
 - Golden Flamingo, Berlin · Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ DJ YumYum is a techno and tech house artist based in Germany, with 11 gigs on so
 - It's a Bar, Berlin · Sat, 18 Jul 2026
 - Institut fuer Zukunft (IfZ), Leipzig · Fri, 14 Jun 2024
 - Neue Welle, Leipzig · Fri, 8 Dec 2023
-- Institut fuer Zukunft (IfZ), Leipzig · Sun, 9 Apr 2023
 
 ## Shares bills with
 
 Ankit, Bunny Tsukino, DERICE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumyum/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumyum/)*

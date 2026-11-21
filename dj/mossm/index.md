@@ -1,6 +1,6 @@
 # Moss M
 
-Moss M is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
+Moss M is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
 
 Moss M is a trance and techno artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne. Often billed alongside Nera (NL), Brent Jacko and AHIL. Next up: Garage Noord, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Moss M is a trance and techno artist based in Netherlands, with 11 gigs on sound
 
 Nera (NL), Brent Jacko, AHIL
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mossm/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mossm/)*

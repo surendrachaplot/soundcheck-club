@@ -1,8 +1,8 @@
 # Small Crab
 
-Small Crab is a House and Ambient artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Palais, London on Fri, 27 Nov 2026.
+Small Crab is a House and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Palais, London on Fri, 27 Nov 2026.
 
-Small Crab is a house and ambient artist, with 6 gigs on soundcheck across Berlin, Central, London and Seoul. Often billed alongside Yasmine (UK), 69DB and A Guy Called Gerald. Next up: Palais, London on Fri 27 Nov.
+Small Crab is a house and ambient artist based in Ireland, with 6 gigs on soundcheck across Berlin, Central, London and Seoul. Often billed alongside Yasmine (UK), 69DB and A Guy Called Gerald. Next up: Palais, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Small Crab is a house and ambient artist, with 6 gigs on soundcheck across Berli
 
 Yasmine (UK), 69DB, A Guy Called Gerald
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab/)*

@@ -1,6 +1,6 @@
 # Arasion
 
-Arasion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 4 Dec 2026.
+Arasion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 4 Dec 2026.
 
 Arasion is a techno and house artist based in Czech Republic, with 3 gigs on soundcheck across Prague. Often billed alongside Hugorieri, Kloos and Luke Nova. Next up: Bukanyr Boat, Prague on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Arasion is a techno and house artist based in Czech Republic, with 3 gigs on sou
 
 Hugorieri, Kloos, Luke Nova
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arasion/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arasion/)*

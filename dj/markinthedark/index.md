@@ -1,6 +1,6 @@
 # markintheDark
 
-markintheDark is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 22 Nov 2026.
+markintheDark is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 22 Nov 2026.
 
 markintheDark is a house and deep house artist based in United States of America, with 34 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside KayLaSoul, MAXIMILIANO (US) and Keenan Orr. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ markintheDark is a house and deep house artist based in United States of America
 
 KayLaSoul, MAXIMILIANO (US), Keenan Orr
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markinthedark/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markinthedark/)*

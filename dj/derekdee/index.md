@@ -1,6 +1,6 @@
 # DJ D.Dee
 
-DJ D.Dee is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Vancouver on Sat, 19 Dec 2026.
+DJ D.Dee is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Vancouver on Sat, 19 Dec 2026.
 
 DJ D.Dee is a balearic and house artist based in Canada, with 126 gigs on soundcheck across Austin, Berlin, Bucharest and Calgary and 13 more. Often billed alongside Dane, DJ Express and Patrick Holland. Next up: TBA, Vancouver on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ D.Dee is a balearic and house artist based in Canada, with 126 gigs on soundc
 
 Dane, DJ Express, Patrick Holland
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*

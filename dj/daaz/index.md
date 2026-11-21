@@ -1,6 +1,6 @@
 # daaz
 
-daaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+daaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
 daaz is a house and techno artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside SURJAL, EWERED and Sara P. Next up: Brixton Radio, London on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ daaz is a house and techno artist based in United Kingdom, with 5 gigs on soundc
 
 SURJAL, EWERED, Sara P
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daaz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daaz/)*

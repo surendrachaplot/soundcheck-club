@@ -1,6 +1,6 @@
 # Steve Tsama
 
-Steve Tsama is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at El Chapo Cocktail Bar, Athens on Sun, 22 Nov 2026.
+Steve Tsama is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at El Chapo Cocktail Bar, Athens on Sun, 22 Nov 2026.
 
 Steve Tsama is a club and tech house artist based in Greece, with 12 gigs on soundcheck across Athens. Often billed alongside Kobo, Mikele and Tolis Q. Next up: El Chapo Cocktail Bar, Athens on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Steve Tsama is a club and tech house artist based in Greece, with 12 gigs on sou
 
 Kobo, Mikele, Tolis Q
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetsama/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetsama/)*

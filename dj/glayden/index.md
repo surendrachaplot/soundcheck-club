@@ -1,6 +1,6 @@
 # Glayden
 
-Glayden is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Vespers Club, London on Sat, 21 Nov 2026.
+Glayden is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Vespers Club, London on Sat, 21 Nov 2026.
 
 Glayden is a trance and club artist based in Finland, with 43 gigs on soundcheck across Berlin, Cologne, Helsinki and London and 6 more. Often billed alongside Niko Demus, MFM (FI) and DJ JVS. Next up: Vespers Club, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Glayden is a trance and club artist based in Finland, with 43 gigs on soundcheck
 
 Niko Demus, MFM (FI), DJ JVS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*

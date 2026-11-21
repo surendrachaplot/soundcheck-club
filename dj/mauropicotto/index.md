@@ -1,6 +1,6 @@
 # Mauro Picotto
 
-Mauro Picotto is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Mauro Picotto is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Mauro Picotto is a trance and techno artist based in Italy, with 39 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bogotá and 18 more. Often billed alongside Billy Gillies, Eddie Halliwell and Judge Jules. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -13,6 +13,7 @@ Mauro Picotto is a trance and techno artist based in Italy, with 39 gigs on soun
 
 ## Recently played
 
+- The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - Index, Dublin · Fri, 6 Nov 2026
 - Salon Amador, Medellin · Fri, 30 Oct 2026
 - 02 Victoria Warehouse, Manchester · Sat, 26 Sept 2026
@@ -20,10 +21,9 @@ Mauro Picotto is a trance and techno artist based in Italy, with 39 gigs on soun
 - Exhibition Park, Newcastle · Sat, 11 Jul 2026
 - Amnesia Ibiza, Ibiza · Wed, 1 Jul 2026
 - Amnesia Ibiza, Ibiza · Wed, 17 Jun 2026
-- UNO MALTA, Malta · Thu, 7 May 2026
 
 ## Shares bills with
 
 Billy Gillies, Eddie Halliwell, Judge Jules
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*

@@ -1,6 +1,6 @@
 # Dash Berlin
 
-Dash Berlin is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Dash Berlin is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Dash Berlin is a trance and progressive house artist based in Netherlands, with 9 gigs on soundcheck across Brisbane, Kuala Lumpur, London and Los Angeles and 4 more. Often billed alongside Aly & Fila, Billy Gillies and David Rust. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ Dash Berlin is a trance and progressive house artist based in Netherlands, with 
 
 ## Recently played
 
+- The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - Outernet Live, London · Sat, 14 Nov 2026
 - The XOX Arena Arch Galeries, Kuala Lumpur · Fri, 30 Oct 2026
 - Exhibition Park, Newcastle · Sat, 11 Jul 2026
@@ -19,10 +20,9 @@ Dash Berlin is a trance and progressive house artist based in Netherlands, with 
 - Eatons Hill Hotel and Function Centre, Brisbane · Wed, 1 Jan 2025
 - Zerotokyo, Tokyo · Sat, 28 Sept 2024
 - TBA - Gamuda Cove, 2377, 42700, Selangor, Kuala Lumpur · Fri, 21 Jun 2024
-- Riva, Melbourne · Sat, 20 Jan 2024
 
 ## Shares bills with
 
 Aly & Fila, Billy Gillies, David Rust
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashberlin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashberlin/)*

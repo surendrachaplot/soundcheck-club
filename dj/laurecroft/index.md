@@ -1,6 +1,6 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Jasna 1, Warsaw on Sat, 21 Nov 2026.
+Laure Croft is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Jasna 1, Warsaw on Sat, 21 Nov 2026.
 
 Laure Croft is a techno and house artist based in Netherlands, with 231 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 69 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Jasna 1, Warsaw on Sat 21 Nov.
 
@@ -33,4 +33,4 @@ Laure Croft is a techno and house artist based in Netherlands, with 231 gigs on 
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

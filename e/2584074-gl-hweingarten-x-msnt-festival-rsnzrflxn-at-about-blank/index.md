@@ -1,6 +1,6 @@
 # ://glühweingarten x msnt festival / rsnzrflxn at ://about blank
 
-://glühweingarten x msnt festival / rsnzrflxn at ://about blank on Sun 29 Nov, Berlin. 2 artists: Kyçyc and Nivrambo. House and Bass. See the line-up on soundcheck.
+://glühweingarten x msnt festival / rsnzrflxn at ://about blank on Sun 29 Nov, Berlin. 5 artists: DINKS, EMAILLE, Katzenohr and Kyçyc and 1 more. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@
 
 ## Line-up
 
+- DINKS
+- EMAILLE
+- Katzenohr
 - Kyçyc
 - Nivrambo
 

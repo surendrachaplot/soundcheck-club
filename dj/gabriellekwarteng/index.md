@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Gabrielle Kwarteng is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Gabrielle Kwarteng is a house and techno artist based in United States of America, with 281 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 77 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -9,7 +9,6 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
-| Fri, 20 Nov 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 21 Nov 2026 | Abercrombie Hotel | Sydney |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
@@ -20,20 +19,21 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 | Sun, 27 Dec 2026 | Lofi | Amsterdam |
 | Sat, 30 Jan 2027 | Kapsule | Liverpool |
+| Sat, 27 Feb 2027 | fabric | London |
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
+- Sub Club Melbourne, Melbourne · Fri, 20 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 14 Nov 2026
 - Nowadays, New York City · Sat, 7 Nov 2026
 - TILLATEC, Amsterdam · Mon, 26 Oct 2026
 - Radio Radio, Amsterdam · Sat, 24 Oct 2026
 - WestWeelde, Amsterdam · Fri, 23 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Thu, 22 Oct 2026
-- fabric, London · Sat, 17 Oct 2026
-- The Love Inn, Bristol · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

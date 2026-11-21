@@ -1,14 +1,13 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Ampere presents DJ Marky & GQ" on Fri, 20 Nov 2026.
+Ampere is a music venue in Antwerp with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Ampere presents: Sven Väth (3h set)" on Sat, 28 Nov 2026.
 
-Ampere is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with line-ups including Dave Clarke, David Vunk, DJ Marky and Hiraeth and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
+Ampere is a music venue in Antwerp listed on soundcheck. 4 upcoming gigs, with line-ups including Dave Clarke, David Vunk, Mathias Kaden and Petre Inspirescu and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Ampere presents DJ Marky & GQ | DJ Marky, Hiraeth, MC GQ |
 | Sat, 28 Nov 2026 | Ampere presents: Sven Väth (3h set) | Mathias Kaden, Sven Vath, Zephyr (2) |
 | Fri, 11 Dec 2026 | DEEP MEDi 20 Years |  |
 | Sat, 12 Dec 2026 | Ampere presents: [a:rpia:r] Raresh, Petre Inspirescu, Rhadoo | Petre Inspirescu, Raresh, Rhadoo |
@@ -18,4 +17,4 @@ Ampere is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with l
 
 Simonsstraat 21, 2018 Antwerp, BE, Antwerp
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*

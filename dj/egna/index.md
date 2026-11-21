@@ -1,6 +1,6 @@
 # Egna
 
-Egna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Glazart, Paris on Sat, 21 Nov 2026.
+Egna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Glazart, Paris on Sat, 21 Nov 2026.
 
 Egna is a techno and house artist based in France, with 74 gigs on soundcheck across Antwerp, Bordeaux, Brussels and Cologne and 5 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: Glazart, Paris on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Egna is a techno and house artist based in France, with 74 gigs on soundcheck ac
 
 Erna (FR), Corbeille Dallas, Sina XX
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*

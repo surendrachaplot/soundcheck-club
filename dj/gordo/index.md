@@ -1,6 +1,6 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Gordo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
 Gordo is a house and tech house artist based in Guatemala, with 122 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Wade and HoneyLuv. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
@@ -15,6 +15,7 @@ Gordo is a house and tech house artist based in Guatemala, with 122 gigs on soun
 
 ## Recently played
 
+- Khoroum Valley, Egypt · Fri, 20 Nov 2026
 - E11EVEN MIAMI, Miami · Fri, 30 Oct 2026
 - Pure Nightclub, San Francisco/Oakland · Sat, 17 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 2 Oct 2026
@@ -22,10 +23,9 @@ Gordo is a house and tech house artist based in Guatemala, with 122 gigs on soun
 - Pacha Ibiza, Ibiza · Tue, 22 Sept 2026
 - Pacha Ibiza, Ibiza · Tue, 15 Sept 2026
 - Fitz Club, Madrid · Sun, 13 Sept 2026
-- KOKO, London · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Marco Carola, Wade, HoneyLuv
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*

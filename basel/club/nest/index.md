@@ -1,14 +1,13 @@
 # Nest
 
-Nest is a music venue in Basel with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Nachtschicht Vol. 2" on Fri, 20 Nov 2026.
+Nest is a music venue in Basel with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "RHYBORN" on Sat, 21 Nov 2026.
 
-Nest is a music venue in Basel listed on soundcheck. 6 upcoming gigs, with line-ups including DJ Glentan, Dominik André, Hypatia and IULIATSKI and 2 more. See dates, start times and who's playing. Nachtigallenwäldeli 9, 4051 Basel.
+Nest is a music venue in Basel listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Glentan, Dominik André, Hypatia and IULIATSKI and 2 more. See dates, start times and who's playing. Nachtigallenwäldeli 9, 4051 Basel.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Nachtschicht Vol. 2 | Sophti |
 | Sat, 21 Nov 2026 | RHYBORN | DJ Glentan, IULIATSKI, VXBZ, winneju |
 | Sat, 28 Nov 2026 | Subject To Restrictions Discs pres. Mara Zuli • Tesdorpf • Nive • Dominik André | Dominik André, Mara Zuli, Nive, Tesdorpf |
 | Fri, 4 Dec 2026 | On Fire Night |  |
@@ -19,4 +18,4 @@ Nest is a music venue in Basel listed on soundcheck. 6 upcoming gigs, with line-
 
 Nachtigallenwäldeli 9, 4051 Basel, Basel
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*

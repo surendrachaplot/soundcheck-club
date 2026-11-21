@@ -1,6 +1,6 @@
 # Kate Miller
 
-Kate Miller is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Solace, Melbourne on Fri, 18 Dec 2026.
+Kate Miller is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Solace, Melbourne on Fri, 18 Dec 2026.
 
 Kate Miller is a bass and techno artist based in Australia, with 78 gigs on soundcheck across Brisbane, Ho Chi Minh City, Melbourne and Osaka and 5 more. Often billed alongside Willis Anne, Emelyne and Moopie. Next up: Solace, Melbourne on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Kate Miller is a bass and techno artist based in Australia, with 78 gigs on soun
 
 Willis Anne, Emelyne, Moopie
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katemiller/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katemiller/)*

@@ -1,6 +1,6 @@
 # Muten
 
-Muten is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Garage 442, Barcelona on Fri, 18 Dec 2026.
+Muten is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Garage 442, Barcelona on Fri, 18 Dec 2026.
 
 Muten is a techno and drum & bass artist based in Uruguay, with 12 gigs on soundcheck across Barcelona, Brussels, Medellin and Naples and 1 more. Often billed alongside Dso, Andrey Pushkarev and Camea. Next up: Garage 442, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Muten is a techno and drum & bass artist based in Uruguay, with 12 gigs on sound
 
 Dso, Andrey Pushkarev, Camea
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muten/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muten/)*

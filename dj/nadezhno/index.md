@@ -1,8 +1,8 @@
 # Nadezh No
 
-Nadezh No is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Crust Basement, Athens on Sat, 21 Nov 2026.
+Nadezh No is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Crust Basement, Athens on Sat, 21 Nov 2026.
 
-Nadezh No is a techno and electro artist, with 146 gigs on soundcheck across Athens, Berlin, Krakow and Warsaw. Often billed alongside Badalian, Meke and nuarrrrr. Next up: Crust Basement, Athens on Sat 21 Nov.
+Nadezh No is a techno and electro artist, with 147 gigs on soundcheck across Athens, Berlin, Krakow and Warsaw. Often billed alongside Badalian, Meke and nuarrrrr. Next up: Crust Basement, Athens on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nadezh No is a techno and electro artist, with 146 gigs on soundcheck across Ath
 | Sat, 21 Nov 2026 | Crust Basement | Athens |
 | Sun, 22 Nov 2026 | Skull Bar | Athens |
 | Fri, 27 Nov 2026 | Playhaus | Krakow |
+| Fri, 4 Dec 2026 | Sekta Selekta | Krakow |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Nadezh No is a techno and electro artist, with 146 gigs on soundcheck across Ath
 
 Badalian, Meke, nuarrrrr
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezhno/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezhno/)*

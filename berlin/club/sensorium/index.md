@@ -1,14 +1,14 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "TOGETHER FOR GAZA /// MUSIC FOR HUMANITY " on Fri, 20 Nov 2026.
+Sensorium is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "TOGETHER FOR GAZA /// MUSIC FOR HUMANITY " on Fri, 20 Nov 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including ALICA RØUGH, Alina Viktoria, Andeel and André Skuda and 2 more. See dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including ALICA RØUGH, Alina Viktoria, Andeel and André Skuda and 2 more. See dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TOGETHER FOR GAZA /// MUSIC FOR HUMANITY  | Andeel, Ankit, BROMAN-C, Blachord, DJ Hitwave, DJ YumYum, Finjas, Jvhnq, KÜRÜF, SULTXN, VEGANICECREAM, d4ia, fiber.optyik, k.meower, peak2soon, pink-panther |
+| Fri, 20 Nov 2026 | TOGETHER FOR GAZA /// MUSIC FOR HUMANITY  | Andeel, Ankit, BROMAN-C, Blachord, DJ Hitwave, DJ YumYum, Finjas, Jvhnq, KÜRÜF, Lawra, SULTXN, VEGANICECREAM, d4ia, fiber.optyik, k.meower, peak2soon, pink-panther |
 | Sat, 21 Nov 2026 | SENSO NACHT | Ankit, Anna Hoeber, BROMAN-C, ChéRebel, David George, Dudulina, EVYA, J4NNICH, JORDVN PRINCE, Julka (2), KIVII, LA BITCHENCIO, Lars Löffler, Marcel Bortoni, Rick Mode, Røsenwasser, VEGANICECREAM, babypangi, d4ia, jaynetics, rynbj (2), sapskt, technical issues |
 | Wed, 25 Nov 2026 | TECHNO MITTWOCH | Basshirte, ChéRebel, MIYĀN, NYCTO, Sin Sonik, menicx, rynbj (2) |
 | Fri, 27 Nov 2026 | Senso Nacht | Camilla Tarantino, Loco (IT), NORA (BR), Stallo, Viktor Kampf, Zokiren |
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, wit
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

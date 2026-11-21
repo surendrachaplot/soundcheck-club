@@ -1,6 +1,6 @@
 # Lukas Meunier
 
-Lukas Meunier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - SONDER, Nürnberg on Sat, 26 Dec 2026.
+Lukas Meunier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - SONDER, Nürnberg on Sat, 26 Dec 2026.
 
 Lukas Meunier is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Bangkok, Bergen, Berlin and Bucharest and 23 more. Often billed alongside Trancemaster Krause, CAIVA and Michael Klein. Next up: TBA - SONDER, Nürnberg on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Lukas Meunier is a techno and trance artist based in Germany, with 72 gigs on so
 
 Trancemaster Krause, CAIVA, Michael Klein
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*

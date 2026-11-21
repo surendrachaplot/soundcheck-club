@@ -1,6 +1,6 @@
 # NEUX
 
-NEUX is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at BASEMENT, New York City on Sat, 21 Nov 2026.
+NEUX is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at BASEMENT, New York City on Sat, 21 Nov 2026.
 
 NEUX is a techno and tech house artist based in Georgia, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 27 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: BASEMENT, New York City on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ NEUX is a techno and tech house artist based in Georgia, with 94 gigs on soundch
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

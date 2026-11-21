@@ -1,6 +1,6 @@
 # Sammy Legs
 
-Sammy Legs is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Bushwick Location , New York City on Sat, 5 Dec 2026.
+Sammy Legs is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Bushwick Location , New York City on Sat, 5 Dec 2026.
 
 Sammy Legs is a techno and tech house artist based in United States of America, with 15 gigs on soundcheck across Chicago, Melbourne, New York City and San Diego and 4 more. Often billed alongside Chillosophy, Kaipora and Torie. Next up: TBA - Secret Bushwick Location , New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sammy Legs is a techno and tech house artist based in United States of America, 
 
 Chillosophy, Kaipora, Torie
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammylegs/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammylegs/)*

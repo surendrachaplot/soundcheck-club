@@ -1,6 +1,6 @@
 # Tony Romera [Dusk to Dark] at Zebbie's Garden
 
-Tony Romera [Dusk to Dark] at Zebbie's Garden on Sat 12 Dec, Washington Dc. 1 artist: Tony Romera. See the line-up on soundcheck.
+Tony Romera [Dusk to Dark] at Zebbie's Garden on Sat 12 Dec, Washington Dc. 1 artist: Tony Romera. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

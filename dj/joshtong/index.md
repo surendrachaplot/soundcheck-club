@@ -1,14 +1,15 @@
 # Josh Tong
 
-Josh Tong is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Chicago Eagle, Chicago on Sat, 21 Nov 2026.
+Josh Tong is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Chicago Eagle, Chicago on Sat, 21 Nov 2026.
 
-Josh Tong is a techno and house artist based in United States of America, with 48 gigs on soundcheck across Chicago, Detroit and Minneapolis/St Paul. Often billed alongside Shanti, barbuhh and Brenda. Next up: Chicago Eagle, Chicago on Sat 21 Nov.
+Josh Tong is a techno and acid artist based in United States of America, with 49 gigs on soundcheck across Chicago, Detroit and Minneapolis/St Paul. Often billed alongside Shanti, barbuhh and Brenda. Next up: Chicago Eagle, Chicago on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Chicago Eagle | Chicago |
+| Fri, 4 Dec 2026 | Podlasie Club | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Josh Tong is a techno and house artist based in United States of America, with 4
 
 Shanti, barbuhh, Brenda
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*

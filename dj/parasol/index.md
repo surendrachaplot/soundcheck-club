@@ -1,6 +1,6 @@
 # Parasol
 
-Parasol is a Trance and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
+Parasol is a Trance and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
 
 Parasol is a trance and experimental artist based in Germany, with 13 gigs on soundcheck across Berlin, Osaka, Paris and Prague and 3 more. Often billed alongside Kastet, Max Ken and 2G. Next up: Studio dB, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Parasol is a trance and experimental artist based in Germany, with 13 gigs on so
 
 Kastet, Max Ken, 2G (1)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parasol/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parasol/)*

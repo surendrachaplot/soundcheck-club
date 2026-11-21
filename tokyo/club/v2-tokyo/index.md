@@ -1,6 +1,6 @@
 # V2 Tokyo
 
-V2 Tokyo is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "PULSE at SECOND" on Sat, 21 Nov 2026.
+V2 Tokyo is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "PULSE at SECOND" on Sat, 21 Nov 2026.
 
 V2 Tokyo is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including DVBBS and Rinaly. See dates, start times and who's playing. Tower of Vabel, 1F/B1F, 7 Chome-13-7 Roppongi, Minato City, Tokyo 106-0032.
 
@@ -20,4 +20,4 @@ V2 Tokyo is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with l
 
 Tower of Vabel, 1F/B1F, 7 Chome-13-7 Roppongi, Minato City, Tokyo 106-0032, Tokyo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/v2-tokyo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/v2-tokyo/)*

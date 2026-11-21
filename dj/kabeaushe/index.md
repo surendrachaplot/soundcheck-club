@@ -1,6 +1,6 @@
 # Kabeaushé
 
-Kabeaushé is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Kabeaushé is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 Kabeaushé is an experimental and pop artist based in Kenya, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside HAAi, TAAHLIAH and Adrian Sherwood. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -26,4 +26,4 @@ Kabeaushé is an experimental and pop artist based in Kenya, with 26 gigs on sou
 
 HAAi, TAAHLIAH, Adrian Sherwood
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*

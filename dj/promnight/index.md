@@ -1,6 +1,6 @@
 # Prom Night
 
-Prom Night is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Azimut Club, Turin on Sat, 23 Jan 2027.
+Prom Night is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Azimut Club, Turin on Sat, 23 Jan 2027.
 
 Prom Night is a house and disco artist based in Denmark, with 85 gigs on soundcheck across Bangkok, Belfast, Berlin and Cologne and 4 more. Often billed alongside Kawun, Harrison Heat and Kasper Bjorke. Next up: Azimut Club, Turin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Prom Night is a house and disco artist based in Denmark, with 85 gigs on soundch
 
 Kawun, Harrison Heat, Kasper Bjorke
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/promnight/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/promnight/)*

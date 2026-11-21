@@ -1,8 +1,8 @@
 # Martinelli
 
-Martinelli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Sao Paulo on Fri, 27 Nov 2026.
+Martinelli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Sao Paulo on Fri, 27 Nov 2026.
 
-Martinelli is a techno and house artist, with 14 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Ananda (BR), Sheefit and Kontronatura. Next up: TBA, Sao Paulo on Fri 27 Nov.
+Martinelli is a techno and house artist based in Brazil, with 14 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Ananda (BR), Sheefit and Kontronatura. Next up: TBA, Sao Paulo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Martinelli is a techno and house artist, with 14 gigs on soundcheck across Rio d
 
 Ananda (BR), Sheefit, Kontronatura
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinelli/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinelli/)*

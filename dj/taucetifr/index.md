@@ -1,8 +1,8 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Minimal Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
+Tauceti (FR) is a Techno and Minimal Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-Tauceti (FR) is a techno and minimal techno artist based in France, with 95 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
+Tauceti (FR) is a techno and minimal techno artist based in France, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 95 gigs
 | Sun, 29 Nov 2026 | TBA - Brooklyn Warehouse | New York City |
 | Fri, 4 Dec 2026 | TBA - East Vancouver | Vancouver |
 | Fri, 11 Dec 2026 | Studio Club Malaga | Malaga |
+| Sat, 12 Dec 2026 | Circolo Amelia | Milan |
 | Sat, 19 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Thu, 31 Dec 2026 | Acadana | Hong Kong |
 | Sat, 9 Jan 2027 | SMUT Athens | Athens |
@@ -22,6 +23,7 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 95 gigs
 
 ## Recently played
 
+- TBA - San Francisco, San Francisco/Oakland · Fri, 20 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 7 Nov 2026
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - CLUB RAUM, Amsterdam · Thu, 22 Oct 2026
@@ -29,10 +31,9 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 95 gigs
 - Unité.22, Marseille · Fri, 16 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Super7, Lyon · Sun, 27 Sept 2026
-- AMT, Berlin · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Tommy Four Seven, Psyk, Decoder
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

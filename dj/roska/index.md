@@ -1,6 +1,6 @@
 # Roska
 
-Roska is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at E1, London on Sat, 23 Jan 2027.
+Roska is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at E1, London on Sat, 23 Jan 2027.
 
 Roska is an uk funky and garage artist based in United Kingdom, with 69 gigs on soundcheck across Antwerp, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside SHERELLE, Kareem Ali and Nia Archives. Next up: E1, London on Sat 23 Jan.
 
@@ -26,4 +26,4 @@ Roska is an uk funky and garage artist based in United Kingdom, with 69 gigs on 
 
 SHERELLE, Kareem Ali, Nia Archives
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roska/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roska/)*

@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Editura. Universul, Moldova on Sat, 21 Nov 2026.
+HearThug is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Editura. Universul, Moldova on Sat, 21 Nov 2026.
 
 HearThug is a house and electro artist based in Tunisia, with 65 gigs on soundcheck across Amsterdam, Bangalore, Barcelona and Belgrade and 25 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: TBA - Editura. Universul, Moldova on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ HearThug is a house and electro artist based in Tunisia, with 65 gigs on soundch
 
 Occibel, IAMBP, Alyhas
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

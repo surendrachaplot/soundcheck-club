@@ -1,6 +1,6 @@
 # Tom Bryder
 
-Tom Bryder is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kult, Belgrade on Sat, 21 Nov 2026.
+Tom Bryder is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kult, Belgrade on Sat, 21 Nov 2026.
 
 Tom Bryder is a progressive house and techno artist based in Serbia, with 6 gigs on soundcheck across Belgrade. Often billed alongside Lansky, Umique and 5AJAAK. Next up: Kult, Belgrade on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Tom Bryder is a progressive house and techno artist based in Serbia, with 6 gigs
 
 Lansky, Umique, 5AJAAK
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tombryder/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tombryder/)*

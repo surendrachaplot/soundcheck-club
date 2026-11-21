@@ -1,6 +1,6 @@
 # KOLE AUDRO
 
-KOLE AUDRO is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Krišjāņa Barona iela 136, Riga, Riga on Fri, 11 Dec 2026.
+KOLE AUDRO is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Krišjāņa Barona iela 136, Riga, Riga on Fri, 11 Dec 2026.
 
 KOLE AUDRO is a techno and progressive house artist based in Lithuania, with 7 gigs on soundcheck across Amsterdam, Cyprus, Riga and Vilnius. Often billed alongside Desaint (DK), Philip Ackowsky and Spartaque. Next up: TBA - Krišjāņa Barona iela 136, Riga, Riga on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ KOLE AUDRO is a techno and progressive house artist based in Lithuania, with 7 g
 
 Desaint (DK), Philip Ackowsky, Spartaque
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koleaudro/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koleaudro/)*

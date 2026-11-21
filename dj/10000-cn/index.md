@@ -1,6 +1,6 @@
 # 10000 (CN)
 
-10000 (CN) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Doop, Shanghai on Sat, 5 Dec 2026.
+10000 (CN) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Doop, Shanghai on Sat, 5 Dec 2026.
 
 10000 (CN) is a techno and club artist based in China, with 69 gigs on soundcheck across Beijing, Buenos Aires, Chengdu and Shanghai and 1 more. Often billed alongside Night Swimmer, DJ TRUCK and YKK (CN). Next up: Doop, Shanghai on Sat 5 Dec.
 
@@ -26,4 +26,4 @@
 
 Night Swimmer, DJ TRUCK, YKK (CN)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/10000-cn/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/10000-cn/)*

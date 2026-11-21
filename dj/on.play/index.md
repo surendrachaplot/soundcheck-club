@@ -1,6 +1,6 @@
 # On.play
 
-On.play is a Acid and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Underground Agimi, Tirana on Sat, 21 Nov 2026.
+On.play is a Acid and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Underground Agimi, Tirana on Sat, 21 Nov 2026.
 
 On.play is an acid and breakbeat artist based in Albania, with 130 gigs on soundcheck across Tirana. Often billed alongside Altin Boshnjaku, Capsule K and PANDA (AL). Next up: Underground Agimi, Tirana on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ On.play is an acid and breakbeat artist based in Albania, with 130 gigs on sound
 
 Altin Boshnjaku, Capsule K, PANDA (AL)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/on.play/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/on.play/)*

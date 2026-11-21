@@ -1,6 +1,6 @@
 # Habb
 
-Habb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Frankielanuit!, Toulouse on Sat, 5 Dec 2026.
+Habb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Frankielanuit!, Toulouse on Sat, 5 Dec 2026.
 
 Habb is a house and techno artist based in France, with 28 gigs on soundcheck across Athens, Barcelona, Edinburgh and Hong Kong and 4 more. Often billed alongside max brachais, Janeret and STOZ. Next up: Frankielanuit!, Toulouse on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Habb is a house and techno artist based in France, with 28 gigs on soundcheck ac
 
 max brachais, Janeret, STOZ
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/habb/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/habb/)*

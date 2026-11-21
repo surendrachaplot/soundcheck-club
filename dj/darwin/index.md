@@ -1,14 +1,13 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 20 Nov 2026.
+Darwin is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
 
-Darwin is a techno and bass artist based in Germany, with 187 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 57 more. Often billed alongside Esposito, Carré and CCL. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 20 Nov.
+Darwin is a techno and bass artist based in Germany, with 187 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 57 more. Often billed alongside Esposito, Carré and CCL. Next up: Las Rosas, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | Las Rosas | Miami |
 | Sat, 28 Nov 2026 | Macadam | Nantes |
 | Fri, 11 Dec 2026 | P0rtal | Rhode-island |
@@ -19,6 +18,7 @@ Darwin is a techno and bass artist based in Germany, with 187 gigs on soundcheck
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 20 Nov 2026
 - The Cause, London · Sat, 14 Nov 2026
 - Colour Factory, London · Sat, 14 Nov 2026
 - TBA, Berlin · Sun, 1 Nov 2026
@@ -26,10 +26,9 @@ Darwin is a techno and bass artist based in Germany, with 187 gigs on soundcheck
 - Yamamori Tengu, Dublin · Sun, 25 Oct 2026
 - De Sering, Amsterdam · Fri, 23 Oct 2026
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Esposito, Carré, CCL
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

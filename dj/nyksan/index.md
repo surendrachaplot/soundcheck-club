@@ -1,6 +1,6 @@
 # Nyksan
 
-Nyksan is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
+Nyksan is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
 
 Nyksan is a latin bass and techno artist based in Colombia, with 38 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bristol and 10 more. Often billed alongside Colombian Drone Mafia, Ehua and Bitter Babe. Next up: Archive Milano, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nyksan is a latin bass and techno artist based in Colombia, with 38 gigs on soun
 
 Colombian Drone Mafia, Ehua, Bitter Babe
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyksan/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyksan/)*

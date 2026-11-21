@@ -1,14 +1,13 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ANTEA with Anne, Grace Dahl, Lacchesi, Norbak, JKS, Flavius, Leon Kofi, Nils Primas, FLACCO" on Fri, 20 Nov 2026.
+Schrotty is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m." on Fri, 27 Nov 2026.
 
-Schrotty is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including Amilli, ANNĒ, Bouncy Bitch and Danilo Filipe and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
+Schrotty is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with line-ups including Bouncy Bitch, Danilo Filipe, DJ Discostoff and DJ Fuckoff and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | ANTEA with Anne, Grace Dahl, Lacchesi, Norbak, JKS, Flavius, Leon Kofi, Nils Primas, FLACCO | ANNĒ, Amilli, FLACCO, Flavius, Grace Dahl, JKS, Lacchesi, Nils Primas, Shrff |
 | Fri, 27 Nov 2026 | 303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m. | GRAVEDGR, Johannes Schuster, Noise Not War |
 | Sat, 28 Nov 2026 | AOS w/ Ignez, DJ Fuckoff, Supergloss, Laurecroft & MORE | DJ Fuckoff, DJ Palga, Ignez, Krackk, Laure Croft, Medea, Penglord, Speckman, Supergloss, ferrari rot |
 | Sat, 5 Dec 2026 | Connected x Radio Jahresabschluss @Schrotty | Bouncy Bitch, DJ Discostoff, DJ SODBRENNEN, Danilo Filipe, Ferrand, Vagabund, kichererbsenstampf, nordcorreia.mp3 |
@@ -18,4 +17,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

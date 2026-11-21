@@ -1,6 +1,6 @@
 # Arkinice
 
-Arkinice is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 4 Dec 2026.
+Arkinice is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 4 Dec 2026.
 
 Arkinice is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Munich. Often billed alongside antyo, Terzenbreaker and ANASTASÍA. Next up: Bahnwärter Thiel, Munich on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Arkinice is a techno and trance artist based in Germany, with 6 gigs on soundche
 
 antyo, Terzenbreaker, ANASTASÍA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkinice/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkinice/)*

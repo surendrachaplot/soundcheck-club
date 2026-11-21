@@ -1,6 +1,6 @@
 # Portugal Madeira Club
 
-Portugal Madeira Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Strategy & Deep Tempo" on Sat, 28 Nov 2026.
+Portugal Madeira Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Strategy & Deep Tempo" on Sat, 28 Nov 2026.
 
 Portugal Madeira Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Chris Munky, Deep Tempo, Strategy and Umami. See dates, start times and who's playing. 1-3 Denby St, Marrickville 2204.
 
@@ -14,4 +14,4 @@ Portugal Madeira Club is a music venue in Sydney listed on soundcheck. 1 upcomin
 
 1-3 Denby St, Marrickville 2204, Sydney
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/portugal-madeira-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/portugal-madeira-club/)*

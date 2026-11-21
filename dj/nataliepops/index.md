@@ -1,6 +1,6 @@
 # nataliepops
 
-nataliepops is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
+nataliepops is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
 
 nataliepops is a techno and house artist based in United States of America, with 75 gigs on soundcheck across Mexico City, New York City and Washington DC. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: Bossa Nova Civic Club, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ nataliepops is a techno and house artist based in United States of America, with
 
 ethereal.mvp, Pacha DJ, kyxm
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*

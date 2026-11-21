@@ -1,6 +1,6 @@
 # John Morales
 
-John Morales is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Pilgrim, Newcastle on Fri, 27 Nov 2026.
+John Morales is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pilgrim, Newcastle on Fri, 27 Nov 2026.
 
 John Morales is a house and disco artist based in United States of America, with 48 gigs on soundcheck across Barcelona, Berlin, Cardiff and Chicago and 15 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: Pilgrim, Newcastle on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ John Morales is a house and disco artist based in United States of America, with
 
 Melvo Baptiste, The Shapeshifters, Young Pulse
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*

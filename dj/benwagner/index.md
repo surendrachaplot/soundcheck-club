@@ -1,6 +1,6 @@
 # Ben Wagner
 
-Ben Wagner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Rawhide, New York City on Fri, 27 Nov 2026.
+Ben Wagner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Rawhide, New York City on Fri, 27 Nov 2026.
 
 Ben Wagner is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Chicago and New York City. Often billed alongside Griffin Maxwell Brooks, LOFTUS and Tommy Hart. Next up: Club Rawhide, New York City on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Ben Wagner is a house and techno artist based in United States of America, with 
 
 Griffin Maxwell Brooks, LOFTUS, Tommy Hart
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwagner/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwagner/)*

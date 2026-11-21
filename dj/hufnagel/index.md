@@ -1,6 +1,6 @@
 # Hufnagel
 
-Hufnagel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
+Hufnagel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
 
 Hufnagel is a house and techno artist based in Germany, with 29 gigs on soundcheck across Hamburg. Often billed alongside DJ Dreams, cmp and david bay. Next up: glimmer, Hamburg on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Hufnagel is a house and techno artist based in Germany, with 29 gigs on soundche
 
 DJ Dreams, cmp (1), david bay
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*

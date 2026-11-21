@@ -1,6 +1,6 @@
 # Stalker
 
-Stalker is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 21 Nov 2026.
+Stalker is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 21 Nov 2026.
 
 Stalker is a techno and electro artist based in United Kingdom, with 9 gigs on soundcheck across Dundee, Glasgow and Paris. Often billed alongside Nicol, Acid Boner and Antoine Calvino. Next up: The Classic Grand, Glasgow on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Stalker is a techno and electro artist based in United Kingdom, with 9 gigs on s
 
 Nicol, Acid Boner, Antoine Calvino
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stalker/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stalker/)*

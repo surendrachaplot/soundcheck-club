@@ -1,13 +1,14 @@
 # Camilo Franco
 
-Camilo Franco is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Grand Cafe & Beach, Cape Town on Sun, 27 Dec 2026.
+Camilo Franco is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 5 Dec 2026.
 
-Camilo Franco is a house and afro house artist based in Spain, with 32 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cape Town and 4 more. Often billed alongside Nadja, Julia Sandstorm and Satori. Next up: The Grand Cafe & Beach, Cape Town on Sun 27 Dec.
+Camilo Franco is a house and afro house artist based in Spain, with 33 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cape Town and 5 more. Often billed alongside Nadja, Julia Sandstorm and Satori. Next up: Do Not Sit On The Furniture, Miami on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Do Not Sit On The Furniture | Miami |
 | Sun, 27 Dec 2026 | The Grand Cafe & Beach | Cape Town |
 
 ## Recently played
@@ -25,4 +26,4 @@ Camilo Franco is a house and afro house artist based in Spain, with 32 gigs on s
 
 Nadja, Julia Sandstorm, Satori
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilofranco/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilofranco/)*

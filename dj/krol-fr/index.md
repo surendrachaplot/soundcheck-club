@@ -1,14 +1,13 @@
 # Krol
 
-Krol is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 20 Nov 2026.
+Krol is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
-Krol is a house and minimal artist based in France, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 12 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Platforma Wolff, Bucharest on Fri 20 Nov.
+Krol is a house and minimal artist based in France, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 12 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Platforma Wolff | Bucharest |
 | Sun, 22 Nov 2026 | Club Space Miami | Miami |
 | Sat, 28 Nov 2026 | TBA | Bogotá |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -16,6 +15,7 @@ Krol is a house and minimal artist based in France, with 70 gigs on soundcheck a
 
 ## Recently played
 
+- Platforma Wolff, Bucharest · Fri, 20 Nov 2026
 - FVTVR, Paris · Fri, 6 Nov 2026
 - One Resort, Tunisia · Thu, 5 Nov 2026
 - Brooklyn Storehouse, New York City · Sat, 31 Oct 2026
@@ -23,10 +23,9 @@ Krol is a house and minimal artist based in France, with 70 gigs on soundcheck a
 - Peter de Grote, Amsterdam · Fri, 23 Oct 2026
 - Blast Galaxy, Amsterdam · Thu, 22 Oct 2026
 - Circolo degli Illuminati, Rome · Sat, 10 Oct 2026
-- NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Aline Umber, Aline Brooklyn, Aman Umber
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*

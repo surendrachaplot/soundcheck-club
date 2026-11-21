@@ -1,8 +1,8 @@
 # Amelia Leigh
 
-Amelia Leigh is a Jungle and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Stage and Radio, Manchester on Fri, 27 Nov 2026.
+Amelia Leigh is a Jungle and Garage artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Stage and Radio, Manchester on Fri, 27 Nov 2026.
 
-Amelia Leigh is a jungle and garage artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 5 more. Often billed alongside Sweetly, Simmo. and Milzy. Next up: Stage and Radio, Manchester on Fri 27 Nov.
+Amelia Leigh is a jungle and garage artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 5 more. Often billed alongside Sweetly, Simmo. and DJ BootyShake. Next up: Stage and Radio, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Amelia Leigh is a jungle and garage artist based in United Kingdom, with 55 gigs
 | Fri, 27 Nov 2026 | Stage and Radio | Manchester |
 | Fri, 11 Dec 2026 | Beaver Works | Leeds |
 | Thu, 31 Dec 2026 | Clock Factory | Bristol |
+| Sat, 20 Feb 2027 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Amelia Leigh is a jungle and garage artist based in United Kingdom, with 55 gigs
 
 ## Shares bills with
 
-Sweetly, Simmo., Milzy
+Sweetly, Simmo., DJ BootyShake
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*

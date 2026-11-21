@@ -1,13 +1,14 @@
 # Paul Sparkes
 
-Paul Sparkes is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
+Paul Sparkes is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Houtbaar Haarlem, Amsterdam on Thu, 31 Dec 2026.
 
-Paul Sparkes is a progressive house and deep house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Tampa Bay and The Hague. Often billed alongside Cris-H, Alexander Koning and Dave Seaman. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
+Paul Sparkes is a progressive house and deep house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Tampa Bay and The Hague. Often billed alongside Cris-H, Alexander Koning and Dave Seaman. Next up: Houtbaar Haarlem, Amsterdam on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Houtbaar Haarlem | Amsterdam |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Paul Sparkes is a progressive house and deep house artist based in United Kingdo
 
 Cris-H, Alexander Koning, Dave Seaman
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsparkes/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsparkes/)*

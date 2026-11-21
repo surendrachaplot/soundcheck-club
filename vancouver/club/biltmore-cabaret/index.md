@@ -1,6 +1,6 @@
 # Biltmore Cabaret
 
-Biltmore Cabaret is a music venue in Vancouver with 14 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Stamina presents: Neel (Spazio Disponible) with ephemeral objects & LVT" on Sat, 21 Nov 2026.
+Biltmore Cabaret is a music venue in Vancouver with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Stamina presents: Neel (Spazio Disponible) with ephemeral objects & LVT" on Sat, 21 Nov 2026.
 
 Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 14 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
 
@@ -23,4 +23,4 @@ Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 14 upcoming
 
 395 Kingsway; Vancouver, BC V5T 3J5; Canada, Vancouver
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*

@@ -1,15 +1,13 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Worakls" on Fri, 20 Nov 2026.
+Ritter Butzke is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Klangkarussell pres. Bias Beach" on Sat, 21 Nov 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Wann and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Wann and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Worakls | Mathilde Nordberg, Worakls |
-| Fri, 20 Nov 2026 | Mollono.Bass | Konrad Sturm, LEENI, Mollono.Bass, vom Feisten |
 | Sat, 21 Nov 2026 | Klangkarussell pres. Bias Beach | Klangkarussell |
 | Sat, 21 Nov 2026 | Alan Fitzpatrick | Alan Fitzpatrick, Bernd Bugatti, Liebe Nachbarn, NÚRIA (DE), Prismode, Solvane, Techmo |
 | Fri, 27 Nov 2026 | Soupherb vs psYsq | Anaïs-Lin, Ash Roy, Cosmik Konnection, Folic State, Krumelur, Surreal (DE), The Muffin Man |
@@ -18,9 +16,11 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming gigs,
 | Sat, 28 Nov 2026 | Oliver Huntemann | Aio, Oliver Huntemann, Wanda Wild |
 | Fri, 4 Dec 2026 | KOLLEGIAL pres. by BSTHP - with Felix Raphael [ hybrid LiVE ] and many more | Felix Raphael, Toushe, hörmi, justUS |
 | Sat, 5 Dec 2026 | Michael Canitrot | Michael Canitrot, NDNA, Prismode, Vlad Yaki |
+| Sat, 5 Dec 2026 | Don Diablo | Annie O, Don Diablo, LOVRA |
+| Fri, 11 Dec 2026 | Eskalation with Die Gebrüder Brett, KaaCee KomaCasper, Justin Prince, SAGEZZA | Justin Prince |
 
 ## Address
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

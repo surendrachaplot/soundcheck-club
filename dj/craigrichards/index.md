@@ -1,8 +1,8 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 21 Nov 2026.
+Craig Richards is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 21 Nov 2026.
 
-Craig Richards is a house and techno artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Club Guesthouse, Bucharest on Sat 21 Nov.
+Craig Richards is a house and techno artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Club Guesthouse, Bucharest on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Craig Richards is a house and techno artist based in United Kingdom, with 171 gi
 | Sat, 12 Dec 2026 | fabric | London |
 | Sat, 16 Jan 2027 | fabric | London |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
+| Sat, 13 Mar 2027 | fabric | London |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
@@ -32,4 +33,4 @@ Craig Richards is a house and techno artist based in United Kingdom, with 171 gi
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

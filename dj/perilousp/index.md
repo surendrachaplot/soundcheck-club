@@ -1,6 +1,6 @@
 # PERILOUS P
 
-PERILOUS P is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
+PERILOUS P is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
 
 PERILOUS P is a tech house and house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Jay Francisco, El Cassar and Chopper (Scotland). Next up: Basing House, London on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ PERILOUS P is a tech house and house artist based in United Kingdom, with 8 gigs
 
 Jay Francisco, El Cassar, Chopper (Scotland)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perilousp/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perilousp/)*

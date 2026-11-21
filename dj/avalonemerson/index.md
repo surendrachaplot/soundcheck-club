@@ -1,14 +1,13 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hangar, Belgrade on Fri, 20 Nov 2026.
+Avalon Emerson is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Hangar, Belgrade on Fri 20 Nov.
+Avalon Emerson is a techno and house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Hangar | Belgrade |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 | Sat, 12 Dec 2026 | Nowadays | New York City |
@@ -18,6 +17,7 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 ## Recently played
 
+- Hangar, Belgrade · Fri, 20 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 13 Nov 2026
 - Music Hall of Williamsburg, New York City · Thu, 5 Nov 2026
 - Music Hall of Williamsburg, New-york-city · Thu, 5 Nov 2026
@@ -25,10 +25,9 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 - The Great Northern, San Francisco/Oakland · Fri, 30 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Sub Club, Glasgow · Sat, 24 Oct 2026
-- Bajes Amsterdam, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Sedef Adasï, BASHKKA, Aurora Halal
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

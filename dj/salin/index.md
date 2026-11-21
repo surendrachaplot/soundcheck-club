@@ -1,6 +1,6 @@
 # SALIN
 
-SALIN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+SALIN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 SALIN is a techno and acid artist based in Greece, with 68 gigs on soundcheck across Athens, Hamburg, Thailand and Thessaloniki. Often billed alongside Até., Cirkle and VSSLS. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -12,6 +12,7 @@ SALIN is a techno and acid artist based in Greece, with 68 gigs on soundcheck ac
 
 ## Recently played
 
+- AUX Club, Athens · Fri, 20 Nov 2026
 - AUX Club, Athens · Sat, 26 Sept 2026
 - AUX Club, Athens · Fri, 5 Jun 2026
 - Universe Athens, Athens · Sat, 30 May 2026
@@ -19,10 +20,9 @@ SALIN is a techno and acid artist based in Greece, with 68 gigs on soundcheck ac
 - AUX Club, Athens · Fri, 8 May 2026
 - AUX Club, Athens · Thu, 30 Apr 2026
 - Universe Athens, Athens · Sat, 18 Apr 2026
-- AUX Club, Athens · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Até., Cirkle, VSSLS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salin/)*

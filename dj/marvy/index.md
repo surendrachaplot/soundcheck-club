@@ -1,6 +1,6 @@
 # MARVY
 
-MARVY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Joule, Osaka on Sat, 21 Nov 2026.
+MARVY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Joule, Osaka on Sat, 21 Nov 2026.
 
 MARVY is a techno and house artist, with 39 gigs on soundcheck across Bangkok, Osaka, Paris and Tokyo. Often billed alongside Nao Nomura, MASANORI MORITA and DMITRI ABSINTHE. Next up: Joule, Osaka on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MARVY is a techno and house artist, with 39 gigs on soundcheck across Bangkok, O
 
 Nao Nomura, MASANORI MORITA, DMITRI ABSINTHE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvy/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvy/)*

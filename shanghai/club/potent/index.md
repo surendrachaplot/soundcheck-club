@@ -1,14 +1,13 @@
 # POTENT
 
-POTENT is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Amanda Mussi (DE)" on Fri, 20 Nov 2026.
+POTENT is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "FOLD x POTENT" on Sat, 21 Nov 2026.
 
-POTENT is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including Amanda Mussi, Helena Ma, James Newmarch and Voicedrone. See dates, start times and who's playing.
+POTENT is a music venue in Shanghai listed on soundcheck. 1 upcoming gig, with line-ups including Helena Ma, James Newmarch and Voicedrone. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Amanda Mussi (DE) | Amanda Mussi |
 | Sat, 21 Nov 2026 | FOLD x POTENT | Helena Ma, James Newmarch, Voicedrone |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/potent/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/potent/)*

@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Habibi Funk (Winter Indoor Day Party): Habibi Funk, Cheb Mimo, Zahra" on Sat, 21 Nov 2026.
+LDN East is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Habibi Funk (Winter Indoor Day Party): Habibi Funk, Cheb Mimo, Zahra" on Sat, 21 Nov 2026.
 
 LDN East is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Cheb Mimo, DJ Bobby Digital, DJ Eastwood and DJ Majesty and 2 more. See dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -16,4 +16,4 @@ LDN East is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

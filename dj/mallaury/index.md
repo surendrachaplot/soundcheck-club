@@ -1,14 +1,15 @@
 # MALLAURY
 
-MALLAURY is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Parallel, Amsterdam on Fri, 27 Nov 2026.
+MALLAURY is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Parallel, Amsterdam on Fri, 27 Nov 2026.
 
-MALLAURY is a bass and house artist based in France, with 43 gigs on soundcheck across Amsterdam, Antwerp, Paris and Rotterdam and 1 more. Often billed alongside Passion DEEZ, Cinnaman and Deez. Next up: Parallel, Amsterdam on Fri 27 Nov.
+MALLAURY is a bass and house artist based in France, with 44 gigs on soundcheck across Amsterdam, Antwerp, Paris and Rotterdam and 1 more. Often billed alongside Passion DEEZ, Cinnaman and EYCEE. Next up: Parallel, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Parallel | Amsterdam |
+| Fri, 4 Dec 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MALLAURY is a bass and house artist based in France, with 43 gigs on soundcheck 
 
 ## Shares bills with
 
-Passion DEEZ, Cinnaman, Deez
+Passion DEEZ, Cinnaman, EYCEE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mallaury/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mallaury/)*

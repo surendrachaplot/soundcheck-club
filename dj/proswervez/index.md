@@ -1,6 +1,6 @@
 # proswervez
 
-proswervez is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Cloud & Spirits, Boston on Sat, 21 Nov 2026.
+proswervez is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Cloud & Spirits, Boston on Sat, 21 Nov 2026.
 
 proswervez is a club and house artist based in United States of America, with 17 gigs on soundcheck across Boston. Often billed alongside DJ Rayvino, Adelaide and Alexandr. Next up: Cloud & Spirits, Boston on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ proswervez is a club and house artist based in United States of America, with 17
 
 DJ Rayvino, Adelaide (1), Alexandr
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*

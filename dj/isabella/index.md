@@ -1,6 +1,6 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 21 Nov 2026.
+ISAbella is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 21 Nov 2026.
 
 ISAbella is a house and techno artist based in Colombia, with 279 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Smoke & Mirrors, Chicago on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ ISAbella is a house and techno artist based in Colombia, with 279 gigs on soundc
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

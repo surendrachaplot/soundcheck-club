@@ -1,6 +1,6 @@
 # Ballroom at Palais: ohmydais, ANNX at Ballroom at Palais
 
-Ballroom at Palais: ohmydais, ANNX on Fri 11 Dec, London. 2 artists: ANNX and ohmydais. See the line-up on soundcheck.
+Ballroom at Palais: ohmydais, ANNX on Fri 11 Dec, London. 2 artists: ANNX and ohmydais. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

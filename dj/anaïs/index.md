@@ -1,14 +1,13 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 02 Victoria Warehouse, Manchester on Fri, 20 Nov 2026.
+Anaïs is a Drum & Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Nest, Nottingham on Fri, 4 Dec 2026.
 
-Anaïs is a drum & bass and garage artist based in United Kingdom, with 64 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 24 more. Often billed alongside P Money, Whiney and Degs. Next up: 02 Victoria Warehouse, Manchester on Fri 20 Nov.
+Anaïs is a drum & bass and garage artist based in United Kingdom, with 64 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 24 more. Often billed alongside P Money, Whiney and Degs. Next up: The Nest, Nottingham on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 02 Victoria Warehouse | Manchester |
 | Fri, 4 Dec 2026 | The Nest | Nottingham |
 | Fri, 4 Dec 2026 | Quarters | Brighton |
 | Sat, 5 Dec 2026 | Ouseburn Garden | Newcastle |
@@ -16,6 +15,7 @@ Anaïs is a drum & bass and garage artist based in United Kingdom, with 64 gigs 
 
 ## Recently played
 
+- 02 Victoria Warehouse, Manchester · Fri, 20 Nov 2026
 - The Prospect Building, Bristol · Sat, 14 Nov 2026
 - The Steel Yard, London · Fri, 16 Oct 2026
 - Gaswrx Birmingham, Birmingham · Sat, 10 Oct 2026
@@ -23,10 +23,9 @@ Anaïs is a drum & bass and garage artist based in United Kingdom, with 64 gigs 
 - Melkweg, Amsterdam · Mon, 21 Sept 2026
 - The Drake Hotel, Toronto · Sat, 5 Sept 2026
 - fabric, London · Fri, 4 Sept 2026
-- Ashton Court Estate, Bristol · Sat, 23 May 2026
 
 ## Shares bills with
 
 P Money, Whiney, Degs
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

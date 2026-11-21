@@ -1,13 +1,14 @@
 # Cow Tools
 
-Cow Tools is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 9 Jan 2027.
+Cow Tools is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Jupiter Disco, New York City on Wed, 16 Dec 2026.
 
-Cow Tools is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Boston and New York City. Often billed alongside R-DNA, COVE(US) and Megan Rosengarten. Next up: Bossa Nova Civic Club, New York City on Sat 9 Jan.
+Cow Tools is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Boston and New York City. Often billed alongside R-DNA, COVE(US) and 1ol1v1a. Next up: Jupiter Disco, New York City on Wed 16 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Dec 2026 | Jupiter Disco | New York City |
 | Sat, 9 Jan 2027 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Cow Tools is a techno and house artist based in United States of America, with 1
 
 ## Shares bills with
 
-R-DNA, COVE(US), Megan Rosengarten
+R-DNA, COVE(US), 1ol1v1a
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*

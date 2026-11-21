@@ -1,13 +1,14 @@
 # Sam Don
 
-Sam Don is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Gingerino's Pizza, Newcastle on Fri, 18 Dec 2026.
+Sam Don is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
 
-Sam Don is a disco and house artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Bucharest, Copenhagen and Cork and 11 more. Often billed alongside Bevan, Convertible and Diz Jockey. Next up: Gingerino's Pizza, Newcastle on Fri 18 Dec.
+Sam Don is a disco and house artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Bucharest, Copenhagen and Cork and 11 more. Often billed alongside Bevan, Convertible and Diz Jockey. Next up: KOKO, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | KOKO | London |
 | Fri, 18 Dec 2026 | Gingerino's Pizza | Newcastle |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sam Don is a disco and house artist based in United Kingdom, with 35 gigs on sou
 
 Bevan, Convertible, Diz Jockey
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samdon-uk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samdon-uk/)*

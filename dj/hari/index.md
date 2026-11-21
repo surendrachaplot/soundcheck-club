@@ -1,6 +1,6 @@
 # HARI
 
-HARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Sydney on Fri, 4 Dec 2026.
+HARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Sydney on Fri, 4 Dec 2026.
 
 HARI is a techno and trance artist based in India, with 29 gigs on soundcheck across Barcelona, Detroit and Sydney. Often billed alongside Ezera, XipNoize and Ambarcita. Next up: TBA, Sydney on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ HARI is a techno and trance artist based in India, with 29 gigs on soundcheck ac
 
 Ezera, XipNoize, Ambarcita
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hari/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hari/)*

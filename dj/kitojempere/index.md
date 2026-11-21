@@ -1,6 +1,6 @@
 # Kito Jempere
 
-Kito Jempere is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Honeycomb Hi-Fi, Dubai on Fri, 27 Nov 2026.
+Kito Jempere is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Honeycomb Hi-Fi, Dubai on Fri, 27 Nov 2026.
 
 Kito Jempere is a house and techno artist based in Russia, with 14 gigs on soundcheck across Dubai, Osaka and Tokyo. Often billed alongside Kenji Takimi, Lipelis and Toshiya Kawasaki. Next up: Honeycomb Hi-Fi, Dubai on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Kito Jempere is a house and techno artist based in Russia, with 14 gigs on sound
 
 Kenji Takimi, Lipelis, Toshiya Kawasaki
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitojempere/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitojempere/)*

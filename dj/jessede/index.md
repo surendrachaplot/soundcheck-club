@@ -1,6 +1,6 @@
 # Jesse (DE)
 
-Jesse (DE) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
+Jesse (DE) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
 
 Jesse (DE) is a house and tech house artist based in Germany, with 22 gigs on soundcheck across Berlin, Chengdu, Hamburg and New York City and 2 more. Often billed alongside DJ Hellfire, Navid Asadi (DE) and Fatty M. Next up: Gabriel Loci, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jesse (DE) is a house and tech house artist based in Germany, with 22 gigs on so
 
 DJ Hellfire, Navid Asadi (DE), Fatty M
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessede/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessede/)*

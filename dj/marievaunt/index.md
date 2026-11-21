@@ -1,6 +1,6 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Marie Vaunt is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Marie Vaunt is a techno and acid artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Arizona, Athens and Atlanta and 51 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -19,6 +19,7 @@ Marie Vaunt is a techno and acid artist based in United States of America, with 
 
 ## Recently played
 
+- The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - Magic Stick, Detroit · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Westworld of Scottsdale, Arizona · Fri, 30 Oct 2026
@@ -26,10 +27,9 @@ Marie Vaunt is a techno and acid artist based in United States of America, with 
 - Halle Tony Garnier, Lyon · Sat, 24 Oct 2026
 - 50:Hertz Club Train, Amsterdam · Thu, 22 Oct 2026
 - TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong · Fri, 2 Oct 2026
-- The Concourse Project, Austin · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Space 92, Maddix, Eli Brown
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

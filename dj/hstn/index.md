@@ -1,6 +1,6 @@
 # HSTN
 
-HSTN is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at XOYO, London on Thu, 26 Nov 2026.
+HSTN is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at XOYO, London on Thu, 26 Nov 2026.
 
 HSTN is a house and garage artist based in Australia, with 13 gigs on soundcheck across London and Manchester. Often billed alongside RYLO (UK), imad:re and D-LIA. Next up: XOYO, London on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ HSTN is a house and garage artist based in Australia, with 13 gigs on soundcheck
 
 RYLO (UK), imad:re, D-LIA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*

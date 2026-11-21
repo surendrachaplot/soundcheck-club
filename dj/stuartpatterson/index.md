@@ -1,14 +1,15 @@
 # Stuart Patterson
 
-Stuart Patterson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Light Bar, London on Fri, 1 Jan 2027.
+Stuart Patterson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Light Bar, London on Fri, 1 Jan 2027.
 
-Stuart Patterson is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Brighton, Cardiff, Ibiza and Krakow and 5 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: The Light Bar, London on Fri 1 Jan.
+Stuart Patterson is a house and disco artist based in United Kingdom, with 74 gigs on soundcheck across Brighton, Cardiff, Ibiza and Krakow and 5 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: The Light Bar, London on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 1 Jan 2027 | The Light Bar | London |
+| Sat, 1 May 2027 | Various Venues | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stuart Patterson is a house and disco artist based in United Kingdom, with 73 gi
 
 Terry Farley, JARVIS, Tito Pulpo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*

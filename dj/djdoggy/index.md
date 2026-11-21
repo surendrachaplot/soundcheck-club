@@ -1,6 +1,6 @@
 # DJ Doggy
 
-DJ Doggy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Loopy, Hangzhou on Sat, 21 Nov 2026.
+DJ Doggy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Loopy, Hangzhou on Sat, 21 Nov 2026.
 
 DJ Doggy is a techno and house artist based in China, with 35 gigs on soundcheck across Hangzhou and Shanghai. Often billed alongside NAKIN, Onyx and Cardi L. Next up: Loopy, Hangzhou on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Doggy is a techno and house artist based in China, with 35 gigs on soundcheck
 
 NAKIN, Onyx, Cardi L
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoggy/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoggy/)*

@@ -1,6 +1,6 @@
 # Extase Urbaine
 
-Extase Urbaine is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 28 Nov 2026.
+Extase Urbaine is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 28 Nov 2026.
 
 Extase Urbaine is a techno and electro artist based in Greece, with 81 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside .Fro., George Apergis and ClubKid. Next up: Sekta Selekta, Krakow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Extase Urbaine is a techno and electro artist based in Greece, with 81 gigs on s
 
 .Fro., George Apergis, ClubKid
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/extaseurbaine/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/extaseurbaine/)*

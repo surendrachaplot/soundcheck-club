@@ -1,6 +1,6 @@
 # JF (BR)
 
-JF (BR) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat, 21 Nov 2026.
+JF (BR) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat, 21 Nov 2026.
 
 JF (BR) is a house and disco artist based in Brazil, with 23 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Capetini, Gigios and Suze Ijó. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ JF (BR) is a house and disco artist based in Brazil, with 23 gigs on soundcheck 
 
 Capetini, Gigios, Suze Ijó
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfbr/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfbr/)*

@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Night & Day 24h: Enrica Falqui, GNMR, ATEQ, Caim  more" on Fri, 20 Nov 2026.
+Signal is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Night & Day 24h: Enrica Falqui, GNMR, ATEQ, Caim  more" on Fri, 20 Nov 2026.
 
 Signal is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 98dots, AceMo, Adriana Ruas and Alfonsvs and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in New York City listed on soundcheck. 16 upcoming gigs,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

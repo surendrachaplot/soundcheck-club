@@ -1,6 +1,6 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mint XL, Leeds on Sat, 21 Nov 2026.
+A For Alpha is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mint XL, Leeds on Sat, 21 Nov 2026.
 
 A For Alpha is a house and garage artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: Mint XL, Leeds on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ A For Alpha is a house and garage artist based in United Kingdom, with 134 gigs 
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

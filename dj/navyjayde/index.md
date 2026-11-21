@@ -1,6 +1,6 @@
 # Navy Jayde
 
-Navy Jayde is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Mister Zhangs, Cleveland on Sat, 21 Nov 2026.
+Navy Jayde is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mister Zhangs, Cleveland on Sat, 21 Nov 2026.
 
 Navy Jayde is a club and techno artist based in United States of America, with 29 gigs on soundcheck across Cleveland and Pittsburgh. Often billed alongside Christopher Foor, ASL Princess and Love Higher. Next up: Mister Zhangs, Cleveland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Navy Jayde is a club and techno artist based in United States of America, with 2
 
 Christopher Foor, ASL Princess, Love Higher
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/navyjayde/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/navyjayde/)*

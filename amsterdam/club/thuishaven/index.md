@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi" on Sun, 22 Nov 2026.
+Thuishaven is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi" on Sun, 22 Nov 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including FAUSTO, Abstract Division, Alexander Koning and Alfredo and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs,
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

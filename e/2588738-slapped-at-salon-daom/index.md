@@ -1,6 +1,6 @@
 # SLAPPED at Salon Daomé
 
-SLAPPED at Salon Daomé on Fri 4 Dec, Montreal. 3 artists: DUZA, Mitch Oliver and VICTOR RODRIGUEZ (CA). See the line-up on soundcheck.
+SLAPPED at Salon Daomé on Fri 4 Dec, Montreal. 4 artists: DUZA, Mitch Oliver, RONCO and VICTOR RODRIGUEZ (CA). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SLAPPED at Salon Daomé on Fri 4 Dec, Montreal. 3 artists: DUZA, Mitch Oliver an
 
 - DUZA
 - Mitch Oliver
+- RONCO (2)
 - VICTOR RODRIGUEZ (CA)
 
 *Source: [soundcheck](https://soundcheck.club/e/2588738-slapped-at-salon-daom/)*

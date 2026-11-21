@@ -1,6 +1,6 @@
 # NORDSTRØM
 
-NORDSTRØM is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 21 Nov 2026.
+NORDSTRØM is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 21 Nov 2026.
 
 NORDSTRØM is a techno and minimal artist based in Sweden, with 14 gigs on soundcheck across Gothenburg, Malmo, Oslo and Stockholm. Often billed alongside Alonso Lozano, Caroline Kabat and Ito Cekaj. Next up: Ivans Pilsnerbar, Gothenburg on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ NORDSTRØM is a techno and minimal artist based in Sweden, with 14 gigs on sound
 
 Alonso Lozano, Caroline Kabat, Ito Cekaj
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordstrom/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordstrom/)*

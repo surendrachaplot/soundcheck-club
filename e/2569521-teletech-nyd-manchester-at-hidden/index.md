@@ -1,6 +1,6 @@
 # Teletech: NYD MANCHESTER at Hidden
 
-Teletech: NYD MANCHESTER at Hidden on Fri 1 Jan, Manchester. 13 artists: 2FEL, Antonym, ASLO and Bobaz and 9 more. Techno. See the line-up on soundcheck.
+Teletech: NYD MANCHESTER at Hidden on Fri 1 Jan, Manchester. 14 artists: 2FEL, Antonym, ASLO and Bobaz and 10 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Teletech: NYD MANCHESTER at Hidden on Fri 1 Jan, Manchester. 13 artists: 2FEL, A
 - Antonym
 - ASLO
 - Bobaz
+- GEORGE RADSPORT
 - Hortense de Beauharnais
 - Kalte Liebe
 - KIM AHLF

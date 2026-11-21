@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "NEXT OF KIN with BAUGRUPPE90 & Stef de Haan" on Sat, 21 Nov 2026.
+Club Vaag is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "NEXT OF KIN with BAUGRUPPE90 & Stef de Haan" on Sat, 21 Nov 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, with line-ups including Amalie, Andrew Cairns, BAUGRUPPE90 and Cronus and 2 more. See dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -22,4 +22,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, wit
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

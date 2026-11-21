@@ -1,8 +1,8 @@
 # Conny Club
 
-Conny Club is a music venue in Münster with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Companions feat. Sounds of Nazar" on Sat, 21 Nov 2026.
+Conny Club is a music venue in Münster with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Companions feat. Sounds of Nazar" on Sat, 21 Nov 2026.
 
-Conny Club is a music venue in Münster listed on soundcheck. 4 upcoming gigs, with line-ups including skathi, Stefan Meser and Sven Kerkhoff. See dates, start times and who's playing. Am Hawerkamp 31, 48155 Münster, Deutschland.
+Conny Club is a music venue in Münster listed on soundcheck. 5 upcoming gigs, with line-ups including skathi, Stefan Meser and Sven Kerkhoff. See dates, start times and who's playing. Am Hawerkamp 31, 48155 Münster, Deutschland.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Conny Club is a music venue in Münster listed on soundcheck. 4 upcoming gigs, w
 | Sat, 28 Nov 2026 | bratty • with charli xcx & other brat coded artists • münster |  |
 | Sat, 28 Nov 2026 | Le Clúb 'House, House fuckin House' | Sven Kerkhoff |
 | Sat, 5 Dec 2026 | K.I.Z. & Friends Party |  |
+| Sat, 9 Jan 2027 | King Kong Kicks • Conny • Münster |  |
 
 ## Address
 
 Am Hawerkamp 31, 48155 Münster, Deutschland, Münster
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*

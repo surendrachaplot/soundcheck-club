@@ -1,6 +1,6 @@
 # britty.
 
-britty. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
+britty. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
 
 britty. is a house and techno artist based in United States of America, with 52 gigs on soundcheck across Chicago, Detroit, New York City and San Diego. Often billed alongside sillygirlcarmen, JMT and Loren. Next up: TV Lounge, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ britty. is a house and techno artist based in United States of America, with 52 
 
 sillygirlcarmen, JMT (2), Loren
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britty./)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britty./)*

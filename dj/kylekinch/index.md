@@ -1,6 +1,6 @@
 # Kyle Kinch
 
-Kyle Kinch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Kyle Kinch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Kyle Kinch is a house and tech house artist, with 12 gigs on soundcheck across Austin, Berlin, Chicago and Los Angeles and 4 more. Often billed alongside Brian Busto, Gene Farris and Jason Kitchen. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kyle Kinch is a house and tech house artist, with 12 gigs on soundcheck across A
 
 Brian Busto, Gene Farris, Jason Kitchen
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylekinch/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylekinch/)*

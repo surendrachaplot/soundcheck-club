@@ -1,6 +1,6 @@
 # Liad Krispin
 
-Liad Krispin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Südpol, Hamburg on Sat, 5 Dec 2026.
+Liad Krispin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Südpol, Hamburg on Sat, 5 Dec 2026.
 
 Liad Krispin is a techno and house artist based in United States of America, with 42 gigs on soundcheck across Berlin, Brussels, Copenhagen and Hamburg and 7 more. Often billed alongside Luigi Di Venere, Majdolen and Byron Yeates. Next up: Südpol, Hamburg on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Liad Krispin is a techno and house artist based in United States of America, wit
 
 Luigi Di Venere, Majdolen, Byron Yeates
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

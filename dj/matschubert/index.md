@@ -1,6 +1,6 @@
 # Mat Schubert
 
-Mat Schubert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - LIA Coffee WU Campus Wien, Vienna on Mon, 7 Dec 2026.
+Mat Schubert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - LIA Coffee WU Campus Wien, Vienna on Mon, 7 Dec 2026.
 
 Mat Schubert is a house and techno artist based in Austria, with 45 gigs on soundcheck across Vienna. Often billed alongside Ardmos, Chiara Valentina and UPHORA. Next up: TBA - LIA Coffee WU Campus Wien, Vienna on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Mat Schubert is a house and techno artist based in Austria, with 45 gigs on soun
 
 Ardmos, Chiara Valentina, UPHORA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matschubert/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matschubert/)*

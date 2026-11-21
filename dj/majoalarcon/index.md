@@ -1,6 +1,6 @@
 # Majo Alarcon
 
-Majo Alarcon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 21 Nov 2026.
+Majo Alarcon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 21 Nov 2026.
 
 Majo Alarcon is a house and techno artist based in Uruguay, with 8 gigs on soundcheck across Barcelona and Mexico City. Often billed alongside FREDDIESS, Vanyra and Agustin Bosco. Next up: Sala Apolo, Barcelona on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Majo Alarcon is a house and techno artist based in Uruguay, with 8 gigs on sound
 
 FREDDIESS, Vanyra, Agustin Bosco
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majoalarcon/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majoalarcon/)*

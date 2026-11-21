@@ -1,6 +1,6 @@
 # Jaimy (2)
 
-Jaimy (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Kwartier, Amsterdam on Sat, 21 Nov 2026.
+Jaimy (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kwartier, Amsterdam on Sat, 21 Nov 2026.
 
 Jaimy is a tech house and house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Berlin and Brussels. Often billed alongside Franziska Berns, Kyra Khaldi and 1morning. Next up: Kwartier, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jaimy is a tech house and house artist based in Netherlands, with 9 gigs on soun
 
 Franziska Berns, Kyra Khaldi, 1morning
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimy-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimy-2/)*

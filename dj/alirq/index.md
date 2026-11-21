@@ -1,6 +1,6 @@
 # ali rq
 
-ali rq is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Warfield, San Francisco/Oakland on Sat, 21 Nov 2026.
+ali rq is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Warfield, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 ali rq is a club and techno artist based in United States of America, with 50 gigs on soundcheck across Barcelona, Berlin, Chicago and London and 9 more. Often billed alongside 10cust, Cannelle and Eurohead. Next up: The Warfield, San Francisco/Oakland on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ ali rq is a club and techno artist based in United States of America, with 50 gi
 
 10cust, Cannelle, Eurohead
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*

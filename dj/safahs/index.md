@@ -1,14 +1,15 @@
 # Safahs
 
-Safahs is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Unter Deck, Munich on Tue, 24 Nov 2026.
+Safahs is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Unter Deck, Munich on Tue, 24 Nov 2026.
 
-Safahs is a techno and electro artist based in Germany, with 36 gigs on soundcheck across Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Kim_Twiddle. Next up: Unter Deck, Munich on Tue 24 Nov.
+Safahs is a techno and electro artist based in Germany, with 37 gigs on soundcheck across Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Kim_Twiddle. Next up: Unter Deck, Munich on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 24 Nov 2026 | Unter Deck | Munich |
+| Wed, 20 Jan 2027 | Unter Deck | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Safahs is a techno and electro artist based in Germany, with 36 gigs on soundche
 
 DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Kim_Twiddle
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safahs/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safahs/)*

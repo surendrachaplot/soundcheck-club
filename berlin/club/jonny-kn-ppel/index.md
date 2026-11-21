@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Schmeckt auf Eis - grand theft schmecktakel VII" on Sat, 21 Nov 2026.
+Jonny Knüppel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Schmeckt auf Eis - grand theft schmecktakel VII" on Sat, 21 Nov 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including agls, Black Mirror Park, die Rote Dora and Etiennette and 2 more. See dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -17,4 +17,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs,
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

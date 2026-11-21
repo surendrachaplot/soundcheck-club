@@ -1,6 +1,6 @@
 # Etikett Radio Winter Party at Crack Bellmer
 
-Etikett Radio Winter Party at Crack Bellmer on Fri 11 Dec, Berlin. 4 artists: Carl OG, GRETA, schulze and Tempestfeather. House and Bass. See the line-up on soundcheck.
+Etikett Radio Winter Party at Crack Bellmer on Fri 11 Dec, Berlin. 5 artists: Carl OG, GRETA, Mira and schulze and 1 more. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Etikett Radio Winter Party at Crack Bellmer on Fri 11 Dec, Berlin. 4 artists: Ca
 
 - Carl OG
 - GRETA (2)
+- Mira (6)
 - schulze
 - Tempestfeather
 

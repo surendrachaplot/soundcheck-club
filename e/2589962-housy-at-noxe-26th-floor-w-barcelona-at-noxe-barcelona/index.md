@@ -1,6 +1,6 @@
 # Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 16 Dec, Barcelona. 1 artist: Nesi. See the line-up on soundcheck.
+Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 16 Dec, Barcelona. 1 artist: Nesi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

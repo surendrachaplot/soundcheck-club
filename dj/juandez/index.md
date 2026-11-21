@@ -1,6 +1,6 @@
 # Juandez
 
-Juandez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Eleven Hoxton Square, London on Thu, 3 Dec 2026.
+Juandez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Eleven Hoxton Square, London on Thu, 3 Dec 2026.
 
 Juandez is a tech house and house artist based in Colombia, with 9 gigs on soundcheck across London. Often billed alongside P2UYA, Nojan and Wellzee. Next up: Eleven Hoxton Square, London on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Juandez is a tech house and house artist based in Colombia, with 9 gigs on sound
 
 P2UYA, Nojan, Wellzee
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juandez/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juandez/)*

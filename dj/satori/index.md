@@ -1,13 +1,14 @@
 # Satori
 
-Satori is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lula Club, Madrid on Sat, 12 Dec 2026.
+Satori is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at KüçükÇiftlik Park, Istanbul on Fri, 4 Dec 2026.
 
-Satori is a house and afro house artist based in Netherlands, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Lula Club, Madrid on Sat 12 Dec.
+Satori is a house and afro house artist based in Netherlands, with 87 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: KüçükÇiftlik Park, Istanbul on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | KüçükÇiftlik Park | Istanbul |
 | Sat, 12 Dec 2026 | Lula Club | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Satori is a house and afro house artist based in Netherlands, with 86 gigs on so
 
 Sorä, Cera Khin, Dixon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*

@@ -1,6 +1,6 @@
 # Scuffed
 
-Scuffed is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Jamm, London on Sat, 19 Dec 2026.
+Scuffed is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Jamm, London on Sat, 19 Dec 2026.
 
 Scuffed is a drum & bass and jungle artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside Aries, Deanie Rankin and Benny Page. Next up: Brixton Jamm, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Scuffed is a drum & bass and jungle artist based in United Kingdom, with 44 gigs
 
 Aries, Deanie Rankin, Benny Page
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scuffed/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scuffed/)*

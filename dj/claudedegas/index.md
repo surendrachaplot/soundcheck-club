@@ -1,6 +1,6 @@
 # Claude Degas
 
-Claude Degas is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+Claude Degas is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
 Claude Degas is a techno and house artist based in Poland, with 26 gigs on soundcheck across Warsaw. Often billed alongside Saint Peter, Kasia DVD and VIVØ. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Claude Degas is a techno and house artist based in Poland, with 26 gigs on sound
 
 Saint Peter, Kasia DVD, VIVØ
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudedegas/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudedegas/)*

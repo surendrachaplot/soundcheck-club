@@ -1,6 +1,6 @@
 # Sekta Selekta: jjvisionn ALL NIGHT LONG at Sekta Selekta
 
-Sekta Selekta: jjvisionn ALL NIGHT LONG on Sun 22 Nov, Krakow. 1 artist: jjvisionn. Tech House. See the line-up on soundcheck.
+Sekta Selekta: jjvisionn ALL NIGHT LONG on Sun 22 Nov, Krakow. 1 artist: jjvisionn. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

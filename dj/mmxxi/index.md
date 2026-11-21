@@ -1,18 +1,18 @@
 # MMXXI
 
-MMXXI is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Twotwotwo, Ontario on Fri, 20 Nov 2026.
+MMXXI is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Studio V Dance, Toronto on Sat, 21 Nov 2026.
 
-MMXXI is a drum & bass and bass artist based in Canada, with 7 gigs on soundcheck across Ontario and Toronto. Often billed alongside Ms. GothicFish, Stella Maise and 999ADJ. Next up: Twotwotwo, Ontario on Fri 20 Nov.
+MMXXI is a drum & bass and bass artist based in Canada, with 7 gigs on soundcheck across Ontario and Toronto. Often billed alongside Ms. GothicFish, Stella Maise and 999ADJ. Next up: Studio V Dance, Toronto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Twotwotwo | Ontario |
 | Sat, 21 Nov 2026 | Studio V Dance | Toronto |
 
 ## Recently played
 
+- Twotwotwo, Ontario · Fri, 20 Nov 2026
 - TBA - The Painted Lady, Toronto · Wed, 3 Jun 2026
 - Seescape, Toronto · Sun, 3 May 2026
 - Geary Avenue Warehouse Project, Toronto · Fri, 20 Dec 2024
@@ -23,4 +23,4 @@ MMXXI is a drum & bass and bass artist based in Canada, with 7 gigs on soundchec
 
 Ms. GothicFish, Stella Maise, 999ADJ
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mmxxi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mmxxi/)*

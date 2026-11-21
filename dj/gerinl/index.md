@@ -1,6 +1,6 @@
 # geri (NL)
 
-geri (NL) is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Filth, Amsterdam on Sun, 22 Nov 2026.
+geri (NL) is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Filth, Amsterdam on Sun, 22 Nov 2026.
 
 geri (NL) is an ambient and bass artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam. Often billed alongside Hervé, Axefield and Crinkhoff. Next up: Filth, Amsterdam on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ geri (NL) is an ambient and bass artist based in Netherlands, with 11 gigs on so
 
 Hervé, Axefield, Crinkhoff
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerinl/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerinl/)*

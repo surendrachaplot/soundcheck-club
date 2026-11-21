@@ -1,6 +1,6 @@
 # PIP.
 
-PIP. is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 21 Nov 2026.
+PIP. is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 21 Nov 2026.
 
 PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 3 more. Often billed alongside Weston, FroD and Westy. Next up: Honey Street Studio, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soun
 
 Weston, FroD, Westy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

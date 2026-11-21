@@ -1,19 +1,20 @@
 # Cole Terrazas
 
-Cole Terrazas is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Bridge, Los Angeles on Fri, 20 Nov 2026.
+Cole Terrazas is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location, Los Angeles on Fri, 20 Nov 2026.
 
-Cole Terrazas is a tech house and house artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 6 more. Often billed alongside KinAhau, Hank (US) and Josh Baker. Next up: The Bridge, Los Angeles on Fri 20 Nov.
+Cole Terrazas is a tech house and house artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 6 more. Often billed alongside KinAhau, Hank (US) and Josh Baker. Next up: TBA - Secret Location, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Bridge | Los Angeles |
+| Fri, 20 Nov 2026 | TBA - Secret Location | Los Angeles |
 | Sat, 21 Nov 2026 | THE BATHS | Austin |
 | Thu, 31 Dec 2026 | Prysm Nightclub | Chicago |
 
 ## Recently played
 
+- TBA - Secret Location, Los Angeles · Fri, 20 Nov 2026
 - TBA - Private Location, San Diego · Sat, 31 Oct 2026
 - The Fillmore, Denver · Sat, 17 Oct 2026
 - Jolene Downtown Miami, Miami · Fri, 4 Sept 2026
@@ -21,10 +22,9 @@ Cole Terrazas is a tech house and house artist based in United States of America
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
 - Los Angeles State Historic Park, Los Angeles · Sun, 24 May 2026
 - Story Toronto, Toronto · Fri, 1 May 2026
-- TBA - DTLA, Los Angeles · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 KinAhau, Hank (US), Josh Baker
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*

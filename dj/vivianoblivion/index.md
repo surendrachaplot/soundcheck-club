@@ -1,6 +1,6 @@
 # Vivian Oblivion
 
-Vivian Oblivion is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sinners and Saints, Washington DC on Fri, 27 Nov 2026.
+Vivian Oblivion is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sinners and Saints, Washington DC on Fri, 27 Nov 2026.
 
 Vivian Oblivion is a techno and club artist based in United States of America, with 37 gigs on soundcheck across Washington DC. Often billed alongside Mrs. Qbert, Solidare and Franxx. Next up: Sinners and Saints, Washington DC on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vivian Oblivion is a techno and club artist based in United States of America, w
 
 Mrs. Qbert, Solidare, Franxx
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianoblivion/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianoblivion/)*

@@ -1,6 +1,6 @@
 # Susan Right
 
-Susan Right is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Shelter Antwerp, Antwerp on Thu, 3 Dec 2026.
+Susan Right is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Shelter Antwerp, Antwerp on Thu, 3 Dec 2026.
 
 Susan Right is a house and techno artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Antwerp, Rotterdam and The Hague and 1 more. Often billed alongside Hedda Stenberg, Mees Salomé and Olivier Weiter. Next up: Shelter Antwerp, Antwerp on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Susan Right is a house and techno artist based in Netherlands, with 24 gigs on s
 
 Hedda Stenberg, Mees Salomé, Olivier Weiter
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/susanright/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/susanright/)*

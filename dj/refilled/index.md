@@ -1,6 +1,6 @@
 # Refilled
 
-Refilled is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 27 Nov 2026.
+Refilled is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 27 Nov 2026.
 
 Refilled is a club and house artist based in United States of America, with 15 gigs on soundcheck across Boston, Florida, New York City and Philadelphia. Often billed alongside Flash Gea, Traps N Trees and shekdash. Next up: Bossa Nova Civic Club, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Refilled is a club and house artist based in United States of America, with 15 g
 
 Flash Gea, Traps N Trees, shekdash
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*

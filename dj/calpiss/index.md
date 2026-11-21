@@ -1,6 +1,6 @@
 # CALPISS
 
-CALPISS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
+CALPISS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
 
 CALPISS is a house and techno artist based in Japan, with 176 gigs on soundcheck across Kyoto, Kyushu, Osaka and Tokyo. Often billed alongside BANANA-CHAN, YAMARCHY and YELLOWUHURU. Next up: Aoyama Hachi, Tokyo on Mon 23 Nov.
 
@@ -26,4 +26,4 @@ CALPISS is a house and techno artist based in Japan, with 176 gigs on soundcheck
 
 BANANA-CHAN, YAMARCHY, YELLOWUHURU
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calpiss/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calpiss/)*

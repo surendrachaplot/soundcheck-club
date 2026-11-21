@@ -1,6 +1,6 @@
 # Megan Rosengarten
 
-Megan Rosengarten is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - 1 INGRAHAM ST, New York City on Sat, 21 Nov 2026.
+Megan Rosengarten is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 1 INGRAHAM ST, New York City on Sat, 21 Nov 2026.
 
 Megan Rosengarten is a techno and experimental artist based in United States of America, with 27 gigs on soundcheck across Berlin and New York City. Often billed alongside Wren's Lullaby, Friedberg and DREAMINSLOW. Next up: TBA - 1 INGRAHAM ST, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Megan Rosengarten is a techno and experimental artist based in United States of 
 
 Wren's Lullaby, Friedberg, DREAMINSLOW
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*

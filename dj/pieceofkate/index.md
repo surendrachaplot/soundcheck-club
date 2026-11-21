@@ -1,6 +1,6 @@
 # Piece of Kate
 
-Piece of Kate is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Astron Club, Athens on Sat, 19 Dec 2026.
+Piece of Kate is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Astron Club, Athens on Sat, 19 Dec 2026.
 
 Piece of Kate is an electro and techno artist based in Greece, with 30 gigs on soundcheck across Athens. Often billed alongside Yorz, IMPVLSIV and SuperCub90. Next up: Astron Club, Athens on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Piece of Kate is an electro and techno artist based in Greece, with 30 gigs on s
 
 Yorz, IMPVLSIV, SuperCub90
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*

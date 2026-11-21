@@ -1,14 +1,14 @@
 # Plushie
 
-Plushie is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ErF Studios, New York City on Fri, 13 Nov 2026.
+Plushie is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jupiter Disco, New York City on Wed, 25 Nov 2026.
 
-Plushie is a tech house and electro artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside xJermsx, Jumplink and Justin V.. Next up: ErF Studios, New York City on Fri 13 Nov.
+Plushie is a tech house and electro artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside xJermsx, Jumplink and Justin V.. Next up: Jupiter Disco, New York City on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | ErF Studios | New York City |
+| Wed, 25 Nov 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Plushie is a tech house and electro artist based in United States of America, wi
 
 xJermsx, Jumplink, Justin V.
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plushie/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plushie/)*

@@ -1,6 +1,6 @@
 # nilehn
 
-nilehn is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Vinyl Whistle, Leeds on Tue, 24 Nov 2026.
+nilehn is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Vinyl Whistle, Leeds on Tue, 24 Nov 2026.
 
 nilehn is a techno and experimental artist based in United Kingdom, with 14 gigs on soundcheck across Leeds. Often billed alongside Ben Zulu, Jake Mehew and NikNak. Next up: The Vinyl Whistle, Leeds on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ nilehn is a techno and experimental artist based in United Kingdom, with 14 gigs
 
 Ben Zulu, Jake Mehew, NikNak
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilehn/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilehn/)*

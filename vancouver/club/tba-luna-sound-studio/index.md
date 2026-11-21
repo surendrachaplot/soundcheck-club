@@ -1,13 +1,13 @@
 # TBA - LUNA SOUND STUDIO
 
-TBA - LUNA SOUND STUDIO is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "STILL HALLOWEEN" on Sat, 7 Nov 2026.
+TBA - LUNA SOUND STUDIO is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "LLUGCHA B2B GARFIELD DISCOTEQUE (ALL NIGHT LONG)" on Sat, 28 Nov 2026.
 
-TBA - LUNA SOUND STUDIO is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+TBA - LUNA SOUND STUDIO is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including LLUGCHA. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | STILL HALLOWEEN |  |
+| Sat, 28 Nov 2026 | LLUGCHA B2B GARFIELD DISCOTEQUE (ALL NIGHT LONG) | LLUGCHA |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-luna-sound-studio/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-luna-sound-studio/)*

@@ -1,6 +1,6 @@
 # CANVAS
 
-CANVAS is a music venue in Dundee with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "4th Axis presents: Fold & Buckley" on Sat, 21 Nov 2026.
+CANVAS is a music venue in Dundee with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "4th Axis presents: Fold & Buckley" on Sat, 21 Nov 2026.
 
 CANVAS is a music venue in Dundee listed on soundcheck. 3 upcoming gigs, with line-ups including Buckley (UK), Dicky Trisco, Fold and DJ Harri and 1 more. See dates, start times and who's playing. Ure St, Dundee DD1 5HZ.
 
@@ -16,4 +16,4 @@ CANVAS is a music venue in Dundee listed on soundcheck. 3 upcoming gigs, with li
 
 Ure St, Dundee DD1 5HZ, Dundee
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/canvas/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/canvas/)*

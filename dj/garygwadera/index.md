@@ -1,6 +1,6 @@
 # Gary Gwadera
 
-Gary Gwadera is a Experimental and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Wharf Chambers, Leeds on Sat, 28 Nov 2026.
+Gary Gwadera is a Experimental and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Wharf Chambers, Leeds on Sat, 28 Nov 2026.
 
 Gary Gwadera is an experimental and footwork artist based in Poland, with 11 gigs on soundcheck across Berlin, Krakow, Leeds and Osaka and 2 more. Often billed alongside 2K88, Eiko Ishibashi and RP Boo. Next up: Wharf Chambers, Leeds on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gary Gwadera is an experimental and footwork artist based in Poland, with 11 gig
 
 2K88, Eiko Ishibashi, RP Boo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garygwadera/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garygwadera/)*

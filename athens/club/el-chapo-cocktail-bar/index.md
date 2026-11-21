@@ -1,6 +1,6 @@
 # El Chapo Cocktail Bar
 
-El Chapo Cocktail Bar is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ELECTRA + NYEREIA + 2DELTA" on Sat, 21 Nov 2026.
+El Chapo Cocktail Bar is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ELECTRA + NYEREIA + 2DELTA" on Sat, 21 Nov 2026.
 
 El Chapo Cocktail Bar is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Electra, Steph and Steve Tsama. See dates, start times and who's playing. Filonos 95 Piraeus, Athens.
 
@@ -15,4 +15,4 @@ El Chapo Cocktail Bar is a music venue in Athens listed on soundcheck. 2 upcomin
 
 Filonos 95 Piraeus, Athens, Athens
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/el-chapo-cocktail-bar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/el-chapo-cocktail-bar/)*

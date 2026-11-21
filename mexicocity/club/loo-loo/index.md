@@ -1,14 +1,13 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Dezko" on Fri, 20 Nov 2026.
+Loo Loo is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Andrew Rayel" on Sat, 21 Nov 2026.
 
-Loo Loo is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including Andrew Rayel, Johnny Chief, Matador and Rafatel. See dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
+Loo Loo is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs, with line-ups including Andrew Rayel, Johnny Chief, Matador and Rafatel. See dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Dezko |  |
 | Sat, 21 Nov 2026 | Andrew Rayel | Andrew Rayel |
 | Fri, 4 Dec 2026 | Matador | Johnny Chief, Matador |
 | Sat, 5 Dec 2026 | Dj Pee.Wee (Anderson. Paak) | Rafatel |
@@ -17,4 +16,4 @@ Loo Loo is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, w
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

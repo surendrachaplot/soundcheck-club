@@ -1,8 +1,8 @@
 # Matriark
 
-Matriark is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 21 Nov 2026.
+Matriark is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 21 Nov 2026.
 
-Matriark is a techno and trance artist based in Norway, with 146 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: Den Anden Side, Copenhagen on Sat 21 Nov.
+Matriark is a techno and trance artist based in Norway, with 147 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: Den Anden Side, Copenhagen on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Matriark is a techno and trance artist based in Norway, with 146 gigs on soundch
 | Sat, 21 Nov 2026 | Den Anden Side | Copenhagen |
 | Fri, 18 Dec 2026 | Hangaren | Copenhagen |
 | Thu, 31 Dec 2026 | Renate | Berlin |
+| Thu, 31 Dec 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Matriark is a techno and trance artist based in Norway, with 146 gigs on soundch
 
 DJ IBON, ibon, Britney Speed
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*

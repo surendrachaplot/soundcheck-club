@@ -1,0 +1,28 @@
+# Alejandro Mosso
+
+Alejandro Mosso is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ikii, Berlin on Fri, 18 Dec 2026.
+
+Alejandro Mosso is an ambient and electronica artist based in Argentina, with 17 gigs on soundcheck across Barcelona, Berlin, Geneva and Ibiza and 1 more. Often billed alongside Mad Dim, Benjamin Fehr and Lenny Mailleau. Next up: Ikii, Berlin on Fri 18 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Dec 2026 | Ikii | Berlin |
+
+## Recently played
+
+- Ikii, Berlin · Fri, 23 Oct 2026
+- Haus der Visionäre, Berlin · Fri, 11 Sept 2026
+- Collect LX Factory, Lisbon · Thu, 9 Jul 2026
+- Ableton HQ Berlin, Berlin · Sat, 4 Jul 2026
+- Ikii, Berlin · Sat, 20 Jun 2026
+- Ikii, Berlin · Fri, 27 Mar 2026
+- Kater, Berlin · Fri, 6 Feb 2026
+- TBA - The Standard, Ibiza · Thu, 17 Jul 2025
+
+## Shares bills with
+
+Mad Dim, Benjamin Fehr, Lenny Mailleau
+
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromosso/)*

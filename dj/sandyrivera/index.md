@@ -1,6 +1,6 @@
 # Sandy Rivera
 
-Sandy Rivera is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
+Sandy Rivera is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
 
 Sandy Rivera is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Todd Terry, Ella Knight and Freestylers. Next up: Odiseja BTC Ljubljana, Slovenia on Fri 18 Dec.
 
@@ -32,4 +32,4 @@ Sandy Rivera is a house and deep house artist based in United States of America,
 
 Todd Terry, Ella Knight, Freestylers
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*

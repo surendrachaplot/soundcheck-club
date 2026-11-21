@@ -1,6 +1,6 @@
 # Jordan Nocturne
 
-Jordan Nocturne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 21 Nov 2026.
+Jordan Nocturne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 21 Nov 2026.
 
 Jordan Nocturne is a house and techno artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 20 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: The Ulster Sports Club, Belfast on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jordan Nocturne is a house and techno artist based in United Kingdom, with 81 gi
 
 Timmy Stewart, Marion Hawkes, Danse Intermission
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*

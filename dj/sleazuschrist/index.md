@@ -1,6 +1,6 @@
 # Sleazus Christ
 
-Sleazus Christ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Mister Zhangs, Cleveland on Fri, 4 Dec 2026.
+Sleazus Christ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mister Zhangs, Cleveland on Fri, 4 Dec 2026.
 
 Sleazus Christ is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Cleveland. Often billed alongside Teddy Eisenberg, Le Schlippy and ASL Princess. Next up: Mister Zhangs, Cleveland on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sleazus Christ is a house and techno artist based in United States of America, w
 
 Teddy Eisenberg, Le Schlippy, ASL Princess
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazuschrist/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazuschrist/)*

@@ -1,17 +1,18 @@
 # noa (6)
 
-noa (6) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Toronto on Fri, 13 Nov 2026.
+noa (6) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Toronto on Fri, 4 Dec 2026.
 
-noa is a techno and electro artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside anise, DINO and eRee. Next up: TBA, Toronto on Fri 13 Nov.
+noa is a techno and electro artist based in Canada, with 6 gigs on soundcheck across Toronto. Often billed alongside anise, DINO and eRee. Next up: TBA, Toronto on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA | Toronto |
+| Fri, 4 Dec 2026 | TBA | Toronto |
 
 ## Recently played
 
+- TBA, Toronto · Fri, 13 Nov 2026
 - Standard Time, Toronto · Sat, 11 Jul 2026
 - TBA - 75 Pelham Street, Toronto · Fri, 3 Jul 2026
 - Bsmt 254, Toronto · Thu, 14 May 2026
@@ -21,4 +22,4 @@ noa is a techno and electro artist based in Canada, with 5 gigs on soundcheck ac
 
 anise, DINO (3), eRee
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noa-6/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noa-6/)*

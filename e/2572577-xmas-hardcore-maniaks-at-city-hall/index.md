@@ -1,6 +1,6 @@
 # XMAS HARDCORE MANIAKS at City Hall
 
-XMAS HARDCORE MANIAKS at City Hall on Sat 26 Dec, Barcelona. 3 artists: CUTIE, Ophidian and Revenja. Hardcore. See the line-up on soundcheck.
+XMAS HARDCORE MANIAKS at City Hall on Sat 26 Dec, Barcelona. 4 artists: CUTIE, Ophidian, Revenja and TRAKA. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ XMAS HARDCORE MANIAKS at City Hall on Sat 26 Dec, Barcelona. 3 artists: CUTIE, O
 - CUTIE
 - Ophidian
 - Revenja
+- TRAKA
 
 *Source: [soundcheck](https://soundcheck.club/e/2572577-xmas-hardcore-maniaks-at-city-hall/)*

@@ -1,6 +1,6 @@
 # Edouard Hauki
 
-Edouard Hauki is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Péniche Éliane, Brussels on Fri, 18 Dec 2026.
+Edouard Hauki is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Péniche Éliane, Brussels on Fri, 18 Dec 2026.
 
 Edouard Hauki is a techno and electro artist based in Belgium, with 15 gigs on soundcheck across Brussels and Ghent. Often billed alongside Alfred Anders, Boudewijn Ericx and DJ Rino. Next up: Péniche Éliane, Brussels on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Edouard Hauki is a techno and electro artist based in Belgium, with 15 gigs on s
 
 Alfred Anders, Boudewijn Ericx, DJ Rino
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edouardhauki/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edouardhauki/)*

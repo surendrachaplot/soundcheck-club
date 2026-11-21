@@ -1,6 +1,6 @@
 # Vonderau
 
-Vonderau is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
+Vonderau is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
 
 Vonderau is a techno and tech house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Frankfurt and 3 more. Often billed alongside Dan Brocksmith, Daryl Johnson and Luke Sun. Next up: Tanzhaus West, Frankfurt on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Vonderau is a techno and tech house artist based in Germany, with 28 gigs on sou
 
 Dan Brocksmith, Daryl Johnson, Luke Sun
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonderau/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonderau/)*

@@ -1,6 +1,6 @@
 # Asarri
 
-Asarri is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
+Asarri is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
 
 Asarri is a techno and acid artist based in Serbia, with 46 gigs on soundcheck across Belgrade, Dresden, Istanbul and Ljubljana and 4 more. Often billed alongside Deeda, Essio and Stameni. Next up: Klub K4, Ljubljana on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Asarri is a techno and acid artist based in Serbia, with 46 gigs on soundcheck a
 
 Deeda, Essio, Stameni
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*

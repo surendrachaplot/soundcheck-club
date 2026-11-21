@@ -1,14 +1,13 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - 11/20 Midnight, Toronto on Fri, 20 Nov 2026.
+The Shapeshifters is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
 
-The Shapeshifters is a house and disco artist based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 34 more. Often billed alongside Melvo Baptiste, Aline Rocha and Horse Meat Disco. Next up: TBA - 11/20 Midnight, Toronto on Fri 20 Nov.
+The Shapeshifters is a house and disco artist based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 34 more. Often billed alongside Melvo Baptiste, Aline Rocha and Horse Meat Disco. Next up: TBA, Toronto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - 11/20 Midnight | Toronto |
 | Sat, 21 Nov 2026 | TBA | Toronto |
 | Fri, 5 Mar 2027 | Home The Venue | Sydney |
 | Sat, 6 Mar 2027 | Hindley Street Music Hall | Adelaide |
@@ -18,6 +17,7 @@ The Shapeshifters is a house and disco artist based in United Kingdom, with 131 
 
 ## Recently played
 
+- TBA - 11/20 Midnight, Toronto · Fri, 20 Nov 2026
 - Electrowerkz, London · Sat, 31 Oct 2026
 - Thuishaven, Amsterdam · Thu, 22 Oct 2026
 - Joshua Brooks, Manchester · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ The Shapeshifters is a house and disco artist based in United Kingdom, with 131 
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - The Ornate Studio, New York City · Sat, 26 Sept 2026
 - DRUMSHEDS, London · Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Aline Rocha, Horse Meat Disco
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

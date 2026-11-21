@@ -1,6 +1,6 @@
 # Danny Subsonic
 
-Danny Subsonic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sensorium, Berlin on Wed, 23 Dec 2026.
+Danny Subsonic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sensorium, Berlin on Wed, 23 Dec 2026.
 
 Danny Subsonic is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside CEEE, Fabian Fischbach and Kijara. Next up: Sensorium, Berlin on Wed 23 Dec.
 
@@ -26,4 +26,4 @@ Danny Subsonic is a techno and house artist based in Germany, with 14 gigs on so
 
 CEEE, Fabian Fischbach, Kijara
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysubsonic/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysubsonic/)*

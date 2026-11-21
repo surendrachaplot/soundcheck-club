@@ -1,6 +1,6 @@
 # TRIPS
 
-TRIPS is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 600 Water Street, Baltimore on Thu, 31 Dec 2026.
+TRIPS is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 600 Water Street, Baltimore on Thu, 31 Dec 2026.
 
 TRIPS is a techno and bass artist based in United States of America, with 7 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside KRØK, j:drive and BAMBI (US). Next up: 600 Water Street, Baltimore on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ TRIPS is a techno and bass artist based in United States of America, with 7 gigs
 
 KRØK, j:drive, BAMBI (US)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trips-us/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trips-us/)*

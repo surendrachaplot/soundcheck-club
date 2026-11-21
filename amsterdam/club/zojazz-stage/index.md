@@ -1,13 +1,19 @@
 # Zojazz Stage
 
-Zojazz Stage is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "ZOJazz Stage x Bimhuis presents • Wazo Bean • 1st Edition" on Thu, 19 Nov 2026.
+Zojazz Stage is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Marmoucha Orchestra • Wandering Roots" on Fri, 27 Nov 2026.
 
-Zojazz Stage is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Zojazz Stage is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | ZOJazz Stage x Bimhuis presents • Wazo Bean • 1st Edition |  |
+| Fri, 27 Nov 2026 | Marmoucha Orchestra • Wandering Roots |  |
+| Sat, 28 Nov 2026 | Alexander Beets Sextet • Celebrate the Music of Cannonball Adderley |  |
+| Sat, 5 Dec 2026 | Lucas Santana invites Femke Smit and Mike del Ferro • Brazilian Music Night |  |
+| Fri, 11 Dec 2026 | Symfonia Zuidoost • By Dywel Braaf feat. Azubike Onwuka • 1st Edition |  |
+| Sat, 12 Dec 2026 | Roda de Samba • By Saravá Samba Project • 2nd Edition |  |
+| Thu, 17 Dec 2026 | Rembrandt Quartet featuring Jesse Schilderink |  |
+| Fri, 18 Dec 2026 | Licks & Brains • Funky Xmas • feat. Mrs. Hips |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/zojazz-stage/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/zojazz-stage/)*

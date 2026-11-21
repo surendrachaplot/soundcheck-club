@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
+Signal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
 
 Signal is a techno and house artist based in Netherlands, with 32 gigs on soundcheck across New York City and Tokyo. Often billed alongside MOTOKA, MASANORI MORITA and AHREUM. Next up: Aoyama Hachi, Tokyo on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Signal is a techno and house artist based in Netherlands, with 32 gigs on soundc
 
 MOTOKA, MASANORI MORITA, AHREUM
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-nl/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-nl/)*

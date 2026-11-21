@@ -1,6 +1,6 @@
 # Gavin Stephenson
 
-Gavin Stephenson is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
+Gavin Stephenson is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
 
 Gavin Stephenson is a deep house and house artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside Iman Rizky, Drew Proud and 2melo. Next up: Crossroads Cafe, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Gavin Stephenson is a deep house and house artist based in United States of Amer
 
 Iman Rizky, Drew Proud, 2melo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinstephenson/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinstephenson/)*

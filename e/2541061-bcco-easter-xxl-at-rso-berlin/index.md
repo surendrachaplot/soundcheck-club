@@ -1,6 +1,6 @@
 # BCCO Easter XXL at RSO.BERLIN
 
-BCCO Easter XXL at RSO.BERLIN on Sat 27 Mar, Berlin. 10 artists: Cirkle, FANK, FENIM0RE and FRESKO and 6 more. See the line-up on soundcheck.
+BCCO Easter XXL at RSO.BERLIN on Sat 27 Mar, Berlin. 11 artists: Cirkle, FANK, FENIM0RE and FRESKO and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ BCCO Easter XXL at RSO.BERLIN on Sat 27 Mar, Berlin. 10 artists: Cirkle, FANK, F
 - FRESKO
 - future.666
 - KUSS
+- Miss Kittin
 - Obscure Shape
 - Phil Berg
 - ÜBERKIKZ

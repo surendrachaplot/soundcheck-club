@@ -1,6 +1,6 @@
 # Yura
 
-Yura is a Techno and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Pistil, Seoul on Sat, 21 Nov 2026.
+Yura is a Techno and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pistil, Seoul on Sat, 21 Nov 2026.
 
 Yura is a techno and dancehall artist based in Ukraine, with 9 gigs on soundcheck across Barcelona, Lisbon, Seoul and Tokyo. Often billed alongside AI, An toi and Baussy. Next up: Pistil, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Yura is a techno and dancehall artist based in Ukraine, with 9 gigs on soundchec
 
 AI (10), An toi, Baussy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yura/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yura/)*

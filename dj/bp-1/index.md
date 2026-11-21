@@ -1,6 +1,6 @@
 # BP (1)
 
-BP (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Holding Patterns, Leeds on Sat, 21 Nov 2026.
+BP (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Holding Patterns, Leeds on Sat, 21 Nov 2026.
 
 BP is a house and techno artist, with 29 gigs on soundcheck across Glasgow, Leeds, London and Manchester. Often billed alongside Joe Reece, Jordan Walker and Max Le Louche. Next up: Holding Patterns, Leeds on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ BP is a house and techno artist, with 29 gigs on soundcheck across Glasgow, Leed
 
 Joe Reece, Jordan Walker, Max Le Louche
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bp-1/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bp-1/)*

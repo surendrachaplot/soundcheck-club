@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "R̶I̶T̶U̶A̶L̶" on Thu, 19 Nov 2026.
+The Lido is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Canadian Club - A Record Store Takeover" on Mon, 14 Dec 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -8,10 +8,10 @@ The Lido is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | R̶I̶T̶U̶A̶L̶ |  |
+| Mon, 14 Dec 2026 | Canadian Club - A Record Store Takeover |  |
 
 ## Address
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

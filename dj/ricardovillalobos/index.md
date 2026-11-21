@@ -1,8 +1,8 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Ricardo Villalobos is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
-Ricardo Villalobos is a techno and house artist based in Chile, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Raresh, Tomas Station and Sonja Moonear. Next up: The Pickle, Miami on Thu 3 Dec.
+Ricardo Villalobos is a techno and house artist based in Chile, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Raresh, Tomas Station and O.BEE. Next up: The Pickle, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ricardo Villalobos is a techno and house artist based in Chile, with 151 gigs on
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sun, 20 Dec 2026 | WOLF Barcelona | Barcelona |
 | Fri, 1 Jan 2027 | ZENNER | Berlin |
+| Sat, 13 Mar 2027 | fabric | London |
 | Fri, 1 Oct 2027 | Chinois Ibiza | Ibiza |
 
 ## Recently played
@@ -26,6 +27,6 @@ Ricardo Villalobos is a techno and house artist based in Chile, with 151 gigs on
 
 ## Shares bills with
 
-Raresh, Tomas Station, Sonja Moonear
+Raresh, Tomas Station, O.BEE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

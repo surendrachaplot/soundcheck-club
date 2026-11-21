@@ -1,13 +1,14 @@
 # Yashima
 
-Yashima is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Shibuya Oiran, Tokyo on Sat, 28 Nov 2026.
+Yashima is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 21 Nov 2026.
 
-Yashima is a tech house and house artist based in Japan, with 46 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KONDO Mitsuo, MAX PELA and Cine. Next up: Shibuya Oiran, Tokyo on Sat 28 Nov.
+Yashima is a tech house and house artist based in Japan, with 47 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KONDO Mitsuo, MAX PELA and Cine. Next up: THE HAPPY mAN CHEAKS, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | THE HAPPY mAN CHEAKS | Tokyo |
 | Sat, 28 Nov 2026 | Shibuya Oiran | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Yashima is a tech house and house artist based in Japan, with 46 gigs on soundch
 
 KONDO Mitsuo, MAX PELA, Cine
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yashima/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yashima/)*

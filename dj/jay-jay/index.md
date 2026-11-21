@@ -1,6 +1,6 @@
 # JayJay
 
-JayJay is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 27 Nov 2026.
+JayJay is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 27 Nov 2026.
 
 JayJay is an electro and techno artist based in United Kingdom, with 44 gigs on soundcheck across Athens, Barcelona, Glasgow and Hannover and 6 more. Often billed alongside TRSSX, Alliyah Enyo and Brandon Lee Vear. Next up: EXIT Glasgow, Glasgow on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ JayJay is an electro and techno artist based in United Kingdom, with 44 gigs on 
 
 TRSSX, Alliyah Enyo, Brandon Lee Vear
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-jay/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-jay/)*

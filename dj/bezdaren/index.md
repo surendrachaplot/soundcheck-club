@@ -1,6 +1,6 @@
 # BEZDAREN
 
-BEZDAREN is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tell Me, Sofia on Sat, 21 Nov 2026.
+BEZDAREN is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tell Me, Sofia on Sat, 21 Nov 2026.
 
 BEZDAREN is a club and techno artist based in Bulgaria, with 32 gigs on soundcheck across Prague and Sofia. Often billed alongside Haidut, J-Lost and KASSIS. Next up: Tell Me, Sofia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ BEZDAREN is a club and techno artist based in Bulgaria, with 32 gigs on soundche
 
 Haidut, J-Lost, KASSIS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bezdaren/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bezdaren/)*

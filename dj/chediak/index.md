@@ -1,6 +1,6 @@
 # Chediak
 
-Chediak is a Drum & Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Crema Club, Sao Paulo on Sat, 12 Dec 2026.
+Chediak is a Drum & Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Crema Club, Sao Paulo on Sat, 12 Dec 2026.
 
 Chediak is a drum & bass and baile funk artist based in Brazil, with 31 gigs on soundcheck across Barcelona, Berlin, Dubai and Lisbon and 6 more. Often billed alongside ANTCONSTANTINO, Crosstalk (BR) and Jacquelone. Next up: Crema Club, Sao Paulo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Chediak is a drum & bass and baile funk artist based in Brazil, with 31 gigs on 
 
 ANTCONSTANTINO, Crosstalk (BR), Jacquelone
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chediak/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chediak/)*

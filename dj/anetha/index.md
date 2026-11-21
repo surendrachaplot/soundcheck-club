@@ -1,6 +1,6 @@
 # Anetha
 
-Anetha is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+Anetha is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
 
 Anetha is a techno and house artist based in France, with 247 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
 
@@ -23,6 +23,7 @@ Anetha is a techno and house artist based in France, with 247 gigs on soundcheck
 
 ## Recently played
 
+- Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - Flash, Washington DC · Thu, 19 Nov 2026
 - Club Cultural Lima, Peru · Fri, 30 Oct 2026
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
@@ -30,10 +31,9 @@ Anetha is a techno and house artist based in France, with 247 gigs on soundcheck
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - Palladium, Geneva · Sat, 10 Oct 2026
 - Hï Ibiza, Ibiza · Sun, 4 Oct 2026
-- Nitsa Club, Barcelona · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Mac Declos, SPFDJ, DJ Gigola
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

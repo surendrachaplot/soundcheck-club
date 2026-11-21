@@ -1,6 +1,6 @@
 # Anechoic x Pikante [Friday+Saturday] at ÆDEN
 
-Anechoic x Pikante [Friday+Saturday] at ÆDEN on Fri 11 Dec, Berlin. 23 artists: 4NOUK, Amo (IT), August Kind and bbymeister and 19 more. Trance and Techno. See the line-up on soundcheck.
+Anechoic x Pikante [Friday+Saturday] at ÆDEN on Fri 11 Dec, Berlin. 26 artists: 4NOUK, Amo (IT), August Kind and bbymeister and 22 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,8 +18,11 @@ Anechoic x Pikante [Friday+Saturday] at ÆDEN on Fri 11 Dec, Berlin. 23 artists:
 - Deltapeak
 - djbounty3000
 - Erebos
+- FRÆNCIS
 - Hanne B
 - L.OST
+- LAURIX (DE)
+- MARRE
 - MIMI404
 - Nadia Bel Air
 - OKSY

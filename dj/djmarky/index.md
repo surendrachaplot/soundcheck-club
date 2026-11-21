@@ -1,14 +1,13 @@
 # DJ Marky
 
-DJ Marky is a Drum & Bass and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ampere, Antwerp on Fri, 20 Nov 2026.
+DJ Marky is a Drum & Bass and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Grelle Forelle, Vienna on Sat, 21 Nov 2026.
 
-DJ Marky is a drum & bass and house artist based in Brazil, with 114 gigs on soundcheck across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside MC GQ, Makoto and GQ. Next up: Ampere, Antwerp on Fri 20 Nov.
+DJ Marky is a drum & bass and house artist based in Brazil, with 114 gigs on soundcheck across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside MC GQ, Makoto and GQ. Next up: Grelle Forelle, Vienna on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Ampere | Antwerp |
 | Sat, 21 Nov 2026 | Grelle Forelle | Vienna |
 | Fri, 27 Nov 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 5 Dec 2026 | KOKO | London |
@@ -16,6 +15,7 @@ DJ Marky is a drum & bass and house artist based in Brazil, with 114 gigs on sou
 
 ## Recently played
 
+- Ampere, Antwerp · Fri, 20 Nov 2026
 - Central 1926, Sao Paulo · Sat, 26 Sept 2026
 - D-EDGE, Sao Paulo · Sat, 22 Aug 2026
 - Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
@@ -23,10 +23,9 @@ DJ Marky is a drum & bass and house artist based in Brazil, with 114 gigs on sou
 - Bristol Amphitheatre & Waterfront Square, Bristol · Sat, 25 Jul 2026
 - Hare & Hounds, Birmingham · Sat, 25 Jul 2026
 - A Balsa, Sao Paulo · Sat, 11 Jul 2026
-- Katarina Bar, Sao Paulo · Thu, 25 Jun 2026
 
 ## Shares bills with
 
 MC GQ, Makoto, GQ
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*

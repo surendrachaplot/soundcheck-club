@@ -1,6 +1,6 @@
 # Crimson (2)
 
-Crimson (2) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Calgary on Sat, 28 Nov 2026.
+Crimson (2) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Calgary on Sat, 28 Nov 2026.
 
 Crimson is a garage and bass artist based in Canada, with 7 gigs on soundcheck across Calgary and Edmonton. Often billed alongside Malina, DJ Hannah and Hood Joplin. Next up: TBA, Calgary on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Crimson is a garage and bass artist based in Canada, with 7 gigs on soundcheck a
 
 Malina, DJ Hannah, Hood Joplin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crimson-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crimson-2/)*

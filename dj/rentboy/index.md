@@ -1,6 +1,6 @@
 # Rent Boy
 
-Rent Boy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bunker, Turin on Sat, 28 Nov 2026.
+Rent Boy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bunker, Turin on Sat, 28 Nov 2026.
 
 Rent Boy is a techno and house artist based in Italy, with 11 gigs on soundcheck across San Francisco/Oakland and Turin. Often billed alongside Minimal Larsen, Puro and Cescx. Next up: Bunker, Turin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Rent Boy is a techno and house artist based in Italy, with 11 gigs on soundcheck
 
 Minimal Larsen, Puro, Cescx
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rentboy/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rentboy/)*

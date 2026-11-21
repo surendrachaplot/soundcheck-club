@@ -1,8 +1,8 @@
 # VERTEX (2)
 
-VERTEX (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
+VERTEX (2) is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
 
-VERTEX is a bass and techno artist based in United Kingdom, with 28 gigs on soundcheck across London. Often billed alongside EVSKA, Engineer (Live) and DJ LIL-E. Next up: Lab.Club, London on Sat 21 Nov.
+VERTEX is a bass and techno artist based in United Kingdom, with 29 gigs on soundcheck across London. Often billed alongside EVSKA, Engineer (Live) and DJ LIL-E. Next up: Lab.Club, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VERTEX is a bass and techno artist based in United Kingdom, with 28 gigs on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Lab.Club | London |
 | Fri, 4 Dec 2026 | Club Makossa | London |
+| Sat, 5 Dec 2026 | The Haggerston | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ VERTEX is a bass and techno artist based in United Kingdom, with 28 gigs on soun
 
 EVSKA, Engineer (Live), DJ LIL-E
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertex-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertex-2/)*

@@ -1,13 +1,14 @@
 # starfari
 
-starfari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Monarch, San-francisco-oakland on Sat, 2 Jan 2027.
+starfari is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
-starfari is a house and disco artist based in United States of America, with 41 gigs on soundcheck across Los Angeles, Paris, San Francisco Oakland and San Francisco/Oakland and 1 more. Often billed alongside DJ M3, discoesq and &ndmore. Next up: Monarch, San Francisco Oakland on Sat 2 Jan.
+starfari is a house and disco artist based in United States of America, with 42 gigs on soundcheck across Los Angeles, Paris, San Francisco Oakland and San Francisco/Oakland and 1 more. Often billed alongside DJ M3, discoesq and Galen. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 | Sat, 2 Jan 2027 | Monarch | San-francisco-oakland |
 | Tue, 12 Jan 2027 | IO Music Academy SF | San Francisco/Oakland |
 
@@ -24,6 +25,6 @@ starfari is a house and disco artist based in United States of America, with 41 
 
 ## Shares bills with
 
-DJ M3, discoesq, &ndmore
+DJ M3, discoesq, Galen
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*

@@ -1,6 +1,6 @@
 # Fauren
 
-Fauren is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Rhythm, Toronto on Fri, 18 Dec 2026.
+Fauren is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Rhythm, Toronto on Fri, 18 Dec 2026.
 
 Fauren is a minimal and house artist, with 15 gigs on soundcheck across Toronto. Often billed alongside Thomas James, Greg Burke and Hair Gel. Next up: Rhythm, Toronto on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Fauren is a minimal and house artist, with 15 gigs on soundcheck across Toronto.
 
 Thomas James (2), Greg Burke, Hair Gel
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fauren-co/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fauren-co/)*

@@ -1,6 +1,6 @@
 # DIFFUSE REALITY [Community Gathering] - Free Tickets at TBA - Secret Warehouse (Barcelona)
 
-DIFFUSE REALITY [Community Gathering] - Free Tickets at TBA - Secret Warehouse (Barcelona) on Sat 28 Nov, Barcelona. 3 artists: Hanakito, J Key and Squaric. Techno. See the line-up on soundcheck.
+DIFFUSE REALITY [Community Gathering] - Free Tickets at TBA - Secret Warehouse (Barcelona) on Sat 28 Nov, Barcelona. 4 artists: Hanakito, J Key, rocío and Squaric. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ DIFFUSE REALITY [Community Gathering] - Free Tickets at TBA - Secret Warehouse (
 
 - Hanakito
 - J Key
+- rocío
 - Squaric
 
 *Source: [soundcheck](https://soundcheck.club/e/2495406-diffuse-reality-community-gathering-free-tickets-at-tba-secr/)*

@@ -1,6 +1,6 @@
 # Spiri:tual
 
-Spiri:tual is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 21 Nov 2026.
+Spiri:tual is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 21 Nov 2026.
 
 Spiri:tual is a minimal and minimal techno artist based in Romania, with 13 gigs on soundcheck across Copenhagen, Gothenburg, Malmo and Stockholm. Often billed alongside Ajaks, Alonso Lozano and Pentti Igor. Next up: Ivans Pilsnerbar, Gothenburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Spiri:tual is a minimal and minimal techno artist based in Romania, with 13 gigs
 
 Ajaks, Alonso Lozano, Pentti Igor
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spiritual/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spiritual/)*

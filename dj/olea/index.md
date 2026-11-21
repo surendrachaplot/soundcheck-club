@@ -1,6 +1,6 @@
 # OLEA
 
-OLEA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 21 Nov 2026.
+OLEA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 21 Nov 2026.
 
 OLEA is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 12 more. Often billed alongside Mark Dekoda, Sylvie Miles and Klanglos. Next up: Soku Neustadt, Rhineland Palatinate on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ OLEA is a techno and house artist based in Germany, with 64 gigs on soundcheck a
 
 Mark Dekoda, Sylvie Miles, Klanglos
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*

@@ -1,6 +1,6 @@
 # Kaattchu
 
-Kaattchu is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Company Club, Milan on Sat, 21 Nov 2026.
+Kaattchu is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Company Club, Milan on Sat, 21 Nov 2026.
 
 Kaattchu is an electro and house artist based in Italy, with 2 gigs on soundcheck across Milan. Often billed alongside Protopapa. Next up: Company Club, Milan on Sat 21 Nov.
 
@@ -15,4 +15,4 @@ Kaattchu is an electro and house artist based in Italy, with 2 gigs on soundchec
 
 Protopapa
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaattchu/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaattchu/)*

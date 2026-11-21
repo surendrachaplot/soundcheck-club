@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+The Trip is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 The Trip is a house and techno artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Sam Alfred, Phill de Janeiro and Benji King. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -18,6 +18,7 @@ The Trip is a house and techno artist based in United Kingdom, with 93 gigs on s
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - SWG3, Glasgow · Fri, 6 Nov 2026
 - SWG3, Glasgow · Fri, 6 Nov 2026
 - EartH, London · Fri, 30 Oct 2026
@@ -25,10 +26,9 @@ The Trip is a house and techno artist based in United Kingdom, with 93 gigs on s
 - Quinta Mira Rio, Lisbon · Sat, 26 Sept 2026
 - Café Schöne Aussichten (CSA), Hamburg · Sat, 19 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
-- Kelvedon Hall, London · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Sam Alfred, Phill de Janeiro, Benji King
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

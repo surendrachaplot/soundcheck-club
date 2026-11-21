@@ -1,6 +1,6 @@
 # Dez (UK)
 
-Dez (UK) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Next Door Records, London on Fri, 18 Dec 2026.
+Dez (UK) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Next Door Records, London on Fri, 18 Dec 2026.
 
 Dez (UK) is a house and deep house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Mannequin, Steamy Bumplings and MXT (UK). Next up: Next Door Records, London on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ Dez (UK) is a house and deep house artist based in United Kingdom, with 11 gigs 
 
 Mannequin, Steamy Bumplings, MXT (UK)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dez-uk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dez-uk/)*

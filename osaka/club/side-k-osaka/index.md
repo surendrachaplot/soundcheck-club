@@ -1,17 +1,17 @@
 # Side:K Osaka
 
-Side:K Osaka is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "NESTAL K-POP NIGHT: I LOVE BB in Osaka" on Fri, 27 Nov 2026.
+Side:K Osaka is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "NESTAL K-POP NIGHT: I LOVE BB in Osaka" on Fri, 27 Nov 2026.
 
-Side:K Osaka is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including JUNK.PARK. See dates, start times and who's playing. 7-9 Soemoncho, Chuo-ku, Osaka 542-0084, Japan.
+Side:K Osaka is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including DJ CHIKA and JUNK.PARK. See dates, start times and who's playing. 7-9 Soemoncho, Chuo-ku, Osaka 542-0084, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | NESTAL K-POP NIGHT: I LOVE BB in Osaka | JUNK.PARK |
+| Fri, 27 Nov 2026 | NESTAL K-POP NIGHT: I LOVE BB in Osaka | DJ CHIKA, JUNK.PARK |
 
 ## Address
 
 7-9 Soemoncho, Chuo-ku, Osaka 542-0084, Japan, Osaka
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/side-k-osaka/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/side-k-osaka/)*

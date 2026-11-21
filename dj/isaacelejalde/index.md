@@ -1,6 +1,6 @@
 # Isaac Elejalde
 
-Isaac Elejalde is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 18 Dec 2026.
+Isaac Elejalde is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 18 Dec 2026.
 
 Isaac Elejalde is a house and minimal artist based in Venezuela, with 59 gigs on soundcheck across Barcelona, Berlin, Bucharest and Budapest and 3 more. Often billed alongside Hypnoize, vault. and Aggy. Next up: Bulbul Berlin, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Isaac Elejalde is a house and minimal artist based in Venezuela, with 59 gigs on
 
 Hypnoize, vault., Aggy
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacelejalde/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacelejalde/)*

@@ -1,8 +1,8 @@
 # Mertkan Akd
 
-Mertkan Akd is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 21 Nov 2026.
+Mertkan Akd is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 21 Nov 2026.
 
-Mertkan Akd is a house and techno artist, with 19 gigs on soundcheck across Bali and Istanbul. Often billed alongside Avangart Tabldot, Doruk and Ferhat Albayrak. Next up: Frankhan Selectist, Istanbul on Sat 21 Nov.
+Mertkan Akd is a house and techno artist based in Turkey, with 19 gigs on soundcheck across Bali and Istanbul. Often billed alongside Avangart Tabldot, Doruk and Ferhat Albayrak. Next up: Frankhan Selectist, Istanbul on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mertkan Akd is a house and techno artist, with 19 gigs on soundcheck across Bali
 
 Avangart Tabldot, Doruk, Ferhat Albayrak
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mertkanakd/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mertkanakd/)*

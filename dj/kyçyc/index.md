@@ -1,8 +1,8 @@
 # Kyçyc
 
-Kyçyc is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Slot, Hamburg on Sat, 21 Nov 2026.
+Kyçyc is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Slot, Hamburg on Sat, 21 Nov 2026.
 
-Kyçyc is a house and minimal artist based in Germany, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside EllA, Jasper Kråch and Joël Ruck. Next up: Slot, Hamburg on Sat 21 Nov.
+Kyçyc is a house and minimal artist based in Germany, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DINKS, EMAILLE and EllA. Next up: Slot, Hamburg on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Kyçyc is a house and minimal artist based in Germany, with 3 gigs on soundcheck
 
 ## Shares bills with
 
-EllA, Jasper Kråch, Joël Ruck
+DINKS, EMAILLE, EllA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyçyc/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyçyc/)*

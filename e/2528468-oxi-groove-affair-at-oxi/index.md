@@ -1,6 +1,6 @@
 # OXI GROOVE AFFAIR at OXI
 
-OXI GROOVE AFFAIR on Fri 11 Dec, Berlin. 6 artists: Bauen, Chinichi, Damian.Thorn and DJ Fett Burger and 2 more. House and Deep House. See the line-up on soundcheck.
+OXI GROOVE AFFAIR on Fri 11 Dec, Berlin. 7 artists: Bauen, Chinichi, Damian.Thorn and DJ Fett Burger and 3 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ OXI GROOVE AFFAIR on Fri 11 Dec, Berlin. 6 artists: Bauen, Chinichi, Damian.Thor
 - Chinichi
 - Damian.Thorn
 - DJ Fett Burger
+- DJ Pipe
 - Gabs Leyton
 - jiyun kim
 

@@ -1,8 +1,8 @@
 # Annina Frey
 
-Annina Frey is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Gaskessel Bern, Bern on Sat, 21 Nov 2026.
+Annina Frey is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Gaskessel Bern, Bern on Sat, 21 Nov 2026.
 
-Annina Frey is an electronic artist based in Switzerland, with 6 gigs on soundcheck across Bern and Zurich. Often billed alongside Anja Schneider, Cortez and David Kawka. Next up: Gaskessel Bern, Bern on Sat 21 Nov.
+Annina Frey is an electronic artist based in Switzerland, with 6 gigs on soundcheck across Bern and Zurich. Often billed alongside AIIA, Anja Schneider and Cortez. Next up: Gaskessel Bern, Bern on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Annina Frey is an electronic artist based in Switzerland, with 6 gigs on soundch
 
 ## Shares bills with
 
-Anja Schneider, Cortez (2), David Kawka
+AIIA, Anja Schneider, Cortez (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anninafrey/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anninafrey/)*

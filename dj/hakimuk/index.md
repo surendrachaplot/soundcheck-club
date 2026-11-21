@@ -1,8 +1,8 @@
 # HAKIM (UK)
 
-HAKIM (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 27 Nov 2026.
+HAKIM (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 27 Nov 2026.
 
-HAKIM (UK) is a house and tech house artist, with 5 gigs on soundcheck across Kuala Lumpur, London and Seoul. Often billed alongside Dan Luxa, ASHM3TH and Alam. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 27 Nov.
+HAKIM (UK) is a house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across Kuala Lumpur, London and Seoul. Often billed alongside Dan Luxa, ASHM3TH and Alam. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ HAKIM (UK) is a house and tech house artist, with 5 gigs on soundcheck across Ku
 
 Dan Luxa, ASHM3TH, Alam
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hakimuk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hakimuk/)*

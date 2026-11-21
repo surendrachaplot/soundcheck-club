@@ -1,14 +1,13 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "BLERP" on Fri, 20 Nov 2026.
+Eastern Bloc Records is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "eastern bloc presents Sam Redmore" on Sat, 21 Nov 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including AdomasLP, BinaryFunction, Daz Mac and General TG and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including AdomasLP, BinaryFunction, Daz Mac and General TG and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | BLERP | Lucas Arc |
 | Sat, 21 Nov 2026 | eastern bloc presents Sam Redmore | Jim Bane, Sam Redmore |
 | Fri, 27 Nov 2026 | Nightshade Records 001 Launch Party - Jay Tripwire / Kieran Jandu & Hugo Maher | Jay Tripwire, Kieran Jandu |
 | Sat, 28 Nov 2026 | Surge | BinaryFunction, Nestor (IE), Randle P Mcmurphy |
@@ -18,9 +17,10 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 13 upc
 | Fri, 11 Dec 2026 | NImbus vs. Dub Explorations | Daz Mac, Quadrant Soundscape |
 | Sat, 12 Dec 2026 | Ten Lovers Music - TLM043 Release Party |  |
 | Fri, 18 Dec 2026 | eastern bloc presents: Residents All Night Long | Jim Bane, KRS George, Kieran Jandu, Means&3rd |
+| Sat, 19 Dec 2026 | Fathom |  |
 
 ## Address
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

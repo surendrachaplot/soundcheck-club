@@ -1,6 +1,6 @@
 # Digital Dance TV I Vol. 2 at Blue Velvet
 
-Digital Dance TV I Vol. 2 at Blue Velvet on Sun 13 Dec, Berlin. 4 artists: GI.O, kichererbsenstampf, Sabu! and Sodabass. Trance and Techno. See the line-up on soundcheck.
+Digital Dance TV I Vol. 2 at Blue Velvet on Sun 13 Dec, Berlin. 4 artists: GI.O, MIMI404, Sabu! and Sodabass. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Digital Dance TV I Vol. 2 at Blue Velvet on Sun 13 Dec, Berlin. 4 artists: GI.O,
 ## Line-up
 
 - GI.O
-- kichererbsenstampf
+- MIMI404
 - Sabu!
 - Sodabass
 

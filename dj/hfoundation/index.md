@@ -1,6 +1,6 @@
 # H-Foundation
 
-H-Foundation is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Quartyard, San Diego on Sat, 28 Nov 2026.
+H-Foundation is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Quartyard, San Diego on Sat, 28 Nov 2026.
 
 H-Foundation is a house and tech house artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Chicago, Croatia and Denver and 7 more. Often billed alongside Gabrielle Kwarteng, Halo Varga and Hipp-e. Next up: Quartyard, San Diego on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ H-Foundation is a house and tech house artist based in United States of America,
 
 Gabrielle Kwarteng, Halo Varga, Hipp-e
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

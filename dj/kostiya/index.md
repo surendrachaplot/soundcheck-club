@@ -1,6 +1,6 @@
 # Kostiya
 
-Kostiya is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 520 Alexander Street, Vancouver on Fri, 27 Nov 2026.
+Kostiya is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 520 Alexander Street, Vancouver on Fri, 27 Nov 2026.
 
 Kostiya is a deep house and house artist based in China, with 12 gigs on soundcheck across Hong Kong and Vancouver. Often billed alongside 87DOVE, Casey Anderson and DJ Anthony2. Next up: 520 Alexander Street, Vancouver on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kostiya is a deep house and house artist based in China, with 12 gigs on soundch
 
 87DOVE, Casey Anderson, DJ Anthony2
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kostiya/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kostiya/)*

@@ -1,6 +1,6 @@
 # pvkvsv
 
-pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Spirit, Pittsburgh on Sat, 21 Nov 2026.
+pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Spirit, Pittsburgh on Sat, 21 Nov 2026.
 
 pvkvsv is a club and experimental artist based in United States of America, with 35 gigs on soundcheck across Pittsburgh. Often billed alongside Ondo / Gusto, Formosa and DJ Furniture. Next up: Spirit, Pittsburgh on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ pvkvsv is a club and experimental artist based in United States of America, with
 
 Ondo / Gusto, Formosa (1), DJ Furniture
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*

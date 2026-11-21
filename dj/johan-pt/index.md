@@ -1,6 +1,6 @@
 # Johan (PT)
 
-Johan (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Vago, Lisbon on Sat, 21 Nov 2026.
+Johan (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Vago, Lisbon on Sat, 21 Nov 2026.
 
 Johan (PT) is a techno and house artist based in Portugal, with 28 gigs on soundcheck across Berlin, Brussels, Cologne and Hamburg and 2 more. Often billed alongside Francisca Urbano, .Bernardo and 999999999. Next up: Vago, Lisbon on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Johan (PT) is a techno and house artist based in Portugal, with 28 gigs on sound
 
 Francisca Urbano, .Bernardo, 999999999
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*

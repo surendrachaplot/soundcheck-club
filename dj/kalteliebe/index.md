@@ -1,14 +1,13 @@
 # Kalte Liebe
 
-Kalte Liebe is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+Kalte Liebe is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
 
-Kalte Liebe is a techno and trance artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside I Hate Models, Adrian Mills and CLTX. Next up: Airport Würzburg, Nürnberg on Fri 20 Nov.
+Kalte Liebe is a techno and trance artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside I Hate Models, Adrian Mills and CLTX. Next up: Gotec, Karlsruhe on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Airport Würzburg | Nürnberg |
 | Sat, 28 Nov 2026 | Gotec | Karlsruhe |
 | Fri, 11 Dec 2026 | Altes Postlager | Rhineland-palatinate |
 | Fri, 1 Jan 2027 | Hidden | Manchester |
@@ -17,6 +16,7 @@ Kalte Liebe is a techno and trance artist based in Germany, with 119 gigs on sou
 
 ## Recently played
 
+- Airport Würzburg, Nürnberg · Fri, 20 Nov 2026
 - Kaiserdrom Halle, Saxony-anhalt · Fri, 13 Nov 2026
 - fi, Cologne · Wed, 11 Nov 2026
 - TBA, Berlin · Sat, 10 Oct 2026
@@ -24,10 +24,9 @@ Kalte Liebe is a techno and trance artist based in Germany, with 119 gigs on sou
 - Sommerbad Neukölln, Berlin · Sun, 30 Aug 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
-- Hafen 49, Mannheim · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 I Hate Models, Adrian Mills, CLTX
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalteliebe/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalteliebe/)*

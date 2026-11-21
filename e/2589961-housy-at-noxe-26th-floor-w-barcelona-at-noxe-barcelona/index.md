@@ -1,6 +1,6 @@
 # Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 9 Dec, Barcelona. 2 artists: Nesi and Sarah Andersson. See the line-up on soundcheck.
+Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 9 Dec, Barcelona. 2 artists: Nesi and Sarah Andersson. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

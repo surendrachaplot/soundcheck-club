@@ -1,18 +1,18 @@
 # More (3)
 
-More (3) is a Reggaeton and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Roto Club, Barcelona on Fri, 20 Nov 2026.
+More (3) is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club (o)Utopos, Chubu on Sat, 5 Dec 2026.
 
-More is a reggaeton and techno artist based in Italy, with 37 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bordeaux and 14 more. Often billed alongside 2HOT2PLAY, 4am Kru and Afem Syko. Next up: TBA - Roto Club, Barcelona on Fri 20 Nov.
+More is a reggaeton and techno artist based in Italy, with 37 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bordeaux and 14 more. Often billed alongside 2HOT2PLAY, 4am Kru and Afem Syko. Next up: Club (o)Utopos, Chubu on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - Roto Club | Barcelona |
 | Sat, 5 Dec 2026 | Club (o)Utopos | Chubu |
 
 ## Recently played
 
+- TBA - Roto Club, Barcelona · Fri, 20 Nov 2026
 - 8MM, Berlin · Fri, 13 Nov 2026
 - or, Tokyo · Wed, 4 Nov 2026
 - Socore Factory, Osaka · Sun, 1 Nov 2026
@@ -20,10 +20,9 @@ More is a reggaeton and techno artist based in Italy, with 37 gigs on soundcheck
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - fabric, London · Fri, 9 Oct 2026
-- Carmo Rooftop, Lisbon · Sun, 23 Aug 2026
 
 ## Shares bills with
 
 2HOT2PLAY, 4am Kru, Afem Syko
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/more-3/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/more-3/)*

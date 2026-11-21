@@ -1,6 +1,6 @@
 # Johanna Elias
 
-Johanna Elias is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
+Johanna Elias is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
 
 Johanna Elias is a house and techno artist based in Trinidad and Tobago, with 30 gigs on soundcheck across Berlin, Budapest, Hamburg and Leipzig. Often billed alongside Kallaloo, Big Leg and Black Mirror Park. Next up: Atno, Budapest on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Johanna Elias is a house and techno artist based in Trinidad and Tobago, with 30
 
 Kallaloo, Big Leg, Black Mirror Park
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannaelias/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannaelias/)*

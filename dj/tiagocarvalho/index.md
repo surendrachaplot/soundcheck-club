@@ -1,6 +1,6 @@
 # Tiago Carvalho
 
-Tiago Carvalho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Museu do Carro Elétrico, Porto on Sat, 21 Nov 2026.
+Tiago Carvalho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Museu do Carro Elétrico, Porto on Sat, 21 Nov 2026.
 
 Tiago Carvalho is a house and techno artist based in Portugal, with 37 gigs on soundcheck across Lisbon and Porto. Often billed alongside Diana Oliveira, David Moreira and Miguel Nery. Next up: Museu do Carro Elétrico, Porto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Tiago Carvalho is a house and techno artist based in Portugal, with 37 gigs on s
 
 Diana Oliveira, David Moreira (2), Miguel Nery
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagocarvalho/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagocarvalho/)*

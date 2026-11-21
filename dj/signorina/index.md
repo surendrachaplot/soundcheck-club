@@ -1,6 +1,6 @@
 # Signorina
 
-Signorina is a R&B and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Lower Third, London on Fri, 11 Dec 2026.
+Signorina is a R&B and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Lower Third, London on Fri, 11 Dec 2026.
 
 Signorina is a r&b and jazz artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside leverson, Sndyvibes and SHINZEE. Next up: The Lower Third, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Signorina is a r&b and jazz artist based in United Kingdom, with 27 gigs on soun
 
 leverson, Sndyvibes, SHINZEE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/signorina/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/signorina/)*

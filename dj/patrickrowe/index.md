@@ -1,6 +1,6 @@
 # Patrick Rowe
 
-Patrick Rowe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
+Patrick Rowe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
 
 Patrick Rowe is a techno and minimal techno artist based in United Kingdom, with 15 gigs on soundcheck across London and North. Often billed alongside Gabriel Rai, Craig Richards and Enrica Falqui. Next up: 1520, North on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Patrick Rowe is a techno and minimal techno artist based in United Kingdom, with
 
 Gabriel Rai, Craig Richards, Enrica Falqui
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*

@@ -1,6 +1,6 @@
 # Half Way Home 008 - The Xmas Party at Rolling Stock
 
-Half Way Home 008 - The Xmas Party at Rolling Stock on Fri 4 Dec, London. 4 artists: Josh German, Rodney, Sahil and T1. House and Tech House. See the line-up on soundcheck.
+Half Way Home 008 - The Xmas Party at Rolling Stock on Fri 4 Dec, London. 5 artists: Brandon Benoit, Josh German, Rodney and Sahil and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Half Way Home 008 - The Xmas Party at Rolling Stock on Fri 4 Dec, London. 4 arti
 
 ## Line-up
 
+- Brandon Benoit
 - Josh German
 - Rodney (3)
 - Sahil

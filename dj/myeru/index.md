@@ -1,6 +1,6 @@
 # Myeru
 
-Myeru is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - OPEN / SOURCE, Cape Town on Sat, 21 Nov 2026.
+Myeru is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - OPEN / SOURCE, Cape Town on Sat, 21 Nov 2026.
 
 Myeru is a minimal and house artist based in South Africa, with 11 gigs on soundcheck across Cape Town. Often billed alongside 2lani The Warrior, Dutch Horse Conference and Ben Probert. Next up: TBA - OPEN / SOURCE, Cape Town on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Myeru is a minimal and house artist based in South Africa, with 11 gigs on sound
 
 2lani The Warrior, Dutch Horse Conference, Ben Probert
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myeru/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myeru/)*

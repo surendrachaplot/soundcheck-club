@@ -1,8 +1,8 @@
 # Abobo
 
-Abobo is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
+Abobo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
 
-Abobo is an electro and techno artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Hans Raider, Munkwerk and Melaena. Next up: Vespers Club, London on Sat 28 Nov.
+Abobo is an electro and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Hans Raider, Munkwerk and Melaena. Next up: Vespers Club, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Abobo is an electro and techno artist based in United Kingdom, with 6 gigs on so
 
 Hans Raider, Munkwerk, Melaena
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abobo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abobo/)*

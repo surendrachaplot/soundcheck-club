@@ -1,13 +1,14 @@
 # Bena
 
-Bena is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Depo Klub, Zagreb on Fri, 27 Nov 2026.
+Bena is a Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Depo Klub, Zagreb on Fri, 27 Nov 2026.
 
-Bena is a disco and techno artist based in United States of America, with 13 gigs on soundcheck across Frankfurt, London, Vilnius and Zagreb. Often billed alongside Chameleonas, Daniele Mizar and Emanuel Pavlova. Next up: Depo Klub, Zagreb on Fri 27 Nov.
+Bena is a disco and techno artist based in United States of America, with 14 gigs on soundcheck across Frankfurt, London, Vilnius and Zagreb. Often billed alongside Chameleonas, Daniele Mizar and Emanuel Pavlova. Next up: Depo Klub, Zagreb on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Depo Klub | Zagreb |
 | Fri, 27 Nov 2026 | Depo Klub | Zagreb |
 | Sat, 28 Nov 2026 | The Fox and Firkin | London |
 
@@ -26,4 +27,4 @@ Bena is a disco and techno artist based in United States of America, with 13 gig
 
 Chameleonas, Daniele Mizar, Emanuel Pavlova
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*

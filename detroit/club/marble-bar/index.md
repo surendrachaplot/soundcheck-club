@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ORBIT 002: Noncompliant, Flange, sina, AIDEL, Adri, Duck Trash" on Fri, 20 Nov 2026.
+Marble Bar is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "12 Hour Party feat. John Acquaviva" on Sat, 21 Nov 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Adam X, AIDEL, Amino and Craig Gonzalez and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Adam X, Craig Gonzalez, Declan James and DJ Pierre and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | ORBIT 002: Noncompliant, Flange, sina, AIDEL, Adri, Duck Trash | AIDEL, Amino, Duck Trash, Flange, Noncompliant, X(S)INA |
 | Sat, 21 Nov 2026 | 12 Hour Party feat. John Acquaviva | John Acquaviva, Pablo R. Ruiz, Terrence Dixon, saylem celeste |
 | Tue, 24 Nov 2026 | Techno Tuesday: Ghetto / Electro Bass | Shawescape Renegade |
 | Fri, 27 Nov 2026 | Adam X - Craig Gonzalez b2b Francois Dillinger - + more - Marble Bar | Adam X, Craig Gonzalez, Francois Dillinger, Fusegrade, Kobe Dupree, mira (5) |
@@ -20,4 +19,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

@@ -1,6 +1,6 @@
 # Gaswrx Birmingham
 
-Gaswrx Birmingham is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Slapfunk Birmingham - Colette and CNTRL Pres" on Sat, 12 Dec 2026.
+Gaswrx Birmingham is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Slapfunk Birmingham - Colette and CNTRL Pres" on Sat, 12 Dec 2026.
 
 Gaswrx Birmingham is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Alec Falconer, Faraz (UK), Marc Kinchen and Reeshy and 2 more. See dates, start times and who's playing. 50 Adderley Street, Digbeth, Birmingham, B9 4ED.
 
@@ -16,4 +16,4 @@ Gaswrx Birmingham is a music venue in London listed on soundcheck. 3 upcoming gi
 
 50 Adderley Street, Digbeth, Birmingham, B9 4ED, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*

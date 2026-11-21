@@ -1,17 +1,18 @@
 # Xorpel
 
-Xorpel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cadavra, Madrid on Fri, 13 Nov 2026.
+Xorpel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Madrid on Fri, 18 Dec 2026.
 
-Xorpel is a house and electro artist based in Spain, with 7 gigs on soundcheck across Berlin and Madrid. Often billed alongside Anso, EMIR-B and Tremūl. Next up: Cadavra, Madrid on Fri 13 Nov.
+Xorpel is a house and techno artist based in Spain, with 8 gigs on soundcheck across Berlin and Madrid. Often billed alongside Anso, EMIR-B and Tremūl. Next up: TBA, Madrid on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Cadavra | Madrid |
+| Fri, 18 Dec 2026 | TBA | Madrid |
 
 ## Recently played
 
+- Cadavra, Madrid · Fri, 13 Nov 2026
 - TBA - LFO, Madrid · Sat, 24 Oct 2026
 - TBA, Madrid · Fri, 19 Dec 2025
 - Specka, Madrid · Fri, 30 May 2025
@@ -23,4 +24,4 @@ Xorpel is a house and electro artist based in Spain, with 7 gigs on soundcheck a
 
 Anso, EMIR-B, Tremūl
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xorpel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xorpel/)*

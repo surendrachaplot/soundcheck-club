@@ -1,6 +1,6 @@
 # George FitzGerald
 
-George FitzGerald is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Patterns, Brighton on Sat, 5 Dec 2026.
+George FitzGerald is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Patterns, Brighton on Sat, 5 Dec 2026.
 
 George FitzGerald is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Lil Silva, Dan Shake and Dusky. Next up: Patterns, Brighton on Sat 5 Dec.
 
@@ -10,6 +10,7 @@ George FitzGerald is a house and techno artist based in United Kingdom, with 51 
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Patterns | Brighton |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Thu, 31 Dec 2026 | Slane Castle | Ireland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ George FitzGerald is a house and techno artist based in United Kingdom, with 51 
 
 Lil Silva, Dan Shake, Dusky
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*

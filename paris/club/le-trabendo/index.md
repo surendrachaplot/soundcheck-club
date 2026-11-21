@@ -1,15 +1,13 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Diggers Xth anniversary" on Fri, 20 Nov 2026.
+Le Trabendo is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Soeurs Malsaines - Trabendo" on Sat, 28 Nov 2026.
 
-Le Trabendo is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Bakey, Beatrice M., Erna (FR) and Greg and 2 more. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
+Le Trabendo is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Erna (FR), Greg, HORS-SOL and Jolly (FR) and 2 more. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Diggers Xth anniversary | Bakey, Neffa-T |
-| Fri, 20 Nov 2026 | Diggers Xth Anniversary | Bakey, Beatrice M., Neffa-T |
 | Sat, 28 Nov 2026 | Soeurs Malsaines - Trabendo |  |
 | Fri, 4 Dec 2026 | A4 & Pedro present: Olympe4000, GЯEG, Laze, Lisa More, notinbed, RONI, Pureblast & Erna | Erna (FR), Greg (2), Laze, Lisa More, Olympe4000, Pureblast, RONI, notinbed |
 | Fri, 4 Dec 2026 | A4 & Pedro present: Olympe4000, GЯEG, Laze, Lisa More, notinbed, RONI, Pureblast & Erna | Erna (FR), Greg (2), Laze, Lisa More, Olympe4000, Pureblast, RONI, notinbed |
@@ -22,4 +20,4 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 9 upcoming gigs, wit
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*

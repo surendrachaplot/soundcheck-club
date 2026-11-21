@@ -1,6 +1,6 @@
 # Jelle from the Block
 
-Jelle from the Block is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 21 Nov 2026.
+Jelle from the Block is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 21 Nov 2026.
 
 Jelle from the Block is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Eclectic Elektra, Ansonica and Ciao Caio. Next up: Orangerie Neukölln, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Jelle from the Block is a house and techno artist based in Germany, with 12 gigs
 
 Eclectic Elektra, Ansonica, Ciao Caio
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jellefromtheblock/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jellefromtheblock/)*

@@ -1,6 +1,6 @@
 # DJ cries in Spanish
 
-DJ cries in Spanish is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Meteoro, Barcelona on Sat, 28 Nov 2026.
+DJ cries in Spanish is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Meteoro, Barcelona on Sat, 28 Nov 2026.
 
 DJ cries in Spanish is a club and trance artist based in Spain, with 11 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside DJ GHEPARD, DJ Hristos and Antonia XM. Next up: Meteoro, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ cries in Spanish is a club and trance artist based in Spain, with 11 gigs on 
 
 DJ GHEPARD, DJ Hristos, Antonia XM
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcriesinspanish/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcriesinspanish/)*

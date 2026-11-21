@@ -1,14 +1,13 @@
 # Amp
 
-Amp is a music venue in Münster with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Sachsentrance" on Fri, 20 Nov 2026.
+Amp is a music venue in Münster with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "BCCO" on Sat, 21 Nov 2026.
 
-Amp is a music venue in Münster listed on soundcheck. 12 upcoming gigs, with line-ups including Cali Caracho, Delm, dylliboi_91 and JanDue and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
+Amp is a music venue in Münster listed on soundcheck. 11 upcoming gigs, with line-ups including Cali Caracho, Delm, dylliboi_91 and JanDue and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Sachsentrance | Luzinka, RaverPik, The Jakob Sister |
 | Sat, 21 Nov 2026 | BCCO | Noise Mafia |
 | Sat, 21 Nov 2026 | Amp POWERPLAY | Delm, JanDue, RED MOJO, Vinur |
 | Fri, 27 Nov 2026 | Amp pres. Trancemaster Krause (ALL NIGHT LONG) – TOUR DE TRANCE 2.0 | Trancemaster Krause |
@@ -18,9 +17,10 @@ Amp is a music venue in Münster listed on soundcheck. 12 upcoming gigs, with li
 | Sat, 12 Dec 2026 | SHIFT |  |
 | Sat, 19 Dec 2026 | PANORAMA |  |
 | Thu, 31 Dec 2026 | Amp Silvester with Amp Soundsystem |  |
+| Sat, 23 Jan 2027 | SHIFT |  |
 
 ## Address
 
 Am Hawerkamp 1, 48155 Münster, Münster
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*

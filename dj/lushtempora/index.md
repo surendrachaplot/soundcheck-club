@@ -1,6 +1,6 @@
 # Lush Tempora
 
-Lush Tempora is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
+Lush Tempora is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
 
 Lush Tempora is a techno and industrial artist based in United States of America, with 13 gigs on soundcheck across Budapest and New York City. Often billed alongside LNY TNZ, Roksana and Blasterjaxx. Next up: Melrose Ballroom, New York City on Fri 20 Nov.
 
@@ -13,6 +13,7 @@ Lush Tempora is a techno and industrial artist based in United States of America
 
 ## Recently played
 
+- Melrose Ballroom, New York City · Fri, 20 Nov 2026
 - Pier 78 at Hudson River Park, New York City · Sat, 29 Aug 2026
 - Pier 36, New York City · Sat, 8 Aug 2026
 - Pier 78 at Hudson River Park, New York City · Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ Lush Tempora is a techno and industrial artist based in United States of America
 - Eden, New York City · Fri, 15 May 2026
 - Eden, New York City · Fri, 1 May 2026
 - Listen Brooklyn, New York City · Thu, 30 Apr 2026
-- The House, New York City · Thu, 16 Apr 2026
 
 ## Shares bills with
 
 LNY TNZ, Roksana, Blasterjaxx
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lushtempora/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lushtempora/)*

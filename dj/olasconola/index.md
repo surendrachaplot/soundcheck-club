@@ -1,6 +1,6 @@
 # olasconola
 
-olasconola is a Funk / Soul and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Drom Taberna, Toronto on Sat, 21 Nov 2026.
+olasconola is a Funk / Soul and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Drom Taberna, Toronto on Sat, 21 Nov 2026.
 
 olasconola is a funk / soul and experimental artist based in Canada, with 11 gigs on soundcheck across Toronto. Often billed alongside Ana Luisa, Anzola and Carlos Estebban. Next up: Drom Taberna, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ olasconola is a funk / soul and experimental artist based in Canada, with 11 gig
 
 Ana Luisa, Anzola, Carlos Estebban
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*

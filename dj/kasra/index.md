@@ -1,6 +1,6 @@
 # Kasra
 
-Kasra is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mia Mao, Paris on Sat, 5 Dec 2026.
+Kasra is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mia Mao, Paris on Sat, 5 Dec 2026.
 
 Kasra is a drum & bass and bass artist based in United Kingdom, with 64 gigs on soundcheck across Basel, Berlin, Brighton and Bristol and 23 more. Often billed alongside Enei, Jakes and Mantmast. Next up: Mia Mao, Paris on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Kasra is a drum & bass and bass artist based in United Kingdom, with 64 gigs on 
 
 Enei, Jakes, Mantmast
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*

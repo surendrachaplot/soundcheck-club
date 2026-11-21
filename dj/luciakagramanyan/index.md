@@ -1,6 +1,6 @@
 # Lucia Kagramanyan
 
-Lucia Kagramanyan is a Guaracha and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Veranstaltungszentrum Rudolfsheim-Fünfhaus, Vienna on Sat, 21 Nov 2026.
+Lucia Kagramanyan is a Guaracha and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Veranstaltungszentrum Rudolfsheim-Fünfhaus, Vienna on Sat, 21 Nov 2026.
 
 Lucia Kagramanyan is a guaracha and reggaeton artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Budapest and Glasgow and 4 more. Often billed alongside ephemer, DJ Once and E The Artist. Next up: Veranstaltungszentrum Rudolfsheim-Fünfhaus, Vienna on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Lucia Kagramanyan is a guaracha and reggaeton artist based in Armenia, with 32 g
 
 ephemer (4), DJ Once, E The Artist
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciakagramanyan/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciakagramanyan/)*

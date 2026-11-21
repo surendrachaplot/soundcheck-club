@@ -1,6 +1,6 @@
 # Jonas Alexander
 
-Jonas Alexander is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Barrio Cafe, Brussels on Fri, 27 Nov 2026.
+Jonas Alexander is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Barrio Cafe, Brussels on Fri, 27 Nov 2026.
 
 Jonas Alexander is a club and techno artist, with 20 gigs on soundcheck across Antwerp, Barcelona, Brussels and Marseille and 2 more. Often billed alongside TSIP, fetva and gaiko. Next up: Barrio Cafe, Brussels on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jonas Alexander is a club and techno artist, with 20 gigs on soundcheck across A
 
 TSIP, fetva, gaiko
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasalexander/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasalexander/)*

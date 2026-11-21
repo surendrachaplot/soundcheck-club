@@ -1,6 +1,6 @@
 # DJ Hitwave
 
-DJ Hitwave is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+DJ Hitwave is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 DJ Hitwave is a techno and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside DJ YumYum, Dr.Waumiau and Karolanne. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ DJ Hitwave is a techno and tech house artist based in Germany, with 7 gigs on so
 
 ## Recently played
 
+- Sensorium, Berlin · Fri, 20 Nov 2026
 - TBA - Under Warschauer Bridge, Berlin · Sat, 31 Oct 2026
 - Wilder als Erwartet, Berlin · Sat, 10 Oct 2026
 - DNA. CLUB, Berlin · Fri, 9 Oct 2026
@@ -23,4 +24,4 @@ DJ Hitwave is a techno and tech house artist based in Germany, with 7 gigs on so
 
 DJ YumYum, Dr.Waumiau, Karolanne
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhitwave/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhitwave/)*

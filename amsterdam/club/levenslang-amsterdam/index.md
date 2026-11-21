@@ -1,6 +1,6 @@
 # Levenslang Amsterdam
 
-Levenslang Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "KRAFT Premium Pounding Techno 21st of November 2026" on Sat, 21 Nov 2026.
+Levenslang Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "KRAFT Premium Pounding Techno 21st of November 2026" on Sat, 21 Nov 2026.
 
 Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Di Stefano, Cleopard2000, HOF (DE) and Rachelle Grooten and 2 more. See dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
 
@@ -15,4 +15,4 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcom
 
 H.J.E. Wenckebachweg 48, 1096AN, Amsterdam, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*

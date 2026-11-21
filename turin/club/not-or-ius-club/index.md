@@ -1,6 +1,6 @@
 # not|or|ius Club
 
-not|or|ius Club is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "GENAU: Luke Slater (Mote Evolver - Ostgut Ton / UK)" on Sat, 21 Nov 2026.
+not|or|ius Club is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "GENAU: Luke Slater (Mote Evolver - Ostgut Ton / UK)" on Sat, 21 Nov 2026.
 
 not|or|ius Club is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including Boris, Gandalf, Luke Slater and Nastia and 1 more. See dates, start times and who's playing. via stradella 10/d, Torino, Italy.
 
@@ -17,4 +17,4 @@ not|or|ius Club is a music venue in Turin listed on soundcheck. 4 upcoming gigs,
 
 via stradella 10/d, Torino, Italy, Turin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/not-or-ius-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/not-or-ius-club/)*

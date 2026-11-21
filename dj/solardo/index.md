@@ -1,6 +1,6 @@
 # Solardo
 
-Solardo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Decca Live, Jacksonville on Sat, 21 Nov 2026.
+Solardo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Decca Live, Jacksonville on Sat, 21 Nov 2026.
 
 Solardo is a house and tech house artist based in United Kingdom, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 51 more. Often billed alongside Claptone, Andrea Oliva and Vintage Culture. Next up: Decca Live, Jacksonville on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Solardo is a house and tech house artist based in United Kingdom, with 165 gigs 
 
 Claptone, Andrea Oliva, Vintage Culture
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*

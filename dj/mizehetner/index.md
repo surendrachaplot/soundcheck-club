@@ -1,6 +1,6 @@
 # Mize Hetner
 
-Mize Hetner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tagada, Vienna on Sat, 21 Nov 2026.
+Mize Hetner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tagada, Vienna on Sat, 21 Nov 2026.
 
 Mize Hetner is a techno and house artist based in Austria, with 13 gigs on soundcheck across Vienna. Often billed alongside Fabian Hofer, VOLTMARIE and Annika Stein. Next up: Tagada, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mize Hetner is a techno and house artist based in Austria, with 13 gigs on sound
 
 Fabian Hofer (2), VOLTMARIE, Annika Stein
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mizehetner/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mizehetner/)*

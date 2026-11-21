@@ -1,6 +1,6 @@
 # DIEGO SAN DIEGO
 
-DIEGO SAN DIEGO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Armania Phuket, Thailand on Sat, 28 Nov 2026.
+DIEGO SAN DIEGO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Armania Phuket, Thailand on Sat, 28 Nov 2026.
 
 DIEGO SAN DIEGO is a house and tech house artist based in Germany, with 20 gigs on soundcheck across Berlin, Düsseldorf, Hamburg and Ibiza and 4 more. Often billed alongside Claptone, Nora En Pure and Dimitri From Paris. Next up: Armania Phuket, Thailand on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DIEGO SAN DIEGO is a house and tech house artist based in Germany, with 20 gigs 
 
 Claptone, Nora En Pure, Dimitri From Paris
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosandiego/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosandiego/)*

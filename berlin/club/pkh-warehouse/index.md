@@ -1,6 +1,6 @@
 # PKH Warehouse
 
-PKH Warehouse is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "[CANCELLED] Verschoben auf Dezember Peachy Berlin – Issue 02: Queer Pop & Techno" on Fri, 20 Nov 2026.
+PKH Warehouse is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "(FREE ENTRY) ILLEGAL " on Sat, 5 Dec 2026.
 
 PKH Warehouse is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including cell1, DJ ŌVËRDRĪVÊ, DJ Spaßgetränk and elvito and 2 more. See dates, start times and who's playing.
 
@@ -8,7 +8,7 @@ PKH Warehouse is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | [CANCELLED] Verschoben auf Dezember Peachy Berlin – Issue 02: Queer Pop & Techno |  |
-| Sat, 5 Dec 2026 | (FREE ENTRY) ILLEGAL with Tragedie,Tonino, Eric Wishes uvm | DJ Spaßgetränk, DJ ŌVËRDRĪVÊ, Eric Wishes, Lisatrix, Milchgeld, Ray Ewulu, Sievert Serviert, Teenage Mutants, TommyB (2), Tonino, cell1, elvito |
+| Sat, 5 Dec 2026 | (FREE ENTRY) ILLEGAL  | DJ Spaßgetränk, DJ ŌVËRDRĪVÊ, Lisatrix, Milchgeld, Ray Ewulu, Sievert Serviert, TommyB (2), cell1, elvito |
+| Sat, 19 Dec 2026 | Peachy Berlin – Issue 02: Queer Pop & Techno |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*

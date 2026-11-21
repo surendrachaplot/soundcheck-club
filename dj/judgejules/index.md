@@ -1,6 +1,6 @@
 # Judge Jules
 
-Judge Jules is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Judge Jules is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Belfast and 17 more. Often billed alongside Seb Fontaine, Mauro Picotto and Billy Gillies. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -14,6 +14,7 @@ Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs o
 
 ## Recently played
 
+- The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - Lakota, Bristol · Sat, 7 Nov 2026
 - O2 Academy, Glasgow · Sat, 31 Oct 2026
 - The Limelight, Belfast · Sat, 8 Aug 2026
@@ -21,10 +22,9 @@ Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs o
 - Amnesia Ibiza, Ibiza · Wed, 3 Jun 2026
 - The Digbeth Triangle, Birmingham · Sun, 24 May 2026
 - Hangar 34, Liverpool · Sun, 3 May 2026
-- Adelaide Gaol, Adelaide · Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Seb Fontaine, Mauro Picotto, Billy Gillies
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*

@@ -16,7 +16,7 @@ Batu , Haruka , AKIRAM EN / VENT 10th Anniversary on Sat 12 Dec, Tokyo. 8 artist
 - Crazy Neo
 - Haruka
 - Kai Galactic
+- Masafumi Take
 - NITA
-- Nova
 
 *Source: [soundcheck](https://soundcheck.club/e/2565363-batu-haruka-akiram-en-vent-10th-anniversary-at-vent/)*

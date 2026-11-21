@@ -1,6 +1,6 @@
 # Gotec
 
-Gotec is a music venue in Karlsruhe with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "FACE 2 FACE: KARLSRUHE" on Sat, 21 Nov 2026.
+Gotec is a music venue in Karlsruhe with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "FACE 2 FACE: KARLSRUHE" on Sat, 21 Nov 2026.
 
 Gotec is a music venue in Karlsruhe listed on soundcheck. 4 upcoming gigs, with line-ups including 3LEEZA, Antigen, BNZN and Bruno Brero and 2 more. See dates, start times and who's playing. Gablonzerstr. 11, 76185, Karlsruhe.
 
@@ -17,4 +17,4 @@ Gotec is a music venue in Karlsruhe listed on soundcheck. 4 upcoming gigs, with 
 
 Gablonzerstr. 11, 76185, Karlsruhe, Karlsruhe
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/gotec/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/gotec/)*

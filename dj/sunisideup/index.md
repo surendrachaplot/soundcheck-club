@@ -1,6 +1,6 @@
 # SUNI SIDE UP
 
-SUNI SIDE UP is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+SUNI SIDE UP is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
 SUNI SIDE UP is a tech house and garage artist based in Bulgaria, with 10 gigs on soundcheck across Ibiza and London. Often billed alongside El Cassar, Inca Jones and Jo Cruz. Next up: Brixton Radio, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SUNI SIDE UP is a tech house and garage artist based in Bulgaria, with 10 gigs o
 
 El Cassar, Inca Jones, Jo Cruz
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunisideup/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunisideup/)*

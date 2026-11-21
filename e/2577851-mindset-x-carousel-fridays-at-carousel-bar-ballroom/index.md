@@ -1,6 +1,6 @@
 # Mindset x Carousel Fridays at Carousel Bar & Ballroom
 
-Mindset x Carousel Fridays at Carousel Bar & Ballroom on Fri 27 Nov, Sydney. 4 artists: LIIA, Nadine B, PAPCO and PRO5PECT. Progressive House and Techno. See the line-up on soundcheck.
+Mindset x Carousel Fridays at Carousel Bar & Ballroom on Fri 27 Nov, Sydney. 5 artists: bouzeid, LIIA, Nadine B and PAPCO and 1 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Mindset x Carousel Fridays at Carousel Bar & Ballroom on Fri 27 Nov, Sydney. 4 a
 
 ## Line-up
 
+- bouzeid
 - LIIA
 - Nadine B
 - PAPCO

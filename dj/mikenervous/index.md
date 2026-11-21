@@ -1,8 +1,8 @@
 # Mike Nervous
 
-Mike Nervous is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The California Clipper, Chicago on Sat, 21 Nov 2026.
+Mike Nervous is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The California Clipper, Chicago on Sat, 21 Nov 2026.
 
-Mike Nervous is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 4 more. Often billed alongside Benny Soto, Lazaro Casanova and Mandiz. Next up: The California Clipper, Chicago on Sat 21 Nov.
+Mike Nervous is a house and tech house artist based in United States of America, with 51 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 4 more. Often billed alongside Benny Soto, Lazaro Casanova and Mandiz. Next up: The California Clipper, Chicago on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mike Nervous is a house and tech house artist based in United States of America,
 | Sat, 21 Nov 2026 | The California Clipper | Chicago |
 | Sun, 6 Dec 2026 | ex Base | Naples |
 | Sat, 12 Dec 2026 | Wiggle Room | Toronto |
+| Thu, 17 Dec 2026 | Shinsen | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mike Nervous is a house and tech house artist based in United States of America,
 
 Benny Soto, Lazaro Casanova, Mandiz
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*

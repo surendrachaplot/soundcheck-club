@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Open To Close at The DBA" on Fri, 20 Nov 2026.
+The DBA is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Boudica goes to Manchester: Samantha Togni, caonix & K'eldiavlo" on Sat, 21 Nov 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including 4D, 4STR0, 99NYNEX and aalice and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -8,7 +8,6 @@ The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Open To Close at The DBA | Joey T, Julie Wills, Kusasa, Pharaoh Brunson, Rhod Parry |
 | Sat, 21 Nov 2026 | Boudica goes to Manchester: Samantha Togni, caonix & K'eldiavlo | Samantha Togni, caonix |
 | Wed, 25 Nov 2026 | Evacuate the Dancefloor: Cyb3r wint3r | 99NYNEX, Baba Sketch, DJ Crash Course, Lucky Bunny, Princess Elf Bar, Willow J |
 | Fri, 27 Nov 2026 | Distant Future - Flo Massé Enrico Vivaldi Morrin | Enrico Vivaldi, Flo Massé |
@@ -18,9 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, w
 | Fri, 4 Dec 2026 | HEREAFTER 5th Birthday | 4D, Bobby O'Donnell, DUCK-E, Elleinad, Owen Drummond |
 | Sat, 5 Dec 2026 | GASH w/「Princess Xixi」+ [ÆON_FUX] & {BAD BITCH KRU} | Princess Xixi |
 | Fri, 11 Dec 2026 | Freak - Xmas Party |  |
+| Sat, 12 Dec 2026 | HØL x Perc Trax: Perc, Gary Beck, LMajor, INLIMEN, David James b2b Jase Jeffery, 4STRO, Zimno | 4STR0, David James MCR, Gary Beck, INLIMEN, Jase Jeffery, LMajor, Perc |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

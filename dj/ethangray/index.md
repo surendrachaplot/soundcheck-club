@@ -1,8 +1,8 @@
 # Ethan Gray
 
-Ethan Gray is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 28 Nov 2026.
+Ethan Gray is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 28 Nov 2026.
 
-Ethan Gray is a house and disco artist based in United Kingdom, with 7 gigs on soundcheck across London, Malta, Manchester and Newcastle. Often billed alongside Michael Gray, MiNNA and Ace Shyllon. Next up: Joshua Brooks, Manchester on Sat 28 Nov.
+Ethan Gray is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across London, Malta, Manchester and Newcastle. Often billed alongside Michael Gray, MiNNA and Melvo Baptiste. Next up: Joshua Brooks, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ethan Gray is a house and disco artist based in United Kingdom, with 7 gigs on s
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Joshua Brooks | Manchester |
 | Sat, 5 Dec 2026 | Night Tales | London |
+| Sat, 1 May 2027 | Various Venues | London |
 | Thu, 16 Sept 2027 | TBA - VARIOUS | Malta |
 
 ## Recently played
@@ -21,6 +22,6 @@ Ethan Gray is a house and disco artist based in United Kingdom, with 7 gigs on s
 
 ## Shares bills with
 
-Michael Gray, MiNNA, Ace Shyllon
+Michael Gray, MiNNA, Melvo Baptiste
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethangray/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethangray/)*

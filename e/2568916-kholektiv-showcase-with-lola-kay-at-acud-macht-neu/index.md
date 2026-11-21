@@ -1,6 +1,6 @@
 # KHOLEKTIV Showcase with Lola Kay at Acud Macht NEU
 
-KHOLEKTIV Showcase with Lola Kay at Acud Macht NEU on Sat 21 Nov, Berlin. 4 artists: Bokaric, K.Dissent, Lola Kay and Masarini. Techno. See the line-up on soundcheck.
+KHOLEKTIV Showcase with Lola Kay at Acud Macht NEU on Sat 21 Nov, Berlin. 3 artists: Bokaric, K.Dissent and Lola Kay. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ KHOLEKTIV Showcase with Lola Kay at Acud Macht NEU on Sat 21 Nov, Berlin. 4 arti
 - Bokaric
 - K.Dissent
 - Lola Kay
-- Masarini
 
 *Source: [soundcheck](https://soundcheck.club/e/2568916-kholektiv-showcase-with-lola-kay-at-acud-macht-neu/)*

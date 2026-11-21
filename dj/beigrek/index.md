@@ -1,6 +1,6 @@
 # beigrek
 
-beigrek is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at B-SIDE, Warsaw on Fri, 27 Nov 2026.
+beigrek is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at B-SIDE, Warsaw on Fri, 27 Nov 2026.
 
 beigrek is a house and minimal artist based in Poland, with 16 gigs on soundcheck across Athens, Copenhagen, Paris and Warsaw. Often billed alongside Easy Audio, Kamilescu and Samogulov. Next up: B-SIDE, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ beigrek is a house and minimal artist based in Poland, with 16 gigs on soundchec
 
 Easy Audio, Kamilescu, Samogulov
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beigrek/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beigrek/)*

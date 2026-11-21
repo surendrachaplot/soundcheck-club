@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Ctrl pres. Swimming Paul" on Sat, 21 Nov 2026.
+OCZKI is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Ctrl pres. Swimming Paul" on Sat, 21 Nov 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including Amnesia Scanner, B93 (PL), Cardopusher and Casper Weiss and 2 more. See dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -18,4 +18,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with lin
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

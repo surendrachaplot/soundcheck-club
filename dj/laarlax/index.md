@@ -1,8 +1,8 @@
 # La Arlax
 
-La Arlax is a Tech House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+La Arlax is a Tech House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
-La Arlax is a tech house and dubstep artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Chérie, 10:35 and Ancea. Next up: Brixton Radio, London on Sat 21 Nov.
+La Arlax is a tech house and dubstep artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Chérie, Sara P and 10:35. Next up: Brixton Radio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ La Arlax is a tech house and dubstep artist based in United Kingdom, with 6 gigs
 
 ## Shares bills with
 
-Chérie, 10:35, Ancea
+Chérie, Sara P, 10:35
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laarlax/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laarlax/)*

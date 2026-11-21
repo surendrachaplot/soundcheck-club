@@ -1,6 +1,6 @@
 # KANT
 
-KANT is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at club asia, Tokyo on Wed, 25 Nov 2026.
+KANT is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at club asia, Tokyo on Wed, 25 Nov 2026.
 
 KANT is a hip-hop and bass artist based in Denmark, with 25 gigs on soundcheck across Berlin, Copenhagen, Shanghai and Tokyo. Often billed alongside FUJI TRILL, Frede (NO) and Jellyf!sh. Next up: club asia, Tokyo on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ KANT is a hip-hop and bass artist based in Denmark, with 25 gigs on soundcheck a
 
 FUJI TRILL, Frede (NO), Jellyf!sh
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kant/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kant/)*

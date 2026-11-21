@@ -1,14 +1,14 @@
 # Sir. Roscoe
 
-Sir. Roscoe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Apotheke, Los Angeles on Sat, 28 Nov 2026.
+Sir. Roscoe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Airliner, Los Angeles on Sat, 28 Nov 2026.
 
-Sir. Roscoe is a house and deep house artist, with 6 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Michael Fam, Artur (US) and Asha Jasz. Next up: Apotheke, Los Angeles on Sat 28 Nov.
+Sir. Roscoe is a house and deep house artist, with 6 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Michael Fam, Artur (US) and Asha Jasz. Next up: The Airliner, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Apotheke | Los Angeles |
+| Sat, 28 Nov 2026 | The Airliner | Los Angeles |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ Sir. Roscoe is a house and deep house artist, with 6 gigs on soundcheck across L
 
 Michael Fam, Artur (US), Asha Jasz
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirroscoe/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirroscoe/)*

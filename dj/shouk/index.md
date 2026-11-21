@@ -1,6 +1,6 @@
 # Sho (UK)
 
-Sho (UK) is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Two More Years, London on Fri, 27 Nov 2026.
+Sho (UK) is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Two More Years, London on Fri, 27 Nov 2026.
 
 Sho (UK) is a minimal and tech house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside KREED., KAZIA and Saf Mitchell. Next up: Two More Years, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sho (UK) is a minimal and tech house artist based in United Kingdom, with 36 gig
 
 KREED., KAZIA, Saf Mitchell
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*

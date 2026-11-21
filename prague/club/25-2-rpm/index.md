@@ -1,16 +1,15 @@
 # 25,2 rpm
 
-25,2 rpm is a music venue in Prague with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "25,2rpm: THRD and Friends" on Fri, 20 Nov 2026.
+25,2 rpm is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "25,2rpm: Ricetti" on Sat, 21 Nov 2026.
 
-25,2 rpm is a music venue in Prague listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing.
+25,2 rpm is a music venue in Prague listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 25,2rpm: THRD and Friends |  |
 | Sat, 21 Nov 2026 | 25,2rpm: Ricetti |  |
 | Fri, 27 Nov 2026 | 25,2 rpm: Servis by Daek Collective + Lievito Madre |  |
 | Sat, 28 Nov 2026 | 25,2rmp: Ghuli show II Shotgun Challange |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/25-2-rpm/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/25-2-rpm/)*

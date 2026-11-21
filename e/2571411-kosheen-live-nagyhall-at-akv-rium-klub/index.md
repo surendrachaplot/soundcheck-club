@@ -1,6 +1,6 @@
 # Kosheen (Live) & NagyHall at Akvárium Klub
 
-Kosheen (Live) & NagyHall at Akvárium Klub on Thu 18 Feb, Budapest. 1 artist: Kosheen. See the line-up on soundcheck.
+Kosheen (Live) & NagyHall at Akvárium Klub on Thu 18 Feb, Budapest. 1 artist: Kosheen. Drum & Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,0 +1,28 @@
+# Ani Klang
+
+Ani Klang is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Boyfriend co-op, New York City on Thu, 17 Dec 2026.
+
+Ani Klang is a techno and hardcore artist based in United States of America, with 26 gigs on soundcheck across Bristol, London, Manchester and New York City and 2 more. Often billed alongside Mars Kasei, DJ Pacifier and Discnogirl. Next up: Boyfriend co-op, New York City on Thu 17 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 17 Dec 2026 | Boyfriend co-op | New York City |
+
+## Recently played
+
+- Planet Wax, London · Fri, 11 Sept 2026
+- ErF Studios, New York City · Fri, 28 Aug 2026
+- Wonderville, New York City · Sat, 18 Apr 2026
+- Harrison Street, Between 15th and 16th St, San Francisco/Oakland · Sat, 6 Sept 2025
+- Monarch, San Francisco/Oakland · Fri, 29 Aug 2025
+- TBA - SF location announced day of, San Francisco/Oakland · Fri, 15 Nov 2024
+- Basement 45, Bristol · Thu, 24 Oct 2024
+- Underground SF, San Francisco/Oakland · Fri, 27 Sept 2024
+
+## Shares bills with
+
+Mars Kasei, DJ Pacifier, Discnogirl
+
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aniklang/)*

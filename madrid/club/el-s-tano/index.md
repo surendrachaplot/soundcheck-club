@@ -1,14 +1,13 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 34 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "WHEREVER: Yins, Hadex, Milu, Karina Marber, Saett" on Fri, 20 Nov 2026.
+EL SÓTANO is a music venue in Madrid with 33 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "BAKALAO: Alberto Tapia, Ingelmo, Monty" on Sat, 21 Nov 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 34 upcoming gigs, with line-ups including Monty, Aida Blanco, Allisson Nunes and Arok Shiva and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 33 upcoming gigs, with line-ups including Monty, Aida Blanco, Allisson Nunes and Arok Shiva and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | WHEREVER: Yins, Hadex, Milu, Karina Marber, Saett | Hadex (2), Milu, Yins |
 | Sat, 21 Nov 2026 | BAKALAO: Alberto Tapia, Ingelmo, Monty | Monty |
 | Sun, 22 Nov 2026 | RIOT CLUB: ARZADOUS, Arok Shiva, DAVID MENA | Arok Shiva, DAVID MENA |
 | Sun, 22 Nov 2026 | BOSSA TARDEO: Grau, Héctor Pericet, Kily Ruiz, NAAT | Grau, Héctor Pericet, Kily Ruiz |
@@ -18,9 +17,10 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 34 upcoming gigs, wi
 | Sat, 28 Nov 2026 | HOUSENATION: Dimmish, Irene Gutierrez, Yannik | Dimmish |
 | Sun, 29 Nov 2026 | RIOT CLUB: Babylon Whore, Arok Shiva, BIGOT3X | Arok Shiva, Babylon Whore, Bigot3x (2) |
 | Sun, 29 Nov 2026 | BOSSA TARDEO: Héctor Pericet ALL DAY LONG | Héctor Pericet |
+| Thu, 3 Dec 2026 | SHE BEATS: Pájaro Negro, Brisa Then, Eva Levy | Brisa Then |
 
 ## Address
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

@@ -1,14 +1,14 @@
 # Nick Dagher
 
-Nick Dagher is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Detroit on Sat, 21 Nov 2026.
+Nick Dagher is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Bankle, Detroit on Sat, 21 Nov 2026.
 
-Nick Dagher is a techno and bass artist based in United States of America, with 43 gigs on soundcheck across Chicago, Detroit, Dresden and Los Angeles and 1 more. Often billed alongside Charles Trees, Young Muscle and Garrison XR. Next up: TBA, Detroit on Sat 21 Nov.
+Nick Dagher is a techno and bass artist based in United States of America, with 43 gigs on soundcheck across Chicago, Detroit, Dresden and Los Angeles and 1 more. Often billed alongside Charles Trees, Young Muscle and Garrison XR. Next up: The Bankle, Detroit on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA | Detroit |
+| Sat, 21 Nov 2026 | The Bankle | Detroit |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Nick Dagher is a techno and bass artist based in United States of America, with 
 
 Charles Trees, Young Muscle, Garrison XR
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdagher/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdagher/)*

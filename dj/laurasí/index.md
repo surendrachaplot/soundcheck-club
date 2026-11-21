@@ -1,6 +1,6 @@
 # Laura Sí
 
-Laura Sí is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
+Laura Sí is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
 
 Laura Sí is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Dorsch, Pilar Jordan and BARTi. Next up: Komplex Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Laura Sí is a techno and house artist based in Germany, with 10 gigs on soundch
 
 Dorsch, Pilar Jordan, BARTi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurasí/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurasí/)*

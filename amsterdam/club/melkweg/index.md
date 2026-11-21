@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 23 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "JACK SHORE - ALL NIGHT - IN THE MIDDLE" on Sat, 21 Nov 2026.
+Melkweg is a music venue in Amsterdam with 23 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "JACK SHORE - ALL NIGHT - IN THE MIDDLE" on Sat, 21 Nov 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 23 upcoming gigs, with line-ups including A.R.T., Chinese Daughter, De Plaag and Devereaux 85 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 23 upcoming gigs, wi
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

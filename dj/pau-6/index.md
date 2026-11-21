@@ -1,6 +1,6 @@
 # PAU (6)
 
-PAU (6) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Prince Charles, Berlin on Sat, 19 Dec 2026.
+PAU (6) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Prince Charles, Berlin on Sat, 19 Dec 2026.
 
 PAU is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Polytoxic, A.T.E.K and Perra Inmunda. Next up: Prince Charles, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ PAU is a techno and trance artist based in Germany, with 44 gigs on soundcheck a
 
 Polytoxic, A.T.E.K, Perra Inmunda
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*

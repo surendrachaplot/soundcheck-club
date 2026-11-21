@@ -1,6 +1,6 @@
 # I:Cube
 
-I:Cube is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Karmakoma, Belgrade on Sat, 12 Dec 2026.
+I:Cube is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Karmakoma, Belgrade on Sat, 12 Dec 2026.
 
 I:Cube is a house and techno artist based in France, with 10 gigs on soundcheck across Amsterdam, Belgrade, London and Paris and 1 more. Often billed alongside Gilb'R, Ivan Smagghe and Bufiman. Next up: Karmakoma, Belgrade on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ I:Cube is a house and techno artist based in France, with 10 gigs on soundcheck 
 
 Gilb'R, Ivan Smagghe, Bufiman
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icube/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icube/)*

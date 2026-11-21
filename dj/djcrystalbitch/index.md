@@ -1,6 +1,6 @@
 # DJ Crystal Bitch
 
-DJ Crystal Bitch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at De Fik Garden, Amsterdam on Sat, 5 Dec 2026.
+DJ Crystal Bitch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at De Fik Garden, Amsterdam on Sat, 5 Dec 2026.
 
 DJ Crystal Bitch is a techno and house artist based in Ireland, with 14 gigs on soundcheck across Amsterdam. Often billed alongside RawB, MIESØ and Delguero. Next up: De Fik Garden, Amsterdam on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ DJ Crystal Bitch is a techno and house artist based in Ireland, with 14 gigs on 
 
 RawB, MIESØ, Delguero
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcrystalbitch/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcrystalbitch/)*

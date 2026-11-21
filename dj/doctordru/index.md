@@ -1,18 +1,18 @@
 # Doctor Dru
 
-Doctor Dru is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Frau Holle, Hamburg on Fri, 20 Nov 2026.
+Doctor Dru is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
 
-Doctor Dru is a house and tech house artist based in Germany, with 15 gigs on soundcheck across Barcelona, Hamburg, Medellin and Mexico City and 2 more. Often billed alongside Miss Manu, Andrea Castells and Bambook. Next up: Club Frau Holle, Hamburg on Fri 20 Nov.
+Doctor Dru is a house and tech house artist based in Germany, with 15 gigs on soundcheck across Barcelona, Hamburg, Medellin and Mexico City and 2 more. Often billed alongside Miss Manu, Andrea Castells and Bambook. Next up: Les Enfants Brillants, Barcelona on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Club Frau Holle | Hamburg |
 | Sat, 19 Dec 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
+- Club Frau Holle, Hamburg · Fri, 20 Nov 2026
 - Purobeach Barcelona, Barcelona · Sat, 8 Aug 2026
 - Sunseabar Beach Club, Barcelona · Sat, 25 Apr 2026
 - Slakthuset, Stockholm · Fri, 6 Mar 2026
@@ -20,10 +20,9 @@ Doctor Dru is a house and tech house artist based in Germany, with 15 gigs on so
 - Club Sauvage, Barcelona · Sat, 14 Jun 2025
 - Club Sauvage, Barcelona · Sat, 14 Jun 2025
 - RED58, Barcelona · Sat, 25 Jan 2025
-- Edelfettwerk, Hamburg · Sat, 10 Aug 2024
 
 ## Shares bills with
 
 Miss Manu, Andrea Castells, Bambook
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*

@@ -1,6 +1,6 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "two left feet in support of Hackney Migrant Shelter" on Sat, 21 Nov 2026.
+The Old Blue Last is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "two left feet in support of Hackney Migrant Shelter" on Sat, 21 Nov 2026.
 
 The Old Blue Last is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alien Communications, Bruin Chan, Cleopatra and Electro Elvis and 1 more. See dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
@@ -22,4 +22,4 @@ The Old Blue Last is a music venue in London listed on soundcheck. 9 upcoming gi
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

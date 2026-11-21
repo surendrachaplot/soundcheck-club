@@ -1,6 +1,6 @@
 # Calder
 
-Calder is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Cu, London on Sat, 12 Dec 2026.
+Calder is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cu, London on Sat, 12 Dec 2026.
 
 Calder is a house and techno artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow and London. Often billed alongside Dacxi, Manta and D'Nice. Next up: Cu, London on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Calder is a house and techno artist based in United Kingdom, with 5 gigs on soun
 
 Dacxi, Manta, D'Nice
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calder/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calder/)*

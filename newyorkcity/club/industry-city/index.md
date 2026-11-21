@@ -1,18 +1,17 @@
 # Industry City
 
-Industry City is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "The Vampire Ball: Night 1" on Fri, 30 Oct 2026.
+Industry City is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "AGAPĒ WINTER FESTIVAL" on Fri, 19 Feb 2027.
 
-Industry City is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Alice Longyu Gao, Amber Valentine, Andhim and Annie Lew and 2 more. See dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
+Industry City is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Ben Klock, Cara Elizabeth, davyboi and Diossa and 2 more. See dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | The Vampire Ball: Night 1 | AWEN, Alice Longyu Gao, Andhim, Baby Wolf, DLeon, Eli Escobar, Elkka, Griffin Maxwell Brooks, Isabella Lovestory, Ksenyeah, LSDXOXO, Manguito, NSR, Rimarkable, SARE, Scotia, Star Fox, The Glitch Mob, Ultraviolet, Wreckno, deBasement |
-| Sat, 31 Oct 2026 | The Vampire Ball: Night 2 [SOLD OUT] | Amber Valentine, Andi, Annie Lew, COBRAH, DJ BORING, DJ Three, David Kiss, Flowdan, G I N A, IN PARALLEL, JD Samson, Joopiter, Jubilee, Katie Rex, Ramblur, Rimarkable, Rosa Perreo, Rose Kourts, Sissies of Mercy, Todd Edwards, Volvox |
+| Fri, 19 Feb 2027 | AGAPĒ WINTER FESTIVAL | Ben Klock, Cara Elizabeth, Diossa, FENIM0RE, Flash Gea, Johannes Schuster, KUKO, Len Faki, Mika Heggemann, Onlynumbers, Vendex, davyboi, ÜBERKIKZ |
 
 ## Address
 
 220 36th Street, Brooklyn, NY 11232, USA, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*

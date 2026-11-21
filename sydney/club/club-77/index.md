@@ -1,26 +1,26 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 18 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Fridays at 77 x BAG: Matthias (Superluminal), Jesse You, Tarj" on Fri, 20 Nov 2026.
+Club 77 is a music venue in Sydney with 17 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Club 77: DJ Kiti, Barney Kato" on Sat, 21 Nov 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 18 upcoming gigs, with line-ups including au4r33y, Ayebatonye, Ben Fester and CC:DISCO! and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 17 upcoming gigs, with line-ups including au4r33y, Ayebatonye, Ben Fester and Benny Chiu and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Fridays at 77 x BAG: Matthias (Superluminal), Jesse You, Tarj | Jesse You, Matthias (1), Tarj |
 | Sat, 21 Nov 2026 | Club 77: DJ Kiti, Barney Kato | DJ Kiti, Kato |
 | Fri, 27 Nov 2026 | Fridays at 77: Claddy, Ciara | Ciara, Claddy |
-| Sat, 28 Nov 2026 | Club 77: Jimi Dawg, Mike Who | Mike Who |
+| Sat, 28 Nov 2026 | Club 77: Benny Chiu, Mike Who | Benny Chiu, Mike Who |
 | Sun, 29 Nov 2026 | Sundays at 77 x The Door List: The West Ball Afterparty | Ayebatonye, Dashé, Kilimi (2) |
 | Thu, 3 Dec 2026 | Thursdays at 77: Deepchild | Deepchild |
 | Fri, 4 Dec 2026 | Fridays at 77: Nausheen, Yemi Sul, Fabz | Nausheen Gun Kelly |
 | Sat, 5 Dec 2026 | RA25: Sydney | Ben Fester, CC:DISCO!, DJ PGZ, DJ Plead, Mazzacles, Mikalah Watego, Moopie, Pjenné, Sleep D, Stereogamous |
 | Sun, 6 Dec 2026 | Sundays at 77: Killian | Killian |
 | Thu, 10 Dec 2026 | Thursdays at 77: Deepchild | Deepchild |
+| Fri, 11 Dec 2026 | Fridays at 77 x Fur Coat 8th Birthday: Sophie Forrest, SVEN, Nick Spurway, Matt Jay | Nick Spurway, Sophie Forrest |
 
 ## Address
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

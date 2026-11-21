@@ -1,6 +1,6 @@
 # Rumi
 
-Rumi is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Battle Hymn" on Sun, 15 Nov 2026.
+Rumi is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Battle Hymn Holiday party" on Sun, 13 Dec 2026.
 
 Rumi is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 229 W 28th St, New York, NY 10001.
 
@@ -8,10 +8,10 @@ Rumi is a music venue in New York City listed on soundcheck. 1 upcoming gig. See
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Battle Hymn |  |
+| Sun, 13 Dec 2026 | Battle Hymn Holiday party |  |
 
 ## Address
 
 229 W 28th St, New York, NY 10001, New York City
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/rumi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/rumi/)*

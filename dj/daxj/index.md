@@ -1,6 +1,6 @@
 # DAX J
 
-DAX J is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+DAX J is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 DAX J is a techno and house artist based in United Kingdom, with 307 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 92 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -20,6 +20,7 @@ DAX J is a techno and house artist based in United Kingdom, with 307 gigs on sou
 
 ## Recently played
 
+- Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Knockdown Center, New York City · Sat, 14 Nov 2026
 - TRANSMISSION DC, Washington DC · Fri, 13 Nov 2026
 - Underground Atlanta, Atlanta · Sat, 7 Nov 2026
@@ -27,10 +28,9 @@ DAX J is a techno and house artist based in United Kingdom, with 307 gigs on sou
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
-- RAWFACTORY, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

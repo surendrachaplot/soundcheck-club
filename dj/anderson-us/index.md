@@ -1,6 +1,6 @@
 # Anderson (US)
 
-Anderson (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Anderson (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 Anderson (US) is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside DJ Zurückbleiben Bitte, Some Uncertain Sir and Peppe Way. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Anderson (US) is a house and techno artist based in United States of America, wi
 
 DJ Zurückbleiben Bitte, Some Uncertain Sir, Peppe Way
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson-us/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson-us/)*

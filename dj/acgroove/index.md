@@ -1,6 +1,6 @@
 # AC Groove
 
-AC Groove is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Arts Club, Liverpool on Fri, 27 Nov 2026.
+AC Groove is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Arts Club, Liverpool on Fri, 27 Nov 2026.
 
 AC Groove is a house and disco artist based in United Kingdom, with 33 gigs on soundcheck across Liverpool. Often billed alongside Ellie Jennings, Young Pulse and Ethan West. Next up: Arts Club, Liverpool on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AC Groove is a house and disco artist based in United Kingdom, with 33 gigs on s
 
 Ellie Jennings, Young Pulse, Ethan West
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acgroove/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acgroove/)*

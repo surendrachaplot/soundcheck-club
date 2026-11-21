@@ -1,6 +1,6 @@
 # Cheb Mimo
 
-Cheb Mimo is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at LDN East, London on Sat, 21 Nov 2026.
+Cheb Mimo is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at LDN East, London on Sat, 21 Nov 2026.
 
 Cheb Mimo is a funk / soul and house artist based in United Kingdom, with 25 gigs on soundcheck across Basel, Bordeaux, Bristol and Cologne and 7 more. Often billed alongside DAR DISKU, JOSH FB and Heléna Star. Next up: LDN East, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cheb Mimo is a funk / soul and house artist based in United Kingdom, with 25 gig
 
 DAR DISKU, JOSH FB, Heléna Star
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chebmimo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chebmimo/)*

@@ -1,8 +1,8 @@
 # Spinelli
 
-Spinelli is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Spinelli is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
-Spinelli is a house and techno artist based in Spain, with 6 gigs on soundcheck across Berlin, Manchester and New York City. Often billed alongside Aletha, Eich and Jordan Villa. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
+Spinelli is a house and techno artist based in Spain, with 7 gigs on soundcheck across Berlin, Manchester, Mexico City and New York City. Often billed alongside Aletha, Eich and Jordan Villa. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Spinelli is a house and techno artist based in Spain, with 6 gigs on soundcheck 
 
 ## Recently played
 
+- Drama Radio Bar, Mexico City · Tue, 17 Nov 2026
 - TBA - Friedrichshain Off Location in Nature, Berlin · Sat, 22 Aug 2026
 - Stage and Radio, Manchester · Tue, 9 Jun 2026
 - Void Club, Berlin · Sat, 16 May 2026
@@ -22,4 +23,4 @@ Spinelli is a house and techno artist based in Spain, with 6 gigs on soundcheck 
 
 Aletha, Eich, Jordan Villa
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-spinelli/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-spinelli/)*

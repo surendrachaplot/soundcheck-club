@@ -1,6 +1,6 @@
 # NASI (GE)
 
-NASI (GE) is a Classical and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 21 Nov 2026.
+NASI (GE) is a Classical and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 21 Nov 2026.
 
 NASI (GE) is a classical and minimal techno artist based in Georgia, with 20 gigs on soundcheck across Hamburg and Tbilisi. Often billed alongside gwän, SUMO and 00rt. Next up: Mtkvarze, Tbilisi on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ NASI (GE) is a classical and minimal techno artist based in Georgia, with 20 gig
 
 gwän, SUMO, 00rt
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nasi-ge/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nasi-ge/)*

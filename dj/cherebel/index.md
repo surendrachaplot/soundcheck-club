@@ -1,8 +1,8 @@
 # ChéRebel
 
-ChéRebel is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
+ChéRebel is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
 
-ChéRebel is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Balkhausen, alemiko and Adrian Sand. Next up: Sensorium, Berlin on Sat 21 Nov.
+ChéRebel is a techno and tech house artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Balkhausen, alemiko and Adrian Sand. Next up: Sensorium, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ChéRebel is a techno and tech house artist based in Germany, with 18 gigs on so
 | Sat, 21 Nov 2026 | Sensorium | Berlin |
 | Wed, 25 Nov 2026 | Sensorium | Berlin |
 | Fri, 4 Dec 2026 | Sensorium | Berlin |
+| Thu, 24 Dec 2026 | Prisma | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ ChéRebel is a techno and tech house artist based in Germany, with 18 gigs on so
 
 Balkhausen, alemiko, Adrian Sand
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherebel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherebel/)*

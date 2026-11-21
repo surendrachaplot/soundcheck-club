@@ -1,6 +1,6 @@
 # She The DJ
 
-She The DJ is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+She The DJ is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 She The DJ is a house and garage artist based in Belgium, with 37 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside BAVR, Bibi Seck and UNOS. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ She The DJ is a house and garage artist based in Belgium, with 37 gigs on soundc
 
 BAVR, Bibi Seck, UNOS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shethedj/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shethedj/)*

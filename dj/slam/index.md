@@ -1,6 +1,6 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hare & Hounds, Birmingham on Sat, 28 Nov 2026.
+Slam is a Techno and Dub Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hare & Hounds, Birmingham on Sat, 28 Nov 2026.
 
 Slam is a techno and dub techno artist based in United Kingdom, with 148 gigs on soundcheck across Aberdeen, Barcelona, Belfast and Berlin and 35 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Hare & Hounds, Birmingham on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Slam is a techno and dub techno artist based in United Kingdom, with 148 gigs on
 
 KAAI, Kairogen, Nightwave
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*

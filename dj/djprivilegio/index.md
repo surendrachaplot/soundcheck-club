@@ -1,6 +1,6 @@
 # DJ Privilégio
 
-DJ Privilégio is a Jazz and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Desterro, Lisbon on Fri, 27 Nov 2026.
+DJ Privilégio is a Jazz and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Desterro, Lisbon on Fri, 27 Nov 2026.
 
 DJ Privilégio is a jazz and experimental artist based in Portugal, with 23 gigs on soundcheck across Lisbon and Porto. Often billed alongside 420@ôa, Gabberolas and Mar710. Next up: Desterro, Lisbon on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Privilégio is a jazz and experimental artist based in Portugal, with 23 gigs
 
 420@ôa, Gabberolas, Mar710
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djprivilegio/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djprivilegio/)*

@@ -1,6 +1,6 @@
 # Cecilia Tosh
 
-Cecilia Tosh is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+Cecilia Tosh is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
 Cecilia Tosh is a techno and house artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 19 more. Often billed alongside Kat Davids, .VRIL and James Ruskin. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
@@ -29,4 +29,4 @@ Cecilia Tosh is a techno and house artist based in Germany, with 87 gigs on soun
 
 Kat Davids, .VRIL, James Ruskin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceciliatosh/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceciliatosh/)*

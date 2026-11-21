@@ -1,6 +1,6 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "MONDE SONIQ" on Fri, 20 Nov 2026.
+Abercrombie Hotel is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Abercrombie Pres. GABRIELLE KWARTENG [USA]" on Sat, 21 Nov 2026.
 
 Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including Ali Bilal, Ari Kiko, BASHKKA and Eoin DJ and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
@@ -8,10 +8,10 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 12 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | MONDE SONIQ | Kassita, LEGGY, masheen, nulty |
 | Sat, 21 Nov 2026 | Abercrombie Pres. GABRIELLE KWARTENG [USA] | Gabrielle Kwarteng, Kalix, Seohbin, Westryd3r |
 | Fri, 27 Nov 2026 | Kiko x Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] | Ari Kiko, BASHKKA, JakoJako |
 | Sat, 28 Nov 2026 | SUN SIGNS [LAUNCH PARTY] | Eoin DJ, Sasha Milani, Unprotected Success |
+| Sat, 28 Nov 2026 | THE AFTERS — MANNING OPEN AIR AFTERPARTY |  |
 | Fri, 4 Dec 2026 | unfurling feat. Olivia Mendez [FRA] | Olivia Mendez |
 | Sat, 5 Dec 2026 | Abercrombie Pres. Ploy [UK] | Ploy |
 | Sat, 5 Dec 2026 | P&F: DOOZIE RECORDS COURTYARD PARTY ¤ RTK Tarantino ¤ PARKER ¤ Nay Barr | James Parker, RTK Tarantino |
@@ -23,4 +23,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 12 upcoming g
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

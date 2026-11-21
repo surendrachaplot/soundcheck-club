@@ -1,0 +1,17 @@
+# 32016
+
+32016 is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "LA FONDATION 13th ANNIVERSARY SPECIAL EDITION" on Sat, 21 Nov 2026.
+
+32016 is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2-14-12 Sangenjaya, Setagaya-ku, Tokyo 154-0024.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | LA FONDATION 13th ANNIVERSARY SPECIAL EDITION |  |
+
+## Address
+
+2-14-12 Sangenjaya, Setagaya-ku, Tokyo 154-0024, Tokyo
+
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/32016/)*

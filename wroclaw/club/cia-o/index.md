@@ -1,14 +1,13 @@
 # Ciało
 
-Ciało is a music venue in Wroclaw with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Ciało: Indecorum, Jake Fill, WRK" on Fri, 20 Nov 2026.
+Ciało is a music venue in Wroclaw with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "AUDIO ZAJAZD: Saytek Live" on Sat, 21 Nov 2026.
 
-Ciało is a music venue in Wroclaw listed on soundcheck. 9 upcoming gigs, with line-ups including Franczesko, Alarico, Blazej Malinowski and Bliss Kiss and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
+Ciało is a music venue in Wroclaw listed on soundcheck. 8 upcoming gigs, with line-ups including Franczesko, Alarico, Blazej Malinowski and Bliss Kiss and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Ciało: Indecorum, Jake Fill, WRK | Indecorum, Jake Fill, WRK (PL) |
 | Sat, 21 Nov 2026 | AUDIO ZAJAZD: Saytek Live | Donija, Janeda, Pan JJ, Ravetoszyn, Saytek, Theviacya, Wix Collina |
 | Fri, 27 Nov 2026 | Ciało: Ellen Allien | Dizzy, Ellen Allien, Jules, Vi (PL) |
 | Fri, 4 Dec 2026 | SPLOT x Ciało with DjRUM | DjRUM, Glassz, Guiltee, Loskop, dadan karambolo, dobrawka |
@@ -22,4 +21,4 @@ Ciało is a music venue in Wroclaw listed on soundcheck. 9 upcoming gigs, with l
 
 Joannitów 13, 50-086 Wrocław, Wroclaw
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*

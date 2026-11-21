@@ -1,6 +1,6 @@
 # David Carretta
 
-David Carretta is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
+David Carretta is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
 
 David Carretta is an electro and ebm artist based in France, with 25 gigs on soundcheck across Barcelona, Berlin, Bucharest and Istanbul and 7 more. Often billed alongside Paty Vapor, Paty and Terence Fixmer. Next up: Sala de Armas, North on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ David Carretta is an electro and ebm artist based in France, with 25 gigs on sou
 
 Paty Vapor, Paty, Terence Fixmer
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarretta/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarretta/)*

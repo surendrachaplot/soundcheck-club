@@ -1,6 +1,6 @@
 # Miguel Nery
 
-Miguel Nery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Museu do Carro Elétrico, Porto on Sat, 21 Nov 2026.
+Miguel Nery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Museu do Carro Elétrico, Porto on Sat, 21 Nov 2026.
 
 Miguel Nery is a house and techno artist based in Portugal, with 44 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Tiago Carvalho, Rui Vargas and Cuba (PT). Next up: Museu do Carro Elétrico, Porto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Miguel Nery is a house and techno artist based in Portugal, with 44 gigs on soun
 
 Tiago Carvalho, Rui Vargas, Cuba (PT)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelnery/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelnery/)*

@@ -1,6 +1,6 @@
 # halle02
 
-halle02 is a music venue in Heidelberg with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "ELECTRIC HORIZON INDOOR" on Sat, 21 Nov 2026.
+halle02 is a music venue in Heidelberg with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ELECTRIC HORIZON INDOOR" on Sat, 21 Nov 2026.
 
 halle02 is a music venue in Heidelberg listed on soundcheck. 5 upcoming gigs, with line-ups including DeGuzman, DJ Achim Feuervogel, Felix Kröcher and Feydh Rotan and 2 more. See dates, start times and who's playing. Zollhofgarten 2, 69115 Heidelberg.
 
@@ -18,4 +18,4 @@ halle02 is a music venue in Heidelberg listed on soundcheck. 5 upcoming gigs, wi
 
 Zollhofgarten 2, 69115 Heidelberg, Heidelberg
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*

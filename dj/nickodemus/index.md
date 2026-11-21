@@ -1,6 +1,6 @@
 # Nickodemus
 
-Nickodemus is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - 38 Meadow St, Brooklyn, New York City on Sat, 21 Nov 2026.
+Nickodemus is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 38 Meadow St, Brooklyn, New York City on Sat, 21 Nov 2026.
 
 Nickodemus is a house and afro house artist based in United States of America, with 67 gigs on soundcheck across Atlanta, Barcelona, Boston and Dundee and 14 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: TBA - 38 Meadow St, Brooklyn, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nickodemus is a house and afro house artist based in United States of America, w
 
 Willy Soul, 2melo, Disgonuts
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*

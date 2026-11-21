@@ -1,14 +1,13 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Gewölbe, Cologne on Fri, 20 Nov 2026.
+Claudio PRC is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Industrial Copera, South on Sat, 21 Nov 2026.
 
-Claudio PRC is a techno and experimental artist based in Italy, with 185 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 59 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Gewölbe, Cologne on Fri 20 Nov.
+Claudio PRC is a techno and experimental artist based in Italy, with 185 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 59 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Industrial Copera, South on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Gewölbe | Cologne |
 | Sat, 21 Nov 2026 | Industrial Copera | South |
 | Sat, 28 Nov 2026 | Bluefever | Bilbao |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
@@ -17,6 +16,7 @@ Claudio PRC is a techno and experimental artist based in Italy, with 185 gigs on
 
 ## Recently played
 
+- Gewölbe, Cologne · Fri, 20 Nov 2026
 - Rhythm, Toronto · Sun, 15 Nov 2026
 - TBA - Toronto, Toronto · Sat, 14 Nov 2026
 - public records, New York City · Fri, 13 Nov 2026
@@ -24,10 +24,9 @@ Claudio PRC is a techno and experimental artist based in Italy, with 185 gigs on
 - TILLATEC, Amsterdam · Fri, 6 Nov 2026
 - vurt., Seoul · Sat, 31 Oct 2026
 - VENT, Tokyo · Fri, 30 Oct 2026
-- Veniceberg, North · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

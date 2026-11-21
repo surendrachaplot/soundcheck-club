@@ -1,6 +1,6 @@
 # Hicham
 
-Hicham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 19 Dec 2026.
+Hicham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 19 Dec 2026.
 
 Hicham is a house and techno artist, with 59 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 21 more. Often billed alongside Onur Özer, Alex Picone and Ancut. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Hicham is a house and techno artist, with 59 gigs on soundcheck across Bali, Ban
 
 Onur Özer, Alex Picone, Ancut
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*

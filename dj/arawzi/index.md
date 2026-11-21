@@ -1,6 +1,6 @@
 # arawzi
 
-arawzi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+arawzi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
 arawzi is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Brighton and London. Often billed alongside Atoxyl, O.KAYE and Yiota. Next up: Brixton Radio, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ arawzi is a techno and house artist based in United Kingdom, with 25 gigs on sou
 
 Atoxyl, O.KAYE, Yiota
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arawzi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arawzi/)*

@@ -1,6 +1,6 @@
 # Yasmin
 
-Yasmin is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Yasmin is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Yasmin is a house and disco artist, with 85 gigs on soundcheck across Barcelona, Brisbane, Denver and Glasgow and 20 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Mousse T.. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -14,6 +14,7 @@ Yasmin is a house and disco artist, with 85 gigs on soundcheck across Barcelona,
 
 ## Recently played
 
+- Verbier, Switzerland · Fri, 20 Nov 2026
 - E1, London · Fri, 13 Nov 2026
 - Reactor Shanghai, Shanghai · Sat, 24 Oct 2026
 - The Observatory, Ho Chi Minh City · Fri, 18 Sept 2026
@@ -21,10 +22,9 @@ Yasmin is a house and disco artist, with 85 gigs on soundcheck across Barcelona,
 - Amnesia Ibiza, Ibiza · Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza · Fri, 17 Jul 2026
 - Amnesia Ibiza, Ibiza · Fri, 3 Jul 2026
-- Teatro Pereyra, Ibiza · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Horse Meat Disco, Melvo Baptiste, Mousse T.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*

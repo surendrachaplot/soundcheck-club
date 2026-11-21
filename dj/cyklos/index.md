@@ -1,6 +1,6 @@
 # Cyklos
 
-Cyklos is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at LAUT, Barcelona on Sat, 12 Dec 2026.
+Cyklos is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at LAUT, Barcelona on Sat, 12 Dec 2026.
 
 Cyklos is a techno and electronica artist based in Spain, with 15 gigs on soundcheck across Barcelona and Munich. Often billed alongside stndrd, ABSIS and Spear. Next up: LAUT, Barcelona on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Cyklos is a techno and electronica artist based in Spain, with 15 gigs on soundc
 
 stndrd, ABSIS, Spear
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyklos/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyklos/)*

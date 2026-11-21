@@ -1,6 +1,6 @@
 # L3Ni
 
-L3Ni is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Elsewhere, New York City on Sat, 21 Nov 2026.
+L3Ni is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Elsewhere, New York City on Sat, 21 Nov 2026.
 
 L3Ni is a house and disco artist based in United States of America, with 65 gigs on soundcheck across Baltimore, Chicago, Denver and Detroit and 8 more. Often billed alongside Natasha Diggs, DJ Soul Sister and Donis. Next up: Elsewhere, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ L3Ni is a house and disco artist based in United States of America, with 65 gigs
 
 Natasha Diggs, DJ Soul Sister, Donis
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*

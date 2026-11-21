@@ -1,14 +1,13 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hangaren, Copenhagen on Fri, 20 Nov 2026.
+MCR-T is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-MCR-T is a techno and house artist based in Germany, with 308 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 76 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Hangaren, Copenhagen on Fri 20 Nov.
+MCR-T is a techno and house artist based in Germany, with 308 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 76 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Hangaren | Copenhagen |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | Fuse | Brussels |
 | Fri, 27 Nov 2026 | Roxy | Prague |
@@ -20,9 +19,11 @@ MCR-T is a techno and house artist based in Germany, with 308 gigs on soundcheck
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 20 Feb 2027 | De Vereeniging | Nijmegen |
 | Fri, 5 Mar 2027 | RSO.BERLIN | Berlin |
+| Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 
 ## Recently played
 
+- Hangaren, Copenhagen · Fri, 20 Nov 2026
 - WWW X, Tokyo · Sat, 7 Nov 2026
 - Blank Site, Seoul · Fri, 6 Nov 2026
 - Tokonoma Club, Frankfurt · Fri, 30 Oct 2026
@@ -30,10 +31,9 @@ MCR-T is a techno and house artist based in Germany, with 308 gigs on soundcheck
 - H7 Warehouse, Amsterdam · Fri, 23 Oct 2026
 - Melkweg, Amsterdam · Fri, 23 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
-- Turbina, Budapest · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

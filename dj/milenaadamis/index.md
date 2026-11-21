@@ -1,8 +1,8 @@
 # Milena Adamis
 
-Milena Adamis is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 23 Nov 2026.
+Milena Adamis is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 23 Nov 2026.
 
-Milena Adamis is a techno and electronica artist based in Argentina, with 44 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 5 more. Often billed alongside Udolph, Cia Rebeck and Dist. Next up: Tresor / Globus, Berlin on Mon 23 Nov.
+Milena Adamis is a techno and electronica artist based in Argentina, with 45 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 6 more. Often billed alongside Udolph, Cia Rebeck and Dist. Next up: Tresor / Globus, Berlin on Mon 23 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Milena Adamis is a techno and electronica artist based in Argentina, with 44 gig
 
 ## Recently played
 
+- S.v. Jugendhaus Ost, Lower-saxony · Fri, 20 Nov 2026
 - AMT, Berlin · Wed, 18 Nov 2026
 - TBA, Buenos Aires · Fri, 6 Nov 2026
 - Under Club, Buenos Aires · Sat, 17 Oct 2026
@@ -20,10 +21,9 @@ Milena Adamis is a techno and electronica artist based in Argentina, with 44 gig
 - Under Club, Buenos Aires · Fri, 18 Sept 2026
 - Crobar - Buenos Aires, Buenos Aires · Fri, 19 Jun 2026
 - Zabal Techno, Buenos Aires · Fri, 22 May 2026
-- Niceto Club, Buenos Aires · Fri, 14 Nov 2025
 
 ## Shares bills with
 
 Udolph, Cia Rebeck, Dist
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaadamis/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaadamis/)*

@@ -1,15 +1,15 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
+2HOT2PLAY is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 21 Nov 2026.
 
-2HOT2PLAY is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Augsburg and 38 more. Often billed alongside L.zwo, Mika Heggemann and PRADA2000. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
+2HOT2PLAY is a techno and trance artist based in Germany, with 127 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Augsburg and 38 more. Often billed alongside L.zwo, Mika Heggemann and PRADA2000. Next up: Studio Club Malaga, Malaga on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kesselhaus Augsburg | Augsburg |
 | Sat, 21 Nov 2026 | Studio Club Malaga | Malaga |
+| Fri, 4 Dec 2026 | MÄX | Zurich |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | Lakota | Bristol |
 | Sat, 12 Dec 2026 | WDM | Hannover |
@@ -18,9 +18,11 @@
 | Sat, 2 Jan 2027 | E1 | London |
 | Fri, 19 Feb 2027 | Complex Maastricht | Netherlands |
 | Sat, 20 Feb 2027 | Phantom, Paris | Paris |
+| Sun, 16 May 2027 | Plage De Torcy | Paris |
 
 ## Recently played
 
+- Kesselhaus Augsburg, Augsburg · Fri, 20 Nov 2026
 - Thuishaven, Amsterdam · Sun, 15 Nov 2026
 - Kømplex Lisbon, Lisbon · Sat, 31 Oct 2026
 - The Bulldog Palace, Amsterdam · Sat, 24 Oct 2026
@@ -28,10 +30,9 @@
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
-- Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 L.zwo, Mika Heggemann, PRADA2000
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

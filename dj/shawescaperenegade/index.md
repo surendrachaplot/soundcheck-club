@@ -1,6 +1,6 @@
 # Shawescape Renegade
 
-Shawescape Renegade is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Marble Bar, Detroit on Tue, 24 Nov 2026.
+Shawescape Renegade is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Marble Bar, Detroit on Tue, 24 Nov 2026.
 
 Shawescape Renegade is a techno and electro artist based in United States of America, with 74 gigs on soundcheck across Berlin, Denver, Detroit and Hong Kong and 4 more. Often billed alongside DJ Roach, Erika and LATEX GIRL. Next up: Marble Bar, Detroit on Tue 24 Nov.
 
@@ -28,4 +28,4 @@ Shawescape Renegade is a techno and electro artist based in United States of Ame
 
 DJ Roach, Erika, LATEX GIRL
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shawescaperenegade/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shawescaperenegade/)*

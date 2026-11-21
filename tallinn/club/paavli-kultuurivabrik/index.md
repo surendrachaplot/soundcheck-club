@@ -1,6 +1,6 @@
 # Paavli Kultuurivabrik
 
-Paavli Kultuurivabrik is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Teens K-Pop Party (Ages 13–17) - Tallinn" on Sat, 21 Nov 2026.
+Paavli Kultuurivabrik is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Teens K-Pop Party (Ages 13–17) - Tallinn" on Sat, 21 Nov 2026.
 
 Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including britiimpeerium and IKARVS. See dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
 
@@ -15,4 +15,4 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 2 upcomi
 
 Paavli 7a, 10412 Tallinn, Estonia, Tallinn
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*

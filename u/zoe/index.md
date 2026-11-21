@@ -1,11 +1,11 @@
 # u/zoe (@zoe)
 
-u/zoe (@zoe) has logged 16 gigs across 8 venues in 5 cities on soundcheck, based in London.
+u/zoe (@zoe) has logged 17 gigs across 9 venues in 6 cities on soundcheck, based in London.
 
-- Gigs logged: 16
-- Venues: 8
-- Cities: 5
-- Seen live: 51
+- Gigs logged: 17
+- Venues: 9
+- Cities: 6
+- Seen live: 52
 
 ## Most seen
 

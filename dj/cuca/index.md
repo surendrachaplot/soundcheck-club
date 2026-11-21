@@ -1,6 +1,6 @@
 # Cuca
 
-Cuca is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Cais da Imperatriz, Rio de Janeiro on Sat, 21 Nov 2026.
+Cuca is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cais da Imperatriz, Rio de Janeiro on Sat, 21 Nov 2026.
 
 Cuca is a techno and house artist based in Brazil, with 55 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Glau, Ananda (BR) and NORA (BR). Next up: Cais da Imperatriz, Rio de Janeiro on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cuca is a techno and house artist based in Brazil, with 55 gigs on soundcheck ac
 
 Glau, Ananda (BR), NORA (BR)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuca/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuca/)*

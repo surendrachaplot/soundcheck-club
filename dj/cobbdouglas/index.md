@@ -1,6 +1,6 @@
 # Cobb Douglas
 
-Cobb Douglas is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at DETROIT CLUB, Barcelona on Sat, 21 Nov 2026.
+Cobb Douglas is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at DETROIT CLUB, Barcelona on Sat, 21 Nov 2026.
 
 Cobb Douglas is a techno and trance artist based in Spain, with 123 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 10 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: DETROIT CLUB, Barcelona on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Cobb Douglas is a techno and trance artist based in Spain, with 123 gigs on soun
 
 Ozzwald, Stinny Stone, Amøn
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*

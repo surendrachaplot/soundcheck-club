@@ -1,6 +1,6 @@
 # Max(imus)
 
-Max(imus) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 27 Nov 2026.
+Max(imus) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 27 Nov 2026.
 
 Max(imus) is a house and electro artist, with 19 gigs on soundcheck across Berlin. Often billed alongside DJ Sanni, imus and Ena (DE). Next up: Bulbul Berlin, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Max(imus) is a house and electro artist, with 19 gigs on soundcheck across Berli
 
 DJ Sanni, imus, Ena (DE)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus/)*

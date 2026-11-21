@@ -1,19 +1,19 @@
 # Douvelle19
 
-Douvelle19 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Soup, Manchester on Fri, 20 Nov 2026.
+Douvelle19 is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Clock Factory, Bristol on Fri, 11 Dec 2026.
 
-Douvelle19 is a garage and house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Brighton, Bristol and Cardiff and 5 more. Often billed alongside Cesco, Diffrent and Rich Reason. Next up: Soup, Manchester on Fri 20 Nov.
+Douvelle19 is a garage and house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Brighton, Bristol and Cardiff and 5 more. Often billed alongside Cesco, Diffrent and Rich Reason. Next up: Clock Factory, Bristol on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Soup | Manchester |
 | Fri, 11 Dec 2026 | Clock Factory | Bristol |
 | Fri, 29 Jan 2027 | NT's Loft | London |
 
 ## Recently played
 
+- Soup, Manchester · Fri, 20 Nov 2026
 - Club Up, Amsterdam · Wed, 21 Oct 2026
 - The Cut, Newcastle · Fri, 16 Oct 2026
 - Fulham Pier, London · Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Douvelle19 is a garage and house artist based in United Kingdom, with 30 gigs on
 - Heaton Park, Manchester · Sat, 20 Jun 2026
 - Night Tales, London · Sat, 28 Feb 2026
 - Hidden, Manchester · Wed, 31 Dec 2025
-- The Warehouse, Leeds · Fri, 28 Nov 2025
 
 ## Shares bills with
 
 Cesco, Diffrent, Rich Reason
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/douvelle19/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/douvelle19/)*

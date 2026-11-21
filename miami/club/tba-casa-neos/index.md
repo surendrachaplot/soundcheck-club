@@ -1,6 +1,6 @@
 # TBA - CASA NEOS
 
-TBA - CASA NEOS is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "CASA NEOS - Lounge - Miami Art Week Line Up" on Fri, 4 Dec 2026.
+TBA - CASA NEOS is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "CASA NEOS - Lounge - Miami Art Week Line Up" on Fri, 4 Dec 2026.
 
 TBA - CASA NEOS is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with line-ups including ANOTR, Dennis Cruz, Franky Rizardo and Hugel and 1 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - CASA NEOS is a music venue in Miami listed on soundcheck. 6 upcoming gigs,
 | Sat, 5 Dec 2026 | Casa Neos - Rafael - Miami Art Week |  |
 | Sun, 6 Dec 2026 | Casa Neos - Hugel - Miami Art Week | Hugel |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/tba-casa-neos/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/tba-casa-neos/)*

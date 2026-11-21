@@ -1,8 +1,8 @@
 # Just Another Bitch
 
-Just Another Bitch is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 28 Nov 2026.
+Just Another Bitch is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Just Another Bitch is a techno and club artist based in United States of America, with 49 gigs on soundcheck across New York City, San Francisco/Oakland and Seattle. Often billed alongside nonsuit, Beverly Chills and Papa Xanny. Next up: The Great Northern, San Francisco/Oakland on Sat 28 Nov.
+Just Another Bitch is a techno and club artist based in United States of America, with 50 gigs on soundcheck across New York City, San Francisco/Oakland and Seattle. Often billed alongside nonsuit, Papa Xanny and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Just Another Bitch is a techno and club artist based in United States of America
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Great Northern | San Francisco/Oakland |
 | Thu, 31 Dec 2026 | Public Works | San Francisco/Oakland |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Just Another Bitch is a techno and club artist based in United States of America
 
 ## Shares bills with
 
-nonsuit, Beverly Chills, Papa Xanny
+nonsuit, Papa Xanny, likeholywine
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justanotherbitch/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justanotherbitch/)*

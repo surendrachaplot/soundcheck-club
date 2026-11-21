@@ -1,6 +1,6 @@
 # Der Opium Queen
 
-Der Opium Queen is a Downtempo and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Tendermesh Project Space, Berlin on Sun, 22 Nov 2026.
+Der Opium Queen is a Downtempo and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tendermesh Project Space, Berlin on Sun, 22 Nov 2026.
 
 Der Opium Queen is a downtempo and ambient artist based in Ireland, with 3 gigs on soundcheck across Berlin. Often billed alongside Andrea Ida, Asa Tate and Cashper. Next up: Tendermesh Project Space, Berlin on Sun 22 Nov.
 
@@ -19,4 +19,4 @@ Der Opium Queen is a downtempo and ambient artist based in Ireland, with 3 gigs 
 
 Andrea Ida, Asa Tate, Cashper
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deropiumqueen/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deropiumqueen/)*

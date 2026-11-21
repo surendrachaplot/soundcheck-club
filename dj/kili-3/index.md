@@ -1,6 +1,6 @@
 # Kili (3)
 
-Kili (3) is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Kili (3) is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Kili is a hardcore and techno artist based in Netherlands, with 14 gigs on soundcheck across Cologne, Frankfurt, Glasgow and Madrid and 6 more. Often billed alongside Angerfist, Evil Activities and Lekkerfaces. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Kili is a hardcore and techno artist based in Netherlands, with 14 gigs on sound
 
 Angerfist, Evil Activities, Lekkerfaces
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*

@@ -1,13 +1,14 @@
 # Ed Warner
 
-Ed Warner is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Cadavra, Madrid on Fri, 11 Dec 2026.
+Ed Warner is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at LAUT, Barcelona on Sat, 5 Dec 2026.
 
-Ed Warner is an electro and acid artist based in Spain, with 66 gigs on soundcheck across Austin, Barcelona, Berlin and London and 3 more. Often billed alongside Kinetic, Oriana and Andi. Next up: Cadavra, Madrid on Fri 11 Dec.
+Ed Warner is an electro and acid artist based in Spain, with 67 gigs on soundcheck across Austin, Barcelona, Berlin and London and 3 more. Often billed alongside Kinetic, Gus Van Sound and Oriana. Next up: LAUT, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | LAUT | Barcelona |
 | Fri, 11 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ed Warner is an electro and acid artist based in Spain, with 66 gigs on soundche
 
 ## Shares bills with
 
-Kinetic (2), Oriana, Andi
+Kinetic (2), Gus Van Sound, Oriana
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*

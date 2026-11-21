@@ -1,8 +1,8 @@
 # Dream Sequence
 
-Dream Sequence is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hoppetosse, Berlin on Sun, 13 Dec 2026.
+Dream Sequence is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hoppetosse, Berlin on Sun, 13 Dec 2026.
 
-Dream Sequence is a techno and electro artist, with 5 gigs on soundcheck across Berlin, Hamburg and London. Often billed alongside The Crane, bad_dubs and ASIA (DE). Next up: Hoppetosse, Berlin on Sun 13 Dec.
+Dream Sequence is a techno and electro artist based in Germany, with 5 gigs on soundcheck across Berlin, Hamburg and London. Often billed alongside The Crane, bad_dubs and ASIA (DE). Next up: Hoppetosse, Berlin on Sun 13 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Dream Sequence is a techno and electro artist, with 5 gigs on soundcheck across 
 
 The Crane, bad_dubs, ASIA (DE)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamsequence/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamsequence/)*

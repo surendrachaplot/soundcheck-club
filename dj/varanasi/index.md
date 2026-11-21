@@ -1,6 +1,6 @@
 # Varanasi
 
-Varanasi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Rote Flora, Hamburg on Sat, 5 Dec 2026.
+Varanasi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Rote Flora, Hamburg on Sat, 5 Dec 2026.
 
 Varanasi is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, Brighton, Hamburg and London and 1 more. Often billed alongside Himboy, RayRay and SBBS. Next up: Rote Flora, Hamburg on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Varanasi is a techno and house artist based in United Kingdom, with 42 gigs on s
 
 Himboy, RayRay, SBBS
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

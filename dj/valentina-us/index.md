@@ -1,6 +1,6 @@
 # Valentina (US)
 
-Valentina (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
+Valentina (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Las Rosas, Miami on Sat, 21 Nov 2026.
 
 Valentina (US) is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Baltimore, Brussels, Copenhagen and London and 5 more. Often billed alongside Panch, Taylor Trostle and AV (US). Next up: Las Rosas, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Valentina (US) is a house and techno artist based in United States of America, w
 
 Panch, Taylor Trostle, AV (US)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentina-us/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentina-us/)*

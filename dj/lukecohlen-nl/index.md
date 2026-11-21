@@ -1,6 +1,6 @@
 # Luke Cohlen
 
-Luke Cohlen is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at murmur, Amsterdam on Sat, 21 Nov 2026.
+Luke Cohlen is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at murmur, Amsterdam on Sat, 21 Nov 2026.
 
 Luke Cohlen is an experimental and electronica artist, with 11 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Hannah Pezzack, Mama Snake and The Social Lover. Next up: murmur, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Luke Cohlen is an experimental and electronica artist, with 11 gigs on soundchec
 
 Hannah Pezzack, Mama Snake, The Social Lover
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecohlen-nl/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecohlen-nl/)*

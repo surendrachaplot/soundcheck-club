@@ -1,6 +1,6 @@
 # Ree de la Vega
 
-Ree de la Vega is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Pisces, Atlanta on Sat, 21 Nov 2026.
+Ree de la Vega is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pisces, Atlanta on Sat, 21 Nov 2026.
 
 Ree de la Vega is a pop and club artist based in United States of America, with 42 gigs on soundcheck across Atlanta, Detroit, Los Angeles and New York City. Often billed alongside La Vega, Taradactyl and Jash Jay. Next up: Pisces, Atlanta on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ree de la Vega is a pop and club artist based in United States of America, with 
 
 La Vega, Taradactyl, Jash Jay
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reedelavega/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reedelavega/)*

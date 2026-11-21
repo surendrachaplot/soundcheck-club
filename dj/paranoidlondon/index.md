@@ -1,8 +1,8 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+Paranoid London is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
-Paranoid London is a techno and acid artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 50 more. Often billed alongside Palms Trax, Soul Clap and Call Super. Next up: FOLD, London on Sat 21 Nov.
+Paranoid London is a techno and acid artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 50 more. Often billed alongside Palms Trax, Call Super and Soul Clap. Next up: FOLD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 137 gi
 | Fri, 4 Dec 2026 | Standard Time | Toronto |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
+| Thu, 31 Dec 2026 | Shredenhams | Bristol |
 | Sat, 29 May 2027 | The Pitt Market | Edinburgh |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -29,6 +30,6 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 137 gi
 
 ## Shares bills with
 
-Palms Trax, Soul Clap, Call Super
+Palms Trax, Call Super, Soul Clap
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

@@ -1,6 +1,6 @@
 # Cristina Crosato
 
-Cristina Crosato is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 21 Nov 2026.
+Cristina Crosato is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 21 Nov 2026.
 
 Cristina Crosato is a minimal and electronica artist based in Italy, with 7 gigs on soundcheck across Rome. Often billed alongside Somebodi, Allegra De Angelis and Ricomusic. Next up: Circolo degli Illuminati, Rome on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Cristina Crosato is a minimal and electronica artist based in Italy, with 7 gigs
 
 Somebodi, Allegra De Angelis, Ricomusic
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinacrosato/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinacrosato/)*

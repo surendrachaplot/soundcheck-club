@@ -1,6 +1,6 @@
 # TOGETHER FOR GAZA /// MUSIC FOR HUMANITY at Sensorium
 
-TOGETHER FOR GAZA /// MUSIC FOR HUMANITY at Sensorium on Fri 20 Nov, Berlin. 16 artists: Andeel, Ankit, Blachord and BROMAN-C and 12 more. Techno and Tech House. See the line-up on soundcheck.
+TOGETHER FOR GAZA /// MUSIC FOR HUMANITY at Sensorium on Fri 20 Nov, Berlin. 17 artists: Andeel, Ankit, Blachord and BROMAN-C and 13 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ TOGETHER FOR GAZA /// MUSIC FOR HUMANITY at Sensorium on Fri 20 Nov, Berlin. 16 
 - Jvhnq
 - k.meower
 - KÜRÜF
+- Lawra
 - peak2soon
 - pink-panther
 - SULTXN

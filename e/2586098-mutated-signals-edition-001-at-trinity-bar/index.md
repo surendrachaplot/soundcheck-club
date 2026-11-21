@@ -1,6 +1,6 @@
 # Mutated Signals: Edition 001 at Trinity Bar
 
-Mutated Signals: Edition 001 at Trinity Bar on Wed 23 Dec, London. Techno and Broken Beat. See the line-up on soundcheck.
+Mutated Signals: Edition 001 at Trinity Bar on Wed 23 Dec, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

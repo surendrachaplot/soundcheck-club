@@ -1,6 +1,6 @@
 # Anderson Noise
 
-Anderson Noise is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
+Anderson Noise is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
 
 Anderson Noise is a house and techno artist based in Brazil, with 38 gigs on soundcheck across Berlin, Boston, London and Rio de Janeiro and 1 more. Often billed alongside DJ Murphy, Adnan Sharif and Spuri. Next up: D-EDGE, Sao Paulo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Anderson Noise is a house and techno artist based in Brazil, with 38 gigs on sou
 
 DJ Murphy, Adnan Sharif, Spuri
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andersonnoise/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andersonnoise/)*

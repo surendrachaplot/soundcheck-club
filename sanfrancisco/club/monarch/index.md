@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Marsolo" on Fri, 20 Nov 2026.
+Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Revolutions: Staxx of Wax" on Sat, 21 Nov 2026.
 
 Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including .KINA, 1ycia, 3kelves and 93FM and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -8,11 +8,11 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcom
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Marsolo | Marsolo |
 | Sat, 21 Nov 2026 | Revolutions: Staxx of Wax | Duserock |
 | Wed, 25 Nov 2026 | Monarch SF 15 YEAR ANNIVERSARY: Joshua Iz, DJ M3, 3kelves, Mr. Matias+more | 3kelves, DJ M3, DJ PlayStation, HUFFY, Joshua Iz, vRok |
 | Fri, 27 Nov 2026 | Darren Davis in the Lounge |  |
 | Sat, 28 Nov 2026 | BAILE WORLD SF: River Moon, Cquestt, Discnogirl, Julia Rose, and More | Cquestt, Discnogirl, Julia Rose, MAMA SAN, River Moon, Yuca Frita |
+| Thu, 3 Dec 2026 | Sonic Solstice | Black Panda, Sammy Taylor, vRok |
 | Sat, 5 Dec 2026 | FRYTM presents: SAGMO (Maccabi House) | .KINA, Dahaman, KEAUTY, Kohbain, Matony, SAGMO |
 | Fri, 11 Dec 2026 | As You Like It Unedited: Open to Close with Axel Boman | Axel Boman |
 | Fri, 11 Dec 2026 | Planet Synth Holiday Soirée at Upstairs Lounge | Amatric, DJ Cira, Evbot |
@@ -23,4 +23,4 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcom
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

@@ -1,6 +1,6 @@
 # deep creep
 
-deep creep is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Ancient World, Adelaide on Sat, 21 Nov 2026.
+deep creep is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ancient World, Adelaide on Sat, 21 Nov 2026.
 
 deep creep is a techno and house artist based in United States of America, with 115 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Berlin and 21 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: Ancient World, Adelaide on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ deep creep is a techno and house artist based in United States of America, with 
 
 DJ Fart in the Club, Amelia Holt, Aurora Halal
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*

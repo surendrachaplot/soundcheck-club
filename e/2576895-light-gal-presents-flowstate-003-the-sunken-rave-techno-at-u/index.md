@@ -1,6 +1,6 @@
 # light gal presents: flowstate 003│The Sunken Rave [Techno] at Unit 58
 
-light gal presents: flowstate 003│The Sunken Rave [Techno] at Unit 58 on Fri 11 Dec, London. 3 artists: KENDIR, Light Gal and Prerna Singh. Techno and Acid. See the line-up on soundcheck.
+light gal presents: flowstate 003│The Sunken Rave [Techno] at Unit 58 on Fri 11 Dec, London. 4 artists: KENDIR, Light Gal, Prerna Singh and Tanya Jazmine. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ light gal presents: flowstate 003│The Sunken Rave [Techno] at Unit 58 on Fri 1
 - KENDIR
 - Light Gal
 - Prerna Singh
+- Tanya Jazmine
 
 *Source: [soundcheck](https://soundcheck.club/e/2576895-light-gal-presents-flowstate-003-the-sunken-rave-techno-at-u/)*

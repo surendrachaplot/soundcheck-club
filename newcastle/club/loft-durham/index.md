@@ -1,6 +1,6 @@
 # Loft Durham
 
-Loft Durham is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "CASA Durham" on Wed, 25 Nov 2026.
+Loft Durham is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "CASA Durham" on Wed, 25 Nov 2026.
 
 Loft Durham is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Loft Durham is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs.
 | Wed, 2 Dec 2026 | CASA Durham |  |
 | Wed, 9 Dec 2026 | CASA Durham |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/loft-durham/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/loft-durham/)*

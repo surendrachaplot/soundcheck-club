@@ -1,6 +1,6 @@
 # Dimanté
 
-Dimanté is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Dear Darling, London on Sat, 21 Nov 2026.
+Dimanté is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Dear Darling, London on Sat, 21 Nov 2026.
 
 Dimanté is a techno and house artist based in Ukraine, with 20 gigs on soundcheck across Cologne and London. Often billed alongside Enrico Chirchiello, Francesco Poggi and erroneous. Next up: Dear Darling, London on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Dimanté is a techno and house artist based in Ukraine, with 20 gigs on soundche
 
 Enrico Chirchiello, Francesco Poggi, erroneous
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*

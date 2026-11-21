@@ -1,6 +1,6 @@
 # Amy Os
 
-Amy Os is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
+Amy Os is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
 
 Amy Os is a house and tech house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Dennis Quin, Kepler and ODF. Next up: fabric, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Amy Os is a house and tech house artist based in United Kingdom, with 29 gigs on
 
 Dennis Quin, Kepler, ODF (1)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*

@@ -1,14 +1,15 @@
 # Occibel
 
-Occibel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Dual, Bangkok on Fri, 27 Nov 2026.
+Occibel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Dual, Bangkok on Fri, 27 Nov 2026.
 
-Occibel is a house and electro artist based in France, with 76 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bangkok and 22 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: Dual, Bangkok on Fri 27 Nov.
+Occibel is a house and electro artist based in France, with 77 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bangkok and 23 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: Dual, Bangkok on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Dual | Bangkok |
+| Sat, 28 Nov 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Occibel is a house and electro artist based in France, with 76 gigs on soundchec
 
 Vitess, HearThug, IAMBP
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*

@@ -1,6 +1,6 @@
 # KAAZE
 
-KAAZE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Cultural Lima, Peru on Sat, 19 Dec 2026.
+KAAZE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Cultural Lima, Peru on Sat, 19 Dec 2026.
 
 KAAZE is a techno and electro artist based in Sweden, with 27 gigs on soundcheck across Barcelona, Berlin, Boston and Cologne and 18 more. Often billed alongside Aaron Hibell, Adam Beyer and Alesso. Next up: Club Cultural Lima, Peru on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ KAAZE is a techno and electro artist based in Sweden, with 27 gigs on soundcheck
 
 Aaron Hibell, Adam Beyer, Alesso
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaze/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaze/)*

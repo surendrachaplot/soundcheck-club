@@ -1,8 +1,8 @@
 # Mathame
 
-Mathame is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
+Mathame is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
 
-Mathame is a techno and house artist based in Italy, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Lyke, Olympe and KAS:ST. Next up: Parque Ciudad Empresarial, Santiago on Sat 21 Nov.
+Mathame is a techno and house artist based in Italy, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Lyke, Olympe and KAS:ST. Next up: Parque Ciudad Empresarial, Santiago on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mathame is a techno and house artist based in Italy, with 179 gigs on soundcheck
 | Sat, 21 Nov 2026 | Parque Ciudad Empresarial | Santiago |
 | Sat, 28 Nov 2026 | Brooklyn Pacha | New York City |
 | Fri, 4 Dec 2026 | Demo Room | Toronto |
+| Fri, 25 Jun 2027 | Lac Jacques Vernier à Douai | North |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mathame is a techno and house artist based in Italy, with 179 gigs on soundcheck
 
 Lyke, Olympe, KAS:ST
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

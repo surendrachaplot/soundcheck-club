@@ -1,6 +1,6 @@
 # ZEVi
 
-ZEVi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Voodoo Lounge, New Orleans on Sat, 21 Nov 2026.
+ZEVi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Voodoo Lounge, New Orleans on Sat, 21 Nov 2026.
 
 ZEVi is a techno and house artist based in United States of America, with 10 gigs on soundcheck across New Orleans. Often billed alongside Krewe, Funke and Bouffant Bouffant. Next up: The Voodoo Lounge, New Orleans on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ ZEVi is a techno and house artist based in United States of America, with 10 gig
 
 Krewe, Funke, Bouffant Bouffant
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zevi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zevi/)*

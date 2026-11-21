@@ -1,14 +1,15 @@
 # AMSL
 
-AMSL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Gewölbe, Cologne on Thu, 31 Dec 2026.
+AMSL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gewölbe, Cologne on Thu, 31 Dec 2026.
 
-AMSL is a techno and house artist based in Germany, with 53 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 3 more. Often billed alongside Nikity, Sedaction and Anna Cainelli. Next up: Gewölbe, Cologne on Thu 31 Dec.
+AMSL is a techno and house artist based in Germany, with 54 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 3 more. Often billed alongside Nikity, Sedaction and Anna Cainelli. Next up: Gewölbe, Cologne on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Gewölbe | Cologne |
+| Sat, 30 Jan 2027 | fi | Cologne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AMSL is a techno and house artist based in Germany, with 53 gigs on soundcheck a
 
 Nikity, Sedaction, Anna Cainelli
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amsl/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amsl/)*

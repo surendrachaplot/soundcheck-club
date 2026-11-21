@@ -1,6 +1,6 @@
 # Sherryaeri
 
-Sherryaeri is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lark, Berlin on Sat, 21 Nov 2026.
+Sherryaeri is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lark, Berlin on Sat, 21 Nov 2026.
 
 Sherryaeri is a club and techno artist based in Germany, with 25 gigs on soundcheck across Athens, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Soyklo, ADIRA and AGILY. Next up: Lark, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sherryaeri is a club and techno artist based in Germany, with 25 gigs on soundch
 
 Soyklo, ADIRA, AGILY
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*

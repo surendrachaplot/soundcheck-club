@@ -1,8 +1,8 @@
 # LAURIX (DE)
 
-LAURIX (DE) is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+LAURIX (DE) is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
-LAURIX (DE) is a trance and techno artist based in Germany, with 47 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig and 2 more. Often billed alongside Krash Cora, Paraçek and Ivana Parti. Next up: ÆDEN, Berlin on Fri 27 Nov.
+LAURIX (DE) is a trance and techno artist based in Germany, with 48 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig and 2 more. Often billed alongside Krash Cora, Paraçek and Ivana Parti. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LAURIX (DE) is a trance and techno artist based in Germany, with 47 gigs on soun
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | ÆDEN | Berlin |
 | Sat, 28 Nov 2026 | glimmer | Hamburg |
+| Fri, 11 Dec 2026 | ÆDEN | Berlin |
 | Sat, 2 Jan 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ LAURIX (DE) is a trance and techno artist based in Germany, with 47 gigs on soun
 
 Krash Cora, Paraçek, Ivana Parti
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurixde/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurixde/)*

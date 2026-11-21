@@ -1,6 +1,6 @@
 # Noema
 
-Noema is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Exley, New York City on Sun, 22 Nov 2026.
+Noema is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Exley, New York City on Sun, 22 Nov 2026.
 
 Noema is a house and balearic artist based in Germany, with 21 gigs on soundcheck across Bangkok, Berlin, Istanbul and Medellin and 5 more. Often billed alongside Fabrizio Mammarella, MAGIC JAMS and Alex Kassian. Next up: The Exley, New York City on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Noema is a house and balearic artist based in Germany, with 21 gigs on soundchec
 
 Fabrizio Mammarella, MAGIC JAMS, Alex Kassian
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noema/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noema/)*

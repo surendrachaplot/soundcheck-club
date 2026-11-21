@@ -1,14 +1,13 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Cotton Club (Lleida), East on Fri, 20 Nov 2026.
+Maadraassoo is a Pop and Electro artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Maloa Club, Barcelona on Sat, 21 Nov 2026.
 
-Maadraassoo is a pop and electro artist based in Spain, with 228 gigs on soundcheck across Barcelona, East, Madrid and Mallorca and 1 more. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: TBA - Cotton Club (Lleida), East on Fri 20 Nov.
+Maadraassoo is a pop and electro artist based in Spain, with 228 gigs on soundcheck across Barcelona, East, Madrid and Mallorca and 1 more. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: Maloa Club, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - Cotton Club (Lleida) | East |
 | Sat, 21 Nov 2026 | Maloa Club | Barcelona |
 | Sun, 22 Nov 2026 | Sidecar | Barcelona |
 | Fri, 27 Nov 2026 | EL Sielu | Barcelona |
@@ -20,6 +19,7 @@ Maadraassoo is a pop and electro artist based in Spain, with 228 gigs on soundch
 
 ## Recently played
 
+- TBA - Cotton Club (Lleida), East · Fri, 20 Nov 2026
 - TBA - XL XtraLrge (Vlc), Valencia · Sat, 14 Nov 2026
 - TBA - Q Pedralbes (Bcn), Barcelona · Sat, 14 Nov 2026
 - Jamboree Dance Club, Barcelona · Sat, 7 Nov 2026
@@ -27,10 +27,9 @@ Maadraassoo is a pop and electro artist based in Spain, with 228 gigs on soundch
 - TBA - XL XtraLrge (Vlc), Valencia · Fri, 23 Oct 2026
 - TBA - El Sielu (Manresa), Barcelona · Fri, 16 Oct 2026
 - TBA - Vapor Prodis (Terrassa), Barcelona · Fri, 16 Oct 2026
-- Play Club Valencia, Valencia · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 !!! (Chk Chk Chk), Baldman, Chica Acosta
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*

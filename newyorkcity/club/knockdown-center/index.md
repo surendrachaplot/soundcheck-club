@@ -1,8 +1,8 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "MPH – NEW YORK, FOREVER with Honey Bun & Home Room" on Sat, 28 Nov 2026.
+Knockdown Center is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "MPH – NEW YORK, FOREVER with Honey Bun & Home Room" on Sat, 28 Nov 2026.
 
-Knockdown Center is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Ammo Avenue, Anish Kumar, Aumnï and Bicep and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Ammo Avenue, Anish Kumar, Aumnï and Bicep and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Knockdown Center is a music venue in New York City listed on soundcheck. 10 upco
 | Thu, 4 Feb 2027 | Zack Fox, NIGELTHREETIMES, Cosmo | Cosmo, NIGELTHREETIMES, Zack Fox |
 | Fri, 5 Feb 2027 | Zack Fox, DJ Delish, Venom Rei | DJ Delish, Zack Fox |
 | Sat, 6 Feb 2027 | Zack Fox, BRIDGE, Aumnï | Aumnï, Bridge (NY), Zack Fox |
-| Sat, 20 Mar 2027 | Bicep (Live) | Bicep |
+| Fri, 12 Feb 2027 | OMNOM, ﻿Pedroz, Enzo is Burning, CatLadyHi | CatLadyHi, Enzo is Burning |
 
 ## Address
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

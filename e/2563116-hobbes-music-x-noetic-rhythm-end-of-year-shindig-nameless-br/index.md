@@ -1,6 +1,6 @@
-# Hobbes Music x Noetic Rhythm End Of Year Shindig: Nameless Bros b2b Hobbes, Open Decks Social at The Bongo Club
+# Hobbes Music x Noetic Rhythm End Of Year Shindig: Nameless Bros b2b Hobbes, Dany, Charlie Says at The Bongo Club
 
-Hobbes Music x Noetic Rhythm End Of Year Shindig: Nameless Bros b2b Hobbes, Open Decks Social at The Bongo Club on Sat 5 Dec, Edinburgh. 2 artists: Hobbes and Nameless Bros. House and Disco. See the line-up on soundcheck.
+Hobbes Music x Noetic Rhythm End Of Year Shindig: Nameless Bros b2b Hobbes, Dany, Charlie Says at The Bongo Club on Sat 5 Dec, Edinburgh. 2 artists: Hobbes and Nameless Bros. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

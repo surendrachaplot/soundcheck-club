@@ -1,8 +1,8 @@
 # Shy FX
 
-Shy FX is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Depot Mayfield, Manchester on Thu, 10 Dec 2026.
+Shy FX is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Depot Mayfield, Manchester on Thu, 10 Dec 2026.
 
-Shy FX is a drum & bass and jungle artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 25 more. Often billed alongside Wilkinson, Oppidan and 4am Kru. Next up: Depot Mayfield, Manchester on Thu 10 Dec.
+Shy FX is a drum & bass and jungle artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 26 more. Often billed alongside Wilkinson, Oppidan and 4am Kru. Next up: Depot Mayfield, Manchester on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Shy FX is a drum & bass and jungle artist based in United Kingdom, with 78 gigs 
 | Thu, 10 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 11 Dec 2026 | Pustervik | Gothenburg |
 | Fri, 1 Jan 2027 | Langley Park | Perth |
+| Sat, 6 Feb 2027 | Open Ground | North-rhine-westphalia |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
 | Sat, 29 May 2027 | Ashton Court Estate | Bristol |
@@ -30,4 +31,4 @@ Shy FX is a drum & bass and jungle artist based in United Kingdom, with 78 gigs 
 
 Wilkinson, Oppidan, 4am Kru
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*

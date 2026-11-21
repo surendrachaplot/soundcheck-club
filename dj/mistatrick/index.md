@@ -1,8 +1,8 @@
 # Mista Trick
 
-Mista Trick is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lost Horizon, Bristol on Sat, 21 Nov 2026.
+Mista Trick is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lost Horizon, Bristol on Sat, 21 Nov 2026.
 
-Mista Trick is a drum & bass and bass artist, with 12 gigs on soundcheck across Bristol, London, Manchester and Montreal and 2 more. Often billed alongside Ben Suff Donk, Benny L and CICELY. Next up: Lost Horizon, Bristol on Sat 21 Nov.
+Mista Trick is a drum & bass and bass artist based in United Kingdom, with 14 gigs on soundcheck across Birmingham, Bristol, London and Manchester and 3 more. Often billed alongside Ben Suff Donk, Benny L and CICELY. Next up: Lost Horizon, Bristol on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Mista Trick is a drum & bass and bass artist, with 12 gigs on soundcheck across 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Lost Horizon | Bristol |
 | Fri, 12 Feb 2027 | The Lower Third | London |
+| Wed, 24 Mar 2027 | The Fleece | Bristol |
+| Thu, 25 Mar 2027 | Hare & Hounds | Birmingham |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Mista Trick is a drum & bass and bass artist, with 12 gigs on soundcheck across 
 
 Ben Suff Donk, Benny L, CICELY
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistatrick/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistatrick/)*

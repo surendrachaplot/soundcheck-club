@@ -1,6 +1,6 @@
 # Estray
 
-Estray is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at KPTM, Belgrade on Sat, 21 Nov 2026.
+Estray is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at KPTM, Belgrade on Sat, 21 Nov 2026.
 
 Estray is a house and tech house artist based in Serbia, with 10 gigs on soundcheck across Amsterdam, Barcelona and Belgrade. Often billed alongside Ado, Constratti and Dexon. Next up: KPTM, Belgrade on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Estray is a house and tech house artist based in Serbia, with 10 gigs on soundch
 
 Ado, Constratti, Dexon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estray/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estray/)*

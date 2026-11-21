@@ -1,6 +1,6 @@
 # Golden Lady
 
-Golden Lady is a Afro House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Village Underground, London on Fri, 27 Nov 2026.
+Golden Lady is a Afro House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Village Underground, London on Fri, 27 Nov 2026.
 
 Golden Lady is an afro house and amapiano artist based in South Africa, with 37 gigs on soundcheck across London and Paris. Often billed alongside INTUIT, Mixolis and Angela Rose. Next up: Village Underground, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Golden Lady is an afro house and amapiano artist based in South Africa, with 37 
 
 INTUIT, Mixolis, Angela Rose
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlady/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlady/)*

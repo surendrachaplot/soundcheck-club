@@ -1,6 +1,6 @@
 # Hessa
 
-Hessa is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Amante Club, Madrid on Sat, 21 Nov 2026.
+Hessa is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Casa Amante Club, Madrid on Sat, 21 Nov 2026.
 
 Hessa is a house and electronica artist based in Spain, with 29 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 3 more. Often billed alongside Alffie, Memed Awad and Moruki. Next up: Casa Amante Club, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Hessa is a house and electronica artist based in Spain, with 29 gigs on soundche
 
 Alffie, Memed Awad, Moruki
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hessa/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hessa/)*

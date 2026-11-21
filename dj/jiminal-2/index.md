@@ -1,6 +1,6 @@
 # Jiminal (2)
 
-Jiminal (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 26 Nov 2026.
+Jiminal (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 26 Nov 2026.
 
 Jiminal is a house and disco artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Jakarta. Often billed alongside Meniac, Daiki Fukami and Aram Mukanay. Next up: Radio Radio, Amsterdam on Thu 26 Nov.
 
@@ -23,4 +23,4 @@ Jiminal is a house and disco artist based in Netherlands, with 7 gigs on soundch
 
 Meniac, Daiki Fukami, Aram Mukanay
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminal-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminal-2/)*

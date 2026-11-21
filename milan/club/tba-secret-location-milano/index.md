@@ -1,6 +1,6 @@
 # TBA - Secret Location — Milano
 
-TBA - Secret Location — Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Voroniks Presents: Chapter KSII" on Sun, 22 Nov 2026.
+TBA - Secret Location — Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Voroniks Presents: Chapter KSII" on Sun, 22 Nov 2026.
 
 TBA - Secret Location — Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Location — Milano is a music venue in Milan listed on soundcheck.
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Voroniks Presents: Chapter KSII |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-secret-location-milano/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-secret-location-milano/)*

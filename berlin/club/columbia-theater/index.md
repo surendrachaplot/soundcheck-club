@@ -1,6 +1,6 @@
 # Columbia Theater
 
-Columbia Theater is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "IBEYI" on Thu, 17 Dec 2026.
+Columbia Theater is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "IBEYI" on Thu, 17 Dec 2026.
 
 Columbia Theater is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Sampa The Great. See dates, start times and who's playing. Columbiadamm 9-11, 10965 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Columbia Theater is a music venue in Berlin listed on soundcheck. 2 upcoming gig
 
 Columbiadamm 9-11, 10965 Berlin, Germany, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/columbia-theater/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/columbia-theater/)*

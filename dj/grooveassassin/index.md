@@ -1,6 +1,6 @@
 # Groove Assassin
 
-Groove Assassin is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Migas, Hong Kong on Sat, 21 Nov 2026.
+Groove Assassin is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Migas, Hong Kong on Sat, 21 Nov 2026.
 
 Groove Assassin is a house and disco artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 8 more. Often billed alongside Billy Cocks, DJ Murrell and Gavin Peters. Next up: Migas, Hong Kong on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Groove Assassin is a house and disco artist based in United Kingdom, with 40 gig
 
 Billy Cocks, DJ Murrell, Gavin Peters
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*

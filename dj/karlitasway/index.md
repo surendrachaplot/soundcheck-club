@@ -1,8 +1,8 @@
 # Karlitas Way
 
-Karlitas Way is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Hangaren, Copenhagen on Sat, 19 Dec 2026.
+Karlitas Way is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hangaren, Copenhagen on Sat, 19 Dec 2026.
 
-Karlitas Way is a club and baile funk artist, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Arshad, Arsom and DJ Dopamina. Next up: Hangaren, Copenhagen on Sat 19 Dec.
+Karlitas Way is a club and baile funk artist based in El Salvador, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Arshad, Arsom and DJ Dopamina. Next up: Hangaren, Copenhagen on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Karlitas Way is a club and baile funk artist, with 5 gigs on soundcheck across C
 
 Arshad, Arsom, DJ Dopamina
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlitasway/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlitasway/)*

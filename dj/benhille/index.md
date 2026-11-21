@@ -1,6 +1,6 @@
 # Ben Hille
 
-Ben Hille is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Climax-Institutes, Stuttgart on Sat, 5 Dec 2026.
+Ben Hille is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Climax-Institutes, Stuttgart on Sat, 5 Dec 2026.
 
 Ben Hille is a house and techno artist based in Germany, with 35 gigs on soundcheck across Paris and Stuttgart. Often billed alongside Michael Clash Gottschalk, Bang and Cherry and Ben Manson. Next up: Climax-Institutes, Stuttgart on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ben Hille is a house and techno artist based in Germany, with 35 gigs on soundch
 
 Michael Clash Gottschalk, Bang and Cherry, Ben Manson
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benhille/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benhille/)*

@@ -1,6 +1,6 @@
 # Mike Gurrieri
 
-Mike Gurrieri is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Mike Gurrieri is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Mike Gurrieri is a house and jazz artist based in Australia, with 43 gigs on soundcheck across Melbourne. Often billed alongside Zepherin Saint, Kuzco and Zjoso. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -13,17 +13,17 @@ Mike Gurrieri is a house and jazz artist based in Australia, with 43 gigs on sou
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - The Evelyn Hotel, Melbourne · Fri, 25 Sept 2026
 - Whitehart Bar, Melbourne · Fri, 11 Sept 2026
 - OneSixOne, Melbourne · Fri, 28 Aug 2026
 - Music Room, Melbourne · Wed, 26 Aug 2026
 - Solace, Melbourne · Sat, 15 Aug 2026
 - Music Room, Melbourne · Thu, 23 Jul 2026
-- Whitehart Bar, Melbourne · Fri, 12 Jun 2026
-- Wax Music Lounge, Melbourne · Mon, 8 Jun 2026
 
 ## Shares bills with
 
 Zepherin Saint, Kuzco, Zjoso
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*

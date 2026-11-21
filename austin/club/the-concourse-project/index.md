@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 19 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Kaskade (Outdoors)" on Fri, 20 Nov 2026.
+The Concourse Project is a music venue in Austin with 19 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Eric Prydz" on Sat, 21 Nov 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 19 upcoming gigs, with line-ups including ALISHA, Avision, Azzecca and Bob Moses and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -8,7 +8,6 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 19 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kaskade (Outdoors) | Kaskade |
 | Sat, 21 Nov 2026 | Eric Prydz | Cristoph, Eric Prydz |
 | Fri, 27 Nov 2026 | Hot Since 82 + Avision | Avision, Hot Since 82 |
 | Sat, 28 Nov 2026 | Green Velvet | Green Velvet |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 19 upcomi
 | Fri, 11 Dec 2026 | Rossi. |  |
 | Sat, 12 Dec 2026 | Bob Moses (Club Set) + Notre Dame | Bob Moses, Notre Dame |
 | Fri, 18 Dec 2026 | Ferry Corsten b2b Markus Schulz | Ferry Corsten, Markus Schulz |
+| Wed, 30 Dec 2026 | KlangKuenstler | KlangKuenstler |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

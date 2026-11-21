@@ -1,6 +1,6 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 28 Nov 2026.
+Mandragora is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Mandragora is a techno and psytrance artist based in Brazil, with 51 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 21 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Halcyon, San Francisco/Oakland on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Mandragora is a techno and psytrance artist based in Brazil, with 51 gigs on sou
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

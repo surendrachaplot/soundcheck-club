@@ -1,6 +1,6 @@
 # HATHESYS
 
-HATHESYS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Silbergold, Frankfurt on Sat, 21 Nov 2026.
+HATHESYS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Silbergold, Frankfurt on Sat, 21 Nov 2026.
 
 HATHESYS is a techno and house artist based in Germany, with 5 gigs on soundcheck across Frankfurt. Often billed alongside LUSZE, Marius Sommerfeld and zhao.. Next up: Silbergold, Frankfurt on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ HATHESYS is a techno and house artist based in Germany, with 5 gigs on soundchec
 
 LUSZE, Marius Sommerfeld, zhao.
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hathesys/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hathesys/)*

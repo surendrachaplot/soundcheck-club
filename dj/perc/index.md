@@ -1,8 +1,8 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
+Perc is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
 
-Perc is a techno and industrial artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 72 more. Often billed alongside Ansome, DAX J and Somniac One. Next up: Off-Club, Belgium on Sat 21 Nov.
+Perc is a techno and industrial artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 73 more. Often billed alongside Ansome, DAX J and Somniac One. Next up: Off-Club, Belgium on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Perc is a techno and industrial artist based in United Kingdom, with 191 gigs on
 | Sun, 6 Dec 2026 | Under Club | Buenos Aires |
 | Sat, 12 Dec 2026 | The DBA | Manchester |
 | Sat, 12 Dec 2026 | Honey Street Studio | Manchester |
+| Mon, 28 Dec 2026 | Savoy | Cork |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Perc is a techno and industrial artist based in United Kingdom, with 191 gigs on
 
 Ansome, DAX J, Somniac One
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

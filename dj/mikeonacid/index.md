@@ -1,6 +1,6 @@
 # Mikeonacid
 
-Mikeonacid is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Liquid Club, Malta on Fri, 4 Dec 2026.
+Mikeonacid is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Liquid Club, Malta on Fri, 4 Dec 2026.
 
 Mikeonacid is a techno and hardcore artist based in India, with 8 gigs on soundcheck across Malta. Often billed alongside Alex Micca, Philip Ackowsky and Kevin Call. Next up: Liquid Club, Malta on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Mikeonacid is a techno and hardcore artist based in India, with 8 gigs on soundc
 
 Alex Micca, Philip Ackowsky, Kevin Call
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeonacid/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeonacid/)*

@@ -1,6 +1,6 @@
 # UMAFRICANA
 
-UMAFRICANA is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Funkhaus Wien, Vienna on Sat, 21 Nov 2026.
+UMAFRICANA is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Funkhaus Wien, Vienna on Sat, 21 Nov 2026.
 
 UMAFRICANA is an afro house and club artist based in Portugal, with 27 gigs on soundcheck across Lisbon, London, Paris and Vienna. Often billed alongside Von Di, Marcolan and Saint Caboclo. Next up: Funkhaus Wien, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ UMAFRICANA is an afro house and club artist based in Portugal, with 27 gigs on s
 
 Von Di, Marcolan, Saint Caboclo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*

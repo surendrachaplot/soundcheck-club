@@ -1,14 +1,15 @@
 # Super8 & Tab
 
-Super8 & Tab is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Poetry Club, Glasgow on Sat, 21 Nov 2026.
+Super8 & Tab is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Poetry Club, Glasgow on Sat, 21 Nov 2026.
 
-Super8 & Tab are a progressive house and trance duo based in Finland, with 14 gigs on soundcheck across Auckland, Birmingham, Glasgow and Helsinki and 9 more. Often billed alongside Amy Wiles, Leena Punks and Dave Pearce. Next up: The Poetry Club, Glasgow on Sat 21 Nov.
+Super8 & Tab are a progressive house and trance duo based in Finland, with 15 gigs on soundcheck across Auckland, Birmingham, Glasgow and Helsinki and 10 more. Often billed alongside Amy Wiles, Leena Punks and Richard Durand. Next up: The Poetry Club, Glasgow on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | The Poetry Club | Glasgow |
+| Sat, 30 Jan 2027 | Outernet Live | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Super8 & Tab are a progressive house and trance duo based in Finland, with 14 gi
 
 ## Shares bills with
 
-Amy Wiles, Leena Punks, Dave Pearce
+Amy Wiles, Leena Punks, Richard Durand
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*

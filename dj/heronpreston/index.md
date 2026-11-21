@@ -1,6 +1,6 @@
 # Heron Preston
 
-Heron Preston is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 27 Nov 2026.
+Heron Preston is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 27 Nov 2026.
 
 Heron Preston is a techno and house artist, with 9 gigs on soundcheck across Detroit, Ibiza, New York City and Sao Paulo. Often billed alongside DESIREE (RSA), ANOTR and Alchemy (US). Next up: Brooklyn Pacha, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Heron Preston is a techno and house artist, with 9 gigs on soundcheck across Det
 
 DESIREE (RSA), ANOTR, Alchemy (US)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heronpreston/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heronpreston/)*

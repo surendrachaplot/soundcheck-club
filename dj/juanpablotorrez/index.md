@@ -1,6 +1,6 @@
 # Juan Pablo Torrez
 
-Juan Pablo Torrez is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Viuz, Medellin on Sat, 21 Nov 2026.
+Juan Pablo Torrez is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Viuz, Medellin on Sat, 21 Nov 2026.
 
 Juan Pablo Torrez is a progressive house and techno artist based in Colombia, with 48 gigs on soundcheck across Bogotá, Medellin, Mexico City and Miami. Often billed alongside Najeys, Juanes Mesa and Kamilo Sanclemente. Next up: Viuz, Medellin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Juan Pablo Torrez is a progressive house and techno artist based in Colombia, wi
 
 Najeys, Juanes Mesa, Kamilo Sanclemente
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanpablotorrez/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanpablotorrez/)*

@@ -1,14 +1,13 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "TOFFLER presents Max Styler" on Fri, 20 Nov 2026.
+Toffler is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "TOFFLER presents DAF and friends" on Sat, 21 Nov 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Ben Horton, Bumpr, DAF and Elotrance and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Ben Horton, Bumpr, DAF and Elotrance and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TOFFLER presents Max Styler | Mat Eclair, Max Styler |
 | Sat, 21 Nov 2026 | TOFFLER presents DAF and friends | DAF, LEXI (BE) |
 | Sat, 28 Nov 2026 | TOFFLER presents Ranger Trucco |  |
 | Fri, 4 Dec 2026 | TOFFLER presents Justin Tinderdate B2B Elotrance (3HR set) | Elotrance, Justin Tinderdate, NIKKI (3), S3PPA |
@@ -23,4 +22,4 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, wi
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

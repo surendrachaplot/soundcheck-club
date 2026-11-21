@@ -1,6 +1,6 @@
 # Freestylers
 
-Freestylers is a Breakbeat and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
+Freestylers is a Breakbeat and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
 
 Freestylers is a breakbeat and drum & bass artist based in United Kingdom, with 33 gigs on soundcheck across Adelaide, Auckland, Bangkok and Brighton and 11 more. Often billed alongside Stanton Warriors, Krafty Kuts and Grooverider. Next up: White Bay Power Station, Sydney on Fri 2 Apr.
 
@@ -30,4 +30,4 @@ Freestylers is a breakbeat and drum & bass artist based in United Kingdom, with 
 
 Stanton Warriors, Krafty Kuts, Grooverider
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freestylers/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freestylers/)*

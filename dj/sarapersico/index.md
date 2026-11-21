@@ -1,6 +1,6 @@
 # Sara Persico
 
-Sara Persico is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
+Sara Persico is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Archive Milano, Milan on Sat, 21 Nov 2026.
 
 Sara Persico is an experimental and bass artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Assyouti, Mika Oki and ABADIR. Next up: Archive Milano, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sara Persico is an experimental and bass artist based in Italy, with 65 gigs on 
 
 Assyouti, Mika Oki, ABADIR
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*

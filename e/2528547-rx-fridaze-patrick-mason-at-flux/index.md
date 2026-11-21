@@ -1,6 +1,6 @@
 # RX Fridaze: Patrick Mason at Flux
 
-RX Fridaze: Patrick Mason at Flux on Fri 27 Nov, Istanbul. 1 artist: Patrick Mason. Techno. See the line-up on soundcheck.
+RX Fridaze: Patrick Mason at Flux on Fri 27 Nov, Istanbul. 3 artists: KVTS, Patrick Mason and Procombo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ RX Fridaze: Patrick Mason at Flux on Fri 27 Nov, Istanbul. 1 artist: Patrick Mas
 
 ## Line-up
 
+- KVTS
 - Patrick Mason
+- Procombo
 
 *Source: [soundcheck](https://soundcheck.club/e/2528547-rx-fridaze-patrick-mason-at-flux/)*

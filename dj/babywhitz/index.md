@@ -1,6 +1,6 @@
 # Baby Whitz
 
-Baby Whitz is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
+Baby Whitz is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
 
 Baby Whitz is an afro house and house artist based in South Africa, with 4 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside DESIREE (RSA), Darque and Argento Dust. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Baby Whitz is an afro house and house artist based in South Africa, with 4 gigs 
 
 DESIREE (RSA), Darque, Argento Dust
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babywhitz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babywhitz/)*

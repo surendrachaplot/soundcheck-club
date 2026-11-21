@@ -1,6 +1,6 @@
 # BASST SCHO presents Dru at Loop
 
-BASST SCHO presents Dru at Loop on Mon 7 Dec, Vienna. 2 artists: Rudolfode and Sequent. Drum & Bass and Dubstep. See the line-up on soundcheck.
+BASST SCHO presents Dru at Loop on Mon 7 Dec, Vienna. 3 artists: IDENMIND, Rudolfode and Sequent. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BASST SCHO presents Dru at Loop on Mon 7 Dec, Vienna. 2 artists: Rudolfode and S
 
 ## Line-up
 
+- IDENMIND
 - Rudolfode
 - Sequent
 

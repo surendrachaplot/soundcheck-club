@@ -1,15 +1,17 @@
 # O.BEE
 
-O.BEE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location, New York City on Sat, 21 Nov 2026.
+O.BEE is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location, New York City on Sat, 21 Nov 2026.
 
-O.BEE is a house and techno artist based in Turkey, with 229 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 36 more. Often billed alongside Tomas Station, Jonny Rock and Konstantin. Next up: TBA - Secret Location, New York City on Sat 21 Nov.
+O.BEE is a house and techno artist based in Turkey, with 231 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 36 more. Often billed alongside Tomas Station, Jonny Rock and Konstantin. Next up: TBA - Secret Location, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Secret Location | New York City |
+| Sat, 28 Nov 2026 | H0L0 | New York City |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Sat, 13 Mar 2027 | fabric | London |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -27,4 +29,4 @@ O.BEE is a house and techno artist based in Turkey, with 229 gigs on soundcheck 
 
 Tomas Station, Jonny Rock, Konstantin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.bee/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.bee/)*

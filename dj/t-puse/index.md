@@ -1,18 +1,18 @@
 # T-Puse
 
-T-Puse is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
+T-Puse is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Aire Miami, Miami on Wed, 2 Dec 2026.
 
-T-Puse is a house and afro house artist based in Israel, with 8 gigs on soundcheck across Miami, New York City and San Francisco/Oakland. Often billed alongside Pablo Fierro, Alkemiss Erika and Kohbain. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 20 Nov.
+T-Puse is a house and afro house artist based in Israel, with 8 gigs on soundcheck across Miami, New York City and San Francisco/Oakland. Often billed alongside Pablo Fierro, Alkemiss Erika and Kohbain. Next up: Aire Miami, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Wed, 2 Dec 2026 | Aire Miami | Miami |
 
 ## Recently played
 
+- Madarae San Francisco, San Francisco/Oakland · Fri, 20 Nov 2026
 - The William Vale, New York City · Sat, 18 Jul 2026
 - Unveiled, New York City · Sat, 18 Jul 2026
 - The Great Northern, San Francisco/Oakland · Sat, 11 Jul 2026
@@ -24,4 +24,4 @@ T-Puse is a house and afro house artist based in Israel, with 8 gigs on soundche
 
 Pablo Fierro, Alkemiss Erika, Kohbain
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t-puse/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t-puse/)*

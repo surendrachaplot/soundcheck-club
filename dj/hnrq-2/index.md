@@ -1,18 +1,18 @@
 # HNRQ (2)
 
-HNRQ (2) is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 20 Nov 2026.
+HNRQ (2) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 28 Nov 2026.
 
-HNRQ is a tech house and techno artist based in Portugal, with 68 gigs on soundcheck across Lisbon, Porto and Sao Paulo. Often billed alongside Inês Duarte, Rui Vargas and Varela. Next up: Lux Fragil, Lisbon on Fri 20 Nov.
+HNRQ is a tech house and techno artist based in Portugal, with 68 gigs on soundcheck across Lisbon, Porto and Sao Paulo. Often billed alongside Inês Duarte, Rui Vargas and Varela. Next up: Lux Fragil, Lisbon on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Lux Fragil | Lisbon |
 | Sat, 28 Nov 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
 
+- Lux Fragil, Lisbon · Fri, 20 Nov 2026
 - Igrejinha Bar, Sao Paulo · Sat, 7 Nov 2026
 - Lux Fragil, Lisbon · Sat, 24 Oct 2026
 - Lux Fragil, Lisbon · Sat, 17 Oct 2026
@@ -20,10 +20,9 @@ HNRQ is a tech house and techno artist based in Portugal, with 68 gigs on soundc
 - Lux Fragil, Lisbon · Sat, 12 Sept 2026
 - Lux Fragil, Lisbon · Sat, 5 Sept 2026
 - Lux Fragil, Lisbon · Sat, 22 Aug 2026
-- Lux Fragil, Lisbon · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Inês Duarte, Rui Vargas, Varela
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hnrq-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hnrq-2/)*

@@ -1,6 +1,6 @@
 # Talita Otović
 
-Talita Otović is a Gabber and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 12 Dec 2026.
+Talita Otović is a Gabber and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 12 Dec 2026.
 
 Talita Otović is a gabber and hardcore artist based in France, with 16 gigs on soundcheck across Brussels, Geneva, Lausanne and Paris and 1 more. Often billed alongside Karlfroye, Claude Murder and KimberlaID. Next up: La Station - Gare des Mines, Paris on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Talita Otović is a gabber and hardcore artist based in France, with 16 gigs on 
 
 Karlfroye, Claude Murder, KimberlaID
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talitaotovic/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talitaotovic/)*

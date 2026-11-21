@@ -1,6 +1,6 @@
 # Kozee
 
-Kozee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Bigcat, Osaka on Thu, 24 Dec 2026.
+Kozee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bigcat, Osaka on Thu, 24 Dec 2026.
 
 Kozee is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Nao Nomura, DJ Nobu and DMITRI ABSINTHE. Next up: Bigcat, Osaka on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Kozee is a techno and house artist based in United States of America, with 11 gi
 
 Nao Nomura, DJ Nobu, DMITRI ABSINTHE
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozee/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozee/)*

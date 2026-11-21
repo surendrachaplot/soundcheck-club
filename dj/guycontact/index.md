@@ -1,14 +1,13 @@
 # Guy Contact
 
-Guy Contact is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Grand Poobah, Hobart on Sat, 21 Nov 2026.
+Guy Contact is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Solace, Melbourne on Fri, 4 Dec 2026.
 
-Guy Contact is a house and progressive house artist based in Australia, with 61 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Berlin and 12 more. Often billed alongside Solar Suite, DJ Luv You and Headhunters. Next up: The Grand Poobah, Hobart on Sat 21 Nov.
+Guy Contact is a house and progressive house artist based in Australia, with 61 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Berlin and 12 more. Often billed alongside Solar Suite, DJ Luv You and Headhunters. Next up: Solace, Melbourne on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The Grand Poobah | Hobart |
 | Fri, 4 Dec 2026 | Solace | Melbourne |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 
@@ -27,4 +26,4 @@ Guy Contact is a house and progressive house artist based in Australia, with 61 
 
 Solar Suite, DJ Luv You, Headhunters
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*

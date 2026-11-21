@@ -1,14 +1,15 @@
 # Nico Spina
 
-Nico Spina is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 21 Nov 2026.
+Nico Spina is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 21 Nov 2026.
 
-Nico Spina is a progressive house and electronica artist based in Argentina, with 11 gigs on soundcheck across Madrid. Often billed alongside Nahuel Farina, Unai García and Vico Deep. Next up: Hangar48 Club, Madrid on Sat 21 Nov.
+Nico Spina is a progressive house and house artist based in Argentina, with 12 gigs on soundcheck across Madrid. Often billed alongside Nahuel Farina, Unai García and Vico Deep. Next up: Hangar48 Club, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Hangar48 Club | Madrid |
+| Sun, 6 Dec 2026 | berlinClub | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nico Spina is a progressive house and electronica artist based in Argentina, wit
 
 Nahuel Farina, Unai García, Vico Deep
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicospina/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicospina/)*

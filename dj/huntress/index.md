@@ -1,6 +1,6 @@
 # HUNTRESS
 
-HUNTRESS is a Techno and Ballroom artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 28 Nov 2026.
+HUNTRESS is a Techno and Ballroom artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 28 Nov 2026.
 
 HUNTRESS is a techno and ballroom artist based in United Kingdom, with 40 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside Miss Cabbage, Babyjaii and Salam Kitty. Next up: EXIT Glasgow, Glasgow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ HUNTRESS is a techno and ballroom artist based in United Kingdom, with 40 gigs o
 
 Miss Cabbage, Babyjaii, Salam Kitty
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huntress/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huntress/)*

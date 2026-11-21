@@ -1,6 +1,6 @@
 # Hang Aoki
 
-Hang Aoki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
+Hang Aoki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
 
 Hang Aoki is a techno and house artist based in Germany, with 73 gigs on soundcheck across Athens, Bangkok, Berlin and Hanoi and 9 more. Often billed alongside Alex.Do, CIKO and Jessamine. Next up: ://about blank, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Hang Aoki is a techno and house artist based in Germany, with 73 gigs on soundch
 
 Alex.Do, CIKO, Jessamine
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaoki/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaoki/)*

@@ -1,6 +1,6 @@
 # WINSLAO
 
-WINSLAO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Laboratorio Octogon, Madrid on Sat, 21 Nov 2026.
+WINSLAO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Laboratorio Octogon, Madrid on Sat, 21 Nov 2026.
 
 WINSLAO is a techno and trance artist based in Spain, with 15 gigs on soundcheck across Dublin and Madrid. Often billed alongside ALPER SKR, SAMUX and ANDATA. Next up: Laboratorio Octogon, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ WINSLAO is a techno and trance artist based in Spain, with 15 gigs on soundcheck
 
 ALPER SKR, SAMUX, ANDATA
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winslao/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winslao/)*

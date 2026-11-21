@@ -1,6 +1,6 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Visionaire" on Sat, 28 Nov 2026.
+McChuills Music Bar is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Visionaire" on Sat, 28 Nov 2026.
 
 McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Bonzai Bonner, David Vunk, Woody McBride and Gary Beck and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
@@ -18,4 +18,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 5 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

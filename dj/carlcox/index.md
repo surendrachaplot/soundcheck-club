@@ -1,14 +1,13 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Fri, 20 Nov 2026.
+Carl Cox is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Stereo, Montreal on Thu, 26 Nov 2026.
 
-Carl Cox is a techno and house artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 55 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Pier 48's Shed A, San Francisco/Oakland on Fri 20 Nov.
+Carl Cox is a techno and house artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 55 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Stereo, Montreal on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Thu, 26 Nov 2026 | Stereo | Montreal |
 | Fri, 27 Nov 2026 | Rebel | Toronto |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
@@ -20,6 +19,7 @@ Carl Cox is a techno and house artist based in United Kingdom, with 160 gigs on 
 
 ## Recently played
 
+- Pier 48's Shed A, San Francisco/Oakland · Fri, 20 Nov 2026
 - Club Space Miami, Miami · Sat, 14 Nov 2026
 - Woldenberg Riverfront Park, New-orleans · Fri, 13 Nov 2026
 - Coca-Cola Roxy, Atlanta · Fri, 13 Nov 2026
@@ -27,10 +27,9 @@ Carl Cox is a techno and house artist based in United Kingdom, with 160 gigs on 
 - Parque Norte, Medellin · Sat, 31 Oct 2026
 - TBA - Lurin live, Peru · Fri, 30 Oct 2026
 - Selina's, Sydney · Fri, 16 Oct 2026
-- Selina's, Sydney · Thu, 15 Oct 2026
 
 ## Shares bills with
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

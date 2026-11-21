@@ -1,14 +1,13 @@
 # Blå
 
-Blå is a music venue in Oslo with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Annette K & Frantzvaag / BLÅ" on Fri, 20 Nov 2026.
+Blå is a music venue in Oslo with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Bjørn Torske / BLÅ" on Sat, 21 Nov 2026.
 
-Blå is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, with line-ups including Bjørn Torske, Fakethias, Frantzvaag and Onleash and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
+Blå is a music venue in Oslo listed on soundcheck. 4 upcoming gigs, with line-ups including Bjørn Torske, Fakethias, Onleash and Posner and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Annette K & Frantzvaag / BLÅ | Frantzvaag |
 | Sat, 21 Nov 2026 | Bjørn Torske / BLÅ | Bjørn Torske |
 | Fri, 27 Nov 2026 | Skee Mask (Ilian Tape) - 4-hour DJ set | Skee Mask |
 | Fri, 4 Dec 2026 | Fakethias (DJ) + Onleash + sport7000 | Fakethias, Onleash, sport7000 |
@@ -18,4 +17,4 @@ Blå is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

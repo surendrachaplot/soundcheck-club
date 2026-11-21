@@ -1,14 +1,13 @@
 # Art Club
 
-Art Club is a music venue in Houston with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Kyle Watson" on Fri, 20 Nov 2026.
+Art Club is a music venue in Houston with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DJ_Dave" on Sat, 21 Nov 2026.
 
-Art Club is a music venue in Houston listed on soundcheck. 9 upcoming gigs, with line-ups including AC Slater, Ash Lauryn, D.Dan and DJ_Dave and 2 more. See dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
+Art Club is a music venue in Houston listed on soundcheck. 8 upcoming gigs, with line-ups including AC Slater, Ash Lauryn, D.Dan and DJ_Dave and 2 more. See dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Kyle Watson | Kyle Watson |
 | Sat, 21 Nov 2026 | DJ_Dave | DJ_Dave |
 | Fri, 27 Nov 2026 | Yamagucci | Yamagucci |
 | Fri, 4 Dec 2026 | Ash Lauryn | Ash Lauryn |
@@ -22,4 +21,4 @@ Art Club is a music venue in Houston listed on soundcheck. 9 upcoming gigs, with
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

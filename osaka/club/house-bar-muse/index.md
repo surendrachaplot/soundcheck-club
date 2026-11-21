@@ -1,15 +1,13 @@
 # House Bar Muse
 
-House Bar Muse is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Artifact Rhythm" on Fri, 20 Nov 2026.
+House Bar Muse is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "PANTE TELIA" on Sat, 21 Nov 2026.
 
-House Bar Muse is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including Masaki Morii and MILK BRO.. See dates, start times and who's playing. 6-2-14 Nishitenma, Kita-ku, Osaka-shi, Osaka, 530-0047 Japan.
+House Bar Muse is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Masaki Morii. See dates, start times and who's playing. 6-2-14 Nishitenma, Kita-ku, Osaka-shi, Osaka, 530-0047 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Artifact Rhythm |  |
-| Fri, 20 Nov 2026 | Artifact Rhythm | MILK BRO. |
 | Sat, 21 Nov 2026 | PANTE TELIA |  |
 | Sat, 28 Nov 2026 | feeling |  |
 | Sat, 5 Dec 2026 | Beyond The Underground House Music Party |  |
@@ -19,4 +17,4 @@ House Bar Muse is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, 
 
 6-2-14 Nishitenma, Kita-ku, Osaka-shi, Osaka, 530-0047 Japan, Osaka
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/house-bar-muse/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/house-bar-muse/)*

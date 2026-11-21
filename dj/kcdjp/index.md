@@ -1,6 +1,6 @@
 # KCD(JP)
 
-KCD(JP) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Muse Café & Cocktail Bar, Berlin on Sat, 21 Nov 2026.
+KCD(JP) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Muse Café & Cocktail Bar, Berlin on Sat, 21 Nov 2026.
 
 KCD(JP) is a techno and acid artist based in Japan, with 41 gigs on soundcheck across Berlin and Osaka. Often billed alongside Goodrug, Rikuto and FENGX2. Next up: Muse Café & Cocktail Bar, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KCD(JP) is a techno and acid artist based in Japan, with 41 gigs on soundcheck a
 
 Goodrug, Rikuto, FENGX2
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kcdjp/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kcdjp/)*

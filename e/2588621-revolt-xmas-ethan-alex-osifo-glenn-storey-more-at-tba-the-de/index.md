@@ -1,6 +1,6 @@
 # Revolt Xmas - Ethan, Alex Osifo, Glenn Storey + more at TBA - The Den
 
-Revolt Xmas - Ethan, Alex Osifo, Glenn Storey + more at TBA - The Den on Wed 23 Dec, North. 4 artists: Alex Osifo, Ethan., Glenn Storey and Sam Cummins. See the line-up on soundcheck.
+Revolt Xmas - Ethan, Alex Osifo, Glenn Storey + more at TBA - The Den on Wed 23 Dec, North. 5 artists: 6jjacob, Alex Osifo, Ethan. and Glenn Storey and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Revolt Xmas - Ethan, Alex Osifo, Glenn Storey + more at TBA - The Den on Wed 23 
 
 ## Line-up
 
+- 6jjacob
 - Alex Osifo
 - Ethan.
 - Glenn Storey

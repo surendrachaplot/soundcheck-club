@@ -1,14 +1,13 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Beach Hotel - Byron Bay, Byron-bay on Fri, 20 Nov 2026.
+Lee Burridge is a Deep House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Lee Burridge is a deep house and house artist based in United Kingdom, with 165 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Beach Hotel - Byron Bay, Byron Bay on Fri 20 Nov.
+Lee Burridge is a deep house and house artist based in United Kingdom, with 165 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Beach Hotel - Byron Bay | Byron-bay |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Sun, 29 Nov 2026 | Bourke Street Courtyard | Melbourne |
@@ -17,17 +16,17 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 165 
 
 ## Recently played
 
+- Beach Hotel - Byron Bay, Byron-bay · Fri, 20 Nov 2026
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - Savaya Bali, Bali · Sun, 15 Nov 2026
 - Zumana Bali, Bali · Fri, 13 Nov 2026
 - RASA, Singapore · Sat, 7 Nov 2026
 - RASA, Singapore · Sat, 7 Nov 2026
 - VENT, Tokyo · Fri, 6 Nov 2026
 - TBA - Ciudad Universitaria, Belgrano, Buenos Aires · Sat, 17 Oct 2026
-- Parc Jean-Drapeau, Montreal · Mon, 12 Oct 2026
-- UKOKO CLUB, Costa-rica · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

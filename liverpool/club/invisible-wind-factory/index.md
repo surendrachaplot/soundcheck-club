@@ -1,6 +1,6 @@
 # Invisible Wind Factory
 
-Invisible Wind Factory is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Modern Funktion Liverpool - Locklead, Mella Dee, Reeshy & More" on Sat, 5 Dec 2026.
+Invisible Wind Factory is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Modern Funktion Liverpool - Locklead, Mella Dee, Reeshy & More" on Sat, 5 Dec 2026.
 
 Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including Benji King, Locklead, Mella Dee and Phill de Janeiro and 2 more. See dates, start times and who's playing. 3 Regent Rd, Liverpool L3 7DS, United Kingdom.
 
@@ -15,4 +15,4 @@ Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 2 upc
 
 3 Regent Rd, Liverpool L3 7DS, United Kingdom, Liverpool
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*

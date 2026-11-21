@@ -1,6 +1,6 @@
 # JUPITER
 
-JUPITER is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Siberia, New Orleans on Sat, 19 Dec 2026.
+JUPITER is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Siberia, New Orleans on Sat, 19 Dec 2026.
 
 JUPITER is a club and techno artist based in United States of America, with 9 gigs on soundcheck across Atlanta, Minneapolis/St Paul, New Orleans and San Francisco/Oakland. Often billed alongside Tokidokihoe, Lord Chilla and 3AM. Next up: Siberia, New Orleans on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ JUPITER is a club and techno artist based in United States of America, with 9 gi
 
 Tokidokihoe, Lord Chilla, 3AM
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jupiter/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jupiter/)*

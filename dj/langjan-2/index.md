@@ -1,6 +1,6 @@
 # Lang Jan (2)
 
-Lang Jan (2) is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Locke, Hamburg on Sat, 21 Nov 2026.
+Lang Jan (2) is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Locke, Hamburg on Sat, 21 Nov 2026.
 
 Lang Jan is a jungle and bass artist based in Germany, with 11 gigs on soundcheck across Hamburg. Often billed alongside Sarah Q, Usus and Roof. Next up: Locke, Hamburg on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Lang Jan is a jungle and bass artist based in Germany, with 11 gigs on soundchec
 
 Sarah Q, Usus, Roof (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/langjan-2/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/langjan-2/)*

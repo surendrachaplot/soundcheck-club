@@ -1,6 +1,6 @@
 # Pasha
 
-Pasha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at SOBs, New York City on Mon, 7 Dec 2026.
+Pasha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at SOBs, New York City on Mon, 7 Dec 2026.
 
 Pasha is a house and tech house artist based in Canada, with 59 gigs on soundcheck across Amsterdam, Los Angeles, Montreal and New York City and 2 more. Often billed alongside RUDEE NIK, Tabbara and Chiara. Next up: SOBs, New York City on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Pasha is a house and tech house artist based in Canada, with 59 gigs on soundche
 
 RUDEE NIK, Tabbara, Chiara
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha/)*

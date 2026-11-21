@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "MOORDOOR" on Fri, 20 Nov 2026.
+Cross Club is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "LIQUID WAVE & AZYL TECHNO STAGE" on Sat, 21 Nov 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including Aztek, Cizyhk, DAVIDOFFWHITE and Ejdm and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Aztek, Cizyhk, DAVIDOFFWHITE and Ejdm and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | MOORDOOR | Sinister Souls, Skrimor |
 | Sat, 21 Nov 2026 | LIQUID WAVE & AZYL TECHNO STAGE | Ejdm, Plus One (1) |
 | Sat, 21 Nov 2026 | Kinetic | Cizyhk (2), DAVIDOFFWHITE, Katrixia, Vialla, XENEA LUMRA |
 | Sun, 22 Nov 2026 | SUNDEJ SE SUNDAY |  |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 12 upcoming gigs, wi
 | Thu, 26 Nov 2026 | UNITY RAGE DNB STAGE |  |
 | Fri, 27 Nov 2026 | DRUMSTATION | Sub Zero |
 | Sat, 28 Nov 2026 | HARD RAVE & PSYTRANCE |  |
+| Sun, 29 Nov 2026 | SUNDEJ SE SUNDAY |  |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

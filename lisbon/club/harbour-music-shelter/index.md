@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Harbour Sundaze with Moodie Showcase" on Sun, 22 Nov 2026.
+Harbour Music Shelter is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Harbour Sundaze with Moodie Showcase" on Sun, 22 Nov 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Andion, John-E, Larannec and Simonee. See dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -15,4 +15,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 2 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

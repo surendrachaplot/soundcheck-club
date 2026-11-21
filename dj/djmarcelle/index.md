@@ -1,6 +1,6 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Standard Time, Toronto on Sat, 5 Dec 2026.
+DJ Marcelle is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Standard Time, Toronto on Sat, 5 Dec 2026.
 
 DJ Marcelle is an experimental and electronica artist based in Netherlands, with 119 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 42 more. Often billed alongside DjRUM, ojoo and Objekt. Next up: Standard Time, Toronto on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Marcelle is an experimental and electronica artist based in Netherlands, with
 
 DjRUM, ojoo, Objekt
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*

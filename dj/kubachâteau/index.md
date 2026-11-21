@@ -1,6 +1,6 @@
 # Kuba Château
 
-Kuba Château is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 12 Dec 2026.
+Kuba Château is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 12 Dec 2026.
 
 Kuba Château is a techno and electro artist based in Poland, with 28 gigs on soundcheck across Glasgow and Krakow. Often billed alongside Nadezh No, Kondrat and MRV. Next up: EXIT Glasgow, Glasgow on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kuba Château is a techno and electro artist based in Poland, with 28 gigs on so
 
 Nadezh No, Kondrat, MRV (1)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kubachâteau/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kubachâteau/)*

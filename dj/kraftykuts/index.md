@@ -1,6 +1,6 @@
 # Krafty Kuts
 
-Krafty Kuts is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 21 Nov 2026.
+Krafty Kuts is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 21 Nov 2026.
 
 Krafty Kuts is a breakbeat and house artist based in United Kingdom, with 33 gigs on soundcheck across Auckland, Brighton, Brisbane and Budapest and 11 more. Often billed alongside Plump DJs, Freestylers and Stanton Warriors. Next up: Joshua Brooks, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Krafty Kuts is a breakbeat and house artist based in United Kingdom, with 33 gig
 
 Plump DJs, Freestylers, Stanton Warriors
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*

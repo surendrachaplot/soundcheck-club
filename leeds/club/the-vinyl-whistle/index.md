@@ -1,6 +1,6 @@
 # The Vinyl Whistle
 
-The Vinyl Whistle is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Sober Open Deck DJ Hangout" on Sun, 22 Nov 2026.
+The Vinyl Whistle is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Sober Open Deck DJ Hangout" on Sun, 22 Nov 2026.
 
 The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including Balrog, Jake Mehew, Kessie and NikNak and 2 more. See dates, start times and who's playing. 12 Otley Road, Headingley, Leeds LS6 2AD.
 
@@ -18,4 +18,4 @@ The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 5 upcoming gig
 
 12 Otley Road, Headingley, Leeds LS6 2AD, Leeds
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*

@@ -1,6 +1,6 @@
 # Alissa Brianna
 
-Alissa Brianna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Animal, New York City on Sat, 21 Nov 2026.
+Alissa Brianna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Animal, New York City on Sat, 21 Nov 2026.
 
 Alissa Brianna is a house and techno artist based in United States of America, with 74 gigs on soundcheck across New York City, Pittsburgh and San Francisco/Oakland. Often billed alongside S'aint Panic, Nita Aviance and The Carry Nation. Next up: Animal, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Alissa Brianna is a house and techno artist based in United States of America, w
 
 S'aint Panic, Nita Aviance, The Carry Nation
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alissabrianna/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alissabrianna/)*

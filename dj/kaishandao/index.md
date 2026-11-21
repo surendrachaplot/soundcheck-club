@@ -1,13 +1,14 @@
 # Kaishandao
 
-Kaishandao is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Wigwam, Shanghai on Sat, 5 Dec 2026.
+Kaishandao is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Loopy, Hangzhou on Fri, 4 Dec 2026.
 
-Kaishandao is a techno and electronica artist based in New Zealand, with 34 gigs on soundcheck across Beijing, Chengdu, Chongqing and Kyoto and 3 more. Often billed alongside Wu Zhuoling, DJ-BLUE and Sanyo. Next up: Wigwam, Shanghai on Sat 5 Dec.
+Kaishandao is a techno and electronica artist based in New Zealand, with 35 gigs on soundcheck across Beijing, Chengdu, Chongqing and Hangzhou and 4 more. Often billed alongside Wu Zhuoling, DJ-BLUE and Sanyo. Next up: Loopy, Hangzhou on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Loopy | Hangzhou |
 | Sat, 5 Dec 2026 | Wigwam | Shanghai |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kaishandao is a techno and electronica artist based in New Zealand, with 34 gigs
 
 Wu Zhuoling, DJ-BLUE, Sanyo
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaishandao/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaishandao/)*

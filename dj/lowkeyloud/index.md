@@ -1,6 +1,6 @@
 # Lowkey Loud
 
-Lowkey Loud is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
+Lowkey Loud is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
 
 Lowkey Loud is an electro and house artist based in Mexico, with 9 gigs on soundcheck across Barcelona. Often billed alongside Narima Satori, JOCHI and Pier Mood. Next up: BUS Hexperience, Barcelona on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Lowkey Loud is an electro and house artist based in Mexico, with 9 gigs on sound
 
 Narima Satori, JOCHI, Pier Mood
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowkeyloud/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowkeyloud/)*

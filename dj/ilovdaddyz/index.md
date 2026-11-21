@@ -1,6 +1,6 @@
 # ILOVDADDYZ
 
-ILOVDADDYZ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Circie, Dresden on Sat, 21 Nov 2026.
+ILOVDADDYZ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Circie, Dresden on Sat, 21 Nov 2026.
 
 ILOVDADDYZ is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Berlin, Dresden, Leipzig and Munich. Often billed alongside genelle, Khloe and ANKA. Next up: Circie, Dresden on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ ILOVDADDYZ is a techno and house artist based in United States of America, with 
 
 genelle, Khloe, ANKA (2)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilovdaddyz/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilovdaddyz/)*

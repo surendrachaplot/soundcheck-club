@@ -1,6 +1,6 @@
 # Kira (3)
 
-Kira (3) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Churchill's Pub, Miami on Sat, 21 Nov 2026.
+Kira (3) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Churchill's Pub, Miami on Sat, 21 Nov 2026.
 
 Kira is a drum & bass and jungle artist based in Moldova, with 16 gigs on soundcheck across Amsterdam, Berlin, Bristol and Krakow and 3 more. Often billed alongside Bladerunner, Break and Breakage. Next up: Churchill's Pub, Miami on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Kira is a drum & bass and jungle artist based in Moldova, with 16 gigs on soundc
 
 Bladerunner, Break, Breakage
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*

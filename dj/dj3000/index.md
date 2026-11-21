@@ -1,6 +1,6 @@
 # DJ 3000
 
-DJ 3000 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Spkrbox, Detroit on Sat, 28 Nov 2026.
+DJ 3000 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Spkrbox, Detroit on Sat, 28 Nov 2026.
 
 DJ 3000 is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Detroit, Edinburgh, Glasgow and Toronto. Often billed alongside LATEX GIRL, Los Hermanos and Augustus Williams. Next up: Spkrbox, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ 3000 is a techno and house artist based in United States of America, with 20 
 
 LATEX GIRL, Los Hermanos, Augustus Williams
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj3000/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj3000/)*

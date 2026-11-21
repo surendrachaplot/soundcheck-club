@@ -1,6 +1,6 @@
 # Disjoli
 
-Disjoli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
+Disjoli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
 
 Disjoli is a techno and house artist based in Belgium, with 31 gigs on soundcheck across Antwerp, Brussels, Copenhagen and Ghent and 2 more. Often billed alongside Stanislawa, MZA (FR) and Shoplifter. Next up: C12, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Disjoli is a techno and house artist based in Belgium, with 31 gigs on soundchec
 
 Stanislawa, MZA (FR), Shoplifter
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*

@@ -1,14 +1,13 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 15 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "BEAUZ" on Fri, 20 Nov 2026.
+BERHTA is a music venue in Washington DC with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Mary Droppinz" on Sat, 21 Nov 2026.
 
-BERHTA is a music venue in Washington DC listed on soundcheck. 15 upcoming gigs, with line-ups including Arlo, Bob Moses, bradeazy and Carl Craig and 2 more. See dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washington DC listed on soundcheck. 14 upcoming gigs, with line-ups including Arlo, Bob Moses, bradeazy and Carl Craig and 2 more. See dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | BEAUZ |  |
 | Sat, 21 Nov 2026 | Mary Droppinz | Mary Droppinz |
 | Fri, 27 Nov 2026 | Detroit Love: Carl Craig b2b Seth Troxler, Roni Amitai | Carl Craig, Roni Amitai, Seth Troxler |
 | Sat, 28 Nov 2026 | Chus & Ceballos w. Mina | Chus & Ceballos, Mina (US) |
@@ -18,9 +17,10 @@ BERHTA is a music venue in Washington DC listed on soundcheck. 15 upcoming gigs,
 | Fri, 18 Dec 2026 | ZHU presents BLACKLIZT.DC: Night 1 | Fahlberg, Parallelle, RICHE, TOBEHONEST, ZHU |
 | Sat, 19 Dec 2026 | ZHU presents BLACKLIZT.DC: Night Two | HNTR, Kotiēr, ZHU |
 | Sat, 26 Dec 2026 | GRAVEDGR | GRAVEDGR |
+| Thu, 31 Dec 2026 | Ke Detty Dezemba: All Black NYE |  |
 
 ## Address
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

@@ -1,6 +1,6 @@
 # Borbón
 
-Borbón is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Exley, New York City on Sun, 22 Nov 2026.
+Borbón is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Exley, New York City on Sun, 22 Nov 2026.
 
 Borbón is a house and disco artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside Omer Mil, Miss Gypsy and Arianna Danae. Next up: The Exley, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Borbón is a house and disco artist based in United States of America, with 30 g
 
 Omer Mil, Miss Gypsy, Arianna Danae
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borbon/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borbon/)*

@@ -1,17 +1,18 @@
 # Esof
 
-Esof is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stoked&stoned, Seoul on Thu, 19 Nov 2026.
+Esof is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 82bpm, South-korea on Sat, 21 Nov 2026.
 
-Esof is a techno and house artist based in South Korea, with 8 gigs on soundcheck across Bangkok and Seoul. Often billed alongside DJ Bowlcut, Kustikov and Taku Hirayama. Next up: Stoked&stoned, Seoul on Thu 19 Nov.
+Esof is a techno and house artist based in South Korea, with 9 gigs on soundcheck across Bangkok, Seoul and South Korea. Often billed alongside DJ Bowlcut, Kustikov and Taku Hirayama. Next up: 82bpm, South Korea on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Stoked&stoned | Seoul |
+| Sat, 21 Nov 2026 | 82bpm | South-korea |
 
 ## Recently played
 
+- Stoked&stoned, Seoul · Thu, 19 Nov 2026
 - Stoked&stoned, Seoul · Mon, 16 Nov 2026
 - Club Horn, Seoul · Sat, 17 Oct 2026
 - Bar Temp., Bangkok · Thu, 24 Sept 2026
@@ -24,4 +25,4 @@ Esof is a techno and house artist based in South Korea, with 8 gigs on soundchec
 
 DJ Bowlcut, Kustikov, Taku Hirayama
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esof/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esof/)*

@@ -1,6 +1,6 @@
 # Seabra
 
-Seabra is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 19 Dec 2026.
+Seabra is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 19 Dec 2026.
 
 Seabra is a house and pop artist based in France, with 12 gigs on soundcheck across Paris and Sao Paulo. Often billed alongside Avante, Blinkduus Dischetto and Casual Plaza. Next up: La Rotonde Stalingrad, Paris on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Seabra is a house and pop artist based in France, with 12 gigs on soundcheck acr
 
 Avante, Blinkduus Dischetto (2), Casual Plaza
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*

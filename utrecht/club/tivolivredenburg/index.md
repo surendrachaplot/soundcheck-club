@@ -1,6 +1,6 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Hush with MENESIX & More" on Sat, 21 Nov 2026.
+TivoliVredenburg is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Hush with MENESIX & More" on Sat, 21 Nov 2026.
 
 TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs, with line-ups including Elias Mazian, Erick E, Fiene and Funkerman and 2 more. See dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
@@ -20,4 +20,4 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 7 upcoming gi
 
 Vredenburgkade 11, 3511 WC, Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*

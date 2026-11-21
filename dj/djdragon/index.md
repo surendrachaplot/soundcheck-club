@@ -1,6 +1,6 @@
 # DJ Dragon
 
-DJ Dragon is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Otaqlab Bangkok, Bangkok on Sat, 21 Nov 2026.
+DJ Dragon is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Otaqlab Bangkok, Bangkok on Sat, 21 Nov 2026.
 
 DJ Dragon is a techno and bass artist based in Thailand, with 18 gigs on soundcheck across Bangkok. Often billed alongside Gishiyama, DJ Krit Morton and GodDam. Next up: Otaqlab Bangkok, Bangkok on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DJ Dragon is a techno and bass artist based in Thailand, with 18 gigs on soundch
 
 Gishiyama, DJ Krit Morton, GodDam
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdragon/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdragon/)*

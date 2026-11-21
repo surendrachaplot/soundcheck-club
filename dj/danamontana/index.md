@@ -1,6 +1,6 @@
 # Dana Montana
 
-Dana Montana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Capital, Antwerp on Thu, 31 Dec 2026.
+Dana Montana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Capital, Antwerp on Thu, 31 Dec 2026.
 
 Dana Montana is a techno and house artist based in Belgium, with 135 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 50 more. Often billed alongside Montana, OGUZ and Pegassi. Next up: Club Capital, Antwerp on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dana Montana is a techno and house artist based in Belgium, with 135 gigs on sou
 
 Montana, OGUZ, Pegassi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danamontana/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danamontana/)*

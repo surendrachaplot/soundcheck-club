@@ -1,6 +1,6 @@
 # ROSA
 
-ROSA is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "PORN by PRNCPTL - Berlin" on Sat, 21 Nov 2026.
+ROSA is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "PORN by PRNCPTL - Berlin" on Sat, 21 Nov 2026.
 
 ROSA is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including ābnamā, ADAM MUNNINGS, Choronzon and Curses and 2 more. See dates, start times and who's playing. Storkower Str. 121, 10407 Berlin.
 
@@ -21,4 +21,4 @@ ROSA is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line
 
 Storkower Str. 121, 10407 Berlin, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*

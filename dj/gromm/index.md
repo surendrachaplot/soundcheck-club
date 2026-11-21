@@ -1,6 +1,6 @@
 # GRØMM
 
-GRØMM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
+GRØMM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
 
 GRØMM is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin, Hamburg and Madrid. Often billed alongside SIX DIMENSIONS, Danya (DE) and Maasym. Next up: Slot, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ GRØMM is a techno and house artist based in Germany, with 33 gigs on soundcheck
 
 SIX DIMENSIONS, Danya (DE), Maasym
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gromm/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gromm/)*

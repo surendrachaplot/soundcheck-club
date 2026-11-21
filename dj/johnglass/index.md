@@ -1,6 +1,6 @@
 # John Glass
 
-John Glass is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 19 Dec 2026.
+John Glass is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 19 Dec 2026.
 
 John Glass is a house and deep house artist based in United States of America, with 40 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Amatric, Homero Espinosa and Pap.. Next up: Public Works, San Francisco/Oakland on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ John Glass is a house and deep house artist based in United States of America, w
 
 Amatric, Homero Espinosa, Pap.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnglass/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnglass/)*

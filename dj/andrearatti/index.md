@@ -1,6 +1,6 @@
 # Andrea Ratti
 
-Andrea Ratti is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Secret Location , Milan on Sat, 21 Nov 2026.
+Andrea Ratti is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location , Milan on Sat, 21 Nov 2026.
 
 Andrea Ratti is an electronica and house artist based in Italy, with 35 gigs on soundcheck across Milan and Paris. Often billed alongside Sergio Tavelli, Bitter Saint and Protopapa. Next up: TBA - Secret Location , Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Andrea Ratti is an electronica and house artist based in Italy, with 35 gigs on 
 
 Sergio Tavelli, Bitter Saint, Protopapa
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*

@@ -1,14 +1,15 @@
 # Donna Gibson
 
-Donna Gibson is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bien Public, Bordeaux on Sat, 28 Nov 2026.
+Donna Gibson is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bien Public, Bordeaux on Sat, 28 Nov 2026.
 
-Donna Gibson is a disco and house artist based in France, with 26 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 3 more. Often billed alongside Young Pulse, Hugo LX and Jamie 3:26. Next up: Bien Public, Bordeaux on Sat 28 Nov.
+Donna Gibson is a disco and house artist based in France, with 27 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 3 more. Often billed alongside Young Pulse, Hugo LX and Jamie 3:26. Next up: Bien Public, Bordeaux on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Bien Public | Bordeaux |
+| Sat, 5 Dec 2026 | KOKO | London |
 | Sat, 19 Dec 2026 | La Bellevilloise | Paris |
 
 ## Recently played
@@ -26,4 +27,4 @@ Donna Gibson is a disco and house artist based in France, with 26 gigs on soundc
 
 Young Pulse, Hugo LX, Jamie 3:26
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*

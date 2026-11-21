@@ -1,6 +1,6 @@
 # Renhet
 
-Renhet is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Daddy’S all day bar, Athens on Sat, 21 Nov 2026.
+Renhet is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Daddy’S all day bar, Athens on Sat, 21 Nov 2026.
 
 Renhet is a techno and deep house artist, with 7 gigs on soundcheck across Athens. Often billed alongside Marthe, ReZo and Jenia Tarsol. Next up: Daddy’S all day bar, Athens on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Renhet is a techno and deep house artist, with 7 gigs on soundcheck across Athen
 
 Marthe, ReZo, Jenia Tarsol
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renhet/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renhet/)*

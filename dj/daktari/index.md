@@ -1,8 +1,8 @@
 # daktari
 
-daktari is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Coil, Melbourne on Sat, 21 Nov 2026.
+daktari is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Coil, Melbourne on Sat, 21 Nov 2026.
 
-daktari is a techno and psytrance artist, with 6 gigs on soundcheck across Amsterdam and Melbourne. Often billed alongside DANDAN, Indi Raeva and Shkedul. Next up: Coil, Melbourne on Sat 21 Nov.
+daktari is a techno and psytrance artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Melbourne. Often billed alongside DANDAN, Indi Raeva and Shkedul. Next up: Coil, Melbourne on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ daktari is a techno and psytrance artist, with 6 gigs on soundcheck across Amste
 
 DANDAN, Indi Raeva, Shkedul
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daktari/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daktari/)*

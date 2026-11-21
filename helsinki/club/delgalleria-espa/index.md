@@ -1,6 +1,6 @@
 # Delgalleria - Espa
 
-Delgalleria - Espa is a music venue in Helsinki with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "GLOW PARTY" on Sat, 21 Nov 2026.
+Delgalleria - Espa is a music venue in Helsinki with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "GLOW PARTY" on Sat, 21 Nov 2026.
 
 Delgalleria - Espa is a music venue in Helsinki listed on soundcheck. 2 upcoming gigs, with line-ups including Beth Alana, MEGAFORCE and ORYMA. See dates, start times and who's playing. Pohjoisesplanadi 19, 00100 Helsinki.
 
@@ -15,4 +15,4 @@ Delgalleria - Espa is a music venue in Helsinki listed on soundcheck. 2 upcoming
 
 Pohjoisesplanadi 19, 00100 Helsinki, Helsinki
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/delgalleria-espa/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/delgalleria-espa/)*

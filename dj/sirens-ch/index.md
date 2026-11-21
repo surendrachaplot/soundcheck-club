@@ -1,6 +1,6 @@
 # Sirens
 
-Sirens is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at OIL Club, Shenzhen on Sat, 21 Nov 2026.
+Sirens is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at OIL Club, Shenzhen on Sat, 21 Nov 2026.
 
 Sirens is a techno and club artist based in China, with 83 gigs on soundcheck across Beijing, Chengdu, Hanoi and Lisbon and 2 more. Often billed alongside Jascer, zzm and Beibeilon. Next up: OIL Club, Shenzhen on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Sirens is a techno and club artist based in China, with 83 gigs on soundcheck ac
 
 Jascer, zzm (2), Beibeilon
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirens-ch/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirens-ch/)*

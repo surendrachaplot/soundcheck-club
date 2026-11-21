@@ -1,6 +1,6 @@
-# Symbiotic with Das Firmament (live) at Salon des Amateurs
+# Symbiotic with Das Firmament [live] at Salon des Amateurs
 
-Symbiotic with Das Firmament (live) at Salon des Amateurs on Fri 11 Dec, Düsseldorf. 3 artists: Das Firmament, Teuro and Trancesetters of Westphalia. Trance and Electro. See the line-up on soundcheck.
+Symbiotic with Das Firmament [live] at Salon des Amateurs on Fri 11 Dec, Düsseldorf. 3 artists: Das Firmament, Teuro and Trancesetters of Westphalia. Trance and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

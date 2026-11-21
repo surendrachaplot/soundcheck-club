@@ -1,6 +1,6 @@
 # Fog 19 at TBA
 
-Fog 19 at TBA on Fri 4 Dec, Michigan. 5 artists: DJ Hyperactive, Dru Ruiz, Hiroko Yamamura and JANSØ and 1 more. See the line-up on soundcheck.
+Fog 19 at TBA on Fri 4 Dec, Michigan. 5 artists: DJ Hyperactive, Dru Ruiz, Father Dukes and JANSØ and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Fog 19 at TBA on Fri 4 Dec, Michigan. 5 artists: DJ Hyperactive, Dru Ruiz, Hirok
 
 - DJ Hyperactive
 - Dru Ruiz
-- Hiroko Yamamura
+- Father Dukes
 - JANSØ
 - MAEDON
 

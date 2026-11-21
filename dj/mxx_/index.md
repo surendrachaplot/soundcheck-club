@@ -1,8 +1,8 @@
 # MXX_
 
-MXX_ is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
+MXX_ is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
 
-MXX_ is a house and electronica artist, with 9 gigs on soundcheck across Berlin. Often billed alongside superamas, Acidfinky and Airshpd. Next up: Urban Spree, Berlin on Fri 27 Nov.
+MXX_ is a house and electronica artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside superamas, Acidfinky and Airshpd. Next up: Urban Spree, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MXX_ is a house and electronica artist, with 9 gigs on soundcheck across Berlin.
 
 superamas, Acidfinky, Airshpd
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxx_/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxx_/)*

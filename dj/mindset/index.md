@@ -1,6 +1,6 @@
 # Mindset
 
-Mindset is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 21 Nov 2026.
+Mindset is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 21 Nov 2026.
 
 Mindset is a house and deep house artist based in Argentina, with 8 gigs on soundcheck across Austin, Dallas Fort Worth and Madrid. Often billed alongside Anzhio, HerShe and Azyr. Next up: Hangar48 Club, Madrid on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Mindset is a house and deep house artist based in Argentina, with 8 gigs on soun
 
 Anzhio, HerShe, Azyr
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindset/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindset/)*

@@ -1,6 +1,6 @@
 # Grumptronix
 
-Grumptronix is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Grumptronix is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Grumptronix is an acid and electro artist based in United States of America, with 10 gigs on soundcheck across New York City and Tampa Bay. Often billed alongside Brian Busto, DJ Three and Christian Parchuke. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Grumptronix is an acid and electro artist based in United States of America, wit
 
 Brian Busto, DJ Three, Christian Parchuke
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grumptronix/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grumptronix/)*

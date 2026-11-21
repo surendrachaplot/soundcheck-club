@@ -1,6 +1,6 @@
 # Jesse Chen
 
-Jesse Chen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA - Manila, Manila on Sat, 21 Nov 2026.
+Jesse Chen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Manila, Manila on Sat, 21 Nov 2026.
 
 Jesse Chen is a techno and house artist based in Taiwan, with 90 gigs on soundcheck across Bangkok, Manila, Seoul and Taipei. Often billed alongside Gemnital, L-CC and F.G.D.. Next up: TBA - Manila, Manila on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Jesse Chen is a techno and house artist based in Taiwan, with 90 gigs on soundch
 
 Gemnital, L-CC, F.G.D.
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessechen/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessechen/)*

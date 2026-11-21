@@ -1,8 +1,8 @@
 # Marc & Spenca
 
-Marc & Spenca is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at N7, London on Thu, 31 Dec 2026.
+Marc & Spenca is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at N7, London on Thu, 31 Dec 2026.
 
-Marc & Spenca are a house and bass duo, with 10 gigs on soundcheck across London and Manchester. Often billed alongside Calm Stiege, IZZY (UK) and Kyle Parsley. Next up: N7, London on Thu 31 Dec.
+Marc & Spenca are a house and bass duo based in United Kingdom, with 10 gigs on soundcheck across London and Manchester. Often billed alongside Calm Stiege, IZZY (UK) and Kyle Parsley. Next up: N7, London on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marc & Spenca are a house and bass duo, with 10 gigs on soundcheck across London
 
 Calm Stiege, IZZY (UK), Kyle Parsley
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcspenca/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcspenca/)*

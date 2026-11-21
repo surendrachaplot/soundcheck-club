@@ -1,6 +1,6 @@
 # Sportsmanship
 
-Sportsmanship is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Tbili Orgia, Tbilisi on Sat, 28 Nov 2026.
+Sportsmanship is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tbili Orgia, Tbilisi on Sat, 28 Nov 2026.
 
 Sportsmanship is a bass and club artist based in Georgia, with 52 gigs on soundcheck across Amsterdam, Berlin, Florence and Lisbon and 2 more. Often billed alongside Wesley Wise, Giorgi Pipia and Dali (GE). Next up: Tbili Orgia, Tbilisi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sportsmanship is a bass and club artist based in Georgia, with 52 gigs on soundc
 
 Wesley Wise, Giorgi Pipia, Dali (GE)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportsmanship/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportsmanship/)*

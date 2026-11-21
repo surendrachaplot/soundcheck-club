@@ -1,6 +1,6 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at GASHOUDER, Amsterdam on Tue, 17 Nov 2026.
+Roman Flügel is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at GASHOUDER, Amsterdam on Tue, 17 Nov 2026.
 
 Roman Flügel is a techno and house artist based in Germany, with 237 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: GASHOUDER, Amsterdam on Tue 17 Nov.
 
@@ -36,4 +36,4 @@ Roman Flügel is a techno and house artist based in Germany, with 237 gigs on so
 
 Gerd Janson, Sven Vath, Ivan Smagghe
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*

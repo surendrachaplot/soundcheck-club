@@ -1,18 +1,18 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fuse, Brussels on Fri, 20 Nov 2026.
+LB aka LABAT is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at FVTVR, Paris on Sat, 21 Nov 2026.
 
-LB aka LABAT is a techno and house artist based in France, with 232 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 70 more. Often billed alongside DJ Gigola, Partiboi69 and Juicy Romance. Next up: Fuse, Brussels on Fri 20 Nov.
+LB aka LABAT is a techno and house artist based in France, with 233 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 71 more. Often billed alongside DJ Gigola, Partiboi69 and Juicy Romance. Next up: FVTVR, Paris on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Fuse | Brussels |
 | Sat, 21 Nov 2026 | FVTVR | Paris |
 | Sat, 21 Nov 2026 | FVTVR | Paris |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Sat, 23 Jan 2027 | Preston Warehouse | Melbourne |
+| Fri, 12 Feb 2027 | Slalom | Lille |
 | Sat, 20 Feb 2027 | Le Bikini | South-west |
 | Sat, 20 Feb 2027 | Graanfabriek | Netherlands |
 | Sat, 10 Apr 2027 | OST | Berlin |
@@ -20,6 +20,7 @@ LB aka LABAT is a techno and house artist based in France, with 232 gigs on soun
 
 ## Recently played
 
+- Fuse, Brussels · Fri, 20 Nov 2026
 - Le Confort Moderne, West · Sat, 14 Nov 2026
 - Cabaret  Aléatoire, Marseille · Sat, 7 Nov 2026
 - DRUMSHEDS, London · Sat, 31 Oct 2026
@@ -27,10 +28,9 @@ LB aka LABAT is a techno and house artist based in France, with 232 gigs on soun
 - Parallel, Amsterdam · Fri, 23 Oct 2026
 - Chicago Social Club, Amsterdam · Fri, 23 Oct 2026
 - La Belle Électrique, South-east · Sat, 17 Oct 2026
-- Nitsa Club, Barcelona · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 DJ Gigola, Partiboi69, Juicy Romance
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

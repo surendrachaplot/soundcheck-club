@@ -1,10 +1,10 @@
 # The Flat: BIHABI at Flat HiFi Bar
 
-The Flat: BIHABI at Flat HiFi Bar on Sat 21 Nov, Madrid. 1 artist: BIHABI. See the line-up on soundcheck.
+The Flat: BIHABI at Flat HiFi Bar on Sat 28 Nov, Madrid. 1 artist: BIHABI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 21 Nov 2026 |
+| Date | Sat, 28 Nov 2026 |
 | Venue | Flat HiFi Bar |
 | City | Madrid |
 

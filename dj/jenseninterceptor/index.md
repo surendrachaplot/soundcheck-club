@@ -1,18 +1,18 @@
 # Jensen Interceptor
 
-Jensen Interceptor is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Bar Oriente, Mexico City on Fri, 20 Nov 2026.
+Jensen Interceptor is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 50 | 50, Medellin on Fri, 27 Nov 2026.
 
-Jensen Interceptor is a techno and electro artist based in Germany, with 157 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 62 more. Often billed alongside Yazzus, Lawrence Lee and DJ MELL G. Next up: Bar Oriente, Mexico City on Fri 20 Nov.
+Jensen Interceptor is a techno and electro artist based in Germany, with 157 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 62 more. Often billed alongside Yazzus, Lawrence Lee and DJ MELL G. Next up: 50 | 50, Medellin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Bar Oriente | Mexico City |
 | Fri, 27 Nov 2026 | 50 / 50 | Medellin |
 
 ## Recently played
 
+- Bar Oriente, Mexico City · Fri, 20 Nov 2026
 - Colour Factory, London · Sat, 14 Nov 2026
 - Elastica, Vilnius · Fri, 13 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Jensen Interceptor is a techno and electro artist based in Germany, with 157 gig
 - arkaoda Berlin, Berlin · Sun, 23 Aug 2026
 - De Fik Garden, Amsterdam · Sun, 9 Aug 2026
 - Spreefeld Bootshaus, Berlin · Wed, 29 Jul 2026
-- Fort Vechten, Utrecht · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Yazzus, Lawrence Lee, DJ MELL G
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenseninterceptor/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenseninterceptor/)*

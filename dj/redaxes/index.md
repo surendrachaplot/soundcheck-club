@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+Red Axes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
 
 Red Axes is a house and techno artist based in Israel, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
 
@@ -15,6 +15,7 @@ Red Axes is a house and techno artist based in Israel, with 91 gigs on soundchec
 
 ## Recently played
 
+- Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - Hive Club, Zurich · Sat, 14 Nov 2026
 - Village Underground, London · Fri, 13 Nov 2026
 - LED Unit, Riga · Fri, 30 Oct 2026
@@ -22,10 +23,9 @@ Red Axes is a house and techno artist based in Israel, with 91 gigs on soundchec
 - The Fillmore, Denver · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Floyd, Miami · Thu, 15 Oct 2026
-- Kater, Berlin · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 DJ Tennis, Adiel, Bakke
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

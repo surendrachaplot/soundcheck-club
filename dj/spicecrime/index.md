@@ -1,6 +1,6 @@
 # Spice Crime
 
-Spice Crime is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+Spice Crime is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
 Spice Crime is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Miami and New York City. Often billed alongside Violeta, KUJO (US) and DomnRob. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Spice Crime is a techno and house artist based in United States of America, with
 
 Violeta, KUJO (US), DomnRob
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*

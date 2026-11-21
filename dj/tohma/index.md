@@ -1,6 +1,6 @@
 # Tohma
 
-Tohma is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Club Capital, Antwerp on Thu, 31 Dec 2026.
+Tohma is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Capital, Antwerp on Thu, 31 Dec 2026.
 
 Tohma is a house and disco artist based in Belgium, with 9 gigs on soundcheck across Antwerp and Tokyo. Often billed alongside Soulastico, Arter and Jef Nice. Next up: Club Capital, Antwerp on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Tohma is a house and disco artist based in Belgium, with 9 gigs on soundcheck ac
 
 Soulastico, Arter, Jef Nice
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tohma/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tohma/)*

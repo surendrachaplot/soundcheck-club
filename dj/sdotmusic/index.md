@@ -1,6 +1,6 @@
 # SDOT MUSIC
 
-SDOT MUSIC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 11 Dec 2026.
+SDOT MUSIC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 SDOT MUSIC is a club and techno artist based in United States of America, with 50 gigs on soundcheck across Baltimore, Denver, Detroit and Glasgow and 9 more. Often billed alongside Kade Young, Ducky Dynamo and Tromac. Next up: Underground SF, San Francisco/Oakland on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ SDOT MUSIC is a club and techno artist based in United States of America, with 5
 
 Kade Young, Ducky Dynamo, Tromac
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*

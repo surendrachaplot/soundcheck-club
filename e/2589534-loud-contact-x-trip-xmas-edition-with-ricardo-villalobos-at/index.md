@@ -1,6 +1,6 @@
-# Loud-Contact x Trip xmas edition with Ricardo Villalobos at WOLF Barcelona
+# Loud-Contact x Trip - Xmas Edition with Ricardo Villalobos at WOLF Barcelona
 
-Loud-Contact x Trip xmas edition with Ricardo Villalobos at WOLF Barcelona on Sun 20 Dec, Barcelona. 5 artists: Dyed Soundorom, Lumiere, Nicolas Lutz and Ricardo Villalobos and 1 more. See the line-up on soundcheck.
+Loud-Contact x Trip - Xmas Edition with Ricardo Villalobos at WOLF Barcelona on Sun 20 Dec, Barcelona. 5 artists: Dyed Soundorom, Lumiere, Nicolas Lutz and Ricardo Villalobos and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Omer Mil
 
-Omer Mil is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Green Room NYC, New York City on Wed, 25 Nov 2026.
+Omer Mil is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Green Room NYC, New York City on Wed, 25 Nov 2026.
 
-Omer Mil is a house and techno artist based in United States of America, with 83 gigs on soundcheck across Mexico City, Naples and New York City. Often billed alongside Morgan, Kiyoshi and Disgonuts. Next up: Green Room NYC, New York City on Wed 25 Nov.
+Omer Mil is a house and techno artist based in United States of America, with 84 gigs on soundcheck across Mexico City, Naples and New York City. Often billed alongside Morgan, Kiyoshi and Disgonuts. Next up: Green Room NYC, New York City on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Green Room NYC | New York City |
+| Sat, 12 Dec 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Omer Mil is a house and techno artist based in United States of America, with 83
 
 Morgan, Kiyoshi, Disgonuts
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*

@@ -1,6 +1,6 @@
 # Smiff
 
-Smiff is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at N7, London on Fri, 27 Nov 2026.
+Smiff is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at N7, London on Fri, 27 Nov 2026.
 
 Smiff is a bass and techno artist based in United Kingdom, with 142 gigs on soundcheck across Aberdeen, Athens, Berlin and Bristol and 4 more. Often billed alongside JI_2001, Wrisk and Sea Urchin. Next up: N7, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Smiff is a bass and techno artist based in United Kingdom, with 142 gigs on soun
 
 JI_2001, Wrisk, Sea Urchin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smiff/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smiff/)*

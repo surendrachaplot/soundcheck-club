@@ -1,6 +1,6 @@
 # Nacho Bolognani
 
-Nacho Bolognani is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Nacho Bolognani is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Nacho Bolognani is a house and tech house artist based in Argentina, with 30 gigs on soundcheck across Barcelona, Buenos Aires, Copenhagen and Ibiza and 5 more. Often billed alongside Cuartero, Andre Buljat and Jay de Lys. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ Nacho Bolognani is a house and tech house artist based in Argentina, with 30 gig
 
 ## Recently played
 
+- TBA, Buenos Aires · Fri, 20 Nov 2026
 - Ku Barcelona, Barcelona · Tue, 16 Jun 2026
 - Ku Barcelona, Barcelona · Tue, 16 Jun 2026
 - Ku Barcelona, Barcelona · Sun, 7 Jun 2026
@@ -19,10 +20,9 @@ Nacho Bolognani is a house and tech house artist based in Argentina, with 30 gig
 - Crobar - Buenos Aires, Buenos Aires · Fri, 1 May 2026
 - WOMB, Tokyo · Fri, 17 Apr 2026
 - Flac, Seoul · Sat, 11 Apr 2026
-- Ephigenia, Sao Paulo · Fri, 21 Nov 2025
 
 ## Shares bills with
 
 Cuartero, Andre Buljat, Jay de Lys
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachobolognani/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachobolognani/)*

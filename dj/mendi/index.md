@@ -1,13 +1,14 @@
 # Mendi
 
-Mendi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Saloon, Tokyo on Thu, 26 Nov 2026.
+Mendi is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Saloon, Tokyo on Thu, 26 Nov 2026.
 
-Mendi is a techno and electronica artist based in Spain, with 35 gigs on soundcheck across Amsterdam, Barcelona, Ghent and Lyon and 5 more. Often billed alongside Hirma, Diskoan and F. Vinuesa. Next up: Saloon, Tokyo on Thu 26 Nov.
+Mendi is a techno and electronica artist based in Spain, with 36 gigs on soundcheck across Amsterdam, Barcelona, Ghent and Lyon and 5 more. Often billed alongside Hirma, Diskoan and F. Vinuesa. Next up: Saloon, Tokyo on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Saloon | Tokyo |
 | Thu, 26 Nov 2026 | Saloon | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mendi is a techno and electronica artist based in Spain, with 35 gigs on soundch
 
 Hirma, Diskoan, F. Vinuesa
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mendi/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mendi/)*

@@ -1,6 +1,6 @@
 # NEVAEH
 
-NEVAEH is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Radius, Chicago on Sat, 12 Dec 2026.
+NEVAEH is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Radius, Chicago on Sat, 12 Dec 2026.
 
 NEVAEH is a techno and hardcore artist based in Poland, with 11 gigs on soundcheck across Chicago, Krakow and Warsaw. Often billed alongside Kacha, yerbby and ADHARDER. Next up: Radius, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ NEVAEH is a techno and hardcore artist based in Poland, with 11 gigs on soundche
 
 Kacha, yerbby, ADHARDER
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevaeh/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevaeh/)*

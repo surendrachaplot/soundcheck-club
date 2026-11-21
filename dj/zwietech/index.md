@@ -1,6 +1,6 @@
 # Zwie:Tech
 
-Zwie:Tech is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
+Zwie:Tech is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
 
 Zwie:Tech is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin, Karlsruhe, Munich and Stuttgart. Often billed alongside Anna Lazer, CAMI (DE) and Caro Vola. Next up: Lieberscholli, Munich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Zwie:Tech is a techno and house artist based in Germany, with 11 gigs on soundch
 
 Anna Lazer, CAMI (DE), Caro Vola
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwietech/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwietech/)*

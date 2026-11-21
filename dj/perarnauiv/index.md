@@ -1,6 +1,6 @@
 # PERARNAU IV
 
-PERARNAU IV is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
+PERARNAU IV is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
 
 PERARNAU IV is an electronic artist, with 10 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nebari and Raquel X. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ PERARNAU IV is an electronic artist, with 10 gigs on soundcheck across Barcelona
 
 Nebari, Raquel X
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perarnauiv/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perarnauiv/)*

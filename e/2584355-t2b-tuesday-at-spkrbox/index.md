@@ -1,6 +1,6 @@
 # T2B Tuesday at Spkrbox
 
-T2B Tuesday at Spkrbox on Tue 24 Nov, Detroit. 3 artists: M00N-Pi, we1sman and X(S)INA. Techno and Club. See the line-up on soundcheck.
+T2B Tuesday at Spkrbox on Tue 24 Nov, Detroit. 4 artists: M00N-Pi, Swan Laurent, we1sman and X(S)INA. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ T2B Tuesday at Spkrbox on Tue 24 Nov, Detroit. 3 artists: M00N-Pi, we1sman and X
 ## Line-up
 
 - M00N-Pi
+- Swan Laurent
 - we1sman
 - X(S)INA
 

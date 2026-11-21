@@ -1,18 +1,18 @@
 # Ruthless
 
-Ruthless is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Art School, Glasgow on Fri, 20 Nov 2026.
+Ruthless is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kaapelitehdas / The Cable Factory, Helsinki on Fri, 27 Nov 2026.
 
-Ruthless is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Nu:Tone, Unglued and Flava D. Next up: The Art School, Glasgow on Fri 20 Nov.
+Ruthless is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Nu:Tone, Unglued and Flava D. Next up: Kaapelitehdas / The Cable Factory, Helsinki on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Art School | Glasgow |
 | Fri, 27 Nov 2026 | Kaapelitehdas / The Cable Factory | Helsinki |
 
 ## Recently played
 
+- The Art School, Glasgow · Fri, 20 Nov 2026
 - fabric, London · Fri, 4 Sept 2026
 - Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
 - Slaktkyrkan, Stockholm · Fri, 8 May 2026
@@ -20,10 +20,9 @@ Ruthless is a drum & bass and jungle artist based in United Kingdom, with 27 gig
 - Sala Roka, Malaga · Fri, 12 Dec 2025
 - Salzhaus, Zurich · Sat, 15 Nov 2025
 - Fabrik, Madrid · Sat, 20 Sept 2025
-- The Cause, London · Sat, 9 Aug 2025
 
 ## Shares bills with
 
 Nu:Tone, Unglued, Flava D
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruthless/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruthless/)*

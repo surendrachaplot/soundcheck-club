@@ -1,20 +1,20 @@
 # SIX Feet Under
 
-SIX Feet Under is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Nyan~! Rave Party!1! ₊˚⊹♡" on Fri, 20 Nov 2026.
+SIX Feet Under is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "The Naughty Step: RUMPS (Yum Yum Records)" on Sat, 21 Nov 2026.
 
-SIX Feet Under is a music venue in Cardiff listed on soundcheck. 4 upcoming gigs, with line-ups including alterum, Asa Ray, DJBran and Efan and 2 more. See dates, start times and who's playing. 94 St Marys Street, Cardiff, Wales, CF10 1DX.
+SIX Feet Under is a music venue in Cardiff listed on soundcheck. 4 upcoming gigs, with line-ups including Asa Ray, DJBran, Efan and Gange and 2 more. See dates, start times and who's playing. 94 St Marys Street, Cardiff, Wales, CF10 1DX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Nyan~! Rave Party!1! ₊˚⊹♡ | alterum |
 | Sat, 21 Nov 2026 | The Naughty Step: RUMPS (Yum Yum Records) | Asa Ray, DJBran, IZP (1) |
 | Sat, 28 Nov 2026 | Efan:EXTENDED [Cardiff] | Efan |
 | Fri, 11 Dec 2026 | WHEELUP PRESENTS: SILVA SNIPA (3 HOUR SET) | Silva Snipa |
+| Fri, 5 Feb 2027 | UNHINGED presents: Remco Beekwilder | Gange, Remco Beekwilder, Sister Sesh |
 
 ## Address
 
 94 St Marys Street, Cardiff, Wales, CF10 1DX, Cardiff
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*

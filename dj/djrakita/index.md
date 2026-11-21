@@ -1,6 +1,6 @@
 # DJ Rakita
 
-DJ Rakita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at FLUCC, Vienna on Sat, 21 Nov 2026.
+DJ Rakita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at FLUCC, Vienna on Sat, 21 Nov 2026.
 
 DJ Rakita is a techno and trance artist, with 33 gigs on soundcheck across Basel, Berlin, Leipzig and Munich and 2 more. Often billed alongside Rakita, Gretchen B and Arlenys. Next up: FLUCC, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Rakita is a techno and trance artist, with 33 gigs on soundcheck across Basel
 
 Rakita, Gretchen B, Arlenys
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrakita/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrakita/)*

@@ -1,6 +1,6 @@
 # LEXCD
 
-LEXCD is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Collapse, Pittsburgh on Sun, 22 Nov 2026.
+LEXCD is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Collapse, Pittsburgh on Sun, 22 Nov 2026.
 
 LEXCD is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Pittsburgh. Often billed alongside Joey Kilona, Johnny Zoloft and maenad. Next up: Collapse, Pittsburgh on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ LEXCD is a techno and house artist based in United States of America, with 18 gi
 
 Joey Kilona, Johnny Zoloft, maenad
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexcd/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexcd/)*

@@ -1,6 +1,6 @@
 # Hocki
 
-Hocki is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at ROSA, Berlin on Sat, 19 Dec 2026.
+Hocki is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at ROSA, Berlin on Sat, 19 Dec 2026.
 
 Hocki is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin, Leipzig and Warsaw. Often billed alongside Erebos, MARRE and maedchenballern. Next up: ROSA, Berlin on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Hocki is a techno and trance artist based in Germany, with 8 gigs on soundcheck 
 
 Erebos, MARRE, maedchenballern
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hocki/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hocki/)*

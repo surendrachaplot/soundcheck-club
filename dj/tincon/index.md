@@ -1,8 +1,8 @@
 # Tinçon
 
-Tinçon is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
+Tinçon is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
 
-Tinçon is a house artist, with 8 gigs on soundcheck across Barcelona. Often billed alongside Cucut, INEXXSTABLE and Nico from the Network. Next up: BORIS CLUB, Barcelona on Sat 21 Nov.
+Tinçon is a house artist based in Spain, with 8 gigs on soundcheck across Barcelona. Often billed alongside Cucut, INEXXSTABLE and Nico from the Network. Next up: BORIS CLUB, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Tinçon is a house artist, with 8 gigs on soundcheck across Barcelona. Often bil
 
 Cucut, INEXXSTABLE, Nico from the Network
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tincon/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tincon/)*

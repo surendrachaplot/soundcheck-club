@@ -1,6 +1,6 @@
 # KRTM
 
-KRTM is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Elastica, Vilnius on Fri, 11 Dec 2026.
+KRTM is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Elastica, Vilnius on Fri, 11 Dec 2026.
 
 KRTM is a techno and hardcore artist based in Belgium, with 37 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Manu Le Malin, Somniac One and Thrasher. Next up: Elastica, Vilnius on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ KRTM is a techno and hardcore artist based in Belgium, with 37 gigs on soundchec
 
 Manu Le Malin, Somniac One, Thrasher
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krtm/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krtm/)*

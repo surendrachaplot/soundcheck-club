@@ -1,14 +1,16 @@
 # Miss Cabbage
 
-Miss Cabbage is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 19 Dec 2026.
+Miss Cabbage is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Mash House, Edinburgh on Sat, 28 Nov 2026.
 
-Miss Cabbage is a techno and bass artist based in United Kingdom, with 88 gigs on soundcheck across Barcelona, Bristol, Dundee and Edinburgh and 4 more. Often billed alongside HUNTRESS, Babyjaii and Rahul.mp3. Next up: The Marlborough Red Room, Glasgow on Sat 19 Dec.
+Miss Cabbage is a techno and bass artist based in United Kingdom, with 90 gigs on soundcheck across Barcelona, Bristol, Dundee and Edinburgh and 4 more. Often billed alongside HUNTRESS, Babyjaii and Rahul.mp3. Next up: The Mash House, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Mash House | Edinburgh |
 | Sat, 19 Dec 2026 | The Marlborough Red Room | Glasgow |
+| Fri, 26 Feb 2027 | Colour Factory | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Miss Cabbage is a techno and bass artist based in United Kingdom, with 88 gigs o
 
 HUNTRESS, Babyjaii, Rahul.mp3
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*

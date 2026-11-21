@@ -1,11 +1,15 @@
 # Lazy.Sunday with Keyvan at Minimal Bar
 
-Lazy.Sunday with Keyvan at Minimal Bar on Sun 22 Nov, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
+Lazy.Sunday with Keyvan at Minimal Bar on Sun 22 Nov, Berlin. 1 artist: Keyvan. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 22 Nov 2026 |
 | Venue | Minimal Bar |
 | City | Berlin |
+
+## Line-up
+
+- Keyvan
 
 *Source: [soundcheck](https://soundcheck.club/e/2538530-lazy-sunday-with-keyvan-at-minimal-bar/)*

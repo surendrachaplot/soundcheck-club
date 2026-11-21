@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+GiGi FM is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
 GiGi FM is a techno and house artist, with 199 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 66 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
@@ -23,6 +23,7 @@ GiGi FM is a techno and house artist, with 199 gigs on soundcheck across Adelaid
 
 ## Recently played
 
+- Magasins Généraux, Paris · Fri, 20 Nov 2026
 - DURO, Milan · Sat, 14 Nov 2026
 - CLUB RAUM, Amsterdam · Fri, 13 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
@@ -30,10 +31,9 @@ GiGi FM is a techno and house artist, with 199 gigs on soundcheck across Adelaid
 - RADION, Amsterdam · Sat, 24 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
-- TBA, Perth · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Altinbas, Polygonia, DVS1
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

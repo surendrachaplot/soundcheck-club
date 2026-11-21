@@ -1,14 +1,13 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "Tausend House: Shabi" on Fri, 20 Nov 2026.
+Tausend is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Tausend House: DJ Werd & Tmnit" on Sat, 21 Nov 2026.
 
-Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Daniel Paul, Flashbaxx, KC Wray and O/Y and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
+Tausend is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Daniel Paul, Flashbaxx, KC Wray and O/Y and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Tausend House: Shabi | Shabi |
 | Sat, 21 Nov 2026 | Tausend House: DJ Werd & Tmnit |  |
 | Wed, 25 Nov 2026 | Tausend Live: O/Y | O/Y |
 | Thu, 26 Nov 2026 | Tausend Electronica: Pilar Jordan | Pilar Jordan |
@@ -19,4 +18,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with l
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

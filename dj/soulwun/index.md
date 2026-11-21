@@ -1,6 +1,6 @@
 # Soul Wun
 
-Soul Wun is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Soul Wun is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Soul Wun is a house and garage artist based in Australia, with 25 gigs on soundcheck across Byron Bay, Ibiza, London and Melbourne and 4 more. Often billed alongside Human Movement, Jennifer Loveless and Mikalah Watego. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -14,6 +14,7 @@ Soul Wun is a house and garage artist based in Australia, with 25 gigs on soundc
 
 ## Recently played
 
+- The Wildlands, Melbourne · Fri, 20 Nov 2026
 - Kiama Skate Park, New-south-wales · Sat, 31 Oct 2026
 - The Night Cat, Melbourne · Sat, 24 Oct 2026
 - Oxford Art Factory, Sydney · Fri, 23 Oct 2026
@@ -21,10 +22,9 @@ Soul Wun is a house and garage artist based in Australia, with 25 gigs on soundc
 - Crate Brewery, London · Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 6 Jul 2026
 - The Jazz Cafe, London · Sat, 13 Jun 2026
-- TBA - Heaps Normal Health Club, Sydney · Sat, 30 May 2026
 
 ## Shares bills with
 
 Human Movement, Jennifer Loveless, Mikalah Watego
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*

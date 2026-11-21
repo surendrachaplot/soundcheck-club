@@ -1,14 +1,13 @@
 # Samantha Loveridge
 
-Samantha Loveridge is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+Samantha Loveridge is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ELECTRIC BAR, Melbourne on Sun, 6 Dec 2026.
 
-Samantha Loveridge is a house and afro house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
+Samantha Loveridge is a house and afro house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: ELECTRIC BAR, Melbourne on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Sun, 6 Dec 2026 | ELECTRIC BAR | Melbourne |
 | Fri, 1 Jan 2027 | 7 Palmer Parade, Cremorne 3121 | Melbourne |
 
@@ -27,4 +26,4 @@ Samantha Loveridge is a house and afro house artist based in United Kingdom, wit
 
 OLIIV, CamelPhat, Gumm
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*

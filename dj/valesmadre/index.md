@@ -1,6 +1,6 @@
 # Vales Madre
 
-Vales Madre is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Chicago on Fri, 4 Dec 2026.
+Vales Madre is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Chicago on Fri, 4 Dec 2026.
 
 Vales Madre is a techno and footwork artist based in United States of America, with 29 gigs on soundcheck across Chicago and Detroit. Often billed alongside Elock, Flores Negras and Initial G. Next up: TBA, Chicago on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Vales Madre is a techno and footwork artist based in United States of America, w
 
 Elock, Flores Negras, Initial G
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valesmadre/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valesmadre/)*

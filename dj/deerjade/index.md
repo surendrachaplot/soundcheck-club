@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Deer Jade is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Deer Jade is a house and techno artist based in Switzerland, with 126 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -16,6 +16,7 @@ Deer Jade is a house and techno artist based in Switzerland, with 126 gigs on so
 
 ## Recently played
 
+- TBA, Buenos Aires · Fri, 20 Nov 2026
 - Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - Ikal Hotel, Tepoztlán, Estado-de-m-xico · Fri, 13 Nov 2026
 - Palace of Fine Arts, San Francisco/Oakland · Sat, 31 Oct 2026
@@ -23,10 +24,9 @@ Deer Jade is a house and techno artist based in Switzerland, with 126 gigs on so
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Crane Hotel Faralda, Amsterdam · Fri, 23 Oct 2026
 - Cova Santa, Ibiza · Fri, 2 Oct 2026
-- YoYo - Palais de Tokyo, Paris · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
