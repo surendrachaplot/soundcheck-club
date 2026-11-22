@@ -1,6 +1,6 @@
 # Wu Zhuoling
 
-Wu Zhuoling is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Loopy, Hangzhou on Fri, 4 Dec 2026.
+Wu Zhuoling is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Loopy, Hangzhou on Fri, 4 Dec 2026.
 
 Wu Zhuoling is an idm and techno artist based in China, with 50 gigs on soundcheck across Beijing, Berlin, Chengdu and Chongqing and 9 more. Often billed alongside Kaishandao, Shao and CTAFAD. Next up: Loopy, Hangzhou on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Wu Zhuoling is an idm and techno artist based in China, with 50 gigs on soundche
 
 Kaishandao, Shao, CTAFAD
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*

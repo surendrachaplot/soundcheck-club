@@ -1,8 +1,8 @@
 # Pancho Piedra
 
-Pancho Piedra is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Carrer de Badajoz, 115, Barcelona on Fri, 18 Dec 2026.
+Pancho Piedra is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Carrer de Badajoz, 115, Barcelona on Fri, 18 Dec 2026.
 
-Pancho Piedra is a house and minimal artist, with 3 gigs on soundcheck across Barcelona and Mexico City. Often billed alongside Lo Stine, Melaa and Moisees. Next up: TBA - Carrer de Badajoz, 115, Barcelona on Fri 18 Dec.
+Pancho Piedra is a house and minimal artist based in Ecuador, with 3 gigs on soundcheck across Barcelona and Mexico City. Often billed alongside Lo Stine, Melaa and Moisees. Next up: TBA - Carrer de Badajoz, 115, Barcelona on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Pancho Piedra is a house and minimal artist, with 3 gigs on soundcheck across Ba
 
 Lo Stine, Melaa, Moisees
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panchopiedra/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panchopiedra/)*

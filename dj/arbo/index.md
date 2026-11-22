@@ -1,19 +1,19 @@
 # Arbo
 
-Arbo is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - NEU SCAB, 4 rue de Mutzig, 67000 Strasbourg, Strasbourg on Sat, 21 Nov 2026.
+Arbo is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Rafiot Club, Strasbourg on Sun, 22 Nov 2026.
 
-Arbo is a techno and ambient artist based in France, with 14 gigs on soundcheck across Lyon and Strasbourg. Often billed alongside FTFL, ANNUN and STU (FR). Next up: TBA - NEU SCAB, 4 rue de Mutzig, 67000 Strasbourg, Strasbourg on Sat 21 Nov.
+Arbo is a techno and ambient artist based in France, with 14 gigs on soundcheck across Lyon and Strasbourg. Often billed alongside FTFL, ANNUN and STU (FR). Next up: Rafiot Club, Strasbourg on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - NEU SCAB, 4 rue de Mutzig, 67000 Strasbourg | Strasbourg |
 | Sun, 22 Nov 2026 | Rafiot Club | Strasbourg |
 | Sat, 28 Nov 2026 | Karmen Camina | Strasbourg |
 
 ## Recently played
 
+- TBA - NEU SCAB, 4 rue de Mutzig, 67000 Strasbourg, Strasbourg · Sat, 21 Nov 2026
 - LE Rafiot Club, Strasbourg · Fri, 2 Oct 2026
 - Groom, Lyon · Fri, 25 Sept 2026
 - KALT, Strasbourg · Sat, 5 Sept 2026
@@ -21,10 +21,9 @@ Arbo is a techno and ambient artist based in France, with 14 gigs on soundcheck 
 - Karmen Camina, Strasbourg · Sun, 21 Jun 2026
 - La Kulture, Strasbourg · Fri, 5 Jun 2026
 - KALT, Strasbourg · Sat, 23 May 2026
-- TBA - The people Hostel, Strasbourg · Sat, 21 Feb 2026
 
 ## Shares bills with
 
 FTFL, ANNUN, STU (FR)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*

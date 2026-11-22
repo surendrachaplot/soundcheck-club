@@ -1,6 +1,6 @@
 # Aidaho
 
-Aidaho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cloud 11, Bangkok on Thu, 31 Dec 2026.
+Aidaho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cloud 11, Bangkok on Thu, 31 Dec 2026.
 
 Aidaho is a techno and house artist based in Malaysia, with 12 gigs on soundcheck across Bangkok, Kuala Lumpur, Seoul and Singapore. Often billed alongside Ashley lau, Alam and Andreas Vural. Next up: Cloud 11, Bangkok on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Aidaho is a techno and house artist based in Malaysia, with 12 gigs on soundchec
 
 Ashley lau, Alam, Andreas Vural
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidaho/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidaho/)*

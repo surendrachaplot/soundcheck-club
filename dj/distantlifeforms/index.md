@@ -1,8 +1,8 @@
 # Distant Lifeforms
 
-Distant Lifeforms is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
+Distant Lifeforms is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
-Distant Lifeforms is a techno and house artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Lifka, Lucinee and Punktmidi. Next up: 119, Berlin on Sat 5 Dec.
+Distant Lifeforms is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Lifka, Lucinee and Punktmidi. Next up: 119, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Distant Lifeforms is a techno and house artist, with 5 gigs on soundcheck across
 
 Lifka, Lucinee, Punktmidi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/distantlifeforms/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/distantlifeforms/)*

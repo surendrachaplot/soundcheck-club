@@ -1,15 +1,13 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Tom and Collins" on Sat, 21 Nov 2026.
+Club Vinyl is a music venue in Denver with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "longstoryshort" on Fri, 4 Dec 2026.
 
-Club Vinyl is a music venue in Denver listed on soundcheck. 12 upcoming gigs. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
+Club Vinyl is a music venue in Denver listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Tom and Collins |  |
-| Sat, 21 Nov 2026 | Mauro Picotto |  |
 | Fri, 4 Dec 2026 | longstoryshort |  |
 | Sat, 12 Dec 2026 | Tsu Nami |  |
 | Sat, 12 Dec 2026 | Alex Wann |  |
@@ -18,9 +16,11 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 12 upcoming gigs. Se
 | Fri, 8 Jan 2027 | Gene Farris |  |
 | Fri, 8 Jan 2027 | A-Trak |  |
 | Sun, 7 Feb 2027 | DHM Takeover - VINYL rooftop |  |
+| Fri, 12 Feb 2027 | Romare |  |
+| Fri, 12 Feb 2027 | TWOFACED |  |
 
 ## Address
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

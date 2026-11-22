@@ -1,6 +1,6 @@
 # Dan Costello
 
-Dan Costello is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at fabric, London on Mon, 28 Dec 2026.
+Dan Costello is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Mon, 28 Dec 2026.
 
 Dan Costello is a tech house and house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Ibiza, London and Mallorca and 2 more. Often billed alongside Mike Morrisey, Luke Welsh and FIFI FORTE. Next up: fabric, London on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Dan Costello is a tech house and house artist based in United Kingdom, with 20 g
 
 Mike Morrisey, Luke Welsh, FIFI FORTE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dancostello/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dancostello/)*

@@ -1,6 +1,6 @@
 # Scott P
 
-Scott P is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Le Café des Marchandises, Nantes on Sat, 19 Dec 2026.
+Scott P is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Café des Marchandises, Nantes on Sat, 19 Dec 2026.
 
 Scott P is a house and deep house artist based in France, with 11 gigs on soundcheck across Lyon, Nantes and Paris. Often billed alongside Alan.D, Camille Doe and Club Devotion. Next up: Le Café des Marchandises, Nantes on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Scott P is a house and deep house artist based in France, with 11 gigs on soundc
 
 Alan.D, Camille Doe, Club Devotion
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottp/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottp/)*

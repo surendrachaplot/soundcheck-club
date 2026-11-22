@@ -1,8 +1,8 @@
 # NYCTO
 
-NYCTO is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
+NYCTO is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
 
-NYCTO is a tech house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Budapest, Gothenburg and Los Angeles and 3 more. Often billed alongside SAAMO, Petra Yelda and Blck-Swan. Next up: Sensorium, Berlin on Wed 25 Nov.
+NYCTO is a tech house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin, Budapest, Gothenburg and Los Angeles and 3 more. Often billed alongside SAAMO, Petra Yelda and Blck-Swan. Next up: Sensorium, Berlin on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NYCTO is a tech house and techno artist based in Germany, with 38 gigs on soundc
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Sensorium | Berlin |
 | Fri, 27 Nov 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 11 Dec 2026 | Rollberg26 | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ NYCTO is a tech house and techno artist based in Germany, with 38 gigs on soundc
 
 SAAMO, Petra Yelda, Blck-Swan
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*

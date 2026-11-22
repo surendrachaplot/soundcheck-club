@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at West Harlem, Kyoto on Sun, 22 Nov 2026.
+Cousin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at West Harlem, Kyoto on Sun, 22 Nov 2026.
 
 Cousin is a techno and house artist based in Australia, with 106 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 28 more. Often billed alongside DJ Fart in the Club, Kia (AU) and D-Grade. Next up: West Harlem, Kyoto on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Cousin is a techno and house artist based in Australia, with 106 gigs on soundch
 
 DJ Fart in the Club, Kia (AU), D-Grade
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

@@ -1,6 +1,6 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Palais, London on Fri, 22 Jan 2027.
+Courtesy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Palais, London on Fri, 22 Jan 2027.
 
 Courtesy is a techno and house artist based in Denmark, with 172 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 52 more. Often billed alongside Byron Yeates, MCR-T and DJ Gigola. Next up: Palais, London on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Courtesy is a techno and house artist based in Denmark, with 172 gigs on soundch
 
 Byron Yeates, MCR-T, DJ Gigola
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

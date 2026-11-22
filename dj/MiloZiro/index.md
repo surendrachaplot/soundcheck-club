@@ -1,6 +1,6 @@
 # Milo Ziro
 
-Milo Ziro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jolene Downtown Miami, Miami on Wed, 30 Dec 2026.
+Milo Ziro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jolene Downtown Miami, Miami on Wed, 30 Dec 2026.
 
 Milo Ziro is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Miami. Often billed alongside Lotusoph, Bort and Berrakka. Next up: Jolene Downtown Miami, Miami on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Milo Ziro is a house and techno artist based in United States of America, with 3
 
 Lotusoph, Bort, Berrakka
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/MiloZiro/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/MiloZiro/)*

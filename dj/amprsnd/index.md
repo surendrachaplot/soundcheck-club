@@ -1,13 +1,14 @@
 # AMPRS&ND
 
-AMPRS&ND is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+AMPRS&ND is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 2 Dec 2026.
 
-AMPRS&ND is a house and tech house artist based in United States of America, with 26 gigs on soundcheck across Chicago, Miami and San Francisco/Oakland. Often billed alongside n808, Syd Gris and Doc Brown. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+AMPRS&ND is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across Chicago, Miami and San Francisco/Oakland. Often billed alongside n808, Syd Gris and Doc Brown. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Dec 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
@@ -26,4 +27,4 @@ AMPRS&ND is a house and tech house artist based in United States of America, wit
 
 n808, Syd Gris, Doc Brown
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amprsnd/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amprsnd/)*

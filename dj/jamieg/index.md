@@ -1,8 +1,8 @@
 # JamieG
 
-JamieG is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Egg London, London on Sun, 27 Dec 2026.
+JamieG is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Egg London, London on Sun, 27 Dec 2026.
 
-JamieG is a jungle and drum & bass artist based in United Kingdom, with 3 gigs on soundcheck across London and Manchester. Often billed alongside Devious D, Nicky Blackmarket and Alex P. Next up: Egg London, London on Sun 27 Dec.
+JamieG is a jungle and drum & bass artist based in United Kingdom, with 3 gigs on soundcheck across London and Manchester. Often billed alongside Nicky Blackmarket, Alex P and Amine Edge. Next up: Egg London, London on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ JamieG is a jungle and drum & bass artist based in United Kingdom, with 3 gigs o
 
 ## Shares bills with
 
-Devious D, Nicky Blackmarket, Alex P
+Nicky Blackmarket, Alex P, Amine Edge
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieg/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieg/)*

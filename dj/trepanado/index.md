@@ -1,19 +1,19 @@
 # Trepanado
 
-Trepanado is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Armazem Solon, Sao Paulo on Sat, 21 Nov 2026.
+Trepanado is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Super7, Lyon on Thu, 26 Nov 2026.
 
-Trepanado is a house and disco artist based in Brazil, with 69 gigs on soundcheck across Amsterdam, Berlin, Brazil and Buenos Aires and 11 more. Often billed alongside Paulete Lindacelva, Leo Janeiro and Zopelar. Next up: Armazem Solon, Sao Paulo on Sat 21 Nov.
+Trepanado is a house and disco artist based in Brazil, with 69 gigs on soundcheck across Amsterdam, Berlin, Brazil and Buenos Aires and 11 more. Often billed alongside Paulete Lindacelva, Leo Janeiro and Zopelar. Next up: Super7, Lyon on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Armazem Solon | Sao Paulo |
 | Thu, 26 Nov 2026 | Super7 | Lyon |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 
 ## Recently played
 
+- Armazem Solon, Sao Paulo · Sat, 21 Nov 2026
 - TBA, Rio-de-janeiro · Fri, 20 Nov 2026
 - TBA - Cine Iris, Rua da Carioca, 49 - Centro, Rio de Janeiro - RJ, 20050-008, Rio de Janeiro · Sat, 14 Nov 2026
 - D-Edge RIO, Rio de Janeiro · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ Trepanado is a house and disco artist based in Brazil, with 69 gigs on soundchec
 - Artlab, Buenos Aires · Sat, 4 Jul 2026
 - Sala Bar, Sao Paulo · Sun, 21 Jun 2026
 - Fatchia, Rio de Janeiro · Sat, 16 May 2026
-- Cais da Imperatriz, Rio de Janeiro · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Paulete Lindacelva, Leo Janeiro, Zopelar
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*

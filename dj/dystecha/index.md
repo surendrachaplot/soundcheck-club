@@ -1,6 +1,6 @@
 # dystecha
 
-dystecha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 288 Green St, Boston on Fri, 15 Jan 2027.
+dystecha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 288 Green St, Boston on Fri, 15 Jan 2027.
 
 dystecha is a techno and electro artist based in United States of America, with 10 gigs on soundcheck across Boston, New York City and Toronto. Often billed alongside Eternal, YULIA (US) and BASSBEAR!!. Next up: 288 Green St, Boston on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ dystecha is a techno and electro artist based in United States of America, with 
 
 Eternal (2), YULIA (US), BASSBEAR!!
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dystecha/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dystecha/)*

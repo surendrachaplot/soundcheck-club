@@ -1,6 +1,6 @@
 # Pacha DJ
 
-Pacha DJ is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
+Pacha DJ is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
 
 Pacha DJ is a bass and club artist based in Mexico, with 40 gigs on soundcheck across Mexico City and New York City. Often billed alongside kyxm, ethereal.mvp and martine. Next up: Hart Bar, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Pacha DJ is a bass and club artist based in Mexico, with 40 gigs on soundcheck a
 
 kyxm, ethereal.mvp, martine (5)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pachadj/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pachadj/)*

@@ -1,18 +1,21 @@
 # Pooyan Saadati
 
-Pooyan Saadati is a Broken Beat and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at The DBA, Manchester on Thu, 19 Nov 2026.
+Pooyan Saadati is a Broken Beat and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Soup, Manchester on Sat, 28 Nov 2026.
 
-Pooyan Saadati is a broken beat and techno artist based in United Kingdom, with 2 gigs on soundcheck across Manchester. Often billed alongside Gatling, Javan and KeepKeep. Next up: The DBA, Manchester on Thu 19 Nov.
+Pooyan Saadati is a broken beat and techno artist based in United Kingdom, with 2 gigs on soundcheck across Manchester. Often billed alongside Gatling, Javan and KeepKeep. Next up: Soup, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | The DBA | Manchester |
 | Sat, 28 Nov 2026 | Soup | Manchester |
+
+## Recently played
+
+- The DBA, Manchester · Thu, 19 Nov 2026
 
 ## Shares bills with
 
 Gatling, Javan, KeepKeep
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pooyansaadati/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pooyansaadati/)*

@@ -1,6 +1,6 @@
 # Kobzev
 
-Kobzev is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
+Kobzev is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
 Kobzev is a techno and house artist based in Ukraine, with 28 gigs on soundcheck across Berlin, Milan, Paris and Prague. Often billed alongside Flight Mode (DE), G.oss and LUISELLE. Next up: 119, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kobzev is a techno and house artist based in Ukraine, with 28 gigs on soundcheck
 
 Flight Mode (DE), G.oss, LUISELLE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobzev/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobzev/)*

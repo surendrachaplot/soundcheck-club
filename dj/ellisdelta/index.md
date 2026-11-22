@@ -1,14 +1,15 @@
 # Ellis Delta
 
-Ellis Delta is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - No Fun - 275 River St, Troy, NY 12180, New-york-state on Sat, 28 Nov 2026.
+Ellis Delta is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - No Fun - 275 River St, Troy, NY 12180, New-york-state on Sat, 28 Nov 2026.
 
-Ellis Delta is a dubstep and bass artist based in United States of America, with 18 gigs on soundcheck across New York State, New York City and Philadelphia. Often billed alongside Melodelic, Visiter and Carney. Next up: TBA - No Fun - 275 River St, Troy, NY 12180, New York State on Sat 28 Nov.
+Ellis Delta is a dubstep and bass artist based in United States of America, with 19 gigs on soundcheck across New York State, New York City and Philadelphia. Often billed alongside Visiter, Melodelic and Mike.Gov. Next up: TBA - No Fun - 275 River St, Troy, NY 12180, New York State on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - No Fun - 275 River St, Troy, NY 12180 | New-york-state |
+| Fri, 11 Dec 2026 | TBA - Attic - 20A Meadow St Brooklyn 2nd Fl | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ellis Delta is a dubstep and bass artist based in United States of America, with
 
 ## Shares bills with
 
-Melodelic, Visiter, Carney
+Visiter, Melodelic, Mike.Gov
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisdelta/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisdelta/)*

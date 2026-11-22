@@ -1,6 +1,6 @@
 # Groovebox
 
-Groovebox is a Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Groovebox is a Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
 Groovebox is a psytrance artist based in Spain, with 6 gigs on soundcheck across Kanto, Osaka and Paris. Often billed alongside PiERO, TimeRoxx and Abyss. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
@@ -12,6 +12,7 @@ Groovebox is a psytrance artist based in Spain, with 6 gigs on soundcheck across
 
 ## Recently played
 
+- Kobu Camp Village, Kanto · Sat, 21 Nov 2026
 - Panic Room, Paris · Fri, 5 Sept 2025
 - Le Papa Cabane, Paris · Fri, 18 Jul 2025
 - Club Under, Osaka · Sat, 15 Feb 2025
@@ -22,4 +23,4 @@ Groovebox is a psytrance artist based in Spain, with 6 gigs on soundcheck across
 
 PiERO, TimeRoxx, Abyss
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebox/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebox/)*

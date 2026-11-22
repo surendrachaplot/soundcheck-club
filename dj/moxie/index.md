@@ -1,14 +1,13 @@
 # Moxie
 
-Moxie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Carpa & Picnic of El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
+Moxie is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Palais, London on Sat, 28 Nov 2026.
 
-Moxie is a house and techno artist based in United Kingdom, with 205 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 59 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Carpa & Picnic of El Poble Espanyol, Barcelona on Sat 21 Nov.
+Moxie is a house and techno artist based in United Kingdom, with 205 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 59 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Palais, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Sat, 28 Nov 2026 | Palais | London |
 | Sat, 12 Dec 2026 | public records | New York City |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
@@ -17,6 +16,7 @@ Moxie is a house and techno artist based in United Kingdom, with 205 gigs on sou
 
 ## Recently played
 
+- Carpa & Picnic of El Poble Espanyol, Barcelona · Sat, 21 Nov 2026
 - Brussels Gate, Brussels · Sat, 31 Oct 2026
 - TBA - Secret Location, London · Thu, 29 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
@@ -24,10 +24,9 @@ Moxie is a house and techno artist based in United Kingdom, with 205 gigs on sou
 - Aviva Studios, Manchester · Sat, 10 Oct 2026
 - Azimut Club, Turin · Sat, 3 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
-- Depot Mayfield, Manchester · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Leon Vynehall, Shanti Celeste, NIKS
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*

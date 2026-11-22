@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long)" on Sat, 21 Nov 2026.
+Cadavra is a music venue in Madrid with 21 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Scuba & Jakka at ANFANG" on Thu, 26 Nov 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including Abdulla A., Angela Grief, Answer Code Request and Aury and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with line-ups including Abdulla A., Angela Grief, Answer Code Request and Aury and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long) | Glossy Mario, Lena Willikens, Vladimir Ivkovic |
 | Thu, 26 Nov 2026 | Scuba & Jakka at ANFANG | Jakka, Scuba |
 | Fri, 27 Nov 2026 | 「lotura」presenta SDH (Semiotics Department of Heteronyms) live + RAWLA live |  |
 | Fri, 27 Nov 2026 | Sigh.CLUB 9TH ANNIVERSARY with Carl Finlow aka Random Factor + Innuendo | Abdulla A., Carl Finlow, Cesc (ES), Innuendo, Javier Moreno, Pohl, Random Factor, Victor Reyes |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with 
 | Sat, 5 Dec 2026 | CDVR with Huerta | Huerta, Luska |
 | Thu, 10 Dec 2026 | ANFANG FAM DAY | Jakka, Nix (1) |
 | Fri, 11 Dec 2026 | Discopatía with Transparent Sound | Aury, Ed Warner, Sindicato Del Baile, Transparent Sound, Valle |
+| Sat, 12 Dec 2026 | HOLLYWOOD with Danielle | Danielle (UK), TWO EX |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

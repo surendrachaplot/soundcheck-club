@@ -1,14 +1,13 @@
 # Grow
 
-Grow is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes" on Sat, 21 Nov 2026.
+Grow is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Discothèque Tropicale 4th Birthday: JOSH FB, Caldo Verde, Beavs, Lena C, Fred Salt," on Fri, 27 Nov 2026.
 
-Grow is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alfie Panaiotis, Beavs, Charlie Dark and CSGRV and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alfie Panaiotis, Beavs, Charlie Dark and CSGRV and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes | Tina Edwards |
 | Fri, 27 Nov 2026 | Discothèque Tropicale 4th Birthday: JOSH FB, Caldo Verde, Beavs, Lena C, Fred Salt, | Beavs, JOSH FB, Léna C |
 | Sat, 28 Nov 2026 | DeepDig: MarshmeLLo (NTS) // Kanem | Kanem, MarshmeLLo |
 | Sun, 29 Nov 2026 | Fresh Beats by London School of Electronic Music |  |
@@ -21,4 +20,4 @@ Grow is a music venue in London listed on soundcheck. 8 upcoming gigs, with line
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

@@ -1,6 +1,6 @@
 # Sustance
 
-Sustance is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
+Sustance is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
 
 Sustance is a drum & bass and jungle artist based in United Kingdom, with 51 gigs on soundcheck across Atlanta, Auckland, Beijing and Berlin and 21 more. Often billed alongside Monrroe, GLXY and Duskee. Next up: fabric, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Sustance is a drum & bass and jungle artist based in United Kingdom, with 51 gig
 
 Monrroe, GLXY, Duskee
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sustance/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sustance/)*

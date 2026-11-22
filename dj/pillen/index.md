@@ -1,6 +1,6 @@
 # Pillen
 
-Pillen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cadavra, Madrid on Sat, 19 Dec 2026.
+Pillen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cadavra, Madrid on Sat, 19 Dec 2026.
 
 Pillen is a techno and electronica artist based in Spain, with 27 gigs on soundcheck across Barcelona, Madrid, Milan and Tokyo. Often billed alongside Gancho, John Garcia and Kimho. Next up: Cadavra, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Pillen is a techno and electronica artist based in Spain, with 27 gigs on soundc
 
 Gancho, John Garcia, Kimho
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillen/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillen/)*

@@ -1,6 +1,6 @@
 # Daniel Ocean [LT]
 
-Daniel Ocean [LT] is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kongresai, Vilnius on Sat, 5 Dec 2026.
+Daniel Ocean [LT] is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kongresai, Vilnius on Sat, 5 Dec 2026.
 
 Daniel Ocean [LT] is a house and disco artist, with 7 gigs on soundcheck across Vilnius. Often billed alongside HADES (LT), Jogaila and Black Feeling. Next up: Kongresai, Vilnius on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Daniel Ocean [LT] is a house and disco artist, with 7 gigs on soundcheck across 
 
 HADES (LT), Jogaila, Black Feeling
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieloceanlt/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieloceanlt/)*

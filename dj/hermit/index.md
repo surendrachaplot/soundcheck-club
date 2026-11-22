@@ -1,19 +1,19 @@
 # Hermit
 
-Hermit is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
+Hermit is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
-Hermit is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona, Ljubljana, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and MC Secret Agent. Next up: UNLOCKED, London on Sat 21 Nov.
+Hermit is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona, Ljubljana, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and MC Secret Agent. Next up: The City Pride, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | UNLOCKED | London |
 | Sat, 5 Dec 2026 | The City Pride | London |
 | Sat, 26 Dec 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
+- UNLOCKED, London · Sat, 21 Nov 2026
 - Upper East, London · Sat, 12 Sept 2026
 - Basing House, London · Sat, 12 Sept 2026
 - TBA - Oaza Preske, Marijina vas 30a, 3273 Jurklošter, Ljubljana · Fri, 4 Sept 2026
@@ -21,10 +21,9 @@ Hermit is a house and garage artist based in United Kingdom, with 18 gigs on sou
 - Basing House, London · Sat, 15 Aug 2026
 - The White Swan, London · Sat, 27 Jun 2026
 - Rolling Stock, London · Sat, 30 May 2026
-- Planet Wax, London · Sat, 30 May 2026
 
 ## Shares bills with
 
 Daniel Ward, DJ Listener, MC Secret Agent
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*

@@ -1,6 +1,6 @@
 # Emi Ömar
 
-Emi Ömar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 19 Dec 2026.
+Emi Ömar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 19 Dec 2026.
 
 Emi Ömar is a house and electro artist based in France, with 32 gigs on soundcheck across Barcelona, Bergen, Berlin and Bordeaux and 9 more. Often billed alongside IAMBP, Adrien Calvet and Jeff The Fool. Next up: La Rotonde Stalingrad, Paris on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Emi Ömar is a house and electro artist based in France, with 32 gigs on soundch
 
 IAMBP, Adrien Calvet, Jeff The Fool
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiomar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiomar/)*

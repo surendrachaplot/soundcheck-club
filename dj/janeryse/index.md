@@ -1,6 +1,6 @@
 # JANE RYSE
 
-JANE RYSE is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
+JANE RYSE is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
 
 JANE RYSE is a house and afro house artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 12 more. Often billed alongside Hyenah, Walter Griot and Ukãi Ndame. Next up: KOKO, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ JANE RYSE is a house and afro house artist based in Germany, with 55 gigs on sou
 
 Hyenah, Walter Griot, Ukãi Ndame
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*

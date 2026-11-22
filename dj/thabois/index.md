@@ -1,6 +1,6 @@
 # Tha Bois
 
-Tha Bois is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
+Tha Bois is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
 
 Tha Bois is a house and techno artist, with 23 gigs on soundcheck across New York City. Often billed alongside Hovy, SHEZUS THRICE and 444. Next up: Paragon, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Tha Bois is a house and techno artist, with 23 gigs on soundcheck across New Yor
 
 Hovy, SHEZUS THRICE, 444 (1)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thabois/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thabois/)*

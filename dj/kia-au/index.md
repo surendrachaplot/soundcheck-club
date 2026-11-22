@@ -1,14 +1,13 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Kia (AU) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
 
-Kia (AU) is a techno and house artist based in Australia, with 230 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 62 more. Often billed alongside Reptant, Bitter Babe and Moopie. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Kia (AU) is a techno and house artist based in Australia, with 230 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 62 more. Often billed alongside Reptant, Bitter Babe and Moopie. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Fri, 4 Dec 2026 | Final | Taipei |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
@@ -30,4 +29,4 @@ Kia (AU) is a techno and house artist based in Australia, with 230 gigs on sound
 
 Reptant, Bitter Babe, Moopie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

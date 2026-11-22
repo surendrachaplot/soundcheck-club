@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Alican" on Sat, 21 Nov 2026.
+Kastel is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Volkan Gunduz" on Fri, 27 Nov 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including AEREA, Alican, Dixon and FAITH and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including AEREA, Dixon, FAITH and Juan Hansen and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Alican | Alican |
 | Fri, 27 Nov 2026 | Volkan Gunduz | FAITH, Manendria, Volkan Gunduz |
 | Sat, 28 Nov 2026 | MODUNDAYIZ PRESENTS:  Dixon / 20 YEARS OF Beatgate - Kastel | Dixon, Volkan Gunduz |
 | Fri, 11 Dec 2026 | Township Rebellion | Township Rebellion |
@@ -20,4 +19,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

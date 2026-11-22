@@ -1,15 +1,13 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Franky Rizardo is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Stereo, Montreal on Fri, 27 Nov 2026.
 
-Franky Rizardo is a house and tech house artist based in Netherlands, with 270 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 58 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+Franky Rizardo is a house and tech house artist based in Netherlands, with 270 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 58 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Stereo, Montreal on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 27 Nov 2026 | Stereo | Montreal |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -34,4 +32,4 @@ Franky Rizardo is a house and tech house artist based in Netherlands, with 270 g
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

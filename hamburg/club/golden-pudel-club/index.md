@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Chop Shop x Prude" on Sat, 21 Nov 2026.
+Golden Pudel Club is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "NITE OF THE TRILL / Opti Mane (live), AlphaMob & Co." on Sun, 22 Nov 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, with line-ups including 0megavybe, Alas, Alphamob and beccs and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including 0megavybe, Alas, Alphamob and beccs and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Chop Shop x Prude | DJ Frank, KLARYOKO, Maruhni, Philo_, paaradoxx |
 | Sun, 22 Nov 2026 | NITE OF THE TRILL / Opti Mane (live), AlphaMob & Co. | Alphamob, Unfug Abla |
 | Wed, 25 Nov 2026 | Afrotonic |  |
 | Thu, 26 Nov 2026 | rrauswurf w/ MLE b2b Wendy, Ilja Franz & DJ Hochzeit | Wendy (DE) |
@@ -18,9 +17,10 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming 
 | Thu, 3 Dec 2026 | Good Planets (are hard 2 find) with DJ Heartbreak & Naomi | DJ Dreams, Dj Heartbreak, Hufnagel, Naomi (Berlin) |
 | Sat, 5 Dec 2026 | GOME + The Gang with Doppelgang | Doppelgang, GOME |
 | Thu, 10 Dec 2026 | GIRLSARETHEREALPLAYERS with 0megavybe | 0megavybe, DJ Babyblade, Sarah Q, beccs |
+| Thu, 17 Dec 2026 | VERTIGO w/ Hello Sasy, Alas, yamyam, TTX | Alas (2), Hello Sasy, TTX (GER), yamyam |
 
 ## Address
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

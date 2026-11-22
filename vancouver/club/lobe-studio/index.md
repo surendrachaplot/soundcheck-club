@@ -1,6 +1,6 @@
 # Lobe Studio
 
-Lobe Studio is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Dolby Atmos Mix x PitchblackPlayback: Phil Collins – 'Face Value' (Early Show)" on Sun, 22 Nov 2026.
+Lobe Studio is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Dolby Atmos Mix x PitchblackPlayback: Phil Collins – 'Face Value' (Early Show)" on Sun, 22 Nov 2026.
 
 Lobe Studio is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Bobby Myseh. See dates, start times and who's playing. 713 East Hastings Street.
 
@@ -16,4 +16,4 @@ Lobe Studio is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs,
 
 713 East Hastings Street, Vancouver
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/lobe-studio/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/lobe-studio/)*

@@ -1,14 +1,13 @@
 # Thomas Schumacher
 
-Thomas Schumacher is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 21 Nov 2026.
+Thomas Schumacher is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Clubroom, Thuringia on Sat, 28 Nov 2026.
 
-Thomas Schumacher is a techno and house artist based in Germany, with 118 gigs on soundcheck across Adelaide, Amsterdam, Augsburg and Baden W Rttemberg and 47 more. Often billed alongside Anna Reusch, A.D.H.S. and Alex Stein. Next up: Soku Neustadt, Rhineland Palatinate on Sat 21 Nov.
+Thomas Schumacher is a techno and house artist based in Germany, with 118 gigs on soundcheck across Adelaide, Amsterdam, Augsburg and Baden W Rttemberg and 47 more. Often billed alongside Anna Reusch, A.D.H.S. and Alex Stein. Next up: Clubroom, Thuringia on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Soku Neustadt | Rhineland-palatinate |
 | Sat, 28 Nov 2026 | Clubroom | Thuringia |
 | Fri, 4 Dec 2026 | Parktheater Kempten | Bavaria |
 | Sat, 19 Dec 2026 | Karree | Baden-w-rttemberg |
@@ -21,6 +20,7 @@ Thomas Schumacher is a techno and house artist based in Germany, with 118 gigs o
 
 ## Recently played
 
+- Soku Neustadt, Rhineland-palatinate · Sat, 21 Nov 2026
 - Carousel Bar & Ballroom, Sydney · Fri, 13 Nov 2026
 - Graf Karl, Kassel · Sat, 31 Oct 2026
 - Strasse E, Dresden · Sat, 31 Oct 2026
@@ -28,10 +28,9 @@ Thomas Schumacher is a techno and house artist based in Germany, with 118 gigs o
 - Kesselhaus Augsburg, Augsburg · Sat, 10 Oct 2026
 - Schrotty, Cologne · Sat, 19 Sept 2026
 - H1 Club and Lounge, Hamburg · Fri, 18 Sept 2026
-- WDM, Hannover · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Anna Reusch, A.D.H.S., Alex Stein
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*

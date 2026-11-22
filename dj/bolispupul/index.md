@@ -1,6 +1,6 @@
 # Bolis Pupul
 
-Bolis Pupul is a Pop and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Trix, Antwerp on Fri, 12 Feb 2027.
+Bolis Pupul is a Pop and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Trix, Antwerp on Fri, 12 Feb 2027.
 
 Bolis Pupul is a pop and disco artist based in China, with 40 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Charlotte Adigéry, 2ManyDJs and Honey Dijon. Next up: Trix, Antwerp on Fri 12 Feb.
 
@@ -27,4 +27,4 @@ Bolis Pupul is a pop and disco artist based in China, with 40 gigs on soundcheck
 
 Charlotte Adigéry, 2ManyDJs, Honey Dijon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bolispupul/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bolispupul/)*

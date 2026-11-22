@@ -1,6 +1,6 @@
 # DJHoliday
 
-DJHoliday is a Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 30 Nov 2026.
+DJHoliday is a Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 30 Nov 2026.
 
 DJHoliday is a club artist based in United States of America, with 2 gigs on soundcheck across New York City. Often billed alongside BASSBEAR!!, BEYBLADE SHAWTY and BOJAQ. Next up: Bossa Nova Civic Club, New York City on Mon 30 Nov.
 
@@ -18,4 +18,4 @@ DJHoliday is a club artist based in United States of America, with 2 gigs on sou
 
 BASSBEAR!!, BEYBLADE SHAWTY, BOJAQ
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholiday-us/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholiday-us/)*

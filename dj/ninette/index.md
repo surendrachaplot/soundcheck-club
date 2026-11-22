@@ -1,14 +1,15 @@
 # Ninette
 
-Ninette is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Transit, Chemnitz on Sat, 5 Dec 2026.
+Ninette is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Transit, Chemnitz on Sat, 5 Dec 2026.
 
-Ninette is a techno and industrial artist based in Germany, with 46 gigs on soundcheck across Antwerp, Basel, Berlin and Brussels and 8 more. Often billed alongside Bela Bertram, Kim Valmount and SubkoØne. Next up: Transit, Chemnitz on Sat 5 Dec.
+Ninette is a techno and industrial artist based in Germany, with 47 gigs on soundcheck across Antwerp, Basel, Berlin and Brussels and 8 more. Often billed alongside Bela Bertram, SubkoØne and BIGALKE. Next up: Transit, Chemnitz on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Transit | Chemnitz |
+| Thu, 31 Dec 2026 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ninette is a techno and industrial artist based in Germany, with 46 gigs on soun
 
 ## Shares bills with
 
-Bela Bertram, Kim Valmount, SubkoØne
+Bela Bertram, SubkoØne, BIGALKE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninette/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninette/)*

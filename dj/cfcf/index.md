@@ -1,6 +1,6 @@
 # CFCF
 
-CFCF is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sleeping Village, Chicago on Thu, 31 Dec 2026.
+CFCF is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sleeping Village, Chicago on Thu, 31 Dec 2026.
 
 CFCF is a house and electro artist based in Canada, with 31 gigs on soundcheck across Austin, Chicago, Los Angeles and Montreal and 9 more. Often billed alongside Doss, Bianca Lexis and Franxx. Next up: Sleeping Village, Chicago on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ CFCF is a house and electro artist based in Canada, with 31 gigs on soundcheck a
 
 Doss, Bianca Lexis, Franxx
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*

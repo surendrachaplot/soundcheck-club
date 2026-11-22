@@ -1,6 +1,6 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Logan D is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Logan D is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 11 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -9,7 +9,6 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, with 55 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
-| Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | Lab11 | Birmingham |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Fri, 4 Dec 2026 | THÊ Depø Venue | West-wales |
@@ -20,6 +19,7 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, with 55 gigs
 
 ## Recently played
 
+- Warehouse Elementenstraat, Amsterdam · Sat, 21 Nov 2026
 - TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam · Fri, 20 Nov 2026
 - The Cambridge Junction, South-east · Sat, 31 Oct 2026
 - Concorde 2, Brighton · Sat, 31 Oct 2026
@@ -27,10 +27,9 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, with 55 gigs
 - Eutopia Whs, London · Sat, 5 Sept 2026
 - Planet Wax, London · Thu, 3 Sept 2026
 - Antwerp Expo, Antwerp · Sat, 22 Aug 2026
-- Boston Manor Park, London · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Eksman, Harry Shotta, Majistrate
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*

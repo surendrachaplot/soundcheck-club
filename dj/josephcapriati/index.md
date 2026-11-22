@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
+Joseph Capriati is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
 
 Joseph Capriati is a techno and house artist based in Italy, with 247 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Jamie Jones, Indira Paganotto and Seth Troxler. Next up: WOMB, Tokyo on Sun 22 Nov.
 
@@ -34,4 +34,4 @@ Joseph Capriati is a techno and house artist based in Italy, with 247 gigs on so
 
 Jamie Jones, Indira Paganotto, Seth Troxler
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

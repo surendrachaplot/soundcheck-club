@@ -1,15 +1,14 @@
 # Forge
 
-Forge is a music venue in Bucharest with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ASHX : First Transmission - ISABELA CLERC" on Sat, 21 Nov 2026.
+Forge is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ROOM:010 with Carla Schmitt - GROOVE BOUNCE TECHNO" on Sat, 12 Dec 2026.
 
-Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming gigs, with line-ups including _calin_, Audiomatica Industries, Carla Schmitt and DA NA and 2 more. See dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
+Forge is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including _calin_, Audiomatica Industries, Carla Schmitt and ESME and 2 more. See dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ASHX : First Transmission - ISABELA CLERC | DA NA, GODINI, K-MEL, KØMI, MU/SA |
-| Sat, 12 Dec 2026 | ROOM:010 with Carla Schmitt - GROOVE TECHNO | Carla Schmitt, ESME, FAUST (1) |
+| Sat, 12 Dec 2026 | ROOM:010 with Carla Schmitt - GROOVE BOUNCE TECHNO | Carla Schmitt, ESME, FAUST (1) |
 | Fri, 18 Dec 2026 | Extrawelt (Live), Audiomatica Industries (Live), Călin, OvE - LOOP BRE∆KER #5 | Audiomatica Industries, Extrawelt, OvE (1), _calin_ |
 | Fri, 8 Jan 2027 | PsyKronic |  |
 | Fri, 22 Jan 2027 | ALPHA SPECTRUM: LEVEL 06 - THE ELIXIR | Neotroxian, Project Morpheus |
@@ -18,4 +17,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming gigs, with 
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

@@ -1,6 +1,6 @@
 # BRUX (Aus)
 
-BRUX (Aus) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
+BRUX (Aus) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
 
 BRUX (Aus) is a bass and electronica artist based in Australia, with 13 gigs on soundcheck across Denver, London, Los Angeles and New York City and 4 more. Often billed alongside ACHAMA, Audem and Badbadnotgood. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ BRUX (Aus) is a bass and electronica artist based in Australia, with 13 gigs on 
 
 ACHAMA, Audem, Badbadnotgood
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*

@@ -1,6 +1,6 @@
 # Nick Holder
 
-Nick Holder is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Revival, Toronto on Sat, 12 Dec 2026.
+Nick Holder is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Revival, Toronto on Sat, 12 Dec 2026.
 
 Nick Holder is a house and deep house artist based in Canada, with 29 gigs on soundcheck across Lyon, San Francisco/Oakland, Seattle and Toronto. Often billed alongside Tyrone Solomon, Jason Palma and Trackheadz. Next up: Revival, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Nick Holder is a house and deep house artist based in Canada, with 29 gigs on so
 
 Tyrone Solomon, Jason Palma, Trackheadz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickholder/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickholder/)*

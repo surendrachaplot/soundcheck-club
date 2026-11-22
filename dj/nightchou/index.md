@@ -1,13 +1,14 @@
 # Nightchou
 
-Nightchou is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pamela Club, Paris on Fri, 4 Dec 2026.
+Nightchou is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Pamela Club, Paris on Fri, 4 Dec 2026.
 
-Nightchou is a house and disco artist based in France, with 51 gigs on soundcheck across Milan, Nantes and Paris. Often billed alongside Romain Dafalgang, Adri and Arp Frique. Next up: Pamela Club, Paris on Fri 4 Dec.
+Nightchou is a house and disco artist based in France, with 52 gigs on soundcheck across Milan, Nantes and Paris. Often billed alongside Romain Dafalgang, Jim Nights and Adri. Next up: Pamela Club, Paris on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Pamela Club | Paris |
 | Fri, 4 Dec 2026 | Pamela Club | Paris |
 
 ## Recently played
@@ -23,6 +24,6 @@ Nightchou is a house and disco artist based in France, with 51 gigs on soundchec
 
 ## Shares bills with
 
-Romain Dafalgang, Adri, Arp Frique
+Romain Dafalgang, Jim Nights, Adri
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*

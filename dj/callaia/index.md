@@ -1,6 +1,6 @@
 # Callaia
 
-Callaia is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 19 Dec 2026.
+Callaia is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 19 Dec 2026.
 
 Callaia is a club and electronica artist based in United States of America, with 3 gigs on soundcheck across Philadelphia. Often billed alongside America Loves Me, Doll.Redacted and diy.ffs. Next up: Val’s Lesbian Bar, Philadelphia on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ Callaia is a club and electronica artist based in United States of America, with
 
 America Loves Me, Doll.Redacted, diy.ffs
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callaia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callaia/)*

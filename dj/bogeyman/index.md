@@ -1,6 +1,6 @@
 # Bogeyman
 
-Bogeyman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Bogeyman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Bogeyman is a house and disco artist based in Sweden, with 4 gigs on soundcheck across Stockholm. Often billed alongside Silja Ellis, Antony Szmierek and Bella Sarris. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Bogeyman is a house and disco artist based in Sweden, with 4 gigs on soundcheck 
 
 Silja Ellis, Antony Szmierek, Bella Sarris
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bogeyman/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bogeyman/)*

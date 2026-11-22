@@ -1,6 +1,6 @@
 # DJ Chad
 
-DJ Chad is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sprat, Belgrade on Fri, 27 Nov 2026.
+DJ Chad is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sprat, Belgrade on Fri, 27 Nov 2026.
 
 DJ Chad is a footwork and ghetto tech artist based in United States of America, with 12 gigs on soundcheck across Belgrade, Berlin, Chicago and Detroit and 3 more. Often billed alongside Traxman, DJ Manny and DJ Paypal. Next up: Sprat, Belgrade on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Chad is a footwork and ghetto tech artist based in United States of America, 
 
 Traxman, DJ Manny, DJ Paypal
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchad/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchad/)*

@@ -1,8 +1,8 @@
 # Sanshiro (Deep Dance Music Page)
 
-Sanshiro (Deep Dance Music Page) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
+Sanshiro (Deep Dance Music Page) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
 
-Sanshiro (Deep Dance Music Page) is a house and disco artist, with 3 gigs on soundcheck across Tokyo. Often billed alongside Al Jones, Aoi Kurihara and DJ246. Next up: Tengu Shokudo, Tokyo on Fri 4 Dec.
+Sanshiro (Deep Dance Music Page) is a house and disco artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside Al Jones, Aoi Kurihara and DJ246. Next up: Tengu Shokudo, Tokyo on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Sanshiro (Deep Dance Music Page) is a house and disco artist, with 3 gigs on sou
 
 Al Jones, Aoi Kurihara, DJ246
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanshirodeepdancemusicpage/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanshirodeepdancemusicpage/)*

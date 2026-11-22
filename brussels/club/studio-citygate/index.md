@@ -1,6 +1,6 @@
 # Studio Citygate
 
-Studio Citygate is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Gay Haze & Spek (24h) at Listen Festival 2026" on Sat, 21 Nov 2026.
+Studio Citygate is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Gay Haze & Spek (24h) at Listen Festival 2026" on Sat, 21 Nov 2026.
 
 Studio Citygate is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including acidheaven, Adi (CO), Angel D'lite and BISOUX and 2 more. See dates, start times and who's playing. Rue des Goujons 152, 1070 Anderlecht, Belgium.
 
@@ -15,4 +15,4 @@ Studio Citygate is a music venue in Brussels listed on soundcheck. 2 upcoming gi
 
 Rue des Goujons 152, 1070 Anderlecht, Belgium, Brussels
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/studio-citygate/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/studio-citygate/)*

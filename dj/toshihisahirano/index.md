@@ -1,6 +1,6 @@
 # TOSHIHISA HIRANO
 
-TOSHIHISA HIRANO is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ZUBAR, Tokyo on Sun, 22 Nov 2026.
+TOSHIHISA HIRANO is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ZUBAR, Tokyo on Sun, 22 Nov 2026.
 
 TOSHIHISA HIRANO is a techno and experimental artist based in Japan, with 59 gigs on soundcheck across Tokyo. Often billed alongside Eda, Franzo Kolms and Oshi. Next up: ZUBAR, Tokyo on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ TOSHIHISA HIRANO is a techno and experimental artist based in Japan, with 59 gig
 
 Eda, Franzo Kolms, Oshi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toshihisahirano/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toshihisahirano/)*

@@ -1,6 +1,6 @@
 # TDJ
 
-TDJ is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Studio Freedom, Tokyo on Sat, 5 Dec 2026.
+TDJ is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Studio Freedom, Tokyo on Sat, 5 Dec 2026.
 
 TDJ is a trance and techno artist based in Canada, with 157 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Cult Member, Zorza and MCR-T. Next up: Studio Freedom, Tokyo on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ TDJ is a trance and techno artist based in Canada, with 157 gigs on soundcheck a
 
 Cult Member, Zorza, MCR-T
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*

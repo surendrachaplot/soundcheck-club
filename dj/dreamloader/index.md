@@ -1,14 +1,15 @@
 # dreamloader
 
-dreamloader is a Gabber and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Brixton Jamm, London on Thu, 17 Dec 2026.
+dreamloader is a Gabber and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Brixton Jamm, London on Thu, 17 Dec 2026.
 
-dreamloader is a gabber and breakcore artist based in Sweden, with 9 gigs on soundcheck across Birmingham, London, Manchester and Stockholm and 2 more. Often billed alongside beansclub, LUNAx3 and AC (dot robot). Next up: Brixton Jamm, London on Thu 17 Dec.
+dreamloader is a gabber and breakcore artist based in Sweden, with 10 gigs on soundcheck across Birmingham, London, Manchester and Stockholm and 2 more. Often billed alongside beansclub, LUNAx3 and AC (dot robot). Next up: Brixton Jamm, London on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Dec 2026 | Brixton Jamm | London |
+| Fri, 18 Dec 2026 | Piehouse Coop | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ dreamloader is a gabber and breakcore artist based in Sweden, with 9 gigs on sou
 
 beansclub, LUNAx3, AC (dot robot)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamloader/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamloader/)*

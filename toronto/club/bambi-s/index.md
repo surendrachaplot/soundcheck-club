@@ -1,14 +1,13 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "UNFOLD: Malik Abdul-Rahmaan" on Sat, 21 Nov 2026.
+Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Critter b2b KATARAMA all night" on Fri, 27 Nov 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Basic Soul Unit, Cal C (Modern Art), Carlos Estebban and Cosmic JD and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Cal C (Modern Art), Carlos Estebban, Cosmic JD and Critter and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | UNFOLD: Malik Abdul-Rahmaan | Basic Soul Unit, HXF (JEEP MIX) |
 | Fri, 27 Nov 2026 | Critter b2b KATARAMA all night | Critter, KATARAMA |
 | Sat, 28 Nov 2026 | Bubble Trouble with Milch | Lily (JP), Milch (1), Sakiko Nagai |
 | Fri, 4 Dec 2026 | IOU presents Tammy Lakkis (Detroit) - 4AM LAST CALL | Moon King, Rabzi, Tammy Lakkis |
@@ -22,4 +21,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with 
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

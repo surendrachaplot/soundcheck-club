@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 21 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "NEELIX pres. by NIBIRII" on Fri, 27 Nov 2026.
+Bootshaus is a music venue in Cologne with 21 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "NEELIX pres. by NIBIRII" on Fri, 27 Nov 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 21 upcoming gigs, with line-ups including Against All Ødds, AVANT, Badlokk and Baset and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 21 upcoming gigs, wi
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

@@ -1,14 +1,13 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Raresh is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
-Raresh is a house and minimal artist based in Romania, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
+Raresh is a house and minimal artist based in Romania, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Mia Mao, Paris on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Fri, 4 Dec 2026 | NEU | Stockholm |
 | Sat, 5 Dec 2026 | Baggen | Copenhagen |
@@ -20,6 +19,7 @@ Raresh is a house and minimal artist based in Romania, with 219 gigs on soundche
 
 ## Recently played
 
+- TBA - Lurín live / Lima, Perú., Peru · Sat, 21 Nov 2026
 - Parque de los Gasometros, Santiago · Sat, 14 Nov 2026
 - FOLD, London · Fri, 30 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
@@ -27,10 +27,9 @@ Raresh is a house and minimal artist based in Romania, with 219 gigs on soundche
 - Club Guesthouse, Bucharest · Sat, 17 Oct 2026
 - Pandora Sevilla, South · Sat, 10 Oct 2026
 - Ministerium Club, Lisbon · Fri, 9 Oct 2026
-- Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

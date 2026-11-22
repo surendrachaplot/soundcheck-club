@@ -1,19 +1,19 @@
 # Xiumei
 
-Xiumei is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Frankie’s, Vancouver on Sat, 21 Nov 2026.
+Xiumei is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Private Location, Vancouver on Fri, 11 Dec 2026.
 
-Xiumei is a techno and bass artist based in Canada, with 26 gigs on soundcheck across Montreal, Taipei and Vancouver. Often billed alongside Bronsön, EtOH and IHA (CA). Next up: Frankie’s, Vancouver on Sat 21 Nov.
+Xiumei is a techno and bass artist based in Canada, with 26 gigs on soundcheck across Montreal, Taipei and Vancouver. Often billed alongside Bronsön, EtOH and IHA (CA). Next up: TBA - Private Location, Vancouver on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Frankie’s | Vancouver |
 | Fri, 11 Dec 2026 | TBA - Private Location | Vancouver |
 | Sat, 19 Dec 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played
 
+- Frankie’s, Vancouver · Sat, 21 Nov 2026
 - TBA, Vancouver · Fri, 13 Nov 2026
 - TBA, Vancouver · Sat, 3 Oct 2026
 - Vancouver Art Gallery, Vancouver · Sun, 6 Sept 2026
@@ -21,10 +21,9 @@ Xiumei is a techno and bass artist based in Canada, with 26 gigs on soundcheck a
 - TBA, Vancouver · Fri, 22 May 2026
 - TBA - East Vancouver, Vancouver · Fri, 8 May 2026
 - TBA, Vancouver · Sat, 11 Apr 2026
-- TBA, Vancouver · Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Bronsön, EtOH, IHA (CA)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*

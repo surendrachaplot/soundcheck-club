@@ -1,6 +1,6 @@
 # Xywav
 
-Xywav is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Galaxy Bar, Christchurch on Fri, 11 Dec 2026.
+Xywav is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Galaxy Bar, Christchurch on Fri, 11 Dec 2026.
 
 Xywav is a techno and electro artist based in New Zealand, with 3 gigs on soundcheck across Auckland and Christchurch. Often billed alongside The Rat, Cellphii and Clay Louis. Next up: Galaxy Bar, Christchurch on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Xywav is a techno and electro artist based in New Zealand, with 3 gigs on soundc
 
 The Rat, Cellphii, Clay Louis
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xywav/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xywav/)*

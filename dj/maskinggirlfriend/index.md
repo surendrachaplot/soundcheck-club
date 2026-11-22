@@ -1,8 +1,8 @@
 # masking girlfriend
 
-masking girlfriend is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Chausseestrasse 131, Berlin on Sun, 20 Dec 2026.
+masking girlfriend is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Chausseestrasse 131, Berlin on Sun, 20 Dec 2026.
 
-masking girlfriend is an experimental and electronica artist, with 4 gigs on soundcheck across Berlin and London. Often billed alongside Fake City Quiet Pills, Ratchet Racer and pobrediabla. Next up: Chausseestrasse 131, Berlin on Sun 20 Dec.
+masking girlfriend is an experimental and electronica artist based in Spain, with 4 gigs on soundcheck across Berlin and London. Often billed alongside Fake City Quiet Pills, Ratchet Racer and pobrediabla. Next up: Chausseestrasse 131, Berlin on Sun 20 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ masking girlfriend is an experimental and electronica artist, with 4 gigs on sou
 
 Fake City Quiet Pills, Ratchet Racer, pobrediabla
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maskinggirlfriend/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maskinggirlfriend/)*

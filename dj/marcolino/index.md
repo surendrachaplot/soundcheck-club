@@ -1,6 +1,6 @@
 # Marcolino
 
-Marcolino is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+Marcolino is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 Marcolino is a techno and electro artist based in Italy, with 95 gigs on soundcheck across Barcelona, Berlin, Bologna and Bucharest and 10 more. Often billed alongside GNMR, IRIDE and Giammarco Orsini. Next up: TBA, Rome on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Marcolino is a techno and electro artist based in Italy, with 95 gigs on soundch
 
 GNMR, IRIDE, Giammarco Orsini
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*

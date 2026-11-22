@@ -1,14 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Ten Billion Dubz Version Control Release Tour 2026" on Sat, 21 Nov 2026.
+West Harlem is a music venue in Kyoto with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Interzone feat. Cousin" on Sun, 22 Nov 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 10 upcoming gigs, with line-ups including Akie, Aspara, BIG MATSUMURA and CITY1 and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming gigs, with line-ups including Akie, Aspara, BIG MATSUMURA and Cousin and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Ten Billion Dubz Version Control Release Tour 2026 | CITY1, Squarewave, ykah |
 | Sun, 22 Nov 2026 | Interzone feat. Cousin | Akie, Cousin, Ryogo |
 | Mon, 23 Nov 2026 | podo | ish (JP), kotakunisaki, nap(JP) |
 | Wed, 25 Nov 2026 | citta | kotakunisaki, sak (4) |
@@ -23,4 +22,4 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 10 upcoming gigs, wi
 
 Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002, Kyoto
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*

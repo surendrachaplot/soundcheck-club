@@ -1,6 +1,6 @@
 # Dj Deep RH
 
-Dj Deep RH is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
+Dj Deep RH is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
 
 Dj Deep RH is an electronic artist based in Venezuela, with 13 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Dj Babatr, Ruiseñor and Nico Adomako. Next up: Razzmatazz, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Dj Deep RH is an electronic artist based in Venezuela, with 13 gigs on soundchec
 
 Dj Babatr, Ruiseñor, Nico Adomako
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeeprh/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeeprh/)*

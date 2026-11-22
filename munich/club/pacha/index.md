@@ -1,14 +1,13 @@
 # Pacha
 
-Pacha is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Saturday with Juno, MP3, Alma Hosch" on Sat, 21 Nov 2026.
+Pacha is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "FreitagNacht x Rave on Snow" on Fri, 27 Nov 2026.
 
-Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Carlos Martinez, Dany Gómez, Domenic D'Agnelli and JUNO (DE) and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Pacha is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Carlos Martinez, Dany Gómez, Domenic D'Agnelli and Maurizio Schmitz and 1 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Saturday with Juno, MP3, Alma Hosch | JUNO (DE) |
 | Fri, 27 Nov 2026 | FreitagNacht x Rave on Snow | Carlos Martinez, Dany Gómez, Domenic D'Agnelli |
 | Fri, 11 Dec 2026 | World League with Sven Väth | Maurizio Schmitz, Sven Vath |
 | Sat, 19 Dec 2026 | AANTA presents: Novak Munich |  |
@@ -17,4 +16,4 @@ Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

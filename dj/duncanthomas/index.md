@@ -1,6 +1,6 @@
 # Duncan Thomas
 
-Duncan Thomas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fox and Firkin, London on Fri, 18 Dec 2026.
+Duncan Thomas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fox and Firkin, London on Fri, 18 Dec 2026.
 
 Duncan Thomas is a house and deep house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Leeds and 2 more. Often billed alongside Blame Anthony, Butterhands and Thabo. Next up: The Fox and Firkin, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Duncan Thomas is a house and deep house artist based in United Kingdom, with 28 
 
 Blame Anthony, Butterhands, Thabo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*

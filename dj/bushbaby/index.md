@@ -1,14 +1,13 @@
 # Bushbaby
 
-Bushbaby is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Liquid Room, Edinburgh on Sat, 21 Nov 2026.
+Bushbaby is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Bushbaby is a garage and house artist based in United Kingdom, with 103 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 39 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: The Liquid Room, Edinburgh on Sat 21 Nov.
+Bushbaby is a garage and house artist based in United Kingdom, with 103 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 39 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The Liquid Room | Edinburgh |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 4 Dec 2026 | Carousel Bar & Ballroom | Sydney |
 | Fri, 18 Dec 2026 | Centre Point | Dublin |
@@ -19,6 +18,7 @@ Bushbaby is a garage and house artist based in United Kingdom, with 103 gigs on 
 
 ## Recently played
 
+- The Liquid Room, Edinburgh · Sat, 21 Nov 2026
 - SWG3, Glasgow · Fri, 20 Nov 2026
 - Mint Warehouse, Leeds · Fri, 13 Nov 2026
 - Sala Cocó, Madrid · Thu, 5 Nov 2026
@@ -26,10 +26,9 @@ Bushbaby is a garage and house artist based in United Kingdom, with 103 gigs on 
 - Digital, Newcastle · Sat, 17 Oct 2026
 - The Loft, Manchester · Thu, 8 Oct 2026
 - Village Underground, London · Sat, 3 Oct 2026
-- Tigres de la Noche, Washington DC · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 MPH (1), CHRIS STASSY, Conducta
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

@@ -1,6 +1,6 @@
 # KTK (DE)
 
-KTK (DE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at OST, Berlin on Fri, 4 Dec 2026.
+KTK (DE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at OST, Berlin on Fri, 4 Dec 2026.
 
 KTK (DE) is a techno and trance artist, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside DLV, Kander and Adrian Mills. Next up: OST, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ KTK (DE) is a techno and trance artist, with 111 gigs on soundcheck across Amste
 
 DLV, Kander, Adrian Mills
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*

@@ -1,6 +1,6 @@
 # BaleAthens at Burger Disco Club
 
-BaleAthens at Burger Disco Club on Fri 19 Feb, Athens. 1 artist: Luke Una. See the line-up on soundcheck.
+BaleAthens at Burger Disco Club on Fri 19 Feb, Athens. 1 artist: Luke Una. Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

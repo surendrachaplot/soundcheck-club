@@ -1,14 +1,13 @@
 # IsGwan
 
-IsGwan is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+IsGwan is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-IsGwan is a garage and house artist based in Australia, with 71 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 22 more. Often billed alongside Osmosis Jones, Prizefight and KJONES. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+IsGwan is a garage and house artist based in Australia, with 71 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 22 more. Often billed alongside Osmosis Jones, Prizefight and KJONES. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ IsGwan is a garage and house artist based in Australia, with 71 gigs on soundche
 
 Osmosis Jones, Prizefight, KJONES
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*

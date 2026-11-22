@@ -1,14 +1,13 @@
 # Bobby O'Donnell
 
-Bobby O'Donnell is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mint XL, Leeds on Sat, 21 Nov 2026.
+Bobby O'Donnell is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The 212 Café & Bar, Leeds on Fri, 27 Nov 2026.
 
-Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 62 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Annie Errez, Enzo Siragusa and Simon Scott. Next up: Mint XL, Leeds on Sat 21 Nov.
+Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 62 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Annie Errez, Enzo Siragusa and Simon Scott. Next up: The 212 Café & Bar, Leeds on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Mint XL | Leeds |
 | Fri, 27 Nov 2026 | The 212 Café & Bar | Leeds |
 | Sat, 28 Nov 2026 | Mint XL | Leeds |
 | Fri, 4 Dec 2026 | The DBA | Manchester |
@@ -16,6 +15,7 @@ Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 6
 
 ## Recently played
 
+- Mint XL, Leeds · Sat, 21 Nov 2026
 - Mint XL, Leeds · Fri, 20 Nov 2026
 - Mint XL, Leeds · Fri, 25 Sept 2026
 - Ouseburn Garden, Newcastle · Sat, 19 Sept 2026
@@ -23,10 +23,9 @@ Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 6
 - Club der Visionaere, Berlin · Sun, 28 Jun 2026
 - Mint Warehouse, Leeds · Sun, 24 May 2026
 - Newsam Green Farm, Leeds · Sat, 2 May 2026
-- Mint Warehouse, Leeds · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Annie Errez, Enzo Siragusa, Simon Scott
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyodonnell/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyodonnell/)*

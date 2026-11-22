@@ -1,18 +1,18 @@
 # Kamilescu
 
-Kamilescu is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
+Kamilescu is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at B-SIDE, Warsaw on Fri, 27 Nov 2026.
 
-Kamilescu is a minimal and tech house artist based in Poland, with 43 gigs on soundcheck across Berlin and Warsaw. Often billed alongside ZAREMBA, Rytmik and Bogunov. Next up: Smolna, Warsaw on Sat 21 Nov.
+Kamilescu is a minimal and tech house artist based in Poland, with 43 gigs on soundcheck across Berlin and Warsaw. Often billed alongside ZAREMBA, Rytmik and Bogunov. Next up: B-SIDE, Warsaw on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Smolna | Warsaw |
 | Fri, 27 Nov 2026 | B-SIDE | Warsaw |
 
 ## Recently played
 
+- Smolna, Warsaw · Sat, 21 Nov 2026
 - VVOSK RECORDS, Warsaw · Sat, 31 Oct 2026
 - Smolna, Warsaw · Fri, 7 Aug 2026
 - VVOSK RECORDS, Warsaw · Fri, 20 Mar 2026
@@ -20,10 +20,9 @@ Kamilescu is a minimal and tech house artist based in Poland, with 43 gigs on so
 - VVOSK RECORDS, Warsaw · Wed, 31 Dec 2025
 - VVOSK RECORDS, Warsaw · Fri, 21 Nov 2025
 - VVOSK RECORDS, Warsaw · Fri, 26 Sept 2025
-- Miami Wars, Warsaw · Sat, 16 Aug 2025
 
 ## Shares bills with
 
 ZAREMBA, Rytmik, Bogunov
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilescu/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilescu/)*

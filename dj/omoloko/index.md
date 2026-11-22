@@ -1,14 +1,13 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+OMOLOKO is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Resonance Workshop, Melbourne on Sat, 28 Nov 2026.
 
-OMOLOKO is a house and techno artist based in Brazil, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+OMOLOKO is a house and techno artist based in Brazil, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Resonance Workshop, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Resonance Workshop | Melbourne |
 | Sun, 29 Nov 2026 | Miscellania | Melbourne |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
@@ -28,4 +27,4 @@ OMOLOKO is a house and techno artist based in Brazil, with 127 gigs on soundchec
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

@@ -1,6 +1,6 @@
 # RON [Ron Steiner]
 
-RON [Ron Steiner] is a Club and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
+RON [Ron Steiner] is a Club and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
 
 RON [Ron Steiner] is a club and jungle artist based in United States of America, with 4 gigs on soundcheck across Cologne, London and Tokyo. Often billed alongside 7e, Akira and Anela. Next up: Electric Brixton, London on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ RON [Ron Steiner] is a club and jungle artist based in United States of America,
 
 7e, Akira, Anela
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronronsteiner/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronronsteiner/)*

@@ -1,14 +1,13 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "FOZZA presents: BOOM BOOM ROOM" on Sat, 21 Nov 2026.
+Sub Club Melbourne is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Marli & Friends" on Sat, 28 Nov 2026.
 
-Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including 19 in Poland, Deepa, dj awesomechillguy25 and Fresh Hex and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
+Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Deepa, House Mum, KE-YEN and Marli and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | FOZZA presents: BOOM BOOM ROOM | 19 in Poland, Fresh Hex, dj awesomechillguy25 |
 | Sat, 28 Nov 2026 | Marli & Friends | Deepa, Marli, Ruby Lou |
 | Fri, 11 Dec 2026 | Jawani 4eva - Melbourne |  |
 | Sat, 12 Dec 2026 | 188 Naarm & WEX presents KE-YEN | KE-YEN |
@@ -18,4 +17,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 5 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

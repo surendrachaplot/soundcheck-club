@@ -1,6 +1,6 @@
 # Audio
 
-Audio is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "PHARMACY HARDCORE ANNIVERSARY WITH Mikey Motion" on Fri, 27 Nov 2026.
+Audio is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "PHARMACY HARDCORE ANNIVERSARY WITH Mikey Motion" on Fri, 27 Nov 2026.
 
 Audio is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including Apollo X, JMF, Mikey Motion and TWOCANNDANN and 1 more. See dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
@@ -15,4 +15,4 @@ Audio is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with li
 
 14 Midland Street, G1 4PP, Glasgow
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*

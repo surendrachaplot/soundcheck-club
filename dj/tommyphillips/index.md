@@ -1,6 +1,6 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Tommy Phillips is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Tommy Phillips is a house and tech house artist based in United Kingdom, with 87 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 33 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -36,4 +36,4 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 87
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

@@ -1,6 +1,6 @@
 # 25 Club
 
-25 Club is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "BÖSEBÄSSE CIRCLE at REDROOM" on Fri, 11 Dec 2026.
+25 Club is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "BÖSEBÄSSE CIRCLE at REDROOM" on Fri, 11 Dec 2026.
 
 25 Club is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Chris Mantanz, Dr Hobbs, LUZIFA and Randali. See dates, start times and who's playing. Reeperbahn 25, 20359 Hamburg, Germany.
 
@@ -14,4 +14,4 @@
 
 Reeperbahn 25, 20359 Hamburg, Germany, Hamburg
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/25-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/25-club/)*

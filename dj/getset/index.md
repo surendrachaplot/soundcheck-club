@@ -1,6 +1,6 @@
 # GETSET
 
-GETSET is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
+GETSET is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
 
 GETSET is a techno and industrial artist based in Czech Republic, with 5 gigs on soundcheck across Czech Republic and Prague. Often billed alongside Nøteleks, 2NDRA and DAVIDOFFWHITE. Next up: Husitská 22, Prague on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ GETSET is a techno and industrial artist based in Czech Republic, with 5 gigs on
 
 Nøteleks, 2NDRA, DAVIDOFFWHITE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/getset/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/getset/)*

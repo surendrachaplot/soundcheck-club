@@ -1,6 +1,6 @@
 # ALXS
 
-ALXS is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at De Helling, Utrecht on Sat, 2 Jan 2027.
+ALXS is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at De Helling, Utrecht on Sat, 2 Jan 2027.
 
 ALXS is a house and progressive house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Liverpool, Mexico City and Seoul and 1 more. Often billed alongside ROOG, Todd Terry and Ferreck Dawn. Next up: De Helling, Utrecht on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ ALXS is a house and progressive house artist based in Netherlands, with 10 gigs 
 
 ROOG, Todd Terry, Ferreck Dawn
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alxs/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alxs/)*

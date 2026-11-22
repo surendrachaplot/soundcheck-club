@@ -1,6 +1,6 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Magno, Madrid on Thu, 26 Nov 2026.
+DJ Seinfeld is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Magno, Madrid on Thu, 26 Nov 2026.
 
 DJ Seinfeld is a house and techno artist based in Sweden, with 207 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 59 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Club Magno, Madrid on Thu 26 Nov.
 
@@ -35,4 +35,4 @@ DJ Seinfeld is a house and techno artist based in Sweden, with 207 gigs on sound
 
 DJ BORING, Dom Dolla, Sossa
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

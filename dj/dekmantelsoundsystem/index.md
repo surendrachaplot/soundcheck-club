@@ -1,6 +1,6 @@
 # Dekmantel Soundsystem
 
-Dekmantel Soundsystem is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+Dekmantel Soundsystem is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
 Dekmantel Soundsystem is a house and techno artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Casper Tielrooij, Call Super and Interstellar Funk. Next up: Nowadays, New York City on Sat 21 Nov.
 
@@ -14,6 +14,7 @@ Dekmantel Soundsystem is a house and techno artist based in Netherlands, with 58
 
 ## Recently played
 
+- Nowadays, New York City · Sat, 21 Nov 2026
 - Bar Franca, Los Angeles · Sun, 15 Nov 2026
 - TBA - Open Air: Downtown Los Angeles, Los Angeles · Sat, 14 Nov 2026
 - EQ San Diego, San Diego · Fri, 13 Nov 2026
@@ -21,10 +22,9 @@ Dekmantel Soundsystem is a house and techno artist based in Netherlands, with 58
 - Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 - Sophie Festival, Malaga · Sat, 25 Jul 2026
-- Peti Kupe, Zagreb · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Casper Tielrooij, Call Super, Interstellar Funk
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*

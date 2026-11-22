@@ -1,6 +1,6 @@
 # Hot Cross Fun
 
-Hot Cross Fun is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
+Hot Cross Fun is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
 
 Hot Cross Fun is a disco and house artist based in United Kingdom, with 29 gigs on soundcheck across London and Milan. Often billed alongside Gerrardo, Arnie Wrong and Mr James. Next up: KOKO, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Hot Cross Fun is a disco and house artist based in United Kingdom, with 29 gigs 
 
 Gerrardo, Arnie Wrong, Mr James
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotcrossfun/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotcrossfun/)*

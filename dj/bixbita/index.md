@@ -1,6 +1,6 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at La Cubierta de Leganés, Madrid on Fri, 1 Jan 2027.
+BIXBITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Cubierta de Leganés, Madrid on Fri, 1 Jan 2027.
 
 BIXBITA is a techno and trance artist based in Spain, with 80 gigs on soundcheck across Barcelona, Berlin, Bogotá and Budapest and 16 more. Often billed alongside Zomkrad, Juan Cernadas and Afem Syko. Next up: La Cubierta de Leganés, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ BIXBITA is a techno and trance artist based in Spain, with 80 gigs on soundcheck
 
 Zomkrad, Juan Cernadas, Afem Syko
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*

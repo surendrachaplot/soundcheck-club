@@ -1,6 +1,6 @@
 # Carnero
 
-Carnero is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Masters, Zagreb on Sat, 28 Nov 2026.
+Carnero is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Masters, Zagreb on Sat, 28 Nov 2026.
 
 Carnero is an electronica and techno artist based in Croatia, with 26 gigs on soundcheck across The Hague and Zagreb. Often billed alongside Allan, DJ Labud and IGZ (HR). Next up: Masters, Zagreb on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Carnero is an electronica and techno artist based in Croatia, with 26 gigs on so
 
 Allan, DJ Labud, IGZ (HR)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carnero/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carnero/)*

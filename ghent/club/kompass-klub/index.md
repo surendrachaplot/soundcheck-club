@@ -1,14 +1,13 @@
 # Kompass Klub
 
-Kompass Klub is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "The Subs at Kompass" on Sat, 21 Nov 2026.
+Kompass Klub is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "KRUELTY, Toxic Machinery at Kompass" on Fri, 27 Nov 2026.
 
-Kompass Klub is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Alignment, Azo, BLANKA and Chlär and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
+Kompass Klub is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including Alignment, BLANKA, Chlär and DAX J and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The Subs at Kompass | Azo, Crookers, Digitalism, Dr. Lektroluv, Etienne De Crecy, Kenny Montana, The Subs |
 | Fri, 27 Nov 2026 | KRUELTY, Toxic Machinery at Kompass | Jane Muss, KRUELTY, SLVL |
 | Sat, 28 Nov 2026 | I Hate Models at Kompass (4HOUR SET) | I Hate Models, SOYA, Swarobski, myu:sa |
 | Fri, 11 Dec 2026 | Primal Instinct x Kompass | BLANKA, Chlär, DAX J, Hadone, Maharti, Setaoc Mass, Vera Grace |
@@ -18,4 +17,4 @@ Kompass Klub is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, wi
 
 Vliegtuiglaan 12, 9000 Gent - Belgium, Ghent
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*

@@ -1,6 +1,6 @@
 # bodyshop at TBA - DTLA
 
-bodyshop at TBA - DTLA on Fri 4 Dec, Los Angeles. 4 artists: Aundreja, FASHION (US), John Bryars and Katie Rex. Techno. See the line-up on soundcheck.
+bodyshop at TBA - DTLA on Fri 4 Dec, Los Angeles. 3 artists: FASHION (US), John Bryars and Katie Rex. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ bodyshop at TBA - DTLA on Fri 4 Dec, Los Angeles. 4 artists: Aundreja, FASHION (
 
 ## Line-up
 
-- Aundreja
 - FASHION (US)
 - John Bryars
 - Katie Rex

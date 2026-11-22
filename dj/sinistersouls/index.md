@@ -1,6 +1,6 @@
 # Sinister Souls
 
-Sinister Souls is a Drum & Bass and Hard Drum artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 28 Nov 2026.
+Sinister Souls is a Drum & Bass and Hard Drum artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 28 Nov 2026.
 
 Sinister Souls is a drum & bass and hard drum artist based in Netherlands, with 25 gigs on soundcheck across Berlin, Budapest, Cologne and Leipzig and 12 more. Often billed alongside Badlokk, Pythius and Shmidoo. Next up: PIP Den Haag, The Hague on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sinister Souls is a drum & bass and hard drum artist based in Netherlands, with 
 
 Badlokk, Pythius, Shmidoo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistersouls/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistersouls/)*

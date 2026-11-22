@@ -1,6 +1,6 @@
 # Bonnie
 
-Bonnie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Barceló Riviera Maya Resort, Playa-del-carmen on Fri, 20 Nov 2026.
+Bonnie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Barceló Riviera Maya Resort, Playa-del-carmen on Fri, 20 Nov 2026.
 
 Bonnie is a house and techno artist based in Switzerland, with 27 gigs on soundcheck across Austin, Chicago, Hamburg and Los Angeles and 5 more. Often billed alongside Clyde, arow and Liquid Stranger. Next up: Barceló Riviera Maya Resort, Playa Del Carmen on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Bonnie is a house and techno artist based in Switzerland, with 27 gigs on soundc
 
 Clyde (2), arow, Liquid Stranger
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*

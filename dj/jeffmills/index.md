@@ -1,14 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
+Jeff Mills is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 71 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Komplexo Tempo, Sao Paulo on Sat 21 Nov.
+Jeff Mills is a techno and house artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 71 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Thuishaven, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sun, 6 Dec 2026 | Cité De La Musique | Paris |
@@ -20,6 +19,7 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- Komplexo Tempo, Sao Paulo · Sat, 21 Nov 2026
 - Basel Venue, Santiago · Fri, 20 Nov 2026
 - Plaza Mayor Medellin, Medellin · Sat, 14 Nov 2026
 - Sophie Festival, Malaga · Sun, 1 Nov 2026
@@ -27,10 +27,9 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 - Moog Club, Barcelona · Wed, 28 Oct 2026
 - Le Sucre, Lyon · Sun, 25 Oct 2026
 - Sugarfactory, Amsterdam · Sat, 24 Oct 2026
-- WestWeelde, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

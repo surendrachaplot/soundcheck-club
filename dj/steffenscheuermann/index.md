@@ -1,8 +1,8 @@
 # Steffen Scheuermann
 
-Steffen Scheuermann is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
+Steffen Scheuermann is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
 
-Steffen Scheuermann is an electronic artist, with 4 gigs on soundcheck across Frankfurt. Often billed alongside Frau Laura, Andrale and Bo Irion. Next up: Tanzhaus West, Frankfurt on Thu 31 Dec.
+Steffen Scheuermann is an electronic artist based in Germany, with 4 gigs on soundcheck across Frankfurt. Often billed alongside Frau Laura, Andrale and Bo Irion. Next up: Tanzhaus West, Frankfurt on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Steffen Scheuermann is an electronic artist, with 4 gigs on soundcheck across Fr
 
 Frau Laura, Andrale, Bo Irion
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffenscheuermann/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffenscheuermann/)*

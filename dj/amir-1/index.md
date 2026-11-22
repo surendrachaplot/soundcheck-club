@@ -1,6 +1,6 @@
 # Amir (1)
 
-Amir (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
+Amir (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
 
 Amir is an electronic artist based in Ukraine, with 1 gig on soundcheck across Tbilisi. Often billed alongside HVL, Kraumur and Kvanchi. Next up: Bassiani, Tbilisi on Fri 27 Nov.
 
@@ -14,4 +14,4 @@ Amir is an electronic artist based in Ukraine, with 1 gig on soundcheck across T
 
 HVL, Kraumur, Kvanchi
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amir-1/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amir-1/)*

@@ -1,14 +1,13 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Channelled Frequencies with Maximilian FD, Olly & Torin" on Sat, 21 Nov 2026.
+Headrow House is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Chuck Strangers" on Tue, 24 Nov 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Capo Lee, Kylie Wears Berghaus, Maximilian FD and Oliver Kristian and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including Capo Lee, Kylie Wears Berghaus, Reeko and Tarzsa. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Channelled Frequencies with Maximilian FD, Olly & Torin | Maximilian FD, Oliver Kristian, Torin Grady |
 | Tue, 24 Nov 2026 | Chuck Strangers |  |
 | Tue, 24 Nov 2026 | 3PM Selects x Louder Noize - Sounds of Electro |  |
 | Fri, 27 Nov 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
@@ -18,9 +17,10 @@ Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 | Thu, 28 Jan 2027 | Wonky Logic |  |
 | Tue, 2 Feb 2027 | knitting |  |
 | Sat, 6 Feb 2027 | True Mountain Laurel |  |
+| Sat, 6 Feb 2027 | Soul Wun |  |
 
 ## Address
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

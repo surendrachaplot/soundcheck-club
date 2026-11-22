@@ -1,14 +1,13 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Lights Out with Mandidextrous" on Sat, 21 Nov 2026.
+Sawmills is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Hamdi FC vs Bristol 2026" on Sat, 28 Nov 2026.
 
-Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including ATRIP, Badger (UK), Bladerunner and bullet tooth and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
+Sawmills is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including ATRIP, Badger (UK), Bladerunner and bullet tooth and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Lights Out with Mandidextrous |  |
 | Sat, 28 Nov 2026 | Hamdi FC vs Bristol 2026 | Flava D, Hamdi (UK), Jakes, OH91 |
 | Sat, 5 Dec 2026 | 5 Years of Modern Funktion: Bristol |  |
 | Sat, 12 Dec 2026 | SG Lewis - Bristol | ATRIP, Milly on Air, SG Lewis |
@@ -19,4 +18,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

@@ -1,6 +1,6 @@
 # Richie Beige
 
-Richie Beige is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - NRD KLUB, TORUŃ, UL. BROWARNA 6, Poland on Fri, 27 Nov 2026.
+Richie Beige is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - NRD KLUB, TORUŃ, UL. BROWARNA 6, Poland on Fri, 27 Nov 2026.
 
 Richie Beige is a techno and electro artist based in Ukraine, with 59 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Krakow and 4 more. Often billed alongside dd (PL), faron and iffi. Next up: TBA - NRD KLUB, TORUŃ, UL. BROWARNA 6, Poland on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Richie Beige is a techno and electro artist based in Ukraine, with 59 gigs on so
 
 dd (PL), faron, iffi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiebeige/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiebeige/)*

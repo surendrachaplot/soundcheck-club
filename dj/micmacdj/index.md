@@ -1,8 +1,8 @@
 # Micmac
 
-Micmac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 4 Dec 2026.
+Micmac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 4 Dec 2026.
 
-Micmac is a house and techno artist, with 8 gigs on soundcheck across Ho Chi Minh City and Paris. Often billed alongside 1DAN, DJ Ouch! and Youss. Next up: Luu Bar, Ho Chi Minh City on Fri 4 Dec.
+Micmac is a house and techno artist based in Vietnam, with 8 gigs on soundcheck across Ho Chi Minh City and Paris. Often billed alongside 1DAN, DJ Ouch! and Youss. Next up: Luu Bar, Ho Chi Minh City on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Micmac is a house and techno artist, with 8 gigs on soundcheck across Ho Chi Min
 
 1DAN, DJ Ouch!, Youss
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micmacdj/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micmacdj/)*

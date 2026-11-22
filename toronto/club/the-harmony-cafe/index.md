@@ -1,6 +1,6 @@
 # The Harmony Cafe
 
-The Harmony Cafe is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "SIDE QUEST V.3" on Sun, 29 Nov 2026.
+The Harmony Cafe is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "SIDE QUEST V.3" on Sun, 29 Nov 2026.
 
 The Harmony Cafe is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Annamite and SouthPawBrown. See dates, start times and who's playing. 75 Nassau St, Toronto, ON M5T 1M6.
 
@@ -15,4 +15,4 @@ The Harmony Cafe is a music venue in Toronto listed on soundcheck. 2 upcoming gi
 
 75 Nassau St, Toronto, ON M5T 1M6, Toronto
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-harmony-cafe/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-harmony-cafe/)*

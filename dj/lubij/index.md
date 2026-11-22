@@ -1,6 +1,6 @@
 # Lubi J
 
-Lubi J is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Underdog, Cardiff on Sat, 30 Jan 2027.
+Lubi J is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Underdog, Cardiff on Sat, 30 Jan 2027.
 
 Lubi J is a house and electronica artist, with 7 gigs on soundcheck across Bristol and Cardiff. Often billed alongside Paul Cahill, Sister Sesh and Hawsey. Next up: The Underdog, Cardiff on Sat 30 Jan.
 
@@ -23,4 +23,4 @@ Lubi J is a house and electronica artist, with 7 gigs on soundcheck across Brist
 
 Paul Cahill, Sister Sesh, Hawsey
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lubij/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lubij/)*

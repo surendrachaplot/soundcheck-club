@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Lucky Done Gone - All Night" on Fri, 27 Nov 2026.
+Paradiso is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Lucky Done Gone - All Night" on Fri, 27 Nov 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Dj Kompit, Dynamax, Gysèle and Kobe and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -20,4 +20,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wi
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

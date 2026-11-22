@@ -1,6 +1,6 @@
 # Daisy Moon
 
-Daisy Moon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Love Inn, Bristol on Fri, 27 Nov 2026.
+Daisy Moon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Love Inn, Bristol on Fri, 27 Nov 2026.
 
 Daisy Moon is a house and techno artist based in United Kingdom, with 71 gigs on soundcheck across Berlin, Bristol, Brussels and Glasgow and 6 more. Often billed alongside Shanti Celeste, Amaliah and Golesworthy. Next up: The Love Inn, Bristol on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Daisy Moon is a house and techno artist based in United Kingdom, with 71 gigs on
 
 Shanti Celeste, Amaliah, Golesworthy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*

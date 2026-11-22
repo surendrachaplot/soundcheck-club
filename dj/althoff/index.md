@@ -1,14 +1,15 @@
 # Althoff
 
-Althoff is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ku Barcelona, Barcelona on Fri, 27 Nov 2026.
+Althoff is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ku Barcelona, Barcelona on Fri, 27 Nov 2026.
 
-Althoff is a deep house and afro house artist based in Brazil, with 73 gigs on soundcheck across Amsterdam, Barcelona, London and Milan and 2 more. Often billed alongside ERRANT, Last Set and Ivan Pugliares. Next up: Ku Barcelona, Barcelona on Fri 27 Nov.
+Althoff is a deep house and afro house artist based in Brazil, with 74 gigs on soundcheck across Amsterdam, Barcelona, London and Milan and 2 more. Often billed alongside ERRANT, Last Set and Ivan Pugliares. Next up: Ku Barcelona, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Ku Barcelona | Barcelona |
+| Thu, 31 Dec 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Althoff is a deep house and afro house artist based in Brazil, with 73 gigs on s
 
 ERRANT, Last Set, Ivan Pugliares
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*

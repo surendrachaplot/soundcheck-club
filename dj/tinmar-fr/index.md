@@ -1,6 +1,6 @@
 # Tinmar
 
-Tinmar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at La Cité Fertile, Paris on Sat, 5 Dec 2026.
+Tinmar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Cité Fertile, Paris on Sat, 5 Dec 2026.
 
 Tinmar is a trance and techno artist based in France, with 2 gigs on soundcheck across Paris. Often billed alongside Jacob (UK). Next up: La Cité Fertile, Paris on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Tinmar is a trance and techno artist based in France, with 2 gigs on soundcheck 
 
 Jacob (UK)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinmar-fr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinmar-fr/)*

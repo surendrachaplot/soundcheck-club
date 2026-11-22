@@ -1,6 +1,6 @@
 # WRIDDIM WRESTLEMANIA at Elektricity
 
-WRIDDIM WRESTLEMANIA at Elektricity on Sat 28 Nov, Detroit. 3 artists: Sordid, The General and whisper. Dub. See the line-up on soundcheck.
+WRIDDIM WRESTLEMANIA at Elektricity on Sat 28 Nov, Detroit. 2 artists: The General and whisper. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ WRIDDIM WRESTLEMANIA at Elektricity on Sat 28 Nov, Detroit. 3 artists: Sordid, T
 
 ## Line-up
 
-- Sordid
 - The General
 - whisper
 

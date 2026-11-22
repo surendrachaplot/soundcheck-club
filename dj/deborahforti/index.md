@@ -1,6 +1,6 @@
 # Deborah Forti
 
-Deborah Forti is a Techno and Noise artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Distrikt, Prague on Fri, 18 Dec 2026.
+Deborah Forti is a Techno and Noise artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Distrikt, Prague on Fri, 18 Dec 2026.
 
 Deborah Forti is a techno and noise artist based in Italy, with 21 gigs on soundcheck across Barcelona, Bologna, Los Angeles and Malta and 9 more. Often billed alongside Apokä, BL3CKSMITH and KARELBLADE. Next up: Distrikt, Prague on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Deborah Forti is a techno and noise artist based in Italy, with 21 gigs on sound
 
 Apokä, BL3CKSMITH, KARELBLADE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahforti/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahforti/)*

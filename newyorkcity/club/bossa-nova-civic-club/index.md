@@ -1,15 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "BASE SEVEN: Anthony Parasole / Marco Neves / Pierre Louis / SL" on Sat, 21 Nov 2026.
+Bossa Nova Civic Club is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Happy Hour: Oscil, Uttaraa, Alter" on Sun, 22 Nov 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 27 upcoming gigs, with line-ups including 1-800 GIRLS, 8ULENTINA, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including 1-800 GIRLS, 8ULENTINA, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | BASE SEVEN: Anthony Parasole / Marco Neves / Pierre Louis / SL | Anthony Parasole, Marco Neves, Pierre Louis |
-| Sat, 21 Nov 2026 | Elemental Radio Happy Hour | Big Baby Ganja, DJanae |
 | Sun, 22 Nov 2026 | Happy Hour: Oscil, Uttaraa, Alter | Oscil, Uttaraa, alter.world |
 | Sun, 22 Nov 2026 | 1-800 GIRLS + Akanbi + Bunni | 1-800 GIRLS, Akanbi, Bunni |
 | Mon, 23 Nov 2026 | Naked Lunch x Diffuse Reality: Jorge Sanders b2b Kevin Thorpe, Constructible, N1NA, Jiale | Anthorp, Constructible, Jiale, Jorge Sanders, N1NA |
@@ -18,9 +16,11 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 27
 | Thu, 26 Nov 2026 | mikaela presents: vitamin carry | SKYWALKER (US) |
 | Fri, 27 Nov 2026 | Latin Rave Culture with DJ Guari, Angie Rey, Refilled, Nas Leber | Nas Leber, Refilled |
 | Sat, 28 Nov 2026 | PAN!C ROOM X DJ SWISHA | DJ SWISHA, NIJEII, WADDLE, y2aura |
+| Sun, 29 Nov 2026 | Flower Factory presents HOTHOUSE feat. Sevyn Love | Gail Force One, Prince Rose, Sevyn Love |
+| Mon, 30 Nov 2026 | NATALIA & FRiENDS | BASSBEAR!!, BEYBLADE SHAWTY, BOJAQ, DJ Freedem, DJHoliday, Syd (US) |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Desa Kitsune, Bali on Tue, 24 Nov 2026.
+Franc Fala is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Desa Kitsune, Bali on Tue, 24 Nov 2026.
 
 Franc Fala is a house and afro house artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 16 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Desa Kitsune, Bali on Tue 24 Nov.
 
@@ -28,4 +28,4 @@ Franc Fala is a house and afro house artist based in Netherlands, with 44 gigs o
 
 Benja, Benja (NL), Cincity
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

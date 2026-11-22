@@ -1,14 +1,13 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "OPERATION" on Sat, 21 Nov 2026.
+Haus73 is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "TRAX" on Fri, 27 Nov 2026.
 
-Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Adrian Prepaid, Enchanted Rhythms, FUNKA04 and G-Lamour and 2 more. See dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
+Haus73 is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including Adrian Prepaid, Enchanted Rhythms, G-Lamour and Henry (DE) and 2 more. See dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | OPERATION | FUNKA04 |
 | Fri, 27 Nov 2026 | TRAX | TRAX |
 | Fri, 4 Dec 2026 | Hotline Bliss - Kältebus Soliparty (House) | Adrian Prepaid, ONLYLU |
 | Sat, 5 Dec 2026 | Torture the Artist pres. eDEMi with Enchanted Rhythms | Enchanted Rhythms, G-Lamour, Henry (DE) |
@@ -21,4 +20,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with l
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

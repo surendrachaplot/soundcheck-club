@@ -1,6 +1,6 @@
 # Leon Licht
 
-Leon Licht is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Leon Licht is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 Leon Licht is a techno and house artist based in Germany, with 214 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 6 more. Often billed alongside Kaufmann, ADAMN and Memo.. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Leon Licht is a techno and house artist based in Germany, with 214 gigs on sound
 
 Kaufmann, ADAMN, Memo.
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*

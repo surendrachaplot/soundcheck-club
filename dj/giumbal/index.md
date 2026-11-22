@@ -1,6 +1,6 @@
 # Giumbal
 
-Giumbal is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TANKclub, Bologna on Sat, 12 Dec 2026.
+Giumbal is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TANKclub, Bologna on Sat, 12 Dec 2026.
 
 Giumbal is a techno and idm artist based in Italy, with 3 gigs on soundcheck across Bologna and Naples. Often billed alongside Arianna Ferrara, CezarX and DJ Balu. Next up: TANKclub, Bologna on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Giumbal is a techno and idm artist based in Italy, with 3 gigs on soundcheck acr
 
 Arianna Ferrara, CezarX, DJ Balu
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giumbal/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giumbal/)*

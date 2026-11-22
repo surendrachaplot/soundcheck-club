@@ -1,6 +1,6 @@
 # Electric Bristol
 
-Electric Bristol is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "KREAM + support" on Fri, 4 Dec 2026.
+Electric Bristol is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "KREAM + support" on Fri, 4 Dec 2026.
 
 Electric Bristol is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including Estiva, Kirollus, KREAM and Leena Punks and 1 more. See dates, start times and who's playing. 15 Nelson Street, Bristol, BS1 2JY, United Kingdom.
 
@@ -15,4 +15,4 @@ Electric Bristol is a music venue in Bristol listed on soundcheck. 2 upcoming gi
 
 15 Nelson Street, Bristol, BS1 2JY, United Kingdom, Bristol
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/electric-bristol/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/electric-bristol/)*

@@ -1,19 +1,19 @@
 # Arweenn
 
-Arweenn is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+Arweenn is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nivo, Sofia on Fri, 27 Nov 2026.
 
-Arweenn is a techno and industrial artist based in Italy, with 26 gigs on soundcheck across Berlin, Copenhagen, Lisbon and Madrid and 10 more. Often billed alongside AMY (BG), MMANU and KASSIS. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
+Arweenn is a techno and industrial artist based in Italy, with 26 gigs on soundcheck across Berlin, Copenhagen, Lisbon and Madrid and 10 more. Often billed alongside AMY (BG), MMANU and KASSIS. Next up: Nivo, Sofia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
 | Fri, 27 Nov 2026 | Nivo | Sofia |
 | Sat, 26 Dec 2026 | Labyrinth | Oslo |
 
 ## Recently played
 
+- Casa Nube Wynwood, Miami · Sat, 21 Nov 2026
 - The King of Trondheim, Norway · Sat, 31 Oct 2026
 - Luka, Seoul · Sat, 1 Aug 2026
 - Club M2 Miami, Miami · Sat, 11 Jul 2026
@@ -21,10 +21,9 @@ Arweenn is a techno and industrial artist based in Italy, with 26 gigs on soundc
 - Sputnikhalle, Münster · Fri, 23 Jan 2026
 - TBA, Berlin · Fri, 19 Dec 2025
 - Zerotokyo, Tokyo · Fri, 24 Oct 2025
-- TAG - Tevere ART Gallery, Rome · Fri, 19 Sept 2025
 
 ## Shares bills with
 
 AMY (BG), MMANU, KASSIS
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arweenn/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arweenn/)*

@@ -1,14 +1,13 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Louis The Child (US)" on Sat, 21 Nov 2026.
+The Night Cat is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "MiNNA" on Sat, 28 Nov 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Bellaire, Elsie, Flamingo Pier and NALIITA and 1 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Bellaire, Elsie, Flamingo Pier and NALIITA and 1 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Louis The Child (US) |  |
 | Sat, 28 Nov 2026 | MiNNA | NALIITA |
 | Sat, 5 Dec 2026 | Now Always Fades 'Coalesce' Album Launch | Elsie |
 | Sat, 9 Jan 2027 | Soul Mass Transit System | Soul Mass Transit System |
@@ -21,4 +20,4 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 8 upcoming gig
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

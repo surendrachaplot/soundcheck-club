@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 36 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "The Buckhenries" on Sat, 21 Nov 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 35 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Sylvia Black" on Wed, 25 Nov 2026.
 
-The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 36 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 35 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The Buckhenries |  |
 | Wed, 25 Nov 2026 | Sylvia Black |  |
 | Fri, 27 Nov 2026 | Lawndale |  |
 | Sat, 28 Nov 2026 | Texacala Jones |  |
@@ -18,9 +17,10 @@ The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 
 | Thu, 3 Dec 2026 | Hungry Ass Youth (8:30pm) |  |
 | Fri, 4 Dec 2026 | Pist'N'Broke |  |
 | Sat, 5 Dec 2026 | Didjits |  |
+| Sun, 6 Dec 2026 | Masterknob |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

@@ -1,18 +1,18 @@
 # Jessie Granqvist
 
-Jessie Granqvist is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
+Jessie Granqvist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 19 Dec 2026.
 
-Jessie Granqvist is a techno and house artist based in Sweden, with 105 gigs on soundcheck across Amsterdam, Beijing, Berlin and Dubai and 11 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: AMT, Berlin on Sat 21 Nov.
+Jessie Granqvist is a techno and house artist based in Sweden, with 105 gigs on soundcheck across Amsterdam, Beijing, Berlin and Dubai and 11 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: RSO.BERLIN, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | AMT | Berlin |
 | Sat, 19 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- AMT, Berlin · Sat, 21 Nov 2026
 - Garage Noord, Amsterdam · Sun, 15 Nov 2026
 - Under Bron, Stockholm · Sat, 14 Nov 2026
 - Bassiani, Tbilisi · Fri, 30 Oct 2026
@@ -20,10 +20,9 @@ Jessie Granqvist is a techno and house artist based in Sweden, with 105 gigs on 
 - Ministerium Club, Lisbon · Fri, 16 Oct 2026
 - Slaktkyrkan, Stockholm · Fri, 25 Sept 2026
 - OHM, Berlin · Thu, 17 Sept 2026
-- BAR15, Stockholm · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Maris Shilton, Anthony Linell, Evigt Mörker
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*

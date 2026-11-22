@@ -1,6 +1,6 @@
 # vRok
 
-vRok is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Monarch, San Francisco/Oakland on Wed, 25 Nov 2026.
+vRok is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Monarch, San Francisco/Oakland on Wed, 25 Nov 2026.
 
 vRok is a house and techno artist based in United States of America, with 42 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Black Panda, HUFFY and Sammy Taylor. Next up: Monarch, San Francisco/Oakland on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ vRok is a house and techno artist based in United States of America, with 42 gig
 
 Black Panda, HUFFY, Sammy Taylor
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vrok/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vrok/)*

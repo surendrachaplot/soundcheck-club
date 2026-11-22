@@ -1,6 +1,6 @@
 # Grau
 
-Grau is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 22 Nov 2026.
+Grau is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 22 Nov 2026.
 
 Grau is a tech house artist based in Argentina, with 18 gigs on soundcheck across Berlin and Madrid. Often billed alongside Héctor Pericet, Julio Machicado and YVER. Next up: EL SÓTANO, Madrid on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Grau is a tech house artist based in Argentina, with 18 gigs on soundcheck acros
 
 Héctor Pericet, Julio Machicado, YVER
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grau/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grau/)*

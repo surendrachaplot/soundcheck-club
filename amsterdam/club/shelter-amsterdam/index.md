@@ -1,14 +1,13 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Andrea Oliva, Argia, Samm" on Sat, 21 Nov 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Shelter 10 YEARS" on Fri, 27 Nov 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Andrea Oliva and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Automatic Writing and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Andrea Oliva, Argia, Samm | Andrea Oliva, Argia, Julien Simmons, Samm, Sebastian Konrad |
 | Fri, 27 Nov 2026 | Shelter 10 YEARS | Benjamin Berg, Dan Dusty, Job de Jong, Kara Okay, Kyra Khaldi, Laura Meester, Nathan Alzon, SOLIT, Stef Davidse, Tom Trago, Tommy Chikara, Tonno Disko |
 | Sat, 28 Nov 2026 | M-High (all night) | Alec Dienaar, Eline, M-High, STIPP |
 | Fri, 4 Dec 2026 | Sam Alfred (all night) |  |
@@ -18,9 +17,10 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcomin
 | Fri, 18 Dec 2026 | Dennis Quin B2B Job de Jong (all night) | Dennis Quin, Job de Jong |
 | Sat, 19 Dec 2026 | Shelter presents: CLUB.RECORD / S-candalo, DJ Spit, ESTRELLA, Vasco, Victor | DJ Spit, ESTRELLA, Kevin Lo, Pelanoir, S-candalo, Vasco, Victor (DE) |
 | Fri, 25 Dec 2026 | Kyra Khaldi, Sam Girling B2B Julian Anthony | Julian Anthony (US), Kyra Khaldi, Sam Girling, Tykov, lizz.e |
+| Sat, 26 Dec 2026 | 10SERIES by Shelter: Midas Field curates | Midas Field |
 
 ## Address
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

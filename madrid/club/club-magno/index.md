@@ -1,6 +1,6 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Antidoto Club: DJ Seinfeld + Vagabund" on Thu, 26 Nov 2026.
+Club Magno is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Antidoto Club: DJ Seinfeld + Vagabund" on Thu, 26 Nov 2026.
 
 Club Magno is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Co.kr, Dani BM, Diego Armando and DISTORT (ES) and 2 more. See dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
@@ -18,4 +18,4 @@ Club Magno is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, wit
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

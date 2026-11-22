@@ -1,14 +1,13 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at block., Dublin on Sat, 21 Nov 2026.
+Soul Mass Transit System is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Cardiff Students' Union - The Great Hall, Cardiff on Sat, 28 Nov 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, with 167 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Faster Horses. Next up: block., Dublin on Sat 21 Nov.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, with 167 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Faster Horses. Next up: Cardiff Students' Union - The Great Hall, Cardiff on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | block. | Dublin |
 | Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Fri, 4 Dec 2026 | Digital | Newcastle |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
@@ -21,6 +20,7 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 ## Recently played
 
+- block., Dublin · Sat, 21 Nov 2026
 - Kapsule, Liverpool · Sat, 14 Nov 2026
 - La Cheetah Club, Glasgow · Fri, 13 Nov 2026
 - Plot 22, Sheffield · Fri, 6 Nov 2026
@@ -28,10 +28,9 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 - Quarters, Brighton · Sat, 31 Oct 2026
 - Hope House, Leeds · Fri, 30 Oct 2026
 - Basement Amsterdam, Amsterdam · Sat, 24 Oct 2026
-- Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 Silva Bumpa, Dr Dubplate, Faster Horses
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

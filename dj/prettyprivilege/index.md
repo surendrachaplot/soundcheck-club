@@ -1,6 +1,6 @@
 # Pretty Privilege
 
-Pretty Privilege is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
+Pretty Privilege is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
 
 Pretty Privilege is a techno and house artist based in Canada, with 88 gigs on soundcheck across Berlin, Boston, Chicago and Dresden and 11 more. Often billed alongside CrisseMarqueur, mayalabae and Tom Marsi. Next up: ESC, Montreal on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Pretty Privilege is a techno and house artist based in Canada, with 88 gigs on s
 
 CrisseMarqueur, mayalabae, Tom Marsi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyprivilege/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyprivilege/)*

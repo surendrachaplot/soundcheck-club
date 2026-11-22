@@ -1,6 +1,6 @@
 # Fernando Costantini
 
-Fernando Costantini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+Fernando Costantini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 Fernando Costantini is a house and techno artist based in Belgium, with 31 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 6 more. Often billed alongside Domenico Rosa, Marcolino and Giammarco Orsini. Next up: TBA, Rome on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fernando Costantini is a house and techno artist based in Belgium, with 31 gigs 
 
 Domenico Rosa, Marcolino, Giammarco Orsini
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandocostantini/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandocostantini/)*

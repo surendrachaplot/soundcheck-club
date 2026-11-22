@@ -1,14 +1,13 @@
 # The Supermercat Gotico
 
-The Supermercat Gotico is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "SIDE B - DJ KOSMOS - BLACK KOKO (SBK101) - GUSTAVO LÓPEZ - AT THE SUPERMERCAT" on Sat, 21 Nov 2026.
+The Supermercat Gotico is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "The Supermercat pres" on Sun, 22 Nov 2026.
 
-The Supermercat Gotico is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including DD.MATTS, Freeka, Keyblow and Kitty Bronx and 2 more. See dates, start times and who's playing. Carrer Ample, 32, Ciutat Vella, 08002, Barcelona.
+The Supermercat Gotico is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including DD.MATTS, Freeka, Keyblow and Kitty Bronx and 2 more. See dates, start times and who's playing. Carrer Ample, 32, Ciutat Vella, 08002, Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | SIDE B - DJ KOSMOS - BLACK KOKO (SBK101) - GUSTAVO LÓPEZ - AT THE SUPERMERCAT |  |
 | Sun, 22 Nov 2026 | The Supermercat pres | Keyblow |
 | Sun, 22 Nov 2026 | SUNDAYS AT THE SUPERMERCAT - Keyblow - JULIEN BLANCH - URIAH | Keyblow |
 | Wed, 25 Nov 2026 | - NIZ AT THE SUPERMERCAT RADIO - | NIZ (SP) |
@@ -19,4 +18,4 @@ The Supermercat Gotico is a music venue in Barcelona listed on soundcheck. 6 upc
 
 Carrer Ample, 32, Ciutat Vella, 08002, Barcelona, Barcelona
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-gotico/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-gotico/)*

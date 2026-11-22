@@ -1,6 +1,6 @@
 # JIPSEY
 
-JIPSEY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Vaag, Antwerp on Fri, 11 Dec 2026.
+JIPSEY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Vaag, Antwerp on Fri, 11 Dec 2026.
 
 JIPSEY is a techno and trance artist based in Netherlands, with 17 gigs on soundcheck across Antwerp, Basel and Brussels. Often billed alongside FEMMI, Arter and BLNK. Next up: Club Vaag, Antwerp on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ JIPSEY is a techno and trance artist based in Netherlands, with 17 gigs on sound
 
 FEMMI, Arter, BLNK
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jipsey/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jipsey/)*

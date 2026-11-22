@@ -1,6 +1,6 @@
 # Jėck
 
-Jėck is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
+Jėck is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
 
 Jėck is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Detroit. Often billed alongside Redax, JANSØ and KICK (DET). Next up: Marble Bar, Detroit on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Jėck is a techno and house artist based in United States of America, with 8 gig
 
 Redax, JANSØ, KICK (DET)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeck/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeck/)*

@@ -1,6 +1,6 @@
 # EPHACY
 
-EPHACY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Bird, Perth on Sat, 5 Dec 2026.
+EPHACY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Bird, Perth on Sat, 5 Dec 2026.
 
 EPHACY is a house and techno artist based in Australia, with 18 gigs on soundcheck across Melbourne and Perth. Often billed alongside Rok Riley, Elsie and Montana. Next up: The Bird, Perth on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ EPHACY is a house and techno artist based in Australia, with 18 gigs on soundche
 
 Rok Riley, Elsie, Montana
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ephacy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ephacy/)*

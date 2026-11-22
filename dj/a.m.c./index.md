@@ -1,6 +1,6 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 29 more. Often billed alongside Phantom, Koven and IC3. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -9,7 +9,6 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 55 gigs 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
-| Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 18 Dec 2026 | Thirty3hz | South-east |
 | Fri, 19 Mar 2027 | Roxy | Prague |
 | Sat, 20 Mar 2027 | Roxy | Prague |
@@ -17,6 +16,7 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 55 gigs 
 
 ## Recently played
 
+- Warehouse Elementenstraat, Amsterdam · Sat, 21 Nov 2026
 - TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam · Fri, 20 Nov 2026
 - Move, West-wales · Fri, 13 Nov 2026
 - Tank, Sheffield · Fri, 6 Nov 2026
@@ -24,10 +24,9 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 55 gigs 
 - World Headquarters, Newcastle · Fri, 16 Oct 2026
 - Volks, Brighton · Sat, 10 Oct 2026
 - Under The Prom, West-wales · Sat, 3 Oct 2026
-- Stealth, Nottingham · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Phantom, Koven, IC3
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

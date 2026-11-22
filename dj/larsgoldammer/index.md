@@ -1,6 +1,6 @@
 # Lars Goldammer
 
-Lars Goldammer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at elipamanoke, Leipzig on Sat, 5 Dec 2026.
+Lars Goldammer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at elipamanoke, Leipzig on Sat, 5 Dec 2026.
 
 Lars Goldammer is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Nienein, DJ STIMULA and SPLINTER. Next up: elipamanoke, Leipzig on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lars Goldammer is a techno and trance artist based in Germany, with 26 gigs on s
 
 Nienein, DJ STIMULA, SPLINTER (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larsgoldammer/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larsgoldammer/)*

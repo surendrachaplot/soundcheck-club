@@ -1,6 +1,6 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 27 Nov 2026.
+Nikki Nair is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 27 Nov 2026.
 
 Nikki Nair is a techno and bass artist based in United States of America, with 188 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 59 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: The Ground at Club Space, Miami on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Nikki Nair is a techno and bass artist based in United States of America, with 1
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

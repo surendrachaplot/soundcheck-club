@@ -1,20 +1,20 @@
 # Infinite Jess
 
-Infinite Jess is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Arcana, San Francisco/Oakland on Sat, 21 Nov 2026.
+Infinite Jess is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Stud, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Infinite Jess is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Carlos Souffront, Eichef and Galen. Next up: Arcana, San Francisco/Oakland on Sat 21 Nov.
+Infinite Jess is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Carlos Souffront, Eichef and Galen. Next up: The Stud, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Arcana | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | The Stud | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | Driftwood | San Francisco/Oakland |
 | Fri, 11 Dec 2026 | public records | New York City |
 
 ## Recently played
 
+- Arcana, San Francisco/Oakland · Sat, 21 Nov 2026
 - TBA - San Francisco, San Francisco/Oakland · Sat, 24 Oct 2026
 - TBA, San Francisco/Oakland · Sat, 24 Oct 2026
 - Paris 75, San Francisco/Oakland · Fri, 16 Oct 2026
@@ -22,10 +22,9 @@ Infinite Jess is a house and techno artist based in United States of America, wi
 - Underground SF, San Francisco/Oakland · Sat, 1 Aug 2026
 - TBA, Los Angeles · Sat, 25 Jul 2026
 - Underground SF, San Francisco/Oakland · Thu, 23 Jul 2026
-- The LookOut, San Francisco/Oakland · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Carlos Souffront, Eichef, Galen
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitejess/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitejess/)*

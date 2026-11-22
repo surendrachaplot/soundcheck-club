@@ -1,6 +1,6 @@
 # S.P.Y.
 
-S.P.Y. is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Runnymede Hall, Toronto on Fri, 11 Dec 2026.
+S.P.Y. is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Runnymede Hall, Toronto on Fri, 11 Dec 2026.
 
 S.P.Y. is a drum & bass and jungle artist based in Brazil, with 19 gigs on soundcheck across Adelaide, Bratislava, Bristol and Canberra and 10 more. Often billed alongside LowQui, Alcemist and Anaïs. Next up: Runnymede Hall, Toronto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ S.P.Y. is a drum & bass and jungle artist based in Brazil, with 19 gigs on sound
 
 LowQui, Alcemist, Anaïs
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y./)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y./)*

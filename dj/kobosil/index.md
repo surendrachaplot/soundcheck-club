@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Home The Venue, Sydney on Fri, 27 Nov 2026.
+Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Home The Venue, Sydney on Fri, 27 Nov 2026.
 
 Kobosil is a techno and house artist based in Germany, with 280 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Home The Venue, Sydney on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Kobosil is a techno and house artist based in Germany, with 280 gigs on soundche
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

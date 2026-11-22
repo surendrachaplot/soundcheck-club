@@ -1,6 +1,6 @@
 # Skeptical
 
-Skeptical is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expirat Halele Carol, Bucharest on Thu, 3 Dec 2026.
+Skeptical is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Expirat Halele Carol, Bucharest on Thu, 3 Dec 2026.
 
 Skeptical is a drum & bass and jungle artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Basel and 30 more. Often billed alongside SP:MC, Breakage and MC GQ. Next up: Expirat Halele Carol, Bucharest on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Skeptical is a drum & bass and jungle artist based in United Kingdom, with 76 gi
 
 SP:MC, Breakage, MC GQ
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*

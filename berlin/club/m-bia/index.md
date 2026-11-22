@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "GOA Herbst Edition [pres. Naturalize, Vertigos]" on Sat, 21 Nov 2026.
+M-BIA is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Mega 90er Rave - DJ QUICKSILVER" on Fri, 27 Nov 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including ALICA RØUGH, Basstronauten, BrettHit and Curl Ease and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Basstronauten, BrettHit, Curl Ease and D.K. and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | GOA Herbst Edition [pres. Naturalize, Vertigos] | ALICA RØUGH, John Kotti, MØABEAT, Støffwechsel |
 | Fri, 27 Nov 2026 | Mega 90er Rave - DJ QUICKSILVER |  |
 | Sat, 28 Nov 2026 | PsyLab – Escape the Grey | Ninja (DE), RichBeat, Sebastian Ludvig, Sievert Serviert, kleineralsdrei, kogo.berlin |
 | Fri, 4 Dec 2026 | HARD SOLUTION with SUMMIT • MISS PEPPER • PHIESI&ABZOCKA • GENETekk • SLEDGE  | Sei A, TEKKO, Techno Frühstück, Tekk, Tekk DJ'z, Tekk Nikk, Tekknik |
@@ -22,4 +21,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with lin
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

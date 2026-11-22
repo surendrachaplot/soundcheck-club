@@ -1,6 +1,6 @@
 # Azalea the Witch
 
-Azalea the Witch is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bampot Tea House, Toronto on Sat, 9 Jan 2027.
+Azalea the Witch is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bampot Tea House, Toronto on Sat, 9 Jan 2027.
 
 Azalea the Witch is a drum & bass and hardcore artist based in Canada, with 9 gigs on soundcheck across Ontario and Toronto. Often billed alongside 'PAVV', Psyberix and Audi Étoffe. Next up: Bampot Tea House, Toronto on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Azalea the Witch is a drum & bass and hardcore artist based in Canada, with 9 gi
 
 'PAVV', Psyberix, Audi Étoffe
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleathewitch/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleathewitch/)*

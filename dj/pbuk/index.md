@@ -1,6 +1,6 @@
 # PB (UK)
 
-PB (UK) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 20 Feb 2027.
+PB (UK) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 20 Feb 2027.
 
 PB (UK) is a jungle and drum & bass artist based in United Kingdom, with 12 gigs on soundcheck across Leeds, Liverpool, London and Newcastle and 1 more. Often billed alongside DJ BootyShake, NEENZY (UK) and Amelia Leigh. Next up: 24 Kitchen Street, Liverpool on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ PB (UK) is a jungle and drum & bass artist based in United Kingdom, with 12 gigs
 
 DJ BootyShake, NEENZY (UK), Amelia Leigh
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pbuk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pbuk/)*

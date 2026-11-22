@@ -1,6 +1,6 @@
 # Sinnotsin
 
-Sinnotsin is a Baile Funk and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at República Da Música, Lisbon on Fri, 27 Nov 2026.
+Sinnotsin is a Baile Funk and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at República Da Música, Lisbon on Fri, 27 Nov 2026.
 
 Sinnotsin is a baile funk and afrobeat artist based in Portugal, with 23 gigs on soundcheck across Lisbon, Madrid and New York City. Often billed alongside Saint Caboclo, BANU and S4DO. Next up: República Da Música, Lisbon on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Sinnotsin is a baile funk and afrobeat artist based in Portugal, with 23 gigs on
 
 Saint Caboclo, BANU (2), S4DO
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnotsin/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnotsin/)*

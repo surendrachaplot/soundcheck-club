@@ -1,6 +1,6 @@
 # ShioriyBradshaw
 
-ShioriyBradshaw is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ZEROTOKYO, Tokyo on Sun, 22 Nov 2026.
+ShioriyBradshaw is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ZEROTOKYO, Tokyo on Sun, 22 Nov 2026.
 
 ShioriyBradshaw is a techno and house artist based in Japan, with 94 gigs on soundcheck across Bangkok, New York City, Osaka and Seoul and 3 more. Often billed alongside Romy Mats, MoEPiKA and HIMAWARI. Next up: ZEROTOKYO, Tokyo on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ ShioriyBradshaw is a techno and house artist based in Japan, with 94 gigs on sou
 
 Romy Mats, MoEPiKA, HIMAWARI
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shioriybradshaw/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shioriybradshaw/)*

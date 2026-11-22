@@ -1,14 +1,13 @@
 # The Rabbit Hole
 
-The Rabbit Hole is a music venue in New Orleans with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. The next is "House of Disco" on Fri, 20 Nov 2026.
+The Rabbit Hole is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "MILKSHAKE" on Sat, 12 Dec 2026.
 
-The Rabbit Hole is a music venue in New Orleans listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+The Rabbit Hole is a music venue in New Orleans listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | House of Disco |  |
 | Sat, 12 Dec 2026 | MILKSHAKE |  |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-rabbit-hole/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-rabbit-hole/)*

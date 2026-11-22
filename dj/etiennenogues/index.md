@@ -1,6 +1,6 @@
 # Etienne Nogues
 
-Etienne Nogues is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Warehouse, Nantes on Fri, 22 Jan 2027.
+Etienne Nogues is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Warehouse, Nantes on Fri, 22 Jan 2027.
 
 Etienne Nogues is a techno and trance artist based in France, with 23 gigs on soundcheck across Berlin, Marseille, Nantes and Paris. Often billed alongside BETÏSES, Britney Speed (FR) and Enigmatik. Next up: Warehouse, Nantes on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Etienne Nogues is a techno and trance artist based in France, with 23 gigs on so
 
 BETÏSES, Britney Speed (FR), Enigmatik
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennenogues/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennenogues/)*

@@ -1,6 +1,6 @@
 # AMR*
 
-AMR* is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Ground at Club Space, Miami on Sun, 22 Nov 2026.
+AMR* is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Ground at Club Space, Miami on Sun, 22 Nov 2026.
 
 AMR* is an electronica and house artist based in Canada, with 10 gigs on soundcheck across Atlanta, Auckland, Chicago and Los Angeles and 5 more. Often billed alongside Vegyn, Headache and Loukeman. Next up: The Ground at Club Space, Miami on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ AMR* is an electronica and house artist based in Canada, with 10 gigs on soundch
 
 Vegyn, Headache, Loukeman
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amr/)*

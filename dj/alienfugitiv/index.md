@@ -1,6 +1,6 @@
 # Alien Fugitiv
 
-Alien Fugitiv is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 4 Dec 2026.
+Alien Fugitiv is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 4 Dec 2026.
 
 Alien Fugitiv is an electro and breakbeat artist based in Poland, with 10 gigs on soundcheck across Gdansk, Krakow and Warsaw. Often billed alongside Meke, Hubsond and Kondrat. Next up: Sekta Selekta, Krakow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Alien Fugitiv is an electro and breakbeat artist based in Poland, with 10 gigs o
 
 Meke, Hubsond, Kondrat
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alienfugitiv/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alienfugitiv/)*

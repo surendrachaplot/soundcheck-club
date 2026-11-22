@@ -1,14 +1,13 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Joshwa All Night Long Birthday Set" on Sat, 21 Nov 2026.
+99 Scott Ave is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Space92 *3hr Set* with Charles D" on Sat, 28 Nov 2026.
 
-99 Scott Ave is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Calussa, camoufly, Charles D (US) and Chesster and 2 more. See dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
+99 Scott Ave is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Calussa, camoufly, Charles D (US) and Chesster and 2 more. See dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Joshwa All Night Long Birthday Set | Joshwa |
 | Sat, 28 Nov 2026 | Space92 *3hr Set* with Charles D | Charles D (US), MEDINA, Space 92 |
 | Fri, 4 Dec 2026 | Linska & Guests | Linska |
 | Sat, 5 Dec 2026 | J. Worra [Extended Set] w. Marco Tropeano | J. Worra, Marco Tropeano, Slaycey |
@@ -23,4 +22,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

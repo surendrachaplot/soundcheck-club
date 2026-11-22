@@ -1,18 +1,18 @@
 # DJ JUANNY
 
-DJ JUANNY is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Sat, 21 Nov 2026.
+DJ JUANNY is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at There/There, San Francisco/Oakland on Fri, 27 Nov 2026.
 
-DJ JUANNY is a club and latin bass artist based in United States of America, with 126 gigs on soundcheck across Los Angeles, Miami and San Francisco/Oakland. Often billed alongside RITCHRD, Yuca Frita and Discnogirl. Next up: TBA - SECRET SF LOCATION, San Francisco/Oakland on Sat 21 Nov.
+DJ JUANNY is a club and latin bass artist based in United States of America, with 126 gigs on soundcheck across Los Angeles, Miami and San Francisco/Oakland. Often billed alongside RITCHRD, Yuca Frita and Discnogirl. Next up: There/There, San Francisco/Oakland on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - SECRET SF LOCATION | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | There/There | San Francisco/Oakland |
 
 ## Recently played
 
+- TBA - SECRET SF LOCATION, San Francisco/Oakland · Sat, 21 Nov 2026
 - Tamarack, San Francisco/Oakland · Sat, 31 Oct 2026
 - Danzhaus/The Gingerbread House, San Francisco/Oakland · Fri, 25 Sept 2026
 - Bar Part Time, San Francisco/Oakland · Sat, 19 Sept 2026
@@ -20,10 +20,9 @@ DJ JUANNY is a club and latin bass artist based in United States of America, wit
 - TBA - SECRET SF LOCATION, San Francisco/Oakland · Fri, 21 Aug 2026
 - Monarch, San Francisco/Oakland · Thu, 20 Aug 2026
 - Tamarack, San Francisco/Oakland · Fri, 3 Jul 2026
-- F8 1192 Folsom, San Francisco/Oakland · Fri, 29 May 2026
 
 ## Shares bills with
 
 RITCHRD, Yuca Frita, Discnogirl
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/DJJUANNY/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/DJJUANNY/)*

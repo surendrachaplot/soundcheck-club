@@ -1,6 +1,6 @@
 # Jan Jelinek
 
-Jan Jelinek is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at ZiMMT, Leipzig on Thu, 26 Nov 2026.
+Jan Jelinek is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ZiMMT, Leipzig on Thu, 26 Nov 2026.
 
 Jan Jelinek is an experimental and ambient artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 16 more. Often billed alongside Leafar Legov, Map.ache and Roméo Poirier. Next up: ZiMMT, Leipzig on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Jan Jelinek is an experimental and ambient artist based in Germany, with 32 gigs
 
 Leafar Legov, Map.ache, Roméo Poirier
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janjelinek/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janjelinek/)*

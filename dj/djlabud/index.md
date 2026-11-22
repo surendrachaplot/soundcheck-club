@@ -1,6 +1,6 @@
 # DJ Labud
 
-DJ Labud is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret location DM @afteregochronicles on instagram, Zagreb on Sat, 28 Nov 2026.
+DJ Labud is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret location DM @afteregochronicles on instagram, Zagreb on Sat, 28 Nov 2026.
 
 DJ Labud is a techno and electronica artist based in Croatia, with 9 gigs on soundcheck across Ljubljana and Zagreb. Often billed alongside Mimi, Carnero and Roberto Brignani. Next up: TBA - Secret location DM @afteregochronicles on instagram, Zagreb on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Labud is a techno and electronica artist based in Croatia, with 9 gigs on sou
 
 Mimi, Carnero, Roberto Brignani
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlabud/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlabud/)*

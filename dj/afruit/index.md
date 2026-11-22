@@ -1,6 +1,6 @@
 # A.Fruit
 
-A.Fruit is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club U, Vienna on Fri, 20 Nov 2026.
+A.Fruit is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club U, Vienna on Fri, 20 Nov 2026.
 
 A.Fruit is a dubstep and bass artist based in Spain, with 27 gigs on soundcheck across Barcelona, Berlin, Bristol and Copenhagen and 9 more. Often billed alongside dj dolares, DUKU and Kercha. Next up: Club U, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ A.Fruit is a dubstep and bass artist based in Spain, with 27 gigs on soundcheck 
 
 dj dolares, DUKU, Kercha
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afruit/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afruit/)*

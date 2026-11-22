@@ -1,6 +1,6 @@
 # Villa Nightclub
 
-Villa Nightclub is a music venue in Perth with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Louis The Child (US)" on Fri, 27 Nov 2026.
+Villa Nightclub is a music venue in Perth with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Louis The Child (US)" on Fri, 27 Nov 2026.
 
 Villa Nightclub is a music venue in Perth listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 187 Stirling Street; Perth, WA 6000; Australia.
 
@@ -15,4 +15,4 @@ Villa Nightclub is a music venue in Perth listed on soundcheck. 2 upcoming gigs.
 
 187 Stirling Street; Perth, WA 6000; Australia, Perth
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/villa-nightclub/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/villa-nightclub/)*

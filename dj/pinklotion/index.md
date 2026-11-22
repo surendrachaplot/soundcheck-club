@@ -1,6 +1,6 @@
 # pinklotion
 
-pinklotion is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Loft, Vienna on Fri, 27 Nov 2026.
+pinklotion is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Loft, Vienna on Fri, 27 Nov 2026.
 
 pinklotion is a techno and trance artist based in Austria, with 62 gigs on soundcheck across Berlin, Munich, Prague and Vienna. Often billed alongside BLUDHOUND, Dj Wifi and Joey. Next up: The Loft, Vienna on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ pinklotion is a techno and trance artist based in Austria, with 62 gigs on sound
 
 BLUDHOUND, Dj Wifi (3), Joey (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinklotion/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinklotion/)*

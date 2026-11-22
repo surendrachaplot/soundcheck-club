@@ -1,18 +1,18 @@
 # Syd Woz
 
-Syd Woz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Under Bron, Stockholm on Sat, 21 Nov 2026.
+Syd Woz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Igloofest, Montreal on Fri, 22 Jan 2027.
 
-Syd Woz is a techno and house artist based in Canada, with 48 gigs on soundcheck across Berlin, Calgary, Helsinki and Montreal and 4 more. Often billed alongside ZDBT, Frankie Teardrop and DJ dood. Next up: Under Bron, Stockholm on Sat 21 Nov.
+Syd Woz is a techno and house artist based in Canada, with 48 gigs on soundcheck across Berlin, Calgary, Helsinki and Montreal and 4 more. Often billed alongside ZDBT, Frankie Teardrop and DJ dood. Next up: Igloofest, Montreal on Fri 22 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Under Bron | Stockholm |
 | Fri, 22 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
 
+- Under Bron, Stockholm · Sat, 21 Nov 2026
 - Stidilä, Helsinki · Sun, 15 Nov 2026
 - Post Bar, Helsinki · Sat, 14 Nov 2026
 - 1088 rue Clark, Montreal · Fri, 30 Oct 2026
@@ -20,10 +20,9 @@ Syd Woz is a techno and house artist based in Canada, with 48 gigs on soundcheck
 - Bar Datcha, Montreal · Fri, 9 Oct 2026
 - Système, Montreal · Fri, 2 Oct 2026
 - TBA, Montreal · Fri, 25 Sept 2026
-- La Récré, Montreal · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 ZDBT, Frankie Teardrop, DJ dood
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*

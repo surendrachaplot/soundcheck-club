@@ -1,15 +1,13 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "SUNSHiiNE" on Sat, 21 Nov 2026.
+Sooki Lounge is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "HILLS DOOF" on Sat, 28 Nov 2026.
 
-Sooki Lounge is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
+Sooki Lounge is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | SUNSHiiNE |  |
-| Sat, 21 Nov 2026 | HDC #137 SOUND SYSTEM |  |
 | Sat, 28 Nov 2026 | HILLS DOOF |  |
 | Fri, 4 Dec 2026 | SUBSONIC /BASS THERAPY |  |
 | Fri, 11 Dec 2026 | iN THE NEXT CHAPTER |  |
@@ -18,4 +16,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

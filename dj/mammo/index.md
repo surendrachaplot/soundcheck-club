@@ -1,6 +1,6 @@
 # Mammo
 
-Mammo is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
+Mammo is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
 
 Mammo is a techno and dub artist based in United States of America, with 6 gigs on soundcheck across Amsterdam, Barcelona and Lisbon. Often billed alongside Andre Cascais, DJ Frog and DOC. Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
 
@@ -22,4 +22,4 @@ Mammo is a techno and dub artist based in United States of America, with 6 gigs 
 
 Andre Cascais, DJ Frog, DOC (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mammo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mammo/)*

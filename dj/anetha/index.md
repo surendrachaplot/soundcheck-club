@@ -1,15 +1,13 @@
 # Anetha
 
-Anetha is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Anetha is a techno and house artist based in France, with 247 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
+Anetha is a techno and house artist based in France, with 247 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
-| Sat, 21 Nov 2026 | TBA | Atlanta |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sun, 29 Nov 2026 | Le Sucre | Lyon |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
@@ -20,9 +18,12 @@ Anetha is a techno and house artist based in France, with 247 gigs on soundcheck
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
+| Sun, 3 Jan 2027 | The Ivy | Sydney |
+| Fri, 22 Jan 2027 | Warehouse | Nantes |
 
 ## Recently played
 
+- DWH Studio ATL, Atlanta · Sat, 21 Nov 2026
 - Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - Flash, Washington DC · Thu, 19 Nov 2026
 - Club Cultural Lima, Peru · Fri, 30 Oct 2026
@@ -30,10 +31,9 @@ Anetha is a techno and house artist based in France, with 247 gigs on soundcheck
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - Palladium, Geneva · Sat, 10 Oct 2026
-- Hï Ibiza, Ibiza · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Mac Declos, SPFDJ, DJ Gigola
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "J1 - Laure Croft b2b Henning Baer, Hellix, Ola Teks" on Sat, 21 Nov 2026.
+Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "J1 - Adiel" on Fri, 27 Nov 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including Adiel, Andy Martin, Archypness and Contakt and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including Adiel, Andy Martin, Archypness and Contakt and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | J1 - Laure Croft b2b Henning Baer, Hellix, Ola Teks | Hellix, Henning Baer, Laure Croft, Ola Teks |
 | Fri, 27 Nov 2026 | J1 - Adiel | Adiel, Liza Azemsha, MATRIX3K, Pawel Blot, daisy cutter |
 | Sat, 28 Nov 2026 | J1 - Paranoid London [hybrid], Kovvalsky, Viikatory, Mic Ostap | Kovvalsky, Mic Ostap, Paranoid London, Viikatory |
 | Fri, 4 Dec 2026 | J1 / Shadows: Andy Martin, Costanza, Feral LIVE, MKO | Andy Martin, Costanza, Feral, MKO (PL) |
@@ -23,4 +22,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with 
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

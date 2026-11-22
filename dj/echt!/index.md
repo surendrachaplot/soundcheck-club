@@ -1,14 +1,13 @@
 # ECHT!
 
-ECHT! is a Electronica and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+ECHT! is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-ECHT! is an electronica and jazz artist based in France, with 21 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Cheb Runner, DJ Marcelle and Jane Fitz. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+ECHT! is an electronica and jazz artist based in France, with 21 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Cheb Runner, DJ Marcelle and Jane Fitz. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -26,4 +25,4 @@ ECHT! is an electronica and jazz artist based in France, with 21 gigs on soundch
 
 Cheb Runner, DJ Marcelle, Jane Fitz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echt!/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echt!/)*

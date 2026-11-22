@@ -1,6 +1,6 @@
 # Rasa (IN)
 
-Rasa (IN) is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Gut Level, Sheffield on Sun, 22 Nov 2026.
+Rasa (IN) is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gut Level, Sheffield on Sun, 22 Nov 2026.
 
 Rasa (IN) is a bass and garage artist based in India, with 18 gigs on soundcheck across Bangkok, Barcelona, Berlin and Hanoi and 10 more. Often billed alongside Anna Morgan, Clava and Kivi. Next up: Gut Level, Sheffield on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Rasa (IN) is a bass and garage artist based in India, with 18 gigs on soundcheck
 
 Anna Morgan, Clava, Kivi (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rasain/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rasain/)*

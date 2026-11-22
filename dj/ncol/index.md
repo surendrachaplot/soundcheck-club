@@ -1,6 +1,6 @@
 # NCOL
 
-NCOL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 11 Dec 2026.
+NCOL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 11 Dec 2026.
 
 NCOL is a techno and trance artist based in Czech Republic, with 73 gigs on soundcheck across Berlin, Bratislava, Nantes and Prague and 2 more. Often billed alongside Yan (CZ), Feenicks and Raphael Kosmos. Next up: Ankali & Planeta Za, Prague on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ NCOL is a techno and trance artist based in Czech Republic, with 73 gigs on soun
 
 Yan (CZ), Feenicks, Raphael Kosmos
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ncol/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ncol/)*

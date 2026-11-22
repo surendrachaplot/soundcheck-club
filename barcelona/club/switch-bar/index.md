@@ -1,14 +1,13 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Yann Eras & Astro Miriam" on Sat, 21 Nov 2026.
+Switch Bar is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "inner quiet, Vultur" on Wed, 25 Nov 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Oslo, inner quiet, Konnin and LeMichael and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Acid Oslo, inner quiet, Konnin and LeMichael and 1 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Yann Eras & Astro Miriam | Yann Eras |
 | Wed, 25 Nov 2026 | inner quiet, Vultur | inner quiet |
 | Thu, 26 Nov 2026 | HiFi: La K.o.s.h., ILLITH, Deza |  |
 | Fri, 27 Nov 2026 | Symbiotical Records: Nicola Brusegan, Anthony Logan, Gran Vía Sessions | Nicola Brusegan |
@@ -22,4 +21,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, 
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

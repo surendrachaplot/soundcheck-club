@@ -1,6 +1,6 @@
 # Closer #120 Amelia /// Setaoc Mass - Phil Berg - Toru Ikemoto - Tauceti - Richard Akingbehin at Circolo Amelia
 
-Closer #120 Amelia /// Setaoc Mass - Phil Berg - Toru Ikemoto - Tauceti - Richard Akingbehin at Circolo Amelia on Sat 12 Dec, Milan. 7 artists: Phil Berg, Richard Akingbehin, Rorschack and Setaoc Mass and 3 more. See the line-up on soundcheck.
+Closer #120 Amelia /// Setaoc Mass - Phil Berg - Toru Ikemoto - Tauceti - Richard Akingbehin at Circolo Amelia on Sat 12 Dec, Milan. 7 artists: Phil Berg, Richard Akingbehin, Rorschack and Setaoc Mass and 3 more. Techno and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

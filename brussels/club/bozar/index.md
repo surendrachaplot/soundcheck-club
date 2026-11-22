@@ -1,6 +1,6 @@
 # Bozar
 
-Bozar is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Bozar Bassment #3: Carrier - 33" on Thu, 17 Dec 2026.
+Bozar is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Bozar Bassment #3: Carrier - 33" on Thu, 17 Dec 2026.
 
 Bozar is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Carrier (Aus), Coline Cornélis, Lechuga Zafiro and Stenny and 2 more. See dates, start times and who's playing. Rue Ravensteinstraat 23, 1000 Brussels, Belgium.
 
@@ -16,4 +16,4 @@ Bozar is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with l
 
 Rue Ravensteinstraat 23, 1000 Brussels, Belgium, Brussels
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bozar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bozar/)*

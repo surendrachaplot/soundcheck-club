@@ -1,6 +1,6 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Stef Davidse is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
 Stef Davidse is a house and tech house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 19 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 108 gig
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

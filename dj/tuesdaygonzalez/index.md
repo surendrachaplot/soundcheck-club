@@ -1,6 +1,6 @@
 # Tuesday Gonzalez
 
-Tuesday Gonzalez is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 28 Nov 2026.
+Tuesday Gonzalez is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 28 Nov 2026.
 
 Tuesday Gonzalez is a disco and funk / soul artist based in United Kingdom, with 39 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Percy Main, Soul Jam and David Barbarossa. Next up: Sneaky Pete's, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tuesday Gonzalez is a disco and funk / soul artist based in United Kingdom, with
 
 Percy Main, Soul Jam, David Barbarossa
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesdaygonzalez/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesdaygonzalez/)*

@@ -1,6 +1,6 @@
 # Munkwerk
 
-Munkwerk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
+Munkwerk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
 
 Munkwerk is a house and techno artist based in Denmark, with 7 gigs on soundcheck across London. Often billed alongside Abobo, Hans Raider and Melaena. Next up: Vespers Club, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Munkwerk is a house and techno artist based in Denmark, with 7 gigs on soundchec
 
 Abobo, Hans Raider, Melaena
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munkwerk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munkwerk/)*

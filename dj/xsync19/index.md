@@ -1,13 +1,14 @@
 # XSYNC19
 
-XSYNC19 is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat, 12 Dec 2026.
+XSYNC19 is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Fri, 27 Nov 2026.
 
-XSYNC19 is a hardcore and gabber artist based in Latvia, with 22 gigs on soundcheck across Riga. Often billed alongside MVKO, oshigakill and excels. Next up: TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat 12 Dec.
+XSYNC19 is a hardcore and gabber artist based in Latvia, with 23 gigs on soundcheck across Riga. Often billed alongside MVKO, oshigakill and excels. Next up: Korpuss, Riga on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Korpuss | Riga |
 | Sat, 12 Dec 2026 | TBA - SECRET LOCATION, GRĪZIŅKALNS | Riga |
 | Sat, 12 Dec 2026 | TBA - SECRET LOCATION, GRĪZIŅKALNS | Riga |
 
@@ -26,4 +27,4 @@ XSYNC19 is a hardcore and gabber artist based in Latvia, with 22 gigs on soundch
 
 MVKO, oshigakill, excels
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*

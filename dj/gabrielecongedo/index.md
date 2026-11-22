@@ -1,6 +1,6 @@
 # Gabriele Congedo
 
-Gabriele Congedo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 4 Dec 2026.
+Gabriele Congedo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 4 Dec 2026.
 
 Gabriele Congedo is a house and deep house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin and Dresden. Often billed alongside Ector Nina, Gary Caos and Schmuckelster. Next up: Bulbul Berlin, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Gabriele Congedo is a house and deep house artist based in Germany, with 25 gigs
 
 Ector Nina, Gary Caos, Schmuckelster
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielecongedo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielecongedo/)*

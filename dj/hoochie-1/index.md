@@ -1,6 +1,6 @@
 # HOOCHIE (1)
 
-HOOCHIE (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 3oz Dive Club, San Diego on Fri, 4 Dec 2026.
+HOOCHIE (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 3oz Dive Club, San Diego on Fri, 4 Dec 2026.
 
 HOOCHIE is a techno and electro artist based in United States of America, with 10 gigs on soundcheck across Detroit and San Diego. Often billed alongside AKONA, AMZEL and ARP8. Next up: 3oz Dive Club, San Diego on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ HOOCHIE is a techno and electro artist based in United States of America, with 1
 
 AKONA, AMZEL, ARP8
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoochie-1/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoochie-1/)*

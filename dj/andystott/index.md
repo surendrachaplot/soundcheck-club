@@ -1,6 +1,6 @@
 # Andy Stott
 
-Andy Stott is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Institute of Contemporary Arts London, London on Sat, 12 Dec 2026.
+Andy Stott is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Institute of Contemporary Arts London, London on Sat, 12 Dec 2026.
 
 Andy Stott is an experimental and techno artist based in United Kingdom, with 31 gigs on soundcheck across Athens, Austin, Barcelona and Berlin and 19 more. Often billed alongside Debit, Demdike Stare and The Bug. Next up: The Institute of Contemporary Arts London, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Andy Stott is an experimental and techno artist based in United Kingdom, with 31
 
 Debit, Demdike Stare, The Bug
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*

@@ -1,6 +1,6 @@
 # Danse Atmos
 
-Danse Atmos is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 19 Dec 2026.
+Danse Atmos is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 19 Dec 2026.
 
 Danse Atmos is a house and disco artist based in United Kingdom, with 42 gigs on soundcheck across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: The Marlborough Red Room, Glasgow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Danse Atmos is a house and disco artist based in United Kingdom, with 42 gigs on
 
 Stevie Cox, Hayley Zalassi, Big Miz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*

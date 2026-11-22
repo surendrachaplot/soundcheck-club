@@ -1,22 +1,22 @@
 # Amuleto Apotropaico
 
-Amuleto Apotropaico is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at B.Leza, Lisbon on Thu, 19 Nov 2026.
+Amuleto Apotropaico is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Morphine Raum, Berlin on Thu, 3 Dec 2026.
 
-Amuleto Apotropaico is an electronica and experimental artist based in Portugal, with 3 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside System Sophie, Tyler Friedman and USOF. Next up: B.Leza, Lisbon on Thu 19 Nov.
+Amuleto Apotropaico is an electronica and experimental artist based in Portugal, with 3 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside System Sophie, Tyler Friedman and USOF. Next up: Morphine Raum, Berlin on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | B.Leza | Lisbon |
 | Thu, 3 Dec 2026 | Morphine Raum | Berlin |
 
 ## Recently played
 
+- B.Leza, Lisbon · Thu, 19 Nov 2026
 - Passos Manuel, Porto · Sat, 14 Nov 2026
 
 ## Shares bills with
 
 System Sophie, Tyler Friedman, USOF
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amuletoapotropaico/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amuletoapotropaico/)*

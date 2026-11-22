@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "BergWacht with Victor Ruiz uvm" on Sat, 21 Nov 2026.
+Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "FAST FEELINGS: POP • TECHNO • QUEER" on Fri, 27 Nov 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including ADEMES, alleira, Boris and DJ Discostoff and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including ADEMES, alleira, Boris and DJ Discostoff and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | BergWacht with Victor Ruiz uvm | Liho, Max Blumen, Victor Ruiz |
 | Fri, 27 Nov 2026 | FAST FEELINGS: POP • TECHNO • QUEER |  |
 | Sat, 28 Nov 2026 | Lange Nacht der Kölner Kollektive | ADEMES, DJ Discostoff, Elyante, LSG, MARRED, MAURO, OSKAMAXX, Pamela Rave, Paranormila, VINYA |
 | Fri, 4 Dec 2026 | Klaudia Gawlas / Michael Klotz uvm. by ARTOFURBANLIFE & HIGH VOLTAGE | Klaudia Gawlas, Michael Klotz |
@@ -20,4 +19,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

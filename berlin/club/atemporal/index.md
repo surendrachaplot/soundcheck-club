@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "noesis" on Sun, 22 Nov 2026.
+Atemporal is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "noesis" on Sun, 22 Nov 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including annna, kiku❁, Okouru and Okvsho and 2 more. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -16,11 +16,11 @@ Atemporal is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 | Sun, 29 Nov 2026 | Sattva Session |  |
 | Mon, 30 Nov 2026 | Living Room Meditation- Mindfulness, somatic practice & sound |  |
 | Wed, 2 Dec 2026 | KHIRON Techno Therapy | Reka |
-| Sat, 5 Dec 2026 | RAY LOZANO – COME TOGETHERAn evening with songs & stories |  |
+| Sat, 5 Dec 2026 | RAY LOZANO – COME TOGETHER An evening with songs & stories |  |
 | Sun, 6 Dec 2026 | RADIANCE | Synthtati |
 
 ## Address
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

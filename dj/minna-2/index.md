@@ -1,14 +1,13 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+MiNNA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Merchant, Liverpool on Sat, 26 Dec 2026.
 
-MiNNA is a house and disco artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 31 more. Often billed alongside Kirollus, Dan Shake and Melvo Baptiste. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+MiNNA is a house and disco artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 31 more. Often billed alongside Kirollus, Dan Shake and Melvo Baptiste. Next up: The Merchant, Liverpool on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 26 Dec 2026 | The Merchant | Liverpool |
 | Sat, 1 May 2027 | Various Venues | London |
 
@@ -27,4 +26,4 @@ MiNNA is a house and disco artist based in United Kingdom, with 162 gigs on soun
 
 Kirollus, Dan Shake, Melvo Baptiste
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

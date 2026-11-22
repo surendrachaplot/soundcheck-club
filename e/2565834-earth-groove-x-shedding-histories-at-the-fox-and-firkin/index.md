@@ -1,6 +1,6 @@
 # Earth Groove X Shedding Histories at The Fox and Firkin
 
-Earth Groove X Shedding Histories at The Fox and Firkin on Sat 28 Nov, London. 4 artists: Bena, Chameleonas, Cosmo Sofi and Edible. Jazz and Club. See the line-up on soundcheck.
+Earth Groove X Shedding Histories at The Fox and Firkin on Sat 28 Nov, London. 4 artists: ben A, Chameleonas, Cosmo Sofi and Edible. Jazz and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Earth Groove X Shedding Histories at The Fox and Firkin on Sat 28 Nov, London. 4
 
 ## Line-up
 
-- Bena
+- ben A
 - Chameleonas
 - Cosmo Sofi
 - Edible

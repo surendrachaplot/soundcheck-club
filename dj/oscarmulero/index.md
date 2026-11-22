@@ -1,14 +1,13 @@
 # Oscar Mulero
 
-Oscar Mulero is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Industrial Copera, South on Sat, 21 Nov 2026.
+Oscar Mulero is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at essaim, Paris on Fri, 4 Dec 2026.
 
-Oscar Mulero is a techno and house artist based in Spain, with 182 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Adriana Lopez, Ben Sims and DVS1. Next up: Industrial Copera, South on Sat 21 Nov.
+Oscar Mulero is a techno and house artist based in Spain, with 182 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Adriana Lopez, Ben Sims and DVS1. Next up: essaim, Paris on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Industrial Copera | South |
 | Fri, 4 Dec 2026 | essaim | Paris |
 | Sat, 19 Dec 2026 | FOLD | London |
 | Sat, 26 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -19,6 +18,7 @@ Oscar Mulero is a techno and house artist based in Spain, with 182 gigs on sound
 
 ## Recently played
 
+- Industrial Copera, South · Sat, 21 Nov 2026
 - Circolo Amelia, Milan · Sat, 14 Nov 2026
 - Poolen, Copenhagen · Fri, 13 Nov 2026
 - Nitsa Club, Barcelona · Sat, 31 Oct 2026
@@ -26,10 +26,9 @@ Oscar Mulero is a techno and house artist based in Spain, with 182 gigs on sound
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Fri, 23 Oct 2026
-- Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Adriana Lopez, Ben Sims, DVS1
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*

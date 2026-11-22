@@ -1,6 +1,6 @@
 # Olive Anguz
 
-Olive Anguz is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
+Olive Anguz is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
 
 Olive Anguz is a trance and techno artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Bogotá, Dortmund / Essen and Ghent and 8 more. Often billed alongside Benwal, NewTone and Alycia Bezgo. Next up: Thuishaven, Amsterdam on Sun 22 Nov.
 
@@ -32,4 +32,4 @@ Olive Anguz is a trance and techno artist based in Netherlands, with 23 gigs on 
 
 Benwal, NewTone, Alycia Bezgo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*

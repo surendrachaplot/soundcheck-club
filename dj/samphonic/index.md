@@ -1,6 +1,6 @@
 # SAM PHONIC
 
-SAM PHONIC is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
+SAM PHONIC is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
 
 SAM PHONIC is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across London. Often billed alongside Shiloh (UK), Olly Brady and BOA. Next up: Ministry Of Sound, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ SAM PHONIC is a house and tech house artist based in United Kingdom, with 19 gig
 
 Shiloh (UK), Olly Brady, BOA (1)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samphonic/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samphonic/)*

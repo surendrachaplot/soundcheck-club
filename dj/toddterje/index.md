@@ -1,6 +1,6 @@
 # Todd Terje
 
-Todd Terje is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Phonox, London on Sat, 19 Dec 2026.
+Todd Terje is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Phonox, London on Sat, 19 Dec 2026.
 
 Todd Terje is a house and disco artist based in Norway, with 92 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside CC:DISCO!, Jayda G and Skatebård. Next up: Phonox, London on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Todd Terje is a house and disco artist based in Norway, with 92 gigs on soundche
 
 CC:DISCO!, Jayda G, Skatebård
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*

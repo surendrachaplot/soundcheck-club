@@ -1,6 +1,6 @@
 # Sirsax
 
-Sirsax is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Zamna Tulum, Tulum on Thu, 31 Dec 2026.
+Sirsax is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Zamna Tulum, Tulum on Thu, 31 Dec 2026.
 
 Sirsax is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across Ibiza and Tulum. Often billed alongside Deep Dish, ELIF and Echonomist. Next up: Zamna Tulum, Tulum on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Sirsax is an electronic artist based in United Kingdom, with 3 gigs on soundchec
 
 Deep Dish, ELIF, Echonomist
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirsax/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirsax/)*

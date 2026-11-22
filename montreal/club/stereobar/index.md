@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Analog Volts x SB: GNMR - LAMALICE - Toke (live)" on Sat, 21 Nov 2026.
+StereoBar is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Monitors b2b Napo Lugo - Kressel (Live) - Staziä" on Fri, 27 Nov 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including AGELESS, Cam Stockman, Dimitry and Flytz and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including AGELESS, Cam Stockman, Dimitry and Flytz and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Analog Volts x SB: GNMR - LAMALICE - Toke (live) | GNMR, LAMALICE |
 | Fri, 27 Nov 2026 | Monitors b2b Napo Lugo - Kressel (Live) - Staziä | Monitors, Napo Lugo, Stazia |
 | Sat, 28 Nov 2026 | Hilel Lev (All Night Long) | Hilel Lev |
 | Fri, 4 Dec 2026 | Ced Ullberg - Lizzi - Roomservice |  |
@@ -23,4 +22,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, w
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

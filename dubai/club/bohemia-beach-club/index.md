@@ -1,14 +1,13 @@
 # Bohemia Beach Club
 
-Bohemia Beach Club is a music venue in Dubai with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Bohemia presents MK" on Sat, 21 Nov 2026.
+Bohemia Beach Club is a music venue in Dubai with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Bohemia presents Mita Gami" on Sat, 28 Nov 2026.
 
-Bohemia Beach Club is a music venue in Dubai listed on soundcheck. 8 upcoming gigs, with line-ups including East End Dubs, John Bowtie, Kimonos and Miguelle and 2 more. See dates, start times and who's playing. FIVE Palm Jumeirah - No 1 - The Palm Jumeirah -  Dubai - United Arab Emirates.
+Bohemia Beach Club is a music venue in Dubai listed on soundcheck. 7 upcoming gigs, with line-ups including East End Dubs, John Bowtie, Kimonos and Miguelle and 2 more. See dates, start times and who's playing. FIVE Palm Jumeirah - No 1 - The Palm Jumeirah -  Dubai - United Arab Emirates.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Bohemia presents MK |  |
 | Sat, 28 Nov 2026 | Bohemia presents Mita Gami | Kimonos |
 | Sat, 5 Dec 2026 | Bohemia presents John Bowtie B2B Paul Svenson, Kori Hall B2B FKR, Stasi Sanlin | John Bowtie, Paul Svenson (2), Stasi Sanlin |
 | Sat, 12 Dec 2026 | Bohemia presents Miguelle & TONS | Miguelle, TONS |
@@ -21,4 +20,4 @@ Bohemia Beach Club is a music venue in Dubai listed on soundcheck. 8 upcoming gi
 
 FIVE Palm Jumeirah - No 1 - The Palm Jumeirah -  Dubai - United Arab Emirates, Dubai
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/bohemia-beach-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/bohemia-beach-club/)*

@@ -1,6 +1,6 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+Lindsey Herbert is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
 
 Lindsey Herbert is a techno and house artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 35 more. Often billed alongside Richie Hawtin, Max Gardner and PLEASURES (US). Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
 
@@ -8,7 +8,6 @@ Lindsey Herbert is a techno and house artist based in United States of America, 
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 12 Dec 2026 | TBA - New warehouse | San Francisco/Oakland |
@@ -29,4 +28,4 @@ Lindsey Herbert is a techno and house artist based in United States of America, 
 
 Richie Hawtin, Max Gardner, PLEASURES (US)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

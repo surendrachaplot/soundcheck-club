@@ -1,6 +1,6 @@
 # VELOTA
 
-VELOTA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
+VELOTA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
 
 VELOTA is a techno and trance artist based in Belgium, with 2 gigs on soundcheck across Belgium and Brussels. Often billed alongside Cri du Coeur, Dave Angel and Ferdinger. Next up: Off-Club, Belgium on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ VELOTA is a techno and trance artist based in Belgium, with 2 gigs on soundcheck
 
 Cri du Coeur, Dave Angel, Ferdinger
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velota/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velota/)*

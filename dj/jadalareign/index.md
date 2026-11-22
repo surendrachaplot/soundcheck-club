@@ -1,6 +1,6 @@
 # JADALAREIGN
 
-JADALAREIGN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brooklyn Warehouse Location <3, New York City on Sun, 29 Nov 2026.
+JADALAREIGN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Brooklyn Warehouse Location <3, New York City on Sun, 29 Nov 2026.
 
 JADALAREIGN is a house and techno artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 24 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: TBA - Brooklyn Warehouse Location <3, New York City on Sun 29 Nov.
 
@@ -28,4 +28,4 @@ JADALAREIGN is a house and techno artist based in United States of America, with
 
 Mike Servito, Ash Lauryn, Carlos Souffront
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*

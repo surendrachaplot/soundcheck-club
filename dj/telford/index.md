@@ -1,19 +1,19 @@
 # Telford
 
-Telford is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sub Club, Glasgow on Sat, 21 Nov 2026.
+Telford is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Sub Club, Glasgow on Sat, 26 Dec 2026.
 
-Telford is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Dundee and Glasgow. Often billed alongside Stevie Cox, DJ Harri and Harri & Domenic. Next up: Sub Club, Glasgow on Sat 21 Nov.
+Telford is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Dundee and Glasgow. Often billed alongside Stevie Cox, DJ Harri and Harri & Domenic. Next up: Sub Club, Glasgow on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Sub Club | Glasgow |
 | Sat, 26 Dec 2026 | Sub Club | Glasgow |
 | Thu, 31 Dec 2026 | Sub Club | Glasgow |
 
 ## Recently played
 
+- Sub Club, Glasgow · Sat, 21 Nov 2026
 - Sub Club, Glasgow · Sat, 3 Oct 2026
 - Sub Club, Glasgow · Sat, 5 Sept 2026
 - TBA, Glasgow · Sat, 5 Sept 2026
@@ -21,10 +21,9 @@ Telford is a house and techno artist based in United Kingdom, with 58 gigs on so
 - Sub Club, Glasgow · Sat, 25 Jul 2026
 - Sub Club, Glasgow · Sat, 6 Jun 2026
 - TBA, Glasgow · Sat, 30 May 2026
-- Sub Club, Glasgow · Sat, 23 May 2026
 
 ## Shares bills with
 
 Stevie Cox, DJ Harri, Harri & Domenic
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telford/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telford/)*

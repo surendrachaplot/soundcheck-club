@@ -1,6 +1,6 @@
 # TBA - Lisboa
 
-TBA - Lisboa is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ANDCO" on Fri, 27 Nov 2026.
+TBA - Lisboa is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ANDCO" on Fri, 27 Nov 2026.
 
 TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Andion, Billi, Dana Kuehr and Dj Danifox and 2 more. See dates, start times and who's playing. To Be Announced.
 
@@ -17,4 +17,4 @@ TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, w
 
 To Be Announced, Lisbon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-lisboa/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-lisboa/)*

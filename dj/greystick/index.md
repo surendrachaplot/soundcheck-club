@@ -1,6 +1,6 @@
 # Greystick
 
-Greystick is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 4 Dec 2026.
+Greystick is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 4 Dec 2026.
 
 Greystick is a techno and acid artist, with 22 gigs on soundcheck across Bali, Hanoi, Ho Chi Minh City and Kuala Lumpur and 1 more. Often billed alongside Sheytan, Jason Voon and Alam. Next up: Pisco Bar, Kuala Lumpur on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Greystick is a techno and acid artist, with 22 gigs on soundcheck across Bali, H
 
 Sheytan, Jason Voon, Alam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greystick/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greystick/)*

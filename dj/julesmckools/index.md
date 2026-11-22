@@ -1,6 +1,6 @@
 # JULESMCKOOLS
 
-JULESMCKOOLS is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mood Ring, New York City on Wed, 2 Dec 2026.
+JULESMCKOOLS is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mood Ring, New York City on Wed, 2 Dec 2026.
 
 JULESMCKOOLS is a house and breakbeat artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside GUAVA (BK), Ah Dek and Lilflower. Next up: Mood Ring, New York City on Wed 2 Dec.
 
@@ -22,4 +22,4 @@ JULESMCKOOLS is a house and breakbeat artist based in United States of America, 
 
 GUAVA (BK), Ah Dek, Lilflower
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julesmckools/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julesmckools/)*

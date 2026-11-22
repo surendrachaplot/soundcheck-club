@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "TRAMA with Robert Leiner" on Sat, 21 Nov 2026.
+Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "TRAMA with Robert Leiner" on Sat, 21 Nov 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Amperia, Babu, Beatrice (DE) and Betamax_ and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -22,4 +22,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, w
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

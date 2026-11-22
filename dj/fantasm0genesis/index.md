@@ -1,6 +1,6 @@
 # fantasm0genesis
 
-fantasm0genesis is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
+fantasm0genesis is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
 
 fantasm0genesis is an ambient and experimental artist based in Mexico, with 3 gigs on soundcheck across Mexico City. Often billed alongside Aqua Mute, 409 and Awa (uwu). Next up: TBA - Roma, Norte, Mexico City on Sat 21 Nov.
 
@@ -12,6 +12,7 @@ fantasm0genesis is an ambient and experimental artist based in Mexico, with 3 gi
 
 ## Recently played
 
+- TBA - Roma, Norte, Mexico City · Sat, 21 Nov 2026
 - TBA -  SINIESTRO CLUB SOCIAL , Mexico City · Sat, 17 Oct 2026
 - Dolores54, Mexico City · Sat, 22 Aug 2026
 
@@ -19,4 +20,4 @@ fantasm0genesis is an ambient and experimental artist based in Mexico, with 3 gi
 
 Aqua Mute, 409, Awa (uwu)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm0genesis/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm0genesis/)*

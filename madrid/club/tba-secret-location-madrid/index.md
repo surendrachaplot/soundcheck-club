@@ -1,6 +1,6 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "MyPleasure // ANNIVERSARY WEEK // Ending" on Mon, 7 Dec 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "MyPleasure // ANNIVERSARY WEEK // Ending" on Mon, 7 Dec 2026.
 
 TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Byron Yeates, Josh Caffé and Lino Fuso. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 
 | Mon, 7 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Ending | Byron Yeates, Josh Caffé |
 | Sat, 26 Jun 2027 | Endless Madrid | Lino Fuso |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*

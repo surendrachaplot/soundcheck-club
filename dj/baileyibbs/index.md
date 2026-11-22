@@ -1,14 +1,13 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Liquid Club, Malta on Sat, 21 Nov 2026.
+Bailey Ibbs is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Fuse, Brussels on Fri, 4 Dec 2026.
 
-Bailey Ibbs is a techno and house artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 54 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: Liquid Club, Malta on Sat 21 Nov.
+Bailey Ibbs is a techno and house artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 54 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: Fuse, Brussels on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Liquid Club | Malta |
 | Fri, 4 Dec 2026 | Fuse | Brussels |
 | Fri, 11 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 12 Dec 2026 | Valsemøllen | Bergen |
@@ -16,6 +15,7 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 177 gigs 
 
 ## Recently played
 
+- Liquid Club, Malta · Sat, 21 Nov 2026
 - BRET, Amsterdam · Sun, 8 Nov 2026
 - Tresor.West, Dortmund / Essen · Sat, 7 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 31 Oct 2026
@@ -23,10 +23,9 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 177 gigs 
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sat, 17 Oct 2026
 - The Ivy, Sydney · Sat, 17 Oct 2026
 - Starlane Pizza Bar, London · Sat, 10 Oct 2026
-- La Java, Paris · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 JKS, Paige (Night Service), future.666
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

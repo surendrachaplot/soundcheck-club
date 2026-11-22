@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "M.A.D Records 6th BIRTHDAY" on Sat, 21 Nov 2026.
+NUMBER 90 LONDON is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Cartulis 17th Anniversary After Party" on Sun, 22 Nov 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Akua, Alba Heidari, Alisdair and Amaliah and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -8,7 +8,6 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | M.A.D Records 6th BIRTHDAY | Ellie Anderson, Make A Dance, Tino |
 | Sun, 22 Nov 2026 | Cartulis 17th Anniversary After Party | Cecilio, Laurine |
 | Fri, 27 Nov 2026 | Faem e Li presents: Malix & Friends | Amaliah, LORA S, Nyra, Selassie TBC, malix |
 | Fri, 27 Nov 2026 | SEXTOU 19 | Akua, FURIA MISTICA, TEDESCO, Technoslave_69 |
@@ -18,9 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gi
 | Fri, 11 Dec 2026 | Klub Verboten x LONDON | Alba Heidari, Diana Isi, Gareth Wild, Oliver Scala |
 | Fri, 18 Dec 2026 | Granville Collective - London | Alisdair, LEN., Raef., Redshift (2), Revstreet |
 | Thu, 31 Dec 2026 | Slipped Disc NYE ✧ Anish Kumar, Pangaea, Storm Mollison, Yemz + more | Anish Kumar, Pangaea, Storm Mollison, Yemz |
+| Thu, 31 Dec 2026 | SHIBUI - NYE | Dub Intentions, Jive Talk, Mannequin, Smeagal Pilly |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

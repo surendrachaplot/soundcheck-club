@@ -1,6 +1,6 @@
 # Kaotic
 
-Kaotic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bike Jesus, Prague on Fri, 11 Dec 2026.
+Kaotic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bike Jesus, Prague on Fri, 11 Dec 2026.
 
 Kaotic is a techno and house artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Budapest and Prague. Often billed alongside Fembot, Big Lil and Misha Jaru. Next up: Bike Jesus, Prague on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Kaotic is a techno and house artist based in Italy, with 25 gigs on soundcheck a
 
 Fembot, Big Lil, Misha Jaru
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaotic/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaotic/)*

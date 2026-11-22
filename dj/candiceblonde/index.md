@@ -1,6 +1,6 @@
 # Candice Blonde
 
-Candice Blonde is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
+Candice Blonde is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
 
 Candice Blonde is a techno and minimal techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Bonq, ASTRANA and Ace9. Next up: ://about blank, Berlin on Sat 9 Jan.
 
@@ -21,4 +21,4 @@ Candice Blonde is a techno and minimal techno artist based in Germany, with 5 gi
 
 Bonq, ASTRANA, Ace9
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candiceblonde/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candiceblonde/)*

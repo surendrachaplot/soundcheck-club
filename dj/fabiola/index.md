@@ -1,6 +1,6 @@
 # Fabiola
 
-Fabiola is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
+Fabiola is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
 
 Fabiola is a techno and acid artist, with 73 gigs on soundcheck across Berlin, Buenos Aires, Chicago and Detroit and 6 more. Often billed alongside Alexx in Chainss, Carozilla and DJ Etta (US). Next up: Bossa Nova Civic Club, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fabiola is a techno and acid artist, with 73 gigs on soundcheck across Berlin, B
 
 Alexx in Chainss, Carozilla, DJ Etta (US)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*

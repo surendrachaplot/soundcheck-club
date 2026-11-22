@@ -1,6 +1,6 @@
 # Vitamin T
 
-Vitamin T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Locke, Hamburg on Sat, 28 Nov 2026.
+Vitamin T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Locke, Hamburg on Sat, 28 Nov 2026.
 
 Vitamin T is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Hamburg and 1 more. Often billed alongside Antonym, Love Defender and SIGNAL (JP). Next up: Locke, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vitamin T is a techno and house artist based in Germany, with 24 gigs on soundch
 
 Antonym, Love Defender, SIGNAL (JP)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamint/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamint/)*

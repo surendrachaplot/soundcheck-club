@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "KINKY RAVE w/ Lockhart (UK)" on Fri, 4 Dec 2026.
+Teritorija is a music venue in Riga with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "KINKY RAVE w/ Lockhart (UK)" on Fri, 4 Dec 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 4 upcoming gigs, with line-ups including Ksenia Kamikaza, LETRIX, Lockhart and Marco Ramos and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -17,4 +17,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 4 upcoming gigs, with 
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

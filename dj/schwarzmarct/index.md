@@ -1,8 +1,8 @@
 # Schwarzmarct
 
-Schwarzmarct is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Das Werk, Vienna on Sat, 5 Dec 2026.
+Schwarzmarct is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Das Werk, Vienna on Sat, 5 Dec 2026.
 
-Schwarzmarct is a techno artist, with 3 gigs on soundcheck across Vienna. Often billed alongside Albin Brezlan, Huebl and Dimitri Cooman. Next up: Das Werk, Vienna on Sat 5 Dec.
+Schwarzmarct is a techno artist based in Austria, with 3 gigs on soundcheck across Vienna. Often billed alongside Albin Brezlan, Huebl and Dimitri Cooman. Next up: Das Werk, Vienna on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Schwarzmarct is a techno artist, with 3 gigs on soundcheck across Vienna. Often 
 
 Albin Brezlan, Huebl, Dimitri Cooman
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzmarct/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzmarct/)*

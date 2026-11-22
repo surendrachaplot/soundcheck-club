@@ -1,8 +1,8 @@
 # Jason Kaakoush
 
-Jason Kaakoush is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Warehouse Beirut, Beirut on Sat, 5 Dec 2026.
+Jason Kaakoush is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Warehouse Beirut, Beirut on Sat, 5 Dec 2026.
 
-Jason Kaakoush is an electronic artist, with 4 gigs on soundcheck across Beirut and London. Often billed alongside Sama' Abdulhadi, Tapefeed and YA Z AN. Next up: Warehouse Beirut, Beirut on Sat 5 Dec.
+Jason Kaakoush is an electronic artist based in Lebanon, with 4 gigs on soundcheck across Beirut and London. Often billed alongside Sama' Abdulhadi, Tapefeed and YA Z AN. Next up: Warehouse Beirut, Beirut on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Jason Kaakoush is an electronic artist, with 4 gigs on soundcheck across Beirut 
 
 Sama' Abdulhadi, Tapefeed, YA Z AN
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkaakoush/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkaakoush/)*

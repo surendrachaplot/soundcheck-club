@@ -1,6 +1,6 @@
 # Braden
 
-Braden is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Not For Sale Gallery, London on Fri, 1 Jan 2027.
+Braden is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Not For Sale Gallery, London on Fri, 1 Jan 2027.
 
 Braden is a drum & bass and techno artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Atlants, BABY MONET and Barbie Playing Tennis. Next up: Not For Sale Gallery, London on Fri 1 Jan.
 
@@ -21,4 +21,4 @@ Braden is a drum & bass and techno artist based in United Kingdom, with 5 gigs o
 
 Atlants, BABY MONET, Barbie Playing Tennis
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/braden/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/braden/)*

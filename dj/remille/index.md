@@ -1,6 +1,6 @@
 # Remille
 
-Remille is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 20 Nov 2026.
+Remille is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 20 Nov 2026.
 
 Remille is a house and deep house artist based in Mexico, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 4 more. Often billed alongside Julia Toporek, Valeriana and Duke Skylocker (Disco Dust). Next up: Topazdeluxe, Monterrey on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Remille is a house and deep house artist based in Mexico, with 83 gigs on soundc
 
 Julia Toporek, Valeriana, Duke Skylocker (Disco Dust)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remille/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remille/)*

@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Heather Teather " on Tue, 1 Dec 2026.
+The Rose is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Heather Teather " on Tue, 1 Dec 2026.
 
 The Rose is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Gino Santos. See dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -18,4 +18,4 @@ The Rose is a music venue in New York City listed on soundcheck. 5 upcoming gigs
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

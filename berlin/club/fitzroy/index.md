@@ -1,14 +1,13 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Moritz Klein Instruments x Erica Synths: Circuit Design Sessions - FREE w/ RSVP" on Sat, 21 Nov 2026.
+Fitzroy is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "THREE YEARS LIFTED - Day Party" on Sun, 22 Nov 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including ADNS, Ahni, Amowia and angelboy and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including ADNS, Ahni, Amowia and angelboy and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Moritz Klein Instruments x Erica Synths: Circuit Design Sessions - FREE w/ RSVP | Key Clef, Punktmidi |
 | Sun, 22 Nov 2026 | THREE YEARS LIFTED - Day Party | Darwin Stapel, Frank Motetti, Mamede, NeZoomie, Selin (DE), Tommes K. Brandt, riss |
 | Fri, 27 Nov 2026 | HONKY DONK vs Mordorkore: 𝔅𝔞𝔱𝔱𝔩𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔍𝔢𝔰𝔱𝔢𝔯𝔷 | DJ Bax, DJ FLUFFIE, Mithril, PIPA DE MA$$A, malicedeejay, viiibemaster |
 | Sun, 29 Nov 2026 | Bruits x Scam | Ben Sleia, Eleftheria, Mystique (2), Odd Shy Guy, kawasaki2000 |
@@ -18,9 +17,10 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with 
 | Fri, 11 Dec 2026 | Art For Industry | Katnada, Mara Menace, Schönfeld (2), X-S (DE) |
 | Sat, 12 Dec 2026 | tm8.club x Dissident ★ Mama Snake, Jan Loup, Cryptofauna + residents | Carly Zeng, Cryptofauna, Jan Loup, Mama Snake, Mohajer, Simrana, olesia, source:link |
 | Sun, 13 Dec 2026 | BabeCore Launch  | Butch2Bitch, CLEO, Kiar Oscuro, Mafille, Miss T Delight, Or_ion |
+| Sat, 19 Dec 2026 | FILLAN with ADNS, Malingula, Matthieu P, sinkaaf | ADNS, Helia Kiani, Malingula, Matthieu P, Parisha, sinkaaf |
 
 ## Address
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

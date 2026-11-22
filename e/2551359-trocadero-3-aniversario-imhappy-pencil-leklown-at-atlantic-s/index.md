@@ -1,6 +1,6 @@
 # TROCADERO 3 ANIVERSARIO   IMHAPPY/PENCIL/LEKLOWN at Atlantic Sound
 
-TROCADERO 3 ANIVERSARIO   IMHAPPY/PENCIL/LEKLOWN at Atlantic Sound on Sat 19 Dec, Barcelona. 4 artists: LE KLOWN, PENCIL, Pestdokter and SLPZ. Techno. See the line-up on soundcheck.
+TROCADERO 3 ANIVERSARIO   IMHAPPY/PENCIL/LEKLOWN at Atlantic Sound on Sat 19 Dec, Barcelona. 5 artists: Kyanøs, LE KLOWN, PENCIL and Pestdokter and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TROCADERO 3 ANIVERSARIO   IMHAPPY/PENCIL/LEKLOWN at Atlantic Sound on Sat 19 Dec
 
 ## Line-up
 
+- Kyanøs
 - LE KLOWN
 - PENCIL
 - Pestdokter

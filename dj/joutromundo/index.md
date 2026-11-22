@@ -1,6 +1,6 @@
 # Joutro Mundo
 
-Joutro Mundo is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Fatchia, Rio de Janeiro on Sat, 28 Nov 2026.
+Joutro Mundo is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Fatchia, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Joutro Mundo is a house and electronica artist based in Brazil, with 11 gigs on soundcheck across Brazil, Lisbon, Rio de Janeiro and Sao Paulo and 2 more. Often billed alongside Antal, Bernardo Pinheiro and Carlos René. Next up: Fatchia, Rio de Janeiro on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Joutro Mundo is a house and electronica artist based in Brazil, with 11 gigs on 
 
 Antal, Bernardo Pinheiro, Carlos René
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joutromundo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joutromundo/)*

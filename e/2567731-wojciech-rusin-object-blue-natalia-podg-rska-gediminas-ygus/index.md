@@ -1,6 +1,6 @@
 # Wojciech Rusin + object blue & Natalia Podgórska + Gediminas Žygus + more TBA at Cafe OTO
 
-Wojciech Rusin + object blue & Natalia Podgórska + Gediminas Žygus + more TBA at Cafe OTO on Fri 19 Feb, London. 3 artists: J.G. Biberkopf, object blue and Wojciech Rusin. See the line-up on soundcheck.
+Wojciech Rusin + object blue & Natalia Podgórska + Gediminas Žygus + more TBA at Cafe OTO on Fri 19 Feb, London. 3 artists: J.G. Biberkopf, object blue and Wojciech Rusin. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

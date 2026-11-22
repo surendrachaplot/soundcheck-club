@@ -1,6 +1,6 @@
 # Dispoze
 
-Dispoze is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Korpuss, Riga on Fri, 4 Dec 2026.
+Dispoze is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Fri, 4 Dec 2026.
 
 Dispoze is a drum & bass and techno artist based in Latvia, with 46 gigs on soundcheck across Riga. Often billed alongside nummurs, AIVISO and Katii. Next up: Korpuss, Riga on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dispoze is a drum & bass and techno artist based in Latvia, with 46 gigs on soun
 
 nummurs, AIVISO, Katii
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dispoze/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dispoze/)*

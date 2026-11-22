@@ -1,6 +1,6 @@
 # Musti Nero
 
-Musti Nero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at K39, Frankfurt on Thu, 31 Dec 2026.
+Musti Nero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at K39, Frankfurt on Thu, 31 Dec 2026.
 
 Musti Nero is a house and tech house artist based in Germany, with 19 gigs on soundcheck across Frankfurt. Often billed alongside Boutiq.808, Chris Beulich and Chris Wood. Next up: K39, Frankfurt on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Musti Nero is a house and tech house artist based in Germany, with 19 gigs on so
 
 Boutiq.808, Chris Beulich, Chris Wood
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mustinero/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mustinero/)*

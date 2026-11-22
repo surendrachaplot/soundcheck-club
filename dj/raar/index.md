@@ -1,6 +1,6 @@
 # Raär
 
-Raär is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
+Raär is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
 
 Raär is a techno and electronica artist based in Belgium, with 48 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 16 more. Often billed alongside Under Black Helmet, Woody92 and Chlär. Next up: Garage Noord, Amsterdam on Sat 21 Nov.
 
@@ -13,6 +13,7 @@ Raär is a techno and electronica artist based in Belgium, with 48 gigs on sound
 
 ## Recently played
 
+- Garage Noord, Amsterdam · Sat, 21 Nov 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Kaputt Club / Proyecto Kinder, Bogotá · Sat, 11 Jul 2026
 - public records, New York City · Fri, 3 Jul 2026
@@ -20,10 +21,9 @@ Raär is a techno and electronica artist based in Belgium, with 48 gigs on sound
 - Luma, Milan · Sat, 14 Mar 2026
 - Axxon N., Leipzig · Sat, 6 Dec 2025
 - Outra Cena, Lisbon · Fri, 28 Nov 2025
-- Fuse, Brussels · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 Under Black Helmet, Woody92, Chlär
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raar/)*

@@ -1,6 +1,6 @@
 # Terraflow
 
-Terraflow is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Waiting Room, London on Fri, 4 Dec 2026.
+Terraflow is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Waiting Room, London on Fri, 4 Dec 2026.
 
 Terraflow is a techno and electro artist based in United Kingdom, with 20 gigs on soundcheck across London and Toronto. Often billed alongside Albert Baricasi, Ruby SD and Adi (CO). Next up: The Waiting Room, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Terraflow is a techno and electro artist based in United Kingdom, with 20 gigs o
 
 Albert Baricasi, Ruby SD, Adi (CO)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terraflow/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terraflow/)*

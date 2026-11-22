@@ -1,6 +1,6 @@
 # Mario Moretti
 
-Mario Moretti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Elastica, Vilnius on Fri, 4 Dec 2026.
+Mario Moretti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Elastica, Vilnius on Fri, 4 Dec 2026.
 
 Mario Moretti is a techno and house artist based in Lithuania, with 36 gigs on soundcheck across Riga and Vilnius. Often billed alongside Valdagger, Interiors and Mirror Slave. Next up: Elastica, Vilnius on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Mario Moretti is a techno and house artist based in Lithuania, with 36 gigs on s
 
 Valdagger, Interiors, Mirror Slave
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariomoretti/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariomoretti/)*

@@ -1,6 +1,6 @@
 # Florian Picasso
 
-Florian Picasso is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Azimut Club, Turin on Sat, 12 Dec 2026.
+Florian Picasso is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Azimut Club, Turin on Sat, 12 Dec 2026.
 
 Florian Picasso is a techno and trance artist based in Vietnam, with 46 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 12 more. Often billed alongside CAPTNNN', Two Dots and Mija. Next up: Azimut Club, Turin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Florian Picasso is a techno and trance artist based in Vietnam, with 46 gigs on 
 
 CAPTNNN', Two Dots, Mija
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*

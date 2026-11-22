@@ -1,6 +1,6 @@
 # DJ Minty
 
-DJ Minty is a Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Dream Bags Jaguar Shoes, London on Sat, 5 Dec 2026.
+DJ Minty is a Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Dream Bags Jaguar Shoes, London on Sat, 5 Dec 2026.
 
 DJ Minty is a balearic artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Marie Guyot. Next up: Dream Bags Jaguar Shoes, London on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ DJ Minty is a balearic artist based in United Kingdom, with 3 gigs on soundcheck
 
 Marie Guyot
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djminty/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djminty/)*

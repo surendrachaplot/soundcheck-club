@@ -20,7 +20,7 @@ Public Assembly '26 at The Cause on Sat 28 Nov, London. 26 artists: Al Wootton, 
 - elli
 - Harry James
 - Jessy Lanza
-- Jordy
+- Jørdy
 - Lust For Youth
 - Oriana
 - Phase Fatale

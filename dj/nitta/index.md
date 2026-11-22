@@ -1,6 +1,6 @@
 # NITTA
 
-NITTA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
+NITTA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
 
 NITTA is a techno and minimal techno artist based in Spain, with 3 gigs on soundcheck across Berlin and Madrid. Often billed alongside Elias the Prophet, Fgdj and Hegemeister. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ NITTA is a techno and minimal techno artist based in Spain, with 3 gigs on sound
 
 Elias the Prophet, Fgdj, Hegemeister
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitta/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitta/)*

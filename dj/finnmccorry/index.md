@@ -1,6 +1,6 @@
 # Finn
 
-Finn is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Eat Your Greens, Leeds on Sat, 5 Dec 2026.
+Finn is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Eat Your Greens, Leeds on Sat, 5 Dec 2026.
 
 Finn is a house and garage artist based in United Kingdom, with 88 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Hamburg and 6 more. Often billed alongside Tom Boogizm, BFTT and Chunky. Next up: Eat Your Greens, Leeds on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Finn is a house and garage artist based in United Kingdom, with 88 gigs on sound
 
 Tom Boogizm, BFTT, Chunky
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*

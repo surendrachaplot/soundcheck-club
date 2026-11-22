@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "wannadancewithsomebody?: Kawun, Head Matter, wannadosomething? (Gesine Kühne & Jakob Mandler)" on Sat, 21 Nov 2026.
+Bulbul Berlin is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "SÜMA - COMMON GROUND [002]: Moni von Pisani, Moodjo, Stark" on Thu, 26 Nov 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Aggy, Alex Grebe, Ashbeat and DJ Fresh Garlic and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Aggy, Alex Grebe, Ashbeat and DJ Fresh Garlic and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | wannadancewithsomebody?: Kawun, Head Matter, wannadosomething? (Gesine Kühne & Jakob Mandler) | Head Matter, Kawun, wannadosomething? |
 | Thu, 26 Nov 2026 | SÜMA - COMMON GROUND [002]: Moni von Pisani, Moodjo, Stark | Moni von Pisani, Moodjo, Stark |
 | Fri, 27 Nov 2026 | Nice Tries invites: Valerio Vaudano, Eileeni, DJ Sanni b2b Max(imus) | DJ Sanni, Eileeni, Max(imus), Valerio Vaudano |
 | Sat, 28 Nov 2026 | Club Morena: Julien Josh, Gregor Rost, Ashbeat, ZYMT & fuxi | Ashbeat, Gregor Rost, Julien Josh, ZYMT, fuxi |
@@ -18,9 +17,10 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming gigs,
 | Thu, 10 Dec 2026 | Welcome To My House: La Terrasse, DJ Fresh Garlic, Oleg Sofronov | DJ Fresh Garlic, La Terrasse |
 | Fri, 11 Dec 2026 | Broncos Takeover: treskko, FLOOD, NOSH, Enoki | treskko |
 | Sat, 12 Dec 2026 | Discoforbreakfast: Valeria, Mambi Dexter, Grenouillette, Lealaetitia b2b Reef92 | Grenouillette, Lealaetitia, Mambi Dexter, Valeria (DE) |
+| Thu, 17 Dec 2026 | House of Others (Vol.15): Natsu, La Schmock, materia hache | La Schmock, Natsu, materia hache |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

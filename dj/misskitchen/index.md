@@ -1,18 +1,18 @@
 # Miss Kitchen
 
-Miss Kitchen is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
+Miss Kitchen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Beate Uwe, Berlin on Fri, 4 Dec 2026.
 
-Miss Kitchen is a house and deep house artist based in Germany, with 39 gigs on soundcheck across Berlin and Budapest. Often billed alongside Caapi El Mesti, Krassic and Mitsuko. Next up: Beate Uwe, Berlin on Sat 21 Nov.
+Miss Kitchen is a house and deep house artist based in Germany, with 39 gigs on soundcheck across Berlin and Budapest. Often billed alongside Caapi El Mesti, Krassic and Mitsuko. Next up: Beate Uwe, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Beate Uwe | Berlin |
 | Fri, 4 Dec 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
+- Beate Uwe, Berlin · Sat, 21 Nov 2026
 - Beate Uwe, Berlin · Sat, 31 Oct 2026
 - Süss War Gestern, Berlin · Fri, 23 Oct 2026
 - Cocoon Berlin, Berlin · Fri, 16 Oct 2026
@@ -20,10 +20,9 @@ Miss Kitchen is a house and deep house artist based in Germany, with 39 gigs on 
 - Gaswerksiedlung, Berlin · Sat, 11 Jul 2026
 - KitKatClub, Berlin · Fri, 5 Jun 2026
 - Klunkerkranich, Berlin · Thu, 14 May 2026
-- Beate Uwe, Berlin · Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Caapi El Mesti, Krassic, Mitsuko
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskitchen/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskitchen/)*

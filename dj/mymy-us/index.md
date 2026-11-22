@@ -1,6 +1,6 @@
 # mymy
 
-mymy is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Monarch, San Francisco/Oakland on Thu, 31 Dec 2026.
+mymy is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Monarch, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 mymy is a club and baile funk artist based in United States of America, with 33 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside QUEENIE (US), Sánlo and Zan. Next up: Monarch, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ mymy is a club and baile funk artist based in United States of America, with 33 
 
 QUEENIE (US), Sánlo, Zan (1)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mymy-us/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mymy-us/)*

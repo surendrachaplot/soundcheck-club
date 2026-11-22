@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "HOUSETRIBE (TECH HOUSE / HOUSE)" on Sat, 21 Nov 2026.
+WOMB is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "NEWNEU. SYNAPSE. PRESENTS Joseph Capriati" on Sun, 22 Nov 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including Abura, Addiy, AHREUM and AIBA and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including Abura, AHREUM, AIBA and ALEXANDER M and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | HOUSETRIBE (TECH HOUSE / HOUSE) | AIBA, ANZU, Addiy, CARTOON, Chika Luna, Dan Miyagishi, Elena Berry, HiTOMi, Nausica, PUNK N MATRIX, Yamariki |
 | Sun, 22 Nov 2026 | NEWNEU. SYNAPSE. PRESENTS Joseph Capriati | ALEXANDER M, DONAES, EIGHT, Joseph Capriati, Koki Byrd, TARO TOKO, TOSHI |
 | Tue, 24 Nov 2026 | Asia Tech |  |
 | Wed, 25 Nov 2026 | WTW (TECHNO) | KABUTO, Kyper, SAMO (JP) |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line
 | Wed, 2 Dec 2026 | LYRA ROOM × WTW | Kotono Shirai, Lui (6), uuu7, viene |
 | Thu, 3 Dec 2026 | CROSSFADES 3RD ANNIVERSARY (HOUSE / TECHNO) | ANDY DEDE, DJ Bin, Kaoru Inoue, Ken Ishii, Satoshi Tomiie |
 | Fri, 4 Dec 2026 | WICKED 5TH ANNIVERSARY WITH Red Axes 4-HOUR SET (HOUSE / DISCO) | Connor, DJ SO, Mendel, Monkey Timers, Red Axes, imus, r1ku |
+| Sat, 5 Dec 2026 | ACID: 'THE HAPPY EDITION' - Nina Kraviz | Nina Kraviz |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

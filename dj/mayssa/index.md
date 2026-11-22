@@ -1,6 +1,6 @@
 # Mayssa
 
-Mayssa is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at KOKO, London on Fri, 20 Nov 2026.
+Mayssa is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at KOKO, London on Fri, 20 Nov 2026.
 
 Mayssa is a deep house and afro house artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Lisbon and 3 more. Often billed alongside Ankhoï, Francis Mercier and Odrik. Next up: KOKO, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Mayssa is a deep house and afro house artist, with 23 gigs on soundcheck across 
 
 Ankhoï, Francis Mercier, Odrik
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayssa/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayssa/)*

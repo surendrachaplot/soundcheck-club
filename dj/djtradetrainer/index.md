@@ -1,6 +1,6 @@
 # DJ Trade Trainer
 
-DJ Trade Trainer is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 29 Nov 2026.
+DJ Trade Trainer is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 29 Nov 2026.
 
 DJ Trade Trainer is an ambient and techno artist based in United States of America, with 25 gigs on soundcheck across Berlin. Often billed alongside MADAKYA, Organza and Robin Flux. Next up: TBA - Secret Location, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ DJ Trade Trainer is an ambient and techno artist based in United States of Ameri
 
 MADAKYA, Organza, Robin Flux
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*

@@ -1,6 +1,6 @@
 # MORASS
 
-MORASS is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kramladen, Vienna on Sat, 28 Nov 2026.
+MORASS is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kramladen, Vienna on Sat, 28 Nov 2026.
 
 MORASS is a techno artist based in Austria, with 5 gigs on soundcheck across Vienna. Often billed alongside Leen Tilt, Ariyam and DYMINIX. Next up: Kramladen, Vienna on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ MORASS is a techno artist based in Austria, with 5 gigs on soundcheck across Vie
 
 Leen Tilt, Ariyam, DYMINIX
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morass/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morass/)*

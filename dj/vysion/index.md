@@ -1,6 +1,6 @@
 # Vysion
 
-Vysion is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 19 Dec 2026.
+Vysion is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 19 Dec 2026.
 
 Vysion is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin. Often billed alongside Schicktanz, WLLKR and BENZA. Next up: RSO.BERLIN, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Vysion is a techno and trance artist based in Germany, with 36 gigs on soundchec
 
 Schicktanz, WLLKR, BENZA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vysion/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vysion/)*

@@ -1,20 +1,20 @@
 # Cosmo (KR)
 
-Cosmo (KR) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Prince Charles, Berlin on Sat, 21 Nov 2026.
+Cosmo (KR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
-Cosmo (KR) is a techno and house artist based in South Korea, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chengdu and 21 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: Prince Charles, Berlin on Sat 21 Nov.
+Cosmo (KR) is a techno and house artist based in South Korea, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chengdu and 21 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Prince Charles | Berlin |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 31 Dec 2026 | LAUT | Barcelona |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 
 ## Recently played
 
+- Prince Charles, Berlin · Sat, 21 Nov 2026
 - Gaffe, London · Fri, 20 Nov 2026
 - Backstage Sofia, Sofia · Sat, 7 Nov 2026
 - Klaproos, Amsterdam · Sun, 25 Oct 2026
@@ -22,10 +22,9 @@ Cosmo (KR) is a techno and house artist based in South Korea, with 93 gigs on so
 - Collingwood Basement, Melbourne · Fri, 9 Oct 2026
 - OneSixOne, Melbourne · Sun, 4 Oct 2026
 - OHM, Berlin · Fri, 25 Sept 2026
-- La Cité Fertile, Paris · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Konstantin, Sunday Lee, Leafar Legov
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*

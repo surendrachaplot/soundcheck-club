@@ -1,6 +1,6 @@
 # ish (JP)
 
-ish (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at West Harlem, Kyoto on Mon, 23 Nov 2026.
+ish (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at West Harlem, Kyoto on Mon, 23 Nov 2026.
 
 ish (JP) is a house and techno artist based in Japan, with 13 gigs on soundcheck across Kyoto. Often billed alongside nap(JP), Kross Section and kimryo. Next up: West Harlem, Kyoto on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ ish (JP) is a house and techno artist based in Japan, with 13 gigs on soundcheck
 
 nap(JP), Kross Section, kimryo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ishjp/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ishjp/)*

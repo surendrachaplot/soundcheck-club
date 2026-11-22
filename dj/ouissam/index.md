@@ -1,14 +1,13 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Ouissam is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Dual, Bangkok on Sat, 28 Nov 2026.
 
-Ouissam is a house and techno artist based in France, with 144 gigs on soundcheck across Athens, Bali, Bangkok and Bangladesh and 28 more. Often billed alongside Di Linh, Emel and Saint Guel. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Ouissam is a house and techno artist based in France, with 144 gigs on soundcheck across Athens, Bali, Bangkok and Bangladesh and 28 more. Often billed alongside Di Linh, Emel and Saint Guel. Next up: Dual, Bangkok on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Dual | Bangkok |
 | Fri, 18 Dec 2026 | Castle Mandawa, Rajasthan | Other-regions |
 | Fri, 29 Jan 2027 | Mermaid Beach Resort | Bangladesh |
@@ -28,4 +27,4 @@ Ouissam is a house and techno artist based in France, with 144 gigs on soundchec
 
 Di Linh, Emel, Saint Guel
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

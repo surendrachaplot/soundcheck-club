@@ -1,6 +1,6 @@
 # Lia Catreux
 
-Lia Catreux is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
+Lia Catreux is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
 
 Lia Catreux is a breakbeat and bass artist, with 25 gigs on soundcheck across Bordeaux, Lyon, Marseille and Nantes and 2 more. Often billed alongside Cannonbar, Fatale Furylax and Von Riu. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Lia Catreux is a breakbeat and bass artist, with 25 gigs on soundcheck across Bo
 
 Cannonbar, Fatale Furylax, Von Riu
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liacatreux/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liacatreux/)*

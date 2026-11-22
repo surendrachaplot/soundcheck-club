@@ -1,13 +1,14 @@
 # Chihoshi
 
-Chihoshi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 3 Dec 2026.
+Chihoshi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ippen, Tokyo on Fri, 27 Nov 2026.
 
-Chihoshi is a house and techno artist based in Japan, with 43 gigs on soundcheck across Bangkok, Osaka and Tokyo. Often billed alongside Kengo Groove, YOYOHEI and kRs. Next up: Z Maruyama, Tokyo on Thu 3 Dec.
+Chihoshi is a house and techno artist based in Japan, with 44 gigs on soundcheck across Bangkok, Osaka and Tokyo. Often billed alongside Kengo Groove, YOYOHEI and kRs. Next up: Ippen, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Ippen | Tokyo |
 | Thu, 3 Dec 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Chihoshi is a house and techno artist based in Japan, with 43 gigs on soundcheck
 
 Kengo Groove, YOYOHEI, kRs (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chihoshi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chihoshi/)*

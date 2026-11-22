@@ -1,6 +1,6 @@
 # Winged Mantis Emerald Dream Machine
 
-Winged Mantis Emerald Dream Machine is a IDM and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - SPIT, 58 Irving St, Footscray, Melbourne on Fri, 27 Nov 2026.
+Winged Mantis Emerald Dream Machine is a IDM and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - SPIT, 58 Irving St, Footscray, Melbourne on Fri, 27 Nov 2026.
 
 Winged Mantis Emerald Dream Machine is an idm and bass artist based in Australia, with 8 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Arsonist, Attu and Charms. Next up: TBA - SPIT, 58 Irving St, Footscray, Melbourne on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Winged Mantis Emerald Dream Machine is an idm and bass artist based in Australia
 
 Arsonist, Attu, Charms
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wingedmantisemeralddreammachine/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wingedmantisemeralddreammachine/)*

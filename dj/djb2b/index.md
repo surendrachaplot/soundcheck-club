@@ -1,13 +1,14 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 29 Nov 2026.
+DJ B2B is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 笹塚ボウル, Tokyo on Thu, 26 Nov 2026.
 
-DJ B2B is a hip-hop and techno artist based in Mexico, with 234 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 29 Nov.
+DJ B2B is a hip-hop and techno artist based in Mexico, with 235 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: 笹塚ボウル, Tokyo on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | 笹塚ボウル | Tokyo |
 | Sun, 29 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ B2B is a hip-hop and techno artist based in Mexico, with 234 gigs on soundche
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

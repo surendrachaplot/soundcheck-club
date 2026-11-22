@@ -1,6 +1,6 @@
 # Tarj
 
-Tarj is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Tarj is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Tarj is a techno and progressive house artist based in Australia, with 6 gigs on soundcheck across Sydney. Often billed alongside MTTY, fuchsia and ANNX. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Tarj is a techno and progressive house artist based in Australia, with 6 gigs on
 
 MTTY, fuchsia, ANNX
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarj/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarj/)*

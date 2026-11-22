@@ -1,6 +1,6 @@
 # Vemk
 
-Vemk is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Schlosskeller, Darmstadt on Sat, 16 Jan 2027.
+Vemk is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Schlosskeller, Darmstadt on Sat, 16 Jan 2027.
 
 Vemk is a trance and techno artist based in Germany, with 2 gigs on soundcheck across Darmstadt and Frankfurt. Often billed alongside AMVN, Kakuzi and NIKUSH. Next up: Schlosskeller, Darmstadt on Sat 16 Jan.
 
@@ -18,4 +18,4 @@ Vemk is a trance and techno artist based in Germany, with 2 gigs on soundcheck a
 
 AMVN (2), Kakuzi, NIKUSH
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vemk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vemk/)*

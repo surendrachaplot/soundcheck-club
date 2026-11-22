@@ -1,6 +1,6 @@
 # Alexa Fluor
 
-Alexa Fluor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ://about blank, Berlin on Sat, 5 Dec 2026.
+Alexa Fluor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 5 Dec 2026.
 
 Alexa Fluor is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Karlsruhe and 2 more. Often billed alongside ELOISA, Melanchromie and Carotin. Next up: ://about blank, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Alexa Fluor is a techno and trance artist based in Germany, with 31 gigs on soun
 
 ELOISA, Melanchromie, Carotin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexafluor/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexafluor/)*

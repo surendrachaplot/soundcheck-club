@@ -1,6 +1,6 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
 Angerfist is a techno and hardcore artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 42 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
@@ -20,6 +20,7 @@ Angerfist is a techno and hardcore artist based in Germany, with 90 gigs on soun
 
 ## Recently played
 
+- Espacio Riesco Expo Centre, Santiago · Sat, 21 Nov 2026
 - Pandora Sevilla, South · Fri, 20 Nov 2026
 - Parc des Expositions Paris Nord, Paris · Fri, 30 Oct 2026
 - La Cubierta de Leganés, Madrid · Fri, 30 Oct 2026
@@ -27,10 +28,9 @@ Angerfist is a techno and hardcore artist based in Germany, with 90 gigs on soun
 - LAV - Lisboa ao Vivo, Lisbon · Fri, 23 Oct 2026
 - Sala Urbana, Mexico City · Fri, 9 Oct 2026
 - Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Trym, Alignment, Mad Dog
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

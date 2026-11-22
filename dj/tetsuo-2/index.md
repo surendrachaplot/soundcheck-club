@@ -1,6 +1,6 @@
 # TETSUO (2)
 
-TETSUO (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at BAR Inc, Osaka on Wed, 2 Dec 2026.
+TETSUO (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BAR Inc, Osaka on Wed, 2 Dec 2026.
 
 TETSUO is a techno and house artist based in Japan, with 22 gigs on soundcheck across Osaka. Often billed alongside KAITO., COTA and Kaito Ksi. Next up: BAR Inc, Osaka on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ TETSUO is a techno and house artist based in Japan, with 22 gigs on soundcheck a
 
 KAITO., COTA, Kaito Ksi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuo-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuo-2/)*

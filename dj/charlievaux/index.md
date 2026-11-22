@@ -1,6 +1,6 @@
 # Charlie Vaux
 
-Charlie Vaux is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
+Charlie Vaux is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
 
 Charlie Vaux is a house and italo disco artist based in Germany, with 41 gigs on soundcheck across Berlin, Hamburg, Rome and Warsaw. Often billed alongside Desolate Discotheque, Electric Visionary and Franz Scala. Next up: Paloma, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Charlie Vaux is a house and italo disco artist based in Germany, with 41 gigs on
 
 Desolate Discotheque, Electric Visionary, Franz Scala
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*

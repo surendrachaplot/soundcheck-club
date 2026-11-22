@@ -1,10 +1,10 @@
 # Studio Stereo NYE pres. Cabanne (Perlon, Yoyaku), Hugo Martinez & our local heroes at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo NYE pres. Cabanne (Perlon, Yoyaku), Hugo Martinez & our local heroes at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 1 Jan, Barcelona. 6 artists: Adria (ES), Cabanne, Hugo Martinez and Pau Rosés and 2 more. House and Electro. See the line-up on soundcheck.
+Studio Stereo NYE pres. Cabanne (Perlon, Yoyaku), Hugo Martinez & our local heroes at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 31 Dec, Barcelona. 6 artists: Adria (ES), Cabanne, Hugo Martinez and Pau Rosés and 2 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 1 Jan 2027 |
+| Date | Thu, 31 Dec 2026 |
 | Venue | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona |
 | City | Barcelona |
 

@@ -1,6 +1,6 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+HoneyLuv is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 HoneyLuv is a house and tech house artist based in United States of America, with 188 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 48 more. Often billed alongside Dennis Ferrer, Nic Fanciulli and Andrea Oliva. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -15,6 +15,7 @@ HoneyLuv is a house and tech house artist based in United States of America, wit
 
 ## Recently played
 
+- Fleet Steps - Mrs Macquaries Point, Sydney · Sat, 21 Nov 2026
 - Brooklyn Pacha, New York City · Fri, 6 Nov 2026
 - Thuishaven, Amsterdam · Thu, 22 Oct 2026
 - Franklin Park, Washington DC · Sun, 18 Oct 2026
@@ -22,10 +23,9 @@ HoneyLuv is a house and tech house artist based in United States of America, wit
 - Amnesia Ibiza, Ibiza · Fri, 9 Oct 2026
 - Volt Club Milano, Milan · Thu, 8 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 2 Oct 2026
-- TBA - Various Venues, Malta · Thu, 1 Oct 2026
 
 ## Shares bills with
 
 Dennis Ferrer, Nic Fanciulli, Andrea Oliva
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*

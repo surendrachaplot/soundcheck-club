@@ -1,6 +1,6 @@
 # Aydan XR
 
-Aydan XR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Coda, Toronto on Sat, 28 Nov 2026.
+Aydan XR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Coda, Toronto on Sat, 28 Nov 2026.
 
 Aydan XR is a house and tech house artist based in Canada, with 6 gigs on soundcheck across Toronto. Often billed alongside Chloe J, House of Lords and Amoosh. Next up: Coda, Toronto on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Aydan XR is a house and tech house artist based in Canada, with 6 gigs on soundc
 
 Chloe J, House of Lords, Amoosh
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aydanxr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aydanxr/)*

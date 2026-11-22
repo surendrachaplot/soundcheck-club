@@ -1,14 +1,15 @@
 # KREONE
 
-KREONE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Transit, Chemnitz on Sat, 5 Dec 2026.
+KREONE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Transit, Chemnitz on Sat, 5 Dec 2026.
 
-KREONE is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin, Chemnitz, Dresden and Leipzig. Often billed alongside SubkoØne, Laviena and ELOISA. Next up: Transit, Chemnitz on Sat 5 Dec.
+KREONE is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin, Chemnitz, Dresden and Leipzig. Often billed alongside SubkoØne, Laviena and ELOISA. Next up: Transit, Chemnitz on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Transit | Chemnitz |
+| Thu, 31 Dec 2026 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KREONE is a techno and trance artist based in Germany, with 16 gigs on soundchec
 
 SubkoØne, Laviena, ELOISA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kreone/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kreone/)*

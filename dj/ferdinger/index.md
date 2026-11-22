@@ -1,6 +1,6 @@
 # Ferdinger
 
-Ferdinger is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
+Ferdinger is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
 
 Ferdinger is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Barcelona, Belgium, Berlin and Buenos Aires and 8 more. Often billed alongside Antigone, Danny Wabbit and Ika Sile. Next up: Off-Club, Belgium on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ferdinger is a techno and trance artist based in Germany, with 32 gigs on soundc
 
 Antigone, Danny Wabbit, Ika Sile
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdinger/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdinger/)*

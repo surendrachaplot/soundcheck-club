@@ -1,6 +1,6 @@
 # KAPRICE
 
-KAPRICE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Avant Garten, Buenos Aires on Tue, 24 Nov 2026.
+KAPRICE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Avant Garten, Buenos Aires on Tue, 24 Nov 2026.
 
 KAPRICE is a disco and house artist, with 6 gigs on soundcheck across Amsterdam, Buenos Aires, Paris and San Francisco/Oakland. Often billed alongside C&C, DJ Karen and Jordao. Next up: Avant Garten, Buenos Aires on Tue 24 Nov.
 
@@ -22,4 +22,4 @@ KAPRICE is a disco and house artist, with 6 gigs on soundcheck across Amsterdam,
 
 C&C (1), DJ Karen, Jordao
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaprice/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaprice/)*

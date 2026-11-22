@@ -1,6 +1,6 @@
 # YULIE
 
-YULIE is a Funk / Soul and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
+YULIE is a Funk / Soul and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
 
 YULIE is a funk / soul and afrobeat artist based in Spain, with 20 gigs on soundcheck across Barcelona. Often billed alongside INEXXSTABLE, CAPITANA and Jana La Fontaine. Next up: Razzmatazz, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ YULIE is a funk / soul and afrobeat artist based in Spain, with 20 gigs on sound
 
 INEXXSTABLE, CAPITANA, Jana La Fontaine
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulie/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulie/)*

@@ -1,19 +1,19 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Nyapi, Seoul on Sat, 21 Nov 2026.
+Marco Weibel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Earworm, Singapore on Fri, 27 Nov 2026.
 
-Marco Weibel is a house and techno artist, with 144 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 25 more. Often billed alongside Lefto Early Bird, Dexter Colt and Spurge. Next up: Nyapi, Seoul on Sat 21 Nov.
+Marco Weibel is a house and techno artist, with 144 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 25 more. Often billed alongside Lefto Early Bird, Dexter Colt and Spurge. Next up: Earworm, Singapore on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Nyapi | Seoul |
 | Fri, 27 Nov 2026 | Earworm | Singapore |
 | Fri, 11 Dec 2026 | public records | New York City |
 
 ## Recently played
 
+- Nyapi, Seoul · Sat, 21 Nov 2026
 - MIDNIGHT EAST, Tokyo · Fri, 13 Nov 2026
 - Mitsuki, Tokyo · Tue, 10 Nov 2026
 - BAR Inc, Osaka · Sat, 7 Nov 2026
@@ -21,10 +21,9 @@ Marco Weibel is a house and techno artist, with 144 gigs on soundcheck across Am
 - Doka, Amsterdam · Sat, 24 Oct 2026
 - UMI, Brussels · Sat, 17 Oct 2026
 - Système, Montreal · Fri, 9 Oct 2026
-- Elsewhere, New York City · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Lefto Early Bird, Dexter Colt, Spurge
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

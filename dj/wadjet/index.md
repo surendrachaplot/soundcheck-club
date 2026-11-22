@@ -1,8 +1,8 @@
 # Wadjet
 
-Wadjet is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Castle Mandawa, Rajasthan, Other-regions on Fri, 18 Dec 2026.
+Wadjet is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Castle Mandawa, Rajasthan, Other-regions on Fri, 18 Dec 2026.
 
-Wadjet is a techno and hardcore artist, with 4 gigs on soundcheck across Bangkok, Ho Chi Minh City and Other Regions. Often billed alongside NOON, ANSWER (IN) and Aiden Francis. Next up: Castle Mandawa, Rajasthan, Other Regions on Fri 18 Dec.
+Wadjet is a techno and hardcore artist based in India, with 4 gigs on soundcheck across Bangkok, Ho Chi Minh City and Other Regions. Often billed alongside NOON, ANSWER (IN) and Aiden Francis. Next up: Castle Mandawa, Rajasthan, Other Regions on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Wadjet is a techno and hardcore artist, with 4 gigs on soundcheck across Bangkok
 
 NOON (2), ANSWER (IN), Aiden Francis
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wadjet/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wadjet/)*

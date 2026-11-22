@@ -1,10 +1,10 @@
 # Sound Within // DBA // TBA at The DBA
 
-Sound Within // DBA // TBA at The DBA on Fri 6 Nov, Manchester. Techno and House. See the line-up on soundcheck.
+Sound Within // DBA // TBA at The DBA on Fri 19 Feb, Manchester. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 6 Nov 2026 |
+| Date | Fri, 19 Feb 2027 |
 | Venue | The DBA |
 | City | Manchester |
 

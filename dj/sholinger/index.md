@@ -1,6 +1,6 @@
 # Sholinger
 
-Sholinger is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
+Sholinger is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
 
 Sholinger is a techno and electro artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hannover and 1 more. Often billed alongside KVNDRA, Miles Kvndra and Borenstein. Next up: ciao ciao Bar, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Sholinger is a techno and electro artist based in Germany, with 17 gigs on sound
 
 KVNDRA, Miles Kvndra, Borenstein
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sholinger/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sholinger/)*

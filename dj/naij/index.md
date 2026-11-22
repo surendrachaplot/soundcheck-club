@@ -1,6 +1,6 @@
 # Naij
 
-Naij is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Exil, Vienna on Tue, 8 Dec 2026.
+Naij is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Exil, Vienna on Tue, 8 Dec 2026.
 
 Naij is a techno and hardcore artist based in Mexico, with 11 gigs on soundcheck across Guadalajara, Mexico City, Philadelphia and Vienna. Often billed alongside Lex Digital, MOLLY SIX and Rafa Beltran. Next up: Club Exil, Vienna on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ Naij is a techno and hardcore artist based in Mexico, with 11 gigs on soundcheck
 
 Lex Digital, MOLLY SIX, Rafa Beltran
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naij/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naij/)*

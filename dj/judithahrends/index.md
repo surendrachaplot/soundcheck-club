@@ -1,6 +1,6 @@
 # Judith Ahrends
 
-Judith Ahrends is a Deep House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
+Judith Ahrends is a Deep House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
 
 Judith Ahrends is a deep house and downtempo artist based in Germany, with 2 gigs on soundcheck across Berlin and Switzerland. Often billed alongside Adrian Schneider, Cedric Scheibel and Fernanda Pistelli. Next up: Beate Uwe, Berlin on Sun 22 Nov.
 
@@ -15,4 +15,4 @@ Judith Ahrends is a deep house and downtempo artist based in Germany, with 2 gig
 
 Adrian Schneider, Cedric Scheibel, Fernanda Pistelli
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judithahrends/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judithahrends/)*

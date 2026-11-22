@@ -1,8 +1,8 @@
 # .KINA
 
-.KINA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 5 Dec 2026.
+.KINA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 5 Dec 2026.
 
-.KINA is a house and tech house artist based in United States of America, with 3 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Alkemiss Erika, Gru.di and IZIK. Next up: Monarch, San Francisco/Oakland on Sat 5 Dec.
+.KINA is a house and tech house artist based in United States of America, with 3 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Alkemiss Erika, Dahaman and Gru.di. Next up: Monarch, San Francisco/Oakland on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@
 
 ## Shares bills with
 
-Alkemiss Erika, Gru.di, IZIK
+Alkemiss Erika, Dahaman, Gru.di
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.kina/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.kina/)*

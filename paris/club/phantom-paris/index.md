@@ -1,6 +1,6 @@
 # Phantom, Paris
 
-Phantom, Paris is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Phantom [2] : Vladimir Cauchemar + Pandemonium Reloaded" on Fri, 4 Dec 2026.
+Phantom, Paris is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Phantom [2] : Vladimir Cauchemar + Pandemonium Reloaded" on Fri, 4 Dec 2026.
 
 Phantom, Paris is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including 2HOT2PLAY, Bassjackers, Ben Klock and Cloudy and 2 more. See dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
 
@@ -18,4 +18,4 @@ Phantom, Paris is a music venue in Paris listed on soundcheck. 5 upcoming gigs, 
 
 8 Bd de Bercy, 75012 Paris, France, Paris
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*

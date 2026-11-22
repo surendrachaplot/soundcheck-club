@@ -1,6 +1,6 @@
 # Nightfall
 
-Nightfall is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Smolna, Warsaw on Fri, 27 Nov 2026.
+Nightfall is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Smolna, Warsaw on Fri, 27 Nov 2026.
 
 Nightfall is a techno and electronica artist based in Poland, with 19 gigs on soundcheck across Poznan and Warsaw. Often billed alongside szadow, Internal Observer and KOSAA. Next up: Smolna, Warsaw on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Nightfall is a techno and electronica artist based in Poland, with 19 gigs on so
 
 szadow, Internal Observer, KOSAA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightfall-pl/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightfall-pl/)*

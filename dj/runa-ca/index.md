@@ -1,6 +1,6 @@
 # Runa
 
-Runa is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Montreal on Fri, 27 Nov 2026.
+Runa is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Montreal on Fri, 27 Nov 2026.
 
 Runa is a techno and bass artist based in Canada, with 53 gigs on soundcheck across Montreal, Tokyo and Toronto. Often billed alongside Asha, MIASALAV and Corinita. Next up: TBA, Montreal on Fri 27 Nov.
 
@@ -9,7 +9,7 @@ Runa is a techno and bass artist based in Canada, with 53 gigs on soundcheck acr
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA | Montreal |
-| Sat, 28 Nov 2026 | TBA - Montreal | Montreal |
+| Sat, 28 Nov 2026 | Bâtiment 7 | Montreal |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Runa is a techno and bass artist based in Canada, with 53 gigs on soundcheck acr
 
 Asha (4), MIASALAV, Corinita
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runa-ca/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runa-ca/)*

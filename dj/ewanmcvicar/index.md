@@ -1,6 +1,6 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Ewan McVicar is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
 Ewan McVicar is a house and techno artist based in United Kingdom, with 191 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austria and 44 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
@@ -34,4 +34,4 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 191 gigs
 
 Special Request, Dom Dolla, Overmono
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

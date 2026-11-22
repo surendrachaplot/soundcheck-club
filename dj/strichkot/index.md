@@ -1,6 +1,6 @@
 # Strichkot
 
-Strichkot is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
+Strichkot is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
 
 Strichkot is a techno and afro house artist based in Germany, with 10 gigs on soundcheck across Copenhagen, Hamburg, Hannover and London and 1 more. Often billed alongside Alexej, Benjamin Grimm and Burak55. Next up: 7th Heaven, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Strichkot is a techno and afro house artist based in Germany, with 10 gigs on so
 
 Alexej, Benjamin Grimm, Burak55
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strichkot/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strichkot/)*

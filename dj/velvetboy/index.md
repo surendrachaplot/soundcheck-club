@@ -1,6 +1,6 @@
 # Velvet Boy
 
-Velvet Boy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Dallas Club, Mexico City on Fri, 27 Nov 2026.
+Velvet Boy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Dallas Club, Mexico City on Fri, 27 Nov 2026.
 
 Velvet Boy is a techno and house artist, with 8 gigs on soundcheck across Dallas/Fort Worth and Mexico City. Often billed alongside Maltrip, Paco Lumière and 1000i. Next up: Dallas Club, Mexico City on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Velvet Boy is a techno and house artist, with 8 gigs on soundcheck across Dallas
 
 Maltrip, Paco Lumière, 1000i
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetboy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetboy/)*

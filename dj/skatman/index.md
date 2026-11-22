@@ -1,6 +1,6 @@
 # Skatman
 
-Skatman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Dec 2026.
+Skatman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Dec 2026.
 
 Skatman is a house and techno artist based in Tunisia, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ede, JAMIIE and Tal Fussman. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Skatman is a house and techno artist based in Tunisia, with 66 gigs on soundchec
 
 Ede, JAMIIE, Tal Fussman
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skatman/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skatman/)*

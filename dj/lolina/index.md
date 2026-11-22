@@ -1,6 +1,6 @@
 # Lolina
 
-Lolina is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The White Hotel, Manchester on Thu, 10 Dec 2026.
+Lolina is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The White Hotel, Manchester on Thu, 10 Dec 2026.
 
 Lolina is an experimental and electronica artist based in Estonia, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Inga Copeland, John T. Gast and 7038634357. Next up: The White Hotel, Manchester on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Lolina is an experimental and electronica artist based in Estonia, with 44 gigs 
 
 Inga Copeland, John T. Gast, 7038634357
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*

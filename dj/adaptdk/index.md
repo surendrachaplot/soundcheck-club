@@ -1,6 +1,6 @@
 # ADAPT (DK)
 
-ADAPT (DK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at MODULE, Copenhagen on Sat, 5 Dec 2026.
+ADAPT (DK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at MODULE, Copenhagen on Sat, 5 Dec 2026.
 
 ADAPT (DK) is a house and techno artist based in Denmark, with 11 gigs on soundcheck across Amsterdam and Copenhagen. Often billed alongside CERJ, Aja Gulris and Naiva. Next up: MODULE, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ ADAPT (DK) is a house and techno artist based in Denmark, with 11 gigs on soundc
 
 CERJ, Aja Gulris, Naiva
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adaptdk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adaptdk/)*

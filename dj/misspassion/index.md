@@ -1,6 +1,6 @@
 # MISS PASSION
 
-MISS PASSION is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Insomnia, Berlin on Sat, 9 Jan 2027.
+MISS PASSION is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Insomnia, Berlin on Sat, 9 Jan 2027.
 
 MISS PASSION is a techno and tech house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside ALP (DE), Andree Wischnewski and Basstronauten. Next up: Insomnia, Berlin on Sat 9 Jan.
 
@@ -22,4 +22,4 @@ MISS PASSION is a techno and tech house artist based in Germany, with 6 gigs on 
 
 ALP (DE), Andree Wischnewski, Basstronauten
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misspassion/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misspassion/)*

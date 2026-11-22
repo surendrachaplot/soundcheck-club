@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Palo Canto - Ritual of Connection // Kassa Hajó" on Fri, 27 Nov 2026.
+Kassa Boat is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Palo Canto - Ritual of Connection // Kassa Hajó" on Fri, 27 Nov 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including ädene, Axel Karakasis, BERNATHY and Beta and 2 more. See dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -19,4 +19,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, w
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

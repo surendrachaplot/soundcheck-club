@@ -1,6 +1,6 @@
 # Fhionn
 
-Fhionn is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hen's Teeth, Dublin on Wed, 23 Dec 2026.
+Fhionn is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hen's Teeth, Dublin on Wed, 23 Dec 2026.
 
 Fhionn is a progressive house and trance artist based in Ireland, with 28 gigs on soundcheck across Berlin and Dublin. Often billed alongside Cashper, Aidan and Asa Tate. Next up: Hen's Teeth, Dublin on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ Fhionn is a progressive house and trance artist based in Ireland, with 28 gigs o
 
 Cashper, Aidan, Asa Tate
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fhionn/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fhionn/)*

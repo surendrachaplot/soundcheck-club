@@ -1,6 +1,6 @@
 # Sharlese
 
-Sharlese is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+Sharlese is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
 Sharlese is a techno and electro artist based in United States of America, with 154 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 19 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: Nowadays, New York City on Sat 21 Nov.
 
@@ -13,6 +13,7 @@ Sharlese is a techno and electro artist based in United States of America, with 
 
 ## Recently played
 
+- Nowadays, New York City · Sat, 21 Nov 2026
 - KHIDI, Tbilisi · Fri, 20 Nov 2026
 - Pony, Seattle · Sat, 14 Nov 2026
 - Club Tee Gee, Los Angeles · Thu, 5 Nov 2026
@@ -20,10 +21,9 @@ Sharlese is a techno and electro artist based in United States of America, with 
 - Process PDX, Portland · Sat, 10 Oct 2026
 - TBA - East Van location , Vancouver · Sat, 3 Oct 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 25 Sept 2026
-- The Avalon Lounge, New York City · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

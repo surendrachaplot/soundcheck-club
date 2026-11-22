@@ -1,14 +1,13 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Ivy, Sydney on Sun, 22 Nov 2026.
+Omar+ is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Omar+ is a house and tech house artist based in United Kingdom, with 86 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 36 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: The Ivy, Sydney on Sun 22 Nov.
+Omar+ is a house and tech house artist based in United Kingdom, with 86 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 36 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | The Ivy | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 27 Nov 2026 | Neck of the Woods | Auckland |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
@@ -23,6 +22,7 @@ Omar+ is a house and tech house artist based in United Kingdom, with 86 gigs on 
 
 ## Recently played
 
+- Fleet Steps - Mrs Macquaries Point, Sydney · Sat, 21 Nov 2026
 - The Church Nightclub, Denver · Sat, 7 Nov 2026
 - Tinker Field, Orlando · Fri, 6 Nov 2026
 - Mediahaven - Minervahaven, Amsterdam · Fri, 23 Oct 2026
@@ -30,10 +30,9 @@ Omar+ is a house and tech house artist based in United Kingdom, with 86 gigs on 
 - DRUMSHEDS, London · Sat, 3 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
 - Colorado Charlie, The Hague · Fri, 25 Sept 2026
-- Spybar, Chicago · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Max Dean, Obskur, Ben Sterling
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

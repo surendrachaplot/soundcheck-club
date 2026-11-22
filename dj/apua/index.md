@@ -1,6 +1,6 @@
 # Apua
 
-Apua is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at PRST, Vienna on Sat, 12 Dec 2026.
+Apua is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at PRST, Vienna on Sat, 12 Dec 2026.
 
 Apua is a house and tech house artist based in Austria, with 74 gigs on soundcheck across Barcelona, Berlin, Bratislava and Frankfurt and 7 more. Often billed alongside Stipo, Reinhard Zach and Alice (AT). Next up: PRST, Vienna on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Apua is a house and tech house artist based in Austria, with 74 gigs on soundche
 
 Stipo, Reinhard Zach, Alice (AT)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apua/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apua/)*

@@ -1,6 +1,6 @@
 # chani
 
-chani is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Sydney on Sat, 5 Dec 2026.
+chani is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Sydney on Sat, 5 Dec 2026.
 
 chani is a techno and electro artist based in South Korea, with 38 gigs on soundcheck across Berlin, Lyon, Melbourne and Seoul and 1 more. Often billed alongside Kyuchan, Yoel and .2ndfloor. Next up: TBA, Sydney on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ chani is a techno and electro artist based in South Korea, with 38 gigs on sound
 
 Kyuchan, Yoel, .2ndfloor
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chani-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chani-2/)*

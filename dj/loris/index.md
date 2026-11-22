@@ -1,6 +1,6 @@
 # Loris
 
-Loris is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at N7, London on Fri, 27 Nov 2026.
+Loris is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at N7, London on Fri, 27 Nov 2026.
 
 Loris is a techno and club artist based in Mexico, with 74 gigs on soundcheck across Amsterdam, Armenia, Berlin and Bogotá and 15 more. Often billed alongside 1OO1O, Kodemul and PAURRO. Next up: N7, London on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Loris is a techno and club artist based in Mexico, with 74 gigs on soundcheck ac
 
 1OO1O, Kodemul, PAURRO
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loris/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loris/)*

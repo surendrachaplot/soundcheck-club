@@ -1,6 +1,6 @@
 # Garçon De Rue
 
-Garçon De Rue is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Carrer del Rosselló, 265, Barcelona on Sat, 28 Nov 2026.
+Garçon De Rue is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Carrer del Rosselló, 265, Barcelona on Sat, 28 Nov 2026.
 
 Garçon De Rue is a house and tech house artist based in Italy, with 32 gigs on soundcheck across Barcelona, Florence, London and Madrid and 2 more. Often billed alongside Marais, Drew. and Dirty Channels. Next up: TBA - Carrer del Rosselló, 265, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Garçon De Rue is a house and tech house artist based in Italy, with 32 gigs on 
 
 Marais, Drew., Dirty Channels
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garçonderue/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garçonderue/)*

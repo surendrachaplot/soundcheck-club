@@ -1,6 +1,6 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+IC3 is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 IC3 is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 11 more. Often billed alongside Eksman, Dillinja and DJ Hype. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -9,7 +9,6 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
-| Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 5 Dec 2026 | Electric Brixton | London |
 | Sat, 12 Dec 2026 | Lakota | Bristol |
 | Fri, 18 Dec 2026 | Komedia Bath | West-wales |
@@ -21,6 +20,7 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on 
 
 ## Recently played
 
+- Warehouse Elementenstraat, Amsterdam · Sat, 21 Nov 2026
 - TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam · Fri, 20 Nov 2026
 - The Prospect Building, Bristol · Sat, 14 Nov 2026
 - Supernatural Haus, Miami · Sat, 14 Nov 2026
@@ -28,10 +28,9 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on 
 - MK Arena, Midlands · Sat, 31 Oct 2026
 - Gaswrx Birmingham, Birmingham · Sat, 10 Oct 2026
 - Depot Mayfield, Manchester · Fri, 9 Oct 2026
-- Studio 338, London · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Eksman, Dillinja, DJ Hype
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

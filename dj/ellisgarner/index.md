@@ -1,8 +1,8 @@
 # Ellis Garner
 
-Ellis Garner is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 440, Midlands on Fri, 18 Dec 2026.
+Ellis Garner is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 440, Midlands on Fri, 18 Dec 2026.
 
-Ellis Garner is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across Midlands and South East. Often billed alongside Benji King, Lily C-D and Phill de Janeiro. Next up: 440, Midlands on Fri 18 Dec.
+Ellis Garner is a tech house and house artist based in United Kingdom, with 4 gigs on soundcheck across London, Midlands and South East. Often billed alongside A.L.F, Benji King and Blackromeo. Next up: 440, Midlands on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -14,9 +14,10 @@ Ellis Garner is an electronic artist based in United Kingdom, with 3 gigs on sou
 
 - Trilogy, South-east · Sat, 14 Nov 2026
 - Thirty3hz, South-east · Sat, 7 Nov 2026
+- Dullingham Polo Club, London · Sat, 22 Aug 2026
 
 ## Shares bills with
 
-Benji King, Lily C-D, Phill de Janeiro
+A.L.F, Benji King, Blackromeo
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisgarner/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisgarner/)*

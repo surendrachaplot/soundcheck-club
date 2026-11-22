@@ -1,14 +1,13 @@
 # Sakuma
 
-Sakuma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
+Sakuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Oath, Tokyo on Fri, 27 Nov 2026.
 
-Sakuma is a techno and house artist based in Japan, with 121 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Celter, YouForgot and AKIRAM EN. Next up: Aoyama Hachi, Tokyo on Sun 22 Nov.
+Sakuma is a techno and house artist based in Japan, with 121 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Celter, YouForgot and AKIRAM EN. Next up: Oath, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Aoyama Hachi | Tokyo |
 | Fri, 27 Nov 2026 | Oath | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sakuma is a techno and house artist based in Japan, with 121 gigs on soundcheck 
 
 Celter, YouForgot, AKIRAM EN
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*

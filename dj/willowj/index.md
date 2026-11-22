@@ -1,19 +1,19 @@
 # Willow J
 
-Willow J is a Trance and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Carlton Club, Manchester on Sat, 21 Nov 2026.
+Willow J is a Trance and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
 
-Willow J is a trance and electro artist based in United Kingdom, with 28 gigs on soundcheck across Brighton, Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and maevie. Next up: The Carlton Club, Manchester on Sat 21 Nov.
+Willow J is a trance and electro artist based in United Kingdom, with 28 gigs on soundcheck across Brighton, Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and maevie. Next up: The DBA, Manchester on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The Carlton Club | Manchester |
 | Wed, 25 Nov 2026 | The DBA | Manchester |
 | Fri, 4 Dec 2026 | The Bag Factory | Manchester |
 
 ## Recently played
 
+- The Carlton Club, Manchester · Sat, 21 Nov 2026
 - The DBA, Manchester · Wed, 28 Oct 2026
 - renae, Manchester · Sat, 19 Sept 2026
 - Daltons Brighton, Brighton · Sat, 12 Sept 2026
@@ -21,10 +21,9 @@ Willow J is a trance and electro artist based in United Kingdom, with 28 gigs on
 - Wharf Chambers, Leeds · Fri, 24 Jul 2026
 - The Bag Factory, Manchester · Sun, 5 Jul 2026
 - Yes, Manchester · Fri, 12 Jun 2026
-- The Bag Factory, Manchester · Sun, 31 May 2026
 
 ## Shares bills with
 
 Lucky Bunny, Princess Elf Bar, maevie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*

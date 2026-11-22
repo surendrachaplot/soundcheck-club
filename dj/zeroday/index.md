@@ -1,14 +1,15 @@
 # zeroday
 
-zeroday is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mastak, Warsaw on Sat, 12 Dec 2026.
+zeroday is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mastak, Warsaw on Sat, 12 Dec 2026.
 
-zeroday is a house and minimal artist based in Ukraine, with 52 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw. Often billed alongside Slowmode, JESS.mp5 and Salat. Next up: Mastak, Warsaw on Sat 12 Dec.
+zeroday is a house and minimal artist based in Ukraine, with 53 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw. Often billed alongside Slowmode, JESS.mp5 and Salat. Next up: Mastak, Warsaw on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Mastak | Warsaw |
+| Fri, 25 Dec 2026 | Mastak | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ zeroday is a house and minimal artist based in Ukraine, with 52 gigs on soundche
 
 Slowmode, JESS.mp5, Salat
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*

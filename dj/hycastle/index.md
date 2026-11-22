@@ -1,6 +1,6 @@
 # Hycastle
 
-Hycastle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
+Hycastle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
 
 Hycastle is a techno and electro artist based in Canada, with 42 gigs on soundcheck across Toronto. Often billed alongside /ASYNC, Xela. and Pauliexoxoxo. Next up: Overture Studios, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Hycastle is a techno and electro artist based in Canada, with 42 gigs on soundch
 
 /ASYNC, Xela., Pauliexoxoxo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hycastle/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hycastle/)*

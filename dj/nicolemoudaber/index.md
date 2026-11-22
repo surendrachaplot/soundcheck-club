@@ -1,14 +1,13 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 21 Nov 2026.
+Nicole Moudaber is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 22 Nov 2026.
 
-Nicole Moudaber is a techno and house artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 50 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Galerie Kurzweil, Darmstadt on Sat 21 Nov.
+Nicole Moudaber is a techno and house artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 50 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Galerie Kurzweil | Darmstadt |
 | Sun, 22 Nov 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 | Tue, 5 Jan 2027 | Gate Milano | Milan |
@@ -20,9 +19,11 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 155 g
 | Fri, 19 Feb 2027 | It'll Do | Dallas-fort-worth |
 | Sat, 20 Feb 2027 | Coda | Toronto |
 | Fri, 26 Feb 2027 | The Concourse Project | Austin |
+| Sun, 2 Jan 2028 | 102 | D-sseldorf |
 
 ## Recently played
 
+- Galerie Kurzweil, Darmstadt · Sat, 21 Nov 2026
 - Refuge, New York City · Sat, 31 Oct 2026
 - TBA - 2339 Brannen Road Southeast, Atlanta, GA 30316, USA, Atlanta · Sat, 24 Oct 2026
 - Club Space Miami, Miami · Fri, 23 Oct 2026
@@ -30,10 +31,9 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 155 g
 - [UNVRS], Ibiza · Sun, 27 Sept 2026
 - Amnesia Ibiza, Ibiza · Wed, 16 Sept 2026
 - [UNVRS], Ibiza · Wed, 9 Sept 2026
-- Union Park, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

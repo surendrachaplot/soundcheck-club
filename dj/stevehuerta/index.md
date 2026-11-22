@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - New Location, Los Angeles on Fri, 27 Nov 2026.
+Huerta is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - New Location, Los Angeles on Fri, 27 Nov 2026.
 
 Huerta is a house and techno artist based in United States of America, with 138 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 50 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: TBA - New Location, Los Angeles on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Huerta is a house and techno artist based in United States of America, with 138 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

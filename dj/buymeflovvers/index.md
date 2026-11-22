@@ -1,6 +1,6 @@
 # BUYMEFLOVVERS
 
-BUYMEFLOVVERS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at parking.radio, Quebec City on Sat, 28 Nov 2026.
+BUYMEFLOVVERS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at parking.radio, Quebec City on Sat, 28 Nov 2026.
 
 BUYMEFLOVVERS is a techno and industrial artist based in Canada, with 33 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside ucanquit, D.Blavatsky and Karscher. Next up: parking.radio, Quebec City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BUYMEFLOVVERS is a techno and industrial artist based in Canada, with 33 gigs on
 
 ucanquit, D.Blavatsky, Karscher
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*

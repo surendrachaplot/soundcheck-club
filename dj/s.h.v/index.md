@@ -1,6 +1,6 @@
 # S.H.V
 
-S.H.V is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
+S.H.V is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
 
 S.H.V is a techno and bass artist based in Japan, with 37 gigs on soundcheck across Tokyo. Often billed alongside MoEPiKA, Eichi Abe and Romy Mats. Next up: MIDNIGHT EAST, Tokyo on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ S.H.V is a techno and bass artist based in Japan, with 37 gigs on soundcheck acr
 
 MoEPiKA, Eichi Abe, Romy Mats
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.h.v/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.h.v/)*

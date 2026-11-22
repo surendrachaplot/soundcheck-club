@@ -1,8 +1,8 @@
 # Real Deal
 
-Real Deal is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
+Real Deal is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
 
-Real Deal is a tech house and electronica artist, with 7 gigs on soundcheck across Bristol, Leeds and London. Often billed alongside 3 Minds, Eddie Richards and HEAVEN-LEE. Next up: Secret Location, London on Fri 11 Dec.
+Real Deal is a tech house and electronica artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, Leeds and London. Often billed alongside 3 Minds, Eddie Richards and HEAVEN-LEE. Next up: Secret Location, London on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Real Deal is a tech house and electronica artist, with 7 gigs on soundcheck acro
 
 3 Minds, Eddie Richards, HEAVEN-LEE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/realdeal/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/realdeal/)*

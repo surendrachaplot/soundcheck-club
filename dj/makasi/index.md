@@ -1,20 +1,20 @@
 # Makasi
 
-Makasi is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Baccarat, Bangkok on Sat, 21 Nov 2026.
+Makasi is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Octave Rooftop, Bangkok on Fri, 18 Dec 2026.
 
-Makasi is an afro house and house artist based in Belgium, with 11 gigs on soundcheck across Antwerp, Bangkok, Brussels and Ghent and 1 more. Often billed alongside Bastin., Belben and BYAS. Next up: TBA - Baccarat, Bangkok on Sat 21 Nov.
+Makasi is an afro house and house artist based in Belgium, with 11 gigs on soundcheck across Antwerp, Bangkok, Brussels and Ghent and 1 more. Often billed alongside Bastin., Belben and BYAS. Next up: TBA - Octave Rooftop, Bangkok on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Baccarat | Bangkok |
 | Fri, 18 Dec 2026 | TBA - Octave Rooftop | Bangkok |
 | Sat, 19 Dec 2026 | TBA - Baccarat | Bangkok |
 | Fri, 25 Dec 2026 | TBA - Octave Rooftop | Bangkok |
 
 ## Recently played
 
+- TBA - Baccarat, Bangkok · Sat, 21 Nov 2026
 - Octave Rooftop Lounge & Bar, Bangkok · Sat, 31 Oct 2026
 - Regatta Beach, Antwerp · Sat, 8 Aug 2026
 - Oude Vismijn, Ghent · Thu, 23 Jul 2026
@@ -27,4 +27,4 @@ Makasi is an afro house and house artist based in Belgium, with 11 gigs on sound
 
 Bastin., Belben, BYAS
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makasi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makasi/)*

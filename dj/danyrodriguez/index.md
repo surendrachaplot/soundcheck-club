@@ -1,6 +1,6 @@
 # Dany Rodriguez
 
-Dany Rodriguez is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Muziekgieterij, Netherlands on Fri, 11 Dec 2026.
+Dany Rodriguez is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Muziekgieterij, Netherlands on Fri, 11 Dec 2026.
 
 Dany Rodriguez is an electronic artist based in Belgium, with 2 gigs on soundcheck across Brussels and Netherlands. Often billed alongside Fernando Costantini, Innershades and Joris Voorn. Next up: Muziekgieterij, Netherlands on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ Dany Rodriguez is an electronic artist based in Belgium, with 2 gigs on soundche
 
 Fernando Costantini, Innershades, Joris Voorn
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyrodriguez/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyrodriguez/)*

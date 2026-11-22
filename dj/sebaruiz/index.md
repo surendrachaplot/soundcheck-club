@@ -1,6 +1,6 @@
 # Seba Ruiz
 
-Seba Ruiz is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Dosrombos, Barcelona on Fri, 29 Jan 2027.
+Seba Ruiz is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Dosrombos, Barcelona on Fri, 29 Jan 2027.
 
 Seba Ruiz is a tech house and techno artist based in Spain, with 26 gigs on soundcheck across Barcelona. Often billed alongside Marc Monton, Cristian Gardeta and Guille Placencia. Next up: Dosrombos, Barcelona on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Seba Ruiz is a tech house and techno artist based in Spain, with 26 gigs on soun
 
 Marc Monton, Cristian Gardeta, Guille Placencia
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebaruiz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebaruiz/)*

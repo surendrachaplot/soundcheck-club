@@ -1,14 +1,13 @@
 # Kev Gee
 
-Kev Gee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at 94th Aero Squadron, Miami on Fri, 20 Nov 2026.
+Kev Gee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
-Kev Gee is a house and techno artist based in United States of America, with 51 gigs on soundcheck across Atlanta, Berlin, London and Medellin and 5 more. Often billed alongside San Dee, Alex Pastor and CHKLTE. Next up: 94th Aero Squadron, Miami on Fri 20 Nov.
+Kev Gee is a house and techno artist based in United States of America, with 51 gigs on soundcheck across Atlanta, Berlin, London and Medellin and 5 more. Often billed alongside San Dee, Alex Pastor and CHKLTE. Next up: The Pickle, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | 94th Aero Squadron | Miami |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kev Gee is a house and techno artist based in United States of America, with 51 
 
 San Dee, Alex Pastor, CHKLTE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevgee/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevgee/)*

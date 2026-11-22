@@ -1,6 +1,6 @@
 # Jamie Rodigan
 
-Jamie Rodigan is a Dancehall and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fox and Firkin, London on Sat, 19 Dec 2026.
+Jamie Rodigan is a Dancehall and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fox and Firkin, London on Sat, 19 Dec 2026.
 
 Jamie Rodigan is a dancehall and jungle artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Bristol, Liverpool and London. Often billed alongside YNG CPTN, CPTN and Bryan Gee. Next up: The Fox and Firkin, London on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Jamie Rodigan is a dancehall and jungle artist based in United Kingdom, with 33 
 
 YNG CPTN, CPTN, Bryan Gee
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*

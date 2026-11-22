@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+JakoJako is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
 
 JakoJako is a techno and house artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
 
@@ -15,6 +15,7 @@ JakoJako is a techno and house artist based in Germany, with 183 gigs on soundch
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 21 Nov 2026
 - Wigwam, Dublin · Sat, 7 Nov 2026
 - The Bassement, Madrid · Sun, 1 Nov 2026
 - ZENNER, Berlin · Sat, 31 Oct 2026
@@ -22,10 +23,9 @@ JakoJako is a techno and house artist based in Germany, with 183 gigs on soundch
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - Sugarfactory, Amsterdam · Fri, 23 Oct 2026
 - Open Ground, Wuppertal · Sat, 17 Oct 2026
-- Under Club, Buenos Aires · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

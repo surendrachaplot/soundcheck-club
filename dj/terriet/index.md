@@ -1,8 +1,8 @@
 # Terrie T
 
-Terrie T is a Amapiano and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Soulkitchen, Amsterdam on Fri, 27 Nov 2026.
+Terrie T is a Amapiano and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Soulkitchen, Amsterdam on Fri, 27 Nov 2026.
 
-Terrie T is an amapiano and afro tech artist, with 4 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Artist Lebo, DJ TOOTS and De La Noise. Next up: Soulkitchen, Amsterdam on Fri 27 Nov.
+Terrie T is an amapiano and afro tech artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Artist Lebo, DJ TOOTS and De La Noise. Next up: Soulkitchen, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Terrie T is an amapiano and afro tech artist, with 4 gigs on soundcheck across A
 
 Artist Lebo, DJ TOOTS, De La Noise
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terriet/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terriet/)*

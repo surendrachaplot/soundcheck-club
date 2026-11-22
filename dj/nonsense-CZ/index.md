@@ -1,8 +1,8 @@
 # NONSENSE (CZ)
 
-NONSENSE (CZ) is a Techno and Gabber artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
+NONSENSE (CZ) is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
 
-NONSENSE (CZ) is a techno and gabber artist based in Czech Republic, with 27 gigs on soundcheck across Czech Republic, Dortmund / Essen and Prague. Often billed alongside Paul Krist, Nøteleks and KOBOV. Next up: Husitská 22, Prague on Fri 27 Nov.
+NONSENSE (CZ) is a techno and industrial artist based in Czech Republic, with 28 gigs on soundcheck across Czech Republic, Dortmund / Essen, Prague and Wroclaw. Often billed alongside Paul Krist, Nøteleks and KOBOV. Next up: Husitská 22, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NONSENSE (CZ) is a techno and gabber artist based in Czech Republic, with 27 gig
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Husitská 22 | Prague |
 | Thu, 31 Dec 2026 | Sacre Coeur Prague | Prague |
+| Fri, 19 Feb 2027 | Ciało | Wroclaw |
 | Sat, 15 May 2027 | Pekelné Doly, Cvikov | Czech-republic |
 
 ## Recently played
@@ -27,4 +28,4 @@ NONSENSE (CZ) is a techno and gabber artist based in Czech Republic, with 27 gig
 
 Paul Krist, Nøteleks, KOBOV
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense-CZ/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense-CZ/)*

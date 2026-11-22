@@ -1,6 +1,6 @@
 # Keyblow
 
-Keyblow is a Electronica and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sun, 22 Nov 2026.
+Keyblow is a Electronica and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sun, 22 Nov 2026.
 
 Keyblow is an electronica and deep house artist based in Argentina, with 163 gigs on soundcheck across Barcelona and Naples. Often billed alongside Saulo Pisa, Arturo Rivera and Arielo. Next up: The Supermercat Gotico, Barcelona on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Keyblow is an electronica and deep house artist based in Argentina, with 163 gig
 
 Saulo Pisa, Arturo Rivera, Arielo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keyblow/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keyblow/)*

@@ -1,6 +1,6 @@
 # NikNak
 
-NikNak is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Vinyl Whistle, Leeds on Tue, 24 Nov 2026.
+NikNak is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Vinyl Whistle, Leeds on Tue, 24 Nov 2026.
 
 NikNak is an experimental and dub artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Brighton, Bristol and Brussels and 9 more. Often billed alongside Breakfake, Iration Steppas and Dub Athlete. Next up: The Vinyl Whistle, Leeds on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ NikNak is an experimental and dub artist based in United Kingdom, with 54 gigs o
 
 Breakfake, Iration Steppas, Dub Athlete
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*

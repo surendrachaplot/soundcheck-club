@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Standard Records presents D'Julz" on Sat, 21 Nov 2026.
+Distrikt is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "In Motion " on Fri, 27 Nov 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Lance, ad*n, Alexia Glensy and Arty (UK) and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Lance, ad*n, Alexia Glensy and Arty (UK) and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Standard Records presents D'Julz | D'Julz, Dubstandards, LJC (1), Ola & Lucia |
 | Fri, 27 Nov 2026 | In Motion  |  |
 | Sat, 28 Nov 2026 | Special Delivery presents: Voigtmann B2B Jhobei | Adam Lance, Jhobei, Voigtmann, Wakka |
 | Fri, 4 Dec 2026 | Ruffkut presents: Prozak B2B mance | Chappy, Cottam (2), Esdaile, Prozak (IRL), ad*n, mance |
@@ -23,4 +22,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with 
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

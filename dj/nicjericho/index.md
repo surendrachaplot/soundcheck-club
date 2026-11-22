@@ -1,6 +1,6 @@
 # Nic Jericho
 
-Nic Jericho is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
+Nic Jericho is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
 
 Nic Jericho is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across Los Angeles. Often billed alongside BUCK/OFF, masato and KNOXDOTMP3. Next up: TBA, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nic Jericho is a house and tech house artist based in United States of America, 
 
 BUCK/OFF, masato, KNOXDOTMP3
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicjericho/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicjericho/)*

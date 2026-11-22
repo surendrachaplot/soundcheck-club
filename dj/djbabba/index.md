@@ -1,8 +1,8 @@
 # DJ babba
 
-DJ babba is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Red Church, Bristol on Sat, 5 Dec 2026.
+DJ babba is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Red Church, Bristol on Sat, 5 Dec 2026.
 
-DJ babba is a house and techno artist, with 2 gigs on soundcheck across Bristol. Often billed alongside Merty, DJ Plead and Yu Su. Next up: The Red Church, Bristol on Sat 5 Dec.
+DJ babba is a house and techno artist based in United Kingdom, with 2 gigs on soundcheck across Bristol. Often billed alongside Merty, DJ Plead and Yu Su. Next up: The Red Church, Bristol on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ DJ babba is a house and techno artist, with 2 gigs on soundcheck across Bristol.
 
 Merty, DJ Plead, Yu Su
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabba/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabba/)*

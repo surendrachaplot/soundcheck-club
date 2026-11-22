@@ -1,6 +1,6 @@
 # Pickle.BKK
 
-Pickle.BKK is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "PIP ME LIKE A PICKLE - PLEASURE IN PARADISE VOL.1" on Sat, 28 Nov 2026.
+Pickle.BKK is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "PIP ME LIKE A PICKLE - PLEASURE IN PARADISE VOL.1" on Sat, 28 Nov 2026.
 
 Pickle.BKK is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including ko.dann. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Pickle.BKK is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | PIP ME LIKE A PICKLE - PLEASURE IN PARADISE VOL.1 | ko.dann |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/pickle-bkk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/pickle-bkk/)*

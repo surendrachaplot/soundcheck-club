@@ -1,6 +1,6 @@
 # ULTIMO
 
-ULTIMO is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at BASIS, Utrecht on Fri, 4 Dec 2026.
+ULTIMO is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BASIS, Utrecht on Fri, 4 Dec 2026.
 
 ULTIMO is a techno artist based in Netherlands, with 2 gigs on soundcheck across Rotterdam and Utrecht. Often billed alongside Luca Agnelli. Next up: BASIS, Utrecht on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ ULTIMO is a techno artist based in Netherlands, with 2 gigs on soundcheck across
 
 Luca Agnelli
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultimo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultimo/)*

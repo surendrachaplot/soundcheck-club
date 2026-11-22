@@ -1,6 +1,6 @@
 # Moog Conspiracy
 
-Moog Conspiracy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 5 Dec 2026.
+Moog Conspiracy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 5 Dec 2026.
 
 Moog Conspiracy is a techno and house artist, with 16 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Empro, Dominik Müller and Electronic Elephant. Next up: Jonny Knüppel, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Moog Conspiracy is a techno and house artist, with 16 gigs on soundcheck across 
 
 Empro, Dominik Müller, Electronic Elephant
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moogconspiracy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moogconspiracy/)*

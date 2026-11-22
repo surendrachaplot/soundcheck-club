@@ -1,6 +1,6 @@
 # suz eq
 
-suz eq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
+suz eq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
 
 suz eq is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Hong Kong. Often billed alongside Maxi, enzyme and Konnection. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ suz eq is a techno and house artist based in United States of America, with 14 g
 
 Maxi, enzyme, Konnection
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeq/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeq/)*

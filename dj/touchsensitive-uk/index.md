@@ -1,14 +1,13 @@
 # Touch Sensitive
 
-Touch Sensitive is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Touch Sensitive is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat, 28 Nov 2026.
 
-Touch Sensitive is a house and disco artist based in Australia, with 11 gigs on soundcheck across Auckland, Bali, Canberra and Los Angeles and 5 more. Often billed alongside Classixx, 1tbsp and 6 SENSE. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Touch Sensitive is a house and disco artist based in Australia, with 11 gigs on soundcheck across Auckland, Bali, Canberra and Los Angeles and 5 more. Often billed alongside Classixx, 1tbsp and 6 SENSE. Next up: TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | TBA - Patrick White Lawns, Lake Burley Griffin | Canberra |
 
 ## Recently played
@@ -26,4 +25,4 @@ Touch Sensitive is a house and disco artist based in Australia, with 11 gigs on 
 
 Classixx, 1tbsp, 6 SENSE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/touchsensitive-uk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/touchsensitive-uk/)*

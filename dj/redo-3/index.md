@@ -1,6 +1,6 @@
 # Redo (3)
 
-Redo (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
+Redo (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
 
 Redo is an electro and techno artist based in Belgium, with 7 gigs on soundcheck across Antwerp and Brussels. Often billed alongside DJ Rino, SVS and Adi. Next up: UMI, Brussels on Fri 1 Jan.
 
@@ -23,4 +23,4 @@ Redo is an electro and techno artist based in Belgium, with 7 gigs on soundcheck
 
 DJ Rino, SVS (1), Adi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redo-3/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redo-3/)*

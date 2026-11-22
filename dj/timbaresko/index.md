@@ -1,6 +1,6 @@
 # Tim Baresko
 
-Tim Baresko is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club A São Paulo, Sao Paulo on Sat, 9 Jan 2027.
+Tim Baresko is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club A São Paulo, Sao Paulo on Sat, 9 Jan 2027.
 
 Tim Baresko is a tech house and house artist based in France, with 7 gigs on soundcheck across Brussels, Lisbon and Sao Paulo. Often billed alongside Amine Edge, Belben and Viot. Next up: Club A São Paulo, Sao Paulo on Sat 9 Jan.
 
@@ -23,4 +23,4 @@ Tim Baresko is a tech house and house artist based in France, with 7 gigs on sou
 
 Amine Edge, Belben, Viot
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timbaresko/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timbaresko/)*

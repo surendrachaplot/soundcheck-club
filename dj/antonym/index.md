@@ -1,14 +1,13 @@
 # Antonym
 
-Antonym is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
+Antonym is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at OST, Berlin on Sat, 5 Dec 2026.
 
-Antonym is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 19 more. Often billed alongside DJ Pinky Promise, Carluschka and Elon Bass. Next up: glimmer, Hamburg on Sat 21 Nov.
+Antonym is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 19 more. Often billed alongside DJ Pinky Promise, Carluschka and Elon Bass. Next up: OST, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | glimmer | Hamburg |
 | Sat, 5 Dec 2026 | OST | Berlin |
 | Fri, 11 Dec 2026 | Fuse | Brussels |
 | Fri, 1 Jan 2027 | Hidden | Manchester |
@@ -16,6 +15,7 @@ Antonym is a techno and trance artist based in Germany, with 114 gigs on soundch
 
 ## Recently played
 
+- glimmer, Hamburg · Sat, 21 Nov 2026
 - Mia Mao, Paris · Fri, 20 Nov 2026
 - Evenementenhal Depart, Belgium · Sat, 14 Nov 2026
 - Indiego Glocksee, Hannover · Sat, 7 Nov 2026
@@ -23,10 +23,9 @@ Antonym is a techno and trance artist based in Germany, with 114 gigs on soundch
 - Lokschuppen Berlin, Berlin · Fri, 30 Oct 2026
 - Toekomstmuziek, Amsterdam · Fri, 23 Oct 2026
 - Kømplex Lisbon, Lisbon · Sat, 10 Oct 2026
-- Mia Mao, Paris · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 DJ Pinky Promise, Carluschka, Elon Bass
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonym/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonym/)*

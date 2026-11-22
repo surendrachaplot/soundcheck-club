@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Twentyone, Florence on Thu, 26 Nov 2026.
+Binh is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Twentyone, Florence on Thu, 26 Nov 2026.
 
 Binh is a techno and house artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Club Twentyone, Florence on Thu 26 Nov.
 
@@ -31,4 +31,4 @@ Binh is a techno and house artist based in Germany, with 220 gigs on soundcheck 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

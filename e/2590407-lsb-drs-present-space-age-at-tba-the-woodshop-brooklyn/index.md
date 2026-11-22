@@ -1,6 +1,6 @@
 # LSB + DRS present: Space Age at TBA - The Woodshop, Brooklyn
 
-LSB + DRS present: Space Age at TBA - The Woodshop, Brooklyn on Fri 29 Jan, New York City. 3 artists: Agent 137, DRS and LSB. See the line-up on soundcheck.
+LSB + DRS present: Space Age at TBA - The Woodshop, Brooklyn on Fri 29 Jan, New York City. 3 artists: Agent 137, DRS and LSB. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

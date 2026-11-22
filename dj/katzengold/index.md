@@ -1,6 +1,6 @@
 # Katzengold
 
-Katzengold is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Jonny Knüppel, Berlin on Fri, 11 Dec 2026.
+Katzengold is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Jonny Knüppel, Berlin on Fri, 11 Dec 2026.
 
 Katzengold is a techno and tech house artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside justUS, Markus Klee and Maurice Mino. Next up: Jonny Knüppel, Berlin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Katzengold is a techno and tech house artist based in Germany, with 147 gigs on 
 
 justUS, Markus Klee, Maurice Mino
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*

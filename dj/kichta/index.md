@@ -1,6 +1,6 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at C12, Brussels on Fri, 27 Nov 2026.
+Kichta is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at C12, Brussels on Fri, 27 Nov 2026.
 
 Kichta is a techno and trance artist based in France, with 59 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside Amøn, DURDENHAUER and Eskha. Next up: C12, Brussels on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Kichta is a techno and trance artist based in France, with 59 gigs on soundcheck
 
 Amøn, DURDENHAUER, Eskha
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*

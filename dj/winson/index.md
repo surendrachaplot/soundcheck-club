@@ -1,8 +1,8 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
+Winson is a Techno and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
 
-Winson is a techno and deep house artist based in France, with 76 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bologna and 33 more. Often billed alongside KLOFAMA, KARAH and Onlynumbers. Next up: Arzenal, Budapest on Fri 27 Nov.
+Winson is a techno and deep house artist based in France, with 77 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bologna and 33 more. Often billed alongside KLOFAMA, KARAH and Onlynumbers. Next up: Arzenal, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Winson is a techno and deep house artist based in France, with 76 gigs on soundc
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Fri, 19 Feb 2027 | Ahoy Rotterdam | Rotterdam |
 | Sat, 13 Mar 2027 | Turbinenhalle | North-rhine-westphalia |
 
 ## Recently played
@@ -28,4 +29,4 @@ Winson is a techno and deep house artist based in France, with 76 gigs on soundc
 
 KLOFAMA, KARAH, Onlynumbers
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

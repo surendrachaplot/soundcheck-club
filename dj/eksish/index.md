@@ -1,6 +1,6 @@
 # Eksish
 
-Eksish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Gaffe, London on Fri, 18 Dec 2026.
+Eksish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gaffe, London on Fri, 18 Dec 2026.
 
 Eksish is a house and techno artist based in United Kingdom, with 44 gigs on soundcheck across Bogotá, Brighton, Bristol and London and 4 more. Often billed alongside rasel h, Chez de Milo and Jake Moree. Next up: Gaffe, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Eksish is a house and techno artist based in United Kingdom, with 44 gigs on sou
 
 rasel h, Chez de Milo, Jake Moree
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eksish/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eksish/)*

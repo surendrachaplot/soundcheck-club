@@ -1,20 +1,20 @@
 # Bia Marques
 
-Bia Marques is a Baile Funk and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Rua Sara, 34 - Santo Cristo, Rio de Janeiro - RJ, Rio de Janeiro on Sat, 21 Nov 2026.
+Bia Marques is a Baile Funk and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Rua da Alfândega, 50 - Centro, Rio de Janeiro, Rio de Janeiro on Fri, 27 Nov 2026.
 
-Bia Marques is a baile funk and hip-hop artist based in Brazil, with 62 gigs on soundcheck across Leeds, London, Manchester and Milan and 3 more. Often billed alongside LETGABS, Daviaa and LOELASH. Next up: TBA - Rua Sara, 34 - Santo Cristo, Rio de Janeiro - RJ, Rio de Janeiro on Sat 21 Nov.
+Bia Marques is a baile funk and hip-hop artist based in Brazil, with 62 gigs on soundcheck across Leeds, London, Manchester and Milan and 3 more. Often billed alongside LETGABS, Daviaa and LOELASH. Next up: TBA - Rua da Alfândega, 50 - Centro, Rio de Janeiro, Rio de Janeiro on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Rua Sara, 34 - Santo Cristo, Rio de Janeiro - RJ | Rio de Janeiro |
 | Fri, 27 Nov 2026 | TBA - Rua da Alfândega, 50 - Centro, Rio de Janeiro | Rio de Janeiro |
 | Sat, 28 Nov 2026 | Visão Vidigal | Rio de Janeiro |
 | Sat, 5 Dec 2026 | TBA | Rio de Janeiro |
 
 ## Recently played
 
+- TBA - Rua Sara, 34 - Santo Cristo, Rio de Janeiro - RJ, Rio de Janeiro · Sat, 21 Nov 2026
 - TBA - SACADURA CABRAL 335, Rio de Janeiro · Thu, 19 Nov 2026
 - TBA - Rua da Conceição 168, Rio de Janeiro · Sat, 14 Nov 2026
 - Mauacba Skate Coffee & Skate Shop, Rio de Janeiro · Fri, 13 Nov 2026
@@ -22,10 +22,9 @@ Bia Marques is a baile funk and hip-hop artist based in Brazil, with 62 gigs on 
 - Vidadura, Rio de Janeiro · Fri, 2 Oct 2026
 - Fatchia, Rio de Janeiro · Sun, 20 Sept 2026
 - TRAUMA, Rio de Janeiro · Fri, 4 Sept 2026
-- Calma BAR, Rio de Janeiro · Thu, 27 Aug 2026
 
 ## Shares bills with
 
 LETGABS, Daviaa, LOELASH
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*

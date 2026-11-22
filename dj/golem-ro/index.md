@@ -1,6 +1,6 @@
 # Golem (RO)
 
-Golem (RO) is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Bucharest on Fri, 15 Jan 2027.
+Golem (RO) is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Bucharest on Fri, 15 Jan 2027.
 
 Golem (RO) is a hardcore and techno artist based in Romania, with 5 gigs on soundcheck across Bucharest. Often billed alongside Dalek, Felix the Cat and Meiremax. Next up: TBA, Bucharest on Fri 15 Jan.
 
@@ -21,4 +21,4 @@ Golem (RO) is a hardcore and techno artist based in Romania, with 5 gigs on soun
 
 Dalek, Felix the Cat, Meiremax
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golem-ro/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golem-ro/)*

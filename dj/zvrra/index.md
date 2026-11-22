@@ -1,6 +1,6 @@
 # Zvrra
 
-Zvrra is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Toronto on Fri, 4 Dec 2026.
+Zvrra is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Toronto on Fri, 4 Dec 2026.
 
 Zvrra is a techno and electronica artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Berlin, Chicago and New York City and 3 more. Often billed alongside Akanbi, Nkisi and Spekki Webu. Next up: TBA, Toronto on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Zvrra is a techno and electronica artist based in United States of America, with
 
 Akanbi, Nkisi, Spekki Webu
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zvrra/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zvrra/)*

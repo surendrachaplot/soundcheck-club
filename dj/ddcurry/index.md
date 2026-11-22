@@ -1,8 +1,8 @@
 # D.D. Curry
 
-D.D. Curry is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
+D.D. Curry is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
 
-D.D. Curry is a house and garage artist based in United States of America, with 32 gigs on soundcheck across London, Los Angeles and New York City. Often billed alongside DJ Fang, Quantreau and K.mal. Next up: Honey's, New York City on Sat 28 Nov.
+D.D. Curry is a house and garage artist based in United States of America, with 32 gigs on soundcheck across London, Los Angeles and New York City. Often billed alongside DJ Fang, K.mal and Quantreau. Next up: Honey's, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ D.D. Curry is a house and garage artist based in United States of America, with 
 
 ## Shares bills with
 
-DJ Fang, Quantreau, K.mal
+DJ Fang, K.mal, Quantreau
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddcurry/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddcurry/)*

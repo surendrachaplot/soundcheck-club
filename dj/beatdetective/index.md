@@ -1,6 +1,6 @@
 # Beat Detective
 
-Beat Detective is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kazimier Garden, Liverpool on Thu, 26 Nov 2026.
+Beat Detective is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kazimier Garden, Liverpool on Thu, 26 Nov 2026.
 
 Beat Detective is a hip-hop and house artist based in United Kingdom, with 46 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Benno, Matica and ASAP RICKY. Next up: Kazimier Garden, Liverpool on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Beat Detective is a hip-hop and house artist based in United Kingdom, with 46 gi
 
 Benno, Matica, ASAP RICKY
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatdetective/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatdetective/)*

@@ -1,14 +1,13 @@
 # Majdolen
 
-Majdolen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
+Majdolen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at KREUZWERK, Berlin on Fri, 27 Nov 2026.
 
-Majdolen is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 5 more. Often billed alongside Dirty Daddy Don, Stathis (GR) and Luigi Di Venere. Next up: ROSA, Berlin on Sat 21 Nov.
+Majdolen is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 5 more. Often billed alongside Dirty Daddy Don, Stathis (GR) and Luigi Di Venere. Next up: KREUZWERK, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ROSA | Berlin |
 | Fri, 27 Nov 2026 | KREUZWERK | Berlin |
 | Sat, 5 Dec 2026 | Südpol | Hamburg |
 | Tue, 22 Dec 2026 | OXI | Berlin |
@@ -16,6 +15,7 @@ Majdolen is a techno and house artist based in Germany, with 64 gigs on soundche
 
 ## Recently played
 
+- ROSA, Berlin · Sat, 21 Nov 2026
 - Bal Chavaux, Paris · Fri, 20 Nov 2026
 - TBA - Secret Location, Berlin · Sat, 24 Oct 2026
 - KREUZWERK, Berlin · Fri, 23 Oct 2026
@@ -23,10 +23,9 @@ Majdolen is a techno and house artist based in Germany, with 64 gigs on soundche
 - Ficken 3000, Berlin · Fri, 9 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 5 Sept 2026
 - Den Anden Side, Copenhagen · Sat, 8 Aug 2026
-- Trädgården, Stockholm · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Dirty Daddy Don, Stathis (GR), Luigi Di Venere
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*

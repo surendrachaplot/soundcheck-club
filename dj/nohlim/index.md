@@ -1,6 +1,6 @@
 # nohlim
 
-nohlim is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at elipamanoke, Leipzig on Sat, 5 Dec 2026.
+nohlim is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at elipamanoke, Leipzig on Sat, 5 Dec 2026.
 
 nohlim is a drum & bass and dubstep artist based in Germany, with 7 gigs on soundcheck across Leipzig. Often billed alongside Relict, audite and ACE. Next up: elipamanoke, Leipzig on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ nohlim is a drum & bass and dubstep artist based in Germany, with 7 gigs on soun
 
 Relict, audite, ACE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohlim/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohlim/)*

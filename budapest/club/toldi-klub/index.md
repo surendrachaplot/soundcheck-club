@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Tesco Disco X TOLDI" on Sun, 22 Nov 2026.
+Toldi Klub is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Tesco Disco X TOLDI" on Sun, 22 Nov 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including AIRKEY, Calippo, Chrom and Cvrdwell and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -22,4 +22,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, w
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

@@ -1,14 +1,13 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+Kilopatrah Jones is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at H0L0, New York City on Fri, 11 Dec 2026.
 
-Kilopatrah Jones is a house and techno artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
+Kilopatrah Jones is a house and techno artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: H0L0, New York City on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 11 Dec 2026 | H0L0 | New York City |
 | Fri, 18 Dec 2026 | Nowadays | New York City |
 
@@ -27,4 +26,4 @@ Kilopatrah Jones is a house and techno artist based in United States of America,
 
 Dee Diggs, Mike Servito, Ron Like Hell
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*

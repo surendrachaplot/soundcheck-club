@@ -1,6 +1,6 @@
 # Sasan
 
-Sasan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Emaar Skyview Istanbul, Istanbul on Sat, 28 Nov 2026.
+Sasan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Emaar Skyview Istanbul, Istanbul on Sat, 28 Nov 2026.
 
 Sasan is a house and techno artist based in Iran, with 11 gigs on soundcheck across Dubai and Istanbul. Often billed alongside Dyzen, SCRIPT and 19:26. Next up: Emaar Skyview Istanbul, Istanbul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sasan is a house and techno artist based in Iran, with 11 gigs on soundcheck acr
 
 Dyzen, SCRIPT (2), 19:26
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasan/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasan/)*

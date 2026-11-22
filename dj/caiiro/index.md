@@ -1,14 +1,15 @@
 # Caiiro
 
-Caiiro is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+Caiiro is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
-Caiiro is an afro house and afro tech artist based in South Africa, with 87 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
+Caiiro is an afro house and afro tech artist based in South Africa, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
+| Fri, 19 Feb 2027 | Audio SF | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Caiiro is an afro house and afro tech artist based in South Africa, with 87 gigs
 
 Enoo Napa, Da Capo, Van Zand
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*

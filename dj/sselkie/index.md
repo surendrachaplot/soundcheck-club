@@ -1,8 +1,8 @@
 # sselkie
 
-sselkie is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Atemporal, Berlin on Sun, 22 Nov 2026.
+sselkie is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Atemporal, Berlin on Sun, 22 Nov 2026.
 
-sselkie is a downtempo and ambient artist, with 5 gigs on soundcheck across Berlin. Often billed alongside annna, kiku❁ and Angelo Harmsworth. Next up: Atemporal, Berlin on Sun 22 Nov.
+sselkie is a downtempo and ambient artist based in United Kingdom, with 5 gigs on soundcheck across Berlin. Often billed alongside annna, kiku❁ and Angelo Harmsworth. Next up: Atemporal, Berlin on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ sselkie is a downtempo and ambient artist, with 5 gigs on soundcheck across Berl
 
 annna (2), kiku❁, Angelo Harmsworth
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sselkie/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sselkie/)*

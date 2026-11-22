@@ -1,6 +1,6 @@
 # J Key
 
-J Key is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Warehouse (Barcelona), Barcelona on Sat, 28 Nov 2026.
+J Key is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Warehouse (Barcelona), Barcelona on Sat, 28 Nov 2026.
 
 J Key is a house and disco artist based in United States of America, with 16 gigs on soundcheck across Barcelona, Miami, San Francisco Oakland and San Francisco/Oakland. Often billed alongside LEDET, Soulfunky and Brunch Life. Next up: TBA - Secret Warehouse (Barcelona), Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ J Key is a house and disco artist based in United States of America, with 16 gig
 
 LEDET, Soulfunky, Brunch Life
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey/)*

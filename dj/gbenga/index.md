@@ -1,6 +1,6 @@
 # Gbenga
 
-Gbenga is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Rawhide, New York City on Sat, 28 Nov 2026.
+Gbenga is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Rawhide, New York City on Sat, 28 Nov 2026.
 
 Gbenga is a techno and club artist based in United States of America, with 57 gigs on soundcheck across Berlin, Leeds, Los Angeles and New York City and 1 more. Often billed alongside Mapamota, Stealth Angel and Umbra Abra. Next up: Club Rawhide, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gbenga is a techno and club artist based in United States of America, with 57 gi
 
 Mapamota, Stealth Angel, Umbra Abra
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gbenga/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gbenga/)*

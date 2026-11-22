@@ -1,6 +1,6 @@
 # Atomik
 
-Atomik is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - teufel, Budapest on Thu, 13 May 2027.
+Atomik is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - teufel, Budapest on Thu, 13 May 2027.
 
 Atomik is an acid and electro artist based in Hungary, with 2 gigs on soundcheck across Budapest. Often billed alongside Galactic Jackson, Kvrk and LAU. Next up: TBA - teufel, Budapest on Thu 13 May.
 
@@ -18,4 +18,4 @@ Atomik is an acid and electro artist based in Hungary, with 2 gigs on soundcheck
 
 Galactic Jackson, Kvrk, LAU (6)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atomik/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atomik/)*

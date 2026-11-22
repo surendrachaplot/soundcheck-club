@@ -1,14 +1,13 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Sunday Scaries & Friends" on Sat, 21 Nov 2026.
+Academy LA is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Polyamor Berlin feat. Mika Heggemann, davyboi, Casska" on Fri, 4 Dec 2026.
 
-Academy LA is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Airwolf Paradise, Archie Hamilton, Casska and davyboi and 2 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
+Academy LA is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Airwolf Paradise, Archie Hamilton, Casska and davyboi and 2 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Sunday Scaries & Friends |  |
 | Fri, 4 Dec 2026 | Polyamor Berlin feat. Mika Heggemann, davyboi, Casska | Casska, Mika Heggemann, davyboi |
 | Sat, 26 Dec 2026 | Night Trip Holiday Party | J. Worra, Will Clarke |
 | Sun, 17 Jan 2027 | Night Trip: Noizu, Airwolf Paradise, Galo | Airwolf Paradise |
@@ -18,4 +17,4 @@ Academy LA is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

@@ -1,18 +1,18 @@
 # Jara
 
-Jara is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 21 Nov 2026.
+Jara is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
 
-Jara is a progressive house and house artist based in Spain, with 42 gigs on soundcheck across Hamburg and Madrid. Often billed alongside Unai García, Gleezy and Vico Deep. Next up: Hangar48 Club, Madrid on Sat 21 Nov.
+Jara is a progressive house and house artist based in Spain, with 42 gigs on soundcheck across Hamburg and Madrid. Often billed alongside Unai García, Gleezy and Vico Deep. Next up: Fabrique im Gängeviertel, Hamburg on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Hangar48 Club | Madrid |
 | Sat, 5 Dec 2026 | Fabrique im Gängeviertel | Hamburg |
 
 ## Recently played
 
+- Hangar48 Club, Madrid · Sat, 21 Nov 2026
 - berlinClub, Madrid · Sun, 11 Oct 2026
 - Hangar48 Club, Madrid · Sat, 5 Sept 2026
 - Helgoländer Allee, Hamburg · Sat, 29 Aug 2026
@@ -20,10 +20,9 @@ Jara is a progressive house and house artist based in Spain, with 42 gigs on sou
 - Barco Sound House, Madrid · Thu, 2 Jul 2026
 - Café Berlín, Madrid · Fri, 19 Jun 2026
 - Goldener Salon, Hamburg · Fri, 19 Jun 2026
-- berlinClub, Madrid · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Unai García, Gleezy, Vico Deep
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jara/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jara/)*

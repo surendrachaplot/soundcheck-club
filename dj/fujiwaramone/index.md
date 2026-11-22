@@ -1,6 +1,6 @@
 # FUJIWARAMONE
 
-FUJIWARAMONE is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
+FUJIWARAMONE is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
 
 FUJIWARAMONE is a techno and psytrance artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside AYANA KOSHIBA, AMG SAIMURA (TECHVANE) and AMIDAdrive. Next up: WOMB, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ FUJIWARAMONE is a techno and psytrance artist based in Japan, with 9 gigs on sou
 
 AYANA KOSHIBA, AMG SAIMURA (TECHVANE), AMIDAdrive
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fujiwaramone/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fujiwaramone/)*

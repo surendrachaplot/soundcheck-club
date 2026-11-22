@@ -1,6 +1,6 @@
 # YULIA (US)
 
-YULIA (US) is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Call Infoline for Secret Location, Boston on Fri, 4 Dec 2026.
+YULIA (US) is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Call Infoline for Secret Location, Boston on Fri, 4 Dec 2026.
 
 YULIA (US) is a techno and hip-hop artist based in United States of America, with 10 gigs on soundcheck across Boston, Frankfurt and Paris. Often billed alongside BRATATTACK, dystecha and A.D.H.S.. Next up: TBA - Call Infoline for Secret Location, Boston on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ YULIA (US) is a techno and hip-hop artist based in United States of America, wit
 
 BRATATTACK, dystecha, A.D.H.S.
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulia-3/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulia-3/)*

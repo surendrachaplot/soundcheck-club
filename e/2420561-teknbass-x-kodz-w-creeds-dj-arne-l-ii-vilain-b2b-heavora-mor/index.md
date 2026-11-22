@@ -1,6 +1,6 @@
 # TEKNBASS x Kodz w/Creeds, DJ Arne L II, VILAIN B2B Heavora & more at Kodz
 
-TEKNBASS x Kodz w/Creeds, DJ Arne L II, VILAIN B2B Heavora & more on Sat 22 May, Lille. 5 artists: DJ Arne L II, Heavora, Hortense de Beauharnais and Low E and 1 more. See the line-up on soundcheck.
+TEKNBASS x Kodz w/Creeds, DJ Arne L II, VILAIN B2B Heavora & more on Sat 22 May, Lille. 6 artists: Creeds, DJ Arne L II, Heavora and Hortense de Beauharnais and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TEKNBASS x Kodz w/Creeds, DJ Arne L II, VILAIN B2B Heavora & more on Sat 22 May,
 
 ## Line-up
 
+- Creeds
 - DJ Arne L II
 - Heavora
 - Hortense de Beauharnais

@@ -1,6 +1,6 @@
 # NIIX
 
-NIIX is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
+NIIX is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
 
 NIIX is a techno and bass artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Barcelona, Edinburgh and Liverpool and 3 more. Often billed alongside SK4NK, Kutchi and colecta. Next up: The Cause, London on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ NIIX is a techno and bass artist based in United Kingdom, with 30 gigs on soundc
 
 SK4NK, Kutchi, colecta
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niix/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niix/)*

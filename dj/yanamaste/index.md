@@ -1,14 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Martiniplaza, Amsterdam on Sat, 21 Nov 2026.
+Yanamaste is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Yanamaste is a techno and house artist based in Georgia, with 277 gigs on soundcheck across Alicante, Amsterdam, Athens and Atlanta and 80 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Martiniplaza, Amsterdam on Sat 21 Nov.
+Yanamaste is a techno and house artist based in Georgia, with 277 gigs on soundcheck across Alicante, Amsterdam, Athens and Atlanta and 80 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Mon, 30 Nov 2026 | Gare Porto | Porto |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
@@ -20,9 +19,11 @@ Yanamaste is a techno and house artist based in Georgia, with 277 gigs on soundc
 | Fri, 1 Jan 2027 | Pandora Sevilla | South |
 | Sat, 2 Jan 2027 | SMUT Athens | Athens |
 | Sat, 9 Jan 2027 | Uebel & Gefährlich | Hamburg |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- Martiniplaza, Amsterdam · Sat, 21 Nov 2026
 - Club Hípico de Santiago, Santiago · Sat, 14 Nov 2026
 - FOLD, London · Sat, 7 Nov 2026
 - Palais 12 / Paleis 12 (ING Arena), Brussels · Fri, 6 Nov 2026
@@ -30,10 +31,9 @@ Yanamaste is a techno and house artist based in Georgia, with 277 gigs on soundc
 - Gold Bar Hangar, California · Fri, 30 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - SMUT Athens, Athens · Tue, 27 Oct 2026
-- Havenpark, Amsterdam · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

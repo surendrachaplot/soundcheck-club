@@ -1,6 +1,6 @@
 # C4STRO
 
-C4STRO is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 28 Nov 2026.
+C4STRO is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 28 Nov 2026.
 
 C4STRO is a house and electronica artist based in Portugal, with 19 gigs on soundcheck across Ho Chi Minh City and Lisbon. Often billed alongside Martim Tonic, MURI and 4IN. Next up: Sophia Pizzoteca & Bar, Lisbon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ C4STRO is a house and electronica artist based in Portugal, with 19 gigs on soun
 
 Martim Tonic, MURI, 4IN
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*

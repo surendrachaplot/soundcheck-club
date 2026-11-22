@@ -1,6 +1,6 @@
 # Vauxhall Arches
 
-Vauxhall Arches is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "PIXELATE KANDI KINGDOM LONDON" on Fri, 11 Dec 2026.
+Vauxhall Arches is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "PIXELATE KANDI KINGDOM LONDON" on Fri, 11 Dec 2026.
 
 Vauxhall Arches is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including changeofheart, Compulsive Leia, EVIL THWEK and Gammer and 2 more. See dates, start times and who's playing. South Lambeth Road, Vauxhall, London SW8 1RT, United Kingdom.
 
@@ -14,4 +14,4 @@ Vauxhall Arches is a music venue in London listed on soundcheck. 1 upcoming gig,
 
 South Lambeth Road, Vauxhall, London SW8 1RT, United Kingdom, London
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vauxhall-arches/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vauxhall-arches/)*

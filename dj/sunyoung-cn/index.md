@@ -1,6 +1,6 @@
 # Sunyoung
 
-Sunyoung is a Electro and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Cici Park, Chongqing on Sat, 12 Dec 2026.
+Sunyoung is a Electro and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Cici Park, Chongqing on Sat, 12 Dec 2026.
 
 Sunyoung is an electro and acid artist based in China, with 95 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 2 more. Often billed alongside B.AI, DJ-BLUE and Jeff Chong. Next up: Cici Park, Chongqing on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Sunyoung is an electro and acid artist based in China, with 95 gigs on soundchec
 
 B.AI, DJ-BLUE, Jeff Chong
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunyoung-cn/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunyoung-cn/)*

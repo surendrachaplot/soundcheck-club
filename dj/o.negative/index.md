@@ -1,13 +1,14 @@
 # o.negative
 
-o.negative is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
+o.negative is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
 
-o.negative is a house and bass artist based in United States of America, with 17 gigs on soundcheck across New York City. Often billed alongside ethereal.mvp, Brooke Steele and Primordian. Next up: Paragon, New York City on Fri 18 Dec.
+o.negative is a house and club artist based in United States of America, with 18 gigs on soundcheck across Milan and New York City. Often billed alongside ethereal.mvp, kyxm and martine. Next up: Bene Bene, Milan on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Bene Bene | Milan |
 | Fri, 18 Dec 2026 | Paragon | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ o.negative is a house and bass artist based in United States of America, with 17
 
 ## Shares bills with
 
-ethereal.mvp, Brooke Steele, Primordian
+ethereal.mvp, kyxm, martine (5)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.negative/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.negative/)*

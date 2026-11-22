@@ -1,6 +1,6 @@
 # Pawlowski (UK)
 
-Pawlowski (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
+Pawlowski (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
 
 Pawlowski (UK) is a techno and trance artist based in Poland, with 35 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 20 more. Often billed alongside Alignment, NOVAH and Nico Moreno. Next up: Panther Island Pavilion, Dallas Fort Worth on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Pawlowski (UK) is a techno and trance artist based in Poland, with 35 gigs on so
 
 Alignment, NOVAH, Nico Moreno
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*

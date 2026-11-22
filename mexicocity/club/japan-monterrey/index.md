@@ -1,6 +1,6 @@
 # Japan Monterrey
 
-Japan Monterrey is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Rodilla Club" on Sat, 28 Nov 2026.
+Japan Monterrey is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Rodilla Club" on Sat, 28 Nov 2026.
 
 Japan Monterrey is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including rodman and Ynfynyt Scroll. See dates, start times and who's playing. Av. Monterrey #56, Roma Norte, 06700, Mexico City, Mexico.
 
@@ -14,4 +14,4 @@ Japan Monterrey is a music venue in Mexico City listed on soundcheck. 1 upcoming
 
 Av. Monterrey #56, Roma Norte, 06700, Mexico City, Mexico, Mexico City
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/japan-monterrey/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/japan-monterrey/)*

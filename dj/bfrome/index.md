@@ -1,6 +1,6 @@
 # B From E
 
-B From E is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
+B From E is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
 
 B From E is a house and techno artist based in Denmark, with 63 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Lyon and 1 more. Often billed alongside Harrison Heat, NAT (SK) and Anna Logic. Next up: Den Anden Side, Copenhagen on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ B From E is a house and techno artist based in Denmark, with 63 gigs on soundche
 
 Harrison Heat, NAT (SK), Anna Logic
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*

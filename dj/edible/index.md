@@ -1,8 +1,8 @@
 # Edible
 
-Edible is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
+Edible is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
 
-Edible is a funk / soul and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Gilkinspoon, Shabba and Bena. Next up: The Fox and Firkin, London on Sat 28 Nov.
+Edible is a funk / soul and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Gilkinspoon, Shabba and Chameleonas. Next up: The Fox and Firkin, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Edible is a funk / soul and house artist based in United Kingdom, with 7 gigs on
 
 ## Shares bills with
 
-Gilkinspoon, Shabba, Bena
+Gilkinspoon, Shabba, Chameleonas
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edible/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edible/)*

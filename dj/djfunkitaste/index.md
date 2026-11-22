@@ -1,6 +1,6 @@
 # DJ FUNKI TASTE
 
-DJ FUNKI TASTE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Chausseestrasse 131, Berlin on Sat, 12 Dec 2026.
+DJ FUNKI TASTE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Chausseestrasse 131, Berlin on Sat, 12 Dec 2026.
 
 DJ FUNKI TASTE is a house and disco artist based in Germany, with 6 gigs on soundcheck across Berlin and London. Often billed alongside Sinan Varol, LG JASPER <3 and Archie Sharpe. Next up: Chausseestrasse 131, Berlin on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ DJ FUNKI TASTE is a house and disco artist based in Germany, with 6 gigs on soun
 
 Sinan Varol, LG JASPER <3, Archie Sharpe
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfunkitaste/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfunkitaste/)*

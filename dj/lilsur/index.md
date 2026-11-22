@@ -1,6 +1,6 @@
 # Lil Sur
 
-Lil Sur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Time is the new space, Rotterdam on Thu, 26 Nov 2026.
+Lil Sur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Time is the new space, Rotterdam on Thu, 26 Nov 2026.
 
 Lil Sur is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Antwerp, Rotterdam and San Francisco/Oakland. Often billed alongside DJ Trevs, Miss Crafty and ek:). Next up: Time is the new space, Rotterdam on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Lil Sur is a house and techno artist based in United States of America, with 15 
 
 DJ Trevs, Miss Crafty, ek:)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilsur/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilsur/)*

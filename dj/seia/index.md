@@ -1,6 +1,6 @@
 # Sei A
 
-Sei A is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at M-BIA, Berlin on Fri, 4 Dec 2026.
+Sei A is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at M-BIA, Berlin on Fri, 4 Dec 2026.
 
 Sei A is a hardcore and techno artist based in United Kingdom, with 3 gigs on soundcheck across Berlin. Often billed alongside Techno Frühstück, Tekk and Tekk DJ'z. Next up: M-BIA, Berlin on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Sei A is a hardcore and techno artist based in United Kingdom, with 3 gigs on so
 
 Techno Frühstück, Tekk, Tekk DJ'z
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seia/)*

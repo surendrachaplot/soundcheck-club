@@ -1,6 +1,6 @@
 # Pats Toms
 
-Pats Toms is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
+Pats Toms is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
 
 Pats Toms is a drum & bass artist based in Latvia, with 2 gigs on soundcheck across Riga. Often billed alongside ZapWo, DRAGONCAT and Dispoze. Next up: Korpuss, Riga on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Pats Toms is a drum & bass artist based in Latvia, with 2 gigs on soundcheck acr
 
 ZapWo, DRAGONCAT, Dispoze
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patstoms/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patstoms/)*

@@ -1,14 +1,21 @@
 # mxmax
 
-mxmax is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 19 Nov 2026.
+mxmax is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ernest Records, New York City on Wed, 2 Dec 2026.
 
-mxmax is a techno and electro artist based in United States of America, with 2 gigs on soundcheck across New York City. Next up: Bossa Nova Civic Club, New York City on Thu 19 Nov.
+mxmax is a techno and electro artist based in United States of America, with 2 gigs on soundcheck across New York City. Often billed alongside SIETE. Next up: Ernest Records, New York City on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Wed, 2 Dec 2026 | Ernest Records | New York City |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxmax/)*
+## Recently played
+
+- Bossa Nova Civic Club, New York City · Thu, 19 Nov 2026
+
+## Shares bills with
+
+SIETE
+
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxmax/)*

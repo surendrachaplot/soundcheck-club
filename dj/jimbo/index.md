@@ -1,8 +1,8 @@
 # JIMBO/.
 
-JIMBO/. is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Le Brise Glace, East on Sat, 6 Feb 2027.
+JIMBO/. is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Brise Glace, East on Sat, 6 Feb 2027.
 
-JIMBO/. is a drum & bass artist, with 2 gigs on soundcheck across East and Nürnberg. Often billed alongside Boston 168, Formula LDN and Haptic. Next up: Le Brise Glace, East on Sat 6 Feb.
+JIMBO/. is a drum & bass artist based in France, with 2 gigs on soundcheck across East and Nürnberg. Often billed alongside Boston 168, Formula LDN and Haptic. Next up: Le Brise Glace, East on Sat 6 Feb.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ JIMBO/. is a drum & bass artist, with 2 gigs on soundcheck across East and Nürn
 
 Boston 168, Formula LDN, Haptic
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbo/)*

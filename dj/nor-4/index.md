@@ -1,6 +1,6 @@
 # NOR (4)
 
-NOR (4) is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 27 Feb 2027.
+NOR (4) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 27 Feb 2027.
 
 NOR is an electronic artist based in Germany, with 4 gigs on soundcheck across Berlin, Bogotá, Münster and Tokyo. Often billed alongside Aiobahn, Bambus and Fra. Next up: ZEROTOKYO, Tokyo on Sat 27 Feb.
 
@@ -20,4 +20,4 @@ NOR is an electronic artist based in Germany, with 4 gigs on soundcheck across B
 
 Aiobahn, Bambus, Fra (24)
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nor-4/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nor-4/)*

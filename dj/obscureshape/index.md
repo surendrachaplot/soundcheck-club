@@ -1,14 +1,13 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gate Milano, Milan on Sat, 21 Nov 2026.
+Obscure Shape is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at BEC (Bilbao Exhibition Center), North on Sat, 28 Nov 2026.
 
-Obscure Shape is a techno and house artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside SHDW, Laure Croft and RUIZ OSC1. Next up: Gate Milano, Milan on Sat 21 Nov.
+Obscure Shape is a techno and house artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside SHDW, Laure Croft and RUIZ OSC1. Next up: BEC (Bilbao Exhibition Center), North on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Gate Milano | Milan |
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
 | Fri, 4 Dec 2026 | Gotec | Karlsruhe |
 | Sat, 5 Dec 2026 | Black Belval | Luxembourg |
@@ -32,4 +31,4 @@ Obscure Shape is a techno and house artist based in Germany, with 123 gigs on so
 
 SHDW, Laure Croft, RUIZ OSC1
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*

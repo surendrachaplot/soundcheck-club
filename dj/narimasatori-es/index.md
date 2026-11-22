@@ -1,6 +1,6 @@
 # Narima Satori
 
-Narima Satori is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
+Narima Satori is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
 
 Narima Satori is an electro and house artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside Lowkey Loud, DC81 and Mganz. Next up: BUS Hexperience, Barcelona on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Narima Satori is an electro and house artist based in Spain, with 11 gigs on sou
 
 Lowkey Loud, DC81, Mganz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/narimasatori-es/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/narimasatori-es/)*

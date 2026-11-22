@@ -1,6 +1,6 @@
 # Modestep
 
-Modestep is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Melkweg, Amsterdam on Fri, 27 Nov 2026.
+Modestep is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Melkweg, Amsterdam on Fri, 27 Nov 2026.
 
 Modestep is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bratislava, Bristol and Budapest and 14 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Melkweg, Amsterdam on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Modestep is a dubstep and drum & bass artist based in United Kingdom, with 25 gi
 
 Dirtyphonics, Enei, Koven
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modestep/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modestep/)*

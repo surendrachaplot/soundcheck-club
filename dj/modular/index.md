@@ -1,6 +1,6 @@
 # Modular
 
-Modular is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 28 Nov 2026.
+Modular is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 28 Nov 2026.
 
 Modular is a techno and house artist, with 6 gigs on soundcheck across Bologna, Guadalajara, Melbourne and Mexico City. Often billed alongside ARIHA, Agent 86 and D-Leria. Next up: Revolver Upstairs, Melbourne on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Modular is a techno and house artist, with 6 gigs on soundcheck across Bologna, 
 
 ARIHA, Agent 86, D-Leria
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modular/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modular/)*

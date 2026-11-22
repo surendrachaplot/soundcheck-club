@@ -1,6 +1,6 @@
 # AVÖ (PT)
 
-AVÖ (PT) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at KOKO, London on Fri, 20 Nov 2026.
+AVÖ (PT) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at KOKO, London on Fri, 20 Nov 2026.
 
 AVÖ (PT) is an afro house and house artist based in Portugal, with 7 gigs on soundcheck across Ibiza, Lisbon, London and Lyon and 2 more. Often billed alongside Francis Mercier, MoBlack and ARYMÉ. Next up: KOKO, London on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ AVÖ (PT) is an afro house and house artist based in Portugal, with 7 gigs on so
 
 Francis Mercier, MoBlack, ARYMÉ
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avopt/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avopt/)*

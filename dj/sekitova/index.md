@@ -1,6 +1,6 @@
 # Sekitova
 
-Sekitova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pawnshop, Taipei on Fri, 4 Dec 2026.
+Sekitova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pawnshop, Taipei on Fri, 4 Dec 2026.
 
 Sekitova is a house and techno artist based in Japan, with 154 gigs on soundcheck across Kyoto, Osaka, Seoul and Taipei and 1 more. Often billed alongside FELINE (JP), okadada and AMANE. Next up: Pawnshop, Taipei on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sekitova is a house and techno artist based in Japan, with 154 gigs on soundchec
 
 FELINE (JP), okadada, AMANE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekitova/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekitova/)*

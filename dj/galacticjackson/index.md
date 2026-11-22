@@ -1,6 +1,6 @@
 # Galactic Jackson
 
-Galactic Jackson is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - teufel, Budapest on Thu, 13 May 2027.
+Galactic Jackson is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - teufel, Budapest on Thu, 13 May 2027.
 
 Galactic Jackson is a techno and electro artist based in Hungary, with 67 gigs on soundcheck across Budapest. Often billed alongside Murahni, Ben Dover and Andrija Jäger. Next up: TBA - teufel, Budapest on Thu 13 May.
 
@@ -25,4 +25,4 @@ Galactic Jackson is a techno and electro artist based in Hungary, with 67 gigs o
 
 Murahni, Ben Dover, Andrija Jäger
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galacticjackson/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galacticjackson/)*

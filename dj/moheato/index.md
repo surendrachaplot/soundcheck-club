@@ -1,6 +1,6 @@
 # Moheato
 
-Moheato is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 4 Dec 2026.
+Moheato is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 Moheato is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Torteline, Hunter Green and Bryn Avery. Next up: Public Works, San Francisco/Oakland on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Moheato is a house and tech house artist based in United States of America, with
 
 Torteline, Hunter Green, Bryn Avery
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moheato/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moheato/)*

@@ -1,6 +1,6 @@
 # zeze (2)
 
-zeze (2) is a Trance and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Artheater, Cologne on Fri, 15 Jan 2027.
+zeze (2) is a Trance and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Artheater, Cologne on Fri, 15 Jan 2027.
 
 zeze is a trance and hip-hop artist based in Germany, with 2 gigs on soundcheck across Cologne. Often billed alongside alleira, HiHat and Lizzle. Next up: Artheater, Cologne on Fri 15 Jan.
 
@@ -18,4 +18,4 @@ zeze is a trance and hip-hop artist based in Germany, with 2 gigs on soundcheck 
 
 alleira, HiHat, Lizzle
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeze-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeze-2/)*

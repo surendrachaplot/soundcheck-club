@@ -1,6 +1,6 @@
 # Mimsy
 
-Mimsy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Supermercat Gotico, Barcelona on Thu, 26 Nov 2026.
+Mimsy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Supermercat Gotico, Barcelona on Thu, 26 Nov 2026.
 
 Mimsy is a house and disco artist based in Spain, with 65 gigs on soundcheck across Barcelona. Often billed alongside DJ Will Grant, Danny Mekanik and Better Late. Next up: The Supermercat Gotico, Barcelona on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Mimsy is a house and disco artist based in Spain, with 65 gigs on soundcheck acr
 
 DJ Will Grant, Danny Mekanik, Better Late
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimsy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimsy/)*

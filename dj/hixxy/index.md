@@ -1,6 +1,6 @@
 # Hixxy
 
-Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Outernet Live, London on Sat, 24 Apr 2027.
+Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Outernet Live, London on Sat, 24 Apr 2027.
 
 Hixxy is a hardcore and bass artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Austin, Brighton and Edinburgh and 13 more. Often billed alongside Dougal, Mark Breeze and MC Storm. Next up: Outernet Live, London on Sat 24 Apr.
 
@@ -25,4 +25,4 @@ Hixxy is a hardcore and bass artist based in United Kingdom, with 28 gigs on sou
 
 Dougal, Mark Breeze, MC Storm
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*

@@ -1,0 +1,13 @@
+# Bâtiment 7
+
+Bâtiment 7 is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Bridges to Dub presents: Dubwise Sessions 5 with OBF x Iration Steppas" on Sat, 28 Nov 2026.
+
+Bâtiment 7 is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Asha, Clinton Sly, Icky Magdala and Iration Steppas and 2 more. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | Bridges to Dub presents: Dubwise Sessions 5 with OBF x Iration Steppas | Asha (4), Clinton Sly, Icky Magdala, Iration Steppas, O.B.F, Runa |
+
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/b-timent-7/)*

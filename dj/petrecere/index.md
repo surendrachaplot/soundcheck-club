@@ -1,8 +1,8 @@
 # Pe.trecere
 
-Pe.trecere is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at komunal, Birmingham on Fri, 4 Dec 2026.
+Pe.trecere is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at komunal, Birmingham on Fri, 4 Dec 2026.
 
-Pe.trecere is a minimal and tech house artist, with 4 gigs on soundcheck across Birmingham. Often billed alongside Sorin Simon and cefari. Next up: komunal, Birmingham on Fri 4 Dec.
+Pe.trecere is a minimal and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Birmingham. Often billed alongside Sorin Simon and cefari. Next up: komunal, Birmingham on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Pe.trecere is a minimal and tech house artist, with 4 gigs on soundcheck across 
 
 Sorin Simon, cefari
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petrecere/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petrecere/)*

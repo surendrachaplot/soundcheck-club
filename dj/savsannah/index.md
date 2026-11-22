@@ -1,6 +1,6 @@
 # Savsannah
 
-Savsannah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at fi, Cologne on Sat, 30 Jan 2027.
+Savsannah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at fi, Cologne on Sat, 30 Jan 2027.
 
 Savsannah is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dortmund / Essen and 2 more. Often billed alongside Sedaction, Anna Cainelli and Nikity. Next up: fi, Cologne on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Savsannah is a house and techno artist based in United States of America, with 4
 
 Sedaction, Anna Cainelli, Nikity
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*

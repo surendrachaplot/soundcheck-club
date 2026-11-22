@@ -1,6 +1,6 @@
 # TBA - Roma, Norte
 
-TBA - Roma, Norte is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "CANCELLED - No solo escuchamos** II" on Sat, 21 Nov 2026.
+TBA - Roma, Norte is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "CANCELLED - No solo escuchamos** II" on Sat, 21 Nov 2026.
 
 TBA - Roma, Norte is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including 409, Aqua Mute, Awa (uwu) and fantasm0genesis and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Roma, Norte is a music venue in Mexico City listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | CANCELLED - No solo escuchamos** II | 409, Aqua Mute, Awa (uwu), Hermanito, fantasm0genesis |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-roma-norte/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-roma-norte/)*

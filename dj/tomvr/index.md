@@ -1,6 +1,6 @@
 # Tom VR
 
-Tom VR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at radial, London on Fri, 4 Dec 2026.
+Tom VR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at radial, London on Fri, 4 Dec 2026.
 
 Tom VR is a techno and house artist based in United Kingdom, with 39 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Bristol and 15 more. Often billed alongside Seb Wildblood, Maya Q and Baalti. Next up: radial, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tom VR is a techno and house artist based in United Kingdom, with 39 gigs on sou
 
 Seb Wildblood, Maya Q, Baalti
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomvr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomvr/)*

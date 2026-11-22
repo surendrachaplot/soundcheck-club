@@ -1,14 +1,13 @@
 # Less
 
-Less is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 18 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 26 Nov 2026.
+Less is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
-Less is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and Miami and 1 more. Often billed alongside Arca, Carlos Willengton and Cera Khin. Next up: Do Not Sit On The Furniture, Miami on Thu 26 Nov.
+Less is a techno and hardcore artist based in Germany, with 4 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and Zagreb. Often billed alongside Arca, Carlos Willengton and Cera Khin. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Do Not Sit On The Furniture | Miami |
 | Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
 
 ## Recently played
@@ -21,4 +20,4 @@ Less is a techno and house artist based in Germany, with 5 gigs on soundcheck ac
 
 Arca, Carlos Willengton, Cera Khin
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djless/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djless/)*

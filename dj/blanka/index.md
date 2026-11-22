@@ -1,17 +1,17 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at FVTVR, Paris on Fri, 20 Nov 2026.
+BLANKA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
 
-BLANKA is a techno and house artist based in Spain, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Angioma, Setaoc Mass and Quelza. Next up: FVTVR, Paris on Fri 20 Nov.
+BLANKA is a techno and house artist based in Spain, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Angioma, Setaoc Mass and Quelza. Next up: Thuishaven, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | FVTVR | Paris |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Dec 2026 | Azimut Club | Turin |
 | Fri, 11 Dec 2026 | Kompass Klub | Ghent |
+| Sat, 12 Dec 2026 | Printhouse | Munich |
 | Sat, 19 Dec 2026 | fabric | London |
 
 ## Recently played
@@ -29,4 +29,4 @@ BLANKA is a techno and house artist based in Spain, with 173 gigs on soundcheck 
 
 Angioma, Setaoc Mass, Quelza
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

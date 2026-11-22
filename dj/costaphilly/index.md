@@ -1,8 +1,8 @@
 # costaphilly
 
-costaphilly is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
+costaphilly is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
 
-costaphilly is a trance and techno artist, with 20 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Countershine, Carluschka and Katia Curie. Next up: Kater, Berlin on Sat 19 Dec.
+costaphilly is a trance and techno artist based in Germany, with 20 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Countershine, Carluschka and Katia Curie. Next up: Kater, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ costaphilly is a trance and techno artist, with 20 gigs on soundcheck across Ber
 
 Countershine, Carluschka, Katia Curie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costaphilly/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costaphilly/)*

@@ -1,8 +1,8 @@
 # Paprika
 
-Paprika is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 4 Dec 2026.
+Paprika is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 4 Dec 2026.
 
-Paprika is a techno and hardcore artist, with 4 gigs on soundcheck across Melbourne and Toronto. Often billed alongside Alister Johnson, B-Format and Chiara. Next up: Revolver Upstairs, Melbourne on Fri 4 Dec.
+Paprika is a techno and hardcore artist based in China, with 4 gigs on soundcheck across Melbourne and Toronto. Often billed alongside Alister Johnson, B-Format and Chiara. Next up: Revolver Upstairs, Melbourne on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Paprika is a techno and hardcore artist, with 4 gigs on soundcheck across Melbou
 
 Alister Johnson, B-Format, Chiara
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paprika/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paprika/)*

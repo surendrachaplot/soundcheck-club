@@ -1,6 +1,6 @@
 # Thyrie
 
-Thyrie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Theresienstraße 2, Leipzig on Sun, 6 Dec 2026.
+Thyrie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Theresienstraße 2, Leipzig on Sun, 6 Dec 2026.
 
 Thyrie is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Leipzig, Mecklenburg Vorpommern and Saxony Anhalt. Often billed alongside Bertha, Moon In My Pocket and OutWithJane. Next up: TBA - Theresienstraße 2, Leipzig on Sun 6 Dec.
 
@@ -22,4 +22,4 @@ Thyrie is a house and techno artist based in Germany, with 6 gigs on soundcheck 
 
 Bertha, Moon In My Pocket, OutWithJane
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thyrie/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thyrie/)*

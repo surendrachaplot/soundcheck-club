@@ -1,14 +1,13 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Warehouse ZRH, Switzerland on Sat, 21 Nov 2026.
+Claptone is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Armania Phuket, Thailand on Sat, 28 Nov 2026.
 
-Claptone is a house and tech house artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 75 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Warehouse ZRH, Switzerland on Sat 21 Nov.
+Claptone is a house and tech house artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 75 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Armania Phuket, Thailand on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Warehouse ZRH | Switzerland |
 | Sat, 28 Nov 2026 | Armania Phuket | Thailand |
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
@@ -18,6 +17,7 @@ Claptone is a house and tech house artist based in Germany, with 262 gigs on sou
 
 ## Recently played
 
+- Warehouse ZRH, Switzerland · Sat, 21 Nov 2026
 - KOKO, London · Sat, 14 Nov 2026
 - LAB theCLUB, Madrid · Sat, 7 Nov 2026
 - Butlin's Skegness Resort, Midlands · Fri, 6 Nov 2026
@@ -25,10 +25,9 @@ Claptone is a house and tech house artist based in Germany, with 262 gigs on sou
 - Pacha, Munich · Sat, 17 Oct 2026
 - Chinois Ibiza, Ibiza · Sun, 11 Oct 2026
 - TBA - Lurin live, Peru · Sat, 10 Oct 2026
-- Marina Bay Sands, Singapore · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 DIEGO SAN DIEGO, Hannah Wants, Solardo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

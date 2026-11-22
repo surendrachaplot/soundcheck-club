@@ -1,6 +1,6 @@
 # tINI
 
-tINI is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+tINI is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 tINI is a house and techno artist based in Germany, with 270 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 71 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -9,7 +9,6 @@ tINI is a house and techno artist based in Germany, with 270 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
-| Sat, 21 Nov 2026 | UMI | Brussels |
 | Sat, 28 Nov 2026 | Gaïa Beach | Morocco |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Fri, 4 Dec 2026 | TBA - East Williamsburg | New-york-city |
@@ -20,20 +19,21 @@ tINI is a house and techno artist based in Germany, with 270 gigs on soundcheck 
 | Thu, 31 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 5 Feb 2027 | Igloofest | Montreal |
 | Fri, 12 Feb 2027 | Cadavra | Madrid |
+| Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
 
+- TBA - Brussels, Brussels · Sat, 21 Nov 2026
+- UMI, Brussels · Sat, 21 Nov 2026
 - D-Edge RIO, Rio de Janeiro · Fri, 13 Nov 2026
 - Starlane São Paulo, Sao-paulo · Thu, 12 Nov 2026
 - El Rio Hostel, Colombia · Sun, 8 Nov 2026
 - Curador Club Social, Cali · Sat, 7 Nov 2026
 - Fünk, Mexico City · Fri, 6 Nov 2026
 - Garage Noord, Amsterdam · Sun, 25 Oct 2026
-- THE OTHER SIDE, Amsterdam · Sun, 25 Oct 2026
-- CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

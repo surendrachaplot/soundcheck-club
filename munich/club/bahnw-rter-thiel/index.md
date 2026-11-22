@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 16 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "CFU - Bahnwärter Thiel - Two Year Anniversary" on Sat, 21 Nov 2026.
+Bahnwärter Thiel is a music venue in Munich with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "135+ mit Bliss & Intensive Emotions" on Thu, 26 Nov 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 16 upcoming gigs, with line-ups including 9LALEY, ÆNN, Alex Volta and ANASTASÍA and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 15 upcoming gigs, with line-ups including 9LALEY, ÆNN, Alex Volta and ANASTASÍA and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | CFU - Bahnwärter Thiel - Two Year Anniversary | Dykstra, Marcel Dusk, SASHTY, Shishmish |
 | Thu, 26 Nov 2026 | 135+ mit Bliss & Intensive Emotions | Dena |
 | Fri, 27 Nov 2026 | Freitag mit Fab Massimo | Concentio, Fab Massimo, Gizmo, SILSAN, eira haul |
 | Sat, 28 Nov 2026 | Samstag mit Matija | seboro |
@@ -18,9 +17,10 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 16 upcoming g
 | Sat, 5 Dec 2026 | Kabinett der Kuriositäten | Tina Tischler |
 | Tue, 8 Dec 2026 | Wem gehört die Nacht? Diskriminierung erkennen, Solidarität leben |  |
 | Thu, 10 Dec 2026 | 135+ mit 1 CB & Psyfuck | S K Y, pnk pnthr |
+| Fri, 11 Dec 2026 | Freitag mit Konfusia | Konfusia, SILSAN, Tala Berg |
 
 ## Address
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

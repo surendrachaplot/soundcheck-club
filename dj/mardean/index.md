@@ -1,6 +1,6 @@
 # Mar Dean
 
-Mar Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hive Club, Zurich on Sat, 12 Dec 2026.
+Mar Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hive Club, Zurich on Sat, 12 Dec 2026.
 
 Mar Dean is a techno and house artist based in Switzerland, with 16 gigs on soundcheck across Bangkok, Berlin, Nürnberg and Prague and 1 more. Often billed alongside Solvane, Prismode and Marcus Meinhardt. Next up: Hive Club, Zurich on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mar Dean is a techno and house artist based in Switzerland, with 16 gigs on soun
 
 Solvane, Prismode, Marcus Meinhardt
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean/)*

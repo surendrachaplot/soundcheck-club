@@ -1,6 +1,6 @@
 # Comarca
 
-Comarca is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
+Comarca is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
 
 Comarca is a techno artist based in Spain, with 5 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Finalversion3, Anika Kunst and Atisbo. Next up: Razzmatazz, Barcelona on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Comarca is a techno artist based in Spain, with 5 gigs on soundcheck across Barc
 
 Finalversion3, Anika Kunst, Atisbo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comarca/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comarca/)*

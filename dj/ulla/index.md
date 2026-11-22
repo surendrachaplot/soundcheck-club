@@ -1,6 +1,6 @@
 # Ulla
 
-Ulla is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Fusion Club, Münster on Sat, 2 Jan 2027.
+Ulla is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fusion Club, Münster on Sat, 2 Jan 2027.
 
 Ulla is an experimental and ambient artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Perila, Lawrence and Map.ache. Next up: Fusion Club, Münster on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Ulla is an experimental and ambient artist based in United States of America, wi
 
 Perila, Lawrence, Map.ache
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*

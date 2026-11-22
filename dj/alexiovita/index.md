@@ -1,0 +1,17 @@
+# Alex Iovita
+
+Alex Iovita is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
+
+Alex Iovita is an electronic artist based in Romania, with 1 gig on soundcheck across Romania. Often billed alongside Desyfer, Dubmask (RO) and KARINSMATIC. Next up: Black Sea Coast Beach, Romania on Fri 18 Jun.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Jun 2027 | Black Sea Coast Beach | Romania |
+
+## Shares bills with
+
+Desyfer, Dubmask (RO), KARINSMATIC
+
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiovita/)*

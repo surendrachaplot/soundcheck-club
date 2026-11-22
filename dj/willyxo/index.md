@@ -1,6 +1,6 @@
 # WILLY XO
 
-WILLY XO is a Broken Beat and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 21soho, London on Fri, 27 Nov 2026.
+WILLY XO is a Broken Beat and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 21soho, London on Fri, 27 Nov 2026.
 
 WILLY XO is a broken beat and techno artist based in Ireland, with 6 gigs on soundcheck across Limerick, London and Paris. Often billed alongside Charlotte Walsh, Miley Serious and Armless Kid. Next up: 21soho, London on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ WILLY XO is a broken beat and techno artist based in Ireland, with 6 gigs on sou
 
 Charlotte Walsh, Miley Serious, Armless Kid
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willyxo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willyxo/)*

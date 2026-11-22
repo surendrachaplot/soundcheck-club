@@ -1,18 +1,18 @@
 # NOVZE
 
-NOVZE is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Sat, 21 Nov 2026.
+NOVZE is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gate Milano, Milan on Fri, 4 Dec 2026.
 
-NOVZE is a techno and electronica artist based in Italy, with 63 gigs on soundcheck across Berlin, Helsinki, Milan and Rome and 1 more. Often billed alongside AIN'T GEORGE, Ormeye and Ragliaz. Next up: CGM - Club Giovanile Milano, Milan on Sat 21 Nov.
+NOVZE is a techno and electronica artist based in Italy, with 63 gigs on soundcheck across Berlin, Helsinki, Milan and Rome and 1 more. Often billed alongside AIN'T GEORGE, Ormeye and Ragliaz. Next up: Gate Milano, Milan on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | CGM - Club Giovanile Milano | Milan |
 | Fri, 4 Dec 2026 | Gate Milano | Milan |
 
 ## Recently played
 
+- CGM - Club Giovanile Milano, Milan · Sat, 21 Nov 2026
 - Q Club, Milan · Fri, 20 Nov 2026
 - Q Club, Milan · Fri, 23 Oct 2026
 - Ääniwalli, Helsinki · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ NOVZE is a techno and electronica artist based in Italy, with 63 gigs on soundch
 - Arca, Milan · Fri, 1 May 2026
 - Circolo Amelia, Milan · Sat, 25 Apr 2026
 - Gate Milano, Milan · Sun, 29 Mar 2026
-- DKR Milano, Milan · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 AIN'T GEORGE, Ormeye, Ragliaz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novze/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novze/)*

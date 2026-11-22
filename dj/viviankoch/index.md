@@ -1,6 +1,6 @@
 # Vivian Koch
 
-Vivian Koch is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ingwer, Berlin on Wed, 2 Dec 2026.
+Vivian Koch is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ingwer, Berlin on Wed, 2 Dec 2026.
 
 Vivian Koch is an ambient and experimental artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Animistic Beliefs, Carrier and Lee Gamble. Next up: Ingwer, Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Vivian Koch is an ambient and experimental artist based in Germany, with 12 gigs
 
 Animistic Beliefs, Carrier, Lee Gamble
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viviankoch/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viviankoch/)*

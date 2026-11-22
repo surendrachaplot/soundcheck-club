@@ -1,6 +1,6 @@
 # AZZA
 
-AZZA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Waiheke Island Resort, Auckland on Sat, 30 Jan 2027.
+AZZA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Waiheke Island Resort, Auckland on Sat, 30 Jan 2027.
 
 AZZA is a house and afro house artist based in United Kingdom, with 9 gigs on soundcheck across Auckland and London. Often billed alongside Shervy, venice x and KAYDNCE. Next up: Waiheke Island Resort, Auckland on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ AZZA is a house and afro house artist based in United Kingdom, with 9 gigs on so
 
 Shervy, venice x, KAYDNCE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azza/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azza/)*

@@ -1,6 +1,6 @@
 # Rove Ranger
 
-Rove Ranger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 18 Dec 2026.
+Rove Ranger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 18 Dec 2026.
 
 Rove Ranger is a techno and house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 14 more. Often billed alongside David Löhlein, AHURA and Raphael Dincsoy. Next up: Lehmann Club, Stuttgart on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Rove Ranger is a techno and house artist based in Germany, with 51 gigs on sound
 
 David Löhlein, AHURA, Raphael Dincsoy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roveranger/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roveranger/)*

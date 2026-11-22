@@ -1,6 +1,6 @@
 # One New Day with Anna & Denis Stockhausen & Ramón, Josiane & Jørdy at Gewölbe
 
-One New Day with Anna & Denis Stockhausen & Ramón, Josiane & Jørdy at Gewölbe on Fri 1 Jan, Cologne. 5 artists: Anna Konda, Denis Stockhausen, Jordy and Josiane and 1 more. See the line-up on soundcheck.
+One New Day with Anna & Denis Stockhausen & Ramón, Josiane & Jørdy at Gewölbe on Fri 1 Jan, Cologne. 5 artists: Anna Konda, Denis Stockhausen, Jørdy and Josiane and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ One New Day with Anna & Denis Stockhausen & Ramón, Josiane & Jørdy at Gewölbe
 
 - Anna Konda
 - Denis Stockhausen
-- Jordy
+- Jørdy
 - Josiane
 - Ramón Zappa
 

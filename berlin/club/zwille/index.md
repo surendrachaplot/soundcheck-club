@@ -1,6 +1,6 @@
 # Zwille
 
-Zwille is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Soliparty Trans Day of Remembrance" on Fri, 4 Dec 2026.
+Zwille is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Soliparty Trans Day of Remembrance" on Fri, 4 Dec 2026.
 
 Zwille is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Zwille is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See date
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Soliparty Trans Day of Remembrance |  |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zwille/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zwille/)*

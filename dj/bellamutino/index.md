@@ -1,6 +1,6 @@
 # Bella Mutino
 
-Bella Mutino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Signal, New York City on Sat, 5 Dec 2026.
+Bella Mutino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Signal, New York City on Sat, 5 Dec 2026.
 
 Bella Mutino is a house and techno artist based in United States of America, with 77 gigs on soundcheck across New York City, Toronto and Washington DC. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: Signal, New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Bella Mutino is a house and techno artist based in United States of America, wit
 
 Dayna C, Dani Moon, Amy Jor
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*

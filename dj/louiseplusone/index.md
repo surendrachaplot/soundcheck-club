@@ -1,6 +1,6 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Distillery N17, London on Sun, 22 Nov 2026.
+Louise Plus One is a Jungle and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Distillery N17, London on Sun, 22 Nov 2026.
 
 Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: Distillery N17, London on Sun 22 Nov.
 
@@ -29,4 +29,4 @@ Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 12
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

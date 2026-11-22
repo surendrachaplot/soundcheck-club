@@ -1,6 +1,6 @@
 # ki (43)
 
-ki (43) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - VEK TOKYO, Tokyo on Sat, 26 Dec 2026.
+ki (43) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - VEK TOKYO, Tokyo on Sat, 26 Dec 2026.
 
 ki is a techno and house artist based in Japan, with 23 gigs on soundcheck across Barcelona and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and Krankent. Next up: TBA - VEK TOKYO, Tokyo on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ ki is a techno and house artist based in Japan, with 23 gigs on soundcheck acros
 
 SIGNAL (JP), MOTOKA, Krankent
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*

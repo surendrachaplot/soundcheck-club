@@ -1,6 +1,6 @@
 # Sota Shimada
 
-Sota Shimada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Oath, Tokyo on Wed, 25 Nov 2026.
+Sota Shimada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Oath, Tokyo on Wed, 25 Nov 2026.
 
 Sota Shimada is a house and techno artist based in Japan, with 101 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Hayato, SOTA and AMANE. Next up: Oath, Tokyo on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Sota Shimada is a house and techno artist based in Japan, with 101 gigs on sound
 
 Hayato, SOTA, AMANE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sotashimada/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sotashimada/)*

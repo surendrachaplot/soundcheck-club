@@ -1,14 +1,13 @@
 # Ardalan
 
-Ardalan is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Vertigo, Toronto on Fri, 20 Nov 2026.
+Ardalan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 25 Nov 2026.
 
-Ardalan is a house and tech house artist based in Iran, with 93 gigs on soundcheck across Atlanta, Austin, Berlin and Chicago and 15 more. Often billed alongside Life on Planets, Justin Martin and RUDEE NIK. Next up: Vertigo, Toronto on Fri 20 Nov.
+Ardalan is a house and tech house artist based in Iran, with 93 gigs on soundcheck across Atlanta, Austin, Berlin and Chicago and 15 more. Often billed alongside Life on Planets, Justin Martin and RUDEE NIK. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Vertigo | Toronto |
 | Wed, 25 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 26 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | Footie on First | Seattle |
@@ -28,4 +27,4 @@ Ardalan is a house and tech house artist based in Iran, with 93 gigs on soundche
 
 Life on Planets, Justin Martin, RUDEE NIK
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*

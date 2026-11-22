@@ -1,6 +1,6 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Bella Claxton is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Bella Claxton is a techno and house artist based in Australia, with 141 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 36 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Bella Claxton is a techno and house artist based in Australia, with 141 gigs on 
 
 Faster Horses, Kyle Starkey, LAMMER
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

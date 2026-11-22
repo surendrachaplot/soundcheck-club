@@ -1,6 +1,6 @@
 # LIFE AFTER TRANCE: SONIC EDITION at Jade
 
-LIFE AFTER TRANCE: SONIC EDITION at Jade on Thu 26 Nov, New York City. 1 artist: ASTER (DJ). Trance and Techno. See the line-up on soundcheck.
+LIFE AFTER TRANCE: SONIC EDITION at Jade on Thu 26 Nov, New York City. 2 artists: ASTER (DJ) and The Contro1freak. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ LIFE AFTER TRANCE: SONIC EDITION at Jade on Thu 26 Nov, New York City. 1 artist:
 ## Line-up
 
 - ASTER (DJ)
+- The Contro1freak
 
 *Source: [soundcheck](https://soundcheck.club/e/2589622-life-after-trance-sonic-edition-at-jade/)*

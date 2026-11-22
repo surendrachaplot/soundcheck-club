@@ -1,6 +1,6 @@
 # Pierce
 
-Pierce is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 18 Dec 2026.
+Pierce is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 18 Dec 2026.
 
 Pierce is a techno and progressive house artist based in Germany, with 5 gigs on soundcheck across Budapest, Cologne, Guadalajara and Manchester. Often billed alongside AGA2L, AMBAM and BLZS. Next up: Vektor - The Klub, Budapest on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Pierce is a techno and progressive house artist based in Germany, with 5 gigs on
 
 AGA2L, AMBAM, BLZS
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce/)*

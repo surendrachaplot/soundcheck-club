@@ -1,6 +1,6 @@
 # IN PARALLEL
 
-IN PARALLEL is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sacré, Paris on Sat, 23 Jan 2027.
+IN PARALLEL is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sacré, Paris on Sat, 23 Jan 2027.
 
 IN PARALLEL is a garage and house artist based in United Kingdom, with 35 gigs on soundcheck across Auckland, Belfast, Boston and Bratislava and 20 more. Often billed alongside SUFI, Azumei and Baby J. Next up: Sacré, Paris on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ IN PARALLEL is a garage and house artist based in United Kingdom, with 35 gigs o
 
 SUFI, Azumei, Baby J (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inparallel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inparallel/)*

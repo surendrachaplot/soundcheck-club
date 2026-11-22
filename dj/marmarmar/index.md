@@ -1,8 +1,8 @@
 # marmarmar
 
-marmarmar is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Cu, London on Thu, 26 Nov 2026.
+marmarmar is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cu, London on Thu, 26 Nov 2026.
 
-marmarmar is a progressive house and house artist, with 4 gigs on soundcheck across London. Often billed alongside Dante, FITS ME FUNNY and Speedboat Lomé. Next up: Cu, London on Thu 26 Nov.
+marmarmar is a progressive house and house artist based in Portugal, with 4 gigs on soundcheck across London. Often billed alongside Dante, FITS ME FUNNY and Speedboat Lomé. Next up: Cu, London on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ marmarmar is a progressive house and house artist, with 4 gigs on soundcheck acr
 
 Dante, FITS ME FUNNY, Speedboat Lomé
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marmarmar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marmarmar/)*

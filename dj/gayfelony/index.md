@@ -1,6 +1,6 @@
 # Gay Felony
 
-Gay Felony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+Gay Felony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
 Gay Felony is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Chicago, Detroit, Los Angeles and Philadelphia and 1 more. Often billed alongside Jen Ferrer, Adam O and Danny Goliger. Next up: TBA, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Gay Felony is a house and techno artist based in United States of America, with 
 
 Jen Ferrer, Adam O (1), Danny Goliger
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gayfelony/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gayfelony/)*

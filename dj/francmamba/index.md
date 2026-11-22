@@ -1,6 +1,6 @@
 # Franc Mamba
 
-Franc Mamba is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Lomas de Santa Anita, Guadalajara on Fri, 4 Dec 2026.
+Franc Mamba is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Lomas de Santa Anita, Guadalajara on Fri, 4 Dec 2026.
 
 Franc Mamba is a minimal and ambient artist based in Mexico, with 10 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Vargas, Andrey Pushkarev and Astroboii. Next up: TBA - Lomas de Santa Anita, Guadalajara on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Franc Mamba is a minimal and ambient artist based in Mexico, with 10 gigs on sou
 
 Vargas, Andrey Pushkarev, Astroboii
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francmamba/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francmamba/)*

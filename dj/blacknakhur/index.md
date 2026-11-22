@@ -1,8 +1,8 @@
 # Black Nakhur
 
-Black Nakhur is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Distillery, Leipzig on Fri, 15 Jan 2027.
+Black Nakhur is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Distillery, Leipzig on Fri, 15 Jan 2027.
 
-Black Nakhur is a techno and ebm artist, with 4 gigs on soundcheck across Berlin and Leipzig. Often billed alongside NICI PALM, Amperia and Doreen. Next up: Distillery, Leipzig on Fri 15 Jan.
+Black Nakhur is a techno and ebm artist based in Germany, with 4 gigs on soundcheck across Berlin and Leipzig. Often billed alongside NICI PALM, Amperia and Doreen. Next up: Distillery, Leipzig on Fri 15 Jan.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Black Nakhur is a techno and ebm artist, with 4 gigs on soundcheck across Berlin
 
 NICI PALM, Amperia, Doreen
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacknakhur/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacknakhur/)*

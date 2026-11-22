@@ -1,6 +1,6 @@
 # Joel Mull
 
-Joel Mull is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+Joel Mull is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
 Joel Mull is a techno and house artist based in Sweden, with 48 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Dortmund / Essen and 17 more. Often billed alongside Jessamine, Barbara Hofmann and Alex.Do. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Joel Mull is a techno and house artist based in Sweden, with 48 gigs on soundche
 
 Jessamine, Barbara Hofmann, Alex.Do
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelmull/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelmull/)*

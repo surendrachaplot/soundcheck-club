@@ -1,6 +1,6 @@
 # Enigmatik
 
-Enigmatik is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Warehouse, Nantes on Fri, 12 Feb 2027.
+Enigmatik is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Warehouse, Nantes on Fri, 12 Feb 2027.
 
 Enigmatik is a techno and acid artist based in France, with 15 gigs on soundcheck across Nantes, Paris and Prague. Often billed alongside BETÏSES, Etienne Nogues and Britney Speed (FR). Next up: Warehouse, Nantes on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ Enigmatik is a techno and acid artist based in France, with 15 gigs on soundchec
 
 BETÏSES, Etienne Nogues, Britney Speed (FR)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmatik/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmatik/)*

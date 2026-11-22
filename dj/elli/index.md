@@ -1,6 +1,6 @@
 # elli
 
-elli is a Post-Punk and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+elli is a Post-Punk and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 elli is a post-punk and acid artist based in Greece, with 5 gigs on soundcheck across Hamburg, London and Oslo. Often billed alongside Acid Pablo, Aii PS and Finona Rider. Next up: The Cause, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ elli is a post-punk and acid artist based in Greece, with 5 gigs on soundcheck a
 
 Acid Pablo, Aii PS, Finona Rider
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elli/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elli/)*

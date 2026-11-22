@@ -1,14 +1,13 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Moon Club, Bristol on Sat, 21 Nov 2026.
+Dave Lee is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
-Dave Lee is a house and disco artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 25 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Moon Club, Bristol on Sat 21 Nov.
+Dave Lee is a house and disco artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 25 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Moon Club | Bristol |
 | Fri, 27 Nov 2026 | Cabaret Sauvage | Paris |
 | Sat, 28 Nov 2026 | Bien Public | Bordeaux |
 | Fri, 11 Dec 2026 | Night Tales | London |
@@ -19,6 +18,7 @@ Dave Lee is a house and disco artist based in United Kingdom, with 100 gigs on s
 
 ## Recently played
 
+- Moon Club, Bristol · Sat, 21 Nov 2026
 - Sala Villanos, Madrid · Fri, 6 Nov 2026
 - Amnesia Ibiza, Ibiza · Fri, 2 Oct 2026
 - TBA - Merkur Casino, Leeds · Sat, 26 Sept 2026
@@ -26,10 +26,9 @@ Dave Lee is a house and disco artist based in United Kingdom, with 100 gigs on s
 - Apps Court, London · Sat, 11 Jul 2026
 - Amnesia Ibiza, Ibiza · Fri, 3 Jul 2026
 - Amnesia Ibiza, Ibiza · Fri, 26 Jun 2026
-- Two Tribes CAMPFIRE, London · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Mousse T., Natasha Diggs
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*

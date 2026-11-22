@@ -1,6 +1,6 @@
 # Caribou
 
-Caribou is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - ambience space, Bangkok on Fri, 27 Nov 2026.
+Caribou is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - ambience space, Bangkok on Fri, 27 Nov 2026.
 
 Caribou is a house and electronica artist based in Canada, with 47 gigs on soundcheck across Amsterdam, Athens, Bangkok and Belfast and 26 more. Often billed alongside Floating Points, Anyma and Blawan. Next up: TBA - ambience space, Bangkok on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Caribou is a house and electronica artist based in Canada, with 47 gigs on sound
 
 Floating Points, Anyma, Blawan
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caribou/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caribou/)*

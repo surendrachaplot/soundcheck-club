@@ -1,6 +1,6 @@
 # Lost Desert
 
-Lost Desert is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Ivy, Sydney on Sat, 28 Nov 2026.
+Lost Desert is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Ivy, Sydney on Sat, 28 Nov 2026.
 
 Lost Desert is a deep house and house artist based in Belgium, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Lee Burridge, Jim Rider and Tim Green. Next up: The Ivy, Sydney on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Lost Desert is a deep house and house artist based in Belgium, with 51 gigs on s
 
 Lee Burridge, Jim Rider, Tim Green
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*

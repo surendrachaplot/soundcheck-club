@@ -1,14 +1,13 @@
 # Limoncello
 
-Limoncello is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sauna Klub Wolfsburg, Lower-saxony on Sat, 21 Nov 2026.
+Limoncello is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at WDM, Hannover on Sat, 28 Nov 2026.
 
-Limoncello is a trance and techno artist based in Germany, with 109 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 8 more. Often billed alongside alemiko, bbymeister and BENITO (DE). Next up: Sauna Klub Wolfsburg, Lower Saxony on Sat 21 Nov.
+Limoncello is a trance and techno artist based in Germany, with 109 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 8 more. Often billed alongside alemiko, bbymeister and BENITO (DE). Next up: WDM, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Sauna Klub Wolfsburg | Lower-saxony |
 | Sat, 28 Nov 2026 | WDM | Hannover |
 | Sat, 5 Dec 2026 | ://about blank | Berlin |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
@@ -17,6 +16,7 @@ Limoncello is a trance and techno artist based in Germany, with 109 gigs on soun
 
 ## Recently played
 
+- Sauna Klub Wolfsburg, Lower-saxony · Sat, 21 Nov 2026
 - Lokschuppen Berlin, Berlin · Fri, 13 Nov 2026
 - La Cova, Hamburg · Sat, 7 Nov 2026
 - Distillery, Leipzig · Fri, 30 Oct 2026
@@ -24,10 +24,9 @@ Limoncello is a trance and techno artist based in Germany, with 109 gigs on soun
 - Das Werk, Vienna · Fri, 23 Oct 2026
 - ://about blank, Berlin · Sat, 17 Oct 2026
 - Helios37, Cologne · Fri, 16 Oct 2026
-- Neue Welle, Leipzig · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 alemiko, bbymeister, BENITO (DE)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limoncello/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limoncello/)*

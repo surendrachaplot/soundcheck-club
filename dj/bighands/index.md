@@ -1,6 +1,6 @@
 # Big Hands
 
-Big Hands is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hausu, London on Sat, 19 Dec 2026.
+Big Hands is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hausu, London on Sat, 19 Dec 2026.
 
 Big Hands is an experimental and techno artist based in Italy, with 39 gigs on soundcheck across Amsterdam, Berlin, Bologna and London and 4 more. Often billed alongside Abraham Parker, Soreab and Sam Purcell. Next up: Hausu, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Big Hands is an experimental and techno artist based in Italy, with 39 gigs on s
 
 Abraham Parker, Soreab, Sam Purcell
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bighands/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bighands/)*

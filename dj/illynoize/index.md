@@ -1,18 +1,18 @@
 # Illy Noize
 
-Illy Noize is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
+Illy Noize is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Westhafen, Leipzig on Sat, 20 Feb 2027.
 
-Illy Noize is a techno and house artist based in Germany, with 4 gigs on soundcheck across Leipzig and Nürnberg. Often billed alongside Emina Helena, MILLA LOU and Alex Benz. Next up: Die Rakete, Nürnberg on Fri 20 Nov.
+Illy Noize is a techno and house artist based in Germany, with 4 gigs on soundcheck across Leipzig and Nürnberg. Often billed alongside Emina Helena, MILLA LOU and Alex Benz. Next up: Westhafen, Leipzig on Sat 20 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Die Rakete | Nürnberg |
 | Sat, 20 Feb 2027 | Westhafen | Leipzig |
 
 ## Recently played
 
+- Die Rakete, Nürnberg · Fri, 20 Nov 2026
 - Westhafen, Leipzig · Sat, 1 Aug 2026
 - Die Rakete, Nürnberg · Fri, 27 Mar 2026
 
@@ -20,4 +20,4 @@ Illy Noize is a techno and house artist based in Germany, with 4 gigs on soundch
 
 Emina Helena, MILLA LOU, Alex Benz
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illynoize/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illynoize/)*

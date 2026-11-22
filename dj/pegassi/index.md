@@ -1,14 +1,13 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Pegassi is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
-Pegassi is a techno and trance artist based in Belgium, with 205 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 66 more. Often billed alongside Helena Lauwaert, Mischluft and Anetha. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Pegassi is a techno and trance artist based in Belgium, with 205 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 66 more. Often billed alongside Helena Lauwaert, Mischluft and Anetha. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | The Wool Store | Melbourne |
@@ -19,6 +18,7 @@ Pegassi is a techno and trance artist based in Belgium, with 205 gigs on soundch
 
 ## Recently played
 
+- Espacio Riesco Expo Centre, Santiago · Sat, 21 Nov 2026
 - The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - DRUMSHEDS, London · Sat, 14 Nov 2026
 - Centre Point, Dublin · Fri, 13 Nov 2026
@@ -26,10 +26,9 @@ Pegassi is a techno and trance artist based in Belgium, with 205 gigs on soundch
 - Tinker Field, Orlando · Fri, 6 Nov 2026
 - Descent, Boston · Thu, 5 Nov 2026
 - Sugarfactory, Amsterdam · Sun, 25 Oct 2026
-- Hemkade 48, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Mischluft, Anetha
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

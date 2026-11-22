@@ -1,6 +1,6 @@
 # NOVOCAINE+: LOBSTER at Gate Milano
 
-NOVOCAINE+: LOBSTER at Gate Milano on Sat 16 Jan, Milan. 4 artists: Dit Zy, KLËRR, Lobster (NL) and MISERIA. Techno. See the line-up on soundcheck.
+NOVOCAINE+: LOBSTER at Gate Milano on Sat 16 Jan, Milan. 4 artists: Ditzy, KLËRR, Lobster (NL) and MISERIA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ NOVOCAINE+: LOBSTER at Gate Milano on Sat 16 Jan, Milan. 4 artists: Dit Zy, KLË
 
 ## Line-up
 
-- Dit Zy
+- Ditzy
 - KLËRR
 - Lobster (NL)
 - MISERIA

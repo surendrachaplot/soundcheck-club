@@ -1,15 +1,13 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
+In Verruf is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Media Center, Ljubljana on Fri, 27 Nov 2026.
 
-In Verruf is a techno and trance artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 60 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Fusion Club, Münster on Fri 20 Nov.
+In Verruf is a techno and trance artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 60 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Media Center, Ljubljana on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Fusion Club | Münster |
-| Sat, 21 Nov 2026 | halle02 | Heidelberg |
 | Fri, 27 Nov 2026 | Media Center | Ljubljana |
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
 | Fri, 4 Dec 2026 | Uebel & Gefährlich | Hamburg |
@@ -20,6 +18,7 @@ In Verruf is a techno and trance artist based in Germany, with 183 gigs on sound
 
 ## Recently played
 
+- halle02, Heidelberg · Sat, 21 Nov 2026
 - Fusion Club, Münster · Fri, 20 Nov 2026
 - Kaiserdrom Halle, Saxony-anhalt · Fri, 13 Nov 2026
 - Bootshaus, Cologne · Sat, 7 Nov 2026
@@ -27,10 +26,9 @@ In Verruf is a techno and trance artist based in Germany, with 183 gigs on sound
 - Gate Milano, Milan · Fri, 23 Oct 2026
 - KUZ - Kulturzentrum Mainz, Mainz · Fri, 16 Oct 2026
 - Roxy Club, Istanbul · Sat, 3 Oct 2026
-- Airport Würzburg, Nürnberg · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

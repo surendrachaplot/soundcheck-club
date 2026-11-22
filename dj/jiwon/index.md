@@ -1,6 +1,6 @@
 # jiwon
 
-jiwon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+jiwon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 jiwon is a house and techno artist based in South Korea, with 38 gigs on soundcheck across Bangkok, Idaho, New York City and Seoul. Often billed alongside eunuk, Juncheol and GYUWAN. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ jiwon is a house and techno artist based in South Korea, with 38 gigs on soundch
 
 eunuk, Juncheol, GYUWAN
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiwon/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiwon/)*

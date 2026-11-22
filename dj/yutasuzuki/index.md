@@ -1,13 +1,14 @@
 # Yuta Suzuki
 
-Yuta Suzuki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Numm, Tokyo on Thu, 26 Nov 2026.
+Yuta Suzuki is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Numm, Tokyo on Thu, 26 Nov 2026.
 
-Yuta Suzuki is a techno and house artist based in Japan, with 21 gigs on soundcheck across Osaka, Tokyo and Warsaw. Often billed alongside Atsuki, Chihoshi and Shingo. Next up: Numm, Tokyo on Thu 26 Nov.
+Yuta Suzuki is a techno and house artist based in Japan, with 22 gigs on soundcheck across Osaka, Tokyo and Warsaw. Often billed alongside Shingo, Atsuki and Chihoshi. Next up: Numm, Tokyo on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Numm | Tokyo |
 | Thu, 26 Nov 2026 | Numm | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ Yuta Suzuki is a techno and house artist based in Japan, with 21 gigs on soundch
 
 ## Shares bills with
 
-Atsuki, Chihoshi, Shingo
+Shingo, Atsuki, Chihoshi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yutasuzuki/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yutasuzuki/)*

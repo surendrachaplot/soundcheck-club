@@ -1,8 +1,8 @@
 # Overkissed
 
-Overkissed is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Şahika, Istanbul on Thu, 3 Dec 2026.
+Overkissed is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Şahika, Istanbul on Thu, 3 Dec 2026.
 
-Overkissed is a techno and bass artist, with 4 gigs on soundcheck across Istanbul. Often billed alongside jtamul, Rumina and 4-i. Next up: Şahika, Istanbul on Thu 3 Dec.
+Overkissed is a techno and bass artist based in Turkey, with 4 gigs on soundcheck across Istanbul. Often billed alongside jtamul, Rumina and 4-i. Next up: Şahika, Istanbul on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Overkissed is a techno and bass artist, with 4 gigs on soundcheck across Istanbu
 
 jtamul, Rumina, 4-i
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overkissed/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overkissed/)*

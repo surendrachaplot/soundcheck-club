@@ -1,14 +1,14 @@
 # DINKS
 
-DINKS is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
+DINKS is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
 
-DINKS is a house and italo disco artist based in Germany, with 3 gigs on soundcheck across Hamburg. Often billed alongside Bizzarro Universe, Camion Bazar and Caro Vola. Next up: Südpol, Hamburg on Fri 13 Nov.
+DINKS is a house and bass artist based in Germany, with 4 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Katzenohr, Bizzarro Universe and Camion Bazar. Next up: ://about blank, Berlin on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Südpol | Hamburg |
+| Sun, 29 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -18,6 +18,6 @@ DINKS is a house and italo disco artist based in Germany, with 3 gigs on soundch
 
 ## Shares bills with
 
-Bizzarro Universe, Camion Bazar, Caro Vola
+Katzenohr, Bizzarro Universe, Camion Bazar
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinks/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinks/)*

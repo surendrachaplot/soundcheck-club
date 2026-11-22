@@ -1,6 +1,6 @@
 # Dominik Gehringer
 
-Dominik Gehringer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Aldea Club, Bratislava on Thu, 31 Dec 2026.
+Dominik Gehringer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Aldea Club, Bratislava on Thu, 31 Dec 2026.
 
 Dominik Gehringer is a house and techno artist based in Czech Republic, with 22 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside Orbith, Hugorieri and Joris Voorn. Next up: Aldea Club, Bratislava on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dominik Gehringer is a house and techno artist based in Czech Republic, with 22 
 
 Orbith, Hugorieri, Joris Voorn
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikgehringer/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikgehringer/)*

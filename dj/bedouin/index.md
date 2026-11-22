@@ -1,6 +1,6 @@
 # Bedouin
 
-Bedouin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - MILA, Miami on Wed, 2 Dec 2026.
+Bedouin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - MILA, Miami on Wed, 2 Dec 2026.
 
 Bedouin is a house and techno artist based in United States of America, with 229 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 43 more. Often billed alongside Seth Troxler, Carlita and DJ Tennis. Next up: TBA - MILA, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Bedouin is a house and techno artist based in United States of America, with 229
 
 Seth Troxler, Carlita, DJ Tennis
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*

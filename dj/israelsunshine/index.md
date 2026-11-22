@@ -1,6 +1,6 @@
 # Israel Sunshine
 
-Israel Sunshine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lion's Den, Miami on Sun, 22 Nov 2026.
+Israel Sunshine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lion's Den, Miami on Sun, 22 Nov 2026.
 
 Israel Sunshine is a house and techno artist based in Venezuela, with 68 gigs on soundcheck across Miami, Orlando and Tampa Bay. Often billed alongside Leo Del Toro, Puma (US) and Lou Flores. Next up: Lion's Den, Miami on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Israel Sunshine is a house and techno artist based in Venezuela, with 68 gigs on
 
 Leo Del Toro, Puma (US), Lou Flores
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/israelsunshine/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/israelsunshine/)*

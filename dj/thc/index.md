@@ -1,6 +1,6 @@
 # THC
 
-THC is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
+THC is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
 
 THC is a house and techno artist based in Colombia, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ THC is a house and techno artist based in Colombia, with 224 gigs on soundcheck 
 
 DHC, S-candalo, Byron Yeates
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*

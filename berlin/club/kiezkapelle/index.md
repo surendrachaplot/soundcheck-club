@@ -1,6 +1,6 @@
 # Kiezkapelle
 
-Kiezkapelle is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "The Portal vol. 7 - Ambient Gong and Drone Listening in the Chapel" on Mon, 1 Feb 2027.
+Kiezkapelle is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "The Portal vol. 7 - Ambient Gong and Drone Listening in the Chapel" on Mon, 1 Feb 2027.
 
 Kiezkapelle is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Hermannstraße 99–105.
 
@@ -14,4 +14,4 @@ Kiezkapelle is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See
 
 Hermannstraße 99–105, Berlin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kiezkapelle/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kiezkapelle/)*

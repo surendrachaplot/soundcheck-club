@@ -1,6 +1,6 @@
 # Sacré présente: Soul Wun & Monsamp at Sacré
 
-Sacré présente: Soul Wun & Monsamp on Fri 19 Feb, Paris. 1 artist: Soul Wun. See the line-up on soundcheck.
+Sacré présente: Soul Wun & Monsamp on Fri 19 Feb, Paris. 1 artist: Soul Wun. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

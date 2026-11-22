@@ -1,8 +1,8 @@
 # knell
 
-knell is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
+knell is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
 
-knell is a bass and pop artist, with 2 gigs on soundcheck across Tokyo. Often billed alongside CASset, Carpainter and HATSUYUKI. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
+knell is a bass and pop artist based in Japan, with 2 gigs on soundcheck across Tokyo. Often billed alongside CASset, Carpainter and HATSUYUKI. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ knell is a bass and pop artist, with 2 gigs on soundcheck across Tokyo. Often bi
 
 CASset, Carpainter, HATSUYUKI
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knell/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knell/)*

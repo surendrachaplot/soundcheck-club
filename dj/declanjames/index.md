@@ -1,6 +1,6 @@
 # Declan James
 
-Declan James is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
+Declan James is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
 
 Declan James is a techno and minimal techno artist based in United States of America, with 23 gigs on soundcheck across Austin, Berlin, Dallas/Fort Worth and Denver and 8 more. Often billed alongside Decoder, Barbosa and Henry Brooks. Next up: Marble Bar, Detroit on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Declan James is a techno and minimal techno artist based in United States of Ame
 
 Decoder, Barbosa, Henry Brooks
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/declanjames/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/declanjames/)*

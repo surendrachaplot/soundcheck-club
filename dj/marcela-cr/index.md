@@ -1,6 +1,6 @@
 # Marcela
 
-Marcela is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 5 Dec 2026.
+Marcela is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 5 Dec 2026.
 
 Marcela is a deep house and techno artist based in Croatia, with 23 gigs on soundcheck across Berlin and Zagreb. Often billed alongside Teo Harouda, Teychee and Fabian Jakopetz. Next up: Peti Kupe, Zagreb on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Marcela is a deep house and techno artist based in Croatia, with 23 gigs on soun
 
 Teo Harouda, Teychee, Fabian Jakopetz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcela-cr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcela-cr/)*

@@ -1,14 +1,15 @@
 # Villaseñor
 
-Villaseñor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pasaje America, Mexico City on Sat, 28 Nov 2026.
+Villaseñor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Pasaje America, Mexico City on Sat, 28 Nov 2026.
 
-Villaseñor is a techno and house artist based in Mexico, with 133 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 10 more. Often billed alongside Enya Botello, sadgal and Portugal. Next up: Pasaje America, Mexico City on Sat 28 Nov.
+Villaseñor is a techno and house artist based in Mexico, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 10 more. Often billed alongside Enya Botello, sadgal and Portugal. Next up: Pasaje America, Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Pasaje America | Mexico City |
+| Fri, 19 Feb 2027 | TBA -   | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Villaseñor is a techno and house artist based in Mexico, with 133 gigs on sound
 
 Enya Botello, sadgal, Portugal
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/villasenor/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/villasenor/)*

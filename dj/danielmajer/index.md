@@ -1,8 +1,8 @@
 # Daniel Majer
 
-Daniel Majer is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Daniel Majer is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
-Daniel Majer is an ambient and experimental artist, with 4 gigs on soundcheck across Berlin, Lisbon, Tokyo and Vancouver. Often billed alongside FISHFLU, Michael Red and Niamhzk. Next up: TBA, Berlin on Sat 28 Nov.
+Daniel Majer is an ambient and experimental artist based in Canada, with 4 gigs on soundcheck across Berlin, Lisbon, Tokyo and Vancouver. Often billed alongside FISHFLU, Michael Red and Niamhzk. Next up: TBA, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Daniel Majer is an ambient and experimental artist, with 4 gigs on soundcheck ac
 
 FISHFLU, Michael Red, Niamhzk
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmajer/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmajer/)*

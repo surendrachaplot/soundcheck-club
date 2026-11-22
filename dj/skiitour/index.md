@@ -1,6 +1,6 @@
 # SkiiTour
 
-SkiiTour is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+SkiiTour is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 SkiiTour is a bass and house artist based in Canada, with 13 gigs on soundcheck across Miami, San Diego, San Francisco/Oakland and Seattle and 2 more. Often billed alongside Justin Martin, Smalltown DJs and Brunch Life. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ SkiiTour is a bass and house artist based in Canada, with 13 gigs on soundcheck 
 
 Justin Martin, Smalltown DJs, Brunch Life
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skiitour/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skiitour/)*

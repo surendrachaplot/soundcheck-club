@@ -1,6 +1,6 @@
 # Téodoro
 
-Téodoro is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kowalski, Stuttgart on Fri, 4 Dec 2026.
+Téodoro is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kowalski, Stuttgart on Fri, 4 Dec 2026.
 
 Téodoro is an afro tech and afro house artist based in Germany, with 4 gigs on soundcheck across Stuttgart. Often billed alongside Adi Dassler and MARA BRAVO. Next up: Kowalski, Stuttgart on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Téodoro is an afro tech and afro house artist based in Germany, with 4 gigs on 
 
 Adi Dassler, MARA BRAVO
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teodoro/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teodoro/)*

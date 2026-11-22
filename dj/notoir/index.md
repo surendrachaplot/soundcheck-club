@@ -1,6 +1,6 @@
 # Notoir
 
-Notoir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TRAUM, Antwerp on Sat, 2 Jan 2027.
+Notoir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TRAUM, Antwerp on Sat, 2 Jan 2027.
 
 Notoir is a techno and house artist based in Belgium, with 16 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Steve Slight, Joris Voorn and Recondite. Next up: TRAUM, Antwerp on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Notoir is a techno and house artist based in Belgium, with 16 gigs on soundcheck
 
 Steve Slight, Joris Voorn, Recondite
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notoir/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notoir/)*

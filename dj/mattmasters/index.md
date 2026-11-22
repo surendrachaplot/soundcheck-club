@@ -1,6 +1,6 @@
 # Matt Masters
 
-Matt Masters is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at The Timber Loft, London on Sun, 22 Nov 2026.
+Matt Masters is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Timber Loft, London on Sun, 22 Nov 2026.
 
 Matt Masters is a deep house and house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Conrad Lee, Hudson’s Choice and Jimpster. Next up: The Timber Loft, London on Sun 22 Nov.
 
@@ -19,4 +19,4 @@ Matt Masters is a deep house and house artist based in United Kingdom, with 3 gi
 
 Conrad Lee, Hudson’s Choice, Jimpster
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattmasters/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattmasters/)*

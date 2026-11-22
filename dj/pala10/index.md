@@ -1,6 +1,6 @@
 # PALA10
 
-PALA10 is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+PALA10 is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 PALA10 is a dub and bass artist based in Belgium, with 23 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Casper, EliseThere and Erykah. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -12,6 +12,7 @@ PALA10 is a dub and bass artist based in Belgium, with 23 gigs on soundcheck acr
 
 ## Recently played
 
+- TBA - Brussels, Brussels · Sat, 21 Nov 2026
 - Amigo, Ghent · Fri, 16 Oct 2026
 - Hexagon Brussels, Brussels · Fri, 16 Oct 2026
 - La Fabriek, Brussels · Fri, 9 Oct 2026
@@ -19,10 +20,9 @@ PALA10 is a dub and bass artist based in Belgium, with 23 gigs on soundcheck acr
 - Circle Park, Brussels · Sat, 25 Jul 2026
 - Boomtown (Kouter), Ghent · Thu, 23 Jul 2026
 - Stormkop, Antwerp · Sat, 4 Jul 2026
-- Club Wintercircus, Ghent · Sat, 9 May 2026
 
 ## Shares bills with
 
 Casper, EliseThere, Erykah
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pala10/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pala10/)*

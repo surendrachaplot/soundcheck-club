@@ -1,15 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 18 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Mantra Club - Specka Club (Tardes)" on Sat, 21 Nov 2026.
+Specka is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Dr. Smoke I Distrito 91 at Specka SOLD OUT SOLO ENTRADAS EN PUERTA" on Thu, 26 Nov 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 18 upcoming gigs, with line-ups including Alvaro Cabana, ananke, Aro Rey and btrast and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including Alvaro Cabana, ananke, Aro Rey and btrast and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Mantra Club - Specka Club (Tardes) |  |
-| Sat, 21 Nov 2026 | 50 AÑOS - BASSDRUM I Operation Room | VNSTY |
 | Thu, 26 Nov 2026 | Dr. Smoke I Distrito 91 at Specka SOLD OUT SOLO ENTRADAS EN PUERTA |  |
 | Fri, 27 Nov 2026 | Question I Specka Club | Roldan, Tief (1) |
 | Sat, 28 Nov 2026 | 28 Builder$ I Specka Live |  |
@@ -18,9 +16,11 @@ Specka is a music venue in Madrid listed on soundcheck. 18 upcoming gigs, with l
 | Sat, 5 Dec 2026 | Destruktion #08 I Specka Club | Vernichter, Vitorio Testa |
 | Sun, 6 Dec 2026 | Triffulca Year Closing I Specka Club | FIGUREX, VERSVS |
 | Mon, 7 Dec 2026 | Impossible Love I Specka Club | Cynth |
+| Fri, 11 Dec 2026 | Planet Mambo I Specka Club | Aro Rey, GLOB4D, Love Moreno |
+| Fri, 18 Dec 2026 | Incunables ùltima del 2026 I Specka Club |  |
 
 ## Address
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

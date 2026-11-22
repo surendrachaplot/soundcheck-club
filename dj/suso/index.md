@@ -1,6 +1,6 @@
 # SUSØ
 
-SUSØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at City Hall, Barcelona on Sat, 5 Dec 2026.
+SUSØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at City Hall, Barcelona on Sat, 5 Dec 2026.
 
 SUSØ is a house and techno artist based in Spain, with 8 gigs on soundcheck across Barcelona. Often billed alongside Fat-P, Giuliano and Eze k. Next up: City Hall, Barcelona on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ SUSØ is a house and techno artist based in Spain, with 8 gigs on soundcheck acr
 
 Fat-P, Giuliano, Eze k
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*

@@ -1,6 +1,6 @@
 # Fabricated Ambiance
 
-Fabricated Ambiance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Gaf Astoria, New York City on Fri, 4 Dec 2026.
+Fabricated Ambiance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Gaf Astoria, New York City on Fri, 4 Dec 2026.
 
 Fabricated Ambiance is a house and techno artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside ANDG LUNA, ANDI WALL and BOJAQ. Next up: The Gaf Astoria, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Fabricated Ambiance is a house and techno artist based in United States of Ameri
 
 ANDG LUNA, ANDI WALL, BOJAQ
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabricatedambiance/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabricatedambiance/)*

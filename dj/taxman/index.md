@@ -1,6 +1,6 @@
 # Taxman
 
-Taxman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
+Taxman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
 Taxman is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on soundcheck across Birmingham, Boston, Brighton and Bristol and 5 more. Often billed alongside Tyke, DJ Hype and DJ Hazard. Next up: Lab11, Birmingham on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Taxman is a drum & bass and jungle artist based in United Kingdom, with 21 gigs 
 
 Tyke, DJ Hype, DJ Hazard
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taxman/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taxman/)*

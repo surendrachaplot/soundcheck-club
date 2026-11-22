@@ -1,6 +1,6 @@
 # LUZI (2)
 
-LUZI (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at elipamanoke, Leipzig on Sat, 5 Dec 2026.
+LUZI (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at elipamanoke, Leipzig on Sat, 5 Dec 2026.
 
 LUZI is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Leipzig. Often billed alongside DJ STIMULA, R-SOHR and Siggi Petrol. Next up: elipamanoke, Leipzig on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LUZI is a techno and trance artist based in Germany, with 21 gigs on soundcheck 
 
 DJ STIMULA, R-SOHR, Siggi Petrol
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzi-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzi-2/)*

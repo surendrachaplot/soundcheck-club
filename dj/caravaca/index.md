@@ -1,6 +1,6 @@
 # Caravaca
 
-Caravaca is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Atlas Superclub, Bali on Sun, 22 Nov 2026.
+Caravaca is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Atlas Superclub, Bali on Sun, 22 Nov 2026.
 
 Caravaca is a house and acid artist, with 8 gigs on soundcheck across Bali and Madrid. Often billed alongside Fran Tinez, VADM and Anna Tur. Next up: Atlas Superclub, Bali on Sun 22 Nov.
 
@@ -24,4 +24,4 @@ Caravaca is a house and acid artist, with 8 gigs on soundcheck across Bali and M
 
 Fran Tinez, VADM, Anna Tur
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caravaca/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caravaca/)*

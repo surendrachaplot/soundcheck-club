@@ -1,6 +1,6 @@
 # AGAPĒ WINTER FESTIVAL at Industry City
 
-AGAPĒ WINTER FESTIVAL at Industry City on Fri 19 Feb, New York City. 13 artists: Ben Klock, Cara Elizabeth, davyboi and Diossa and 9 more. See the line-up on soundcheck.
+AGAPĒ WINTER FESTIVAL at Industry City on Fri 19 Feb, New York City. 13 artists: Ben Klock, Cara Elizabeth, davyboi and Diossa and 9 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

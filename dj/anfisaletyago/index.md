@@ -1,21 +1,20 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Anfisa Letyago is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Adam Beyer, Enrico Sangiuliano and Pan-Pot. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Adam Beyer, Enrico Sangiuliano and Pan-Pot. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Sat, 19 Dec 2026 | ZEROTOKYO | Tokyo |
 | Fri, 22 Jan 2027 | Lofi | Amsterdam |
 
 ## Recently played
 
+- TBA - Lurín live / Lima, Perú., Peru · Sat, 21 Nov 2026
 - Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - TBA - Parque de la Ciudad, CABA, Buenos Aires · Sat, 14 Nov 2026
 - Club Hípico de Santiago, Santiago · Sat, 14 Nov 2026
@@ -23,10 +22,9 @@ Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on sou
 - 821 Runnymede Rd, Toronto · Sat, 17 Oct 2026
 - BERHTA, Washington DC · Fri, 16 Oct 2026
 - Noto Philadelphia, Philadelphia · Thu, 15 Oct 2026
-- Exchange LA, Los Angeles · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Adam Beyer, Enrico Sangiuliano, Pan-Pot
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

@@ -1,14 +1,14 @@
 # brazen
 
-brazen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Zuzu, Boston on Sun, 22 Nov 2026.
+brazen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Corner Bar @ Middle East, Boston on Sun, 22 Nov 2026.
 
-brazen is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Boston, Bristol and London. Often billed alongside Janaway, Mx. Blaire and Alfredo Rico-Dimas. Next up: Zuzu, Boston on Sun 22 Nov.
+brazen is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Boston, Bristol and London. Often billed alongside Janaway, Mx. Blaire and Alfredo Rico-Dimas. Next up: The Corner Bar @ Middle East, Boston on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Zuzu | Boston |
+| Sun, 22 Nov 2026 | The Corner Bar @ Middle East | Boston |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ brazen is a house and techno artist based in United States of America, with 18 g
 
 Janaway, Mx. Blaire, Alfredo Rico-Dimas
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brazen/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brazen/)*

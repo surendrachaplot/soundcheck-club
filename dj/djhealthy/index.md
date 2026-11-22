@@ -1,6 +1,6 @@
 # DJ Healthy
 
-DJ Healthy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
+DJ Healthy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 DJ Healthy is a techno and house artist based in Japan, with 120 gigs on soundcheck across Austin, Baltimore, Bangkok and Chengdu and 20 more. Often billed alongside Amelia Holt, YELLOWUHURU and Joni DJ. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ DJ Healthy is a techno and house artist based in Japan, with 120 gigs on soundch
 
 Amelia Holt, YELLOWUHURU, Joni DJ
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*

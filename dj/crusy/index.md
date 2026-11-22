@@ -1,6 +1,6 @@
 # Crusy
 
-Crusy is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Comfort Zone, Toronto on Sat, 5 Dec 2026.
+Crusy is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Comfort Zone, Toronto on Sat, 5 Dec 2026.
 
 Crusy is a tech house and house artist based in Spain, with 38 gigs on soundcheck across Boston, Chicago, Detroit and Ibiza and 13 more. Often billed alongside Tony Romera, Claptone and AAfrAA. Next up: The Comfort Zone, Toronto on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Crusy is a tech house and house artist based in Spain, with 38 gigs on soundchec
 
 Tony Romera, Claptone, AAfrAA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*

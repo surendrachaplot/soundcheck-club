@@ -1,6 +1,6 @@
 # Aroh
 
-Aroh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at UMI, Brussels on Sat, 19 Dec 2026.
+Aroh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at UMI, Brussels on Sat, 19 Dec 2026.
 
 Aroh is a techno and house artist based in Belgium, with 50 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 5 more. Often billed alongside DONIA, Emily Jeanne and Kuba'97. Next up: UMI, Brussels on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Aroh is a techno and house artist based in Belgium, with 50 gigs on soundcheck a
 
 DONIA, Emily Jeanne, Kuba'97
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aroh-1/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aroh-1/)*

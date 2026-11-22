@@ -1,6 +1,6 @@
 # Dean Chew
 
-Dean Chew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
+Dean Chew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
 
 Dean Chew is a house and techno artist based in Singapore, with 69 gigs on soundcheck across Amsterdam, Bali, Bangkok and Beijing and 21 more. Often billed alongside Daryl Knows, Dexter Colt and Marco Weibel. Next up: Little Moon Villa Koh Mak, Thailand on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Dean Chew is a house and techno artist based in Singapore, with 69 gigs on sound
 
 Daryl Knows, Dexter Colt, Marco Weibel
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*

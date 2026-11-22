@@ -1,18 +1,18 @@
 # XT1ANA
 
-XT1ANA is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
+XT1ANA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ormside Projects, London on Thu, 26 Nov 2026.
 
-XT1ANA is a club and hip-hop artist based in United Kingdom, with 27 gigs on soundcheck across Brussels and London. Often billed alongside BBSHKALES, Jean Blaire and SALD3E. Next up: UNLOCKED, London on Sat 21 Nov.
+XT1ANA is a club and hip-hop artist based in United Kingdom, with 27 gigs on soundcheck across Brussels and London. Often billed alongside BBSHKALES, Jean Blaire and SALD3E. Next up: Ormside Projects, London on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | UNLOCKED | London |
 | Thu, 26 Nov 2026 | Ormside Projects | London |
 
 ## Recently played
 
+- UNLOCKED, London · Sat, 21 Nov 2026
 - Ormside Projects, London · Sat, 26 Sept 2026
 - The Haggerston, London · Fri, 18 Sept 2026
 - Recyclart, Brussels · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ XT1ANA is a club and hip-hop artist based in United Kingdom, with 27 gigs on sou
 - The Prince of Wales, London · Sat, 18 Jul 2026
 - Ormside Projects, London · Fri, 10 Jul 2026
 - The Haggerston, London · Fri, 5 Jun 2026
-- Dalston Den, London · Sat, 30 May 2026
 
 ## Shares bills with
 
 BBSHKALES, Jean Blaire, SALD3E
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*

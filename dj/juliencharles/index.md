@@ -1,6 +1,6 @@
 # Julien Charles
 
-Julien Charles is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 9 Dec 2026.
+Julien Charles is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 9 Dec 2026.
 
 Julien Charles is a techno and house artist based in Germany, with 2 gigs on soundcheck across Berlin and Cologne. Often billed alongside Bridontknow, Neutran and STAANA. Next up: Tresor / Globus, Berlin on Wed 9 Dec.
 
@@ -15,4 +15,4 @@ Julien Charles is a techno and house artist based in Germany, with 2 gigs on sou
 
 Bridontknow, Neutran, STAANA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliencharles/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliencharles/)*

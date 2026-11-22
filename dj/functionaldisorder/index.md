@@ -1,0 +1,28 @@
+# Functional Disorder
+
+Functional Disorder is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Masada, Milan on Sat, 12 Dec 2026.
+
+Functional Disorder is a techno artist based in Italy, with 34 gigs on soundcheck across Berlin, Malta and Milan. Often billed alongside Rorschack, Yamila and D-Leria. Next up: Masada, Milan on Sat 12 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 12 Dec 2026 | Masada | Milan |
+
+## Recently played
+
+- Groove Gardens, Malta · Sun, 1 Nov 2026
+- Circolo Amelia, Milan · Sat, 17 Oct 2026
+- Circolo Amelia, Milan · Sat, 19 Sept 2026
+- Circolo Amelia, Milan · Sat, 27 Jun 2026
+- Giardino Nascosto, Milan · Sun, 21 Jun 2026
+- Circolo Amelia, Milan · Sat, 9 May 2026
+- Masada, Milan · Sat, 14 Mar 2026
+- Circolo Amelia, Milan · Sat, 17 Jan 2026
+
+## Shares bills with
+
+Rorschack, Yamila, D-Leria
+
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/functionaldisorder/)*

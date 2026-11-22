@@ -1,6 +1,6 @@
 # Butch Queen
 
-Butch Queen is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Golden Cross, Cardiff on Sat, 5 Dec 2026.
+Butch Queen is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Golden Cross, Cardiff on Sat, 5 Dec 2026.
 
 Butch Queen is a house and club artist based in United Kingdom, with 6 gigs on soundcheck across Bristol, Cardiff and London. Often billed alongside Fat Tony, Princess Julia and RAVEN (UK). Next up: Golden Cross, Cardiff on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Butch Queen is a house and club artist based in United Kingdom, with 6 gigs on s
 
 Fat Tony, Princess Julia, RAVEN (UK)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butchqueen/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butchqueen/)*

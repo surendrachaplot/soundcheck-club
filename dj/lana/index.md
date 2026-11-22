@@ -1,6 +1,6 @@
 # Lana
 
-Lana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Rex Club, Paris on Thu, 3 Dec 2026.
+Lana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Rex Club, Paris on Thu, 3 Dec 2026.
 
 Lana is a techno and house artist, with 15 gigs on soundcheck across Athens, Berlin, Düsseldorf and Hamburg and 2 more. Often billed alongside Danny Wabbit, Marc Faenger and Nick Deeken. Next up: Rex Club, Paris on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Lana is a techno and house artist, with 15 gigs on soundcheck across Athens, Ber
 
 Danny Wabbit, Marc Faenger, Nick Deeken
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lana/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lana/)*

@@ -1,6 +1,6 @@
 # YAZMIN (MT)
 
-YAZMIN (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Malta, Malta on Sat, 5 Dec 2026.
+YAZMIN (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Malta, Malta on Sat, 5 Dec 2026.
 
 YAZMIN (MT) is a techno and house artist based in Malta, with 38 gigs on soundcheck across Berlin, Florence, Malta and Manchester and 4 more. Often billed alongside Echofaze, Kyle Cortis and Human Safari. Next up: TBA - Malta, Malta on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ YAZMIN (MT) is a techno and house artist based in Malta, with 38 gigs on soundch
 
 Echofaze, Kyle Cortis, Human Safari
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*

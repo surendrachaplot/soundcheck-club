@@ -1,6 +1,6 @@
 # Bagvs
 
-Bagvs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Back Room, Bali on Fri, 4 Dec 2026.
+Bagvs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Back Room, Bali on Fri, 4 Dec 2026.
 
 Bagvs is a techno and house artist based in Indonesia, with 47 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 4 more. Often billed alongside Archie Dennis, Archie and Latex. Next up: The Back Room, Bali on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Bagvs is a techno and house artist based in Indonesia, with 47 gigs on soundchec
 
 Archie Dennis, Archie, Latex (1)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bagvs/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bagvs/)*

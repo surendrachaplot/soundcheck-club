@@ -1,6 +1,6 @@
 # LISAS
 
-LISAS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bar  Milagro, New York City on Fri, 4 Dec 2026.
+LISAS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bar  Milagro, New York City on Fri, 4 Dec 2026.
 
 LISAS is a techno and acid artist based in Belgium, with 55 gigs on soundcheck across Boston, Detroit, Miami and New York City and 2 more. Often billed alongside DJ Sharf, Katie Rex and Junkfile. Next up: Bar  Milagro, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ LISAS is a techno and acid artist based in Belgium, with 55 gigs on soundcheck a
 
 DJ Sharf, Katie Rex, Junkfile
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisas/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisas/)*

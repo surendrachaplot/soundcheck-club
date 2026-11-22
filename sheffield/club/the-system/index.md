@@ -1,15 +1,13 @@
 # The System
 
-The System is a music venue in Sheffield with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "The System Live: Montuno" on Sat, 21 Nov 2026.
+The System is a music venue in Sheffield with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Sound Service Station: Dub Epistemologies w/ Ashley Holmes" on Thu, 26 Nov 2026.
 
-The System is a music venue in Sheffield listed on soundcheck. 15 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Just Benedict and DAISY and 2 more. See dates, start times and who's playing.
+The System is a music venue in Sheffield listed on soundcheck. 13 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Just Benedict and DAISY and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The System Live: Montuno |  |
-| Sat, 21 Nov 2026 | The Cantina 1st Birthday | Freddie Grisbi, Robyn Jade, The Doobskins, obviouslyalex |
 | Thu, 26 Nov 2026 | Sound Service Station: Dub Epistemologies w/ Ashley Holmes | Ashley Holmes |
 | Fri, 27 Nov 2026 | Alto 014 | Arkane, INLIMEN, Sam J |
 | Fri, 27 Nov 2026 | Footprints Jazz Club: Steve Edwards + Khamra |  |
@@ -18,5 +16,7 @@ The System is a music venue in Sheffield listed on soundcheck. 15 upcoming gigs,
 | Fri, 11 Dec 2026 | Absolute Body Control Xmas Spesh: Red Rack'em + Theo Ward | Red Rack'em, Theo Ward |
 | Thu, 17 Dec 2026 | Sound Service Station: Christmas Music with Linga Sound | Linga Sound |
 | Fri, 18 Dec 2026 | Footprints Jazz Club: Awen Ensemble + Phoebe Niamh | Phoebe Niamh |
+| Thu, 31 Dec 2026 | NYE at The System | Just Benedict, MELK, Mucho Maas, Nonna Fab, Robyn Jade, Sunny Side Up |
+| Sat, 23 Jan 2027 | Canoe with Nyra (All Night Long) | Nyra |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

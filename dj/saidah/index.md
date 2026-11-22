@@ -1,15 +1,13 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Werkspoorkathedraal, Netherlands on Sat, 21 Nov 2026.
+SAIDAH is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Telegraph Building, Belfast on Sat, 28 Nov 2026.
 
-SAIDAH is a house and garage artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Antwerp, Austin and Australian Capital Territory and 25 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: Werkspoorkathedraal, Netherlands on Sat 21 Nov.
+SAIDAH is a house and garage artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Antwerp, Austin and Australian Capital Territory and 25 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: The Telegraph Building, Belfast on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
-| Sat, 21 Nov 2026 | TBA - Matilo Park | Rotterdam |
 | Sat, 28 Nov 2026 | The Telegraph Building | Belfast |
 | Sun, 6 Dec 2026 | Mondo | Madrid |
 | Fri, 18 Dec 2026 | Ancienne Belgique (AB) | Brussels |
@@ -23,17 +21,17 @@ SAIDAH is a house and garage artist based in Netherlands, with 129 gigs on sound
 
 ## Recently played
 
+- Werkspoorkathedraal, Netherlands · Sat, 21 Nov 2026
+- TBA - Matilo Park, Rotterdam · Sat, 21 Nov 2026
 - Maassilo, Rotterdam · Sat, 14 Nov 2026
 - Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - Elsewhere, New York City · Sat, 31 Oct 2026
 - Travis County Exposition Center, Austin · Fri, 30 Oct 2026
 - H7 Warehouse, Amsterdam · Sun, 25 Oct 2026
 - GASHOUDER, Amsterdam · Sat, 24 Oct 2026
-- Escala25, Lisbon · Sat, 10 Oct 2026
-- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Diffrent, Benwal, Sam Alfred
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

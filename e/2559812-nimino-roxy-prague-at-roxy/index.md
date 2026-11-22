@@ -1,6 +1,6 @@
 # nimino ∞ ROXY Prague at Roxy
 
-nimino ∞ ROXY Prague at Roxy on Fri 19 Feb, Prague. 1 artist: nimino. See the line-up on soundcheck.
+nimino ∞ ROXY Prague at Roxy on Fri 19 Feb, Prague. 1 artist: nimino. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

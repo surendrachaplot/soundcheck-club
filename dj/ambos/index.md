@@ -1,6 +1,6 @@
 # Ambos (1)
 
-Ambos (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Atno, Budapest on Wed, 30 Dec 2026.
+Ambos (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Atno, Budapest on Wed, 30 Dec 2026.
 
 Ambos is a minimal and house artist based in Switzerland, with 13 gigs on soundcheck across Barcelona, Budapest, Leeds and London. Often billed alongside Electric Boutique, Reelow and Monoclick. Next up: Atno, Budapest on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Ambos is a minimal and house artist based in Switzerland, with 13 gigs on soundc
 
 Electric Boutique, Reelow, Monoclick
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambos/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambos/)*

@@ -1,14 +1,13 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Cadavra, Madrid on Sat, 21 Nov 2026.
+Lena Willikens is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Signal, New-york-city on Fri, 4 Dec 2026.
 
-Lena Willikens is a techno and house artist based in Germany, with 230 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Cadavra, Madrid on Sat 21 Nov.
+Lena Willikens is a techno and house artist based in Germany, with 230 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Signal, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Cadavra | Madrid |
 | Fri, 4 Dec 2026 | Signal | New-york-city |
 | Fri, 11 Dec 2026 | Gaffe | London |
 | Thu, 31 Dec 2026 | Open Ground | Wuppertal |
@@ -17,6 +16,7 @@ Lena Willikens is a techno and house artist based in Germany, with 230 gigs on s
 
 ## Recently played
 
+- Cadavra, Madrid · Sat, 21 Nov 2026
 - Dabadaba, North · Fri, 20 Nov 2026
 - Karmakoma, Belgrade · Sat, 14 Nov 2026
 - control, Bucharest · Fri, 13 Nov 2026
@@ -24,10 +24,9 @@ Lena Willikens is a techno and house artist based in Germany, with 230 gigs on s
 - Beursschouwburg, Brussels · Fri, 6 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 30 Oct 2026
 - RADION, Amsterdam · Sat, 24 Oct 2026
-- Garage Noord, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

@@ -1,6 +1,6 @@
 # Compact Disco: Train Station NYE at Stanice 6
 
-Compact Disco: Train Station NYE at Stanice 6 on Thu 31 Dec, Prague. Disco and Acid. See the line-up on soundcheck.
+Compact Disco: Train Station NYE at Stanice 6 on Thu 31 Dec, Prague. Acid and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Legal
 
-DJ Legal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA, Vancouver on Sat, 12 Dec 2026.
+DJ Legal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Vancouver on Sat, 12 Dec 2026.
 
 DJ Legal is a house and techno artist based in Canada, with 3 gigs on soundcheck across Vancouver. Often billed alongside Ev O'Reilly, Lerma and Max Ulis. Next up: TBA, Vancouver on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ DJ Legal is a house and techno artist based in Canada, with 3 gigs on soundcheck
 
 Ev O'Reilly, Lerma, Max Ulis
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlegal/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlegal/)*

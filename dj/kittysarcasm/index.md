@@ -1,6 +1,6 @@
 # Kitty Sarcasm
 
-Kitty Sarcasm is a Bass and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 5 Dec 2026.
+Kitty Sarcasm is a Bass and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 5 Dec 2026.
 
 Kitty Sarcasm is a bass and latin bass artist based in Poland, with 44 gigs on soundcheck across Krakow, Prague, Warsaw and Wroclaw. Often billed alongside Vicky Nasty, anymati and Fourth World Music. Next up: K-Bar Powiśle, Warsaw on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Kitty Sarcasm is a bass and latin bass artist based in Poland, with 44 gigs on s
 
 Vicky Nasty, anymati, Fourth World Music
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kittysarcasm/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kittysarcasm/)*

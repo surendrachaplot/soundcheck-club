@@ -1,14 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Spincycle presents Matthias (Superluminal)" on Sat, 21 Nov 2026.
+Miscellania is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Menace presented by Lady Muck ft. CCL" on Sun, 22 Nov 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Aaliyah Salem, Aashofteh, b. caszh and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Aaliyah Salem, Aashofteh, b. caszh and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Spincycle presents Matthias (Superluminal) | Matthias (1), Venus Flytrap (2) |
 | Sun, 22 Nov 2026 | Menace presented by Lady Muck ft. CCL | Aashofteh, CCL, Galiba, Kédu, Miscmeg |
 | Thu, 26 Nov 2026 | MESS Residents Reveal w/ Grace Ferguson and Isaac Barton (WVCHWY) | Grace Ferguson, WVCHWY |
 | Fri, 27 Nov 2026 | Party People: Kyuchan (KR), Fuchsia (Eora), Curb Dancer | Kyuchan, fuchsia |
@@ -22,4 +21,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs,
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

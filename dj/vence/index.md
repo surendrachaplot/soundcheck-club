@@ -1,6 +1,6 @@
 # Vence
 
-Vence is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 宀 Club, Hong Kong on Thu, 31 Dec 2026.
+Vence is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 宀 Club, Hong Kong on Thu, 31 Dec 2026.
 
 Vence is a house and techno artist based in Netherlands, with 39 gigs on soundcheck across Hanoi, Hong Kong and Shenzhen. Often billed alongside Sunsiaré, Anyss and Jeremy Cheung. Next up: 宀 Club, Hong Kong on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Vence is a house and techno artist based in Netherlands, with 39 gigs on soundch
 
 Sunsiaré, Anyss, Jeremy Cheung
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vence/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vence/)*

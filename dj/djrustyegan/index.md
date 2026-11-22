@@ -1,6 +1,6 @@
 # DJ Rusty Egan
 
-DJ Rusty Egan is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
+DJ Rusty Egan is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
 
 DJ Rusty Egan is an ebm and post-punk artist, with 2 gigs on soundcheck across London and Manchester. Often billed alongside Arrosa, Brother of Set and Claudia Kane. Next up: Electrowerkz, London on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ DJ Rusty Egan is an ebm and post-punk artist, with 2 gigs on soundcheck across L
 
 Arrosa, Brother of Set, Claudia Kane
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrustyegan/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrustyegan/)*

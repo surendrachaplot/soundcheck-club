@@ -1,6 +1,6 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Adriatique => CURIOUS BEATS" on Thu, 26 Nov 2026.
+D! Club is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Adriatique => CURIOUS BEATS" on Thu, 26 Nov 2026.
 
 D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with line-ups including Adriatique, Alicia Hahn, Angerfist and Einmusik and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
@@ -20,4 +20,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

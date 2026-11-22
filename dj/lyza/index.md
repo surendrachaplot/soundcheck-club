@@ -1,6 +1,6 @@
 # LYZA
 
-LYZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
+LYZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
 
 LYZA is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Hannover and Madrid and 5 more. Often billed alongside AMORAL, Lyric and Rene Wise. Next up: Lieberscholli, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LYZA is a techno and house artist based in Germany, with 35 gigs on soundcheck a
 
 AMORAL, Lyric, Rene Wise
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyza/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyza/)*

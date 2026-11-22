@@ -1,6 +1,6 @@
 # HOVR
 
-HOVR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+HOVR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
 HOVR is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 19 more. Often billed alongside Oliver Koletzki, Frida Darko and Hidden Empire. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ HOVR is a techno and house artist based in Germany, with 74 gigs on soundcheck a
 
 Oliver Koletzki, Frida Darko, Hidden Empire
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*

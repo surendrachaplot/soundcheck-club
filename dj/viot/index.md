@@ -1,8 +1,8 @@
 # Viot
 
-Viot is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Viot is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Viot is a house and tech house artist based in Brazil, with 36 gigs on soundcheck across Buenos Aires, Chicago, Ibiza and Lisbon and 10 more. Often billed alongside Analu, Antdot and Carl Cox. Next up: Factory Town, Miami on Wed 2 Dec.
+Viot is a tech house and house artist based in Brazil, with 37 gigs on soundcheck across Buenos Aires, Chicago, Ibiza and Lisbon and 10 more. Often billed alongside Analu, Antdot and Carl Cox. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Viot is a house and tech house artist based in Brazil, with 36 gigs on soundchec
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 11 Dec 2026 | Komplexo Tempo | Sao Paulo |
 | Mon, 8 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
+| Fri, 19 Feb 2027 | SILO | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Viot is a house and tech house artist based in Brazil, with 36 gigs on soundchec
 
 Analu, Antdot, Carl Cox
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*

@@ -1,19 +1,19 @@
 # Kamilo Sanclemente
 
-Kamilo Sanclemente is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Viuz, Medellin on Sat, 21 Nov 2026.
+Kamilo Sanclemente is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
-Kamilo Sanclemente is a progressive house and deep house artist based in Colombia, with 60 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Budapest and 20 more. Often billed alongside Juan Pablo Torrez, Antrim and Emi Galvan. Next up: Viuz, Medellin on Sat 21 Nov.
+Kamilo Sanclemente is a progressive house and deep house artist based in Colombia, with 60 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Budapest and 20 more. Often billed alongside Juan Pablo Torrez, Antrim and Emi Galvan. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Viuz | Medellin |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
 | Mon, 21 Dec 2026 | TBA | Uruguay |
 
 ## Recently played
 
+- Viuz, Medellin · Sat, 21 Nov 2026
 - Oceandiva Original, Netherlands · Sat, 24 Oct 2026
 - Amigo, Ghent · Fri, 23 Oct 2026
 - Kaap Amsterdam, Amsterdam · Thu, 22 Oct 2026
@@ -21,10 +21,9 @@ Kamilo Sanclemente is a progressive house and deep house artist based in Colombi
 - Brown Alley, Melbourne · Fri, 16 Oct 2026
 - Salon Amador, Medellin · Sat, 3 Oct 2026
 - TBA - Grand Hall, La Plata, Buenos Aires · Fri, 17 Jul 2026
-- TBA - The Bow, Costa Salguero, Buenos Aires · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Juan Pablo Torrez, Antrim, Emi Galvan
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*

@@ -1,6 +1,6 @@
 # Meegs
 
-Meegs is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 22 Nov 2026.
+Meegs is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 22 Nov 2026.
 
 Meegs is a deep house and house artist, with 9 gigs on soundcheck across Washington DC. Often billed alongside MAXIMILIANO (US), Alyssa (Mtl) and Cassia. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Meegs is a deep house and house artist, with 9 gigs on soundcheck across Washing
 
 MAXIMILIANO (US), Alyssa (Mtl), Cassia
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meegs/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meegs/)*

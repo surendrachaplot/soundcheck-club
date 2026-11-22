@@ -1,6 +1,6 @@
 # Sekt auf Eis
 
-Sekt auf Eis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
+Sekt auf Eis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
 
 Sekt auf Eis is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin and Munich. Often billed alongside Amo (IT), An Chen and 9LALEY. Next up: Bahnwärter Thiel, Munich on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Sekt auf Eis is a techno and trance artist based in Germany, with 3 gigs on soun
 
 Amo (IT), An Chen, 9LALEY
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sektaufeis/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sektaufeis/)*

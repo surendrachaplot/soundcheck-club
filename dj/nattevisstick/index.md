@@ -1,6 +1,6 @@
 # Natte Visstick
 
-Natte Visstick is a Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Sat, 5 Dec 2026.
+Natte Visstick is a Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Sat, 5 Dec 2026.
 
 Natte Visstick is a techno artist based in Germany, with 4 gigs on soundcheck across Frankfurt, Munich, North and North Rhine Westphalia. Often billed alongside Alarico, Onlynumbers and Vieze Asbak. Next up: Zenith - Die Kulturhalle, Munich on Sat 5 Dec.
 
@@ -17,4 +17,4 @@ Natte Visstick is a techno artist based in Germany, with 4 gigs on soundcheck ac
 
 Alarico, Onlynumbers, Vieze Asbak
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nattevisstick/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nattevisstick/)*

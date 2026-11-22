@@ -1,6 +1,6 @@
 # DJ Observer
 
-DJ Observer is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Prater Dome, Vienna on Fri, 27 Nov 2026.
+DJ Observer is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Prater Dome, Vienna on Fri, 27 Nov 2026.
 
 DJ Observer is a techno and tech house artist based in Austria, with 3 gigs on soundcheck across Vienna. Often billed alongside Anatol, Cosmic Gate and Dennes Deen. Next up: Prater Dome, Vienna on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ DJ Observer is a techno and tech house artist based in Austria, with 3 gigs on s
 
 Anatol, Cosmic Gate, Dennes Deen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djobserver/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djobserver/)*

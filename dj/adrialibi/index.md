@@ -1,6 +1,6 @@
 # Adri Alibi
 
-Adri Alibi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
+Adri Alibi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
 Adri Alibi is a house and techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Dj handbag, Habitat Shaking and elliephunk. Next up: 119, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Adri Alibi is a house and techno artist based in Germany, with 13 gigs on soundc
 
 Dj handbag, Habitat Shaking, elliephunk
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialibi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialibi/)*

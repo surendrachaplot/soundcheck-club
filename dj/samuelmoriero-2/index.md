@@ -1,14 +1,13 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Psytrance artist with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Martiniplaza, Amsterdam on Sat, 21 Nov 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 23 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Martiniplaza, Amsterdam on Sat 21 Nov.
+Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 23 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 11 Dec 2026 | Ääniwalli | Helsinki |
 | Fri, 18 Dec 2026 | Poolen | Copenhagen |
@@ -20,9 +19,11 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
+| Sat, 23 Jan 2027 | Melbourne Showgrounds | Melbourne |
 
 ## Recently played
 
+- Martiniplaza, Amsterdam · Sat, 21 Nov 2026
 - Hungexpo Budapest, Budapest · Fri, 13 Nov 2026
 - Gate Milano, Milan · Fri, 6 Nov 2026
 - Razzmatazz, Barcelona · Sun, 1 Nov 2026
@@ -30,10 +31,9 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
 - Interference, Toulouse · Fri, 23 Oct 2026
 - 821 Runnymede Rd, Toronto · Fri, 16 Oct 2026
-- TBA, Toronto · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

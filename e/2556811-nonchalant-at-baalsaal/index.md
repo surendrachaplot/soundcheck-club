@@ -1,10 +1,10 @@
 # Nonchalant at Baalsaal
 
-Nonchalant at Baalsaal on Fri 12 Feb, Hamburg. See the line-up on soundcheck.
+Nonchalant at Baalsaal on Fri 19 Feb, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 12 Feb 2027 |
+| Date | Fri, 19 Feb 2027 |
 | Venue | Baalsaal |
 | City | Hamburg |
 

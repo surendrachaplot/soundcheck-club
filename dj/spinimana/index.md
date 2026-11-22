@@ -1,6 +1,6 @@
 # Spinimana
 
-Spinimana is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mezzanine - Tooting, London on Fri, 4 Dec 2026.
+Spinimana is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mezzanine - Tooting, London on Fri, 4 Dec 2026.
 
 Spinimana is a disco and house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside COBUU. Next up: Mezzanine - Tooting, London on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Spinimana is a disco and house artist based in United Kingdom, with 4 gigs on so
 
 COBUU
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinimana/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinimana/)*

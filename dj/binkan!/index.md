@@ -1,6 +1,6 @@
 # binkan!
 
-binkan! is a Club and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
+binkan! is a Club and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
 
 binkan! is a club and idm artist, with 7 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside nimrock11, Sinxstxsia and Babybruise. Next up: TBA - Cuauhtémoc, Mexico City on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ binkan! is a club and idm artist, with 7 gigs on soundcheck across Guadalajara a
 
 nimrock11, Sinxstxsia, Babybruise
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binkan!/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binkan!/)*

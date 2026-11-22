@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Depo Klub, Zagreb on Sat, 5 Dec 2026.
+Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depo Klub, Zagreb on Sat, 5 Dec 2026.
 
 Tarkno is a techno and house artist based in Australia, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 41 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Depo Klub, Zagreb on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Tarkno is a techno and house artist based in Australia, with 120 gigs on soundch
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

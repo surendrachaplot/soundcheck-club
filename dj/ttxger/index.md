@@ -1,6 +1,6 @@
 # TTX (GER)
 
-TTX (GER) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 17 Dec 2026.
+TTX (GER) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 17 Dec 2026.
 
 TTX (GER) is a house and bass artist based in Germany, with 29 gigs on soundcheck across Hamburg. Often billed alongside Tana, DJ Babyblade and DJ Hochzeit. Next up: Golden Pudel Club, Hamburg on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ TTX (GER) is a house and bass artist based in Germany, with 29 gigs on soundchec
 
 Tana (2), DJ Babyblade, DJ Hochzeit
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*

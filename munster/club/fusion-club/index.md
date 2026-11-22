@@ -1,14 +1,13 @@
 # Fusion Club
 
-Fusion Club is a music venue in Münster with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Pump x WSDN Weekender" on Fri, 20 Nov 2026.
+Fusion Club is a music venue in Münster with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ACID WARS W/ MHA IRI, TOMMAHAWK & MANY MORE" on Sat, 5 Dec 2026.
 
-Fusion Club is a music venue in Münster listed on soundcheck. 8 upcoming gigs, with line-ups including Alexia K., ALYF, Chris Liebing and Demontime and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
+Fusion Club is a music venue in Münster listed on soundcheck. 7 upcoming gigs, with line-ups including Alexia K., ALYF, Chris Liebing and Demontime and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Pump x WSDN Weekender | FLACCO, In Verruf, Juliana Yamasaki, Nachtigaller, Neon Graveyard, O.B.I. (DE), OGUZ, TANJA MIJU |
 | Sat, 5 Dec 2026 | ACID WARS W/ MHA IRI, TOMMAHAWK & MANY MORE | Alexia K., Jens Mueller, Mha iri, Tiko, Tommahawk |
 | Fri, 11 Dec 2026 | Bassmania |  |
 | Sat, 12 Dec 2026 | MINT pres. PRADA2000, ZWILLING. x FRONSI (live) a.m | Gustav Ørgano, Luzinka, PRADA2000 |
@@ -21,4 +20,4 @@ Fusion Club is a music venue in Münster listed on soundcheck. 8 upcoming gigs, 
 
 Am Hawerkamp 32; 48155 Münster; Germany, Münster
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*

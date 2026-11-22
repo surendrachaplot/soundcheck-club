@@ -1,6 +1,6 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Flux, Istanbul on Fri, 27 Nov 2026.
+Patrick Mason is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Flux, Istanbul on Fri, 27 Nov 2026.
 
 Patrick Mason is a techno and house artist based in Germany, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 98 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: Flux, Istanbul on Fri 27 Nov.
 
@@ -34,4 +34,4 @@ Patrick Mason is a techno and house artist based in Germany, with 318 gigs on so
 
 Héctor Oaks, Indira Paganotto, 999999999
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

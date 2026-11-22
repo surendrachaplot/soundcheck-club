@@ -1,6 +1,6 @@
 # Omari Jazz
 
-Omari Jazz is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Process PDX, Portland on Thu, 17 Dec 2026.
+Omari Jazz is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Process PDX, Portland on Thu, 17 Dec 2026.
 
 Omari Jazz is a techno and club artist, with 28 gigs on soundcheck across Los Angeles, Portland, San Francisco/Oakland and Seattle. Often billed alongside sqip, Omari and Slurgeon. Next up: Process PDX, Portland on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Omari Jazz is a techno and club artist, with 28 gigs on soundcheck across Los An
 
 sqip, Omari, Slurgeon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarijazz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarijazz/)*

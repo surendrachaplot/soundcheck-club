@@ -1,14 +1,13 @@
 # Olanskii
 
-Olanskii is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Jaeger, Oslo on Sat, 21 Nov 2026.
+Olanskii is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
 
-Olanskii is a house and techno artist based in Norway, with 231 gigs on soundcheck across Bergen, Bogotá, Medellin and Oslo. Often billed alongside G-HA, Øyvind Morken and Vinny Villbass. Next up: Jaeger, Oslo on Sat 21 Nov.
+Olanskii is a house and techno artist based in Norway, with 231 gigs on soundcheck across Bergen, Bogotá, Medellin and Oslo. Often billed alongside G-HA, Øyvind Morken and Vinny Villbass. Next up: Jaeger, Oslo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Jaeger | Oslo |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Fri, 4 Dec 2026 | Jaeger | Oslo |
@@ -18,6 +17,7 @@ Olanskii is a house and techno artist based in Norway, with 231 gigs on soundche
 
 ## Recently played
 
+- Jaeger, Oslo · Sat, 21 Nov 2026
 - Jaeger, Oslo · Fri, 20 Nov 2026
 - Jaeger, Oslo · Fri, 13 Nov 2026
 - Jaeger, Oslo · Fri, 6 Nov 2026
@@ -25,10 +25,9 @@ Olanskii is a house and techno artist based in Norway, with 231 gigs on soundche
 - Jaeger, Oslo · Sat, 24 Oct 2026
 - Jaeger, Oslo · Fri, 23 Oct 2026
 - Jaeger, Oslo · Fri, 16 Oct 2026
-- Jaeger, Oslo · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 G-HA, Øyvind Morken, Vinny Villbass
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olanskii/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olanskii/)*

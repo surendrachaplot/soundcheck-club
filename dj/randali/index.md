@@ -1,19 +1,19 @@
 # Randali
 
-Randali is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at elipamanoke, Leipzig on Sat, 21 Nov 2026.
+Randali is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 25 Club, Hamburg on Fri, 11 Dec 2026.
 
-Randali is a techno and house artist based in Germany, with 54 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Nikiija and Sabura. Next up: elipamanoke, Leipzig on Sat 21 Nov.
+Randali is a techno and house artist based in Germany, with 54 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Nikiija and Sabura. Next up: 25 Club, Hamburg on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | elipamanoke | Leipzig |
 | Fri, 11 Dec 2026 | 25 Club | Hamburg |
 | Sat, 6 Feb 2027 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 
+- elipamanoke, Leipzig · Sat, 21 Nov 2026
 - Fundbureau, Hamburg · Sat, 7 Nov 2026
 - Ritter Butzke, Berlin · Fri, 6 Nov 2026
 - Segelschiff Mare Frisium, Hamburg · Sat, 31 Oct 2026
@@ -21,10 +21,9 @@ Randali is a techno and house artist based in Germany, with 54 gigs on soundchec
 - Fundbureau, Hamburg · Sat, 10 Oct 2026
 - Fundbureau, Hamburg · Fri, 2 Oct 2026
 - Fridas Pier, Stuttgart · Fri, 18 Sept 2026
-- Fundbureau, Hamburg · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Konfusia, Nikiija, Sabura
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*

@@ -1,16 +1,14 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Marco Carola is a Tech House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Marco Carola is a tech house and techno artist based in Italy, with 327 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Loco Dice. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
+Marco Carola is a tech house and techno artist based in Italy, with 327 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Loco Dice. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
-| Sat, 21 Nov 2026 | Cinecittà World | Rome |
 | Fri, 4 Dec 2026 | Club Space Miami | Miami |
 | Sat, 26 Dec 2026 | KOKO | London |
 | Sun, 27 Dec 2026 | KOKO | London |
@@ -22,6 +20,7 @@ Marco Carola is a tech house and techno artist based in Italy, with 327 gigs on 
 
 ## Recently played
 
+- Cinecittà World, Rome · Sat, 21 Nov 2026
 - Khoroum Valley, Egypt · Fri, 20 Nov 2026
 - TBA, Buenos Aires · Fri, 20 Nov 2026
 - Warehouse ZRH, Zurich · Sat, 14 Nov 2026
@@ -29,10 +28,9 @@ Marco Carola is a tech house and techno artist based in Italy, with 327 gigs on 
 - Vale do Anhangabaú, Sao Paulo · Sat, 7 Nov 2026
 - Autodromo Enzo e Dino Ferrari, Bologna · Sat, 31 Oct 2026
 - Theata, London · Fri, 30 Oct 2026
-- Pacha New York, New York City · Sun, 18 Oct 2026
 
 ## Shares bills with
 
 Franky Rizardo, Ale De Tuglie, Loco Dice
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

@@ -1,6 +1,6 @@
 # Smokey Bubblin' B
 
-Smokey Bubblin' B is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+Smokey Bubblin' B is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
 
 Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 69 gigs on soundcheck across Austin, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: The Prospect Building, Bristol on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 69 
 
 George Mensah, Sammy Porter, Tilli Murphy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*

@@ -1,6 +1,6 @@
 # Russell Industrial Center
 
-Russell Industrial Center is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "SIDEPIECE‍" on Fri, 4 Dec 2026.
+Russell Industrial Center is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "SIDEPIECE‍" on Fri, 4 Dec 2026.
 
 Russell Industrial Center is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including Nora En Pure and Wiley. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
 
@@ -17,4 +17,4 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 4 up
 
 1600 Clay Street; Detroit; Michigan; 48211, Detroit
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*

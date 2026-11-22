@@ -1,18 +1,18 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at teller, Seoul on Sat, 21 Nov 2026.
+Ion Ludwig is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Robert Johnson, Hesse on Fri, 27 Nov 2026.
 
-Ion Ludwig is a minimal and house artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 28 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: teller, Seoul on Sat 21 Nov.
+Ion Ludwig is a minimal and house artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 28 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: Robert Johnson, Hesse on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | teller | Seoul |
 | Fri, 27 Nov 2026 | Robert Johnson | Hesse |
 
 ## Recently played
 
+- teller, Seoul · Sat, 21 Nov 2026
 - Inout Music Club, Sardinia · Sat, 14 Nov 2026
 - Club Guesthouse, Bucharest · Fri, 6 Nov 2026
 - One Resort, Tunisia · Thu, 5 Nov 2026
@@ -20,10 +20,9 @@ Ion Ludwig is a minimal and house artist based in Germany, with 98 gigs on sound
 - 50:Hertz Club Train, Amsterdam · Fri, 23 Oct 2026
 - TBA - 50:HERTZ CLUB TRAIN 2026 | Amsterdam Central Station, Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Yellow House, Amsterdam · Thu, 22 Oct 2026
-- Tomodachi, Ibiza · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Rhadoo, Aline (CH), BILA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*

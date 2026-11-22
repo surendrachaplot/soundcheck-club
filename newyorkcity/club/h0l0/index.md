@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "MegaMilk" on Sat, 21 Nov 2026.
+H0L0 is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Fruitful presents: David Berrie & Friends" on Wed, 25 Nov 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, Connie and Danny Daze and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, Connie and Danny Daze and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | MegaMilk | Leonardo Glovibes |
 | Wed, 25 Nov 2026 | Fruitful presents: David Berrie & Friends | David Berrie |
 | Sat, 28 Nov 2026 | ReSolute 19th Anniversary (New Date) | Connie, Lauren Ritter, Maksim, O.BEE, Rasho, Shvili |
 | Thu, 3 Dec 2026 | Rhythm Cartel x Rare Heaven | Abril IRL, DNC (1), JOHNNY O, LoKho, Scribble, entity_A, logeybear |
@@ -18,9 +17,10 @@ H0L0 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, w
 | Sat, 19 Dec 2026 | GRAVEDGR & Guests | GRAVEDGR |
 | Thu, 31 Dec 2026 | ReSolute New Year's Eve and Day Extravaganza |  |
 | Sat, 16 Jan 2027 | KEIN KLUB: line-up tba |  |
+| Fri, 5 Feb 2027 | KEIN KLUB: line-up tba |  |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

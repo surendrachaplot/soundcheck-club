@@ -1,6 +1,6 @@
 # ACHAMA
 
-ACHAMA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
+ACHAMA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
 
 ACHAMA is a club and techno artist based in United States of America, with 23 gigs on soundcheck across Portland, Seattle and Tokyo. Often billed alongside N SO, MUNÉO and Ross Lowder. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ ACHAMA is a club and techno artist based in United States of America, with 23 gi
 
 N SO, MUNÉO, Ross Lowder
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*

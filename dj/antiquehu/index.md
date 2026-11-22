@@ -1,6 +1,6 @@
 # Antique (HU)
 
-Antique (HU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Rodeo Klub, Budapest on Fri, 27 Nov 2026.
+Antique (HU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Rodeo Klub, Budapest on Fri, 27 Nov 2026.
 
 Antique (HU) is a house and tech house artist based in Hungary, with 42 gigs on soundcheck across Budapest. Often billed alongside T:MANIAK, Spanti and TAMAS SZABO. Next up: Rodeo Klub, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Antique (HU) is a house and tech house artist based in Hungary, with 42 gigs on 
 
 T:MANIAK, Spanti, TAMAS SZABO
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*

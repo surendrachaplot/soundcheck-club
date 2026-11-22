@@ -1,6 +1,6 @@
 # Indiego Glocksee
 
-Indiego Glocksee is a music venue in Hannover with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "MILLIAMPERE with Niotech, DJ Tallboy and YËDM" on Sat, 12 Dec 2026.
+Indiego Glocksee is a music venue in Hannover with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "MILLIAMPERE with Niotech, DJ Tallboy and YËDM" on Sat, 12 Dec 2026.
 
 Indiego Glocksee is a music venue in Hannover listed on soundcheck. 2 upcoming gigs, with line-ups including BNZN, DJ SPORTSCHUH, DJ Tallboy and Justin Jay and 2 more. See dates, start times and who's playing. Glockseestr.35; 30169 Hannover; Germany.
 
@@ -15,4 +15,4 @@ Indiego Glocksee is a music venue in Hannover listed on soundcheck. 2 upcoming g
 
 Glockseestr.35; 30169 Hannover; Germany, Hannover
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*

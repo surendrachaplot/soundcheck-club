@@ -1,14 +1,13 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "The Sacrifice" on Sat, 21 Nov 2026.
+Cakeshop is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Cakeshop presents: SBTRKT" on Wed, 25 Nov 2026.
 
-Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including AEIDA, Bamboo Princess, Closet Yi and Coziest and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
+Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including AEIDA, Closet Yi, Coziest and Cult Member and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The Sacrifice | Bamboo Princess, Excultist, Sinchek, mitsu (2), rue (3) |
 | Wed, 25 Nov 2026 | Cakeshop presents: SBTRKT | AEIDA, Coziest, Ligrye, SBTRKT, Shins, WEEUN KIM |
 | Fri, 27 Nov 2026 | R&B CORPORATION x SOLEIL INVITES Fold [UK] | Fold |
 | Sat, 28 Nov 2026 | Cakeshop presents: Pangaea | Closet Yi, HYUNHXEE, Haney Lee, Mount XLR, Pangaea, pa de haan. |
@@ -16,9 +15,10 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with l
 | Sat, 5 Dec 2026 | Tuna presents: Pace & Space | DJ Strawberry, MOAH, TUNA (2), Yetsuby, green digger |
 | Fri, 11 Dec 2026 | Raw Hearts presents: PETERBLUE | PETERBLUE |
 | Sat, 12 Dec 2026 | dhj presents: Dodo, HOME ALL NIGHT |  |
+| Sat, 26 Dec 2026 | Darklight Drum and Bass Xmas Party: Two huge int'l guests |  |
 
 ## Address
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

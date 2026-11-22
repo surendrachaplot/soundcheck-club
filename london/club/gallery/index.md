@@ -1,14 +1,13 @@
 # Gallery
 
-Gallery is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Gallery PRESENTS Loco Dice, AJ CHRISTOU & DJ AMMIN" on Sat, 21 Nov 2026.
+Gallery is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Derosiere presents" on Wed, 25 Nov 2026.
 
-Gallery is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including AJ Christou, &friends, Djammin and Loco Dice and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including &friends, Magdalena (DE), Nic Cammelli and Paul Oakenfold and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Gallery PRESENTS Loco Dice, AJ CHRISTOU & DJ AMMIN | AJ Christou, Djammin, Loco Dice, Neidex |
 | Wed, 25 Nov 2026 | Derosiere presents |  |
 | Thu, 26 Nov 2026 | Paradox Nexus - Thursdays at Gallery | Nic Cammelli, Yashar (UK) |
 | Fri, 27 Nov 2026 | POPUP x CEL present: NIC B2B MATT (All Night Long) |  |
@@ -18,9 +17,10 @@ Gallery is a music venue in London listed on soundcheck. 11 upcoming gigs, with 
 | Thu, 10 Dec 2026 | Paradox Nexus - Thursdays at Gallery |  |
 | Fri, 11 Dec 2026 | &friends - Gallery | &friends |
 | Thu, 17 Dec 2026 | Paradox Nexus - Thursdays at Gallery |  |
+| Thu, 31 Dec 2026 | Gallery PRESENTS NYE |  |
 
 ## Address
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

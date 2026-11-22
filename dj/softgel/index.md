@@ -1,8 +1,8 @@
 # softgel
 
-softgel is a Ambient and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 10 Dec 2026.
+softgel is a Ambient and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 10 Dec 2026.
 
-softgel is an ambient and club artist based in United States of America, with 3 gigs on soundcheck across New York City. Often billed alongside Duneska, SCRAAATCH and ciringe. Next up: Bossa Nova Civic Club, New York City on Thu 10 Dec.
+softgel is an ambient and club artist based in United States of America, with 3 gigs on soundcheck across New York City. Often billed alongside Duneska, SCRAAATCH and Vitamin CJ. Next up: Bossa Nova Civic Club, New York City on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ softgel is an ambient and club artist based in United States of America, with 3 
 
 ## Shares bills with
 
-Duneska, SCRAAATCH, ciringe
+Duneska, SCRAAATCH, Vitamin CJ
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softgel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softgel/)*

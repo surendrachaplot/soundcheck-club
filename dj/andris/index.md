@@ -1,19 +1,19 @@
 # andris
 
-andris is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at MÄX, Zurich on Sat, 21 Nov 2026.
+andris is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Alte Kaserne, Zurich on Fri, 4 Dec 2026.
 
-andris is a techno and trance artist based in Switzerland, with 35 gigs on soundcheck across Basel, Budapest, Krakow and Switzerland and 2 more. Often billed alongside Galopp, yves and BRAINDAAMAGE. Next up: MÄX, Zurich on Sat 21 Nov.
+andris is a techno and trance artist based in Switzerland, with 35 gigs on soundcheck across Basel, Budapest, Krakow and Switzerland and 2 more. Often billed alongside Galopp, yves and BRAINDAAMAGE. Next up: Alte Kaserne, Zurich on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | MÄX | Zurich |
 | Fri, 4 Dec 2026 | Alte Kaserne | Zurich |
 | Fri, 11 Dec 2026 | MÄX | Zurich |
 
 ## Recently played
 
+- MÄX, Zurich · Sat, 21 Nov 2026
 - Trübsee Station, Engelberg, Switzerland · Fri, 20 Nov 2026
 - Salzhaus, Zurich · Sat, 24 Oct 2026
 - Alte Kaserne, Zurich · Fri, 25 Sept 2026
@@ -21,10 +21,9 @@ andris is a techno and trance artist based in Switzerland, with 35 gigs on sound
 - FLUCC, Vienna · Fri, 21 Aug 2026
 - Supermarket, Zurich · Fri, 31 Jul 2026
 - Kraftwerk, Zurich · Fri, 3 Jul 2026
-- MÄX, Zurich · Sat, 30 May 2026
 
 ## Shares bills with
 
 Galopp, yves, BRAINDAAMAGE
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andris/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andris/)*

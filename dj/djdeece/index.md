@@ -1,6 +1,6 @@
 # DJ Deece
 
-DJ Deece is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pygmalion, Dublin on Sat, 5 Dec 2026.
+DJ Deece is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pygmalion, Dublin on Sat, 5 Dec 2026.
 
 DJ Deece is a house and deep house artist based in Ireland, with 29 gigs on soundcheck across Dublin. Often billed alongside Colin Perkins, Collie and January Winters. Next up: Pygmalion, Dublin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Deece is a house and deep house artist based in Ireland, with 29 gigs on soun
 
 Colin Perkins, Collie (1), January Winters
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeece/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeece/)*

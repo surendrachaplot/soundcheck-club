@@ -1,6 +1,6 @@
 # August (NL)
 
-August (NL) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
+August (NL) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
 
 August (NL) is a techno and bass artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Hitam, Human Space Machine and I-RO. Next up: Garage Noord, Amsterdam on Sun 13 Dec.
 
@@ -19,4 +19,4 @@ August (NL) is a techno and bass artist based in Netherlands, with 3 gigs on sou
 
 Hitam, Human Space Machine, I-RO
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustnl/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustnl/)*

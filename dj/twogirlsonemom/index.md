@@ -1,6 +1,6 @@
 # two girls one mom
 
-two girls one mom is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
+two girls one mom is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
 
 two girls one mom is a techno and trance artist based in Germany, with 104 gigs on soundcheck across Barcelona, Berlin, Cologne and Frankfurt and 12 more. Often billed alongside bbymeister, HANÀ and August Kind. Next up: Gotec, Karlsruhe on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ two girls one mom is a techno and trance artist based in Germany, with 104 gigs 
 
 bbymeister, HANÀ, August Kind
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*

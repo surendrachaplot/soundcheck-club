@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Hoppetosse, Berlin on Sun, 13 Dec 2026.
+ASIA (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hoppetosse, Berlin on Sun, 13 Dec 2026.
 
 ASIA (DE) is a techno and house artist based in Russia, with 59 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 21 more. Often billed alongside DJ Koolt, NEW YORK and Neik. Next up: Hoppetosse, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ ASIA (DE) is a techno and house artist based in Russia, with 59 gigs on soundche
 
 DJ Koolt, NEW YORK, Neik
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

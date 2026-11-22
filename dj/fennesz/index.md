@@ -1,6 +1,6 @@
 # Fennesz
 
-Fennesz is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Neue Zukunft, Berlin on Sun, 31 Jan 2027.
+Fennesz is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Neue Zukunft, Berlin on Sun, 31 Jan 2027.
 
 Fennesz is an experimental and electronica artist based in Austria, with 17 gigs on soundcheck across Barcelona, Berlin, Brighton and Brussels and 7 more. Often billed alongside Lillevan, Ah! Kosmos and Debit. Next up: Neue Zukunft, Berlin on Sun 31 Jan.
 
@@ -25,4 +25,4 @@ Fennesz is an experimental and electronica artist based in Austria, with 17 gigs
 
 Lillevan, Ah! Kosmos, Debit
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fennesz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fennesz/)*

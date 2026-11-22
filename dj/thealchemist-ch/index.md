@@ -1,6 +1,6 @@
 # The Alchemist
 
-The Alchemist is a Hip-Hop and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sun, 22 Nov 2026.
+The Alchemist is a Hip-Hop and Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sun, 22 Nov 2026.
 
 The Alchemist is a hip-hop and footwork artist based in Switzerland, with 8 gigs on soundcheck across Amsterdam, Copenhagen, Jacksonville and Lisbon and 3 more. Often billed alongside DJ Premier, 1-800-Lolita and Aba Shanti-I. Next up: MIDNIGHT EAST, Tokyo on Sun 22 Nov.
 
@@ -12,6 +12,7 @@ The Alchemist is a hip-hop and footwork artist based in Switzerland, with 8 gigs
 
 ## Recently played
 
+- Sunhall, Osaka · Sat, 21 Nov 2026
 - Radio Radio, Amsterdam · Mon, 27 Apr 2026
 - DR Koncerthuset, Copenhagen · Tue, 2 Dec 2025
 - Lisboa Ao Vivo, Lisbon · Sat, 15 Nov 2025
@@ -23,4 +24,4 @@ The Alchemist is a hip-hop and footwork artist based in Switzerland, with 8 gigs
 
 DJ Premier, 1-800-Lolita, Aba Shanti-I
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thealchemist-ch/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thealchemist-ch/)*

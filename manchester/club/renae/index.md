@@ -1,15 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "LLOUS' at TOPP: POOCH, emiiyuu, Sharayda B2B BANSHII, Davide" on Sat, 21 Nov 2026.
+renae is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "renae: Beatnix Soul" on Sun, 22 Nov 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including atalaya, Ayy Den, Babs and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including atalaya, Ayy Den, Babs and CARALUS and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | LLOUS' at TOPP: POOCH, emiiyuu, Sharayda B2B BANSHII, Davide | BANSHII, POOCH, Sharayda, emiiyuu |
-| Sat, 21 Nov 2026 | renae: Mouridis and Ben Start | Ben Start, Mouridis |
 | Sun, 22 Nov 2026 | renae: Beatnix Soul |  |
 | Fri, 27 Nov 2026 | Hybrid: The 70th | CEEKAY, Connor (UK), DJ FABRICATION, Dorbachov, Kabel, Means&3rd, Medlock, Pangölin, Pattie Mac, Rosie (UK), Sam The Bastard, WeeDot, Yard One |
 | Sat, 28 Nov 2026 | Just 4 U with DR MYSTERY & KD22LR all night at T.O.P.P | DR MYSTERY, KD22LR |
@@ -18,9 +16,10 @@ renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 5 Dec 2026 | Culina x renae | Babs (3), CARALUS |
 | Fri, 11 Dec 2026 | Expansions with Nick Kagame, Contours & Yadava at T.O.P.P | Contours, Nick Kagame, Yadava |
 | Fri, 18 Dec 2026 | Migrant Melodics | Ayy Den, DANCING WITH STANLEY, DR MYSTERY, atalaya |
+| Sat, 19 Dec 2026 | 01366 ̸ festive gathering |  |
 
 ## Address
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

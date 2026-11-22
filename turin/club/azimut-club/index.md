@@ -1,14 +1,13 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT)" on Sat, 21 Nov 2026.
+Azimut Club is a music venue in Turin with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Make A Dance hosted by EAR\WAX" on Sat, 28 Nov 2026.
 
-Azimut Club is a music venue in Turin listed on soundcheck. 10 upcoming gigs, with line-ups including Alberto Tolo, Allegretti, BLACK CROW and BLANKA and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
+Azimut Club is a music venue in Turin listed on soundcheck. 9 upcoming gigs, with line-ups including Alberto Tolo, BLACK CROW, BLANKA and Bobby. and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT) | Allegretti, Kessa, P.E.A.R.L. |
 | Sat, 28 Nov 2026 | Make A Dance hosted by EAR\WAX | Make A Dance |
 | Sat, 5 Dec 2026 | BLANKA All Night Long (Room Trax /ES) | BLANKA |
 | Mon, 7 Dec 2026 | SPIN CYCLE SESSION 6 | Alberto Tolo, BLACK CROW, EMPTY(IT), Jack Fresia |
@@ -23,4 +22,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 10 upcoming gigs, wi
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

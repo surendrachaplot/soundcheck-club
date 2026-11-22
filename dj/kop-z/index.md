@@ -1,6 +1,6 @@
 # Kop-Z
 
-Kop-Z is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
+Kop-Z is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
 
 Kop-Z is an experimental and techno artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Bristol, Liverpool and Manchester and 2 more. Often billed alongside Flames Disperse, TOOT and Cersy. Next up: Circolo Amelia, Milan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kop-Z is an experimental and techno artist based in United Kingdom, with 59 gigs
 
 Flames Disperse, TOOT, Cersy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kop-z/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kop-z/)*

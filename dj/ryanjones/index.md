@@ -1,6 +1,6 @@
 # Ryan Jones
 
-Ryan Jones is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 29 Nov 2026.
+Ryan Jones is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 29 Nov 2026.
 
 Ryan Jones is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside KT, Wallace and Amaliah. Next up: Vittoria Wharf Studio, London on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Ryan Jones is a house and tech house artist based in United Kingdom, with 11 gig
 
 KT, Wallace, Amaliah
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*

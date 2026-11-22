@@ -1,6 +1,6 @@
 # Sutter Cane
 
-Sutter Cane is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Exil, Vienna on Tue, 8 Dec 2026.
+Sutter Cane is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Exil, Vienna on Tue, 8 Dec 2026.
 
 Sutter Cane is a techno and trance artist based in Austria, with 20 gigs on soundcheck across Munich and Vienna. Often billed alongside ORYMA, DANBERG and Carl Haze. Next up: Club Exil, Vienna on Tue 8 Dec.
 
@@ -26,4 +26,4 @@ Sutter Cane is a techno and trance artist based in Austria, with 20 gigs on soun
 
 ORYMA, DANBERG, Carl Haze
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suttercane/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suttercane/)*

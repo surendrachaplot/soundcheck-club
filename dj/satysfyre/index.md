@@ -1,6 +1,6 @@
 # SATYS FYRE
 
-SATYS FYRE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Dockland, Münster on Sat, 28 Nov 2026.
+SATYS FYRE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Dockland, Münster on Sat, 28 Nov 2026.
 
 SATYS FYRE is a techno and trance artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 7 more. Often billed alongside Elotrance, Cleopard2000 and Mika Heggemann. Next up: Dockland, Münster on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ SATYS FYRE is a techno and trance artist based in Germany, with 67 gigs on sound
 
 Elotrance, Cleopard2000, Mika Heggemann
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*

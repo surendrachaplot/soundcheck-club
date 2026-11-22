@@ -1,6 +1,6 @@
 # Cody Wong
 
-Cody Wong is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Index, Dublin on Thu, 17 Dec 2026.
+Cody Wong is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Index, Dublin on Thu, 17 Dec 2026.
 
 Cody Wong is a techno and house artist based in Ireland, with 20 gigs on soundcheck across Amsterdam, Belfast, Dublin and Edinburgh and 6 more. Often billed alongside Ben Hemsley, Alan Fitzpatrick and chouhal. Next up: Index, Dublin on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Cody Wong is a techno and house artist based in Ireland, with 20 gigs on soundch
 
 Ben Hemsley, Alan Fitzpatrick, chouhal
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codywong/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codywong/)*

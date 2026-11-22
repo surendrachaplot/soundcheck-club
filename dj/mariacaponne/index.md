@@ -1,18 +1,21 @@
 # Maria Caponne
 
-Maria Caponne is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Goya Social Club, Madrid on Sat, 21 Nov 2026.
+Maria Caponne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EL SÓTANO, Madrid on Fri, 18 Dec 2026.
 
-Maria Caponne is a house and tech house artist based in Spain, with 2 gigs on soundcheck across Madrid. Often billed alongside Adrian Mart and Loopita. Next up: Goya Social Club, Madrid on Sat 21 Nov.
+Maria Caponne is a house and tech house artist based in Spain, with 2 gigs on soundcheck across Madrid. Often billed alongside Adrian Mart and Loopita. Next up: EL SÓTANO, Madrid on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Goya Social Club | Madrid |
 | Fri, 18 Dec 2026 | EL SÓTANO | Madrid |
+
+## Recently played
+
+- Goya Social Club, Madrid · Sat, 21 Nov 2026
 
 ## Shares bills with
 
 Adrian Mart, Loopita
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacaponne/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacaponne/)*

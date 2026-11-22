@@ -1,6 +1,6 @@
 # DAHRAXT
 
-DAHRAXT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+DAHRAXT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
 DAHRAXT is a techno and house artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 4 more. Often billed alongside Hurtado, Annechoic and Liza Aikin. Next up: Void Club, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DAHRAXT is a techno and house artist based in Italy, with 43 gigs on soundcheck 
 
 Hurtado, Annechoic, Liza Aikin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dahraxt/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dahraxt/)*

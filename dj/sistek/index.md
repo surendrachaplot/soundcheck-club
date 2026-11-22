@@ -1,6 +1,6 @@
 # Sistek
 
-Sistek is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
+Sistek is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 Sistek is an afro house and house artist, with 42 gigs on soundcheck across Barcelona, Basel, Berlin and Boston and 21 more. Often billed alongside Chelina Manuhutu, ARODES and Cristoph. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
 
@@ -14,6 +14,7 @@ Sistek is an afro house and house artist, with 42 gigs on soundcheck across Barc
 
 ## Recently played
 
+- Seaseaclub Barcelona, Barcelona · Sat, 21 Nov 2026
 - Audio SF, San Francisco/Oakland · Sat, 31 Oct 2026
 - The 1896, New York City · Fri, 30 Oct 2026
 - YoYo - Palais de Tokyo, Paris · Sat, 19 Sept 2026
@@ -21,10 +22,9 @@ Sistek is an afro house and house artist, with 42 gigs on soundcheck across Barc
 - Floyd, Miami · Sat, 1 Aug 2026
 - Art Club, Houston · Fri, 26 Jun 2026
 - Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
-- Aracely Cafe, San Francisco/Oakland · Sun, 31 May 2026
 
 ## Shares bills with
 
 Chelina Manuhutu, ARODES, Cristoph
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*

@@ -1,14 +1,13 @@
 # Sequence Six
 
-Sequence Six is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Sequence Six is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
-Sequence Six is a trance and techno artist based in United States of America, with 13 gigs on soundcheck across Chicago, Los Angeles, Minneapolis/St Paul and Montreal and 3 more. Often billed alongside Aly & Fila, Billy Gillies and David Rust. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Sequence Six is a trance and techno artist based in United States of America, with 13 gigs on soundcheck across Chicago, Los Angeles, Minneapolis/St Paul and Montreal and 3 more. Often billed alongside Aly & Fila, Billy Gillies and David Rust. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 12 Jun 2027 | Steelyard Kelham | Sheffield |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sequence Six is a trance and techno artist based in United States of America, wi
 
 Aly & Fila, Billy Gillies, David Rust
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sequencesix/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sequencesix/)*

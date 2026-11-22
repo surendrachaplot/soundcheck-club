@@ -1,6 +1,6 @@
 # FAUZIA
 
-FAUZIA is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Ormside Projects, London on Sat, 5 Dec 2026.
+FAUZIA is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ormside Projects, London on Sat, 5 Dec 2026.
 
 FAUZIA is a bass and techno artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Berlin, Bristol and Bucharest and 3 more. Often billed alongside Pariah, Flowdan and Mantra. Next up: Ormside Projects, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ FAUZIA is a bass and techno artist based in United Kingdom, with 41 gigs on soun
 
 Pariah, Flowdan, Mantra
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fauzia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fauzia/)*

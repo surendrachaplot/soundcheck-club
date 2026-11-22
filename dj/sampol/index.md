@@ -1,6 +1,6 @@
 # Sampol
 
-Sampol is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 28 Nov 2026.
+Sampol is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 28 Nov 2026.
 
 Sampol is a house and electro artist based in Spain, with 124 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Mad Radio Miami, Miami on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Sampol is a house and electro artist based in Spain, with 124 gigs on soundcheck
 
 Alex (ES), Hitch, MARYO
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

@@ -1,6 +1,6 @@
 # DJ PGZ
 
-DJ PGZ is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
+DJ PGZ is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
 
 DJ PGZ is a techno and house artist based in Australia, with 83 gigs on soundcheck across Adelaide, Bali, Byron Bay and Hanoi and 5 more. Often billed alongside Yikes, Kia (AU) and Moopie. Next up: Club 77, Sydney on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ DJ PGZ is a techno and house artist based in Australia, with 83 gigs on soundche
 
 Yikes, Kia (AU), Moopie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpgz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpgz/)*

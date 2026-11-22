@@ -1,6 +1,6 @@
 # Bourse de Commerce — Pinault Collection
 
-Bourse de Commerce — Pinault Collection is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Fatima Al Qadiri, 3TWI" on Fri, 4 Dec 2026.
+Bourse de Commerce — Pinault Collection is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Fatima Al Qadiri, 3TWI" on Fri, 4 Dec 2026.
 
 Bourse de Commerce — Pinault Collection is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Fatima Al Qadiri, Manara, Manara (UK) and Total Freedom. See dates, start times and who's playing. 2 rue de Viarmes, 75001 Paris.
 
@@ -15,4 +15,4 @@ Bourse de Commerce — Pinault Collection is a music venue in Paris listed on so
 
 2 rue de Viarmes, 75001 Paris, Paris
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bourse-de-commerce-pinault-collection/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bourse-de-commerce-pinault-collection/)*

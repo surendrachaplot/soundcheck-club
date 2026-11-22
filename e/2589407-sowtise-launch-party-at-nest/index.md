@@ -1,6 +1,6 @@
 # Sowtise Launch Party at Nest
 
-Sowtise Launch Party at Nest on Sat 5 Dec, Basel. Experimental and Breakcore. See the line-up on soundcheck.
+Sowtise Launch Party at Nest on Sat 5 Dec, Basel. Breakcore and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

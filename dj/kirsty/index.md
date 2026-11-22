@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
+KIRSTY is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
 
 KIRSTY is a techno and hardcore artist based in Ireland, with 81 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 25 more. Often billed alongside Lolalita, KimberlaID and Mad Dog. Next up: Gotec, Karlsruhe on Fri 27 Nov.
 
@@ -35,4 +35,4 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 81 gigs on soundch
 
 Lolalita, KimberlaID, Mad Dog
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

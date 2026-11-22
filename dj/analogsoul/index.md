@@ -1,6 +1,6 @@
 # Analog Soul
 
-Analog Soul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at public records, New York City on Fri, 1 Jan 2027.
+Analog Soul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at public records, New York City on Fri, 1 Jan 2027.
 
 Analog Soul is a house and techno artist based in United States of America, with 134 gigs on soundcheck across Baltimore, Berlin, Boston and Brussels and 18 more. Often billed alongside The Carry Nation, DatKat and Aurora Halal. Next up: public records, New York City on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Analog Soul is a house and techno artist based in United States of America, with
 
 The Carry Nation, DatKat, Aurora Halal
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/analogsoul/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/analogsoul/)*

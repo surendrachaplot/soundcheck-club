@@ -1,6 +1,6 @@
 # Tanohi
 
-Tanohi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Factory 47, Hanoi on Sun, 22 Nov 2026.
+Tanohi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory 47, Hanoi on Sun, 22 Nov 2026.
 
 Tanohi is a techno and club artist based in Vietnam, with 22 gigs on soundcheck across Hanoi. Often billed alongside AiLien, Canicule and Marco Yanes. Next up: Factory 47, Hanoi on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Tanohi is a techno and club artist based in Vietnam, with 22 gigs on soundcheck 
 
 AiLien, Canicule, Marco Yanes
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanohi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanohi/)*

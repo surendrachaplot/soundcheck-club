@@ -1,6 +1,6 @@
 # Fresh Lov3
 
-Fresh Lov3 is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Not For Sale Gallery, London on Sat, 5 Dec 2026.
+Fresh Lov3 is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Not For Sale Gallery, London on Sat, 5 Dec 2026.
 
 Fresh Lov3 is a techno and deep house artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Barcelona, Brighton and London. Often billed alongside Rowland, Yukari and A Guy Called Gerald. Next up: Not For Sale Gallery, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Fresh Lov3 is a techno and deep house artist based in United Kingdom, with 16 gi
 
 Rowland, Yukari, A Guy Called Gerald
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshlov3/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshlov3/)*

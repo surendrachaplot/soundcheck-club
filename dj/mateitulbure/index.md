@@ -1,6 +1,6 @@
 # Matei Tulbure
 
-Matei Tulbure is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 5 Dec 2026.
+Matei Tulbure is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 5 Dec 2026.
 
 Matei Tulbure is a minimal and ambient artist based in Romania, with 5 gigs on soundcheck across Bali, Berlin, Bucharest and Budapest. Often billed alongside Cap, Chaker and Clovis. Next up: Club Guesthouse, Bucharest on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Matei Tulbure is a minimal and ambient artist based in Romania, with 5 gigs on s
 
 Cap, Chaker, Clovis
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateitulbure/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateitulbure/)*

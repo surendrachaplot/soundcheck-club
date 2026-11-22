@@ -1,6 +1,6 @@
 # Hypoxia
 
-Hypoxia is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
+Hypoxia is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
 
 Hypoxia is a techno and ambient artist based in United States of America, with 5 gigs on soundcheck across Denver and Los Angeles. Often billed alongside JIA, Aztekan and Christopher Mohn. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
 
@@ -21,4 +21,4 @@ Hypoxia is a techno and ambient artist based in United States of America, with 5
 
 JIA, Aztekan, Christopher Mohn
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoxia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoxia/)*

@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ONE YEAR" on Fri, 27 Nov 2026.
+export is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ONE YEAR" on Fri, 27 Nov 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Ambu Bambu, Da Gremlin, De Sluwe Vos and dirtydms and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -20,4 +20,4 @@ export is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

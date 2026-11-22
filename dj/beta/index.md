@@ -1,6 +1,6 @@
 # Beta
 
-Beta is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Magma Club Budapest, Budapest on Sat, 12 Dec 2026.
+Beta is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Magma Club Budapest, Budapest on Sat, 12 Dec 2026.
 
 Beta is a techno and minimal artist based in Hungary, with 25 gigs on soundcheck across Budapest and New York City. Often billed alongside Andras Bader, Krics and Maron. Next up: Magma Club Budapest, Budapest on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Beta is a techno and minimal artist based in Hungary, with 25 gigs on soundcheck
 
 Andras Bader, Krics, Maron
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beta/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beta/)*

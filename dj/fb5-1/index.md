@@ -1,6 +1,6 @@
 # fb5 (1)
 
-fb5 (1) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 北浜酒場GORI, Osaka on Sat, 28 Nov 2026.
+fb5 (1) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - 北浜酒場GORI, Osaka on Sat, 28 Nov 2026.
 
 fb5 is a house and tech house artist based in Japan, with 26 gigs on soundcheck across Osaka. Often billed alongside Tokumoto, DJ Shu-ma and IBAKI. Next up: TBA - 北浜酒場GORI, Osaka on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ fb5 is a house and tech house artist based in Japan, with 26 gigs on soundcheck 
 
 Tokumoto, DJ Shu-ma, IBAKI
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fb5-1/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fb5-1/)*

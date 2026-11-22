@@ -1,14 +1,13 @@
 # Diverge
 
-Diverge is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
+Diverge is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
 
-Diverge is a jungle and drum & bass artist based in United Kingdom, with 77 gigs on soundcheck across Berlin, Brighton, Bristol and Dallas Fort Worth and 9 more. Often billed alongside LD50, Solo and Goldie. Next up: Sidney & Matilda, Sheffield on Sat 21 Nov.
+Diverge is a jungle and drum & bass artist based in United Kingdom, with 77 gigs on soundcheck across Berlin, Brighton, Bristol and Dallas Fort Worth and 9 more. Often billed alongside LD50, Solo and Goldie. Next up: The Wardrobe, Leeds on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Sidney & Matilda | Sheffield |
 | Sun, 29 Nov 2026 | The Wardrobe | Leeds |
 | Fri, 4 Dec 2026 | Joshua Brooks | Manchester |
 | Sat, 5 Dec 2026 | Volks | Brighton |
@@ -20,6 +19,7 @@ Diverge is a jungle and drum & bass artist based in United Kingdom, with 77 gigs
 
 ## Recently played
 
+- Sidney & Matilda, Sheffield · Sat, 21 Nov 2026
 - Wharf Chambers, Leeds · Fri, 25 Sept 2026
 - Paragon, New York City · Fri, 4 Sept 2026
 - The Wardrobe, Leeds · Sun, 23 Aug 2026
@@ -27,10 +27,9 @@ Diverge is a jungle and drum & bass artist based in United Kingdom, with 77 gigs
 - Gretchen, Berlin · Sat, 27 Jun 2026
 - Wharf Chambers, Leeds · Fri, 10 Apr 2026
 - Joshua Brooks, Manchester · Fri, 3 Apr 2026
-- The Wardrobe, Leeds · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 LD50, Solo (3), Goldie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diverge/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diverge/)*

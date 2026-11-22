@@ -1,14 +1,13 @@
 # Tunnel
 
-Tunnel is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Trance Gate Opening Party x Tunnel Club" on Sat, 21 Nov 2026.
+Tunnel is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "UNDERPASS - esther bronchal " on Fri, 27 Nov 2026.
 
-Tunnel is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including 00Zicky, cassandrah, Dr. Motte and Eiden and 2 more. See dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
+Tunnel is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including 00Zicky, cassandrah, Dr. Motte and esther bronchal and 2 more. See dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Trance Gate Opening Party x Tunnel Club | Eiden |
 | Fri, 27 Nov 2026 | UNDERPASS - esther bronchal  | esther bronchal |
 | Fri, 4 Dec 2026 | YOKAI - Silva Bumpa | Silva Bumpa, Simone Liberali, Solis Jade |
 | Sat, 5 Dec 2026 | MRC Milano Experience - Tunnel Club | GLADJEE, GWELD, HEZAYINCHET, KASSIS, Niki Istrefi, cassandrah |
@@ -19,4 +18,4 @@ Tunnel is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with lin
 
 Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy, Milan
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*

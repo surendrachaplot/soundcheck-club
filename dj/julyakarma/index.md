@@ -1,15 +1,15 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+Julya Karma is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Julya Karma is a house and techno artist, with 112 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 30 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
+Julya Karma is a house and techno artist, with 113 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 30 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Sat, 12 Dec 2026 | Printhouse | Munich |
 | Sun, 3 Jan 2027 | Pier 80 Warehouse | San-francisco-oakland |
 
 ## Recently played
@@ -27,4 +27,4 @@ Julya Karma is a house and techno artist, with 112 gigs on soundcheck across Ams
 
 Âme, Jimi Jules, Dixon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "KOSMOS with Mehr is Mehr" on Sat, 21 Nov 2026.
+elipamanoke is a music venue in Leipzig with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "between x SEELEN" on Wed, 25 Nov 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, with line-ups including Aio, AMBROXAN, ANKA and Clitty and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 9 upcoming gigs, with line-ups including AMBROXAN, ANKA, Clitty and Comic Sans and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | KOSMOS with Mehr is Mehr | Aio, Fennek, GIANNA, Mehr is Mehr, Randali, Shabiki |
 | Wed, 25 Nov 2026 | between x SEELEN | JANEIN, Stigmatique |
 | Fri, 27 Nov 2026 | SCORN | AMBROXAN, Gretchen B, Johnnyaga, LARIOUS, Plateau Bitch, SPLINTER (2) |
 | Sat, 28 Nov 2026 | newfaces – weekend edition | DJ Nasi Goreng, mizy, orbok, w*sserratte |
@@ -23,4 +22,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

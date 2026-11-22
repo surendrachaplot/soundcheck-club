@@ -1,6 +1,6 @@
 # WVCHWY
 
-WVCHWY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Miscellania, Melbourne on Thu, 26 Nov 2026.
+WVCHWY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Miscellania, Melbourne on Thu, 26 Nov 2026.
 
 WVCHWY is a techno and house artist based in Australia, with 21 gigs on soundcheck across Brisbane, Melbourne, Sydney and Victoria. Often billed alongside Bertie, Afrodisiac and Hannah D. Next up: Miscellania, Melbourne on Thu 26 Nov.
 
@@ -13,6 +13,7 @@ WVCHWY is a techno and house artist based in Australia, with 21 gigs on soundche
 
 ## Recently played
 
+- Bourke Street Courtyard, Melbourne · Sat, 21 Nov 2026
 - TBA - Il Mercato Centrale, Melbourne · Sat, 12 Sept 2026
 - Glamorama, Melbourne · Fri, 10 Jul 2026
 - Collingwood Basement, Melbourne · Sat, 4 Apr 2026
@@ -20,10 +21,9 @@ WVCHWY is a techno and house artist based in Australia, with 21 gigs on soundche
 - Avalon The Bar, Melbourne · Sat, 21 Feb 2026
 - Miscellania, Melbourne · Fri, 20 Feb 2026
 - Collingwood Basement, Melbourne · Sat, 27 Dec 2025
-- Bourke Street Courtyard, Melbourne · Fri, 17 Oct 2025
 
 ## Shares bills with
 
 Bertie, Afrodisiac, Hannah D
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wvchwy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wvchwy/)*

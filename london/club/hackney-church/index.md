@@ -1,18 +1,17 @@
 # Hackney Church
 
-Hackney Church is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "SWIM - Live with Orchestra [SOLD OUT]" on Sat, 21 Nov 2026.
+Hackney Church is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Labyrinth presents: Röyksopp Open to Close" on Fri, 4 Dec 2026.
 
-Hackney Church is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Royksopp, Sleepy Jean and SWIM (AU). See dates, start times and who's playing. St John at Hackney, Lower Clapton Rd, London E5 0PD.
+Hackney Church is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Royksopp. See dates, start times and who's playing. St John at Hackney, Lower Clapton Rd, London E5 0PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | SWIM - Live with Orchestra [SOLD OUT] | SWIM (AU), Sleepy Jean |
 | Fri, 4 Dec 2026 | Labyrinth presents: Röyksopp Open to Close | Royksopp |
 
 ## Address
 
 St John at Hackney, Lower Clapton Rd, London E5 0PD, London
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-church/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-church/)*

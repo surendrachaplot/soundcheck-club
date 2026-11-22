@@ -1,6 +1,6 @@
 # DRAGONCAT
 
-DRAGONCAT is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
+DRAGONCAT is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
 
 DRAGONCAT is a drum & bass and techno artist based in Latvia, with 14 gigs on soundcheck across Riga. Often billed alongside deembvss, ARRISHA and Juman. Next up: Korpuss, Riga on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ DRAGONCAT is a drum & bass and techno artist based in Latvia, with 14 gigs on so
 
 deembvss, ARRISHA, Juman
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragoncat/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragoncat/)*

@@ -1,6 +1,6 @@
 # Miss Wallace
 
-Miss Wallace is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Le Son de la Terre, Paris on Fri, 27 Nov 2026.
+Miss Wallace is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Son de la Terre, Paris on Fri, 27 Nov 2026.
 
 Miss Wallace is a tech house and techno artist based in Italy, with 9 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Paris and 2 more. Often billed alongside ALEXANDER M, Francesco Maddalena and Spicy Sofi. Next up: Le Son de la Terre, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Miss Wallace is a tech house and techno artist based in Italy, with 9 gigs on so
 
 ALEXANDER M, Francesco Maddalena, Spicy Sofi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misswallace/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misswallace/)*

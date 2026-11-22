@@ -1,6 +1,6 @@
 # JAIROSKUN
 
-JAIROSKUN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 19 Dec 2026.
+JAIROSKUN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 19 Dec 2026.
 
 JAIROSKUN is a techno and trance artist, with 36 gigs on soundcheck across Alicante and Madrid. Often billed alongside Møstroh, JRG and Tasuik. Next up: EL SÓTANO, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ JAIROSKUN is a techno and trance artist, with 36 gigs on soundcheck across Alica
 
 Møstroh, JRG, Tasuik
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jairoskun/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jairoskun/)*

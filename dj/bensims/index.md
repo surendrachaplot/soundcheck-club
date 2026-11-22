@@ -1,14 +1,13 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Cali Colombia, Cali on Sat, 21 Nov 2026.
+Ben Sims is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
-Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: Cali Colombia, Cali on Sat 21 Nov.
+Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: FOLD, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Cali Colombia | Cali |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Fri, 4 Dec 2026 | Tunnel Club | Birmingham |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
@@ -19,6 +18,7 @@ Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on 
 
 ## Recently played
 
+- Cali Colombia, Cali · Sat, 21 Nov 2026
 - TBA - AUDITORIUM Cl 44 #68-59, Laureles - Estadio, Medellín, Medellin · Fri, 20 Nov 2026
 - TBA - Auditorium , Medellin · Fri, 20 Nov 2026
 - Radio Estrella, Bogotá · Thu, 19 Nov 2026
@@ -26,10 +26,9 @@ Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on 
 - Hype Discoteca, Naples · Sat, 17 Oct 2026
 - Circus Tokyo, Tokyo · Fri, 9 Oct 2026
 - Circus Osaka, Osaka · Sat, 3 Oct 2026
-- Hive Club, Zurich · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Oscar Mulero, Blasha & Allatt, Nuke
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

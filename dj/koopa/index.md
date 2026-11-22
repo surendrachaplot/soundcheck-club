@@ -1,6 +1,6 @@
 # Koopa
 
-Koopa is a Hip-Hop and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Frankies Bar, Perth on Fri, 20 Nov 2026.
+Koopa is a Hip-Hop and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Frankies Bar, Perth on Fri, 20 Nov 2026.
 
 Koopa is a hip-hop and tech house artist based in United Kingdom, with 6 gigs on soundcheck across Madrid, Perth and Tokyo. Often billed alongside Djen, Esther Summer and JvggedDoggie. Next up: Frankies Bar, Perth on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Koopa is a hip-hop and tech house artist based in United Kingdom, with 6 gigs on
 
 Djen, Esther Summer, JvggedDoggie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koopa/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koopa/)*

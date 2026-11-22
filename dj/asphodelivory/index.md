@@ -1,18 +1,18 @@
 # Asphodel Ivory
 
-Asphodel Ivory is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sonia, Boston on Sat, 21 Nov 2026.
+Asphodel Ivory is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Middle East, Boston on Fri, 27 Nov 2026.
 
-Asphodel Ivory is a techno and trance artist based in United States of America, with 9 gigs on soundcheck across Boston and Montreal. Often billed alongside Baby Bimbo, Beamskii and CITYSPROBLEM. Next up: Sonia, Boston on Sat 21 Nov.
+Asphodel Ivory is a techno and trance artist based in United States of America, with 9 gigs on soundcheck across Boston and Montreal. Often billed alongside Baby Bimbo, Beamskii and CITYSPROBLEM. Next up: The Middle East, Boston on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Sonia | Boston |
 | Fri, 27 Nov 2026 | The Middle East | Boston |
 
 ## Recently played
 
+- Sonia, Boston · Sat, 21 Nov 2026
 - ESC, Montreal · Sat, 31 Oct 2026
 - Sonia, Boston · Sat, 17 Oct 2026
 - The Middle East, Boston · Fri, 25 Sept 2026
@@ -25,4 +25,4 @@ Asphodel Ivory is a techno and trance artist based in United States of America, 
 
 Baby Bimbo, Beamskii, CITYSPROBLEM
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*

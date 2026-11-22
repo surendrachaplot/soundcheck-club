@@ -1,6 +1,6 @@
 # Radicchio
 
-Radicchio is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jupiter Disco, New York City on Wed, 25 Nov 2026.
+Radicchio is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jupiter Disco, New York City on Wed, 25 Nov 2026.
 
 Radicchio is a club and bass artist, with 7 gigs on soundcheck across New York City. Often billed alongside kyxm, martine and ethereal.mvp. Next up: Jupiter Disco, New York City on Wed 25 Nov.
 
@@ -23,4 +23,4 @@ Radicchio is a club and bass artist, with 7 gigs on soundcheck across New York C
 
 kyxm, martine (5), ethereal.mvp
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radicchio/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radicchio/)*

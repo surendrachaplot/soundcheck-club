@@ -1,6 +1,6 @@
 # LMN (1)
 
-LMN (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Culture Box, Copenhagen on Fri, 27 Nov 2026.
+LMN (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Culture Box, Copenhagen on Fri, 27 Nov 2026.
 
 LMN is a techno and trance artist based in Greece, with 30 gigs on soundcheck across Copenhagen and London. Often billed alongside Kardinal Bertram, steamboi and Cakebutcher. Next up: Culture Box, Copenhagen on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ LMN is a techno and trance artist based in Greece, with 30 gigs on soundcheck ac
 
 Kardinal Bertram, steamboi, Cakebutcher
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lmn-1/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lmn-1/)*

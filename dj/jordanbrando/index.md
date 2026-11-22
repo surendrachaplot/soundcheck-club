@@ -1,6 +1,6 @@
 # Jordan Brando
 
-Jordan Brando is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
+Jordan Brando is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
 
 Jordan Brando is a house and tech house artist based in Australia, with 53 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 16 more. Often billed alongside William Kiss, Luke Alessi and Luuk van Dijk. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
 
@@ -15,6 +15,7 @@ Jordan Brando is a house and tech house artist based in Australia, with 53 gigs 
 
 ## Recently played
 
+- Fleet Steps - Mrs Macquaries Point, Sydney · Sat, 21 Nov 2026
 - TBA - Private Location, San Diego · Sat, 31 Oct 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - UNLOCKED, London · Fri, 16 Oct 2026
@@ -22,10 +23,9 @@ Jordan Brando is a house and tech house artist based in Australia, with 53 gigs 
 - TBA, Melbourne · Sat, 26 Sept 2026
 - Electric Circus, Adelaide · Sat, 19 Sept 2026
 - Beach Hotel - Byron Bay, Byron Bay · Sat, 12 Sept 2026
-- Thuishaven, Amsterdam · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 William Kiss, Luke Alessi, Luuk van Dijk
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*

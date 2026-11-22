@@ -1,6 +1,6 @@
 # Eye-D
 
-Eye-D is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
+Eye-D is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
 
 Eye-D is a drum & bass artist based in Netherlands, with 2 gigs on soundcheck across Mannheim and Rotterdam. Often billed alongside Badlokk, Bruhze and Counterstrike. Next up: Maassilo, Rotterdam on Sat 27 Feb.
 
@@ -18,4 +18,4 @@ Eye-D is a drum & bass artist based in Netherlands, with 2 gigs on soundcheck ac
 
 Badlokk, Bruhze, Counterstrike
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eye-d/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eye-d/)*

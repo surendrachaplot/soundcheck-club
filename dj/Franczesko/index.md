@@ -1,6 +1,6 @@
 # Franczesko
 
-Franczesko is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 28 Nov 2026.
+Franczesko is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 28 Nov 2026.
 
 Franczesko is a house and tech house artist, with 8 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Jellin, Easy Audio and Alarico. Next up: MONKEY LOVE, Warsaw on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Franczesko is a house and tech house artist, with 8 gigs on soundcheck across Wa
 
 Jellin, Easy Audio, Alarico
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*

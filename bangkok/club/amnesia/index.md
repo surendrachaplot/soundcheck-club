@@ -1,6 +1,6 @@
 # Amnesia
 
-Amnesia is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "CALIGO VOL 3 — Latin for dense fog, darkness" on Thu, 26 Nov 2026.
+Amnesia is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "CALIGO VOL 3 — Latin for dense fog, darkness" on Thu, 26 Nov 2026.
 
 Amnesia is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with line-ups including Bloom, Giantsiam, KATER AERA and LeStrange and 2 more. See dates, start times and who's playing. 21/77 Soi Phetchaburi 47, Intersection 10, Bang Kapi Subdistrict, Huai Khwang District, Bangkok 10310.
 
@@ -22,4 +22,4 @@ Amnesia is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with 
 
 21/77 Soi Phetchaburi 47, Intersection 10, Bang Kapi Subdistrict, Huai Khwang District, Bangkok 10310, Bangkok
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/amnesia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/amnesia/)*

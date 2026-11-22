@@ -1,14 +1,13 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Abercrombie Pres. GABRIELLE KWARTENG [USA]" on Sat, 21 Nov 2026.
+Abercrombie Hotel is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Kiko x Abercrombie Pres. BASHKKA [DE] & JakoJako [DE]" on Fri, 27 Nov 2026.
 
-Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including Ali Bilal, Ari Kiko, BASHKKA and Eoin DJ and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
+Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Ali Bilal, Ari Kiko, BASHKKA and Eoin DJ and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Abercrombie Pres. GABRIELLE KWARTENG [USA] | Gabrielle Kwarteng, Kalix, Seohbin, Westryd3r |
 | Fri, 27 Nov 2026 | Kiko x Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] | Ari Kiko, BASHKKA, JakoJako |
 | Sat, 28 Nov 2026 | SUN SIGNS [LAUNCH PARTY] | Eoin DJ, Sasha Milani, Unprotected Success |
 | Sat, 28 Nov 2026 | THE AFTERS — MANNING OPEN AIR AFTERPARTY |  |
@@ -18,9 +17,10 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 12 upcoming g
 | Fri, 11 Dec 2026 | pselodia Launch Party  Featuring Takaaki Itoh, Ali Bilal & Jennifer Ratnai | Ali Bilal, Jennifer Ratnai, Takaaki Itoh |
 | Sat, 12 Dec 2026 | Abercrombie Pres. Hidden Spheres [UK] | Hidden Spheres |
 | Sat, 12 Dec 2026 | Jawani 4eva - Sydney (Rooftop) |  |
+| Fri, 18 Dec 2026 | PASTEL x Abercrombie Pres. Wata Igarashi [Jap] | Mozz, Wata Igarashi |
 
 ## Address
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

@@ -1,6 +1,6 @@
 # Brenda Serna (2)
 
-Brenda Serna (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at M7 Club, Barcelona on Sat, 19 Dec 2026.
+Brenda Serna (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at M7 Club, Barcelona on Sat, 19 Dec 2026.
 
 Brenda Serna is a techno and trance artist based in Spain, with 22 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside CESAR ALMENA, Nuke and H1pnos1s. Next up: M7 Club, Barcelona on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Brenda Serna is a techno and trance artist based in Spain, with 22 gigs on sound
 
 CESAR ALMENA, Nuke, H1pnos1s
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brendaserna-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brendaserna-2/)*

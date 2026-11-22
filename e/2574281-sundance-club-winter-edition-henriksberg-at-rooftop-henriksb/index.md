@@ -1,6 +1,6 @@
 # Sundance Club [Winter Edition] @Henriksberg at Rooftop Henriksberg
 
-Sundance Club [Winter Edition] @Henriksberg at Rooftop Henriksberg on Sun 6 Dec, Gothenburg. 2 artists: peter m.lander and Pietro Gentile. Techno and Deep House. See the line-up on soundcheck.
+Sundance Club [Winter Edition] @Henriksberg at Rooftop Henriksberg on Sun 6 Dec, Gothenburg. 2 artists: peter m.lander and Pietro Gentile. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Krush
 
-DJ Krush is a Hip-Hop and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Portal, Hong Kong on Thu, 26 Nov 2026.
+DJ Krush is a Hip-Hop and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Portal, Hong Kong on Thu, 26 Nov 2026.
 
 DJ Krush is a hip-hop and bass artist based in Japan, with 67 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 19 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: Portal, Hong Kong on Thu 26 Nov.
 
@@ -28,4 +28,4 @@ DJ Krush is a hip-hop and bass artist based in Japan, with 67 gigs on soundcheck
 
 DJ Quietstorm, Herbalistek, Jomo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*

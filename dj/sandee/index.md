@@ -1,6 +1,6 @@
 # San Dee
 
-San Dee is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+San Dee is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 San Dee is a house and minimal artist based in United States of America, with 51 gigs on soundcheck across Lausanne, Melbourne, Miami and Nashville and 1 more. Often billed alongside Kev Gee, TMD (US) and Saul mj. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ San Dee is a house and minimal artist based in United States of America, with 51
 
 Kev Gee, TMD (US), Saul mj
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandee/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandee/)*

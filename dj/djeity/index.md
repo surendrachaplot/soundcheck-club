@@ -1,6 +1,6 @@
 # Djeity
 
-Djeity is a Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 31 Dec 2026.
+Djeity is a Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 31 Dec 2026.
 
 Djeity is a footwork artist based in Canada, with 3 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Ben UFO, Frankie Teardrop and INNEZZ. Next up: Société des arts technologiques, Montreal on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Djeity is a footwork artist based in Canada, with 3 gigs on soundcheck across Mo
 
 Ben UFO, Frankie Teardrop, INNEZZ
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeity/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeity/)*

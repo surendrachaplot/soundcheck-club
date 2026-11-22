@@ -1,6 +1,6 @@
 # Rasho
 
-Rasho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at H0L0, New York City on Sat, 28 Nov 2026.
+Rasho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at H0L0, New York City on Sat, 28 Nov 2026.
 
 Rasho is a house and techno artist, with 81 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 21 more. Often billed alongside Maksim, O.BEE and Max Sprauer. Next up: H0L0, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rasho is a house and techno artist, with 81 gigs on soundcheck across Amsterdam,
 
 Maksim, O.BEE, Max Sprauer
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rasho/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rasho/)*

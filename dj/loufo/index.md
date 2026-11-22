@@ -1,6 +1,6 @@
 # loufo
 
-loufo is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 5 Dec 2026.
+loufo is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 5 Dec 2026.
 
 loufo is a downtempo and techno artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Manta, Qualia Trax and Black Mirror Park. Next up: Jonny Knüppel, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ loufo is a downtempo and techno artist based in Germany, with 15 gigs on soundch
 
 Manta, Qualia Trax, Black Mirror Park
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loufo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loufo/)*

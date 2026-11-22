@@ -1,14 +1,13 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "SMUT x Freddy K x Josey Rebelle x LOBSTER" on Sat, 21 Nov 2026.
+SMUT Athens is a music venue in Athens with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "SMUT LOCALS NIGHT" on Sat, 28 Nov 2026.
 
-SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Antigone, Ayshel and Chami and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
+SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Antigone, Ayshel and Chami and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | SMUT x Freddy K x Josey Rebelle x LOBSTER | Freddy K, Josey Rebelle, Lobster (NL) |
 | Sat, 28 Nov 2026 | SMUT LOCALS NIGHT | Ayshel, EREVOS (2), FlökosH, IVRA |
 | Sat, 5 Dec 2026 | Purple Night x SMUT | Cormac, The Dreamer, WrappeD In PlastiC |
 | Sat, 12 Dec 2026 | SMUT x Antigone x KUSS x Pètal | Antigone, KUSS, Pètal |
@@ -18,9 +17,10 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming gigs, w
 | Thu, 31 Dec 2026 | SMUT x NYE 2026/27 w/ Robert Hood,Dasha Rush,Ignez,Quelza | Dasha Rush, Ignez, Quelza, Robert Hood |
 | Sat, 2 Jan 2027 | Yanamaste x SMUT x ALL NIGHT LONG | Yanamaste |
 | Sat, 9 Jan 2027 | NON SERIES QUINCE X SMUT with Erik Luebs (live), Psyk b2b ORBE, Tauceti | Erik Luebs, ORBE, Psyk, Tauceti (FR) |
+| Sat, 16 Jan 2027 | SMUT x Chami x Olivia Mendez x Connor Wall | Chami, Connor Wall, Olivia Mendez |
 
 ## Address
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

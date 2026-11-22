@@ -1,14 +1,13 @@
 # Fortune Sound Club
 
-Fortune Sound Club is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Amtrac (Live)" on Sat, 21 Nov 2026.
+Fortune Sound Club is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "PROPAGATE PRES. BLAWAN (DJ SET)" on Thu, 26 Nov 2026.
 
-Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 4 upcoming gigs, with line-ups including Amtrac, Blawan, Frost Children and Lynnic. See dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
+Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Blawan, Frost Children and Lynnic. See dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Amtrac (Live) | Amtrac |
 | Thu, 26 Nov 2026 | PROPAGATE PRES. BLAWAN (DJ SET) | Blawan |
 | Sat, 5 Dec 2026 | Propagate Pres. AFTERLIFE AFTERPARTY: Frost Children (DJ) | Frost Children |
 | Sat, 19 Dec 2026 | Lynnic & ItsArius | Lynnic |
@@ -17,4 +16,4 @@ Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 4 upcomin
 
 147 East Pender St; Vancouver, BC V6A 1T6; Canada, Vancouver
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*

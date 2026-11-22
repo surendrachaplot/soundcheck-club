@@ -1,6 +1,6 @@
 # St Germain
 
-St Germain is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+St Germain is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 St Germain is a deep house and house artist based in France, with 4 gigs on soundcheck across Lyon, Mexico City, Paris and Switzerland. Often billed alongside Carl Craig, DJ Deep and Moodymann. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ St Germain is a deep house and house artist based in France, with 4 gigs on soun
 
 ## Recently played
 
+- Verbier, Switzerland · Fri, 20 Nov 2026
 - Rex Club, Paris · Sun, 9 Nov 2025
 - Super5, Lyon · Sat, 4 Oct 2025
 - Departamento, Mexico City · Wed, 28 Feb 2024
@@ -20,4 +21,4 @@ St Germain is a deep house and house artist based in France, with 4 gigs on soun
 
 Carl Craig, DJ Deep, Moodymann
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stgermain/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stgermain/)*

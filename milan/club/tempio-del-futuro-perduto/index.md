@@ -1,14 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DISCO FELINA: Dj Spiller, Futuro Tropicale, Naydiaa, Tania Kim" on Sat, 21 Nov 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Oriental Techno Club - 東極玄音寺: NYCTO, Morva, DÅwN" on Fri, 27 Nov 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 9 upcoming gigs, with line-ups including Acidalia, Alimac, Berlin Bunny and cccre and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including Acidalia, Alimac, Berlin Bunny and cccre and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | DISCO FELINA: Dj Spiller, Futuro Tropicale, Naydiaa, Tania Kim | Futuro Tropicale, Naydiaa, Spiller, Tania Kim |
 | Fri, 27 Nov 2026 | Oriental Techno Club - 東極玄音寺: NYCTO, Morva, DÅwN | DÅwN, Morva, NYCTO |
 | Sat, 28 Nov 2026 | Educazione Techno Sessuale |  |
 | Sat, 5 Dec 2026 | NOTTE TEKNO: Krista Bourgeois live, DTS live, Industrial Romantico, Tania Kim b2b Waldo | DRUM THE SYSTEM live, Industrial Romantico, Krista Bourgeois, Tania Kim, Waldo |
@@ -22,4 +21,4 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 9 upco
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

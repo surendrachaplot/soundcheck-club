@@ -1,6 +1,6 @@
 # Enaly
 
-Enaly is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
+Enaly is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
 
 Enaly is a drum & bass and techno artist based in Germany, with 79 gigs on soundcheck across Cologne, Dresden and Frankfurt. Often billed alongside Gourski, Jaycut and DELTA LABS. Next up: Bootshaus, Cologne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Enaly is a drum & bass and techno artist based in Germany, with 79 gigs on sound
 
 Gourski, Jaycut, DELTA LABS
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enaly/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enaly/)*

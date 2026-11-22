@@ -1,6 +1,6 @@
 # Oliki
 
-Oliki is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fonico, Madrid on Fri, 27 Nov 2026.
+Oliki is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fonico, Madrid on Fri, 27 Nov 2026.
 
 Oliki is a hip-hop and house artist based in Spain, with 2 gigs on soundcheck across Madrid. Often billed alongside Barletti and LORA.. Next up: Fonico, Madrid on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Oliki is a hip-hop and house artist based in Spain, with 2 gigs on soundcheck ac
 
 Barletti, LORA.
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliki/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliki/)*

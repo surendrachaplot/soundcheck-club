@@ -1,6 +1,6 @@
 # Karizma
 
-Karizma is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Stem And Vine, Baltimore on Sat, 28 Nov 2026.
+Karizma is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Stem And Vine, Baltimore on Sat, 28 Nov 2026.
 
 Karizma is a house and deep house artist based in United States of America, with 82 gigs on soundcheck across Atlanta, Baltimore, Chicago and Cleveland and 12 more. Often billed alongside Baronhawk Poitier, Brett Dancer and Natasha Diggs. Next up: Stem And Vine, Baltimore on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Karizma is a house and deep house artist based in United States of America, with
 
 Baronhawk Poitier, Brett Dancer, Natasha Diggs
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*

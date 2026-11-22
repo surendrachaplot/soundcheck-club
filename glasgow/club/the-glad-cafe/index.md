@@ -1,6 +1,6 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "summerblink [3] [glasgow] ☆ queer hyper/dreampop event" on Wed, 25 Nov 2026.
+The Glad Cafe is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "summerblink [3] [glasgow] ☆ queer hyper/dreampop event" on Wed, 25 Nov 2026.
 
 The Glad Cafe is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Gabor Matty. See dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
@@ -14,4 +14,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, 
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

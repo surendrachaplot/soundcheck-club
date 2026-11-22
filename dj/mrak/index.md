@@ -1,14 +1,13 @@
 # MRAK
 
-MRAK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+MRAK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 4 Dec 2026.
 
-MRAK is a techno and house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
+MRAK is a techno and house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: Brooklyn Pacha, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Fri, 4 Dec 2026 | Brooklyn Pacha | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ MRAK is a techno and house artist based in Germany, with 39 gigs on soundcheck a
 
 Tale Of Us, Anyma, Argy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*

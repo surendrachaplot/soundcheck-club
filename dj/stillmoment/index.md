@@ -1,6 +1,6 @@
 # Stillmoment
 
-Stillmoment is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
+Stillmoment is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
 
 Stillmoment is a house and techno artist based in Japan, with 33 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Haruka Katagata, YO.AN and Nari. Next up: Aoyama Hachi, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Stillmoment is a house and techno artist based in Japan, with 33 gigs on soundch
 
 Haruka Katagata, YO.AN, Nari (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stillmoment/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stillmoment/)*

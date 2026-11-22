@@ -1,6 +1,6 @@
 # HELOAH
 
-HELOAH is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 12 Dec 2026.
+HELOAH is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 12 Dec 2026.
 
 HELOAH is a techno and afro house artist based in Brazil, with 25 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Darmont, Reiko and DJ ZAC. Next up: D-Edge RIO, Rio de Janeiro on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ HELOAH is a techno and afro house artist based in Brazil, with 25 gigs on soundc
 
 Darmont, Reiko, DJ ZAC
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heloah/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heloah/)*

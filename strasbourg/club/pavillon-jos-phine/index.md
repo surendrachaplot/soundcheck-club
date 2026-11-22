@@ -1,6 +1,6 @@
 # Pavillon Joséphine
 
-Pavillon Joséphine is a music venue in Strasbourg with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "UNDERSOUND au Pavillon Joséphine" on Sat, 12 Dec 2026.
+Pavillon Joséphine is a music venue in Strasbourg with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "UNDERSOUND au Pavillon Joséphine" on Sat, 12 Dec 2026.
 
 Pavillon Joséphine is a music venue in Strasbourg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Pavillon Joséphine is a music venue in Strasbourg listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | UNDERSOUND au Pavillon Joséphine |  |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/pavillon-jos-phine/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/pavillon-jos-phine/)*

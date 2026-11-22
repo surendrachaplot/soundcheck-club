@@ -1,6 +1,6 @@
 # 'PAVV'
 
-'PAVV' is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bampot Tea House, Toronto on Sat, 9 Jan 2027.
+'PAVV' is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bampot Tea House, Toronto on Sat, 9 Jan 2027.
 
 'PAVV' is a techno and drum & bass artist based in Egypt, with 21 gigs on soundcheck across Montreal, Ontario and Toronto. Often billed alongside UNCL Mike, Azalea the Witch and Audi Étoffe. Next up: Bampot Tea House, Toronto on Sat 9 Jan.
 
@@ -26,4 +26,4 @@
 
 UNCL Mike, Azalea the Witch, Audi Étoffe
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavv/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavv/)*

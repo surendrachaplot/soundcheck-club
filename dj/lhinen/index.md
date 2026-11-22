@@ -1,6 +1,6 @@
 # Lhinen
 
-Lhinen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Area51 / 17map Minami, Osaka on Sun, 22 Nov 2026.
+Lhinen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Area51 / 17map Minami, Osaka on Sun, 22 Nov 2026.
 
 Lhinen is a techno and house artist based in Japan, with 37 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kafuka, metome and Chie Otomi. Next up: Area51 / 17map Minami, Osaka on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Lhinen is a techno and house artist based in Japan, with 37 gigs on soundcheck a
 
 kafuka, metome, Chie Otomi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lhinen/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lhinen/)*

@@ -1,6 +1,6 @@
 # Business As Usual
 
-Business As Usual is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
+Business As Usual is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
 
 Business As Usual is a drum & bass artist, with 8 gigs on soundcheck across Brighton, Bristol, London and Prague. Often billed alongside Rider Shafique, SP:MC and Zero T. Next up: fabric, London on Sat 30 Jan.
 
@@ -24,4 +24,4 @@ Business As Usual is a drum & bass artist, with 8 gigs on soundcheck across Brig
 
 Rider Shafique, SP:MC, Zero T
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/businessasusual/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/businessasusual/)*

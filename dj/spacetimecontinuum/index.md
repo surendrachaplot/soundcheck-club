@@ -1,6 +1,6 @@
 # Spacetime Continuum
 
-Spacetime Continuum is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
+Spacetime Continuum is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
 
 Spacetime Continuum is an ambient and acid artist based in United States of America, with 7 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Cahl Sel, DJ Three and Galen. Next up: Better Tomorrow, Los Angeles on Sat 21 Nov.
 
@@ -12,6 +12,7 @@ Spacetime Continuum is an ambient and acid artist based in United States of Amer
 
 ## Recently played
 
+- Better Tomorrow, Los Angeles · Sat, 21 Nov 2026
 - Gray Area, San Francisco/Oakland · Sat, 6 Dec 2025
 - public records, New York City · Fri, 29 Aug 2025
 - First Unitarian Congregational Society, New York City · Sat, 30 Nov 2024
@@ -23,4 +24,4 @@ Spacetime Continuum is an ambient and acid artist based in United States of Amer
 
 Cahl Sel, DJ Three, Galen
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacetimecontinuum/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacetimecontinuum/)*

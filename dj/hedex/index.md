@@ -1,6 +1,6 @@
 # Hedex
 
-Hedex is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 19 Dec 2026.
+Hedex is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 19 Dec 2026.
 
 Hedex is a drum & bass and bass artist based in United Kingdom, with 88 gigs on soundcheck across Adelaide, Auckland, Austin and Brighton and 38 more. Often billed alongside Eksman, BassLayerz and Mozey. Next up: The Midway, San Francisco/Oakland on Sat 19 Dec.
 
@@ -18,6 +18,7 @@ Hedex is a drum & bass and bass artist based in United Kingdom, with 88 gigs on 
 
 ## Recently played
 
+- The Trusts Stadium, Auckland · Sat, 21 Nov 2026
 - Wolfbrook Arena, Christchurch · Fri, 20 Nov 2026
 - Depot Mayfield, Manchester · Fri, 9 Oct 2026
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
@@ -25,10 +26,9 @@ Hedex is a drum & bass and bass artist based in United Kingdom, with 88 gigs on 
 - Boston Manor Park, London · Fri, 24 Jul 2026
 - Holland Park, Vancouver · Fri, 3 Jul 2026
 - Heaton Park, Manchester · Sat, 20 Jun 2026
-- Ashton Court Estate, Bristol · Sat, 23 May 2026
 
 ## Shares bills with
 
 Eksman, BassLayerz, Mozey
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*

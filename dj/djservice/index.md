@@ -1,6 +1,6 @@
 # DJ Service
 
-DJ Service is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 5 Dec 2026.
+DJ Service is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 5 Dec 2026.
 
 DJ Service is a house and electro artist based in Spain, with 60 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Nick (IT) and Perro Jimbo. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DJ Service is a house and electro artist based in Spain, with 60 gigs on soundch
 
 CMYK, Nick (IT), Perro Jimbo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*

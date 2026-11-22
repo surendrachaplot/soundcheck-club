@@ -1,14 +1,13 @@
 # aya
 
-aya is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Elsewhere, New York City on Sat, 21 Nov 2026.
+aya is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
-aya is an experimental and techno artist based in United Kingdom, with 150 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austria and 54 more. Often billed alongside 96 Back, Jennifer Walton and Heinali. Next up: Elsewhere, New York City on Sat 21 Nov.
+aya is an experimental and techno artist based in United Kingdom, with 150 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austria and 54 more. Often billed alongside 96 Back, Jennifer Walton and Heinali. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Elsewhere | New York City |
 | Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
 | Sat, 28 Nov 2026 | UNDERCITY | Seoul |
 | Fri, 22 Jan 2027 | TBA | Berlin |
@@ -16,17 +15,17 @@ aya is an experimental and techno artist based in United Kingdom, with 150 gigs 
 
 ## Recently played
 
+- Elsewhere, New York City · Sat, 21 Nov 2026
+- Kobu Camp Village, Kanto · Sat, 21 Nov 2026
 - Le Sucre, Lyon · Fri, 20 Nov 2026
 - MAD Radio NYC, New York City · Sat, 7 Nov 2026
 - MAD Radio NYC, New York City · Thu, 5 Nov 2026
 - Koenji Cave, Tokyo · Sat, 31 Oct 2026
 - Sankt Bartlmä, Halle 6, Innsbruck, Austria · Thu, 22 Oct 2026
 - Karlstorbahnhof, Heidelberg · Fri, 16 Oct 2026
-- TBA - Various Locations in Innsbruck, Austria · Thu, 15 Oct 2026
-- Giri, Berlin · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 96 Back, Jennifer Walton, Heinali
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*

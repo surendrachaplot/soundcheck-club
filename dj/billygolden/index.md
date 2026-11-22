@@ -1,6 +1,6 @@
 # Billy Golden
 
-Billy Golden is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
+Billy Golden is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
 
 Billy Golden is a house and deep house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside CHLO (UK), Cristian Ebasta and El Cassar. Next up: Basing House, London on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Billy Golden is a house and deep house artist based in United Kingdom, with 2 gi
 
 CHLO (UK), Cristian Ebasta, El Cassar
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billygolden/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billygolden/)*

@@ -1,6 +1,6 @@
 # JUNGLE BELLS CHARITY FUNDRAISER at 1990
 
-JUNGLE BELLS CHARITY FUNDRAISER at 1990 on Sat 19 Dec, Glasgow. 2 artists: Aphrodite and Fidget Spinner. Drum & Bass and Jungle. See the line-up on soundcheck.
+JUNGLE BELLS CHARITY FUNDRAISER at 1990 on Sat 19 Dec, Glasgow. 1 artist: Fidget Spinner. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ JUNGLE BELLS CHARITY FUNDRAISER at 1990 on Sat 19 Dec, Glasgow. 2 artists: Aphro
 
 ## Line-up
 
-- Aphrodite
 - Fidget Spinner
 
 *Source: [soundcheck](https://soundcheck.club/e/2586381-jungle-bells-charity-fundraiser-at-1990/)*

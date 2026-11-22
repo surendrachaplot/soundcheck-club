@@ -1,8 +1,8 @@
 # Miss Nansix
 
-Miss Nansix is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Catonium, Hamburg on Sat, 9 Jan 2027.
+Miss Nansix is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Catonium, Hamburg on Sat, 9 Jan 2027.
 
-Miss Nansix is a trance and psytrance artist, with 2 gigs on soundcheck across Hamburg. Often billed alongside JOKI, Psyfonic and Salz. Next up: Catonium, Hamburg on Sat 9 Jan.
+Miss Nansix is a trance and psytrance artist based in Germany, with 2 gigs on soundcheck across Hamburg. Often billed alongside JOKI, Psyfonic and Salz. Next up: Catonium, Hamburg on Sat 9 Jan.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ Miss Nansix is a trance and psytrance artist, with 2 gigs on soundcheck across H
 
 JOKI, Psyfonic, Salz
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missnansix/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missnansix/)*

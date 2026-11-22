@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DASH OUT RELOADED" on Fri, 27 Nov 2026.
+Absturz is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DASH OUT RELOADED" on Fri, 27 Nov 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -16,4 +16,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs. See d
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

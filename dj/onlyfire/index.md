@@ -1,6 +1,6 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
+Only Fire is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
 
 Only Fire is a techno and club artist based in Croatia, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 36 more. Often billed alongside River Moon, Chippy Nonstop and Memphy. Next up: DSTRKT Club Berlin, Berlin on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Only Fire is a techno and club artist based in Croatia, with 97 gigs on soundche
 
 River Moon, Chippy Nonstop, Memphy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

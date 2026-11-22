@@ -1,6 +1,6 @@
 # lostbaggage
 
-lostbaggage is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Red Bar, Tokyo on Sun, 22 Nov 2026.
+lostbaggage is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Red Bar, Tokyo on Sun, 22 Nov 2026.
 
 lostbaggage is a house and techno artist based in Japan, with 170 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, AKIRAM EN and arow. Next up: Red Bar, Tokyo on Sun 22 Nov.
 
@@ -9,7 +9,6 @@ lostbaggage is a house and techno artist based in Japan, with 170 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Red Bar | Tokyo |
-| Sun, 22 Nov 2026 | Aoyama Hachi | Tokyo |
 | Tue, 24 Nov 2026 | Mitsuki | Tokyo |
 | Fri, 4 Dec 2026 | VENT | Tokyo |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
@@ -29,4 +28,4 @@ lostbaggage is a house and techno artist based in Japan, with 170 gigs on soundc
 
 YELLOWUHURU, AKIRAM EN, arow
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*

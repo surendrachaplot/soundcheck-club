@@ -1,6 +1,6 @@
 # LEI
 
-LEI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 5 Dec 2026.
+LEI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 5 Dec 2026.
 
 LEI is a house and minimal artist based in Ukraine, with 22 gigs on soundcheck across Berlin, New York City, Paris and San Francisco/Oakland and 1 more. Often billed alongside OmNa, Monoclick and James Houdini. Next up: Klunkerkranich, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LEI is a house and minimal artist based in Ukraine, with 22 gigs on soundcheck a
 
 OmNa, Monoclick, James Houdini
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*

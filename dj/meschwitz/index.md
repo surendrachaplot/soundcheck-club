@@ -1,6 +1,6 @@
 # Meschwitz
 
-Meschwitz is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Boston on Thu, 31 Dec 2026.
+Meschwitz is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Boston on Thu, 31 Dec 2026.
 
 Meschwitz is a techno and deep house artist based in Bolivia, with 27 gigs on soundcheck across Boston and New York City. Often billed alongside Xoce, Niqi and Ketzaal. Next up: TBA, Boston on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Meschwitz is a techno and deep house artist based in Bolivia, with 27 gigs on so
 
 Xoce, Niqi, Ketzaal
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meschwitz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meschwitz/)*

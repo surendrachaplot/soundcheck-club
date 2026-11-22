@@ -1,14 +1,13 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Kaleidoscope presents: MURAT, AUX_ID, Marivs" on Sat, 21 Nov 2026.
+Rhythm is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Radiance (光芒) vol.002 - sound bath + vinyl" on Sun, 22 Nov 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Ankathesia, Arapu, AUX_ID and Ciel and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Ankathesia, Arapu, Ciel and Edan Negrin and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Kaleidoscope presents: MURAT, AUX_ID, Marivs | AUX_ID, Marivs |
 | Sun, 22 Nov 2026 | Radiance (光芒) vol.002 - sound bath + vinyl |  |
 | Tue, 24 Nov 2026 | Long Play: Dubstep | Hemlock (CA), Sigil |
 | Thu, 26 Nov 2026 | Long Play: Adrianne Lenker |  |
@@ -18,9 +17,10 @@ Rhythm is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with 
 | Wed, 2 Dec 2026 | Rhythm Workshop Series: Vinyl DJing | Thomas James (2) |
 | Fri, 4 Dec 2026 | Rhythm x Lucid: Liquid Earth with Hemlock & Utopos | Hemlock (CA), Liquid Earth, Utopos |
 | Sat, 5 Dec 2026 | Rhythm x Ghost Code: John Acquaviva | House of Lords, John Acquaviva, Nitin |
+| Fri, 11 Dec 2026 | Rhythm Backroom: Ciel All Night | Ciel |
 
 ## Address
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

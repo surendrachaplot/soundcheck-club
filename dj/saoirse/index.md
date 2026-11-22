@@ -1,14 +1,13 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Carpa & Picnic of El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
+Saoirse is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Saoirse is a house and techno artist based in Ireland, with 200 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Mella Dee, Shanti Celeste and Peach. Next up: Carpa & Picnic of El Poble Espanyol, Barcelona on Sat 21 Nov.
+Saoirse is a house and techno artist based in Ireland, with 200 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Mella Dee, Shanti Celeste and Peach. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | GASHOUDER | Amsterdam |
 | Sat, 28 Nov 2026 | Hito Scheveningen | The Hague |
@@ -18,6 +17,7 @@ Saoirse is a house and techno artist based in Ireland, with 200 gigs on soundche
 
 ## Recently played
 
+- Carpa & Picnic of El Poble Espanyol, Barcelona · Sat, 21 Nov 2026
 - Gate Milano, Milan · Fri, 20 Nov 2026
 - The Cause, London · Sat, 14 Nov 2026
 - Cardiff Students' Union - Y Plas, Cardiff · Sat, 31 Oct 2026
@@ -25,10 +25,9 @@ Saoirse is a house and techno artist based in Ireland, with 200 gigs on soundche
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Under The Arches, Leeds · Sat, 17 Oct 2026
 - NX Newcastle, Newcastle · Fri, 16 Oct 2026
-- Sub Club, Glasgow · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 Mella Dee, Shanti Celeste, Peach
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

@@ -1,6 +1,6 @@
 # MAHARAJA ANNEX
 
-MAHARAJA ANNEX is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "AIR STREAMS Chapter 082" on Sat, 12 Dec 2026.
+MAHARAJA ANNEX is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "AIR STREAMS Chapter 082" on Sat, 12 Dec 2026.
 
 MAHARAJA ANNEX is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Kazuki. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ MAHARAJA ANNEX is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, 
 | Sat, 12 Dec 2026 | AIR STREAMS Chapter 082 |  |
 | Wed, 30 Dec 2026 | AIR STREAMS - Chapter 082 | Kazuki |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/maharaja-annex/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/maharaja-annex/)*

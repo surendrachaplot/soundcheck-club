@@ -1,6 +1,6 @@
 # FAUSTO
 
-FAUSTO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 6 Mar 2027.
+FAUSTO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 6 Mar 2027.
 
 FAUSTO is a techno and house artist based in Portugal, with 21 gigs on soundcheck across Amsterdam, Guadalajara, Lisbon and Marseille and 2 more. Often billed alongside André Costa, Rossi and Alexander Koning. Next up: Thuishaven, Amsterdam on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ FAUSTO is a techno and house artist based in Portugal, with 21 gigs on soundchec
 
 André Costa, Rossi, Alexander Koning
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/FAUSTO/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/FAUSTO/)*

@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Klubkneipe Sunset Grooves" on Sun, 22 Nov 2026.
+Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Klubkneipe Sunset Grooves" on Sun, 22 Nov 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Agustin Mendez, Andi Beat, Yoshi (DE) and Benua and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -23,4 +23,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with l
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

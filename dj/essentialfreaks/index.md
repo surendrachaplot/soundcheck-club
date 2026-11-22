@@ -1,6 +1,6 @@
 # Essential Freaks
 
-Essential Freaks is a Breakbeat and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Essential Freaks is a Breakbeat and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Essential Freaks is a breakbeat and tech house artist based in United States of America, with 24 gigs on soundcheck across Jacksonville, Miami, Orlando and Tampa Bay and 1 more. Often billed alongside Proxxy, Doc Brown and Gio Leon. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Essential Freaks is a breakbeat and tech house artist based in United States of 
 
 Proxxy, Doc Brown, Gio Leon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/essentialfreaks/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/essentialfreaks/)*

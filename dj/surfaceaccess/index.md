@@ -1,6 +1,6 @@
 # Surface Access
 
-Surface Access is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Surface Access is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 Surface Access is a techno and dub artist based in France, with 2 gigs on soundcheck across Paris and Rotterdam. Often billed alongside AERAE, Atrice and Christian Coiffure. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Surface Access is a techno and dub artist based in France, with 2 gigs on soundc
 
 AERAE, Atrice, Christian Coiffure
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surfaceaccess/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surfaceaccess/)*

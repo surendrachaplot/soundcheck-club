@@ -1,6 +1,6 @@
 # Ata
 
-Ata is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Robert Johnson, Hesse on Fri, 25 Dec 2026.
+Ata is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Robert Johnson, Hesse on Fri, 25 Dec 2026.
 
 Ata is a house and techno artist based in Germany, with 74 gigs on soundcheck across Athens, Bali, Barcelona and Berlin and 27 more. Often billed alongside Ricardo Villalobos, nd_baumecker and Horkheimer. Next up: Robert Johnson, Hesse on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Ata is a house and techno artist based in Germany, with 74 gigs on soundcheck ac
 
 Ricardo Villalobos, nd_baumecker, Horkheimer
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ata/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ata/)*

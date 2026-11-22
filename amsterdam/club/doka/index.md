@@ -1,14 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Doka Studio with Yamour - Pieter Jansen" on Sat, 21 Nov 2026.
+Doka is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco" on Fri, 27 Nov 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Bevan, CTRLZORA, Danilo Plessow and DJ Pointless and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Bevan, CTRLZORA, Danilo Plessow and DJ Pointless and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Doka Studio with Yamour - Pieter Jansen | Pieter Jansen, Yamour |
 | Fri, 27 Nov 2026 | Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco | I-F, Marsman, Vasco |
 | Sat, 28 Nov 2026 | Doka Studio with CTRLZORA - Suze Ijó | CTRLZORA, Suze Ijó |
 | Sat, 5 Dec 2026 | Phono Club with Mr. Scruff (6 hours) | Lil Lawaw, Mr Scruff |
@@ -21,4 +20,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with l
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

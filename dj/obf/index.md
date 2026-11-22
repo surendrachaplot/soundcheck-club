@@ -1,6 +1,6 @@
 # O.B.F
 
-O.B.F is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Motorista Studio, Toronto on Fri, 27 Nov 2026.
+O.B.F is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Motorista Studio, Toronto on Fri, 27 Nov 2026.
 
 O.B.F is a dub and bass artist based in France, with 38 gigs on soundcheck across Athens, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Iration Steppas, Charlie P and Dubkasm. Next up: Motorista Studio, Toronto on Fri 27 Nov.
 
@@ -9,7 +9,7 @@ O.B.F is a dub and bass artist based in France, with 38 gigs on soundcheck acros
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Motorista Studio | Toronto |
-| Sat, 28 Nov 2026 | TBA - Montreal | Montreal |
+| Sat, 28 Nov 2026 | Bâtiment 7 | Montreal |
 | Sat, 19 Dec 2026 | Zoo | Geneva |
 
 ## Recently played
@@ -27,4 +27,4 @@ O.B.F is a dub and bass artist based in France, with 38 gigs on soundcheck acros
 
 Iration Steppas, Charlie P, Dubkasm
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obf/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obf/)*

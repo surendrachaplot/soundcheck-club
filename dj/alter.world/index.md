@@ -1,6 +1,6 @@
 # alter.world
 
-alter.world is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
+alter.world is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
 
 alter.world is a techno and dub techno artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Oscil, Uttaraa and Qtea. Next up: Bossa Nova Civic Club, New York City on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ alter.world is a techno and dub techno artist based in United States of America,
 
 Oscil, Uttaraa, Qtea
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*

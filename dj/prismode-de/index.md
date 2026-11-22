@@ -1,14 +1,13 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
+Prismode is a Techno and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
 
-Prismode is a techno and progressive house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Ritter Butzke, Berlin on Sat 21 Nov.
+Prismode is a techno and progressive house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Jaeger, Oslo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Ritter Butzke | Berlin |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Sat, 28 Nov 2026 | Karree | Baden-w-rttemberg |
@@ -20,6 +19,7 @@ Prismode is a techno and progressive house artist based in Germany, with 125 gig
 
 ## Recently played
 
+- Ritter Butzke, Berlin · Sat, 21 Nov 2026
 - O der Klub, Vienna · Sat, 14 Nov 2026
 - Live Music Hall, Cologne · Fri, 13 Nov 2026
 - Zoom Club, Frankfurt · Sat, 7 Nov 2026
@@ -27,10 +27,9 @@ Prismode is a techno and progressive house artist based in Germany, with 125 gig
 - Tanzhaus West, Frankfurt · Sat, 24 Oct 2026
 - Supperclub Cruise, Amsterdam · Fri, 23 Oct 2026
 - Fridas Pier, Stuttgart · Sat, 17 Oct 2026
-- Ritter Butzke, Berlin · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

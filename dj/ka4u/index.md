@@ -1,6 +1,6 @@
 # KA4U
 
-KA4U is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
+KA4U is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
 
 KA4U is a techno and house artist based in Japan, with 80 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Limited Toss, Ascalypso and GYOKU. Next up: Aoyama Hachi, Tokyo on Mon 23 Nov.
 
@@ -26,4 +26,4 @@ KA4U is a techno and house artist based in Japan, with 80 gigs on soundcheck acr
 
 Limited Toss, Ascalypso, GYOKU
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ka4u/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ka4u/)*

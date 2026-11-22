@@ -1,14 +1,15 @@
 # Balthazar Martinez
 
-Balthazar Martinez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Balthazar Martinez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
-Balthazar Martinez is a house and disco artist based in France, with 105 gigs on soundcheck across Barcelona, Berlin, Paris and Strasbourg. Often billed alongside Mandel Turner, Mat Fink and Mini Nik. Next up: Kater, Berlin on Sat 5 Dec.
+Balthazar Martinez is a house and disco artist based in France, with 106 gigs on soundcheck across Barcelona, Berlin, Paris and Strasbourg. Often billed alongside Mandel Turner, Mat Fink and Mini Nik. Next up: Kater, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Kater | Berlin |
+| Fri, 18 Dec 2026 | Paloma | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Balthazar Martinez is a house and disco artist based in France, with 105 gigs on
 
 Mandel Turner, Mat Fink, Mini Nik
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balthazarmartinez/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balthazarmartinez/)*

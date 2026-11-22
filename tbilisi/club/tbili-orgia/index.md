@@ -1,6 +1,6 @@
 # Tbili Orgia
 
-Tbili Orgia is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Mutant orgia" on Sun, 22 Nov 2026.
+Tbili Orgia is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Mutant orgia" on Sun, 22 Nov 2026.
 
 Tbili Orgia is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Anketa, borisluvv, Michailo and Nil and 2 more. See dates, start times and who's playing. 17 Dodo abashidze st, Tbilisi, 0102, Georgia.
 
@@ -15,4 +15,4 @@ Tbili Orgia is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, w
 
 17 Dodo abashidze st, Tbilisi, 0102, Georgia, Tbilisi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/tbili-orgia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/tbili-orgia/)*

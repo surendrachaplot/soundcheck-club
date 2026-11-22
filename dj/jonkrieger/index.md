@@ -1,6 +1,6 @@
 # JON KRIEGER
 
-JON KRIEGER is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Colours Hoxton, London on Sat, 19 Dec 2026.
+JON KRIEGER is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Colours Hoxton, London on Sat, 19 Dec 2026.
 
 JON KRIEGER is a techno and ebm artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Brussels, Edinburgh and London and 1 more. Often billed alongside Jane Darke, Arrosa and Claudia Kane. Next up: Colours Hoxton, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ JON KRIEGER is a techno and ebm artist based in United Kingdom, with 24 gigs on 
 
 Jane Darke, Arrosa, Claudia Kane
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*

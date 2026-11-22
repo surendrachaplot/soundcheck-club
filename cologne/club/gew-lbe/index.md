@@ -1,14 +1,13 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "CSM with Anatoli & DJ Brause, DJ Karriere, Paula Tape" on Sat, 21 Nov 2026.
+Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Klubnacht with LALENA, Moonbootica" on Fri, 27 Nov 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, with line-ups including Paula Tape, AMSL, Anatoli [DE] and Anna Konda and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including AMSL, Anatoli [DE], Anna Konda and ATEQ and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | CSM with Anatoli & DJ Brause, DJ Karriere, Paula Tape | Anatoli [DE], Paula Tape |
 | Fri, 27 Nov 2026 | Klubnacht with LALENA, Moonbootica | LALENA, Moonbootica |
 | Sat, 28 Nov 2026 | Im Fokus with Di² & Elisen, Locrian, Marco Hilbert & rilé | Elisen, Marco Hilbert (2), rilé |
 | Fri, 4 Dec 2026 | HOOVE with Chiara Kley, Julian, Onur Özer | Julian Feierabend, Onur Özer |
@@ -18,9 +17,10 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, wit
 | Fri, 18 Dec 2026 | House of Rekids with Mathias Kaden, Radio Slave, Sandilé | Mathias Kaden, Radio Slave, Sandilé |
 | Sat, 19 Dec 2026 | Phantasy Dance with dj sweet6teen, Ivan Smagghe | Ivan Smagghe, dj sweet6teen |
 | Sun, 20 Dec 2026 | Research with c00lm8 & lyzanne, Måtyrer, sumi | Måtyrer, Sumi (3), c00lm8, lyzanne |
+| Thu, 24 Dec 2026 | Heiligabend with Shumi -all night long- | Shumi |
 
 ## Address
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

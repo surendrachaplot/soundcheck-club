@@ -1,6 +1,6 @@
 # I am blip
 
-I am blip is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 11 Dec 2026.
+I am blip is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 11 Dec 2026.
 
 I am blip is an experimental and electronica artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow and London. Often billed alongside Posthuman, Nightwave and Ty Lumnus. Next up: The Berkeley Suite, Glasgow on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ I am blip is an experimental and electronica artist based in United Kingdom, wit
 
 Posthuman, Nightwave, Ty Lumnus
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iamblip/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iamblip/)*

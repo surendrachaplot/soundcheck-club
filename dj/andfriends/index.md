@@ -1,6 +1,6 @@
 # &friends
 
-&friends is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Gallery, London on Fri, 11 Dec 2026.
+&friends is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Gallery, London on Fri, 11 Dec 2026.
 
 &friends is an afro house and house artist based in United States of America, with 9 gigs on soundcheck across Barcelona, London, Los Angeles and Miami and 4 more. Often billed alongside OSCAAR, Above & Beyond and Apache. Next up: Gallery, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@
 
 OSCAAR, Above & Beyond, Apache
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*

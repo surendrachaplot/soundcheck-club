@@ -1,6 +1,6 @@
 # Clem Vital
 
-Clem Vital is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at SASS Music Club, Vienna on Fri, 27 Nov 2026.
+Clem Vital is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at SASS Music Club, Vienna on Fri, 27 Nov 2026.
 
 Clem Vital is a house artist based in Austria, with 6 gigs on soundcheck across Vienna. Often billed alongside Carl H, ISI and Jubilee. Next up: SASS Music Club, Vienna on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Clem Vital is a house artist based in Austria, with 6 gigs on soundcheck across 
 
 Carl H, ISI (2), Jubilee
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clemvital/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clemvital/)*

@@ -1,15 +1,13 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Minimal Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
+Tauceti (FR) is a Techno and Minimal Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Wed, 25 Nov 2026.
 
-Tauceti (FR) is a techno and minimal techno artist based in France, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
+Tauceti (FR) is a techno and minimal techno artist based in France, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA - Los Angeles, Los Angeles on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - San Francisco | San Francisco/Oakland |
-| Sat, 21 Nov 2026 | TBA - TRXX WRHS | Minneapolis-st-paul |
 | Wed, 25 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 28 Nov 2026 | TBA | Boston |
 | Sun, 29 Nov 2026 | TBA - Brooklyn Warehouse | New York City |
@@ -23,6 +21,7 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 96 gigs
 
 ## Recently played
 
+- TBA - TRXX WRHS, Minneapolis-st-paul · Sat, 21 Nov 2026
 - TBA - San Francisco, San Francisco/Oakland · Fri, 20 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 7 Nov 2026
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
@@ -30,10 +29,9 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 96 gigs
 - Bien Public, Bordeaux · Sat, 17 Oct 2026
 - Unité.22, Marseille · Fri, 16 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
-- Super7, Lyon · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Tommy Four Seven, Psyk, Decoder
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

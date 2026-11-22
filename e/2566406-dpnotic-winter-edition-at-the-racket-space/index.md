@@ -1,6 +1,6 @@
 # dpnotic: Winter Edition at The Racket Space
 
-dpnotic: Winter Edition at The Racket Space on Fri 15 Jan, Dublin. 2 artists: DEVEGILI and F.HOLLOW. Techno. See the line-up on soundcheck.
+dpnotic: Winter Edition at The Racket Space on Fri 15 Jan, Dublin. 3 artists: DECADANCE, DEVEGILI and F.HOLLOW. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ dpnotic: Winter Edition at The Racket Space on Fri 15 Jan, Dublin. 2 artists: DE
 
 ## Line-up
 
+- DECADANCE
 - DEVEGILI
 - F.HOLLOW
 

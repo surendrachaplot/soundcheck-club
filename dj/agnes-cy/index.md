@@ -1,8 +1,8 @@
 # Agnes
 
-Agnes is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+Agnes is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
-Agnes is an electronic artist, with 3 gigs on soundcheck across Cyprus and Rome. Often billed alongside African Stevenson, AnDe Trois and Anna Reusch. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
+Agnes is an electronic artist based in Cyprus, with 3 gigs on soundcheck across Cyprus and Rome. Often billed alongside African Stevenson, AnDe Trois and Anna Reusch. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Agnes is an electronic artist, with 3 gigs on soundcheck across Cyprus and Rome.
 
 African Stevenson, AnDe Trois, Anna Reusch
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agnes-cy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agnes-cy/)*

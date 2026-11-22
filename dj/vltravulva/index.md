@@ -1,6 +1,6 @@
 # VLTRA VULVA
 
-VLTRA VULVA is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at BASIS, Utrecht on Fri, 18 Dec 2026.
+VLTRA VULVA is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BASIS, Utrecht on Fri, 18 Dec 2026.
 
 VLTRA VULVA is a latin bass and techno artist based in Netherlands, with 2 gigs on soundcheck across Utrecht. Often billed alongside Lena Maria and Patrick Mason. Next up: BASIS, Utrecht on Fri 18 Dec.
 
@@ -18,4 +18,4 @@ VLTRA VULVA is a latin bass and techno artist based in Netherlands, with 2 gigs 
 
 Lena Maria, Patrick Mason
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vltravulva/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vltravulva/)*

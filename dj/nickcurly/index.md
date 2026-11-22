@@ -1,14 +1,13 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Weekend, Berlin on Sat, 21 Nov 2026.
+Nick Curly is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Rodeo Klub, Budapest on Fri, 27 Nov 2026.
 
-Nick Curly is a house and tech house artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 46 more. Often billed alongside Easttown, Reboot and Sam Divine. Next up: Weekend, Berlin on Sat 21 Nov.
+Nick Curly is a house and tech house artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 46 more. Often billed alongside Easttown, Reboot and Sam Divine. Next up: Rodeo Klub, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Weekend | Berlin |
 | Fri, 27 Nov 2026 | Rodeo Klub | Budapest |
 | Sat, 28 Nov 2026 | PRST | Vienna |
 | Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
@@ -18,6 +17,7 @@ Nick Curly is a house and tech house artist based in Germany, with 128 gigs on s
 
 ## Recently played
 
+- Weekend, Berlin · Sat, 21 Nov 2026
 - Studio 338, London · Sat, 31 Oct 2026
 - Lux Fragil, Lisbon · Sat, 3 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
@@ -25,10 +25,9 @@ Nick Curly is a house and tech house artist based in Germany, with 128 gigs on s
 - Hï Ibiza, Ibiza · Tue, 29 Sept 2026
 - Studio Club Malaga, Malaga · Sat, 26 Sept 2026
 - Night Tales, London · Fri, 11 Sept 2026
-- Audio Club, Geneva · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Easttown, Reboot, Sam Divine
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

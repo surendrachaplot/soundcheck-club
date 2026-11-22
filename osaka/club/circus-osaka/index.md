@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Qrion Japan Tour Osaka" on Sat, 21 Nov 2026.
+Circus Osaka is a music venue in Osaka with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "BLOODY NIGHT with Bouki" on Sun, 22 Nov 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 14 upcoming gigs, with line-ups including AOKI takamasa, Bloody Cheeki $odz, Bouki and Garrett David and 2 more. See dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -8,7 +8,6 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 14 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Qrion Japan Tour Osaka | Qrion |
 | Sun, 22 Nov 2026 | BLOODY NIGHT with Bouki | Bloody Cheeki $odz, Bouki |
 | Fri, 27 Nov 2026 | Silva Bumpa | Silva Bumpa, ryota dj |
 | Sat, 28 Nov 2026 | SBTRKT | SBTRKT |
@@ -18,9 +17,10 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 14 upcoming gigs, w
 | Sat, 5 Dec 2026 | Red Axes | Red Axes, idiotYuuka, rangasako |
 | Thu, 10 Dec 2026 | Whethan Circus Osaka |  |
 | Fri, 11 Dec 2026 | Ivy Lab A FAREWELL TOUR 2026 | Ivy Lab |
+| Sat, 12 Dec 2026 | Qube TV x MONZA | AOKI takamasa, Kohei, ONO (3), Shingo |
 
 ## Address
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

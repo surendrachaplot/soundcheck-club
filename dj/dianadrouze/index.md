@@ -1,6 +1,6 @@
 # Diana d'Rouze
 
-Diana d'Rouze is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Transformator, Wroclaw on Sat, 9 Jan 2027.
+Diana d'Rouze is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Transformator, Wroclaw on Sat, 9 Jan 2027.
 
 Diana d'Rouze is a techno and psytrance artist based in Poland, with 2 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Damian S, Joyhauser and Lopez Dj. Next up: Transformator, Wroclaw on Sat 9 Jan.
 
@@ -18,4 +18,4 @@ Diana d'Rouze is a techno and psytrance artist based in Poland, with 2 gigs on s
 
 Damian S, Joyhauser, Lopez Dj
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dianadrouze/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dianadrouze/)*

@@ -1,15 +1,13 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at 26 Leake Street, London on Sat, 21 Nov 2026.
+Max Styler is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Gallagher Square, San Diego on Sat, 28 Nov 2026.
 
-Max Styler is a house and tech house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 44 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: 26 Leake Street, London on Sat 21 Nov.
+Max Styler is a house and tech house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 44 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Gallagher Square, San Diego on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | 26 Leake Street | London |
-| Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 28 Nov 2026 | Gallagher Square | San Diego |
 | Fri, 4 Dec 2026 | Echostage | Washington DC |
 | Thu, 17 Dec 2026 | Lion Super Club | Seoul |
@@ -18,17 +16,17 @@ Max Styler is a house and tech house artist based in United States of America, w
 
 ## Recently played
 
+- 26 Leake Street, London · Sat, 21 Nov 2026
+- 26 Leake Street, London · Sat, 21 Nov 2026
 - Toffler, Rotterdam · Fri, 20 Nov 2026
 - The Concourse Project, Austin · Sun, 15 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Woldenberg Riverfront Park, New-orleans · Fri, 13 Nov 2026
 - Klub Werkstatt, Copenhagen · Sat, 7 Nov 2026
 - O der Klub, Vienna · Fri, 6 Nov 2026
-- New City Gas, Montreal · Sat, 31 Oct 2026
-- Theater Amsterdam, Amsterdam · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 Layton Giordani, John Summit, Eli Brown
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

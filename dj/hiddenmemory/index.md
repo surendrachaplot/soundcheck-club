@@ -1,6 +1,6 @@
 # Hidden Memory
 
-Hidden Memory is a Dembow and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
+Hidden Memory is a Dembow and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
 
 Hidden Memory is a dembow and latin bass artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Subject 13, Abby Daze and Akalex. Next up: Razzmatazz, Barcelona on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Hidden Memory is a dembow and latin bass artist based in Netherlands, with 5 gig
 
 Subject 13, Abby Daze, Akalex
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenmemory/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenmemory/)*

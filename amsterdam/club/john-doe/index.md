@@ -1,14 +1,13 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 36 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Amsterdam Techno Sessions w/ Surgeles (Axis Records - Warm-up Recordings)" on Sat, 21 Nov 2026.
+John Doe is a music venue in Amsterdam with 35 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "No Sundays Without Techno" on Sun, 22 Nov 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 36 upcoming gigs, with line-ups including Alex Sharp, DMS1N3RGY, Gian and Kléo and 2 more. See dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 35 upcoming gigs, with line-ups including Alex Sharp, DMS1N3RGY, Gian and Kléo and 2 more. See dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Amsterdam Techno Sessions w/ Surgeles (Axis Records - Warm-up Recordings) | DJ Surgeles, Marco Ramos |
 | Sun, 22 Nov 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 23 Nov 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
 | Tue, 24 Nov 2026 | [PHANTOM GROUP] KLUBNACHT w 2SAKURA / ALTBASE / DC92 / C2C / Gian | Gian |
@@ -18,9 +17,10 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 36 upcoming gigs, w
 | Sat, 28 Nov 2026 | Amsterdam Nights: Hard Techno & Bounce with Molly on Molly [DE], ONARSÉ [AUS], Paroxyzm [DE] | DMS1N3RGY, ONARSÉ, Paroxyzm, mølly (on molly) |
 | Sun, 29 Nov 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 30 Nov 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
+| Tue, 1 Dec 2026 | [PHANTOM GROUP] KLUBNACHT | Kléo |
 
 ## Address
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

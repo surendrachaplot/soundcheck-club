@@ -1,14 +1,13 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Madam by Night invites: Ginton" on Sat, 21 Nov 2026.
+Madam is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Madam by Night invites: MONARK x HAUSIN' COLLECTIVE" on Thu, 26 Nov 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Kepler, ADEZ, Aldo and Alexia and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Kepler, ADEZ, Aldo and Alexia and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Madam by Night invites: Ginton |  |
 | Thu, 26 Nov 2026 | Madam by Night invites: MONARK x HAUSIN' COLLECTIVE | Okeam |
 | Thu, 26 Nov 2026 | MONARK X HAUSIN' COLLECTIVE AT MA'DAM | Okeam, Velascomusik |
 | Fri, 27 Nov 2026 | Madam by Night invites: EDEN | Edann |
@@ -18,9 +17,10 @@ Madam is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with
 | Sun, 6 Dec 2026 | Madam by Night invites: ABODE | Burnski, Caleb Laurenson, Kepler, Louden, Stef Davidse |
 | Fri, 11 Dec 2026 | Madam by Night invites: Selects | Raphaelito |
 | Sat, 12 Dec 2026 | Madam by Night invites: WE ARE ICONYC | Ivory, Julia Linkogel, SOMMA |
+| Fri, 18 Dec 2026 | Madam by Night invites: Mea Culpa | Mike Scot, Steve Taylor |
 
 ## Address
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

@@ -1,18 +1,18 @@
 # Sam BPM
 
-Sam BPM is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Frankfurt Ostend, Frankfurt on Tue, 17 Nov 2026.
+Sam BPM is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kunstverein Familie Montez, Frankfurt on Sat, 28 Nov 2026.
 
-Sam BPM is a techno and tech house artist based in Germany, with 4 gigs on soundcheck across Frankfurt. Often billed alongside Arp (SNT), JONSN.OFC and KLEYN. Next up: TBA - Frankfurt Ostend, Frankfurt on Tue 17 Nov.
+Sam BPM is a techno and tech house artist based in Germany, with 4 gigs on soundcheck across Frankfurt. Often billed alongside Arp (SNT), JONSN.OFC and KLEYN. Next up: Kunstverein Familie Montez, Frankfurt on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 17 Nov 2026 | TBA - Frankfurt Ostend | Frankfurt |
 | Sat, 28 Nov 2026 | Kunstverein Familie Montez | Frankfurt |
 
 ## Recently played
 
+- TBA - Frankfurt Ostend, Frankfurt · Tue, 17 Nov 2026
 - TBA - Frankfurt Ostend, Frankfurt · Thu, 29 Oct 2026
 - TBA - Frankfurt Ostend, Frankfurt · Wed, 14 Oct 2026
 
@@ -20,4 +20,4 @@ Sam BPM is a techno and tech house artist based in Germany, with 4 gigs on sound
 
 Arp (SNT), JONSN.OFC, KLEYN
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambpm/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambpm/)*

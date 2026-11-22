@@ -1,6 +1,6 @@
 # Elysia
 
-Elysia is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Elysia x Symbiotikka Samstag 12. Dezember" on Sat, 12 Dec 2026.
+Elysia is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Elysia x Symbiotikka Samstag 12. Dezember" on Sat, 12 Dec 2026.
 
 Elysia is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with line-ups including BENNETT, Charlotte Lion, Dekerim and DRC and 2 more. See dates, start times and who's playing. Frankfurt-Strasse 36, 4142, Basel.
 
@@ -17,4 +17,4 @@ Elysia is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with lin
 
 Frankfurt-Strasse 36, 4142, Basel, Basel
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/elysia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/elysia/)*

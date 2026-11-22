@@ -1,6 +1,6 @@
 # Emil F
 
-Emil F is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Christianshavns Beboerhus, Copenhagen on Thu, 26 Nov 2026.
+Emil F is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Christianshavns Beboerhus, Copenhagen on Thu, 26 Nov 2026.
 
 Emil F is an ambient and experimental artist based in Denmark, with 14 gigs on soundcheck across Amsterdam, Copenhagen, New York City and The Hague. Often billed alongside Frederik Valentin, oqbqbo and Archangel. Next up: Christianshavns Beboerhus, Copenhagen on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Emil F is an ambient and experimental artist based in Denmark, with 14 gigs on s
 
 Frederik Valentin, oqbqbo, Archangel
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilf/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilf/)*

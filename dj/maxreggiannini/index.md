@@ -1,6 +1,6 @@
 # Max Reggiannini
 
-Max Reggiannini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at K39, Frankfurt on Thu, 31 Dec 2026.
+Max Reggiannini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at K39, Frankfurt on Thu, 31 Dec 2026.
 
 Max Reggiannini is a house and techno artist based in Germany, with 24 gigs on soundcheck across Frankfurt and Geneva. Often billed alongside Boutiq.808, Chris Beulich and Chris Wood. Next up: K39, Frankfurt on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Max Reggiannini is a house and techno artist based in Germany, with 24 gigs on s
 
 Boutiq.808, Chris Beulich, Chris Wood
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxreggiannini/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxreggiannini/)*

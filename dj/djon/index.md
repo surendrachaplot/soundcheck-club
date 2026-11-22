@@ -1,6 +1,6 @@
 # Djon
 
-Djon is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bar 105, Cardiff on Sat, 5 Dec 2026.
+Djon is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bar 105, Cardiff on Sat, 5 Dec 2026.
 
 Djon is a techno artist based in United Kingdom, with 10 gigs on soundcheck across Cardiff, Leipzig and Madrid. Often billed alongside Chris Figueroa, Adam Ward and Oliver Davies. Next up: Bar 105, Cardiff on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Djon is a techno artist based in United Kingdom, with 10 gigs on soundcheck acro
 
 Chris Figueroa, Adam Ward, Oliver Davies
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djon/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djon/)*

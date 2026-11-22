@@ -1,6 +1,6 @@
 # hazzi
 
-hazzi is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Honey's, New York City on Wed, 25 Nov 2026.
+hazzi is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Honey's, New York City on Wed, 25 Nov 2026.
 
 hazzi is a house and club artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Subcultures, Brutal Twink and Civil. Next up: Honey's, New York City on Wed 25 Nov.
 
@@ -20,4 +20,4 @@ hazzi is a house and club artist based in United States of America, with 4 gigs 
 
 Subcultures, Brutal Twink, Civil
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazzi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazzi/)*

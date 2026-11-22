@@ -1,6 +1,6 @@
 # Gojas
 
-Gojas is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Berlin on Sun, 13 Dec 2026.
+Gojas is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Berlin on Sun, 13 Dec 2026.
 
 Gojas is an afro house and house artist based in South Africa, with 19 gigs on soundcheck across Berlin. Often billed alongside Cronoselect, Emo Rugene and Flaaviø. Next up: TBA, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Gojas is an afro house and house artist based in South Africa, with 19 gigs on s
 
 Cronoselect, Emo Rugene, Flaaviø
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gojas/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gojas/)*

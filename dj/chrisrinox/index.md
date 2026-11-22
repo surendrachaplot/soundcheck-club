@@ -1,6 +1,6 @@
 # Chris Rinox
 
-Chris Rinox is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sky Club, Leipzig on Sat, 22 May 2027.
+Chris Rinox is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sky Club, Leipzig on Sat, 22 May 2027.
 
 Chris Rinox is an electronic artist based in Germany, with 2 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Bill Youngman, Bisk and Brothers Incognito. Next up: Sky Club, Leipzig on Sat 22 May.
 
@@ -18,4 +18,4 @@ Chris Rinox is an electronic artist based in Germany, with 2 gigs on soundcheck 
 
 Bill Youngman, Bisk, Brothers Incognito
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisrinox/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisrinox/)*

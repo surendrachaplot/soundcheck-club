@@ -1,8 +1,8 @@
 # ANDATA
 
-ANDATA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Südpol, Hamburg on Fri, 18 Dec 2026.
+ANDATA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Südpol, Hamburg on Fri, 18 Dec 2026.
 
-ANDATA is a techno and trance artist based in Germany, with 106 gigs on soundcheck across Berlin, Budapest, Cologne and Dresden and 17 more. Often billed alongside two girls one mom, Cobb Douglas and DJ Tallboy. Next up: Südpol, Hamburg on Fri 18 Dec.
+ANDATA is a techno and trance artist based in Germany, with 107 gigs on soundcheck across Berlin, Budapest, Cologne and Dresden and 18 more. Often billed alongside two girls one mom, Cobb Douglas and DJ Tallboy. Next up: Südpol, Hamburg on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ANDATA is a techno and trance artist based in Germany, with 106 gigs on soundche
 | Fri, 18 Dec 2026 | Südpol | Hamburg |
 | Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 31 Dec 2026 | Mia Mao | Paris |
+| Fri, 19 Feb 2027 | K2 Comedy Club | Vilnius |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ ANDATA is a techno and trance artist based in Germany, with 106 gigs on soundche
 
 two girls one mom, Cobb Douglas, DJ Tallboy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*

@@ -1,6 +1,6 @@
 # Acid Attack at Cha Cha Lounge
 
-Acid Attack at Cha Cha Lounge on Sat 21 Nov, Los Angeles. Acid and Electro. See the line-up on soundcheck.
+Acid Attack at Cha Cha Lounge on Sat 21 Nov, Los Angeles. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

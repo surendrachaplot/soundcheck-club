@@ -1,6 +1,6 @@
 # Nova
 
-Nova is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 11 Dec 2026.
+Nova is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 Nova is a techno and hip-hop artist based in United States of America, with 33 gigs on soundcheck across Aberdeen, Budapest, Copenhagen and Istanbul and 7 more. Often billed alongside Adexia, HERBS and HEX ELECTRONIX. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Nova is a techno and hip-hop artist based in United States of America, with 33 g
 
 Adexia, HERBS, HEX ELECTRONIX
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nova/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nova/)*

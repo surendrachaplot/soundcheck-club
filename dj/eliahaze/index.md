@@ -1,6 +1,6 @@
 # EliaHaze
 
-EliaHaze is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
+EliaHaze is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
 
 EliaHaze is a techno and house artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dortmund / Essen and 5 more. Often billed alongside DJ Babyblade, DJ SOURCE and Anton Jonathan. Next up: Südpol, Hamburg on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ EliaHaze is a techno and house artist based in Germany, with 128 gigs on soundch
 
 DJ Babyblade, DJ SOURCE, Anton Jonathan
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*

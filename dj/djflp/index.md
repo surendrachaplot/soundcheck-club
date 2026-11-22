@@ -1,6 +1,6 @@
 # DJ FLP
 
-DJ FLP is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Strays, Detroit on Fri, 27 Nov 2026.
+DJ FLP is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Strays, Detroit on Fri, 27 Nov 2026.
 
 DJ FLP is a club and breakbeat artist based in United States of America, with 7 gigs on soundcheck across Detroit. Often billed alongside Seanni B, Obi-Wan Shinobi and EQ Why. Next up: The Strays, Detroit on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ DJ FLP is a club and breakbeat artist based in United States of America, with 7 
 
 Seanni B, Obi-Wan Shinobi, EQ Why
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djflp/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djflp/)*

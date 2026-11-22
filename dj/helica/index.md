@@ -1,6 +1,6 @@
 # Helica
 
-Helica is a Pop and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Avalon Cafe Bermondsey, London on Thu, 10 Dec 2026.
+Helica is a Pop and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Avalon Cafe Bermondsey, London on Thu, 10 Dec 2026.
 
 Helica is a pop and ambient artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam and London. Often billed alongside Kelora, ODG and Aidan Swank. Next up: Avalon Cafe Bermondsey, London on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ Helica is a pop and ambient artist based in United Kingdom, with 7 gigs on sound
 
 Kelora, ODG (1), Aidan Swank
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helica/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helica/)*

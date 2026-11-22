@@ -1,14 +1,13 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "El Bassline pres. Paul K at 303" on Sat, 21 Nov 2026.
+303 Audiophile Bar is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Sideways pres Omar at 303" on Thu, 26 Nov 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Alice Caroline, Aline (CH), Andrea Love and Bill Hates and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Alice Caroline, Aline (CH), Andrea Love and Bill Hates and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | El Bassline pres. Paul K at 303 | Bttologic |
 | Thu, 26 Nov 2026 | Sideways pres Omar at 303 | Jean Bressan, OMAR (UY) |
 | Fri, 27 Nov 2026 | 303 pres Mihai Pol - Bttologic - Vennegur | Bttologic, Mihai Pol, Vennegur |
 | Sat, 28 Nov 2026 | Taunt x Oblivium at 303 | Nathan Godro, Nicola Brusegan |
@@ -18,9 +17,10 @@
 | Thu, 10 Dec 2026 | SUTRA at 303 | Alice Caroline, Dominetrix, shiritaki |
 | Fri, 11 Dec 2026 | Tonomat Records Showcase pres Dragos Ilici & Prichindel at 303 | Dragos Ilici, Prichindel |
 | Fri, 18 Dec 2026 | El Bassline at 303 | Aline (CH) |
+| Sat, 19 Dec 2026 | Mirador at 303 |  |
 
 ## Address
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

@@ -1,6 +1,6 @@
 # N (33)
 
-N (33) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Dec 2026.
+N (33) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Dec 2026.
 
 N is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin and Tokyo. Often billed alongside SIGNAL (JP), ecec and fotprt. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ N is a techno and house artist based in Germany, with 7 gigs on soundcheck acros
 
 SIGNAL (JP), ecec, fotprt
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n-33/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n-33/)*

@@ -1,6 +1,6 @@
 # justpatrick
 
-justpatrick is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bi Nuu, Berlin on Thu, 31 Dec 2026.
+justpatrick is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bi Nuu, Berlin on Thu, 31 Dec 2026.
 
 justpatrick is a house and disco artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Kayoso, Camo Braxton and Sesame. Next up: Bi Nuu, Berlin on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ justpatrick is a house and disco artist based in Germany, with 7 gigs on soundch
 
 Kayoso, Camo Braxton, Sesame
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justpatrick/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justpatrick/)*

@@ -1,6 +1,6 @@
 # Carola
 
-Carola is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Terraza Dos Equis, Mexico City on Sun, 22 Nov 2026.
+Carola is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Terraza Dos Equis, Mexico City on Sun, 22 Nov 2026.
 
 Carola is a house and tech house artist, with 10 gigs on soundcheck across Berlin, Lisbon, Los Angeles and Madrid and 3 more. Often billed alongside Chris Gorrie, Chris Lake and Adnan Sharif. Next up: Terraza Dos Equis, Mexico City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Carola is a house and tech house artist, with 10 gigs on soundcheck across Berli
 
 Chris Gorrie, Chris Lake, Adnan Sharif
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carola/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carola/)*

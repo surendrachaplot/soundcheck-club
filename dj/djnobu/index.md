@@ -1,14 +1,13 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
+DJ Nobu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
 
-DJ Nobu is a techno and house artist based in Japan, with 258 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 73 more. Often billed alongside Wata Igarashi, DVS1 and Gabrielle Kwarteng. Next up: Pawnshop, Taipei on Sat 21 Nov.
+DJ Nobu is a techno and house artist based in Japan, with 258 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 73 more. Often billed alongside Wata Igarashi, DVS1 and Gabrielle Kwarteng. Next up: MIDNIGHT EAST, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Pawnshop | Taipei |
 | Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 4 Dec 2026 | Bassiani | Tbilisi |
 | Sat, 5 Dec 2026 | Frankhan Selectist | Istanbul |
@@ -20,6 +19,7 @@ DJ Nobu is a techno and house artist based in Japan, with 258 gigs on soundcheck
 
 ## Recently played
 
+- Pawnshop, Taipei · Sat, 21 Nov 2026
 - AZUL Oita, Kyushu · Fri, 13 Nov 2026
 - Mago, Chubu · Sat, 7 Nov 2026
 - WOMB, Tokyo · Fri, 30 Oct 2026
@@ -27,10 +27,9 @@ DJ Nobu is a techno and house artist based in Japan, with 258 gigs on soundcheck
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - Tanjong Pagar Distripark, Singapore · Sat, 3 Oct 2026
 - essaim, Paris · Fri, 25 Sept 2026
-- Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Wata Igarashi, DVS1, Gabrielle Kwarteng
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

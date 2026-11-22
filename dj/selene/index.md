@@ -1,6 +1,6 @@
 # Selene
 
-Selene is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
+Selene is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
 
 Selene is a disco and techno artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Netherlands, New York City and The Hague. Often billed alongside Alessandro Parisi, Benji DF and David Vunk. Next up: Paradigm, Netherlands on Sat 30 Jan.
 
@@ -24,4 +24,4 @@ Selene is a disco and techno artist based in United States of America, with 8 gi
 
 Alessandro Parisi, Benji DF, David Vunk
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selene/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selene/)*

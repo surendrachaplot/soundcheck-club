@@ -1,6 +1,6 @@
 # Slim (IE)
 
-Slim (IE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Cellar, London on Sat, 28 Nov 2026.
+Slim (IE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Cellar, London on Sat, 28 Nov 2026.
 
 Slim (IE) is a house and techno artist based in Ireland, with 30 gigs on soundcheck across Belfast, Bristol, Dublin and London and 2 more. Often billed alongside Royce Larøca, NM Musik and Niz (IE). Next up: Cellar, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Slim (IE) is a house and techno artist based in Ireland, with 30 gigs on soundch
 
 Royce Larøca, NM Musik, Niz (IE)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*

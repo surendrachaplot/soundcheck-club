@@ -1,6 +1,6 @@
 # Ajja
 
-Ajja is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at NADA Lisbon, Lisbon on Sat, 5 Dec 2026.
+Ajja is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at NADA Lisbon, Lisbon on Sat, 5 Dec 2026.
 
 Ajja is a psytrance and trance artist based in Switzerland, with 11 gigs on soundcheck across Athens, Basel, Geneva and Lisbon and 3 more. Often billed alongside AVALON, Act of Rage and Berg. Next up: NADA Lisbon, Lisbon on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ajja is a psytrance and trance artist based in Switzerland, with 11 gigs on soun
 
 AVALON, Act of Rage, Berg
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajja/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajja/)*

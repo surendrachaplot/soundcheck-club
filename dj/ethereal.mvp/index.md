@@ -1,13 +1,14 @@
 # ethereal.mvp
 
-ethereal.mvp is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
+ethereal.mvp is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
 
-ethereal.mvp is a bass and club artist based in United States of America, with 38 gigs on soundcheck across New York City. Often billed alongside kyxm, Pacha DJ and martine. Next up: Paragon, New York City on Fri 18 Dec.
+ethereal.mvp is a bass and club artist based in United States of America, with 39 gigs on soundcheck across Milan and New York City. Often billed alongside kyxm, Pacha DJ and martine. Next up: Bene Bene, Milan on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Bene Bene | Milan |
 | Fri, 18 Dec 2026 | Paragon | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ ethereal.mvp is a bass and club artist based in United States of America, with 3
 
 kyxm, Pacha DJ, martine (5)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethereal.mvp/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethereal.mvp/)*

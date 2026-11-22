@@ -1,6 +1,6 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Piñata presenta ROMARE (LIVE)" on Thu, 26 Nov 2026.
+La Nau is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Piñata presenta ROMARE (LIVE)" on Thu, 26 Nov 2026.
 
 La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Breixo Martinez, K A I, Ricky Gamez and ronni and 1 more. See dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
@@ -17,4 +17,4 @@ La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with
 
 Carrer d'Àlaba, 30, 08005 Barcelona, Barcelona
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*

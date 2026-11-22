@@ -1,6 +1,6 @@
 # viktorija
 
-viktorija is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Yalta Club, Sofia on Fri, 15 Jan 2027.
+viktorija is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Yalta Club, Sofia on Fri, 15 Jan 2027.
 
 viktorija is a techno and minimal techno artist based in Bulgaria, with 12 gigs on soundcheck across Sofia. Often billed alongside Miss Lidiya, Shade. and ANGL. Next up: Yalta Club, Sofia on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ viktorija is a techno and minimal techno artist based in Bulgaria, with 12 gigs 
 
 Miss Lidiya, Shade., ANGL (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorija/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorija/)*

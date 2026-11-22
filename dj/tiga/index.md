@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Tiga is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Tiga is a techno and house artist based in Canada, with 133 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 44 more. Often billed alongside DJ Holographic, DJ Tennis and Avalon Emerson. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -20,6 +20,7 @@ Tiga is a techno and house artist based in Canada, with 133 gigs on soundcheck a
 
 ## Recently played
 
+- TBA - Brussels, Brussels · Sat, 21 Nov 2026
 - Volt Club Milano, Milan · Thu, 19 Nov 2026
 - Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - Brooklyn Pacha, New York City · Fri, 6 Nov 2026
@@ -27,10 +28,9 @@ Tiga is a techno and house artist based in Canada, with 133 gigs on soundcheck a
 - RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
 - BRET, Amsterdam · Thu, 22 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- TBA - Metropolis Venue, Lithuania · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 DJ Holographic, DJ Tennis, Avalon Emerson
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

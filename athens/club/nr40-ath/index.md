@@ -1,6 +1,6 @@
 # Nr40 ATH
 
-Nr40 ATH is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Pop a Set" on Fri, 27 Nov 2026.
+Nr40 ATH is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Pop a Set" on Fri, 27 Nov 2026.
 
 Nr40 ATH is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Nr40 ATH is a music venue in Athens listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Pop a Set |  |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/nr40-ath/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/nr40-ath/)*

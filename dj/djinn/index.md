@@ -1,18 +1,18 @@
 # Djinn
 
-Djinn is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The White Hotel, Manchester on Sat, 21 Nov 2026.
+Djinn is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Vault Nightclub Bournemouth, South-east on Sat, 19 Dec 2026.
 
-Djinn is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 16 more. Often billed alongside Double O, Mantra and Fabio. Next up: The White Hotel, Manchester on Sat 21 Nov.
+Djinn is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 16 more. Often billed alongside Double O, Mantra and Fabio. Next up: The Vault Nightclub Bournemouth, South East on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | The White Hotel | Manchester |
 | Sat, 19 Dec 2026 | The Vault Nightclub Bournemouth | South-east |
 
 ## Recently played
 
+- The White Hotel, Manchester · Sat, 21 Nov 2026
 - fabric, London · Fri, 24 Jul 2026
 - Void Club, Berlin · Sat, 2 May 2026
 - Archives, London · Sat, 14 Mar 2026
@@ -20,10 +20,9 @@ Djinn is a drum & bass and jungle artist based in United Kingdom, with 45 gigs o
 - K-Bar Powiśle, Warsaw · Wed, 31 Dec 2025
 - K-Bar Powiśle, Warsaw · Fri, 12 Dec 2025
 - Corsica Studios, London · Sat, 29 Nov 2025
-- Beaver Works, Leeds · Fri, 14 Nov 2025
 
 ## Shares bills with
 
 Double O, Mantra, Fabio
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djinn/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djinn/)*

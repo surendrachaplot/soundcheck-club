@@ -1,6 +1,6 @@
 # Ploy
 
-Ploy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
+Ploy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
 
 Ploy is a techno and house artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Batu, Parris and Ayesha. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Ploy is a techno and house artist based in United Kingdom, with 137 gigs on soun
 
 Batu, Parris, Ayesha
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*

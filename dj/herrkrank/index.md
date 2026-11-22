@@ -1,6 +1,6 @@
 # Herr Krank
 
-Herr Krank is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at La Java, Paris on Sat, 12 Dec 2026.
+Herr Krank is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Java, Paris on Sat, 12 Dec 2026.
 
 Herr Krank is a house and techno artist based in France, with 61 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Deborah Aime La Bagarre, Emma B and Baccus. Next up: La Java, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Herr Krank is a house and techno artist based in France, with 61 gigs on soundch
 
 Deborah Aime La Bagarre, Emma B, Baccus
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*

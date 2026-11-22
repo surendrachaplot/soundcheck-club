@@ -1,6 +1,6 @@
 # Sugo
 
-Sugo is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Biddle Bros, London on Fri, 27 Nov 2026.
+Sugo is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Biddle Bros, London on Fri, 27 Nov 2026.
 
 Sugo is an experimental and electronica artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Bitvert, A'Bear and EMILIA. Next up: Biddle Bros, London on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Sugo is an experimental and electronica artist based in United Kingdom, with 5 g
 
 Bitvert, A'Bear, EMILIA
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugo/)*

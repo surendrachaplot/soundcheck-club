@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+1morning is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 1morning is a techno and house artist based in United States of America, with 144 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Akua, Regal86 and DJ Stingray 313. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -29,4 +29,4 @@
 
 Akua, Regal86, DJ Stingray 313
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

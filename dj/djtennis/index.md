@@ -1,15 +1,13 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+DJ Tennis is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 344 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 71 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+DJ Tennis is a house and techno artist based in Italy, with 344 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 71 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Sun, 22 Nov 2026 | Club Space Miami | Miami |
 | Sun, 22 Nov 2026 | Sunday Sunday | Mexico City |
 | Fri, 27 Nov 2026 | Audio Club | Geneva |
@@ -36,4 +34,4 @@ DJ Tennis is a house and techno artist based in Italy, with 344 gigs on soundche
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

@@ -1,6 +1,6 @@
 # Zona pres: AA Showcase - Adriatqiue at Playa Leone
 
-Zona pres: AA Showcase - Adriatqiue at Playa Leone on Sat 19 Dec, Morocco. 1 artist: Adriatique. See the line-up on soundcheck.
+Zona pres: AA Showcase - Adriatqiue at Playa Leone on Sat 19 Dec, Morocco. 2 artists: Adriatique and Samm (BE). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Zona pres: AA Showcase - Adriatqiue at Playa Leone on Sat 19 Dec, Morocco. 1 art
 ## Line-up
 
 - Adriatique
+- Samm (BE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2563128-zona-pres-aa-showcase-adriatqiue-at-playa-leone/)*

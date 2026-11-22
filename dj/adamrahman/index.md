@@ -1,6 +1,6 @@
 # Adam Rahman
 
-Adam Rahman is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Saba Event Space Al Seef, Dubai on Fri, 27 Nov 2026.
+Adam Rahman is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Saba Event Space Al Seef, Dubai on Fri, 27 Nov 2026.
 
 Adam Rahman is a techno and idm artist, with 11 gigs on soundcheck across Dubai. Often billed alongside Zico (KSR), Jovian and Andhim. Next up: Saba Event Space Al Seef, Dubai on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Adam Rahman is a techno and idm artist, with 11 gigs on soundcheck across Dubai.
 
 Zico (KSR), Jovian, Andhim
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrahman/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrahman/)*

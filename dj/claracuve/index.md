@@ -1,14 +1,13 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Clara Cuvé is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
-Clara Cuvé is a techno and house artist based in Germany, with 283 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+Clara Cuvé is a techno and house artist based in Germany, with 283 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Mon, 7 Dec 2026 | Gate Milano | Milan |
@@ -33,4 +32,4 @@ Clara Cuvé is a techno and house artist based in Germany, with 283 gigs on soun
 
 Kobosil, I Hate Models, 999999999
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

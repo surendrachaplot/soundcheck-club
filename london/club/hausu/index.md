@@ -1,15 +1,13 @@
 # Hausu
 
-Hausu is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Marie Malarie: All Night Long at Hausu" on Sat, 21 Nov 2026.
+Hausu is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "fka boursin: All Night Long" on Fri, 27 Nov 2026.
 
-Hausu is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Big Hands, Emanuel Pavlova, fka boursin and Marie Malarie and 1 more. See dates, start times and who's playing.
+Hausu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Big Hands, Emanuel Pavlova, fka boursin and Marie Malarie and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Marie Malarie: All Night Long at Hausu | Marie Malarie |
-| Sat, 21 Nov 2026 | Ru [12th Isle] All Night Long |  |
 | Fri, 27 Nov 2026 | fka boursin: All Night Long | fka boursin |
 | Fri, 4 Dec 2026 | Paul Day: All Night Long |  |
 | Sat, 5 Dec 2026 |  All Night Long |  |
@@ -18,4 +16,4 @@ Hausu is a music venue in London listed on soundcheck. 9 upcoming gigs, with lin
 | Fri, 18 Dec 2026 | Emanuel Pavlova: All Night Long | Emanuel Pavlova |
 | Sat, 19 Dec 2026 | Big Hands: All Night Long | Big Hands |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hausu/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hausu/)*

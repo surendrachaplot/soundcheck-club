@@ -1,6 +1,6 @@
 # Kelan
 
-Kelan is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+Kelan is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
 
 Kelan is a post-punk and industrial artist based in United Kingdom, with 5 gigs on soundcheck across Bristol, London and Paris. Often billed alongside Medis, ALYA L and Anina. Next up: The Island, Bristol on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ Kelan is a post-punk and industrial artist based in United Kingdom, with 5 gigs 
 
 Medis, ALYA L, Anina
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelan/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelan/)*

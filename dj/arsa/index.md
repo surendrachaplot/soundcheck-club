@@ -1,6 +1,6 @@
 # ARSA
 
-ARSA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location Burgos (casco historico), North on Fri, 1 Jan 2027.
+ARSA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Location Burgos (casco historico), North on Fri, 1 Jan 2027.
 
 ARSA is an electronica and techno artist based in Spain, with 11 gigs on soundcheck across Madrid, Mexico City and North. Often billed alongside Katire, Vilor and Montse. Next up: TBA - Secret Location Burgos (casco historico), North on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ ARSA is an electronica and techno artist based in Spain, with 11 gigs on soundch
 
 Katire, Vilor, Montse
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arsa/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arsa/)*

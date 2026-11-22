@@ -1,6 +1,6 @@
 # Pedro Bertho
 
-Pedro Bertho is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Super7, Lyon on Sat, 28 Nov 2026.
+Pedro Bertho is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Super7, Lyon on Sat, 28 Nov 2026.
 
 Pedro Bertho is a house and club artist based in Brazil, with 30 gigs on soundcheck across Bogotá, Lisbon, Lyon and Nantes and 3 more. Often billed alongside Patxi, Dom Peter and Cornelius Doctor. Next up: Super7, Lyon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Pedro Bertho is a house and club artist based in Brazil, with 30 gigs on soundch
 
 Patxi, Dom Peter, Cornelius Doctor
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrobertho/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrobertho/)*

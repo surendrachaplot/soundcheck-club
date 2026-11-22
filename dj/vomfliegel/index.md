@@ -1,6 +1,6 @@
 # VOMFLIEGEL
 
-VOMFLIEGEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at CHICO, Mexico City on Fri, 27 Nov 2026.
+VOMFLIEGEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at CHICO, Mexico City on Fri, 27 Nov 2026.
 
 VOMFLIEGEL is a techno and house artist based in Mexico, with 26 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Disco 86 and Enya Botello. Next up: CHICO, Mexico City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ VOMFLIEGEL is a techno and house artist based in Mexico, with 26 gigs on soundch
 
 Bluecommand, Disco 86, Enya Botello
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfliegel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfliegel/)*

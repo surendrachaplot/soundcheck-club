@@ -1,6 +1,6 @@
 # Fasme
 
-Fasme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+Fasme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
 
 Fasme is a techno and house artist based in France, with 44 gigs on soundcheck across Berlin, Bordeaux, Bratislava and Brussels and 11 more. Often billed alongside Binary Digit, LB aka LABAT and Laze. Next up: ://about blank, Berlin on Sat 21 Nov.
 
@@ -12,6 +12,7 @@ Fasme is a techno and house artist based in France, with 44 gigs on soundcheck a
 
 ## Recently played
 
+- ://about blank, Berlin · Sat, 21 Nov 2026
 - Virage, Paris · Fri, 6 Nov 2026
 - Le Sucre, Lyon · Fri, 16 Oct 2026
 - The Waiting Room, London · Fri, 25 Sept 2026
@@ -19,10 +20,9 @@ Fasme is a techno and house artist based in France, with 44 gigs on soundcheck a
 - TBA - Secret Place, Marseille · Fri, 7 Aug 2026
 - La Cité Fertile, Paris · Sat, 18 Jul 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 27 Jun 2026
-- Circle Park, Brussels · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Binary Digit, LB aka LABAT, Laze
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*

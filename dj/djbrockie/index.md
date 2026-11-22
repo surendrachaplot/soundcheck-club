@@ -1,8 +1,8 @@
 # DJ Brockie
 
-DJ Brockie is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Last Arch, London on Fri, 11 Dec 2026.
+DJ Brockie is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Last Arch, London on Fri, 11 Dec 2026.
 
-DJ Brockie is a jungle and drum & bass artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Jumping Jack Frost. Next up: Last Arch, London on Fri 11 Dec.
+DJ Brockie is a jungle and drum & bass artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Jumping Jack Frost. Next up: Last Arch, London on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ DJ Brockie is a jungle and drum & bass artist based in United Kingdom, with 72 g
 | Sat, 19 Dec 2026 | EartH | London |
 | Sun, 27 Dec 2026 | E1 | London |
 | Sun, 27 Dec 2026 | Egg London | London |
+| Sat, 27 Mar 2027 | fabric | London |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ DJ Brockie is a jungle and drum & bass artist based in United Kingdom, with 72 g
 
 MC Det, The Ragga Twins, Jumping Jack Frost
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrockie/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrockie/)*

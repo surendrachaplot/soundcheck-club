@@ -1,15 +1,13 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Indo Warehouse - Spice Trade" on Sat, 21 Nov 2026.
+Bauhaus is a music venue in Houston with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Doubleheader: Giorgia Angiuli & Rafa Barrios" on Wed, 25 Nov 2026.
 
-Bauhaus is a music venue in Houston listed on soundcheck. 9 upcoming gigs, with line-ups including Darude, Gene Farris, Giorgia Angiuli and JERRO and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
+Bauhaus is a music venue in Houston listed on soundcheck. 7 upcoming gigs, with line-ups including Darude, Gene Farris, Giorgia Angiuli and JERRO and 1 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Indo Warehouse - Spice Trade | Kahani, Kunal Merchant |
-| Sat, 21 Nov 2026 | Yasmina | YASMINA |
 | Wed, 25 Nov 2026 | Doubleheader: Giorgia Angiuli & Rafa Barrios | Giorgia Angiuli, Rafa Barrios |
 | Fri, 27 Nov 2026 | Darude - Hype Tour 2026 | Darude |
 | Sat, 28 Nov 2026 | AHMED SPINS |  |
@@ -22,4 +20,4 @@ Bauhaus is a music venue in Houston listed on soundcheck. 9 upcoming gigs, with 
 
 1803 Pease St, Houston, TX 77003, US, Houston
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*

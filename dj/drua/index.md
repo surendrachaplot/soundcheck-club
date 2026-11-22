@@ -1,6 +1,6 @@
 # Drua
 
-Drua is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Sugar Club, Dublin on Tue, 22 Dec 2026.
+Drua is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Sugar Club, Dublin on Tue, 22 Dec 2026.
 
 Drua is a techno and trance artist, with 11 gigs on soundcheck across Amsterdam, Dublin, London and Tokyo. Often billed alongside Selky, Ardishko and Asphalt DJ. Next up: The Sugar Club, Dublin on Tue 22 Dec.
 
@@ -25,4 +25,4 @@ Drua is a techno and trance artist, with 11 gigs on soundcheck across Amsterdam,
 
 Selky, Ardishko, Asphalt DJ
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drua/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drua/)*

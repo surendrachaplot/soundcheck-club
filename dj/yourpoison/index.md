@@ -1,6 +1,6 @@
 # Your Poison
 
-Your Poison is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at CCO La Rayonne, Lyon on Thu, 31 Dec 2026.
+Your Poison is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at CCO La Rayonne, Lyon on Thu, 31 Dec 2026.
 
 Your Poison is a techno and trance artist based in France, with 3 gigs on soundcheck across Lyon. Often billed alongside Cara Elizabeth, ENFAN and Glaskeen. Next up: CCO La Rayonne, Lyon on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Your Poison is a techno and trance artist based in France, with 3 gigs on soundc
 
 Cara Elizabeth, ENFAN, Glaskeen
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yourpoison/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yourpoison/)*

@@ -1,6 +1,6 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and Dub Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+Luigi Tozzi is a Techno and Dub Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
 
 Luigi Tozzi is a techno and dub techno artist based in Italy, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
 
@@ -10,7 +10,6 @@ Luigi Tozzi is a techno and dub techno artist based in Italy, with 121 gigs on s
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
-| Fri, 20 Nov 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 3 Dec 2026 | Start.Bahn - Genezarethkirche | Berlin |
 | Sat, 5 Dec 2026 | FOLD | London |
@@ -21,6 +20,7 @@ Luigi Tozzi is a techno and dub techno artist based in Italy, with 121 gigs on s
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles · Sat, 21 Nov 2026
 - TBA - Los Angeles, Los Angeles · Fri, 20 Nov 2026
 - TBA - Los Angeles, Los Angeles · Fri, 20 Nov 2026
 - TBA - San Francisco, San Francisco/Oakland · Fri, 20 Nov 2026
@@ -28,10 +28,9 @@ Luigi Tozzi is a techno and dub techno artist based in Italy, with 121 gigs on s
 - Azimut Club, Turin · Sat, 24 Oct 2026
 - MÄX, Zurich · Sat, 17 Oct 2026
 - Jasna 1, Warsaw · Sat, 10 Oct 2026
-- RSO.BERLIN, Berlin · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Laura BCR, Feral, Claudio PRC
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

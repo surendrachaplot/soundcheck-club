@@ -1,14 +1,13 @@
 # XDB
 
-XDB is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Post Bar, Helsinki on Sat, 21 Nov 2026.
+XDB is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
-XDB is a techno and house artist based in Germany, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside dj sweet6teen, Edward and Vera. Next up: Post Bar, Helsinki on Sat 21 Nov.
+XDB is a techno and house artist based in Germany, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside dj sweet6teen, Edward and Vera. Next up: Mia Mao, Paris on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Post Bar | Helsinki |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Sat, 28 Nov 2026 | TBA - Special Secret Garden. | Barcelona |
 | Fri, 4 Dec 2026 | FOLD | London |
@@ -22,6 +21,7 @@ XDB is a techno and house artist based in Germany, with 150 gigs on soundcheck a
 
 ## Recently played
 
+- Post Bar, Helsinki · Sat, 21 Nov 2026
 - Shelter Amsterdam, Amsterdam · Fri, 6 Nov 2026
 - Collect LX Factory, Lisbon · Sat, 31 Oct 2026
 - VENT, Tokyo · Sat, 24 Oct 2026
@@ -29,10 +29,9 @@ XDB is a techno and house artist based in Germany, with 150 gigs on soundcheck a
 - ZENNER, Berlin · Fri, 16 Oct 2026
 - Commune Athens, Greece · Sat, 3 Oct 2026
 - DURO, Milan · Fri, 2 Oct 2026
-- DURO, Milan · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 dj sweet6teen, Edward, Vera
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*

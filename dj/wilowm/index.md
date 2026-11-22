@@ -1,14 +1,15 @@
 # Wilowm
 
-Wilowm is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Macarena Club, Barcelona on Sun, 22 Nov 2026.
+Wilowm is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Macarena Club, Barcelona on Sun, 22 Nov 2026.
 
-Wilowm is an electro and acid artist based in Uruguay, with 17 gigs on soundcheck across Barcelona. Often billed alongside Nicolas Amaro, Bruno (ES) and Fdez. Next up: Macarena Club, Barcelona on Sun 22 Nov.
+Wilowm is an electro and acid artist based in Uruguay, with 18 gigs on soundcheck across Barcelona. Often billed alongside Nicolas Amaro, Bruno (ES) and Fdez. Next up: Macarena Club, Barcelona on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Macarena Club | Barcelona |
+| Sun, 13 Dec 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Wilowm is an electro and acid artist based in Uruguay, with 17 gigs on soundchec
 
 Nicolas Amaro, Bruno (ES), Fdez
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilowm/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilowm/)*

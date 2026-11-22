@@ -1,6 +1,6 @@
 # Schwa
 
-Schwa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
+Schwa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
 
 Schwa is a techno and house artist based in Czech Republic, with 3 gigs on soundcheck across Prague. Often billed alongside Fatty M, Misha Jaru and Teresi. Next up: Ankali & Planeta Za, Prague on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Schwa is a techno and house artist based in Czech Republic, with 3 gigs on sound
 
 Fatty M, Misha Jaru, Teresi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwa/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwa/)*

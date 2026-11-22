@@ -1,6 +1,6 @@
 # ItsLucid
 
-ItsLucid is a Experimental and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Atno, Budapest on Fri, 4 Dec 2026.
+ItsLucid is a Experimental and Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Atno, Budapest on Fri, 4 Dec 2026.
 
 ItsLucid is an experimental and footwork artist based in Hungary, with 5 gigs on soundcheck across Budapest, Ljubljana and Prague. Often billed alongside asvany, 96zen and Gnosis. Next up: Atno, Budapest on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ ItsLucid is an experimental and footwork artist based in Hungary, with 5 gigs on
 
 asvany, 96zen, Gnosis
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itslucid/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itslucid/)*

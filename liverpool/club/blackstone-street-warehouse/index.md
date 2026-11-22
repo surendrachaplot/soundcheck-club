@@ -1,6 +1,6 @@
 # Blackstone Street Warehouse
 
-Blackstone Street Warehouse is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Circus presents Chris Stassy Sun 22nd Nov Liverpool" on Sun, 22 Nov 2026.
+Blackstone Street Warehouse is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Circus presents Chris Stassy Sun 22nd Nov Liverpool" on Sun, 22 Nov 2026.
 
 Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, with line-ups including Ben Sterling, CHRIS STASSY, Ewan McVicar and Fantasm and 2 more. See dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
 
@@ -20,4 +20,4 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 
 Blackstone Street, Liverpool, L5 9TL, Liverpool
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*

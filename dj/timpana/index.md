@@ -1,8 +1,8 @@
 # TIMPANA
 
-TIMPANA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
+TIMPANA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
 
-TIMPANA is an experimental and electronica artist, with 2 gigs on soundcheck across Bolivia and Mexico City. Often billed alongside Alfonso RV, Ivana and Marcel Soux. Next up: Thunupa Festival, Salar de Uyuni, Bolivia on Wed 30 Dec.
+TIMPANA is an experimental and electronica artist based in Bolivia, with 2 gigs on soundcheck across Bolivia and Mexico City. Often billed alongside Alfonso RV, Ivana and Marcel Soux. Next up: Thunupa Festival, Salar de Uyuni, Bolivia on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ TIMPANA is an experimental and electronica artist, with 2 gigs on soundcheck acr
 
 Alfonso RV, Ivana, Marcel Soux
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timpana/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timpana/)*

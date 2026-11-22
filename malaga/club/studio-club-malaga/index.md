@@ -1,14 +1,13 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Studio Club x GOXE" on Sat, 21 Nov 2026.
+Studio Club Malaga is a music venue in Malaga with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "STUDIO X STRUCTONE" on Fri, 27 Nov 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 13 upcoming gigs, with line-ups including 2HOT2PLAY, Adrian Mills, Agustin Giri and Aida Arko and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 12 upcoming gigs, with line-ups including Adrian Mills, Agustin Giri, Aida Arko and Akua and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Studio Club x GOXE | 2HOT2PLAY, PETERBLUE, WILDERÍCH |
 | Fri, 27 Nov 2026 | STUDIO X STRUCTONE | Arcfilter, Laure Croft, ORBE, Yasmin Regisford |
 | Sat, 28 Nov 2026 | Studio Club X GOXE | Aida Arko, BIIA, BIIANCO |
 | Fri, 4 Dec 2026 | Studio Club Invites: Charlie Sparks | Charlie Sparks, GEORGE RADSPORT, Part Time Killer |
@@ -18,9 +17,10 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 13 upcoming 
 | Sat, 12 Dec 2026 | STUDIO X METRICA 13th Anniversary | Agustin Giri, Argia, Auggië, Foreverness, Gespona, Liminal, MARA BRAVO, Miguel Payda, Syper, nox |
 | Fri, 18 Dec 2026 | STUDIO X JAZZY | JAZZY (2) |
 | Sat, 19 Dec 2026 | STUDIO X COCOA | HoneyLuv, Miluhska, Ssero |
+| Sat, 26 Dec 2026 | Studio Club presents: Trancemaster Krause, Cara Elizabeth AND Montero | Cara Elizabeth, Montero, Trancemaster Krause |
 
 ## Address
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

@@ -1,6 +1,6 @@
 # UniKhatu
 
-UniKhatu is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 30 Jan 2027.
+UniKhatu is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 30 Jan 2027.
 
 UniKhatu is a techno and tech house artist based in Georgia, with 63 gigs on soundcheck across Berlin, Ghent and Poznan. Often billed alongside pink-panther, James Cherry and Ayham. Next up: TBA - Secret Location, Berlin on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ UniKhatu is a techno and tech house artist based in Georgia, with 63 gigs on sou
 
 pink-panther, James Cherry, Ayham
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*

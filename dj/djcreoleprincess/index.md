@@ -1,6 +1,6 @@
 # DJ Creole Princess
 
-DJ Creole Princess is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Beursschouwburg, Brussels on Fri, 4 Dec 2026.
+DJ Creole Princess is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Beursschouwburg, Brussels on Fri, 4 Dec 2026.
 
 DJ Creole Princess is a hip-hop and house artist based in United States of America, with 8 gigs on soundcheck across Berlin, Brussels, London and New York City and 1 more. Often billed alongside DotTV, Kieran Dotwav and TEBI TV. Next up: Beursschouwburg, Brussels on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ DJ Creole Princess is a hip-hop and house artist based in United States of Ameri
 
 DotTV, Kieran Dotwav, TEBI TV
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcreoleprincess/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcreoleprincess/)*

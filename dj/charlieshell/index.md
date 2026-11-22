@@ -1,6 +1,6 @@
 # Charlie Shell
 
-Charlie Shell is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Village Studios, Vancouver on Fri, 4 Dec 2026.
+Charlie Shell is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Village Studios, Vancouver on Fri, 4 Dec 2026.
 
 Charlie Shell is a garage and house artist based in Australia, with 28 gigs on soundcheck across Adelaide, Brisbane, Bristol and Calgary and 6 more. Often billed alongside Scrappa, C100 and Eva Charley. Next up: Village Studios, Vancouver on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Charlie Shell is a garage and house artist based in Australia, with 28 gigs on s
 
 Scrappa, C100, Eva Charley
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieshell/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieshell/)*

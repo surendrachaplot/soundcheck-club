@@ -1,18 +1,18 @@
 # Kanti
 
-Kanti is a Neo Perreo and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Kanti is a Neo Perreo and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
 
-Kanti is a neo perreo and reggaeton artist based in Spain, with 36 gigs on soundcheck across Barcelona and Madrid. Often billed alongside DJ2D2, Sushinigami and PethbUri. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
+Kanti is a neo perreo and reggaeton artist based in Spain, with 36 gigs on soundcheck across Barcelona and Madrid. Often billed alongside DJ2D2, Sushinigami and PethbUri. Next up: Razzmatazz, Barcelona on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Razzmatazz | Barcelona |
 | Fri, 11 Dec 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 
+- Razzmatazz, Barcelona · Sat, 21 Nov 2026
 - Razzmatazz, Barcelona · Fri, 23 Oct 2026
 - Razzmatazz, Barcelona · Fri, 4 Sept 2026
 - Razzmatazz, Barcelona · Fri, 10 Apr 2026
@@ -20,10 +20,9 @@ Kanti is a neo perreo and reggaeton artist based in Spain, with 36 gigs on sound
 - Razzmatazz, Barcelona · Fri, 20 Feb 2026
 - Razzmatazz, Barcelona · Fri, 19 Dec 2025
 - Razzmatazz, Barcelona · Fri, 12 Dec 2025
-- Core, Madrid · Mon, 8 Dec 2025
 
 ## Shares bills with
 
 DJ2D2, Sushinigami, PethbUri
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanti/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanti/)*

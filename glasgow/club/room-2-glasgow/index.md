@@ -1,14 +1,13 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Nick's Night 2026" on Sat, 21 Nov 2026.
+Room 2 Glasgow is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "PHG Presents: 6EJOU (Live)" on Fri, 27 Nov 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including 6EJOU, Dominique., Frankie Elyse and Jalo and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including 6EJOU, Jalo, Mauro Picotto and Tempo and 1 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Nick's Night 2026 | Dominique., Frankie Elyse, McMSTR, RUBY RÖUGE |
 | Fri, 27 Nov 2026 | PHG Presents: 6EJOU (Live) | 6EJOU |
 | Sat, 28 Nov 2026 | Colours presents Mauro Picotto | Mauro Picotto |
 | Fri, 4 Dec 2026 | Havox Presents: Jalo, Imperia & Umbra | Jalo, UMBRA |
@@ -22,4 +21,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

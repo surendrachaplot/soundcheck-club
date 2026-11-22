@@ -1,6 +1,6 @@
 # DeepChord
 
-DeepChord is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+DeepChord is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
 DeepChord is a techno and dub techno artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 6 more. Often billed alongside Claudio PRC, Helena Hauff and K Wata. Next up: Nowadays, New York City on Sat 21 Nov.
 
@@ -13,6 +13,7 @@ DeepChord is a techno and dub techno artist based in United States of America, w
 
 ## Recently played
 
+- Nowadays, New York City · Sat, 21 Nov 2026
 - ASIAT Park, Brussels · Thu, 14 May 2026
 - TBA - 251 White Lake Road, Sparta NJ 07871, New York City · Thu, 12 Jun 2025
 - Hart Plaza, Detroit · Sat, 24 May 2025
@@ -20,10 +21,9 @@ DeepChord is a techno and dub techno artist based in United States of America, w
 - Razzmatazz, Barcelona · Sat, 1 Feb 2025
 - Garage Noord, Amsterdam · Fri, 31 Jan 2025
 - Tresor / Globus, Berlin · Sat, 2 Nov 2024
-- Magyar Zene Háza, Budapest · Fri, 1 Nov 2024
 
 ## Shares bills with
 
 Claudio PRC, Helena Hauff, K Wata
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepchord/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepchord/)*

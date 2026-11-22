@@ -1,6 +1,6 @@
 # Minister Ballantine
 
-Minister Ballantine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bricks, London on Thu, 31 Dec 2026.
+Minister Ballantine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bricks, London on Thu, 31 Dec 2026.
 
 Minister Ballantine is a house and disco artist, with 19 gigs on soundcheck across Brighton and London. Often billed alongside Oh See, Myriad. and Tiffany Quinn. Next up: Bricks, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Minister Ballantine is a house and disco artist, with 19 gigs on soundcheck acro
 
 Oh See, Myriad., Tiffany Quinn
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ministerballantine/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ministerballantine/)*

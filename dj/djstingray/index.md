@@ -1,14 +1,13 @@
 # DJ Stingray 313
 
-DJ Stingray 313 is a Techno and Electro artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+DJ Stingray 313 is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
 
-DJ Stingray 313 is a techno and electro artist based in United States of America, with 273 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 88 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+DJ Stingray 313 is a techno and electro artist based in United States of America, with 273 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 88 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: Tresor / Globus, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 27 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 28 Nov 2026 | Luma | Milan |
@@ -33,4 +32,4 @@ DJ Stingray 313 is a techno and electro artist based in United States of America
 
 DJ MELL G, Helena Hauff, Akua
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*

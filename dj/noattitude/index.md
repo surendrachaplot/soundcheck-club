@@ -1,6 +1,6 @@
 # no:attitude
 
-no:attitude is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
+no:attitude is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
 
 no:attitude is a tech house and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Voss, Daniël and Boris Werner. Next up: Toekomstmuziek, Amsterdam on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ no:attitude is a tech house and house artist based in Netherlands, with 5 gigs o
 
 Voss, Daniël, Boris Werner
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noattitude/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noattitude/)*

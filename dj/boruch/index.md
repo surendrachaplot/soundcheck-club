@@ -1,6 +1,6 @@
 # Boruch
 
-Boruch is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Not For Sale Gallery, London on Sat, 28 Nov 2026.
+Boruch is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Not For Sale Gallery, London on Sat, 28 Nov 2026.
 
 Boruch is a house and minimal techno artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside DJayden, Carlitus and ElPeche. Next up: Not For Sale Gallery, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Boruch is a house and minimal techno artist based in United Kingdom, with 6 gigs
 
 DJayden, Carlitus, ElPeche
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boruch/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boruch/)*

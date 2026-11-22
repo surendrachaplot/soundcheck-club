@@ -1,18 +1,18 @@
 # SPARKZ
 
-SPARKZ is a Club and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 20 Nov 2026. Next at B side Athens, Athens on Fri, 20 Nov 2026.
+SPARKZ is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hidden, Manchester on Fri, 5 Feb 2027.
 
-SPARKZ is a club and breakbeat artist based in Greece, with 4 gigs on soundcheck across Athens and Manchester. Often billed alongside Chunky, Commodo and Felixculpah. Next up: B side Athens, Athens on Fri 20 Nov.
+SPARKZ is a club and breakbeat artist based in Greece, with 4 gigs on soundcheck across Athens and Manchester. Often billed alongside Chunky, Commodo and Felixculpah. Next up: Hidden, Manchester on Fri 5 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | B side Athens | Athens |
 | Fri, 5 Feb 2027 | Hidden | Manchester |
 
 ## Recently played
 
+- B side Athens, Athens · Fri, 20 Nov 2026
 - Patision65, Athens · Fri, 13 Nov 2026
 - B side Athens, Athens · Sat, 31 Oct 2026
 
@@ -20,4 +20,4 @@ SPARKZ is a club and breakbeat artist based in Greece, with 4 gigs on soundcheck
 
 Chunky, Commodo, Felixculpah
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz/)*

@@ -1,8 +1,8 @@
 # Madam X
 
-Madam X is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
+Madam X is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
-Madam X is a bass and techno artist based in United Kingdom, with 113 gigs on soundcheck across Athens, Atlanta, Auckland and Baltimore and 37 more. Often billed alongside Poor J’Darr, Jay Carder and Debba. Next up: Petco Park, San Diego on Wed 30 Dec.
+Madam X is a bass and techno artist based in United Kingdom, with 114 gigs on soundcheck across Athens, Atlanta, Auckland and Baltimore and 37 more. Often billed alongside Poor J’Darr, Jay Carder and Debba. Next up: Petco Park, San Diego on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Madam X is a bass and techno artist based in United Kingdom, with 113 gigs on so
 | --- | --- | --- |
 | Wed, 30 Dec 2026 | Petco Park | San-diego |
 | Thu, 31 Dec 2026 | Monarch | San Francisco/Oakland |
+| Fri, 19 Feb 2027 | Gretchen | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Madam X is a bass and techno artist based in United Kingdom, with 113 gigs on so
 
 Poor J’Darr, Jay Carder, Debba
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*

@@ -1,14 +1,15 @@
 # ZANDOLY
 
-ZANDOLY is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
+ZANDOLY is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
 
-ZANDOLY is a techno and ambient artist based in France, with 25 gigs on soundcheck across Berlin, Paris and Prague. Often billed alongside Gabrielle (DE), An-T and Elis. Next up: Mena Berlin, Berlin on Fri 4 Dec.
+ZANDOLY is a techno and ambient artist based in France, with 26 gigs on soundcheck across Berlin, Paris and Prague. Often billed alongside Gabrielle (DE), An-T and Elis. Next up: Mena Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Mena Berlin | Berlin |
+| Fri, 11 Dec 2026 | Rollberg26 | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ZANDOLY is a techno and ambient artist based in France, with 25 gigs on soundche
 
 Gabrielle (DE), An-T, Elis
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zandoly/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zandoly/)*

@@ -1,6 +1,6 @@
 # miranda ku
 
-miranda ku is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pawnshop, Taipei on Thu, 31 Dec 2026.
+miranda ku is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pawnshop, Taipei on Thu, 31 Dec 2026.
 
 miranda ku is a techno and trance artist based in Taiwan, with 62 gigs on soundcheck across Manila, Seoul, Taipei and Tokyo. Often billed alongside Kerena, Tsui and Al Burro. Next up: Pawnshop, Taipei on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ miranda ku is a techno and trance artist based in Taiwan, with 62 gigs on soundc
 
 Kerena, Tsui, Al Burro
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miranda-ku/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miranda-ku/)*

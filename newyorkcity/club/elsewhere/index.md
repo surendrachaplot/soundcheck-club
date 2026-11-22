@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Snakehips, L3Ni, TWOFACED, K.ONE, aNYthing Goes: Tone Troy, aya, Bella de Leon" on Sat, 21 Nov 2026.
+Elsewhere is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DayBreak, Woah Nelliee, Hugh Miles & Travis George" on Wed, 25 Nov 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 22 upcoming gigs, with line-ups including anamē, Angel Money, ARINI and ARMANA KHAN and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -8,7 +8,6 @@ Elsewhere is a music venue in New York City listed on soundcheck. 22 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Snakehips, L3Ni, TWOFACED, K.ONE, aNYthing Goes: Tone Troy, aya, Bella de Leon | L3Ni, Tone Troy, aya |
 | Wed, 25 Nov 2026 | DayBreak, Woah Nelliee, Hugh Miles & Travis George |  |
 | Fri, 27 Nov 2026 | STAMPED: AYA x Friends - BROOKLYN, NY - BLACK FRIDAY |  |
 | Sat, 28 Nov 2026 | DICKAPPOINTMENT INVITES: TROMAC with Kenni Javon and Libby Brothers |  |
@@ -18,9 +17,10 @@ Elsewhere is a music venue in New York City listed on soundcheck. 22 upcoming gi
 | Sat, 5 Dec 2026 | DOST Elsewhere TAKEOVER | ARINI, DJ ing, Dipto, Miti, ur kanmani |
 | Fri, 11 Dec 2026 | Only Fire, Reysha Rami (Live), Angel Money (DJ Set), flirty800 | Angel Money, Only Fire, Reysha Rami, flirty800 |
 | Fri, 18 Dec 2026 | Shabe Yalda with Club Joon | Marjan |
+| Sat, 19 Dec 2026 | Perreo Intenso: Noche Buena |  |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

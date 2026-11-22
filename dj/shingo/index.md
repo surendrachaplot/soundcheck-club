@@ -1,13 +1,14 @@
 # Shingo
 
-Shingo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Circus Osaka, Osaka on Sat, 12 Dec 2026.
+Shingo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Numm, Tokyo on Thu, 26 Nov 2026.
 
-Shingo is a techno and house artist based in Japan, with 75 gigs on soundcheck across Bali, Hanoi, Kyoto and Liverpool and 3 more. Often billed alongside ONO, VIDEOBOY and AOKI takamasa. Next up: Circus Osaka, Osaka on Sat 12 Dec.
+Shingo is a techno and house artist based in Japan, with 76 gigs on soundcheck across Bali, Hanoi, Kyoto and Liverpool and 3 more. Often billed alongside ONO, VIDEOBOY and AOKI takamasa. Next up: Numm, Tokyo on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Numm | Tokyo |
 | Sat, 12 Dec 2026 | Circus Osaka | Osaka |
 | Sat, 19 Dec 2026 | BAR Inc | Osaka |
 
@@ -26,4 +27,4 @@ Shingo is a techno and house artist based in Japan, with 75 gigs on soundcheck a
 
 ONO (3), VIDEOBOY, AOKI takamasa
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingo/)*

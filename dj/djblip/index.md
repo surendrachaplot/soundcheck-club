@@ -1,6 +1,6 @@
 # dj blip
 
-dj blip is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jolene, Copenhagen on Sat, 5 Dec 2026.
+dj blip is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jolene, Copenhagen on Sat, 5 Dec 2026.
 
 dj blip is a techno and progressive house artist based in Germany, with 33 gigs on soundcheck across Copenhagen and Hamburg. Often billed alongside Shimmy Robin, Laetizia and Newinfluenzer. Next up: Jolene, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ dj blip is a techno and progressive house artist based in Germany, with 33 gigs 
 
 Shimmy Robin, Laetizia, Newinfluenzer
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblip/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblip/)*

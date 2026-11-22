@@ -1,19 +1,19 @@
 # Roland & Brother Rich
 
-Roland & Brother Rich is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Ciao Ciao, New York City on Sat, 21 Nov 2026.
+Roland & Brother Rich is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Jean’s, New York City on Thu, 3 Dec 2026.
 
-Roland & Brother Rich are a house and disco duo based in United States of America, with 39 gigs on soundcheck across Amsterdam, London, Miami and New York City. Often billed alongside Bustin' Loose, Monsieur Van Pratt and Poppi. Next up: Ciao Ciao, New York City on Sat 21 Nov.
+Roland & Brother Rich are a house and disco duo based in United States of America, with 39 gigs on soundcheck across Amsterdam, London, Miami and New York City. Often billed alongside Bustin' Loose, Monsieur Van Pratt and Poppi. Next up: Jean’s, New York City on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Ciao Ciao | New York City |
 | Thu, 3 Dec 2026 | Jean’s | New York City |
 | Sat, 19 Dec 2026 | Ciao Ciao | New York City |
 
 ## Recently played
 
+- Ciao Ciao, New York City · Sat, 21 Nov 2026
 - Jean’s, New York City · Thu, 5 Nov 2026
 - Ciao Ciao, New York City · Sat, 31 Oct 2026
 - Jean’s, New York City · Thu, 8 Oct 2026
@@ -21,10 +21,9 @@ Roland & Brother Rich are a house and disco duo based in United States of Americ
 - ZeyZey, Miami · Fri, 18 Sept 2026
 - Ciao Ciao, New York City · Sat, 12 Sept 2026
 - Dead Letter No. 9, New York City · Fri, 11 Sept 2026
-- Jean’s, New York City · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Bustin' Loose, Monsieur Van Pratt, Poppi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*

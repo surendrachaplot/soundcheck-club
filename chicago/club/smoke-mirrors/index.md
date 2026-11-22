@@ -1,14 +1,13 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ISAbella" on Sat, 21 Nov 2026.
+Smoke & Mirrors is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "TENGO FUNK" on Wed, 25 Nov 2026.
 
-Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including ANNĒ, Denham Audio, dj flood and Dunes of Dawn and 2 more. See dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
+Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with line-ups including ANNĒ, Denham Audio, dj flood and Dunes of Dawn and 2 more. See dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ISAbella | ISAbella, Madeline (Chi), Valeria Fride |
 | Wed, 25 Nov 2026 | TENGO FUNK | J Santos, MAMICANA, Pressure Point (US) |
 | Fri, 4 Dec 2026 | OMAKS | OMAKS |
 | Sat, 5 Dec 2026 | GiGi FM | GiGi FM, Hot Take, Nomingia |
@@ -22,4 +21,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming gig
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

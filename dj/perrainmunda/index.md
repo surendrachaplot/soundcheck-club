@@ -1,8 +1,8 @@
 # Perra Inmunda
 
-Perra Inmunda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Paloma, Berlin on Sun, 29 Nov 2026.
+Perra Inmunda is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Paloma, Berlin on Sun, 29 Nov 2026.
 
-Perra Inmunda is a techno and house artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 17 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: Paloma, Berlin on Sun 29 Nov.
+Perra Inmunda is a techno and house artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 17 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: Paloma, Berlin on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Perra Inmunda is a techno and house artist based in Germany, with 82 gigs on sou
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Paloma | Berlin |
 | Sat, 19 Dec 2026 | Prince Charles | Berlin |
+| Fri, 19 Feb 2027 | Tokonoma Club | Frankfurt |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Perra Inmunda is a techno and house artist based in Germany, with 82 gigs on sou
 
 DJ Gigola, MCR-T, ALCATRAZ
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*

@@ -1,8 +1,8 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Julian Fijma is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Julian Fijma is a house and tech house artist based in Netherlands, with 121 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Factory Town, Miami on Wed 2 Dec.
+Julian Fijma is a house and tech house artist based in Netherlands, with 122 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Julian Fijma is a house and tech house artist based in Netherlands, with 121 gig
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
 | Sat, 6 Feb 2027 | The Limelight | Belfast |
 | Sat, 13 Feb 2027 | TESTBED | Leeds |
+| Fri, 19 Feb 2027 | Rex Club | Paris |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
@@ -31,4 +32,4 @@ Julian Fijma is a house and tech house artist based in Netherlands, with 121 gig
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

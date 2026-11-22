@@ -1,16 +1,13 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+GiGi FM is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mezz, Netherlands on Fri, 27 Nov 2026.
 
-GiGi FM is a techno and house artist, with 199 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 66 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Magasins Généraux, Paris on Fri 20 Nov.
+GiGi FM is a techno and house artist, with 199 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 66 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Mezz, Netherlands on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Magasins Généraux | Paris |
-| Sat, 21 Nov 2026 | Magasins Généraux | Paris |
-| Sat, 21 Nov 2026 | Ubu Club | Rennes |
 | Fri, 27 Nov 2026 | Mezz | Netherlands |
 | Fri, 4 Dec 2026 | public records | New York City |
 | Sat, 5 Dec 2026 | Smoke & Mirrors | Chicago |
@@ -20,20 +17,21 @@ GiGi FM is a techno and house artist, with 199 gigs on soundcheck across Adelaid
 | Sat, 19 Dec 2026 | Strange Brew | Bristol |
 | Sat, 26 Dec 2026 | SMUT Athens | Athens |
 | Sun, 7 Feb 2027 | Macadam | Nantes |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- Magasins Généraux, Paris · Sat, 21 Nov 2026
+- Ubu Club, Rennes · Sat, 21 Nov 2026
 - Magasins Généraux, Paris · Fri, 20 Nov 2026
 - DURO, Milan · Sat, 14 Nov 2026
 - CLUB RAUM, Amsterdam · Fri, 13 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
 - H7 Warehouse, Amsterdam · Sat, 24 Oct 2026
 - RADION, Amsterdam · Sat, 24 Oct 2026
-- RADION, Amsterdam · Fri, 23 Oct 2026
-- De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Altinbas, Polygonia, DVS1
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

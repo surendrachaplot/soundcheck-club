@@ -1,6 +1,6 @@
 # KINGA
 
-KINGA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Renate, Berlin on Fri, 11 Dec 2026.
+KINGA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Renate, Berlin on Fri, 11 Dec 2026.
 
 KINGA is a house and techno artist based in Romania, with 9 gigs on soundcheck across Berlin, Bucharest and Budapest. Often billed alongside Jimmie, ML91 and Acsa. Next up: Renate, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ KINGA is a house and techno artist based in Romania, with 9 gigs on soundcheck a
 
 Jimmie, ML91, Acsa
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinga/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinga/)*

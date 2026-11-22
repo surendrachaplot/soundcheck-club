@@ -1,6 +1,6 @@
 # 1ol1v1a
 
-1ol1v1a is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jupiter Disco, New York City on Wed, 16 Dec 2026.
+1ol1v1a is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jupiter Disco, New York City on Wed, 16 Dec 2026.
 
 1ol1v1a is a techno and house artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside R-DNA, SEDENTARY and masha latte. Next up: Jupiter Disco, New York City on Wed 16 Dec.
 
@@ -25,4 +25,4 @@
 
 R-DNA, SEDENTARY, masha latte
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ol1v1a/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ol1v1a/)*

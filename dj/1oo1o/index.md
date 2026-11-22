@@ -1,6 +1,6 @@
 # 1OO1O
 
-1OO1O is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
+1OO1O is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
 
 1OO1O is a techno and breakbeat artist based in Mexico, with 72 gigs on soundcheck across Bogotá, Denver, Guadalajara and Los Angeles and 10 more. Often billed alongside Regal86, Loris and Un Dilema. Next up: TBA, Mexico City on Sat 5 Dec.
 
@@ -27,4 +27,4 @@
 
 Regal86, Loris, Un Dilema
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1oo1o/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1oo1o/)*

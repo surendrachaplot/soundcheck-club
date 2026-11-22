@@ -1,6 +1,6 @@
 # SOPHIA BEN (3)
 
-SOPHIA BEN (3) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at La Belle Électrique, South-east on Sat, 19 Dec 2026.
+SOPHIA BEN (3) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at La Belle Électrique, South-east on Sat, 19 Dec 2026.
 
 SOPHIA BEN is a house and afro house artist based in France, with 2 gigs on soundcheck across Lyon and South East. Often billed alongside Alan Braxe, Divin0 and Janeret. Next up: La Belle Électrique, South East on Sat 19 Dec.
 
@@ -15,4 +15,4 @@ SOPHIA BEN is a house and afro house artist based in France, with 2 gigs on soun
 
 Alan Braxe, Divin0, Janeret
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaben-3/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaben-3/)*

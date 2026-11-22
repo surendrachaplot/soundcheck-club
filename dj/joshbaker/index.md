@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Beach House San Diego, San Diego on Sun, 22 Nov 2026.
+Josh Baker is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Beach House San Diego, San Diego on Sun, 22 Nov 2026.
 
 Josh Baker is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Beach House San Diego, San Diego on Sun 22 Nov.
 
@@ -34,4 +34,4 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 247 gi
 
 Max Dean, Prospa, Rossi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

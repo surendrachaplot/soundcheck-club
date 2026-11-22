@@ -1,6 +1,6 @@
 # Levi Love
 
-Levi Love is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Soup, Manchester on Sat, 12 Dec 2026.
+Levi Love is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Soup, Manchester on Sat, 12 Dec 2026.
 
 Levi Love is a house and funk / soul artist based in United Kingdom, with 66 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Joey T, Stallone (UK) and Marley Reid. Next up: Soup, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Levi Love is a house and funk / soul artist based in United Kingdom, with 66 gig
 
 Joey T, Stallone (UK), Marley Reid
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levilove-uk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levilove-uk/)*

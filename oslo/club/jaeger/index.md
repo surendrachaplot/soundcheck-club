@@ -1,14 +1,13 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Sunkissed: Steve Bug" on Sat, 21 Nov 2026.
+Jaeger is a music venue in Oslo with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Ritter Butzke in Oslo" on Fri, 27 Nov 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming gigs, with line-ups including A:G, Alex Jangle, Chris Solaris and Dam Swindle and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 9 upcoming gigs, with line-ups including A:G, Alex Jangle, Chris Solaris and Dam Swindle and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Sunkissed: Steve Bug | G-HA, Olanskii, Steve Bug, Vinny Villbass |
 | Fri, 27 Nov 2026 | Ritter Butzke in Oslo | G-HA, Olanskii, Prismode, Solvane, Teenage Mutants |
 | Fri, 27 Nov 2026 | Frædag x Ritter Butzke: Teenage Mutants | G-HA, Olanskii, Prismode, Solvane, Teenage Mutants |
 | Sat, 28 Nov 2026 | Lyd: From Beyond + Olle Abstract |  |
@@ -23,4 +22,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming gigs, with lin
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

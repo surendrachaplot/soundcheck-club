@@ -1,6 +1,6 @@
 # Rachel Torro
 
-Rachel Torro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - The Press Club 1119 21st St., Sacramento on Wed, 25 Nov 2026.
+Rachel Torro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Press Club 1119 21st St., Sacramento on Wed, 25 Nov 2026.
 
 Rachel Torro is a house and disco artist based in United States of America, with 17 gigs on soundcheck across Sacramento and San Francisco/Oakland. Often billed alongside Benjamin K, Galen and Jimmy B. Next up: TBA - The Press Club 1119 21st St., Sacramento on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Rachel Torro is a house and disco artist based in United States of America, with
 
 Benjamin K, Galen, Jimmy B
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/racheltorro/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/racheltorro/)*

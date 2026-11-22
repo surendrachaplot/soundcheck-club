@@ -1,6 +1,6 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "CANDELA OF MUSIC" on Tue, 24 Nov 2026.
+Dogenzaka Church is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "CANDELA OF MUSIC" on Tue, 24 Nov 2026.
 
 Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including ACHO, Hironobu Jyounai, Jm3Yoci and vinylDJ Eiji Takehana and 1 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
@@ -17,4 +17,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

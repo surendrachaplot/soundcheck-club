@@ -1,6 +1,6 @@
 # Manuel Falardeau
 
-Manuel Falardeau is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at StereoBar, Montreal on Fri, 25 Dec 2026.
+Manuel Falardeau is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at StereoBar, Montreal on Fri, 25 Dec 2026.
 
 Manuel Falardeau is a house and deep house artist based in Canada, with 49 gigs on soundcheck across Amsterdam and Montreal. Often billed alongside Latour, DUZA and Mitch Oliver. Next up: StereoBar, Montreal on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Manuel Falardeau is a house and deep house artist based in Canada, with 49 gigs 
 
 Latour, DUZA, Mitch Oliver
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*

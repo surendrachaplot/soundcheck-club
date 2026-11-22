@@ -1,14 +1,13 @@
 # Benwal
 
-Benwal is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Werkspoorkathedraal, Netherlands on Sat, 21 Nov 2026.
+Benwal is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
 
-Benwal is a techno and house artist based in Netherlands, with 215 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Werkspoorkathedraal, Netherlands on Sat 21 Nov.
+Benwal is a techno and trance artist based in Netherlands, with 216 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 58 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Factory Town, Miami on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
@@ -20,9 +19,11 @@ Benwal is a techno and house artist based in Netherlands, with 215 gigs on sound
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 | Sat, 6 Feb 2027 | Opium Club | Vilnius |
 | Thu, 11 Feb 2027 | Renate | Berlin |
+| Fri, 19 Feb 2027 | Petit CAB | Marseille |
 
 ## Recently played
 
+- Werkspoorkathedraal, Netherlands · Sat, 21 Nov 2026
 - Radius, Chicago · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Bsmnt, Boston · Fri, 13 Nov 2026
@@ -30,10 +31,9 @@ Benwal is a techno and house artist based in Netherlands, with 215 gigs on sound
 - Club Vinyl, Denver · Fri, 6 Nov 2026
 - Mondo Open Air, Madrid · Sun, 1 Nov 2026
 - Sala Cocó, Madrid · Sun, 1 Nov 2026
-- Sugarfactory, Amsterdam · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 Kyle Starkey, MALUGI, Bad Boombox
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

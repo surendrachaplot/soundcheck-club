@@ -1,6 +1,6 @@
 # Paul Leonard
 
-Paul Leonard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Club Metro, Kyoto on Fri, 4 Dec 2026.
+Paul Leonard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Metro, Kyoto on Fri, 4 Dec 2026.
 
 Paul Leonard is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Ryoma Sasaki, Ouchi-S and Koichi (Koichiro Okada). Next up: Club Metro, Kyoto on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Paul Leonard is a techno and house artist based in United Kingdom, with 52 gigs 
 
 Ryoma Sasaki, Ouchi-S, Koichi (Koichiro Okada)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulleonard/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulleonard/)*

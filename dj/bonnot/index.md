@@ -1,8 +1,8 @@
 # Bonnot
 
-Bonnot is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Deposito Pontecorvo, Florence on Sat, 12 Dec 2026.
+Bonnot is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Deposito Pontecorvo, Florence on Sat, 12 Dec 2026.
 
-Bonnot is a jungle and drum & bass artist, with 6 gigs on soundcheck across Florence, London, Prague and Rome. Often billed alongside General Levy, FRNZ and Furious Freaks. Next up: Deposito Pontecorvo, Florence on Sat 12 Dec.
+Bonnot is a jungle and drum & bass artist based in Italy, with 6 gigs on soundcheck across Florence, London, Prague and Rome. Often billed alongside General Levy, FRNZ and Furious Freaks. Next up: Deposito Pontecorvo, Florence on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Bonnot is a jungle and drum & bass artist, with 6 gigs on soundcheck across Flor
 
 General Levy, FRNZ, Furious Freaks
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnot/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnot/)*

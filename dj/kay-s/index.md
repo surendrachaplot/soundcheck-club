@@ -1,6 +1,6 @@
 # Kay-S
 
-Kay-S is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Kay-S is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Kay-S is a drum & bass and jungle artist based in United States of America, with 26 gigs on soundcheck across Orlando and Tampa Bay. Often billed alongside Rat Galactic, Brian Busto and Blak. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kay-S is a drum & bass and jungle artist based in United States of America, with
 
 Rat Galactic, Brian Busto, Blak (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kay-s/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kay-s/)*

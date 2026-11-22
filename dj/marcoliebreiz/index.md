@@ -1,6 +1,6 @@
 # Marco Liebreiz
 
-Marco Liebreiz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
+Marco Liebreiz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
 
 Marco Liebreiz is a techno and house artist, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Frieda Karlssøn, BARTi and ELIZEN THE EMPEROR. Next up: Komplex Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Marco Liebreiz is a techno and house artist, with 12 gigs on soundcheck across B
 
 Frieda Karlssøn, BARTi, ELIZEN THE EMPEROR
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoliebreiz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoliebreiz/)*

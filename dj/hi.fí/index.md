@@ -1,6 +1,6 @@
 # hi.fí
 
-hi.fí is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+hi.fí is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
 hi.fí is a house and techno artist based in Ireland, with 17 gigs on soundcheck across Berlin. Often billed alongside Meriem S, François Dulac and Miss T Delight. Next up: Renate, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ hi.fí is a house and techno artist based in Ireland, with 17 gigs on soundcheck
 
 Meriem S, François Dulac, Miss T Delight
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*

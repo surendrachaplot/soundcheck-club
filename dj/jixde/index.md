@@ -1,6 +1,6 @@
 # Jixde
 
-Jixde is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at 77, London on Sat, 28 Nov 2026.
+Jixde is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 77, London on Sat, 28 Nov 2026.
 
 Jixde is a house and afro house artist based in United Kingdom, with 4 gigs on soundcheck across Barcelona and London. Often billed alongside Yoel Telyaz, AliTR and Eren Yildiz. Next up: 77, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Jixde is a house and afro house artist based in United Kingdom, with 4 gigs on s
 
 Yoel Telyaz, AliTR, Eren Yildiz
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jixde/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jixde/)*

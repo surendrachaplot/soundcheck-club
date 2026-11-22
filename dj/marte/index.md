@@ -1,6 +1,6 @@
 # Marte
 
-Marte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
+Marte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
 
 Marte is a house and techno artist based in Poland, with 12 gigs on soundcheck across Miami, Milan and New York City. Often billed alongside Berrakka, Danny Daze and Ms. Mada. Next up: Refuge, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Marte is a house and techno artist based in Poland, with 12 gigs on soundcheck a
 
 Berrakka, Danny Daze, Ms. Mada
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*

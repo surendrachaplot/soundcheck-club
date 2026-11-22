@@ -1,6 +1,6 @@
 # Ash
 
-Ash is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at MAD Radio NYC, New York City on Wed, 25 Nov 2026.
+Ash is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at MAD Radio NYC, New York City on Wed, 25 Nov 2026.
 
 Ash is a house and techno artist based in Egypt, with 35 gigs on soundcheck across Auckland, Austin, Barcelona and Basel and 16 more. Often billed alongside Gacha, Lava and Anyma. Next up: MAD Radio NYC, New York City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Ash is a house and techno artist based in Egypt, with 35 gigs on soundcheck acro
 
 Gacha, Lava, Anyma
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*

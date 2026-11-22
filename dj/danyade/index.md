@@ -1,6 +1,6 @@
 # Danya (DE)
 
-Danya (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
+Danya (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
 
 Danya (DE) is a techno and house artist based in Greece, with 58 gigs on soundcheck across Athens, Berlin, Dortmund / Essen and Hamburg and 8 more. Often billed alongside SIX DIMENSIONS, GRØMM and ATAVEM. Next up: Lieberscholli, Munich on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Danya (DE) is a techno and house artist based in Greece, with 58 gigs on soundch
 
 SIX DIMENSIONS, GRØMM, ATAVEM
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*

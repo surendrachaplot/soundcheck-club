@@ -1,6 +1,6 @@
 # HOTPRETTY
 
-HOTPRETTY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Radius, Chicago on Tue, 29 Dec 2026.
+HOTPRETTY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Radius, Chicago on Tue, 29 Dec 2026.
 
 HOTPRETTY is a techno and house artist based in United States of America, with 55 gigs on soundcheck across Chicago, London, Miami and New York City and 1 more. Often billed alongside Kirk (US), BLACKCLUB and Hiroko Yamamura. Next up: Radius, Chicago on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ HOTPRETTY is a techno and house artist based in United States of America, with 5
 
 Kirk (US), BLACKCLUB, Hiroko Yamamura
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotpretty/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotpretty/)*

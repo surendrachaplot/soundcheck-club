@@ -1,6 +1,6 @@
 # laspalas
 
-laspalas is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
+laspalas is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
 
 laspalas is a techno and electronica artist based in Spain, with 10 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Eder Croket, lebollet and Heinech. Next up: Specka, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ laspalas is a techno and electronica artist based in Spain, with 10 gigs on soun
 
 Eder Croket, lebollet, Heinech
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laspalas/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laspalas/)*

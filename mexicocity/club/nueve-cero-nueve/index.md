@@ -1,14 +1,13 @@
 # nueve cero nueve
 
-nueve cero nueve is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "boyanza X nueve cero nueve" on Sat, 21 Nov 2026.
+nueve cero nueve is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "saundo X nueve cero nueve" on Thu, 26 Nov 2026.
 
-nueve cero nueve is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, with line-ups including AAAA, aaaslzr, Astroboii and Baby Mango and 2 more. See dates, start times and who's playing. C. Versalles 94, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.
+nueve cero nueve is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including AAAA, Astroboii, Cabe and Cybebe and 2 more. See dates, start times and who's playing. C. Versalles 94, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | boyanza X nueve cero nueve | Baby Mango, Rafatel, aaaslzr |
 | Thu, 26 Nov 2026 | saundo X nueve cero nueve | Astroboii, Cybebe, Dj Sé, Lyo XS |
 | Fri, 27 Nov 2026 | peers plus X nueve cero nueve | Eisenheim, Marcia U, Tahres |
 | Sat, 28 Nov 2026 | ratback crew X nueve cero nueve | AAAA, MNTY, White Visitation, trashy.sounds |
@@ -18,4 +17,4 @@ nueve cero nueve is a music venue in Mexico City listed on soundcheck. 5 upcomin
 
 C. Versalles 94, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nueve-cero-nueve/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nueve-cero-nueve/)*

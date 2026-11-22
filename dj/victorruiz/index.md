@@ -1,20 +1,20 @@
 # Victor Ruiz
 
-Victor Ruiz is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Artheater, Cologne on Sat, 21 Nov 2026.
+Victor Ruiz is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
-Victor Ruiz is a techno and tech house artist based in Brazil, with 125 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 53 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: Artheater, Cologne on Sat 21 Nov.
+Victor Ruiz is a techno and tech house artist based in Brazil, with 125 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 53 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Artheater | Cologne |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
 | Thu, 31 Dec 2026 | Coda | Toronto |
 | Fri, 29 Jan 2027 | SILO | New York City |
 
 ## Recently played
 
+- Artheater, Cologne · Sat, 21 Nov 2026
 - TBA - Los Angeles, Los Angeles · Sat, 24 Oct 2026
 - Halcyon, San Francisco/Oakland · Fri, 23 Oct 2026
 - Sugarfactory, Amsterdam · Thu, 22 Oct 2026
@@ -22,10 +22,9 @@ Victor Ruiz is a techno and tech house artist based in Brazil, with 125 gigs on 
 - Uebel & Gefährlich, Hamburg · Fri, 16 Oct 2026
 - Kassa Boat, Budapest · Sat, 10 Oct 2026
 - Lofi, Amsterdam · Fri, 25 Sept 2026
-- Tanzhaus West, Frankfurt · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Bart Skils, Alex Stein, Sama' Abdulhadi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*

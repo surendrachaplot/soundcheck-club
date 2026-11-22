@@ -1,14 +1,13 @@
 # Club Paula
 
-Club Paula is a music venue in Dresden with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "STONECREEK CREW PRES. DECK ATTACK VOL.6" on Sat, 21 Nov 2026.
+Club Paula is a music venue in Dresden with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "THE LAST WOUNDED with Ephy Pinkman" on Sat, 28 Nov 2026.
 
-Club Paula is a music venue in Dresden listed on soundcheck. 7 upcoming gigs, with line-ups including 808 CRIME, Blightz, Dominik Eulberg and Ephy Pinkman and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
+Club Paula is a music venue in Dresden listed on soundcheck. 6 upcoming gigs, with line-ups including 808 CRIME, Dominik Eulberg, Ephy Pinkman and Kyau & Albert and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | STONECREEK CREW PRES. DECK ATTACK VOL.6 | Blightz, Krambledore, MNCHLD, PiJay |
 | Sat, 28 Nov 2026 | THE LAST WOUNDED with Ephy Pinkman | Ephy Pinkman |
 | Sat, 5 Dec 2026 | BASS/CULTURE pres. YOUPHORIA (AT) | 808 CRIME, M/THREE/D, SKTR, Serenic, TINNITUS |
 | Sat, 12 Dec 2026 | Euphonic Xmas Party | Kyau & Albert, Stoneface & Terminal, nümind |
@@ -20,4 +19,4 @@ Club Paula is a music venue in Dresden listed on soundcheck. 7 upcoming gigs, wi
 
 Meschwitzstr. 14, 01099 Dresden, Dresden
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*

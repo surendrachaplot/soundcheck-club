@@ -1,8 +1,8 @@
 # Francesco Daprile
 
-Francesco Daprile is a Downtempo and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mews1909, Milan on Sun, 22 Nov 2026.
+Francesco Daprile is a Downtempo and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mews1909, Milan on Sun, 22 Nov 2026.
 
-Francesco Daprile is a downtempo and disco artist, with 5 gigs on soundcheck across Milan and Rome. Often billed alongside ANIMALSDONTDANCE, Ash Rah and BabyBass. Next up: Mews1909, Milan on Sun 22 Nov.
+Francesco Daprile is a downtempo and disco artist based in Italy, with 5 gigs on soundcheck across Milan and Rome. Often billed alongside ANIMALSDONTDANCE, Ash Rah and BabyBass. Next up: Mews1909, Milan on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Francesco Daprile is a downtempo and disco artist, with 5 gigs on soundcheck acr
 
 ANIMALSDONTDANCE, Ash Rah, BabyBass
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodaprile/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodaprile/)*

@@ -1,6 +1,6 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Campidarte Sardegna, Central on Sun, 22 Nov 2026.
+Altinbas is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Campidarte Sardegna, Central on Sun, 22 Nov 2026.
 
 Altinbas is a techno and house artist based in Belgium, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Campidarte Sardegna, Central on Sun 22 Nov.
 
@@ -32,4 +32,4 @@ Altinbas is a techno and house artist based in Belgium, with 204 gigs on soundch
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

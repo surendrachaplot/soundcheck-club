@@ -1,6 +1,6 @@
 # Behne
 
-Behne is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Coda, Toronto on Sat, 28 Nov 2026.
+Behne is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Coda, Toronto on Sat, 28 Nov 2026.
 
 Behne is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Aberdeen and Toronto. Often billed alongside Sasha Kalra, Choirboi and Mitchell Watson. Next up: Coda, Toronto on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Behne is a techno and trance artist based in United Kingdom, with 8 gigs on soun
 
 Sasha Kalra, Choirboi, Mitchell Watson
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/behne/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/behne/)*

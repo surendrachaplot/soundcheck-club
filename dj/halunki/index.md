@@ -1,6 +1,6 @@
 # Halunki
 
-Halunki is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Beate Uwe, Berlin on Sat, 28 Nov 2026.
+Halunki is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Beate Uwe, Berlin on Sat, 28 Nov 2026.
 
 Halunki is a house and garage artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside KRUBALLY, Johnny Loco and Marie.Luis. Next up: Beate Uwe, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Halunki is a house and garage artist based in Germany, with 14 gigs on soundchec
 
 KRUBALLY, Johnny Loco, Marie.Luis
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halunki/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halunki/)*

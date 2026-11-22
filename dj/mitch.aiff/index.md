@@ -1,6 +1,6 @@
 # mitch.aiff
 
-mitch.aiff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
+mitch.aiff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
 
 mitch.aiff is a house and disco artist based in Australia, with 19 gigs on soundcheck across Melbourne and Tokyo. Often billed alongside Club De Migo, Max Hammur and Miles Ahead. Next up: Tengu Shokudo, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ mitch.aiff is a house and disco artist based in Australia, with 19 gigs on sound
 
 Club De Migo, Max Hammur, Miles Ahead
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitch.aiff/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitch.aiff/)*

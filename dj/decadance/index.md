@@ -1,14 +1,15 @@
 # DECADANCE
 
-DECADANCE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Savoy, Cork on Mon, 28 Dec 2026.
+DECADANCE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Savoy, Cork on Mon, 28 Dec 2026.
 
-DECADANCE is a techno and trance artist based in Ireland, with 30 gigs on soundcheck across Amsterdam, Belgrade, Cologne and Copenhagen and 6 more. Often billed alongside Tiarnola, Alec Dienaar and Cenk Tripper. Next up: Savoy, Cork on Mon 28 Dec.
+DECADANCE is a techno and trance artist based in Ireland, with 31 gigs on soundcheck across Amsterdam, Belgrade, Cologne and Copenhagen and 6 more. Often billed alongside Tiarnola, Alec Dienaar and Cenk Tripper. Next up: Savoy, Cork on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 28 Dec 2026 | Savoy | Cork |
+| Fri, 15 Jan 2027 | The Racket Space | Dublin |
 | Fri, 19 Feb 2027 | De Fik Garden | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ DECADANCE is a techno and trance artist based in Ireland, with 30 gigs on soundc
 
 Tiarnola, Alec Dienaar, Cenk Tripper
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decadance/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decadance/)*

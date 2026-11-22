@@ -1,6 +1,6 @@
 # MUNA KHALED
 
-MUNA KHALED is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 28 Nov 2026.
+MUNA KHALED is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 MUNA KHALED is a baile funk and house artist based in Austria, with 9 gigs on soundcheck across Barcelona. Often billed alongside EYRA, Miramizu and Sofy Suars. Next up: El Pumarejo Barcelona, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MUNA KHALED is a baile funk and house artist based in Austria, with 9 gigs on so
 
 EYRA, Miramizu, Sofy Suars
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munakhaled/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munakhaled/)*

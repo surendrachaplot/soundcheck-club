@@ -1,6 +1,6 @@
 # Sacha Alexiou
 
-Sacha Alexiou is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Old Habits, Perth on Sat, 19 Dec 2026.
+Sacha Alexiou is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Old Habits, Perth on Sat, 19 Dec 2026.
 
 Sacha Alexiou is a house and balearic artist, with 5 gigs on soundcheck across Brisbane and Perth. Often billed alongside Bradley Zero, Cooper Cooper and EPHACY. Next up: Old Habits, Perth on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Sacha Alexiou is a house and balearic artist, with 5 gigs on soundcheck across B
 
 Bradley Zero, Cooper Cooper, EPHACY
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachaalexiou/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachaalexiou/)*

@@ -1,14 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 16 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Loose Joints presents Brawther [Dungeon Meat]" on Sat, 21 Nov 2026.
+Movers is a music venue in Nottingham with 16 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Fascination film screening w afterparty ft Evil Woman, Another Place + Kay Fabe" on Thu, 26 Nov 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Traska, Another Place, Brawther and Charles Webster and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming gigs, with line-ups including Another Place, Charles Webster, Evil Woman and Inland Knights and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Loose Joints presents Brawther [Dungeon Meat] | Alex Traska, Brawther |
 | Thu, 26 Nov 2026 | Fascination film screening w afterparty ft Evil Woman, Another Place + Kay Fabe | Another Place (2), Evil Woman, Kay Fabe |
 | Fri, 27 Nov 2026 | Cuba Fundraiser: Salsa Dance Class |  |
 | Fri, 27 Nov 2026 | Truth & Lies: Wild and Heavy International Rhythms |  |
@@ -18,9 +17,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming gigs, wi
 | Sat, 5 Dec 2026 | Ordinary People: Deep House & Jazz |  |
 | Wed, 9 Dec 2026 | PML: End Of Term Party |  |
 | Thu, 10 Dec 2026 | Phabian's Xmas House Party |  |
+| Fri, 11 Dec 2026 | Belle and Sebastian: After Party with Richard Colburn |  |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

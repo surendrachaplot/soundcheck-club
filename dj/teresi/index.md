@@ -1,6 +1,6 @@
 # Teresi
 
-Teresi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
+Teresi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
 
 Teresi is a house and techno artist based in Czech Republic, with 43 gigs on soundcheck across Berlin, Bratislava, Paris and Prague. Often billed alongside Pavel Aeling, Fatty M and Nill Garçon. Next up: Gabriel Loci, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Teresi is a house and techno artist based in Czech Republic, with 43 gigs on sou
 
 Pavel Aeling, Fatty M, Nill Garçon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teresi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teresi/)*

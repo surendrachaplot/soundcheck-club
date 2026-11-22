@@ -1,6 +1,6 @@
 # Daniel Filipovic
 
-Daniel Filipovic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at KEPK, Brisbane on Sat, 19 Dec 2026.
+Daniel Filipovic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at KEPK, Brisbane on Sat, 19 Dec 2026.
 
 Daniel Filipovic is a techno and electro artist based in Australia, with 8 gigs on soundcheck across Adelaide, Berlin, Brisbane and Melbourne. Often billed alongside Ranjit Nijjer, Andrew Till and Ben Cromack. Next up: KEPK, Brisbane on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Daniel Filipovic is a techno and electro artist based in Australia, with 8 gigs 
 
 Ranjit Nijjer, Andrew Till, Ben Cromack
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielfilipovic/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielfilipovic/)*

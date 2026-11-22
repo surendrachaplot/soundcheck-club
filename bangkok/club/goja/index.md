@@ -1,6 +1,6 @@
 # Goja
 
-Goja is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Goja Friday" on Fri, 27 Nov 2026.
+Goja is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Goja Friday" on Fri, 27 Nov 2026.
 
 Goja is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including Takamichi and Vanderbeak. See dates, start times and who's playing. Sukhhumvit 71, Soi 3 Pridi Banomyong 5/2 Bangkok.
 
@@ -14,4 +14,4 @@ Goja is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line
 
 Sukhhumvit 71, Soi 3 Pridi Banomyong 5/2 Bangkok, Bangkok
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/goja/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/goja/)*

@@ -1,8 +1,8 @@
 # Psyfonic
 
-Psyfonic is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Catonium, Hamburg on Sat, 9 Jan 2027.
+Psyfonic is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Catonium, Hamburg on Sat, 9 Jan 2027.
 
-Psyfonic is a trance and psytrance artist, with 3 gigs on soundcheck across Hamburg. Often billed alongside Salz, A.D.H.S. and A.N.I.. Next up: Catonium, Hamburg on Sat 9 Jan.
+Psyfonic is a trance and psytrance artist based in Germany, with 3 gigs on soundcheck across Hamburg. Often billed alongside Salz, A.D.H.S. and A.N.I.. Next up: Catonium, Hamburg on Sat 9 Jan.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Psyfonic is a trance and psytrance artist, with 3 gigs on soundcheck across Hamb
 
 Salz, A.D.H.S., A.N.I.
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyfonic/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyfonic/)*

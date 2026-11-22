@@ -1,6 +1,6 @@
 # VRTL
 
-VRTL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
+VRTL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
 
 VRTL is a house and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Dresden and Paris. Often billed alongside Lixi, materia hache and Aunty Nora. Next up: Paloma, Berlin on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ VRTL is a house and techno artist based in Germany, with 41 gigs on soundcheck a
 
 Lixi, materia hache, Aunty Nora
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*

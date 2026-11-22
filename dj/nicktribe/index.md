@@ -1,14 +1,14 @@
 # Nick Tribe
 
-Nick Tribe is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+Nick Tribe is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
 
-Nick Tribe is an electronic artist, with 2 gigs on soundcheck across Cologne and Romania. Often billed alongside ALMOST HUMAN, DJ Perroz and Desyfer. Next up: TBA, Romania on Fri 18 Jun.
+Nick Tribe is an electronic artist based in Germany, with 2 gigs on soundcheck across Cologne and Romania. Often billed alongside Alex Iovita, Desyfer and Dubmask (RO). Next up: Black Sea Coast Beach, Romania on Fri 18 Jun.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Jun 2027 | TBA | Romania |
+| Fri, 18 Jun 2027 | Black Sea Coast Beach | Romania |
 
 ## Recently played
 
@@ -16,6 +16,6 @@ Nick Tribe is an electronic artist, with 2 gigs on soundcheck across Cologne and
 
 ## Shares bills with
 
-ALMOST HUMAN, DJ Perroz, Desyfer
+Alex Iovita, Desyfer, Dubmask (RO)
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktribe/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktribe/)*

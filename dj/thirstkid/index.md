@@ -1,6 +1,6 @@
 # ThirstKid
 
-ThirstKid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+ThirstKid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 ThirstKid is a house and techno artist based in Philippines, with 23 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Manila and 3 more. Often billed alongside Gubwubs, Limsum and Versailles. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ ThirstKid is a house and techno artist based in Philippines, with 23 gigs on sou
 
 Gubwubs, Limsum, Versailles
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*

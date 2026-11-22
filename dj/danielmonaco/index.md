@@ -1,18 +1,18 @@
 # Daniel Monaco
 
-Daniel Monaco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Apollo Club Milano, Milan on Sat, 21 Nov 2026.
+Daniel Monaco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
-Daniel Monaco is a house and disco artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Max NRG Supply, Jason K (IT) and Kapote. Next up: Apollo Club Milano, Milan on Sat 21 Nov.
+Daniel Monaco is a house and disco artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Max NRG Supply, Jason K (IT) and Kapote. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Apollo Club Milano | Milan |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played
 
+- Apollo Club Milano, Milan · Sat, 21 Nov 2026
 - Club Malasaña, Madrid · Sat, 7 Nov 2026
 - Noorderlicht Café, Amsterdam · Sat, 24 Oct 2026
 - Apollo Club Milano, Milan · Sat, 3 Oct 2026
@@ -20,10 +20,9 @@ Daniel Monaco is a house and disco artist based in Italy, with 60 gigs on soundc
 - OXI, Berlin · Sat, 18 Jul 2026
 - Mare Culturale Urbano - Cascina Torrette, Milan · Fri, 12 Jun 2026
 - The Jago, London · Sat, 21 Mar 2026
-- Arca, Milan · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Max NRG Supply, Jason K (IT), Kapote
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*

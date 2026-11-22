@@ -1,6 +1,6 @@
 # Kazuki
 
-Kazuki is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at MAHARAJA ANNEX, Tokyo on Wed, 30 Dec 2026.
+Kazuki is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at MAHARAJA ANNEX, Tokyo on Wed, 30 Dec 2026.
 
 Kazuki is a hip-hop and r&b artist based in Australia, with 22 gigs on soundcheck across Bangkok, Melbourne, Osaka and Sydney and 1 more. Often billed alongside DJ B2B, Amu and YUKI (JP). Next up: MAHARAJA ANNEX, Tokyo on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Kazuki is a hip-hop and r&b artist based in Australia, with 22 gigs on soundchec
 
 DJ B2B, Amu (1), YUKI (JP)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazuki/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazuki/)*

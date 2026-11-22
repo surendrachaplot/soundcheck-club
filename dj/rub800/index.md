@@ -1,6 +1,6 @@
 # Rub800
 
-Rub800 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jaeger, Oslo on Sat, 5 Dec 2026.
+Rub800 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jaeger, Oslo on Sat, 5 Dec 2026.
 
 Rub800 is a house and techno artist based in Norway, with 10 gigs on soundcheck across Berlin, Oslo and Tbilisi. Often billed alongside Tonchius, Alex Jangle and Tod Louie. Next up: Jaeger, Oslo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rub800 is a house and techno artist based in Norway, with 10 gigs on soundcheck 
 
 Tonchius, Alex Jangle, Tod Louie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rub800/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rub800/)*

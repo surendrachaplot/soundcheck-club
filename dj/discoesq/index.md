@@ -1,6 +1,6 @@
 # discoesq
 
-discoesq is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+discoesq is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 discoesq is a disco and house artist based in United States of America, with 38 gigs on soundcheck across San Francisco Oakland and San Francisco/Oakland. Often billed alongside Amatric, DJ Cira and DJ M3. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ discoesq is a disco and house artist based in United States of America, with 38 
 
 Amatric, DJ Cira, DJ M3
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discoesq/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discoesq/)*

@@ -1,14 +1,13 @@
 # YouForgot
 
-YouForgot is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 22 Nov 2026.
+YouForgot is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
-YouForgot is a techno and house artist based in Japan, with 104 gigs on soundcheck across Chubu, Osaka, Seoul and Tokyo. Often billed alongside DJ HI-C, Yo Nishijima and AKIRAM EN. Next up: Aoyama Hachi, Tokyo on Sun 22 Nov.
+YouForgot is a techno and house artist based in Japan, with 104 gigs on soundcheck across Chubu, Osaka, Seoul and Tokyo. Often billed alongside DJ HI-C, Yo Nishijima and AKIRAM EN. Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Aoyama Hachi | Tokyo |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 | Fri, 11 Dec 2026 | VENT | Tokyo |
 
@@ -27,4 +26,4 @@ YouForgot is a techno and house artist based in Japan, with 104 gigs on soundche
 
 DJ HI-C, Yo Nishijima, AKIRAM EN
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youforgot/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youforgot/)*

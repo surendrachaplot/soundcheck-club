@@ -1,6 +1,6 @@
 # A Sagittariun
 
-A Sagittariun is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Document, Bristol on Fri, 4 Dec 2026.
+A Sagittariun is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Document, Bristol on Fri, 4 Dec 2026.
 
 A Sagittariun is a techno and deep house artist based in United Kingdom, with 4 gigs on soundcheck across Bristol. Often billed alongside Daisy Moon, Dave Clarke and Erol Alkan. Next up: Document, Bristol on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ A Sagittariun is a techno and deep house artist based in United Kingdom, with 4 
 
 Daisy Moon, Dave Clarke, Erol Alkan
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asagittariun/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asagittariun/)*

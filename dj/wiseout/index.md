@@ -1,6 +1,6 @@
 # Wise Out
 
-Wise Out is a Experimental and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Mastak, Warsaw on Sun, 6 Dec 2026.
+Wise Out is a Experimental and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mastak, Warsaw on Sun, 6 Dec 2026.
 
 Wise Out is an experimental and minimal artist based in Belarus, with 4 gigs on soundcheck across Warsaw. Often billed alongside Inhaberin, MARCUCCIO and Salat. Next up: Mastak, Warsaw on Sun 6 Dec.
 
@@ -20,4 +20,4 @@ Wise Out is an experimental and minimal artist based in Belarus, with 4 gigs on 
 
 Inhaberin (2), MARCUCCIO, Salat
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wiseout/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wiseout/)*

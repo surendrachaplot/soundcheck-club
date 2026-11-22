@@ -1,18 +1,18 @@
 # Naeem
 
-Naeem is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Hot Mass, Pittsburgh on Sat, 21 Nov 2026.
+Naeem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BASEMENT, New York City on Sat, 12 Dec 2026.
 
-Naeem is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Budapest, Los Angeles, New York City and Pittsburgh and 1 more. Often billed alongside Ondo / Gusto, Alex Price and slowdanger. Next up: Hot Mass, Pittsburgh on Sat 21 Nov.
+Naeem is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Budapest, Los Angeles, New York City and Pittsburgh and 1 more. Often billed alongside Ondo / Gusto, Alex Price and slowdanger. Next up: BASEMENT, New York City on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Hot Mass | Pittsburgh |
 | Sat, 12 Dec 2026 | BASEMENT | New York City |
 
 ## Recently played
 
+- Hot Mass, Pittsburgh · Sat, 21 Nov 2026
 - The New Hot Mass, Pittsburgh · Sat, 24 Oct 2026
 - Wood Street Galleries, Pittsburgh · Fri, 26 Jun 2026
 - Spirit, Pittsburgh · Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ Naeem is a house and techno artist based in United States of America, with 32 gi
 - The New Hot Mass, Pittsburgh · Sat, 20 Dec 2025
 - The New Hot Mass, Pittsburgh · Sat, 6 Dec 2025
 - TBA, Pittsburgh · Sat, 25 Oct 2025
-- The New Hot Mass, Pittsburgh · Sat, 27 Sept 2025
 
 ## Shares bills with
 
 Ondo / Gusto, Alex Price, slowdanger
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naeem/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naeem/)*

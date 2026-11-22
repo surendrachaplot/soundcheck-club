@@ -1,6 +1,6 @@
 # SLIME COCA
 
-SLIME COCA is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+SLIME COCA is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 SLIME COCA is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ SLIME COCA is an electronic artist based in Russia, with 2 gigs on soundcheck ac
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimecoca/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimecoca/)*

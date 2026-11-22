@@ -1,8 +1,8 @@
 # Agartha
 
-Agartha is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Agartha is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
-Agartha is a techno and disco artist, with 4 gigs on soundcheck across Kanto, Mexico City and Warsaw. Often billed alongside Abyss, Adam Brass and Atmorestive. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
+Agartha is a techno and disco artist based in Poland, with 4 gigs on soundcheck across Kanto, Mexico City and Warsaw. Often billed alongside Abyss, Adam Brass and Atmorestive. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Agartha is a techno and disco artist, with 4 gigs on soundcheck across Kanto, Me
 
 ## Recently played
 
+- Kobu Camp Village, Kanto · Sat, 21 Nov 2026
 - Bardo Speakeasy, Mexico City · Wed, 3 Jun 2026
 - Kaskada, Warsaw · Fri, 22 Aug 2025
 - Dworzec Wodny WWA, Warsaw · Sat, 26 Aug 2023
@@ -20,4 +21,4 @@ Agartha is a techno and disco artist, with 4 gigs on soundcheck across Kanto, Me
 
 Abyss, Adam Brass, Atmorestive
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agartha/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agartha/)*

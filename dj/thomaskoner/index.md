@@ -1,8 +1,8 @@
 # Thomas Köner
 
-Thomas Köner is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
+Thomas Köner is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
 
-Thomas Köner is an electronic artist, with 2 gigs on soundcheck across Barcelona and Berlin. Often billed alongside DJ Frog, DOC and Doltz. Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
+Thomas Köner is an electronic artist based in Germany, with 2 gigs on soundcheck across Barcelona and Berlin. Often billed alongside DJ Frog, DOC and Doltz. Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ Thomas Köner is an electronic artist, with 2 gigs on soundcheck across Barcelon
 
 DJ Frog, DOC (2), Doltz
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskoner/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskoner/)*

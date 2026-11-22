@@ -1,6 +1,6 @@
 # STDJ
 
-STDJ is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at La Fabriek, Brussels on Thu, 31 Dec 2026.
+STDJ is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at La Fabriek, Brussels on Thu, 31 Dec 2026.
 
 STDJ is a techno and dub artist based in Belgium, with 50 gigs on soundcheck across Antwerp, Brussels, Ghent and London and 2 more. Often billed alongside EliseThere, Maliman and Nefeli. Next up: La Fabriek, Brussels on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ STDJ is a techno and dub artist based in Belgium, with 50 gigs on soundcheck acr
 
 EliseThere, Maliman, Nefeli
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stdj/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stdj/)*

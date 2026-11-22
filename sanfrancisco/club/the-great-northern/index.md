@@ -1,26 +1,26 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Basement: The Masquerade" on Sat, 21 Nov 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Amtrac & Seb Wildblood" on Fri, 27 Nov 2026.
 
-The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including 3kelves, ALEX GOODCAT, ALMAS and Amtrac and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 3kelves, ALEX GOODCAT, ALMAS and Amtrac and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Basement: The Masquerade |  |
-| Sat, 21 Nov 2026 | The Masquerade Featuring: Fawn Burke | Andyland, Spyder |
 | Fri, 27 Nov 2026 | Amtrac & Seb Wildblood | Amtrac, Seb Wildblood |
 | Sat, 28 Nov 2026 | Polyglamorous x SQUISH: Sides featuring HAAi | BEYA, Beverly Chills, HAAi, Just Another Bitch, Mark O'Brien, Papa Xanny, likeholywine, nonsuit |
 | Sat, 5 Dec 2026 | Opulent Temple & Mioli's 4th Annual Holiday Party with Marten Hørger | ALMAS, Anderson Bourne, Emanate, Marten Hørger, Syd Gris |
 | Sat, 5 Dec 2026 | Opulent Temple & Mioli Music's 4th Annual Holiday Party | ALMAS, Anderson Bourne, Emanate, Marten Hørger, Syd Gris |
-| Fri, 11 Dec 2026 | A Club Called Rhonda - DRAMA (DJ Set) |  |
+| Fri, 11 Dec 2026 | A Club Called Rhonda - DRAMA (Club) |  |
 | Sat, 12 Dec 2026 | SET x Safra with Darco (Maccabi House) Extended Set | HAPKI, Kohbain, MONĪ, SAGMO, Vann Essa |
 | Sat, 19 Dec 2026 | Wicked - 35 Years of Free Form Funk | Jeno, Tom of England, Tranquil Elephantizer |
 | Thu, 31 Dec 2026 | Dancing Queen ABBA Glitter Disco NYE Extravaganza |  |
+| Fri, 1 Jan 2027 | It's A New DAY + Breakfast Of Champions 2027 Block Party | 3kelves, ALEX GOODCAT, Anderson Chase, Anthony Mansfield, Awesomer, BEYA, Brunch Life, Cole Odin, Combover, DEBONAIR, DJ Cira, DJ Holographic, DJ M3, DJ Minx, David Harness, Deckard, Desert Hearts, Doc Martin, Dominik Audio, Duserock, Dylan C. Greene, Dïrac, Emanate, Eva, Femmelectric, Fusion, Galen, Glover, HK (1), Homero Espinosa, Horse Meat Disco, Jason Peters, Jonathan Will, Just Another Bitch, Justin Martin, Kevin Knapp, LAKEVERETT, Lee Coombs, Mac Vaughn, Mira, Moheato, Mungo Sound Machine, Papa Lu, Papa Xanny, Philco, PillowTalk, Ploy, Priscilla, Rooz, ShOOey, Shubostar, SkiiTour, Sol (HN), Solar, Steve Fabus, TAMO, Tara Brooks, The Operator (2), YUKA YU, YokoO, discoesq, divaDanielle, likeholywine, nonsuit, starfari |
+| Sat, 23 Jan 2027 | Liminal |  |
 
 ## Address
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

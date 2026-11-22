@@ -1,14 +1,13 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Brooklyn Pacha, New York City on Sat, 21 Nov 2026.
+Luciano is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Luciano is a house and tech house artist based in Switzerland, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 23 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Brooklyn Pacha, New York City on Sat 21 Nov.
+Luciano is a house and tech house artist based in Switzerland, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 23 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Brooklyn Pacha | New York City |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Tue, 1 Dec 2026 | TBA - MILA | Miami |
@@ -19,6 +18,7 @@ Luciano is a house and tech house artist based in Switzerland, with 119 gigs on 
 
 ## Recently played
 
+- Brooklyn Pacha, New York City · Sat, 21 Nov 2026
 - Maimarkthalle, Mannheim · Sat, 7 Nov 2026
 - Mediahaven - Minervahaven, Amsterdam · Thu, 22 Oct 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
@@ -26,10 +26,9 @@ Luciano is a house and tech house artist based in Switzerland, with 119 gigs on 
 - Hï Ibiza, Ibiza · Tue, 22 Sept 2026
 - TBA, Lisbon · Fri, 18 Sept 2026
 - Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
-- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Sossa, Prospa, Marco Carola
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

@@ -1,14 +1,13 @@
 # EartH
 
-EartH is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Mietze Conte - EartH Hall" on Sat, 21 Nov 2026.
+EartH is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Unsound London: Space Afrika, Księżyc, gyrofield, Abdullah Miniawy, Simo Cell + more" on Sat, 28 Nov 2026.
 
-EartH is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, Buttechno and DJ Brockie and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
+EartH is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, Buttechno and DJ Brockie and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Mietze Conte - EartH Hall | Kid on Air, Mietze Conte |
 | Sat, 28 Nov 2026 | Unsound London: Space Afrika, Księżyc, gyrofield, Abdullah Miniawy, Simo Cell + more | Abdullah Miniawy, Simo Cell, Space Afrika, gyrofield |
 | Sat, 28 Nov 2026 | Unsound London: Simo Cell & Abdullah Miniawy, Anz, gyrofield, Tercet Imperial | Abdullah Miniawy, Anz, Simo Cell, gyrofield |
 | Fri, 4 Dec 2026 | Hunee - Hunchin' All Night | Hunee |
@@ -23,4 +22,4 @@ EartH is a music venue in London listed on soundcheck. 10 upcoming gigs, with li
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

@@ -1,8 +1,8 @@
 # J-Zbel
 
-J-Zbel is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
+J-Zbel is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
 
-J-Zbel is a bass and techno artist, with 9 gigs on soundcheck across Athens, Bordeaux, Lyon and Manchester and 3 more. Often billed alongside Judaah, OKO DJ and Fatale Furylax. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
+J-Zbel is a bass and techno artist based in France, with 9 gigs on soundcheck across Athens, Bordeaux, Lyon and Manchester and 3 more. Often billed alongside Judaah, OKO DJ and Fatale Furylax. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ J-Zbel is a bass and techno artist, with 9 gigs on soundcheck across Athens, Bor
 
 Judaah, OKO DJ, Fatale Furylax
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j-zbel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j-zbel/)*

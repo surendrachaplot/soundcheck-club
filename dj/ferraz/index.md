@@ -1,6 +1,6 @@
 # Ferraz
 
-Ferraz is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Terraza Dos Equis, Mexico City on Sun, 22 Nov 2026.
+Ferraz is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Terraza Dos Equis, Mexico City on Sun, 22 Nov 2026.
 
 Ferraz is a house and dancehall artist based in Mexico, with 67 gigs on soundcheck across Guadalajara, Mexico City and Sao Paulo. Often billed alongside Eliangel, Black Daria and SAMIA. Next up: Terraza Dos Equis, Mexico City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Ferraz is a house and dancehall artist based in Mexico, with 67 gigs on soundche
 
 Eliangel, Black Daria, SAMIA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferraz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferraz/)*

@@ -1,6 +1,6 @@
 # Ni-am
 
-Ni-am is a Tech House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Cu, London on Fri, 18 Dec 2026.
+Ni-am is a Tech House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cu, London on Fri, 18 Dec 2026.
 
 Ni-am is a tech house and trance artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Alien Izz, Mary X and Sleepy Jean. Next up: Cu, London on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Ni-am is a tech house and trance artist based in United Kingdom, with 7 gigs on 
 
 Alien Izz, Mary X, Sleepy Jean
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ni-am/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ni-am/)*

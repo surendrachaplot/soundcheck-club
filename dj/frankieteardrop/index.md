@@ -1,6 +1,6 @@
 # Frankie Teardrop
 
-Frankie Teardrop is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Système, Montreal on Thu, 26 Nov 2026.
+Frankie Teardrop is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Système, Montreal on Thu, 26 Nov 2026.
 
 Frankie Teardrop is a techno and house artist based in Canada, with 63 gigs on soundcheck across Los Angeles, Montreal, New York City and Toronto and 1 more. Often billed alongside Badgalquirit, Syd Woz and Fisher Bryce. Next up: Système, Montreal on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Frankie Teardrop is a techno and house artist based in Canada, with 63 gigs on s
 
 Badgalquirit, Syd Woz, Fisher Bryce
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*

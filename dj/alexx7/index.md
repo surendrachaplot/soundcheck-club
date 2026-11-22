@@ -1,6 +1,6 @@
 # ALEXX7
 
-ALEXX7 is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - 15 Ontario Street East, Montreal on Fri, 27 Nov 2026.
+ALEXX7 is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - 15 Ontario Street East, Montreal on Fri, 27 Nov 2026.
 
 ALEXX7 is a hardcore and techno artist based in Canada, with 2 gigs on soundcheck across Montreal. Often billed alongside fangsie and the bald girl. Next up: TBA - 15 Ontario Street East, Montreal on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ ALEXX7 is a hardcore and techno artist based in Canada, with 2 gigs on soundchec
 
 fangsie, the bald girl
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexx7/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexx7/)*

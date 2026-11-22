@@ -1,6 +1,6 @@
 # Lourene
 
-Lourene is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Home Club, Sao Paulo on Sat, 5 Dec 2026.
+Lourene is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Home Club, Sao Paulo on Sat, 5 Dec 2026.
 
 Lourene is a house and techno artist based in Brazil, with 16 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Lisbon and 2 more. Often billed alongside Tobes, Gab Jr. and Dusan Nikolic. Next up: Home Club, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lourene is a house and techno artist based in Brazil, with 16 gigs on soundcheck
 
 Tobes, Gab Jr., Dusan Nikolic
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lourene/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lourene/)*

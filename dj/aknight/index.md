@@ -1,6 +1,6 @@
 # AKnight
 
-AKnight is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+AKnight is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
 AKnight is a trance and techno artist based in United Kingdom, with 1 gig on soundcheck across London. Often billed alongside ANNX, Heavy Skin and Horston. Next up: Low Profile Studios, London on Sat 28 Nov.
 
@@ -14,4 +14,4 @@ AKnight is a trance and techno artist based in United Kingdom, with 1 gig on sou
 
 ANNX, Heavy Skin, Horston
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aknight/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aknight/)*

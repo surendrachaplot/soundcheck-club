@@ -1,6 +1,6 @@
 # Hara Katsiki
 
-Hara Katsiki is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Renate, Berlin on Fri, 25 Dec 2026.
+Hara Katsiki is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Renate, Berlin on Fri, 25 Dec 2026.
 
 Hara Katsiki is a techno and italo disco artist based in Greece, with 48 gigs on soundcheck across Athens, Berlin, Copenhagen and Nantes and 2 more. Often billed alongside Rena Volvo, Franz Scala and Paty Vapor. Next up: Renate, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Hara Katsiki is a techno and italo disco artist based in Greece, with 48 gigs on
 
 Rena Volvo, Franz Scala, Paty Vapor
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harakatsiki/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harakatsiki/)*

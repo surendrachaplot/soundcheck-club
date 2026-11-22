@@ -1,14 +1,13 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Luke Alexander" on Sat, 21 Nov 2026.
+Audio SF is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Rinzen" on Fri, 27 Nov 2026.
 
-Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including 19:26, Black Rave Culture, Cristoph and Giolì & Assia and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including 19:26, Black Rave Culture, Caiiro and Cristoph and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Luke Alexander |  |
 | Fri, 27 Nov 2026 | Rinzen | Rinzen |
 | Fri, 4 Dec 2026 | DANSYN |  |
 | Sat, 5 Dec 2026 | Awen (Live) |  |
@@ -18,9 +17,10 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upco
 | Sat, 19 Dec 2026 | GIOLI & ASSIA | Giolì & Assia |
 | Thu, 31 Dec 2026 | NYE 2027 with Snakehips |  |
 | Fri, 1 Jan 2027 | SOSA |  |
+| Fri, 8 Jan 2027 | NIGHT TALES |  |
 
 ## Address
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

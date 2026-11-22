@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Mira Club Bangkok, Thailand, Bangkok on Fri, 27 Nov 2026.
+Levi (AU) is a Afro House and Deep House artist with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Mira Club Bangkok, Thailand, Bangkok on Fri, 27 Nov 2026.
 
 Levi (AU) is an afro house and deep house artist based in Australia, with 128 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 52 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - Mira Club Bangkok, Thailand, Bangkok on Fri 27 Nov.
 
@@ -23,6 +23,7 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 128 gi
 
 ## Recently played
 
+- TBA, Florida · Sat, 21 Nov 2026
 - Marquee Dayclub, Las-vegas · Sat, 14 Nov 2026
 - TBA - The Hollywood Roosevelt hotel Los Angeles, CA, Los Angeles · Fri, 13 Nov 2026
 - Marquee, New York City · Sat, 7 Nov 2026
@@ -30,10 +31,9 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 128 gi
 - TAO Chicago, Chicago · Sat, 31 Oct 2026
 - TBA - Unity Electro Fest , Quebec-city · Fri, 30 Oct 2026
 - TBA - Willebroek, Belgium, Belgium · Sat, 24 Oct 2026
-- Escape, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

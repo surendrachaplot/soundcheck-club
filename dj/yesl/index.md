@@ -1,6 +1,6 @@
 # YESL
 
-YESL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Stoked&stoned, Seoul on Sat, 28 Nov 2026.
+YESL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Stoked&stoned, Seoul on Sat, 28 Nov 2026.
 
 YESL is a house and techno artist based in South Korea, with 44 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Seoul and 1 more. Often billed alongside odix, DJ Botermelk and Monika (KR). Next up: Stoked&stoned, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ YESL is a house and techno artist based in South Korea, with 44 gigs on soundche
 
 odix, DJ Botermelk, Monika (KR)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesl/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesl/)*

@@ -1,6 +1,6 @@
 # IDEMI
 
-IDEMI is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at UNLOCKED, London on Fri, 27 Nov 2026.
+IDEMI is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at UNLOCKED, London on Fri, 27 Nov 2026.
 
 IDEMI is a house and tech house artist based in United Kingdom, with 27 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Brisbane and 15 more. Often billed alongside Marsolo, CHRIS STASSY and DJ Gigola. Next up: UNLOCKED, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ IDEMI is a house and tech house artist based in United Kingdom, with 27 gigs on 
 
 Marsolo, CHRIS STASSY, DJ Gigola
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

@@ -1,8 +1,8 @@
 # VIDEOBOY
 
-VIDEOBOY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Joule, Osaka on Wed, 30 Dec 2026.
+VIDEOBOY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Joule, Osaka on Wed, 30 Dec 2026.
 
-VIDEOBOY is a techno and house artist, with 33 gigs on soundcheck across Miami, Osaka and Tokyo. Often billed alongside Shingo, ONO and Nao Nomura. Next up: Joule, Osaka on Wed 30 Dec.
+VIDEOBOY is a techno and house artist based in Japan, with 33 gigs on soundcheck across Miami, Osaka and Tokyo. Often billed alongside Shingo, ONO and Nao Nomura. Next up: Joule, Osaka on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ VIDEOBOY is a techno and house artist, with 33 gigs on soundcheck across Miami, 
 
 Shingo, ONO (3), Nao Nomura
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/videoboy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/videoboy/)*

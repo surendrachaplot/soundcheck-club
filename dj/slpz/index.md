@@ -1,8 +1,8 @@
 # SLPZ
 
-SLPZ is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at M7 Club, Barcelona on Sat, 5 Dec 2026.
+SLPZ is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at M7 Club, Barcelona on Sat, 5 Dec 2026.
 
-SLPZ is a techno and electronica artist, with 2 gigs on soundcheck across Barcelona. Often billed alongside LE KLOWN, PENCIL and Pestdokter. Next up: M7 Club, Barcelona on Sat 5 Dec.
+SLPZ is a techno and electronica artist, with 2 gigs on soundcheck across Barcelona. Often billed alongside Kyanøs, LE KLOWN and PENCIL. Next up: M7 Club, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ SLPZ is a techno and electronica artist, with 2 gigs on soundcheck across Barcel
 
 ## Shares bills with
 
-LE KLOWN, PENCIL, Pestdokter
+Kyanøs, LE KLOWN, PENCIL
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slpz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slpz/)*

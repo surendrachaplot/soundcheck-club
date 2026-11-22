@@ -1,14 +1,13 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+Gabbs is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at BRET, Amsterdam on Sat, 28 Nov 2026.
 
-Gabbs is a house and techno artist based in Italy, with 205 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 48 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Concept Haus, Manchester on Sat 21 Nov.
+Gabbs is a house and techno artist based in Italy, with 205 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 48 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: BRET, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Concept Haus | Manchester |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
@@ -21,6 +20,7 @@ Gabbs is a house and techno artist based in Italy, with 205 gigs on soundcheck a
 
 ## Recently played
 
+- Concept Haus, Manchester · Sat, 21 Nov 2026
 - Studio Club Malaga, Malaga · Fri, 20 Nov 2026
 - fabric, London · Sat, 14 Nov 2026
 - Lasociaciøn, Madrid · Fri, 6 Nov 2026
@@ -28,10 +28,9 @@ Gabbs is a house and techno artist based in Italy, with 205 gigs on soundcheck a
 - THE OTHER SIDE, Amsterdam · Sun, 25 Oct 2026
 - Under Bron, Stockholm · Sat, 24 Oct 2026
 - Studionotte, Milan · Fri, 23 Oct 2026
-- THE MAGICK BAR, Rome · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

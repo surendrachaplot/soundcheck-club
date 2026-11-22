@@ -1,6 +1,6 @@
 # XZ5000
 
-XZ5000 is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at 119, Berlin on Sat, 28 Nov 2026.
+XZ5000 is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 119, Berlin on Sat, 28 Nov 2026.
 
 XZ5000 is a techno and psytrance artist based in Tunisia, with 11 gigs on soundcheck across Berlin. Often billed alongside HMEHDI, -OA- and CUNT REMEMBER. Next up: 119, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ XZ5000 is a techno and psytrance artist based in Tunisia, with 11 gigs on soundc
 
 HMEHDI, -OA-, CUNT REMEMBER
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*

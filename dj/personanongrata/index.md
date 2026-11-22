@@ -1,8 +1,8 @@
 # Persona Non Grata
 
-Persona Non Grata is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
+Persona Non Grata is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
 
-Persona Non Grata is a trance and house artist, with 2 gigs on soundcheck across Netherlands and Tbilisi. Often billed alongside Dasha Rush, Felix Kröcher and Mary Lake. Next up: Paradigm, Netherlands on Sat 30 Jan.
+Persona Non Grata is a trance and house artist based in Germany, with 2 gigs on soundcheck across Netherlands and Tbilisi. Often billed alongside Dasha Rush, Felix Kröcher and Mary Lake. Next up: Paradigm, Netherlands on Sat 30 Jan.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ Persona Non Grata is a trance and house artist, with 2 gigs on soundcheck across
 
 Dasha Rush, Felix Kröcher, Mary Lake
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/personanongrata/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/personanongrata/)*

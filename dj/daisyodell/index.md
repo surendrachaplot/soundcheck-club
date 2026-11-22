@@ -1,6 +1,6 @@
 # Daisy O'Dell
 
-Daisy O'Dell is a Electro and New Wave artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 3 Dec 2026.
+Daisy O'Dell is a Electro and New Wave artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 3 Dec 2026.
 
 Daisy O'Dell is an electro and new wave artist based in United States of America, with 10 gigs on soundcheck across Berlin, Los Angeles and New York City. Often billed alongside Sean Patrick, Josh Peace and Moderna. Next up: Bossa Nova Civic Club, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Daisy O'Dell is an electro and new wave artist based in United States of America
 
 Sean Patrick, Josh Peace, Moderna
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyodell/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyodell/)*

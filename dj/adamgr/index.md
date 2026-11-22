@@ -1,8 +1,8 @@
 # adamgr
 
-adamgr is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at World Headquarters, Newcastle on Sat, 28 Nov 2026.
+adamgr is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at World Headquarters, Newcastle on Sat, 28 Nov 2026.
 
-adamgr is a house and garage artist, with 2 gigs on soundcheck across Newcastle. Often billed alongside JJ Croft, Seb Zito and Tonno Disko. Next up: World Headquarters, Newcastle on Sat 28 Nov.
+adamgr is a house and garage artist based in United Kingdom, with 2 gigs on soundcheck across Newcastle. Often billed alongside JJ Croft, Seb Zito and Tonno Disko. Next up: World Headquarters, Newcastle on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ adamgr is a house and garage artist, with 2 gigs on soundcheck across Newcastle.
 
 JJ Croft, Seb Zito, Tonno Disko
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamgr/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamgr/)*

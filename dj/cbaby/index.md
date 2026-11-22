@@ -1,6 +1,6 @@
 # CBABY
 
-CBABY is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
+CBABY is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
 
 CBABY is a hardcore and techno artist, with 23 gigs on soundcheck across Bristol, Leeds, Liverpool and Manchester. Often billed alongside Wor Lass, Princess Elf Bar and FOULMOUTH. Next up: The Prospect Building, Bristol on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ CBABY is a hardcore and techno artist, with 23 gigs on soundcheck across Bristol
 
 Wor Lass, Princess Elf Bar, FOULMOUTH
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cbaby/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cbaby/)*

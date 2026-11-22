@@ -1,6 +1,6 @@
 # Horsepower Productions
 
-Horsepower Productions is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 5 Dec 2026.
+Horsepower Productions is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 5 Dec 2026.
 
 Horsepower Productions is a dubstep and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Athens, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Benny Ill, SGT Pokes and Carré. Next up: EXIT Glasgow, Glasgow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Horsepower Productions is a dubstep and jungle artist based in United Kingdom, w
 
 Benny Ill, SGT Pokes, Carré
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsepowerproductions/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsepowerproductions/)*

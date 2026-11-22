@@ -1,6 +1,6 @@
 # Shakur
 
-Shakur is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Sonorama, Medellin on Sun, 22 Nov 2026.
+Shakur is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sonorama, Medellin on Sun, 22 Nov 2026.
 
 Shakur is a tech house and house artist based in Colombia, with 73 gigs on soundcheck across Medellin. Often billed alongside sebaztiano, Spini and Euphoria X. Next up: Sonorama, Medellin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Shakur is a tech house and house artist based in Colombia, with 73 gigs on sound
 
 sebaztiano, Spini, Euphoria X
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakur/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakur/)*

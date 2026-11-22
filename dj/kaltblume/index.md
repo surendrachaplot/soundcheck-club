@@ -1,6 +1,6 @@
 # KALTBLUME
 
-KALTBLUME is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Place, Paris on Thu, 31 Dec 2026.
+KALTBLUME is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Place, Paris on Thu, 31 Dec 2026.
 
 KALTBLUME is a techno and industrial artist based in France, with 32 gigs on soundcheck across Amsterdam, Berlin, Milan and Nantes and 2 more. Often billed alongside RUIZ OSC1, Iman Janes and KUSS. Next up: TBA - Secret Place, Paris on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ KALTBLUME is a techno and industrial artist based in France, with 32 gigs on sou
 
 RUIZ OSC1, Iman Janes, KUSS
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*

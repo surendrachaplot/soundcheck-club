@@ -1,13 +1,14 @@
 # Cordell Johnson
 
-Cordell Johnson is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Heaven Gallery, Chicago on Sat, 5 Dec 2026.
+Cordell Johnson is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Wax Bar, Chicago on Sun, 29 Nov 2026.
 
-Cordell Johnson is a deep house and disco artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Detroit and 3 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: Heaven Gallery, Chicago on Sat 5 Dec.
+Cordell Johnson is a deep house and disco artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Detroit and 3 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: TBA - Wax Bar, Chicago on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | TBA - Wax Bar | Chicago |
 | Sat, 5 Dec 2026 | Heaven Gallery | Chicago |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cordell Johnson is a deep house and disco artist based in United States of Ameri
 
 James Vincent, Lorenzo Dewberry, CTRLZORA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*

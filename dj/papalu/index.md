@@ -1,6 +1,6 @@
 # Papa Lu
 
-Papa Lu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Papa Lu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Papa Lu is a house and tech house artist based in United States of America, with 29 gigs on soundcheck across California, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Jimmy B, Galen and Anthony Mansfield. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Papa Lu is a house and tech house artist based in United States of America, with
 
 Jimmy B, Galen, Anthony Mansfield
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papalu/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papalu/)*

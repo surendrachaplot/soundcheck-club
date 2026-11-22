@@ -1,14 +1,13 @@
 # ESC
 
-ESC is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ON THE HOUSE - VOL 007" on Sat, 21 Nov 2026.
+ESC is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "LATEX. // BLASPHEMY // MONTREAL" on Fri, 27 Nov 2026.
 
-ESC is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including Beathead, Boomy, Braue and CrisseMarqueur and 2 more. See dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
+ESC is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Beathead, Boomy, CrisseMarqueur and CUERPOS and 2 more. See dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ON THE HOUSE - VOL 007 | Braue, Cristobal Urbina, Eddie C, Trevor Kiernander |
 | Fri, 27 Nov 2026 | LATEX. // BLASPHEMY // MONTREAL | Boomy, CUERPOS, CrisseMarqueur, Ficilio, Marnigurl, Pretty Privilege |
 | Sat, 28 Nov 2026 | Church of AlpaKa 3.0 - Techno / Psy | Beathead, Solar Punk |
 
@@ -16,4 +15,4 @@ ESC is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with lin
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

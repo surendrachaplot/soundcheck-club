@@ -1,6 +1,6 @@
 # Siren (4)
 
-Siren (4) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Toronto on Fri, 4 Dec 2026.
+Siren (4) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Toronto on Fri, 4 Dec 2026.
 
 Siren is a techno and dub techno artist based in Canada, with 19 gigs on soundcheck across Paris and Toronto. Often billed alongside Hemlock (CA), Utopos and Chumbo. Next up: TBA, Toronto on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Siren is a techno and dub techno artist based in Canada, with 19 gigs on soundch
 
 Hemlock (CA), Utopos, Chumbo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siren-4/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siren-4/)*

@@ -1,6 +1,6 @@
 # Laura Foxx
 
-Laura Foxx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Z-Bau, Nürnberg on Sat, 13 Feb 2027.
+Laura Foxx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Z-Bau, Nürnberg on Sat, 13 Feb 2027.
 
 Laura Foxx is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside Dominique Lamee, HNAS and Kø:lab. Next up: Z-Bau, Nürnberg on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Laura Foxx is a techno and trance artist based in Germany, with 20 gigs on sound
 
 Dominique Lamee, HNAS, Kø:lab
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurafoxx/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurafoxx/)*

@@ -1,6 +1,6 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
+Aashofteh is a Tech House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
 
 Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on soundcheck across Canberra and Melbourne. Often billed alongside Miscmeg, D-Grade and Sofay. Next up: Miscellania, Melbourne on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on so
 
 Miscmeg, D-Grade, Sofay
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*

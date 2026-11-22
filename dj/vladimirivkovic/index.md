@@ -1,14 +1,13 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Cadavra, Madrid on Sat, 21 Nov 2026.
+Vladimir Ivkovic is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bongo Joe, Geneva on Thu, 3 Dec 2026.
 
-Vladimir Ivkovic is a techno and house artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 82 more. Often billed alongside Lena Willikens, Ivan Smagghe and Jane Fitz. Next up: Cadavra, Madrid on Sat 21 Nov.
+Vladimir Ivkovic is a techno and house artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 82 more. Often billed alongside Lena Willikens, Ivan Smagghe and Jane Fitz. Next up: Bongo Joe, Geneva on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Cadavra | Madrid |
 | Thu, 3 Dec 2026 | Bongo Joe | Geneva |
 | Sat, 5 Dec 2026 | Mercati Generali | Sicily |
 | Sun, 6 Dec 2026 | TBA | Berlin |
@@ -20,9 +19,11 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 246 gigs on
 | Sat, 16 Jan 2027 | The White Hotel | Manchester |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 | Tue, 1 Jun 2027 | TBA - Casale dell'arte - Catania  | Sicily |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- Cadavra, Madrid · Sat, 21 Nov 2026
 - Dabadaba, North · Fri, 20 Nov 2026
 - Burger Disco Club, Athens · Sun, 15 Nov 2026
 - TBA, Sydney · Sun, 8 Nov 2026
@@ -30,10 +31,9 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 246 gigs on
 - Miscellania, Melbourne · Fri, 6 Nov 2026
 - Kino Siska, Ljubljana · Thu, 5 Nov 2026
 - Nowadays, New York City · Fri, 30 Oct 2026
-- Kapsule, Liverpool · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Lena Willikens, Ivan Smagghe, Jane Fitz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

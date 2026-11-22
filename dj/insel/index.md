@@ -1,6 +1,6 @@
 # Insel
 
-Insel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
+Insel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
 Insel is a house and techno artist based in Spain, with 2 gigs on soundcheck across Berlin and Zurich. Often billed alongside Alessia Ceruti, Aline (CH) and Atika. Next up: Kauz, Zurich on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ Insel is a house and techno artist based in Spain, with 2 gigs on soundcheck acr
 
 Alessia Ceruti, Aline (CH), Atika
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insel/)*

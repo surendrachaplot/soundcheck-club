@@ -1,6 +1,6 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Lofi, Amsterdam on Sat, 19 Dec 2026.
+Bitter Babe is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lofi, Amsterdam on Sat, 19 Dec 2026.
 
 Bitter Babe is a techno and latin bass artist based in Colombia, with 203 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Kia (AU), Verraco and Nick León. Next up: Lofi, Amsterdam on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Bitter Babe is a techno and latin bass artist based in Colombia, with 203 gigs o
 
 Kia (AU), Verraco, Nick León
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

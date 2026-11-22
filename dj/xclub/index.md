@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
+X CLUB. is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
 
 X CLUB. is a techno and house artist based in Australia, with 248 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 79 more. Often billed alongside VTSS, DJ Heartstring and KETTAMA. Next up: Thuishaven, Amsterdam on Sun 22 Nov.
 
@@ -33,4 +33,4 @@ X CLUB. is a techno and house artist based in Australia, with 248 gigs on soundc
 
 VTSS, DJ Heartstring, KETTAMA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

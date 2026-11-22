@@ -1,14 +1,13 @@
 # Inkonst
 
-Inkonst is a music venue in Malmo with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "TTNoTDB with Carly Zeng B2B Behrang Mohammadi" on Sat, 21 Nov 2026.
+Inkonst is a music venue in Malmo with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "raster 30 Years Anniversary" on Fri, 27 Nov 2026.
 
-Inkonst is a music venue in Malmo listed on soundcheck. 7 upcoming gigs, with line-ups including Baba Stiltz, Behrang Mohammadi, Carly Zeng and Frank Bretschneider and 2 more. See dates, start times and who's playing. Bergsgatan 29, 214 22 Malmö, Sweden.
+Inkonst is a music venue in Malmo listed on soundcheck. 6 upcoming gigs, with line-ups including Baba Stiltz, Frank Bretschneider, Gábor Lázár and John Cleworth and 2 more. See dates, start times and who's playing. Bergsgatan 29, 214 22 Malmö, Sweden.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TTNoTDB with Carly Zeng B2B Behrang Mohammadi | Behrang Mohammadi, Carly Zeng |
 | Fri, 27 Nov 2026 | raster 30 Years Anniversary | Frank Bretschneider, Gábor Lázár, John Cleworth, Xuri |
 | Fri, 27 Nov 2026 | raster 30. Years anniversary | Frank Bretschneider, Gábor Lázár, John Cleworth, Xuri |
 | Sat, 28 Nov 2026 | Inkonst Club Night |  |
@@ -20,4 +19,4 @@ Inkonst is a music venue in Malmo listed on soundcheck. 7 upcoming gigs, with li
 
 Bergsgatan 29, 214 22 Malmö, Sweden, Malmo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*

@@ -1,6 +1,6 @@
 # C Frame
 
-C Frame is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 19 Dec 2026.
+C Frame is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 19 Dec 2026.
 
 C Frame is a techno and house artist based in United Kingdom, with 53 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Jenn Gunn, Skillis and Big Miz. Next up: EXIT Glasgow, Glasgow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ C Frame is a techno and house artist based in United Kingdom, with 53 gigs on so
 
 Jenn Gunn (2), Skillis, Big Miz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cframe/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cframe/)*

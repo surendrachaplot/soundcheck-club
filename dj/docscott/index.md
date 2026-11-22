@@ -1,14 +1,13 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
 
-Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Goldie, Grooverider and Loxy. Next up: Sidney & Matilda, Sheffield on Sat 21 Nov.
+Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Goldie, Grooverider and Loxy. Next up: The Wardrobe, Leeds on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Sidney & Matilda | Sheffield |
 | Sun, 29 Nov 2026 | The Wardrobe | Leeds |
 | Sat, 5 Dec 2026 | Volks | Brighton |
 | Fri, 18 Dec 2026 | The Cause | London |
@@ -19,6 +18,7 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 121 g
 
 ## Recently played
 
+- Sidney & Matilda, Sheffield · Sat, 21 Nov 2026
 - Night Tales, London · Sun, 15 Nov 2026
 - The Clock Factory, Bristol · Sat, 31 Oct 2026
 - M.O.T, London · Fri, 30 Oct 2026
@@ -26,10 +26,9 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 121 g
 - Hootananny Brixton, London · Sat, 3 Oct 2026
 - Hare & Hounds, Birmingham · Fri, 28 Aug 2026
 - The Cause, London · Sat, 22 Aug 2026
-- Joshua Brooks, Manchester · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Goldie, Grooverider, Loxy
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

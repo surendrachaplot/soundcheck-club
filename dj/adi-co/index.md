@@ -1,6 +1,6 @@
 # Adi (CO)
 
-Adi (CO) is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Studio Citygate, Brussels on Sat, 21 Nov 2026.
+Adi (CO) is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Studio Citygate, Brussels on Sat, 21 Nov 2026.
 
 Adi (CO) is a techno and house artist based in Colombia, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 32 more. Often billed alongside Unai Trotti, Fais Le Beau and Walrus. Next up: Studio Citygate, Brussels on Sat 21 Nov.
 
@@ -19,6 +19,7 @@ Adi (CO) is a techno and house artist based in Colombia, with 126 gigs on soundc
 
 ## Recently played
 
+- Studio Citygate, Brussels · Sat, 21 Nov 2026
 - Palais, London · Fri, 13 Nov 2026
 - Final, Taipei · Sat, 17 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 9 Oct 2026
@@ -26,10 +27,9 @@ Adi (CO) is a techno and house artist based in Colombia, with 126 gigs on soundc
 - Cobalt Studios, Newcastle · Fri, 25 Sept 2026
 - UMI, Brussels · Sat, 19 Sept 2026
 - Flash, Washington DC · Sat, 22 Aug 2026
-- Green Room NYC, New York City · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Unai Trotti, Fais Le Beau, Walrus
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*

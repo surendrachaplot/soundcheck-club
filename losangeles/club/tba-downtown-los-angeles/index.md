@@ -1,14 +1,13 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Lights Down Low x WARP MODE feat. Baauer + umru" on Sat, 21 Nov 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Sirens x Roam: Anniversary Edition" on Fri, 4 Dec 2026.
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including Axel Boman, Baauer, Bianca Oblivion and Federico Daiup and 2 more. See dates, start times and who's playing.
+TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including Axel Boman, Federico Daiup, Gabbs and Gilbert0 and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Lights Down Low x WARP MODE feat. Baauer + umru | Baauer, Bianca Oblivion, Star Eyes, umru |
 | Fri, 4 Dec 2026 | Sirens x Roam: Anniversary Edition | Jason Peters, Juniör, Nicoshi, Stacy Christine |
 | Sat, 5 Dec 2026 | Certified Groovers: Michael Fam [all night long] | Michael Fam |
 | Sat, 12 Dec 2026 | Certified Groovers: Maher Daniel | Federico Daiup, Gilbert0, Ian Llorens, Maher Daniel |
@@ -17,4 +16,4 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Thu, 31 Dec 2026 | Midnight Lovers NYE |  |
 | Fri, 22 Jan 2027 | Certified Groovers: Gabbs | Gabbs |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

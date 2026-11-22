@@ -1,8 +1,8 @@
 # Grafus
 
-Grafus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
+Grafus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
 
-Grafus is a techno and trance artist, with 4 gigs on soundcheck across Vienna. Often billed alongside Arman Shadow, Joey and Annakonda. Next up: Das Werk, Vienna on Fri 18 Dec.
+Grafus is a techno and trance artist based in Austria, with 4 gigs on soundcheck across Vienna. Often billed alongside Arman Shadow, Joey and Annakonda. Next up: Das Werk, Vienna on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Grafus is a techno and trance artist, with 4 gigs on soundcheck across Vienna. O
 
 Arman Shadow, Joey (2), Annakonda
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grafus/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grafus/)*

@@ -1,6 +1,6 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DJ Bone presents FURTHER: Juan Taught All of Us (A Tribute to Juan Atkins)" on Sun, 22 Nov 2026.
+RADION is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DJ Bone presents FURTHER: Juan Taught All of Us (A Tribute to Juan Atkins)" on Sun, 22 Nov 2026.
 
 RADION is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 1morning, Adriana Lopez, Akua and Amotik and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
@@ -23,4 +23,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, wit
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

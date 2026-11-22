@@ -1,19 +1,19 @@
 # Demuja
 
-Demuja is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bikini Club, Barcelona on Sat, 21 Nov 2026.
+Demuja is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
-Demuja is a house and disco artist based in Austria, with 119 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 45 more. Often billed alongside Black Loops, Cinthie and EG. Next up: Bikini Club, Barcelona on Sat 21 Nov.
+Demuja is a house and disco artist based in Austria, with 119 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 45 more. Often billed alongside Black Loops, Cinthie and EG. Next up: FVTVR, Paris on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Bikini Club | Barcelona |
 | Fri, 4 Dec 2026 | FVTVR | Paris |
 | Thu, 31 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
+- Bikini Club, Barcelona · Sat, 21 Nov 2026
 - Funke, Ghent · Fri, 13 Nov 2026
 - Noorderlicht Café, Amsterdam · Sun, 25 Oct 2026
 - KHIDI, Tbilisi · Fri, 16 Oct 2026
@@ -21,10 +21,9 @@ Demuja is a house and disco artist based in Austria, with 119 gigs on soundcheck
 - Klub Werkstatt, Copenhagen · Sat, 3 Oct 2026
 - Sacré, Paris · Sat, 19 Sept 2026
 - UMI, Brussels · Fri, 18 Sept 2026
-- Wigwam, Dublin · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Black Loops, Cinthie, EG (1)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*

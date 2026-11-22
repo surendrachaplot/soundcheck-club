@@ -1,6 +1,6 @@
 # Imaabs
 
-Imaabs is a Experimental and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Şahika, Istanbul on Thu, 3 Dec 2026.
+Imaabs is a Experimental and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Şahika, Istanbul on Thu, 3 Dec 2026.
 
 Imaabs is an experimental and latin bass artist based in Chile, with 25 gigs on soundcheck across Barcelona, Berlin, Bogotá and Istanbul and 3 more. Often billed alongside Microhm, Tomás Urquieta and Lao (MX). Next up: Şahika, Istanbul on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Imaabs is an experimental and latin bass artist based in Chile, with 25 gigs on 
 
 Microhm, Tomás Urquieta, Lao (MX)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*

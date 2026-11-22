@@ -1,6 +1,6 @@
 # Soul Of Hex presented by Public Works & Course Correction at Public Works
 
-Soul Of Hex presented by Public Works & Course Correction on Fri 11 Dec, San Francisco/Oakland. 1 artist: Soul Of Hex. See the line-up on soundcheck.
+Soul Of Hex presented by Public Works & Course Correction on Fri 11 Dec, San Francisco/Oakland. 2 artists: Louiv and Soul Of Hex. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Soul Of Hex presented by Public Works & Course Correction on Fri 11 Dec, San Fra
 
 ## Line-up
 
+- Louiv
 - Soul Of Hex
 
 *Source: [soundcheck](https://soundcheck.club/e/2581039-soul-of-hex-presented-by-public-works-course-correction-at-p/)*

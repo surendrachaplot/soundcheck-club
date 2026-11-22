@@ -1,6 +1,6 @@
 # Subcultures
 
-Subcultures is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Honey's, New York City on Wed, 25 Nov 2026.
+Subcultures is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Honey's, New York City on Wed, 25 Nov 2026.
 
 Subcultures is an electro and house artist based in United States of America, with 43 gigs on soundcheck across New York City. Often billed alongside Brutal Twink, SWIMMIE and Melona. Next up: Honey's, New York City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Subcultures is an electro and house artist based in United States of America, wi
 
 Brutal Twink, SWIMMIE, Melona
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subcultures/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subcultures/)*

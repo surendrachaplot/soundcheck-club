@@ -1,14 +1,13 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 22 Nov 2026.
+Risa Taniguchi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
 
-Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside Drunken Kong, YURI VALEN and Ken Ishii. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 22 Nov.
+Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside Drunken Kong, YURI VALEN and Ken Ishii. Next up: or, Tokyo on Mon 23 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Mon, 23 Nov 2026 | or | Tokyo |
 | Sat, 28 Nov 2026 | Adrift | Tokyo |
 | Sat, 28 Nov 2026 | WOMB | Tokyo |
@@ -29,4 +28,4 @@ Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on sou
 
 Drunken Kong, YURI VALEN, Ken Ishii
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*

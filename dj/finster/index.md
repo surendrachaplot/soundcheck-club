@@ -1,6 +1,6 @@
 # Finster
 
-Finster is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Kassablanca, Jena on Fri, 4 Dec 2026.
+Finster is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kassablanca, Jena on Fri, 4 Dec 2026.
 
 Finster is a drum & bass and techno artist based in Germany, with 3 gigs on soundcheck across Brighton, Jena and Leipzig. Often billed alongside Cadence, Emperor (UK) and Koherent. Next up: Kassablanca, Jena on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Finster is a drum & bass and techno artist based in Germany, with 3 gigs on soun
 
 Cadence (1), Emperor (UK), Koherent
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finster/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finster/)*

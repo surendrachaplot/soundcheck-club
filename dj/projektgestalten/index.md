@@ -1,6 +1,6 @@
 # Projekt Gestalten
 
-Projekt Gestalten is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 14 Dec 2026.
+Projekt Gestalten is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 14 Dec 2026.
 
 Projekt Gestalten is a techno and house artist based in Brazil, with 64 gigs on soundcheck across Amsterdam, Athens, Berlin and Dresden and 16 more. Often billed alongside Rakans, Deepneue and Inverse Element. Next up: Tresor / Globus, Berlin on Mon 14 Dec.
 
@@ -25,4 +25,4 @@ Projekt Gestalten is a techno and house artist based in Brazil, with 64 gigs on 
 
 Rakans, Deepneue, Inverse Element
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/projektgestalten/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/projektgestalten/)*

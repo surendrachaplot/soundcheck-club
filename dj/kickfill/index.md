@@ -1,8 +1,8 @@
 # Kick Fill
 
-Kick Fill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bar Oriente, Mexico-city on Fri, 27 Nov 2026.
+Kick Fill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bar Oriente, Mexico-city on Fri, 27 Nov 2026.
 
-Kick Fill is a house and techno artist, with 2 gigs on soundcheck across Mexico City. Often billed alongside Andre VII, Bonnie Spacey and Cinema Paradisco. Next up: Bar Oriente, Mexico City on Fri 27 Nov.
+Kick Fill is a house and techno artist based in Mexico, with 2 gigs on soundcheck across Mexico City. Often billed alongside Andre VII, Bonnie Spacey and Cinema Paradisco. Next up: Bar Oriente, Mexico City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ Kick Fill is a house and techno artist, with 2 gigs on soundcheck across Mexico 
 
 Andre VII, Bonnie Spacey, Cinema Paradisco
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kickfill/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kickfill/)*

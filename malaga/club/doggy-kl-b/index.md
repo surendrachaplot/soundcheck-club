@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Cultura Club: Rickie + Rvbbio" on Sat, 21 Nov 2026.
+Doggy Klœb is a music venue in Malaga with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Andres Sancho + Unreal Vibes" on Fri, 27 Nov 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 12 upcoming gigs, with line-ups including Andrés Sancho, Annina, aRDe and Arval and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 11 upcoming gigs, with line-ups including Andrés Sancho, Annina, aRDe and Arval and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Cultura Club: Rickie + Rvbbio | Rickie (Overground), rubbio |
 | Fri, 27 Nov 2026 | Andres Sancho + Unreal Vibes | Andrés Sancho, Unreal Vibes |
 | Sat, 28 Nov 2026 | NullName Showcase | Fer Sanfer, Noctive, Reisender, Unreal Vibes |
 | Fri, 4 Dec 2026 | UDE Anniversary: 1st Day | Radikal Komcept |
@@ -18,9 +17,10 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 12 upcoming gigs, w
 | Fri, 11 Dec 2026 | Doppler Project: RDS - Phantom |  |
 | Sat, 12 Dec 2026 | Stand Up showcase | Oren (IT), Peter Grand, YUMA |
 | Fri, 18 Dec 2026 | Loudel + Fontango | Fontango |
+| Sat, 19 Dec 2026 | Doggy Project presents: Laurine & Cecilio, Rvbbio, Unreal Vibes, Radikal Komcept | Cecilio, Laurine, Radikal Komcept, Unreal Vibes, rubbio |
 
 ## Address
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

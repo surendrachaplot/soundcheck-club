@@ -1,15 +1,13 @@
 # Digital
 
-Digital is a music venue in Newcastle with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DIGITAL Presents Jazzy: Peace & Patience Tour" on Sat, 21 Nov 2026.
+Digital is a music venue in Newcastle with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "UNIT.90 THURSDAYS" on Thu, 26 Nov 2026.
 
-Digital is a music venue in Newcastle listed on soundcheck. 12 upcoming gigs, with line-ups including Kepler, ADR (UK), Andy Whitby and DJ Cosworth and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
+Digital is a music venue in Newcastle listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Andy Whitby, DJ Cosworth and Fish56Octagon and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | DIGITAL Presents Jazzy: Peace & Patience Tour |  |
-| Sat, 21 Nov 2026 | Digital presents Jazzy: Peace & Patience Tour | ADR (UK), Ellie Scougall, James Poole, Jazzy (IRL) |
 | Thu, 26 Nov 2026 | UNIT.90 THURSDAYS |  |
 | Fri, 27 Nov 2026 | Fish56Octagon | Fish56Octagon |
 | Fri, 27 Nov 2026 | Latino Fest |  |
@@ -18,9 +16,11 @@ Digital is a music venue in Newcastle listed on soundcheck. 12 upcoming gigs, wi
 | Fri, 11 Dec 2026 | CIRCO - All Night Long |  |
 | Fri, 18 Dec 2026 | Digital presents: Luke Dean b2b MJ Cole b2b Lucas Alexander |  |
 | Sat, 26 Dec 2026 | Ministry of Bounce/love decade Boxing Day special |  |
+| Thu, 31 Dec 2026 | KONNEKT presents - L.P. Rhythm - New Years Eve | L.P. Rhythm |
+| Sat, 13 Feb 2027 | Excite X The New Monkey - Valentines Fiesta |  |
 
 ## Address
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

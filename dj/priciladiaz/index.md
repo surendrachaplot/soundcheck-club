@@ -1,6 +1,6 @@
 # Pricila Diaz
 
-Pricila Diaz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Home Club, Sao Paulo on Sat, 5 Dec 2026.
+Pricila Diaz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Home Club, Sao Paulo on Sat, 5 Dec 2026.
 
 Pricila Diaz is a house and tech house artist based in Brazil, with 8 gigs on soundcheck across Malta, Rio de Janeiro and Sao Paulo. Often billed alongside Analu, Mochakk and Dixon. Next up: Home Club, Sao Paulo on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Pricila Diaz is a house and tech house artist based in Brazil, with 8 gigs on so
 
 Analu, Mochakk, Dixon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priciladiaz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priciladiaz/)*

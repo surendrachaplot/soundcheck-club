@@ -1,8 +1,8 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+FJAAK is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
 
-FJAAK is a techno and house artist based in Germany, with 307 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 92 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
+FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 92 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ FJAAK is a techno and house artist based in Germany, with 307 gigs on soundcheck
 
 Elli Acula, Anna Z., Ben Klock
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

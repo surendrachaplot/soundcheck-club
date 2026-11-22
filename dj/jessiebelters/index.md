@@ -1,6 +1,6 @@
 # Jessie Belters
 
-Jessie Belters is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Jessie Belters is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Jessie Belters is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Byron Bay, South Australia and Sydney. Often billed alongside El Discotheque, TOBLERON3 and Moopie. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -13,6 +13,7 @@ Jessie Belters is a house and techno artist based in United Kingdom, with 12 gig
 
 ## Recently played
 
+- Haven, Byron Bay · Sat, 21 Nov 2026
 - Haven, Byron Bay · Sat, 26 Sept 2026
 - Haven, Byron Bay · Sat, 15 Aug 2026
 - TBA - HAVEN BYRON BAY, Byron Bay · Sat, 13 Dec 2025
@@ -20,10 +21,9 @@ Jessie Belters is a house and techno artist based in United Kingdom, with 12 gig
 - Byron Bay Brewery, Byron Bay · Sat, 17 May 2025
 - The Bridge Hotel, Sydney · Fri, 21 Mar 2025
 - Manning Bar, Sydney · Sat, 25 Jan 2025
-- The Bridge Hotel, Sydney · Fri, 28 Jun 2024
 
 ## Shares bills with
 
 El Discotheque, TOBLERON3, Moopie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiebelters/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiebelters/)*

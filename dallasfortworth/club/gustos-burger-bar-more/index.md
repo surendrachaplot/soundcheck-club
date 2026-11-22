@@ -1,6 +1,6 @@
 # Gustos Burger Bar + More
 
-Gustos Burger Bar + More is a music venue in Dallas/Fort Worth with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Gustos x Raisethevibe.net Sundays" on Sun, 22 Nov 2026.
+Gustos Burger Bar + More is a music venue in Dallas/Fort Worth with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Gustos x Raisethevibe.net Sundays" on Sun, 22 Nov 2026.
 
 Gustos Burger Bar + More is a music venue in Dallas/Fort Worth listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gustos Burger Bar + More is a music venue in Dallas/Fort Worth listed on soundch
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Gustos x Raisethevibe.net Sundays |  |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dallasfortworth/club/gustos-burger-bar-more/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dallasfortworth/club/gustos-burger-bar-more/)*

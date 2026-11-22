@@ -1,6 +1,6 @@
 # Scoozy
 
-Scoozy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
+Scoozy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
 
 Scoozy is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside 5euroGoldi, DJ Business and MATHILDA. Next up: WDM, Hannover on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Scoozy is a house and techno artist based in Germany, with 10 gigs on soundcheck
 
 5euroGoldi, DJ Business (2), MATHILDA (2)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scoozy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scoozy/)*

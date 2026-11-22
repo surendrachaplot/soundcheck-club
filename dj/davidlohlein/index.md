@@ -1,14 +1,13 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+David Löhlein is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
 
-David Löhlein is a techno and trance artist based in Germany, with 186 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 60 more. Often billed alongside Raphael Dincsoy, Rove Ranger and Clara Cuvé. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+David Löhlein is a techno and trance artist based in Germany, with 186 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 60 more. Often billed alongside Raphael Dincsoy, Rove Ranger and Clara Cuvé. Next up: MUENZE, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 28 Nov 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 5 Dec 2026 | Westhafen | Leipzig |
@@ -31,4 +30,4 @@ David Löhlein is a techno and trance artist based in Germany, with 186 gigs on 
 
 Raphael Dincsoy, Rove Ranger, Clara Cuvé
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

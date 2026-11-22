@@ -1,6 +1,6 @@
 # JESSXO
 
-JESSXO is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jupiter Disco, New York City on Wed, 16 Dec 2026.
+JESSXO is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jupiter Disco, New York City on Wed, 16 Dec 2026.
 
 JESSXO is a techno and hardcore artist based in United States of America, with 37 gigs on soundcheck across Baltimore, Bogotá, Boston and Los Angeles and 8 more. Often billed alongside XXHARDBIT3S, Xana 101 and Tailz. Next up: Jupiter Disco, New York City on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ JESSXO is a techno and hardcore artist based in United States of America, with 3
 
 XXHARDBIT3S, Xana 101, Tailz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessxo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessxo/)*

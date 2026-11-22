@@ -1,8 +1,8 @@
 # Samogulov
 
-Samogulov is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Mastak, Warsaw on Sat, 28 Nov 2026.
+Samogulov is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mastak, Warsaw on Sat, 28 Nov 2026.
 
-Samogulov is a minimal and techno artist based in Belarus, with 56 gigs on soundcheck across Berlin, Krakow, Poznan and Prague and 2 more. Often billed alongside Shjva, Plastik and Puha. Next up: Mastak, Warsaw on Sat 28 Nov.
+Samogulov is a minimal and techno artist based in Belarus, with 57 gigs on soundcheck across Berlin, Krakow, Poznan and Prague and 2 more. Often billed alongside Shjva, Plastik and Puha. Next up: Mastak, Warsaw on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Samogulov is a minimal and techno artist based in Belarus, with 56 gigs on sound
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Mastak | Warsaw |
 | Fri, 11 Dec 2026 | Mastak | Warsaw |
+| Fri, 25 Dec 2026 | Mastak | Warsaw |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Samogulov is a minimal and techno artist based in Belarus, with 56 gigs on sound
 
 Shjva, Plastik (1), Puha
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samogulov/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samogulov/)*

@@ -1,6 +1,6 @@
 # Deep Mariano
 
-Deep Mariano is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Aguaverde Wine Lodge , Uruguay on Tue, 5 Jan 2027.
+Deep Mariano is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Aguaverde Wine Lodge , Uruguay on Tue, 5 Jan 2027.
 
 Deep Mariano is a house and progressive house artist, with 8 gigs on soundcheck across Buenos Aires, Mexico City and Uruguay. Often billed alongside Manu Oubiña, Andrés Zacco and Chico Fadelli. Next up: TBA - Aguaverde Wine Lodge , Uruguay on Tue 5 Jan.
 
@@ -24,4 +24,4 @@ Deep Mariano is a house and progressive house artist, with 8 gigs on soundcheck 
 
 Manu Oubiña, Andrés Zacco, Chico Fadelli
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepmariano/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepmariano/)*

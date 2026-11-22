@@ -1,14 +1,13 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Ghetto Tech artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bar Temp., Bangkok on Sat, 21 Nov 2026.
+DJ Godfather is a Techno and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Modeci, Seoul on Fri, 27 Nov 2026.
 
-DJ Godfather is a techno and ghetto tech artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 27 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: Bar Temp., Bangkok on Sat 21 Nov.
+DJ Godfather is a techno and ghetto tech artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 27 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: Modeci, Seoul on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Bar Temp. | Bangkok |
 | Fri, 27 Nov 2026 | Modeci | Seoul |
 | Sat, 28 Nov 2026 | OIL Club | Shenzhen |
 | Sat, 5 Dec 2026 | Green Room NYC | New York City |
@@ -17,6 +16,7 @@ DJ Godfather is a techno and ghetto tech artist based in United States of Americ
 
 ## Recently played
 
+- Bar Temp., Bangkok · Sat, 21 Nov 2026
 - Doop, Shanghai · Fri, 20 Nov 2026
 - The Ground at Club Space, Miami · Sat, 7 Nov 2026
 - Lincoln Factory, Detroit · Sat, 31 Oct 2026
@@ -24,10 +24,9 @@ DJ Godfather is a techno and ghetto tech artist based in United States of Americ
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - Melkweg, Amsterdam · Fri, 23 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- BASIS, Utrecht · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

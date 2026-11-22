@@ -1,14 +1,13 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DISCO S!UT" on Sat, 21 Nov 2026.
+EQ San Diego is a music venue in San Diego with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DRESSCODE" on Wed, 25 Nov 2026.
 
-EQ San Diego is a music venue in San Diego listed on soundcheck. 8 upcoming gigs, with line-ups including Baby Jane, Dianthe, Dillon James and Josh Taylor and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in San Diego listed on soundcheck. 7 upcoming gigs, with line-ups including Baby Jane, Dianthe, Josh Taylor and Nukumori and 1 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | DISCO S!UT | Dillon James |
 | Wed, 25 Nov 2026 | DRESSCODE |  |
 | Sun, 29 Nov 2026 | OVERDRIVE PRESENTS: BAILE F**K VOL. 006 with BGZ | Nukumori |
 | Thu, 3 Dec 2026 | The Techno Jungle | Dianthe, Josh Taylor |
@@ -21,4 +20,4 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 8 upcoming gigs
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

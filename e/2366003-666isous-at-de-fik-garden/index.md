@@ -1,6 +1,6 @@
 # 666isous at De Fik Garden
 
-666isous at De Fik Garden on Fri 19 Feb, Amsterdam. 1 artist: DECADANCE. See the line-up on soundcheck.
+666isous at De Fik Garden on Fri 19 Feb, Amsterdam. 1 artist: DECADANCE. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

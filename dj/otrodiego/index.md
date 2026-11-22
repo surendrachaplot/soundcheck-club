@@ -1,8 +1,8 @@
 # OTRODIEGO
 
-OTRODIEGO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at TBA - Carrer de Badajoz, 115, Barcelona on Fri, 18 Dec 2026.
+OTRODIEGO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Carrer de Badajoz, 115, Barcelona on Fri, 18 Dec 2026.
 
-OTRODIEGO is a techno and house artist, with 3 gigs on soundcheck across Barcelona. Often billed alongside Carvach, Chrissential and Hermansen. Next up: TBA - Carrer de Badajoz, 115, Barcelona on Fri 18 Dec.
+OTRODIEGO is a techno and house artist based in Spain, with 3 gigs on soundcheck across Barcelona. Often billed alongside Carvach, Chrissential and Hermansen. Next up: TBA - Carrer de Badajoz, 115, Barcelona on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ OTRODIEGO is a techno and house artist, with 3 gigs on soundcheck across Barcelo
 
 Carvach, Chrissential, Hermansen
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otrodiego/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otrodiego/)*

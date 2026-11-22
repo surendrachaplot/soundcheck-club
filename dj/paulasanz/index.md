@@ -1,6 +1,6 @@
 # Paula Sanz
 
-Paula Sanz is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 21 Dec 2026.
+Paula Sanz is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 21 Dec 2026.
 
 Paula Sanz is a techno and acid artist based in Spain, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: Tresor / Globus, Berlin on Mon 21 Dec.
 
@@ -25,4 +25,4 @@ Paula Sanz is a techno and acid artist based in Spain, with 60 gigs on soundchec
 
 SOLE DOSI, Dolce Potente, Marthial
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*

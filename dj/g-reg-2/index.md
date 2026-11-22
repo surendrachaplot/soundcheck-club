@@ -1,6 +1,6 @@
 # G-REG (2)
 
-G-REG (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Safari Lounge, Edinburgh on Sat, 5 Dec 2026.
+G-REG (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Safari Lounge, Edinburgh on Sat, 5 Dec 2026.
 
 G-REG is a techno and bass artist based in United Kingdom, with 5 gigs on soundcheck across Aberdeen, Dundee and Edinburgh. Often billed alongside Whos Fault, Céleste and LSG. Next up: The Safari Lounge, Edinburgh on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ G-REG is a techno and bass artist based in United Kingdom, with 5 gigs on soundc
 
 Whos Fault, Céleste, LSG
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g-reg-2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g-reg-2/)*

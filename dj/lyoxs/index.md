@@ -1,6 +1,6 @@
 # Lyo XS
 
-Lyo XS is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 26 Nov 2026.
+Lyo XS is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 26 Nov 2026.
 
 Lyo XS is a techno and club artist based in Mexico, with 114 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Mexico City. Often billed alongside fka phaedra, Enya Botello and Mensik. Next up: nueve cero nueve, Mexico City on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Lyo XS is a techno and club artist based in Mexico, with 114 gigs on soundcheck 
 
 fka phaedra, Enya Botello, Mensik
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyoxs/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyoxs/)*

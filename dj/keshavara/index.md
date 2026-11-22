@@ -1,6 +1,6 @@
 # Keshavara
 
-Keshavara is a Pop and Krautrock artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 5 Dec 2026.
+Keshavara is a Pop and Krautrock artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 5 Dec 2026.
 
 Keshavara is a pop and krautrock artist based in Germany, with 2 gigs on soundcheck across Düsseldorf. Often billed alongside Bufiman and Voltmar. Next up: Salon des Amateurs, Düsseldorf on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Keshavara is a pop and krautrock artist based in Germany, with 2 gigs on soundch
 
 Bufiman, Voltmar
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keshavara/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keshavara/)*

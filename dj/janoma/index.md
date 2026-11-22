@@ -1,6 +1,6 @@
 # Janoma
 
-Janoma is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Beate Uwe, Berlin on Thu, 31 Dec 2026.
+Janoma is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Beate Uwe, Berlin on Thu, 31 Dec 2026.
 
 Janoma is a downtempo and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Vienna. Often billed alongside doob, Borella and Corios. Next up: Beate Uwe, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Janoma is a downtempo and techno artist based in Germany, with 29 gigs on soundc
 
 doob, Borella, Corios
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janoma/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janoma/)*

@@ -1,6 +1,6 @@
 # Volcov
 
-Volcov is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Usquare, Brussels on Sat, 12 Dec 2026.
+Volcov is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Usquare, Brussels on Sat, 12 Dec 2026.
 
 Volcov is a house and disco artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 6 more. Often billed alongside Patrick Gibin, Retromigration and CARISTA. Next up: Usquare, Brussels on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Volcov is a house and disco artist based in Italy, with 28 gigs on soundcheck ac
 
 Patrick Gibin, Retromigration, CARISTA
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volcovakaisoul8/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volcovakaisoul8/)*

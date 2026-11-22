@@ -1,6 +1,6 @@
 # Lab11
 
-Lab11 is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DNB Collective X CruCast: A Decade In Motion" on Sat, 28 Nov 2026.
+Lab11 is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DNB Collective X CruCast: A Decade In Motion" on Sat, 28 Nov 2026.
 
 Lab11 is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including b-line, BassLayerz, Chopper (UK) and Disrupta and 2 more. See dates, start times and who's playing. Trent St; Birmingham, B5 5NL, United Kingdom.
 
@@ -15,4 +15,4 @@ Lab11 is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with
 
 Trent St; Birmingham, B5 5NL, United Kingdom, Birmingham
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*

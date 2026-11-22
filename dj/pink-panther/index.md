@@ -1,15 +1,15 @@
 # pink-panther
 
-pink-panther is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+pink-panther is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ÆDEN, Berlin on Sat, 19 Dec 2026.
 
-pink-panther is a techno and tech house artist based in Tunisia, with 53 gigs on soundcheck across Berlin and Poznan. Often billed alongside UniKhatu, Rovin and Ilyas S. Next up: Sensorium, Berlin on Fri 20 Nov.
+pink-panther is a techno and tech house artist based in Tunisia, with 54 gigs on soundcheck across Berlin and Poznan. Often billed alongside UniKhatu, Rovin and Ilyas S. Next up: ÆDEN, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Sensorium | Berlin |
 | Sat, 19 Dec 2026 | ÆDEN | Berlin |
+| Tue, 29 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ pink-panther is a techno and tech house artist based in Tunisia, with 53 gigs on
 
 UniKhatu, Rovin, Ilyas S
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*

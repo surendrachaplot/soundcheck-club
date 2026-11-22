@@ -1,14 +1,13 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Locomotive Disco - Disco, House & Dancefloor Classics" on Sat, 21 Nov 2026.
+Oslo Hackney is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Oslo Social Club" on Thu, 26 Nov 2026.
 
-Oslo Hackney is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Albi., CHARLIE POWELL, Custard Soup and Fredd Mann and 2 more. See dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
+Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Albi., CHARLIE POWELL, Custard Soup and Fredd Mann and 2 more. See dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Locomotive Disco - Disco, House & Dancefloor Classics |  |
 | Thu, 26 Nov 2026 | Oslo Social Club |  |
 | Sat, 28 Nov 2026 | Locomotive Disco - Disco, House & Dancefloor Classics |  |
 | Thu, 3 Dec 2026 | Oslo Social Club |  |
@@ -20,4 +19,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 7 upcoming gigs, w
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

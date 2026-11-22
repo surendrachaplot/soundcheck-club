@@ -1,6 +1,6 @@
 # DAIY
 
-DAIY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at White Space Lab, Tokyo on Wed, 25 Nov 2026.
+DAIY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at White Space Lab, Tokyo on Wed, 25 Nov 2026.
 
 DAIY is a techno and house artist based in Japan, with 85 gigs on soundcheck across Tokyo. Often billed alongside Tokukazu, DJ Wada and Yos.. Next up: White Space Lab, Tokyo on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ DAIY is a techno and house artist based in Japan, with 85 gigs on soundcheck acr
 
 Tokukazu, DJ Wada, Yos.
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daiy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daiy/)*

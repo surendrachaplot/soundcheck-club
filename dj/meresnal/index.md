@@ -1,6 +1,6 @@
 # Mer Esnal
 
-Mer Esnal is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
+Mer Esnal is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
 
 Mer Esnal is a house and minimal artist based in Spain, with 15 gigs on soundcheck across Barcelona, Berlin and Hamburg. Often billed alongside materia hache, Alice Youngling and Dr Humedo. Next up: Fabrique im Gängeviertel, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mer Esnal is a house and minimal artist based in Spain, with 15 gigs on soundche
 
 materia hache, Alice Youngling, Dr Humedo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meresnal/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meresnal/)*

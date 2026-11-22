@@ -1,6 +1,6 @@
 # FLKN
 
-FLKN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Mia Mao, Paris on Sat, 26 Dec 2026.
+FLKN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mia Mao, Paris on Sat, 26 Dec 2026.
 
 FLKN is a techno and acid artist based in France, with 33 gigs on soundcheck across Berlin, Brussels, Calgary and Cologne and 10 more. Often billed alongside Jacidorex, Protokseed and DXPE (ES). Next up: Mia Mao, Paris on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ FLKN is a techno and acid artist based in France, with 33 gigs on soundcheck acr
 
 Jacidorex, Protokseed, DXPE (ES)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flkn/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flkn/)*

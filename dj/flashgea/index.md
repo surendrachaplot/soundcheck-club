@@ -1,14 +1,13 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+Flash Gea is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, with 35 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Houston and 8 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
+Flash Gea is a techno and trance artist based in United States of America, with 35 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Houston and 8 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
 | Fri, 27 Nov 2026 | The Chocolate Factory | New York City |
 | Fri, 18 Dec 2026 | Afër | Houston |
 | Sat, 19 Dec 2026 | TBA - L.A. | Los Angeles |
@@ -18,6 +17,7 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 
 ## Recently played
 
+- Casa Nube Wynwood, Miami · Sat, 21 Nov 2026
 - Public Works, San Francisco/Oakland · Fri, 6 Nov 2026
 - Concord Music Hall, Chicago · Fri, 30 Oct 2026
 - Industry City, New York City · Sat, 5 Sept 2026
@@ -25,10 +25,9 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 - Ping Tom Memorial Park, Chicago · Sun, 19 Jul 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 18 Jul 2026
 - EQ San Diego, San Diego · Fri, 10 Jul 2026
-- Superior Ingredients, New York City · Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Conrad Taylor, DomnRob, Ueberrest
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

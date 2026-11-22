@@ -1,14 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "WRECK invites Young Sun & Tim Kern" on Sat, 21 Nov 2026.
+SASS Music Club is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Donnerstag Nacht s/ Slack Hippy, NEOMODERN, Crnobrnja" on Thu, 26 Nov 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including -LaLa-, Æ-X, brÅk and CED/Cedsh and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including brÅk, CED/Cedsh, Clem Vital and Crazy Sonic and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | WRECK invites Young Sun & Tim Kern | -LaLa-, Tim Kern, Young Sun, Æ-X |
 | Thu, 26 Nov 2026 | Donnerstag Nacht s/ Slack Hippy, NEOMODERN, Crnobrnja | brÅk |
 | Fri, 27 Nov 2026 | Vivid with Alice | Clem Vital |
 | Sat, 28 Nov 2026 | Cardio Cult | Magsi, Mo the prophet |
@@ -20,4 +19,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

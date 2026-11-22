@@ -1,14 +1,13 @@
 # D2
 
-D2 is a music venue in Aberdeen with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Danza Catartica presents: Keepsakes" on Sat, 21 Nov 2026.
+D2 is a music venue in Aberdeen with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Herd - Baby Rollén" on Sat, 28 Nov 2026.
 
-D2 is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, with line-ups including Baby Rollén, Cornetta, Just Beth and Keepsakes. See dates, start times and who's playing. 1 Belmont Street, Aberdeen, Scotland, United Kingdom.
+D2 is a music venue in Aberdeen listed on soundcheck. 3 upcoming gigs, with line-ups including Baby Rollén and Just Beth. See dates, start times and who's playing. 1 Belmont Street, Aberdeen, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Danza Catartica presents: Keepsakes | Cornetta, Keepsakes |
 | Sat, 28 Nov 2026 | Herd - Baby Rollén | Baby Rollén |
 | Fri, 4 Dec 2026 | EVADE |  |
 | Fri, 18 Dec 2026 | Just Beth Presents - Mad Friday | Just Beth |
@@ -17,4 +16,4 @@ D2 is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, with line
 
 1 Belmont Street, Aberdeen, Scotland, United Kingdom, Aberdeen
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/d2/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/d2/)*

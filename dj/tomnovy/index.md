@@ -1,6 +1,6 @@
 # Tom Novy
 
-Tom Novy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Kowalski, Stuttgart on Fri, 11 Dec 2026.
+Tom Novy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kowalski, Stuttgart on Fri, 11 Dec 2026.
 
 Tom Novy is a house and disco artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Manchester and 3 more. Often billed alongside CHOOSE WHITE, Dan Mlinar and Felipe de M.. Next up: Kowalski, Stuttgart on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Tom Novy is a house and disco artist based in Germany, with 18 gigs on soundchec
 
 CHOOSE WHITE, Dan Mlinar, Felipe de M.
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomnovy/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomnovy/)*

@@ -1,6 +1,6 @@
 # Mazzacles
 
-Mazzacles is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA, Sydney on Sun, 29 Nov 2026.
+Mazzacles is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Sydney on Sun, 29 Nov 2026.
 
 Mazzacles is a house and techno artist based in Australia, with 88 gigs on soundcheck across Auckland, Berlin, Byron Bay and Melbourne and 1 more. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: TBA, Sydney on Sun 29 Nov.
 
@@ -28,4 +28,4 @@ Mazzacles is a house and techno artist based in Australia, with 88 gigs on sound
 
 Kato, Reenie, Simon Caldwell
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*

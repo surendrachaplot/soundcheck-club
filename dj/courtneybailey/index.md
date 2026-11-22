@@ -1,14 +1,13 @@
 # Courtney Bailey
 
-Courtney Bailey is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Courtney Bailey is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at OneSixOne, Melbourne on Mon, 23 Nov 2026.
 
-Courtney Bailey is a house and techno artist based in Japan, with 85 gigs on soundcheck across Amsterdam, Bali, Berlin and Boston and 19 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Courtney Bailey is a house and techno artist based in Japan, with 85 gigs on soundcheck across Amsterdam, Bali, Berlin and Boston and 19 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: OneSixOne, Melbourne on Mon 23 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Mon, 23 Nov 2026 | OneSixOne | Melbourne |
 | Sat, 12 Dec 2026 | Yulli's Brews | Sydney |
 
@@ -27,4 +26,4 @@ Courtney Bailey is a house and techno artist based in Japan, with 85 gigs on sou
 
 Tornado Wallace, FFAN, Sound Metaphors Djs
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*

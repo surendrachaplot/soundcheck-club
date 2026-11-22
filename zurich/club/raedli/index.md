@@ -1,6 +1,6 @@
 # Raedli
 
-Raedli is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Intimate: SESHHH" on Fri, 18 Dec 2026.
+Raedli is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Intimate: SESHHH" on Fri, 18 Dec 2026.
 
 Raedli is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including Fran LF, Gruber, Pōnky and SKARROS. See dates, start times and who's playing. Kurzgasse 4.
 
@@ -14,4 +14,4 @@ Raedli is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with lin
 
 Kurzgasse 4, Zurich
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/raedli/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/raedli/)*

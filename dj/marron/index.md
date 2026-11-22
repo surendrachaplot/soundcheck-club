@@ -1,14 +1,13 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Switch, Porto on Sat, 21 Nov 2026.
+MARRØN is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
 
-MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Switch, Porto on Sat 21 Nov.
+MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Hive Club, Zurich on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Switch | Porto |
 | Fri, 27 Nov 2026 | Hive Club | Zurich |
 | Sat, 28 Nov 2026 | Q35 WAREHOUSE | Turin |
 | Fri, 4 Dec 2026 | BASEMENT | New York City |
@@ -23,6 +22,7 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 
 ## Recently played
 
+- Switch, Porto · Sat, 21 Nov 2026
 - Frame, Dublin · Fri, 20 Nov 2026
 - Elysia, Basel · Sat, 14 Nov 2026
 - Peti Kupe, Zagreb · Fri, 13 Nov 2026
@@ -30,10 +30,9 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 - DURO, Milan · Fri, 6 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
 - Sub Club, Glasgow · Fri, 30 Oct 2026
-- De Fik Garden, Amsterdam · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Ben Klock, Freddy K
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

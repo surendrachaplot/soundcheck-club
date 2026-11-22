@@ -1,6 +1,6 @@
 # Paradiso Noord / Tolhuistuin
 
-Paradiso Noord / Tolhuistuin is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "jigitz" on Sat, 13 Feb 2027.
+Paradiso Noord / Tolhuistuin is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "jigitz" on Sat, 13 Feb 2027.
 
 Paradiso Noord / Tolhuistuin is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. IJpromenade 2, Amsterdam.
 
@@ -14,4 +14,4 @@ Paradiso Noord / Tolhuistuin is a music venue in Amsterdam listed on soundcheck.
 
 IJpromenade 2, Amsterdam, Amsterdam
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso-noord-tolhuistuin/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso-noord-tolhuistuin/)*

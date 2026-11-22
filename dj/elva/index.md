@@ -1,6 +1,6 @@
 # elva
 
-elva is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 28 Nov 2026.
+elva is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 28 Nov 2026.
 
 elva is a house and ambient artist based in France, with 2 gigs on soundcheck across Berlin. Often billed alongside Amnati, Butchqueen.fm and MALAGÜERA. Next up: Crack Bellmer, Berlin on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ elva is a house and ambient artist based in France, with 2 gigs on soundcheck ac
 
 Amnati, Butchqueen.fm, MALAGÜERA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elva/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elva/)*

@@ -1,6 +1,6 @@
 # Neepsend Social Club
 
-Neepsend Social Club is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "PRESSURE DROP #12 (Seleucid Sound)" on Wed, 9 Dec 2026.
+Neepsend Social Club is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "PRESSURE DROP #12 (Seleucid Sound)" on Wed, 9 Dec 2026.
 
 Neepsend Social Club is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Neepsend Social Club is a music venue in Sheffield listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Wed, 9 Dec 2026 | PRESSURE DROP #12 (Seleucid Sound) |  |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/neepsend-social-club/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/neepsend-social-club/)*

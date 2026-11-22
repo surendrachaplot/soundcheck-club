@@ -1,6 +1,6 @@
 # VV$ (DE)
 
-VV$ (DE) is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Studio 1111, Berlin on Sat, 28 Nov 2026.
+VV$ (DE) is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Studio 1111, Berlin on Sat, 28 Nov 2026.
 
 VV$ (DE) is a club and baile funk artist based in Germany, with 11 gigs on soundcheck across Berlin, Copenhagen and New York City. Often billed alongside N3LYSTAR, ABIBA and Alissa Zaddi. Next up: Studio 1111, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ VV$ (DE) is a club and baile funk artist based in Germany, with 11 gigs on sound
 
 N3LYSTAR, ABIBA, Alissa Zaddi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vv-de/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vv-de/)*

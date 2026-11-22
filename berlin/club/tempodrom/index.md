@@ -1,6 +1,6 @@
 # Tempodrom
 
-Tempodrom is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dabeull live Band" on Tue, 3 Nov 2026.
+Tempodrom is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Dominguinho 2 - João Gomes, Jota.Pê, Mestrinho - Berlin" on Fri, 19 Feb 2027.
 
 Tempodrom is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Möckernstraße 10, 10963 Berlin.
 
@@ -8,10 +8,10 @@ Tempodrom is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See d
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Dabeull live Band |  |
+| Fri, 19 Feb 2027 | Dominguinho 2 - João Gomes, Jota.Pê, Mestrinho - Berlin |  |
 
 ## Address
 
 Möckernstraße 10, 10963 Berlin, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tempodrom/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tempodrom/)*

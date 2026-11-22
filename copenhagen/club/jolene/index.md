@@ -1,14 +1,13 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Prog Realm pres. oma totem, Crisco" on Sat, 21 Nov 2026.
+Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "BUTTERFLY EFFECT W/ Tifra (NL), NAT, DJ Woo Girl" on Fri, 27 Nov 2026.
 
-Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including Crisco, dj blip, DJ Woo Girl and HAKEEM and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
+Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including dj blip, DJ Woo Girl, HAKEEM and NAT (SK) and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Prog Realm pres. oma totem, Crisco | Crisco, oma totem |
 | Fri, 27 Nov 2026 | BUTTERFLY EFFECT W/ Tifra (NL), NAT, DJ Woo Girl | DJ Woo Girl, NAT (SK), Tifra |
 | Sat, 28 Nov 2026 | tactual.club with Tamus (UK) & LFL | Tamus |
 | Sat, 5 Dec 2026 | Bubbling Inside x blipmotif with Shimmy Robin (DE), dj blip (DE) & HAKEEM | HAKEEM (2), Shimmy Robin, dj blip |
@@ -17,4 +16,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

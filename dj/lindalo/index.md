@@ -1,6 +1,6 @@
 # Linda Lo
 
-Linda Lo is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
+Linda Lo is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
 
 Linda Lo is a bass and club artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Avi Loud, pollensource and 40split. Next up: The Airliner, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Linda Lo is a bass and club artist based in United States of America, with 14 gi
 
 Avi Loud, pollensource, 40split
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lindalo/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lindalo/)*

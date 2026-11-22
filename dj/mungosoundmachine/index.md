@@ -1,6 +1,6 @@
 # Mungo Sound Machine
 
-Mungo Sound Machine is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Apotheke, Los Angeles on Sun, 22 Nov 2026.
+Mungo Sound Machine is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Apotheke, Los Angeles on Sun, 22 Nov 2026.
 
 Mungo Sound Machine is a house and deep house artist based in United States of America, with 24 gigs on soundcheck across Denver, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Anthony Mansfield, Combover and DJ Holographic. Next up: Apotheke, Los Angeles on Sun 22 Nov.
 
@@ -28,4 +28,4 @@ Mungo Sound Machine is a house and deep house artist based in United States of A
 
 Anthony Mansfield, Combover, DJ Holographic
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungosoundmachine/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungosoundmachine/)*

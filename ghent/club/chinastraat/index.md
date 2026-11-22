@@ -1,16 +1,13 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Chinastraat_EMOM9000" on Sat, 21 Nov 2026.
+Chinastraat is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ALORS ON TRANCE" on Sat, 28 Nov 2026.
 
-Chinastraat is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Kalki, Low E, Luna Fields and Marcal and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
+Chinastraat is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including Kalki, Marcal, Max. (BE) and Nachtluipaard and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Chinastraat_EMOM9000 |  |
-| Sat, 21 Nov 2026 | Konfusus Kollektif - Curious Cases | SOLARYTHM, Yogg |
-| Sat, 21 Nov 2026 | MOR | Low E (2), Luna Fields, Remon Verhoeve |
 | Sat, 28 Nov 2026 | ALORS ON TRANCE | Kalki, Nachtluipaard, PUSH (1), Sevenum Six, X&trick |
 | Sun, 20 Dec 2026 | Groove Theory x Closer Milano with Marcal | Marcal, Max. (BE), Rafael Munoz, Rorschack |
 
@@ -18,4 +15,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, wit
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

@@ -1,6 +1,6 @@
 # Miss Kittin
 
-Miss Kittin is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 28 Nov 2026.
+Miss Kittin is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 28 Nov 2026.
 
 Miss Kittin is a techno and electro artist based in France, with 116 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: Peti Kupe, Zagreb on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Miss Kittin is a techno and electro artist based in France, with 116 gigs on sou
 
 The Hacker, BASHKKA, JakoJako
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*

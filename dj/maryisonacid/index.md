@@ -1,6 +1,6 @@
 # Maryisonacid
 
-Maryisonacid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
+Maryisonacid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
 
 Maryisonacid is a techno and house artist, with 73 gigs on soundcheck across Berlin, Istanbul, Kanto and Leipzig and 3 more. Often billed alongside Dauwd, African Acid is the Future and Camilla Rae. Next up: Oizumi-Kojo, Kanto on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Maryisonacid is a techno and house artist, with 73 gigs on soundcheck across Ber
 
 Dauwd, African Acid is the Future, Camilla Rae
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryisonacid/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryisonacid/)*

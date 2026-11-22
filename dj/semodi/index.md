@@ -1,6 +1,6 @@
 # Semodi
 
-Semodi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Marla Records, Berlin on Fri, 27 Nov 2026.
+Semodi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Marla Records, Berlin on Fri, 27 Nov 2026.
 
 Semodi is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin, Freiburg and Tokyo. Often billed alongside Pyrame, Acid Washed and Alejandro Molinari. Next up: Marla Records, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Semodi is a techno and house artist based in Germany, with 15 gigs on soundcheck
 
 Pyrame, Acid Washed, Alejandro Molinari
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semodi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semodi/)*

@@ -1,6 +1,6 @@
 # Phoenix Landing
 
-Phoenix Landing is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Modular presents: Profiler [OPEN TO CLOSE]" on Tue, 24 Nov 2026.
+Phoenix Landing is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Modular presents: Profiler [OPEN TO CLOSE]" on Tue, 24 Nov 2026.
 
 Phoenix Landing is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Agent 137, Bamboozle, Charlie Soul Clap and Lenore and 2 more. See dates, start times and who's playing. 512 Massachusetts Avenue; Cambridge, MA 02123; United States.
 
@@ -17,4 +17,4 @@ Phoenix Landing is a music venue in Boston listed on soundcheck. 4 upcoming gigs
 
 512 Massachusetts Avenue; Cambridge, MA 02123; United States, Boston
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*

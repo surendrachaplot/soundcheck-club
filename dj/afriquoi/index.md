@@ -1,6 +1,6 @@
 # Afriquoi
 
-Afriquoi is a Afrobeat and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Jazz Cafe, London on Fri, 4 Dec 2026.
+Afriquoi is a Afrobeat and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Jazz Cafe, London on Fri, 4 Dec 2026.
 
 Afriquoi is an afrobeat and afrobeats artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Edinburgh, Leeds and London and 3 more. Often billed alongside Cosmo Sofi, Poly-Ritmo and Andy Votel. Next up: The Jazz Cafe, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Afriquoi is an afrobeat and afrobeats artist based in United Kingdom, with 20 gi
 
 Cosmo Sofi, Poly-Ritmo, Andy Votel
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afriquoi/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afriquoi/)*

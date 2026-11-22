@@ -1,6 +1,6 @@
 # zima blue
 
-zima blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Heavy Budapest, Budapest on Sat, 28 Nov 2026.
+zima blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Heavy Budapest, Budapest on Sat, 28 Nov 2026.
 
 zima blue is a techno and house artist, with 12 gigs on soundcheck across Basel, Budapest, New York City and Zurich. Often billed alongside Amor Satyr, Galopp and Jenny Cara. Next up: Heavy Budapest, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ zima blue is a techno and house artist, with 12 gigs on soundcheck across Basel,
 
 Amor Satyr, Galopp, Jenny Cara
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zimablue/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zimablue/)*

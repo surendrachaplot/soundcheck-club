@@ -1,6 +1,6 @@
 # Alex Jangle
 
-Alex Jangle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Jaeger, Oslo on Sat, 5 Dec 2026.
+Alex Jangle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jaeger, Oslo on Sat, 5 Dec 2026.
 
 Alex Jangle is a house and techno artist based in Norway, with 5 gigs on soundcheck across Oslo. Often billed alongside Rub800, Tonchius and Tod Louie. Next up: Jaeger, Oslo on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Alex Jangle is a house and techno artist based in Norway, with 5 gigs on soundch
 
 Rub800, Tonchius, Tod Louie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexjangle/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexjangle/)*

@@ -1,6 +1,6 @@
 # Joohin
 
-Joohin is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Zemin Art Gallery, Berlin on Wed, 25 Nov 2026.
+Joohin is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Zemin Art Gallery, Berlin on Wed, 25 Nov 2026.
 
 Joohin is a house and downtempo artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Audri, Bobby. and Brasi. Next up: Zemin Art Gallery, Berlin on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Joohin is a house and downtempo artist based in Italy, with 26 gigs on soundchec
 
 Audri, Bobby., Brasi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joohin/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joohin/)*

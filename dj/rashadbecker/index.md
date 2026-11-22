@@ -1,6 +1,6 @@
 # Rashad Becker
 
-Rashad Becker is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Fylkingen, Stockholm on Thu, 19 Nov 2026.
+Rashad Becker is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fylkingen, Stockholm on Thu, 19 Nov 2026.
 
 Rashad Becker is an experimental and electronica artist based in Germany, with 39 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 12 more. Often billed alongside Robert Piotrowicz, African Head Charge and Jacek Sienkiewicz. Next up: Fylkingen, Stockholm on Thu 19 Nov.
 
@@ -9,7 +9,6 @@ Rashad Becker is an experimental and electronica artist based in Germany, with 3
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Fylkingen | Stockholm |
-| Fri, 20 Nov 2026 | Casa del lago UNAM | Mexico City |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Rashad Becker is an experimental and electronica artist based in Germany, with 3
 
 Robert Piotrowicz, African Head Charge, Jacek Sienkiewicz
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rashadbecker/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rashadbecker/)*

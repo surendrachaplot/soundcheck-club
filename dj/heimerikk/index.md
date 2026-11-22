@@ -1,6 +1,6 @@
 # Heimerikk
 
-Heimerikk is a Dub Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Red Gate Arts Society, Vancouver on Thu, 10 Dec 2026.
+Heimerikk is a Dub Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Red Gate Arts Society, Vancouver on Thu, 10 Dec 2026.
 
 Heimerikk is a dub techno and minimal techno artist based in Canada, with 2 gigs on soundcheck across Saskatchewan and Vancouver. Often billed alongside Measure Divide, niki disc and xcrxpt. Next up: Red Gate Arts Society, Vancouver on Thu 10 Dec.
 
@@ -18,4 +18,4 @@ Heimerikk is a dub techno and minimal techno artist based in Canada, with 2 gigs
 
 Measure Divide, niki disc, xcrxpt
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heimerikk/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heimerikk/)*

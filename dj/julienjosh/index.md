@@ -1,6 +1,6 @@
 # Julien Josh
 
-Julien Josh is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 28 Nov 2026.
+Julien Josh is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 28 Nov 2026.
 
 Julien Josh is a house and disco artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Gregor Rost, Ashbeat and ZYMT. Next up: Bulbul Berlin, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Julien Josh is a house and disco artist based in Germany, with 12 gigs on soundc
 
 Gregor Rost, Ashbeat, ZYMT
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julienjosh/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julienjosh/)*

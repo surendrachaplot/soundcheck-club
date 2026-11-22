@@ -1,6 +1,6 @@
 # Arcadia
 
-Arcadia is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Attic Collingwood, Melbourne on Sat, 19 Dec 2026.
+Arcadia is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Attic Collingwood, Melbourne on Sat, 19 Dec 2026.
 
 Arcadia is a house and garage artist based in New Zealand, with 6 gigs on soundcheck across London and Melbourne. Often billed alongside Lewis Cancut, k2k and DJ Bodie. Next up: The Attic Collingwood, Melbourne on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Arcadia is a house and garage artist based in New Zealand, with 6 gigs on soundc
 
 Lewis Cancut, k2k, DJ Bodie
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arcadia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arcadia/)*

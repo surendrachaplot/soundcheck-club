@@ -1,14 +1,13 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "DURCH DIE NACHT — Teenage Mutants ALL NIGHT LONG" on Sat, 21 Nov 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "BUNKER RAVE W/ David Löhlein & Johannes Schuster" on Sat, 28 Nov 2026.
 
-Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including Bailey Brown, BOVSKI, Cherries040 and Clara Cuvé and 2 more. See dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
+Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Bailey Brown, BOVSKI, Cherries040 and Clara Cuvé and 2 more. See dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | DURCH DIE NACHT — Teenage Mutants ALL NIGHT LONG | Lanka, Sophie Cut, Teenage Mutants |
 | Sat, 28 Nov 2026 | BUNKER RAVE W/ David Löhlein & Johannes Schuster | David Löhlein, Johannes Schuster, L.A.tifa, mer.ve |
 | Fri, 4 Dec 2026 | SALTARUS with Svetec & In Verruf | Coco, In Verruf, Natta, Staszko, Svetec |
 | Sat, 5 Dec 2026 | DISCOVAGANZA with Nyra, BOVSKI, Dirty Disco Divas uvm | BOVSKI, Cherries040, Dirty Disco Divas, Linh (2), Sodom |
@@ -22,4 +21,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 9 upcoming
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

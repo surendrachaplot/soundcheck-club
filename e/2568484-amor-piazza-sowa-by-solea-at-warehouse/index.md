@@ -1,6 +1,6 @@
 # Amor, Piazza, Sowa by SOLEA at Warehouse
 
-Amor, Piazza, Sowa by SOLEA at Warehouse on Fri 19 Feb, Nantes. 1 artist: AMOR MUSIC. See the line-up on soundcheck.
+Amor, Piazza, Sowa by SOLEA at Warehouse on Fri 19 Feb, Nantes. 1 artist: AMOR MUSIC. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

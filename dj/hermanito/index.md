@@ -1,6 +1,6 @@
 # Hermanito
 
-Hermanito is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
+Hermanito is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
 
 Hermanito is an experimental and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Carbajal, Bluecommand and Cachaza. Next up: TBA - Roma, Norte, Mexico City on Sat 21 Nov.
 
@@ -12,6 +12,7 @@ Hermanito is an experimental and electronica artist based in United Kingdom, wit
 
 ## Recently played
 
+- TBA - Roma, Norte, Mexico City · Sat, 21 Nov 2026
 - Drama Radio Bar, Mexico City · Tue, 30 Jun 2026
 - Pardo Club, Guadalajara · Thu, 8 Jan 2026
 - Pardo Club, Guadalajara · Wed, 7 Jan 2026
@@ -22,4 +23,4 @@ Hermanito is an experimental and electronica artist based in United Kingdom, wit
 
 Carbajal, Bluecommand, Cachaza
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermanito/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermanito/)*

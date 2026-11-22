@@ -1,14 +1,13 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 9 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Nido label night: Tunnel - Dj Immortal (live), Oscar Faivre & Super Venus" on Sat, 21 Nov 2026.
+Nido Marseille is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Nido 1st anniversary - Part1" on Fri, 27 Nov 2026.
 
-Nido Marseille is a music venue in Marseille listed on soundcheck. 9 upcoming gigs, with line-ups including Baptiste Coppel, Brasi, Camu and Cristobal and 2 more. See dates, start times and who's playing. 20 boulevard fifi turin.
+Nido Marseille is a music venue in Marseille listed on soundcheck. 8 upcoming gigs, with line-ups including Baptiste Coppel, Brasi, Camu and Cristobal and 2 more. See dates, start times and who's playing. 20 boulevard fifi turin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Nido label night: Tunnel - Dj Immortal (live), Oscar Faivre & Super Venus | Eltouss, Oscar Faivre, Super Venus |
 | Fri, 27 Nov 2026 | Nido 1st anniversary - Part1 |  |
 | Sat, 28 Nov 2026 | Nido 1st anniversary - part2 | Brasi, Cristobal, Franky Greiner |
 | Fri, 4 Dec 2026 | Nido local - Prodo & Byche |  |
@@ -22,4 +21,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 9 upcoming gi
 
 20 boulevard fifi turin, Marseille
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

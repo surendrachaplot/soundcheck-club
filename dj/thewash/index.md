@@ -1,6 +1,6 @@
 # The Wash
 
-The Wash is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Loft, Vienna on Fri, 4 Dec 2026.
+The Wash is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Loft, Vienna on Fri, 4 Dec 2026.
 
 The Wash is a progressive house and techno artist based in Austria, with 10 gigs on soundcheck across Amsterdam and Vienna. Often billed alongside Around Us, Callecat and Paul Hazendonk. Next up: The Loft, Vienna on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ The Wash is a progressive house and techno artist based in Austria, with 10 gigs
 
 Around Us, Callecat, Paul Hazendonk
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thewash/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thewash/)*

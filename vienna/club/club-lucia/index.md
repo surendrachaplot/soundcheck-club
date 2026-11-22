@@ -1,15 +1,13 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Kleingeld Kollektiv Klubnacht" on Sat, 21 Nov 2026.
+Club Lucia is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "CitrusCue presents COIDO & Wingz" on Sat, 28 Nov 2026.
 
-Club Lucia is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including A_Phan, AMOVV, Chiara Allnutt and COIDO and 2 more. See dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
+Club Lucia is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including A_Phan, AMOVV, Chiara Allnutt and COIDO and 2 more. See dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Kleingeld Kollektiv Klubnacht | Telicho |
-| Sat, 21 Nov 2026 | Kleingeld Kollektiv | Telicho |
 | Sat, 28 Nov 2026 | CitrusCue presents COIDO & Wingz | COIDO, yarx |
 | Mon, 30 Nov 2026 | Harmont Live with A_Phan & FRNRKE | A_Phan |
 | Fri, 4 Dec 2026 | DISCORDIA |  |
@@ -23,4 +21,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, wi
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

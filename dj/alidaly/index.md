@@ -1,8 +1,8 @@
 # Ali Daly
 
-Ali Daly is a Disco and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Dali, Cork on Fri, 27 Nov 2026.
+Ali Daly is a Disco and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Dali, Cork on Fri, 27 Nov 2026.
 
-Ali Daly is a disco and experimental artist, with 4 gigs on soundcheck across Berlin, Cork and Dublin. Often billed alongside Alba, Alicea and BELLA (NL). Next up: Dali, Cork on Fri 27 Nov.
+Ali Daly is a disco and experimental artist based in Ireland, with 4 gigs on soundcheck across Berlin, Cork and Dublin. Often billed alongside Alba, Alicea and BELLA (NL). Next up: Dali, Cork on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Ali Daly is a disco and experimental artist, with 4 gigs on soundcheck across Be
 
 Alba (2), Alicea, BELLA (NL)
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alidaly/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alidaly/)*

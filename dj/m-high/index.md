@@ -1,14 +1,13 @@
 # M-High
 
-M-High is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at The Barbary, Philadelphia on Fri, 20 Nov 2026.
+M-High is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 1920 Ybor, Tampa-bay on Sat, 21 Nov 2026.
 
-M-High is a house and tech house artist based in Netherlands, with 196 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside Prunk, Job de Jong and Jamback. Next up: The Barbary, Philadelphia on Fri 20 Nov.
+M-High is a house and tech house artist based in Netherlands, with 196 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside Prunk, Job de Jong and Jamback. Next up: 1920 Ybor, Tampa Bay on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Barbary | Philadelphia |
 | Sat, 21 Nov 2026 | 1920 Ybor | Tampa-bay |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | Shelter Amsterdam | Amsterdam |
@@ -18,6 +17,7 @@ M-High is a house and tech house artist based in Netherlands, with 196 gigs on s
 
 ## Recently played
 
+- 1920 Ybor, Tampa-bay · Sat, 21 Nov 2026
 - The Barbary, Philadelphia · Fri, 20 Nov 2026
 - Maassilo, Rotterdam · Sat, 14 Nov 2026
 - Tunnel, Milan · Fri, 13 Nov 2026
@@ -25,10 +25,9 @@ M-High is a house and tech house artist based in Netherlands, with 196 gigs on s
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
 - Theater Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 10 Oct 2026
-- FOLD, London · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Prunk, Job de Jong, Jamback
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

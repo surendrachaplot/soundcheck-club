@@ -1,0 +1,16 @@
+# Original Silk at Macarena Club
+
+Original Silk at Macarena Club on Wed 2 Dec, Barcelona. 2 artists: Jones May and Pau Guilera. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 2 Dec 2026 |
+| Venue | Macarena Club |
+| City | Barcelona |
+
+## Line-up
+
+- Jones May
+- Pau Guilera
+
+*Source: [soundcheck](https://soundcheck.club/e/2590334-original-silk-at-macarena-club/)*

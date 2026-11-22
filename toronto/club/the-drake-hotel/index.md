@@ -1,6 +1,6 @@
 # The Drake Hotel
 
-The Drake Hotel is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "ZHUKEEPER 珠正越: TRANSMUTATIONS《七十三变》" on Fri, 27 Nov 2026.
+The Drake Hotel is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ZHUKEEPER 珠正越: TRANSMUTATIONS《七十三变》" on Fri, 27 Nov 2026.
 
 The Drake Hotel is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Saigon and Turno. See dates, start times and who's playing. 1150 Queen Street West; Toronto, ON M6J 1J3; Canada.
 
@@ -15,4 +15,4 @@ The Drake Hotel is a music venue in Toronto listed on soundcheck. 2 upcoming gig
 
 1150 Queen Street West; Toronto, ON M6J 1J3; Canada, Toronto
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-drake-hotel/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-drake-hotel/)*

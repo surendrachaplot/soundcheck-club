@@ -1,6 +1,6 @@
 # K2RAH
 
-K2RAH is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at NT's Loft, London on Fri, 27 Nov 2026.
+K2RAH is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at NT's Loft, London on Fri, 27 Nov 2026.
 
 K2RAH is an afro tech and afro house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside FS Green, NegoO and San Farafina. Next up: NT's Loft, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ K2RAH is an afro tech and afro house artist based in United Kingdom, with 9 gigs
 
 FS Green, NegoO, San Farafina
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k2rah/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k2rah/)*

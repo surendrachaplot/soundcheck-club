@@ -1,6 +1,6 @@
 # SIN9
 
-SIN9 is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. Next at Suma Han, Istanbul on Sat, 5 Dec 2026.
+SIN9 is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Suma Han, Istanbul on Sat, 5 Dec 2026.
 
 SIN9 is a techno artist based in Turkey, with 2 gigs on soundcheck across Ankara and Istanbul. Often billed alongside AMIRAF, DON'T CRY and Epifanix. Next up: Suma Han, Istanbul on Sat 5 Dec.
 
@@ -15,4 +15,4 @@ SIN9 is a techno artist based in Turkey, with 2 gigs on soundcheck across Ankara
 
 AMIRAF, DON'T CRY, Epifanix
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sin9/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sin9/)*

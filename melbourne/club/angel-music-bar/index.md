@@ -1,14 +1,13 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Angel presents Firas B2B Ramsey" on Sat, 21 Nov 2026.
+Angel Music Bar is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Slow Grind Fever with Riche1250 and Ella Thompson" on Wed, 25 Nov 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Ayebatonye, cash, Data Flow and David Fogarty and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Ayebatonye, cash, Data Flow and David Fogarty and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Angel presents Firas B2B Ramsey | Nak (AU), RAMSEY (AU) |
 | Wed, 25 Nov 2026 | Slow Grind Fever with Riche1250 and Ella Thompson |  |
 | Fri, 27 Nov 2026 | Lunacy 4th B'day PT2 W/ David Fogarty (Transmigration, Berlin) | David Fogarty, Lizzynice, Norachi |
 | Sat, 28 Nov 2026 | Angel presents WAT Artists | Toni Yotzi |
@@ -21,4 +20,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 8 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
