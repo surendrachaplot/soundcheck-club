@@ -1,6 +1,6 @@
 # mxmax
 
-mxmax is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ernest Records, New York City on Wed, 2 Dec 2026.
+mxmax is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ernest Records, New York City on Wed, 2 Dec 2026.
 
 mxmax is a techno and electro artist based in United States of America, with 2 gigs on soundcheck across New York City. Often billed alongside SIETE. Next up: Ernest Records, New York City on Wed 2 Dec.
 
@@ -18,4 +18,4 @@ mxmax is a techno and electro artist based in United States of America, with 2 g
 
 SIETE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxmax/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxmax/)*

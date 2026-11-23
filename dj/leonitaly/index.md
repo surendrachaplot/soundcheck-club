@@ -1,6 +1,6 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
+Leon is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
 
 Leon is a tech house and techno artist based in Italy, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Marco Carola, Yamariki and Glasse. Next up: Ministry Of Sound, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Leon is a tech house and techno artist based in Italy, with 75 gigs on soundchec
 
 Marco Carola, Yamariki, Glasse
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*

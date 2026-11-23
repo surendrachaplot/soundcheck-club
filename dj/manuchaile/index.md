@@ -1,6 +1,6 @@
 # Manu Chaile
 
-Manu Chaile is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Artisano Bar, Barcelona on Sat, 28 Nov 2026.
+Manu Chaile is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Artisano Bar, Barcelona on Sat, 28 Nov 2026.
 
 Manu Chaile is a techno and electronica artist based in Argentina, with 30 gigs on soundcheck across Barcelona and Dublin. Often billed alongside Juan Guerra, Nuuk and Edu Suarez. Next up: Artisano Bar, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Manu Chaile is a techno and electronica artist based in Argentina, with 30 gigs 
 
 Juan Guerra, Nuuk, Edu Suarez
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuchaile/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuchaile/)*

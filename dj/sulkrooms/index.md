@@ -1,6 +1,6 @@
 # Sulk Rooms
 
-Sulk Rooms is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Eastway Baths, London on Sat, 13 Feb 2027.
+Sulk Rooms is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Eastway Baths, London on Sat, 13 Feb 2027.
 
 Sulk Rooms is an experimental and electronica artist based in United Kingdom, with 8 gigs on soundcheck across Dublin, Glasgow, Liverpool and London and 1 more. Often billed alongside James Adrian Brown, Halina Rice and Jez Thelwell. Next up: Eastway Baths, London on Sat 13 Feb.
 
@@ -24,4 +24,4 @@ Sulk Rooms is an experimental and electronica artist based in United Kingdom, wi
 
 James Adrian Brown, Halina Rice, Jez Thelwell
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkrooms/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkrooms/)*

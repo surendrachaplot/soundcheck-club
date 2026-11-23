@@ -1,6 +1,6 @@
 # De Helling
 
-De Helling is a music venue in Utrecht with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "10EURODANCE" on Sat, 28 Nov 2026.
+De Helling is a music venue in Utrecht with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "10EURODANCE" on Sat, 28 Nov 2026.
 
 De Helling is a music venue in Utrecht listed on soundcheck. 4 upcoming gigs, with line-ups including ALXS, Divine, Divine Kaos and Erick E and 2 more. See dates, start times and who's playing. Helling 7, 3523 CB, Utrecht, Netherlands.
 
@@ -17,4 +17,4 @@ De Helling is a music venue in Utrecht listed on soundcheck. 4 upcoming gigs, wi
 
 Helling 7, 3523 CB, Utrecht, Netherlands, Utrecht
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/de-helling/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/de-helling/)*

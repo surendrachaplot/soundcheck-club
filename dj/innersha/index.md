@@ -1,14 +1,13 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
+Innersha is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
-Innersha is a techno and experimental artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 17 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: Garage Noord, Amsterdam on Sat 21 Nov.
+Innersha is a techno and experimental artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 17 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Garage Noord | Amsterdam |
 | Fri, 27 Nov 2026 | Shunter | Rotterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Innersha is a techno and experimental artist based in Armenia, with 32 gigs on s
 
 Dasha Rush, Polar Inertia, Spekki Webu
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

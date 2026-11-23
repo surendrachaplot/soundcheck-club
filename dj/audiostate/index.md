@@ -1,6 +1,6 @@
 # Audio State
 
-Audio State is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Nether Club, Bucharest on Fri, 18 Dec 2026.
+Audio State is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nether Club, Bucharest on Fri, 18 Dec 2026.
 
 Audio State is a techno and house artist, with 6 gigs on soundcheck across Berlin and Bucharest. Often billed alongside Epicx, FILTRACK and Fab Massimo. Next up: Nether Club, Bucharest on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Audio State is a techno and house artist, with 6 gigs on soundcheck across Berli
 
 Epicx, FILTRACK, Fab Massimo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiostate/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiostate/)*

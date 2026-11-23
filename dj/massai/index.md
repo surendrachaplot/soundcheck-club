@@ -1,6 +1,6 @@
 # Massaï
 
-Massaï is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 11 Dec 2026.
+Massaï is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 11 Dec 2026.
 
 Massaï is a house and techno artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside LAMALICE, Gabriel Belabbas and Ill Spleen. Next up: la Maison de la Conversation, Paris on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Massaï is a house and techno artist based in United Kingdom, with 96 gigs on so
 
 LAMALICE, Gabriel Belabbas, Ill Spleen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*

@@ -1,6 +1,6 @@
 # Syrphin
 
-Syrphin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at B-SIDE, Warsaw on Fri, 11 Dec 2026.
+Syrphin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at B-SIDE, Warsaw on Fri, 11 Dec 2026.
 
 Syrphin is a techno and trance artist, with 30 gigs on soundcheck across Berlin, Copenhagen, Krakow and Prague and 1 more. Often billed alongside Dolu, Dima Kachan and SDS. Next up: B-SIDE, Warsaw on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Syrphin is a techno and trance artist, with 30 gigs on soundcheck across Berlin,
 
 Dolu, Dima Kachan, SDS (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrphin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrphin/)*

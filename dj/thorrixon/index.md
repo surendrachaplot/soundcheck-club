@@ -1,14 +1,13 @@
 # Thor Rixon
 
-Thor Rixon is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Thor Rixon is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
 
-Thor Rixon is a house and electro artist based in South Africa, with 26 gigs on soundcheck across Berlin, Cape Town and Montreal. Often billed alongside ADAM MUNNINGS, Dornika and Hypoestes. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
+Thor Rixon is a house and electro artist based in South Africa, with 26 gigs on soundcheck across Berlin, Cape Town and Montreal. Often billed alongside ADAM MUNNINGS, Dornika and Hypoestes. Next up: TBA - HARRINGTON STREET, CBD, Cape Town on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | TBA - Porcupine Hills, Bot River | Cape Town |
 | Thu, 31 Dec 2026 | TBA - HARRINGTON STREET, CBD | Cape Town |
 
 ## Recently played
@@ -26,4 +25,4 @@ Thor Rixon is a house and electro artist based in South Africa, with 26 gigs on 
 
 ADAM MUNNINGS, Dornika, Hypoestes
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thorrixon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thorrixon/)*

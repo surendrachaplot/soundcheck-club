@@ -1,13 +1,14 @@
 # ek:)
 
-ek:) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Monarch, San Francisco/Oakland on Thu, 31 Dec 2026.
+ek:) is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The LookOut, San Francisco/Oakland on Thu, 3 Dec 2026.
 
-ek:) is a techno and club artist based in United States of America, with 20 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Just Another Bitch, ZZ and 40split. Next up: Monarch, San Francisco/Oakland on Thu 31 Dec.
+ek:) is a club and techno artist based in United States of America, with 21 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Just Another Bitch, ZZ and 40split. Next up: The LookOut, San Francisco/Oakland on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | The LookOut | San Francisco/Oakland |
 | Thu, 31 Dec 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ ek:) is a techno and club artist based in United States of America, with 20 gigs
 
 Just Another Bitch, ZZ (4), 40split
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ek415/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ek415/)*

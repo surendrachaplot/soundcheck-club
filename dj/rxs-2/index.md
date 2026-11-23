@@ -1,6 +1,6 @@
 # RXS (2)
 
-RXS (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Toekomstmuziek, Amsterdam on Sat, 12 Dec 2026.
+RXS (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Toekomstmuziek, Amsterdam on Sat, 12 Dec 2026.
 
 RXS is a techno and tech house artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Copenhagen and London. Often billed alongside Kupal, Sebastian Toledo and Umore. Next up: Toekomstmuziek, Amsterdam on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ RXS is a techno and tech house artist based in Netherlands, with 4 gigs on sound
 
 Kupal, Sebastian Toledo, Umore
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rxs-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rxs-2/)*

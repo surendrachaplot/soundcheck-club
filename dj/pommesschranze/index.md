@@ -1,14 +1,13 @@
 # Pommes Schranze
 
-Pommes Schranze is a Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Frohet Schaffen, Iserlohn on Sat, 21 Nov 2026.
+Pommes Schranze is a Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Zakk, Düsseldorf on Sun, 6 Dec 2026.
 
-Pommes Schranze is a pop artist based in Germany, with 5 gigs on soundcheck across Bochum, Düsseldorf and Iserlohn. Next up: Frohet Schaffen, Iserlohn on Sat 21 Nov.
+Pommes Schranze is a pop artist based in Germany, with 5 gigs on soundcheck across Bochum, Düsseldorf and Iserlohn. Next up: Zakk, Düsseldorf on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Frohet Schaffen | Iserlohn |
 | Sun, 6 Dec 2026 | Zakk | Düsseldorf |
 
 ## Recently played
@@ -18,4 +17,4 @@ Pommes Schranze is a pop artist based in Germany, with 5 gigs on soundcheck acro
 - Die Trompete, Bochum · Thu, 19 Nov 2026
 - Rotunde, Bochum · Sat, 14 Nov 2026
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pommesschranze/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pommesschranze/)*

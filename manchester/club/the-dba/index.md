@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Evacuate the Dancefloor: Cyb3r wint3r" on Wed, 25 Nov 2026.
+The DBA is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Evacuate the Dancefloor: Cyb3r wint3r" on Wed, 25 Nov 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including 4D, 4STR0, 99NYNEX and Fastlove and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -15,7 +15,7 @@ The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, w
 | Thu, 3 Dec 2026 | VALIS 2.0 - The Modern Prometheus | Jarvis Bitcoin, S3ROC, Yyre, ZOLATEC |
 | Fri, 4 Dec 2026 | HEREAFTER 5th Birthday | 4D, Bobby O'Donnell, DUCK-E, Elleinad, Owen Drummond |
 | Sat, 5 Dec 2026 | GASH w/「Princess Xixi」+ [ÆON_FUX] & {BAD BITCH KRU} | Princess Xixi |
-| Fri, 11 Dec 2026 | Freak - Xmas Party | Bonzai Bonner, Fastlove, Marcos (HH/FQR) |
+| Fri, 11 Dec 2026 | Freak - Xmas Party | Bonzai Bonner, Fastlove, Jus’T, Marcos (HH/FQR), sebastieN |
 | Sat, 12 Dec 2026 | HØL x Perc Trax: Perc, Gary Beck, LMajor, INLIMEN, David James b2b Jase Jeffery, 4STRO, Zimno | 4STR0, David James MCR, Gary Beck, INLIMEN, Jase Jeffery, LMajor, Perc |
 | Fri, 18 Dec 2026 | FILTH XXXMAS | Connor (UK), Jarvis Bitcoin, Kuriboh, quarter ohm |
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, w
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

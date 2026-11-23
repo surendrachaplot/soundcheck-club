@@ -1,6 +1,6 @@
 # Mat Hex
 
-Mat Hex is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
+Mat Hex is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
 
 Mat Hex is a techno and jazz artist based in Italy, with 3 gigs on soundcheck across Berlin. Often billed alongside Linda shiro, Phreenetic and Jacopo Forli. Next up: ÆDEN, Berlin on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Mat Hex is a techno and jazz artist based in Italy, with 3 gigs on soundcheck ac
 
 Linda shiro, Phreenetic, Jacopo Forli
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathex/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathex/)*

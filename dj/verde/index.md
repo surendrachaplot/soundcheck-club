@@ -1,6 +1,6 @@
 # Verde
 
-Verde is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at B-SIDE, Warsaw on Fri, 27 Nov 2026.
+Verde is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at B-SIDE, Warsaw on Fri, 27 Nov 2026.
 
 Verde is a minimal and tech house artist, with 32 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Salut 80, Viikatory and Badalian. Next up: B-SIDE, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Verde is a minimal and tech house artist, with 32 gigs on soundcheck across Berl
 
 Salut 80, Viikatory, Badalian
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verde/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verde/)*

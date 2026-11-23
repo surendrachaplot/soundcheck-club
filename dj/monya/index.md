@@ -1,6 +1,6 @@
 # Monya
 
-Monya is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gwardia Kaszubska, Gdansk on Fri, 2 Jul 2027.
+Monya is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gwardia Kaszubska, Gdansk on Fri, 2 Jul 2027.
 
 Monya is a techno and industrial artist based in Germany, with 4 gigs on soundcheck across Gdansk, Los Angeles, Munich and San Francisco/Oakland. Often billed alongside Cervello Elettronico, Kali and Pirania. Next up: Gwardia Kaszubska, Gdansk on Fri 2 Jul.
 
@@ -20,4 +20,4 @@ Monya is a techno and industrial artist based in Germany, with 4 gigs on soundch
 
 Cervello Elettronico, Kali, Pirania
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monya/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monya/)*

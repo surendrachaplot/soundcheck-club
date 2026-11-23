@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "PW x Misbits • PLO Man, Miss I, Alexis Boevik" on Fri, 27 Nov 2026.
+Platforma Wolff is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "PW x Misbits • PLO Man, Miss I, Alexis Boevik" on Fri, 27 Nov 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including Andrei Ciubuc, Calibre, Carl H and Detroit In Effect and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -21,4 +21,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming g
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

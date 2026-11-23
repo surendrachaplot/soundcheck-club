@@ -1,13 +1,14 @@
 # KMRU
 
-KMRU is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+KMRU is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
 
-KMRU is an experimental and techno artist based in Kenya, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Carmen Villain, The Bug and Aho Ssan. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
+KMRU is an experimental and electronica artist based in Kenya, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 24 more. Often billed alongside Aho Ssan, Carmen Villain and The Bug. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 24 Nov 2026 | A4 - Space for Contemporary Culture | Bratislava |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ KMRU is an experimental and techno artist based in Kenya, with 48 gigs on soundc
 
 ## Shares bills with
 
-Carmen Villain, The Bug, Aho Ssan
+Aho Ssan, Carmen Villain, The Bug
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmru/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmru/)*

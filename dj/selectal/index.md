@@ -1,6 +1,6 @@
 # SelecTal
 
-SelecTal is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
+SelecTal is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
 
 SelecTal is an ambient and techno artist based in France, with 2 gigs on soundcheck across Paris. Often billed alongside Albane, Aurian and MNBOO. Next up: Chateau Ephémère, Paris on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ SelecTal is an ambient and techno artist based in France, with 2 gigs on soundch
 
 Albane, Aurian, MNBOO
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectal/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectal/)*

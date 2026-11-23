@@ -1,6 +1,6 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Klub, Paris on Thu, 26 Nov 2026.
+Beau Wanzer is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le Klub, Paris on Thu, 26 Nov 2026.
 
 Beau Wanzer is an experimental and techno artist based in United States of America, with 117 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Le Klub, Paris on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Beau Wanzer is an experimental and techno artist based in United States of Ameri
 
 Amber Gris, Dretraxx, L.F.T.
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*

@@ -1,6 +1,6 @@
 # Bar Part Time
 
-Bar Part Time is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "SutroFM Party" on Fri, 27 Nov 2026.
+Bar Part Time is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "SutroFM Party" on Fri, 27 Nov 2026.
 
 Bar Part Time is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Patrick. See dates, start times and who's playing. 496 14th Street.
 
@@ -15,4 +15,4 @@ Bar Part Time is a music venue in San Francisco/Oakland listed on soundcheck. 2 
 
 496 14th Street, San Francisco/Oakland
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*

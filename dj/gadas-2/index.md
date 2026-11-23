@@ -1,6 +1,6 @@
 # Gadas (2)
 
-Gadas (2) is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Marina Da Glória, Rio de Janeiro on Sat, 28 Nov 2026.
+Gadas (2) is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Marina Da Glória, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Gadas is a progressive house and deep house artist based in Brazil, with 15 gigs on soundcheck across Rio de Janeiro. Often billed alongside Beranger, HELOAH and Lorio. Next up: Marina Da Glória, Rio de Janeiro on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Gadas is a progressive house and deep house artist based in Brazil, with 15 gigs
 
 Beranger, HELOAH, Lorio
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gadas-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gadas-2/)*

@@ -1,6 +1,6 @@
 # King Prawn Dansak
 
-King Prawn Dansak is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Liquidate, Manchester on Fri, 4 Dec 2026.
+King Prawn Dansak is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Liquidate, Manchester on Fri, 4 Dec 2026.
 
 King Prawn Dansak is a footwork and bass artist, with 2 gigs on soundcheck across Manchester. Often billed alongside AEON FUX, Kuriboh and MALVADØNA. Next up: Liquidate, Manchester on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ King Prawn Dansak is a footwork and bass artist, with 2 gigs on soundcheck acros
 
 AEON FUX, Kuriboh, MALVADØNA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingprawndansak/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingprawndansak/)*

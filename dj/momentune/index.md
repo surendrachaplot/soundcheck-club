@@ -1,6 +1,6 @@
 # Momentune
 
-Momentune is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
+Momentune is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
 
 Momentune is a psytrance and techno artist based in Germany, with 75 gigs on soundcheck across Berlin, Cologne and Stuttgart. Often billed alongside Daora, RHYTMOX and Texo. Next up: Bootshaus, Cologne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Momentune is a psytrance and techno artist based in Germany, with 75 gigs on sou
 
 Daora, RHYTMOX, Texo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momentune/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momentune/)*

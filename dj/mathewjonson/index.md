@@ -1,6 +1,6 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Mathew Jonson is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Mathew Jonson is a techno and house artist based in Canada, with 163 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 58 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: fabric, London on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Mathew Jonson is a techno and house artist based in Canada, with 163 gigs on sou
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

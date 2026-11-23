@@ -1,6 +1,6 @@
 # Emine (2)
 
-Emine (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
+Emine (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
 
 Emine is an electronic artist based in Tunisia, with 3 gigs on soundcheck across Lebanon and Tunisia. Often billed alongside Moez, Pan-J and Raphael Merheb. Next up: TBA, Tunisia on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Emine is an electronic artist based in Tunisia, with 3 gigs on soundcheck across
 
 Moez, Pan-J, Raphael Merheb
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emine-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emine-2/)*

@@ -1,6 +1,6 @@
 # Strategy
 
-Strategy is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
+Strategy is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
 
 Strategy is a drum & bass and bass artist based in United States of America, with 57 gigs on soundcheck across Auckland, Bristol, Chicago and Christchurch and 12 more. Often billed alongside Rich Reason, Chimpo and T-Man (UK). Next up: Portugal Madeira Club, Sydney on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Strategy is a drum & bass and bass artist based in United States of America, wit
 
 Rich Reason, Chimpo, T-Man (UK)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*

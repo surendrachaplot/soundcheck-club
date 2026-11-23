@@ -1,8 +1,8 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at DRUMSHEDS, London on Sun, 20 Dec 2026.
+Floorplan is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DRUMSHEDS, London on Sun, 20 Dec 2026.
 
-Floorplan is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 22 more. Often billed alongside Robert Hood, Melvo Baptiste and DJ Holographic. Next up: DRUMSHEDS, London on Sun 20 Dec.
+Floorplan is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 22 more. Often billed alongside Robert Hood, Melvo Baptiste and DJ Holographic. Next up: DRUMSHEDS, London on Sun 20 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Floorplan is a house and techno artist based in United States of America, with 7
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Sat, 20 Feb 2027 | SILO | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Floorplan is a house and techno artist based in United States of America, with 7
 
 Robert Hood, Melvo Baptiste, DJ Holographic
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*

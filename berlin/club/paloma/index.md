@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Gentle Reminder" on Sun, 22 Nov 2026.
+Paloma is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Discoteca Botánica" on Thu, 26 Nov 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including 11:68PM, 4meter, Balthazar Martinez and bb:fm and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 11:68PM, 4meter, Balthazar Martinez and bb:fm and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Gentle Reminder | Charlie Vaux, DJ Bricks, Giulia Gutterer, MVHY, VRTL |
 | Thu, 26 Nov 2026 | Discoteca Botánica |  |
 | Fri, 27 Nov 2026 | Paloma Invites | Flemish.Fetish, Grace Sands |
 | Fri, 27 Nov 2026 | FULL DOSE RECORDS SOUNDCLASH : 10 YEARS OF FLAME @ Paloma |  |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with l
 | Thu, 3 Dec 2026 | PULS x shockwerk XMAS Session | Tino Machauer |
 | Fri, 4 Dec 2026 | INTO ORBIT | Carl Bergé, Josiane, jiyun kim |
 | Fri, 4 Dec 2026 | Ziyan Records INVITES Bruno Pronsato | 4meter, Bruno Pronsato, Stamina (DE), Symbolism |
+| Sat, 5 Dec 2026 | REACH HOUSE | DJ LoveCatt, Doreen |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

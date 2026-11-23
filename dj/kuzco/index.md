@@ -1,6 +1,6 @@
 # Kuzco
 
-Kuzco is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Moyston, Melbourne on Fri, 5 Mar 2027.
+Kuzco is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Moyston, Melbourne on Fri, 5 Mar 2027.
 
 Kuzco is a house and deep house artist based in Australia, with 38 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Mike Gurrieri, Harvey Sutherland and RAH. Next up: Moyston, Melbourne on Fri 5 Mar.
 
@@ -25,4 +25,4 @@ Kuzco is a house and deep house artist based in Australia, with 38 gigs on sound
 
 Mike Gurrieri, Harvey Sutherland, RAH (1)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*

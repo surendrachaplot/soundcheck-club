@@ -1,6 +1,6 @@
 # Zeynep
 
-Zeynep is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 28 Nov 2026.
+Zeynep is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 28 Nov 2026.
 
 Zeynep is a techno and house artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Alfred Czital, Yan (CZ) and Raleigh. Next up: Waterhouse Studios, Amsterdam on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Zeynep is a techno and house artist based in Germany, with 102 gigs on soundchec
 
 Alfred Czital, Yan (CZ), Raleigh
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*

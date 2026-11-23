@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Boss Priester is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Boss Priester is a house and tech house artist based in Netherlands, with 115 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Boss Priester is a house and tech house artist based in Netherlands, with 115 gi
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

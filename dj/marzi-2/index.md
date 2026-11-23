@@ -1,6 +1,6 @@
 # Marzi (2)
 
-Marzi (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 27 Nov 2026.
+Marzi (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 27 Nov 2026.
 
 Marzi is a techno and trance artist based in Canada, with 4 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, Burnii and KAYN. Next up: The Comfort Zone, Toronto on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Marzi is a techno and trance artist based in Canada, with 4 gigs on soundcheck a
 
 KILL 9 1, Burnii, KAYN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marzi-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marzi-2/)*

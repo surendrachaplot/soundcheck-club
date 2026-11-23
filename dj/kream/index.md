@@ -1,8 +1,8 @@
 # KREAM
 
-KREAM is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Electric Bristol, Bristol on Fri, 4 Dec 2026.
+KREAM is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Electric Bristol, Bristol on Fri, 4 Dec 2026.
 
-KREAM is a house and tech house artist based in Norway, with 79 gigs on soundcheck across Amsterdam, Austin, Bergen and Berlin and 35 more. Often billed alongside James Hype (UK), Alesso and Boys Noize. Next up: Electric Bristol, Bristol on Fri 4 Dec.
+KREAM is a house and tech house artist based in Norway, with 80 gigs on soundcheck across Amsterdam, Austin, Bergen and Berlin and 35 more. Often billed alongside James Hype (UK), Alesso and Boys Noize. Next up: Electric Bristol, Bristol on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ KREAM is a house and tech house artist based in Norway, with 79 gigs on soundche
 | Fri, 22 Jan 2027 | Rebel | Toronto |
 | Sat, 13 Feb 2027 | Level 1 @ Cannonball Arts | Seattle |
 | Fri, 19 Feb 2027 | Radius | Chicago |
+| Sat, 20 Feb 2027 | Echostage | Washington DC |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ KREAM is a house and tech house artist based in Norway, with 79 gigs on soundche
 
 James Hype (UK), Alesso, Boys Noize
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*

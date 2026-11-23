@@ -1,6 +1,6 @@
 # blk.
 
-blk. is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
+blk. is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
 
 blk. is a techno and trance artist based in Ireland, with 153 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 46 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ blk. is a techno and trance artist based in Ireland, with 153 gigs on soundcheck
 
 Azyr, Black Traffic, Charlie Sparks
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

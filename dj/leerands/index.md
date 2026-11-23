@@ -1,6 +1,6 @@
 # Lee Rands
 
-Lee Rands is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kapsule, Liverpool on Sun, 27 Dec 2026.
+Lee Rands is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kapsule, Liverpool on Sun, 27 Dec 2026.
 
 Lee Rands is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Liverpool and London. Often billed alongside Ryan Elliott, Alex Arnout and Aly P. Next up: Kapsule, Liverpool on Sun 27 Dec.
 
@@ -26,4 +26,4 @@ Lee Rands is a techno and house artist based in United Kingdom, with 14 gigs on 
 
 Ryan Elliott, Alex Arnout, Aly P
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leerands/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leerands/)*

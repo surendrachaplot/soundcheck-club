@@ -1,6 +1,6 @@
 # Redmadvelvet
 
-Redmadvelvet is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Cologne on Sat, 23 Jan 2027.
+Redmadvelvet is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Cologne on Sat, 23 Jan 2027.
 
 Redmadvelvet is a techno and acid artist based in Germany, with 8 gigs on soundcheck across Amsterdam, Berlin and Cologne. Often billed alongside Daniel Englisch, Detune and DJ Roach. Next up: TBA, Cologne on Sat 23 Jan.
 
@@ -24,4 +24,4 @@ Redmadvelvet is a techno and acid artist based in Germany, with 8 gigs on soundc
 
 Daniel Englisch, Detune, DJ Roach
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmadvelvet/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmadvelvet/)*

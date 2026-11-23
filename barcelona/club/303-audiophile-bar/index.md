@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Sideways pres Omar at 303" on Thu, 26 Nov 2026.
+303 Audiophile Bar is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Sideways pres Omar at 303" on Thu, 26 Nov 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Alice Caroline, Aline (CH), Andrea Love and Bill Hates and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

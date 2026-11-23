@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "AUDE Listening Session: Radiohead, Kid A" on Mon, 23 Nov 2026.
+Bridge 48 is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "AUDE Listening Session: Radiohead, Kid A" on Mon, 23 Nov 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Angie (CY), Aude, Burial and JOCHI and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -22,4 +22,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, w
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

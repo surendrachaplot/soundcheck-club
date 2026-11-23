@@ -1,6 +1,6 @@
 # FATAL (UK)
 
-FATAL (UK) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Egg London, London on Thu, 31 Dec 2026.
+FATAL (UK) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Egg London, London on Thu, 31 Dec 2026.
 
 FATAL (UK) is an afro house and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Shenin Amara, Brian Smith and Mark Radford. Next up: Egg London, London on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ FATAL (UK) is an afro house and house artist based in United Kingdom, with 6 gig
 
 Shenin Amara, Brian Smith, Mark Radford
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fataluk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fataluk/)*

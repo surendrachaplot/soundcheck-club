@@ -1,6 +1,6 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Dual, Bangkok on Sat, 28 Nov 2026.
+Ouissam is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Dual, Bangkok on Sat, 28 Nov 2026.
 
 Ouissam is a house and techno artist based in France, with 144 gigs on soundcheck across Athens, Bali, Bangkok and Bangladesh and 28 more. Often billed alongside Di Linh, Emel and Saint Guel. Next up: Dual, Bangkok on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Ouissam is a house and techno artist based in France, with 144 gigs on soundchec
 
 Di Linh, Emel, Saint Guel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

@@ -1,6 +1,6 @@
 # Rave Generation 1995 at Sky Club
 
-Rave Generation 1995 at Sky Club on Sat 20 Feb, Leipzig. 2 artists: Mad Max and Mijk van Dijk. See the line-up on soundcheck.
+Rave Generation 1995 at Sky Club on Sat 20 Feb, Leipzig. 2 artists: Mad Max and Mijk van Dijk. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

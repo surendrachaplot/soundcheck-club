@@ -1,6 +1,6 @@
 # Trans-Pecos
 
-Trans-Pecos is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Minty Boi Presents: Boy2000 in New York" on Fri, 27 Nov 2026.
+Trans-Pecos is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Minty Boi Presents: Boy2000 in New York" on Fri, 27 Nov 2026.
 
 Trans-Pecos is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Tlim Shug. See dates, start times and who's playing. 9-15 Wyckoff Ave, Queens, NY 11385.
 
@@ -16,4 +16,4 @@ Trans-Pecos is a music venue in New York City listed on soundcheck. 3 upcoming g
 
 9-15 Wyckoff Ave, Queens, NY 11385, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*

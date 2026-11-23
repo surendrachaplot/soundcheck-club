@@ -1,6 +1,6 @@
 # IHA (CA)
 
-IHA (CA) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Vancouver on Sat, 5 Dec 2026.
+IHA (CA) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Vancouver on Sat, 5 Dec 2026.
 
 IHA (CA) is a techno and bass artist based in Philippines, with 44 gigs on soundcheck across Amsterdam, Portland, San Francisco/Oakland and Vancouver. Often billed alongside ephemeral objects, Kai Bradley and Atrament. Next up: TBA, Vancouver on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ IHA (CA) is a techno and bass artist based in Philippines, with 44 gigs on sound
 
 ephemeral objects, Kai Bradley, Atrament
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihaca/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihaca/)*

@@ -1,6 +1,6 @@
 # Bossa (2)
 
-Bossa (2) is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at CC: Lado B, Rio de Janeiro on Sat, 28 Nov 2026.
+Bossa (2) is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at CC: Lado B, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Bossa is a balearic and house artist based in Brazil, with 29 gigs on soundcheck across London and Rio de Janeiro. Often billed alongside Antes E Depois, Capetini and Pluma Bea. Next up: CC: Lado B, Rio de Janeiro on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bossa is a balearic and house artist based in Brazil, with 29 gigs on soundcheck
 
 Antes E Depois, Capetini, Pluma Bea
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bossa-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bossa-2/)*

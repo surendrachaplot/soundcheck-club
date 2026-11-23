@@ -1,6 +1,6 @@
 # DJ Chromz
 
-DJ Chromz is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
+DJ Chromz is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
 
 DJ Chromz is a jungle and drum & bass artist based in Germany, with 29 gigs on soundcheck across Berlin, Bristol, Frankfurt and London. Often billed alongside Vali NME Click, KaraKara and Shifty Rogue. Next up: OST, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ Chromz is a jungle and drum & bass artist based in Germany, with 29 gigs on s
 
 Vali NME Click, KaraKara, Shifty Rogue
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchromz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchromz/)*

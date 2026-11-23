@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 21 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "UNFOLD CXXXV" on Sun, 22 Nov 2026.
+FOLD is a music venue in London with 20 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Dresden Extended [SOLD OUT]" on Fri, 27 Nov 2026.
 
-FOLD is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Aaron Liberator, adobeprincess, Altinbas and Amelia Holt and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Aaron Liberator, adobeprincess, Altinbas and Amelia Holt and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | UNFOLD CXXXV |  |
 | Fri, 27 Nov 2026 | Dresden Extended [SOLD OUT] | C.A.R., Dresden, Ivan Smagghe, Josey Rebelle, Manfredas, Marc Piñol |
 | Sat, 28 Nov 2026 | [SOLD OUT] Mount Kimbie (DJ) - All Day Long | Mount Kimbie |
 | Sat, 28 Nov 2026 | Tech Couture [24 Hours] // The Last Dance of 2026  | Altinbas, Anabel Arroyo, Ben Sims, Charles Green, David Ramsay, Debbie., KUSS, LOLSNAKE, Ludi, Mac Declos, Mari Sakurai, NIKS, Paula Koski, Rachel de Moncuit, Setaoc Mass, Teecra, Wednesday, bbecks, sweetestcape |
@@ -18,9 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 21 upcoming gigs, with lin
 | Sat, 5 Dec 2026 | FOLD presents NON SERIES Quince (EXTENDED) | Architectural, D-Leria, Desiree', Erik Luebs, Feral, Jin Synth, Laura BCR, Luigi Tozzi, ORBE, Polygonia, Psyk, Voicedrone |
 | Sun, 6 Dec 2026 | UNFOLD CXXXVI |  |
 | Fri, 11 Dec 2026 | Labyrinth presents: Theo Parrish All Night Long | Nick Castle, Ruby Savage, Shy One, Theo Parrish |
+| Sat, 12 Dec 2026 | Transmissions x Sustain Release 22 hrs: Jane Fitz, DJ Nobu, Aurora Halal, Ben UFO + more | Amelia Holt, Aurora Halal, BASHKKA, Ben UFO, Carl H, DJ Nobu, DJ TEETH, Ekkel, Inner Zone, Jane Fitz, Kasra V, Nosedrip, Spekki Webu, Sybil, Vlada, adobeprincess |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

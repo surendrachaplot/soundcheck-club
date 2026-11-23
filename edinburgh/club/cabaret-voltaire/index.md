@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "GDT PRESENTS: Dan Shake // THURSDAY 26th NOVEMBER AT CAB VOL" on Thu, 26 Nov 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "GDT PRESENTS: Dan Shake // THURSDAY 26th NOVEMBER AT CAB VOL" on Thu, 26 Nov 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including cara hegarty, Dan Shake, Denis Sulta and Kitty Hall and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -18,4 +18,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 5 upcoming 
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

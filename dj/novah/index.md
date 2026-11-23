@@ -1,6 +1,6 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Culture, Washington DC on Wed, 25 Nov 2026.
+NOVAH is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Culture, Washington DC on Wed, 25 Nov 2026.
 
 NOVAH is a techno and trance artist based in Belgium, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Cloudy, Adrian Mills and Nico Moreno. Next up: Culture, Washington DC on Wed 25 Nov.
 
@@ -36,4 +36,4 @@ NOVAH is a techno and trance artist based in Belgium, with 204 gigs on soundchec
 
 Cloudy, Adrian Mills, Nico Moreno
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

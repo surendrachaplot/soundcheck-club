@@ -1,6 +1,6 @@
 # Agatha Pher
 
-Agatha Pher is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bikini Club, Barcelona on Sat, 12 Dec 2026.
+Agatha Pher is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bikini Club, Barcelona on Sat, 12 Dec 2026.
 
 Agatha Pher is a progressive house and techno artist based in Spain, with 47 gigs on soundcheck across Barcelona. Often billed alongside MøønkiZa, Lupe Republic and Einmusik. Next up: Bikini Club, Barcelona on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Agatha Pher is a progressive house and techno artist based in Spain, with 47 gig
 
 MøønkiZa, Lupe Republic, Einmusik
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agathapher/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agathapher/)*

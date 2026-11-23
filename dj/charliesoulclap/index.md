@@ -1,6 +1,6 @@
 # Charlie Soul Clap
 
-Charlie Soul Clap is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Phoenix Landing, Boston on Wed, 25 Nov 2026.
+Charlie Soul Clap is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Phoenix Landing, Boston on Wed, 25 Nov 2026.
 
 Charlie Soul Clap is a house and disco artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Boston, Chicago and Cleveland and 3 more. Often billed alongside Soul Clap, Devon James and FSQ. Next up: Phoenix Landing, Boston on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Charlie Soul Clap is a house and disco artist based in United States of America,
 
 Soul Clap, Devon James, FSQ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesoulclap/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesoulclap/)*

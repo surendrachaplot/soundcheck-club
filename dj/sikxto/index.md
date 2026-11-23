@@ -1,6 +1,6 @@
 # SIKXTO
 
-SIKXTO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OST, Berlin on Sat, 19 Dec 2026.
+SIKXTO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OST, Berlin on Sat, 19 Dec 2026.
 
 SIKXTO is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside DTEXX, Filialleiter and Trancestrudel. Next up: OST, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ SIKXTO is a techno and trance artist based in Germany, with 58 gigs on soundchec
 
 DTEXX, Filialleiter, Trancestrudel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*

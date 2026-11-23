@@ -1,6 +1,6 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - 304 East 3rd Street, Austin, Texas 78701, United States, Austin on Fri, 4 Dec 2026.
+Mita Gami is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - 304 East 3rd Street, Austin, Texas 78701, United States, Austin on Fri, 4 Dec 2026.
 
 Mita Gami is a house and techno artist based in Israel, with 151 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: TBA - 304 East 3rd Street, Austin, Texas 78701, United States, Austin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Mita Gami is a house and techno artist based in Israel, with 151 gigs on soundch
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

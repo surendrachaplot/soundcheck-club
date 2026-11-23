@@ -1,6 +1,6 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
+Ivan Smagghe is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
 
 Ivan Smagghe is a techno and house artist based in France, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: FOLD, London on Fri 27 Nov.
 
@@ -34,4 +34,4 @@ Ivan Smagghe is a techno and house artist based in France, with 219 gigs on soun
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

@@ -1,6 +1,6 @@
 # Ash (14)
 
-Ash (14) is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
+Ash (14) is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
 
 Ash is a house and dub artist based in United States of America, with 2 gigs on soundcheck across New York City. Often billed alongside ANICHE, Choo Choo and Eddy K. Next up: Honey's, New York City on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ Ash is a house and dub artist based in United States of America, with 2 gigs on 
 
 ANICHE, Choo Choo, Eddy K
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ash-14/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ash-14/)*

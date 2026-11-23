@@ -1,6 +1,6 @@
 # Matisa
 
-Matisa is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Flash, Washington DC on Fri, 4 Dec 2026.
+Matisa is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Flash, Washington DC on Fri, 4 Dec 2026.
 
 Matisa is a house and techno artist based in Italy, with 157 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 54 more. Often billed alongside CHRIS STASSY, DJ Tennis and The Martinez Brothers. Next up: Flash, Washington DC on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Matisa is a house and techno artist based in Italy, with 157 gigs on soundcheck 
 
 CHRIS STASSY, DJ Tennis, The Martinez Brothers
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

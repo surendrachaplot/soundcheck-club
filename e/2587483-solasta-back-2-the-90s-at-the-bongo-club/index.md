@@ -1,6 +1,6 @@
-# SOLASTA: BACK 2 THE 90s ˖𖤓 ݁٠࣪˖˚⋆ at The Bongo Club
+# SOLASTA: BACK 2 THE 90s 𖤓 ݁٠࣪˖˚⋆ at The Bongo Club
 
-SOLASTA: BACK 2 THE 90s ˖𖤓 ݁٠࣪˖˚⋆ at The Bongo Club on Thu 21 Jan, Edinburgh. Breakbeat and Jungle. See the line-up on soundcheck.
+SOLASTA: BACK 2 THE 90s 𖤓 ݁٠࣪˖˚⋆ at The Bongo Club on Thu 21 Jan, Edinburgh. Breakbeat and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

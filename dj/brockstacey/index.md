@@ -1,6 +1,6 @@
 # Brock Stacey
 
-Brock Stacey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Jama, Toronto on Sat, 28 Nov 2026.
+Brock Stacey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Jama, Toronto on Sat, 28 Nov 2026.
 
 Brock Stacey is a house and disco artist based in Canada, with 2 gigs on soundcheck across Toronto. Often billed alongside Gene Hunt, Kiki LeFreak and Psi. Next up: The Jama, Toronto on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Brock Stacey is a house and disco artist based in Canada, with 2 gigs on soundch
 
 Gene Hunt, Kiki LeFreak, Psi (1)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brockstacey/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brockstacey/)*

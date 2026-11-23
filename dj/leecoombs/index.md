@@ -1,6 +1,6 @@
 # Lee Coombs
 
-Lee Coombs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Lee Coombs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Lee Coombs is a house and disco artist based in United Kingdom, with 2 gigs on soundcheck across San Francisco/Oakland. Often billed alongside YUKA YU, 3kelves and ALEX GOODCAT. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -18,4 +18,4 @@ Lee Coombs is a house and disco artist based in United Kingdom, with 2 gigs on s
 
 YUKA YU, 3kelves, ALEX GOODCAT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leecoombs/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leecoombs/)*

@@ -1,14 +1,13 @@
 # Steve Aoki
 
-Steve Aoki is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Barceló Riviera Maya Resort, Playa-del-carmen on Fri, 20 Nov 2026.
+Steve Aoki is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
 
-Steve Aoki is a house and electro artist based in United States of America, with 74 gigs on soundcheck across Austin, Barcelona, Bogotá and Boston and 30 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Alok. Next up: Barceló Riviera Maya Resort, Playa Del Carmen on Fri 20 Nov.
+Steve Aoki is a house and electro artist based in United States of America, with 74 gigs on soundcheck across Austin, Barcelona, Bogotá and Boston and 30 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Alok. Next up: Panther Island Pavilion, Dallas Fort Worth on Fri 23 Apr.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Barceló Riviera Maya Resort | Playa-del-carmen |
 | Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
@@ -26,4 +25,4 @@ Steve Aoki is a house and electro artist based in United States of America, with
 
 Dimitri Vegas & Like Mike, Alesso, Alok
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*

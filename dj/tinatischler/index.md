@@ -1,8 +1,8 @@
 # Tina Tischler
 
-Tina Tischler is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 5 Dec 2026.
+Tina Tischler is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 5 Dec 2026.
 
-Tina Tischler is an electronic artist, with 5 gigs on soundcheck across Berlin and Munich. Often billed alongside AHAB, BERLIN and Better Call Paul. Next up: Bahnwärter Thiel, Munich on Sat 5 Dec.
+Tina Tischler is an electronic artist based in Germany, with 5 gigs on soundcheck across Berlin and Munich. Often billed alongside AHAB, BERLIN and Better Call Paul. Next up: Bahnwärter Thiel, Munich on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Tina Tischler is an electronic artist, with 5 gigs on soundcheck across Berlin a
 
 AHAB, BERLIN, Better Call Paul
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatischler/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatischler/)*

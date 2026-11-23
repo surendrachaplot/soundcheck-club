@@ -1,6 +1,6 @@
 # lady lavender
 
-lady lavender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Halo Baltimore, Baltimore on Thu, 31 Dec 2026.
+lady lavender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Halo Baltimore, Baltimore on Thu, 31 Dec 2026.
 
 lady lavender is a house and techno artist based in United States of America, with 95 gigs on soundcheck across Austin, Baltimore, New Orleans and New York City and 3 more. Often billed alongside Nile Ashton, secret handshake and D1ME. Next up: Halo Baltimore, Baltimore on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ lady lavender is a house and techno artist based in United States of America, wi
 
 Nile Ashton, secret handshake, D1ME
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*

@@ -1,6 +1,6 @@
 # Andriiic
 
-Andriiic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Void Club, Berlin on Fri, 29 Jan 2027.
+Andriiic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Fri, 29 Jan 2027.
 
 Andriiic is a techno and trance artist based in Chile, with 2 gigs on soundcheck across Berlin. Often billed alongside Patrick Scuro, Alex Xandra and DJ Jordan. Next up: Void Club, Berlin on Fri 29 Jan.
 
@@ -18,4 +18,4 @@ Andriiic is a techno and trance artist based in Chile, with 2 gigs on soundcheck
 
 Patrick Scuro, Alex Xandra, DJ Jordan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andriiic/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andriiic/)*

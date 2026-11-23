@@ -1,6 +1,6 @@
 # Dread (Poland)
 
-Dread (Poland) is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Wed, 25 Nov 2026.
+Dread (Poland) is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Wed, 25 Nov 2026.
 
 Dread (Poland) is a drum & bass and house artist based in Poland, with 10 gigs on soundcheck across Amsterdam, Brighton, Bristol and London and 4 more. Often billed alongside Andy C, Pola & Bryson and Camo & Krooked. Next up: 1015 Folsom, San Francisco/Oakland on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Dread (Poland) is a drum & bass and house artist based in Poland, with 10 gigs o
 
 Andy C, Pola & Bryson, Camo & Krooked
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadpoland/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadpoland/)*

@@ -1,6 +1,6 @@
 # Pao Calderon
 
-Pao Calderon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
+Pao Calderon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
 
 Pao Calderon is a techno and house artist, with 34 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Alex Bessofen, Alejandra Rosales and Confidential Recipe. Next up: Torre Colpatria, Bogotá on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Pao Calderon is a techno and house artist, with 34 gigs on soundcheck across Bog
 
 Alex Bessofen, Alejandra Rosales, Confidential Recipe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paocalderon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paocalderon/)*

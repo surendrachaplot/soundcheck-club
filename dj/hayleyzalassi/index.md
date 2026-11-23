@@ -1,6 +1,6 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 5 Dec 2026.
+Hayley Zalassi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 5 Dec 2026.
 
 Hayley Zalassi is a house and techno artist based in United Kingdom, with 100 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Brighton and 15 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Electric Pizza Shop, Manchester on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Hayley Zalassi is a house and techno artist based in United Kingdom, with 100 gi
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

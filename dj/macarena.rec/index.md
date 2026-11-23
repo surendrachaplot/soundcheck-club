@@ -1,6 +1,6 @@
 # macarena.rec
 
-macarena.rec is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 26 Nov 2026.
+macarena.rec is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 26 Nov 2026.
 
 macarena.rec is an electro and house artist, with 3 gigs on soundcheck across Medellin. Often billed alongside Deepex Odyssey, Donnie Cosmo and LYA FRANK. Next up: Mad Radio Medellín, Medellin on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ macarena.rec is an electro and house artist, with 3 gigs on soundcheck across Me
 
 Deepex Odyssey, Donnie Cosmo, LYA FRANK
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macarena.rec/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macarena.rec/)*

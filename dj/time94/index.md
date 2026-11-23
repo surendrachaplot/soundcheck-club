@@ -1,8 +1,8 @@
 # TIME94
 
-TIME94 is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Athens on Fri, 27 Nov 2026.
+TIME94 is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Athens on Fri, 27 Nov 2026.
 
-TIME94 is a bass and drum & bass artist, with 8 gigs on soundcheck across Athens. Often billed alongside Duckem, SARDOS97 and SLVG. Next up: TBA, Athens on Fri 27 Nov.
+TIME94 is a bass and drum & bass artist based in Greece, with 8 gigs on soundcheck across Athens. Often billed alongside Duckem, SARDOS97 and SLVG. Next up: TBA, Athens on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ TIME94 is a bass and drum & bass artist, with 8 gigs on soundcheck across Athens
 
 Duckem, SARDOS97, SLVG
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/time94/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/time94/)*

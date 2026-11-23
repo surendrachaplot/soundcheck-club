@@ -1,8 +1,8 @@
 # Kult
 
-Kult is a music venue in Belgrade with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "KULT TALENTS" on Wed, 25 Nov 2026.
+Kult is a music venue in Belgrade with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "KULT TALENTS" on Wed, 25 Nov 2026.
 
-Kult is a music venue in Belgrade listed on soundcheck. 9 upcoming gigs, with line-ups including Carl Craig, Cristina Lazic, Dakman and Kevin Saunderson and 2 more. See dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
+Kult is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, with line-ups including Carl Craig, Cristina Lazic, Dakman and Kevin Saunderson and 2 more. See dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Kult is a music venue in Belgrade listed on soundcheck. 9 upcoming gigs, with li
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | KULT TALENTS | TBA |
 | Fri, 27 Nov 2026 | KULT pres. Priku | NADEZDA, Nemax, Priku |
+| Sat, 28 Nov 2026 | SACRED SATURDAY pres. VAHICABI | Uroš Glintic |
 | Fri, 4 Dec 2026 | Luton & Šćepa Allnighter | Luton, Scepa |
 | Sat, 5 Dec 2026 | KULT pres. PARAMIDA | PARAMIDA |
 | Fri, 11 Dec 2026 | KULT pres. Carl Craig | Carl Craig, Marko Milosavljevic, Nikola Vemic |
@@ -22,4 +23,4 @@ Kult is a music venue in Belgrade listed on soundcheck. 9 upcoming gigs, with li
 
 Čumićevo sokače 3, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*

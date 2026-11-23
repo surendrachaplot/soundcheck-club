@@ -1,6 +1,6 @@
 # Spacelike
 
-Spacelike is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Castle, London on Fri, 27 Nov 2026.
+Spacelike is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Castle, London on Fri, 27 Nov 2026.
 
 Spacelike is a techno and jungle artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Dirt Angel. Next up: The Castle, London on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Spacelike is a techno and jungle artist based in United Kingdom, with 3 gigs on 
 
 Dirt Angel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacelike/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacelike/)*

@@ -1,6 +1,6 @@
 # Pønti
 
-Pønti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
+Pønti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
 
 Pønti is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin and Karlsruhe. Often billed alongside SAIKA, RÆNT and Amo (IT). Next up: Gotec, Karlsruhe on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Pønti is a techno and trance artist based in Germany, with 8 gigs on soundcheck
 
 SAIKA, RÆNT, Amo (IT)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponti/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponti/)*

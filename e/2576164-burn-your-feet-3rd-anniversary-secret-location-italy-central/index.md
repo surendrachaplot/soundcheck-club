@@ -1,6 +1,6 @@
 # Burn Your Feet 3rd Anniversary - Secret Location Italy (Central) at TBA - Secret Location
 
-Burn Your Feet 3rd Anniversary - Secret Location Italy (Central) at TBA - Secret Location on Sat 5 Dec, Central. 6 artists: DJ Rou, Evaa_, Franzoh and Ilgattoelavolpe and 2 more. See the line-up on soundcheck.
+Burn Your Feet 3rd Anniversary - Secret Location Italy (Central) at TBA - Secret Location on Sat 5 Dec, Central. 7 artists: DJ Rou, Evaa_, Filippo Maria and Franzoh and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Burn Your Feet 3rd Anniversary - Secret Location Italy (Central) at TBA - Secret
 
 - DJ Rou
 - Evaa_
+- Filippo Maria
 - Franzoh
 - Ilgattoelavolpe
 - Jorge Escribano

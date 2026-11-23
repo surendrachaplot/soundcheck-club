@@ -1,6 +1,6 @@
 # Bronwyn
 
-Bronwyn is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - East Van, Vancouver on Sat, 28 Nov 2026.
+Bronwyn is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - East Van, Vancouver on Sat, 28 Nov 2026.
 
 Bronwyn is a bass and jungle artist based in Canada, with 16 gigs on soundcheck across Bristol, Calgary, Dublin and London and 1 more. Often billed alongside Vasho, cy.matic and cy.matic (visuals). Next up: TBA - East Van, Vancouver on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bronwyn is a bass and jungle artist based in Canada, with 16 gigs on soundcheck 
 
 Vasho, cy.matic, cy.matic (visuals)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*

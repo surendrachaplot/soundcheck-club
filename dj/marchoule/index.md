@@ -1,6 +1,6 @@
 # Marc Houle
 
-Marc Houle is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Marc Houle is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Marc Houle is a techno and minimal techno artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Artbat, Deadmau5 and Dubfire. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Marc Houle is a techno and minimal techno artist based in Canada, with 35 gigs o
 
 Artbat, Deadmau5, Dubfire
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchoule/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchoule/)*

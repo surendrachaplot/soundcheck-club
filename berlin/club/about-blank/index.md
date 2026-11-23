@@ -1,14 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "://BLANKS GIVING " on Sat, 21 Nov 2026.
+://about blank is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Expeditions" on Fri, 27 Nov 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including Aamir, Aexhy, alemiko and Alex.Do and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including Aamir, Aexhy, alemiko and Alex.Do and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ://BLANKS GIVING  | Alex.Do, CHOREOPHILA, DJ ZBB, DJ ritalino, Erik Jäähalli, Fasme, Hanna Baertig, K1KO, Lena Brumby, MATHILDA (2), Miss Take, Pino Peña, Rodmin, SORAYA*, Schorli, THNTS, Vy Tran, fr. JPLA, vanX |
 | Fri, 27 Nov 2026 | Expeditions |  |
 | Fri, 27 Nov 2026 | techtelmechtel w/ DJ Reiz, Aexhy, Sonny Smiles, Sachsentrance, SACID and many more | Aexhy, Apexsion, C150, DJ Reiz, DJ ritalino, HKKPTR, Haffenloher, Maryline K, Minigram, RaverPik, SACID, Sonny Smiles, The Jakob Sister, ch4r20tte, hypertexture |
 | Sat, 28 Nov 2026 | ://situationship: Expeditions x golden times | Aamir, Annina, Barbara Preisinger, Danté, Jamaica Suk, Juan Evangelista, Stiefel One |
@@ -18,9 +17,10 @@
 | Sun, 6 Dec 2026 | ://glühweingarten x groovity music market | Andrew Xas, MAIROS, Mia Bergmann, RYBA, Solyr, evah |
 | Fri, 11 Dec 2026 | 128<3 - Der Elternabend im Club | Dressman, Franziska Kracht |
 | Fri, 11 Dec 2026 | NO GRAVITY x GROOVE STREET |  |
+| Sat, 12 Dec 2026 | Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] | Angel Negrin, Bokaric, DEN!SE, Jasmin Giovanazzi, Martxas, SIUL (1), STASIC, Solvados, s:mash |
 
 ## Address
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

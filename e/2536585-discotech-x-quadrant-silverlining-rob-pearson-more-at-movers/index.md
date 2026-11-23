@@ -1,6 +1,6 @@
 # discotech x Quadrant: Silverlining, Rob Pearson + more at Movers
 
-discotech x Quadrant: Silverlining, Rob Pearson + more at Movers on Sat 28 Nov, Nottingham. 3 artists: Jordan Diston, Rob Pearson and Silverlining. Tech House and Acid. See the line-up on soundcheck.
+discotech x Quadrant: Silverlining, Rob Pearson + more at Movers on Sat 28 Nov, Nottingham. 3 artists: Jordan Diston, Rob Pearson and Silverlining. Acid and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

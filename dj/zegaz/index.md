@@ -1,6 +1,6 @@
 # Zegaz
 
-Zegaz is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
+Zegaz is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
 
 Zegaz is an electro and house artist based in France, with 15 gigs on soundcheck across Barcelona, Lyon and Marseille. Often billed alongside Camu, Loctop and Baptiste Coppel. Next up: Nido Marseille, Marseille on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Zegaz is an electro and house artist based in France, with 15 gigs on soundcheck
 
 Camu, Loctop, Baptiste Coppel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zegaz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zegaz/)*

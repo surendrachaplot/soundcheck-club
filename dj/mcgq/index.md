@@ -1,14 +1,13 @@
 # MC GQ
 
-MC GQ is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+MC GQ is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
-MC GQ is a drum & bass and jungle artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and DJ Marky. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+MC GQ is a drum & bass and jungle artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and DJ Marky. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | KOKO | London |
 | Sat, 6 Feb 2027 | The Cause | London |
@@ -28,4 +27,4 @@ MC GQ is a drum & bass and jungle artist based in United Kingdom, with 100 gigs 
 
 Dillinja, SP:MC, DJ Marky
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*

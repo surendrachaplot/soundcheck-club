@@ -1,6 +1,6 @@
 # Combover
 
-Combover is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Combover is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Combover is a house and tech house artist based in United States of America, with 45 gigs on soundcheck across San Diego and San Francisco/Oakland. Often billed alongside Louiv, Philco and DJ M3. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Combover is a house and tech house artist based in United States of America, wit
 
 Louiv, Philco, DJ M3
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/combover/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/combover/)*

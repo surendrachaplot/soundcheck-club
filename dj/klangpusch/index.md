@@ -1,6 +1,6 @@
 # Klangpusch
 
-Klangpusch is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Der Weiße Hase, Berlin on Tue, 24 Nov 2026.
+Klangpusch is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Der Weiße Hase, Berlin on Tue, 24 Nov 2026.
 
 Klangpusch is a techno and industrial artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne and Krakow. Often billed alongside Felix Reichelt, ZÖ and Johnny Allwess. Next up: Der Weiße Hase, Berlin on Tue 24 Nov.
 
@@ -26,4 +26,4 @@ Klangpusch is a techno and industrial artist based in Germany, with 51 gigs on s
 
 Felix Reichelt, ZÖ (1), Johnny Allwess
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangpusch/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangpusch/)*

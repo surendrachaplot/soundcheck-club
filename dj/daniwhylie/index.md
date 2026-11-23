@@ -1,6 +1,6 @@
 # Dani Whylie
 
-Dani Whylie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Clock Factory, Bristol on Sat, 6 Feb 2027.
+Dani Whylie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Clock Factory, Bristol on Sat, 6 Feb 2027.
 
 Dani Whylie is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside JOE AKA, Alexisitry and Chloé Robinson. Next up: Clock Factory, Bristol on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Dani Whylie is a techno and house artist based in United Kingdom, with 46 gigs o
 
 JOE AKA, Alexisitry, Chloé Robinson
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniwhylie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniwhylie/)*

@@ -1,6 +1,6 @@
 # Pieter Jansen
 
-Pieter Jansen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at RADION, Amsterdam on Fri, 1 Jan 2027.
+Pieter Jansen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at RADION, Amsterdam on Fri, 1 Jan 2027.
 
 Pieter Jansen is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 5 more. Often billed alongside Eversines, Marie K and Caim. Next up: RADION, Amsterdam on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Pieter Jansen is a house and techno artist based in Netherlands, with 52 gigs on
 
 Eversines, Marie K (1), Caim
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pieterjansen/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pieterjansen/)*

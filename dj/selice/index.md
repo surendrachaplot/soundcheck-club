@@ -1,6 +1,6 @@
 # Selice
 
-Selice is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Shredenhams, Bristol on Thu, 31 Dec 2026.
+Selice is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Shredenhams, Bristol on Thu, 31 Dec 2026.
 
 Selice is an ambient and bass artist based in Canada, with 14 gigs on soundcheck across Bristol, London and Montreal. Often billed alongside R3MI, Cowper and Han. Next up: Shredenhams, Bristol on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Selice is an ambient and bass artist based in Canada, with 14 gigs on soundcheck
 
 R3MI, Cowper, Han
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selice/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selice/)*

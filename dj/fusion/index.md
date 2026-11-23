@@ -1,6 +1,6 @@
 # Fusion
 
-Fusion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Fusion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Fusion is a house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Bangkok, Birmingham, Cologne and Edinburgh and 3 more. Often billed alongside DJ M3, Anthony Mansfield and Kara (UK). Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Fusion is a house and techno artist based in United Kingdom, with 14 gigs on sou
 
 DJ M3, Anthony Mansfield, Kara (UK)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fusion/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fusion/)*

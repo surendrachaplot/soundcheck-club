@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Giri x Precision.wav" on Wed, 25 Nov 2026.
+Giri is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Giri x Precision.wav" on Wed, 25 Nov 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Caldo, Gian and paganipagani. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -16,4 +16,4 @@ Giri is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

@@ -1,6 +1,6 @@
 # DJ Physical
 
-DJ Physical is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Macadam, Nantes on Fri, 27 Nov 2026.
+DJ Physical is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Macadam, Nantes on Fri, 27 Nov 2026.
 
 DJ Physical is a techno and trance artist based in France, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 16 more. Often billed alongside Olympe4000, ROÜGE and The Chronics. Next up: Macadam, Nantes on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Physical is a techno and trance artist based in France, with 77 gigs on sound
 
 Olympe4000, ROÜGE, The Chronics
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphysical/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphysical/)*

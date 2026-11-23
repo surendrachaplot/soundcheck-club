@@ -1,6 +1,6 @@
 # Scribble
 
-Scribble is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
+Scribble is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
 
 Scribble is a house and garage artist based in United States of America, with 24 gigs on soundcheck across New York City and Tokyo. Often billed alongside LoKho, ceviché and Abril IRL. Next up: H0L0, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Scribble is a house and garage artist based in United States of America, with 24
 
 LoKho, ceviché, Abril IRL
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scribble/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scribble/)*

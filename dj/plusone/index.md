@@ -1,6 +1,6 @@
 # Plus One (1)
 
-Plus One (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 12 Dec 2026.
+Plus One (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 12 Dec 2026.
 
 Plus One is a techno and house artist based in Ireland, with 34 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 5 more. Often billed alongside Ejdm, SLOUCHO and Boyfrens. Next up: Yamamori Tengu, Dublin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Plus One is a techno and house artist based in Ireland, with 34 gigs on soundche
 
 Ejdm, SLOUCHO, Boyfrens
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plusone/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plusone/)*

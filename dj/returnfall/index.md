@@ -1,6 +1,6 @@
 # Return Fall
 
-Return Fall is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
+Return Fall is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
 
 Return Fall is a techno and house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 5 more. Often billed alongside Alexej, JASHTECH and NELØ. Next up: 7th Heaven, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Return Fall is a techno and house artist based in Germany, with 26 gigs on sound
 
 Alexej, JASHTECH, NELØ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/returnfall/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/returnfall/)*

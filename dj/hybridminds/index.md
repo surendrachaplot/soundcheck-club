@@ -1,8 +1,8 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Document, Bristol on Sat, 5 Dec 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Document, Bristol on Sat, 5 Dec 2026.
 
-Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 128 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 41 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: Document, Bristol on Sat 5 Dec.
+Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 129 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 42 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: Document, Bristol on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 128 
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Document | Bristol |
 | Sat, 5 Dec 2026 | Document | Bristol |
+| Sat, 20 Feb 2027 | Grelle Forelle | Vienna |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 128 
 
 Tempza, K Motionz, Andy C
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

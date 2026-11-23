@@ -1,6 +1,6 @@
 # Dahlia Stereo
 
-Dahlia Stereo is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Joy Social x DAHLIA STEREO with Krysko (WHP), Skippy + residents" on Sat, 28 Nov 2026.
+Dahlia Stereo is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Joy Social x DAHLIA STEREO with Krysko (WHP), Skippy + residents" on Sat, 28 Nov 2026.
 
 Dahlia Stereo is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Dam Swindle, Joy Social, Krysko and LARISHKA (UK) and 2 more. See dates, start times and who's playing. Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN.
 
@@ -18,4 +18,4 @@ Dahlia Stereo is a music venue in Manchester listed on soundcheck. 5 upcoming gi
 
 Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*

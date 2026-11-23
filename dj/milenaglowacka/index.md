@@ -1,6 +1,6 @@
 # Milena Glowacka
 
-Milena Glowacka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jasna 1, Warsaw on Fri, 18 Dec 2026.
+Milena Glowacka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jasna 1, Warsaw on Fri, 18 Dec 2026.
 
 Milena Glowacka is a techno and house artist based in Poland, with 43 gigs on soundcheck across Amsterdam, Berlin, Gdansk and Krakow and 6 more. Often billed alongside Sept, Danté and Hekato. Next up: Jasna 1, Warsaw on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Milena Glowacka is a techno and house artist based in Poland, with 43 gigs on so
 
 Sept, Danté, Hekato
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaglowacka/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaglowacka/)*

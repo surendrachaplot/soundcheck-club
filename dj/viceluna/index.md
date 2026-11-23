@@ -1,6 +1,6 @@
 # Vice Luna
 
-Vice Luna is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BASE Milano, Milan on Fri, 27 Nov 2026.
+Vice Luna is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at BASE Milano, Milan on Fri, 27 Nov 2026.
 
 Vice Luna is a progressive house and house artist based in Mexico, with 22 gigs on soundcheck across Amsterdam, Bologna, Ibiza and Mexico City and 2 more. Often billed alongside ETNA, Glauco Di Mambro and Makossa. Next up: BASE Milano, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vice Luna is a progressive house and house artist based in Mexico, with 22 gigs 
 
 ETNA, Glauco Di Mambro, Makossa
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*

@@ -1,6 +1,6 @@
 # Talk Shivi
 
-Talk Shivi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Gaf Astoria, New York City on Fri, 4 Dec 2026.
+Talk Shivi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Gaf Astoria, New York City on Fri, 4 Dec 2026.
 
 Talk Shivi is a techno and house artist based in United States of America, with 22 gigs on soundcheck across New York City. Often billed alongside King Tutt, I's (US) and M33CH. Next up: The Gaf Astoria, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Talk Shivi is a techno and house artist based in United States of America, with 
 
 King Tutt, I's (US), M33CH
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talkshivi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talkshivi/)*

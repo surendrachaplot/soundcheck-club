@@ -1,6 +1,6 @@
 # teller
 
-teller is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "GESTALT" on Fri, 27 Nov 2026.
+teller is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "GESTALT" on Fri, 27 Nov 2026.
 
 teller is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Konstantin, Lawrence, Lupion and Lyumin and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
@@ -15,4 +15,4 @@ teller is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with lin
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

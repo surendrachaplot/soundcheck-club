@@ -1,6 +1,6 @@
 # Tiello
 
-Tiello is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 27 Nov 2026.
+Tiello is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 27 Nov 2026.
 
 Tiello is a techno and electronica artist, with 10 gigs on soundcheck across Barcelona, Buenos Aires and New York City. Often billed alongside CCINNI, This & That and Aera. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Tiello is a techno and electronica artist, with 10 gigs on soundcheck across Bar
 
 CCINNI, This & That, Aera
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiello/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiello/)*

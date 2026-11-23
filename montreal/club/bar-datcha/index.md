@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Emil Paquin, Jamvvis, Donalda (live)" on Thu, 26 Nov 2026.
+Bar Datcha is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Emil Paquin, Jamvvis, Donalda (live)" on Thu, 26 Nov 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Emil Paquin, Gwinestefani, Halo Varga and HEY: ALBERT and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -22,4 +22,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, w
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

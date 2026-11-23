@@ -1,17 +1,18 @@
 # Yigit
 
-Yigit is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Ferry, Rotterdam on Fri, 20 Nov 2026.
+Yigit is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at export, Rotterdam on Sat, 12 Dec 2026.
 
-Yigit is a techno and pop artist based in Turkey, with 8 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Mila Haj Kasem, 36framez and Amotik. Next up: Ferry, Rotterdam on Fri 20 Nov.
+Yigit is a techno and pop artist based in Turkey, with 9 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Mila Haj Kasem, 36framez and Amotik. Next up: export, Rotterdam on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Ferry | Rotterdam |
+| Sat, 12 Dec 2026 | export | Rotterdam |
 
 ## Recently played
 
+- Ferry, Rotterdam · Fri, 20 Nov 2026
 - RADION, Amsterdam · Sat, 8 Aug 2026
 - CLUB RAUM, Amsterdam · Sat, 1 Aug 2026
 - 160k, Rotterdam · Sun, 23 Nov 2025
@@ -24,4 +25,4 @@ Yigit is a techno and pop artist based in Turkey, with 8 gigs on soundcheck acro
 
 Mila Haj Kasem, 36framez, Amotik
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yigit/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yigit/)*

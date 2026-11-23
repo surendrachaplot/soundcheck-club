@@ -1,6 +1,6 @@
 # Michael Clash Gottschalk
 
-Michael Clash Gottschalk is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Climax-Institutes, Stuttgart on Thu, 26 Nov 2026.
+Michael Clash Gottschalk is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Climax-Institutes, Stuttgart on Thu, 26 Nov 2026.
 
 Michael Clash Gottschalk is a house and techno artist based in Germany, with 135 gigs on soundcheck across Stuttgart. Often billed alongside Ben Hille, Bang and Cherry and Chamelio 3000. Next up: Climax-Institutes, Stuttgart on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Michael Clash Gottschalk is a house and techno artist based in Germany, with 135
 
 Ben Hille, Bang and Cherry, Chamelio 3000
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelclashgottschalk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelclashgottschalk/)*

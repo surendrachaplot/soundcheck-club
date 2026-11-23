@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 19 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "dihive" on Thu, 26 Nov 2026.
+Hive Club is a music venue in Zurich with 19 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "dihive" on Thu, 26 Nov 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 19 upcoming gigs, with line-ups including Acid Arab, Dangel Twins, Dekerim and Henrik Schwarz and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 19 upcoming gigs, wit
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

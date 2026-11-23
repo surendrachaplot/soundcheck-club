@@ -1,6 +1,6 @@
 # Pawn Shop
 
-Pawn Shop is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accused,Jamie Behan, Fear-E & MEJMI" on Fri, 27 Nov 2026.
+Pawn Shop is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accused,Jamie Behan, Fear-E & MEJMI" on Fri, 27 Nov 2026.
 
 Pawn Shop is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with line-ups including Co-Accused, Eliza, Fear-E and Jamie Behan and 2 more. See dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
 
@@ -16,4 +16,4 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with
 
 15 Dame St, Dublin 2, D02 KD74, Dublin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*

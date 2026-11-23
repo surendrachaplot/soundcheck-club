@@ -1,6 +1,6 @@
 # xylon
 
-xylon is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Casual, Hong Kong on Sat, 19 Dec 2026.
+xylon is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Casual, Hong Kong on Sat, 19 Dec 2026.
 
 xylon is a techno and bass artist based in China, with 35 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Shenzhen and 1 more. Often billed alongside ADRIANNA.C, Faxtory and Dan-neo. Next up: Casual, Hong Kong on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ xylon is a techno and bass artist based in China, with 35 gigs on soundcheck acr
 
 ADRIANNA.C, Faxtory, Dan-neo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*

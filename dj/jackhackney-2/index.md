@@ -1,6 +1,6 @@
 # Jack Hackney (2)
 
-Jack Hackney (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Off The Square, Manchester on Sat, 12 Dec 2026.
+Jack Hackney (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Off The Square, Manchester on Sat, 12 Dec 2026.
 
 Jack Hackney is a garage and house artist based in United Kingdom, with 4 gigs on soundcheck across Leeds, Manchester, Milan and Vienna. Often billed alongside Tim Taylor, Charlotte Ord and Fabe. Next up: Off The Square, Manchester on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Jack Hackney is a garage and house artist based in United Kingdom, with 4 gigs o
 
 Tim Taylor, Charlotte Ord, Fabe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackhackney-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackhackney-2/)*

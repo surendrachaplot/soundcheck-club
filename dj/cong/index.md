@@ -1,6 +1,6 @@
 # CONG
 
-CONG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+CONG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 CONG is a techno and house artist based in Vietnam, with 97 gigs on soundcheck across Bangkok, Berlin, Hanoi and Ho Chi Minh City and 2 more. Often billed alongside Di Linh, Zwi and TaoFu. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ CONG is a techno and house artist based in Vietnam, with 97 gigs on soundcheck a
 
 Di Linh, Zwi, TaoFu
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cong/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cong/)*

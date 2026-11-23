@@ -1,6 +1,6 @@
 # The Contro1freak
 
-The Contro1freak is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jade, New York City on Thu, 26 Nov 2026.
+The Contro1freak is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jade, New York City on Thu, 26 Nov 2026.
 
 The Contro1freak is a trance and techno artist, with 4 gigs on soundcheck across New York City. Often billed alongside ASTER (DJ), Chriscendo and DJ Wolfe Grey. Next up: Jade, New York City on Thu 26 Nov.
 
@@ -20,4 +20,4 @@ The Contro1freak is a trance and techno artist, with 4 gigs on soundcheck across
 
 ASTER (DJ), Chriscendo, DJ Wolfe Grey
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecontro1freak/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecontro1freak/)*

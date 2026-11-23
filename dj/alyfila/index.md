@@ -1,6 +1,6 @@
 # Aly & Fila
 
-Aly & Fila is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
+Aly & Fila is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
 Aly & Fila are a trance and progressive house duo based in Egypt, with 53 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 27 more. Often billed alongside Paul Van Dyk, Ferry Corsten and John O'Callaghan. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
@@ -25,4 +25,4 @@ Aly & Fila are a trance and progressive house duo based in Egypt, with 53 gigs o
 
 Paul Van Dyk, Ferry Corsten, John O'Callaghan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*

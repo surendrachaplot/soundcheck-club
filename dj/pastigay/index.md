@@ -1,6 +1,6 @@
 # PASTIGAY
 
-PASTIGAY is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 11 Dec 2026.
+PASTIGAY is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 11 Dec 2026.
 
 PASTIGAY is a techno artist based in Spain, with 2 gigs on soundcheck across Madrid. Often billed alongside ARPIA, JvggedDoggie and MAMUMBIMBI. Next up: Hangar48 Club, Madrid on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ PASTIGAY is a techno artist based in Spain, with 2 gigs on soundcheck across Mad
 
 ARPIA, JvggedDoggie, MAMUMBIMBI
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastigay/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastigay/)*

@@ -1,6 +1,6 @@
 # MAIROS
 
-MAIROS is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sun, 6 Dec 2026.
+MAIROS is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Sun, 6 Dec 2026.
 
 MAIROS is a house and club artist, with 2 gigs on soundcheck across Berlin. Often billed alongside Andrew Xas, Mia Bergmann and Ivan Le Mutant. Next up: ://about blank, Berlin on Sun 6 Dec.
 
@@ -18,4 +18,4 @@ MAIROS is a house and club artist, with 2 gigs on soundcheck across Berlin. Ofte
 
 Andrew Xas, Mia Bergmann, Ivan Le Mutant
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mairos/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mairos/)*

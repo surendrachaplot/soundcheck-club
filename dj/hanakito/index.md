@@ -1,6 +1,6 @@
 # Hanakito
 
-Hanakito is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Warehouse (Barcelona), Barcelona on Sat, 28 Nov 2026.
+Hanakito is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Warehouse (Barcelona), Barcelona on Sat, 28 Nov 2026.
 
 Hanakito is a house and disco artist based in Japan, with 82 gigs on soundcheck across Barcelona, Copenhagen, Milan and Tokyo. Often billed alongside Better Late, HannahLuyah and Dr Humedo. Next up: TBA - Secret Warehouse (Barcelona), Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Hanakito is a house and disco artist based in Japan, with 82 gigs on soundcheck 
 
 Better Late, HannahLuyah, Dr Humedo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanakito/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanakito/)*

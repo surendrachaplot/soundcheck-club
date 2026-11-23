@@ -1,6 +1,6 @@
 # Marian Ariss
 
-Marian Ariss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 1 Jan 2027.
+Marian Ariss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 1 Jan 2027.
 
 Marian Ariss is a house and tech house artist based in Venezuela, with 38 gigs on soundcheck across Barcelona, Berlin, Ibiza and Rio de Janeiro and 1 more. Often billed alongside Isa Rojas, Kevin de Vries and Massano. Next up: Nitsa Club, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Marian Ariss is a house and tech house artist based in Venezuela, with 38 gigs o
 
 Isa Rojas, Kevin de Vries, Massano
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianariss/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianariss/)*

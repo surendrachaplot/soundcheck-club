@@ -1,14 +1,13 @@
 # cyvira
 
-cyvira is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+cyvira is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TRAUM, Antwerp on Fri, 4 Dec 2026.
 
-cyvira is a bass and house artist based in Belgium, with 18 gigs on soundcheck across Antwerp, Brussels, Cologne and Ghent. Often billed alongside gaiko, O'SIMMIE and Otis (BE). Next up: TBA - Brussels, Brussels on Sat 21 Nov.
+cyvira is a bass and house artist based in Belgium, with 18 gigs on soundcheck across Antwerp, Brussels, Cologne and Ghent. Often billed alongside gaiko, O'SIMMIE and Otis (BE). Next up: TRAUM, Antwerp on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 4 Dec 2026 | TRAUM | Antwerp |
 
 ## Recently played
@@ -26,4 +25,4 @@ cyvira is a bass and house artist based in Belgium, with 18 gigs on soundcheck a
 
 gaiko, O'SIMMIE, Otis (BE)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyvira/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyvira/)*

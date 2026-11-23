@@ -1,6 +1,6 @@
 # Ah Dek
 
-Ah Dek is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jupiter Disco, New York City on Sun, 6 Dec 2026.
+Ah Dek is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jupiter Disco, New York City on Sun, 6 Dec 2026.
 
 Ah Dek is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside Kristen London, DJ girlcrush and Sex Over Thirty. Next up: Jupiter Disco, New York City on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Ah Dek is a house and techno artist based in United States of America, with 16 g
 
 Kristen London, DJ girlcrush, Sex Over Thirty
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahdek/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahdek/)*

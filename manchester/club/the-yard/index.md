@@ -1,6 +1,6 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "RE:IMAGINED 001" on Wed, 25 Nov 2026.
+The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "RE:IMAGINED 001" on Wed, 25 Nov 2026.
 
 The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Freeland, Chris Massey, Clemency and d. clemente and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
@@ -18,4 +18,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, w
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

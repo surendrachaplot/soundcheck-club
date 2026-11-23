@@ -1,6 +1,6 @@
 # Tempo
 
-Tempo is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "HOUSE PRTY Presents: Belters Only" on Fri, 27 Nov 2026.
+Tempo is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "HOUSE PRTY Presents: Belters Only" on Fri, 27 Nov 2026.
 
 Tempo is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Farell, Da Terror, DJ Zitkus and Nanna Makina and 1 more. See dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
 
@@ -20,4 +20,4 @@ Tempo is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with li
 
 70 Dumbarton Rd, Clydebank G81 1UG, Glasgow
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*

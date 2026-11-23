@@ -1,8 +1,8 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Open Decks & Tischtennis" on Tue, 24 Nov 2026.
+Humboldthain Club is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Open Decks & Tischtennis" on Tue, 24 Nov 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including YOVA, alemiko, Alina Viktoria and Blame the Booker and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including YOVA, alemiko, Alina Viktoria and Blame the Booker and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 11 upcoming g
 | Tue, 1 Dec 2026 | Open Decks & Tischtennis |  |
 | Sat, 5 Dec 2026 | Groove District | Juulz, LUV.DELUXE, Philip Bogdan, Sweet G |
 | Tue, 8 Dec 2026 | Open Decks & Tischtennis |  |
+| Sat, 12 Dec 2026 | BSM // FARBWECHSEL // TBA |  |
 | Fri, 18 Dec 2026 | Dejawie? präsentiert: Ein Kippenspiel |  |
 | Sat, 19 Dec 2026 | Die große Humbi Weihnachtsshow |  |
 | Fri, 25 Dec 2026 | Christmas Afterparty // Delululand x CHB | DJ Hotcue, DJ Spaßgetränk, Lezza, Patchy, Paul Bauhaus, TANZBAER |
-| Thu, 31 Dec 2026 | Silvester mit 3001, Lange Nacht & Pfandidos |  |
 
 ## Address
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

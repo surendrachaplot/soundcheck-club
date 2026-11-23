@@ -1,6 +1,6 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "BHODI at REC Anthea, Idriss D, Vincenzo Castaldo" on Sat, 28 Nov 2026.
+REC Napoli is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "BHODI at REC Anthea, Idriss D, Vincenzo Castaldo" on Sat, 28 Nov 2026.
 
 REC Napoli is a music venue in Naples listed on soundcheck. 8 upcoming gigs, with line-ups including Anthea, Bobby., busexy and Cosmo (KR) and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
@@ -21,4 +21,4 @@ REC Napoli is a music venue in Naples listed on soundcheck. 8 upcoming gigs, wit
 
 Via Campana 233, Pozzuoli, 80078, Napoli, Naples
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*

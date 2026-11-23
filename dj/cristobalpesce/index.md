@@ -1,6 +1,6 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Cristobal Pesce is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Cristobal Pesce is a techno and trance artist based in Chile, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Clara Cuvé, NOVAH and 999999999. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Cristobal Pesce is a techno and trance artist based in Chile, with 89 gigs on so
 
 Clara Cuvé, NOVAH, 999999999
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*

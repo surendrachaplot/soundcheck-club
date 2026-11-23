@@ -1,6 +1,6 @@
 # ANNX
 
-ANNX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+ANNX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
 ANNX is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Bristol and 13 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Low Profile Studios, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ ANNX is a techno and house artist based in United Kingdom, with 49 gigs on sound
 
 Lora Mipsum, noodle, Anna Wall
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*

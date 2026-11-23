@@ -1,6 +1,6 @@
 # Øbsidian
 
-Øbsidian is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tuff Club, Singapore on Sat, 28 Nov 2026.
+Øbsidian is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tuff Club, Singapore on Sat, 28 Nov 2026.
 
 Øbsidian is a techno and hardcore artist based in Italy, with 6 gigs on soundcheck across Amsterdam, Los Angeles, San Francisco/Oakland and Singapore. Often billed alongside Arthur Robert, Aurora Halal and Cymatix. Next up: Tuff Club, Singapore on Sat 28 Nov.
 
@@ -22,4 +22,4 @@
 
 Arthur Robert, Aurora Halal, Cymatix
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obsidian/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obsidian/)*

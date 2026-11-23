@@ -1,6 +1,6 @@
 # Argia
 
-Argia is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Argia is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Argia is a techno and house artist based in Spain, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Alican, Jonathan Kaspar and Miguel Payda. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Argia is a techno and house artist based in Spain, with 84 gigs on soundcheck ac
 
 Alican, Jonathan Kaspar, Miguel Payda
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

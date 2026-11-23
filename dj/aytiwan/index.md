@@ -1,6 +1,6 @@
 # Aytiwan
 
-Aytiwan is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Scène Bar, Brussels on Sat, 5 Dec 2026.
+Aytiwan is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Scène Bar, Brussels on Sat, 5 Dec 2026.
 
 Aytiwan is an afro house and afro tech artist based in Belgium, with 11 gigs on soundcheck across Brussels and Ibiza. Often billed alongside Belben, AMARE and Davina Moss. Next up: Scène Bar, Brussels on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Aytiwan is an afro house and afro tech artist based in Belgium, with 11 gigs on 
 
 Belben, AMARE, Davina Moss
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aytiwan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aytiwan/)*

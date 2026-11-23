@@ -1,13 +1,14 @@
 # Low Key Records
 
-Low Key Records is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "RECORD STORE DAY at LKR" on Sun, 6 Dec 2026.
+Low Key Records is a music venue in Sofia with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Curated POP-UP at LKR" on Sat, 28 Nov 2026.
 
-Low Key Records is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including Frykk and stfn. See dates, start times and who's playing.
+Low Key Records is a music venue in Sofia listed on soundcheck. 2 upcoming gigs, with line-ups including Frykk, J-Lost and stfn. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Curated POP-UP at LKR | J-Lost |
 | Sun, 6 Dec 2026 | RECORD STORE DAY at LKR | Frykk, stfn |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/low-key-records/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/low-key-records/)*

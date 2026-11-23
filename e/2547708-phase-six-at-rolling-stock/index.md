@@ -1,6 +1,6 @@
 # Phase Six at Rolling Stock
 
-Phase Six at Rolling Stock on Sat 20 Feb, London. 1 artist: Alan Banks. See the line-up on soundcheck.
+Phase Six at Rolling Stock on Sat 20 Feb, London. 1 artist: Alan Banks. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

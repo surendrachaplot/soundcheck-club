@@ -1,6 +1,6 @@
 # Lakss
 
-Lakss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Dec 2026.
+Lakss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Dec 2026.
 
 Lakss is a house and electro artist based in Spain, with 3 gigs on soundcheck across Barcelona. Often billed alongside kaviga, B2G and Balou. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 3 Dec.
 
@@ -19,4 +19,4 @@ Lakss is a house and electro artist based in Spain, with 3 gigs on soundcheck ac
 
 kaviga, B2G (1), Balou (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakss/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakss/)*

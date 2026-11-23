@@ -1,6 +1,6 @@
 # Tomoya Furukawa
 
-Tomoya Furukawa is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
+Tomoya Furukawa is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
 
 Tomoya Furukawa is a techno and minimal artist based in Japan, with 20 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside AOKI takamasa, DJ SPOT and Kohei. Next up: Aoyama Hachi, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tomoya Furukawa is a techno and minimal artist based in Japan, with 20 gigs on s
 
 AOKI takamasa, DJ SPOT, Kohei
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoyafurukawa/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoyafurukawa/)*

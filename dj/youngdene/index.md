@@ -1,6 +1,6 @@
 # Young Dene
 
-Young Dene is a Footwork and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Disclosed to ticket holders , Calgary on Fri, 27 Nov 2026.
+Young Dene is a Footwork and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Disclosed to ticket holders , Calgary on Fri, 27 Nov 2026.
 
 Young Dene is a footwork and jungle artist based in Canada, with 4 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Michael Red, 2flowers and A Space for Sound. Next up: TBA - Disclosed to ticket holders , Calgary on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Young Dene is a footwork and jungle artist based in Canada, with 4 gigs on sound
 
 Michael Red, 2flowers, A Space for Sound
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdene/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdene/)*

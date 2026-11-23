@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Tola Thursdays" on Thu, 26 Nov 2026.
+Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Tola Thursdays" on Thu, 26 Nov 2026.
 
 Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including ad*n, Calm Stiege, Chaitu and Eleonora Cairati and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -21,4 +21,4 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

@@ -1,6 +1,6 @@
 # Paddy Sheridan
 
-Paddy Sheridan is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Pygmalion, Dublin on Fri, 4 Dec 2026.
+Paddy Sheridan is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Pygmalion, Dublin on Fri, 4 Dec 2026.
 
 Paddy Sheridan is a house and club artist based in Ireland, with 4 gigs on soundcheck across Dublin and Ireland. Often billed alongside Dean Sherry, Dr.Flamer and DJ PIERR. Next up: Pygmalion, Dublin on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Paddy Sheridan is a house and club artist based in Ireland, with 4 gigs on sound
 
 Dean Sherry, Dr.Flamer, DJ PIERR
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paddysheridan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paddysheridan/)*

@@ -1,6 +1,6 @@
 # RA!N
 
-RA!N is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at broad hall., Philadelphia on Sat, 19 Dec 2026.
+RA!N is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at broad hall., Philadelphia on Sat, 19 Dec 2026.
 
 RA!N is a techno and deep house artist based in United States of America, with 3 gigs on soundcheck across Philadelphia. Often billed alongside America Loves Me, JEWELSSEA and Mha iri. Next up: broad hall., Philadelphia on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ RA!N is a techno and deep house artist based in United States of America, with 3
 
 America Loves Me, JEWELSSEA, Mha iri
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ra!n/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ra!n/)*

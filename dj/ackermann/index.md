@@ -1,6 +1,6 @@
 # Ackermann
 
-Ackermann is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Ackermann is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Ackermann is an electronic artist based in Germany, with 5 gigs on soundcheck across Berlin and Dublin. Often billed alongside BLZS, Kristin Velvet and MASCHA. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -21,4 +21,4 @@ Ackermann is an electronic artist based in Germany, with 5 gigs on soundcheck ac
 
 BLZS, Kristin Velvet, MASCHA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ackermann/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ackermann/)*

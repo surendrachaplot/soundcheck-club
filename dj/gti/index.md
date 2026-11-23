@@ -1,6 +1,6 @@
 # GTI
 
-GTI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+GTI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
 
 GTI is a techno and house artist based in France, with 67 gigs on soundcheck across Berlin, Bordeaux, Copenhagen and Lyon and 6 more. Often billed alongside Combe, Soyoon and Bambi (FR). Next up: Renate, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ GTI is a techno and house artist based in France, with 67 gigs on soundcheck acr
 
 Combe, Soyoon, Bambi (FR)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*

@@ -1,6 +1,6 @@
 # Flor Coto
 
-Flor Coto is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 5 Dec 2026.
+Flor Coto is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 5 Dec 2026.
 
 Flor Coto is a house and electro artist based in Argentina, with 37 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 2 more. Often billed alongside Szew, Mati Amoretti and Rafael. Next up: Bulbul Berlin, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Flor Coto is a house and electro artist based in Argentina, with 37 gigs on soun
 
 Szew, Mati Amoretti, Rafael
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*

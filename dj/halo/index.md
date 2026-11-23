@@ -1,6 +1,6 @@
 # Halo Varga
 
-Halo Varga is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 3oz Dive Club, San Diego on Wed, 25 Nov 2026.
+Halo Varga is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 3oz Dive Club, San Diego on Wed, 25 Nov 2026.
 
 Halo Varga is a house and minimal artist based in United States of America, with 48 gigs on soundcheck across Chicago, Croatia, Detroit and London and 10 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: 3oz Dive Club, San Diego on Wed 25 Nov.
 
@@ -28,4 +28,4 @@ Halo Varga is a house and minimal artist based in United States of America, with
 
 Krane, Adam Rose, Enzo Muro
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*

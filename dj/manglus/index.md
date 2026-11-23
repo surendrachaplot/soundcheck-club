@@ -1,6 +1,6 @@
 # Manglus
 
-Manglus is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Aguaverde Wine Lodge , Uruguay on Tue, 5 Jan 2027.
+Manglus is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Aguaverde Wine Lodge , Uruguay on Tue, 5 Jan 2027.
 
 Manglus is a house and minimal artist based in Uruguay, with 14 gigs on soundcheck across Barcelona, Berlin, Bucharest and Buenos Aires and 5 more. Often billed alongside Andy Kolwes, Sonja Moonear and Alexey Orlov. Next up: TBA - Aguaverde Wine Lodge , Uruguay on Tue 5 Jan.
 
@@ -25,4 +25,4 @@ Manglus is a house and minimal artist based in Uruguay, with 14 gigs on soundche
 
 Andy Kolwes, Sonja Moonear, Alexey Orlov
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manglus/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manglus/)*

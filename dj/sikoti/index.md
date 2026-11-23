@@ -1,6 +1,6 @@
 # SIKOTI
 
-SIKOTI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
+SIKOTI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
 
 SIKOTI is a techno and trance artist based in United Kingdom, with 141 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 42 more. Often billed alongside Alex Farell, Azyr and Faster Horses. Next up: Hidden, Manchester on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ SIKOTI is a techno and trance artist based in United Kingdom, with 141 gigs on s
 
 Alex Farell, Azyr, Faster Horses
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sikoti/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sikoti/)*

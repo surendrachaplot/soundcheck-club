@@ -1,6 +1,6 @@
 # Dawn Razor
 
-Dawn Razor is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
+Dawn Razor is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
 
 Dawn Razor is a bass and breakbeat artist based in Russia, with 3 gigs on soundcheck across Barcelona, Shanghai and Thailand. Often billed alongside Alina Nastichenko, Amal and Cocoonics. Next up: Retro Mountain Koh Phangan, Thailand on Thu 14 Jan.
 
@@ -19,4 +19,4 @@ Dawn Razor is a bass and breakbeat artist based in Russia, with 3 gigs on soundc
 
 Alina Nastichenko, Amal, Cocoonics
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dawnrazor/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dawnrazor/)*

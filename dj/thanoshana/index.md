@@ -1,6 +1,6 @@
 # Thanos Hana
 
-Thanos Hana is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Vertigo Antwerp, Antwerp on Fri, 4 Dec 2026.
+Thanos Hana is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Vertigo Antwerp, Antwerp on Fri, 4 Dec 2026.
 
 Thanos Hana is a techno and amapiano artist based in Greece, with 30 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 5 more. Often billed alongside Charlton, Bas Mooy and Kerrie. Next up: Vertigo Antwerp, Antwerp on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Thanos Hana is a techno and amapiano artist based in Greece, with 30 gigs on sou
 
 Charlton, Bas Mooy, Kerrie
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanoshana/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanoshana/)*

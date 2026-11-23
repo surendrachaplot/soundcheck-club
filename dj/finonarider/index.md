@@ -1,6 +1,6 @@
 # Finona Rider
 
-Finona Rider is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
+Finona Rider is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
 
 Finona Rider is a house and techno artist based in Germany, with 98 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 3 more. Often billed alongside Anton Jonathan, Ilja Franz and Erhardt Schuster. Next up: ://about blank, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Finona Rider is a house and techno artist based in Germany, with 98 gigs on soun
 
 Anton Jonathan, Ilja Franz, Erhardt Schuster
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finonarider/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finonarider/)*

@@ -1,6 +1,6 @@
 # Electric Monday@Kitkat at KitKatClub
 
-Electric Monday@Kitkat at KitKatClub on Mon 14 Dec, Berlin. 3 artists: Frankie Flowerz, Gioski and Ricardo Rodriguez. Techno and House. See the line-up on soundcheck.
+Electric Monday@Kitkat at KitKatClub on Mon 14 Dec, Berlin. 4 artists: Daya Pruna, Frankie Flowerz, Gioski and Ricardo Rodriguez. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Electric Monday@Kitkat at KitKatClub on Mon 14 Dec, Berlin. 3 artists: Frankie F
 
 ## Line-up
 
+- Daya Pruna
 - Frankie Flowerz
 - Gioski
 - Ricardo Rodriguez

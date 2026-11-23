@@ -1,6 +1,6 @@
 # Je Buurvrouw
 
-Je Buurvrouw is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
+Je Buurvrouw is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
 
 Je Buurvrouw is a house and techno artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Azucy, DJ Bone and Seven. Next up: RADION, Amsterdam on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Je Buurvrouw is a house and techno artist based in Netherlands, with 3 gigs on s
 
 Azucy, DJ Bone, Seven (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jebuurvrouw/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jebuurvrouw/)*

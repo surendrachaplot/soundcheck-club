@@ -1,6 +1,6 @@
 # DJoy
 
-DJoy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Legal, Munich on Fri, 27 Nov 2026.
+DJoy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Legal, Munich on Fri, 27 Nov 2026.
 
 DJoy is a house and techno artist based in Germany, with 60 gigs on soundcheck across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: Legal, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJoy is a house and techno artist based in Germany, with 60 gigs on soundcheck a
 
 Bogus Trumper, VOE, sianza
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*

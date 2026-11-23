@@ -1,6 +1,6 @@
 # British Murder Boys
 
-British Murder Boys is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cause, London on Sat, 6 Mar 2027.
+British Murder Boys is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Sat, 6 Mar 2027.
 
 British Murder Boys is a techno and electro artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Oscar Mulero, Regis and Surgeon. Next up: The Cause, London on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ British Murder Boys is a techno and electro artist based in United Kingdom, with
 
 Oscar Mulero, Regis, Surgeon
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britishmurderboys/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britishmurderboys/)*

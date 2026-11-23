@@ -1,6 +1,6 @@
 # Cubik
 
-Cubik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bar v Krymský, Prague on Sat, 5 Dec 2026.
+Cubik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bar v Krymský, Prague on Sat, 5 Dec 2026.
 
 Cubik is a house and techno artist based in Czech Republic, with 53 gigs on soundcheck across Prague. Often billed alongside Da Moon, Daniel Neighbour and Filburt. Next up: Bar v Krymský, Prague on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Cubik is a house and techno artist based in Czech Republic, with 53 gigs on soun
 
 Da Moon, Daniel Neighbour, Filburt
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cubik/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cubik/)*

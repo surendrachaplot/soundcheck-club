@@ -1,6 +1,6 @@
 # mer.ve
 
-mer.ve is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 28 Nov 2026.
+mer.ve is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 28 Nov 2026.
 
 mer.ve is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside TWOFACEDKIMMY, *Tia* and ANDATA. Next up: Uebel & Gefährlich, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ mer.ve is a trance and techno artist based in Germany, with 9 gigs on soundcheck
 
 TWOFACEDKIMMY, *Tia*, ANDATA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merve-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merve-2/)*

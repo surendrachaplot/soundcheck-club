@@ -1,6 +1,6 @@
 # Superordinary
 
-Superordinary is a music venue in Brisbane with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Radar Festival Brisbane" on Sat, 2 Jan 2027.
+Superordinary is a music venue in Brisbane with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Radar Festival Brisbane" on Sat, 2 Jan 2027.
 
 Superordinary is a music venue in Brisbane listed on soundcheck. 3 upcoming gigs, with line-ups including AK SPORTS, Bella Claxton, Boys Noize and Carla Martinez and 2 more. See dates, start times and who's playing. 175 MacArthur Ave, Hamilton QLD 4007.
 
@@ -16,4 +16,4 @@ Superordinary is a music venue in Brisbane listed on soundcheck. 3 upcoming gigs
 
 175 MacArthur Ave, Hamilton QLD 4007, Brisbane
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/superordinary/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/superordinary/)*

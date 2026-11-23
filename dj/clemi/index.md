@@ -1,6 +1,6 @@
 # clemi
 
-clemi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Distillery, Leipzig on Sat, 5 Dec 2026.
+clemi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Distillery, Leipzig on Sat, 5 Dec 2026.
 
 clemi is a house and techno artist based in Germany, with 3 gigs on soundcheck across Leipzig. Often billed alongside marengo, mp.ulle and DJ G1NA R.. Next up: Distillery, Leipzig on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ clemi is a house and techno artist based in Germany, with 3 gigs on soundcheck a
 
 marengo (2), mp.ulle, DJ G1NA R.
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clemi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clemi/)*

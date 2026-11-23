@@ -1,19 +1,19 @@
 # CRAZY-T
 
-CRAZY-T is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at BAR Inc, Osaka on Sun, 22 Nov 2026.
+CRAZY-T is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Aoyama Hachi, Tokyo on Mon, 23 Nov 2026.
 
-CRAZY-T is a bass and club artist based in Japan, with 10 gigs on soundcheck across Chubu, Okinawa, Osaka and Seoul and 1 more. Often billed alongside LEF!!!CREW!!!, Sunga and ACHIRI. Next up: BAR Inc, Osaka on Sun 22 Nov.
+CRAZY-T is a bass and club artist based in Japan, with 10 gigs on soundcheck across Chubu, Okinawa, Osaka and Seoul and 1 more. Often billed alongside LEF!!!CREW!!!, Sunga and ACHIRI. Next up: Aoyama Hachi, Tokyo on Mon 23 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | BAR Inc | Osaka |
 | Mon, 23 Nov 2026 | Aoyama Hachi | Tokyo |
 | Sat, 19 Dec 2026 | Mago | Chubu |
 
 ## Recently played
 
+- BAR Inc, Osaka · Sun, 22 Nov 2026
 - Club (o)Utopos, Chubu · Fri, 20 Nov 2026
 - TBA - club (O)Utopos, Chubu · Sat, 14 Nov 2026
 - J.J. Mahoney's Bar, Seoul · Sat, 10 Oct 2026
@@ -26,4 +26,4 @@ CRAZY-T is a bass and club artist based in Japan, with 10 gigs on soundcheck acr
 
 LEF!!!CREW!!!, Sunga, ACHIRI
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazy-t/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazy-t/)*

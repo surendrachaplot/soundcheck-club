@@ -1,6 +1,6 @@
 # Dimka
 
-Dimka is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Rooftop 105, Geneva on Sat, 5 Dec 2026.
+Dimka is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Rooftop 105, Geneva on Sat, 5 Dec 2026.
 
 Dimka is a techno and psytrance artist based in Switzerland, with 3 gigs on soundcheck across Berlin and Geneva. Often billed alongside Jemski., Temple Tears and digitalsteak. Next up: Rooftop 105, Geneva on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Dimka is a techno and psytrance artist based in Switzerland, with 3 gigs on soun
 
 Jemski., Temple Tears, digitalsteak
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimka/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimka/)*

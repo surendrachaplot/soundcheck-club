@@ -1,6 +1,6 @@
 # Bloc 20 Year Reunion at The Cause
 
-Bloc 20 Year Reunion at The Cause on Sat 6 Mar, London. 11 artists: British Murder Boys, DJ Storm, Egyptian Lover and Jeff Mills and 7 more. See the line-up on soundcheck.
+Bloc 20 Year Reunion at The Cause on Sat 6 Mar, London. 11 artists: British Murder Boys, DJ Storm, Egyptian Lover and Jeff Mills and 7 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

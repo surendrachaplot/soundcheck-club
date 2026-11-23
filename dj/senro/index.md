@@ -1,6 +1,6 @@
 # SENRO
 
-SENRO is a Funk / Soul and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ikii, Berlin on Sat, 5 Dec 2026.
+SENRO is a Funk / Soul and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ikii, Berlin on Sat, 5 Dec 2026.
 
 SENRO is a funk / soul and downtempo artist based in Poland, with 3 gigs on soundcheck across Berlin and Warsaw. Often billed alongside KLUBMATI, MIN t and Mambo Kahn. Next up: Ikii, Berlin on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ SENRO is a funk / soul and downtempo artist based in Poland, with 3 gigs on soun
 
 KLUBMATI, MIN t, Mambo Kahn
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senro/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senro/)*

@@ -1,6 +1,6 @@
 # Thaistick
 
-Thaistick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bangkok Island, Bangkok on Fri, 27 Nov 2026.
+Thaistick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bangkok Island, Bangkok on Fri, 27 Nov 2026.
 
 Thaistick is a house and techno artist based in Thailand, with 64 gigs on soundcheck across Bangkok. Often billed alongside Tetez, Krit Su and 4STAR. Next up: Bangkok Island, Bangkok on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Thaistick is a house and techno artist based in Thailand, with 64 gigs on soundc
 
 Tetez, Krit Su, 4STAR
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thaistick/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thaistick/)*

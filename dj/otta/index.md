@@ -1,6 +1,6 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Origin, Los Angeles on Wed, 25 Nov 2026.
+ØTTA is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Origin, Los Angeles on Wed, 25 Nov 2026.
 
 ØTTA is a techno and house artist based in Portugal, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Nico Moreno, 999999999 and Charlie Sparks. Next up: Origin, Los Angeles on Wed 25 Nov.
 
@@ -35,4 +35,4 @@
 
 Nico Moreno, 999999999, Charlie Sparks
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

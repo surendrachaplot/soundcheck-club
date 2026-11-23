@@ -1,14 +1,15 @@
 # Rendher
 
-Rendher is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Florida Park, Madrid on Sun, 13 Dec 2026.
+Rendher is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Florida Park, Madrid on Sun, 13 Dec 2026.
 
-Rendher is a tech house and house artist based in Spain, with 74 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bogotá and 19 more. Often billed alongside Paco Osuna, Bastian Bux and Chelina Manuhutu. Next up: Florida Park, Madrid on Sun 13 Dec.
+Rendher is a tech house and house artist based in Spain, with 75 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bogotá and 19 more. Often billed alongside Paco Osuna, Bastian Bux and Chelina Manuhutu. Next up: Florida Park, Madrid on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | Florida Park | Madrid |
+| Sat, 19 Dec 2026 | Warehouse Elementenstraat | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rendher is a tech house and house artist based in Spain, with 74 gigs on soundch
 
 Paco Osuna, Bastian Bux, Chelina Manuhutu
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*

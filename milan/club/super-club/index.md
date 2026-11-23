@@ -1,6 +1,6 @@
 # Super Club
 
-Super Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "THE DUEL: A NIGHT IN THE ARENA" on Sat, 28 Nov 2026.
+Super Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "THE DUEL: A NIGHT IN THE ARENA" on Sat, 28 Nov 2026.
 
 Super Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Via Tortona 27, 20144, Milano.
 
@@ -15,4 +15,4 @@ Super Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs. See 
 
 Via Tortona 27, 20144, Milano, Milan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/super-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/super-club/)*

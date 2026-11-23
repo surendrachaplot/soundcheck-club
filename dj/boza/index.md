@@ -1,6 +1,6 @@
 # BOZA
 
-BOZA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Longshots Shooting and Social, Toronto on Sat, 12 Dec 2026.
+BOZA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Longshots Shooting and Social, Toronto on Sat, 12 Dec 2026.
 
 BOZA is a house and tech house artist based in Canada, with 3 gigs on soundcheck across Toronto. Often billed alongside Manzone & Strong, Addy and Joee Cons. Next up: Longshots Shooting and Social, Toronto on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ BOZA is a house and tech house artist based in Canada, with 3 gigs on soundcheck
 
 Manzone & Strong, Addy, Joee Cons
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boza/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boza/)*

@@ -1,13 +1,14 @@
 # PAVI (3)
 
-PAVI (3) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
+PAVI (3) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
 
-PAVI is a techno and house artist based in Denmark, with 11 gigs on soundcheck across Copenhagen. Often billed alongside Johannes Astrup, Milo Makua and Elliott Taguchi. Next up: Den Anden Side, Copenhagen on Thu 31 Dec.
+PAVI is a techno and house artist based in Denmark, with 12 gigs on soundcheck across Copenhagen. Often billed alongside Johannes Astrup, Milo Makua and Elliott Taguchi. Next up: Den Anden Side, Copenhagen on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Den Anden Side | Copenhagen |
 | Thu, 31 Dec 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ PAVI is a techno and house artist based in Denmark, with 11 gigs on soundcheck a
 
 Johannes Astrup, Milo Makua, Elliott Taguchi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavi-3/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavi-3/)*

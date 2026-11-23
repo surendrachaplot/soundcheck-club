@@ -1,6 +1,6 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Joshwa is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 Joshwa is a tech house and house artist based in United Kingdom, with 93 gigs on soundcheck across Bergen, Boston, Chicago and Copenhagen and 32 more. Often billed alongside Sammy Porter, George Mensah and Patrick Topping. Next up: fabric, London on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Joshwa is a tech house and house artist based in United Kingdom, with 93 gigs on
 
 Sammy Porter, George Mensah, Patrick Topping
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

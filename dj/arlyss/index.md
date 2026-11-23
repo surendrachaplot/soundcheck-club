@@ -1,6 +1,6 @@
 # ARLYSS
 
-ARLYSS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
+ARLYSS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
 
 ARLYSS is a house and disco artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam and London. Often billed alongside Davide Del Vecchio, Alfaz and Ize. Next up: Nico's Bar at Hackney Bridge, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ARLYSS is a house and disco artist based in United Kingdom, with 66 gigs on soun
 
 Davide Del Vecchio, Alfaz, Ize (1)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*

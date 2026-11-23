@@ -1,6 +1,6 @@
 # Caren Callas
 
-Caren Callas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Caren Callas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
 Caren Callas is a house and techno artist, with 84 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 8 more. Often billed alongside babxi, Naicet and Camea. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Caren Callas is a house and techno artist, with 84 gigs on soundcheck across Ber
 
 babxi, Naicet, Camea
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*

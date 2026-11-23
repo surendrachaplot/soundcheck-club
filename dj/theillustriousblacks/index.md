@@ -1,6 +1,6 @@
 # The Illustrious Blacks
 
-The Illustrious Blacks is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at public records, New York City on Fri, 1 Jan 2027.
+The Illustrious Blacks is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at public records, New York City on Fri, 1 Jan 2027.
 
 The Illustrious Blacks is a house and disco artist based in United States of America, with 95 gigs on soundcheck across Adelaide, Berlin, Boston and Detroit and 18 more. Often billed alongside Boris, DJ Dawson and Gabrielle Kwarteng. Next up: public records, New York City on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ The Illustrious Blacks is a house and disco artist based in United States of Ame
 
 Boris, DJ Dawson, Gabrielle Kwarteng
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*

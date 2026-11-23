@@ -1,6 +1,6 @@
 # Bobby hosted by EAR\WAX at Azimut at Azimut Club
 
-Bobby hosted by EAR\WAX at Azimut at Azimut Club on Sat 20 Feb, Turin. 1 artist: Bobby.. See the line-up on soundcheck.
+Bobby hosted by EAR\WAX at Azimut at Azimut Club on Sat 20 Feb, Turin. 1 artist: Bobby.. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

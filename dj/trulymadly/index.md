@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mint XL, Leeds on Thu, 31 Dec 2026.
+Truly Madly is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mint XL, Leeds on Thu, 31 Dec 2026.
 
 Truly Madly is a house and tech house artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 42 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: Mint XL, Leeds on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Truly Madly is a house and tech house artist based in United Kingdom, with 158 g
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

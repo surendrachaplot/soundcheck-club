@@ -1,6 +1,6 @@
 # Scythe
 
-Scythe is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Location, Athens on Sat, 28 Nov 2026.
+Scythe is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Location, Athens on Sat, 28 Nov 2026.
 
 Scythe is a techno and trance artist based in Malta, with 49 gigs on soundcheck across Athens, Berlin, Budapest and Liverpool and 3 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: TBA - Secret Location, Athens on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Scythe is a techno and trance artist based in Malta, with 49 gigs on soundcheck 
 
 INVERTED (MT), NATURA2K, SUNTA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*

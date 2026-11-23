@@ -1,6 +1,6 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "135+ mit Bliss & Intensive Emotions" on Thu, 26 Nov 2026.
+Bahnwärter Thiel is a music venue in Munich with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "135+ mit Bliss & Intensive Emotions" on Thu, 26 Nov 2026.
 
 Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 15 upcoming gigs, with line-ups including 9LALEY, ÆNN, Alex Volta and ANASTASÍA and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
@@ -23,4 +23,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 15 upcoming g
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

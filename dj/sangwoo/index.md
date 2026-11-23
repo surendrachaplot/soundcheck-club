@@ -1,6 +1,6 @@
 # Sangwoo
 
-Sangwoo is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at West Harlem, Kyoto on Thu, 26 Nov 2026.
+Sangwoo is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at West Harlem, Kyoto on Thu, 26 Nov 2026.
 
 Sangwoo is a house and downtempo artist based in South Korea, with 3 gigs on soundcheck across Kyoto and Seoul. Often billed alongside Kross Section, Mario Kassian and kotakunisaki. Next up: West Harlem, Kyoto on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Sangwoo is a house and downtempo artist based in South Korea, with 3 gigs on sou
 
 Kross Section, Mario Kassian, kotakunisaki
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sangwoo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sangwoo/)*

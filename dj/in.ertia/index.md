@@ -1,8 +1,8 @@
 # In.ertia
 
-In.ertia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Solace, Melbourne on Sat, 12 Dec 2026.
+In.ertia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Solace, Melbourne on Sat, 12 Dec 2026.
 
-In.ertia is a techno and house artist, with 5 gigs on soundcheck across Beijing and Melbourne. Often billed alongside Aöcram, Bby Cass and Charms. Next up: Solace, Melbourne on Sat 12 Dec.
+In.ertia is a techno and house artist based in Australia, with 5 gigs on soundcheck across Beijing and Melbourne. Often billed alongside Aöcram, Bby Cass and Charms. Next up: Solace, Melbourne on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ In.ertia is a techno and house artist, with 5 gigs on soundcheck across Beijing 
 
 Aöcram, Bby Cass, Charms
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in.ertia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in.ertia/)*

@@ -1,8 +1,8 @@
 # Marylou
 
-Marylou is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+Marylou is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
-Marylou is an experimental and club artist based in France, with 116 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Darwin, ophélie and Gavsborg. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
+Marylou is an experimental and club artist based in France, with 117 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Darwin, ophélie and Gavsborg. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marylou is an experimental and club artist based in France, with 116 gigs on sou
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 17 Dec 2026 | OHM | Berlin |
+| Sat, 20 Feb 2027 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Marylou is an experimental and club artist based in France, with 116 gigs on sou
 
 Darwin, ophélie, Gavsborg
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

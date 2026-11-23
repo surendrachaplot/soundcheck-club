@@ -1,6 +1,6 @@
 # Ivan Logos
 
-Ivan Logos is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
+Ivan Logos is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
 
 Ivan Logos is a techno and industrial artist based in Russia, with 5 gigs on soundcheck across Bangkok, Barcelona, Saint Petersburg and Thailand. Often billed alongside Amal, Ancient Methods and Andi. Next up: Retro Mountain Koh Phangan, Thailand on Thu 14 Jan.
 
@@ -21,4 +21,4 @@ Ivan Logos is a techno and industrial artist based in Russia, with 5 gigs on sou
 
 Amal, Ancient Methods, Andi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanlogos/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanlogos/)*

@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Monarch SF 15 YEAR ANNIVERSARY: Joshua Iz, DJ M3, 3kelves, Mr. Matias+more" on Wed, 25 Nov 2026.
+Monarch is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Monarch SF 15 YEAR ANNIVERSARY: Joshua Iz, DJ M3, 3kelves, Mr. Matias+more" on Wed, 25 Nov 2026.
 
 Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including .KINA, 1ycia, 3kelves and 93FM and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcom
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

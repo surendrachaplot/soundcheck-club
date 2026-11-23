@@ -1,6 +1,6 @@
 # Linn Elisabet
 
-Linn Elisabet is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OXI, Berlin on Tue, 29 Dec 2026.
+Linn Elisabet is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OXI, Berlin on Tue, 29 Dec 2026.
 
 Linn Elisabet is a techno and industrial artist based in Sweden, with 31 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 8 more. Often billed alongside Tommy Four Seven, Franz Bush and SYNN. Next up: OXI, Berlin on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Linn Elisabet is a techno and industrial artist based in Sweden, with 31 gigs on
 
 Tommy Four Seven, Franz Bush, SYNN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linnelisabet/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linnelisabet/)*

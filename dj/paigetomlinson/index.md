@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Night Tales, London on Fri, 27 Nov 2026.
+Paige Tomlinson is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Night Tales, London on Fri, 27 Nov 2026.
 
 Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Night Tales, London on Fri 27 Nov.
 
@@ -34,4 +34,4 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 g
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

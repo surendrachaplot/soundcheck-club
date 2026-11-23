@@ -1,6 +1,6 @@
 # Mark IJzerman
 
-Mark IJzerman is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pixl Club, Eindhoven on Sat, 12 Dec 2026.
+Mark IJzerman is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pixl Club, Eindhoven on Sat, 12 Dec 2026.
 
 Mark IJzerman is an experimental and downtempo artist, with 4 gigs on soundcheck across Amsterdam, Brussels, Eindhoven and The Hague. Often billed alongside Aaron Dilloway, Actress and Aidons Antoine. Next up: Pixl Club, Eindhoven on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Mark IJzerman is an experimental and downtempo artist, with 4 gigs on soundcheck
 
 Aaron Dilloway, Actress, Aidons Antoine
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markijzerman/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markijzerman/)*

@@ -1,6 +1,6 @@
 # Gioski
 
-Gioski is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at KitKatClub, Berlin on Mon, 14 Dec 2026.
+Gioski is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at KitKatClub, Berlin on Mon, 14 Dec 2026.
 
 Gioski is a techno and trance artist based in Switzerland, with 73 gigs on soundcheck across Basel, Berlin, Geneva and Lausanne and 1 more. Often billed alongside Pooja B, Alex Nantaya and Frankie Flowerz. Next up: KitKatClub, Berlin on Mon 14 Dec.
 
@@ -26,4 +26,4 @@ Gioski is a techno and trance artist based in Switzerland, with 73 gigs on sound
 
 Pooja B, Alex Nantaya, Frankie Flowerz
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*

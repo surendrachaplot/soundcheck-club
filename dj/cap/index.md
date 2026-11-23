@@ -1,6 +1,6 @@
 # Cap
 
-Cap is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kapsule, Liverpool on Fri, 27 Nov 2026.
+Cap is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kapsule, Liverpool on Fri, 27 Nov 2026.
 
 Cap is a house and minimal artist based in Romania, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 42 more. Often billed alongside Dan Andrei, Rhadoo and Doudou MD. Next up: Kapsule, Liverpool on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Cap is a house and minimal artist based in Romania, with 176 gigs on soundcheck 
 
 Dan Andrei, Rhadoo, Doudou MD
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

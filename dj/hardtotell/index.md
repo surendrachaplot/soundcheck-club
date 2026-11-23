@@ -1,6 +1,6 @@
 # Hard To Tell
 
-Hard To Tell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Los Angeles on Sat, 19 Dec 2026.
+Hard To Tell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Los Angeles on Sat, 19 Dec 2026.
 
 Hard To Tell is a techno and house artist, with 15 gigs on soundcheck across Athens, Austin, Barcelona and Berlin and 6 more. Often billed alongside Tal Fussman, Echonomist and Aamun Koi. Next up: TBA, Los Angeles on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Hard To Tell is a techno and house artist, with 15 gigs on soundcheck across Ath
 
 Tal Fussman, Echonomist, Aamun Koi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtotell/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtotell/)*

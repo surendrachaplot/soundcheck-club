@@ -1,6 +1,6 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 4 Dec 2026.
+Javier Carballo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 4 Dec 2026.
 
 Javier Carballo is a house and electro artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 14 more. Often billed alongside ildec, Berna and Hitch. Next up: Razzmatazz, Barcelona on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Javier Carballo is a house and electro artist based in Spain, with 100 gigs on s
 
 ildec, Berna, Hitch
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

@@ -1,6 +1,6 @@
 # sleeptwitch
 
-sleeptwitch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+sleeptwitch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 sleeptwitch is a house and techno artist based in Germany, with 47 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside Keex, DJ CHICHI and Pschukk. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ sleeptwitch is a house and techno artist based in Germany, with 47 gigs on sound
 
 Keex, DJ CHICHI, Pschukk
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeptwitch/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeptwitch/)*

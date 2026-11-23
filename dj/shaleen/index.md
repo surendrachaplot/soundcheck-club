@@ -1,6 +1,6 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lieberscholli, Munich on Fri, 27 Nov 2026.
+Shaleen is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lieberscholli, Munich on Fri, 27 Nov 2026.
 
 Shaleen is a techno and house artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside Ellen Allien, JANEIN and Stigmatique. Next up: Lieberscholli, Munich on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Shaleen is a techno and house artist based in Germany, with 161 gigs on soundche
 
 Ellen Allien, JANEIN, Stigmatique
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*

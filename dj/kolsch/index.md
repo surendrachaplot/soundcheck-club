@@ -1,6 +1,6 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at D! Club, Lausanne on Fri, 4 Dec 2026.
+Kölsch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at D! Club, Lausanne on Fri, 4 Dec 2026.
 
 Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Kevin de Vries, Adam Beyer and CamelPhat. Next up: D! Club, Lausanne on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundche
 
 Kevin de Vries, Adam Beyer, CamelPhat
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

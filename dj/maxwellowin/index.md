@@ -1,6 +1,6 @@
 # Maxwell Owin
 
-Maxwell Owin is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at New Century Locker, Manchester on Fri, 4 Dec 2026.
+Maxwell Owin is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at New Century Locker, Manchester on Fri, 4 Dec 2026.
 
 Maxwell Owin is a jazz and house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, London, Manchester and Paris. Often billed alongside Joe Armon-Jones, Cam Joon and dOnüt. Next up: New Century Locker, Manchester on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Maxwell Owin is a jazz and house artist based in United Kingdom, with 42 gigs on
 
 Joe Armon-Jones, Cam Joon, dOnüt
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*

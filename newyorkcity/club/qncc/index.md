@@ -1,6 +1,6 @@
 # Qncc
 
-Qncc is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "OFFICE HOURS: The Holiday Party" on Fri, 11 Dec 2026.
+Qncc is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "OFFICE HOURS: The Holiday Party" on Fri, 11 Dec 2026.
 
 Qncc is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including DJPT and S4M23. See dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
@@ -15,4 +15,4 @@ Qncc is a music venue in New York City listed on soundcheck. 2 upcoming gigs, wi
 
 100 Hinsdale Street, Brooklyn, NY, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*

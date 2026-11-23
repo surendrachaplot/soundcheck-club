@@ -1,6 +1,6 @@
 # Haze (1)
 
-Haze (1) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
+Haze (1) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
 
 Haze is a house and jungle artist based in Ukraine, with 18 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Brighton and 6 more. Often billed alongside VSMR, Vincent Lang and Julian Rtr. Next up: TBA, Sydney on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Haze is a house and jungle artist based in Ukraine, with 18 gigs on soundcheck a
 
 VSMR, Vincent Lang, Julian Rtr
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*

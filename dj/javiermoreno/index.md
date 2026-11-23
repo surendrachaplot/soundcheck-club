@@ -1,6 +1,6 @@
 # Javier Moreno
 
-Javier Moreno is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Javier Moreno is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
 
 Javier Moreno is an electronica artist, with 3 gigs on soundcheck across Madrid. Often billed alongside Cesc (ES), Abdulla A. and Avo (ES). Next up: Cadavra, Madrid on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Javier Moreno is an electronica artist, with 3 gigs on soundcheck across Madrid.
 
 Cesc (ES), Abdulla A., Avo (ES)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiermoreno/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiermoreno/)*

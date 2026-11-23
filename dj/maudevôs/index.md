@@ -1,6 +1,6 @@
 # Maude Vôs
 
-Maude Vôs is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Statera Cellars, Portland on Fri, 4 Dec 2026.
+Maude Vôs is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Statera Cellars, Portland on Fri, 4 Dec 2026.
 
 Maude Vôs is a techno and ambient artist based in United States of America, with 26 gigs on soundcheck across Berlin, Birmingham, Chicago and Denver and 8 more. Often billed alongside Marie Nyx, noRecall and FAUNA. Next up: Statera Cellars, Portland on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Maude Vôs is a techno and ambient artist based in United States of America, wit
 
 Marie Nyx, noRecall, FAUNA (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maudevôs/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maudevôs/)*

@@ -1,6 +1,6 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Brickworks, Nottingham on Fri, 27 Nov 2026.
+Fumiya Tanaka is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Brickworks, Nottingham on Fri, 27 Nov 2026.
 
 Fumiya Tanaka is a house and techno artist based in Japan, with 133 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Samuel Deep, Doudou MD and Laidlaw. Next up: The Brickworks, Nottingham on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Fumiya Tanaka is a house and techno artist based in Japan, with 133 gigs on soun
 
 Samuel Deep, Doudou MD, Laidlaw
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

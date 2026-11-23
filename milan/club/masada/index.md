@@ -1,14 +1,13 @@
 # Masada
 
-Masada is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Pennyroyal > Masada > Rapahel Carrau & Robin Ordell" on Sun, 22 Nov 2026.
+Masada is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Dorisburg (live), Javel, raptAGOG // Acquario x Monument (Masada)" on Sat, 5 Dec 2026.
 
-Masada is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Camillo, Camion Bazar, Costanza and Dorisburg and 2 more. See dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
+Masada is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Camillo, Camion Bazar, Costanza and Dorisburg and 2 more. See dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Pennyroyal > Masada > Rapahel Carrau & Robin Ordell | Luca Doobie, Raphael Carrau, Renzo (3), Robin Ordell |
 | Sat, 5 Dec 2026 | Dorisburg (live), Javel, raptAGOG // Acquario x Monument (Masada) | Dorisburg, Globular Waves, Javel, Outburst Knobs, Viels |
 | Sun, 6 Dec 2026 | CASAMATTA - Camion Bazar | Camillo (3), Camion Bazar, Faye, Fybes, Pabie |
 | Sat, 12 Dec 2026 | Closer #120 Masada /// Stojche - Sons Of Hidden live | Functional Disorder, Ikaar, Sons Of Hidden, Spad, Stojche |
@@ -18,4 +17,4 @@ Masada is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with lin
 
 Viale Carlo Espinasse, 41, 20156 Milan, Italy, Milan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*

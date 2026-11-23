@@ -1,6 +1,6 @@
 # Jordan Graham
 
-Jordan Graham is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Lilypad, Boston on Fri, 4 Dec 2026.
+Jordan Graham is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Lilypad, Boston on Fri, 4 Dec 2026.
 
 Jordan Graham is a techno and house artist, with 20 gigs on soundcheck across Boston and New York City. Often billed alongside Brianna Paon, Mx. Blaire and Roiju. Next up: The Lilypad, Boston on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Jordan Graham is a techno and house artist, with 20 gigs on soundcheck across Bo
 
 Brianna Paon, Mx. Blaire, Roiju
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangraham/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangraham/)*

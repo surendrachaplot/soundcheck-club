@@ -1,6 +1,6 @@
 # Yesh
 
-Yesh is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Klub Močvara, Zagreb on Sat, 12 Dec 2026.
+Yesh is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Klub Močvara, Zagreb on Sat, 12 Dec 2026.
 
 Yesh is a drum & bass and jungle artist, with 2 gigs on soundcheck across Zagreb. Often billed alongside Boogie, Danny Bwoy and Mad Villains. Next up: Klub Močvara, Zagreb on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Yesh is a drum & bass and jungle artist, with 2 gigs on soundcheck across Zagreb
 
 Boogie, Danny Bwoy, Mad Villains
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesh/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesh/)*

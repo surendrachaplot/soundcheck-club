@@ -1,6 +1,6 @@
 # Harari
 
-Harari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Nube, Buenos Aires on Sat, 19 Dec 2026.
+Harari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Nube, Buenos Aires on Sat, 19 Dec 2026.
 
 Harari is a house and disco artist based in Argentina, with 19 gigs on soundcheck across Berlin, Buenos Aires, London and Rio de Janeiro and 1 more. Often billed alongside Ric Piccolo, Dobao and Mystery Friend. Next up: La Nube, Buenos Aires on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Harari is a house and disco artist based in Argentina, with 19 gigs on soundchec
 
 Ric Piccolo, Dobao, Mystery Friend
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harari/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harari/)*

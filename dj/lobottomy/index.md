@@ -1,6 +1,6 @@
 # Lobottomy
 
-Lobottomy is a Baile Funk and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at El Rio, San Francisco/Oakland on Sat, 28 Nov 2026.
+Lobottomy is a Baile Funk and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at El Rio, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Lobottomy is a baile funk and industrial artist based in Mexico, with 2 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 2AT, BOYPRINCESS and Femme Jatale. Next up: El Rio, San Francisco/Oakland on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Lobottomy is a baile funk and industrial artist based in Mexico, with 2 gigs on 
 
 2AT, BOYPRINCESS, Femme Jatale
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobottomy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobottomy/)*

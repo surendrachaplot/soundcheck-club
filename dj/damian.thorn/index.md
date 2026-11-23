@@ -1,6 +1,6 @@
 # Damian.Thorn
 
-Damian.Thorn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OXI, Berlin on Fri, 11 Dec 2026.
+Damian.Thorn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OXI, Berlin on Fri, 11 Dec 2026.
 
 Damian.Thorn is a house and disco artist, with 14 gigs on soundcheck across Berlin. Often billed alongside Foolik, Alma Linda and Bauen. Next up: OXI, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Damian.Thorn is a house and disco artist, with 14 gigs on soundcheck across Berl
 
 Foolik, Alma Linda, Bauen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damian.thorn/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damian.thorn/)*

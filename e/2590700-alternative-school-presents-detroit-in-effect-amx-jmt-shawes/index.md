@@ -1,6 +1,6 @@
 # Alternative School presents: Detroit In Effect • AMX • JMT • Shawescape Renegade at Northern Lights Lounge
 
-Alternative School presents: Detroit In Effect • AMX • JMT • Shawescape Renegade at Northern Lights Lounge on Sat 19 Dec, Detroit. 4 artists: Detroit In Effect, JMT, Shawescape Renegade and The AM/AMX. See the line-up on soundcheck.
+Alternative School presents: Detroit In Effect • AMX • JMT • Shawescape Renegade at Northern Lights Lounge on Sat 19 Dec, Detroit. 4 artists: Detroit In Effect, JMT, Shawescape Renegade and The AM/AMX. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

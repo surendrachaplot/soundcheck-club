@@ -1,6 +1,6 @@
 # Pawnshop
 
-Pawnshop is a music venue in Taipei with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "No Pants No Game" on Fri, 27 Nov 2026.
+Pawnshop is a music venue in Taipei with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "No Pants No Game" on Fri, 27 Nov 2026.
 
 Pawnshop is a music venue in Taipei listed on soundcheck. 11 upcoming gigs, with line-ups including LYDO, Al Burro, AP-C and Arthur Robert and 2 more. See dates, start times and who's playing. 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan.
 
@@ -23,4 +23,4 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 11 upcoming gigs, with
 
 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan, Taipei
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*

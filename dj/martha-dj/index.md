@@ -1,6 +1,6 @@
 # Martha - DJ
 
-Martha - DJ is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Not For Sale Gallery, London on Fri, 1 Jan 2027.
+Martha - DJ is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Not For Sale Gallery, London on Fri, 1 Jan 2027.
 
 Martha - DJ is a techno and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across London, Manchester and New York City. Often billed alongside Awedinary, Beatrice M. and Braden. Next up: Not For Sale Gallery, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Martha - DJ is a techno and drum & bass artist based in United Kingdom, with 15 
 
 Awedinary, Beatrice M., Braden
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martha-dj/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martha-dj/)*

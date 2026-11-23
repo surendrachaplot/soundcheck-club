@@ -1,6 +1,6 @@
 # Fusion Club
 
-Fusion Club is a music venue in Münster with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ACID WARS W/ MHA IRI, TOMMAHAWK & MANY MORE" on Sat, 5 Dec 2026.
+Fusion Club is a music venue in Münster with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "ACID WARS W/ MHA IRI, TOMMAHAWK & MANY MORE" on Sat, 5 Dec 2026.
 
 Fusion Club is a music venue in Münster listed on soundcheck. 7 upcoming gigs, with line-ups including Alexia K., ALYF, Chris Liebing and Demontime and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
 
@@ -20,4 +20,4 @@ Fusion Club is a music venue in Münster listed on soundcheck. 7 upcoming gigs, 
 
 Am Hawerkamp 32; 48155 Münster; Germany, Münster
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*

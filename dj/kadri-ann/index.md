@@ -1,6 +1,6 @@
 # Kadri-Ann
 
-Kadri-Ann is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Poisson Volant, Paris on Sat, 28 Nov 2026.
+Kadri-Ann is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le Poisson Volant, Paris on Sat, 28 Nov 2026.
 
 Kadri-Ann is a club and experimental artist, with 3 gigs on soundcheck across Paris and Tallinn. Often billed alongside pam (unofficial) and DJ Plead. Next up: Le Poisson Volant, Paris on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Kadri-Ann is a club and experimental artist, with 3 gigs on soundcheck across Pa
 
 pam (unofficial), DJ Plead
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadri-ann/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadri-ann/)*

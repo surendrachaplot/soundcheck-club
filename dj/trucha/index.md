@@ -1,6 +1,6 @@
 # Trucha
 
-Trucha is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
+Trucha is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
 
 Trucha is a house and disco artist based in United Kingdom, with 29 gigs on soundcheck across Austin and Edinburgh. Often billed alongside A Pavlo, Ben Kok and Hobbes. Next up: The Outhouse, Edinburgh on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Trucha is a house and disco artist based in United Kingdom, with 29 gigs on soun
 
 A Pavlo, Ben Kok (2), Hobbes
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*

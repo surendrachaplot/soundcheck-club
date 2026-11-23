@@ -1,6 +1,6 @@
 # Hangar
 
-Hangar is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "INDOOR XL VOL.II" on Sat, 5 Dec 2026.
+Hangar is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "INDOOR XL VOL.II" on Sat, 5 Dec 2026.
 
 Hangar is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including Fatima Hajji, Optimuss, Per Pleks and siasios. See dates, start times and who's playing. Zorza Klemansoa 37, 11000 Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Hangar is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with l
 
 Zorza Klemansoa 37, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/hangar/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/hangar/)*

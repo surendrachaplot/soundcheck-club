@@ -1,6 +1,6 @@
 # Agustin Giri
 
-Agustin Giri is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 12 Dec 2026.
+Agustin Giri is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 12 Dec 2026.
 
 Agustin Giri is a techno and electronica artist based in Argentina, with 27 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 4 more. Often billed alongside Gespona, Last Men On Earth and Djolee. Next up: Studio Club Malaga, Malaga on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Agustin Giri is a techno and electronica artist based in Argentina, with 27 gigs
 
 Gespona, Last Men On Earth, Djolee
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*

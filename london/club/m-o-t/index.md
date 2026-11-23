@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 29 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "PARADE Catchphrase Mixtape Release Parties" on Wed, 25 Nov 2026.
+M.O.T is a music venue in London with 30 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "PARADE Catchphrase Mixtape Release Parties" on Wed, 25 Nov 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including A.N.T, alterum, Bill Brewster and Blood of Aza and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including A.N.T, alterum, Bill Brewster and Blood of Aza and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 29 upcoming gigs, with li
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

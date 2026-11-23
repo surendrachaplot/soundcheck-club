@@ -1,6 +1,6 @@
 # Miguel Vizcaino
 
-Miguel Vizcaino is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Baron"s Hall, Porto on Thu, 31 Dec 2026.
+Miguel Vizcaino is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Baron"s Hall, Porto on Thu, 31 Dec 2026.
 
 Miguel Vizcaino is a disco and pop artist based in Spain, with 3 gigs on soundcheck across Lisbon, Madrid and Porto. Often billed alongside Mr Majestyk. Next up: The Baron"s Hall, Porto on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Miguel Vizcaino is a disco and pop artist based in Spain, with 3 gigs on soundch
 
 Mr Majestyk
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelvizcaino-es/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelvizcaino-es/)*

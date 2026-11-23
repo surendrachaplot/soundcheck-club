@@ -1,6 +1,6 @@
 # Eitan Reiter
 
-Eitan Reiter is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Magma Club Budapest, Budapest on Tue, 29 Dec 2026.
+Eitan Reiter is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Magma Club Budapest, Budapest on Tue, 29 Dec 2026.
 
 Eitan Reiter is a trance and techno artist, with 3 gigs on soundcheck across Budapest, Paris and Sydney. Often billed alongside Captain Hook, Out of Orbit and Wehbba. Next up: Magma Club Budapest, Budapest on Tue 29 Dec.
 
@@ -19,4 +19,4 @@ Eitan Reiter is a trance and techno artist, with 3 gigs on soundcheck across Bud
 
 Captain Hook, Out of Orbit, Wehbba
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eitanreiter/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eitanreiter/)*

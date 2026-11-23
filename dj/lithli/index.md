@@ -1,6 +1,6 @@
 # Lith Li
 
-Lith Li is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 28 Nov 2026.
+Lith Li is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 28 Nov 2026.
 
 Lith Li is a techno and industrial artist based in Spain, with 35 gigs on soundcheck across Barcelona, Lisbon, London and Montreal and 6 more. Often billed alongside FENGX2, Ricardo Castro and Steve Weeks. Next up: La Rotonde Stalingrad, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lith Li is a techno and industrial artist based in Spain, with 35 gigs on soundc
 
 FENGX2, Ricardo Castro, Steve Weeks
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lithli/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lithli/)*

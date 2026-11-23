@@ -1,6 +1,6 @@
 # Model Shape
 
-Model Shape is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Campidarte Sardegna, Central on Sun, 22 Nov 2026.
+Model Shape is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Campidarte Sardegna, Central on Sun, 22 Nov 2026.
 
 Model Shape is an industrial and techno artist based in Italy, with 3 gigs on soundcheck across Barcelona, Central and Milan. Often billed alongside ANTIFAKES, Acidalia and Alimac. Next up: Campidarte Sardegna, Central on Sun 22 Nov.
 
@@ -12,6 +12,7 @@ Model Shape is an industrial and techno artist based in Italy, with 3 gigs on so
 
 ## Recently played
 
+- Campidarte Sardegna, Central · Sun, 22 Nov 2026
 - Localito 3.0, Barcelona · Fri, 28 Aug 2026
 - Tempio del Futuro Perduto, Milan · Sat, 22 Nov 2025
 
@@ -19,4 +20,4 @@ Model Shape is an industrial and techno artist based in Italy, with 3 gigs on so
 
 ANTIFAKES, Acidalia, Alimac
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modelshape/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modelshape/)*

@@ -1,6 +1,6 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Limelight, Belfast on Fri, 27 Nov 2026.
+Sam Alfred is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Limelight, Belfast on Fri, 27 Nov 2026.
 
 Sam Alfred is a house and techno artist based in Egypt, with 163 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: The Limelight, Belfast on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Sam Alfred is a house and techno artist based in Egypt, with 163 gigs on soundch
 
 Club Angel, SAIDAH, X CLUB.
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

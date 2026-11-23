@@ -1,6 +1,6 @@
 # Dean Bryce
 
-Dean Bryce is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
+Dean Bryce is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
 
 Dean Bryce is a house and funk / soul artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Berlin, Leeds and London and 3 more. Often billed alongside Charlie Dark, Chinese Daughter and Jon K. Next up: The Crypt at St. Matthews Church, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Dean Bryce is a house and funk / soul artist based in United Kingdom, with 39 gi
 
 Charlie Dark, Chinese Daughter, Jon K
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanbryce/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanbryce/)*

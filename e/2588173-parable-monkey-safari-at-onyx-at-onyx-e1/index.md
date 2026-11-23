@@ -1,6 +1,6 @@
 # Parable: Monkey Safari at Onyx at Onyx (E1)
 
-Parable: Monkey Safari at Onyx at Onyx (E1) on Sat 20 Feb, London. 1 artist: Monkey Safari. See the line-up on soundcheck.
+Parable: Monkey Safari at Onyx at Onyx (E1) on Sat 20 Feb, London. 1 artist: Monkey Safari. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

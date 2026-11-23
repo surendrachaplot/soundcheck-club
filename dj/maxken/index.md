@@ -1,6 +1,6 @@
 # Max Ken
 
-Max Ken is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Paris on Sat, 6 Mar 2027.
+Max Ken is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Paris on Sat, 6 Mar 2027.
 
 Max Ken is a disco and house artist based in France, with 2 gigs on soundcheck across Berlin and Paris. Often billed alongside Kastet, Parasol and Ariela Leiva. Next up: TBA, Paris on Sat 6 Mar.
 
@@ -18,4 +18,4 @@ Max Ken is a disco and house artist based in France, with 2 gigs on soundcheck a
 
 Kastet, Parasol, Ariela Leiva
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxken/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxken/)*

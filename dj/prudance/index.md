@@ -1,6 +1,6 @@
 # Prudance
 
-Prudance is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 18 Dec 2026.
+Prudance is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 18 Dec 2026.
 
 Prudance is a house and deep house artist, with 5 gigs on soundcheck across Manchester. Often billed alongside Mike Graham, Balfey and Shwar. Next up: Joshua Brooks, Manchester on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Prudance is a house and deep house artist, with 5 gigs on soundcheck across Manc
 
 Mike Graham, Balfey, Shwar
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prudance/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prudance/)*

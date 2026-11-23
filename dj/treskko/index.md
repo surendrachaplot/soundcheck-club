@@ -1,6 +1,6 @@
 # treskko
 
-treskko is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 11 Dec 2026.
+treskko is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 11 Dec 2026.
 
 treskko is a house and electro artist, with 3 gigs on soundcheck across Berlin. Often billed alongside AHURA, EMI.SNC and Linda shiro. Next up: Bulbul Berlin, Berlin on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ treskko is a house and electro artist, with 3 gigs on soundcheck across Berlin. 
 
 AHURA, EMI.SNC, Linda shiro
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/treskko/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/treskko/)*

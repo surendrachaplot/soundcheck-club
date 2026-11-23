@@ -1,8 +1,8 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Auro Kitchen and Bar, Delhi on Thu, 26 Nov 2026.
+Marco Shuttle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Auro Kitchen and Bar, Delhi on Thu, 26 Nov 2026.
 
-Marco Shuttle is a techno and house artist based in Italy, with 177 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 48 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Auro Kitchen and Bar, Delhi on Thu 26 Nov.
+Marco Shuttle is a techno and house artist based in Italy, with 178 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 48 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Auro Kitchen and Bar, Delhi on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Marco Shuttle is a techno and house artist based in Italy, with 177 gigs on soun
 | Fri, 11 Dec 2026 | OIL Club | Shenzhen |
 | Thu, 31 Dec 2026 | OXI | Berlin |
 | Thu, 28 Jan 2027 | Cadavra | Madrid |
+| Sat, 20 Feb 2027 | fabric | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Marco Shuttle is a techno and house artist based in Italy, with 177 gigs on soun
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

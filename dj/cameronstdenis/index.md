@@ -1,13 +1,14 @@
 # Cameron St Denis
 
-Cameron St Denis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Guadalajara, Jalisco, Guadalajara on Sat, 5 Dec 2026.
+Cameron St Denis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sofy Boom, Jalisco on Sat, 28 Nov 2026.
 
-Cameron St Denis is a techno and house artist based in Canada, with 10 gigs on soundcheck across Guadalajara, Osaka and Vancouver. Often billed alongside C-Star, Joel West and Aspermoon. Next up: Guadalajara, Jalisco, Guadalajara on Sat 5 Dec.
+Cameron St Denis is a techno and house artist based in Canada, with 11 gigs on soundcheck across Guadalajara, Jalisco, Osaka and Vancouver. Often billed alongside C-Star, Joel West and Amorpho. Next up: Sofy Boom, Jalisco on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Sofy Boom | Jalisco |
 | Sat, 5 Dec 2026 | Guadalajara, Jalisco | Guadalajara |
 
 ## Recently played
@@ -23,6 +24,6 @@ Cameron St Denis is a techno and house artist based in Canada, with 10 gigs on s
 
 ## Shares bills with
 
-C-Star, Joel West, Aspermoon
+C-Star, Joel West, Amorpho
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronstdenis/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronstdenis/)*

@@ -1,6 +1,6 @@
 # Aura Nox
 
-Aura Nox is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
+Aura Nox is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
 
 Aura Nox is an electro and techno artist based in United States of America, with 51 gigs on soundcheck across Athens, Barcelona, Berlin and Dallas/Fort Worth and 11 more. Often billed alongside Milan Hermess, ElectroDon and Mejle. Next up: Razzmatazz, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Aura Nox is an electro and techno artist based in United States of America, with
 
 Milan Hermess, ElectroDon, Mejle
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auranox/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auranox/)*

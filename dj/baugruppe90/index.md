@@ -1,6 +1,6 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Centre Point, Dublin on Fri, 27 Nov 2026.
+BAUGRUPPE90 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Centre Point, Dublin on Fri, 27 Nov 2026.
 
 BAUGRUPPE90 is a techno and house artist based in Germany, with 190 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 61 more. Often billed alongside EliaHaze, DJ Babyblade and ferrari rot. Next up: Centre Point, Dublin on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ BAUGRUPPE90 is a techno and house artist based in Germany, with 190 gigs on soun
 
 EliaHaze, DJ Babyblade, ferrari rot
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

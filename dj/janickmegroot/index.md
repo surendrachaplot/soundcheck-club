@@ -1,6 +1,6 @@
 # Janick Megroot
 
-Janick Megroot is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at De Spot, Netherlands on Sat, 5 Dec 2026.
+Janick Megroot is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at De Spot, Netherlands on Sat, 5 Dec 2026.
 
 Janick Megroot is an electronic artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Ignacio Arfeli, Rini Berlini and TheKoosy. Next up: De Spot, Netherlands on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Janick Megroot is an electronic artist based in Netherlands, with 2 gigs on soun
 
 Ignacio Arfeli, Rini Berlini, TheKoosy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janickmegroot/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janickmegroot/)*

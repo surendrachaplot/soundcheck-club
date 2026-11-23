@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "RE:SET X Fünk: ATEQ + MNTY + Andreas" on Thu, 26 Nov 2026.
+Fünk is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "RE:SET X Fünk: ATEQ + MNTY + Andreas" on Thu, 26 Nov 2026.
 
 Fünk is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including Astroboii, ATEQ, Bluecommand and DJ Rino and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -20,4 +20,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, wit
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

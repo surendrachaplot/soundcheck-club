@@ -1,6 +1,6 @@
 # Dj Alyaz
 
-Dj Alyaz is a Grime and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Akropolis, Prague on Sat, 28 Nov 2026.
+Dj Alyaz is a Grime and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Akropolis, Prague on Sat, 28 Nov 2026.
 
 Dj Alyaz is a grime and dubstep artist based in Czech Republic, with 29 gigs on soundcheck across Berlin, Helsinki, Prague and Riga. Often billed alongside Sir Free, JohnyM and Tereza.Pro. Next up: Akropolis, Prague on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Dj Alyaz is a grime and dubstep artist based in Czech Republic, with 29 gigs on 
 
 Sir Free, JohnyM, Tereza.Pro
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalyaz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalyaz/)*

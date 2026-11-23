@@ -1,6 +1,6 @@
 # ÆCSEDI
 
-ÆCSEDI is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
+ÆCSEDI is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
 
 ÆCSEDI is an industrial and techno artist based in Hungary, with 2 gigs on soundcheck across Berlin. Often billed alongside MAGMAOM, ANXIETY and Aslan. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 20 Mar.
 
@@ -18,4 +18,4 @@
 
 MAGMAOM, ANXIETY (2), Aslan (3)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/æcsedi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/æcsedi/)*

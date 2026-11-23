@@ -1,6 +1,6 @@
 # Ale De Tuglie
 
-Ale De Tuglie is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Floyd, Miami on Sun, 29 Nov 2026.
+Ale De Tuglie is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Floyd, Miami on Sun, 29 Nov 2026.
 
 Ale De Tuglie is a tech house and house artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bogotá and 24 more. Often billed alongside Marco Carola, Joey Daniel and Franky Rizardo. Next up: Floyd, Miami on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Ale De Tuglie is a tech house and house artist based in Italy, with 87 gigs on s
 
 Marco Carola, Joey Daniel, Franky Rizardo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*

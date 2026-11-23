@@ -1,6 +1,6 @@
 # Phats & Small
 
-Phats & Small is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Odyssey Cork, Cork on Fri, 27 Nov 2026.
+Phats & Small is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Odyssey Cork, Cork on Fri, 27 Nov 2026.
 
 Phats & Small are a club and pop duo based in United Kingdom, with 4 gigs on soundcheck across Amsterdam, Cork, London and Manchester. Often billed alongside Sweet Female Attitude, Airwave and Alexander Koning. Next up: Odyssey Cork, Cork on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Phats & Small are a club and pop duo based in United Kingdom, with 4 gigs on sou
 
 Sweet Female Attitude, Airwave, Alexander Koning
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phatssmall/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phatssmall/)*

@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Elli Acula is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 Elli Acula is a techno and house artist based in Germany, with 254 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 77 more. Often billed alongside FJAAK, DAX J and 999999999. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Elli Acula is a techno and house artist based in Germany, with 254 gigs on sound
 
 FJAAK, DAX J, 999999999
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

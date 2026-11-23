@@ -1,6 +1,6 @@
 # Raymond
 
-Raymond is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Egg London, London on Fri, 27 Nov 2026.
+Raymond is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Egg London, London on Fri, 27 Nov 2026.
 
 Raymond is a house and afro house artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona, Brussels, Glasgow and London and 1 more. Often billed alongside CHAAC, B.UNQ! and Billy Nasty. Next up: Egg London, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Raymond is a house and afro house artist based in United Kingdom, with 9 gigs on
 
 CHAAC, B.UNQ!, Billy Nasty
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raymond/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raymond/)*

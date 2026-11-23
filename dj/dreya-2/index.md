@@ -1,6 +1,6 @@
 # Dreya (2)
 
-Dreya (2) is a Deep House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 520 Alexander Street, Vancouver on Fri, 27 Nov 2026.
+Dreya (2) is a Deep House and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 520 Alexander Street, Vancouver on Fri, 27 Nov 2026.
 
 Dreya is a deep house and bass artist based in Canada, with 3 gigs on soundcheck across Vancouver. Often billed alongside VIO (CA), JADO and LVL (CAN). Next up: 520 Alexander Street, Vancouver on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Dreya is a deep house and bass artist based in Canada, with 3 gigs on soundcheck
 
 VIO (CA), JADO, LVL (CAN)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya-2/)*

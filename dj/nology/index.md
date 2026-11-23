@@ -1,6 +1,6 @@
 # Nology
 
-Nology is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
+Nology is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
 
 Nology is a drum & bass and jungle artist based in United States of America, with 2 gigs on soundcheck across London. Often billed alongside Ben Zo, Bluey and Infinity (HR). Next up: Four Quarters, London on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Nology is a drum & bass and jungle artist based in United States of America, wit
 
 Ben Zo, Bluey, Infinity (HR)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nology/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nology/)*

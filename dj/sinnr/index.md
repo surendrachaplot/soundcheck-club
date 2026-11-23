@@ -1,6 +1,6 @@
 # Sinnr
 
-Sinnr is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Stromwerk Dresden, Dresden on Fri, 27 Nov 2026.
+Sinnr is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Stromwerk Dresden, Dresden on Fri, 27 Nov 2026.
 
 Sinnr is a techno artist based in Germany, with 2 gigs on soundcheck across Chemnitz and Dresden. Often billed alongside KREONE, Karla Blum and Laviena. Next up: Stromwerk Dresden, Dresden on Fri 27 Nov.
 
@@ -15,4 +15,4 @@ Sinnr is a techno artist based in Germany, with 2 gigs on soundcheck across Chem
 
 KREONE, Karla Blum, Laviena
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnr/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnr/)*

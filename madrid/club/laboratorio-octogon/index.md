@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "REC PRESENTS - SLIN Vinyl Only Night" on Fri, 27 Nov 2026.
+Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "REC PRESENTS - SLIN Vinyl Only Night" on Fri, 27 Nov 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including ABAD MANNERS, Atrâm, H1pnos1s and Nahum Korm and 2 more. See dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -20,4 +20,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

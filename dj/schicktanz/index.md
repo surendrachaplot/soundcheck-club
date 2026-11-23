@@ -1,6 +1,6 @@
 # Schicktanz
 
-Schicktanz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 19 Dec 2026.
+Schicktanz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 19 Dec 2026.
 
 Schicktanz is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Brussels, Hamburg and Hannover and 4 more. Often billed alongside Vysion, BNZN and DJ SPORTSCHUH. Next up: RSO.BERLIN, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Schicktanz is a techno and house artist based in Germany, with 50 gigs on soundc
 
 Vysion, BNZN, DJ SPORTSCHUH
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*

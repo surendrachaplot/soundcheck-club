@@ -1,6 +1,6 @@
 # stebu
 
-stebu is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 28 Nov 2026.
+stebu is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 28 Nov 2026.
 
 stebu is a bass and house artist based in Belgium, with 7 gigs on soundcheck across Brussels, Dublin and Madrid. Often billed alongside EMA, Murchadh and ACKERMAN. Next up: Yamamori Tengu, Dublin on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ stebu is a bass and house artist based in Belgium, with 7 gigs on soundcheck acr
 
 EMA (1), Murchadh, ACKERMAN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stebu-be/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stebu-be/)*

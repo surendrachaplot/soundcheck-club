@@ -1,6 +1,6 @@
 # Son of Paul
 
-Son of Paul is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at NDR2 Red Room, London on Sat, 28 Nov 2026.
+Son of Paul is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at NDR2 Red Room, London on Sat, 28 Nov 2026.
 
 Son of Paul is a minimal techno and tech house artist based in United Kingdom, with 33 gigs on soundcheck across London. Often billed alongside Thom Parris, Gabriel Finch and Mantis. Next up: NDR2 Red Room, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Son of Paul is a minimal techno and tech house artist based in United Kingdom, w
 
 Thom Parris, Gabriel Finch, Mantis (5)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofpaul/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofpaul/)*

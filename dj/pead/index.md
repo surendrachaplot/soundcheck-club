@@ -1,6 +1,6 @@
 # pead
 
-pead is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+pead is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 pead is an experimental and ambient artist, with 2 gigs on soundcheck across Berlin. Often billed alongside DRIPTECH, Daniel Majer and FISHFLU. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ pead is an experimental and ambient artist, with 2 gigs on soundcheck across Ber
 
 DRIPTECH, Daniel Majer, FISHFLU
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pead/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pead/)*

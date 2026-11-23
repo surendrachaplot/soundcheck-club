@@ -1,6 +1,6 @@
 # STICKYPRADZ
 
-STICKYPRADZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cutie, Bielefeld on Sat, 12 Dec 2026.
+STICKYPRADZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cutie, Bielefeld on Sat, 12 Dec 2026.
 
 STICKYPRADZ is a techno and house artist based in Germany, with 2 gigs on soundcheck across Bielefeld. Often billed alongside DJ Powerbank and Vitus. Next up: Cutie, Bielefeld on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ STICKYPRADZ is a techno and house artist based in Germany, with 2 gigs on soundc
 
 DJ Powerbank, Vitus
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stickypradz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stickypradz/)*

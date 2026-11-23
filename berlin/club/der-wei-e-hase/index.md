@@ -1,6 +1,6 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Smash & HART ◢◤ Tuesday Rave [free entry until midnight*]" on Tue, 24 Nov 2026.
+Der Weiße Hase is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Smash & HART ◢◤ Tuesday Rave [free entry until midnight*]" on Tue, 24 Nov 2026.
 
 Der Weiße Hase is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including August Kind, bbymeister, Bisk and Bøgen and 2 more. See dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 10 upcoming gig
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

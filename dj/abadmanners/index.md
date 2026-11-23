@@ -1,6 +1,6 @@
 # ABAD MANNERS
 
-ABAD MANNERS is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Selva Club, East on Sat, 28 Nov 2026.
+ABAD MANNERS is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Selva Club, East on Sat, 28 Nov 2026.
 
 ABAD MANNERS is an electronica and techno artist based in Spain, with 5 gigs on soundcheck across Berlin, East and Madrid. Often billed alongside Anna Ullrich, Atrâm and BIXBITA. Next up: Selva Club, East on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ ABAD MANNERS is an electronica and techno artist based in Spain, with 5 gigs on 
 
 Anna Ullrich, Atrâm, BIXBITA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abadmanners/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abadmanners/)*

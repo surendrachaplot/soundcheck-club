@@ -1,6 +1,6 @@
 # Alias Shay
 
-Alias Shay is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Panke, Berlin on Wed, 30 Dec 2026.
+Alias Shay is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Panke, Berlin on Wed, 30 Dec 2026.
 
 Alias Shay is an electro and pop artist based in Tunisia, with 18 gigs on soundcheck across Berlin, Dortmund / Essen and Hamburg. Often billed alongside DumTak, FunkyKid and AAMIROO. Next up: Panke, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Alias Shay is an electro and pop artist based in Tunisia, with 18 gigs on soundc
 
 DumTak, FunkyKid, AAMIROO
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasshay/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasshay/)*

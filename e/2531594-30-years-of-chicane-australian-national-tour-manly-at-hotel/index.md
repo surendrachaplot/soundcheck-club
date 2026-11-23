@@ -1,6 +1,6 @@
 # 30 Years of Chicane, Australian National Tour - Manly at Hotel Steyne
 
-30 Years of Chicane, Australian National Tour - Manly at Hotel Steyne on Sat 20 Feb, Sydney. 2 artists: Chicane and Robbie Lowe. See the line-up on soundcheck.
+30 Years of Chicane, Australian National Tour - Manly at Hotel Steyne on Sat 20 Feb, Sydney. 2 artists: Chicane and Robbie Lowe. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

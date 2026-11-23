@@ -1,6 +1,6 @@
 # KALI.
 
-KALI. is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
+KALI. is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
 
 KALI. is a club and baile funk artist based in Germany, with 45 gigs on soundcheck across Berlin, Hamburg, Leipzig and Mexico City. Often billed alongside sin serif, dj latinchat and Folly Ghost. Next up: TBA - Cuauhtémoc, Mexico City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KALI. is a club and baile funk artist based in Germany, with 45 gigs on soundche
 
 sin serif, dj latinchat, Folly Ghost
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*

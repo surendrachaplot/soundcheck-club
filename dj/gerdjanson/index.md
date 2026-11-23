@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Process PDX, Portland on Wed, 25 Nov 2026.
+Gerd Janson is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Process PDX, Portland on Wed, 25 Nov 2026.
 
 Gerd Janson is a house and techno artist based in Germany, with 345 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Process PDX, Portland on Wed 25 Nov.
 
@@ -35,4 +35,4 @@ Gerd Janson is a house and techno artist based in Germany, with 345 gigs on soun
 
 Marcel Dettmann, Âme, DJ Tennis
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

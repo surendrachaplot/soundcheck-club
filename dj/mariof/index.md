@@ -1,6 +1,6 @@
 # MarioF
 
-MarioF is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Macarena Club, Barcelona on Sat, 12 Dec 2026.
+MarioF is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Macarena Club, Barcelona on Sat, 12 Dec 2026.
 
 MarioF is a house and techno artist based in Spain, with 22 gigs on soundcheck across Barcelona and Orange County. Often billed alongside Guille Pinet, Røpe and L1NUS. Next up: Macarena Club, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MarioF is a house and techno artist based in Spain, with 22 gigs on soundcheck a
 
 Guille Pinet, Røpe, L1NUS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariof/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariof/)*

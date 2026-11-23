@@ -1,6 +1,6 @@
 # HADES (LT)
 
-HADES (LT) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kongresai, Vilnius on Sat, 5 Dec 2026.
+HADES (LT) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kongresai, Vilnius on Sat, 5 Dec 2026.
 
 HADES (LT) is a house and disco artist based in Lithuania, with 10 gigs on soundcheck across Vilnius. Often billed alongside Daniel Ocean [LT], Black Feeling and Jogaila. Next up: Kongresai, Vilnius on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ HADES (LT) is a house and disco artist based in Lithuania, with 10 gigs on sound
 
 Daniel Ocean [LT], Black Feeling, Jogaila
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hades-lt/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hades-lt/)*

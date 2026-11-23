@@ -1,6 +1,6 @@
 # Satin Jackets at Hole44
 
-Satin Jackets at Hole44 on Sat 20 Feb, Berlin. 1 artist: Satin Jackets. See the line-up on soundcheck.
+Satin Jackets at Hole44 on Sat 20 Feb, Berlin. 1 artist: Satin Jackets. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

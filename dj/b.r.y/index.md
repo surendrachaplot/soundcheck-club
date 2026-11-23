@@ -1,6 +1,6 @@
 # B.R.Y
 
-B.R.Y is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tranzit, Hamburg on Sat, 12 Dec 2026.
+B.R.Y is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tranzit, Hamburg on Sat, 12 Dec 2026.
 
 B.R.Y is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Hamburg. Often billed alongside Pierre Kraft, TWOFACEDKIMMY and Alphabae. Next up: Tranzit, Hamburg on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ B.R.Y is a techno and trance artist based in Germany, with 2 gigs on soundcheck 
 
 Pierre Kraft, TWOFACEDKIMMY, Alphabae
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.r.y/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.r.y/)*

@@ -1,11 +1,15 @@
 # Throwback LISBOA – NEW YEAR'S EVE 2026 (Back to 80s, 90s & 00s) at Carmo Rooftop
 
-Throwback LISBOA – NEW YEAR'S EVE 2026 (Back to 80s, 90s & 00s) at Carmo Rooftop on Thu 31 Dec, Lisbon. Disco and Pop. See the line-up on soundcheck.
+Throwback LISBOA – NEW YEAR'S EVE 2026 (Back to 80s, 90s & 00s) at Carmo Rooftop on Thu 31 Dec, Lisbon. 1 artist: Mr Majestyk. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 31 Dec 2026 |
 | Venue | Carmo Rooftop |
 | City | Lisbon |
+
+## Line-up
+
+- Mr Majestyk
 
 *Source: [soundcheck](https://soundcheck.club/e/2569221-throwback-lisboa-new-year-s-eve-2026-back-to-80s-90s-00s-at/)*

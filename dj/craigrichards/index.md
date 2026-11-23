@@ -1,6 +1,6 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 5 Dec 2026.
+Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 5 Dec 2026.
 
 Craig Richards is a house and techno artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Yamamori Tengu, Dublin on Sat 5 Dec.
 
@@ -32,4 +32,4 @@ Craig Richards is a house and techno artist based in United Kingdom, with 172 gi
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

@@ -1,6 +1,6 @@
 # Loso
 
-Loso is a music venue in Richmond with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DJ Holographic" on Wed, 25 Nov 2026.
+Loso is a music venue in Richmond with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DJ Holographic" on Wed, 25 Nov 2026.
 
 Loso is a music venue in Richmond listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Ward, Bridge (NY), Colored Craig and DJ Holographic and 2 more. See dates, start times and who's playing. 2727 W Broad St, Richmond, VA 23220, USA.
 
@@ -22,4 +22,4 @@ Loso is a music venue in Richmond listed on soundcheck. 9 upcoming gigs, with li
 
 2727 W Broad St, Richmond, VA 23220, USA, Richmond
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/loso/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/loso/)*

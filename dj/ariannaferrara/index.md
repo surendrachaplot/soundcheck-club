@@ -1,6 +1,6 @@
 # Arianna Ferrara
 
-Arianna Ferrara is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Basic Club, Naples on Fri, 11 Dec 2026.
+Arianna Ferrara is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Basic Club, Naples on Fri, 11 Dec 2026.
 
 Arianna Ferrara is a techno and electronica artist based in Italy, with 2 gigs on soundcheck across Naples. Often billed alongside CezarX, DJ Balu and Deep Futuristic. Next up: Basic Club, Naples on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ Arianna Ferrara is a techno and electronica artist based in Italy, with 2 gigs o
 
 CezarX, DJ Balu, Deep Futuristic
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariannaferrara/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariannaferrara/)*

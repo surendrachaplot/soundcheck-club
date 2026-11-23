@@ -1,6 +1,6 @@
 # Henry Chow
 
-Henry Chow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at XuXa, Austin on Fri, 27 Nov 2026.
+Henry Chow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at XuXa, Austin on Fri, 27 Nov 2026.
 
 Henry Chow is a techno and house artist based in United States of America, with 59 gigs on soundcheck across Austin, Chicago, Detroit and Houston and 3 more. Often billed alongside Samuel Fish, Max Gardner and Truncate. Next up: XuXa, Austin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Henry Chow is a techno and house artist based in United States of America, with 
 
 Samuel Fish, Max Gardner, Truncate
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrychow/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrychow/)*

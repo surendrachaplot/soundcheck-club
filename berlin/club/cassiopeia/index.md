@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Bambule (Underground, All Time Favourites, Urban)" on Sat, 28 Nov 2026.
+Cassiopeia is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Bambule (Underground, All Time Favourites, Urban)" on Sat, 28 Nov 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including AWSM, Kontravoid, LIZZN and Nation Unrest and 1 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "(free) Wednesnight with" on Wed, 25 Nov 2026.
+Garage 442 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "(free) Wednesnight with" on Wed, 25 Nov 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Marco del Bosque, Muten, P4 and santa:na and 1 more. See dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -18,4 +18,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, 
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

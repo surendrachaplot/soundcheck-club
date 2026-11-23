@@ -1,8 +1,8 @@
 # Ivan Szew
 
-Ivan Szew is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 24 Dec 2026.
+Ivan Szew is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 24 Dec 2026.
 
-Ivan Szew is a techno and experimental artist, with 9 gigs on soundcheck across Barcelona. Often billed alongside COULIN, Mimiq and -nico-. Next up: Les Enfants Brillants, Barcelona on Thu 24 Dec.
+Ivan Szew is a techno and experimental artist based in Argentina, with 9 gigs on soundcheck across Barcelona. Often billed alongside COULIN, Mimiq and -nico-. Next up: Les Enfants Brillants, Barcelona on Thu 24 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ivan Szew is a techno and experimental artist, with 9 gigs on soundcheck across 
 
 COULIN, Mimiq, -nico-
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanszew/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanszew/)*

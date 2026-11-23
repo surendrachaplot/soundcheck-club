@@ -1,6 +1,6 @@
 # Granite Styr
 
-Granite Styr is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Yard, Manchester on Wed, 25 Nov 2026.
+Granite Styr is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Yard, Manchester on Wed, 25 Nov 2026.
 
 Granite Styr is a disco and house artist based in United Kingdom, with 2 gigs on soundcheck across Manchester. Often billed alongside Symbra, Tanoiz and skywalka. Next up: The Yard, Manchester on Wed 25 Nov.
 
@@ -18,4 +18,4 @@ Granite Styr is a disco and house artist based in United Kingdom, with 2 gigs on
 
 Symbra, Tanoiz, skywalka
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/granitestyr/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/granitestyr/)*

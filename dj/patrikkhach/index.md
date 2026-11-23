@@ -1,6 +1,6 @@
 # Patrik Khach
 
-Patrik Khach is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
+Patrik Khach is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
 
 Patrik Khach is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Denver, Dubai, Los Angeles and New York City and 4 more. Often billed alongside Anthony Middleton, Matt Caines and Borak. Next up: Black Sea Coast Beach, Romania on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ Patrik Khach is a house and deep house artist based in United States of America,
 
 Anthony Middleton, Matt Caines, Borak
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikkhach/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikkhach/)*

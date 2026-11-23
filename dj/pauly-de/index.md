@@ -1,6 +1,6 @@
 # PAULY!
 
-PAULY! is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Clock Factory, Bristol on Fri, 4 Dec 2026.
+PAULY! is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Clock Factory, Bristol on Fri, 4 Dec 2026.
 
 PAULY! is a garage and jungle artist based in Germany, with 2 gigs on soundcheck across Bristol. Often billed alongside Akira (Buntai), Betsy Mae and Janaway. Next up: Clock Factory, Bristol on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ PAULY! is a garage and jungle artist based in Germany, with 2 gigs on soundcheck
 
 Akira (Buntai), Betsy Mae, Janaway
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauly-de/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauly-de/)*

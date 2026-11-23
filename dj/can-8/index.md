@@ -1,6 +1,6 @@
 # Can (8)
 
-Can (8) is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Socore Factory, Osaka on Sat, 12 Dec 2026.
+Can (8) is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Socore Factory, Osaka on Sat, 12 Dec 2026.
 
 Can is an experimental and house artist based in Japan, with 6 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Daichi Wago, DJ B2B and Eichi Abe. Next up: Socore Factory, Osaka on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Can is an experimental and house artist based in Japan, with 6 gigs on soundchec
 
 Daichi Wago, DJ B2B, Eichi Abe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*

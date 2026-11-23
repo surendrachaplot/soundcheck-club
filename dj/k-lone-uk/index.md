@@ -1,6 +1,6 @@
 # K-LONE
 
-K-LONE is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
+K-LONE is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
 
 K-LONE is a house and bass artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 17 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: Carreglwyd Estate, West Wales on Thu 10 Jun.
 
@@ -25,4 +25,4 @@ K-LONE is a house and bass artist based in United Kingdom, with 68 gigs on sound
 
 Facta, Jorg Kuning, Yushh
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*

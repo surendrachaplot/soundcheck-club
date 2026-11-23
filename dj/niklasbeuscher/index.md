@@ -1,6 +1,6 @@
 # Niklas Beuscher
 
-Niklas Beuscher is a Tech House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Circle Club Offenburg, Freiburg on Sat, 28 Nov 2026.
+Niklas Beuscher is a Tech House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Circle Club Offenburg, Freiburg on Sat, 28 Nov 2026.
 
 Niklas Beuscher is a tech house and progressive house artist based in Germany, with 2 gigs on soundcheck across Baden W Rttemberg and Freiburg. Often billed alongside Jasmin Blust, AKA AKA and Alle Farben. Next up: Circle Club Offenburg, Freiburg on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ Niklas Beuscher is a tech house and progressive house artist based in Germany, w
 
 Jasmin Blust, AKA AKA, Alle Farben
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbeuscher/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbeuscher/)*

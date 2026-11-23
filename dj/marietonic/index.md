@@ -1,6 +1,6 @@
 # marie tonic
 
-marie tonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 19 Dec 2026.
+marie tonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 19 Dec 2026.
 
 marie tonic is a techno and house artist based in France, with 3 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Azo, Blasha & Allatt and EliseThere. Next up: Karmen Camina, Strasbourg on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ marie tonic is a techno and house artist based in France, with 3 gigs on soundch
 
 Azo, Blasha & Allatt, EliseThere
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marietonic/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marietonic/)*

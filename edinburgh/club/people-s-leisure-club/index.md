@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 21 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Let Loose" on Sun, 22 Nov 2026.
+People's Leisure Club is a music venue in Edinburgh with 21 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "RUBBLE // saparilla, discjocelyne" on Tue, 24 Nov 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 21 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BORLEY and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -8,7 +8,6 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 21 upc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Let Loose | ButhoTheWarrior |
 | Tue, 24 Nov 2026 | RUBBLE // saparilla, discjocelyne | discjocelyne, saparilla |
 | Wed, 25 Nov 2026 | Elf Traps + Shunya | Elf Traps, Shunya |
 | Fri, 27 Nov 2026 | Samedia presents Jamz Supernova - Dance Around The World Tour | Chris Astrojazz, Jamz Supernova, Samedia Shebeen |
@@ -18,9 +17,10 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 21 upc
 | Fri, 4 Dec 2026 | Box Energy // DJ ESP Woody McBride (LIVE) // Jack Brown & Rueben Hughson | Jack Brown, Woody McBride |
 | Sat, 5 Dec 2026 | Microsteria with Livia Rita   | Dani Sonder, Lietzsche, otisworming, slyn |
 | Fri, 11 Dec 2026 | La Beat Soul Club |  |
+| Sat, 12 Dec 2026 | Acid Kantina 1st Birthday | Lord Of The Isles |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

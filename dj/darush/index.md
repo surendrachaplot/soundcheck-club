@@ -1,6 +1,6 @@
 # Darush
 
-Darush is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
+Darush is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
 
 Darush is a house and techno artist based in Iran, with 42 gigs on soundcheck across Barcelona, Glasgow, Lisbon and London. Often billed alongside Jos, KT and De La Reef. Next up: The Cause, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Darush is a house and techno artist based in Iran, with 42 gigs on soundcheck ac
 
 Jos, KT, De La Reef
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*

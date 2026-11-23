@@ -1,6 +1,6 @@
 # LEO.PARDYY
 
-LEO.PARDYY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Helios37, Cologne on Sat, 26 Dec 2026.
+LEO.PARDYY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Helios37, Cologne on Sat, 26 Dec 2026.
 
 LEO.PARDYY is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Cologne. Often billed alongside MARRED, 2HOT2PLAY and 333CXT. Next up: Helios37, Cologne on Sat 26 Dec.
 
@@ -20,4 +20,4 @@ LEO.PARDYY is a techno and trance artist based in Germany, with 4 gigs on soundc
 
 MARRED, 2HOT2PLAY, 333CXT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leo.pardyy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leo.pardyy/)*

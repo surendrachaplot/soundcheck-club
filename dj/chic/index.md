@@ -1,6 +1,6 @@
 # CHIC
 
-CHIC is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Rionegro-WIEW, Medellin on Tue, 1 Dec 2026.
+CHIC is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Rionegro-WIEW, Medellin on Tue, 1 Dec 2026.
 
 CHIC is a techno and house artist based in United States of America, with 6 gigs on soundcheck across Bristol, London, Medellin and Nashville and 1 more. Often billed alongside Nile Rodgers, Dimitri From Paris and Alex Gopher. Next up: TBA - Rionegro-WIEW, Medellin on Tue 1 Dec.
 
@@ -22,4 +22,4 @@ CHIC is a techno and house artist based in United States of America, with 6 gigs
 
 Nile Rodgers, Dimitri From Paris, Alex Gopher
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chic/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chic/)*

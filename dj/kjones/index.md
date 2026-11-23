@@ -1,6 +1,6 @@
 # KJONES
 
-KJONES is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 11 Dec 2026.
+KJONES is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 11 Dec 2026.
 
 KJONES is a garage and techno artist based in Australia, with 54 gigs on soundcheck across Melbourne and Sydney. Often billed alongside TRUSTEE, IsGwan and Charlotte Rooney. Next up: QQQ ST. Park, Melbourne on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ KJONES is a garage and techno artist based in Australia, with 54 gigs on soundch
 
 TRUSTEE, IsGwan, Charlotte Rooney
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjones/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjones/)*

@@ -1,6 +1,6 @@
 # Shunpei (Beebar)
 
-Shunpei (Beebar) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bolero, Seoul on Sat, 28 Nov 2026.
+Shunpei (Beebar) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bolero, Seoul on Sat, 28 Nov 2026.
 
 Shunpei (Beebar) is a house and deep house artist based in Japan, with 22 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside ecec, George Bolton and Senma (DCF）. Next up: Bolero, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Shunpei (Beebar) is a house and deep house artist based in Japan, with 22 gigs o
 
 ecec, George Bolton, Senma (DCF）
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shunpeibeebar/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shunpeibeebar/)*

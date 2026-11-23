@@ -1,6 +1,6 @@
 # Delano
 
-Delano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Delano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Delano is a tech house and house artist, with 3 gigs on soundcheck across Edinburgh, London and Tampa Bay. Often billed alongside A.Wild, Acid Sally and Alien Communications. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Delano is a tech house and house artist, with 3 gigs on soundcheck across Edinbu
 
 A.Wild, Acid Sally, Alien Communications
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delano/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delano/)*

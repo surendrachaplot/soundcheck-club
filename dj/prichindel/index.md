@@ -1,6 +1,6 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 11 Dec 2026.
+Prichindel is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 11 Dec 2026.
 
 Prichindel is a house and minimal artist, with 77 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 21 more. Often billed alongside Dragos Ilici, Cap and Mark Dumitrescu. Next up: 303 Audiophile Bar, Barcelona on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Prichindel is a house and minimal artist, with 77 gigs on soundcheck across Barc
 
 Dragos Ilici, Cap, Mark Dumitrescu
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

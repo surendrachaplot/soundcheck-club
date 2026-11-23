@@ -1,14 +1,13 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at MOD Club, Tallinn on Sun, 22 Nov 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Fri, 27 Nov 2026.
 
-Evanora Unlimited is an experimental and industrial artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 22 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: MOD Club, Tallinn on Sun 22 Nov.
+Evanora Unlimited is an experimental and industrial artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 22 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: Copenhagen Contemporary, Copenhagen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | MOD Club | Tallinn |
 | Fri, 27 Nov 2026 | Copenhagen Contemporary | Copenhagen |
 | Sat, 28 Nov 2026 | Trekanten | Oslo |
 | Tue, 1 Dec 2026 | Botanique | Brussels |
@@ -17,6 +16,7 @@ Evanora Unlimited is an experimental and industrial artist based in United Kingd
 
 ## Recently played
 
+- MOD Club, Tallinn · Sun, 22 Nov 2026
 - Laska V21, Riga · Sat, 21 Nov 2026
 - Karmakoma, Belgrade · Sat, 7 Nov 2026
 - La Station - Gare des Mines, Paris · Sat, 31 Oct 2026
@@ -24,10 +24,9 @@ Evanora Unlimited is an experimental and industrial artist based in United Kingd
 - MTELUS, Montreal · Tue, 29 Sept 2026
 - Gala Hala, Ljubljana · Fri, 21 Aug 2026
 - Gala Hala, Ljubljana · Thu, 20 Aug 2026
-- Tagada, Vienna · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Taraneh, Heartcoregirl, Oatmilkandcodeine
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*

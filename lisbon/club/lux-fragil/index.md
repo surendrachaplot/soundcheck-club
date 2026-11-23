@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Superb: Cassius, Isaac Carter, Andre2000, AZM, Varela" on Fri, 27 Nov 2026.
+Lux Fragil is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Superb: Cassius, Isaac Carter, Andre2000, AZM, Varela" on Fri, 27 Nov 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including Andhim, AZM, BIIA and Cassius and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -20,4 +20,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, wit
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

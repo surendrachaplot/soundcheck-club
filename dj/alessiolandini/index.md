@@ -1,6 +1,6 @@
 # Alessio Landini
 
-Alessio Landini is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
+Alessio Landini is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
 
 Alessio Landini is a techno and club artist based in Italy, with 10 gigs on soundcheck across Berlin, Florence, Stockholm and Strasbourg. Often billed alongside KETCH, Ectoplasm and MZR. Next up: TBA - Secret Location, Stockholm on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Alessio Landini is a techno and club artist based in Italy, with 10 gigs on soun
 
 KETCH, Ectoplasm, MZR
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiolandini/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiolandini/)*

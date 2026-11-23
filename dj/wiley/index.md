@@ -1,6 +1,6 @@
 # Wiley
 
-Wiley is a Afro House and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Russell Industrial Center, Detroit on Sat, 30 Jan 2027.
+Wiley is a Afro House and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Russell Industrial Center, Detroit on Sat, 30 Jan 2027.
 
 Wiley is an afro house and grime artist based in United Kingdom, with 16 gigs on soundcheck across Brighton, Detroit, London and Manchester and 4 more. Often billed alongside DJ Brockie, Artful Dodger and DJ Luck & MC Neat. Next up: Russell Industrial Center, Detroit on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Wiley is an afro house and grime artist based in United Kingdom, with 16 gigs on
 
 DJ Brockie, Artful Dodger, DJ Luck & MC Neat
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wiley/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wiley/)*

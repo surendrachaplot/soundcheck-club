@@ -1,14 +1,13 @@
 # Macky Gee
 
-Macky Gee is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Macky Gee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fire, London on Thu, 31 Dec 2026.
 
-Macky Gee is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 14 more. Often billed alongside Basstripper, Logan D and b-line. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+Macky Gee is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 14 more. Often billed alongside Basstripper, Logan D and b-line. Next up: Fire, London on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Thu, 31 Dec 2026 | Fire | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Macky Gee is a drum & bass and jungle artist based in United Kingdom, with 27 gi
 
 Basstripper, Logan D, b-line
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*

@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Jd J [GE/DE], Diamin [CHL/DE], Khidja, New Disorder & Agent van Kruid" on Fri, 27 Nov 2026.
+control is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Jd J [GE/DE], Diamin [CHL/DE], Khidja, New Disorder & Agent van Kruid" on Fri, 27 Nov 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, with line-ups including Benjamin Fröhlich, Diamin, DJ Nobu and FJAAK and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -19,4 +19,4 @@ control is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, wit
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

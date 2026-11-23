@@ -1,6 +1,6 @@
 # Angelo Cortines
 
-Angelo Cortines is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Macarena Club, Barcelona on Wed, 9 Dec 2026.
+Angelo Cortines is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Macarena Club, Barcelona on Wed, 9 Dec 2026.
 
 Angelo Cortines is a house and electro artist based in Dominican Republic, with 39 gigs on soundcheck across Barcelona. Often billed alongside max brachais, Zedlav and Alice Youngling. Next up: Macarena Club, Barcelona on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Angelo Cortines is a house and electro artist based in Dominican Republic, with 
 
 max brachais, Zedlav, Alice Youngling
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelocortines/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelocortines/)*

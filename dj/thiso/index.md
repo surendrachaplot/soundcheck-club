@@ -1,6 +1,6 @@
 # THISO
 
-THISO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
+THISO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
 
 THISO is a techno and trance artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 16 more. Often billed alongside HANÀ, Niotech and 3LEEZA. Next up: Gotec, Karlsruhe on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ THISO is a techno and trance artist based in Netherlands, with 40 gigs on soundc
 
 HANÀ, Niotech, 3LEEZA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*

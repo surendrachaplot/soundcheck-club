@@ -1,6 +1,6 @@
 # Curses
 
-Curses is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Curses is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Curses is a techno and house artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside The Lady Machine, Rakans and Cormac. Next up: The Cause, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Curses is a techno and house artist based in United States of America, with 197 
 
 The Lady Machine, Rakans, Cormac
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

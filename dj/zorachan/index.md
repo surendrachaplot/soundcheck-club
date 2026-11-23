@@ -1,6 +1,6 @@
 # Zora Chan
 
-Zora Chan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Casual, Hong Kong on Sat, 28 Nov 2026.
+Zora Chan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Casual, Hong Kong on Sat, 28 Nov 2026.
 
 Zora Chan is a house and techno artist based in China, with 14 gigs on soundcheck across Hong Kong and Shanghai. Often billed alongside DJ Kirby, CASAMUSICA and Casey Anderson. Next up: Casual, Hong Kong on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Zora Chan is a house and techno artist based in China, with 14 gigs on soundchec
 
 DJ Kirby, CASAMUSICA, Casey Anderson
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorachan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorachan/)*

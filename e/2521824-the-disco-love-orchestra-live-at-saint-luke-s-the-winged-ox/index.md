@@ -1,6 +1,6 @@
 # The Disco Love Orchestra Live at Saint Luke's & The Winged Ox
 
-The Disco Love Orchestra Live at Saint Luke's & The Winged Ox on Sat 20 Feb, Glasgow. 1 artist: Al Kent. See the line-up on soundcheck.
+The Disco Love Orchestra Live at Saint Luke's & The Winged Ox on Sat 20 Feb, Glasgow. 1 artist: Al Kent. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

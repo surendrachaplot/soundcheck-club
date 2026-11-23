@@ -1,6 +1,6 @@
 # Leo Gretener
 
-Leo Gretener is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
+Leo Gretener is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
 Leo Gretener is a house and electronica artist based in Switzerland, with 27 gigs on soundcheck across Geneva, Manchester and Zurich. Often billed alongside Princess P, Kalabrese and Ethimm. Next up: Kauz, Zurich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Leo Gretener is a house and electronica artist based in Switzerland, with 27 gig
 
 Princess P, Kalabrese, Ethimm
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leogretener/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leogretener/)*

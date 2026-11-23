@@ -1,6 +1,6 @@
 # Ruby Savage
 
-Ruby Savage is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at FOLD, London on Fri, 11 Dec 2026.
+Ruby Savage is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Fri, 11 Dec 2026.
 
 Ruby Savage is a house and disco artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Shy One, Mendel and Dee Diggs. Next up: FOLD, London on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Ruby Savage is a house and disco artist based in Netherlands, with 105 gigs on s
 
 Shy One, Mendel, Dee Diggs
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*

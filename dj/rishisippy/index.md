@@ -1,6 +1,6 @@
 # Rishi Sippy
 
-Rishi Sippy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Rishi Sippy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Rishi Sippy is a techno and house artist based in India, with 10 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Kuala Lumpur and 2 more. Often billed alongside AAGUU, Discrete Circuit and JonnyVicious. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Rishi Sippy is a techno and house artist based in India, with 10 gigs on soundch
 
 AAGUU, Discrete Circuit, JonnyVicious
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rishisippy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rishisippy/)*

@@ -1,6 +1,6 @@
 # Bread and Butter Arch
 
-Bread and Butter Arch is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "S.U.R.E. EP LAUNCH PARTY" on Fri, 27 Nov 2026.
+Bread and Butter Arch is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "S.U.R.E. EP LAUNCH PARTY" on Fri, 27 Nov 2026.
 
 Bread and Butter Arch is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including JOSH FB, Local Press, Merchant and Sophia Constantinou and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Bread and Butter Arch is a music venue in London listed on soundcheck. 3 upcomin
 | Thu, 3 Dec 2026 | Creatives Christmas Party |  |
 | Sat, 13 Feb 2027 | Local Press invites Merchant & JOSH FB | JOSH FB, Local Press, Merchant |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter-arch/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter-arch/)*

@@ -1,6 +1,6 @@
 # Jonny (Free Soul)
 
-Jonny (Free Soul) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
+Jonny (Free Soul) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
 
 Jonny (Free Soul) is a house and tech house artist, with 2 gigs on soundcheck across Berlin and Sydney. Often billed alongside Aniza (DE), BECCA and Bates. Next up: ://about blank, Berlin on Sat 9 Jan.
 
@@ -18,4 +18,4 @@ Jonny (Free Soul) is a house and tech house artist, with 2 gigs on soundcheck ac
 
 Aniza (DE), BECCA, Bates
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfreesoul/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfreesoul/)*

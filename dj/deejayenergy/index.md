@@ -1,6 +1,6 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Mexico City on Fri, 4 Dec 2026.
+Deejay Energy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Mexico City on Fri, 4 Dec 2026.
 
 Deejay Energy is a techno and house artist based in Mexico, with 90 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 10 more. Often billed alongside Enya Botello, Bluecommand and Fig (DYN). Next up: TBA, Mexico City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Deejay Energy is a techno and house artist based in Mexico, with 90 gigs on soun
 
 Enya Botello, Bluecommand, Fig (DYN)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*

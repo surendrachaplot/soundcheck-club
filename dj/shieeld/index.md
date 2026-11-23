@@ -1,6 +1,6 @@
 # Shieeld
 
-Shieeld is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mastak, Warsaw on Sun, 27 Dec 2026.
+Shieeld is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mastak, Warsaw on Sun, 27 Dec 2026.
 
 Shieeld is an electronica and techno artist based in Georgia, with 2 gigs on soundcheck across Warsaw. Often billed alongside Marboc, Nightfall and Sickdat. Next up: Mastak, Warsaw on Sun 27 Dec.
 
@@ -18,4 +18,4 @@ Shieeld is an electronica and techno artist based in Georgia, with 2 gigs on sou
 
 Marboc, Nightfall, Sickdat
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shieeld/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shieeld/)*

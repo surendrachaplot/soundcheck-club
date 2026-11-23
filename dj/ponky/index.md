@@ -1,8 +1,8 @@
 # Pōnky
 
-Pōnky is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Klub K4, Ljubljana on Fri, 27 Nov 2026.
+Pōnky is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Klub K4, Ljubljana on Fri, 27 Nov 2026.
 
-Pōnky is a techno and house artist based in France, with 54 gigs on soundcheck across Amsterdam, Berlin, Cologne and Cyprus and 13 more. Often billed alongside FENIM0RE, Caniche and MADMAN. Next up: Klub K4, Ljubljana on Fri 27 Nov.
+Pōnky is a techno and house artist based in France, with 55 gigs on soundcheck across Amsterdam, Berlin, Cologne and Cyprus and 14 more. Often billed alongside FENIM0RE, Caniche and MADMAN. Next up: Klub K4, Ljubljana on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pōnky is a techno and house artist based in France, with 54 gigs on soundcheck 
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 5 Dec 2026 | Le Cargö | West |
 | Fri, 18 Dec 2026 | Raedli | Zurich |
+| Sat, 19 Dec 2026 | TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic | London |
 | Thu, 31 Dec 2026 | Ktima Camelot | Cyprus |
 
 ## Recently played
@@ -29,4 +30,4 @@ Pōnky is a techno and house artist based in France, with 54 gigs on soundcheck 
 
 FENIM0RE, Caniche, MADMAN (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*

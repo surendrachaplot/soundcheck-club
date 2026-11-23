@@ -1,6 +1,6 @@
 # BEN BKWRDZ at Avalon (BIRTHDAY SET) at Avalon Hollywood
 
-BEN BKWRDZ at Avalon (BIRTHDAY SET) at Avalon Hollywood on Sat 28 Nov, Los Angeles. 8 artists: Babayaga, Blerry, ETRA and Manta and 4 more. Techno and House. See the line-up on soundcheck.
+BEN BKWRDZ at Avalon (BIRTHDAY SET) at Avalon Hollywood on Sat 28 Nov, Los Angeles. 8 artists: Babayaga, Blerry, ETRA and Manta and 4 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

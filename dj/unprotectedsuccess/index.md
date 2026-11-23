@@ -1,6 +1,6 @@
 # Unprotected Success
 
-Unprotected Success is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 28 Nov 2026.
+Unprotected Success is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 28 Nov 2026.
 
 Unprotected Success is a house and techno artist based in Australia, with 27 gigs on soundcheck across Sydney. Often billed alongside Alex Diwa, Harry Court and Milkpaste. Next up: Abercrombie Hotel, Sydney on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Unprotected Success is a house and techno artist based in Australia, with 27 gig
 
 Alex Diwa, Harry Court, Milkpaste
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unprotectedsuccess/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unprotectedsuccess/)*

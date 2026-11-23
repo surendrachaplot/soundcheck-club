@@ -1,6 +1,6 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Paragon, New York City on Sat, 5 Dec 2026.
+Ariel Zetina is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Paragon, New York City on Sat, 5 Dec 2026.
 
 Ariel Zetina is a techno and house artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Athens, Atlanta and Berlin and 27 more. Often billed alongside Miss Twink USA, Carly Zeng and Glamour Cadaver. Next up: Paragon, New York City on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Ariel Zetina is a techno and house artist based in United States of America, wit
 
 Miss Twink USA, Carly Zeng, Glamour Cadaver
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

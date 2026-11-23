@@ -1,6 +1,6 @@
 # dileta
 
-dileta is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Toronto on Sat, 12 Dec 2026.
+dileta is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Toronto on Sat, 12 Dec 2026.
 
 dileta is a techno and bass artist based in Canada, with 40 gigs on soundcheck across Montreal and Toronto. Often billed alongside esme (US), Asha and Lis Dalton. Next up: TBA, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ dileta is a techno and bass artist based in Canada, with 40 gigs on soundcheck a
 
 esme (US), Asha (4), Lis Dalton
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dileta/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dileta/)*

@@ -1,6 +1,6 @@
 # SAUANI
 
-SAUANI is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Salas Roma, Mexico City on Sat, 5 Dec 2026.
+SAUANI is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Salas Roma, Mexico City on Sat, 5 Dec 2026.
 
 SAUANI is a house and deep house artist based in Mexico, with 48 gigs on soundcheck across Barcelona, Mexico City, Munich and Paris. Often billed alongside papa jazz, EM2K and JAWAR. Next up: Salas Roma, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ SAUANI is a house and deep house artist based in Mexico, with 48 gigs on soundch
 
 papa jazz, EM2K, JAWAR (3)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sauani/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sauani/)*

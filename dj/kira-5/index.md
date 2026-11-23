@@ -1,6 +1,6 @@
 # Kira (5)
 
-Kira (5) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Kira (5) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Kira is an electronic artist based in Poland, with 3 gigs on soundcheck across Colombia and London. Often billed alongside SP:MC, Adi (CO) and Alejandro Bernal. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -19,4 +19,4 @@ Kira is an electronic artist based in Poland, with 3 gigs on soundcheck across C
 
 SP:MC, Adi (CO), Alejandro Bernal
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-5/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-5/)*

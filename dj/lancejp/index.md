@@ -1,14 +1,15 @@
 # Lance (JP)
 
-Lance (JP) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat, 19 Dec 2026.
+Lance (JP) is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat, 19 Dec 2026.
 
-Lance (JP) is a hardcore and gabber artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside Vital Force, riichi / we_like_180bpm and DJ Shimamura. Next up: TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat 19 Dec.
+Lance (JP) is a hardcore and techno artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside Vital Force, riichi / we_like_180bpm and DJ Shimamura. Next up: TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | TBA - PUBLIC PUBLIC Shibuya | Tokyo |
+| Sat, 13 Feb 2027 | Another Dimension | Tokyo |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Lance (JP) is a hardcore and gabber artist based in Japan, with 7 gigs on soundc
 
 Vital Force, riichi / we_like_180bpm, DJ Shimamura
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lancejp/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lancejp/)*

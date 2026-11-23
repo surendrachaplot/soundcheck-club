@@ -1,15 +1,13 @@
 # Virginia
 
-Virginia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Virginia is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
 
-Virginia is a house and techno artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 64 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
+Virginia is a house and techno artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 64 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: La Paloma, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
-| Sat, 21 Nov 2026 | Studio Citygate | Brussels |
 | Fri, 27 Nov 2026 | La Paloma | Barcelona |
 | Sat, 28 Nov 2026 | The Ulster Sports Club | Belfast |
 | Fri, 18 Dec 2026 | RADION | Amsterdam |
@@ -29,4 +27,4 @@ Virginia is a house and techno artist based in Germany, with 260 gigs on soundch
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

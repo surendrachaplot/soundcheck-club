@@ -1,6 +1,6 @@
 # Mystery Friend
 
-Mystery Friend is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Otra Historia Club Cultural, Buenos Aires on Sat, 12 Dec 2026.
+Mystery Friend is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Otra Historia Club Cultural, Buenos Aires on Sat, 12 Dec 2026.
 
 Mystery Friend is a house and techno artist based in Argentina, with 12 gigs on soundcheck across Berlin, Bogotá, Buenos Aires and Leeds and 3 more. Often billed alongside Harari, Invalid User and Ric Piccolo. Next up: Otra Historia Club Cultural, Buenos Aires on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Mystery Friend is a house and techno artist based in Argentina, with 12 gigs on 
 
 Harari, Invalid User, Ric Piccolo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryfriend/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryfriend/)*

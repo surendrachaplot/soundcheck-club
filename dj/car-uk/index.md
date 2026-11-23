@@ -1,6 +1,6 @@
 # C.A.R.
 
-C.A.R. is a Electro and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
+C.A.R. is a Electro and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
 
 C.A.R. is an electro and minimal artist based in United Kingdom, with 33 gigs on soundcheck across Berlin, Bristol, London and Manchester and 3 more. Often billed alongside Harry James, Craig Richards and Rosie Ama. Next up: FOLD, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ C.A.R. is an electro and minimal artist based in United Kingdom, with 33 gigs on
 
 Harry James, Craig Richards, Rosie Ama
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/car-uk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/car-uk/)*

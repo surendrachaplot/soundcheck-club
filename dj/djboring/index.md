@@ -1,6 +1,6 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Warehouse, Leeds on Sat, 28 Nov 2026.
+DJ BORING is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Warehouse, Leeds on Sat, 28 Nov 2026.
 
 DJ BORING is a house and techno artist based in Australia, with 237 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: The Warehouse, Leeds on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ DJ BORING is a house and techno artist based in Australia, with 237 gigs on soun
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

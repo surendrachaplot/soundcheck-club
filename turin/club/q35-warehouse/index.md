@@ -1,6 +1,6 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "MARRØN ext set (EersteCommunie /NL), Andrea Perna (WRD /IT), Aberra (WRD /IT) at Q35 WAREHOUSE" on Sat, 28 Nov 2026.
+Q35 WAREHOUSE is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "MARRØN ext set (EersteCommunie /NL), Andrea Perna (WRD /IT), Aberra (WRD /IT) at Q35 WAREHOUSE" on Sat, 28 Nov 2026.
 
 Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including Aberra, Adiel, Ellen Allien and HAAi and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
@@ -17,4 +17,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 4 upcoming gigs, w
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

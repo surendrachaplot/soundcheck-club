@@ -1,6 +1,6 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Sandrien is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
 Sandrien is a techno and house artist based in Netherlands, with 190 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 41 more. Often billed alongside DVS1, JakoJako and Fafi Abdel Nour. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ Sandrien is a techno and house artist based in Netherlands, with 190 gigs on sou
 
 DVS1, JakoJako, Fafi Abdel Nour
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

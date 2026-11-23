@@ -1,6 +1,6 @@
 # Babs (3)
 
-Babs (3) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at renae, Manchester on Sat, 5 Dec 2026.
+Babs (3) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at renae, Manchester on Sat, 5 Dec 2026.
 
 Babs is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Manchester and Sheffield. Often billed alongside Old Child, CARALUS and Holba. Next up: renae, Manchester on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Babs is a house and tech house artist based in United Kingdom, with 13 gigs on s
 
 Old Child, CARALUS, Holba
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*

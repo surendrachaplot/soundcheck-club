@@ -1,6 +1,6 @@
 # Adam F
 
-Adam F is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at FORGE, Sheffield on Fri, 27 Nov 2026.
+Adam F is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FORGE, Sheffield on Fri, 27 Nov 2026.
 
 Adam F is a drum & bass and jungle artist based in United Kingdom, with 16 gigs on soundcheck across Birmingham, Bristol, Budapest and Liverpool and 6 more. Often billed alongside Harry Shotta, adamine and Hardcore Babes. Next up: FORGE, Sheffield on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Adam F is a drum & bass and jungle artist based in United Kingdom, with 16 gigs 
 
 Harry Shotta, adamine, Hardcore Babes
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*

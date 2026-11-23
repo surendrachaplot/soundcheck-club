@@ -1,6 +1,6 @@
 # Dismantle
 
-Dismantle is a Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Volks, Brighton on Sat, 28 Nov 2026.
+Dismantle is a Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Volks, Brighton on Sat, 28 Nov 2026.
 
 Dismantle is a drum & bass artist based in United Kingdom, with 2 gigs on soundcheck across Barcelona and Brighton. Often billed alongside Ana Alves, Aura Nox and Black Merlin. Next up: Volks, Brighton on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ Dismantle is a drum & bass artist based in United Kingdom, with 2 gigs on soundc
 
 Ana Alves, Aura Nox, Black Merlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dismantle/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dismantle/)*

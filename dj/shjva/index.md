@@ -1,6 +1,6 @@
 # Shjva
 
-Shjva is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tell Me, Sofia on Fri, 27 Nov 2026.
+Shjva is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tell Me, Sofia on Fri, 27 Nov 2026.
 
 Shjva is a techno and trance artist based in Ukraine, with 91 gigs on soundcheck across Athens, Berlin, Brussels and Cologne and 19 more. Often billed alongside Samogulov, Plastik and Volodymyr Gnatenko. Next up: Tell Me, Sofia on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Shjva is a techno and trance artist based in Ukraine, with 91 gigs on soundcheck
 
 Samogulov, Plastik (1), Volodymyr Gnatenko
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*

@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Critter b2b KATARAMA all night" on Fri, 27 Nov 2026.
+Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Critter b2b KATARAMA all night" on Fri, 27 Nov 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Cal C (Modern Art), Carlos Estebban, Cosmic JD and Critter and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -21,4 +21,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with 
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

@@ -1,6 +1,6 @@
 # Kapteinis Reinis
 
-Kapteinis Reinis is a Gabber and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
+Kapteinis Reinis is a Gabber and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
 
 Kapteinis Reinis is a gabber and hip-hop artist based in Latvia, with 3 gigs on soundcheck across Riga. Often billed alongside ZapWo, B2BBASS and DEP (LV). Next up: Korpuss, Riga on Sat 28 Nov.
 
@@ -16,4 +16,4 @@ Kapteinis Reinis is a gabber and hip-hop artist based in Latvia, with 3 gigs on 
 
 ZapWo, B2BBASS, DEP (LV)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kapteinisreinis/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kapteinisreinis/)*

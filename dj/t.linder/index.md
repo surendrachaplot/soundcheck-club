@@ -1,6 +1,6 @@
 # T.Linder
 
-T.Linder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at HALO DETROIT, Detroit on Sat, 28 Nov 2026.
+T.Linder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at HALO DETROIT, Detroit on Sat, 28 Nov 2026.
 
 T.Linder is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Berlin, Detroit and Indiana and 3 more. Often billed alongside DJ Seoul, Neil V and DJ Roach. Next up: HALO DETROIT, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ T.Linder is a techno and house artist based in United States of America, with 39
 
 DJ Seoul, Neil V, DJ Roach
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.linder/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.linder/)*

@@ -1,6 +1,6 @@
 # Donae'o
 
-Donae'o is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bread & Butter Arch, London on Sat, 6 Feb 2027.
+Donae'o is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bread & Butter Arch, London on Sat, 6 Feb 2027.
 
 Donae'o is an uk funky and garage artist based in United Kingdom, with 30 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and DJ EZ. Next up: Bread & Butter Arch, London on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Donae'o is an uk funky and garage artist based in United Kingdom, with 30 gigs o
 
 Crazy Cousinz, Jojo Deevoy, DJ EZ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*

@@ -1,6 +1,6 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Sub Club, Glasgow on Thu, 26 Nov 2026.
+Denis Sulta is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sub Club, Glasgow on Thu, 26 Nov 2026.
 
 Denis Sulta is a house and techno artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 56 more. Often billed alongside Ben Hemsley, CHRIS STASSY and Sarah Story. Next up: Sub Club, Glasgow on Thu 26 Nov.
 
@@ -33,4 +33,4 @@ Denis Sulta is a house and techno artist based in United Kingdom, with 159 gigs 
 
 Ben Hemsley, CHRIS STASSY, Sarah Story
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*

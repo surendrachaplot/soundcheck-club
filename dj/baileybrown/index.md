@@ -1,6 +1,6 @@
 # Bailey Brown
 
-Bailey Brown is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
+Bailey Brown is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
 
 Bailey Brown is a techno and house artist based in Germany, with 36 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside 369 (GER), DJ BTM and Alex Benz. Next up: Rollberg26, Berlin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Bailey Brown is a techno and house artist based in Germany, with 36 gigs on soun
 
 369 (GER), DJ BTM, Alex Benz
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileybrown/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileybrown/)*

@@ -1,14 +1,15 @@
 # MarshmeLLo
 
-MarshmeLLo is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Grow, London on Sat, 28 Nov 2026.
+MarshmeLLo is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Grow, London on Sat, 28 Nov 2026.
 
-MarshmeLLo is a house and broken beat artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Copenhagen, Leeds and London. Often billed alongside Leanne Wright, Zakia and Alexander Nut. Next up: Grow, London on Sat 28 Nov.
+MarshmeLLo is a house and broken beat artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Copenhagen, Leeds and London. Often billed alongside Leanne Wright, Zakia and Alexander Nut. Next up: Grow, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Grow | London |
+| Sat, 20 Feb 2027 | Palais | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MarshmeLLo is a house and broken beat artist based in United Kingdom, with 36 gi
 
 Leanne Wright, Zakia, Alexander Nut
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marshmello/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marshmello/)*

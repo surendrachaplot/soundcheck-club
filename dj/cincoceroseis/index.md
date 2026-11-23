@@ -1,6 +1,6 @@
 # CINCOCEROSEIS
 
-CINCOCEROSEIS is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Malasaña, Madrid on Thu, 26 Nov 2026.
+CINCOCEROSEIS is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Malasaña, Madrid on Thu, 26 Nov 2026.
 
 CINCOCEROSEIS is an electronica and house artist based in Argentina, with 15 gigs on soundcheck across Madrid. Often billed alongside Cabin Luv Affair, Jorge Padilla and Leandro Bordoni. Next up: Club Malasaña, Madrid on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ CINCOCEROSEIS is an electronica and house artist based in Argentina, with 15 gig
 
 Cabin Luv Affair, Jorge Padilla, Leandro Bordoni
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cincoceroseis/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cincoceroseis/)*

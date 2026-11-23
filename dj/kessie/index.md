@@ -1,6 +1,6 @@
 # Kessie
 
-Kessie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Vinyl Whistle, Leeds on Fri, 27 Nov 2026.
+Kessie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Vinyl Whistle, Leeds on Fri, 27 Nov 2026.
 
 Kessie is a techno and house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside DAX J, Gareth Wild and Deventi. Next up: The Vinyl Whistle, Leeds on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Kessie is a techno and house artist based in United Kingdom, with 87 gigs on sou
 
 DAX J, Gareth Wild, Deventi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*

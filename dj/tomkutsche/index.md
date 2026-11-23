@@ -1,19 +1,19 @@
 # Tom Kutsche
 
-Tom Kutsche is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Rambla de Catalunya 23, Primera Principal, Barcelona on Sun, 22 Nov 2026.
+Tom Kutsche is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Open Ground, Wuppertal on Sat, 12 Dec 2026.
 
-Tom Kutsche is a house and disco artist based in Germany, with 83 gigs on soundcheck across Barcelona, Berlin, Cologne and Hamburg and 5 more. Often billed alongside Diskohengst, Merlin Monroe and Femdelic. Next up: TBA - Rambla de Catalunya 23, Primera Principal, Barcelona on Sun 22 Nov.
+Tom Kutsche is a house and disco artist based in Germany, with 83 gigs on soundcheck across Barcelona, Berlin, Cologne and Hamburg and 5 more. Often billed alongside Diskohengst, Merlin Monroe and Femdelic. Next up: Open Ground, Wuppertal on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | TBA - Rambla de Catalunya 23, Primera Principal | Barcelona |
 | Sat, 12 Dec 2026 | Open Ground | Wuppertal |
 | Fri, 18 Dec 2026 | Funkhaus Wien | Vienna |
 
 ## Recently played
 
+- TBA - Rambla de Catalunya 23, Primera Principal, Barcelona · Sun, 22 Nov 2026
 - fi, Cologne · Sat, 7 Nov 2026
 - Humboldthain Club, Berlin · Fri, 30 Oct 2026
 - Mena Berlin, Berlin · Sun, 25 Oct 2026
@@ -21,10 +21,9 @@ Tom Kutsche is a house and disco artist based in Germany, with 83 gigs on soundc
 - Espai Salvadiscos, Barcelona · Sat, 12 Sept 2026
 - Badaboum, Paris · Sat, 22 Aug 2026
 - ZIK Zeit ist Knapp, Berlin · Sun, 9 Aug 2026
-- fi, Cologne · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Diskohengst, Merlin Monroe, Femdelic
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*

@@ -1,6 +1,6 @@
 # Bryn Avery
 
-Bryn Avery is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 4 Dec 2026.
+Bryn Avery is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 Bryn Avery is a tech house and house artist based in United States of America, with 6 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Moheato, Torteline and Hunter Green. Next up: Public Works, San Francisco/Oakland on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Bryn Avery is a tech house and house artist based in United States of America, w
 
 Moheato, Torteline, Hunter Green
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brynavery/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brynavery/)*

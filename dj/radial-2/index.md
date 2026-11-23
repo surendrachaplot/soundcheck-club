@@ -1,6 +1,6 @@
 # Radial (2)
 
-Radial (2) is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club JB's, Chubu on Sat, 26 Dec 2026.
+Radial (2) is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club JB's, Chubu on Sat, 26 Dec 2026.
 
 Radial is a bass and uk funky artist based in Japan, with 3 gigs on soundcheck across Chubu and Tokyo. Often billed alongside DJ Q, DJnoonkoon and MileZ. Next up: Club JB's, Chubu on Sat 26 Dec.
 
@@ -19,4 +19,4 @@ Radial is a bass and uk funky artist based in Japan, with 3 gigs on soundcheck a
 
 DJ Q, DJnoonkoon, MileZ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radial-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radial-2/)*

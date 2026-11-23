@@ -1,6 +1,6 @@
 # suntmilan
 
-suntmilan is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Bucharest on Fri, 15 Jan 2027.
+suntmilan is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Bucharest on Fri, 15 Jan 2027.
 
 suntmilan is a techno artist based in Romania, with 2 gigs on soundcheck across Bucharest. Often billed alongside FAUST, Kanghu and Michael Ius. Next up: TBA, Bucharest on Fri 15 Jan.
 
@@ -18,4 +18,4 @@ suntmilan is a techno artist based in Romania, with 2 gigs on soundcheck across 
 
 FAUST (1), Kanghu, Michael Ius
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suntmilan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suntmilan/)*

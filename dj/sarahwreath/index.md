@@ -1,14 +1,13 @@
 # Sarah Wreath
 
-Sarah Wreath is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
+Sarah Wreath is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 18 Dec 2026.
 
-Sarah Wreath is a techno and ambient artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 8 more. Often billed alongside Function, Eli Verveine and Gwenan. Next up: Garage Noord, Amsterdam on Sat 21 Nov.
+Sarah Wreath is a techno and ambient artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 8 more. Often billed alongside Function, Eli Verveine and Gwenan. Next up: Tresor / Globus, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Garage Noord | Amsterdam |
 | Fri, 18 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sarah Wreath is a techno and ambient artist based in Germany, with 50 gigs on so
 
 Function, Eli Verveine, Gwenan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwreath/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwreath/)*

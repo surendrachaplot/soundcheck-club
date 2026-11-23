@@ -1,6 +1,6 @@
 # Ryu
 
-Ryu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Avalon Hollywood, Los Angeles on Sat, 28 Nov 2026.
+Ryu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Avalon Hollywood, Los Angeles on Sat, 28 Nov 2026.
 
 Ryu is a house and techno artist based in China, with 20 gigs on soundcheck across Amsterdam, Krakow, Los Angeles and Osaka and 2 more. Often billed alongside KONDO Mitsuo, yu-more and DJ B2B. Next up: Avalon Hollywood, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ryu is a house and techno artist based in China, with 20 gigs on soundcheck acro
 
 KONDO Mitsuo, yu-more, DJ B2B
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-1-ch/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-1-ch/)*

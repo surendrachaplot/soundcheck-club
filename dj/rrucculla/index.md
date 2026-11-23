@@ -1,6 +1,6 @@
 # RRUCCULLA
 
-RRUCCULLA is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
+RRUCCULLA is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
 
 RRUCCULLA is an electronic artist, with 3 gigs on soundcheck across Barcelona and North. Often billed alongside A. G. Cook, Aire and Bas Mooy. Next up: Sala de Armas, North on Fri 19 Feb.
 
@@ -19,4 +19,4 @@ RRUCCULLA is an electronic artist, with 3 gigs on soundcheck across Barcelona an
 
 A. G. Cook, Aire, Bas Mooy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrucculla/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrucculla/)*

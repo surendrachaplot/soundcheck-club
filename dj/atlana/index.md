@@ -1,6 +1,6 @@
 # Atlana
 
-Atlana is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Das Lot, Vienna on Sat, 5 Dec 2026.
+Atlana is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Das Lot, Vienna on Sat, 5 Dec 2026.
 
 Atlana is a footwork and bass artist based in Austria, with 3 gigs on soundcheck across London and Vienna. Often billed alongside Carma, Chinyere and Linko. Next up: Das Lot, Vienna on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Atlana is a footwork and bass artist based in Austria, with 3 gigs on soundcheck
 
 Carma, Chinyere, Linko
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atlana/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atlana/)*

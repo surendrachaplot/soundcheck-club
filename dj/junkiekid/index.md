@@ -1,6 +1,6 @@
 # Junkie Kid
 
-Junkie Kid is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Warehouse, Nantes on Fri, 11 Dec 2026.
+Junkie Kid is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Warehouse, Nantes on Fri, 11 Dec 2026.
 
 Junkie Kid is a techno and hardcore artist based in United States of America, with 22 gigs on soundcheck across Brisbane, Chicago, Houston and Istanbul and 15 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: Warehouse, Nantes on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Junkie Kid is a techno and hardcore artist based in United States of America, wi
 
 DJ GUESTLIST, HIJCKD, Mark Blair
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*

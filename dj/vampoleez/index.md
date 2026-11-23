@@ -1,6 +1,6 @@
 # vampoleez
 
-vampoleez is a Club and Gqom artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
+vampoleez is a Club and Gqom artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
 
 vampoleez is a club and gqom artist based in China, with 2 gigs on soundcheck across Shenzhen. Often billed alongside Warmchainss, ADEAD and Alion. Next up: OIL Club, Shenzhen on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ vampoleez is a club and gqom artist based in China, with 2 gigs on soundcheck ac
 
 Warmchainss, ADEAD, Alion
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vampoleez/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vampoleez/)*

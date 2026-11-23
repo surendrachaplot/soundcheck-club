@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 27 Nov 2026.
+Sedef Adasï is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 27 Nov 2026.
 
 Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: CLUB RAUM, Amsterdam on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soun
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

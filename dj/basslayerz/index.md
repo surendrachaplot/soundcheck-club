@@ -1,14 +1,13 @@
 # BassLayerz
 
-BassLayerz is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+BassLayerz is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
-BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 16 more. Often billed alongside Hedex, Eksman and IC3. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 16 more. Often billed alongside Hedex, Eksman and IC3. Next up: Lab11, Birmingham on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 28 Nov 2026 | Lab11 | Birmingham |
 | Fri, 1 Jan 2027 | Langley Park | Perth |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
@@ -29,4 +28,4 @@ BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 68 g
 
 Hedex, Eksman, IC3
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*

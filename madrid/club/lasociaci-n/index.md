@@ -1,14 +1,13 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "TRAMA with Robert Leiner" on Sat, 21 Nov 2026.
+Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DARKMASS Lasociaciøn ||| Paula Koski • Esther Summer • KATTA • KINKIGROOVE • KRS" on Fri, 27 Nov 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Amperia, Babu, Beatrice (DE) and Betamax_ and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Amperia, Beatrice (DE), Dj Dune and E2NMN and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TRAMA with Robert Leiner | Babu, Betamax_, FERRI, Mou, Pablo Ruizgalan, Robert Leiner, Victor Reyes |
 | Fri, 27 Nov 2026 | DARKMASS Lasociaciøn /// Paula Koski • Esther Summer • KATTA • KINKIGROOVE • KRS | Esther Summer, KRSDJ, Paula Koski |
 | Sun, 29 Nov 2026 | EXTENDED TIME of OVERDRIVE | Jesus Riaño, Ricardo Morales, Yvan Corrochano |
 | Mon, 7 Dec 2026 | Dunkeln Madrid - Extended 12h | Oscar Blue, PW DISTORTION, Yiye |
@@ -17,9 +16,10 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, w
 | Sat, 19 Dec 2026 | Barro Showcase // Especial Nöle 20 años | Amperia, Nöle, Ricardo Morales |
 | Thu, 24 Dec 2026 | Soundhall Aniversario | Beatrice (DE), E2NMN, K1000o, Redondoo, Yiye, exuvia |
 | Sat, 26 Dec 2026 | Bunkers Collective 5th Anniversary |  |
+| Sat, 20 Feb 2027 | 100x100 Techno IV ANNIVERSARY  |  |
 
 ## Address
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

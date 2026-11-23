@@ -1,6 +1,6 @@
 # Ingwer
 
-Ingwer is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Soften Your Gaze" on Wed, 2 Dec 2026.
+Ingwer is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Soften Your Gaze" on Wed, 2 Dec 2026.
 
 Ingwer is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Jeena and Vivian Koch. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ingwer is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with lin
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Soften Your Gaze | Jeena, Vivian Koch |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ingwer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ingwer/)*

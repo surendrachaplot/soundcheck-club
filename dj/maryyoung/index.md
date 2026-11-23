@@ -1,6 +1,6 @@
 # Mary Young
 
-Mary Young is a Dubstep and Grime artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Post Bar, Helsinki on Sat, 28 Nov 2026.
+Mary Young is a Dubstep and Grime artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Post Bar, Helsinki on Sat, 28 Nov 2026.
 
 Mary Young is a dubstep and grime artist based in Finland, with 45 gigs on soundcheck across Helsinki. Often billed alongside Desto, Volpe and Lil Tony. Next up: Post Bar, Helsinki on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Mary Young is a dubstep and grime artist based in Finland, with 45 gigs on sound
 
 Desto, Volpe (2), Lil Tony
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyoung/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyoung/)*

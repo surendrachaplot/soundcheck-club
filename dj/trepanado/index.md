@@ -1,6 +1,6 @@
 # Trepanado
 
-Trepanado is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Super7, Lyon on Thu, 26 Nov 2026.
+Trepanado is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Super7, Lyon on Thu, 26 Nov 2026.
 
 Trepanado is a house and disco artist based in Brazil, with 69 gigs on soundcheck across Amsterdam, Berlin, Brazil and Buenos Aires and 11 more. Often billed alongside Paulete Lindacelva, Leo Janeiro and Zopelar. Next up: Super7, Lyon on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Trepanado is a house and disco artist based in Brazil, with 69 gigs on soundchec
 
 Paulete Lindacelva, Leo Janeiro, Zopelar
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*

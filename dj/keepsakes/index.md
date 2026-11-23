@@ -1,6 +1,6 @@
 # Keepsakes
 
-Keepsakes is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 23 Nov 2026.
+Keepsakes is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 23 Nov 2026.
 
 Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 26 more. Often billed alongside The Rat, Ebb and Inverse Element. Next up: Tresor / Globus, Berlin on Mon 23 Nov.
 
@@ -27,4 +27,4 @@ Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on
 
 The Rat, Ebb (1), Inverse Element
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

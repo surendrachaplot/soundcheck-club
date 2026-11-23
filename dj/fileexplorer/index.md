@@ -1,6 +1,6 @@
 # File Explorer
 
-File Explorer is a Jungle and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 26 Feb 2027.
+File Explorer is a Jungle and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 26 Feb 2027.
 
 File Explorer is a jungle and electro artist based in Australia, with 10 gigs on soundcheck across Beijing, Chengdu, Chongqing and Chubu and 5 more. Often billed alongside nabii, ADEAD and Bearback. Next up: QQQ ST. Park, Melbourne on Fri 26 Feb.
 
@@ -25,4 +25,4 @@ File Explorer is a jungle and electro artist based in Australia, with 10 gigs on
 
 nabii, ADEAD, Bearback
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fileexplorer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fileexplorer/)*

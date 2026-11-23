@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
+Praslea is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
 Praslea is a minimal and house artist based in Romania, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Mia Mao, Paris on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Praslea is a minimal and house artist based in Romania, with 107 gigs on soundch
 
 Raresh, CEZAR, Traumer
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

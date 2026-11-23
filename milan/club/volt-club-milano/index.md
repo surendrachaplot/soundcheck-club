@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Elliot Schooling & Liam Palmer + Vittilucchi" on Thu, 26 Nov 2026.
+Volt Club Milano is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Elliot Schooling & Liam Palmer + Vittilucchi" on Thu, 26 Nov 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Alessio Cristiano, Auggië, Dennis Louvra and DJ Tennis and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -20,4 +20,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 7 upcoming gigs
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

@@ -1,6 +1,6 @@
 # BonÏpso
 
-BonÏpso is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Marla Records, Berlin on Fri, 27 Nov 2026.
+BonÏpso is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Marla Records, Berlin on Fri, 27 Nov 2026.
 
 BonÏpso is a techno and electro artist based in France, with 5 gigs on soundcheck across Berlin and Marseille. Often billed alongside Brookesia, John A Marr and Pyrame. Next up: Marla Records, Berlin on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ BonÏpso is a techno and electro artist based in France, with 5 gigs on soundche
 
 Brookesia, John A Marr, Pyrame
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonïpso/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonïpso/)*

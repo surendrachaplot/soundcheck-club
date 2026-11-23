@@ -1,6 +1,6 @@
 # Doll.Redacted
 
-Doll.Redacted is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 19 Dec 2026.
+Doll.Redacted is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 19 Dec 2026.
 
 Doll.Redacted is a house and pop artist based in United States of America, with 6 gigs on soundcheck across Philadelphia. Often billed alongside Callaia, DJ Xtina and G I N A. Next up: Val’s Lesbian Bar, Philadelphia on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Doll.Redacted is a house and pop artist based in United States of America, with 
 
 Callaia, DJ Xtina, G I N A
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doll.redacted/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doll.redacted/)*

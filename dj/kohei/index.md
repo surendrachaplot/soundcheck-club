@@ -1,6 +1,6 @@
 # Kohei
 
-Kohei is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Compufunk Records, Osaka on Fri, 27 Nov 2026.
+Kohei is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Compufunk Records, Osaka on Fri, 27 Nov 2026.
 
 Kohei is a minimal and techno artist based in Japan, with 83 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Shingo and ONO. Next up: Compufunk Records, Osaka on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Kohei is a minimal and techno artist based in Japan, with 83 gigs on soundcheck 
 
 AOKI takamasa, Shingo, ONO (3)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*

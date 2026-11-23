@@ -1,6 +1,6 @@
 # Finn McEntee (2)
 
-Finn McEntee (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Wigwam, Dublin on Sat, 28 Nov 2026.
+Finn McEntee (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Wigwam, Dublin on Sat, 28 Nov 2026.
 
 Finn McEntee is a techno artist, with 2 gigs on soundcheck across Dublin. Often billed alongside Bronwyn., Derv and Finn Mcentee. Next up: Wigwam, Dublin on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Finn McEntee is a techno artist, with 2 gigs on soundcheck across Dublin. Often 
 
 Bronwyn., Derv, Finn Mcentee
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmcentee-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmcentee-2/)*

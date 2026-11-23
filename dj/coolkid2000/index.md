@@ -1,6 +1,6 @@
 # Coolkid 2000
 
-Coolkid 2000 is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Meteoro, Barcelona on Sat, 28 Nov 2026.
+Coolkid 2000 is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Meteoro, Barcelona on Sat, 28 Nov 2026.
 
 Coolkid 2000 is a club and electronica artist, with 17 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Verushka, Hello Sasy and Acidnena. Next up: Meteoro, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Coolkid 2000 is a club and electronica artist, with 17 gigs on soundcheck across
 
 Verushka, Hello Sasy, Acidnena
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coolkid2000/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coolkid2000/)*

@@ -1,6 +1,6 @@
 # Laigonen Kanonen
 
-Laigonen Kanonen is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
+Laigonen Kanonen is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
 
 Laigonen Kanonen is a techno and tech house artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside V (NYC), BERLIN and Einfach Taffo. Next up: TBA - instagram | telegram: @klangsubstanz, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Laigonen Kanonen is a techno and tech house artist based in Germany, with 12 gig
 
 V (NYC), BERLIN, Einfach Taffo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laigonenkanonen/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laigonenkanonen/)*

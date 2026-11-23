@@ -1,6 +1,6 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Flashback with Louie Vega" on Wed, 25 Nov 2026.
+Superior Ingredients is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Flashback with Louie Vega" on Wed, 25 Nov 2026.
 
 Superior Ingredients is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Adrian Sherwood, Cam Stockman, Chus & Ceballos and DJ Chus and 2 more. See dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
@@ -22,4 +22,4 @@ Superior Ingredients is a music venue in New York City listed on soundcheck. 9 u
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

@@ -1,6 +1,6 @@
 # White Bay Power Station
 
-White Bay Power Station is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "ZURI Festival Sydney" on Sat, 19 Dec 2026.
+White Bay Power Station is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "ZURI Festival Sydney" on Sat, 19 Dec 2026.
 
 White Bay Power Station is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Ben Gomori, Dopamine, Francis Mercier and Freestylers and 2 more. See dates, start times and who's playing. 28 Robert St, Rozelle NSW 2039.
 
@@ -17,4 +17,4 @@ White Bay Power Station is a music venue in Sydney listed on soundcheck. 4 upcom
 
 28 Robert St, Rozelle NSW 2039, Sydney
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/white-bay-power-station/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/white-bay-power-station/)*

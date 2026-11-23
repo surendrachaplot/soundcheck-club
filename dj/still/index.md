@@ -1,6 +1,6 @@
 # STILL
 
-STILL is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
+STILL is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
 
 STILL is an experimental and bass artist based in Italy, with 36 gigs on soundcheck across Athens, Barcelona, Berlin and Florence and 8 more. Often billed alongside MBODJ, Bill Kouligas and Covco. Next up: Fabrique im Gängeviertel, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ STILL is an experimental and bass artist based in Italy, with 36 gigs on soundch
 
 MBODJ, Bill Kouligas, Covco
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/still/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/still/)*

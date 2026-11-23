@@ -1,6 +1,6 @@
 # Randomer
 
-Randomer is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Villa, Oslo on Fri, 27 Nov 2026.
+Randomer is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Villa, Oslo on Fri, 27 Nov 2026.
 
 Randomer is a techno and trance artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 53 more. Often billed alongside Perc, AADJA and Anetha. Next up: The Villa, Oslo on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Randomer is a techno and trance artist based in United Kingdom, with 102 gigs on
 
 Perc, AADJA, Anetha
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*

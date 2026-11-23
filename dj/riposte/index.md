@@ -1,6 +1,6 @@
 # Riposte
 
-Riposte is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Robertas pizza, Riga on Fri, 4 Dec 2026.
+Riposte is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Robertas pizza, Riga on Fri, 4 Dec 2026.
 
 Riposte is a deep house and house artist based in Latvia, with 9 gigs on soundcheck across Riga. Often billed alongside zulfree, ANASI and DV8 (LV). Next up: TBA - Robertas pizza, Riga on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Riposte is a deep house and house artist based in Latvia, with 9 gigs on soundch
 
 zulfree, ANASI, DV8 (LV)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riposte/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riposte/)*

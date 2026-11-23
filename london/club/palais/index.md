@@ -1,8 +1,8 @@
 # Palais
 
-Palais is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "[SOLD OUT] Origins: Main Phase (All Night Long) " on Fri, 27 Nov 2026.
+Palais is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "[SOLD OUT] Origins: Main Phase (All Night Long) " on Fri, 27 Nov 2026.
 
-Palais is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Bakey, Bitter Babe, Courtesy and DREY (UK) and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including Bakey, Bitter Babe, Courtesy and DREY (UK) and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 24 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

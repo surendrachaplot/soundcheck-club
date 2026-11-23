@@ -1,6 +1,6 @@
 # Vinyl Richiee
 
-Vinyl Richiee is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Sheffield on Fri, 4 Dec 2026.
+Vinyl Richiee is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Sheffield on Fri, 4 Dec 2026.
 
 Vinyl Richiee is an electronica and disco artist based in United Kingdom, with 20 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Sunny Side Up, Nonna Fab and Hames. Next up: TBA, Sheffield on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Vinyl Richiee is an electronica and disco artist based in United Kingdom, with 2
 
 Sunny Side Up, Nonna Fab, Hames
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylrichiee/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylrichiee/)*

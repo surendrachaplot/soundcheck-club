@@ -1,14 +1,15 @@
 # Darius Syrossian
 
-Darius Syrossian is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
+Darius Syrossian is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
 
-Darius Syrossian is a house and tech house artist based in United Kingdom, with 204 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Birmingham and 30 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Grand Central Hall, Liverpool on Fri 27 Nov.
+Darius Syrossian is a house and tech house artist based in United Kingdom, with 205 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 31 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Grand Central Hall, Liverpool on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Grand Central Hall | Liverpool |
+| Fri, 4 Dec 2026 | Kran Beograd | Belgrade |
 | Sat, 19 Dec 2026 | Pygmalion | Dublin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Darius Syrossian is a house and tech house artist based in United Kingdom, with 
 
 Olive F, Prunk, GW Harrison
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*

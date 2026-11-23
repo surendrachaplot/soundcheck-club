@@ -1,14 +1,13 @@
 # club asia
 
-club asia is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "美少女ゲームソングDJ&ライブフェス 『Featured BGM. Vol.1 -After Party-』" on Sun, 22 Nov 2026.
+club asia is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "『HOT GYAL MOVEMENT -TOKYO』" on Mon, 23 Nov 2026.
 
-club asia is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Acrocanthosaurus, Andrew (TREKKIE TRAX), ayaka and B and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+club asia is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Acrocanthosaurus, Andrew (TREKKIE TRAX), ayaka and B and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | 美少女ゲームソングDJ&ライブフェス 『Featured BGM. Vol.1 -After Party-』 |  |
 | Mon, 23 Nov 2026 | 『HOT GYAL MOVEMENT -TOKYO』 |  |
 | Tue, 24 Nov 2026 | PARTY HARD TUESDAY × MOBILE SPOT -MOBILE SPOT 5th ANNIVERSARY- |  |
 | Wed, 25 Nov 2026 | EXODUS vol.260 | FUJI TRILL, Jellyf!sh, KANT, Yak, ban |
@@ -23,4 +22,4 @@ club asia is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*

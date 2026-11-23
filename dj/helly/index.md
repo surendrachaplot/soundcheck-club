@@ -1,6 +1,6 @@
 # Helly
 
-Helly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at feedbk, New York City on Fri, 11 Dec 2026.
+Helly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at feedbk, New York City on Fri, 11 Dec 2026.
 
 Helly is a house and techno artist, with 55 gigs on soundcheck across Amsterdam, Athens, Baden W Rttemberg and Barcelona and 21 more. Often billed alongside DJ Tjizza, DJ Senc and Jacopo Latini. Next up: feedbk, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Helly is a house and techno artist, with 55 gigs on soundcheck across Amsterdam,
 
 DJ Tjizza, DJ Senc, Jacopo Latini
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*

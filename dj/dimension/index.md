@@ -1,14 +1,13 @@
 # Dimension
 
-Dimension is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Dimension is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
-Dimension is a drum & bass and bass artist based in United Kingdom, with 83 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 40 more. Often billed alongside Sub Focus, Culture Shock and Andy C. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
+Dimension is a drum & bass and bass artist based in United Kingdom, with 83 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 40 more. Often billed alongside Sub Focus, Culture Shock and Andy C. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Sat, 6 Feb 2027 | The Ostrich Farm | Cape-town |
 | Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
@@ -28,4 +27,4 @@ Dimension is a drum & bass and bass artist based in United Kingdom, with 83 gigs
 
 Sub Focus, Culture Shock, Andy C
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*

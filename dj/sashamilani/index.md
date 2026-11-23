@@ -1,6 +1,6 @@
 # Sasha Milani
 
-Sasha Milani is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 28 Nov 2026.
+Sasha Milani is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Abercrombie Hotel, Sydney on Sat, 28 Nov 2026.
 
 Sasha Milani is a house and techno artist based in Australia, with 27 gigs on soundcheck across Berlin, London, Melbourne and Sydney. Often billed alongside Elijah Something, James Pepper and COZi. Next up: Abercrombie Hotel, Sydney on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sasha Milani is a house and techno artist based in Australia, with 27 gigs on so
 
 Elijah Something, James Pepper, COZi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashamilani/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashamilani/)*

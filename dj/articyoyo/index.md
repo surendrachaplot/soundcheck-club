@@ -1,6 +1,6 @@
 # Artic Yoyo
 
-Artic Yoyo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
+Artic Yoyo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
 
 Artic Yoyo is a minimal and tech house artist based in Hungary, with 24 gigs on soundcheck across Budapest. Often billed alongside Zsikla, Drabar and Ratkay. Next up: Textilgyár, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Artic Yoyo is a minimal and tech house artist based in Hungary, with 24 gigs on 
 
 Zsikla, Drabar, Ratkay
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/articyoyo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/articyoyo/)*

@@ -1,6 +1,6 @@
 # Romulo Del Castillo
 
-Romulo Del Castillo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Dale Zine, Miami on Wed, 2 Dec 2026.
+Romulo Del Castillo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Dale Zine, Miami on Wed, 2 Dec 2026.
 
 Romulo Del Castillo is an electro and house artist based in United States of America, with 24 gigs on soundcheck across Miami and New York City. Often billed alongside Jinks, Marie Qrie and SATURNSARii. Next up: Dale Zine, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Romulo Del Castillo is an electro and house artist based in United States of Ame
 
 Jinks, Marie Qrie, SATURNSARii
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romulodelcastillo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romulodelcastillo/)*

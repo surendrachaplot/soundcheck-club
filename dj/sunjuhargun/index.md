@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+Sunju Hargun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 Sunju Hargun is a techno and house artist based in Thailand, with 118 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Kia (AU), DJ MARIA. and Woody92. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sunju Hargun is a techno and house artist based in Thailand, with 118 gigs on so
 
 Kia (AU), DJ MARIA., Woody92
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

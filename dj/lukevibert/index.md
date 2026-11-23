@@ -1,6 +1,6 @@
 # Luke Vibert
 
-Luke Vibert is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Lost Horizon, Bristol on Fri, 29 Jan 2027.
+Luke Vibert is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lost Horizon, Bristol on Fri, 29 Jan 2027.
 
 Luke Vibert is an acid and house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Posthuman, DJ Warp and Nightwave. Next up: Lost Horizon, Bristol on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Luke Vibert is an acid and house artist based in United Kingdom, with 60 gigs on
 
 Posthuman, DJ Warp, Nightwave
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukevibert/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukevibert/)*

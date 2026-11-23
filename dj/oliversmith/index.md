@@ -1,6 +1,6 @@
 # Oliver Smith
 
-Oliver Smith is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at SILO, New York City on Sat, 5 Dec 2026.
+Oliver Smith is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at SILO, New York City on Sat, 5 Dec 2026.
 
 Oliver Smith is a trance and progressive house artist based in United Kingdom, with 39 gigs on soundcheck across Austin, Brisbane, Dallas/Fort Worth and Denver and 13 more. Often billed alongside Leena Punks, Amy Wiles and Mat Zo. Next up: SILO, New York City on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Oliver Smith is a trance and progressive house artist based in United Kingdom, w
 
 Leena Punks, Amy Wiles, Mat Zo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversmith/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversmith/)*

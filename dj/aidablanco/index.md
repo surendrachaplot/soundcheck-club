@@ -1,6 +1,6 @@
 # Aida Blanco
 
-Aida Blanco is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 19 Dec 2026.
+Aida Blanco is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 19 Dec 2026.
 
 Aida Blanco is a techno and industrial artist based in Spain, with 15 gigs on soundcheck across Barcelona, Lisbon, Madrid and Shanghai. Often billed alongside Parsa Jafari, Amazement and AnD. Next up: EL SÓTANO, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Aida Blanco is a techno and industrial artist based in Spain, with 15 gigs on so
 
 Parsa Jafari, Amazement, AnD
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidablanco/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidablanco/)*

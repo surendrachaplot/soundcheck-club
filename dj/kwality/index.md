@@ -1,6 +1,6 @@
 # kwality
 
-kwality is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+kwality is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 kwality is a bass and dub artist based in Italy, with 4 gigs on soundcheck across London and Milan. Often billed alongside DNN, Ormeye and Addison Groove. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -20,4 +20,4 @@ kwality is a bass and dub artist based in Italy, with 4 gigs on soundcheck acros
 
 DNN, Ormeye, Addison Groove
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwality/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwality/)*

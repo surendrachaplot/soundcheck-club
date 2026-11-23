@@ -1,6 +1,6 @@
 # Feena
 
-Feena is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 19 Dec 2026.
+Feena is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 19 Dec 2026.
 
 Feena is a bass and techno artist based in United Kingdom, with 102 gigs on soundcheck across Aberdeen, Bristol, Dublin and Dundee and 5 more. Often billed alongside Skillis, Creep Woland and LWS. Next up: EXIT Glasgow, Glasgow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Feena is a bass and techno artist based in United Kingdom, with 102 gigs on soun
 
 Skillis, Creep Woland, LWS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feena/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feena/)*

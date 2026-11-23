@@ -1,6 +1,6 @@
 # DARIUS
 
-DARIUS is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Elsewhere, New York City on Thu, 3 Dec 2026.
+DARIUS is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Elsewhere, New York City on Thu, 3 Dec 2026.
 
 DARIUS is an afro house and progressive house artist based in United States of America, with 40 gigs on soundcheck across Beijing, Chicago, Los Angeles and New York City and 3 more. Often billed alongside Louis Hale, Beau Sebastian and Gman. Next up: Elsewhere, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ DARIUS is an afro house and progressive house artist based in United States of A
 
 Louis Hale, Beau Sebastian, Gman
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darius/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darius/)*

@@ -1,6 +1,6 @@
 # Y U QT
 
-Y U QT is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at New Century Locker, Manchester on Fri, 4 Dec 2026.
+Y U QT is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at New Century Locker, Manchester on Fri, 4 Dec 2026.
 
 Y U QT is a garage and bass artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 30 more. Often billed alongside Dr Dubplate, Saint Ludo and Yung Singh. Next up: New Century Locker, Manchester on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Y U QT is a garage and bass artist based in United Kingdom, with 119 gigs on sou
 
 Dr Dubplate, Saint Ludo, Yung Singh
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*

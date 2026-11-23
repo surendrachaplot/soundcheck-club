@@ -1,6 +1,6 @@
 # Velasco
 
-Velasco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Signal, New York City on Sat, 19 Dec 2026.
+Velasco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New York City on Sat, 19 Dec 2026.
 
 Velasco is a house and techno artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: Signal, New York City on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Velasco is a house and techno artist based in United States of America, with 103
 
 DJ Tjizza, Anthea, Samuel Deep
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*

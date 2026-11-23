@@ -1,6 +1,6 @@
 # MLCH
 
-MLCH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Casual, Hong Kong on Fri, 4 Dec 2026.
+MLCH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Casual, Hong Kong on Fri, 4 Dec 2026.
 
 MLCH is a house and techno artist based in China, with 32 gigs on soundcheck across Bali, Bangkok, Chengdu and Hong Kong and 3 more. Often billed alongside DJ Kirby, Guido Balboa and Mamie's. Next up: Casual, Hong Kong on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ MLCH is a house and techno artist based in China, with 32 gigs on soundcheck acr
 
 DJ Kirby, Guido Balboa, Mamie's
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mlch-cn/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mlch-cn/)*

@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Midland + Shanti Celeste" on Sat, 28 Nov 2026.
+Quarters is a music venue in Brighton with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Midland + Shanti Celeste" on Sat, 28 Nov 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 8 upcoming gigs, with line-ups including Acid Carbon, Anaïs, Benny Page and Diffrent and 2 more. See dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -21,4 +21,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 8 upcoming gigs, wit
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

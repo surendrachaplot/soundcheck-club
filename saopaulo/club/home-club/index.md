@@ -1,6 +1,6 @@
 # Home Club
 
-Home Club is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Exótica - Cineclub" on Sat, 5 Dec 2026.
+Home Club is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Exótica - Cineclub" on Sat, 5 Dec 2026.
 
 Home Club is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with line-ups including Lourene, Pricila Diaz and Tsavorik. See dates, start times and who's playing. Rua quinze de novembro, 317.
 
@@ -14,4 +14,4 @@ Home Club is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, wi
 
 Rua quinze de novembro, 317, Sao Paulo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/home-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/home-club/)*

@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
+Ellia Jaya is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
 
 Ellia Jaya is a house and tech house artist based in United Kingdom, with 97 gigs on soundcheck across Aberdeen, Amsterdam, Austria and Bali and 23 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Ellia Jaya is a house and tech house artist based in United Kingdom, with 97 gig
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

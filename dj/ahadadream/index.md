@@ -1,19 +1,19 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at boomroom, Perth on Sun, 22 Nov 2026.
+Ahadadream is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
 
-Ahadadream is a house and techno artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 47 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: boomroom, Perth on Sun 22 Nov.
+Ahadadream is a house and techno artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 47 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Electric Brixton, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | boomroom | Perth |
 | Fri, 27 Nov 2026 | Electric Brixton | London |
 | Sat, 23 Jan 2027 | Poolen | Copenhagen |
 
 ## Recently played
 
+- boomroom, Perth · Sun, 22 Nov 2026
 - The Wildlands, Melbourne · Fri, 20 Nov 2026
 - Chinese Laundry, Sydney · Fri, 20 Nov 2026
 - Lincoln Factory, Detroit · Sat, 24 Oct 2026
@@ -21,10 +21,9 @@ Ahadadream is a house and techno artist based in United Kingdom, with 129 gigs o
 - Club Vinyl, Denver · Fri, 2 Oct 2026
 - Audio SF, San Francisco/Oakland · Sun, 27 Sept 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
-- 131 Mccormack St, Toronto · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 SHERELLE, salute, Interplanetary Criminal
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*

@@ -1,6 +1,6 @@
 # job sifre
 
-job sifre is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at RADION, Amsterdam on Fri, 11 Dec 2026.
+job sifre is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at RADION, Amsterdam on Fri, 11 Dec 2026.
 
 job sifre is an electro and ambient artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside GAEL, Julietta Vendetta and Parrish Smith. Next up: RADION, Amsterdam on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ job sifre is an electro and ambient artist based in Netherlands, with 28 gigs on
 
 GAEL, Julietta Vendetta, Parrish Smith
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobsifre/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobsifre/)*

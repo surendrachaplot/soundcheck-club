@@ -1,6 +1,6 @@
 # Røpe
 
-Røpe is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at LAUT, Barcelona on Fri, 25 Dec 2026.
+Røpe is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at LAUT, Barcelona on Fri, 25 Dec 2026.
 
 Røpe is a techno and dub techno artist based in Spain, with 18 gigs on soundcheck across Barcelona. Often billed alongside Alex Lauks, MarioF and Dario Duegra. Next up: LAUT, Barcelona on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Røpe is a techno and dub techno artist based in Spain, with 18 gigs on soundche
 
 Alex Lauks, MarioF, Dario Duegra
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roepe-nl/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roepe-nl/)*

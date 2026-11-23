@@ -1,6 +1,6 @@
 # Louis Bekk
 
-Louis Bekk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Open Beatz Festival, Bavaria on Fri, 23 Jul 2027.
+Louis Bekk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Open Beatz Festival, Bavaria on Fri, 23 Jul 2027.
 
 Louis Bekk is a house and deep house artist based in United Kingdom, with 13 gigs on soundcheck across Bavaria, Brighton, Istanbul and London and 1 more. Often billed alongside ABRAN, AJNA and Anaïs. Next up: Open Beatz Festival, Bavaria on Fri 23 Jul.
 
@@ -25,4 +25,4 @@ Louis Bekk is a house and deep house artist based in United Kingdom, with 13 gig
 
 ABRAN, AJNA, Anaïs
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisbekk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisbekk/)*

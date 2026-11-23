@@ -1,6 +1,6 @@
 # Frandanski
 
-Frandanski is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Brickworks, Nottingham on Fri, 11 Dec 2026.
+Frandanski is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Brickworks, Nottingham on Fri, 11 Dec 2026.
 
 Frandanski is a house and deep house artist based in United Kingdom, with 2 gigs on soundcheck across Nottingham. Often billed alongside Inland Knights and Steve Littlemen. Next up: The Brickworks, Nottingham on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ Frandanski is a house and deep house artist based in United Kingdom, with 2 gigs
 
 Inland Knights, Steve Littlemen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frandanski/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frandanski/)*

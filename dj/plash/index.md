@@ -1,6 +1,6 @@
 # Plash
 
-Plash is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 19 Dec 2026.
+Plash is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 19 Dec 2026.
 
 Plash is a house and electro artist based in Spain, with 2 gigs on soundcheck across Barcelona. Often billed alongside Alex (ES), INDRA TRAFERRI and MostWanted. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 19 Dec.
 
@@ -18,4 +18,4 @@ Plash is a house and electro artist based in Spain, with 2 gigs on soundcheck ac
 
 Alex (ES), INDRA TRAFERRI, MostWanted
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plash/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plash/)*

@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Deux Chevaux with Angel Rocket, LazerGazer, NEK, DJ Bisou & Toirabat" on Sat, 12 Dec 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Deux Chevaux with Angel Rocket, LazerGazer, NEK, DJ Bisou & Toirabat" on Sat, 12 Dec 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Angel Rocket, DJ Bisou, LazerGazer and Nek and 1 more. See dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -15,4 +15,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 2
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

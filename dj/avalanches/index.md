@@ -1,6 +1,6 @@
 # The Avalanches
 
-The Avalanches is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Potato Head Beach Club, Bali on Thu, 31 Dec 2026.
+The Avalanches is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Potato Head Beach Club, Bali on Thu, 31 Dec 2026.
 
 The Avalanches is an electronica and house artist based in Australia, with 13 gigs on soundcheck across Adelaide, Bali, Bristol and Brussels and 7 more. Often billed alongside Flume, 2ManyDJs and 4am Kru. Next up: Potato Head Beach Club, Bali on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ The Avalanches is an electronica and house artist based in Australia, with 13 gi
 
 Flume, 2ManyDJs, 4am Kru
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*

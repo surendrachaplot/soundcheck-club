@@ -1,6 +1,6 @@
 # orbok
 
-orbok is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at elipamanoke, Leipzig on Sat, 28 Nov 2026.
+orbok is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at elipamanoke, Leipzig on Sat, 28 Nov 2026.
 
 orbok is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin, Leipzig and Tbilisi. Often billed alongside 909on808, Adrian Delmont and DJ Nasi Goreng. Next up: elipamanoke, Leipzig on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ orbok is a techno and trance artist based in Germany, with 3 gigs on soundcheck 
 
 909on808, Adrian Delmont, DJ Nasi Goreng
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbok/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbok/)*

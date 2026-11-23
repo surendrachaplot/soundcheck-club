@@ -1,6 +1,6 @@
 # shanty mane
 
-shanty mane is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Outer Heaven, New York City on Fri, 27 Nov 2026.
+shanty mane is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Outer Heaven, New York City on Fri, 27 Nov 2026.
 
 shanty mane is a house and tech house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 5 more. Often billed alongside EREZ.JPG, Willy Gorgon and Jeny Michelle. Next up: Outer Heaven, New York City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ shanty mane is a house and tech house artist based in United States of America, 
 
 EREZ.JPG, Willy Gorgon, Jeny Michelle
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

@@ -1,6 +1,6 @@
 # 915 Dupont
 
-915 Dupont is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Groove Thing with DJs Big Jacks & Gil Masuda" on Fri, 27 Nov 2026.
+915 Dupont is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Groove Thing with DJs Big Jacks & Gil Masuda" on Fri, 27 Nov 2026.
 
 915 Dupont is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Gil Masuda. See dates, start times and who's playing. 915 Dupont Street, Toronto, ON M6H 1Z1, Canada.
 
@@ -16,4 +16,4 @@
 
 915 Dupont Street, Toronto, ON M6H 1Z1, Canada, Toronto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*

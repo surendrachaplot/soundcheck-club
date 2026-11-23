@@ -1,14 +1,13 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Takaaki Itoh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 11 Dec 2026.
 
-Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
+Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: Abercrombie Hotel, Sydney on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Dec 2026 | Abercrombie Hotel | Sydney |
 | Wed, 30 Dec 2026 | TBA | Tokyo |
 
@@ -27,4 +26,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on sound
 
 Loktibrada, DANA NADA, DANDAN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

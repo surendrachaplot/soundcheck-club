@@ -1,14 +1,13 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ciało, Wroclaw on Fri, 27 Nov 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 303 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
+Ellen Allien is a techno and house artist based in Germany, with 303 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: Ciało, Wroclaw on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 27 Nov 2026 | Ciało | Wroclaw |
 | Sat, 28 Nov 2026 | TRAUM | Antwerp |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
@@ -20,6 +19,7 @@ Ellen Allien is a techno and house artist based in Germany, with 303 gigs on sou
 | Thu, 31 Dec 2026 | Link | Bologna |
 | Sat, 2 Jan 2027 | essaim | Paris |
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
+| Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ellen Allien is a techno and house artist based in Germany, with 303 gigs on sou
 
 Dr. Rubinstein, Shaleen, Daria Kolosova
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

@@ -1,6 +1,6 @@
 # Marboc
 
-Marboc is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Crackhouse, Gdansk on Fri, 11 Dec 2026.
+Marboc is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Crackhouse, Gdansk on Fri, 11 Dec 2026.
 
 Marboc is a techno and dub techno artist based in Poland, with 14 gigs on soundcheck across Gdansk, Krakow, Poland and Warsaw and 1 more. Often billed alongside M4RY JAN3, Sabre (PL) and Sickdat. Next up: Crackhouse, Gdansk on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Marboc is a techno and dub techno artist based in Poland, with 14 gigs on soundc
 
 M4RY JAN3, Sabre (PL), Sickdat
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*

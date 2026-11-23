@@ -1,6 +1,6 @@
 # Ondo / Gusto
 
-Ondo / Gusto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BASEMENT, New York City on Sat, 12 Dec 2026.
+Ondo / Gusto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at BASEMENT, New York City on Sat, 12 Dec 2026.
 
 Ondo / Gusto is a techno and house artist based in United States of America, with 29 gigs on soundcheck across Detroit, New York City and Pittsburgh. Often billed alongside Naeem, Alex Price and pvkvsv. Next up: BASEMENT, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ondo / Gusto is a techno and house artist based in United States of America, wit
 
 Naeem, Alex Price, pvkvsv
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondogusto/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondogusto/)*

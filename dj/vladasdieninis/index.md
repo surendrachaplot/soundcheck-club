@@ -1,6 +1,6 @@
 # Vladas Dieninis
 
-Vladas Dieninis is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sodas 2123, Vilnius on Fri, 27 Nov 2026.
+Vladas Dieninis is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sodas 2123, Vilnius on Fri, 27 Nov 2026.
 
 Vladas Dieninis is a breakbeat and jungle artist based in Lithuania, with 3 gigs on soundcheck across Riga and Vilnius. Often billed alongside Hìldå, Belliger and Brokenchord. Next up: Sodas 2123, Vilnius on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Vladas Dieninis is a breakbeat and jungle artist based in Lithuania, with 3 gigs
 
 Hìldå, Belliger, Brokenchord
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladasdieninis/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladasdieninis/)*

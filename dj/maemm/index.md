@@ -1,6 +1,6 @@
 # Maemm
 
-Maemm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
+Maemm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
 
 Maemm is a techno and trance artist based in France, with 96 gigs on soundcheck across Berlin, Bordeaux, Brussels and East and 10 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: C12, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Maemm is a techno and trance artist based in France, with 96 gigs on soundcheck 
 
 Aérienne, GiGi FM, Atomic moog
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*

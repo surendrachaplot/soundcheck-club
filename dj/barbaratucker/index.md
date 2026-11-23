@@ -1,6 +1,6 @@
 # Barbara Tucker
 
-Barbara Tucker is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at or, Tokyo on Sun, 27 Dec 2026.
+Barbara Tucker is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at or, Tokyo on Sun, 27 Dec 2026.
 
 Barbara Tucker is a house and disco artist based in United States of America, with 42 gigs on soundcheck across Amsterdam, Baltimore, Bucharest and Chicago and 17 more. Often billed alongside Bustin' Loose, Natasha Diggs and Sam Karlson. Next up: or, Tokyo on Sun 27 Dec.
 
@@ -26,4 +26,4 @@ Barbara Tucker is a house and disco artist based in United States of America, wi
 
 Bustin' Loose, Natasha Diggs, Sam Karlson
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*

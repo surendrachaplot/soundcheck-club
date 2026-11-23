@@ -1,6 +1,6 @@
 # TBA - Disclosed to ticket holders 
 
-TBA - Disclosed to ticket holders  is a music venue in Calgary with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Low Pass Kult presents Michael Red" on Fri, 27 Nov 2026.
+TBA - Disclosed to ticket holders  is a music venue in Calgary with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Low Pass Kult presents Michael Red" on Fri, 27 Nov 2026.
 
 TBA - Disclosed to ticket holders  is a music venue in Calgary listed on soundcheck. 1 upcoming gig, with line-ups including Michael Red and Young Dene. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Disclosed to ticket holders  is a music venue in Calgary listed on soundch
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Low Pass Kult presents Michael Red | Michael Red, Young Dene |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/calgary/club/tba-disclosed-to-ticket-holders/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/calgary/club/tba-disclosed-to-ticket-holders/)*

@@ -1,6 +1,6 @@
 # Sarah Andersson
 
-Sarah Andersson is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Noxe Barcelona, Barcelona on Tue, 24 Nov 2026.
+Sarah Andersson is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Noxe Barcelona, Barcelona on Tue, 24 Nov 2026.
 
 Sarah Andersson is a house and deep house artist based in Sweden, with 83 gigs on soundcheck across Barcelona, Ibiza and Stockholm. Often billed alongside GIVIO, Vikki and Nesi. Next up: Noxe Barcelona, Barcelona on Tue 24 Nov.
 
@@ -32,4 +32,4 @@ Sarah Andersson is a house and deep house artist based in Sweden, with 83 gigs o
 
 GIVIO, Vikki, Nesi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahandersson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahandersson/)*

@@ -1,6 +1,6 @@
 # Josh Steers
 
-Josh Steers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
+Josh Steers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
 
 Josh Steers is a house and techno artist based in United States of America, with 112 gigs on soundcheck across Bogotá, Detroit, Los Angeles and Mexico City and 4 more. Often billed alongside Sterling Juan Diaz, Nita Aviance and Michael Magnan. Next up: TBA - DTLA, Los Angeles on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Josh Steers is a house and techno artist based in United States of America, with
 
 Sterling Juan Diaz, Nita Aviance, Michael Magnan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*

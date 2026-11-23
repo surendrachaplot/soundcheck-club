@@ -1,6 +1,6 @@
 # Subdeck
 
-Subdeck is a music venue in Bratislava with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Subdeck 3rd Anniversary" on Sat, 5 Dec 2026.
+Subdeck is a music venue in Bratislava with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Subdeck 3rd Anniversary" on Sat, 5 Dec 2026.
 
 Subdeck is a music venue in Bratislava listed on soundcheck. 1 upcoming gig, with line-ups including BALI G, BBK, BigFish and Helena Hauff and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Subdeck is a music venue in Bratislava listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Subdeck 3rd Anniversary | BALI G, BBK, BigFish, Helena Hauff, MIKLEI, Microchic, Naďa |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/subdeck/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/subdeck/)*

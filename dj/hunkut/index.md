@@ -1,6 +1,6 @@
 # Hunkut
 
-Hunkut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pawnshop, Taipei on Fri, 18 Dec 2026.
+Hunkut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pawnshop, Taipei on Fri, 18 Dec 2026.
 
 Hunkut is a techno and house artist based in France, with 18 gigs on soundcheck across Bangkok, Beijing, Berlin and Chengdu and 4 more. Often billed alongside Feroui, Nymed and Mars O10C. Next up: Pawnshop, Taipei on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Hunkut is a techno and house artist based in France, with 18 gigs on soundcheck 
 
 Feroui, Nymed, Mars O10C
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunkut/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunkut/)*

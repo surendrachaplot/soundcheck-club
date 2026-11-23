@@ -1,6 +1,6 @@
 # Razzor
 
-Razzor is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+Razzor is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 Razzor is a techno and acid artist based in Serbia, with 10 gigs on soundcheck across Belgrade, Istanbul, Sofia and Zagreb. Often billed alongside Stameni, Moraitov and Asarri. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Razzor is a techno and acid artist based in Serbia, with 10 gigs on soundcheck a
 
 Stameni, Moraitov, Asarri
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razzor/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razzor/)*

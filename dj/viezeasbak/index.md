@@ -1,14 +1,13 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 18 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+Vieze Asbak is a Techno and Hardcore artist with 17 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
 
-Vieze Asbak is a techno and hardcore artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside KRUELTY, KLOFAMA and Restricted. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
+Vieze Asbak is a techno and hardcore artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside KRUELTY, KLOFAMA and Restricted. Next up: Arzenal, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
@@ -20,6 +19,7 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, with 129 gigs 
 | Thu, 31 Dec 2026 | Le Grand Dome | Paris |
 | Thu, 31 Dec 2026 | Cocoricò | North |
 | Tue, 5 Jan 2027 | Audiodrome | Turin |
+| Fri, 8 Jan 2027 | Airport Würzburg | Nürnberg |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, with 129 gigs 
 
 KRUELTY, KLOFAMA, Restricted
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

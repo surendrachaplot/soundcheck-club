@@ -1,6 +1,6 @@
 # Beni Geier
 
-Beni Geier is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
+Beni Geier is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
 
 Beni Geier is a techno and electro artist based in Switzerland, with 2 gigs on soundcheck across Basel and Zurich. Often billed alongside Comzy, Kaleiko and Michel Sacher. Next up: Nordstern, Basel on Thu 31 Dec.
 
@@ -18,4 +18,4 @@ Beni Geier is a techno and electro artist based in Switzerland, with 2 gigs on s
 
 Comzy, Kaleiko, Michel Sacher
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benigeier/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benigeier/)*

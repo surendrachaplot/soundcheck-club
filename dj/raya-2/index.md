@@ -1,6 +1,6 @@
 # Raya (2)
 
-Raya (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Pave, Sofia on Fri, 27 Nov 2026.
+Raya (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Pave, Sofia on Fri, 27 Nov 2026.
 
 Raya is a techno and house artist based in Bulgaria, with 32 gigs on soundcheck across Berlin and Sofia. Often billed alongside Ventsislav Gendov, Kiril Dimchev and Mario Milev. Next up: Club Pave, Sofia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Raya is a techno and house artist based in Bulgaria, with 32 gigs on soundcheck 
 
 Ventsislav Gendov, Kiril Dimchev, Mario Milev
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raya-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raya-2/)*

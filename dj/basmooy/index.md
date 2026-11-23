@@ -1,6 +1,6 @@
 # Bas Mooy
 
-Bas Mooy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
+Bas Mooy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
 
 Bas Mooy is a techno and acid artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside UVB, Charlton and Thanos Hana. Next up: Sala de Armas, North on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ Bas Mooy is a techno and acid artist based in Netherlands, with 72 gigs on sound
 
 UVB, Charlton, Thanos Hana
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*

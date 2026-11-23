@@ -1,6 +1,6 @@
 # SubHarmonic x Blorg pres: Napes, Mattik, Amelia Leigh at 24 Kitchen Street
 
-SubHarmonic x Blorg pres: Napes, Mattik, Amelia Leigh at 24 Kitchen Street on Sat 20 Feb, Liverpool. 5 artists: Amelia Leigh, DJ BootyShake, Mattik (UK) and Napes and 1 more. See the line-up on soundcheck.
+SubHarmonic x Blorg pres: Napes, Mattik, Amelia Leigh at 24 Kitchen Street on Sat 20 Feb, Liverpool. 5 artists: Amelia Leigh, DJ BootyShake, Mattik (UK) and Napes and 1 more. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

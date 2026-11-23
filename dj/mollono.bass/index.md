@@ -1,6 +1,6 @@
 # Mollono.Bass
 
-Mollono.Bass is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at fi, Cologne on Sat, 5 Dec 2026.
+Mollono.Bass is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fi, Cologne on Sat, 5 Dec 2026.
 
 Mollono.Bass is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 10 more. Often billed alongside LEENI, Danilo Kupfernagel and Katzengold. Next up: fi, Cologne on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Mollono.Bass is a techno and house artist based in Germany, with 50 gigs on soun
 
 LEENI, Danilo Kupfernagel, Katzengold
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollono.bass/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollono.bass/)*

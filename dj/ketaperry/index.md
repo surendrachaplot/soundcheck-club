@@ -1,6 +1,6 @@
 # KETA PERRY
 
-KETA PERRY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
+KETA PERRY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
 
 KETA PERRY is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Plateau Bitch, Siggi Petrol and maniaclina. Next up: Ilses Erika, Leipzig on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ KETA PERRY is a techno and trance artist based in Germany, with 45 gigs on sound
 
 Plateau Bitch, Siggi Petrol, maniaclina
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketaperry/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketaperry/)*

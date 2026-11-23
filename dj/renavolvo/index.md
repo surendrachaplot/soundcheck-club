@@ -1,6 +1,6 @@
 # Rena Volvo
 
-Rena Volvo is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Beate Uwe, Berlin on Fri, 27 Nov 2026.
+Rena Volvo is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beate Uwe, Berlin on Fri, 27 Nov 2026.
 
 Rena Volvo is a disco and italo disco artist, with 66 gigs on soundcheck across Berlin, Copenhagen, Dresden and Munich and 3 more. Often billed alongside Hank Clap, Andrea Zucca and Cmd Tulch. Next up: Beate Uwe, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Rena Volvo is a disco and italo disco artist, with 66 gigs on soundcheck across 
 
 Hank Clap, Andrea Zucca, Cmd Tulch
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renavolvo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renavolvo/)*

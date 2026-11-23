@@ -1,6 +1,6 @@
 # Klangkarussell
 
-Klangkarussell is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at O der Klub, Vienna on Fri, 15 Jan 2027.
+Klangkarussell is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at O der Klub, Vienna on Fri, 15 Jan 2027.
 
 Klangkarussell is a deep house and house artist based in Austria, with 52 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Andre Klang, Michel Sacher and Prismode. Next up: O der Klub, Vienna on Fri 15 Jan.
 
@@ -31,4 +31,4 @@ Klangkarussell is a deep house and house artist based in Austria, with 52 gigs o
 
 Andre Klang, Michel Sacher, Prismode
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*

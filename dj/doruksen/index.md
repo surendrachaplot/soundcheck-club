@@ -1,6 +1,6 @@
 # Doruksen
 
-Doruksen is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 74 Hall, Istanbul on Sat, 12 Dec 2026.
+Doruksen is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 74 Hall, Istanbul on Sat, 12 Dec 2026.
 
 Doruksen is a techno and hardcore artist based in Cyprus, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside LESSSS, Raxeller and Cloudy. Next up: 74 Hall, Istanbul on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Doruksen is a techno and hardcore artist based in Cyprus, with 119 gigs on sound
 
 LESSSS, Raxeller, Cloudy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*

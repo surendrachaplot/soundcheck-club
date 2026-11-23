@@ -1,6 +1,6 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
+Marco Bailey is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
 
 Marco Bailey is a techno and tech house artist based in Belgium, with 119 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 53 more. Often billed alongside Klaudia Gawlas, Speedy J and Cristian Varela. Next up: Common Ground, Naples on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 119 gigs o
 
 Klaudia Gawlas, Speedy J, Cristian Varela
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

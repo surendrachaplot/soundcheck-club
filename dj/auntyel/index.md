@@ -1,6 +1,6 @@
 # Aunty El
 
-Aunty El is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Aunty El is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Aunty El is a techno and tech house artist based in New Zealand, with 4 gigs on soundcheck across Auckland. Often billed alongside ANABE, AROHA and Aunty Bev. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -20,4 +20,4 @@ Aunty El is a techno and tech house artist based in New Zealand, with 4 gigs on 
 
 ANABE, AROHA, Aunty Bev
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyel/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyel/)*

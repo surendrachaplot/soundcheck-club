@@ -1,14 +1,13 @@
 # Millie McKee
 
-Millie McKee is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Millie McKee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at De Rust Hideaway, Cape Town on Sun, 29 Nov 2026.
 
-Millie McKee is a house and techno artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Kyle Toole, DAR DISKU and Harri Pepper. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
+Millie McKee is a house and techno artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Kyle Toole, DAR DISKU and Harri Pepper. Next up: De Rust Hideaway, Cape Town on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | TBA - Porcupine Hills, Bot River | Cape Town |
 | Sun, 29 Nov 2026 | De Rust Hideaway | Cape Town |
 | Sat, 23 Jan 2027 | NT's Loft | London |
 
@@ -27,4 +26,4 @@ Millie McKee is a house and techno artist based in United Kingdom, with 73 gigs 
 
 Kyle Toole, DAR DISKU, Harri Pepper
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*

@@ -1,6 +1,6 @@
 # Peti Kupe
 
-Peti Kupe is a music venue in Zagreb with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Kyoto Jazz Massive live" on Wed, 25 Nov 2026.
+Peti Kupe is a music venue in Zagreb with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Kyoto Jazz Massive live" on Wed, 25 Nov 2026.
 
 Peti Kupe is a music venue in Zagreb listed on soundcheck. 4 upcoming gigs, with line-ups including Andrey Pushkarev, Antonio Zuza, DIKKA and Fabrizio Mammarella and 2 more. See dates, start times and who's playing. Trnjanska cesta 5, 10000, Zagreb, Croatia.
 
@@ -17,4 +17,4 @@ Peti Kupe is a music venue in Zagreb listed on soundcheck. 4 upcoming gigs, with
 
 Trnjanska cesta 5, 10000, Zagreb, Croatia, Zagreb
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*

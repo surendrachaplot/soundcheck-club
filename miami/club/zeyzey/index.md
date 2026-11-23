@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 16 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Friendsgiving ft. Suenalo + The Lab" on Wed, 25 Nov 2026.
+ZeyZey is a music venue in Miami with 16 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Friendsgiving ft. Suenalo + The Lab" on Wed, 25 Nov 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 16 upcoming gigs, with line-ups including Anastazja, A-Trak, Chromeo and Danny Krivit and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 16 upcoming gigs, with li
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

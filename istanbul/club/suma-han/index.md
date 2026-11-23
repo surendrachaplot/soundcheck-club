@@ -1,6 +1,6 @@
 # Suma Han
 
-Suma Han is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "SIDEQUEST presents: Concrete Frequency" on Fri, 27 Nov 2026.
+Suma Han is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "SIDEQUEST presents: Concrete Frequency" on Fri, 27 Nov 2026.
 
 Suma Han is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including 27.†, BOg, Epifanix and Mythoos and 2 more. See dates, start times and who's playing. Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey.
 
@@ -19,4 +19,4 @@ Suma Han is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, wit
 
 Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey, Istanbul
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*

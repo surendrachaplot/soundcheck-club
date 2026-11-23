@@ -1,6 +1,6 @@
 # esther bronchal
 
-esther bronchal is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tunnel, Milan on Fri, 27 Nov 2026.
+esther bronchal is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tunnel, Milan on Fri, 27 Nov 2026.
 
 esther bronchal is a tech house and techno artist based in Spain, with 32 gigs on soundcheck across Amsterdam, Austria, Barcelona and Ibiza and 9 more. Often billed alongside Pau Guilera, Abdon and BizZa. Next up: Tunnel, Milan on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ esther bronchal is a tech house and techno artist based in Spain, with 32 gigs o
 
 Pau Guilera, Abdon, BizZa
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estherbronchal/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estherbronchal/)*

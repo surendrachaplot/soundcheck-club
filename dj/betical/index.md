@@ -1,6 +1,6 @@
 # Betical
 
-Betical is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 19 Dec 2026.
+Betical is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 19 Dec 2026.
 
 Betical is a house and techno artist based in France, with 45 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 19 more. Often billed alongside ANNA, Alex Wann and Bibi Seck. Next up: Do Not Sit On The Furniture, Miami on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Betical is a house and techno artist based in France, with 45 gigs on soundcheck
 
 ANNA, Alex Wann, Bibi Seck
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betical/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betical/)*

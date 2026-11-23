@@ -1,6 +1,6 @@
 # Óbuda Bay
 
-Óbuda Bay is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Cineversum pres. Maceo Plex x NOV28" on Sat, 28 Nov 2026.
+Óbuda Bay is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Cineversum pres. Maceo Plex x NOV28" on Sat, 28 Nov 2026.
 
 Óbuda Bay is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including Justrice, Maceo Plex, Mack Loenz and Raxon. See dates, start times and who's playing. 1033 Budapest, Hajógyár utca 18386/9.
 
@@ -14,4 +14,4 @@
 
 1033 Budapest, Hajógyár utca 18386/9, Budapest
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*

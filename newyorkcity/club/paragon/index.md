@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "hellotones 'El Hijo de PueblaYork' 4to Aniversario" on Wed, 25 Nov 2026.
+Paragon is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "hellotones 'El Hijo de PueblaYork' 4to Aniversario" on Wed, 25 Nov 2026.
 
 Paragon is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including 550am, Adelaide, ALI IRL and Amarji King and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 10 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

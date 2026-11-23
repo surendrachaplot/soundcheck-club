@@ -1,6 +1,6 @@
 # KÜRÜF
 
-KÜRÜF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Prisma, Berlin on Tue, 24 Nov 2026.
+KÜRÜF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Prisma, Berlin on Tue, 24 Nov 2026.
 
 KÜRÜF is a techno and house artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Domovnika, Emilion Dollar Baby and Kalimanda. Next up: Prisma, Berlin on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ KÜRÜF is a techno and house artist based in Germany, with 18 gigs on soundchec
 
 Domovnika, Emilion Dollar Baby, Kalimanda
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*

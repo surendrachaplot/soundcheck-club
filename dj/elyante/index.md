@@ -1,6 +1,6 @@
 # Elyante
 
-Elyante is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
+Elyante is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
 
 Elyante is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Cologne and Vienna. Often billed alongside DJ Discostoff, Rosilicious and ZAHNATZIN. Next up: Artheater, Cologne on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Elyante is a techno and trance artist based in Germany, with 5 gigs on soundchec
 
 DJ Discostoff, Rosilicious, ZAHNATZIN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyante/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyante/)*

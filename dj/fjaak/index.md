@@ -1,16 +1,13 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+FJAAK is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Warehouse ZRH, Zurich on Sat, 28 Nov 2026.
 
-FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 92 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
+FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 92 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Warehouse ZRH, Zurich on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
-| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
-| Sun, 22 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 28 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 4 Dec 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
@@ -20,9 +17,13 @@ FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 9 Jan 2027 | Open Ground | Wuppertal |
 | Fri, 15 Jan 2027 | Gate Milano | Milan |
+| Sat, 16 Jan 2027 | control | Bucharest |
+| Sat, 13 Feb 2027 | Phonox | London |
+| Fri, 19 Feb 2027 | gallery 1986 | Vilnius |
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles · Sun, 22 Nov 2026
 - TBA - Los Angeles, Los Angeles · Fri, 20 Nov 2026
 - Public Works, San Francisco/Oakland · Fri, 20 Nov 2026
 - TBA - Los Angeles, Los Angeles · Fri, 20 Nov 2026
@@ -30,10 +31,9 @@ FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck
 - Future Atlanta, Atlanta · Fri, 13 Nov 2026
 - TRANSMISSION DC, Washington DC · Thu, 12 Nov 2026
 - Jasna 1, Warsaw · Sat, 7 Nov 2026
-- Fuchs2, Prague · Fri, 6 Nov 2026
 
 ## Shares bills with
 
 Elli Acula, Anna Z., Ben Klock
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

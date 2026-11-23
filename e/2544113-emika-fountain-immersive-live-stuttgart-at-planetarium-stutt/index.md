@@ -1,6 +1,6 @@
 # Emika - Fountain Immersive Live / Stuttgart at Planetarium Stuttgart
 
-Emika - Fountain Immersive Live / Stuttgart at Planetarium Stuttgart on Sat 20 Feb, Stuttgart. 1 artist: Emika. See the line-up on soundcheck.
+Emika - Fountain Immersive Live / Stuttgart at Planetarium Stuttgart on Sat 20 Feb, Stuttgart. 1 artist: Emika. Classical and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NØCT
 
-NØCT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Helios37, Cologne on Sat, 26 Dec 2026.
+NØCT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Helios37, Cologne on Sat, 26 Dec 2026.
 
 NØCT is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Cologne. Often billed alongside DJ Mat, DJ SODBRENNEN and Dave75. Next up: Helios37, Cologne on Sat 26 Dec.
 
@@ -18,4 +18,4 @@ NØCT is a techno and trance artist based in Germany, with 2 gigs on soundcheck 
 
 DJ Mat, DJ SODBRENNEN, Dave75
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noct/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noct/)*

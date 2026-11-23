@@ -1,6 +1,6 @@
 # Stratton
 
-Stratton is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tola, London on Fri, 11 Dec 2026.
+Stratton is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tola, London on Fri, 11 Dec 2026.
 
 Stratton is a techno and breakbeat artist based in United Kingdom, with 3 gigs on soundcheck across London and Manchester. Often billed alongside Calm Stiege, Chaitu and ISORA. Next up: Tola, London on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Stratton is a techno and breakbeat artist based in United Kingdom, with 3 gigs o
 
 Calm Stiege, Chaitu, ISORA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratton/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratton/)*

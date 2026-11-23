@@ -1,6 +1,6 @@
 # Submerse
 
-Submerse is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
+Submerse is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
 
 Submerse is a jungle and bass artist based in United Kingdom, with 54 gigs on soundcheck across London, Osaka, Seoul and Tokyo. Often billed alongside Stupid Kozo, Yamaneko and HALU(Tribal Connection). Next up: club asia, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Submerse is a jungle and bass artist based in United Kingdom, with 54 gigs on so
 
 Stupid Kozo, Yamaneko, HALU(Tribal Connection)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/submerse/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/submerse/)*

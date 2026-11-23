@@ -1,6 +1,6 @@
 # Kim Young iLL
 
-Kim Young iLL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Filter Musikk, Oslo on Thu, 26 Nov 2026.
+Kim Young iLL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Filter Musikk, Oslo on Thu, 26 Nov 2026.
 
 Kim Young iLL is a house and techno artist based in Norway, with 16 gigs on soundcheck across Oslo. Often billed alongside Casablanca 303, sommerfeldt and G-HA. Next up: Filter Musikk, Oslo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Kim Young iLL is a house and techno artist based in Norway, with 16 gigs on soun
 
 Casablanca 303, sommerfeldt, G-HA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimyoungill/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimyoungill/)*

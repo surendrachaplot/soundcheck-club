@@ -1,6 +1,6 @@
 # Gábor Lázár + Rat Section + zlom takeover at Ormside Projects
 
-Gábor Lázár + Rat Section + zlom takeover at Ormside Projects on Sat 20 Feb, London. 3 artists: Gábor Lázár, leisure fm and Rat Section. See the line-up on soundcheck.
+Gábor Lázár + Rat Section + zlom takeover at Ormside Projects on Sat 20 Feb, London. 3 artists: Gábor Lázár, leisure fm and Rat Section. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

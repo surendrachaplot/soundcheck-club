@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Resonance On The Ground curated by IKLECTIK" on Wed, 25 Nov 2026.
+Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Resonance On The Ground curated by IKLECTIK" on Wed, 25 Nov 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Anina, Coe, ddwy and DJ Gonz and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

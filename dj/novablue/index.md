@@ -1,6 +1,6 @@
 # Nova Blue
 
-Nova Blue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Basement Amsterdam, Amsterdam on Sat, 12 Dec 2026.
+Nova Blue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Basement Amsterdam, Amsterdam on Sat, 12 Dec 2026.
 
 Nova Blue is a house and techno artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Unregular and ZUKE. Next up: Basement Amsterdam, Amsterdam on Sat 12 Dec.
 
@@ -15,4 +15,4 @@ Nova Blue is a house and techno artist based in Netherlands, with 2 gigs on soun
 
 Unregular, ZUKE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novablue/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novablue/)*

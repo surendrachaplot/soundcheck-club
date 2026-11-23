@@ -1,6 +1,6 @@
 # Ed Rush
 
-Ed Rush is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
+Ed Rush is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
 
 Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 77 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 37 more. Often billed alongside Optical, Audio and Black Sun Empire. Next up: Parque de las Ciencias, Puerto Rico on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 77 gigs
 
 Optical, Audio, Black Sun Empire
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*

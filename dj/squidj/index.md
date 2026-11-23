@@ -1,6 +1,6 @@
 # squidj
 
-squidj is a Dub Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cu, London on Fri, 27 Nov 2026.
+squidj is a Dub Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cu, London on Fri, 27 Nov 2026.
 
 squidj is a dub techno and dubstep artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Eds D1, Jamie Ardor and Mossambi. Next up: Cu, London on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ squidj is a dub techno and dubstep artist based in United Kingdom, with 2 gigs o
 
 Eds D1, Jamie Ardor, Mossambi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squidj/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squidj/)*

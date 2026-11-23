@@ -1,6 +1,6 @@
 # RIZAREKT
 
-RIZAREKT is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Flinders, Sydney on Fri, 27 Nov 2026.
+RIZAREKT is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Flinders, Sydney on Fri, 27 Nov 2026.
 
 RIZAREKT is a techno artist based in Australia, with 3 gigs on soundcheck across Sydney. Often billed alongside I-SO, Bleach and Kit Kat. Next up: The Flinders, Sydney on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ RIZAREKT is a techno artist based in Australia, with 3 gigs on soundcheck across
 
 I-SO, Bleach, Kit Kat
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rizarekt/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rizarekt/)*

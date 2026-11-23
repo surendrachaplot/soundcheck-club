@@ -1,6 +1,6 @@
 # JKEY
 
-JKEY is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at DETROIT CLUB, Barcelona on Thu, 31 Dec 2026.
+JKEY is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at DETROIT CLUB, Barcelona on Thu, 31 Dec 2026.
 
 JKEY is a techno and minimal techno artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside Arcfilter, Casteh and Comarca. Next up: DETROIT CLUB, Barcelona on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ JKEY is a techno and minimal techno artist based in Spain, with 5 gigs on soundc
 
 Arcfilter, Casteh, Comarca
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey-es/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey-es/)*

@@ -1,6 +1,6 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "KaraEKKO" on Thu, 26 Nov 2026.
+EKKO is a music venue in Utrecht with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "KaraEKKO" on Thu, 26 Nov 2026.
 
 EKKO is a music venue in Utrecht listed on soundcheck. 12 upcoming gigs, with line-ups including David Vunk, Ineffekt and Razzmic. See dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ EKKO is a music venue in Utrecht listed on soundcheck. 12 upcoming gigs, with li
 
 Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands, Utrecht
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*

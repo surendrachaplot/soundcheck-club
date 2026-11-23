@@ -1,6 +1,6 @@
 # Eminelli
 
-Eminelli is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Lucia, Vienna on Mon, 7 Dec 2026.
+Eminelli is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Lucia, Vienna on Mon, 7 Dec 2026.
 
 Eminelli is a techno and drum & bass artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside ninon., VOLTMARIE and PAUNA. Next up: Club Lucia, Vienna on Mon 7 Dec.
 
@@ -24,4 +24,4 @@ Eminelli is a techno and drum & bass artist based in Austria, with 8 gigs on sou
 
 ninon., VOLTMARIE, PAUNA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eminelli/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eminelli/)*

@@ -1,6 +1,6 @@
 # Karla Blum
 
-Karla Blum is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Stromwerk Dresden, Dresden on Fri, 27 Nov 2026.
+Karla Blum is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Stromwerk Dresden, Dresden on Fri, 27 Nov 2026.
 
 Karla Blum is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 20 more. Often billed alongside Felix Kröcher, A.D.H.S. and Alfred Heinrichs. Next up: Stromwerk Dresden, Dresden on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Karla Blum is a techno and house artist based in Germany, with 80 gigs on soundc
 
 Felix Kröcher, A.D.H.S., Alfred Heinrichs
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlablum/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlablum/)*

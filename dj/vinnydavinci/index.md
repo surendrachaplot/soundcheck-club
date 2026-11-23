@@ -1,6 +1,6 @@
 # Vinny Da Vinci
 
-Vinny Da Vinci is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cross, London on Sat, 12 Dec 2026.
+Vinny Da Vinci is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cross, London on Sat, 12 Dec 2026.
 
 Vinny Da Vinci is a deep house and house artist, with 3 gigs on soundcheck across Cape Town and London. Often billed alongside Davide Del Vecchio, Charles Webster and GHXST Bunny. Next up: The Cross, London on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Vinny Da Vinci is a deep house and house artist, with 3 gigs on soundcheck acros
 
 Davide Del Vecchio, Charles Webster, GHXST Bunny
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnydavinci/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnydavinci/)*

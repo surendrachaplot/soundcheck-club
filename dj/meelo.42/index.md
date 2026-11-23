@@ -1,6 +1,6 @@
 # Meelo.42
 
-Meelo.42 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
+Meelo.42 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
 
 Meelo.42 is a techno and electro artist based in Slovenia, with 3 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside Impedance, Lollipop Janosz and Unknown Texture. Next up: Drugstore Beograd, Belgrade on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Meelo.42 is a techno and electro artist based in Slovenia, with 3 gigs on soundc
 
 Impedance, Lollipop Janosz, Unknown Texture
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meelo.42/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meelo.42/)*

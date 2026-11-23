@@ -1,6 +1,6 @@
 # M00N-Pi
 
-M00N-Pi is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Spkrbox, Detroit on Tue, 24 Nov 2026.
+M00N-Pi is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Spkrbox, Detroit on Tue, 24 Nov 2026.
 
 M00N-Pi is a club and techno artist based in United States of America, with 11 gigs on soundcheck across Detroit. Often billed alongside we1sman, X(S)INA and jamea.. Next up: Spkrbox, Detroit on Tue 24 Nov.
 
@@ -26,4 +26,4 @@ M00N-Pi is a club and techno artist based in United States of America, with 11 g
 
 we1sman, X(S)INA, jamea.
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m00n-pi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m00n-pi/)*

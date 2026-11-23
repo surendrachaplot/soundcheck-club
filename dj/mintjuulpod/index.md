@@ -1,6 +1,6 @@
 # MintJuulPod
 
-MintJuulPod is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 18 Dec 2026.
+MintJuulPod is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 18 Dec 2026.
 
 MintJuulPod is a drum & bass and techno artist based in Ireland, with 10 gigs on soundcheck across Manchester and Newcastle. Often billed alongside Club Penguin, blo rida and Abby Harris. Next up: The Lubber Fiend, Newcastle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ MintJuulPod is a drum & bass and techno artist based in Ireland, with 10 gigs on
 
 Club Penguin, blo rida, Abby Harris
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mintjuulpod/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mintjuulpod/)*

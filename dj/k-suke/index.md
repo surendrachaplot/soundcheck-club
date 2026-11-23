@@ -1,19 +1,19 @@
 # K-SUKE
 
-K-SUKE is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Move, Kansai on Sun, 22 Nov 2026.
+K-SUKE is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Move, Kansai on Sat, 28 Nov 2026.
 
-K-SUKE is a deep house and house artist based in Japan, with 5 gigs on soundcheck across Kansai, Kyoto and Osaka. Often billed alongside Barbie Bertisch, Delonte Rivers and Hideyuki Tomita. Next up: Club Move, Kansai on Sun 22 Nov.
+K-SUKE is a deep house and house artist based in Japan, with 5 gigs on soundcheck across Kansai, Kyoto and Osaka. Often billed alongside Barbie Bertisch, Delonte Rivers and Hideyuki Tomita. Next up: Club Move, Kansai on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Club Move | Kansai |
 | Sat, 28 Nov 2026 | Club Move | Kansai |
 | Fri, 25 Dec 2026 | Club Metro | Kyoto |
 
 ## Recently played
 
+- Club Move, Kansai · Sun, 22 Nov 2026
 - TBA - Pacifica, Kyoto · Sun, 3 Nov 2024
 - Compufunk Records, Osaka · Sun, 18 Jun 2023
 
@@ -21,4 +21,4 @@ K-SUKE is a deep house and house artist based in Japan, with 5 gigs on soundchec
 
 Barbie Bertisch, Delonte Rivers, Hideyuki Tomita
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-suke/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-suke/)*

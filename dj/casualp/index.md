@@ -1,6 +1,6 @@
 # Casual P
 
-Casual P is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Lord Gladstone, Sydney on Sat, 5 Dec 2026.
+Casual P is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Lord Gladstone, Sydney on Sat, 5 Dec 2026.
 
 Casual P is a house and garage artist based in Australia, with 27 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Couch Mechanic and Jane Decks. Next up: The Lord Gladstone, Sydney on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Casual P is a house and garage artist based in Australia, with 27 gigs on soundc
 
 Ari Kiko, Couch Mechanic, Jane Decks
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*

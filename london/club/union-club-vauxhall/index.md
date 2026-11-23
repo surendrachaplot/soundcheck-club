@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Orbit Sunday night / Monday morning after party" on Sun, 22 Nov 2026.
+Union Club, Vauxhall is a music venue in London with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DESIRE - Weekly Thursday After Party - Armooniaman" on Thu, 26 Nov 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Armooniaman, Bread & Butter, Cristian Ebasta and Dhez and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Armooniaman, Bread & Butter, Cristian Ebasta and Dhez and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Orbit Sunday night / Monday morning after party | Emilion Dollar Baby, Kazuki Takahashi, Thomas Galbardi, Yukari |
 | Thu, 26 Nov 2026 | DESIRE - Weekly Thursday After Party - Armooniaman | Armooniaman, Dhez, Duwat?, Elisa Nau. |
 | Fri, 27 Nov 2026 | AFTERPARTY AT FOX IN THE BOX | Cristian Ebasta, Enrico Chirchiello, JUAN VEGA |
 | Sun, 29 Nov 2026 | Orbit Sunday night / Monday morning after party | Giusy S (2), Thomas Galbardi |
@@ -18,9 +17,10 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 12 upcomin
 | Sun, 13 Dec 2026 | Orbit Sunday night / Monday morning after party |  |
 | Sun, 20 Dec 2026 | Orbit Sunday night / Monday morning after party |  |
 | Sun, 27 Dec 2026 | Orbit Sunday night / Monday morning after party |  |
+| Sat, 2 Jan 2027 | VANITY afterhours Francesco Poggi birthday party 1am - 10am | Enrico Chirchiello, Francesco Poggi |
 
 ## Address
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

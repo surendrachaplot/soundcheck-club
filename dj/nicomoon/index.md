@@ -1,6 +1,6 @@
 # Nico Moon
 
-Nico Moon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Secret Grove, Portland on Sat, 28 Nov 2026.
+Nico Moon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Secret Grove, Portland on Sat, 28 Nov 2026.
 
 Nico Moon is a house and deep house artist based in Argentina, with 69 gigs on soundcheck across Dallas/Fort Worth, Florida, Houston and Ibiza and 5 more. Often billed alongside Kike Roldan, DIFFER and Mariano Mellino. Next up: Secret Grove, Portland on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Nico Moon is a house and deep house artist based in Argentina, with 69 gigs on s
 
 Kike Roldan, DIFFER, Mariano Mellino
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*

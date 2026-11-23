@@ -1,6 +1,6 @@
 # Sleeping Village
 
-Sleeping Village is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Doss NYE with CFCF" on Thu, 31 Dec 2026.
+Sleeping Village is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Doss NYE with CFCF" on Thu, 31 Dec 2026.
 
 Sleeping Village is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including CFCF, Doss and Louisahhh. See dates, start times and who's playing. 3734 W Belmont Ave, Chicago, IL 60618, USA.
 
@@ -15,4 +15,4 @@ Sleeping Village is a music venue in Chicago listed on soundcheck. 2 upcoming gi
 
 3734 W Belmont Ave, Chicago, IL 60618, USA, Chicago
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*

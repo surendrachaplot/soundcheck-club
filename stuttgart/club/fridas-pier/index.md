@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "TRANCEPORT" on Fri, 27 Nov 2026.
+Fridas Pier is a music venue in Stuttgart with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "TRANCEPORT" on Fri, 27 Nov 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming gigs, with line-ups including Bjørnson, Chris Hirose, Chris Schwarzwälder and crystal crimez and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming gigs
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

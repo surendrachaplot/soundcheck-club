@@ -1,6 +1,6 @@
 # SurfingDJs
 
-SurfingDJs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at SILO, New York City on Tue, 8 Dec 2026.
+SurfingDJs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at SILO, New York City on Tue, 8 Dec 2026.
 
 SurfingDJs is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Berlin, Ibiza and New York City. Often billed alongside ROBOTRAN, FTZGRLD and DJ Sauci Soni. Next up: SILO, New York City on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ SurfingDJs is a techno and house artist based in United States of America, with 
 
 ROBOTRAN, FTZGRLD, DJ Sauci Soni
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*

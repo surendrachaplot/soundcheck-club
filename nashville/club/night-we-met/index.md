@@ -1,6 +1,6 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Selecta Sessions" on Fri, 27 Nov 2026.
+Night We Met is a music venue in Nashville with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Selecta Sessions" on Fri, 27 Nov 2026.
 
 Night We Met is a music venue in Nashville listed on soundcheck. 13 upcoming gigs, with line-ups including Arht, Chris Avantgarde, Cole Knight and FENIK and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
@@ -23,4 +23,4 @@ Night We Met is a music venue in Nashville listed on soundcheck. 13 upcoming gig
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

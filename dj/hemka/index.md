@@ -1,6 +1,6 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
+Hemka is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
 
 Hemka is a techno and minimal techno artist based in France, with 53 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Boston and 19 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: Den Anden Side, Copenhagen on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Hemka is a techno and minimal techno artist based in France, with 53 gigs on sou
 
 SHDW, Regent, Stef Mendesidis
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*

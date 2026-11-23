@@ -1,6 +1,6 @@
 # Ozzie Guven
 
-Ozzie Guven is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Ozzie Guven is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 Ozzie Guven is a house and tech house artist based in United Kingdom, with 119 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 26 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ozzie Guven is a house and tech house artist based in United Kingdom, with 119 g
 
 DXNBY, Sidney Charles, Ellia Jaya
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*

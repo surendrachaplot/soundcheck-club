@@ -1,6 +1,6 @@
 # The Rat
 
-The Rat is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Galaxy Bar, Christchurch on Fri, 11 Dec 2026.
+The Rat is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Galaxy Bar, Christchurch on Fri, 11 Dec 2026.
 
 The Rat is a techno and bass artist based in New Zealand, with 10 gigs on soundcheck across Auckland, Christchurch, Melbourne and Sydney. Often billed alongside Keepsakes, Kate.Land and Tièmoko Koné. Next up: Galaxy Bar, Christchurch on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ The Rat is a techno and bass artist based in New Zealand, with 10 gigs on soundc
 
 Keepsakes, Kate.Land, Tièmoko Koné
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therat/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therat/)*

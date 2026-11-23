@@ -1,6 +1,6 @@
 # Noon + Cafe
 
-Noon + Cafe is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "WAVE@NOON - Deep House & Visuals" on Fri, 4 Dec 2026.
+Noon + Cafe is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "WAVE@NOON - Deep House & Visuals" on Fri, 4 Dec 2026.
 
 Noon + Cafe is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Astro, g'n'b, Junki Akutagawa and KAITO. and 2 more. See dates, start times and who's playing. 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan.
 
@@ -17,4 +17,4 @@ Noon + Cafe is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, wit
 
 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan, Osaka
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*

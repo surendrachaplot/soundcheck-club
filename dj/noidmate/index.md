@@ -1,6 +1,6 @@
 # NOIDMATE
 
-NOIDMATE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 16 Jan 2027.
+NOIDMATE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 16 Jan 2027.
 
 NOIDMATE is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Dubai, Edinburgh, London and Nottingham. Often billed alongside SCCO, Jude Lenihan and 3 Minds. Next up: People's Leisure Club, Edinburgh on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ NOIDMATE is a house and tech house artist based in United Kingdom, with 10 gigs 
 
 SCCO, Jude Lenihan, 3 Minds
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*

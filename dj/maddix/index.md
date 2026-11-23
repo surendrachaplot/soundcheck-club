@@ -1,6 +1,6 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Marina Bay Sands, Singapore on Fri, 11 Dec 2026.
+Maddix is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Marina Bay Sands, Singapore on Fri, 11 Dec 2026.
 
 Maddix is a techno and trance artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: Marina Bay Sands, Singapore on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ Maddix is a techno and trance artist based in Netherlands, with 200 gigs on soun
 
 The Rocketman, Billy Gillies, Lilly Palmer
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

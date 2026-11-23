@@ -1,6 +1,6 @@
 # Mr. Twista
 
-Mr. Twista is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Spkrbox, Detroit on Sat, 28 Nov 2026.
+Mr. Twista is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Spkrbox, Detroit on Sat, 28 Nov 2026.
 
 Mr. Twista is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Detroit. Often billed alongside Ginger Snap, Lo Dazz and Perish. Next up: Spkrbox, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mr. Twista is a house and techno artist based in United States of America, with 
 
 Ginger Snap, Lo Dazz, Perish
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.twista/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.twista/)*

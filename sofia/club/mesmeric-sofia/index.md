@@ -1,6 +1,6 @@
 # Mesmeric Sofia
 
-Mesmeric Sofia is a music venue in Sofia with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "O.W.D presents Sulphur [UK]" on Fri, 27 Nov 2026.
+Mesmeric Sofia is a music venue in Sofia with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "O.W.D presents Sulphur [UK]" on Fri, 27 Nov 2026.
 
 Mesmeric Sofia is a music venue in Sofia listed on soundcheck. 3 upcoming gigs, with line-ups including Avgustin, Eufórico, Fewmurnz and Junki Inoue and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Mesmeric Sofia is a music venue in Sofia listed on soundcheck. 3 upcoming gigs, 
 | Fri, 4 Dec 2026 | The Hosts Invite... Junki Inoue | Junki Inoue, The Hosts, Ventsislav Gendov, velibor |
 | Thu, 31 Dec 2026 | MESMERIC NYE27 - Mihnea Rog (RO) + more | Avgustin, Eufórico, Mihnea Rog |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/mesmeric-sofia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/mesmeric-sofia/)*

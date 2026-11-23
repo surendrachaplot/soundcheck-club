@@ -1,14 +1,13 @@
 # Pino Peña
 
-Pino Peña is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+Pino Peña is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
-Pino Peña is a techno and house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Glasgow and 5 more. Often billed alongside Digabuna, wallflower_ and Egotot. Next up: ://about blank, Berlin on Sat 21 Nov.
+Pino Peña is a techno and house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Glasgow and 5 more. Often billed alongside Digabuna, wallflower_ and Egotot. Next up: Renate, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ://about blank | Berlin |
 | Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Pino Peña is a techno and house artist based in Germany, with 48 gigs on soundc
 
 Digabuna, wallflower_, Egotot
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*

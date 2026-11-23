@@ -1,6 +1,6 @@
 # Milady
 
-Milady is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
+Milady is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
 
 Milady is an afro house and house artist based in Brazil, with 15 gigs on soundcheck across Johannesburg and Malaga. Often billed alongside Tito Pulpo, Stuart Patterson and Sol Brown. Next up: Carfax, Johannesburg on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Milady is an afro house and house artist based in Brazil, with 15 gigs on soundc
 
 Tito Pulpo, Stuart Patterson, Sol Brown
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milady/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milady/)*

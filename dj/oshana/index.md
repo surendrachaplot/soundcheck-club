@@ -1,6 +1,6 @@
 # Oshana
 
-Oshana is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Signal, New York City on Sat, 5 Dec 2026.
+Oshana is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New York City on Sat, 5 Dec 2026.
 
 Oshana is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 34 more. Often billed alongside Anthea, Astral Travel and Giammarco Orsini. Next up: Signal, New York City on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Oshana is a house and techno artist based in United States of America, with 75 g
 
 Anthea, Astral Travel, Giammarco Orsini
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*

@@ -1,6 +1,6 @@
 # Jesahel
 
-Jesahel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BMX Warehouse, Malta on Sat, 12 Dec 2026.
+Jesahel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at BMX Warehouse, Malta on Sat, 12 Dec 2026.
 
 Jesahel is a techno and house artist, with 6 gigs on soundcheck across Lisbon and Malta. Often billed alongside Billy Hills, Cheech and Claudio Gomez. Next up: BMX Warehouse, Malta on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Jesahel is a techno and house artist, with 6 gigs on soundcheck across Lisbon an
 
 Billy Hills, Cheech, Claudio Gomez
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesahel/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesahel/)*

@@ -1,14 +1,13 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at public records, New York City on Sun, 22 Nov 2026.
+Timmy Regisford is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at public records, New York City on Sat, 5 Dec 2026.
 
-Timmy Regisford is a house and deep house artist based in United States of America, with 72 gigs on soundcheck across Athens, Atlanta, Auckland and Baltimore and 13 more. Often billed alongside Mark Francis, Lovie and merlin bobb. Next up: public records, New York City on Sun 22 Nov.
+Timmy Regisford is a house and deep house artist based in United States of America, with 72 gigs on soundcheck across Athens, Atlanta, Auckland and Baltimore and 13 more. Often billed alongside Mark Francis, Lovie and merlin bobb. Next up: public records, New York City on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | public records | New York City |
 | Sat, 5 Dec 2026 | public records | New York City |
 | Sun, 13 Dec 2026 | Burger Disco Club | Athens |
 | Sun, 20 Dec 2026 | public records | New York City |
@@ -16,6 +15,7 @@ Timmy Regisford is a house and deep house artist based in United States of Ameri
 
 ## Recently played
 
+- public records, New York City · Sun, 22 Nov 2026
 - TBA - Epic Events, South-carolina · Fri, 13 Nov 2026
 - LB Skybar, Baltimore · Sun, 4 Oct 2026
 - public records, New York City · Sun, 27 Sept 2026
@@ -23,10 +23,9 @@ Timmy Regisford is a house and deep house artist based in United States of Ameri
 - Ticcle, Hobart · Sat, 12 Sept 2026
 - The Evelyn Hotel, Melbourne · Fri, 11 Sept 2026
 - Paradiso Music Room, Byron Bay · Sat, 5 Sept 2026
-- Civic Underground, Sydney · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Mark Francis, Lovie, merlin bobb
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

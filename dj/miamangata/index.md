@@ -1,6 +1,6 @@
 # Mia Mangata
 
-Mia Mangata is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Insomnia, Berlin on Sat, 12 Dec 2026.
+Mia Mangata is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Insomnia, Berlin on Sat, 12 Dec 2026.
 
 Mia Mangata is a techno and tech house artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Better Call Paul, Einfach Taffo and Laigonen Kanonen. Next up: Insomnia, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mia Mangata is a techno and tech house artist based in Germany, with 27 gigs on 
 
 Better Call Paul, Einfach Taffo, Laigonen Kanonen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamangata/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamangata/)*

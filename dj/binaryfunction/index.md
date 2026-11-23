@@ -1,6 +1,6 @@
 # BinaryFunction
 
-BinaryFunction is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 28 Nov 2026.
+BinaryFunction is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 28 Nov 2026.
 
 BinaryFunction is an electro and acid artist based in United Kingdom, with 1 gig on soundcheck across Manchester. Often billed alongside Nestor (IE) and Randle P Mcmurphy. Next up: Eastern Bloc Records, Manchester on Sat 28 Nov.
 
@@ -14,4 +14,4 @@ BinaryFunction is an electro and acid artist based in United Kingdom, with 1 gig
 
 Nestor (IE), Randle P Mcmurphy
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryfunction/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryfunction/)*

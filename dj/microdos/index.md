@@ -1,6 +1,6 @@
 # Mic(RO) Dos
 
-Mic(RO) Dos is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cap Hill Confidential, Denver on Mon, 23 Nov 2026.
+Mic(RO) Dos is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cap Hill Confidential, Denver on Mon, 23 Nov 2026.
 
 Mic(RO) Dos is a minimal and tech house artist based in United States of America, with 10 gigs on soundcheck across Denver. Often billed alongside Pro-K, Hermans and Rich NXT. Next up: Cap Hill Confidential, Denver on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Mic(RO) Dos is a minimal and tech house artist based in United States of America
 
 Pro-K, Hermans, Rich NXT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*

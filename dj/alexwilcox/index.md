@@ -1,6 +1,6 @@
 # Alex Wilcox
 
-Alex Wilcox is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
+Alex Wilcox is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
 
 Alex Wilcox is a techno and electronica artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 43 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Razzmatazz, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Alex Wilcox is a techno and electronica artist based in United States of America
 
 Ben UFO, DJ Nobu, DVS1
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*

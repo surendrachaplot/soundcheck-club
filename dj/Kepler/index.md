@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Kepler is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
 Kepler is a house and tech house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 37 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
@@ -32,4 +32,4 @@ Kepler is a house and tech house artist based in United Kingdom, with 172 gigs o
 
 Burnski, Job de Jong, Reeshy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

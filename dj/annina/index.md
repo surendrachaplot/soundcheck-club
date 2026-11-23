@@ -1,6 +1,6 @@
 # Annina
 
-Annina is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
+Annina is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
 
 Annina is a house and techno artist based in Germany, with 114 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Scoopsi, Papa K and Jonaku (DE). Next up: ://about blank, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Annina is a house and techno artist based in Germany, with 114 gigs on soundchec
 
 Scoopsi, Papa K, Jonaku (DE)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*

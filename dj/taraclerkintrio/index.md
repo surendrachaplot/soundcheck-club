@@ -1,6 +1,6 @@
 # Tara Clerkin Trio
 
-Tara Clerkin Trio is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+Tara Clerkin Trio is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
 Tara Clerkin Trio is an ambient and house artist based in United Kingdom, with 4 gigs on soundcheck across Copenhagen, Manchester, Melbourne and Oslo. Often billed alongside Birdsnake, Blue Communications and DJ Seinfeld. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Tara Clerkin Trio is an ambient and house artist based in United Kingdom, with 4
 
 Birdsnake, Blue Communications, DJ Seinfeld
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taraclerkintrio/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taraclerkintrio/)*

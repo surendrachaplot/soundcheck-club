@@ -1,6 +1,6 @@
 # Dirty Plates (2)
 
-Dirty Plates (2) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
+Dirty Plates (2) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
 
 Dirty Plates is a techno and drum & bass artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Upzet, Boudi Boudin and Sagrivox. Next up: Void Club, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Dirty Plates is a techno and drum & bass artist based in Germany, with 11 gigs o
 
 Upzet, Boudi Boudin, Sagrivox
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyplates-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyplates-2/)*

@@ -1,6 +1,6 @@
 # Aydin Imani
 
-Aydin Imani is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Secret Location Oslo, Oslo on Thu, 31 Dec 2026.
+Aydin Imani is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Secret Location Oslo, Oslo on Thu, 31 Dec 2026.
 
 Aydin Imani is a techno and club artist based in Norway, with 31 gigs on soundcheck across Berlin and Oslo. Often billed alongside Franko, Keran Olsen and Dasha Rush. Next up: Secret Location Oslo, Oslo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Aydin Imani is a techno and club artist based in Norway, with 31 gigs on soundch
 
 Franko, Keran Olsen, Dasha Rush
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aydinimani/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aydinimani/)*

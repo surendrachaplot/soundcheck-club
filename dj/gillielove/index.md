@@ -1,6 +1,6 @@
 # Gillielove
 
-Gillielove is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Gillielove is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 Gillielove is a bass and experimental artist based in Australia, with 32 gigs on soundcheck across London, Melbourne, Nantes and Paris and 3 more. Often billed alongside Cotton Pills, DJ Mum and DJ Plead. Next up: TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Gillielove is a bass and experimental artist based in Australia, with 32 gigs on
 
 Cotton Pills, DJ Mum, DJ Plead
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillielove/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillielove/)*

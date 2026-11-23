@@ -1,6 +1,6 @@
 # Satprem
 
-Satprem is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at KALT, Strasbourg on Thu, 31 Dec 2026.
+Satprem is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at KALT, Strasbourg on Thu, 31 Dec 2026.
 
 Satprem is a techno artist, with 6 gigs on soundcheck across Strasbourg. Often billed alongside Dima Roas, STU (FR) and ANNUN. Next up: KALT, Strasbourg on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Satprem is a techno artist, with 6 gigs on soundcheck across Strasbourg. Often b
 
 Dima Roas, STU (FR), ANNUN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satprem/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satprem/)*

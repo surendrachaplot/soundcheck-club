@@ -1,6 +1,6 @@
 # Meloko
 
-Meloko is a Afro Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Aire Miami, Miami on Thu, 3 Dec 2026.
+Meloko is a Afro Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Aire Miami, Miami on Thu, 3 Dec 2026.
 
 Meloko is an afro tech and techno artist based in France, with 3 gigs on soundcheck across Miami, Milan and Zurich. Often billed alongside ANDREATENS, Anja Schneider and Bondi (DE). Next up: Aire Miami, Miami on Thu 3 Dec.
 
@@ -19,4 +19,4 @@ Meloko is an afro tech and techno artist based in France, with 3 gigs on soundch
 
 ANDREATENS, Anja Schneider, Bondi (DE)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meloko/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meloko/)*

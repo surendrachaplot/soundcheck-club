@@ -1,8 +1,8 @@
 # Cosenza
 
-Cosenza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 12 Dec 2026.
+Cosenza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 12 Dec 2026.
 
-Cosenza is a house and tech house artist, with 15 gigs on soundcheck across Amsterdam, Buenos Aires, Ibiza and Marseille. Often billed alongside Agustin Clark, Alci and Ale Kis. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 12 Dec.
+Cosenza is a house and tech house artist based in Argentina, with 15 gigs on soundcheck across Amsterdam, Buenos Aires, Ibiza and Marseille. Often billed alongside Agustin Clark, Alci and Ale Kis. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cosenza is a house and tech house artist, with 15 gigs on soundcheck across Amst
 
 Agustin Clark, Alci, Ale Kis
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosenza/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosenza/)*

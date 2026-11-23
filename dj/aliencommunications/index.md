@@ -1,6 +1,6 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at radial, London on Fri, 18 Dec 2026.
+Alien Communications is a Electro and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at radial, London on Fri, 18 Dec 2026.
 
 Alien Communications is an electro and techno artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 22 more. Often billed alongside Jos, Ste Roberts and De La Reef. Next up: radial, London on Fri 18 Dec.
 
@@ -29,4 +29,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, wi
 
 Jos, Ste Roberts, De La Reef
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

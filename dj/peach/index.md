@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mirage, Hanoi on Fri, 27 Nov 2026.
+Peach is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mirage, Hanoi on Fri, 27 Nov 2026.
 
 Peach is a house and techno artist based in Canada, with 243 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 64 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Mirage, Hanoi on Fri 27 Nov.
 
@@ -35,4 +35,4 @@ Peach is a house and techno artist based in Canada, with 243 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

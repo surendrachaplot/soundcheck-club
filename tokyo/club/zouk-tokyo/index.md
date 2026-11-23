@@ -1,18 +1,17 @@
 # Zouk Tokyo
 
-Zouk Tokyo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "NEVER BROKE" on Sun, 22 Nov 2026.
+Zouk Tokyo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Buena -EP21-" on Thu, 26 Nov 2026.
 
-Zouk Tokyo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including B and EIGHT. See dates, start times and who's playing. 7 Chome-2-18 Ginza, Chuo City, Tokyo 104-0061, Japan.
+Zouk Tokyo is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including B and EIGHT. See dates, start times and who's playing. 7 Chome-2-18 Ginza, Chuo City, Tokyo 104-0061, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | NEVER BROKE |  |
 | Thu, 26 Nov 2026 | Buena -EP21- | B (379), EIGHT |
 
 ## Address
 
 7 Chome-2-18 Ginza, Chuo City, Tokyo 104-0061, Japan, Tokyo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zouk-tokyo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zouk-tokyo/)*

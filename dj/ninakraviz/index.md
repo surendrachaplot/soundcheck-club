@@ -1,6 +1,6 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Nina Kraviz is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Nina Kraviz is a techno and house artist based in Russia, with 182 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Nina Kraviz is a techno and house artist based in Russia, with 182 gigs on sound
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

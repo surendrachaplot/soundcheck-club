@@ -1,6 +1,6 @@
 # Pendulum
 
-Pendulum is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Pandora Sevilla, South on Sun, 6 Dec 2026.
+Pendulum is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Pandora Sevilla, South on Sun, 6 Dec 2026.
 
 Pendulum is a drum & bass and bass artist based in United Kingdom, with 59 gigs on soundcheck across Adelaide, Auckland, Austin and Birmingham and 34 more. Often billed alongside Kanine, Mozey and Shockone. Next up: Pandora Sevilla, South on Sun 6 Dec.
 
@@ -27,4 +27,4 @@ Pendulum is a drum & bass and bass artist based in United Kingdom, with 59 gigs 
 
 Kanine, Mozey, Shockone
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*

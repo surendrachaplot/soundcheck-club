@@ -1,6 +1,6 @@
 # The Grand Boston
 
-The Grand Boston is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Vandelux DJ set" on Wed, 30 Dec 2026.
+The Grand Boston is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Vandelux DJ set" on Wed, 30 Dec 2026.
 
 The Grand Boston is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including bradeazy and GRAVEDGR. See dates, start times and who's playing. 58 Seaport Blvd Suite 300, Boston, MA 02210.
 
@@ -17,4 +17,4 @@ The Grand Boston is a music venue in Boston listed on soundcheck. 4 upcoming gig
 
 58 Seaport Blvd Suite 300, Boston, MA 02210, Boston
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*

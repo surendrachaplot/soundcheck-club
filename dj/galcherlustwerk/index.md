@@ -1,6 +1,6 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Signal, New York City on Sat, 28 Nov 2026.
+Galcher Lustwerk is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New York City on Sat, 28 Nov 2026.
 
 Galcher Lustwerk is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 19 more. Often billed alongside Devoye, Priori and Bill Patrick. Next up: Signal, New York City on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 
 Devoye, Priori, Bill Patrick
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*

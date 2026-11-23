@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Skee Mask (Ilian Tape) - 4-hour DJ set" on Fri, 27 Nov 2026.
+Blå is a music venue in Oslo with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Skee Mask (Ilian Tape) - 4-hour DJ set" on Fri, 27 Nov 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 3 upcoming gigs, with line-ups including Fakethias, Onleash, Posner and Prof. Stranger and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -16,4 +16,4 @@ Blå is a music venue in Oslo listed on soundcheck. 3 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

@@ -1,6 +1,6 @@
 # POUSSIÈRE DIAMANT
 
-POUSSIÈRE DIAMANT is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le 9B, Paris on Thu, 3 Dec 2026.
+POUSSIÈRE DIAMANT is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le 9B, Paris on Thu, 3 Dec 2026.
 
 POUSSIÈRE DIAMANT is a house and minimal artist, with 3 gigs on soundcheck across Paris. Often billed alongside Olivier Monteiro. Next up: Le 9B, Paris on Thu 3 Dec.
 
@@ -19,4 +19,4 @@ POUSSIÈRE DIAMANT is a house and minimal artist, with 3 gigs on soundcheck acro
 
 Olivier Monteiro
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poussierediamant/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poussierediamant/)*

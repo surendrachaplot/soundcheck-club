@@ -1,6 +1,6 @@
 # Lucía Conde
 
-Lucía Conde is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Treehouse NDSM, Amsterdam on Sun, 20 Dec 2026.
+Lucía Conde is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Treehouse NDSM, Amsterdam on Sun, 20 Dec 2026.
 
 Lucía Conde is a house and club artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, New York City and Utrecht. Often billed alongside AAlva, Not Yet and Pedro da Mata. Next up: Treehouse NDSM, Amsterdam on Sun 20 Dec.
 
@@ -21,4 +21,4 @@ Lucía Conde is a house and club artist based in Netherlands, with 5 gigs on sou
 
 AAlva, Not Yet (2), Pedro da Mata
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíaconde/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíaconde/)*

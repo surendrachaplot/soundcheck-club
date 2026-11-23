@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Luuk van Dijk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 Luuk van Dijk is a house and tech house artist based in Netherlands, with 253 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside Prunk, L.P. Rhythm and Max Dean. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Luuk van Dijk is a house and tech house artist based in Netherlands, with 253 gi
 
 Prunk, L.P. Rhythm, Max Dean
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

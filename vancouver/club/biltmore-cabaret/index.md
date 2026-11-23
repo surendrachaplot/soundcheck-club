@@ -1,6 +1,6 @@
 # Biltmore Cabaret
 
-Biltmore Cabaret is a music venue in Vancouver with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DOLLY X SUB ZERO Festival" on Fri, 27 Nov 2026.
+Biltmore Cabaret is a music venue in Vancouver with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DOLLY X SUB ZERO Festival" on Fri, 27 Nov 2026.
 
 Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 13 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
 
@@ -23,4 +23,4 @@ Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 13 upcoming
 
 395 Kingsway; Vancouver, BC V5T 3J5; Canada, Vancouver
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*

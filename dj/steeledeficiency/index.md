@@ -1,6 +1,6 @@
 # steele deficiency
 
-steele deficiency is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jupiter Disco, New York City on Wed, 16 Dec 2026.
+steele deficiency is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jupiter Disco, New York City on Wed, 16 Dec 2026.
 
 steele deficiency is a techno and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside JESSXO, 1ol1v1a and 3K LB Marlin. Next up: Jupiter Disco, New York City on Wed 16 Dec.
 
@@ -20,4 +20,4 @@ steele deficiency is a techno and house artist based in United States of America
 
 JESSXO, 1ol1v1a, 3K LB Marlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steeledeficiency/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steeledeficiency/)*

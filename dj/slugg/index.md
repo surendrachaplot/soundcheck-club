@@ -1,6 +1,6 @@
 # slugg
 
-slugg is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
+slugg is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
 
 slugg is a tech house and house artist based in United States of America, with 98 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 16 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: Refuge, New York City on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ slugg is a tech house and house artist based in United States of America, with 9
 
 Lousy Lover, Ms. Mada, ChaseWest
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*

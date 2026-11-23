@@ -1,6 +1,6 @@
 # ECTO (SF)
 
-ECTO (SF) is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 11 Dec 2026.
+ECTO (SF) is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 ECTO (SF) is a club and ghetto tech artist based in United States of America, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Dj Nico, Discnogirl and FINISHHER. Next up: Underground SF, San Francisco/Oakland on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ ECTO (SF) is a club and ghetto tech artist based in United States of America, wi
 
 Dj Nico, Discnogirl, FINISHHER
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*

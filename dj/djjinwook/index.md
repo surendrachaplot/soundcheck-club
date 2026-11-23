@@ -1,6 +1,6 @@
 # DJ Jinwook
 
-DJ Jinwook is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+DJ Jinwook is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 DJ Jinwook is a house and disco artist based in South Korea, with 100 gigs on soundcheck across Hanoi, Munich, Seoul and South Korea and 2 more. Often billed alongside Cityboy from Seoul, Radio Revolution and RTRP. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ DJ Jinwook is a house and disco artist based in South Korea, with 100 gigs on so
 
 Cityboy from Seoul, Radio Revolution, RTRP
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*

@@ -1,8 +1,8 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Sat, 5 Dec 2026.
+Bobby. is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Sat, 5 Dec 2026.
 
-Bobby. is a techno and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 36 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: fabric, London on Sat 5 Dec.
+Bobby. is a house and techno artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 36 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: fabric, London on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Bobby. is a techno and house artist based in United Kingdom, with 153 gigs on so
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

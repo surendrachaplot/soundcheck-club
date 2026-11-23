@@ -1,6 +1,6 @@
 # VIO (CA)
 
-VIO (CA) is a Bass and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 520 Alexander Street, Vancouver on Fri, 27 Nov 2026.
+VIO (CA) is a Bass and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 520 Alexander Street, Vancouver on Fri, 27 Nov 2026.
 
 VIO (CA) is a bass and tech house artist based in Peru, with 2 gigs on soundcheck across Vancouver. Often billed alongside Dreya, JADO and LVL (CAN). Next up: 520 Alexander Street, Vancouver on Fri 27 Nov.
 
@@ -15,4 +15,4 @@ VIO (CA) is a bass and tech house artist based in Peru, with 2 gigs on soundchec
 
 Dreya (2), JADO, LVL (CAN)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vioca/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vioca/)*

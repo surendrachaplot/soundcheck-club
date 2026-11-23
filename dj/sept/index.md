@@ -1,6 +1,6 @@
 # Sept
 
-Sept is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
+Sept is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
 
 Sept is a techno and house artist based in Poland, with 136 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 33 more. Often billed alongside Danté, DLV and Lucinee. Next up: Mia Mao, Paris on Thu 26 Nov.
 
@@ -28,4 +28,4 @@ Sept is a techno and house artist based in Poland, with 136 gigs on soundcheck a
 
 Danté, DLV, Lucinee
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*

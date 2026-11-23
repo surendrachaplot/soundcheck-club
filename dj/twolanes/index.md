@@ -1,6 +1,6 @@
 # TWO LANES
 
-TWO LANES is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Malkin Bowl, Vancouver on Fri, 14 May 2027.
+TWO LANES is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Malkin Bowl, Vancouver on Fri, 14 May 2027.
 
 TWO LANES is an electronica and techno artist, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Monolink, Christian Löffler and J.WOCKENFUSS. Next up: Malkin Bowl, Vancouver on Fri 14 May.
 
@@ -25,4 +25,4 @@ TWO LANES is an electronica and techno artist, with 30 gigs on soundcheck across
 
 Monolink, Christian Löffler, J.WOCKENFUSS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twolanes/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twolanes/)*

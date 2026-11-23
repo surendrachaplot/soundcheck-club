@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at mess Biarritz, South-west on Fri, 27 Nov 2026.
+Paula Tape is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at mess Biarritz, South-west on Fri, 27 Nov 2026.
 
 Paula Tape is a house and techno artist based in Chile, with 181 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 58 more. Often billed alongside Avalon Emerson, Make A Dance and Bonobo. Next up: mess Biarritz, South West on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Paula Tape is a house and techno artist based in Chile, with 181 gigs on soundch
 
 Avalon Emerson, Make A Dance, Bonobo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

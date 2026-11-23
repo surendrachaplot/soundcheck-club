@@ -1,6 +1,6 @@
 # Garçon Gaston
 
-Garçon Gaston is a New Wave and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 8MM, Berlin on Sat, 12 Dec 2026.
+Garçon Gaston is a New Wave and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 8MM, Berlin on Sat, 12 Dec 2026.
 
 Garçon Gaston is a new wave and electro artist based in Ukraine, with 14 gigs on soundcheck across Berlin and Munich. Often billed alongside Artem Ikra, DJ SKIN and Miran N. Next up: 8MM, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Garçon Gaston is a new wave and electro artist based in Ukraine, with 14 gigs o
 
 Artem Ikra, DJ SKIN, Miran N
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcongaston/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcongaston/)*

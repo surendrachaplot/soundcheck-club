@@ -1,6 +1,6 @@
 # HIEN
 
-HIEN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gólya Presszó, Budapest on Sat, 5 Dec 2026.
+HIEN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gólya Presszó, Budapest on Sat, 5 Dec 2026.
 
 HIEN is a club and house artist based in Hungary, with 14 gigs on soundcheck across Budapest, Cologne, Dresden and New York City. Often billed alongside GIGASET, x0trandon and $EJ. Next up: Gólya Presszó, Budapest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ HIEN is a club and house artist based in Hungary, with 14 gigs on soundcheck acr
 
 GIGASET, x0trandon, $EJ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*

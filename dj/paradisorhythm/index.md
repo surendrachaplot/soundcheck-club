@@ -1,6 +1,6 @@
 # Paradiso Rhythm
 
-Paradiso Rhythm is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
+Paradiso Rhythm is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
 
 Paradiso Rhythm is a house and acid artist based in Slovakia, with 10 gigs on soundcheck across Dublin, Munich and Prague. Often billed alongside uber_acid, Wuss and duboisi. Next up: Ankali & Planeta Za, Prague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Paradiso Rhythm is a house and acid artist based in Slovakia, with 10 gigs on so
 
 uber_acid, Wuss, duboisi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradisorhythm/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradisorhythm/)*

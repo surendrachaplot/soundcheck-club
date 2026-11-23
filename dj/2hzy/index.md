@@ -1,6 +1,6 @@
 # 2HZY
 
-2HZY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
+2HZY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
 
 2HZY is a techno and industrial artist based in Canada, with 20 gigs on soundcheck across Toronto. Often billed alongside Jose Carbonell, CAETANO and DINO. Next up: Overture Studios, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@
 
 Jose Carbonell, CAETANO, DINO (3)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hzy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hzy/)*

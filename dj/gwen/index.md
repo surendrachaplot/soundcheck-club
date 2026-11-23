@@ -1,6 +1,6 @@
 # Gwen
 
-Gwen is a Deep House and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Silencio, Paris on Sat, 28 Nov 2026.
+Gwen is a Deep House and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Silencio, Paris on Sat, 28 Nov 2026.
 
 Gwen is a deep house and pop artist based in France, with 3 gigs on soundcheck across Bangkok, New York City and Paris. Often billed alongside Damon Jee, Jazzie C and Maso. Next up: Silencio, Paris on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Gwen is a deep house and pop artist based in France, with 3 gigs on soundcheck a
 
 Damon Jee, Jazzie C, Maso
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwen/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwen/)*

@@ -1,6 +1,6 @@
 # DEVANEE
 
-DEVANEE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Desterro, Lisbon on Thu, 17 Dec 2026.
+DEVANEE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Desterro, Lisbon on Thu, 17 Dec 2026.
 
 DEVANEE is a techno and hardcore artist based in Portugal, with 9 gigs on soundcheck across Lisbon. Often billed alongside SHIVAS, Arbor and Astrea. Next up: Desterro, Lisbon on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ DEVANEE is a techno and hardcore artist based in Portugal, with 9 gigs on soundc
 
 SHIVAS, Arbor, Astrea
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devanee/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devanee/)*

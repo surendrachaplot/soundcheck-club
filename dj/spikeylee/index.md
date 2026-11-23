@@ -1,6 +1,6 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+Spikey Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
 
 Spikey Lee is a techno and house artist based in Netherlands, with 115 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 20 more. Often billed alongside Lenard Klein, Laure Croft and DJ Petite. Next up: OST, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Spikey Lee is a techno and house artist based in Netherlands, with 115 gigs on s
 
 Lenard Klein, Laure Croft, DJ Petite
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*

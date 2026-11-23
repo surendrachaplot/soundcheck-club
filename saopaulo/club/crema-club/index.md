@@ -1,6 +1,6 @@
 # Crema Club
 
-Crema Club is a music venue in Sao Paulo with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Crema Club - 27.10" on Fri, 27 Nov 2026.
+Crema Club is a music venue in Sao Paulo with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Crema Club - 27.10" on Fri, 27 Nov 2026.
 
 Crema Club is a music venue in Sao Paulo listed on soundcheck. 7 upcoming gigs, with line-ups including Annëto, Chediak, ERAM (BR) and Etcetera. See dates, start times and who's playing. R. Cristóvão Gonçalves, 84 - Pinheiros, São Paulo - SP, 05426-050.
 
@@ -20,4 +20,4 @@ Crema Club is a music venue in Sao Paulo listed on soundcheck. 7 upcoming gigs, 
 
 R. Cristóvão Gonçalves, 84 - Pinheiros, São Paulo - SP, 05426-050, Sao Paulo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/crema-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/crema-club/)*

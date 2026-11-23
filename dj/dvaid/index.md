@@ -1,8 +1,8 @@
 # DVAID
 
-DVAID is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 2 Jan 2027.
+DVAID is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 2 Jan 2027.
 
-DVAID is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Ankara, Barcelona and Basel and 23 more. Often billed alongside Adrian Mills, HUMAN ERROR and WILDERÍCH. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 2 Jan.
+DVAID is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Ankara, Barcelona and Basel and 23 more. Often billed alongside Adrian Mills, HUMAN  ERROR and WILDERÍCH. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 2 Jan.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DVAID is a techno and trance artist based in Germany, with 58 gigs on soundcheck
 
 ## Shares bills with
 
-Adrian Mills, HUMAN ERROR, WILDERÍCH
+Adrian Mills, HUMAN  ERROR, WILDERÍCH
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*

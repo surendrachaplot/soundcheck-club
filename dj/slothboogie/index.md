@@ -1,6 +1,6 @@
 # SlothBoogie
 
-SlothBoogie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
+SlothBoogie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
 
 SlothBoogie is a house and disco artist, with 16 gigs on soundcheck across Berlin, London, Manchester and Melbourne and 1 more. Often billed alongside Philippa, Ariane V and Baby Rollén. Next up: 40ft Brewery - Blackhorse Road, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ SlothBoogie is a house and disco artist, with 16 gigs on soundcheck across Berli
 
 Philippa, Ariane V, Baby Rollén
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slothboogie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slothboogie/)*

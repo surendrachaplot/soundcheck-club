@@ -1,8 +1,8 @@
-# Soju Gang
+# Azzi On The Beat
 
-Soju Gang is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
+Azzi On The Beat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
 
-Soju Gang is a house and techno artist, with 136 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 32 more. Often billed alongside Jyoty, Haus of Ralph and AANO. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
+Azzi On The Beat is a house and techno artist, with 136 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 32 more. Often billed alongside Jyoty, Haus of Ralph and AANO. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Soju Gang is a house and techno artist, with 136 gigs on soundcheck across Adela
 
 Jyoty, Haus of Ralph, AANO
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*

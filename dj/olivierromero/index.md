@@ -1,6 +1,6 @@
 # Olivier Romero
 
-Olivier Romero is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Underclub, Alicante on Fri, 4 Dec 2026.
+Olivier Romero is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Underclub, Alicante on Fri, 4 Dec 2026.
 
 Olivier Romero is a minimal and house artist based in France, with 19 gigs on soundcheck across Alicante, Geneva, Marseille and Paris and 1 more. Often billed alongside Lowris, Miroloja and Aline Umber. Next up: Underclub, Alicante on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Olivier Romero is a minimal and house artist based in France, with 19 gigs on so
 
 Lowris, Miroloja, Aline Umber
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierromero/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierromero/)*

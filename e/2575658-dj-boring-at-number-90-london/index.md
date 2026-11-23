@@ -1,6 +1,6 @@
 # DJ BORING at NUMBER 90 LONDON
 
-DJ BORING at NUMBER 90 LONDON on Sat 20 Feb, London. 1 artist: DJ BORING. See the line-up on soundcheck.
+DJ BORING at NUMBER 90 LONDON on Sat 20 Feb, London. 1 artist: DJ BORING. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

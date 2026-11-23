@@ -1,14 +1,13 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Black Bear Lodge, Brisbane on Sat, 21 Nov 2026.
+Michael Mayer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
 
-Michael Mayer is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Black Bear Lodge, Brisbane on Sat 21 Nov.
+Michael Mayer is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Sunset Beach Bali, Bali on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Black Bear Lodge | Brisbane |
 | Sat, 28 Nov 2026 | Sunset Beach Bali | Bali |
 | Fri, 11 Dec 2026 | Muziekgieterij | Netherlands |
 | Fri, 18 Dec 2026 | Kater | Berlin |
@@ -28,4 +27,4 @@ Michael Mayer is a techno and house artist based in Germany, with 93 gigs on sou
 
 Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

@@ -1,6 +1,6 @@
 # YOSHIHAARAA
 
-YOSHIHAARAA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mitsuki, Tokyo on Sat, 28 Nov 2026.
+YOSHIHAARAA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mitsuki, Tokyo on Sat, 28 Nov 2026.
 
 YOSHIHAARAA is a house and techno artist based in Japan, with 89 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Monkey Timers, YAMARCHY and KATAINAKA. Next up: Mitsuki, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ YOSHIHAARAA is a house and techno artist based in Japan, with 89 gigs on soundch
 
 Monkey Timers, YAMARCHY, KATAINAKA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihaaraa/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihaaraa/)*

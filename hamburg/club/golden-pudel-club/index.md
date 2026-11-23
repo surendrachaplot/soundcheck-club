@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "NITE OF THE TRILL / Opti Mane (live), AlphaMob & Co." on Sun, 22 Nov 2026.
+Golden Pudel Club is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Afrotonic" on Wed, 25 Nov 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including 0megavybe, Alas, Alphamob and beccs and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including 0megavybe, Alas, beccs and DJ Babyblade and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | NITE OF THE TRILL / Opti Mane (live), AlphaMob & Co. | Alphamob, Unfug Abla |
 | Wed, 25 Nov 2026 | Afrotonic |  |
 | Thu, 26 Nov 2026 | rrauswurf w/ MLE b2b Wendy, Ilja Franz & DJ Hochzeit | Wendy (DE) |
 | Thu, 26 Nov 2026 | rrauswurf | DJ Hochzeit, Ilja Franz, MLE (2) |
@@ -23,4 +22,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming 
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

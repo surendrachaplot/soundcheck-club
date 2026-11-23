@@ -1,6 +1,6 @@
 # Protokseed
 
-Protokseed is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at M7 Club, Barcelona on Fri, 27 Nov 2026.
+Protokseed is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at M7 Club, Barcelona on Fri, 27 Nov 2026.
 
 Protokseed is a techno and hardcore artist based in France, with 48 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Sköne, FLKN and DXPE (ES). Next up: M7 Club, Barcelona on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Protokseed is a techno and hardcore artist based in France, with 48 gigs on soun
 
 Sköne, FLKN, DXPE (ES)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*

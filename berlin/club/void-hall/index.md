@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "New Blood Sessions XII - Drum & Bass Event for Newcomers" on Fri, 4 Dec 2026.
+Void Hall is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "New Blood Sessions XII - Drum & Bass Event for Newcomers" on Fri, 4 Dec 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Bonq, Bouras, Ed Shepherd and Fibe and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -16,4 +16,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

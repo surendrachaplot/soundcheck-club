@@ -1,6 +1,6 @@
 # Gronk
 
-Gronk is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
+Gronk is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
 
 Gronk is a techno and trance artist based in Denmark, with 2 gigs on soundcheck across Copenhagen. Often billed alongside steamboi, Bestrawa and Cheeks. Next up: Tap1, Copenhagen on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ Gronk is a techno and trance artist based in Denmark, with 2 gigs on soundcheck 
 
 steamboi, Bestrawa, Cheeks
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gronk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gronk/)*

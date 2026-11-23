@@ -1,6 +1,6 @@
 # Foreverness
 
-Foreverness is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 12 Dec 2026.
+Foreverness is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 12 Dec 2026.
 
 Foreverness is an electronica and techno artist based in Argentina, with 7 gigs on soundcheck across Berlin and Malaga. Often billed alongside Miguel Payda, Adrian Roman and Adron_. Next up: Studio Club Malaga, Malaga on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Foreverness is an electronica and techno artist based in Argentina, with 7 gigs 
 
 Miguel Payda, Adrian Roman, Adron_
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foreverness/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foreverness/)*

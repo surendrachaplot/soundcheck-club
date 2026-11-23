@@ -1,6 +1,6 @@
 # XSULTVN
 
-XSULTVN is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 5 Dec 2026.
+XSULTVN is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 5 Dec 2026.
 
 XSULTVN is a techno and pop artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Rotterdam and The Hague. Often billed alongside Amir, CAIN and Candy Coup. Next up: PIP Den Haag, The Hague on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ XSULTVN is a techno and pop artist based in Netherlands, with 4 gigs on soundche
 
 Amir, CAIN, Candy Coup
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsultvn/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsultvn/)*

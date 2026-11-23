@@ -1,6 +1,6 @@
 # Twist
 
-Twist is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Aqua All Night" on Sat, 5 Dec 2026.
+Twist is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Aqua All Night" on Sat, 5 Dec 2026.
 
 Twist is a music venue in Miami listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Twist is a music venue in Miami listed on soundcheck. 1 upcoming gig. See dates,
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Aqua All Night |  |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/twist/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/twist/)*

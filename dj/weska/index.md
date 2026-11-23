@@ -1,6 +1,6 @@
 # Weska
 
-Weska is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 131 Mccormack St, Toronto on Sat, 12 Dec 2026.
+Weska is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 131 Mccormack St, Toronto on Sat, 12 Dec 2026.
 
 Weska is a techno and tech house artist based in Canada, with 40 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Chicago and 14 more. Often billed alongside Bart Skils, Charles D (US) and Eli Brown. Next up: 131 Mccormack St, Toronto on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Weska is a techno and tech house artist based in Canada, with 40 gigs on soundch
 
 Bart Skils, Charles D (US), Eli Brown
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weska/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weska/)*

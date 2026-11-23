@@ -1,6 +1,6 @@
 # ragapop
 
-ragapop is a Electro and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Hasard Ludique, Paris on Thu, 10 Dec 2026.
+ragapop is a Electro and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le Hasard Ludique, Paris on Thu, 10 Dec 2026.
 
 ragapop is an electro and post-punk artist based in Ukraine, with 4 gigs on soundcheck across Berlin, Bordeaux and Paris. Often billed alongside Aili and Arsenal Mikebe. Next up: Le Hasard Ludique, Paris on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ ragapop is an electro and post-punk artist based in Ukraine, with 4 gigs on soun
 
 Aili, Arsenal Mikebe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ragapop/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ragapop/)*

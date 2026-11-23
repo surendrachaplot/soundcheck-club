@@ -1,6 +1,6 @@
 # David Asko
 
-David Asko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at KREUZWERK, Berlin on Sat, 19 Dec 2026.
+David Asko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at KREUZWERK, Berlin on Sat, 19 Dec 2026.
 
 David Asko is a techno and industrial artist based in France, with 44 gigs on soundcheck across Barcelona, Basel, Berlin and Hamburg and 7 more. Often billed alongside Samantha Togni, Mar/us and Somniac One. Next up: KREUZWERK, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ David Asko is a techno and industrial artist based in France, with 44 gigs on so
 
 Samantha Togni, Mar/us, Somniac One
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*

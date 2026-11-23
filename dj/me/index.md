@@ -1,6 +1,6 @@
 # &ME
 
-&ME is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Duggal Greenhouse, New York City on Thu, 31 Dec 2026.
+&ME is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Duggal Greenhouse, New York City on Thu, 31 Dec 2026.
 
 &ME is a house and techno artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: Duggal Greenhouse, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@
 
 Rampa, Adam Port, Sossa
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*

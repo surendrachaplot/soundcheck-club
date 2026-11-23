@@ -1,6 +1,6 @@
 # Gatita Tribalera
 
-Gatita Tribalera is a Guaracha and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fuchs2, Prague on Thu, 26 Nov 2026.
+Gatita Tribalera is a Guaracha and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fuchs2, Prague on Thu, 26 Nov 2026.
 
 Gatita Tribalera is a guaracha and neo perreo artist based in Czech Republic, with 2 gigs on soundcheck across Prague. Often billed alongside AddlyMuff, Kavkaz Widow and MARS. Next up: Fuchs2, Prague on Thu 26 Nov.
 
@@ -18,4 +18,4 @@ Gatita Tribalera is a guaracha and neo perreo artist based in Czech Republic, wi
 
 AddlyMuff, Kavkaz Widow, MARS (4)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gatitatribalera/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gatitatribalera/)*

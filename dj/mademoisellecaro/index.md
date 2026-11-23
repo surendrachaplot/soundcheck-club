@@ -1,6 +1,6 @@
 # Mademoiselle Caro
 
-Mademoiselle Caro is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le 211, Paris on Fri, 11 Dec 2026.
+Mademoiselle Caro is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le 211, Paris on Fri, 11 Dec 2026.
 
 Mademoiselle Caro is a techno and disco artist, with 3 gigs on soundcheck across Marseille and Paris. Often billed alongside Nannä Volta, Nicol and Pas de quartier. Next up: Le 211, Paris on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Mademoiselle Caro is a techno and disco artist, with 3 gigs on soundcheck across
 
 Nannä Volta, Nicol, Pas de quartier
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mademoisellecaro/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mademoisellecaro/)*

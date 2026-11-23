@@ -1,6 +1,6 @@
 # Contakt
 
-Contakt is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jasna 1, Warsaw on Fri, 18 Dec 2026.
+Contakt is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jasna 1, Warsaw on Fri, 18 Dec 2026.
 
 Contakt is an electronic artist based in United States of America, with 3 gigs on soundcheck across Warsaw. Often billed alongside Danté, Fadi Mohem and Humain. Next up: Jasna 1, Warsaw on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Contakt is an electronic artist based in United States of America, with 3 gigs o
 
 Danté, Fadi Mohem, Humain
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contakt/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contakt/)*

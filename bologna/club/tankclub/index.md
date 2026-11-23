@@ -1,6 +1,6 @@
 # TANKclub
 
-TANKclub is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Subject Sue + Las Eras Live" on Fri, 27 Nov 2026.
+TANKclub is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Subject Sue + Las Eras Live" on Fri, 27 Nov 2026.
 
 TANKclub is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with line-ups including Conical Intersection, Giumbal, ØSC and Salvatore Foglia and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TANKclub is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with
 | Sat, 12 Dec 2026 | NNNAAAMMM aware safer clubbing | Giumbal, Salvatore Foglia, Simone Zino |
 | Sat, 12 Dec 2026 | Brain Club Optimization workshop with Collective Sync x NNNAAAMMM |  |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*

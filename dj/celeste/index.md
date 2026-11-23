@@ -1,6 +1,6 @@
 # Céleste
 
-Céleste is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hillhead Bookclub, Glasgow on Thu, 31 Dec 2026.
+Céleste is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hillhead Bookclub, Glasgow on Thu, 31 Dec 2026.
 
 Céleste is a techno and house artist based in United Kingdom, with 113 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 8 more. Often billed alongside t e s t p r e s s, Jude Bradshaw and LA MAISON. Next up: Hillhead Bookclub, Glasgow on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Céleste is a techno and house artist based in United Kingdom, with 113 gigs on 
 
 t e s t p r e s s, Jude Bradshaw, LA MAISON
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celeste/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celeste/)*

@@ -1,6 +1,6 @@
 # peak2soon
 
-peak2soon is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Prisma, Berlin on Thu, 31 Dec 2026.
+peak2soon is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Prisma, Berlin on Thu, 31 Dec 2026.
 
 peak2soon is a techno and tech house artist based in Ireland, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside k.meower, DJ Hitwave and Andeel. Next up: Prisma, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ peak2soon is a techno and tech house artist based in Ireland, with 10 gigs on so
 
 k.meower, DJ Hitwave, Andeel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peak2soon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peak2soon/)*

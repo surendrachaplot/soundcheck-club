@@ -1,8 +1,8 @@
 # acidbrunch
 
-acidbrunch is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Honey's, New York City on Tue, 1 Dec 2026.
+acidbrunch is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Honey's, New York City on Tue, 1 Dec 2026.
 
-acidbrunch is a techno and club artist, with 9 gigs on soundcheck across New York City. Often billed alongside tyler.xls, DJ girlcrush and KC (NYC). Next up: Honey's, New York City on Tue 1 Dec.
+acidbrunch is a techno and club artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside tyler.xls, DJ girlcrush and KC (NYC). Next up: Honey's, New York City on Tue 1 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ acidbrunch is a techno and club artist, with 9 gigs on soundcheck across New Yor
 
 tyler.xls, DJ girlcrush, KC (NYC)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidbrunch/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidbrunch/)*

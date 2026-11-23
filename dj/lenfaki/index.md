@@ -1,6 +1,6 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
+Len Faki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
 Len Faki is a techno and house artist based in Germany, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Daria Kolosova, Sam Paganini and Ben Klock. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ Len Faki is a techno and house artist based in Germany, with 168 gigs on soundch
 
 Daria Kolosova, Sam Paganini, Ben Klock
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "desire line with mad miran & residents" on Fri, 27 Nov 2026.
+Eiger Studios is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "desire line with mad miran & residents" on Fri, 27 Nov 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including AAMEE, basic chanel, BUTCHABOI and Chappy and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -20,4 +20,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, w
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

@@ -1,6 +1,6 @@
 # zitrolem
 
-zitrolem is a Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Private Venue, Berlin on Fri, 11 Dec 2026.
+zitrolem is a Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Private Venue, Berlin on Fri, 11 Dec 2026.
 
 zitrolem is a bass and broken beat artist based in Kazakhstan, with 2 gigs on soundcheck across Berlin. Often billed alongside Dub Isotope, Agem and Babe Gorgeous. Next up: TBA - Private Venue, Berlin on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ zitrolem is a bass and broken beat artist based in Kazakhstan, with 2 gigs on so
 
 Dub Isotope, Agem, Babe Gorgeous
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zitrolem/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zitrolem/)*

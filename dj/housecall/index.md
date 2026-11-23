@@ -1,6 +1,6 @@
 # Housecall
 
-Housecall is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Housecall is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Housecall is a house and disco artist based in France, with 39 gigs on soundcheck across Barcelona, Berlin, Lyon and Paris. Often billed alongside Longneck, Larry Houl and Barée Masse. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Housecall is a house and disco artist based in France, with 39 gigs on soundchec
 
 Longneck, Larry Houl, Barée Masse
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housecall/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housecall/)*

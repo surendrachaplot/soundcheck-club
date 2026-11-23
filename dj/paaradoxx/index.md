@@ -1,6 +1,6 @@
 # paaradoxx
 
-paaradoxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
+paaradoxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
 
 paaradoxx is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 2 more. Often billed alongside Maruhni, DJ Frank and DJ ASS TITS. Next up: Mena Berlin, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ paaradoxx is a techno and house artist based in Germany, with 40 gigs on soundch
 
 Maruhni, DJ Frank, DJ ASS TITS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*

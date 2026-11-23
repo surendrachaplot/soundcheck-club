@@ -1,14 +1,15 @@
 # umru
 
-umru is a Club and Pop artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mooi Space, Toronto on Fri, 27 Nov 2026.
+umru is a Club and Pop artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mooi Space, Toronto on Fri, 27 Nov 2026.
 
-umru is a club and pop artist based in United States of America, with 176 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 56 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Mooi Space, Toronto on Fri 27 Nov.
+umru is a club and pop artist based in United States of America, with 177 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 56 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Mooi Space, Toronto on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Mooi Space | Toronto |
+| Fri, 4 Dec 2026 | Kza Sal | Rio de Janeiro |
 | Sat, 12 Dec 2026 | Neck of the Woods | Auckland |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Thu, 31 Dec 2026 | Concord Music Hall | Chicago |
@@ -29,4 +30,4 @@ umru is a club and pop artist based in United States of America, with 176 gigs o
 
 Petal Supply, Ninajirachi, GRRL
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

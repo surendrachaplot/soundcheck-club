@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "J1 - Adiel" on Fri, 27 Nov 2026.
+Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "J1 - Adiel" on Fri, 27 Nov 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including Adiel, Andy Martin, Archypness and Contakt and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -22,4 +22,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with l
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

@@ -1,6 +1,6 @@
 # Rudolfode
 
-Rudolfode is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Loop, Vienna on Mon, 7 Dec 2026.
+Rudolfode is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Loop, Vienna on Mon, 7 Dec 2026.
 
 Rudolfode is a dubstep and drum & bass artist based in Austria, with 12 gigs on soundcheck across Vienna. Often billed alongside trembeats, Sequent and CHERCHES. Next up: Loop, Vienna on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Rudolfode is a dubstep and drum & bass artist based in Austria, with 12 gigs on 
 
 trembeats, Sequent, CHERCHES
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfode/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfode/)*

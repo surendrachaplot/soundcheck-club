@@ -1,6 +1,6 @@
 # Werd Pace
 
-Werd Pace is a Electronica and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 27 Nov 2026.
+Werd Pace is a Electronica and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 27 Nov 2026.
 
 Werd Pace is an electronica and breakbeat artist based in United States of America, with 2 gigs on soundcheck across Berlin. Often billed alongside Aphty Khéa. Next up: Crack Bellmer, Berlin on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Werd Pace is an electronica and breakbeat artist based in United States of Ameri
 
 Aphty Khéa
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/werdpace/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/werdpace/)*

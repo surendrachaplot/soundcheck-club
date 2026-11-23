@@ -1,6 +1,6 @@
 # SUBVISIONS
 
-SUBVISIONS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Eiger Studios, Leeds on Sat, 28 Nov 2026.
+SUBVISIONS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Eiger Studios, Leeds on Sat, 28 Nov 2026.
 
 SUBVISIONS is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Leeds and Manchester. Often billed alongside Ventah, MOUTH and AAMEE. Next up: Eiger Studios, Leeds on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ SUBVISIONS is a techno and house artist based in United Kingdom, with 21 gigs on
 
 Ventah, MOUTH, AAMEE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*

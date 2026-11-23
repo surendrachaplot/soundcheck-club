@@ -1,6 +1,6 @@
 # Valise (FR)
 
-Valise (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
+Valise (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
 
 Valise (FR) is a techno and trance artist based in France, with 2 gigs on soundcheck across Paris. Often billed alongside 69DB, 6thFloor and Apocalypse Nao. Next up: Le 211, Paris on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Valise (FR) is a techno and trance artist based in France, with 2 gigs on soundc
 
 69DB, 6thFloor, Apocalypse Nao
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valisefr/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valisefr/)*

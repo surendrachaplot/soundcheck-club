@@ -1,6 +1,6 @@
 # DJason
 
-DJason is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 28 Nov 2026.
+DJason is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 28 Nov 2026.
 
 DJason is a house and techno artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside YOSHI KANOU, AiMii and Luke Hobbs. Next up: Aoyama Hachi, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJason is a house and techno artist based in Japan, with 49 gigs on soundcheck a
 
 YOSHI KANOU, AiMii, Luke Hobbs
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djason/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djason/)*

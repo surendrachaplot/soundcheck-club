@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Nevermind: p-rallel + more" on Fri, 27 Nov 2026.
+The Clock Factory is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Nevermind: p-rallel + more" on Fri, 27 Nov 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including p-rallel. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -16,4 +16,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 3 upcoming g
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

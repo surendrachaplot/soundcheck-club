@@ -1,6 +1,6 @@
 # HENI
 
-HENI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Adam Riese, Frankfurt on Fri, 11 Dec 2026.
+HENI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Adam Riese, Frankfurt on Fri, 11 Dec 2026.
 
 HENI is a techno and house artist based in Germany, with 2 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside M4RY, MARRE and PyjamaMama. Next up: Adam Riese, Frankfurt on Fri 11 Dec.
 
@@ -15,4 +15,4 @@ HENI is a techno and house artist based in Germany, with 2 gigs on soundcheck ac
 
 M4RY, MARRE, PyjamaMama
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heni/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heni/)*

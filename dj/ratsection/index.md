@@ -1,8 +1,8 @@
 # Rat Section
 
-Rat Section is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kongresai, Vilnius on Fri, 27 Nov 2026.
+Rat Section is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kongresai, Vilnius on Fri, 27 Nov 2026.
 
-Rat Section is an experimental and electronica artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 17 more. Often billed alongside NEW YORK, Covco and Mellowdramatics. Next up: Kongresai, Vilnius on Fri 27 Nov.
+Rat Section is an experimental and club artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 17 more. Often billed alongside NEW YORK, Covco and Mellowdramatics. Next up: Kongresai, Vilnius on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Rat Section is an experimental and electronica artist based in United Kingdom, w
 
 NEW YORK, Covco, Mellowdramatics
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*

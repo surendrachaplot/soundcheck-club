@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "System Olympia (Live)" on Tue, 24 Nov 2026.
+Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "System Olympia (Live)" on Tue, 24 Nov 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Anish Kumar, Aurat, Girls of the Internet and gr00vy.cat and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

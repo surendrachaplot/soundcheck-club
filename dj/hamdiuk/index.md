@@ -1,6 +1,6 @@
 # Hamdi (UK)
 
-Hamdi (UK) is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Parallel, Amsterdam on Fri, 27 Nov 2026.
+Hamdi (UK) is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Parallel, Amsterdam on Fri, 27 Nov 2026.
 
 Hamdi (UK) is a bass and dubstep artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 41 more. Often billed alongside SICARIA, Ahadadream and MPH. Next up: Parallel, Amsterdam on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Hamdi (UK) is a bass and dubstep artist based in United Kingdom, with 79 gigs on
 
 SICARIA, Ahadadream, MPH (1)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiuk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiuk/)*

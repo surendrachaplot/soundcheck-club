@@ -1,14 +1,13 @@
 # Deano
 
-Deano is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Deano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Alley, Cape Town on Thu, 31 Dec 2026.
 
-Deano is a techno and house artist based in South Africa, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside JED (ZA), Faretrade and DVS1. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
+Deano is a techno and house artist based in South Africa, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside JED (ZA), Faretrade and DVS1. Next up: Alley, Cape Town on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | Alley | Cape Town |
 
 ## Recently played
@@ -26,4 +25,4 @@ Deano is a techno and house artist based in South Africa, with 42 gigs on soundc
 
 JED (ZA), Faretrade, DVS1
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*

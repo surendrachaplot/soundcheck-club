@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Das Zimmer, Mannheim on Sat, 28 Nov 2026.
+FENIM0RE is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Das Zimmer, Mannheim on Sat, 28 Nov 2026.
 
 FENIM0RE is a techno and trance artist based in Germany, with 78 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 34 more. Often billed alongside future.666, ÜBERKIKZ and DJ Hyperdrive. Next up: Das Zimmer, Mannheim on Sat 28 Nov.
 
@@ -34,4 +34,4 @@ FENIM0RE is a techno and trance artist based in Germany, with 78 gigs on soundch
 
 future.666, ÜBERKIKZ, DJ Hyperdrive
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

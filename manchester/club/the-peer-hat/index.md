@@ -1,6 +1,6 @@
 # The Peer Hat
 
-The Peer Hat is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Corrupted" on Fri, 11 Dec 2026.
+The Peer Hat is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Corrupted" on Fri, 11 Dec 2026.
 
 The Peer Hat is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including gr00vy.cat and W1LY (UK). See dates, start times and who's playing. 14-16 Faraday St, Manchester M1 1BE, United Kingdom.
 
@@ -14,4 +14,4 @@ The Peer Hat is a music venue in Manchester listed on soundcheck. 1 upcoming gig
 
 14-16 Faraday St, Manchester M1 1BE, United Kingdom, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-peer-hat/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-peer-hat/)*

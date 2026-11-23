@@ -1,14 +1,13 @@
 # Jerry
 
-Jerry is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Jerry is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 27 Nov 2026.
 
-Jerry is a house and electronica artist based in United Kingdom, with 31 gigs on soundcheck across Kanto, London, Manchester and Melbourne and 7 more. Often billed alongside NAOKI, Solaris and Bradley Zero. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
+Jerry is a house and electronica artist based in United Kingdom, with 31 gigs on soundcheck across Kanto, London, Manchester and Melbourne and 7 more. Often billed alongside NAOKI, Solaris and Bradley Zero. Next up: Koenji Cave, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
 | Fri, 27 Nov 2026 | Koenji Cave | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Jerry is a house and electronica artist based in United Kingdom, with 31 gigs on
 
 NAOKI, Solaris, Bradley Zero
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerry/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerry/)*

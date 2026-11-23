@@ -1,6 +1,6 @@
 # Huxley's Neue Welt
 
-Huxley's Neue Welt is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "horsegiirL" on Wed, 25 Nov 2026.
+Huxley's Neue Welt is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "horsegiirL" on Wed, 25 Nov 2026.
 
 Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Cannelle, DJ_Dave, horsegiirL and Ninajirachi. See dates, start times and who's playing. Hasenheide 107 - 113, Neukölln, 10967 Berlin.
 
@@ -18,4 +18,4 @@ Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 5 upcoming g
 
 Hasenheide 107 - 113, Neukölln, 10967 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*

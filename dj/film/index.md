@@ -1,6 +1,6 @@
 # FILM
 
-FILM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+FILM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 FILM is a house and techno artist based in India, with 5 gigs on soundcheck across Bangalore, Bangkok, Lisbon and Miami and 1 more. Often billed alongside ANSWER (IN), Anyasa and Arjun Vagale. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ FILM is a house and techno artist based in India, with 5 gigs on soundcheck acro
 
 ANSWER (IN), Anyasa, Arjun Vagale
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/film/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/film/)*

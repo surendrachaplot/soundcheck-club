@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Rx presents: Noise Daughters Showcase " on Tue, 24 Nov 2026.
+AMT is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Rx presents: Noise Daughters Showcase " on Tue, 24 Nov 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Achilles, ALIS., BAHAA AL DEEN and Bamela Paywatch and 2 more. See dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ AMT is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-
 | Sat, 19 Dec 2026 | LIMAX - Naked Electronic Dance |  |
 | Fri, 8 Jan 2027 | TIME TO MOVE presents: time to show female art | HENI, M4RY, MARRE, PyjamaMama |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

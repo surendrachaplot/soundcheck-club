@@ -1,6 +1,6 @@
 # Smicer
 
-Smicer is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Off The Square, Manchester on Sat, 12 Dec 2026.
+Smicer is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Off The Square, Manchester on Sat, 12 Dec 2026.
 
 Smicer is an acid and house artist based in United Kingdom, with 2 gigs on soundcheck across Manchester. Often billed alongside Chael-UK and Shumbo Jebang. Next up: Off The Square, Manchester on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Smicer is an acid and house artist based in United Kingdom, with 2 gigs on sound
 
 Chael-UK, Shumbo Jebang
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smicer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smicer/)*

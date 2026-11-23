@@ -1,6 +1,6 @@
 # Dove
 
-Dove is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at West Harlem, Kyoto on Fri, 11 Dec 2026.
+Dove is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at West Harlem, Kyoto on Fri, 11 Dec 2026.
 
 Dove is an electronica and experimental artist based in Japan, with 21 gigs on soundcheck across Berlin, Brussels, Kyoto and London and 3 more. Often billed alongside Kazumichi Komatsu, kotakunisaki and sudden star. Next up: West Harlem, Kyoto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Dove is an electronica and experimental artist based in Japan, with 21 gigs on s
 
 Kazumichi Komatsu, kotakunisaki, sudden star
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dove-jp/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dove-jp/)*

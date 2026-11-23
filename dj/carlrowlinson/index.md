@@ -1,6 +1,6 @@
 # Carl Rowlinson
 
-Carl Rowlinson is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bread and Butter, London on Sat, 19 Dec 2026.
+Carl Rowlinson is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bread and Butter, London on Sat, 19 Dec 2026.
 
 Carl Rowlinson is a techno artist based in United Kingdom, with 1 gig on soundcheck across London. Often billed alongside Any Koh and EVSKA. Next up: Bread and Butter, London on Sat 19 Dec.
 
@@ -14,4 +14,4 @@ Carl Rowlinson is a techno artist based in United Kingdom, with 1 gig on soundch
 
 Any Koh, EVSKA
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlrowlinson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlrowlinson/)*

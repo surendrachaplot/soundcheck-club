@@ -1,6 +1,6 @@
 # SHAKING
 
-SHAKING is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 3oz Dive Club, San Diego on Sat, 12 Dec 2026.
+SHAKING is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 3oz Dive Club, San Diego on Sat, 12 Dec 2026.
 
 SHAKING is a garage and house artist based in United States of America, with 22 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland and 1 more. Often billed alongside Clearcast, AMZEL and Main Phase. Next up: 3oz Dive Club, San Diego on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SHAKING is a garage and house artist based in United States of America, with 22 
 
 Clearcast, AMZEL, Main Phase
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaking/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaking/)*

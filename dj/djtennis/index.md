@@ -1,15 +1,13 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
+DJ Tennis is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Audio Club, Geneva on Fri, 27 Nov 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 344 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 71 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Club Space Miami, Miami on Sun 22 Nov.
+DJ Tennis is a house and techno artist based in Italy, with 344 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 71 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Audio Club, Geneva on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Club Space Miami | Miami |
-| Sun, 22 Nov 2026 | Sunday Sunday | Mexico City |
 | Fri, 27 Nov 2026 | Audio Club | Geneva |
 | Sat, 28 Nov 2026 | Volt Club Milano | Milan |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
@@ -21,17 +19,17 @@ DJ Tennis is a house and techno artist based in Italy, with 344 gigs on soundche
 
 ## Recently played
 
+- Club Space Miami, Miami · Sun, 22 Nov 2026
+- Sunday Sunday, Mexico City · Sun, 22 Nov 2026
 - Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - Coda, Toronto · Fri, 13 Nov 2026
 - Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - Topazdeluxe, Monterrey · Fri, 13 Nov 2026
 - The Lenovo Garage, Madrid · Sun, 8 Nov 2026
-- The Bassement, Madrid · Sun, 8 Nov 2026
-- The Warehouse By IT Quarter, Cyprus · Sat, 7 Nov 2026
 
 ## Shares bills with
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

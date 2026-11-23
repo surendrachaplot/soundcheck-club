@@ -1,6 +1,6 @@
 # Labyrinth Open Air: Sasha & John Digweed 6 Hr Set + Moodymann Extended Set at Tofte Manor
 
-Labyrinth Open Air: Sasha & John Digweed 6 Hr Set + Moodymann Extended Set at Tofte Manor on Sat 3 Jul, London. 2 artists: John Digweed and Sasha. Progressive House and Deep House. See the line-up on soundcheck.
+Labyrinth Open Air: Sasha & John Digweed 6 Hr Set + Moodymann Extended Set at Tofte Manor on Sat 3 Jul, London. 1 artist: Sasha. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Labyrinth Open Air: Sasha & John Digweed 6 Hr Set + Moodymann Extended Set at To
 
 ## Line-up
 
-- John Digweed
 - Sasha
 
 *Source: [soundcheck](https://soundcheck.club/e/2569617-labyrinth-open-air-sasha-john-digweed-6-hr-set-moodymann-ext/)*

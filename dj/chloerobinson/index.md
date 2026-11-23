@@ -1,6 +1,6 @@
 # Chloé Robinson
 
-Chloé Robinson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+Chloé Robinson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
 
 Chloé Robinson is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 37 more. Often billed alongside DJ ADHD, Nikki Nair and Four Tet. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
 
@@ -25,4 +25,4 @@ Chloé Robinson is a house and techno artist based in United Kingdom, with 104 g
 
 DJ ADHD, Nikki Nair, Four Tet
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloerobinson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloerobinson/)*

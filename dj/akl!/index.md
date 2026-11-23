@@ -1,6 +1,6 @@
 # AKL!
 
-AKL! is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Red Room, Montreal on Thu, 26 Nov 2026.
+AKL! is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le Red Room, Montreal on Thu, 26 Nov 2026.
 
 AKL! is a techno and gabber artist based in Canada, with 1 gig on soundcheck across Montreal. Often billed alongside Make Sense and sabafrap. Next up: Le Red Room, Montreal on Thu 26 Nov.
 
@@ -14,4 +14,4 @@ AKL! is a techno and gabber artist based in Canada, with 1 gig on soundcheck acr
 
 Make Sense, sabafrap
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akl!/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akl!/)*

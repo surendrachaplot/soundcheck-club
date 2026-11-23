@@ -1,8 +1,8 @@
 # Basshirte
 
-Basshirte is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
+Basshirte is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
 
-Basshirte is a techno and bass artist, with 3 gigs on soundcheck across Berlin. Often billed alongside Asem Shama, ChéRebel and Dozer. Next up: Sensorium, Berlin on Wed 25 Nov.
+Basshirte is a techno and bass artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Asem Shama, ChéRebel and Dozer. Next up: Sensorium, Berlin on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Basshirte is a techno and bass artist, with 3 gigs on soundcheck across Berlin. 
 
 Asem Shama, ChéRebel, Dozer
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basshirte/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basshirte/)*

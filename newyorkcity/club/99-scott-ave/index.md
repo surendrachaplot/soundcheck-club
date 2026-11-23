@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Space92 *3hr Set* with Charles D" on Sat, 28 Nov 2026.
+99 Scott Ave is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Space92 *3hr Set* with Charles D" on Sat, 28 Nov 2026.
 
 99 Scott Ave is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Calussa, camoufly, Charles D (US) and Chesster and 2 more. See dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -22,4 +22,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

@@ -1,14 +1,13 @@
 # Reka Zalan
 
-Reka Zalan is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Reka Zalan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lieberscholli, Munich on Fri, 27 Nov 2026.
 
-Reka Zalan is a techno and house artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 27 more. Often billed alongside THNTS, Rill and V:SONNTAG. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
+Reka Zalan is a techno and house artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 27 more. Often billed alongside THNTS, Rill and V:SONNTAG. Next up: Lieberscholli, Munich on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | Lieberscholli | Munich |
 | Sat, 28 Nov 2026 | FVTVR | Paris |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
@@ -29,4 +28,4 @@ Reka Zalan is a techno and house artist based in Germany, with 126 gigs on sound
 
 THNTS, Rill, V:SONNTAG
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*

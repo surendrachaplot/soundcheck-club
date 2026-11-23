@@ -1,6 +1,6 @@
 # ellie
 
-ellie is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Le Bain, New York City on Thu, 3 Dec 2026.
+ellie is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Le Bain, New York City on Thu, 3 Dec 2026.
 
 ellie is a pop and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside WADDLE. Next up: Le Bain, New York City on Thu 3 Dec.
 
@@ -20,4 +20,4 @@ ellie is a pop and house artist based in United States of America, with 4 gigs o
 
 WADDLE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellie/)*

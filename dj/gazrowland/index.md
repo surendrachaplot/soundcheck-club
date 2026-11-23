@@ -1,6 +1,6 @@
 # Gaz Rowland
 
-Gaz Rowland is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The General Assembly, London on Sat, 28 Nov 2026.
+Gaz Rowland is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The General Assembly, London on Sat, 28 Nov 2026.
 
 Gaz Rowland is a progressive house and trance artist based in United Kingdom, with 6 gigs on soundcheck across Leeds and London. Often billed alongside Lainey, Adela and B-HIND. Next up: The General Assembly, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Gaz Rowland is a progressive house and trance artist based in United Kingdom, wi
 
 Lainey, Adela, B-HIND
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gazrowland/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gazrowland/)*

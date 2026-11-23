@@ -1,6 +1,6 @@
 # Acacia
 
-Acacia is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Acacia is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Acacia is an electronic artist based in Australia, with 1 gig on soundcheck across Sydney. Often billed alongside Bouki, Bozo and C.FRIM. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -14,4 +14,4 @@ Acacia is an electronic artist based in Australia, with 1 gig on soundcheck acro
 
 Bouki, Bozo, C.FRIM
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acacia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acacia/)*

@@ -1,6 +1,6 @@
 # Kyle Watson
 
-Kyle Watson is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Refuge, New York City on Sat, 12 Dec 2026.
+Kyle Watson is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Refuge, New York City on Sat, 12 Dec 2026.
 
 Kyle Watson is a house and tech house artist based in South Africa, with 56 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 20 more. Often billed alongside Walker & Royce, Vnssa and Wax Motif. Next up: Refuge, New York City on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Kyle Watson is a house and tech house artist based in South Africa, with 56 gigs
 
 Walker & Royce, Vnssa, Wax Motif
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*

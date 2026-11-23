@@ -1,6 +1,6 @@
 # Sheytan
 
-Sheytan is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 4 Dec 2026.
+Sheytan is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 4 Dec 2026.
 
 Sheytan is a techno and industrial artist, with 22 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 2 more. Often billed alongside Greystick, Jason Voon and Alam. Next up: Pisco Bar, Kuala Lumpur on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sheytan is a techno and industrial artist, with 22 gigs on soundcheck across Bal
 
 Greystick, Jason Voon, Alam
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheytan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheytan/)*

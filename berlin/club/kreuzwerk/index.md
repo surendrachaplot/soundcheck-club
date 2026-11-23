@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Power Dance Club" on Fri, 27 Nov 2026.
+KREUZWERK is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Power Dance Club" on Fri, 27 Nov 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Aldonna and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -22,4 +22,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

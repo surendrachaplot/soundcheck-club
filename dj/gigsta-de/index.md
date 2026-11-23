@@ -1,6 +1,6 @@
 # Nono Gigsta
 
-Nono Gigsta is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Unmute, Hanoi on Sat, 26 Dec 2026.
+Nono Gigsta is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Unmute, Hanoi on Sat, 26 Dec 2026.
 
 Nono Gigsta is a bass and techno artist based in Belgium, with 81 gigs on soundcheck across Amsterdam, Armenia, Bangalore and Berlin and 32 more. Often billed alongside CCL, Minor Science and Nazar. Next up: Unmute, Hanoi on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Nono Gigsta is a bass and techno artist based in Belgium, with 81 gigs on soundc
 
 CCL, Minor Science, Nazar
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*

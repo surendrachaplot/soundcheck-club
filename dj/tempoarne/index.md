@@ -1,6 +1,6 @@
 # Tempoarne
 
-Tempoarne is a Psytrance and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ny Bastion, Copenhagen on Fri, 4 Dec 2026.
+Tempoarne is a Psytrance and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ny Bastion, Copenhagen on Fri, 4 Dec 2026.
 
 Tempoarne is a psytrance and garage artist based in Denmark, with 38 gigs on soundcheck across Copenhagen and Vienna. Often billed alongside DJ Nap, Aston and louie32. Next up: Ny Bastion, Copenhagen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tempoarne is a psytrance and garage artist based in Denmark, with 38 gigs on sou
 
 DJ Nap, Aston, louie32
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempoarne/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempoarne/)*

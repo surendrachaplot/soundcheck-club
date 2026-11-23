@@ -1,6 +1,6 @@
 # Korpuss
 
-Korpuss is a music venue in Riga with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "HARD RESISTANZ" on Fri, 27 Nov 2026.
+Korpuss is a music venue in Riga with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "HARD RESISTANZ" on Fri, 27 Nov 2026.
 
 Korpuss is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with line-ups including ANASI, Aniri Chan, ARRISHA and B2BBASS and 2 more. See dates, start times and who's playing. Viskaļu iela 36.
 
@@ -18,4 +18,4 @@ Korpuss is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with lin
 
 Viskaļu iela 36, Riga
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*

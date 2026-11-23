@@ -1,6 +1,6 @@
 # skruba
 
-skruba is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
+skruba is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
 
 skruba is a dubstep and grime artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Carien, AJA and Ben Watson. Next up: Artworks East, London on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ skruba is a dubstep and grime artist based in United Kingdom, with 6 gigs on sou
 
 Carien, AJA, Ben Watson
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*

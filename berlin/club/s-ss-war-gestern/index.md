@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 24 Nov 2026.
+Süss War Gestern is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 24 Nov 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including BUTTCHIN, crydebleich, Daniel Mata and Dicso_Muzek and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming g
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

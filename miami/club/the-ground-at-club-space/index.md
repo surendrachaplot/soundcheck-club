@@ -1,14 +1,13 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Headache" on Sun, 22 Nov 2026.
+The Ground at Club Space is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "PAYÉ" on Wed, 25 Nov 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with line-ups including AMR*, Bakke, DJC and Duality and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including Bakke, DJC, Duality and EREZ.JPG and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Headache | AMR*, Headache |
 | Wed, 25 Nov 2026 | PAYÉ | Jesse Calosso, Kuff, Maulini |
 | Fri, 27 Nov 2026 | RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos | Duality, Nanoos, Nikki Nair, SUCIA! |
 | Sat, 28 Nov 2026 | Ritmo Celestial | DJC, v1fro |
@@ -19,4 +18,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 6 upcom
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

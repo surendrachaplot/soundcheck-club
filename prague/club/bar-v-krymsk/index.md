@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 17 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Flash D-Jay #4 Liam Grogan (UK) & Tarlito" on Thu, 26 Nov 2026.
+Bar v Krymský is a music venue in Prague with 17 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Flash D-Jay #4 Liam Grogan (UK) & Tarlito" on Thu, 26 Nov 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 17 upcoming gigs, with line-ups including Bazooka Joe, Brady, Cubik and Ghandi and 2 more. See dates, start times and who's playing. Krymská 21, Praha.
 
@@ -23,4 +23,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 17 upcoming gigs
 
 Krymská 21, Praha, Prague
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

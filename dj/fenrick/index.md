@@ -1,6 +1,6 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at KALT, Strasbourg on Thu, 31 Dec 2026.
+Fenrick is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at KALT, Strasbourg on Thu, 31 Dec 2026.
 
 Fenrick is a techno and trance artist based in Belgium, with 148 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 47 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: KALT, Strasbourg on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Fenrick is a techno and trance artist based in Belgium, with 148 gigs on soundch
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

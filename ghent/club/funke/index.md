@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "cadans at Funke ghent" on Fri, 4 Dec 2026.
+Funke is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "cadans at Funke ghent" on Fri, 4 Dec 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 1 upcoming gig, with line-ups including Angel D'lite, Fais Le Beau and séa (BE). See dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -14,4 +14,4 @@ Funke is a music venue in Ghent listed on soundcheck. 1 upcoming gig, with line-
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

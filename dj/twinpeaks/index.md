@@ -1,6 +1,6 @@
 # Twin Peaks
 
-Twin Peaks is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
+Twin Peaks is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
 Twin Peaks is a garage and house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Lawrence Anthony, Munchie MC and Shane Blitz. Next up: The City Pride, London on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Twin Peaks is a garage and house artist based in United Kingdom, with 2 gigs on 
 
 Lawrence Anthony, Munchie MC, Shane Blitz
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twinpeaks/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twinpeaks/)*

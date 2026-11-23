@@ -1,6 +1,6 @@
 # Laura Gerda
 
-Laura Gerda is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Carpet Shop, London on Thu, 10 Dec 2026.
+Laura Gerda is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Carpet Shop, London on Thu, 10 Dec 2026.
 
 Laura Gerda is a bass and club artist, with 2 gigs on soundcheck across London. Often billed alongside Cam Joon, Sexy B*tch and flatcap. Next up: The Carpet Shop, London on Thu 10 Dec.
 
@@ -18,4 +18,4 @@ Laura Gerda is a bass and club artist, with 2 gigs on soundcheck across London. 
 
 Cam Joon, Sexy B*tch, flatcap
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauragerda/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauragerda/)*

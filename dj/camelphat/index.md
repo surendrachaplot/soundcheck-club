@@ -1,6 +1,6 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Savaya Bali, Bali on Sat, 12 Dec 2026.
+CamelPhat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Savaya Bali, Bali on Sat, 12 Dec 2026.
 
 CamelPhat is a techno and house artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Savaya Bali, Bali on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ CamelPhat is a techno and house artist based in United Kingdom, with 233 gigs on
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

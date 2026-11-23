@@ -1,6 +1,6 @@
 # dj lomalinda
 
-dj lomalinda is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Mexico City on Fri, 4 Dec 2026.
+dj lomalinda is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Mexico City on Fri, 4 Dec 2026.
 
 dj lomalinda is a techno and electronica artist based in Colombia, with 37 gigs on soundcheck across Barcelona, Berlin, Bogotá and Helsinki and 5 more. Often billed alongside Verraco, Julianna and WOST. Next up: TBA, Mexico City on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ dj lomalinda is a techno and electronica artist based in Colombia, with 37 gigs 
 
 Verraco, Julianna, WOST
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlomalinda/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlomalinda/)*

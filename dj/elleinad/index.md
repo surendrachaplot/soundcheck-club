@@ -1,6 +1,6 @@
 # Elleinad
 
-Elleinad is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kapsule, Liverpool on Fri, 27 Nov 2026.
+Elleinad is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kapsule, Liverpool on Fri, 27 Nov 2026.
 
 Elleinad is a house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Aly P, Aerofunk and Nerram. Next up: Kapsule, Liverpool on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Elleinad is a house and techno artist based in United Kingdom, with 37 gigs on s
 
 Aly P, Aerofunk, Nerram
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elleinad/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elleinad/)*

@@ -1,6 +1,6 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Jamie Fielding is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Jamie Fielding is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 16 more. Often billed alongside Marsolo, Niteplan and Benji King. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 75
 
 Marsolo, Niteplan, Benji King
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

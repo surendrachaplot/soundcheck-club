@@ -1,18 +1,18 @@
 # Lazaro Casanova
 
-Lazaro Casanova is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 1-800-Lucky, Miami on Sun, 22 Nov 2026.
+Lazaro Casanova is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 1-800-Lucky, Miami on Sun, 29 Nov 2026.
 
-Lazaro Casanova is a house and afro house artist based in United States of America, with 52 gigs on soundcheck across Miami. Often billed alongside Oscar G, Nicole Fiallo and Mike Nervous. Next up: 1-800-Lucky, Miami on Sun 22 Nov.
+Lazaro Casanova is a house and afro house artist based in United States of America, with 52 gigs on soundcheck across Miami. Often billed alongside Oscar G, Nicole Fiallo and Mike Nervous. Next up: 1-800-Lucky, Miami on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | 1-800-Lucky | Miami |
 | Sun, 29 Nov 2026 | 1-800-Lucky | Miami |
 
 ## Recently played
 
+- 1-800-Lucky, Miami · Sun, 22 Nov 2026
 - 1-800-Lucky, Miami · Sun, 15 Nov 2026
 - 1-800-Lucky, Miami · Sun, 8 Nov 2026
 - 1-800-Lucky, Miami · Sun, 1 Nov 2026
@@ -20,10 +20,9 @@ Lazaro Casanova is a house and afro house artist based in United States of Ameri
 - Bodega Taqueria Y Tequila, Miami · Thu, 20 Aug 2026
 - 1-800-Lucky, Miami · Fri, 14 Aug 2026
 - 1-800-Lucky, Miami · Fri, 31 Jul 2026
-- Bodega Taqueria Y Tequila, Miami · Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Oscar G, Nicole Fiallo, Mike Nervous
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarocasanova/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarocasanova/)*

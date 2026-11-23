@@ -1,6 +1,6 @@
 # One Above
 
-One Above is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Auro Kitchen and Bar, Delhi on Thu, 26 Nov 2026.
+One Above is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Auro Kitchen and Bar, Delhi on Thu, 26 Nov 2026.
 
 One Above is an electronic artist, with 2 gigs on soundcheck across Delhi and London. Often billed alongside MOCID. and Marco Shuttle. Next up: Auro Kitchen and Bar, Delhi on Thu 26 Nov.
 
@@ -18,4 +18,4 @@ One Above is an electronic artist, with 2 gigs on soundcheck across Delhi and Lo
 
 MOCID., Marco Shuttle
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oneabove/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oneabove/)*

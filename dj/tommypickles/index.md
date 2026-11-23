@@ -1,14 +1,15 @@
 # Tommy Pickles
 
-Tommy Pickles is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Compufunk Records, Osaka on Fri, 4 Dec 2026.
+Tommy Pickles is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Compufunk Records, Osaka on Fri, 4 Dec 2026.
 
-Tommy Pickles is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Compufunk Records, Osaka on Fri 4 Dec.
+Tommy Pickles is a house and techno artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 29 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Compufunk Records, Osaka on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Compufunk Records | Osaka |
+| Sat, 5 Dec 2026 | Mitsuki | Tokyo |
 | Sun, 27 Dec 2026 | FOLD | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tommy Pickles is a house and techno artist based in United Kingdom, with 104 gig
 
 Desyn, Tom Morgan, Alex Picone
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*

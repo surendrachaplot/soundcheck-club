@@ -1,6 +1,6 @@
 # Zero T
 
-Zero T is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Slaktkyrkan, Stockholm on Sat, 5 Dec 2026.
+Zero T is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Slaktkyrkan, Stockholm on Sat, 5 Dec 2026.
 
 Zero T is a drum & bass and jungle artist based in United Kingdom, with 80 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 31 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: Slaktkyrkan, Stockholm on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Zero T is a drum & bass and jungle artist based in United Kingdom, with 80 gigs 
 
 Lenzman, MC Fox, Fabio
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*

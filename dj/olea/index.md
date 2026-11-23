@@ -1,6 +1,6 @@
 # OLEA
 
-OLEA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Live-Club Bamberg, Nürnberg on Fri, 4 Dec 2026.
+OLEA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Live-Club Bamberg, Nürnberg on Fri, 4 Dec 2026.
 
 OLEA is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 12 more. Often billed alongside Mark Dekoda, Sylvie Miles and Klanglos. Next up: Live-Club Bamberg, Nürnberg on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ OLEA is a techno and house artist based in Germany, with 64 gigs on soundcheck a
 
 Mark Dekoda, Sylvie Miles, Klanglos
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*

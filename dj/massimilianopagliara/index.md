@@ -1,6 +1,6 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
 Massimiliano Pagliara is a house and techno artist based in Italy, with 282 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 82 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 282 gigs
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

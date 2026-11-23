@@ -1,6 +1,6 @@
 # Reika_Dj
 
-Reika_Dj is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kramladen, Vienna on Thu, 26 Nov 2026.
+Reika_Dj is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kramladen, Vienna on Thu, 26 Nov 2026.
 
 Reika_Dj is a techno artist, with 3 gigs on soundcheck across Vienna. Often billed alongside Dcascallana, M41RH and PAUNA. Next up: Kramladen, Vienna on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Reika_Dj is a techno artist, with 3 gigs on soundcheck across Vienna. Often bill
 
 Dcascallana, M41RH, PAUNA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reika_dj/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reika_dj/)*

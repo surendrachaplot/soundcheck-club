@@ -1,6 +1,6 @@
 # Mooglie
 
-Mooglie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 12 Dec 2026.
+Mooglie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 12 Dec 2026.
 
 Mooglie is a techno and house artist based in France, with 26 gigs on soundcheck across Barcelona, Brussels, Lisbon and London and 3 more. Often billed alongside Agoria, Andera and Assayag. Next up: BORIS CLUB, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mooglie is a techno and house artist based in France, with 26 gigs on soundcheck
 
 Agoria, Andera, Assayag
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mooglie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mooglie/)*

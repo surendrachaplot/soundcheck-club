@@ -1,6 +1,6 @@
 # 99NYNEX
 
-99NYNEX is a Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
+99NYNEX is a Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
 
 99NYNEX is an electro artist based in United Kingdom, with 1 gig on soundcheck across Manchester. Often billed alongside Baba Sketch, DJ Crash Course and Lucky Bunny. Next up: The DBA, Manchester on Wed 25 Nov.
 
@@ -14,4 +14,4 @@
 
 Baba Sketch, DJ Crash Course, Lucky Bunny
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/99nynex/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/99nynex/)*

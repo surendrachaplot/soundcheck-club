@@ -1,6 +1,6 @@
 # fabric: Donato Dozzy, Batu, Ogazón + more TBA at fabric
 
-fabric: Donato Dozzy, Batu, Ogazón + more TBA on Sat 6 Mar, London. 3 artists: Batu, Donato Dozzy and Ogazón. See the line-up on soundcheck.
+fabric: Donato Dozzy, Batu, Ogazón + more TBA on Sat 6 Mar, London. 3 artists: Batu, Donato Dozzy and Ogazón. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

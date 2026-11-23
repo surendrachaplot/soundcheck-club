@@ -1,6 +1,6 @@
 # rynbj (2)
 
-rynbj (2) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
+rynbj (2) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
 
 rynbj is a tech house and techno artist, with 3 gigs on soundcheck across Berlin. Often billed alongside ChéRebel, EVYA and jaynetics. Next up: Sensorium, Berlin on Wed 25 Nov.
 
@@ -19,4 +19,4 @@ rynbj is a tech house and techno artist, with 3 gigs on soundcheck across Berlin
 
 ChéRebel, EVYA, jaynetics
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rynbj-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rynbj-2/)*

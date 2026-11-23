@@ -1,6 +1,6 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Karmakoma, Belgrade on Sat, 5 Dec 2026.
+Matthias (1) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Karmakoma, Belgrade on Sat, 5 Dec 2026.
 
 Matthias is a house and techno artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Karmakoma, Belgrade on Sat 5 Dec.
 
@@ -30,4 +30,4 @@ Matthias is a house and techno artist based in Germany, with 123 gigs on soundch
 
 So-Fi, Ancut, Brasi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

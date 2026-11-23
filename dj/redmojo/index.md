@@ -1,6 +1,6 @@
 # RED MOJO
 
-RED MOJO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
+RED MOJO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
 
 RED MOJO is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Lower Saxony and Münster. Often billed alongside ALYF, DJ Dios and Delm. Next up: Fusion Club, Münster on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ RED MOJO is a techno and trance artist based in Germany, with 3 gigs on soundche
 
 ALYF, DJ Dios, Delm
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmojo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmojo/)*

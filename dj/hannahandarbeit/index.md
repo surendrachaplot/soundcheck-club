@@ -1,6 +1,6 @@
 # HannaHandarbeit
 
-HannaHandarbeit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
+HannaHandarbeit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
 
 HannaHandarbeit is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside DJ Dios, DJ Spaßgetränk and FRÆNCIS. Next up: Void Club, Berlin on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ HannaHandarbeit is a techno and trance artist based in Germany, with 3 gigs on s
 
 DJ Dios, DJ Spaßgetränk, FRÆNCIS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahandarbeit/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahandarbeit/)*

@@ -1,6 +1,6 @@
 # Jake Korolev
 
-Jake Korolev is a Pop and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jade, New York City on Fri, 27 Nov 2026.
+Jake Korolev is a Pop and Breakcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jade, New York City on Fri, 27 Nov 2026.
 
 Jake Korolev is a pop and breakcore artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Caratastrophe, FI-LO and Jhariah. Next up: Jade, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jake Korolev is a pop and breakcore artist based in United States of America, wi
 
 Caratastrophe, FI-LO, Jhariah
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*

@@ -1,6 +1,6 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
+NYRA (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
 
 NYRA (DE) is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside davyboi, Cara Elizabeth and Bruno Brero. Next up: Castle Club, Cyprus on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ NYRA (DE) is a techno and trance artist based in Germany, with 57 gigs on soundc
 
 davyboi, Cara Elizabeth, Bruno Brero
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

@@ -1,6 +1,6 @@
 # Jiminy Watts
 
-Jiminy Watts is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Cheetah Club, Glasgow on Thu, 26 Nov 2026.
+Jiminy Watts is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Cheetah Club, Glasgow on Thu, 26 Nov 2026.
 
 Jiminy Watts is a house and electro artist based in United Kingdom, with 46 gigs on soundcheck across Brighton, Bristol, Glasgow and London and 1 more. Often billed alongside Jacob Trip, Rolo and Elleinad. Next up: La Cheetah Club, Glasgow on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Jiminy Watts is a house and electro artist based in United Kingdom, with 46 gigs
 
 Jacob Trip, Rolo (2), Elleinad
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*

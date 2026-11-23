@@ -1,6 +1,6 @@
 # DJ IV
 
-DJ IV is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
+DJ IV is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
 
 DJ IV is an afrobeat and house artist based in Kenya, with 2 gigs on soundcheck across Heidelberg and Kenya. Often billed alongside !Sooks, BBYY and Balter Sensei. Next up: Beneath the Baobabs, Kenya on Wed 30 Dec.
 
@@ -18,4 +18,4 @@ DJ IV is an afrobeat and house artist based in Kenya, with 2 gigs on soundcheck 
 
 !Sooks, BBYY, Balter Sensei
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djiv/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djiv/)*

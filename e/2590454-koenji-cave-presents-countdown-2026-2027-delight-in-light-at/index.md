@@ -1,6 +1,6 @@
 # Koenji Cave presents - Countdown 2026 - 2027 - Delight in Light at Koenji Cave
 
-Koenji Cave presents - Countdown 2026 - 2027 - Delight in Light on Thu 31 Dec, Tokyo. 3 artists: Bones, Usual and Yomi. Acid and Psytrance. See the line-up on soundcheck.
+Koenji Cave presents - Countdown 2026 - 2027 - Delight in Light on Thu 31 Dec, Tokyo. 2 artists: Usual and Yomi. Acid and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Koenji Cave presents - Countdown 2026 - 2027 - Delight in Light on Thu 31 Dec, T
 
 ## Line-up
 
-- Bones
 - Usual
 - Yomi
 

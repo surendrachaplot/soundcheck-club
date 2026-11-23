@@ -1,6 +1,6 @@
 # Kikko
 
-Kikko is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Yellow House, Amsterdam on Sat, 5 Dec 2026.
+Kikko is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Yellow House, Amsterdam on Sat, 5 Dec 2026.
 
 Kikko is a house and club artist based in Italy, with 100 gigs on soundcheck across Amsterdam, Berlin, London and Rome. Often billed alongside Max Beat, Flavio Rago and Luis Radio. Next up: Yellow House, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kikko is a house and club artist based in Italy, with 100 gigs on soundcheck acr
 
 Max Beat, Flavio Rago, Luis Radio
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikko/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikko/)*

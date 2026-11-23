@@ -1,6 +1,6 @@
 # Electronic Kitchen at TBA - S Westhafen
 
-Electronic Kitchen at TBA - S Westhafen on Fri 18 Dec, Berlin. 3 artists: Blosvenn, Cleemente and Florian R.. Techno and House. See the line-up on soundcheck.
+Electronic Kitchen at TBA - S Westhafen on Fri 18 Dec, Berlin. 6 artists: Blosvenn, Cleemente, Florian R. and James Love and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,8 @@ Electronic Kitchen at TBA - S Westhafen on Fri 18 Dec, Berlin. 3 artists: Blosve
 - Blosvenn
 - Cleemente
 - Florian R.
+- James Love
+- Jonny Lust
+- tzunamic
 
 *Source: [soundcheck](https://soundcheck.club/e/2582427-electronic-kitchen-at-tba-s-westhafen/)*

@@ -1,6 +1,6 @@
 # Raxon
 
-Raxon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 28 Nov 2026.
+Raxon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 28 Nov 2026.
 
 Raxon is a techno and house artist based in Egypt, with 80 gigs on soundcheck across Amsterdam, Andorra, Athens and Barcelona and 34 more. Often billed alongside Maceo Plex, no_ip and Fedele. Next up: Óbuda Bay, Budapest on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Raxon is a techno and house artist based in Egypt, with 80 gigs on soundcheck ac
 
 Maceo Plex, no_ip, Fedele
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*

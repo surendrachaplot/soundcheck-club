@@ -1,6 +1,6 @@
 # Aleph Dub
 
-Aleph Dub is a Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Nashaz, Brussels on Fri, 4 Dec 2026.
+Aleph Dub is a Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nashaz, Brussels on Fri, 4 Dec 2026.
 
 Aleph Dub is a jungle artist based in United Kingdom, with 1 gig on soundcheck across Brussels. Often billed alongside Cellarman, DJ Bisou and Xtanki. Next up: Nashaz, Brussels on Fri 4 Dec.
 
@@ -14,4 +14,4 @@ Aleph Dub is a jungle artist based in United Kingdom, with 1 gig on soundcheck a
 
 Cellarman, DJ Bisou, Xtanki
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alephdub/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alephdub/)*

@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DVRKSUN MADRID ROUND 3" on Thu, 26 Nov 2026.
+The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DVRKSUN MADRID ROUND 3" on Thu, 26 Nov 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Adriana Lopez, AEREA, Ana Alves and Ania Bruster and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

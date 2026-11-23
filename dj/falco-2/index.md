@@ -1,6 +1,6 @@
 # FALCO (2)
 
-FALCO (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Alte Kaserne, Zurich on Sat, 5 Dec 2026.
+FALCO (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Alte Kaserne, Zurich on Sat, 5 Dec 2026.
 
 FALCO is a techno and house artist based in Switzerland, with 30 gigs on soundcheck across Basel, Detroit, Madrid and Miami and 2 more. Often billed alongside Galopp, Dekerim and Nhū. Next up: Alte Kaserne, Zurich on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ FALCO is a techno and house artist based in Switzerland, with 30 gigs on soundch
 
 Galopp, Dekerim, Nhū
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/falco-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/falco-2/)*

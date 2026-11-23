@@ -1,6 +1,6 @@
 # Kyçyc
 
-Kyçyc is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
+Kyçyc is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
 
 Kyçyc is a house and minimal artist based in Germany, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DINKS, EMAILLE and EllA. Next up: ://about blank, Berlin on Sun 29 Nov.
 
@@ -19,4 +19,4 @@ Kyçyc is a house and minimal artist based in Germany, with 3 gigs on soundcheck
 
 DINKS, EMAILLE, EllA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyçyc/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyçyc/)*

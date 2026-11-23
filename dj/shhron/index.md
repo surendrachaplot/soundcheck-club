@@ -1,6 +1,6 @@
 # shhron
 
-shhron is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ŚLINA, Poznan on Sat, 28 Nov 2026.
+shhron is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ŚLINA, Poznan on Sat, 28 Nov 2026.
 
 shhron is a bass and techno artist based in Poland, with 40 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Adnable, Kaj.O and Solin. Next up: ŚLINA, Poznan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ shhron is a bass and techno artist based in Poland, with 40 gigs on soundcheck a
 
 Adnable, Kaj.O, Solin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shhron/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shhron/)*

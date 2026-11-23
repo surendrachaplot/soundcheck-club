@@ -1,6 +1,6 @@
 # Ray Ewulu
 
-Ray Ewulu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
+Ray Ewulu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
 
 Ray Ewulu is a techno and house artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Sievert Serviert, TommyB and cell1. Next up: PKH Warehouse, Berlin on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Ray Ewulu is a techno and house artist based in Germany, with 2 gigs on soundche
 
 Sievert Serviert, TommyB (2), cell1
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayewulu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayewulu/)*

@@ -1,6 +1,6 @@
 # Naeem
 
-Naeem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BASEMENT, New York City on Sat, 12 Dec 2026.
+Naeem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at BASEMENT, New York City on Sat, 12 Dec 2026.
 
 Naeem is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Budapest, Los Angeles, New York City and Pittsburgh and 1 more. Often billed alongside Ondo / Gusto, Alex Price and slowdanger. Next up: BASEMENT, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Naeem is a house and techno artist based in United States of America, with 32 gi
 
 Ondo / Gusto, Alex Price, slowdanger
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naeem/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naeem/)*

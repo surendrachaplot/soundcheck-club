@@ -1,6 +1,6 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Quarters, Brighton on Fri, 11 Dec 2026.
+Mark Broom is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Quarters, Brighton on Fri, 11 Dec 2026.
 
 Mark Broom is a techno and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 58 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: Quarters, Brighton on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Mark Broom is a techno and house artist based in United Kingdom, with 132 gigs o
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

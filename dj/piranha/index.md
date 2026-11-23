@@ -1,6 +1,6 @@
 # PIRANHA
 
-PIRANHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Numm, Tokyo on Wed, 23 Dec 2026.
+PIRANHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Numm, Tokyo on Wed, 23 Dec 2026.
 
 PIRANHA is a house and techno artist based in Japan, with 62 gigs on soundcheck across Tokyo. Often billed alongside MINAMI, HEAVEN and SUETSUGU. Next up: Numm, Tokyo on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ PIRANHA is a house and techno artist based in Japan, with 62 gigs on soundcheck 
 
 MINAMI, HEAVEN, SUETSUGU
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piranha/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piranha/)*

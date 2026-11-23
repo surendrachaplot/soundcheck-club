@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "MoBlack + Bite the Dust + Batu (TR) + Eren Yıldız" on Sat, 28 Nov 2026.
+Klein Phönix is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "MoBlack + Bite the Dust + Batu (TR) + Eren Yıldız" on Sat, 28 Nov 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with line-ups including Chris Avantgarde, MoBlack and NTO. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -16,4 +16,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

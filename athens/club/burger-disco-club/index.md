@@ -1,14 +1,13 @@
 # Burger Disco Club
 
-Burger Disco Club is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "EN LEFKO" on Sun, 22 Nov 2026.
+Burger Disco Club is a music venue in Athens with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "SUNDAY'S CHURCH" on Sun, 29 Nov 2026.
 
-Burger Disco Club is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including ClubKid, Jonny Rock, Lil' Louis and Luke Una and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
+Burger Disco Club is a music venue in Athens listed on soundcheck. 7 upcoming gigs, with line-ups including ClubKid, Jonny Rock, Lil' Louis and Luke Una and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | EN LEFKO |  |
 | Sun, 29 Nov 2026 | SUNDAY'S CHURCH | Jonny Rock, Mimi Xu, Sunshine Pedro |
 | Sun, 6 Dec 2026 | HOUSE ON THE BEACH ( new date 1st November) | Lil' Louis |
 | Sun, 13 Dec 2026 | House On The Beach | Timmy Regisford |
@@ -21,4 +20,4 @@ Burger Disco Club is a music venue in Athens listed on soundcheck. 8 upcoming gi
 
 11 Nikis St,  Athens, 105 57 GREECE, Athens
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*

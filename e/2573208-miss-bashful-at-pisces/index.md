@@ -1,6 +1,6 @@
 # Miss Bashful at Pisces
 
-Miss Bashful at Pisces on Sat 20 Feb, Atlanta. 1 artist: Miss Bashful. See the line-up on soundcheck.
+Miss Bashful at Pisces on Sat 20 Feb, Atlanta. 1 artist: Miss Bashful. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

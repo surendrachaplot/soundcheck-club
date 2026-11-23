@@ -1,14 +1,13 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Xiaolin is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Karmakoma, Belgrade on Fri, 27 Nov 2026.
 
-Xiaolin is a house and techno artist, with 110 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 35 more. Often billed alongside Sunsiaré, Mr. Ho and Emel. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
+Xiaolin is a house and techno artist, with 110 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 35 more. Often billed alongside Sunsiaré, Mr. Ho and Emel. Next up: Karmakoma, Belgrade on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | Karmakoma | Belgrade |
 | Sat, 28 Nov 2026 | Club Guesthouse | Bucharest |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
@@ -32,4 +31,4 @@ Xiaolin is a house and techno artist, with 110 gigs on soundcheck across Amsterd
 
 Sunsiaré, Mr. Ho, Emel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

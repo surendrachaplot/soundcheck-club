@@ -1,6 +1,6 @@
 # Axis Mundi
 
-Axis Mundi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 11 Dec 2026.
+Axis Mundi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 11 Dec 2026.
 
 Axis Mundi is a techno and tech house artist based in Spain, with 17 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Baldman, Deceit and Maya B. Next up: Sala Upload Barcelona, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Axis Mundi is a techno and tech house artist based in Spain, with 17 gigs on sou
 
 Baldman, Deceit, Maya B
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axismundi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axismundi/)*

@@ -1,6 +1,6 @@
 # Marcos in Dub
 
-Marcos in Dub is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala ART, Madrid on Sat, 5 Dec 2026.
+Marcos in Dub is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala ART, Madrid on Sat, 5 Dec 2026.
 
 Marcos in Dub is a techno and club artist based in Spain, with 45 gigs on soundcheck across Madrid. Often billed alongside Diskoan, Ketiov and Confidential Recipe. Next up: Sala ART, Madrid on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Marcos in Dub is a techno and club artist based in Spain, with 45 gigs on soundc
 
 Diskoan, Ketiov, Confidential Recipe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosindub/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosindub/)*

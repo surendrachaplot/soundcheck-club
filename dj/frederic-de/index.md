@@ -1,6 +1,6 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
+Frederic. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
 
 Frederic. is a techno and trance artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: RSO.BERLIN, Berlin on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Frederic. is a techno and trance artist based in Germany, with 219 gigs on sound
 
 CAIVA, Part Time Killer, MCR-T
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

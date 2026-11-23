@@ -1,6 +1,6 @@
 # The Bradley Way
 
-The Bradley Way is a Hip-Hop and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Revo Rooftop, Mexico City on Fri, 27 Nov 2026.
+The Bradley Way is a Hip-Hop and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Revo Rooftop, Mexico City on Fri, 27 Nov 2026.
 
 The Bradley Way is a hip-hop and afrobeat artist based in United States of America, with 6 gigs on soundcheck across Mexico City. Often billed alongside Dj Dizam, Black Daria and Jilli P. Next up: Revo Rooftop, Mexico City on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ The Bradley Way is a hip-hop and afrobeat artist based in United States of Ameri
 
 Dj Dizam, Black Daria, Jilli P
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebradleyway/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebradleyway/)*

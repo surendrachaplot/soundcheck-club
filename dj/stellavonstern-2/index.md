@@ -1,6 +1,6 @@
 # Stella von Stern
 
-Stella von Stern is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at WDM, Hannover on Fri, 18 Dec 2026.
+Stella von Stern is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at WDM, Hannover on Fri, 18 Dec 2026.
 
 Stella von Stern is a techno and minimal techno artist based in Germany, with 2 gigs on soundcheck across Hannover. Often billed alongside Adm2, BLTR and DJ Kelt. Next up: WDM, Hannover on Fri 18 Dec.
 
@@ -18,4 +18,4 @@ Stella von Stern is a techno and minimal techno artist based in Germany, with 2 
 
 Adm2, BLTR, DJ Kelt
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellavonstern-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellavonstern-2/)*

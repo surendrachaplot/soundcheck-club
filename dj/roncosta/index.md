@@ -1,6 +1,6 @@
 # Ron Costa
 
-Ron Costa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Underclub, Alicante on Fri, 4 Dec 2026.
+Ron Costa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Underclub, Alicante on Fri, 4 Dec 2026.
 
 Ron Costa is a techno and electro artist based in France, with 2 gigs on soundcheck across Alicante and Toulouse. Often billed alongside F.E.X and Olivier Romero. Next up: Underclub, Alicante on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ Ron Costa is a techno and electro artist based in France, with 2 gigs on soundch
 
 F.E.X, Olivier Romero
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roncosta/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roncosta/)*

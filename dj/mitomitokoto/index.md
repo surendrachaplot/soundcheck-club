@@ -1,6 +1,6 @@
 # Mitomi Tokoto
 
-Mitomi Tokoto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at CÉ LA VI Tokyo, Tokyo on Fri, 27 Nov 2026.
+Mitomi Tokoto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at CÉ LA VI Tokyo, Tokyo on Fri, 27 Nov 2026.
 
 Mitomi Tokoto is a house and tech house artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside YOSHIMASA, AY and Axwell. Next up: CÉ LA VI Tokyo, Tokyo on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Mitomi Tokoto is a house and tech house artist based in Japan, with 3 gigs on so
 
 YOSHIMASA, AY (10), Axwell
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitomitokoto/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitomitokoto/)*

@@ -1,6 +1,6 @@
 # DOGHOUSETV
 
-DOGHOUSETV is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Culture, Washington DC on Sat, 19 Dec 2026.
+DOGHOUSETV is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Culture, Washington DC on Sat, 19 Dec 2026.
 
 DOGHOUSETV is a deep house and house artist, with 2 gigs on soundcheck across Berlin and Washington DC. Often billed alongside Chinnamasta, Chriz Javey and Darling Cool. Next up: Culture, Washington DC on Sat 19 Dec.
 
@@ -18,4 +18,4 @@ DOGHOUSETV is a deep house and house artist, with 2 gigs on soundcheck across Be
 
 Chinnamasta, Chriz Javey, Darling Cool
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doghousetv/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doghousetv/)*

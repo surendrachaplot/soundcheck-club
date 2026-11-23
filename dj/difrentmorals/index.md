@@ -1,6 +1,6 @@
 # DifrentMorals
 
-DifrentMorals is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
+DifrentMorals is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
 
 DifrentMorals is a house and minimal artist based in United Kingdom, with 11 gigs on soundcheck across Edinburgh and Manchester. Often billed alongside Charlie Craig, Dablo and Stu Todd. Next up: The Outhouse, Edinburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DifrentMorals is a house and minimal artist based in United Kingdom, with 11 gig
 
 Charlie Craig, Dablo, Stu Todd
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/difrentmorals/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/difrentmorals/)*

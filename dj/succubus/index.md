@@ -1,6 +1,6 @@
 # SUCCUBUS
 
-SUCCUBUS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Los Angeles on Fri, 11 Dec 2026.
+SUCCUBUS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Los Angeles on Fri, 11 Dec 2026.
 
 SUCCUBUS is a techno and industrial artist based in France, with 31 gigs on soundcheck across Los Angeles, Paris, San Diego and San Francisco/Oakland and 1 more. Often billed alongside Y.oshit, Haphazard and LLY. Next up: TBA, Los Angeles on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ SUCCUBUS is a techno and industrial artist based in France, with 31 gigs on soun
 
 Y.oshit, Haphazard, LLY
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/succubus/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/succubus/)*

@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Cakeshop presents: SBTRKT" on Wed, 25 Nov 2026.
+Cakeshop is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Cakeshop presents: SBTRKT" on Wed, 25 Nov 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including AEIDA, Closet Yi, Coziest and Cult Member and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -21,4 +21,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with l
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

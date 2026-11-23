@@ -1,8 +1,8 @@
 # A.i Warehouse
 
-A.i Warehouse is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "'BLACK HAUSE' DC THANKSGIVING WEEKEND" on Sat, 28 Nov 2026.
+A.i Warehouse is a music venue in Washington DC with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "'BLACK HAUSE' DC THANKSGIVING WEEKEND" on Sat, 28 Nov 2026.
 
-A.i Warehouse is a music venue in Washington DC listed on soundcheck. 6 upcoming gigs, with line-ups including 2theT, Chriz Javey, EDEN BEKELE and Fatboy Slim and 2 more. See dates, start times and who's playing. 530 Penn St NE Washington DC 20002.
+A.i Warehouse is a music venue in Washington DC listed on soundcheck. 7 upcoming gigs, with line-ups including 2theT, Chriz Javey, EDEN BEKELE and Fatboy Slim and 2 more. See dates, start times and who's playing. 530 Penn St NE Washington DC 20002.
 
 ## What's on
 
@@ -14,9 +14,10 @@ A.i Warehouse is a music venue in Washington DC listed on soundcheck. 6 upcoming
 | Fri, 22 Jan 2027 | Nü Androids presents: Fatboy Slim | Fatboy Slim |
 | Sat, 23 Jan 2027 | Nü Androids presents: Mahmut Orhan |  |
 | Fri, 5 Feb 2027 | Nü Androids presents: Omar | Omar+ |
+| Sat, 20 Feb 2027 | Nü Androids presents: Swimming Paul | Swimming Paul |
 
 ## Address
 
 530 Penn St NE Washington DC 20002, Washington DC
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*

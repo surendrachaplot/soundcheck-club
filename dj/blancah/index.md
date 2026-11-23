@@ -1,6 +1,6 @@
 # BLANCAh
 
-BLANCAh is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 5 Mar 2027.
+BLANCAh is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 5 Mar 2027.
 
 BLANCAh is a techno and progressive house artist based in Brazil, with 18 gigs on soundcheck across Amsterdam, Barcelona, Brazil and Buenos Aires and 3 more. Often billed alongside 8KAYS, Morttagua and Acid Asian. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 5 Mar.
 
@@ -25,4 +25,4 @@ BLANCAh is a techno and progressive house artist based in Brazil, with 18 gigs o
 
 8KAYS, Morttagua, Acid Asian
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blancah/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blancah/)*

@@ -1,6 +1,6 @@
 # ur kanmani
 
-ur kanmani is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Elsewhere, New York City on Sat, 5 Dec 2026.
+ur kanmani is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Elsewhere, New York City on Sat, 5 Dec 2026.
 
 ur kanmani is a techno and bass artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Krithi, 444 and AMLA.DHAS. Next up: Elsewhere, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ ur kanmani is a techno and bass artist based in United States of America, with 1
 
 Krithi, 444 (1), AMLA.DHAS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urkanmani/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urkanmani/)*

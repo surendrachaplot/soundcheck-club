@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "FERMI presents... From Start to Finish" on Thu, 26 Nov 2026.
+Radio Radio is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "FERMI presents... From Start to Finish" on Thu, 26 Nov 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Benny2, Berkan V8, Bevan and Daiki Fukami and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

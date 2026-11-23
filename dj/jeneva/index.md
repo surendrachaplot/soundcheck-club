@@ -1,18 +1,18 @@
 # Jeneva
 
-Jeneva is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Jeneva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Glove That Fits, London on Fri, 27 Nov 2026.
 
-Jeneva is a techno and house artist, with 44 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Mar/us. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
+Jeneva is a techno and house artist, with 44 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Mar/us. Next up: The Glove That Fits, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Starlane Pizza Bar | London |
 | Fri, 27 Nov 2026 | The Glove That Fits | London |
 
 ## Recently played
 
+- Starlane Pizza Bar, London · Sun, 22 Nov 2026
 - FOLD, London · Fri, 13 Nov 2026
 - Starlane Pizza Bar, London · Sun, 18 Oct 2026
 - NUMBER 90 LONDON, London · Fri, 9 Oct 2026
@@ -20,10 +20,9 @@ Jeneva is a techno and house artist, with 44 gigs on soundcheck across Berlin, L
 - The Steel Yard, London · Fri, 7 Aug 2026
 - Starlane Pizza Bar, London · Sun, 2 Aug 2026
 - Starlane Pizza Bar, London · Sun, 5 Jul 2026
-- Low Profile Studios, London · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Greg Brockmann, LO-LOW, Mar/us
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*

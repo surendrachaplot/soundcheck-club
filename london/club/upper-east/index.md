@@ -1,6 +1,6 @@
 # Upper East
 
-Upper East is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Groove Fiction LDN EAST" on Fri, 27 Nov 2026.
+Upper East is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Groove Fiction LDN EAST" on Fri, 27 Nov 2026.
 
 Upper East is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Dimanté, Erly Tepshi, FLORA THA EXPLORA and Folek and 2 more. See dates, start times and who's playing. 30 Bidder Street, London, E16 4SH, United Kingdom.
 
@@ -16,4 +16,4 @@ Upper East is a music venue in London listed on soundcheck. 3 upcoming gigs, wit
 
 30 Bidder Street, London, E16 4SH, United Kingdom, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/upper-east/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/upper-east/)*

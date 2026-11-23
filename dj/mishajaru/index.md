@@ -1,6 +1,6 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Fuchs2, Prague on Sat, 12 Dec 2026.
+Misha Jaru is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fuchs2, Prague on Sat, 12 Dec 2026.
 
 Misha Jaru is a techno and house artist based in Ukraine, with 73 gigs on soundcheck across Berlin and Prague. Often billed alongside S.Tian, Dash (CZ) and Feenicks. Next up: Fuchs2, Prague on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Misha Jaru is a techno and house artist based in Ukraine, with 73 gigs on soundc
 
 S.Tian, Dash (CZ), Feenicks
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

@@ -1,6 +1,6 @@
 # FLAKØ
 
-FLAKØ is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at M7 Club, Barcelona on Mon, 7 Dec 2026.
+FLAKØ is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at M7 Club, Barcelona on Mon, 7 Dec 2026.
 
 FLAKØ is a techno artist based in Spain, with 3 gigs on soundcheck across Barcelona and Malaga. Often billed alongside Noctive, Reisender and Adviro. Next up: M7 Club, Barcelona on Mon 7 Dec.
 
@@ -19,4 +19,4 @@ FLAKØ is a techno artist based in Spain, with 3 gigs on soundcheck across Barce
 
 Noctive, Reisender, Adviro
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flako-es/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flako-es/)*

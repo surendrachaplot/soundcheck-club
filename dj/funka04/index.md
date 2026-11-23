@@ -1,6 +1,6 @@
 # FUNKA04
 
-FUNKA04 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Silodom, Saarland on Sat, 26 Dec 2026.
+FUNKA04 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Silodom, Saarland on Sat, 26 Dec 2026.
 
 FUNKA04 is a techno and house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Dresden and 9 more. Often billed alongside Skotsch, Dj Kero B and MATRIX3K. Next up: Silodom, Saarland on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ FUNKA04 is a techno and house artist based in Germany, with 27 gigs on soundchec
 
 Skotsch, Dj Kero B, MATRIX3K
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

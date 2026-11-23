@@ -1,6 +1,6 @@
 # APEPA
 
-APEPA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
+APEPA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
 APEPA is a house and techno artist based in Japan, with 2 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DJ NOB, Enishi and KAPI. Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ APEPA is a house and techno artist based in Japan, with 2 gigs on soundcheck acr
 
 DJ NOB, Enishi, KAPI
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apepa/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apepa/)*

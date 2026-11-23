@@ -1,6 +1,6 @@
 # Raw Phonics
 
-Raw Phonics is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Outer Heaven, New York City on Sat, 28 Nov 2026.
+Raw Phonics is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Outer Heaven, New York City on Sat, 28 Nov 2026.
 
 Raw Phonics is a house and minimal artist based in United States of America, with 47 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Armii1n, Auphoria and Antiics. Next up: Outer Heaven, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Raw Phonics is a house and minimal artist based in United States of America, wit
 
 Armii1n, Auphoria, Antiics
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*

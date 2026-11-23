@@ -1,6 +1,6 @@
 # Velascomusik
 
-Velascomusik is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Madam, Amsterdam on Thu, 26 Nov 2026.
+Velascomusik is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Madam, Amsterdam on Thu, 26 Nov 2026.
 
 Velascomusik is a tech house and house artist, with 2 gigs on soundcheck across Amsterdam and Prague. Often billed alongside KAWA, Kormos and Okeam. Next up: Madam, Amsterdam on Thu 26 Nov.
 
@@ -18,4 +18,4 @@ Velascomusik is a tech house and house artist, with 2 gigs on soundcheck across 
 
 KAWA, Kormos, Okeam
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velascomusik/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velascomusik/)*

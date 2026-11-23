@@ -1,6 +1,6 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "RESIDUAL" on Mon, 23 Nov 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "RESIDUAL" on Mon, 23 Nov 2026.
 
 UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including BLUEMEW, chanai, CKRN303 and fotprt and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
@@ -17,4 +17,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 4 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

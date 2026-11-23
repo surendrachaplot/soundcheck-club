@@ -1,6 +1,6 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 27 Nov 2026.
+DJ MARIA. is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 27 Nov 2026.
 
 DJ MARIA. is a techno and house artist based in Japan, with 169 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 43 more. Often billed alongside DJ Nobu, DJ Yazi and Haruka. Next up: Ankali & Planeta Za, Prague on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ DJ MARIA. is a techno and house artist based in Japan, with 169 gigs on soundche
 
 DJ Nobu, DJ Yazi, Haruka
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

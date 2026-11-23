@@ -1,6 +1,6 @@
 # ALYF
 
-ALYF is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Kruger Club, Vienna on Fri, 27 Nov 2026.
+ALYF is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kruger Club, Vienna on Fri, 27 Nov 2026.
 
 ALYF is a house and techno artist based in Germany, with 35 gigs on soundcheck across Münster and Vienna. Often billed alongside Redfocks, skathi and Khetama. Next up: Kruger Club, Vienna on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ALYF is a house and techno artist based in Germany, with 35 gigs on soundcheck a
 
 Redfocks, skathi, Khetama
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyf/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyf/)*

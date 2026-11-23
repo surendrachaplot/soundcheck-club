@@ -1,6 +1,6 @@
 # AB Box (Ancienne Belgique)
 
-AB Box (Ancienne Belgique) is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Trentemøller" on Fri, 5 Mar 2027.
+AB Box (Ancienne Belgique) is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Trentemøller" on Fri, 5 Mar 2027.
 
 AB Box (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Trentemøller. See dates, start times and who's playing. Anspachlaan 110, Brussels Hoofdstedelijk Gewest.
 
@@ -15,4 +15,4 @@ AB Box (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 2 
 
 Anspachlaan 110, Brussels Hoofdstedelijk Gewest, Brussels
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-box-ancienne-belgique/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-box-ancienne-belgique/)*

@@ -1,6 +1,6 @@
 # Plattenlieferant
 
-Plattenlieferant is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at MS Stubnitz, Hamburg on Sat, 28 Nov 2026.
+Plattenlieferant is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at MS Stubnitz, Hamburg on Sat, 28 Nov 2026.
 
 Plattenlieferant is a trance and techno artist based in Germany, with 53 gigs on soundcheck across Basel, Berlin, Dresden and Frankfurt and 7 more. Often billed alongside DJ Sweedee, DJ TIPSTER and HØLLE. Next up: MS Stubnitz, Hamburg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Plattenlieferant is a trance and techno artist based in Germany, with 53 gigs on
 
 DJ Sweedee, DJ TIPSTER, HØLLE (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plattenlieferant/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plattenlieferant/)*

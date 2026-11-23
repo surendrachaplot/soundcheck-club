@@ -1,6 +1,6 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 27 Nov 2026.
+Robbie Doherty is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 27 Nov 2026.
 
 Robbie Doherty is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Prunk, Dennis Quin and ALISHA. Next up: NX Newcastle, Newcastle on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Robbie Doherty is a house and tech house artist based in United Kingdom, with 16
 
 Prunk, Dennis Quin, ALISHA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

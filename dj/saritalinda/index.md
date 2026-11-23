@@ -1,6 +1,6 @@
 # SARITA LINDA
 
-SARITA LINDA is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Mid-City LA, Los Angeles on Wed, 16 Dec 2026.
+SARITA LINDA is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Mid-City LA, Los Angeles on Wed, 16 Dec 2026.
 
 SARITA LINDA is a club and latin bass artist based in United States of America, with 3 gigs on soundcheck across Los Angeles. Often billed alongside AMANTE, BAE BAE and BHAOUNCEOUT. Next up: TBA - Mid-City LA, Los Angeles on Wed 16 Dec.
 
@@ -19,4 +19,4 @@ SARITA LINDA is a club and latin bass artist based in United States of America, 
 
 AMANTE, BAE BAE, BHAOUNCEOUT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saritalinda/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saritalinda/)*

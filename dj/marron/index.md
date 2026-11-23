@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
+MARRØN is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
 
 MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Hive Club, Zurich on Fri 27 Nov.
 
@@ -35,4 +35,4 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 
 Blasha & Allatt, Ben Klock, Freddy K
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

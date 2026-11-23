@@ -1,6 +1,6 @@
 # McMSTR
 
-McMSTR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Saint Judes, Glasgow on Thu, 31 Dec 2026.
+McMSTR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Saint Judes, Glasgow on Thu, 31 Dec 2026.
 
 McMSTR is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Dundee, Glasgow and Ibiza. Often billed alongside Robbie, EVA. and acrosstheboard. Next up: Saint Judes, Glasgow on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ McMSTR is a house and techno artist based in United Kingdom, with 29 gigs on sou
 
 Robbie, EVA., acrosstheboard
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmstr/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmstr/)*

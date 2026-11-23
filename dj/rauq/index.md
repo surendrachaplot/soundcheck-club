@@ -1,6 +1,6 @@
 # Rauq
 
-Rauq is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Baron Oxford, London on Sat, 28 Nov 2026.
+Rauq is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - The Baron Oxford, London on Sat, 28 Nov 2026.
 
 Rauq is a minimal techno and house artist, with 2 gigs on soundcheck across London. Often billed alongside Ian Field, Alex P and JOHNJAYDEE. Next up: TBA - The Baron Oxford, London on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Rauq is a minimal techno and house artist, with 2 gigs on soundcheck across Lond
 
 Ian Field, Alex P, JOHNJAYDEE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rauq/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rauq/)*

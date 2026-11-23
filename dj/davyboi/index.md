@@ -1,6 +1,6 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mia Mao, Paris on Fri, 27 Nov 2026.
+davyboi is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mia Mao, Paris on Fri, 27 Nov 2026.
 
 davyboi is a techno and trance artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 49 more. Often billed alongside Mika Heggemann, Cleopard2000 and Trancemaster Krause. Next up: Mia Mao, Paris on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ davyboi is a techno and trance artist based in Germany, with 202 gigs on soundch
 
 Mika Heggemann, Cleopard2000, Trancemaster Krause
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

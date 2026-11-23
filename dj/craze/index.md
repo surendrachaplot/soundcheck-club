@@ -1,6 +1,6 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Miami Beach Bandshell, Miami on Wed, 25 Nov 2026.
+Craze is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Miami Beach Bandshell, Miami on Wed, 25 Nov 2026.
 
 Craze is a drum & bass and jungle artist based in United States of America, with 72 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 24 more. Often billed alongside shinobi (US), Dillinja and Dieselboy. Next up: Miami Beach Bandshell, Miami on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 
 shinobi (US), Dillinja, Dieselboy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

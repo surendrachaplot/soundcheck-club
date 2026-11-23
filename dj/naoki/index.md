@@ -1,6 +1,6 @@
 # NAOKI
 
-NAOKI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at おおばキャンプ村, Tokyo on Sat, 15 May 2027.
+NAOKI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at おおばキャンプ村, Tokyo on Sat, 15 May 2027.
 
 NAOKI is a house and techno artist based in Japan, with 115 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chubu and 5 more. Often billed alongside Naoki Ikawa, Solaris and Jerry. Next up: おおばキャンプ村, Tokyo on Sat 15 May.
 
@@ -25,4 +25,4 @@ NAOKI is a house and techno artist based in Japan, with 115 gigs on soundcheck a
 
 Naoki Ikawa, Solaris, Jerry
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naoki/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naoki/)*

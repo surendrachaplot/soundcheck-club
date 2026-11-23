@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "SUNDEJ SE SUNDAY" on Sun, 22 Nov 2026.
+Cross Club is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "PRODIGY AFTERPARTY & RAVE" on Mon, 23 Nov 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Aztek, Mini da Minx, Slavick and Sub Zero. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including Ansea, Aztek, Chris.SU and Ejdm and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 23 Nov 2026 | PRODIGY AFTERPARTY & RAVE | Mini da Minx, Slavick |
 | Tue, 24 Nov 2026 | CROSS SLAM 2026 - NOVÁ GENERACE - No.4 |  |
 | Wed, 25 Nov 2026 | PSYTRANCE |  |
@@ -17,9 +16,11 @@ Cross Club is a music venue in Prague listed on soundcheck. 9 upcoming gigs, wit
 | Sat, 28 Nov 2026 | HARD RAVE & PSYTRANCE |  |
 | Sun, 29 Nov 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 30 Nov 2026 | LOS TEKKENOS | Aztek |
+| Fri, 4 Dec 2026 | DRUM AND BUS STATION with Fourward, SMOOTH, Chris.SU 7 MC FEDORA | Chris.SU, Ejdm, Fourward, Nonalis, PSKLR |
+| Fri, 11 Dec 2026 | U N I T Y R A G E C L U B N I G H T | Ansea, KRISTIE KARDIO, KikiDontCry, SIGI, XENEA LUMRA |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

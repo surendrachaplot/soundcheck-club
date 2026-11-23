@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "77CELLAR: Anna Amato, GVZ, MAAKS B2B Molario, P RISCO" on Fri, 27 Nov 2026.
+Liquid Club is a music venue in Malta with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "77CELLAR: Anna Amato, GVZ, MAAKS B2B Molario, P RISCO" on Fri, 27 Nov 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 8 upcoming gigs, with line-ups including Anna Amato, Anna V., Ashibane and Billy Hills and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -21,4 +21,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 8 upcoming gigs, wit
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

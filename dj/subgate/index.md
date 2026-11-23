@@ -1,6 +1,6 @@
 # Subgate
 
-Subgate is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at John Doe, Amsterdam on Sat, 5 Dec 2026.
+Subgate is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at John Doe, Amsterdam on Sat, 5 Dec 2026.
 
 Subgate is a techno and tech house artist based in Czech Republic, with 30 gigs on soundcheck across Amsterdam, Bratislava, Monterrey and Prague. Often billed alongside Tømas Sinn, Orbith and Broken Robot. Next up: John Doe, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Subgate is a techno and tech house artist based in Czech Republic, with 30 gigs 
 
 Tømas Sinn, Orbith, Broken Robot
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subgate/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subgate/)*

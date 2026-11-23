@@ -1,6 +1,6 @@
 # Schnurrsen
 
-Schnurrsen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Schnurrsen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Schnurrsen is a house and techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Casbah, Fonkituur and Furotica. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Schnurrsen is a house and techno artist based in Germany, with 4 gigs on soundch
 
 Casbah, Fonkituur, Furotica
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schnurrsen/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schnurrsen/)*

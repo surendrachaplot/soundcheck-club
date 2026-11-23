@@ -1,6 +1,6 @@
 # brÅk
 
-brÅk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at SASS Music Club, Vienna on Thu, 26 Nov 2026.
+brÅk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at SASS Music Club, Vienna on Thu, 26 Nov 2026.
 
 brÅk is a techno and house artist based in Serbia, with 9 gigs on soundcheck across Belgrade, Budapest, Ho Chi Minh City and Vienna. Often billed alongside Nick Hanzo, DJ CHICA and Filip Xavi. Next up: SASS Music Club, Vienna on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ brÅk is a techno and house artist based in Serbia, with 9 gigs on soundcheck ac
 
 Nick Hanzo, DJ CHICA, Filip Xavi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brak/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brak/)*

@@ -1,6 +1,6 @@
 # Robbers
 
-Robbers is a Acid and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Willemeen, Netherlands on Fri, 27 Nov 2026.
+Robbers is a Acid and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Willemeen, Netherlands on Fri, 27 Nov 2026.
 
 Robbers is an acid and gabber artist based in Netherlands, with 2 gigs on soundcheck across Netherlands and Utrecht. Often billed alongside vexer, Sevenum Six and Stefan ZMK. Next up: Willemeen, Netherlands on Fri 27 Nov.
 
@@ -15,4 +15,4 @@ Robbers is an acid and gabber artist based in Netherlands, with 2 gigs on soundc
 
 vexer, Sevenum Six, Stefan ZMK
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbers-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbers-2/)*

@@ -1,6 +1,6 @@
 # TOM CHIESA
 
-TOM CHIESA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+TOM CHIESA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
 
 TOM CHIESA is a techno and club artist based in Venezuela, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside Rubén Secaduras, PATTY&SELMA and Nina GGG. Next up: OST, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ TOM CHIESA is a techno and club artist based in Venezuela, with 51 gigs on sound
 
 Rubén Secaduras, PATTY&SELMA, Nina GGG
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomchiesa/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomchiesa/)*

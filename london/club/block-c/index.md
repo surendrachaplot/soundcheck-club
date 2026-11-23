@@ -1,6 +1,6 @@
 # Block C
 
-Block C is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "WESH presents... 'CLUB CARE' - IN SUPPORT OF ART AGAINST KNIVES" on Fri, 27 Nov 2026.
+Block C is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "WESH presents... 'CLUB CARE' - IN SUPPORT OF ART AGAINST KNIVES" on Fri, 27 Nov 2026.
 
 Block C is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Lay Kus, warmluke and Wayward. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Block C is a music venue in London listed on soundcheck. 1 upcoming gig, with li
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | WESH presents... 'CLUB CARE' - IN SUPPORT OF ART AGAINST KNIVES | Lay Kus, Wayward, warmluke |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/block-c/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/block-c/)*

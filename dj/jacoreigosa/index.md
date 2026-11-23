@@ -1,6 +1,6 @@
 # Jaco Reigosa
 
-Jaco Reigosa is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at NADA Lisbon, Lisbon on Sat, 28 Nov 2026.
+Jaco Reigosa is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at NADA Lisbon, Lisbon on Sat, 28 Nov 2026.
 
 Jaco Reigosa is a tech house and techno artist based in Spain, with 24 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 1 more. Often billed alongside Alev Tav, Chanin and Fer BR. Next up: NADA Lisbon, Lisbon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jaco Reigosa is a tech house and techno artist based in Spain, with 24 gigs on s
 
 Alev Tav, Chanin, Fer BR
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacoreigosa/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacoreigosa/)*

@@ -1,6 +1,6 @@
 # Headless Horseman
 
-Headless Horseman is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Red Roof Church, Montreal on Fri, 11 Dec 2026.
+Headless Horseman is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Red Roof Church, Montreal on Fri, 11 Dec 2026.
 
 Headless Horseman is a techno and industrial artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Athens, Berlin and Birmingham and 22 more. Often billed alongside Flavia Laus, Metaraph and BLACK ANTHEM RESTORE. Next up: Red Roof Church, Montreal on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Headless Horseman is a techno and industrial artist based in Germany, with 51 gi
 
 Flavia Laus, Metaraph, BLACK ANTHEM RESTORE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headlesshorseman/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headlesshorseman/)*

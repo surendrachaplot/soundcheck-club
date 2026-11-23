@@ -1,6 +1,6 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Huxley's Neue Welt, Berlin on Wed, 25 Nov 2026.
+DJ_Dave is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Huxley's Neue Welt, Berlin on Wed, 25 Nov 2026.
 
 DJ_Dave is a techno and electro artist based in United States of America, with 30 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 10 more. Often billed alongside Alice Longyu Gao, horsegiirL and B0YG1RL. Next up: Huxley's Neue Welt, Berlin on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ DJ_Dave is a techno and electro artist based in United States of America, with 3
 
 Alice Longyu Gao, horsegiirL, B0YG1RL
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*

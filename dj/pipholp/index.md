@@ -1,6 +1,6 @@
 # Pipholp
 
-Pipholp is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Poush, Paris on Sat, 12 Dec 2026.
+Pipholp is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Poush, Paris on Sat, 12 Dec 2026.
 
 Pipholp is an experimental and bass artist based in France, with 4 gigs on soundcheck across Paris. Often billed alongside Delskiz, Drawbridge and Flabaire. Next up: Poush, Paris on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Pipholp is an experimental and bass artist based in France, with 4 gigs on sound
 
 Delskiz, Drawbridge, Flabaire
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pipholp/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pipholp/)*

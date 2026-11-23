@@ -1,6 +1,6 @@
 # David Fogarty
 
-David Fogarty is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 27 Nov 2026.
+David Fogarty is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 27 Nov 2026.
 
 David Fogarty is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Dublin and 15 more. Often billed alongside Sound Metaphors Djs, Temple Rat and Alicia Carrera. Next up: Angel Music Bar, Melbourne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ David Fogarty is a techno and house artist based in Germany, with 61 gigs on sou
 
 Sound Metaphors Djs, Temple Rat, Alicia Carrera
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*

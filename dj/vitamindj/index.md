@@ -1,6 +1,6 @@
 # Vitamin DJ
 
-Vitamin DJ is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 4 Dec 2026.
+Vitamin DJ is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 4 Dec 2026.
 
 Vitamin DJ is a house and electronica artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Tina Disco, Activator (AU) and Ayebatonye. Next up: Angel Music Bar, Melbourne on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Vitamin DJ is a house and electronica artist based in Australia, with 4 gigs on 
 
 Tina Disco, Activator (AU), Ayebatonye
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamindj/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamindj/)*

@@ -1,6 +1,6 @@
 # Taiga
 
-Taiga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 28 Nov 2026.
+Taiga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 28 Nov 2026.
 
 Taiga is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Auckland, Chengdu, Manchester and Mexico City and 5 more. Often billed alongside Hugo (US), Lucho and Mazko A. Next up: Nulab Chengdu, Chengdu on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Taiga is a house and techno artist based in United States of America, with 46 gi
 
 Hugo (US), Lucho (1), Mazko A
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*

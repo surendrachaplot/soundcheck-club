@@ -1,6 +1,6 @@
 # Polo & Pan
 
-Polo & Pan is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at East End Studios - Mission Campus, Los Angeles on Thu, 31 Dec 2026.
+Polo & Pan is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at East End Studios - Mission Campus, Los Angeles on Thu, 31 Dec 2026.
 
 Polo & Pan are a house and electro duo based in France, with 59 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 25 more. Often billed alongside Tycho, Olympe and Brina Knauss. Next up: East End Studios - Mission Campus, Los Angeles on Thu 31 Dec.
 
@@ -27,4 +27,4 @@ Polo & Pan are a house and electro duo based in France, with 59 gigs on soundche
 
 Tycho, Olympe, Brina Knauss
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polopan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polopan/)*

@@ -1,6 +1,6 @@
 # Lewis G. Burton
 
-Lewis G. Burton is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Colour Factory, London on Fri, 26 Feb 2027.
+Lewis G. Burton is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Colour Factory, London on Fri, 26 Feb 2027.
 
 Lewis G. Burton is a techno and hardcore artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Barcelona, Glasgow and Lisbon and 5 more. Often billed alongside Samantha Togni, Wax Wings and Slim Soledad. Next up: Colour Factory, London on Fri 26 Feb.
 
@@ -25,4 +25,4 @@ Lewis G. Burton is a techno and hardcore artist based in United Kingdom, with 48
 
 Samantha Togni, Wax Wings, Slim Soledad
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisg-burton/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisg-burton/)*

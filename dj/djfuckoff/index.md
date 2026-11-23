@@ -1,6 +1,6 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
+DJ Fuckoff is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
 
 DJ Fuckoff is a techno and house artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 68 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Schrotty, Cologne on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ DJ Fuckoff is a techno and house artist based in Germany, with 204 gigs on sound
 
 DJ AYA, Anetha, DJ Gigola
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*

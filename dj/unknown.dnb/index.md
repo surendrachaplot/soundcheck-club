@@ -1,6 +1,6 @@
 # unknown.dnb
 
-unknown.dnb is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Void Club, Berlin on Wed, 30 Dec 2026.
+unknown.dnb is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Wed, 30 Dec 2026.
 
 unknown.dnb is a drum & bass and techno artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Upzet, Lay.Dee Strange and IHOPEIEXIST. Next up: Void Club, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ unknown.dnb is a drum & bass and techno artist based in Germany, with 12 gigs on
 
 Upzet, Lay.Dee Strange, IHOPEIEXIST
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unknown.dnb/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unknown.dnb/)*

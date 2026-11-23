@@ -1,6 +1,6 @@
 # Marisol Garcia
 
-Marisol Garcia is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Tunnel Las Brujas (Barranco Seco), Vegueta, Canary-islands on Tue, 5 Jan 2027.
+Marisol Garcia is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Tunnel Las Brujas (Barranco Seco), Vegueta, Canary-islands on Tue, 5 Jan 2027.
 
 Marisol Garcia is a techno artist, with 3 gigs on soundcheck across Barcelona and Canary Islands. Often billed alongside Adlas, DEVILA and REMSI. Next up: TBA - Tunnel Las Brujas (Barranco Seco), Vegueta, Canary Islands on Tue 5 Jan.
 
@@ -19,4 +19,4 @@ Marisol Garcia is a techno artist, with 3 gigs on soundcheck across Barcelona an
 
 Adlas, DEVILA, REMSI
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marisolgarcia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marisolgarcia/)*

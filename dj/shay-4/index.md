@@ -1,6 +1,6 @@
 # Shay (4)
 
-Shay (4) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 1000fryd, Denmark on Sat, 12 Dec 2026.
+Shay (4) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 1000fryd, Denmark on Sat, 12 Dec 2026.
 
 Shay is an electronic artist based in Denmark, with 2 gigs on soundcheck across Denmark. Often billed alongside DEZO, Arnaud Le Texier and Ctrls. Next up: 1000fryd, Denmark on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Shay is an electronic artist based in Denmark, with 2 gigs on soundcheck across 
 
 DEZO, Arnaud Le Texier, Ctrls
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shay-4/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shay-4/)*

@@ -1,6 +1,6 @@
 # sinkaaf
 
-sinkaaf is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fitzroy, Berlin on Sat, 19 Dec 2026.
+sinkaaf is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fitzroy, Berlin on Sat, 19 Dec 2026.
 
 sinkaaf is a techno artist based in Iran, with 2 gigs on soundcheck across Berlin. Often billed alongside ADNS, Malingula and Parisha. Next up: Fitzroy, Berlin on Sat 19 Dec.
 
@@ -18,4 +18,4 @@ sinkaaf is a techno artist based in Iran, with 2 gigs on soundcheck across Berli
 
 ADNS, Malingula, Parisha
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinkaaf/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinkaaf/)*

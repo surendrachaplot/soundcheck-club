@@ -1,6 +1,6 @@
 # IDA
 
-IDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Post Bar, Helsinki on Fri, 18 Dec 2026.
+IDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Post Bar, Helsinki on Fri, 18 Dec 2026.
 
 IDA is a techno and house artist based in Finland, with 29 gigs on soundcheck across Amsterdam, Berlin, Dresden and Edinburgh and 6 more. Often billed alongside Giordano, Sansibar and Aurora Halal. Next up: Post Bar, Helsinki on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ IDA is a techno and house artist based in Finland, with 29 gigs on soundcheck ac
 
 Giordano, Sansibar, Aurora Halal
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*

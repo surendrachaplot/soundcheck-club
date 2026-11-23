@@ -1,6 +1,6 @@
 # HiTOMi
 
-HiTOMi is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 28 Nov 2026.
+HiTOMi is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 28 Nov 2026.
 
 HiTOMi is a house and bass artist based in Japan, with 42 gigs on soundcheck across Berlin, Seoul and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and ANZU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ HiTOMi is a house and bass artist based in Japan, with 42 gigs on soundcheck acr
 
 Yamariki, PUNK N MATRIX, ANZU
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*

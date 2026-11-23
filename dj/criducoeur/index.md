@@ -1,6 +1,6 @@
 # Cri du Coeur
 
-Cri du Coeur is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
+Cri du Coeur is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
 
 Cri du Coeur is a techno artist based in Belgium, with 5 gigs on soundcheck across Belgium, Berlin and Brussels. Often billed alongside PØZA, Steve RedHead and TIIA. Next up: Off-Club, Belgium on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Cri du Coeur is a techno artist based in Belgium, with 5 gigs on soundcheck acro
 
 PØZA, Steve RedHead, TIIA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/criducoeur/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/criducoeur/)*

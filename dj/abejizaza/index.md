@@ -1,6 +1,6 @@
 # abejizaza
 
-abejizaza is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Vespers Club, London on Tue, 1 Dec 2026.
+abejizaza is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Vespers Club, London on Tue, 1 Dec 2026.
 
 abejizaza is a club and trance artist based in Ireland, with 4 gigs on soundcheck across London and Manchester. Often billed alongside 0akley, Azrel and DJ mǐn. Next up: Vespers Club, London on Tue 1 Dec.
 
@@ -20,4 +20,4 @@ abejizaza is a club and trance artist based in Ireland, with 4 gigs on soundchec
 
 0akley, Azrel, DJ mǐn
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abejizaza/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abejizaza/)*

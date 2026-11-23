@@ -1,6 +1,6 @@
 # Tina Ardor
 
-Tina Ardor is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
+Tina Ardor is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
 
 Tina Ardor is an afro house and afro tech artist based in Kenya, with 4 gigs on soundcheck across Amsterdam, London and Nairobi. Often billed alongside CLEIDO, Culoe De Song and Meedy. Next up: Koda, Nairobi on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Tina Ardor is an afro house and afro tech artist based in Kenya, with 4 gigs on 
 
 CLEIDO, Culoe De Song, Meedy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaardor/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaardor/)*

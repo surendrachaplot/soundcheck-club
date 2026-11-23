@@ -1,6 +1,6 @@
 # Miss Lidiya
 
-Miss Lidiya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at DOM, Sofia on Fri, 27 Nov 2026.
+Miss Lidiya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at DOM, Sofia on Fri, 27 Nov 2026.
 
 Miss Lidiya is a techno and house artist based in Bulgaria, with 79 gigs on soundcheck across Sofia. Often billed alongside Shade., Akela and VELLA. Next up: DOM, Sofia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Miss Lidiya is a techno and house artist based in Bulgaria, with 79 gigs on soun
 
 Shade., Akela, VELLA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misslidiya/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misslidiya/)*

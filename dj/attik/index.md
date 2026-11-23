@@ -1,6 +1,6 @@
 # Attik
 
-Attik is a Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at R Lounge, Tokyo on Sat, 5 Dec 2026.
+Attik is a Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at R Lounge, Tokyo on Sat, 5 Dec 2026.
 
 Attik is a psytrance artist based in Brazil, with 2 gigs on soundcheck across Munich and Tokyo. Often billed alongside JesseJames Jr. Next up: R Lounge, Tokyo on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Attik is a psytrance artist based in Brazil, with 2 gigs on soundcheck across Mu
 
 JesseJames Jr
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/attik/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/attik/)*

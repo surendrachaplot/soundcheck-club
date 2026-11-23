@@ -1,8 +1,8 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 22 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Loud Luxury w/ AVELLO, Fortune Favor" on Sat, 28 Nov 2026.
+Echostage is a music venue in Washington DC with 23 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Loud Luxury w/ AVELLO, Fortune Favor" on Sat, 28 Nov 2026.
 
-Echostage is a music venue in Washington DC listed on soundcheck. 22 upcoming gigs, with line-ups including Adam Beyer, ANASI, Bella Renee and Casey Club and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washington DC listed on soundcheck. 23 upcoming gigs, with line-ups including Adam Beyer, ANASI, Bella Renee and Casey Club and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 22 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

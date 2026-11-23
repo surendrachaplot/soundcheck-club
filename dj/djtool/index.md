@@ -1,14 +1,13 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+DJ TOOL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 27 Nov 2026.
 
-DJ TOOL is a techno and house artist based in Denmark, with 233 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
+DJ TOOL is a techno and house artist based in Denmark, with 233 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: Den Anden Side, Copenhagen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 27 Nov 2026 | Den Anden Side | Copenhagen |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -31,4 +30,4 @@ DJ TOOL is a techno and house artist based in Denmark, with 233 gigs on soundche
 
 Yazzus, Hyperaktivist, D.Dan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*

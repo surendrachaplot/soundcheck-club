@@ -1,16 +1,13 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+The Lady Machine is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
-The Lady Machine is a techno and house artist based in Brazil, with 220 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 55 more. Often billed alongside Freddy K, Blasha & Allatt and DVS1. Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
+The Lady Machine is a techno and house artist based in Brazil, with 220 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 55 more. Often billed alongside Freddy K, Blasha & Allatt and DVS1. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
-| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
-| Sat, 21 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 5 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
@@ -34,4 +31,4 @@ The Lady Machine is a techno and house artist based in Brazil, with 220 gigs on 
 
 Freddy K, Blasha & Allatt, DVS1
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

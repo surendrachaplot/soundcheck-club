@@ -1,6 +1,6 @@
 # Phase Line
 
-Phase Line is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at K2 Comedy Club, Vilnius on Fri, 19 Feb 2027.
+Phase Line is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at K2 Comedy Club, Vilnius on Fri, 19 Feb 2027.
 
 Phase Line is a techno and trance artist based in Lithuania, with 48 gigs on soundcheck across Copenhagen, Lithuania, London and Riga and 1 more. Often billed alongside IP:VIII, Mirror Slave and Valdagger. Next up: K2 Comedy Club, Vilnius on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ Phase Line is a techno and trance artist based in Lithuania, with 48 gigs on sou
 
 IP:VIII, Mirror Slave, Valdagger
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*

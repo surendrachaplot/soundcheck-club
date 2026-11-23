@@ -1,6 +1,6 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Music Station, Lisbon on Mon, 30 Nov 2026.
+TASSERY is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Music Station, Lisbon on Mon, 30 Nov 2026.
 
 TASSERY is a techno and trance artist based in France, with 69 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 22 more. Often billed alongside Ben Techy, Golpe and KARAH. Next up: Music Station, Lisbon on Mon 30 Nov.
 
@@ -27,4 +27,4 @@ TASSERY is a techno and trance artist based in France, with 69 gigs on soundchec
 
 Ben Techy, Golpe, KARAH
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*

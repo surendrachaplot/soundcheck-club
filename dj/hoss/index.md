@@ -1,6 +1,6 @@
 # Hoss
 
-Hoss is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at House of Yes, New York City on Sat, 12 Dec 2026.
+Hoss is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at House of Yes, New York City on Sat, 12 Dec 2026.
 
 Hoss is a house and deep house artist based in Canada, with 14 gigs on soundcheck across London, Miami, Montreal and New York City. Often billed alongside 2melo, Antek (UK) and Dexta. Next up: House of Yes, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Hoss is a house and deep house artist based in Canada, with 14 gigs on soundchec
 
 2melo, Antek (UK), Dexta
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoss/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoss/)*

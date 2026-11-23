@@ -1,6 +1,6 @@
 # uber_acid
 
-uber_acid is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
+uber_acid is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
 
 uber_acid is a house and acid artist based in Slovakia, with 13 gigs on soundcheck across Amsterdam, Bratislava and Prague. Often billed alongside Paradiso Rhythm, Wuss and duboisi. Next up: Ankali & Planeta Za, Prague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ uber_acid is a house and acid artist based in Slovakia, with 13 gigs on soundche
 
 Paradiso Rhythm, Wuss, duboisi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uber_acid/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uber_acid/)*

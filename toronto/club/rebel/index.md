@@ -1,6 +1,6 @@
 # Rebel
 
-Rebel is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Carl Cox" on Fri, 27 Nov 2026.
+Rebel is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Carl Cox" on Fri, 27 Nov 2026.
 
 Rebel is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Boris Brejcha, Carl Cox, Cyclops and Infected Mushroom and 2 more. See dates, start times and who's playing. 11 Polson Street; Toronto, ON M5A 1A4; Canada.
 
@@ -20,4 +20,4 @@ Rebel is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with li
 
 11 Polson Street; Toronto, ON M5A 1A4; Canada, Toronto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rebel/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rebel/)*

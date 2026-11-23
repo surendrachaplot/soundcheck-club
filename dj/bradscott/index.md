@@ -1,14 +1,13 @@
 # Brad Scott
 
-Brad Scott is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bank St Annex, Pennsylvania on Sat, 21 Nov 2026.
+Brad Scott is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Dolphin, Philadelphia on Thu, 10 Dec 2026.
 
-Brad Scott is an ebm and industrial artist based in United States of America, with 36 gigs on soundcheck across New York City, Pennsylvania and Philadelphia. Often billed alongside DJ Baby Berlin, Ivy Oh and Joe Hart (US). Next up: Bank St Annex, Pennsylvania on Sat 21 Nov.
+Brad Scott is an ebm and industrial artist based in United States of America, with 36 gigs on soundcheck across New York City, Pennsylvania and Philadelphia. Often billed alongside DJ Baby Berlin, Ivy Oh and Joe Hart (US). Next up: The Dolphin, Philadelphia on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Bank St Annex | Pennsylvania |
 | Thu, 10 Dec 2026 | The Dolphin | Philadelphia |
 | Sat, 19 Dec 2026 | TBA | Pennsylvania |
 
@@ -27,4 +26,4 @@ Brad Scott is an ebm and industrial artist based in United States of America, wi
 
 DJ Baby Berlin, Ivy Oh, Joe Hart (US)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*

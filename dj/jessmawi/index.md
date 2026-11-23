@@ -1,6 +1,6 @@
 # Jess Mawi
 
-Jess Mawi is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
+Jess Mawi is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
 
 Jess Mawi is an electronic artist based in Switzerland, with 4 gigs on soundcheck across Switzerland and Zurich. Often billed alongside Dekerim, BRAINDAAMAGE and Charlie Sparks. Next up: Hive Club, Zurich on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Jess Mawi is an electronic artist based in Switzerland, with 4 gigs on soundchec
 
 Dekerim, BRAINDAAMAGE, Charlie Sparks
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessmawi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessmawi/)*

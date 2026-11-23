@@ -1,6 +1,6 @@
 # Davie Miller
 
-Davie Miller is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 12 Dec 2026.
+Davie Miller is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 12 Dec 2026.
 
 Davie Miller is an acid and house artist, with 4 gigs on soundcheck across Edinburgh. Often billed alongside Jacuzzi General, Zoe from Finance and Buckfast Barbie. Next up: People's Leisure Club, Edinburgh on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Davie Miller is an acid and house artist, with 4 gigs on soundcheck across Edinb
 
 Jacuzzi General, Zoe from Finance, Buckfast Barbie
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daviemiller/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daviemiller/)*

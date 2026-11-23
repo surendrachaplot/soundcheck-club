@@ -1,13 +1,14 @@
 # Ponygirl
 
-Ponygirl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at WDM, Hannover on Sat, 6 Feb 2027.
+Ponygirl is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
 
-Ponygirl is a techno and trance artist based in Germany, with 87 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 9 more. Often billed alongside Sylvie Maziarz, Kim Valmount and alemiko. Next up: WDM, Hannover on Sat 6 Feb.
+Ponygirl is a techno and trance artist based in Germany, with 88 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 9 more. Often billed alongside Sylvie Maziarz, Kim Valmount and alemiko. Next up: Den Anden Side, Copenhagen on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Den Anden Side | Copenhagen |
 | Sat, 6 Feb 2027 | WDM | Hannover |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ponygirl is a techno and trance artist based in Germany, with 87 gigs on soundch
 
 Sylvie Maziarz, Kim Valmount, alemiko
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponygirl/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponygirl/)*

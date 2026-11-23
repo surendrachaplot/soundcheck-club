@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+SHDW is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 SHDW is a techno and house artist based in Germany, with 266 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 86 more. Often billed alongside ANNĒ, Alarico and DAX J. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist based in Germany, with 266 gigs on soundcheck 
 
 ANNĒ, Alarico, DAX J
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

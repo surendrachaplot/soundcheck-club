@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "DJ Tallboy, Westfall, Ayam Dj & More: Born 2 Bounce" on Fri, 27 Nov 2026.
+La Java is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DJ Tallboy, Westfall, Ayam Dj & More: Born 2 Bounce" on Fri, 27 Nov 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including 4000 Hz, Archie Hamilton, Asaya and DJ Tallboy and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -21,4 +21,4 @@ La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with li
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

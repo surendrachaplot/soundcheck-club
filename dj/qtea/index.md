@@ -1,6 +1,6 @@
 # Qtea
 
-Qtea is a Minimal Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Honey's, New York City on Thu, 3 Dec 2026.
+Qtea is a Minimal Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Honey's, New York City on Thu, 3 Dec 2026.
 
 Qtea is a minimal techno and downtempo artist based in United States of America, with 2 gigs on soundcheck across New York City. Often billed alongside Oscil, alter.world and Uttaraa. Next up: Honey's, New York City on Thu 3 Dec.
 
@@ -18,4 +18,4 @@ Qtea is a minimal techno and downtempo artist based in United States of America,
 
 Oscil, alter.world, Uttaraa
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qtea/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qtea/)*

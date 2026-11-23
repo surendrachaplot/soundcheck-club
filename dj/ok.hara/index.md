@@ -1,6 +1,6 @@
 # OK.Hara
 
-OK.Hara is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 9 Jan 2027.
+OK.Hara is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 9 Jan 2027.
 
 OK.Hara is a techno and idm artist based in Philippines, with 4 gigs on soundcheck across Ho Chi Minh City and Manila. Often billed alongside Adri Malaki, DJ Ouch! and Hypnotic Black Magic. Next up: Luu Bar, Ho Chi Minh City on Sat 9 Jan.
 
@@ -20,4 +20,4 @@ OK.Hara is a techno and idm artist based in Philippines, with 4 gigs on soundche
 
 Adri Malaki, DJ Ouch!, Hypnotic Black Magic
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ok.hara/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ok.hara/)*

@@ -1,6 +1,6 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Rebel, Toronto on Sat, 5 Dec 2026.
+Lilly Palmer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Rebel, Toronto on Sat, 5 Dec 2026.
 
 Lilly Palmer is a techno and house artist based in Switzerland, with 175 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 70 more. Often billed alongside Gregor Tresher, I Hate Models and Reinier Zonneveld. Next up: Rebel, Toronto on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Lilly Palmer is a techno and house artist based in Switzerland, with 175 gigs on
 
 Gregor Tresher, I Hate Models, Reinier Zonneveld
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

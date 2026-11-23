@@ -1,6 +1,6 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Queerious" on Thu, 26 Nov 2026.
+HVEN is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Queerious" on Thu, 26 Nov 2026.
 
 HVEN is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including DSKE, FrEaKyNoRiKy, Kikiorix and Kirill Shapovalov and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
@@ -18,4 +18,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

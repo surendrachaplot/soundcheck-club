@@ -1,6 +1,6 @@
 # Redshift (2)
 
-Redshift (2) is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 28 Nov 2026.
+Redshift (2) is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 28 Nov 2026.
 
 Redshift is a house and electro artist based in United Kingdom, with 29 gigs on soundcheck across Leeds, London, Manchester and Newcastle. Often billed alongside Cam Harrop, LEN. and Oliver Kristian. Next up: The Lubber Fiend, Newcastle on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Redshift is a house and electro artist based in United Kingdom, with 29 gigs on 
 
 Cam Harrop, LEN., Oliver Kristian
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redshift-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redshift-2/)*

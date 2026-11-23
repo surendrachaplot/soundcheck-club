@@ -1,6 +1,6 @@
 # Tom Mils
 
-Tom Mils is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Café Galerie, Lyon on Fri, 4 Dec 2026.
+Tom Mils is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Café Galerie, Lyon on Fri, 4 Dec 2026.
 
 Tom Mils is a techno and tech house artist based in France, with 2 gigs on soundcheck across Berlin and Lyon. Often billed alongside LETVINK and Substrack. Next up: Café Galerie, Lyon on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ Tom Mils is a techno and tech house artist based in France, with 2 gigs on sound
 
 LETVINK, Substrack
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommils/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommils/)*

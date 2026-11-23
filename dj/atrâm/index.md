@@ -1,6 +1,6 @@
 # Atrâm
 
-Atrâm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Laboratorio Octogon, Madrid on Mon, 7 Dec 2026.
+Atrâm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Laboratorio Octogon, Madrid on Mon, 7 Dec 2026.
 
 Atrâm is a techno and trance artist based in Spain, with 42 gigs on soundcheck across Brussels, Madrid and Valencia. Often billed alongside Quka, Bellaswag and FUKCNORMAL. Next up: Laboratorio Octogon, Madrid on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Atrâm is a techno and trance artist based in Spain, with 42 gigs on soundcheck 
 
 Quka, Bellaswag, FUKCNORMAL
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atrâm/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atrâm/)*

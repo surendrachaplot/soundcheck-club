@@ -1,14 +1,13 @@
 # Guchon
 
-Guchon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Mon, 23 Nov 2026.
+Guchon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
 
-Guchon is a house and techno artist based in Japan, with 64 gigs on soundcheck across Kyoto, Okinawa, Osaka and Tokyo. Often billed alongside Carpainter, Seimei and okadada. Next up: Nakano Heavysick Zero, Tokyo on Mon 23 Nov.
+Guchon is a house and techno artist based in Japan, with 64 gigs on soundcheck across Kyoto, Okinawa, Osaka and Tokyo. Often billed alongside Carpainter, Seimei and okadada. Next up: club asia, Tokyo on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | Nakano Heavysick Zero | Tokyo |
 | Sun, 27 Dec 2026 | club asia | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Guchon is a house and techno artist based in Japan, with 64 gigs on soundcheck a
 
 Carpainter, Seimei, okadada
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guchon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guchon/)*

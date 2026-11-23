@@ -1,14 +1,15 @@
 # Taleena
 
-Taleena is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OneSixOne, Melbourne on Fri, 11 Dec 2026.
+Taleena is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at OneSixOne, Melbourne on Fri, 11 Dec 2026.
 
-Taleena is a house and tech house artist based in Australia, with 20 gigs on soundcheck across Bali, Brisbane, Melbourne and Sydney. Often billed alongside Amber Ferraro, BRAD WATTS and Edger. Next up: OneSixOne, Melbourne on Fri 11 Dec.
+Taleena is a house and tech house artist based in Australia, with 21 gigs on soundcheck across Bali, Brisbane, Gold Coast and Melbourne and 1 more. Often billed alongside Amber Ferraro, BRAD WATTS and Edger. Next up: OneSixOne, Melbourne on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | OneSixOne | Melbourne |
+| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Taleena is a house and tech house artist based in Australia, with 20 gigs on sou
 
 Amber Ferraro, BRAD WATTS, Edger
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taleena/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taleena/)*

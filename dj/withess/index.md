@@ -1,6 +1,6 @@
 # With Ess
 
-With Ess is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Revolver Upstairs, Melbourne on Sun, 29 Nov 2026.
+With Ess is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Revolver Upstairs, Melbourne on Sun, 29 Nov 2026.
 
 With Ess is a house and techno artist based in Australia, with 18 gigs on soundcheck across Melbourne. Often billed alongside Amraks, Champagnemuma and Char(k). Next up: Revolver Upstairs, Melbourne on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ With Ess is a house and techno artist based in Australia, with 18 gigs on soundc
 
 Amraks, Champagnemuma, Char(k)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/withess/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/withess/)*

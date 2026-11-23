@@ -1,6 +1,6 @@
 # Chelmsford City Racecourse
 
-Chelmsford City Racecourse is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Run Away Festival - New Years Eve" on Thu, 31 Dec 2026.
+Chelmsford City Racecourse is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Run Away Festival - New Years Eve" on Thu, 31 Dec 2026.
 
 Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Kepler, Beave, Benji King and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP.
 
@@ -15,4 +15,4 @@ Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 up
 
 Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/chelmsford-city-racecourse/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/chelmsford-city-racecourse/)*

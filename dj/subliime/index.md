@@ -1,6 +1,6 @@
 # Subliime
 
-Subliime is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
+Subliime is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
 
 Subliime is a house and deep house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Hamburg. Often billed alongside MAMA LOVE, materia hache and Bizzarro Universe. Next up: Fabrique im Gängeviertel, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Subliime is a house and deep house artist based in Netherlands, with 11 gigs on 
 
 MAMA LOVE, materia hache, Bizzarro Universe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subliime/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subliime/)*

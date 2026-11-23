@@ -1,6 +1,6 @@
 # Tsutomu
 
-Tsutomu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at WOMB, Tokyo on Sat, 26 Dec 2026.
+Tsutomu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at WOMB, Tokyo on Sat, 26 Dec 2026.
 
 Tsutomu is a techno and house artist based in Japan, with 28 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Kojiro, DJ Sodeyama and Qmico. Next up: WOMB, Tokyo on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Tsutomu is a techno and house artist based in Japan, with 28 gigs on soundcheck 
 
 Kojiro, DJ Sodeyama, Qmico
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsutomu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsutomu/)*

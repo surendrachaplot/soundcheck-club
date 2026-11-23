@@ -1,14 +1,13 @@
 # DJ Shroomie
 
-DJ Shroomie is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Apotheke, Los Angeles on Sat, 21 Nov 2026.
+DJ Shroomie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Airliner, Los Angeles on Sat, 28 Nov 2026.
 
-DJ Shroomie is a house and deep house artist based in United States of America, with 61 gigs on soundcheck across Los Angeles, San Diego and Sydney. Often billed alongside Beggar, Naomi Green and Ian Llorens. Next up: Apotheke, Los Angeles on Sat 21 Nov.
+DJ Shroomie is a house and deep house artist based in United States of America, with 61 gigs on soundcheck across Los Angeles, San Diego and Sydney. Often billed alongside Beggar, Naomi Green and Ian Llorens. Next up: The Airliner, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Apotheke | Los Angeles |
 | Sat, 28 Nov 2026 | The Airliner | Los Angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ DJ Shroomie is a house and deep house artist based in United States of America, 
 
 Beggar, Naomi Green, Ian Llorens
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshroomie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshroomie/)*

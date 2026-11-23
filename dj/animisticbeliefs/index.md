@@ -1,6 +1,6 @@
 # Animistic Beliefs
 
-Animistic Beliefs is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 4 Dec 2026.
+Animistic Beliefs is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 4 Dec 2026.
 
 Animistic Beliefs is a techno and experimental artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Armenia, Athens and Bali and 42 more. Often billed alongside Helena Hauff, Lee Gamble and bela. Next up: Oxford Art Factory, Sydney on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Animistic Beliefs is a techno and experimental artist based in Netherlands, with
 
 Helena Hauff, Lee Gamble, bela
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/animisticbeliefs/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/animisticbeliefs/)*

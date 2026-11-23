@@ -1,6 +1,6 @@
 # Sando
 
-Sando is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Sando is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Sando is a bass and dubstep artist based in Romania, with 2 gigs on soundcheck across Florida and Manchester. Often billed alongside A Hundred Drums, AG (NYC) and Black Tiger Sex Machine. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -18,4 +18,4 @@ Sando is a bass and dubstep artist based in Romania, with 2 gigs on soundcheck a
 
 A Hundred Drums, AG (NYC), Black Tiger Sex Machine
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sando/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sando/)*

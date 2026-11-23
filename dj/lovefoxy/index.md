@@ -1,6 +1,6 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
+LOVEFOXY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
 
 LOVEFOXY is a house and techno artist based in Germany, with 190 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Barcelona and 53 more. Often billed alongside DJ Heartstring, Elli Acula and fka.m4a. Next up: DSTRKT Club Berlin, Berlin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ LOVEFOXY is a house and techno artist based in Germany, with 190 gigs on soundch
 
 DJ Heartstring, Elli Acula, fka.m4a
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*

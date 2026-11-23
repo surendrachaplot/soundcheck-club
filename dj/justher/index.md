@@ -1,6 +1,6 @@
 # Just Her
 
-Just Her is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Iocerouno, Monterrey on Sat, 28 Nov 2026.
+Just Her is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Iocerouno, Monterrey on Sat, 28 Nov 2026.
 
 Just Her is a deep house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Braxton, Steve Parry and Dave Seaman. Next up: Iocerouno, Monterrey on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Just Her is a deep house and techno artist based in United Kingdom, with 50 gigs
 
 Braxton, Steve Parry, Dave Seaman
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justher/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justher/)*

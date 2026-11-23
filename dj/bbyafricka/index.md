@@ -1,6 +1,6 @@
 # BBYAFRICKA
 
-BBYAFRICKA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at YuYu Cine Club, Mexico City on Fri, 27 Nov 2026.
+BBYAFRICKA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at YuYu Cine Club, Mexico City on Fri, 27 Nov 2026.
 
 BBYAFRICKA is a club and techno artist based in United States of America, with 2 gigs on soundcheck across Baltimore and Mexico City. Often billed alongside CalvoMusic, Girlypop Princess and ILUSM. Next up: YuYu Cine Club, Mexico City on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ BBYAFRICKA is a club and techno artist based in United States of America, with 2
 
 CalvoMusic, Girlypop Princess, ILUSM
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyafricka/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyafricka/)*

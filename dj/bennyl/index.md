@@ -1,14 +1,13 @@
 # Benny L
 
-Benny L is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Benny L is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Document, Bristol on Fri, 27 Nov 2026.
 
-Benny L is a drum & bass and jungle artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Bladerunner, BassLayerz and Carasel. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+Benny L is a drum & bass and jungle artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Bladerunner, BassLayerz and Carasel. Next up: Document, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Fri, 27 Nov 2026 | Document | Bristol |
 | Fri, 4 Dec 2026 | Joshua Brooks | Manchester |
 | Sat, 5 Dec 2026 | Volks | Brighton |
@@ -31,4 +30,4 @@ Benny L is a drum & bass and jungle artist based in United Kingdom, with 90 gigs
 
 Bladerunner, BassLayerz, Carasel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*

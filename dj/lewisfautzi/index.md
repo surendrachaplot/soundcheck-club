@@ -1,6 +1,6 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 27 Nov 2026.
+Lewis Fautzi is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 27 Nov 2026.
 
 Lewis Fautzi is a techno and acid artist based in Portugal, with 99 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Cabaret  Aléatoire, Marseille on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Lewis Fautzi is a techno and acid artist based in Portugal, with 99 gigs on soun
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

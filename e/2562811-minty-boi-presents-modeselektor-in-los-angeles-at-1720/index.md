@@ -1,6 +1,6 @@
 # Minty Boi presents: Modeselektor in Los Angeles at 1720
 
-Minty Boi presents: Modeselektor in Los Angeles at 1720 on Sat 20 Feb, Los Angeles. 1 artist: Modeselektor. See the line-up on soundcheck.
+Minty Boi presents: Modeselektor in Los Angeles at 1720 on Sat 20 Feb, Los Angeles. 1 artist: Modeselektor. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

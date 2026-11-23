@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮" on Thu, 26 Nov 2026.
+Underground SF is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮" on Thu, 26 Nov 2026.
 
 Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including 480P (US), ALICE STRIBLING, Bjørn and DJ CZ and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -19,4 +19,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 6
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

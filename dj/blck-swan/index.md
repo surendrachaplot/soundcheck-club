@@ -1,6 +1,6 @@
 # Blck-Swan
 
-Blck-Swan is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
+Blck-Swan is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
 
 Blck-Swan is a techno and tech house artist based in Mauritius, with 69 gigs on soundcheck across Berlin, Hamburg and Milan. Often billed alongside H7, Benua and The Kiss. Next up: Chausseestrasse 131, Berlin on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Blck-Swan is a techno and tech house artist based in Mauritius, with 69 gigs on 
 
 H7 (3), Benua, The Kiss
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blck-swan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blck-swan/)*

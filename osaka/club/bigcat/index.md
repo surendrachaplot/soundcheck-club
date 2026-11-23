@@ -1,6 +1,6 @@
 # Bigcat
 
-Bigcat is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "DJ Krush 'TOKYØHUM' JAPAN TOUR 2026" on Thu, 24 Dec 2026.
+Bigcat is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "DJ Krush 'TOKYØHUM' JAPAN TOUR 2026" on Thu, 24 Dec 2026.
 
 Bigcat is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including DJ Krush, Kozee, MC Yallah and Riko Dan. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bigcat is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line
 | --- | --- | --- |
 | Thu, 24 Dec 2026 | DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 | DJ Krush, Kozee, MC Yallah, Riko Dan |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bigcat/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bigcat/)*

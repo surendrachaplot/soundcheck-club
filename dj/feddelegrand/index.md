@@ -1,6 +1,6 @@
 # Fedde Le Grand
 
-Fedde Le Grand is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cruise Terminal Rotterdam, Rotterdam on Sat, 26 Dec 2026.
+Fedde Le Grand is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cruise Terminal Rotterdam, Rotterdam on Sat, 26 Dec 2026.
 
 Fedde Le Grand is a house and progressive house artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 15 more. Often billed alongside Armin van Buuren, David Guetta and Paul Reynolds. Next up: Cruise Terminal Rotterdam, Rotterdam on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Fedde Le Grand is a house and progressive house artist based in Netherlands, wit
 
 Armin van Buuren, David Guetta, Paul Reynolds
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feddelegrand/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feddelegrand/)*

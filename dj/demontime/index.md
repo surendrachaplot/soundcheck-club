@@ -1,6 +1,6 @@
 # Demontime
 
-Demontime is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
+Demontime is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
 
 Demontime is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Ghent and 1 more. Often billed alongside ZOMBIE1000, Dennis Siemion and KACHU2K. Next up: Fusion Club, Münster on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Demontime is a techno and trance artist based in Germany, with 12 gigs on soundc
 
 ZOMBIE1000, Dennis Siemion, KACHU2K
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demontime/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demontime/)*

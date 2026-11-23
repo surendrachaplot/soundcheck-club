@@ -1,6 +1,6 @@
 # Ariane V
 
-Ariane V is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
+Ariane V is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
 
 Ariane V is a house and disco artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Ben Gomori, Gaucho (UK) and Liv Ayers. Next up: 40ft Brewery - Blackhorse Road, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Ariane V is a house and disco artist based in United Kingdom, with 108 gigs on s
 
 Ben Gomori, Gaucho (UK), Liv Ayers
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*

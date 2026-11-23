@@ -1,6 +1,6 @@
 # M_R_T (HU)
 
-M_R_T (HU) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Turbina, Budapest on Sat, 28 Nov 2026.
+M_R_T (HU) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Turbina, Budapest on Sat, 28 Nov 2026.
 
 M_R_T (HU) is an industrial and techno artist based in Hungary, with 9 gigs on soundcheck across Budapest and Madrid. Often billed alongside GLASSBASS, Kamafaka and Pomah. Next up: Turbina, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ M_R_T (HU) is an industrial and techno artist based in Hungary, with 9 gigs on s
 
 GLASSBASS, Kamafaka, Pomah
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m_r_thu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m_r_thu/)*

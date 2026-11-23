@@ -1,6 +1,6 @@
 # Dani Souto
 
-Dani Souto is a House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bar Carmem, Sao Paulo on Sat, 28 Nov 2026.
+Dani Souto is a House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bar Carmem, Sao Paulo on Sat, 28 Nov 2026.
 
 Dani Souto is a house and post-punk artist, with 4 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Deo'jorge, LAFFITTE and Alexiz BcX. Next up: Bar Carmem, Sao Paulo on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Dani Souto is a house and post-punk artist, with 4 gigs on soundcheck across Rio
 
 Deo'jorge, LAFFITTE, Alexiz BcX
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danisouto/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danisouto/)*

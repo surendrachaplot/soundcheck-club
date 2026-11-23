@@ -1,6 +1,6 @@
 # Saza (1)
 
-Saza (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Das Zimmer, Mannheim on Fri, 22 Jan 2027.
+Saza (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Das Zimmer, Mannheim on Fri, 22 Jan 2027.
 
 Saza is a techno artist based in Colombia, with 3 gigs on soundcheck across Karlsruhe and Mannheim. Often billed alongside Antigen, IGDA and In Furcht. Next up: Das Zimmer, Mannheim on Fri 22 Jan.
 
@@ -19,4 +19,4 @@ Saza is a techno artist based in Colombia, with 3 gigs on soundcheck across Karl
 
 Antigen, IGDA, In Furcht
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saza-1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saza-1/)*

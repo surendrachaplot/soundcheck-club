@@ -1,6 +1,6 @@
 # MXGN
 
-MXGN is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
+MXGN is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
 
 MXGN is a techno and trance artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Bristol, Edinburgh and Hannover and 8 more. Often billed alongside Alex Farell, Faster Horses and Anetha. Next up: The Prospect Building, Bristol on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ MXGN is a techno and trance artist based in United Kingdom, with 22 gigs on soun
 
 Alex Farell, Faster Horses, Anetha
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*

@@ -1,6 +1,6 @@
 # Jessamine
 
-Jessamine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
+Jessamine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
 
 Jessamine is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside Barbara Hofmann, Lena Brumby and Hang Aoki. Next up: ://about blank, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Jessamine is a house and techno artist based in Germany, with 26 gigs on soundch
 
 Barbara Hofmann, Lena Brumby, Hang Aoki
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessamine/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessamine/)*

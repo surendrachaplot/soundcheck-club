@@ -1,6 +1,6 @@
 # Rebiswan
 
-Rebiswan is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Frekuence, Tirana on Fri, 27 Nov 2026.
+Rebiswan is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Frekuence, Tirana on Fri, 27 Nov 2026.
 
 Rebiswan is an electronic artist, with 2 gigs on soundcheck across Athens and Tirana. Often billed alongside Ayshel, Lyriach and Sonhan. Next up: Frekuence, Tirana on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Rebiswan is an electronic artist, with 2 gigs on soundcheck across Athens and Ti
 
 Ayshel, Lyriach, Sonhan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebiswan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebiswan/)*

@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Noventeros" on Sat, 28 Nov 2026.
+LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Noventeros" on Sat, 28 Nov 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including AAfrAA, Abdon, BASHKKA and Brenda Serna and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -23,4 +23,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, w
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

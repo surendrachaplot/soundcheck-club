@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Tengu Jazz: Q.BANA (Jazz Special) & Santa Rosa - First Show" on Thu, 26 Nov 2026.
+Yamamori Tengu is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Tengu Jazz: Q.BANA (Jazz Special) & Santa Rosa - First Show" on Thu, 26 Nov 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including Cinthie, Collie, Cormac and Craig Richards and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with line-ups including Aaron Nolan, Cinthie, Collie and Cormac and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

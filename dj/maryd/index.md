@@ -1,6 +1,6 @@
 # Mary D
 
-Mary D is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ACERVO BAR, Rio de Janeiro on Fri, 18 Dec 2026.
+Mary D is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ACERVO BAR, Rio de Janeiro on Fri, 18 Dec 2026.
 
 Mary D is a bass and techno artist based in Brazil, with 2 gigs on soundcheck across Rio de Janeiro. Often billed alongside Cuca, Gustabby and Jacquelone. Next up: ACERVO BAR, Rio de Janeiro on Fri 18 Dec.
 
@@ -18,4 +18,4 @@ Mary D is a bass and techno artist based in Brazil, with 2 gigs on soundcheck ac
 
 Cuca, Gustabby, Jacquelone
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryd/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryd/)*

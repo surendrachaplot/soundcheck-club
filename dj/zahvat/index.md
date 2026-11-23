@@ -1,6 +1,6 @@
 # Zahvat
 
-Zahvat is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Killing Time, Valencia on Fri, 27 Nov 2026.
+Zahvat is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Killing Time, Valencia on Fri, 27 Nov 2026.
 
 Zahvat is a tech house and minimal artist based in Ukraine, with 2 gigs on soundcheck across Berlin and Valencia. Often billed alongside Brizman, Broken boy and Chad Andrew. Next up: Killing Time, Valencia on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Zahvat is a tech house and minimal artist based in Ukraine, with 2 gigs on sound
 
 Brizman, Broken boy, Chad Andrew
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zahvat/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zahvat/)*

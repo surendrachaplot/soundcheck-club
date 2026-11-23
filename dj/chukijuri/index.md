@@ -1,6 +1,6 @@
 # Chuki Juri
 
-Chuki Juri is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 19 Dec 2026.
+Chuki Juri is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 19 Dec 2026.
 
 Chuki Juri is a house and deep house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Nacho Carbajal, No Silver Bullet and Flor Coto. Next up: Orangerie Neukölln, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Chuki Juri is a house and deep house artist based in Germany, with 9 gigs on sou
 
 Nacho Carbajal, No Silver Bullet, Flor Coto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chukijuri/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chukijuri/)*

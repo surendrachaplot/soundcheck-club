@@ -1,6 +1,6 @@
 # Eshie
 
-Eshie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
+Eshie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
 
 Eshie is a house and disco artist, with 20 gigs on soundcheck across London, New York City and Washington DC. Often billed alongside ATST, Amrisha and Babypufff. Next up: Bossa Nova Civic Club, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Eshie is a house and disco artist, with 20 gigs on soundcheck across London, New
 
 ATST, Amrisha, Babypufff
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eshie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eshie/)*

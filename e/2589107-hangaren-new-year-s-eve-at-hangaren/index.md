@@ -1,6 +1,6 @@
 # Hangaren New Year's Eve at Hangaren
 
-Hangaren New Year's Eve on Thu 31 Dec, Copenhagen. 2 artists: THELMA and Tjade. Trance and House. See the line-up on soundcheck.
+Hangaren New Year's Eve on Thu 31 Dec, Copenhagen. 5 artists: DJ 2LATE, DRABER666, Emma Priis and THELMA and 1 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Hangaren New Year's Eve on Thu 31 Dec, Copenhagen. 2 artists: THELMA and Tjade. 
 
 ## Line-up
 
+- DJ 2LATE
+- DRABER666
+- Emma Priis
 - THELMA
 - Tjade
 

@@ -1,14 +1,13 @@
 # 999999999
 
-999999999 is a Techno and Acid artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+999999999 is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Elastica, Vilnius on Fri, 27 Nov 2026.
 
-999999999 is a techno and acid artist based in Italy, with 331 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 95 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
+999999999 is a techno and acid artist based in Italy, with 331 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 95 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: Elastica, Vilnius on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | Elastica | Vilnius |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 18 Dec 2026 | TBA - Los Angeles | Los Angeles |
@@ -34,4 +33,4 @@
 
 I Hate Models, Charlie Sparks, Clara Cuvé
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

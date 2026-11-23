@@ -1,8 +1,8 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
+Yazzus is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
 
-Yazzus is a techno and house artist based in United Kingdom, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Signal, New York City on Fri 27 Nov.
+Yazzus is a techno and house artist based in United Kingdom, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Signal, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yazzus is a techno and house artist based in United Kingdom, with 195 gigs on so
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Signal | New York City |
 | Fri, 4 Dec 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Sat, 19 Dec 2026 | TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic | London |
 | Fri, 1 Jan 2027 | KREUZWERK | Berlin |
 | Fri, 19 Mar 2027 | The Groove Garden | Sri-lanka |
 
@@ -28,4 +29,4 @@ Yazzus is a techno and house artist based in United Kingdom, with 195 gigs on so
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

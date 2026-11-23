@@ -1,6 +1,6 @@
 # Mia Wallace
 
-Mia Wallace is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Dr Morse, Melbourne on Sun, 29 Nov 2026.
+Mia Wallace is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Dr Morse, Melbourne on Sun, 29 Nov 2026.
 
 Mia Wallace is a house and disco artist, with 2 gigs on soundcheck across Melbourne. Often billed alongside Ben Silver, Boogs and KELLY TEE. Next up: Dr Morse, Melbourne on Sun 29 Nov.
 
@@ -18,4 +18,4 @@ Mia Wallace is a house and disco artist, with 2 gigs on soundcheck across Melbou
 
 Ben Silver, Boogs, KELLY TEE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miawallace/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miawallace/)*

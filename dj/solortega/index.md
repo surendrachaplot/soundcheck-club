@@ -1,6 +1,6 @@
 # Sol Ortega
 
-Sol Ortega is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Sol Ortega is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Sol Ortega is a techno and house artist based in Argentina, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside ANNĒ, Adiel and Elli Acula. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Sol Ortega is a techno and house artist based in Argentina, with 104 gigs on sou
 
 ANNĒ, Adiel, Elli Acula
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*

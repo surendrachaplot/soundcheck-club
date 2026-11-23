@@ -1,14 +1,14 @@
 # HSC (1)
 
-HSC (1) is a Deep House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Taipei on Mon, 23 Nov 2026.
+HSC (1) is a Deep House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Baboon Bar, Taipei on Mon, 23 Nov 2026.
 
-HSC is a deep house and minimal techno artist based in Japan, with 257 gigs on soundcheck across Osaka, Seoul, Taipei and Taiwan and 1 more. Often billed alongside ALTF4, Cine and OSHALEY. Next up: TBA, Taipei on Mon 23 Nov.
+HSC is a deep house and minimal techno artist based in Japan, with 257 gigs on soundcheck across Osaka, Seoul, Taipei and Taiwan and 1 more. Often billed alongside ALTF4, Cine and OSHALEY. Next up: Baboon Bar, Taipei on Mon 23 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | TBA | Taipei |
+| Mon, 23 Nov 2026 | Baboon Bar | Taipei |
 | Mon, 30 Nov 2026 | rake?raka? | Osaka |
 | Sat, 5 Dec 2026 | Triangle | Osaka |
 
@@ -27,4 +27,4 @@ HSC is a deep house and minimal techno artist based in Japan, with 257 gigs on s
 
 ALTF4, Cine, OSHALEY
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*

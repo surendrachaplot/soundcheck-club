@@ -1,6 +1,6 @@
 # Juan Neira
 
-Juan Neira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 13 Dec 2026.
+Juan Neira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 13 Dec 2026.
 
 Juan Neira is a house and techno artist based in Uruguay, with 22 gigs on soundcheck across Berlin. Often billed alongside Jogo, Freigeist and Flor Coto. Next up: TBA - Secret Location, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Juan Neira is a house and techno artist based in Uruguay, with 22 gigs on soundc
 
 Jogo, Freigeist, Flor Coto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanneira/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanneira/)*

@@ -1,6 +1,6 @@
 # Faka (AR)
 
-Faka (AR) is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala Taro, Barcelona on Fri, 27 Nov 2026.
+Faka (AR) is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala Taro, Barcelona on Fri, 27 Nov 2026.
 
 Faka (AR) is an ebm and electro artist based in Argentina, with 4 gigs on soundcheck across Barcelona. Often billed alongside AlesaDJ, Arielo and Edu C. Next up: Sala Taro, Barcelona on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Faka (AR) is an ebm and electro artist based in Argentina, with 4 gigs on soundc
 
 AlesaDJ, Arielo, Edu C
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faka-ar/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faka-ar/)*

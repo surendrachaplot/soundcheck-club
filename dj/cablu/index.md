@@ -1,6 +1,6 @@
 # cablu
 
-cablu is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bootshaus, Cologne on Thu, 4 Feb 2027.
+cablu is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bootshaus, Cologne on Thu, 4 Feb 2027.
 
 cablu is an electronic artist based in Romania, with 2 gigs on soundcheck across Cologne. Next up: Bootshaus, Cologne on Thu 4 Feb.
 
@@ -14,4 +14,4 @@ cablu is an electronic artist based in Romania, with 2 gigs on soundcheck across
 
 - Bootshaus, Cologne · Thu, 27 Feb 2025
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cablu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cablu/)*

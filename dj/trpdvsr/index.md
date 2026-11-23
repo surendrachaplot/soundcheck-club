@@ -1,6 +1,6 @@
 # TRPDVSR
 
-TRPDVSR is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at aqb - art quarter budapest, Budapest on Sat, 28 Nov 2026.
+TRPDVSR is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at aqb - art quarter budapest, Budapest on Sat, 28 Nov 2026.
 
 TRPDVSR is an industrial and techno artist based in Greece, with 8 gigs on soundcheck across Berlin, Budapest, London and Sofia. Often billed alongside w1goss, Menace Annihilation and ALCHEMY. Next up: aqb - art quarter budapest, Budapest on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ TRPDVSR is an industrial and techno artist based in Greece, with 8 gigs on sound
 
 w1goss, Menace Annihilation, ALCHEMY (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trpdvsr/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trpdvsr/)*

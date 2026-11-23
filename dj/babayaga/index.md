@@ -1,8 +1,8 @@
 # Babayaga
 
-Babayaga is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Avalon Hollywood, Los Angeles on Sat, 28 Nov 2026.
+Babayaga is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Avalon Hollywood, Los Angeles on Sat, 28 Nov 2026.
 
-Babayaga is a techno and house artist based in United States of America, with 4 gigs on soundcheck across Lisbon, Los Angeles, Milan and Rome. Often billed alongside Blerry, ETRA and Flavio Rago. Next up: Avalon Hollywood, Los Angeles on Sat 28 Nov.
+Babayaga is a tech house and house artist based in United States of America, with 4 gigs on soundcheck across Lisbon, Los Angeles, Milan and Rome. Often billed alongside Blerry, ETRA and Flavio Rago. Next up: Avalon Hollywood, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Babayaga is a techno and house artist based in United States of America, with 4 
 
 Blerry, ETRA, Flavio Rago
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babayaga/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babayaga/)*

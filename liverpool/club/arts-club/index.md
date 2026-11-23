@@ -1,6 +1,6 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "For The Record Presents Folamour" on Fri, 27 Nov 2026.
+Arts Club is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "For The Record Presents Folamour" on Fri, 27 Nov 2026.
 
 Arts Club is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including 333CXT, AC Groove, Folamour and Luke Alessi and 2 more. See dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
@@ -18,4 +18,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, w
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

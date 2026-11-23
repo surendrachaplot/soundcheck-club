@@ -1,6 +1,6 @@
 # Sundaymann
 
-Sundaymann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
+Sundaymann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
 
 Sundaymann is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Glasgow. Often billed alongside Physix, Kairogen and Lewis Lowe. Next up: Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sundaymann is a house and techno artist based in United Kingdom, with 13 gigs on
 
 Physix, Kairogen, Lewis Lowe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaymann/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaymann/)*

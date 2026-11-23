@@ -1,6 +1,6 @@
 # Hype Discoteca
 
-Hype Discoteca is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "THE SAGA CONTINUES - Hito PRESENTS OTO, Reboot B2B Hito, Roberto Capuano" on Sat, 28 Nov 2026.
+Hype Discoteca is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "THE SAGA CONTINUES - Hito PRESENTS OTO, Reboot B2B Hito, Roberto Capuano" on Sat, 28 Nov 2026.
 
 Hype Discoteca is a music venue in Naples listed on soundcheck. 3 upcoming gigs, with line-ups including David Morales, Hito, Reboot and Roberto Capuano. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Hype Discoteca is a music venue in Naples listed on soundcheck. 3 upcoming gigs,
 | Sat, 28 Nov 2026 | REBOOT B2B HITO |  |
 | Sat, 27 Feb 2027 | David Morales | David Morales |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/hype-discoteca/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/hype-discoteca/)*

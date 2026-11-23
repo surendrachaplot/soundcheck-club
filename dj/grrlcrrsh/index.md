@@ -1,6 +1,6 @@
 # GRRLCRRSH
 
-GRRLCRRSH is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Society Clubhouse, Toronto on Sun, 27 Dec 2026.
+GRRLCRRSH is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Society Clubhouse, Toronto on Sun, 27 Dec 2026.
 
 GRRLCRRSH is a techno and bass artist based in Canada, with 51 gigs on soundcheck across New York City and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: Society Clubhouse, Toronto on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ GRRLCRRSH is a techno and bass artist based in Canada, with 51 gigs on soundchec
 
 Sappho.XD, Zellers, Hycastle
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*

@@ -1,6 +1,6 @@
 # Alexander Franco
 
-Alexander Franco is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Alexander Franco is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Alexander Franco is a house and minimal artist based in Spain, with 3 gigs on soundcheck across Barcelona and Miami. Often billed alongside 1morning, ALKMST and Alex Pastor. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -19,4 +19,4 @@ Alexander Franco is a house and minimal artist based in Spain, with 3 gigs on so
 
 1morning, ALKMST, Alex Pastor
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderfranco/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderfranco/)*

@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Spook Club, Valencia on Sat, 12 Dec 2026.
+Vass is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Spook Club, Valencia on Sat, 12 Dec 2026.
 
 Vass is a techno and electro artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 38 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Spook Club, Valencia on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Vass is a techno and electro artist based in United Kingdom, with 120 gigs on so
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

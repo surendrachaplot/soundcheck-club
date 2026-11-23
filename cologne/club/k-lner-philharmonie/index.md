@@ -1,6 +1,6 @@
 # Kölner Philharmonie
 
-Kölner Philharmonie is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "#round2 – Nyokabi Kariũki" on Thu, 26 Nov 2026.
+Kölner Philharmonie is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "#round2 – Nyokabi Kariũki" on Thu, 26 Nov 2026.
 
 Kölner Philharmonie is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with line-ups including Nyokabi Kariũki. See dates, start times and who's playing. Bischofsgartenstraße 1, 50667 Cologne.
 
@@ -15,4 +15,4 @@ Kölner Philharmonie is a music venue in Cologne listed on soundcheck. 2 upcomin
 
 Bischofsgartenstraße 1, 50667 Cologne, Cologne
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/k-lner-philharmonie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/k-lner-philharmonie/)*

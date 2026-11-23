@@ -1,6 +1,6 @@
 # Joshua Iz
 
-Joshua Iz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Monarch, San Francisco/Oakland on Wed, 25 Nov 2026.
+Joshua Iz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Monarch, San Francisco/Oakland on Wed, 25 Nov 2026.
 
 Joshua Iz is a house and deep house artist, with 11 gigs on soundcheck across Chicago, Detroit, Los Angeles and San Francisco/Oakland and 1 more. Often billed alongside Atnarko, DJ Garth and Ilana Ariella. Next up: Monarch, San Francisco/Oakland on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Joshua Iz is a house and deep house artist, with 11 gigs on soundcheck across Ch
 
 Atnarko, DJ Garth, Ilana Ariella
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaiz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaiz/)*

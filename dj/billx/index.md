@@ -1,6 +1,6 @@
 # billx
 
-billx is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+billx is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
 
 billx is a hardcore and techno artist based in United Kingdom, with 31 gigs on soundcheck across Antwerp, Berlin, Bordeaux and Brussels and 9 more. Often billed alongside Vladimir Cauchemar, Angerfist and EARGASM GOD. Next up: Brussels Expo, Brussels on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ billx is a hardcore and techno artist based in United Kingdom, with 31 gigs on s
 
 Vladimir Cauchemar, Angerfist, EARGASM GOD
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billx/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billx/)*

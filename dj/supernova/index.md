@@ -1,6 +1,6 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Night We Met, Nashville on Fri, 11 Dec 2026.
+Supernova is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Night We Met, Nashville on Fri, 11 Dec 2026.
 
 Supernova is a house and tech house artist based in Italy, with 54 gigs on soundcheck across Aarhus, Amsterdam, Barcelona and Bucharest and 21 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Night We Met, Nashville on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Supernova is a house and tech house artist based in Italy, with 54 gigs on sound
 
 Falcons, JOAQU.N, Massi Rocket
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*

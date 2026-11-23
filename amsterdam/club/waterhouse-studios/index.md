@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "FUNK PAULISTA FROM SCRATCH with Dj Paranoia" on Sat, 28 Nov 2026.
+Waterhouse Studios is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "FUNK PAULISTA FROM SCRATCH with Dj Paranoia" on Sat, 28 Nov 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Conor Brophy, Crinkhoff, Festen and Hicham (FR) and 2 more. See dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -18,4 +18,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 5 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

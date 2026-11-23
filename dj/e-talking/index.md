@@ -1,6 +1,6 @@
 # E-Talking
 
-E-Talking is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at KREUZWERK, Berlin on Fri, 27 Nov 2026.
+E-Talking is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at KREUZWERK, Berlin on Fri, 27 Nov 2026.
 
 E-Talking is a house and techno artist based in France, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 4 more. Often billed alongside DJ TEETH, TPR (DE) and Alicia Carrera. Next up: KREUZWERK, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ E-Talking is a house and techno artist based in France, with 42 gigs on soundche
 
 DJ TEETH, TPR (DE), Alicia Carrera
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-talking/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-talking/)*

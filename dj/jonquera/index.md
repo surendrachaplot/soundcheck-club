@@ -1,6 +1,6 @@
 # Jonquera
 
-Jonquera is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
+Jonquera is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
 
 Jonquera is an experimental and electronica artist based in France, with 15 gigs on soundcheck across Athens, Bristol, Brussels and London and 4 more. Often billed alongside Officium, Al Paino and Elena Colombi. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Jonquera is an experimental and electronica artist based in France, with 15 gigs
 
 Officium, Al Paino, Elena Colombi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*

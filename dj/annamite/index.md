@@ -1,6 +1,6 @@
 # Annamite
 
-Annamite is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Harmony Cafe, Toronto on Thu, 10 Dec 2026.
+Annamite is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Harmony Cafe, Toronto on Thu, 10 Dec 2026.
 
 Annamite is a house and electro artist based in Canada, with 7 gigs on soundcheck across Hobart and Toronto. Often billed alongside CHNTEL., SouthPawBrown and 1TK. Next up: The Harmony Cafe, Toronto on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ Annamite is a house and electro artist based in Canada, with 7 gigs on soundchec
 
 CHNTEL., SouthPawBrown, 1TK (1)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annamite/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annamite/)*

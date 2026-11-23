@@ -1,6 +1,6 @@
 # KES (3)
 
-KES (3) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Louis Marchesi, South-east on Sat, 5 Dec 2026.
+KES (3) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Louis Marchesi, South-east on Sat, 5 Dec 2026.
 
 KES is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across Amsterdam and South East. Often billed alongside SyCo. Next up: The Louis Marchesi, South East on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ KES is an electronic artist based in United Kingdom, with 3 gigs on soundcheck a
 
 SyCo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kes-3/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kes-3/)*

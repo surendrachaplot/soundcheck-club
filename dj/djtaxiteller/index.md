@@ -1,6 +1,6 @@
 # DJ Taxiteller
 
-DJ Taxiteller is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
+DJ Taxiteller is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
 
 DJ Taxiteller is a trance and techno artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside RichBeat, Aniza (DE) and BECCA. Next up: ://about blank, Berlin on Sat 9 Jan.
 
@@ -18,4 +18,4 @@ DJ Taxiteller is a trance and techno artist based in Germany, with 2 gigs on sou
 
 RichBeat, Aniza (DE), BECCA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtaxiteller/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtaxiteller/)*

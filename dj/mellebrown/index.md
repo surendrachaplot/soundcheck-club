@@ -1,6 +1,6 @@
 # Melle Brown
 
-Melle Brown is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Night Tales, London on Sat, 16 Jan 2027.
+Melle Brown is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Night Tales, London on Sat, 16 Jan 2027.
 
 Melle Brown is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 8 more. Often billed alongside Eats Everything, Claptone and Conducta. Next up: Night Tales, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Melle Brown is a house and techno artist based in United Kingdom, with 40 gigs o
 
 Eats Everything, Claptone, Conducta
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mellebrown/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mellebrown/)*

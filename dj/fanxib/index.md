@@ -1,6 +1,6 @@
 # FANXI B
 
-FANXI B is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 27 Nov 2026.
+FANXI B is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 27 Nov 2026.
 
 FANXI B is a techno and hardcore artist based in Germany, with 6 gigs on soundcheck across Berlin, Freiburg and Stuttgart. Often billed alongside Oxygliano, Aniza (DE) and BECCA. Next up: Fridas Pier, Stuttgart on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ FANXI B is a techno and hardcore artist based in Germany, with 6 gigs on soundch
 
 Oxygliano, Aniza (DE), BECCA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fanxib/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fanxib/)*

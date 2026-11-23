@@ -1,14 +1,13 @@
 # DJ ZBB
 
-DJ ZBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+DJ ZBB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
 
-DJ ZBB is a house and techno artist based in Australia, with 21 gigs on soundcheck across Bangkok, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Pierre Vice, Britta Arnold and Chris Schwarzwälder. Next up: ://about blank, Berlin on Sat 21 Nov.
+DJ ZBB is a house and techno artist based in Australia, with 21 gigs on soundcheck across Bangkok, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Pierre Vice, Britta Arnold and Chris Schwarzwälder. Next up: Atno, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ://about blank | Berlin |
 | Fri, 27 Nov 2026 | Atno | Budapest |
 
 ## Recently played
@@ -26,4 +25,4 @@ DJ ZBB is a house and techno artist based in Australia, with 21 gigs on soundche
 
 Pierre Vice, Britta Arnold, Chris Schwarzwälder
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*

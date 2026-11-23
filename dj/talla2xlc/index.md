@@ -1,6 +1,6 @@
 # Talla 2XLC
 
-Talla 2XLC is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Talla 2XLC is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
 
 Talla 2XLC is a trance and techno artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Frankfurt and 12 more. Often billed alongside Paul Van Dyk, Andreas Kraemer and Cat Vermillion. Next up: Void Club, Berlin on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Talla 2XLC is a trance and techno artist based in Germany, with 29 gigs on sound
 
 Paul Van Dyk, Andreas Kraemer, Cat Vermillion
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talla2xlc/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talla2xlc/)*

@@ -1,6 +1,6 @@
 # Ian Field
 
-Ian Field is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Baron Oxford, London on Sat, 28 Nov 2026.
+Ian Field is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - The Baron Oxford, London on Sat, 28 Nov 2026.
 
 Ian Field is a house and techno artist, with 3 gigs on soundcheck across London and Nantes. Often billed alongside JOHNJAYDEE, Monsieur Mikey and Rauq. Next up: TBA - The Baron Oxford, London on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Ian Field is a house and techno artist, with 3 gigs on soundcheck across London 
 
 JOHNJAYDEE, Monsieur Mikey, Rauq
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianfield/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianfield/)*

@@ -1,6 +1,6 @@
 # Late Replies
 
-Late Replies is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tirana Olympic Park, Tirana on Sat, 19 Dec 2026.
+Late Replies is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tirana Olympic Park, Tirana on Sat, 19 Dec 2026.
 
 Late Replies is a tech house and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 22 more. Often billed alongside Detlef, Archie Hamilton and Darius Syrossian. Next up: Tirana Olympic Park, Tirana on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Late Replies is a tech house and house artist based in United Kingdom, with 79 g
 
 Detlef, Archie Hamilton, Darius Syrossian
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*

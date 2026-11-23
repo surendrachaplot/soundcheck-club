@@ -1,6 +1,6 @@
 # fi3nd
 
-fi3nd is a Hardcore and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Strays, Detroit on Fri, 27 Nov 2026.
+fi3nd is a Hardcore and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Strays, Detroit on Fri, 27 Nov 2026.
 
 fi3nd is a hardcore and breakbeat artist based in United States of America, with 4 gigs on soundcheck across Detroit. Often billed alongside DJ Girl, Seanni B and madeofants. Next up: The Strays, Detroit on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ fi3nd is a hardcore and breakbeat artist based in United States of America, with
 
 DJ Girl, Seanni B, madeofants
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fi3nd/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fi3nd/)*

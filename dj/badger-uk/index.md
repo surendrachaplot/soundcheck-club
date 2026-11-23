@@ -1,6 +1,6 @@
 # Badger (UK)
 
-Badger (UK) is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at UNLOCKED, London on Wed, 25 Nov 2026.
+Badger (UK) is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at UNLOCKED, London on Wed, 25 Nov 2026.
 
 Badger (UK) is a garage and bass artist based in United Kingdom, with 75 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austria and 33 more. Often billed alongside Fish56Octagon, Andy C and Arthi. Next up: UNLOCKED, London on Wed 25 Nov.
 
@@ -28,4 +28,4 @@ Badger (UK) is a garage and bass artist based in United Kingdom, with 75 gigs on
 
 Fish56Octagon, Andy C, Arthi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*

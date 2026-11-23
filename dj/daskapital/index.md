@@ -1,6 +1,6 @@
 # Das Kapital
 
-Das Kapital is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mankele Adventures, South-africa on Thu, 29 Apr 2027.
+Das Kapital is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mankele Adventures, South-africa on Thu, 29 Apr 2027.
 
 Das Kapital is a techno and club artist based in South Africa, with 6 gigs on soundcheck across Cape Town and South Africa. Often billed alongside ALDAVE, DIORA and Delta Heavy. Next up: Mankele Adventures, South Africa on Thu 29 Apr.
 
@@ -22,4 +22,4 @@ Das Kapital is a techno and club artist based in South Africa, with 6 gigs on so
 
 ALDAVE, DIORA, Delta Heavy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daskapital/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daskapital/)*

@@ -1,6 +1,6 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ikii, Berlin on Thu, 26 Nov 2026.
+Leafar Legov is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ikii, Berlin on Thu, 26 Nov 2026.
 
 Leafar Legov is a house and techno artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 44 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Ikii, Berlin on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Leafar Legov is a house and techno artist based in Germany, with 115 gigs on sou
 
 Konstantin, Edward, Map.ache
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*

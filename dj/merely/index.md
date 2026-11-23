@@ -1,6 +1,6 @@
 # merely
 
-merely is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EartH, London on Mon, 7 Dec 2026.
+merely is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at EartH, London on Mon, 7 Dec 2026.
 
 merely is an electronica and experimental artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Lisbon and 2 more. Often billed alongside Niko Demus, Himera and baby ganoush. Next up: EartH, London on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ merely is an electronica and experimental artist based in Netherlands, with 9 gi
 
 Niko Demus, Himera, baby ganoush
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merely/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merely/)*

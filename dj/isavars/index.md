@@ -1,6 +1,6 @@
 # isavars
 
-isavars is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cu, London on Sat, 12 Dec 2026.
+isavars is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cu, London on Sat, 12 Dec 2026.
 
 isavars is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside QUEENIEPRINX, tincho and PEDRØ. Next up: Cu, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ isavars is a house and techno artist based in United Kingdom, with 12 gigs on so
 
 QUEENIEPRINX, tincho, PEDRØ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isavars/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isavars/)*

@@ -1,6 +1,6 @@
 # CasuallyClued
 
-CasuallyClued is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jumbi, London on Fri, 27 Nov 2026.
+CasuallyClued is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jumbi, London on Fri, 27 Nov 2026.
 
 CasuallyClued is a broken beat and house artist based in United Kingdom, with 42 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside Marvin Jupiter, Juno and Bugz in the Attic. Next up: Jumbi, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CasuallyClued is a broken beat and house artist based in United Kingdom, with 42
 
 Marvin Jupiter, Juno (4), Bugz in the Attic
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casuallyclued/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casuallyclued/)*

@@ -1,6 +1,6 @@
 # brotherz
 
-brotherz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at PWCC, North on Sun, 29 Nov 2026.
+brotherz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at PWCC, North on Sun, 29 Nov 2026.
 
 brotherz is a house and deep house artist based in Italy, with 2 gigs on soundcheck across Amsterdam and North. Often billed alongside Klevi Koci, A.M. Project and ALE_MELLONI. Next up: PWCC, North on Sun 29 Nov.
 
@@ -18,4 +18,4 @@ brotherz is a house and deep house artist based in Italy, with 2 gigs on soundch
 
 Klevi Koci, A.M. Project, ALE_MELLONI
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherz/)*

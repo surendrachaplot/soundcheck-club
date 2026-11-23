@@ -1,13 +1,14 @@
 # Hinode
 
-Hinode is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at WWW, Tokyo on Fri, 11 Dec 2026.
+Hinode is a Psytrance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Koenji Cave, Tokyo on Sat, 5 Dec 2026.
 
-Hinode is a techno and psytrance artist based in Germany, with 13 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Dustvoxx, Mars89 and Rickshinmi. Next up: WWW, Tokyo on Fri 11 Dec.
+Hinode is a psytrance and techno artist based in Germany, with 14 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Dustvoxx, Mars89 and Rickshinmi. Next up: Koenji Cave, Tokyo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Koenji Cave | Tokyo |
 | Fri, 11 Dec 2026 | WWW | Tokyo |
 | Sat, 12 Dec 2026 | WWW X | Tokyo |
 
@@ -26,4 +27,4 @@ Hinode is a techno and psytrance artist based in Germany, with 13 gigs on soundc
 
 Dustvoxx, Mars89, Rickshinmi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*

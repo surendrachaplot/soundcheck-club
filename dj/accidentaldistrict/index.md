@@ -1,6 +1,6 @@
 # Accidental District
 
-Accidental District is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bolero, Seoul on Thu, 26 Nov 2026.
+Accidental District is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bolero, Seoul on Thu, 26 Nov 2026.
 
 Accidental District is a techno and house artist, with 37 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Em-J, Wot? and GUNI. Next up: Bolero, Seoul on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Accidental District is a techno and house artist, with 37 gigs on soundcheck acr
 
 Em-J, Wot?, GUNI
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentaldistrict/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentaldistrict/)*

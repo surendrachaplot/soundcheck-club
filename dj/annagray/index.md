@@ -1,6 +1,6 @@
 # Anna Gray
 
-Anna Gray is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The White Hotel, Manchester on Thu, 17 Dec 2026.
+Anna Gray is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The White Hotel, Manchester on Thu, 17 Dec 2026.
 
 Anna Gray is an experimental and dub artist based in United Kingdom, with 7 gigs on soundcheck across Antwerp, Berlin and Manchester. Often billed alongside Conor Thomas, Faux Naif and Alessandro Adriani. Next up: The White Hotel, Manchester on Thu 17 Dec.
 
@@ -23,4 +23,4 @@ Anna Gray is an experimental and dub artist based in United Kingdom, with 7 gigs
 
 Conor Thomas, Faux Naif, Alessandro Adriani
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annagray/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annagray/)*

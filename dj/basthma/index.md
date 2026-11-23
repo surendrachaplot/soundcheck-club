@@ -1,6 +1,6 @@
 # Basthma
 
-Basthma is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
+Basthma is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
 
 Basthma is an electronic artist based in Kenya, with 1 gig on soundcheck across Kenya. Often billed alongside !Sooks, BBYY and Balter Sensei. Next up: Beneath the Baobabs, Kenya on Wed 30 Dec.
 
@@ -14,4 +14,4 @@ Basthma is an electronic artist based in Kenya, with 1 gig on soundcheck across 
 
 !Sooks, BBYY, Balter Sensei
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basthma/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basthma/)*

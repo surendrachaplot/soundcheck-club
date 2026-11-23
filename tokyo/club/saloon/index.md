@@ -1,15 +1,13 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "WEB-001" on Sun, 22 Nov 2026.
+Saloon is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "INTERFCE" on Mon, 23 Nov 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AJA, AKARI, Allen Mock and Eichi Abe and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including AKARI, Allen Mock, Eichi Abe and Herbalistek and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | WEB-001 | Pholo, illequal |
-| Sun, 22 Nov 2026 | WEB-001 | AJA, Pholo, illequal |
 | Mon, 23 Nov 2026 | INTERFCE | Nebu Mitte |
 | Thu, 26 Nov 2026 | BASS BABY vol.1 | Mendi, Romy Mats, SAMO (JP) |
 | Thu, 26 Nov 2026 | BASS BABY vol.1 | AKARI, Mendi, Romy Mats, Samo |
@@ -22,4 +20,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with lin
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

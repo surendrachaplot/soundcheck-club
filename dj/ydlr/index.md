@@ -1,6 +1,6 @@
 # YDLR
 
-YDLR is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
+YDLR is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
 
 YDLR is a house and garage artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Carlos Biendia, Groovin Rue and Bianca Blaze. Next up: The Cause, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ YDLR is a house and garage artist based in United Kingdom, with 25 gigs on sound
 
 Carlos Biendia, Groovin Rue, Bianca Blaze
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ydlr/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ydlr/)*

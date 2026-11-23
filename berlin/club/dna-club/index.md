@@ -1,6 +1,6 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Get-Together: OPEN DECKS - presented by DNA. CLUB" on Fri, 27 Nov 2026.
+DNA. CLUB is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Get-Together: OPEN DECKS - presented by DNA. CLUB" on Fri, 27 Nov 2026.
 
 DNA. CLUB is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Anne-Sophie Selig, kaiko and Tallah. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -16,4 +16,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

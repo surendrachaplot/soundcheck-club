@@ -1,6 +1,6 @@
 # Tania Atyabi
 
-Tania Atyabi is a Electro and IDM artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Planet Wax, London on Thu, 3 Dec 2026.
+Tania Atyabi is a Electro and IDM artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Planet Wax, London on Thu, 3 Dec 2026.
 
 Tania Atyabi is an electro and idm artist, with 28 gigs on soundcheck across Barcelona, Leeds, London and Manchester. Often billed alongside Medallion Man, YouYou and ARA-U. Next up: Planet Wax, London on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Tania Atyabi is an electro and idm artist, with 28 gigs on soundcheck across Bar
 
 Medallion Man, YouYou (2), ARA-U
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*

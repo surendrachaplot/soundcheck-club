@@ -1,6 +1,6 @@
 # GB (2)
 
-GB (2) is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Fri, 27 Nov 2026.
+GB (2) is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Fri, 27 Nov 2026.
 
 GB is an experimental and electronica artist based in Denmark, with 3 gigs on soundcheck across Berlin, Copenhagen and Malmo. Often billed alongside Abul Mogard, Alessandra Leone and Anders Skibsted. Next up: Copenhagen Contemporary, Copenhagen on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ GB is an experimental and electronica artist based in Denmark, with 3 gigs on so
 
 Abul Mogard, Alessandra Leone, Anders Skibsted
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gb-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gb-2/)*

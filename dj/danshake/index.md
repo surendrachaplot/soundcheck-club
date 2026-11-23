@@ -1,8 +1,8 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Thu, 26 Nov 2026.
+Dan Shake is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Thu, 26 Nov 2026.
 
-Dan Shake is a house and disco artist based in United Kingdom, with 212 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austria and 54 more. Often billed alongside Eliza Rose, MiNNA and Eats Everything. Next up: Cabaret Voltaire, Edinburgh on Thu 26 Nov.
+Dan Shake is a house and disco artist based in United Kingdom, with 213 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austria and 54 more. Often billed alongside Eliza Rose, MiNNA and Eats Everything. Next up: Cabaret Voltaire, Edinburgh on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dan Shake is a house and disco artist based in United Kingdom, with 212 gigs on 
 | Sun, 6 Dec 2026 | Thuishaven | Amsterdam |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Thu, 31 Dec 2026 | 77 | London |
+| Sat, 20 Feb 2027 | The Loft | Manchester |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
@@ -31,4 +32,4 @@ Dan Shake is a house and disco artist based in United Kingdom, with 212 gigs on 
 
 Eliza Rose, MiNNA, Eats Everything
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

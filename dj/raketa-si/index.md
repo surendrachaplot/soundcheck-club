@@ -1,6 +1,6 @@
 # Raketa (SL)
 
-Raketa (SL) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kino Siska, Ljubljana on Wed, 17 Feb 2027.
+Raketa (SL) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kino Siska, Ljubljana on Wed, 17 Feb 2027.
 
 Raketa (SL) is a bass and club artist based in Slovenia, with 22 gigs on soundcheck across Ljubljana. Often billed alongside DVS, Marka San and Sahara Transport Services. Next up: Kino Siska, Ljubljana on Wed 17 Feb.
 
@@ -25,4 +25,4 @@ Raketa (SL) is a bass and club artist based in Slovenia, with 22 gigs on soundch
 
 DVS, Marka San, Sahara Transport Services
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raketa-si/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raketa-si/)*

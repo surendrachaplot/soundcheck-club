@@ -1,6 +1,6 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Airport pres. Alfred Heinrichs with Greb Levah" on Fri, 27 Nov 2026.
+Airport Würzburg is a music venue in Nürnberg with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Airport pres. Alfred Heinrichs with Greb Levah" on Fri, 27 Nov 2026.
 
 Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 7 upcoming gigs, with line-ups including 333CXT, Alfred Heinrichs, AMBAM and ANN-LUX and 2 more. See dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
@@ -20,4 +20,4 @@ Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 7 upcoming
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

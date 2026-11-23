@@ -1,6 +1,6 @@
 # Steve Fabus
 
-Steve Fabus is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Steve Fabus is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Steve Fabus is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Chicago, Portland and San Francisco/Oakland. Often billed alongside likeholywine, nonsuit and BEYA. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Steve Fabus is a house and disco artist based in United States of America, with 
 
 likeholywine, nonsuit, BEYA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevefabus/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevefabus/)*

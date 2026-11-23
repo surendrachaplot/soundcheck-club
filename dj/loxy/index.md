@@ -1,6 +1,6 @@
 # Loxy
 
-Loxy is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at St Leonards Church - St Leonards, South-east on Sat, 28 Nov 2026.
+Loxy is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at St Leonards Church - St Leonards, South-east on Sat, 28 Nov 2026.
 
 Loxy is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 19 more. Often billed alongside Doc Scott, Blackeye MC and Dillinja. Next up: St Leonards Church - St Leonards, South East on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Loxy is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on
 
 Doc Scott, Blackeye MC, Dillinja
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*

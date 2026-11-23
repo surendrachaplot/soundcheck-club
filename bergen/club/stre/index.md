@@ -1,6 +1,6 @@
 # Østre
 
-Østre is a music venue in Bergen with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Ekko pres. Dis Fig «What To Make Of These Mortal Hands»" on Sat, 28 Nov 2026.
+Østre is a music venue in Bergen with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Ekko pres. Dis Fig «What To Make Of These Mortal Hands»" on Sat, 28 Nov 2026.
 
 Østre is a music venue in Bergen listed on soundcheck. 3 upcoming gigs, with line-ups including Dis Fig, Hildisvini, Reckless Kettle and upsammy. See dates, start times and who's playing. Østre Skostredet 3; 5017 Bergen; Norway.
 
@@ -16,4 +16,4 @@
 
 Østre Skostredet 3; 5017 Bergen; Norway, Bergen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*

@@ -1,6 +1,6 @@
 # ADREE
 
-ADREE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at feedbk, New York City on Sun, 29 Nov 2026.
+ADREE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at feedbk, New York City on Sun, 29 Nov 2026.
 
 ADREE is a house and techno artist based in United States of America, with 24 gigs on soundcheck across New York City and Washington DC. Often billed alongside Martino Boga, Kurilo and Mazko A. Next up: feedbk, New York City on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ ADREE is a house and techno artist based in United States of America, with 24 gi
 
 Martino Boga, Kurilo, Mazko A
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adree/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adree/)*

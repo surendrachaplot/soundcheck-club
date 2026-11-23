@@ -1,6 +1,6 @@
 # Froid Dub
 
-Froid Dub is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Petit Bain, Paris on Fri, 18 Dec 2026.
+Froid Dub is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Petit Bain, Paris on Fri, 18 Dec 2026.
 
 Froid Dub is a dub and experimental artist based in France, with 15 gigs on soundcheck across Bristol, Brussels, London and Lyon and 6 more. Often billed alongside Decius, Tolouse Low Trax and 1TA. Next up: Petit Bain, Paris on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Froid Dub is a dub and experimental artist based in France, with 15 gigs on soun
 
 Decius, Tolouse Low Trax, 1TA (1)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/froiddub/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/froiddub/)*

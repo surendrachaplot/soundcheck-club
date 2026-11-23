@@ -1,6 +1,6 @@
 # CRAVO
 
-CRAVO is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at KHIDI, Tbilisi on Fri, 4 Dec 2026.
+CRAVO is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at KHIDI, Tbilisi on Fri, 4 Dec 2026.
 
 CRAVO is a techno and club artist based in Portugal, with 108 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 26 more. Often billed alongside VIL (PT), Enkō and Temudo. Next up: KHIDI, Tbilisi on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ CRAVO is a techno and club artist based in Portugal, with 108 gigs on soundcheck
 
 VIL (PT), Enkō, Temudo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*

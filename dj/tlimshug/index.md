@@ -1,6 +1,6 @@
 # Tlim Shug
 
-Tlim Shug is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Trans-Pecos, New York City on Fri, 27 Nov 2026.
+Tlim Shug is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Trans-Pecos, New York City on Fri, 27 Nov 2026.
 
 Tlim Shug is a house and techno artist, with 42 gigs on soundcheck across New York City. Often billed alongside Marco Neves, /KATA/ and Dom Haley. Next up: Trans-Pecos, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Tlim Shug is a house and techno artist, with 42 gigs on soundcheck across New Yo
 
 Marco Neves, /KATA/, Dom Haley
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tlimshug/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tlimshug/)*

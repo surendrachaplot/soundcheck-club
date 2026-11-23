@@ -1,6 +1,6 @@
 # Luca Agnelli
 
-Luca Agnelli is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Wall Club, Naples on Fri, 27 Nov 2026.
+Luca Agnelli is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Wall Club, Naples on Fri, 27 Nov 2026.
 
 Luca Agnelli is a techno and hardcore artist based in Italy, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside Gianni Di Bernardo, Holy Priest and OMAKS. Next up: The Wall Club, Naples on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Luca Agnelli is a techno and hardcore artist based in Italy, with 124 gigs on so
 
 Gianni Di Bernardo, Holy Priest, OMAKS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*

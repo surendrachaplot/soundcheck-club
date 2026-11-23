@@ -1,6 +1,6 @@
 # Anatoli [DE]
 
-Anatoli [DE] is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gewölbe, Cologne on Thu, 31 Dec 2026.
+Anatoli [DE] is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gewölbe, Cologne on Thu, 31 Dec 2026.
 
 Anatoli [DE] is a house and garage artist based in Germany, with 3 gigs on soundcheck across Cologne. Often billed alongside AMSL, DCHM and Marcus Worgull. Next up: Gewölbe, Cologne on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Anatoli [DE] is a house and garage artist based in Germany, with 3 gigs on sound
 
 AMSL, DCHM, Marcus Worgull
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anatolide/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anatolide/)*

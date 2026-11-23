@@ -1,6 +1,6 @@
 # Vialla
 
-Vialla is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
+Vialla is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
 
 Vialla is a techno and industrial artist based in Czech Republic, with 11 gigs on soundcheck across Prague. Often billed alongside Katrixia, DJ SABI and A.BOT_ONE. Next up: Husitská 22, Prague on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vialla is a techno and industrial artist based in Czech Republic, with 11 gigs o
 
 Katrixia, DJ SABI, A.BOT_ONE
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vialla/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vialla/)*

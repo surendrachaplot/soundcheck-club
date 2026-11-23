@@ -1,10 +1,10 @@
 # XuXa x MBM present: Gi Gi + PINTALABIOS & Designer Beatni at XuXa
 
-XuXa x MBM present: Gi Gi + PINTALABIOS & Designer Beatni on Thu 3 Dec, Austin. 1 artist: PINTALABIOS. Electronica and Minimal Techno. See the line-up on soundcheck.
+XuXa x MBM present: Gi Gi + PINTALABIOS & Designer Beatni on Fri 4 Dec, Austin. 1 artist: PINTALABIOS. Electronica and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 3 Dec 2026 |
+| Date | Fri, 4 Dec 2026 |
 | Venue | XuXa |
 | City | Austin |
 

@@ -1,6 +1,6 @@
 # Plaza Mayor Medellin
 
-Plaza Mayor Medellin is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "∴ ∴ ∴ ∴ ∴ Joseph Capriati — — VIMUKTI — — ∴ — ⌇ — ∴" on Sat, 12 Dec 2026.
+Plaza Mayor Medellin is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "∴ ∴ ∴ ∴ ∴ Joseph Capriati — — VIMUKTI — — ∴ — ⌇ — ∴" on Sat, 12 Dec 2026.
 
 Plaza Mayor Medellin is a music venue in Medellin listed on soundcheck. 1 upcoming gig, with line-ups including Joseph Capriati. See dates, start times and who's playing. Calle 41 # 55-80; Antioquia; Medellin; Colombia.
 
@@ -14,4 +14,4 @@ Plaza Mayor Medellin is a music venue in Medellin listed on soundcheck. 1 upcomi
 
 Calle 41 # 55-80; Antioquia; Medellin; Colombia, Medellin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/plaza-mayor-medellin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/plaza-mayor-medellin/)*

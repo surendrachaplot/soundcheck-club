@@ -1,6 +1,6 @@
 # DJ Murphy
 
-DJ Murphy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
+DJ Murphy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
 
 DJ Murphy is a techno and house artist based in Brazil, with 39 gigs on soundcheck across Sao Paulo. Often billed alongside Anderson Noise, Spuri and Adnan Sharif. Next up: D-EDGE, Sao Paulo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DJ Murphy is a techno and house artist based in Brazil, with 39 gigs on soundche
 
 Anderson Noise, Spuri, Adnan Sharif
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmurphy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmurphy/)*

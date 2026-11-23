@@ -1,6 +1,6 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "¡Club Sauvage 30h" on Fri, 27 Nov 2026.
+Cabaret Sauvage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "¡Club Sauvage 30h" on Fri, 27 Nov 2026.
 
 Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aubry, Automatic Writing, BAB MUSIQUE and Chinau and 2 more. See dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
@@ -19,4 +19,4 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming gigs,
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

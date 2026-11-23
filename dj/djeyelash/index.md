@@ -1,6 +1,6 @@
 # DJ EYELASH
 
-DJ EYELASH is a House and R&B artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 14 Dec 2026.
+DJ EYELASH is a House and R&B artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 14 Dec 2026.
 
 DJ EYELASH is a house and r&b artist based in Japan, with 25 gigs on soundcheck across Tokyo. Often billed alongside DJ POIPOI, RUKE and TAT2K. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 14 Dec.
 
@@ -26,4 +26,4 @@ DJ EYELASH is a house and r&b artist based in Japan, with 25 gigs on soundcheck 
 
 DJ POIPOI, RUKE, TAT2K
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*

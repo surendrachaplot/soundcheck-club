@@ -1,6 +1,6 @@
 # Eric Cloutier
 
-Eric Cloutier is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
+Eric Cloutier is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
 
 Eric Cloutier is a techno and house artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 22 more. Often billed alongside Amulador, Andy Garvey and Bloody Mary. Next up: Tresor / Globus, Berlin on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Eric Cloutier is a techno and house artist based in United States of America, wi
 
 Amulador, Andy Garvey, Bloody Mary
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericcloutier/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericcloutier/)*

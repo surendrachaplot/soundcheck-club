@@ -1,6 +1,6 @@
 # myfanwy
 
-myfanwy is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Barbossa, Montreal on Fri, 27 Nov 2026.
+myfanwy is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Barbossa, Montreal on Fri, 27 Nov 2026.
 
 myfanwy is a club and bass artist, with 8 gigs on soundcheck across Montreal. Often billed alongside CPR Annie, DJ Python and Dave P. Next up: Barbossa, Montreal on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ myfanwy is a club and bass artist, with 8 gigs on soundcheck across Montreal. Of
 
 CPR Annie, DJ Python, Dave P
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myfanwy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myfanwy/)*

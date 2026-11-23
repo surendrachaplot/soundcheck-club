@@ -1,14 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Cartulis 17th Anniversary After Party" on Sun, 22 Nov 2026.
+NUMBER 90 LONDON is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Faem e Li presents: Malix & Friends" on Fri, 27 Nov 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Akua, Alba Heidari, Alisdair and Amaliah and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Akua, Alba Heidari, Alisdair and Amaliah and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Cartulis 17th Anniversary After Party | Cecilio, Laurine |
 | Fri, 27 Nov 2026 | Faem e Li presents: Malix & Friends | Amaliah, LORA S, Nyra, Selassie TBC, malix |
 | Fri, 27 Nov 2026 | SEXTOU 19 | Akua, FURIA MISTICA, TEDESCO, Technoslave_69 |
 | Sat, 28 Nov 2026 | Unica - Part 4 | Meeshy, Summer Ghemati, hitty |
@@ -18,9 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gi
 | Fri, 18 Dec 2026 | Granville Collective - London | Alisdair, LEN., Raef., Redshift (2), Revstreet |
 | Thu, 31 Dec 2026 | Slipped Disc NYE ✧ Anish Kumar, Pangaea, Storm Mollison, Yemz + more | Anish Kumar, Pangaea, Storm Mollison, Yemz |
 | Thu, 31 Dec 2026 | SHIBUI - NYE | Dub Intentions, Jive Talk, Mannequin, Smeagal Pilly |
+| Fri, 1 Jan 2027 | Half Baked x Art of Dark - NYD 2027 |  |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

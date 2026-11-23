@@ -1,6 +1,6 @@
 # ΛSYL
 
-ΛSYL is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
+ΛSYL is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
 
 ΛSYL is a house and minimal artist based in Japan, with 2 gigs on soundcheck across Tokyo. Often billed alongside Atsushi Maeda, Dawn Ever and Edward. Next up: VENT, Tokyo on Fri 27 Nov.
 
@@ -18,4 +18,4 @@
 
 Atsushi Maeda, Dawn Ever, Edward
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asyl-jp/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asyl-jp/)*

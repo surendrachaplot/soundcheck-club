@@ -1,14 +1,13 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "S.society" on Sun, 22 Nov 2026.
+Le Sucre is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Superpoze (live)" on Thu, 26 Nov 2026.
 
-Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with line-ups including Agonis, Akira, Anetha and Bad Boombox and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
+Le Sucre is a music venue in Lyon listed on soundcheck. 9 upcoming gigs, with line-ups including Agonis, Akira, Anetha and Cedot and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | S.society | Bad Boombox, Dr G |
 | Thu, 26 Nov 2026 | Superpoze (live) | Superpoze |
 | Fri, 27 Nov 2026 | A week-end with Anetha | Laze, Warzou |
 | Sat, 28 Nov 2026 | A week-end with Anetha | Franzizca., Randomer |
@@ -23,4 +22,4 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with l
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

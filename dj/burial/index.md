@@ -1,6 +1,6 @@
 # Burial
 
-Burial is a Dubstep and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bridge 48, Barcelona on Mon, 30 Nov 2026.
+Burial is a Dubstep and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bridge 48, Barcelona on Mon, 30 Nov 2026.
 
 Burial is a dubstep and ambient artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam, Barcelona and San Francisco/Oakland. Often billed alongside Bicep, CCL and Call Super. Next up: Bridge 48, Barcelona on Mon 30 Nov.
 
@@ -20,4 +20,4 @@ Burial is a dubstep and ambient artist based in United Kingdom, with 4 gigs on s
 
 Bicep, CCL, Call Super
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burial/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burial/)*

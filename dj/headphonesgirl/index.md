@@ -1,6 +1,6 @@
 # Headphones Girl
 
-Headphones Girl is a Acid and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
+Headphones Girl is a Acid and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
 
 Headphones Girl is an acid and breakbeat artist based in United States of America, with 6 gigs on soundcheck across Boston, Cleveland and New York City. Often billed alongside CYCLO BONETTE, D.D. Curry and DJ Fang. Next up: Honey's, New York City on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Headphones Girl is an acid and breakbeat artist based in United States of Americ
 
 CYCLO BONETTE, D.D. Curry, DJ Fang
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headphonesgirl/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headphonesgirl/)*

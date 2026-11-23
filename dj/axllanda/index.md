@@ -1,6 +1,6 @@
 # Axl Landa
 
-Axl Landa is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Artisano Bar, Barcelona on Sat, 28 Nov 2026.
+Axl Landa is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Artisano Bar, Barcelona on Sat, 28 Nov 2026.
 
 Axl Landa is a house and progressive house artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside Manu Chaile, Juan Guerra and Edu Suarez. Next up: Artisano Bar, Barcelona on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Axl Landa is a house and progressive house artist, with 6 gigs on soundcheck acr
 
 Manu Chaile, Juan Guerra, Edu Suarez
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axllanda/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axllanda/)*

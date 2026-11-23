@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 28 Nov 2026.
+Manuka Honey is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 28 Nov 2026.
 
 Manuka Honey is a club and techno artist, with 161 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 47 more. Often billed alongside Baby Cocada, Florentino and TEDESCO. Next up: The Crypt at St. Matthews Church, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Manuka Honey is a club and techno artist, with 161 gigs on soundcheck across Ade
 
 Baby Cocada, Florentino, TEDESCO
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

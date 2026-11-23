@@ -1,6 +1,6 @@
 # DJ Sea View
 
-DJ Sea View is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Hangaren, Copenhagen on Fri, 18 Dec 2026.
+DJ Sea View is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hangaren, Copenhagen on Fri, 18 Dec 2026.
 
 DJ Sea View is a techno and trance artist based in Denmark, with 34 gigs on soundcheck across Basel, Berlin, Copenhagen and Oslo. Often billed alongside Matriark, Signe Alarcón and FILTH.y. Next up: Hangaren, Copenhagen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DJ Sea View is a techno and trance artist based in Denmark, with 34 gigs on soun
 
 Matriark, Signe Alarcón, FILTH.y
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djseaview/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djseaview/)*

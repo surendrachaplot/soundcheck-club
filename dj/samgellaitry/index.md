@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at ZeyZey, Miami on Sat, 5 Dec 2026.
+Sam Gellaitry is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at ZeyZey, Miami on Sat, 5 Dec 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Austin, Brighton and Glasgow and 18 more. Often billed alongside Kovop, Jyoty and Kaytranada. Next up: ZeyZey, Miami on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, with 46
 
 Kovop, Jyoty, Kaytranada
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

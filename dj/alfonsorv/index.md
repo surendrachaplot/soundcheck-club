@@ -1,6 +1,6 @@
 # Alfonso RV
 
-Alfonso RV is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
+Alfonso RV is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
 
 Alfonso RV is an electronic artist based in Chile, with 1 gig on soundcheck across Bolivia. Often billed alongside Ivana, Marcel Soux and Miguel Ante. Next up: Thunupa Festival, Salar de Uyuni, Bolivia on Wed 30 Dec.
 
@@ -14,4 +14,4 @@ Alfonso RV is an electronic artist based in Chile, with 1 gig on soundcheck acro
 
 Ivana, Marcel Soux, Miguel Ante
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsorv/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsorv/)*

@@ -1,6 +1,6 @@
 # Antoinette
 
-Antoinette is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
+Antoinette is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
 
 Antoinette is an electronic artist based in France, with 1 gig on soundcheck across Amsterdam. Often billed alongside LULU and Youknow. Next up: OT301, Amsterdam on Sat 12 Dec.
 
@@ -14,4 +14,4 @@ Antoinette is an electronic artist based in France, with 1 gig on soundcheck acr
 
 LULU (1), Youknow
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinette/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinette/)*

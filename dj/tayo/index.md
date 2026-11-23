@@ -1,6 +1,6 @@
 # Tayo
 
-Tayo is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
+Tayo is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
 
 Tayo is a disco and house artist based in United Kingdom, with 11 gigs on soundcheck across Ibiza, Leipzig and London. Often billed alongside Frank Tope, Bustin' Loose and Norman Jay. Next up: 40ft Brewery - Blackhorse Road, London on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ Tayo is a disco and house artist based in United Kingdom, with 11 gigs on soundc
 
 Frank Tope, Bustin' Loose, Norman Jay
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tayo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tayo/)*

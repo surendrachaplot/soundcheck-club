@@ -1,8 +1,8 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Fruitful presents: David Berrie & Friends" on Wed, 25 Nov 2026.
+H0L0 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Fruitful presents: David Berrie & Friends" on Wed, 25 Nov 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, Connie and Danny Daze and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, Connie and Danny Daze and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in New York City listed on soundcheck. 10 upcoming gigs, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

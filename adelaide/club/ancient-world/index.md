@@ -1,6 +1,6 @@
 # Ancient World
 
-Ancient World is a music venue in Adelaide with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Andy Garvey" on Fri, 4 Dec 2026.
+Ancient World is a music venue in Adelaide with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Andy Garvey" on Fri, 4 Dec 2026.
 
 Ancient World is a music venue in Adelaide listed on soundcheck. 1 upcoming gig, with line-ups including Andy Garvey. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ancient World is a music venue in Adelaide listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Andy Garvey | Andy Garvey |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/ancient-world/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/ancient-world/)*

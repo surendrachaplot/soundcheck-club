@@ -1,6 +1,6 @@
 # SYMBIOTIKKA at KitKat Club at KitKatClub
 
-SYMBIOTIKKA at KitKat Club at KitKatClub on Wed 25 Nov, Berlin. 4 artists: DJ Jordan, Ebicake, Grace Thompson and LOVRA. Techno and Tech House. See the line-up on soundcheck.
+SYMBIOTIKKA at KitKat Club at KitKatClub on Wed 25 Nov, Berlin. 4 artists: DJ Jordan, Ebicake, LOVRA and Sebastian Ludvig. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ SYMBIOTIKKA at KitKat Club at KitKatClub on Wed 25 Nov, Berlin. 4 artists: DJ Jo
 
 - DJ Jordan
 - Ebicake
-- Grace Thompson
 - LOVRA
+- Sebastian Ludvig
 
 *Source: [soundcheck](https://soundcheck.club/e/2568628-symbiotikka-at-kitkat-club-at-kitkatclub/)*

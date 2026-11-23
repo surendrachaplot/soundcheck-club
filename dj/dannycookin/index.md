@@ -1,6 +1,6 @@
 # dannycookin
 
-dannycookin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Tranzit, Hamburg on Fri, 4 Dec 2026.
+dannycookin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tranzit, Hamburg on Fri, 4 Dec 2026.
 
 dannycookin is a techno and house artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside djcob, unjani and Alibi. Next up: Tranzit, Hamburg on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ dannycookin is a techno and house artist based in Germany, with 8 gigs on soundc
 
 djcob, unjani, Alibi (5)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycookin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycookin/)*

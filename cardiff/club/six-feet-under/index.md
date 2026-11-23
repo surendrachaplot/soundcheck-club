@@ -1,6 +1,6 @@
 # SIX Feet Under
 
-SIX Feet Under is a music venue in Cardiff with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Efan:EXTENDED [Cardiff]" on Sat, 28 Nov 2026.
+SIX Feet Under is a music venue in Cardiff with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Efan:EXTENDED [Cardiff]" on Sat, 28 Nov 2026.
 
 SIX Feet Under is a music venue in Cardiff listed on soundcheck. 3 upcoming gigs, with line-ups including Efan, Gange, Remco Beekwilder and Silva Snipa and 1 more. See dates, start times and who's playing. 94 St Marys Street, Cardiff, Wales, CF10 1DX.
 
@@ -16,4 +16,4 @@ SIX Feet Under is a music venue in Cardiff listed on soundcheck. 3 upcoming gigs
 
 94 St Marys Street, Cardiff, Wales, CF10 1DX, Cardiff
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*

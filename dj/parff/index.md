@@ -1,6 +1,6 @@
 # Parff
 
-Parff is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bricks, London on Fri, 27 Nov 2026.
+Parff is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bricks, London on Fri, 27 Nov 2026.
 
 Parff is a house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Henson and Gusto. Next up: Bricks, London on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Parff is a house artist based in United Kingdom, with 2 gigs on soundcheck acros
 
 Henson, Gusto (2)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parff/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parff/)*

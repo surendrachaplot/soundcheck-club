@@ -1,6 +1,6 @@
 # M Eleven
 
-M Eleven is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Vittoria Wharf Studio, London on Thu, 10 Dec 2026.
+M Eleven is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Vittoria Wharf Studio, London on Thu, 10 Dec 2026.
 
 M Eleven is a techno and trance artist based in United Kingdom, with 7 gigs on soundcheck across London and Manchester. Often billed alongside 0akley, s0lais and DJ Bowlplate. Next up: Vittoria Wharf Studio, London on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ M Eleven is a techno and trance artist based in United Kingdom, with 7 gigs on s
 
 0akley, s0lais, DJ Bowlplate
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meleven/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meleven/)*

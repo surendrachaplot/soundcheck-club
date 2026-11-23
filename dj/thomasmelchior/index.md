@@ -1,6 +1,6 @@
 # Thomas Melchior
 
-Thomas Melchior is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Thomas Melchior is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Thomas Melchior is a house and minimal artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Edward, Konstantin and Lawrence. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -26,4 +26,4 @@ Thomas Melchior is a house and minimal artist based in Germany, with 90 gigs on 
 
 Edward, Konstantin, Lawrence
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*

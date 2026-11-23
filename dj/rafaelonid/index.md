@@ -1,6 +1,6 @@
 # Rafael Onid
 
-Rafael Onid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Rafael Onid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Rafael Onid is a house and techno artist based in Brazil, with 22 gigs on soundcheck across Colombia, Rio de Janeiro and Sao Paulo. Often billed alongside Galvin, Cesare vs Disorder and Magda. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Rafael Onid is a house and techno artist based in Brazil, with 22 gigs on soundc
 
 Galvin, Cesare vs Disorder, Magda
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelonid/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelonid/)*

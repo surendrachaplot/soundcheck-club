@@ -1,6 +1,6 @@
 # Diel Apollo
 
-Diel Apollo is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
+Diel Apollo is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
 
 Diel Apollo is a techno artist, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Jayzo, KLANC and Steven Shade. Next up: Melkweg, Amsterdam on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Diel Apollo is a techno artist, with 3 gigs on soundcheck across Amsterdam. Ofte
 
 Jayzo, KLANC, Steven Shade
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dielapollo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dielapollo/)*

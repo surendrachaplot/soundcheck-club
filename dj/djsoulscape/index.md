@@ -1,6 +1,6 @@
 # DJ Soulscape
 
-DJ Soulscape is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
+DJ Soulscape is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
 
 DJ Soulscape is a club and house artist based in South Korea, with 124 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Soulscape is a club and house artist based in South Korea, with 124 gigs on s
 
 ANDOW, JADA MORAES, DJ Jeyon
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*

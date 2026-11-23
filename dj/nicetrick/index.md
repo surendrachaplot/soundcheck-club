@@ -1,6 +1,6 @@
 # Nice Trick
 
-Nice Trick is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Atno, Budapest on Fri, 4 Dec 2026.
+Nice Trick is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Atno, Budapest on Fri, 4 Dec 2026.
 
 Nice Trick is a bass and experimental artist based in Slovenia, with 16 gigs on soundcheck across Bristol, Budapest and Ljubljana. Often billed alongside Fujita Pinnacle, Akaj and DVS. Next up: Atno, Budapest on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nice Trick is a bass and experimental artist based in Slovenia, with 16 gigs on 
 
 Fujita Pinnacle, Akaj, DVS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicetrick/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicetrick/)*

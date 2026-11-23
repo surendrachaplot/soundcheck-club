@@ -1,6 +1,6 @@
 # Margott (EX)
 
-Margott (EX) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala Independance Club, Madrid on Sun, 6 Dec 2026.
+Margott (EX) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala Independance Club, Madrid on Sun, 6 Dec 2026.
 
 Margott (EX) is a house and electronica artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside Luska, Angela Grief and Avo (ES). Next up: Sala Independance Club, Madrid on Sun 6 Dec.
 
@@ -22,4 +22,4 @@ Margott (EX) is a house and electronica artist based in Spain, with 6 gigs on so
 
 Luska, Angela Grief, Avo (ES)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margottes/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margottes/)*

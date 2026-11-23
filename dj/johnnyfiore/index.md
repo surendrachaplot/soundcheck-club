@@ -1,6 +1,6 @@
 # Johnny Fiore
 
-Johnny Fiore is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at XOYO, London on Wed, 25 Nov 2026.
+Johnny Fiore is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at XOYO, London on Wed, 25 Nov 2026.
 
 Johnny Fiore is a tech house and house artist, with 26 gigs on soundcheck across London and Rome. Often billed alongside Dimanté, Enrico Chirchiello and Francesco Poggi. Next up: XOYO, London on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ Johnny Fiore is a tech house and house artist, with 26 gigs on soundcheck across
 
 Dimanté, Enrico Chirchiello, Francesco Poggi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*

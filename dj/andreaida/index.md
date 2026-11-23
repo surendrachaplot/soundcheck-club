@@ -1,18 +1,18 @@
 # Andrea Ida
 
-Andrea Ida is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Tendermesh Project Space, Berlin on Sun, 22 Nov 2026.
+Andrea Ida is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ikii, Berlin on Sat, 5 Dec 2026.
 
-Andrea Ida is a downtempo and electronica artist based in Austria, with 16 gigs on soundcheck across Berlin and Vienna. Often billed alongside Der Opium Queen, FEELX and Inou Ki Endo. Next up: Tendermesh Project Space, Berlin on Sun 22 Nov.
+Andrea Ida is a downtempo and electronica artist based in Austria, with 16 gigs on soundcheck across Berlin and Vienna. Often billed alongside Der Opium Queen, FEELX and Inou Ki Endo. Next up: Ikii, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Tendermesh Project Space | Berlin |
 | Sat, 5 Dec 2026 | Ikii | Berlin |
 
 ## Recently played
 
+- Tendermesh Project Space, Berlin · Sun, 22 Nov 2026
 - kv.r., Vienna · Thu, 12 Nov 2026
 - Plattenvereinigung, Berlin · Sat, 15 Aug 2026
 - Paloma, Berlin · Fri, 3 Jul 2026
@@ -20,10 +20,9 @@ Andrea Ida is a downtempo and electronica artist based in Austria, with 16 gigs 
 - TBA - Private Event, Berlin · Sat, 25 Apr 2026
 - Otto Wagner Areal, Vienna · Fri, 17 Apr 2026
 - arkaoda Berlin, Berlin · Sat, 4 Apr 2026
-- arkaoda Berlin, Berlin · Sat, 24 Jan 2026
 
 ## Shares bills with
 
 Der Opium Queen, FEELX, Inou Ki Endo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaida/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaida/)*

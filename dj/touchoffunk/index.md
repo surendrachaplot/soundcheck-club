@@ -1,6 +1,6 @@
 # Touch Of Funk
 
-Touch Of Funk is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
+Touch Of Funk is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
 
 Touch Of Funk is a disco and house artist based in United Kingdom, with 8 gigs on soundcheck across London and Manchester. Often billed alongside Beechy, Ethan Gray and Aroop Roy. Next up: Various Venues, London on Sat 1 May.
 
@@ -24,4 +24,4 @@ Touch Of Funk is a disco and house artist based in United Kingdom, with 8 gigs o
 
 Beechy, Ethan Gray, Aroop Roy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/touchoffunk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/touchoffunk/)*

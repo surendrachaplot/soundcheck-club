@@ -1,6 +1,6 @@
 # Greg Downey
 
-Greg Downey is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 5 Dec 2026.
+Greg Downey is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 5 Dec 2026.
 
 Greg Downey is a techno and trance artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, Bucharest, Los Angeles and Manchester and 1 more. Often billed alongside DJ 34, John Askew and Simon Patterson. Next up: ZEROTOKYO, Tokyo on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Greg Downey is a techno and trance artist based in United Kingdom, with 6 gigs o
 
 DJ 34, John Askew, Simon Patterson
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregdowney/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregdowney/)*

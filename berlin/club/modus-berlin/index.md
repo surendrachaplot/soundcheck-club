@@ -1,6 +1,6 @@
 # Modus Berlin
 
-Modus Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Andy Strauß - Dosenpfandbetrug" on Fri, 19 Feb 2027.
+Modus Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Andy Strauß - Dosenpfandbetrug" on Fri, 19 Feb 2027.
 
 Modus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Ritterstraße 24-27, 10969 Berlin.
 
@@ -14,4 +14,4 @@ Modus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Se
 
 Ritterstraße 24-27, 10969 Berlin, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/modus-berlin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/modus-berlin/)*

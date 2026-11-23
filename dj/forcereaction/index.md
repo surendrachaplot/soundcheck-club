@@ -1,6 +1,6 @@
 # Force Reaction
 
-Force Reaction is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Castañeda, North on Fri, 18 Jun 2027.
+Force Reaction is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Castañeda, North on Fri, 18 Jun 2027.
 
 Force Reaction is a techno and house artist, with 10 gigs on soundcheck across Amsterdam, Athens, Berlin and Madrid and 4 more. Often billed alongside Kaiser (K S R), Kwartz and ANNĒ. Next up: TBA - Castañeda, North on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ Force Reaction is a techno and house artist, with 10 gigs on soundcheck across A
 
 Kaiser (K S R), Kwartz, ANNĒ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forcereaction/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forcereaction/)*

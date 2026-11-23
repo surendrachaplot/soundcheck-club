@@ -1,6 +1,6 @@
 # Lotus Reaction
 
-Lotus Reaction is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jasna 1, Warsaw on Fri, 18 Dec 2026.
+Lotus Reaction is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jasna 1, Warsaw on Fri, 18 Dec 2026.
 
 Lotus Reaction is an idm and electro artist based in Poland, with 13 gigs on soundcheck across Krakow and Warsaw. Often billed alongside internet destroyer, Richie Beige and KIKIMORA. Next up: Jasna 1, Warsaw on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Lotus Reaction is an idm and electro artist based in Poland, with 13 gigs on sou
 
 internet destroyer, Richie Beige, KIKIMORA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotusreaction/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotusreaction/)*

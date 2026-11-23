@@ -1,6 +1,6 @@
 # Roklem
 
-Roklem is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fuchs2, Prague on Sat, 19 Dec 2026.
+Roklem is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fuchs2, Prague on Sat, 19 Dec 2026.
 
 Roklem is a drum & bass and dubstep artist, with 14 gigs on soundcheck across Antwerp, Basel, Berlin and Cologne and 3 more. Often billed alongside Sebalo, BUKEZ FINEZT and Badlokk. Next up: Fuchs2, Prague on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Roklem is a drum & bass and dubstep artist, with 14 gigs on soundcheck across An
 
 Sebalo, BUKEZ FINEZT, Badlokk
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roklem/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roklem/)*

@@ -1,8 +1,8 @@
 # Tony Montana
 
-Tony Montana is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Eiger Studios, Leeds on Sat, 20 Feb 2027.
+Tony Montana is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Eiger Studios, Leeds on Sat, 20 Feb 2027.
 
-Tony Montana is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across Bali, Leeds and London. Often billed alongside A-Rex, Billy Sherif and Chris Liberator. Next up: Eiger Studios, Leeds on Sat 20 Feb.
+Tony Montana is an acid and techno artist based in United Kingdom, with 3 gigs on soundcheck across Bali, Leeds and London. Often billed alongside A-Rex, Billy Sherif and Chris Liberator. Next up: Eiger Studios, Leeds on Sat 20 Feb.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Tony Montana is an electronic artist based in United Kingdom, with 3 gigs on sou
 
 A-Rex, Billy Sherif, Chris Liberator
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonymontana/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonymontana/)*

@@ -1,6 +1,6 @@
 # Inland Knights
 
-Inland Knights is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Brickworks, Nottingham on Fri, 11 Dec 2026.
+Inland Knights is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Brickworks, Nottingham on Fri, 11 Dec 2026.
 
 Inland Knights is a house and deep house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 12 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: The Brickworks, Nottingham on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Inland Knights is a house and deep house artist based in United Kingdom, with 37
 
 Buckley, Elliot Schooling, Fleur Shore
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*

@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Hector Romero & Robbie Lumpkin" on Wed, 25 Nov 2026.
+Signal is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Hector Romero & Robbie Lumpkin" on Wed, 25 Nov 2026.
 
 Signal is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 98dots, AceMo, Adriana Ruas and Alfonsvs and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in New York City listed on soundcheck. 14 upcoming gigs,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Kuddelmuddel bei Nacht" on Fri, 27 Nov 2026.
+Tanzhaus West is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Kuddelmuddel bei Nacht" on Fri, 27 Nov 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including 1luu, 5euroGoldi, ADHASS and Andrale and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -19,4 +19,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

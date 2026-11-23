@@ -1,6 +1,6 @@
 # ONLYLU
 
-ONLYLU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Haus73, Hamburg on Fri, 4 Dec 2026.
+ONLYLU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Haus73, Hamburg on Fri, 4 Dec 2026.
 
 ONLYLU is a house and techno artist based in Germany, with 69 gigs on soundcheck across Hamburg and Leipzig. Often billed alongside Roses OD, DJ SOURCE and dj fako. Next up: Haus73, Hamburg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ONLYLU is a house and techno artist based in Germany, with 69 gigs on soundcheck
 
 Roses OD, DJ SOURCE, dj fako
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*

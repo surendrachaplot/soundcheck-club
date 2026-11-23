@@ -1,6 +1,6 @@
 # Fatty M
 
-Fatty M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
+Fatty M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
 
 Fatty M is a techno and house artist based in Czech Republic, with 64 gigs on soundcheck across Prague. Often billed alongside S.Tian, Teresi and Raketa95. Next up: Gabriel Loci, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Fatty M is a techno and house artist based in Czech Republic, with 64 gigs on so
 
 S.Tian, Teresi, Raketa95
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*

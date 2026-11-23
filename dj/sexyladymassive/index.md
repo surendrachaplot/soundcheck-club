@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
+Sexy Lady Massive is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
 
 Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 74 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 9 more. Often billed alongside 4am Kru, Betsy Mae and Napes. Next up: TBA - Otherways Site, Mallorca, Mallorca on Fri 30 Apr.
 
@@ -25,4 +25,4 @@ Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 74
 
 4am Kru, Betsy Mae, Napes
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

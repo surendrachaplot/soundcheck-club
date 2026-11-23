@@ -1,6 +1,6 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Boudica goes to Bristol: I. JORDAN, Samantha Togni, J. Rains, Muzhit" on Fri, 4 Dec 2026.
+Lost Horizon is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Boudica goes to Bristol: I. JORDAN, Samantha Togni, J. Rains, Muzhit" on Fri, 4 Dec 2026.
 
 Lost Horizon is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including 808 State, I. JORDAN, J.Rains and LADYMONIX and 2 more. See dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
@@ -16,4 +16,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, 
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

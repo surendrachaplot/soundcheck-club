@@ -1,6 +1,6 @@
 # Yenri
 
-Yenri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 4 Dec 2026.
+Yenri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 4 Dec 2026.
 
 Yenri is a techno and house artist, with 3 gigs on soundcheck across Manchester. Often billed alongside Alinep and Rhod Parry. Next up: Piccadilly Central, Manchester on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Yenri is a techno and house artist, with 3 gigs on soundcheck across Manchester.
 
 Alinep, Rhod Parry
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yenri/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yenri/)*

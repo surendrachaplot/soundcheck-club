@@ -1,6 +1,6 @@
 # Vazik
 
-Vazik is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Iocerouno, Monterrey on Sat, 12 Dec 2026.
+Vazik is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Iocerouno, Monterrey on Sat, 12 Dec 2026.
 
 Vazik is a techno and progressive house artist based in Mexico, with 24 gigs on soundcheck across Berlin, Dortmund / Essen, Estado De M Xico and Guadalajara and 4 more. Often billed alongside Tini Tun, Em Boss and Leon Licht. Next up: Iocerouno, Monterrey on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Vazik is a techno and progressive house artist based in Mexico, with 24 gigs on 
 
 Tini Tun, Em Boss, Leon Licht
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vazik/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vazik/)*

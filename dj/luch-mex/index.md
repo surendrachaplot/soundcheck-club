@@ -1,6 +1,6 @@
 # LUCH (MEX)
 
-LUCH (MEX) is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Zumana Bali, Bali on Sat, 28 Nov 2026.
+LUCH (MEX) is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Zumana Bali, Bali on Sat, 28 Nov 2026.
 
 LUCH (MEX) is an afro house and house artist based in Mexico, with 32 gigs on soundcheck across Bali, Barcelona, Chicago and Guadalajara and 16 more. Often billed alongside Maxi Meraki, Jamie Jones and BLOND:ISH. Next up: Zumana Bali, Bali on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ LUCH (MEX) is an afro house and house artist based in Mexico, with 32 gigs on so
 
 Maxi Meraki, Jamie Jones, BLOND:ISH
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*

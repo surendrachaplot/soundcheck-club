@@ -1,6 +1,6 @@
 # uj[jp]
 
-uj[jp] is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Club JB's, Chubu on Fri, 4 Dec 2026.
+uj[jp] is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club JB's, Chubu on Fri, 4 Dec 2026.
 
 uj[jp] is a bass and techno artist based in Japan, with 2 gigs on soundcheck across Chubu and Osaka. Often billed alongside CRZKNY, Patrick Russell and Zooboi. Next up: Club JB's, Chubu on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ uj[jp] is a bass and techno artist based in Japan, with 2 gigs on soundcheck acr
 
 CRZKNY, Patrick Russell, Zooboi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ujjp/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ujjp/)*

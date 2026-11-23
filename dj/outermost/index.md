@@ -1,6 +1,6 @@
 # Outermost
 
-Outermost is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Astron Club, Athens on Fri, 27 Nov 2026.
+Outermost is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Astron Club, Athens on Fri, 27 Nov 2026.
 
 Outermost is a techno artist based in Greece, with 9 gigs on soundcheck across Athens. Often billed alongside Katra, Devika and Choronzon. Next up: Astron Club, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Outermost is a techno artist based in Greece, with 9 gigs on soundcheck across A
 
 Katra, Devika, Choronzon
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outermost/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outermost/)*

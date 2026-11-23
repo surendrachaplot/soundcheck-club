@@ -1,6 +1,6 @@
 # JUNO (DE)
 
-JUNO (DE) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Desa Kitsune, Bali on Tue, 24 Nov 2026.
+JUNO (DE) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Desa Kitsune, Bali on Tue, 24 Nov 2026.
 
 JUNO (DE) is an afro house and house artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 12 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: Desa Kitsune, Bali on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ JUNO (DE) is an afro house and house artist based in Germany, with 21 gigs on so
 
 AJNA, Nitefreak, Van Zand
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*

@@ -1,6 +1,6 @@
 # Rick.O
 
-Rick.O is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Berlin on Sat, 1 Jul 2028.
+Rick.O is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Berlin on Sat, 1 Jul 2028.
 
 Rick.O is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Match Hoffman, NILU and RedtomCat. Next up: TBA, Berlin on Sat 1 Jul.
 
@@ -25,4 +25,4 @@ Rick.O is a house and techno artist based in Germany, with 15 gigs on soundcheck
 
 Match Hoffman, NILU, RedtomCat
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rick.o/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rick.o/)*

@@ -1,6 +1,6 @@
 # 77Mushrooms
 
-77Mushrooms is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at C's Bar, Shanghai on Fri, 27 Nov 2026.
+77Mushrooms is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at C's Bar, Shanghai on Fri, 27 Nov 2026.
 
 77Mushrooms is a house and techno artist based in China, with 13 gigs on soundcheck across Bangkok, Beijing, Chongqing and Osaka and 3 more. Often billed alongside Klosing, Koliseum and Liem (TH). Next up: C's Bar, Shanghai on Fri 27 Nov.
 
@@ -25,4 +25,4 @@
 
 Klosing, Koliseum, Liem (TH)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/77mushrooms/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/77mushrooms/)*

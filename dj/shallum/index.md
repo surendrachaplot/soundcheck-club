@@ -1,6 +1,6 @@
 # Shallum
 
-Shallum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Plug Radio, Bologna on Sat, 9 Jan 2027.
+Shallum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Plug Radio, Bologna on Sat, 9 Jan 2027.
 
 Shallum is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across Bologna and London. Often billed alongside mayflowduo, Any Koh and Azire. Next up: Plug Radio, Bologna on Sat 9 Jan.
 
@@ -21,4 +21,4 @@ Shallum is a techno and house artist based in United Kingdom, with 5 gigs on sou
 
 mayflowduo, Any Koh, Azire
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shallum/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shallum/)*

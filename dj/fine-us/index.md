@@ -1,6 +1,6 @@
 # FiNE
 
-FiNE is a Electronica and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
+FiNE is a Electronica and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
 
 FiNE is an electronica and deep house artist based in Australia, with 9 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and London and 2 more. Often billed alongside Kelela, Shanti Celeste and ABRA. Next up: Southwark Park, London on Sat 28 Aug.
 
@@ -25,4 +25,4 @@ FiNE is an electronica and deep house artist based in Australia, with 9 gigs on 
 
 Kelela, Shanti Celeste, ABRA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-us/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-us/)*

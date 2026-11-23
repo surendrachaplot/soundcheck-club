@@ -1,14 +1,13 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Blood & Sun + Society Of The Silver Cross + Linnea Hjertén // Urban Spree, Berlin" on Sun, 22 Nov 2026.
+Urban Spree is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Fix8:Sed8 + Ner.Ogris + Schneider // Urban Spree, Berlin" on Fri, 27 Nov 2026.
 
-Urban Spree is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Airshpd, Darin Epsilon, Gareden and Katiusha and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Urban Spree is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Airshpd, Darin Epsilon, Gareden and Katiusha and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Blood & Sun + Society Of The Silver Cross + Linnea Hjertén // Urban Spree, Berlin |  |
 | Fri, 27 Nov 2026 | Fix8:Sed8 + Ner.Ogris + Schneider // Urban Spree, Berlin | Philipp Strobel, SCHNEIDER (2) |
 | Fri, 27 Nov 2026 | Urban Spree KLUBNACHT x RECESS | Airshpd, Katiusha, MXX_, superamas |
 | Wed, 2 Dec 2026 | SPK + Alvar + Todesstrahlen // Urban Spree, Berlin | Philipp Strobel |
@@ -21,4 +20,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, wi
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

@@ -1,6 +1,6 @@
 # Phil2
 
-Phil2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Giselle, Düsseldorf on Sat, 16 Jan 2027.
+Phil2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Giselle, Düsseldorf on Sat, 16 Jan 2027.
 
 Phil2 is a house and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 2 more. Often billed alongside Interplay, Thomas Stieler and Eame. Next up: Giselle, Düsseldorf on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Phil2 is a house and techno artist based in Germany, with 25 gigs on soundcheck 
 
 Interplay, Thomas Stieler, Eame
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phil2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phil2/)*

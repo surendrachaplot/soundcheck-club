@@ -1,6 +1,6 @@
 # NELØ
 
-NELØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
+NELØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
 
 NELØ is a house and techno artist based in Germany, with 9 gigs on soundcheck across Hamburg. Often billed alongside JASHTECH, Alexej and Burak55. Next up: 7th Heaven, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ NELØ is a house and techno artist based in Germany, with 9 gigs on soundcheck a
 
 JASHTECH, Alexej, Burak55
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nelo-de/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nelo-de/)*

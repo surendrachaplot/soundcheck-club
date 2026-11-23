@@ -1,6 +1,6 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Phonox, London on Sat, 28 Nov 2026.
+OK Williams is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Phonox, London on Sat, 28 Nov 2026.
 
 OK Williams is a techno and house artist based in United Kingdom, with 195 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baltimore and 54 more. Often billed alongside BASHKKA, Richard Akingbehin and Shanti Celeste. Next up: Phonox, London on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ OK Williams is a techno and house artist based in United Kingdom, with 195 gigs 
 
 BASHKKA, Richard Akingbehin, Shanti Celeste
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*

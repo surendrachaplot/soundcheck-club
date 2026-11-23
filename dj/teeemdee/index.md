@@ -1,6 +1,6 @@
 # TEE EM DEE
 
-TEE EM DEE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Good Room, New York City on Sun, 6 Dec 2026.
+TEE EM DEE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Good Room, New York City on Sun, 6 Dec 2026.
 
 TEE EM DEE is a house and deep house artist based in United States of America, with 41 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Anna Collecta, DAYE. and Deo'jorge. Next up: Good Room, New York City on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ TEE EM DEE is a house and deep house artist based in United States of America, w
 
 Anna Collecta, DAYE., Deo'jorge
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeemdee/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeemdee/)*

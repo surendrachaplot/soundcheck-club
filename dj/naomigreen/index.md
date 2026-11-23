@@ -1,6 +1,6 @@
 # Naomi Green
 
-Naomi Green is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+Naomi Green is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
 Naomi Green is a house and deep house artist based in United States of America, with 33 gigs on soundcheck across Los Angeles and New York City. Often billed alongside DJ Shroomie, Beggar and Capes. Next up: TBA, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Naomi Green is a house and deep house artist based in United States of America, 
 
 DJ Shroomie, Beggar, Capes
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomigreen/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomigreen/)*

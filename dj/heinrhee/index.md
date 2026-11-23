@@ -1,6 +1,6 @@
 # Hein Rhee
 
-Hein Rhee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Edge Seoul, Seoul on Sat, 5 Dec 2026.
+Hein Rhee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Edge Seoul, Seoul on Sat, 5 Dec 2026.
 
 Hein Rhee is a house and deep house artist based in South Korea, with 4 gigs on soundcheck across Seoul and South Korea. Often billed alongside Alex Neri, Chae and Dadachoe. Next up: The Edge Seoul, Seoul on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Hein Rhee is a house and deep house artist based in South Korea, with 4 gigs on 
 
 Alex Neri, Chae, Dadachoe
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heinrhee/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heinrhee/)*

@@ -1,6 +1,6 @@
 # SimoLant
 
-SimoLant is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Prisma, Berlin on Fri, 12 Feb 2027.
+SimoLant is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Prisma, Berlin on Fri, 12 Feb 2027.
 
 SimoLant is a techno and hardcore artist, with 3 gigs on soundcheck across Berlin. Often billed alongside DOLTER, G-Fahr and High Protocol. Next up: Prisma, Berlin on Fri 12 Feb.
 
@@ -19,4 +19,4 @@ SimoLant is a techno and hardcore artist, with 3 gigs on soundcheck across Berli
 
 DOLTER, G-Fahr, High Protocol
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simolant/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simolant/)*

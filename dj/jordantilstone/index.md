@@ -1,6 +1,6 @@
 # Jordan Tilstone
 
-Jordan Tilstone is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Old Christ Church, Liverpool on Sat, 28 Nov 2026.
+Jordan Tilstone is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Old Christ Church, Liverpool on Sat, 28 Nov 2026.
 
 Jordan Tilstone is a trance and techno artist based in United Kingdom, with 8 gigs on soundcheck across Belfast, Birmingham, Glasgow and Leeds and 3 more. Often billed alongside Amber Broos, Arielle and Armin van Buuren. Next up: Old Christ Church, Liverpool on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Jordan Tilstone is a trance and techno artist based in United Kingdom, with 8 gi
 
 Amber Broos, Arielle, Armin van Buuren
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*

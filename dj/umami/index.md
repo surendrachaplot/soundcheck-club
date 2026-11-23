@@ -1,6 +1,6 @@
 # Umami
 
-Umami is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
+Umami is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
 
 Umami is a drum & bass and jungle artist based in Germany, with 48 gigs on soundcheck across Barcelona, Berlin, Hong Kong and Madrid and 3 more. Often billed alongside CRKS290, BRAVA and Alvva. Next up: Portugal Madeira Club, Sydney on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Umami is a drum & bass and jungle artist based in Germany, with 48 gigs on sound
 
 CRKS290, BRAVA, Alvva
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umami/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umami/)*

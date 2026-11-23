@@ -1,6 +1,6 @@
 # ANTHEM
 
-ANTHEM is a Club and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lark, Berlin on Sat, 28 Nov 2026.
+ANTHEM is a Club and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lark, Berlin on Sat, 28 Nov 2026.
 
 ANTHEM is a club and neo perreo artist based in Germany, with 8 gigs on soundcheck across Berlin, London, Montreal and Prague. Often billed alongside blastah, Chickenmilk dot com and Deer park. Next up: Lark, Berlin on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ ANTHEM is a club and neo perreo artist based in Germany, with 8 gigs on soundche
 
 blastah, Chickenmilk dot com, Deer park
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthem/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthem/)*

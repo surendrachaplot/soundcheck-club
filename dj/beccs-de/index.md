@@ -1,6 +1,6 @@
 # beccs
 
-beccs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 10 Dec 2026.
+beccs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 10 Dec 2026.
 
 beccs is a tech house and house artist based in Germany, with 83 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 6 more. Often billed alongside Anton Jonathan, DJ Babyblade and Najeh. Next up: Golden Pudel Club, Hamburg on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ beccs is a tech house and house artist based in Germany, with 83 gigs on soundch
 
 Anton Jonathan, DJ Babyblade, Najeh
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*

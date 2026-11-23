@@ -1,6 +1,6 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Multigroove: House of God" on Sat, 28 Nov 2026.
+WestWeelde is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Multigroove: House of God" on Sat, 28 Nov 2026.
 
 WestWeelde is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Analog Kitchen, Cris-H, Guy Mantzur and Kasper Koman. See dates, start times and who's playing. Klönneplein 4.
 
@@ -18,4 +18,4 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, 
 
 Klönneplein 4, Amsterdam
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

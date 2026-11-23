@@ -1,6 +1,6 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Supermarket, Zurich on Sat, 28 Nov 2026.
+Petre Inspirescu is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Supermarket, Zurich on Sat, 28 Nov 2026.
 
 Petre Inspirescu is a house and minimal artist based in Romania, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Supermarket, Zurich on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Petre Inspirescu is a house and minimal artist based in Romania, with 87 gigs on
 
 Rhadoo, Raresh, RPR Soundsystem
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*

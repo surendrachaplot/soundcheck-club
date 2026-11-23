@@ -1,6 +1,6 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Elias Mazian is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
 Elias Mazian is a house and techno artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and BELLA (NL). Next up: SISSI'S Amsterdam, Amsterdam on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Elias Mazian is a house and techno artist based in Netherlands, with 130 gigs on
 
 Suze Ijó, Tsepo, BELLA (NL)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

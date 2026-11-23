@@ -1,6 +1,6 @@
 # VILIFY
 
-VILIFY is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 12 Dec 2026.
+VILIFY is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 12 Dec 2026.
 
 VILIFY is a drum & bass and jungle artist based in Germany, with 37 gigs on soundcheck across Berlin, Heidelberg and Montreal. Often billed alongside Dj Quien, Tommy Lexxus and Grzly Adams. Next up: YAAM Berlin, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ VILIFY is a drum & bass and jungle artist based in Germany, with 37 gigs on soun
 
 Dj Quien, Tommy Lexxus, Grzly Adams
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilify/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilify/)*

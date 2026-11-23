@@ -1,6 +1,6 @@
 # Electricano
 
-Electricano is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at B2 Rīga, Riga on Fri, 27 Nov 2026.
+Electricano is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at B2 Rīga, Riga on Fri, 27 Nov 2026.
 
 Electricano is a house and minimal artist based in Latvia, with 18 gigs on soundcheck across Barcelona, Budapest, Madrid and Riga. Often billed alongside Adroit, PUPA and Barseghian. Next up: B2 Rīga, Riga on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Electricano is a house and minimal artist based in Latvia, with 18 gigs on sound
 
 Adroit, PUPA, Barseghian
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electricano/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electricano/)*

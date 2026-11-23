@@ -1,6 +1,6 @@
 # Adversario
 
-Adversario is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Dabadaba, North on Sat, 26 Dec 2026.
+Adversario is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Dabadaba, North on Sat, 26 Dec 2026.
 
 Adversario is an electronic artist based in Spain, with 1 gig on soundcheck across North. Often billed alongside Akira, C-System and Carcoma LFO. Next up: Dabadaba, North on Sat 26 Dec.
 
@@ -14,4 +14,4 @@ Adversario is an electronic artist based in Spain, with 1 gig on soundcheck acro
 
 Akira, C-System, Carcoma LFO
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adversario/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adversario/)*

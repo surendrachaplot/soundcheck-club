@@ -1,6 +1,6 @@
 # Lunchbox
 
-Lunchbox is a music venue in Atlanta with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "GWINNIT: Technogiving" on Sat, 28 Nov 2026.
+Lunchbox is a music venue in Atlanta with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "GWINNIT: Technogiving" on Sat, 28 Nov 2026.
 
 Lunchbox is a music venue in Atlanta listed on soundcheck. 7 upcoming gigs, with line-ups including AIRGLO, Alexion, Aries and Audio and 2 more. See dates, start times and who's playing. 50 Lower Alabama Street, Atlanta, GA 30303.
 
@@ -20,4 +20,4 @@ Lunchbox is a music venue in Atlanta listed on soundcheck. 7 upcoming gigs, with
 
 50 Lower Alabama Street, Atlanta, GA 30303, Atlanta
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lunchbox/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lunchbox/)*

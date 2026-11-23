@@ -1,6 +1,6 @@
 # Nico Spina
 
-Nico Spina is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at berlinClub, Madrid on Sun, 6 Dec 2026.
+Nico Spina is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at berlinClub, Madrid on Sun, 6 Dec 2026.
 
 Nico Spina is a progressive house and house artist based in Argentina, with 12 gigs on soundcheck across Madrid. Often billed alongside Nahuel Farina, Unai García and Vico Deep. Next up: berlinClub, Madrid on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Nico Spina is a progressive house and house artist based in Argentina, with 12 g
 
 Nahuel Farina, Unai García, Vico Deep
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicospina/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicospina/)*

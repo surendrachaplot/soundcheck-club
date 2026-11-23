@@ -1,6 +1,6 @@
 # Shades Of Rhythm
 
-Shades Of Rhythm is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Sat, 27 Mar 2027.
+Shades Of Rhythm is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Sat, 27 Mar 2027.
 
 Shades Of Rhythm is a house and tech house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Bristol, Glasgow and Leeds and 4 more. Often billed alongside Billy Daniel Bunter, Slipmatt and Ratpack. Next up: fabric, London on Sat 27 Mar.
 
@@ -26,4 +26,4 @@ Shades Of Rhythm is a house and tech house artist based in United Kingdom, with 
 
 Billy Daniel Bunter, Slipmatt, Ratpack
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesofrhythm/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesofrhythm/)*

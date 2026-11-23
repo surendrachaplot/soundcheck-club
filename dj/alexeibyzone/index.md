@@ -1,6 +1,6 @@
 # Alexei Byzone
 
-Alexei Byzone is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Club Makossa, London on Thu, 26 Nov 2026.
+Alexei Byzone is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Makossa, London on Thu, 26 Nov 2026.
 
 Alexei Byzone is a house and tech house artist based in Bulgaria, with 2 gigs on soundcheck across London. Often billed alongside Brother of Set, EWERED and Ida Best. Next up: Club Makossa, London on Thu 26 Nov.
 
@@ -15,4 +15,4 @@ Alexei Byzone is a house and tech house artist based in Bulgaria, with 2 gigs on
 
 Brother of Set, EWERED, Ida Best
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexeibyzone/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexeibyzone/)*

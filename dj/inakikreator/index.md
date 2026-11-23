@@ -1,6 +1,6 @@
 # Iñaki Kreator
 
-Iñaki Kreator is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
+Iñaki Kreator is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
 
 Iñaki Kreator is a techno artist, with 2 gigs on soundcheck across Barcelona and North. Often billed alongside Bas Mooy, C-System and CEM3340. Next up: Sala de Armas, North on Fri 19 Feb.
 
@@ -18,4 +18,4 @@ Iñaki Kreator is a techno artist, with 2 gigs on soundcheck across Barcelona an
 
 Bas Mooy, C-System, CEM3340
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakikreator/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakikreator/)*

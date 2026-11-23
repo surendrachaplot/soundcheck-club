@@ -1,6 +1,6 @@
 # oliver.i.b
 
-oliver.i.b is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Avalon Cafe Bermondsey, London on Thu, 3 Dec 2026.
+oliver.i.b is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Avalon Cafe Bermondsey, London on Thu, 3 Dec 2026.
 
 oliver.i.b is an electronic artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Helen Sun, JOSEF KURTZ and Lolina. Next up: Avalon Cafe Bermondsey, London on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ oliver.i.b is an electronic artist based in United Kingdom, with 6 gigs on sound
 
 Helen Sun, JOSEF KURTZ, Lolina
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver.i.b/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver.i.b/)*

@@ -1,6 +1,6 @@
 # MESSIE
 
-MESSIE is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Circus Tokyo, Tokyo on Tue, 24 Nov 2026.
+MESSIE is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Circus Tokyo, Tokyo on Tue, 24 Nov 2026.
 
 MESSIE is a garage and house artist based in New Zealand, with 25 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 12 more. Often billed alongside Arthi, Silva Bumpa and Anish Kumar. Next up: Circus Tokyo, Tokyo on Tue 24 Nov.
 
@@ -27,4 +27,4 @@ MESSIE is a garage and house artist based in New Zealand, with 25 gigs on soundc
 
 Arthi, Silva Bumpa, Anish Kumar
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*

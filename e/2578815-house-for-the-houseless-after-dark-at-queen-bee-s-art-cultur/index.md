@@ -1,6 +1,6 @@
 # House for the Houseless: After Dark at Queen Bee's Art & Cultural Center
 
-House for the Houseless: After Dark at Queen Bee's Art & Cultural Center on Sat 5 Dec, San Diego. See the line-up on soundcheck.
+House for the Houseless: After Dark at Queen Bee's Art & Cultural Center on Sat 5 Dec, San Diego. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

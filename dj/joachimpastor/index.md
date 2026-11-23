@@ -1,6 +1,6 @@
 # Joachim Pastor
 
-Joachim Pastor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Hippodrome Parilly, Lyon on Thu, 31 Dec 2026.
+Joachim Pastor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hippodrome Parilly, Lyon on Thu, 31 Dec 2026.
 
 Joachim Pastor is a techno and house artist based in France, with 68 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside Joris Delacroix, Teho and NTO. Next up: Hippodrome Parilly, Lyon on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Joachim Pastor is a techno and house artist based in France, with 68 gigs on sou
 
 Joris Delacroix, Teho, NTO
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*

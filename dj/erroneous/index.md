@@ -1,6 +1,6 @@
 # erroneous
 
-erroneous is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Protocol, London on Sat, 12 Dec 2026.
+erroneous is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Protocol, London on Sat, 12 Dec 2026.
 
 erroneous is a tech house and house artist based in United Kingdom, with 31 gigs on soundcheck across Cologne and London. Often billed alongside Diana Loredana, Francesco Poggi and Thomas Galbardi. Next up: Protocol, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ erroneous is a tech house and house artist based in United Kingdom, with 31 gigs
 
 Diana Loredana, Francesco Poggi, Thomas Galbardi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*

@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "HOUSE IS HOME : Stacey Hotwaxx Hale, Father Dukes & Dru Allan" on Wed, 25 Nov 2026.
+Northern Lights Lounge is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "HOUSE IS HOME : Stacey Hotwaxx Hale, Father Dukes & Dru Allan" on Wed, 25 Nov 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including The AM/AMX, AIDEL, cdjane3k and Detroit In Effect and 2 more. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -16,4 +16,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 3 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

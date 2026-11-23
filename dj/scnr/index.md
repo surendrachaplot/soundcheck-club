@@ -1,6 +1,6 @@
 # SCNR
 
-SCNR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 28 Nov 2026.
+SCNR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 28 Nov 2026.
 
 SCNR is a techno and house artist based in Switzerland, with 7 gigs on soundcheck across Zurich. Often billed alongside Tajara, Cortez and Thomas Bianco. Next up: Amboss Rampe, Zurich on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ SCNR is a techno and house artist based in Switzerland, with 7 gigs on soundchec
 
 Tajara, Cortez (2), Thomas Bianco
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*

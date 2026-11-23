@@ -1,6 +1,6 @@
 # Dr. Low
 
-Dr. Low is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Otra Historia Club Cultural, Buenos Aires on Sat, 12 Dec 2026.
+Dr. Low is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Otra Historia Club Cultural, Buenos Aires on Sat, 12 Dec 2026.
 
 Dr. Low is a techno and acid artist, with 3 gigs on soundcheck across Buenos Aires. Often billed alongside Guile, LUKAS and Mich. Next up: Otra Historia Club Cultural, Buenos Aires on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Dr. Low is a techno and acid artist, with 3 gigs on soundcheck across Buenos Air
 
 Guile, LUKAS (4), Mich (10)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.low/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.low/)*

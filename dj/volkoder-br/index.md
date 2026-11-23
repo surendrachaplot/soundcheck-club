@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Oasis, Costanera, Buenos Aires on Fri, 27 Nov 2026.
+Volkoder is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Oasis, Costanera, Buenos Aires on Fri, 27 Nov 2026.
 
 Volkoder is a house and tech house artist based in Brazil, with 27 gigs on soundcheck across Amsterdam, Austin, Belgrade and Budapest and 13 more. Often billed alongside CamelPhat, KI/KI and Mahmut Orhan. Next up: TBA - Oasis, Costanera, Buenos Aires on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Volkoder is a house and tech house artist based in Brazil, with 27 gigs on sound
 
 CamelPhat, KI/KI, Mahmut Orhan
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

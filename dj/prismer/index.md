@@ -1,6 +1,6 @@
 # Prismer
 
-Prismer is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Castle Mandawa, Rajasthan, Other-regions on Fri, 18 Dec 2026.
+Prismer is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Castle Mandawa, Rajasthan, Other-regions on Fri, 18 Dec 2026.
 
 Prismer is a breakbeat and garage artist based in India, with 5 gigs on soundcheck across Berlin, Delhi, London and Other Regions and 1 more. Often billed alongside ANSWER (IN), Aiden Francis and Analogue. Next up: Castle Mandawa, Rajasthan, Other Regions on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Prismer is a breakbeat and garage artist based in India, with 5 gigs on soundche
 
 ANSWER (IN), Aiden Francis, Analogue
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismer/)*

@@ -1,6 +1,6 @@
 # MIYARI
 
-MIYARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Moon Club, Lisbon on Sat, 5 Dec 2026.
+MIYARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Moon Club, Lisbon on Sat, 5 Dec 2026.
 
 MIYARI is a techno and trance artist based in Portugal, with 4 gigs on soundcheck across Lisbon. Often billed alongside ophell, Sinnatro and 2HOT2PLAY. Next up: TBA - Moon Club, Lisbon on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ MIYARI is a techno and trance artist based in Portugal, with 4 gigs on soundchec
 
 ophell, Sinnatro, 2HOT2PLAY
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyari/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyari/)*

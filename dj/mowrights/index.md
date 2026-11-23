@@ -1,6 +1,6 @@
 # Mo Wrights
 
-Mo Wrights is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Dec 2026.
+Mo Wrights is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Dec 2026.
 
 Mo Wrights is a house and disco artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam and London. Often billed alongside Lucas Benjamin, Razzmic and Pelanoir. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mo Wrights is a house and disco artist based in Netherlands, with 35 gigs on sou
 
 Lucas Benjamin, Razzmic, Pelanoir
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mowrights/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mowrights/)*

@@ -1,6 +1,6 @@
 # Dacxi
 
-Dacxi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cu, London on Sat, 12 Dec 2026.
+Dacxi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cu, London on Sat, 12 Dec 2026.
 
 Dacxi is a house and techno artist, with 5 gigs on soundcheck across Helsinki and London. Often billed alongside Calder, Huijari and Manta. Next up: Cu, London on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Dacxi is a house and techno artist, with 5 gigs on soundcheck across Helsinki an
 
 Calder, Huijari, Manta
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dacxi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dacxi/)*

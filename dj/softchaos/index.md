@@ -1,13 +1,14 @@
 # softchaos
 
-softchaos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at OIL Club, Shenzhen on Sat, 19 Dec 2026.
+softchaos is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Horn, Bangkok on Fri, 4 Dec 2026.
 
-softchaos is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside ENGALANAN, Hanaby and JASSS. Next up: OIL Club, Shenzhen on Sat 19 Dec.
+softchaos is a techno and house artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside ENGALANAN, Hanaby and JASSS. Next up: Horn, Bangkok on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Horn | Bangkok |
 | Sat, 19 Dec 2026 | OIL Club | Shenzhen |
 | Thu, 31 Dec 2026 | RADION | Amsterdam |
 | Sat, 13 Feb 2027 | OST | Berlin |
@@ -27,4 +28,4 @@ softchaos is a techno and house artist based in United States of America, with 8
 
 ENGALANAN, Hanaby, JASSS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*

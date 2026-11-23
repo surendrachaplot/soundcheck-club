@@ -1,6 +1,6 @@
 # TonalTheory
 
-TonalTheory is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
+TonalTheory is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
 
 TonalTheory is a techno and trance artist based in United States of America, with 45 gigs on soundcheck across Atlanta, Baltimore, Copenhagen and Dallas/Fort Worth and 7 more. Often billed alongside STUKES, Matthew Cha and JADE CAO. Next up: TBA - Washington DC , Washington DC on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ TonalTheory is a techno and trance artist based in United States of America, wit
 
 STUKES, Matthew Cha, JADE CAO
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*

@@ -1,6 +1,6 @@
 # Kevin Sy
 
-Kevin Sy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Exit Reality, Singapore on Sat, 12 Dec 2026.
+Kevin Sy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Exit Reality, Singapore on Sat, 12 Dec 2026.
 
 Kevin Sy is a house and techno artist based in Singapore, with 43 gigs on soundcheck across Singapore and Tokyo. Often billed alongside sho&tell, VAIBS and Emma SS. Next up: Exit Reality, Singapore on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kevin Sy is a house and techno artist based in Singapore, with 43 gigs on soundc
 
 sho&tell, VAIBS, Emma SS
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsy/)*

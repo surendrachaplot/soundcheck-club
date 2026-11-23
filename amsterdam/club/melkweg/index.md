@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Cheeky Monday: DJ Hybrid" on Mon, 23 Nov 2026.
+Melkweg is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Cheeky Monday: DJ Hybrid" on Mon, 23 Nov 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including A.R.T., Chinese Daughter, De Plaag and Devereaux 85 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, wi
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

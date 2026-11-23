@@ -1,6 +1,6 @@
 # MEYEM
 
-MEYEM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Plage De Torcy, Paris on Sun, 16 May 2027.
+MEYEM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Plage De Torcy, Paris on Sun, 16 May 2027.
 
 MEYEM is a techno and trance artist based in France, with 52 gigs on soundcheck across Basel, Berlin, Bordeaux and Cologne and 10 more. Often billed alongside Bérou, ADB (FR) and Asaya. Next up: Plage De Torcy, Paris on Sun 16 May.
 
@@ -25,4 +25,4 @@ MEYEM is a techno and trance artist based in France, with 52 gigs on soundcheck 
 
 Bérou, ADB (FR), Asaya
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meyem/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meyem/)*

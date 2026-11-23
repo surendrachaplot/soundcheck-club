@@ -1,6 +1,6 @@
 # Maurice Werner
 
-Maurice Werner is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
+Maurice Werner is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
 
 Maurice Werner is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside NIKØ, DJ Spaßgetränk and Konsument. Next up: Void Club, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Maurice Werner is a techno and trance artist based in Germany, with 24 gigs on s
 
 NIKØ, DJ Spaßgetränk, Konsument
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricewerner/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricewerner/)*

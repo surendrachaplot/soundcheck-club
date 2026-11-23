@@ -1,6 +1,6 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 22 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Macadam • Kyle Starkey ~ DJ Physical ~ Britney Speed" on Fri, 27 Nov 2026.
+Macadam is a music venue in Nantes with 22 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Macadam • Kyle Starkey ~ DJ Physical ~ Britney Speed" on Fri, 27 Nov 2026.
 
 Macadam is a music venue in Nantes listed on soundcheck. 22 upcoming gigs, with line-ups including Akira Yamagata, Alexia, Bambi (FR) and Bennet and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 22 upcoming gigs, with 
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

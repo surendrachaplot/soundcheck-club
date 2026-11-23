@@ -1,6 +1,6 @@
 # coconut concepts: X-MAS '26 at Schlegel Kultur Club
 
-coconut concepts: X-MAS '26 at Schlegel Kultur Club on Sat 19 Dec, Bochum. 2 artists: Carl Bergé and SALIMATA. House. See the line-up on soundcheck.
+coconut concepts: X-MAS '26 at Schlegel Kultur Club on Sat 19 Dec, Bochum. 4 artists: Carl Bergé, DJ Frank, Madame Ledermaus and SALIMATA. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ coconut concepts: X-MAS '26 at Schlegel Kultur Club on Sat 19 Dec, Bochum. 2 art
 ## Line-up
 
 - Carl Bergé
+- DJ Frank
+- Madame Ledermaus
 - SALIMATA
 
 *Source: [soundcheck](https://soundcheck.club/e/2588395-coconut-concepts-x-mas-26-at-schlegel-kultur-club/)*

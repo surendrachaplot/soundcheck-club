@@ -1,8 +1,8 @@
 # Alan Banks
 
-Alan Banks is a Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Rolling Stock, London on Sat, 20 Feb 2027.
+Alan Banks is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Rolling Stock, London on Sat, 20 Feb 2027.
 
-Alan Banks is a trance artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Mark Landragin, 0Gravity and BK. Next up: Rolling Stock, London on Sat 20 Feb.
+Alan Banks is a trance and progressive house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Mark Landragin, 0Gravity and BK. Next up: Rolling Stock, London on Sat 20 Feb.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Alan Banks is a trance artist based in United Kingdom, with 8 gigs on soundcheck
 
 Mark Landragin, 0Gravity, BK
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanbanks/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanbanks/)*

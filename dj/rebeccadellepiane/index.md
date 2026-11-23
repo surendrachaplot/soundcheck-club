@@ -1,14 +1,15 @@
 # Rebecca Delle Piane
 
-Rebecca Delle Piane is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Mercati Generali, Sicily on Sat, 28 Nov 2026.
+Rebecca Delle Piane is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mercati Generali, Sicily on Sat, 28 Nov 2026.
 
-Rebecca Delle Piane is a techno and electronica artist based in Italy, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 26 more. Often billed alongside Freddy K, SDN and Alarico. Next up: Mercati Generali, Sicily on Sat 28 Nov.
+Rebecca Delle Piane is a techno and electro artist based in Italy, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 26 more. Often billed alongside Freddy K, SDN and Alarico. Next up: Mercati Generali, Sicily on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Mercati Generali | Sicily |
+| Fri, 4 Dec 2026 | Soap House - Ex Saponerie Mira Lanza | Rome |
 | Sat, 5 Dec 2026 | RADION | Amsterdam |
 | Fri, 18 Dec 2026 | Zoo | Geneva |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
@@ -28,4 +29,4 @@ Rebecca Delle Piane is a techno and electronica artist based in Italy, with 99 g
 
 Freddy K, SDN (1), Alarico
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*

@@ -1,6 +1,6 @@
 # Euphonic 25th Birthday at Eiger Studios
 
-Euphonic 25th Birthday at Eiger Studios on Sat 20 Feb, Leeds. 3 artists: Chris Liberator, Darc Marc and Tony Montana. See the line-up on soundcheck.
+Euphonic 25th Birthday at Eiger Studios on Sat 20 Feb, Leeds. 3 artists: Chris Liberator, Darc Marc and Tony Montana. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Majistrate
 
-Majistrate is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Majistrate is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
-Majistrate is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside Logan D, Harry Shotta and Eksman. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+Majistrate is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside Logan D, Harry Shotta and Eksman. Next up: Lab11, Birmingham on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 28 Nov 2026 | Lab11 | Birmingham |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | Electric Brixton | London |
@@ -30,4 +29,4 @@ Majistrate is a drum & bass and jungle artist based in United Kingdom, with 34 g
 
 Logan D, Harry Shotta, Eksman
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*

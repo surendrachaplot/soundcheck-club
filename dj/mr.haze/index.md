@@ -1,18 +1,18 @@
 # Mr. Haze
 
-Mr. Haze is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Boogie, Toronto on Sun, 22 Nov 2026.
+Mr. Haze is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Wiggle Room, Toronto on Sun, 13 Dec 2026.
 
-Mr. Haze is a house and tech house artist based in Canada, with 24 gigs on soundcheck across Los Angeles and Toronto. Often billed alongside Jason Hodges, Jay NuFunk and Yogi. Next up: Boogie, Toronto on Sun 22 Nov.
+Mr. Haze is a house and tech house artist based in Canada, with 24 gigs on soundcheck across Los Angeles and Toronto. Often billed alongside Jason Hodges, Jay NuFunk and Yogi. Next up: Wiggle Room, Toronto on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Boogie | Toronto |
 | Sun, 13 Dec 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 
+- Boogie, Toronto · Sun, 22 Nov 2026
 - Wiggle Room, Toronto · Sat, 17 Oct 2026
 - Wiggle Room, Toronto · Sat, 8 Aug 2026
 - Jungle Hollywood, Los Angeles · Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ Mr. Haze is a house and tech house artist based in Canada, with 24 gigs on sound
 - Rhythm, Toronto · Sat, 13 Jun 2026
 - Sound Machine, Toronto · Sat, 30 May 2026
 - Rhythm, Toronto · Fri, 15 May 2026
-- Insomnia Lounge, Toronto · Thu, 14 May 2026
 
 ## Shares bills with
 
 Jason Hodges, Jay NuFunk, Yogi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.haze/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.haze/)*

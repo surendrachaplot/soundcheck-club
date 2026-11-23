@@ -1,6 +1,6 @@
 # Parasol
 
-Parasol is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Paris on Sat, 6 Mar 2027.
+Parasol is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Paris on Sat, 6 Mar 2027.
 
 Parasol is a trance and experimental artist based in Germany, with 13 gigs on soundcheck across Berlin, Osaka, Paris and Prague and 3 more. Often billed alongside Kastet, Max Ken and 2G. Next up: TBA, Paris on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ Parasol is a trance and experimental artist based in Germany, with 13 gigs on so
 
 Kastet, Max Ken, 2G (1)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parasol/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parasol/)*

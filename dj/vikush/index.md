@@ -1,6 +1,6 @@
 # VIKUSH
 
-VIKUSH is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
+VIKUSH is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
 
 VIKUSH is a drum & bass and techno artist based in Latvia, with 2 gigs on soundcheck across Riga. Often billed alongside VON MONTAIN, DEP (LV) and DRAGONCAT. Next up: Korpuss, Riga on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ VIKUSH is a drum & bass and techno artist based in Latvia, with 2 gigs on soundc
 
 VON MONTAIN, DEP (LV), DRAGONCAT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikush/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikush/)*

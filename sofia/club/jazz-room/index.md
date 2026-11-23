@@ -1,14 +1,13 @@
 # Ж Jazz Room
 
-Ж Jazz Room is a music venue in Sofia with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Katz Motel Session VI" on Sun, 22 Nov 2026.
+Ж Jazz Room is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Katz Motel Session VII" on Sun, 20 Dec 2026.
 
-Ж Jazz Room is a music venue in Sofia listed on soundcheck. 2 upcoming gigs, with line-ups including Laylla Dane and Soulnd. See dates, start times and who's playing.
+Ж Jazz Room is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including Laylla Dane. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Katz Motel Session VI | Laylla Dane, Soulnd |
 | Sun, 20 Dec 2026 | Katz Motel Session VII | Laylla Dane |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/jazz-room/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/jazz-room/)*

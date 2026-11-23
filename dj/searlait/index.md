@@ -1,6 +1,6 @@
 # Séarlait
 
-Séarlait is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
+Séarlait is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
 
 Séarlait is a house and techno artist based in United Kingdom, with 116 gigs on soundcheck across Berlin, Byron Bay, Croatia and London and 3 more. Often billed alongside Roka, Char(k) and Hannah D. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Séarlait is a house and techno artist based in United Kingdom, with 116 gigs on
 
 Roka, Char(k), Hannah D
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/searlait/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/searlait/)*

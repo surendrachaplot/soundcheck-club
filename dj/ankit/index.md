@@ -1,6 +1,6 @@
 # Ankit
 
-Ankit is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Sensorium, Berlin on Wed, 23 Dec 2026.
+Ankit is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sensorium, Berlin on Wed, 23 Dec 2026.
 
 Ankit is a techno and tech house artist based in India, with 8 gigs on soundcheck across Berlin. Often billed alongside EVYA, LA BITCHENCIO and VEGANICECREAM. Next up: Sensorium, Berlin on Wed 23 Dec.
 
@@ -24,4 +24,4 @@ Ankit is a techno and tech house artist based in India, with 8 gigs on soundchec
 
 EVYA, LA BITCHENCIO, VEGANICECREAM
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ankit/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ankit/)*

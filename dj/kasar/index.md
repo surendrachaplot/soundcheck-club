@@ -1,6 +1,6 @@
 # Kasar
 
-Kasar is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
+Kasar is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
 
 Kasar is a techno and trance artist based in France, with 10 gigs on soundcheck across Medellin and Nantes. Often billed alongside Mota DJ, Millord and Youl. Next up: Macadam, Nantes on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ Kasar is a techno and trance artist based in France, with 10 gigs on soundcheck 
 
 Mota DJ, Millord, Youl
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasar/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasar/)*

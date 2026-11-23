@@ -1,6 +1,6 @@
 # othrwrld
 
-othrwrld is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Statera Cellars, Portland on Fri, 4 Dec 2026.
+othrwrld is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Statera Cellars, Portland on Fri, 4 Dec 2026.
 
 othrwrld is a techno and bass artist based in Canada, with 9 gigs on soundcheck across Portland. Often billed alongside Peter Sheppard, DJ DISSOLVE and Nolid. Next up: Statera Cellars, Portland on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ othrwrld is a techno and bass artist based in Canada, with 9 gigs on soundcheck 
 
 Peter Sheppard, DJ DISSOLVE, Nolid
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*

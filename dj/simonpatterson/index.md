@@ -1,6 +1,6 @@
 # Simon Patterson
 
-Simon Patterson is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 5 Dec 2026.
+Simon Patterson is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 5 Dec 2026.
 
 Simon Patterson is a trance and techno artist based in United Kingdom, with 19 gigs on soundcheck across London, Los Angeles, Manchester and Montreal and 7 more. Often billed alongside John Askew, Aly & Fila and Hannah Laing. Next up: ZEROTOKYO, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Simon Patterson is a trance and techno artist based in United Kingdom, with 19 g
 
 John Askew, Aly & Fila, Hannah Laing
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonpatterson/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonpatterson/)*

@@ -1,6 +1,6 @@
 # Keone (2)
 
-Keone (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Eiger Studios, Leeds on Sun, 13 Dec 2026.
+Keone (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Eiger Studios, Leeds on Sun, 13 Dec 2026.
 
 Keone is a house and electro artist based in United Kingdom, with 3 gigs on soundcheck across Leeds. Often billed alongside Blubear, Alisdair and Elliot Holt. Next up: Eiger Studios, Leeds on Sun 13 Dec.
 
@@ -19,4 +19,4 @@ Keone is a house and electro artist based in United Kingdom, with 3 gigs on soun
 
 Blubear, Alisdair, Elliot Holt
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keone-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keone-2/)*

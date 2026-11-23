@@ -1,6 +1,6 @@
 # Delcu
 
-Delcu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Barraco SP /CO, Sao Paulo on Sat, 28 Nov 2026.
+Delcu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Barraco SP /CO, Sao Paulo on Sat, 28 Nov 2026.
 
 Delcu is a techno and house artist based in Brazil, with 57 gigs on soundcheck across Berlin, Dortmund / Essen, Ibiza and Lisbon and 5 more. Often billed alongside EVEHIVE, BADSISTA and Kontronatura. Next up: Barraco SP /CO, Sao Paulo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Delcu is a techno and house artist based in Brazil, with 57 gigs on soundcheck a
 
 EVEHIVE, BADSISTA, Kontronatura
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*

@@ -1,6 +1,6 @@
 # FAF (1)
 
-FAF (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
+FAF (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
 
 FAF is a house and garage artist based in Australia, with 14 gigs on soundcheck across Madrid, Melbourne and Victoria. Often billed alongside Anima Omada, Cosy and Love, Jess. Next up: TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ FAF is a house and garage artist based in Australia, with 14 gigs on soundcheck 
 
 Anima Omada, Cosy (2), Love, Jess
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*

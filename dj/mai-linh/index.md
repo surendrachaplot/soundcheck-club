@@ -1,6 +1,6 @@
 # Maï-Linh
 
-Maï-Linh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Sameheads, Berlin on Sat, 19 Dec 2026.
+Maï-Linh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sameheads, Berlin on Sat, 19 Dec 2026.
 
 Maï-Linh is a house and techno artist based in France, with 96 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 20 more. Often billed alongside Soyoon, GTI and Youl. Next up: Sameheads, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Maï-Linh is a house and techno artist based in France, with 96 gigs on soundche
 
 Soyoon, GTI, Youl
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*

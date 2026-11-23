@@ -1,6 +1,6 @@
 # Floyd Lavine
 
-Floyd Lavine is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Polifonic.MX, Guadalajara on Fri, 27 Nov 2026.
+Floyd Lavine is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Polifonic.MX, Guadalajara on Fri, 27 Nov 2026.
 
 Floyd Lavine is a house and afro house artist based in South Africa, with 78 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 26 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Polifonic.MX, Guadalajara on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Floyd Lavine is a house and afro house artist based in South Africa, with 78 gig
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*

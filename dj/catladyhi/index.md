@@ -1,6 +1,6 @@
 # CatLadyHi
 
-CatLadyHi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Knockdown Center, New York City on Fri, 12 Feb 2027.
+CatLadyHi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Knockdown Center, New York City on Fri, 12 Feb 2027.
 
 CatLadyHi is a house and tech house artist based in United States of America, with 28 gigs on soundcheck across New York City. Often billed alongside Miss Hazard, Bea Trinidad and Beltran. Next up: Knockdown Center, New York City on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ CatLadyHi is a house and tech house artist based in United States of America, wi
 
 Miss Hazard, Bea Trinidad, Beltran
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*

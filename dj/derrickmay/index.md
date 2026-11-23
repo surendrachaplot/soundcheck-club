@@ -1,14 +1,15 @@
 # Derrick May
 
-Derrick May is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at BAR Inc, Osaka on Sat, 28 Nov 2026.
+Derrick May is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at BAR Inc, Osaka on Sat, 28 Nov 2026.
 
-Derrick May is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Barcelona, Belgrade, Bogotá and Detroit and 12 more. Often billed alongside Brunson, D-Wynn and DJ Compufunk. Next up: BAR Inc, Osaka on Sat 28 Nov.
+Derrick May is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Barcelona, Belgrade, Bogotá and Chubu and 13 more. Often billed alongside Brunson, D-Wynn and DJ Compufunk. Next up: BAR Inc, Osaka on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | BAR Inc | Osaka |
+| Fri, 4 Dec 2026 | Club (o)Utopos | Chubu |
 | Sat, 5 Dec 2026 | Liquidroom | Tokyo |
 | Sun, 20 Dec 2026 | DURO | Milan |
 
@@ -27,4 +28,4 @@ Derrick May is a techno and house artist based in United States of America, with
 
 Brunson, D-Wynn, DJ Compufunk
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*

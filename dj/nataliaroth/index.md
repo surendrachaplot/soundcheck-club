@@ -1,6 +1,6 @@
 # Natalia Roth
 
-Natalia Roth is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Natalia Roth is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
 Natalia Roth is a house and tech house artist based in Puerto Rico, with 153 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bogotá and 22 more. Often billed alongside Danyelino, Ms. Mada and Jamie Jones. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Natalia Roth is a house and tech house artist based in Puerto Rico, with 153 gig
 
 Danyelino, Ms. Mada, Jamie Jones
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*

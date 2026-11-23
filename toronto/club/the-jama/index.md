@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "yo yo oto presents: Daniel Bell" on Fri, 27 Nov 2026.
+The Jama is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "yo yo oto presents: Daniel Bell" on Fri, 27 Nov 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including 999ADJ, UNITYISEVERYWHERE, Brock Stacey and Daniel Bell and 2 more. See dates, start times and who's playing. 961 College Street.
 
@@ -18,4 +18,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with
 
 961 College Street, Toronto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

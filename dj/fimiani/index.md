@@ -1,6 +1,6 @@
 # FIMIANI
 
-FIMIANI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at La Paloma, Barcelona on Fri, 18 Dec 2026.
+FIMIANI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Paloma, Barcelona on Fri, 18 Dec 2026.
 
 FIMIANI is a house and disco artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Kapote, Sam Ruffillo and Stump Valley. Next up: La Paloma, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ FIMIANI is a house and disco artist based in Italy, with 43 gigs on soundcheck a
 
 Kapote, Sam Ruffillo, Stump Valley
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*

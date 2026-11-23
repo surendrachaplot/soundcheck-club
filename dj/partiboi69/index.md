@@ -1,6 +1,6 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Cause, London on Fri, 27 Nov 2026.
+Partiboi69 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Fri, 27 Nov 2026.
 
 Partiboi69 is a techno and house artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 83 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: The Cause, London on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Partiboi69 is a techno and house artist based in Australia, with 230 gigs on sou
 
 Juicy Romance, KETTAMA, DJ Heartstring
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

@@ -1,14 +1,14 @@
 # Aho Ssan
 
-Aho Ssan is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Wrocławski Klub Formaty, Wroclaw on Sat, 21 Nov 2026.
+Aho Ssan is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
 
-Aho Ssan is an experimental and ambient artist based in France, with 38 gigs on soundcheck across Berlin, Brussels, Cologne and Ljubljana and 12 more. Often billed alongside KMRU, Carmen Villain and Caterina Barbieri. Next up: Wrocławski Klub Formaty, Wroclaw on Sat 21 Nov.
+Aho Ssan is an experimental and ambient artist based in France, with 39 gigs on soundcheck across Berlin, Bratislava, Brussels and Cologne and 13 more. Often billed alongside KMRU, Carmen Villain and Caterina Barbieri. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Wrocławski Klub Formaty | Wroclaw |
+| Tue, 24 Nov 2026 | A4 - Space for Contemporary Culture | Bratislava |
 | Sat, 28 Nov 2026 | 27 Boulevard Jules Ferry | Paris |
 
 ## Recently played
@@ -26,4 +26,4 @@ Aho Ssan is an experimental and ambient artist based in France, with 38 gigs on 
 
 KMRU, Carmen Villain, Caterina Barbieri
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahossan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahossan/)*

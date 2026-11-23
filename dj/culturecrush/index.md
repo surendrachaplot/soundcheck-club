@@ -1,6 +1,6 @@
 # Culture Crush
 
-Culture Crush is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
+Culture Crush is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
 
 Culture Crush is a techno and new wave artist, with 3 gigs on soundcheck across Berlin. Often billed alongside Bailey Brown, ESSMEE and FACONTI. Next up: Rollberg26, Berlin on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Culture Crush is a techno and new wave artist, with 3 gigs on soundcheck across 
 
 Bailey Brown, ESSMEE, FACONTI
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/culturecrush/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/culturecrush/)*

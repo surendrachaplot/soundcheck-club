@@ -1,8 +1,8 @@
 # ALLY
 
-ALLY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Daikanyama ORD., Tokyo on Mon, 30 Nov 2026.
+ALLY is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Daikanyama ORD., Tokyo on Mon, 30 Nov 2026.
 
-ALLY is a techno and house artist based in Japan, with 73 gigs on soundcheck across Berlin, Bremen, Cologne and Dortmund / Essen and 6 more. Often billed alongside YAI., HIROKI ASANO and Shogo.. Next up: Daikanyama ORD., Tokyo on Mon 30 Nov.
+ALLY is a techno and house artist based in Japan, with 74 gigs on soundcheck across Berlin, Bremen, Cologne and Dortmund / Essen and 6 more. Often billed alongside YAI., HIROKI ASANO and Shogo.. Next up: Daikanyama ORD., Tokyo on Mon 30 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ALLY is a techno and house artist based in Japan, with 73 gigs on soundcheck acr
 | Mon, 30 Nov 2026 | Daikanyama ORD. | Tokyo |
 | Sat, 5 Dec 2026 | Maimarkthalle | Mannheim |
 | Fri, 11 Dec 2026 | TBA | Bremen |
+| Fri, 11 Dec 2026 | White Space Lab | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ ALLY is a techno and house artist based in Japan, with 73 gigs on soundcheck acr
 
 YAI., HIROKI ASANO, Shogo.
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ally/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ally/)*

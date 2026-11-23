@@ -1,6 +1,6 @@
 # Thyrse
 
-Thyrse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
+Thyrse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
 
 Thyrse is a techno and tech house artist based in France, with 4 gigs on soundcheck across Berlin. Often billed alongside April the pink, Blck-Swan and EVYA. Next up: Sensorium, Berlin on Wed 2 Dec.
 
@@ -20,4 +20,4 @@ Thyrse is a techno and tech house artist based in France, with 4 gigs on soundch
 
 April the pink, Blck-Swan, EVYA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thyrse/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thyrse/)*

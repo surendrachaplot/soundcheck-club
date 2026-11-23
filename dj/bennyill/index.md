@@ -1,6 +1,6 @@
 # Benny Ill
 
-Benny Ill is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 5 Dec 2026.
+Benny Ill is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 5 Dec 2026.
 
 Benny Ill is a dubstep and bass artist based in United Kingdom, with 19 gigs on soundcheck across Athens, Bristol, Glasgow and Leeds and 2 more. Often billed alongside Horsepower Productions, Benton (UK) and Breakfake. Next up: EXIT Glasgow, Glasgow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Benny Ill is a dubstep and bass artist based in United Kingdom, with 19 gigs on 
 
 Horsepower Productions, Benton (UK), Breakfake
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*

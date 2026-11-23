@@ -1,6 +1,6 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Reeshy is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
 Reeshy is a house and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Austria, Barcelona and Birmingham and 18 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
@@ -34,4 +34,4 @@ Reeshy is a house and tech house artist based in United Kingdom, with 123 gigs o
 
 Enzo Siragusa, Laidlaw, Julian Anthony
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

@@ -1,6 +1,6 @@
 # Thojo
 
-Thojo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
+Thojo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
 
 Thojo is an electro and house artist based in Belgium, with 15 gigs on soundcheck across Brussels, Copenhagen and Ghent. Often billed alongside user1, Leef and Malo Z. Next up: UMI, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Thojo is an electro and house artist based in Belgium, with 15 gigs on soundchec
 
 user1, Leef, Malo Z
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thojo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thojo/)*

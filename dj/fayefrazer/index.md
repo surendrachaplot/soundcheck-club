@@ -1,6 +1,6 @@
 # Faye Frazer
 
-Faye Frazer is a Broken Beat and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Jumbi, London on Fri, 27 Nov 2026.
+Faye Frazer is a Broken Beat and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jumbi, London on Fri, 27 Nov 2026.
 
 Faye Frazer is a broken beat and bass artist, with 7 gigs on soundcheck across London. Often billed alongside Saige Sounds, Alexander Nut and Caspa Mono. Next up: Jumbi, London on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Faye Frazer is a broken beat and bass artist, with 7 gigs on soundcheck across L
 
 Saige Sounds, Alexander Nut, Caspa Mono
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fayefrazer/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fayefrazer/)*

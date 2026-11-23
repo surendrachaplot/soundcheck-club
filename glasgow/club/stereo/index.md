@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Chicago Footwork DJ/Dance Session" on Wed, 25 Nov 2026.
+Stereo is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Chicago Footwork DJ/Dance Session" on Wed, 25 Nov 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Boner, Acido Cielo, Coki and COURTEZ and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Boner, Acido Cielo, Coki and COURTEZ and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

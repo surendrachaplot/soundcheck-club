@@ -1,6 +1,6 @@
 # CC:ME
 
-CC:ME is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
+CC:ME is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
 
 CC:ME is a club and breakbeat artist based in New Zealand, with 2 gigs on soundcheck across Auckland. Often billed alongside Andwahn, Aunty Bev and Aunty El. Next up: Whammy Bar, Auckland on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ CC:ME is a club and breakbeat artist based in New Zealand, with 2 gigs on soundc
 
 Andwahn, Aunty Bev, Aunty El
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccme/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccme/)*

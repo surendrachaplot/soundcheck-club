@@ -1,6 +1,6 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at NT's Loft, London on Sat, 5 Dec 2026.
+Lewis Carroll is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at NT's Loft, London on Sat, 5 Dec 2026.
 
 Lewis Carroll is a house and garage artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Cardiff and 7 more. Often billed alongside Dan Schofield, Tom Da Silva and Elliot Schooling. Next up: NT's Loft, London on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Lewis Carroll is a house and garage artist based in United Kingdom, with 54 gigs
 
 Dan Schofield, Tom Da Silva, Elliot Schooling
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*

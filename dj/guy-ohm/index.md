@@ -1,6 +1,6 @@
 # Guy-Ohm
 
-Guy-Ohm is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at China Star Restaurant, Antwerp on Thu, 31 Dec 2026.
+Guy-Ohm is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at China Star Restaurant, Antwerp on Thu, 31 Dec 2026.
 
 Guy-Ohm is a house and disco artist, with 2 gigs on soundcheck across Antwerp. Often billed alongside BORDEL! and Pirrès. Next up: China Star Restaurant, Antwerp on Thu 31 Dec.
 
@@ -18,4 +18,4 @@ Guy-Ohm is a house and disco artist, with 2 gigs on soundcheck across Antwerp. O
 
 BORDEL!, Pirrès
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guy-ohm/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guy-ohm/)*

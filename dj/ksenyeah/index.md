@@ -1,6 +1,6 @@
 # Ksenyeah
 
-Ksenyeah is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Green Room NYC, New York City on Sat, 12 Dec 2026.
+Ksenyeah is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Green Room NYC, New York City on Sat, 12 Dec 2026.
 
 Ksenyeah is a house and deep house artist based in Ukraine, with 49 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and Kate Simko. Next up: Green Room NYC, New York City on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Ksenyeah is a house and deep house artist based in Ukraine, with 49 gigs on soun
 
 Manguito, Van Der Laan, Kate Simko
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*

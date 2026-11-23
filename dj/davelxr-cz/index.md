@@ -1,6 +1,6 @@
 # Dave.LXR
 
-Dave.LXR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 5 Dec 2026.
+Dave.LXR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 5 Dec 2026.
 
 Dave.LXR is a techno and hardcore artist based in Czech Republic, with 9 gigs on soundcheck across Dresden and Prague. Often billed alongside AUGENGRAU, B.UNQ and Camarōn. Next up: Sektor Evolution, Dresden on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Dave.LXR is a techno and hardcore artist based in Czech Republic, with 9 gigs on
 
 AUGENGRAU, B.UNQ, Camarōn
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davelxr-cz/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davelxr-cz/)*

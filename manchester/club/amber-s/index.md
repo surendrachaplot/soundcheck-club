@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Amber's presents: Addison Groove & Denham Audio" on Fri, 27 Nov 2026.
+Amber's is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Amber's presents: Addison Groove & Denham Audio" on Fri, 27 Nov 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Addison Groove, Anz, Denham Audio and DJ BORING and 2 more. See dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -9,7 +9,7 @@ Amber's is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Amber's presents: Addison Groove & Denham Audio | Addison Groove, Denham Audio, Syntax (2) |
-| Sat, 28 Nov 2026 | Saturdays At Amber's: Horse Meat Disco | Horse Meat Disco |
+| Sat, 28 Nov 2026 | Saturdays At Amber's: Horse Meat Disco | Horse Meat Disco, Macy Lancaster |
 | Wed, 2 Dec 2026 | We Need Some More Men In Here: Male Allyship in Dance Music | Faster Horses, Hutch, Mr Scruff |
 | Sat, 5 Dec 2026 | Amber's 2nd Birthday |  |
 | Sat, 19 Dec 2026 | Amber's presents: FREAKENSTEIN & Anz | Anz, FREAKENSTEIN, Tristan da Cunha |
@@ -20,4 +20,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, wi
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

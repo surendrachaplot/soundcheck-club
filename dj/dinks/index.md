@@ -1,6 +1,6 @@
 # DINKS
 
-DINKS is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
+DINKS is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
 
 DINKS is a house and bass artist based in Germany, with 4 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Katzenohr, Bizzarro Universe and Camion Bazar. Next up: ://about blank, Berlin on Sun 29 Nov.
 
@@ -20,4 +20,4 @@ DINKS is a house and bass artist based in Germany, with 4 gigs on soundcheck acr
 
 Katzenohr, Bizzarro Universe, Camion Bazar
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinks/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinks/)*

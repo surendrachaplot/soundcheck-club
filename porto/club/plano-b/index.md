@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "NIGHTSHIFT - PIMENTTA + E.A.R.L" on Thu, 26 Nov 2026.
+Plano B is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "NIGHTSHIFT - PIMENTTA + E.A.R.L" on Thu, 26 Nov 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with line-ups including Alive, Jen Cardini, Joao Semedo and PAZ WAZ HERE and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -18,4 +18,4 @@ Plano B is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with li
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

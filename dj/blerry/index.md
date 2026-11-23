@@ -1,8 +1,8 @@
 # Blerry
 
-Blerry is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Avalon Hollywood, Los Angeles on Sat, 28 Nov 2026.
+Blerry is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Avalon Hollywood, Los Angeles on Sat, 28 Nov 2026.
 
-Blerry is a tech house and techno artist, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Estalit, Lavenge and Max Rush. Next up: Avalon Hollywood, Los Angeles on Sat 28 Nov.
+Blerry is a tech house and house artist, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Estalit, Lavenge and Max Rush. Next up: Avalon Hollywood, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Blerry is a tech house and techno artist, with 9 gigs on soundcheck across Los A
 
 Estalit, Lavenge, Max Rush
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blerry/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blerry/)*

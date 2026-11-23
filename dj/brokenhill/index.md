@@ -1,6 +1,6 @@
 # Broken Hill
 
-Broken Hill is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at SILO, New York City on Sat, 30 Jan 2027.
+Broken Hill is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at SILO, New York City on Sat, 30 Jan 2027.
 
 Broken Hill is a house and tech house artist based in Spain, with 21 gigs on soundcheck across Barcelona, Boston, Dallas/Fort Worth and Denver and 9 more. Often billed alongside AMÉMÉ, Eli Brown and FISHER. Next up: SILO, New York City on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Broken Hill is a house and tech house artist based in Spain, with 21 gigs on sou
 
 AMÉMÉ, Eli Brown, FISHER
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhill/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhill/)*

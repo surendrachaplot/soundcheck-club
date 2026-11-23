@@ -1,6 +1,6 @@
 # Prince Charli
 
-Prince Charli is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Vino Disco, Montreal on Fri, 15 Jan 2027.
+Prince Charli is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Vino Disco, Montreal on Fri, 15 Jan 2027.
 
 Prince Charli is a house artist based in Canada, with 2 gigs on soundcheck across Montreal. Often billed alongside Atlas Heir, Lex Ferenda and Salomé (CA). Next up: Vino Disco, Montreal on Fri 15 Jan.
 
@@ -18,4 +18,4 @@ Prince Charli is a house artist based in Canada, with 2 gigs on soundcheck acros
 
 Atlas Heir, Lex Ferenda, Salomé (CA)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princecharli/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princecharli/)*

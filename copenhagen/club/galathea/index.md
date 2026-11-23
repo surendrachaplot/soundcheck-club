@@ -1,6 +1,6 @@
 # Galathea
 
-Galathea is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "DJ VAMMEN VS. Galathea" on Thu, 26 Nov 2026.
+Galathea is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "DJ VAMMEN VS. Galathea" on Thu, 26 Nov 2026.
 
 Galathea is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including MORTEN VAMMEN. See dates, start times and who's playing. Rådhusstræde 9, 1466 København.
 
@@ -14,4 +14,4 @@ Galathea is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, wi
 
 Rådhusstræde 9, 1466 København, Copenhagen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/galathea/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/galathea/)*

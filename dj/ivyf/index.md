@@ -1,6 +1,6 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at FOLD, London on Fri, 18 Dec 2026.
+Ivy F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Fri, 18 Dec 2026.
 
 Ivy F is a house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside LO-LOW, Fastlove and Marie Malarie. Next up: FOLD, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ivy F is a house and techno artist based in United Kingdom, with 14 gigs on soun
 
 LO-LOW, Fastlove, Marie Malarie
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

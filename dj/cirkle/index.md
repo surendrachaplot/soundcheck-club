@@ -1,6 +1,6 @@
 # Cirkle
 
-Cirkle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
+Cirkle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
 
 Cirkle is a techno and house artist based in Greece, with 137 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside a.metz, Até. and SALIN. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Cirkle is a techno and house artist based in Greece, with 137 gigs on soundcheck
 
 a.metz, Até., SALIN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkle/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkle/)*

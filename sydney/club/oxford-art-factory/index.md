@@ -1,6 +1,6 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "CELESTIA天体: Venesiaworld (SYD)" on Fri, 27 Nov 2026.
+Oxford Art Factory is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "CELESTIA天体: Venesiaworld (SYD)" on Fri, 27 Nov 2026.
 
 Oxford Art Factory is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including 4am Kru, Animistic Beliefs, Bambii and C.FRIM and 2 more. See dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
@@ -21,4 +21,4 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 8 upcoming g
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

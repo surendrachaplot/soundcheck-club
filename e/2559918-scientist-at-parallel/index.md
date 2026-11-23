@@ -1,6 +1,6 @@
 # Scientist at Parallel
 
-Scientist at Parallel on Sat 20 Feb, Amsterdam. 1 artist: The Scientist. See the line-up on soundcheck.
+Scientist at Parallel on Sat 20 Feb, Amsterdam. 1 artist: The Scientist. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

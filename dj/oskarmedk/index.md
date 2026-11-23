@@ -1,6 +1,6 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+oskar med k is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 oskar med k is a house and deep house artist based in Norway, with 26 gigs on soundcheck across Barcelona, Berlin, Brisbane and Budapest and 20 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -29,4 +29,4 @@ oskar med k is a house and deep house artist based in Norway, with 26 gigs on so
 
 Boys Noize, Dean Turnley, Skepta
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

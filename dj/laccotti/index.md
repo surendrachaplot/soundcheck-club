@@ -1,6 +1,6 @@
 # laccotti
 
-laccotti is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+laccotti is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 laccotti is a techno and industrial artist based in Serbia, with 18 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Stameni, Asarri and RAR. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ laccotti is a techno and industrial artist based in Serbia, with 18 gigs on soun
 
 Stameni, Asarri, RAR
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*

@@ -1,6 +1,6 @@
 # Objekt
 
-Objekt is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Palais, London on Fri, 11 Dec 2026.
+Objekt is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Palais, London on Fri, 11 Dec 2026.
 
 Objekt is a techno and bass artist, with 201 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 70 more. Often billed alongside CCL, DjRUM and Eris Drew. Next up: Palais, London on Fri 11 Dec.
 
@@ -29,4 +29,4 @@ Objekt is a techno and bass artist, with 201 gigs on soundcheck across Amsterdam
 
 CCL, DjRUM, Eris Drew
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*

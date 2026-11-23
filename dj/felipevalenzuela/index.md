@@ -1,6 +1,6 @@
 # Felipe Valenzuela
 
-Felipe Valenzuela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
+Felipe Valenzuela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
 
 Felipe Valenzuela is a house and tech house artist based in Chile, with 70 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside Dani Casarano, Abscal and Pau Pérez. Next up: Spook Club, Valencia on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Felipe Valenzuela is a house and tech house artist based in Chile, with 70 gigs 
 
 Dani Casarano, Abscal, Pau Pérez
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*

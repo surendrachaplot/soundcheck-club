@@ -1,6 +1,6 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
+Peggy Gou is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
 
 Peggy Gou is a house and techno artist based in Germany, with 118 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 51 more. Often billed alongside ANOTR, Chloé Caillet and Mochakk. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Peggy Gou is a house and techno artist based in Germany, with 118 gigs on soundc
 
 ANOTR, Chloé Caillet, Mochakk
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

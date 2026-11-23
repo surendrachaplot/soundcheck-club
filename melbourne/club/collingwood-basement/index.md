@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Live In The Basement: Live Electronic" on Thu, 26 Nov 2026.
+Collingwood Basement is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Live In The Basement: Live Electronic" on Thu, 26 Nov 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including AROHA, Bex, Christopher Coe and DJ Kiti and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -19,4 +19,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 6 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

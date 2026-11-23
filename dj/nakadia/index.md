@@ -1,6 +1,6 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lounge by Warm up Cafe, Thailand on Fri, 27 Nov 2026.
+Nakadia is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lounge by Warm up Cafe, Thailand on Fri, 27 Nov 2026.
 
 Nakadia is a techno and tech house artist based in Thailand, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Lounge by Warm up Cafe, Thailand on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Nakadia is a techno and tech house artist based in Thailand, with 102 gigs on so
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

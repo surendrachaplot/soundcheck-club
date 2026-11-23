@@ -1,6 +1,6 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Plaza Hotel Sydney, Sydney on Fri, 18 Dec 2026.
+Chaos In The CBD is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Plaza Hotel Sydney, Sydney on Fri, 18 Dec 2026.
 
 Chaos In The CBD is a house and techno artist based in New Zealand, with 231 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 67 more. Often billed alongside Sally C, Ben UFO and Seth Troxler. Next up: Plaza Hotel Sydney, Sydney on Fri 18 Dec.
 
@@ -29,4 +29,4 @@ Chaos In The CBD is a house and techno artist based in New Zealand, with 231 gig
 
 Sally C, Ben UFO, Seth Troxler
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

@@ -1,14 +1,15 @@
 # Godski
 
-Godski is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at MODULE, Copenhagen on Sat, 28 Nov 2026.
+Godski is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at MODULE, Copenhagen on Sat, 28 Nov 2026.
 
-Godski is a trance and techno artist based in Denmark, with 5 gigs on soundcheck across Copenhagen. Often billed alongside babysquid, ASTA MARI and DJ Void. Next up: MODULE, Copenhagen on Sat 28 Nov.
+Godski is a trance and techno artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside ASTA MARI, babysquid and Cakebutcher. Next up: MODULE, Copenhagen on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | MODULE | Copenhagen |
+| Fri, 11 Dec 2026 | MODULE | Copenhagen |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Godski is a trance and techno artist based in Denmark, with 5 gigs on soundcheck
 
 ## Shares bills with
 
-babysquid, ASTA MARI, DJ Void (3)
+ASTA MARI, babysquid, Cakebutcher
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/godski/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/godski/)*

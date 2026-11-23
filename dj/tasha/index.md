@@ -1,15 +1,15 @@
 # Tasha
 
-Tasha is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Tasha is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
 
-Tasha is a techno and house artist based in United Kingdom, with 216 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Blasha & Allatt, Steffi and DVS1. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
+Tasha is a techno and house artist based in United Kingdom, with 217 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Blasha & Allatt, Steffi and Stenny. Next up: Bassiani, Tbilisi on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 27 Nov 2026 | Bassiani | Tbilisi |
+| Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Dec 2026 | Hidden | Manchester |
 | Sat, 12 Dec 2026 | Gewölbe | Cologne |
 | Sat, 19 Dec 2026 | Razzmatazz | Barcelona |
@@ -33,6 +33,6 @@ Tasha is a techno and house artist based in United Kingdom, with 216 gigs on sou
 
 ## Shares bills with
 
-Blasha & Allatt, Steffi, DVS1
+Blasha & Allatt, Steffi, Stenny
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

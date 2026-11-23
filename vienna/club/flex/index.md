@@ -1,18 +1,17 @@
 # Flex
 
-Flex is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Collapse & The Hive present: Ed Rush" on Sat, 14 Nov 2026.
+Flex is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Step to Tek 9 Years Anniversaty | 2 floors" on Mon, 7 Dec 2026.
 
-Flex is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Ed Rush and Waeys. See dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
+Flex is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Collapse & The Hive present: Ed Rush | Ed Rush, Waeys |
-| Sat, 14 Nov 2026 | THE HIVE & COLLAPSE pres. ED RUSH AT FLEX VIENNA | Ed Rush, Waeys |
+| Mon, 7 Dec 2026 | Step to Tek 9 Years Anniversaty / 2 floors |  |
 
 ## Address
 
 Abgang Augartenbruecke; 1010 Vienna; Austria, Vienna
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*

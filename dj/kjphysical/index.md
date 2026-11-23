@@ -1,6 +1,6 @@
 # KJ Physical
 
-KJ Physical is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 10 Dec 2026.
+KJ Physical is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 10 Dec 2026.
 
 KJ Physical is a house and electro artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside R1pq, ATMK and CRAZYHYUGA. Next up: ZEROTOKYO, Tokyo on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ KJ Physical is a house and electro artist based in Japan, with 4 gigs on soundch
 
 R1pq, ATMK, CRAZYHYUGA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjphysical/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjphysical/)*

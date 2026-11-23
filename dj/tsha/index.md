@@ -1,6 +1,6 @@
 # TSHA
 
-TSHA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at The Ivy, Sydney on Sat, 28 Nov 2026.
+TSHA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Ivy, Sydney on Sat, 28 Nov 2026.
 
 TSHA is a house and techno artist based in United Kingdom, with 206 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 63 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: The Ivy, Sydney on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ TSHA is a house and techno artist based in United Kingdom, with 206 gigs on soun
 
 Eliza Rose, Honey Dijon, Seth Troxler
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*

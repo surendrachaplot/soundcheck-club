@@ -1,6 +1,6 @@
 # Avenir
 
-Avenir is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mia Mao, Paris on Sat, 26 Dec 2026.
+Avenir is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mia Mao, Paris on Sat, 26 Dec 2026.
 
 Avenir is a techno and trance artist based in Italy, with 14 gigs on soundcheck across Marseille, Nantes, Paris and Rome. Often billed alongside 999999999, ALT8 and Artifak. Next up: Mia Mao, Paris on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Avenir is a techno and trance artist based in Italy, with 14 gigs on soundcheck 
 
 999999999, ALT8, Artifak
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avenir/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avenir/)*

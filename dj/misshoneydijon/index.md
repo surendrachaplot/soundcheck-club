@@ -1,6 +1,6 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Manning Bar, Sydney on Fri, 27 Nov 2026.
+Honey Dijon is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Manning Bar, Sydney on Fri, 27 Nov 2026.
 
 Honey Dijon is a house and techno artist based in United States of America, with 217 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 47 more. Often billed alongside Chloé Caillet, Mochakk and CHRIS STASSY. Next up: Manning Bar, Sydney on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Honey Dijon is a house and techno artist based in United States of America, with
 
 Chloé Caillet, Mochakk, CHRIS STASSY
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

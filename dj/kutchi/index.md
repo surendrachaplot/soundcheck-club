@@ -1,6 +1,6 @@
 # Kutchi
 
-Kutchi is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Cu, London on Sat, 9 Jan 2027.
+Kutchi is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cu, London on Sat, 9 Jan 2027.
 
 Kutchi is a techno and dubstep artist based in United Kingdom, with 14 gigs on soundcheck across Bristol and London. Often billed alongside Dusty Dan, Basement Maxx and Isochrone. Next up: Cu, London on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Kutchi is a techno and dubstep artist based in United Kingdom, with 14 gigs on s
 
 Dusty Dan, Basement Maxx, Isochrone
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutchi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutchi/)*

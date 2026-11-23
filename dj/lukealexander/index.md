@@ -1,6 +1,6 @@
 # Luke Alexander
 
-Luke Alexander is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 4 Dec 2026.
+Luke Alexander is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 4 Dec 2026.
 
 Luke Alexander is a house and tech house artist based in United Kingdom, with 20 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 5 more. Often billed alongside Eli Brown, AMPRS&ND and Adam Beyer. Next up: Starlane Pizza Bar, London on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Luke Alexander is a house and tech house artist based in United Kingdom, with 20
 
 Eli Brown, AMPRS&ND, Adam Beyer
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

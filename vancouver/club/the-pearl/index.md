@@ -1,18 +1,17 @@
 # The Pearl
 
-The Pearl is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Garaj Mahal" on Sun, 22 Nov 2026.
+The Pearl is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "HOUSE PARTY RAVE" on Fri, 11 Dec 2026.
 
-The Pearl is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 881 Granville St, Vancouver, BC V6Z 1L1, Canada.
+The Pearl is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 881 Granville St, Vancouver, BC V6Z 1L1, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Garaj Mahal |  |
 | Fri, 11 Dec 2026 | HOUSE PARTY RAVE |  |
 
 ## Address
 
 881 Granville St, Vancouver, BC V6Z 1L1, Canada, Vancouver
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-pearl/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-pearl/)*

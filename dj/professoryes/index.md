@@ -1,6 +1,6 @@
 # Professor Yes
 
-Professor Yes is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Umusic Store Camden, London on Thu, 10 Dec 2026.
+Professor Yes is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Umusic Store Camden, London on Thu, 10 Dec 2026.
 
 Professor Yes is a tech house and garage artist based in United Kingdom, with 2 gigs on soundcheck across London and West Wales. Often billed alongside Emerald, Amaliah and Andy Hart. Next up: Umusic Store Camden, London on Thu 10 Dec.
 
@@ -15,4 +15,4 @@ Professor Yes is a tech house and garage artist based in United Kingdom, with 2 
 
 Emerald, Amaliah, Andy Hart
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/professoryes/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/professoryes/)*

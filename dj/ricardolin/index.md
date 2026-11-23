@@ -1,8 +1,8 @@
 # Ricardo Lin
 
-Ricardo Lin is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Terraza Music Park, Brazil on Sat, 5 Dec 2026.
+Ricardo Lin is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Terraza Music Park, Brazil on Sat, 5 Dec 2026.
 
-Ricardo Lin is a house and tech house artist based in Brazil, with 7 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside BLANCAh, Bob Moses and DJ ZAC. Next up: Terraza Music Park, Brazil on Sat 5 Dec.
+Ricardo Lin is a house and tech house artist based in Brazil, with 8 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside BLANCAh, Bob Moses and DJ ZAC. Next up: Terraza Music Park, Brazil on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ricardo Lin is a house and tech house artist based in Brazil, with 7 gigs on sou
 | Sat, 5 Dec 2026 | Terraza Music Park | Brazil |
 | Fri, 1 Jan 2027 | Terraza Music Park | Brazil |
 | Sat, 9 Jan 2027 | Terraza Music Park | Brazil |
+| Fri, 22 Jan 2027 | Terraza Music Park | Brazil |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Ricardo Lin is a house and tech house artist based in Brazil, with 7 gigs on sou
 
 BLANCAh, Bob Moses, DJ ZAC
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardolin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardolin/)*

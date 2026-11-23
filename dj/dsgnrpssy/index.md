@@ -1,6 +1,6 @@
 # DSGNRPSSY
 
-DSGNRPSSY is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Südpol, Hamburg on Sat, 5 Dec 2026.
+DSGNRPSSY is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Südpol, Hamburg on Sat, 5 Dec 2026.
 
 DSGNRPSSY is a techno and electro artist based in Germany, with 24 gigs on soundcheck across Berlin, Dresden, Glasgow and Hamburg. Often billed alongside La Carpio, Khloe and Liad Krispin. Next up: Südpol, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DSGNRPSSY is a techno and electro artist based in Germany, with 24 gigs on sound
 
 La Carpio, Khloe, Liad Krispin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*

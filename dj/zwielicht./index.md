@@ -1,6 +1,6 @@
 # ZWIELICHT.
 
-ZWIELICHT. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+ZWIELICHT. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 ZWIELICHT. is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cyprus and 4 more. Often billed alongside Karashò, TRANZ and Dagi Assefa. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -25,4 +25,4 @@ ZWIELICHT. is a techno and trance artist based in Germany, with 14 gigs on sound
 
 Karashò, TRANZ, Dagi Assefa
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwielicht./)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwielicht./)*

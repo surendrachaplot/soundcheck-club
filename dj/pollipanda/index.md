@@ -1,6 +1,6 @@
 # Polli Panda
 
-Polli Panda is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at BRET, Amsterdam on Fri, 4 Dec 2026.
+Polli Panda is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at BRET, Amsterdam on Fri, 4 Dec 2026.
 
 Polli Panda is a house and electro artist based in Czech Republic, with 43 gigs on soundcheck across Amsterdam, Canary Islands, Hannover and Prague and 2 more. Often billed alongside Abiba Sokoto, Carlos Valdes and Cliffie Square. Next up: BRET, Amsterdam on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Polli Panda is a house and electro artist based in Czech Republic, with 43 gigs 
 
 Abiba Sokoto, Carlos Valdes, Cliffie Square
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*

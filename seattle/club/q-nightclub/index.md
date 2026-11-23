@@ -1,6 +1,6 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 14 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "GRABBITZ" on Fri, 27 Nov 2026.
+Q Nightclub is a music venue in Seattle with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "GRABBITZ" on Fri, 27 Nov 2026.
 
 Q Nightclub is a music venue in Seattle listed on soundcheck. 14 upcoming gigs, with line-ups including anamē, luci., Markus Schulz and Roger Sanchez and 1 more. See dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 14 upcoming gigs, 
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

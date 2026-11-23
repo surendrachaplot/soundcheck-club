@@ -1,6 +1,6 @@
 # The Island
 
-The Island is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Regis live with Liam Andrews, Anina & Jay Galligan" on Sat, 5 Dec 2026.
+The Island is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Regis live with Liam Andrews, Anina & Jay Galligan" on Sat, 5 Dec 2026.
 
 The Island is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including ALYA L, Anina, Bruce and Clarity and 2 more. See dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
 
@@ -15,4 +15,4 @@ The Island is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, wi
 
 Bridewell St, Bristol, BS1 2QD, United Kingdom, Bristol
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*

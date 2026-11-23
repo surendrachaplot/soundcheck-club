@@ -1,6 +1,6 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 27 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Giolì & Assia" on Sun, 22 Nov 2026.
+Savaya Bali is a music venue in Bali with 27 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DJ Habibeats" on Sat, 28 Nov 2026.
 
 Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming gigs, with line-ups including AMÉMÉ, Argy, Baby J and Ben Böhmer and 2 more. See dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
@@ -8,7 +8,6 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Giolì & Assia | Giolì & Assia |
 | Sat, 28 Nov 2026 | DJ Habibeats | DJ Habibeats |
 | Sun, 29 Nov 2026 | Joseph Capriati | Joseph Capriati |
 | Fri, 4 Dec 2026 | Defected | Sam Divine, TSHA |
@@ -18,9 +17,10 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming gigs, wit
 | Sun, 13 Dec 2026 | Liva K | Liva K |
 | Sat, 19 Dec 2026 | Vintage Culture | Vintage Culture |
 | Sun, 20 Dec 2026 | Jackie Hollander | Jackie Hollander |
+| Sun, 27 Dec 2026 | Jan Blomqvist (Live) | Jan Blomqvist |
 
 ## Address
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

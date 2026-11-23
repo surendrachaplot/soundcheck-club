@@ -1,6 +1,6 @@
 # DJ mǐn
 
-DJ mǐn is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Vespers Club, London on Tue, 1 Dec 2026.
+DJ mǐn is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Vespers Club, London on Tue, 1 Dec 2026.
 
 DJ mǐn is an electronica and pop artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Dachen, Dirty K and Kekeneko. Next up: Vespers Club, London on Tue 1 Dec.
 
@@ -19,4 +19,4 @@ DJ mǐn is an electronica and pop artist based in United Kingdom, with 3 gigs on
 
 Dachen, Dirty K, Kekeneko
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmin/)*

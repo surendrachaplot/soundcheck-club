@@ -1,6 +1,6 @@
 # Pleasure Jams
 
-Pleasure Jams is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Metal Shop Loft, New York City on Sat, 5 Dec 2026.
+Pleasure Jams is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Metal Shop Loft, New York City on Sat, 5 Dec 2026.
 
 Pleasure Jams is a house and disco artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside Stewey Decimal, Miss Alicia and Allie Bell. Next up: TBA - Metal Shop Loft, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Pleasure Jams is a house and disco artist based in United States of America, wit
 
 Stewey Decimal, Miss Alicia, Allie Bell
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasurejams/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasurejams/)*

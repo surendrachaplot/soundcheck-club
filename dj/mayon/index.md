@@ -1,6 +1,6 @@
 # Mayon
 
-Mayon is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
+Mayon is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
 
 Mayon is a techno and club artist based in United States of America, with 17 gigs on soundcheck across Detroit and New York City. Often billed alongside BLKshine, Leonce and Madre Guía. Next up: Paragon, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mayon is a techno and club artist based in United States of America, with 17 gig
 
 BLKshine, Leonce, Madre Guía
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayon/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayon/)*

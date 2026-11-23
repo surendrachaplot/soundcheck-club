@@ -1,6 +1,6 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Luke Alessi is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Luke Alessi is a house and techno artist based in Australia, with 134 gigs on soundcheck across Amsterdam, Austin, Australian Capital Territory and Bangkok and 45 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Luke Alessi is a house and techno artist based in Australia, with 134 gigs on so
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

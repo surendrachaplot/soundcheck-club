@@ -1,6 +1,6 @@
 # S.Dean
 
-S.Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Die Schneiderei, Zurich on Fri, 4 Dec 2026.
+S.Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Die Schneiderei, Zurich on Fri, 4 Dec 2026.
 
 S.Dean is a techno and house artist based in Germany, with 2 gigs on soundcheck across Zurich. Often billed alongside Sebb (RO) and Ulysse. Next up: Die Schneiderei, Zurich on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ S.Dean is a techno and house artist based in Germany, with 2 gigs on soundcheck 
 
 Sebb (RO), Ulysse
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.dean/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.dean/)*

@@ -1,6 +1,6 @@
 # Toni Pfad
 
-Toni Pfad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Toni Pfad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Toni Pfad is a house and techno artist, with 30 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig. Often billed alongside Crille & Tamalt, Hannie Phi and Heimlich Maneuver. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Toni Pfad is a house and techno artist, with 30 gigs on soundcheck across Berlin
 
 Crille & Tamalt, Hannie Phi, Heimlich Maneuver
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonipfad/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonipfad/)*

@@ -1,6 +1,6 @@
 # ik0nixx
 
-ik0nixx is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Bag Factory, Manchester on Fri, 4 Dec 2026.
+ik0nixx is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Bag Factory, Manchester on Fri, 4 Dec 2026.
 
 ik0nixx is a tech house and acid artist, with 4 gigs on soundcheck across Manchester and Sheffield. Often billed alongside HausKlown, FKA Hardcore and Willow J. Next up: The Bag Factory, Manchester on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ ik0nixx is a tech house and acid artist, with 4 gigs on soundcheck across Manche
 
 HausKlown, FKA Hardcore, Willow J
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ik0nixx/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ik0nixx/)*

@@ -1,6 +1,6 @@
 # Dego
 
-Dego is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Carpet Shop, London on Fri, 4 Dec 2026.
+Dego is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Carpet Shop, London on Fri, 4 Dec 2026.
 
 Dego is a funk / soul and disco artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London, Milan and Nottingham and 1 more. Often billed alongside Sadar Bahar, Volcov and Alex Rita. Next up: The Carpet Shop, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dego is a funk / soul and disco artist based in United Kingdom, with 11 gigs on 
 
 Sadar Bahar, Volcov, Alex Rita
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dego/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dego/)*

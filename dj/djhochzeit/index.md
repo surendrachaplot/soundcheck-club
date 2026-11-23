@@ -1,6 +1,6 @@
 # DJ Hochzeit
 
-DJ Hochzeit is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 26 Nov 2026.
+DJ Hochzeit is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 26 Nov 2026.
 
 DJ Hochzeit is a house and tech house artist based in Germany, with 36 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside MLE, ogmilian and DJ Babyblade. Next up: Golden Pudel Club, Hamburg on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ DJ Hochzeit is a house and tech house artist based in Germany, with 36 gigs on s
 
 MLE (2), ogmilian, DJ Babyblade
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*

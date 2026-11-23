@@ -1,6 +1,6 @@
 # sqto
 
-sqto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Heavy Budapest, Budapest on Sat, 28 Nov 2026.
+sqto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Heavy Budapest, Budapest on Sat, 28 Nov 2026.
 
 sqto is a house and tech house artist based in Hungary, with 22 gigs on soundcheck across Budapest. Often billed alongside ARGO (HU), AIRKEY and La La. Next up: Heavy Budapest, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ sqto is a house and tech house artist based in Hungary, with 22 gigs on soundche
 
 ARGO (HU), AIRKEY, La La
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*

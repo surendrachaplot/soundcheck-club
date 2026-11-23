@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Peak Condition with BAY-BUSH-KA, Will Druid + Loz Track" on Sat, 28 Nov 2026.
+Outlaws Yacht Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Peak Condition with BAY-BUSH-KA, Will Druid + Loz Track" on Sat, 28 Nov 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including BAY-BUSH-KA, Cosmikuro, Etienne Groh and Maves and 2 more. See dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -16,4 +16,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 3 upcoming gi
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

@@ -1,6 +1,6 @@
 # 3kelves
 
-3kelves is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Monarch, San Francisco/Oakland on Wed, 25 Nov 2026.
+3kelves is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Monarch, San Francisco/Oakland on Wed, 25 Nov 2026.
 
 3kelves is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Dylan C. Greene, Cole Odin and DJ M3. Next up: Monarch, San Francisco/Oakland on Wed 25 Nov.
 
@@ -27,4 +27,4 @@
 
 Dylan C. Greene, Cole Odin, DJ M3
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3kelves/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3kelves/)*

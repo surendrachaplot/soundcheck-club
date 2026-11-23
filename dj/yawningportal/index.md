@@ -1,6 +1,6 @@
 # Yawning Portal
 
-Yawning Portal is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at EartH, London on Mon, 7 Dec 2026.
+Yawning Portal is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at EartH, London on Mon, 7 Dec 2026.
 
 Yawning Portal is an electronica and experimental artist based in United Kingdom, with 3 gigs on soundcheck across London and Oslo. Often billed alongside DJ GHEPARD, Erik M. and Eurohead. Next up: EartH, London on Mon 7 Dec.
 
@@ -19,4 +19,4 @@ Yawning Portal is an electronica and experimental artist based in United Kingdom
 
 DJ GHEPARD, Erik M., Eurohead
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yawningportal/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yawningportal/)*

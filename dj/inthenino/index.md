@@ -1,6 +1,6 @@
 # Inthenino
 
-Inthenino is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+Inthenino is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 Inthenino is an electronic artist based in Italy, with 4 gigs on soundcheck across Rome. Often billed alongside Denise Luzzi, Sancra and Green (IT). Next up: TBA, Rome on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Inthenino is an electronic artist based in Italy, with 4 gigs on soundcheck acro
 
 Denise Luzzi, Sancra, Green (IT)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inthenino/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inthenino/)*

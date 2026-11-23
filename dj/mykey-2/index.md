@@ -1,6 +1,6 @@
 # Mykey (2)
 
-Mykey (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Mon, 30 Nov 2026.
+Mykey (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Mon, 30 Nov 2026.
 
 Mykey is a bass and techno artist based in Japan, with 35 gigs on soundcheck across Baltimore, Berlin and Tokyo. Often billed alongside Leefia, Ozwick and Acrocanthosaurus. Next up: Nakano Heavysick Zero, Tokyo on Mon 30 Nov.
 
@@ -26,4 +26,4 @@ Mykey is a bass and techno artist based in Japan, with 35 gigs on soundcheck acr
 
 Leefia, Ozwick, Acrocanthosaurus
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*

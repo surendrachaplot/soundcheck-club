@@ -1,14 +1,13 @@
 # eveava
 
-eveava is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+eveava is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
-eveava is a house and techno artist based in Colombia, with 56 gigs on soundcheck across Berlin, Bogotá, Frankfurt and Lisbon and 2 more. Often billed alongside True Vine, Peter Schumann and Whitesquare. Next up: Golden Gate, Berlin on Thu 19 Nov.
+eveava is a house and techno artist based in Colombia, with 56 gigs on soundcheck across Berlin, Bogotá, Frankfurt and Lisbon and 2 more. Often billed alongside True Vine, Peter Schumann and Whitesquare. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Golden Gate | Berlin |
 | Fri, 27 Nov 2026 | Hoppetosse | Berlin |
 | Wed, 23 Dec 2026 | Tresor / Globus | Berlin |
 
@@ -27,4 +26,4 @@ eveava is a house and techno artist based in Colombia, with 56 gigs on soundchec
 
 True Vine, Peter Schumann, Whitesquare
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*

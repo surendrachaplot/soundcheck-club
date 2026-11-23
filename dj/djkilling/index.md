@@ -1,6 +1,6 @@
 # DJ KILLING
 
-DJ KILLING is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at OST, Berlin on Sat, 13 Feb 2027.
+DJ KILLING is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OST, Berlin on Sat, 13 Feb 2027.
 
 DJ KILLING is a techno and house artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Basel, Berlin and Hamburg and 8 more. Often billed alongside travaspango, LINDHOUSE and juan and only. Next up: OST, Berlin on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ DJ KILLING is a techno and house artist based in Germany, with 131 gigs on sound
 
 travaspango, LINDHOUSE, juan and only
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*

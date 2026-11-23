@@ -1,14 +1,13 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Miami Marketta, Gold-coast on Sun, 22 Nov 2026.
+Max Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Miami Marketta, Gold Coast on Sun 22 Nov.
+Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Miami Marketta | Gold-coast |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -20,6 +19,7 @@ Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs
 
 ## Recently played
 
+- Miami Marketta, Gold-coast · Sun, 22 Nov 2026
 - Fleet Steps - Mrs Macquaries Point, Sydney · Sat, 21 Nov 2026
 - The Ivy, Sydney · Sat, 21 Nov 2026
 - TBA - 546 Collins Street, Melbourne, Melbourne · Fri, 20 Nov 2026
@@ -27,10 +27,9 @@ Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs
 - Chelmsford City Racecourse, London · Sun, 1 Nov 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Taets Art and Event Park, Netherlands · Fri, 23 Oct 2026
-- Mana Wynwood, Miami · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

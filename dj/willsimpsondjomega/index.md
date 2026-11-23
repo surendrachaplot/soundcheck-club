@@ -1,6 +1,6 @@
 # Will Simpson ( DJ Omega)
 
-Will Simpson ( DJ Omega) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Trumbullplex, Detroit on Sat, 28 Nov 2026.
+Will Simpson ( DJ Omega) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Trumbullplex, Detroit on Sat, 28 Nov 2026.
 
 Will Simpson ( DJ Omega) is a techno and electro artist based in United States of America, with 3 gigs on soundcheck across Detroit. Often billed alongside Shawescape Renegade, Arvin T and Augustus Williams. Next up: Trumbullplex, Detroit on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Will Simpson ( DJ Omega) is a techno and electro artist based in United States o
 
 Shawescape Renegade, Arvin T, Augustus Williams
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willsimpsondjomega/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willsimpsondjomega/)*

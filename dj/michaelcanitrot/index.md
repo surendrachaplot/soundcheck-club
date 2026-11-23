@@ -1,6 +1,6 @@
 # Michael Canitrot
 
-Michael Canitrot is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 5 Dec 2026.
+Michael Canitrot is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 5 Dec 2026.
 
 Michael Canitrot is a techno and progressive house artist based in France, with 14 gigs on soundcheck across Amsterdam, Basel, Berlin and Dublin and 5 more. Often billed alongside Max Menaged, ANII and ANÆT. Next up: Ritter Butzke, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Michael Canitrot is a techno and progressive house artist based in France, with 
 
 Max Menaged, ANII, ANÆT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcanitrot/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcanitrot/)*

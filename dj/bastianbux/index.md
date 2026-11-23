@@ -1,6 +1,6 @@
 # Bastian Bux
 
-Bastian Bux is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Bastian Bux is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Bastian Bux is a house and tech house artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 22 more. Often billed alongside Eats Everything, Tini Gessler and Paco Osuna. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -27,4 +27,4 @@ Bastian Bux is a house and tech house artist based in Spain, with 100 gigs on so
 
 Eats Everything, Tini Gessler, Paco Osuna
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*

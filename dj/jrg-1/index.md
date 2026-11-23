@@ -1,6 +1,6 @@
 # JRG
 
-JRG is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Powered by Void Acoustics, Madrid on Fri, 4 Dec 2026.
+JRG is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Powered by Void Acoustics, Madrid on Fri, 4 Dec 2026.
 
 JRG is a techno and industrial artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Cologne and Ibiza and 2 more. Often billed alongside Møstroh, Tasuik and Pulpix. Next up: TBA - Powered by Void Acoustics, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ JRG is a techno and industrial artist based in Spain, with 73 gigs on soundcheck
 
 Møstroh, Tasuik, Pulpix
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jrg-1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jrg-1/)*

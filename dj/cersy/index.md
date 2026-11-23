@@ -1,6 +1,6 @@
 # Cersy
 
-Cersy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Kapsule, Liverpool on Sat, 30 Jan 2027.
+Cersy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kapsule, Liverpool on Sat, 30 Jan 2027.
 
 Cersy is a techno and bass artist based in United Kingdom, with 85 gigs on soundcheck across Bristol, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Allius, GFA and Kop-Z. Next up: Kapsule, Liverpool on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Cersy is a techno and bass artist based in United Kingdom, with 85 gigs on sound
 
 Allius, GFA, Kop-Z
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*

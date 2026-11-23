@@ -1,6 +1,6 @@
 # Dapayk
 
-Dapayk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Feinkost Club, Saxony-anhalt on Sat, 12 Dec 2026.
+Dapayk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Feinkost Club, Saxony-anhalt on Sat, 12 Dec 2026.
 
 Dapayk is a techno and house artist based in Germany, with 2 gigs on soundcheck across Istanbul and Saxony Anhalt. Often billed alongside Andreas Henneberg and Marek Bois. Next up: Feinkost Club, Saxony Anhalt on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Dapayk is a techno and house artist based in Germany, with 2 gigs on soundcheck 
 
 Andreas Henneberg, Marek Bois
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dapayk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dapayk/)*

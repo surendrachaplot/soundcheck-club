@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Derosiere presents" on Wed, 25 Nov 2026.
+Gallery is a music venue in London with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Derosiere presents" on Wed, 25 Nov 2026.
 
 Gallery is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including &friends, Magdalena (DE), Nic Cammelli and Paul Oakenfold and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 10 upcoming gigs, with 
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

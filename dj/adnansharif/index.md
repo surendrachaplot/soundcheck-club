@@ -1,6 +1,6 @@
 # Adnan Sharif
 
-Adnan Sharif is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
+Adnan Sharif is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
 
 Adnan Sharif is a house and tech house artist based in Brazil, with 68 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Diogo Accioly, Renato Ratier and Anderson Noise. Next up: D-EDGE, Sao Paulo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Adnan Sharif is a house and tech house artist based in Brazil, with 68 gigs on s
 
 Diogo Accioly, Renato Ratier, Anderson Noise
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adnansharif/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adnansharif/)*

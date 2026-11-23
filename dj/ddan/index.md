@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 D.Dan is a techno and house artist based in United States of America, with 240 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist based in United States of America, with 240 g
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

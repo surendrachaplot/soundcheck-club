@@ -1,6 +1,6 @@
 # RHYTHM D
 
-RHYTHM D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Pimenta, Buenos Aires on Sat, 19 Dec 2026.
+RHYTHM D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Pimenta, Buenos Aires on Sat, 19 Dec 2026.
 
 RHYTHM D is a techno and house artist based in Argentina, with 10 gigs on soundcheck across Buenos Aires and Madrid. Often billed alongside PERT, Beau Didier and Berger Muzik. Next up: TBA - Pimenta, Buenos Aires on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ RHYTHM D is a techno and house artist based in Argentina, with 10 gigs on soundc
 
 PERT, Beau Didier, Berger Muzik
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmd/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmd/)*

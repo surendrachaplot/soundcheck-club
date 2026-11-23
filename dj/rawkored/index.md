@@ -1,6 +1,6 @@
 # RAWKORED
 
-RAWKORED is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Fri, 27 Nov 2026.
+RAWKORED is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Korpuss, Riga on Fri, 27 Nov 2026.
 
 RAWKORED is a techno and hardcore artist based in Latvia, with 10 gigs on soundcheck across Riga and Sheffield. Often billed alongside XSYNC19, ANASI and Shoto. Next up: Korpuss, Riga on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ RAWKORED is a techno and hardcore artist based in Latvia, with 10 gigs on soundc
 
 XSYNC19, ANASI, Shoto
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*

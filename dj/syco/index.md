@@ -1,6 +1,6 @@
 # SyCo
 
-SyCo is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Fabrik, Madrid on Sat, 19 Dec 2026.
+SyCo is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fabrik, Madrid on Sat, 19 Dec 2026.
 
 SyCo is a hardcore and gabber artist based in United Kingdom, with 2 gigs on soundcheck across Madrid and South East. Often billed alongside Akira, DRS and Day-Mar. Next up: Fabrik, Madrid on Sat 19 Dec.
 
@@ -18,4 +18,4 @@ SyCo is a hardcore and gabber artist based in United Kingdom, with 2 gigs on sou
 
 Akira, DRS, Day-Mar
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syco/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syco/)*

@@ -1,14 +1,13 @@
 # Espacio Riesco Expo Centre
 
-Espacio Riesco Expo Centre is a music venue in Santiago with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Respira Primavera" on Sat, 21 Nov 2026.
+Espacio Riesco Expo Centre is a music venue in Santiago with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "The Grid presents: KI/KI 5 HOURS Santiago" on Sat, 5 Dec 2026.
 
-Espacio Riesco Expo Centre is a music venue in Santiago listed on soundcheck. 3 upcoming gigs, with line-ups including 6EJOU, 999999999, ALT8 and Angerfist and 2 more. See dates, start times and who's playing. Av El Salto 5000; Huechuraba; Santiago; Chile.
+Espacio Riesco Expo Centre is a music venue in Santiago listed on soundcheck. 2 upcoming gigs, with line-ups including Anyma and KI/KI. See dates, start times and who's playing. Av El Salto 5000; Huechuraba; Santiago; Chile.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Respira Primavera | 6EJOU, 999999999, ALT8, Angerfist, Cleopard2000, Cloudy, ECZODIA, I Hate Models, KRUELTY, Leo Force, NIKOLINA_, Pegassi, Reinier Zonneveld, Restricted, Serafina, Svetec, Vieze Asbak |
 | Sat, 5 Dec 2026 | The Grid presents: KI/KI 5 HOURS Santiago | KI/KI |
 | Thu, 31 Dec 2026 | ANYNA presents AEDEN NYE | Anyma |
 
@@ -16,4 +15,4 @@ Espacio Riesco Expo Centre is a music venue in Santiago listed on soundcheck. 3 
 
 Av El Salto 5000; Huechuraba; Santiago; Chile, Santiago
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/espacio-riesco-expo-centre/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/espacio-riesco-expo-centre/)*

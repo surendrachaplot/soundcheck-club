@@ -1,6 +1,6 @@
 # Vinz (ITA)
 
-Vinz (ITA) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sky Sinner, Barcelona on Fri, 4 Dec 2026.
+Vinz (ITA) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sky Sinner, Barcelona on Fri, 4 Dec 2026.
 
 Vinz (ITA) is a house and tech house artist based in Italy, with 9 gigs on soundcheck across Barcelona. Often billed alongside Mario Chicoli, Mastro Sally and Babo. Next up: Sky Sinner, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Vinz (ITA) is a house and tech house artist based in Italy, with 9 gigs on sound
 
 Mario Chicoli, Mastro Sally, Babo
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzita/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzita/)*

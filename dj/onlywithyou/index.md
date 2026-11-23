@@ -1,6 +1,6 @@
 # OnlyWithYou
 
-OnlyWithYou is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at ÆDEN, Berlin on Fri, 11 Dec 2026.
+OnlyWithYou is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ÆDEN, Berlin on Fri, 11 Dec 2026.
 
 OnlyWithYou is a techno and trance artist based in Australia, with 65 gigs on soundcheck across Amsterdam, Beijing, Berlin and London and 6 more. Often billed alongside MIMI404, Bruno Brero and Garfie. Next up: ÆDEN, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ OnlyWithYou is a techno and trance artist based in Australia, with 65 gigs on so
 
 MIMI404, Bruno Brero, Garfie
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*

@@ -1,6 +1,6 @@
 # Candies from Strangers
 
-Candies from Strangers is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Red Club Disco, Bologna on Fri, 27 Nov 2026.
+Candies from Strangers is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Red Club Disco, Bologna on Fri, 27 Nov 2026.
 
 Candies from Strangers is a techno and industrial artist based in Italy, with 14 gigs on soundcheck across Bologna, Bucharest, Dortmund / Essen and Milan. Often billed alongside ANKKH, Dshock and IRVØ. Next up: Red Club Disco, Bologna on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Candies from Strangers is a techno and industrial artist based in Italy, with 14
 
 ANKKH, Dshock, IRVØ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candiesfromstrangers/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candiesfromstrangers/)*

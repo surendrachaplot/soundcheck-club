@@ -1,6 +1,6 @@
 # DJ Shibata
 
-DJ Shibata is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 19 Dec 2026.
+DJ Shibata is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 19 Dec 2026.
 
 DJ Shibata is a house and techno artist based in Japan, with 109 gigs on soundcheck across Tokyo. Often billed alongside levolant, Celter and P-YAN. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ Shibata is a house and techno artist based in Japan, with 109 gigs on soundch
 
 levolant, Celter, P-YAN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshibata/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshibata/)*

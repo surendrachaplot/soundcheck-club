@@ -1,6 +1,6 @@
 # barkın
 
-barkın is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at OXI, Berlin on Sat, 28 Nov 2026.
+barkın is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OXI, Berlin on Sat, 28 Nov 2026.
 
 barkın is a house artist based in Turkey, with 1 gig on soundcheck across Berlin. Often billed alongside Anaté, CHUKWU and Mati Amoretti. Next up: OXI, Berlin on Sat 28 Nov.
 
@@ -14,4 +14,4 @@ barkın is a house artist based in Turkey, with 1 gig on soundcheck across Berli
 
 Anaté, CHUKWU, Mati Amoretti
 
-*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barkin/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barkin/)*

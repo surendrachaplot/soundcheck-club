@@ -1,6 +1,6 @@
 # Jenny Twenty
 
-Jenny Twenty is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
+Jenny Twenty is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
 
 Jenny Twenty is a house and acid artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside FC Kahuna, Dombrance and Ed Tomlinson. Next up: Love Shack LDN, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Jenny Twenty is a house and acid artist based in United Kingdom, with 4 gigs on 
 
 FC Kahuna, Dombrance, Ed Tomlinson
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennytwenty/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennytwenty/)*

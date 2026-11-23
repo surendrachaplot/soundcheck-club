@@ -1,6 +1,6 @@
 # Driftwood
 
-Driftwood is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "BodyHeat Fundraiser feat. Infinite Jess, foor, lo.control" on Sat, 5 Dec 2026.
+Driftwood is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "BodyHeat Fundraiser feat. Infinite Jess, foor, lo.control" on Sat, 5 Dec 2026.
 
 Driftwood is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Christopher Foor, DJ Trevs, Infinite Jess and lo.control and 2 more. See dates, start times and who's playing. 1225 Folsom St. San Francisco CA 94103.
 
@@ -15,4 +15,4 @@ Driftwood is a music venue in San Francisco/Oakland listed on soundcheck. 2 upco
 
 1225 Folsom St. San Francisco CA 94103, San Francisco/Oakland
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/driftwood/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/driftwood/)*

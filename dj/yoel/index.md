@@ -1,6 +1,6 @@
 # Yoel
 
-Yoel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA, Sydney on Sat, 5 Dec 2026.
+Yoel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Sydney on Sat, 5 Dec 2026.
 
 Yoel is a techno and house artist based in South Korea, with 50 gigs on soundcheck across Bangkok, Hong Kong, Melbourne and Seoul and 1 more. Often billed alongside Kyuchan, chani and Minkyu. Next up: TBA, Sydney on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Yoel is a techno and house artist based in South Korea, with 50 gigs on soundche
 
 Kyuchan, chani, Minkyu
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoel/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoel/)*

@@ -1,6 +1,6 @@
 # Radley (UK)
 
-Radley (UK) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Two More Years, London on Fri, 27 Nov 2026.
+Radley (UK) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Two More Years, London on Fri, 27 Nov 2026.
 
 Radley (UK) is a minimal and house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside KREED., Sho (UK) and Becky Bird. Next up: Two More Years, London on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Radley (UK) is a minimal and house artist based in United Kingdom, with 2 gigs o
 
 KREED., Sho (UK), Becky Bird
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radleyuk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radleyuk/)*

@@ -1,6 +1,6 @@
 # DREY (UK)
 
-DREY (UK) is a House and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
+DREY (UK) is a House and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
 
 DREY (UK) is a house and funk / soul artist based in United Kingdom, with 15 gigs on soundcheck across Brighton and London. Often billed alongside blissy e, Soph and Giles Smith. Next up: Hackney Bridge, London on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ DREY (UK) is a house and funk / soul artist based in United Kingdom, with 15 gig
 
 blissy e, Soph, Giles Smith
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*

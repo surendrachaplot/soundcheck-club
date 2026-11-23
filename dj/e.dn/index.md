@@ -1,6 +1,6 @@
 # E.DN
 
-E.DN is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Bongo Club, Edinburgh on Fri, 18 Dec 2026.
+E.DN is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Bongo Club, Edinburgh on Fri, 18 Dec 2026.
 
 E.DN is a techno and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Aberdeen, Dublin, Edinburgh and Glasgow and 2 more. Often billed alongside Frazi.er, DV60 and Smiff. Next up: The Bongo Club, Edinburgh on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ E.DN is a techno and jungle artist based in United Kingdom, with 46 gigs on soun
 
 Frazi.er, DV60, Smiff
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e.dn/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e.dn/)*

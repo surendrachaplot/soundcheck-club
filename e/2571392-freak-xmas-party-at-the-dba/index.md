@@ -1,6 +1,6 @@
 # Freak - Xmas Party at The DBA
 
-Freak - Xmas Party at The DBA on Fri 11 Dec, Manchester. 3 artists: Bonzai Bonner, Fastlove and Marcos (HH/FQR). See the line-up on soundcheck.
+Freak - Xmas Party at The DBA on Fri 11 Dec, Manchester. 5 artists: Bonzai Bonner, Fastlove, Jus’T and Marcos (HH/FQR) and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Freak - Xmas Party at The DBA on Fri 11 Dec, Manchester. 3 artists: Bonzai Bonne
 
 - Bonzai Bonner
 - Fastlove
+- Jus’T
 - Marcos (HH/FQR)
+- sebastieN
 
 *Source: [soundcheck](https://soundcheck.club/e/2571392-freak-xmas-party-at-the-dba/)*

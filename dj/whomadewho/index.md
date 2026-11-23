@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
+WhoMadeWho is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
 
 WhoMadeWho is a house and techno artist based in Denmark, with 176 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: KOKO, London on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ WhoMadeWho is a house and techno artist based in Denmark, with 176 gigs on sound
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

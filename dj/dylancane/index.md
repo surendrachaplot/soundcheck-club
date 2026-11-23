@@ -1,6 +1,6 @@
 # DYLANCANE
 
-DYLANCANE is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Studio26, Rome on Sat, 5 Dec 2026.
+DYLANCANE is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Studio26, Rome on Sat, 5 Dec 2026.
 
 DYLANCANE is a minimal techno and tech house artist, with 3 gigs on soundcheck across Düsseldorf and Rome. Often billed alongside ANNYAH and TECHSIA. Next up: Studio26, Rome on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ DYLANCANE is a minimal techno and tech house artist, with 3 gigs on soundcheck a
 
 ANNYAH, TECHSIA
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylancane/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylancane/)*

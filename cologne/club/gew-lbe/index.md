@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Klubnacht with LALENA, Moonbootica" on Fri, 27 Nov 2026.
+Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Klubnacht with LALENA, Moonbootica" on Fri, 27 Nov 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including AMSL, Anatoli [DE], Anna Konda and ATEQ and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

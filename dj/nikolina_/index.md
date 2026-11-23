@@ -1,14 +1,13 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+NIKOLINA_ is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Smolna, Warsaw on Fri, 27 Nov 2026.
 
-NIKOLINA_ is a techno and hardcore artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 27 more. Often billed alongside A.N.I., Azyr and Cloudy. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
+NIKOLINA_ is a techno and hardcore artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 27 more. Often billed alongside A.N.I., Azyr and Cloudy. Next up: Smolna, Warsaw on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | Smolna | Warsaw |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Sat, 26 Dec 2026 | 74 Hall | Istanbul |
@@ -30,4 +29,4 @@ NIKOLINA_ is a techno and hardcore artist based in Germany, with 60 gigs on soun
 
 A.N.I., Azyr, Cloudy
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*

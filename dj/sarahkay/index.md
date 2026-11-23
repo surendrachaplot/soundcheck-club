@@ -1,6 +1,6 @@
 # Sarah Kay
 
-Sarah Kay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Stereo, Montreal on Fri, 4 Dec 2026.
+Sarah Kay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Stereo, Montreal on Fri, 4 Dec 2026.
 
 Sarah Kay is a techno and trance artist based in Canada, with 12 gigs on soundcheck across Montreal. Often billed alongside ArioVistus, BUYMEFLOVVERS and Char.l.n. Next up: Stereo, Montreal on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sarah Kay is a techno and trance artist based in Canada, with 12 gigs on soundch
 
 ArioVistus, BUYMEFLOVVERS, Char.l.n
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkay/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkay/)*

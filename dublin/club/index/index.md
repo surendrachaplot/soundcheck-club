@@ -1,6 +1,6 @@
 # Index
 
-Index is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Index: ALISHA" on Fri, 27 Nov 2026.
+Index is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Index: ALISHA" on Fri, 27 Nov 2026.
 
 Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Adrian Mills, ALISHA, Apollonia and Ben Klock and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
@@ -23,4 +23,4 @@ Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with li
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

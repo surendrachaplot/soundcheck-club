@@ -1,6 +1,6 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "The Nightmare Before Christmas 3! PRSPCT & BassOff present" on Fri, 11 Dec 2026.
+Beaver Works is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "The Nightmare Before Christmas 3! PRSPCT & BassOff present" on Fri, 11 Dec 2026.
 
 Beaver Works is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Amelia Leigh, CICELY, DR BUMBERCREASE and Ebz and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
@@ -16,4 +16,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

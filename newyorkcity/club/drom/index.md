@@ -1,6 +1,6 @@
 # Drom
 
-Drom is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "I Bet You Look Good" on Sat, 5 Dec 2026.
+Drom is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "I Bet You Look Good" on Sat, 5 Dec 2026.
 
 Drom is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Valentine. See dates, start times and who's playing. 85 Avenue A, New York, NY 10009.
 
@@ -16,4 +16,4 @@ Drom is a music venue in New York City listed on soundcheck. 3 upcoming gigs, wi
 
 85 Avenue A, New York, NY 10009, New York City
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*

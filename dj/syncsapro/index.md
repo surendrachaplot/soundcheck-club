@@ -1,6 +1,6 @@
 # Sync Sapro
 
-Sync Sapro is a Drone and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Stone Circle Theatre, New York City on Thu, 17 Dec 2026.
+Sync Sapro is a Drone and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Stone Circle Theatre, New York City on Thu, 17 Dec 2026.
 
 Sync Sapro is a drone and industrial artist based in United States of America, with 9 gigs on soundcheck across New York City and Warsaw. Often billed alongside Octonomy, January Hunt and Boiled Angel. Next up: Stone Circle Theatre, New York City on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Sync Sapro is a drone and industrial artist based in United States of America, w
 
 Octonomy, January Hunt, Boiled Angel
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syncsapro/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syncsapro/)*

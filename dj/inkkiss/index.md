@@ -1,6 +1,6 @@
 # inKKiss
 
-inKKiss is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at BASIS, Utrecht on Fri, 8 Jan 2027.
+inKKiss is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at BASIS, Utrecht on Fri, 8 Jan 2027.
 
 inKKiss is a techno and industrial artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Utrecht. Often billed alongside Y4R4, AndrewsFox and Deuvren. Next up: BASIS, Utrecht on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ inKKiss is a techno and industrial artist based in Netherlands, with 21 gigs on 
 
 Y4R4, AndrewsFox, Deuvren
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*

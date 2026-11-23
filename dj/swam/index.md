@@ -1,6 +1,6 @@
 # Swam
 
-Swam is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at A.Tela, Sao-paulo on Thu, 4 Nov 2027.
+Swam is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at A.Tela, Sao-paulo on Thu, 4 Nov 2027.
 
 Swam is a house and balearic artist based in Brazil, with 23 gigs on soundcheck across Sao Paulo. Often billed alongside nat consentino, Renato Cohen and Vermelho. Next up: A.Tela, Sao Paulo on Thu 4 Nov.
 
@@ -25,4 +25,4 @@ Swam is a house and balearic artist based in Brazil, with 23 gigs on soundcheck 
 
 nat consentino, Renato Cohen, Vermelho
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swam/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swam/)*

@@ -1,6 +1,6 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Signal, New-york-city on Fri, 4 Dec 2026.
+Lena Willikens is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New-york-city on Fri, 4 Dec 2026.
 
 Lena Willikens is a techno and house artist based in Germany, with 230 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Signal, New York City on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Lena Willikens is a techno and house artist based in Germany, with 230 gigs on s
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a Club and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 28 Nov 2026.
+DJ SWISHA is a Club and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 28 Nov 2026.
 
 DJ SWISHA is a club and house artist based in United States of America, with 232 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 58 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Bossa Nova Civic Club, New York City on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ DJ SWISHA is a club and house artist based in United States of America, with 232
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

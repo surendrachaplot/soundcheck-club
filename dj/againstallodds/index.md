@@ -1,6 +1,6 @@
 # Against All Ødds
 
-Against All Ødds is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bootshaus, Cologne on Sat, 12 Dec 2026.
+Against All Ødds is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bootshaus, Cologne on Sat, 12 Dec 2026.
 
 Against All Ødds is a progressive house artist, with 2 gigs on soundcheck across Cologne. Often billed alongside Baset and Korolova. Next up: Bootshaus, Cologne on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Against All Ødds is a progressive house artist, with 2 gigs on soundcheck acros
 
 Baset, Korolova
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/againstallodds/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/againstallodds/)*

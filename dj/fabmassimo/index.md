@@ -1,6 +1,6 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 27 Nov 2026.
+Fab Massimo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 27 Nov 2026.
 
 Fab Massimo is a techno and tech house artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Bahnwärter Thiel, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Fab Massimo is a techno and tech house artist based in Germany, with 92 gigs on 
 
 Bombata, Techmo, Katzengold
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*

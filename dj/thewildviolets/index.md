@@ -1,6 +1,6 @@
 # The Wild Violets
 
-The Wild Violets is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Jazz Cafe, London on Sat, 16 Jan 2027.
+The Wild Violets is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Jazz Cafe, London on Sat, 16 Jan 2027.
 
 The Wild Violets is a disco and house artist based in United Kingdom, with 11 gigs on soundcheck across London and Paris. Often billed alongside Bustin' Loose, Crystal Touch and Old as Funk. Next up: The Jazz Cafe, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ The Wild Violets is a disco and house artist based in United Kingdom, with 11 gi
 
 Bustin' Loose, Crystal Touch, Old as Funk
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thewildviolets/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thewildviolets/)*

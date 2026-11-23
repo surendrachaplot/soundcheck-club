@@ -1,6 +1,6 @@
 # Josia Schlakker
 
-Josia Schlakker is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at elipamanoke, Leipzig on Fri, 11 Dec 2026.
+Josia Schlakker is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at elipamanoke, Leipzig on Fri, 11 Dec 2026.
 
 Josia Schlakker is a trance and progressive house artist based in Germany, with 2 gigs on soundcheck across Karlsruhe and Leipzig. Often billed alongside LuckyLeo, Clitty and Comic Sans. Next up: elipamanoke, Leipzig on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ Josia Schlakker is a trance and progressive house artist based in Germany, with 
 
 LuckyLeo, Clitty, Comic Sans
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josiaschlakker/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josiaschlakker/)*

@@ -1,6 +1,6 @@
 # DEX.NØ
 
-DEX.NØ is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Korpuss, Riga on Fri, 27 Nov 2026.
+DEX.NØ is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Korpuss, Riga on Fri, 27 Nov 2026.
 
 DEX.NØ is a techno and drum & bass artist based in Latvia, with 16 gigs on soundcheck across Riga. Often billed alongside AIVISO, nummurs and MSK (LV). Next up: Korpuss, Riga on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DEX.NØ is a techno and drum & bass artist based in Latvia, with 16 gigs on soun
 
 AIVISO, nummurs, MSK (LV)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dex.no/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dex.no/)*

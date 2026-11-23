@@ -1,14 +1,15 @@
 # Princess Xixi
 
-Princess Xixi is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The DBA, Manchester on Sat, 5 Dec 2026.
+Princess Xixi is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The DBA, Manchester on Sat, 5 Dec 2026.
 
-Princess Xixi is a bass and club artist based in United Kingdom, with 59 gigs on soundcheck across Beijing, Berlin, Brighton and Bristol and 7 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: The DBA, Manchester on Sat 5 Dec.
+Princess Xixi is a bass and techno artist based in United Kingdom, with 60 gigs on soundcheck across Beijing, Berlin, Brighton and Bristol and 7 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: The DBA, Manchester on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The DBA | Manchester |
+| Sat, 19 Dec 2026 | TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Princess Xixi is a bass and club artist based in United Kingdom, with 59 gigs on
 
 THEMPRESS, CHEZA LUCINA, LOVECAT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*

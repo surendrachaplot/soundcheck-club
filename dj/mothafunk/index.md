@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
+Mothafunk is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
 
 Mothafunk is a house and disco artist based in United States of America, with 75 gigs on soundcheck across Chicago, Los Angeles, Melbourne and New York City and 1 more. Often billed alongside Zjoso, Chris NG and Kgomotso. Next up: TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Mothafunk is a house and disco artist based in United States of America, with 75
 
 Zjoso, Chris NG, Kgomotso
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

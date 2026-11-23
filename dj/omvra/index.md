@@ -1,6 +1,6 @@
 # Omvra
 
-Omvra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
+Omvra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala de Armas, North on Fri, 19 Feb 2027.
 
 Omvra is a techno and electro artist based in Italy, with 22 gigs on soundcheck across Barcelona, Berlin and North. Often billed alongside Aura Nox, C.MØ and Carmilla Sioux. Next up: Sala de Armas, North on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ Omvra is a techno and electro artist based in Italy, with 22 gigs on soundcheck 
 
 Aura Nox, C.MØ, Carmilla Sioux
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omvra/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omvra/)*

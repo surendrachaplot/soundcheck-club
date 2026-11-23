@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 9 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "between x SEELEN" on Wed, 25 Nov 2026.
+elipamanoke is a music venue in Leipzig with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "between x SEELEN" on Wed, 25 Nov 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 9 upcoming gigs, with line-ups including AMBROXAN, ANKA, Clitty and Comic Sans and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -22,4 +22,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 9 upcoming gigs, w
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

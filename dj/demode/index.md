@@ -1,6 +1,6 @@
 # De Mode
 
-De Mode is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
+De Mode is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bike Jesus, Prague on Fri, 27 Nov 2026.
 
 De Mode is a house and techno artist based in Slovakia, with 140 gigs on soundcheck across Berlin, Dresden, Los Angeles and Prague and 1 more. Often billed alongside Ark3r, kuju and Anton Kubikov. Next up: Bike Jesus, Prague on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ De Mode is a house and techno artist based in Slovakia, with 140 gigs on soundch
 
 Ark3r, kuju, Anton Kubikov
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*

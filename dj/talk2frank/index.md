@@ -1,6 +1,6 @@
 # talk[2]frank
 
-talk[2]frank is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at A L P H A B E T, Brighton on Sat, 5 Dec 2026.
+talk[2]frank is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at A L P H A B E T, Brighton on Sat, 5 Dec 2026.
 
 talk[2]frank is an electro and acid artist based in United Kingdom, with 2 gigs on soundcheck across Brighton. Often billed alongside Carl Hastings, Carl Finlow and High Charter. Next up: A L P H A B E T, Brighton on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ talk[2]frank is an electro and acid artist based in United Kingdom, with 2 gigs 
 
 Carl Hastings, Carl Finlow, High Charter
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talk2frank/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talk2frank/)*

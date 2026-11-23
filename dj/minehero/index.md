@@ -1,6 +1,6 @@
 # Minehero
 
-Minehero is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 82bpm, South-korea on Fri, 4 Dec 2026.
+Minehero is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 82bpm, South-korea on Fri, 4 Dec 2026.
 
 Minehero is a techno and electro artist based in South Korea, with 30 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Soraere Brocken, Honn and Kuro. Next up: 82bpm, South Korea on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Minehero is a techno and electro artist based in South Korea, with 30 gigs on so
 
 Soraere Brocken, Honn, Kuro
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minehero/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minehero/)*

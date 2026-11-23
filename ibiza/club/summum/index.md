@@ -1,6 +1,6 @@
 # Summum
 
-Summum is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "LYRA" on Fri, 4 Dec 2026.
+Summum is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "LYRA" on Fri, 4 Dec 2026.
 
 Summum is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Carrer de Cala de Bou, 44, 07829 Sant Josep de sa Talaia, Illes Balears, España.
 
@@ -14,4 +14,4 @@ Summum is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. See dates
 
 Carrer de Cala de Bou, 44, 07829 Sant Josep de sa Talaia, Illes Balears, España, Ibiza
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/summum/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/summum/)*

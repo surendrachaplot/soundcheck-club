@@ -1,6 +1,6 @@
 # Ila Brugal
 
-Ila Brugal is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Phonox, London on Sat, 16 Jan 2027.
+Ila Brugal is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Phonox, London on Sat, 16 Jan 2027.
 
 Ila Brugal is a bass and dubstep artist based in Italy, with 47 gigs on soundcheck across Basel, Berlin, Brighton and Bristol and 12 more. Often billed alongside Mantra, SGT Pokes and Yasmine (UK). Next up: Phonox, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Ila Brugal is a bass and dubstep artist based in Italy, with 47 gigs on soundche
 
 Mantra, SGT Pokes, Yasmine (UK)
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilabrugal/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilabrugal/)*

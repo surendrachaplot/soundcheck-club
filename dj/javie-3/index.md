@@ -1,6 +1,6 @@
 # Javie (3)
 
-Javie (3) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Secret Grove, Portland on Fri, 27 Nov 2026.
+Javie (3) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Secret Grove, Portland on Fri, 27 Nov 2026.
 
 Javie is a deep house and house artist based in United States of America, with 3 gigs on soundcheck across Portland. Often billed alongside Shi Shi, Ben Tactic and Black Daria. Next up: Secret Grove, Portland on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Javie is a deep house and house artist based in United States of America, with 3
 
 Shi Shi, Ben Tactic, Black Daria
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javie-3/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javie-3/)*

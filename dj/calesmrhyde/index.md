@@ -1,6 +1,6 @@
 # Cales & Mr Hyde
 
-Cales & Mr Hyde is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Casa San Felipe, Bogotá on Sat, 28 Nov 2026.
+Cales & Mr Hyde is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Casa San Felipe, Bogotá on Sat, 28 Nov 2026.
 
 Cales & Mr Hyde are a house and disco duo based in United States of America, with 17 gigs on soundcheck across Bogotá. Often billed alongside DJ Mashu, Alpha Beats and Cata P. Next up: Casa San Felipe, Bogotá on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cales & Mr Hyde are a house and disco duo based in United States of America, wit
 
 DJ Mashu, Alpha Beats, Cata P
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calesmrhyde/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calesmrhyde/)*

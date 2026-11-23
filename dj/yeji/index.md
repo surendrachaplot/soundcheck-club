@@ -1,6 +1,6 @@
 # Yeji
 
-Yeji is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Volnost, Seoul on Sat, 28 Nov 2026.
+Yeji is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Volnost, Seoul on Sat, 28 Nov 2026.
 
 Yeji is a techno and minimal artist based in South Korea, with 43 gigs on soundcheck across Seoul. Often billed alongside Recy, KYVU and Hwiah. Next up: Volnost, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Yeji is a techno and minimal artist based in South Korea, with 43 gigs on soundc
 
 Recy, KYVU, Hwiah
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeji/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeji/)*

@@ -1,6 +1,6 @@
 # Feiern Wie Früher, Nur Früher at Lokschuppen Berlin
 
-Feiern Wie Früher, Nur Früher at Lokschuppen Berlin on Sat 20 Feb, Berlin. 3 artists: Anna Reusch, Maurice Mino and Thomas Schumacher. See the line-up on soundcheck.
+Feiern Wie Früher, Nur Früher at Lokschuppen Berlin on Sat 20 Feb, Berlin. 3 artists: Anna Reusch, Maurice Mino and Thomas Schumacher. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sala El Sol
 
-Sala El Sol is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Elements Cave: BÜHØ + PSYCHOTRØN + VILLALBA" on Wed, 25 Nov 2026.
+Sala El Sol is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Elements Cave: BÜHØ + PSYCHOTRØN + VILLALBA" on Wed, 25 Nov 2026.
 
 Sala El Sol is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including JAWS, JayVi, JvggedDoggie and Marcelo Demarco and 2 more. See dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
@@ -18,4 +18,4 @@ Sala El Sol is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, wi
 
 Calle Jardines 3, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*

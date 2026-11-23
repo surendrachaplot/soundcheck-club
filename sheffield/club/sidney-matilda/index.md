@@ -1,6 +1,6 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "S&M X Junglist Alliance presents: DJ Rap" on Fri, 27 Nov 2026.
+Sidney & Matilda is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "S&M X Junglist Alliance presents: DJ Rap" on Fri, 27 Nov 2026.
 
 Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Addison Groove, Crazy P, DJ Rap and Doctor P and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
@@ -23,4 +23,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 10 upcoming
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

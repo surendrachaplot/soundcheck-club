@@ -1,6 +1,6 @@
 # Folklor
 
-Folklor is a music venue in Lausanne with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "unBOXing /// Ines x Margaux Plays" on Thu, 26 Nov 2026.
+Folklor is a music venue in Lausanne with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "unBOXing /// Ines x Margaux Plays" on Thu, 26 Nov 2026.
 
 Folklor is a music venue in Lausanne listed on soundcheck. 4 upcoming gigs, with line-ups including Cinthie, Jimmie, Lea Lisa and Margaux Plays and 2 more. See dates, start times and who's playing. Place de la Riponne 10, 1005 Lausanne.
 
@@ -17,4 +17,4 @@ Folklor is a music venue in Lausanne listed on soundcheck. 4 upcoming gigs, with
 
 Place de la Riponne 10, 1005 Lausanne, Lausanne
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*

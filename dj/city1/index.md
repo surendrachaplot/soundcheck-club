@@ -1,6 +1,6 @@
 # CITY1
 
-CITY1 is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at 88block, Tokyo on Fri, 27 Nov 2026.
+CITY1 is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 88block, Tokyo on Fri, 27 Nov 2026.
 
 CITY1 is a dubstep and bass artist based in Japan, with 34 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Goth-Trad, HELKTRAM and yuitty. Next up: 88block, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CITY1 is a dubstep and bass artist based in Japan, with 34 gigs on soundcheck ac
 
 Goth-Trad, HELKTRAM, yuitty
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/city1/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/city1/)*

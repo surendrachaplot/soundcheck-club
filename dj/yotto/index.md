@@ -1,6 +1,6 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bikini Club, Barcelona on Sat, 16 Jan 2027.
+Yotto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bikini Club, Barcelona on Sat, 16 Jan 2027.
 
 Yotto is a progressive house and techno artist based in Finland, with 111 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Nicky Elisabeth, Qrion and Cristoph. Next up: Bikini Club, Barcelona on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Yotto is a progressive house and techno artist based in Finland, with 111 gigs o
 
 Nicky Elisabeth, Qrion, Cristoph
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

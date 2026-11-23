@@ -1,6 +1,6 @@
 # Eisebelle
 
-Eisebelle is a Club and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bar Espina, Tijuana on Sat, 5 Dec 2026.
+Eisebelle is a Club and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bar Espina, Tijuana on Sat, 5 Dec 2026.
 
 Eisebelle is a club and ambient artist based in Mexico, with 19 gigs on soundcheck across Hamburg, Mexico City and Tijuana. Often billed alongside Babybruise, KEBRA and Mensik. Next up: Bar Espina, Tijuana on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Eisebelle is a club and ambient artist based in Mexico, with 19 gigs on soundche
 
 Babybruise, KEBRA, Mensik
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eisebelle/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eisebelle/)*

@@ -1,6 +1,6 @@
 # Mightwhales
 
-Mightwhales is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 27 Nov 2026.
+Mightwhales is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 27 Nov 2026.
 
 Mightwhales is a disco and pop artist based in United States of America, with 3 gigs on soundcheck across Osaka. Often billed alongside Mori Ra, KENJI MARUI and Olefonken. Next up: Teranoma Tidepool, Osaka on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Mightwhales is a disco and pop artist based in United States of America, with 3 
 
 Mori Ra, KENJI MARUI, Olefonken
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mightwhales/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mightwhales/)*

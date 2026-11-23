@@ -1,6 +1,6 @@
 # Sara P
 
-Sara P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Limehouse Town Hall, London on Sat, 13 Feb 2027.
+Sara P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Limehouse Town Hall, London on Sat, 13 Feb 2027.
 
 Sara P is a techno and house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Bushy Squirrel, Folek and MARIUS SEBASTIAN. Next up: Limehouse Town Hall, London on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Sara P is a techno and house artist based in United Kingdom, with 18 gigs on sou
 
 Bushy Squirrel, Folek, MARIUS SEBASTIAN
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarap/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarap/)*

@@ -1,14 +1,13 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Paula Koski is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lasociaciøn, Madrid on Fri, 27 Nov 2026.
 
-Paula Koski is a techno and house artist based in Finland, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
+Paula Koski is a techno and house artist based in Finland, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: Lasociaciøn, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | Lasociaciøn | Madrid |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Fri, 4 Dec 2026 | Post Bar | Helsinki |
@@ -35,4 +34,4 @@ Paula Koski is a techno and house artist based in Finland, with 151 gigs on soun
 
 Justine Perry, CEB (FI), Ben Klock
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

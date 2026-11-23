@@ -1,6 +1,6 @@
 # Josh Tong
 
-Josh Tong is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Podlasie Club, Chicago on Fri, 4 Dec 2026.
+Josh Tong is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Podlasie Club, Chicago on Fri, 4 Dec 2026.
 
 Josh Tong is a techno and acid artist based in United States of America, with 49 gigs on soundcheck across Chicago, Detroit and Minneapolis/St Paul. Often billed alongside Shanti, barbuhh and Brenda. Next up: Podlasie Club, Chicago on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Josh Tong is a techno and acid artist based in United States of America, with 49
 
 Shanti, barbuhh, Brenda
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*

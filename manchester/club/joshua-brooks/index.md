@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Jungle Cakes: Top Cat, Ed Solo & Deekline" on Fri, 27 Nov 2026.
+Joshua Brooks is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Jungle Cakes: Top Cat, Ed Solo & Deekline" on Fri, 27 Nov 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including ADR (UK), Andy Manston, AYDN and Benny L and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 13 upcoming g
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

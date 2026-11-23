@@ -1,6 +1,6 @@
 # EXE pres. Holy Priest & Nikolina at Inter Expo Centre
 
-EXE pres. Holy Priest & Nikolina at Inter Expo Centre on Fri 18 Dec, Sofia. 5 artists: Egor Sintsoff, Holy Priest, Nerone and Nikolina and 1 more. See the line-up on soundcheck.
+EXE pres. Holy Priest & Nikolina at Inter Expo Centre on Fri 18 Dec, Sofia. 5 artists: Egor Sintsoff, Holy Priest, NERONE and Nikolina and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ EXE pres. Holy Priest & Nikolina at Inter Expo Centre on Fri 18 Dec, Sofia. 5 ar
 
 - Egor Sintsoff
 - Holy Priest
-- Nerone
+- NERONE (2)
 - Nikolina
 - Vorick
 

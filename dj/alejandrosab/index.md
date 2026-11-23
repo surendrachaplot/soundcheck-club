@@ -1,6 +1,6 @@
 # Ale Sab
 
-Ale Sab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 28 Nov 2026.
+Ale Sab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 28 Nov 2026.
 
 Ale Sab is a house and techno artist, with 10 gigs on soundcheck across Miami and New York City. Often billed alongside Leo Del Toro, Alexi Delano and Anderson. Next up: Mad Radio Miami, Miami on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ale Sab is a house and techno artist, with 10 gigs on soundcheck across Miami an
 
 Leo Del Toro, Alexi Delano, Anderson
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrosab/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrosab/)*

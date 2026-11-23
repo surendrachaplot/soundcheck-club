@@ -1,6 +1,6 @@
 # Shena
 
-Shena is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at fabric, London on Fri, 29 Jan 2027.
+Shena is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Fri, 29 Jan 2027.
 
 Shena is an afro house and tech house artist based in Bangladesh, with 3 gigs on soundcheck across London. Often billed alongside S FLY, Afro Pupo and Brian Smith. Next up: fabric, London on Fri 29 Jan.
 
@@ -19,4 +19,4 @@ Shena is an afro house and tech house artist based in Bangladesh, with 3 gigs on
 
 S FLY, Afro Pupo, Brian Smith
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shena/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shena/)*

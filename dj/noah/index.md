@@ -1,6 +1,6 @@
 # No/ah
 
-No/ah is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at UNDERCITY, Seoul on Sat, 26 Dec 2026.
+No/ah is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at UNDERCITY, Seoul on Sat, 26 Dec 2026.
 
 No/ah is a techno artist based in South Korea, with 18 gigs on soundcheck across Seoul. Often billed alongside KIMNA, Gosha and Vorus. Next up: UNDERCITY, Seoul on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ No/ah is a techno artist based in South Korea, with 18 gigs on soundcheck across
 
 KIMNA, Gosha, Vorus
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noah/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noah/)*

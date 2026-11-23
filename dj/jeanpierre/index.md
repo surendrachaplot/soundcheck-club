@@ -1,6 +1,6 @@
 # Jean Pierre
 
-Jean Pierre is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
+Jean Pierre is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
 
 Jean Pierre is a tech house and house artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bogotá and 23 more. Often billed alongside Jesse Calosso, The Martinez Brothers and Mason Collective. Next up: Fabrik, Madrid on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ Jean Pierre is a tech house and house artist based in United States of America, 
 
 Jesse Calosso, The Martinez Brothers, Mason Collective
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*

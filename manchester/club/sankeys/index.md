@@ -1,6 +1,6 @@
 # Sankeys
 
-Sankeys is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "Sankeys Saturdays" on Sat, 28 Nov 2026.
+Sankeys is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Sankeys Saturdays" on Sat, 28 Nov 2026.
 
 Sankeys is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Grant Nelson, Priku, Rossko and Seb Zito and 1 more. See dates, start times and who's playing. Sidney Street, Manchester, M1 7HB.
 
@@ -17,4 +17,4 @@ Sankeys is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, wi
 
 Sidney Street, Manchester, M1 7HB, Manchester
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sankeys/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sankeys/)*

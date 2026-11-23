@@ -1,6 +1,6 @@
 # Yak
 
-Yak is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at club asia, Tokyo on Wed, 25 Nov 2026.
+Yak is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at club asia, Tokyo on Wed, 25 Nov 2026.
 
 Yak is a techno and hip-hop artist, with 10 gigs on soundcheck across Amsterdam, Cleveland, Florence and London and 2 more. Often billed alongside FUJI TRILL, KANT and ban. Next up: club asia, Tokyo on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Yak is a techno and hip-hop artist, with 10 gigs on soundcheck across Amsterdam,
 
 FUJI TRILL, KANT, ban
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yak/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yak/)*

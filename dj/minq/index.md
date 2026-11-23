@@ -1,6 +1,6 @@
 # Minq
 
-Minq is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Renate, Berlin on Fri, 11 Dec 2026.
+Minq is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Renate, Berlin on Fri, 11 Dec 2026.
 
 Minq is a house and techno artist, with 16 gigs on soundcheck across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Dirty Daddy Don. Next up: Renate, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Minq is a house and techno artist, with 16 gigs on soundcheck across Berlin. Oft
 
 ADAM MUNNINGS, DJ Petite, Dirty Daddy Don
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minq/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minq/)*

@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "BAVARDAGES FÊTE SES 3 ANS" on Fri, 27 Nov 2026.
+Point Ephémère is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "BAVARDAGES FÊTE SES 3 ANS" on Fri, 27 Nov 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Gaia, Leef and NAP (MX). See dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -17,4 +17,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming gigs
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

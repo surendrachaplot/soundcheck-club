@@ -1,6 +1,6 @@
 # Adam Spielman
 
-Adam Spielman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Pamela Club, Paris on Fri, 27 Nov 2026.
+Adam Spielman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pamela Club, Paris on Fri, 27 Nov 2026.
 
 Adam Spielman is a house and disco artist based in France, with 29 gigs on soundcheck across Berlin, Madrid and Paris. Often billed alongside Joe Lewandowski, RestonsFlex and MATVEÏ. Next up: Pamela Club, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Adam Spielman is a house and disco artist based in France, with 29 gigs on sound
 
 Joe Lewandowski, RestonsFlex, MATVEÏ
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamspielman/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamspielman/)*

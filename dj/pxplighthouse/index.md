@@ -1,6 +1,6 @@
 # PxP Lighthouse
 
-PxP Lighthouse is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Rooftop 105, Geneva on Sat, 5 Dec 2026.
+PxP Lighthouse is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Rooftop 105, Geneva on Sat, 5 Dec 2026.
 
 PxP Lighthouse is a progressive house and techno artist, with 10 gigs on soundcheck across Geneva. Often billed alongside Dimka and Xta'J. Next up: Rooftop 105, Geneva on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ PxP Lighthouse is a progressive house and techno artist, with 10 gigs on soundch
 
 Dimka, Xta'J
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pxplighthouse/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pxplighthouse/)*

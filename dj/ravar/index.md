@@ -1,6 +1,6 @@
 # RAVAR
 
-RAVAR is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at IT Athens, Athens on Fri, 27 Nov 2026.
+RAVAR is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at IT Athens, Athens on Fri, 27 Nov 2026.
 
 RAVAR is a techno artist based in Greece, with 4 gigs on soundcheck across Athens. Often billed alongside Motiva, R4ST and LEFTYT. Next up: IT Athens, Athens on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ RAVAR is a techno artist based in Greece, with 4 gigs on soundcheck across Athen
 
 Motiva, R4ST, LEFTYT
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravar/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravar/)*

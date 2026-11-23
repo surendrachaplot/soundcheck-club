@@ -1,6 +1,6 @@
 # Mary Zander
 
-Mary Zander is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Mad Radio Miami, Miami on Thu, 26 Nov 2026.
+Mary Zander is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mad Radio Miami, Miami on Thu, 26 Nov 2026.
 
 Mary Zander is a house and acid artist based in Brazil, with 3 gigs on soundcheck across Miami and Rio de Janeiro. Often billed alongside Aleakim, Alex Pott and Carl Craig. Next up: Mad Radio Miami, Miami on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Mary Zander is a house and acid artist based in Brazil, with 3 gigs on soundchec
 
 Aleakim, Alex Pott, Carl Craig
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryzander/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryzander/)*

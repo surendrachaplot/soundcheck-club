@@ -1,6 +1,6 @@
 # kaiko
 
-kaiko is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 4 Dec 2026.
+kaiko is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 4 Dec 2026.
 
 kaiko is a tech house and progressive house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Tallah, Anne-Sophie Selig and Silversurfer. Next up: DNA. CLUB, Berlin on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ kaiko is a tech house and progressive house artist based in Germany, with 3 gigs
 
 Tallah, Anne-Sophie Selig, Silversurfer
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiko/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiko/)*

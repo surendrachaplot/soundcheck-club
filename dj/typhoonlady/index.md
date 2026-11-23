@@ -1,6 +1,6 @@
 # Typhoon Lady
 
-Typhoon Lady is a Ambient and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ikii, Berlin on Sat, 5 Dec 2026.
+Typhoon Lady is a Ambient and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ikii, Berlin on Sat, 5 Dec 2026.
 
 Typhoon Lady is an ambient and dub artist based in Netherlands, with 2 gigs on soundcheck across Berlin. Often billed alongside The Burrell Connection, Andrea Ida and Der Opium Queen. Next up: Ikii, Berlin on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Typhoon Lady is an ambient and dub artist based in Netherlands, with 2 gigs on s
 
 The Burrell Connection, Andrea Ida, Der Opium Queen
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/typhoonlady/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/typhoonlady/)*

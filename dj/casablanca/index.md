@@ -1,6 +1,6 @@
 # Casablanca 303
 
-Casablanca 303 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Filter Musikk, Oslo on Thu, 26 Nov 2026.
+Casablanca 303 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Filter Musikk, Oslo on Thu, 26 Nov 2026.
 
 Casablanca 303 is a house and deep house artist based in Colombia, with 49 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Bogotá and 1 more. Often billed alongside Kim Young iLL, Daniel Vaz and sommerfeldt. Next up: Filter Musikk, Oslo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Casablanca 303 is a house and deep house artist based in Colombia, with 49 gigs 
 
 Kim Young iLL, Daniel Vaz, sommerfeldt
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casablanca/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casablanca/)*

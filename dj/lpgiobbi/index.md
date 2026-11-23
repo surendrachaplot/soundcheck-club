@@ -1,6 +1,6 @@
 # LP Giobbi
 
-LP Giobbi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Factory Town, Miami on Sun, 6 Dec 2026.
+LP Giobbi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Sun, 6 Dec 2026.
 
 LP Giobbi is a house and techno artist based in United States of America, with 180 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 54 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Factory Town, Miami on Sun 6 Dec.
 
@@ -27,4 +27,4 @@ LP Giobbi is a house and techno artist based in United States of America, with 1
 
 DJ Tennis, AMÉMÉ, Purple Disco Machine
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lpgiobbi/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lpgiobbi/)*

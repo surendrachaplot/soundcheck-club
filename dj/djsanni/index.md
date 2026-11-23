@@ -1,6 +1,6 @@
 # DJ Sanni
 
-DJ Sanni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 27 Nov 2026.
+DJ Sanni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 27 Nov 2026.
 
 DJ Sanni is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Max(imus), Ena (DE) and Eileeni. Next up: Bulbul Berlin, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Sanni is a house and techno artist based in Germany, with 17 gigs on soundche
 
 Max(imus), Ena (DE), Eileeni
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsanni/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsanni/)*

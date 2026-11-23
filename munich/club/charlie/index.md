@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. The next is "PP Night w/ Public Possession " on Sat, 28 Nov 2026.
+Charlie is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "PP Night w/ Public Possession " on Sat, 28 Nov 2026.
 
 Charlie is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Foreign Affair, Kabasa, Le TIZI and Pascal Moscheni and 2 more. See dates, start times and who's playing. Schyrenstr.8 , 81543 München, Germany.
 
@@ -17,4 +17,4 @@ Charlie is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with l
 
 Schyrenstr.8 , 81543 München, Germany, Munich
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*

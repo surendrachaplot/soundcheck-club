@@ -1,14 +1,16 @@
 # ONO (3)
 
-ONO (3) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Circus Osaka, Osaka on Sat, 12 Dec 2026.
+ONO (3) is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 11 Dec 2026.
 
-ONO is a techno and minimal artist based in Japan, with 35 gigs on soundcheck across Montreal, Osaka and Tokyo. Often billed alongside Shingo, VIDEOBOY and Kohei. Next up: Circus Osaka, Osaka on Sat 12 Dec.
+ONO is a techno and minimal artist based in Japan, with 37 gigs on soundcheck across Montreal, Osaka and Tokyo. Often billed alongside Shingo, VIDEOBOY and Kohei. Next up: Koenji Cave, Tokyo on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Koenji Cave | Tokyo |
 | Sat, 12 Dec 2026 | Circus Osaka | Osaka |
+| Tue, 29 Dec 2026 | Koenji Cave | Tokyo |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ ONO is a techno and minimal artist based in Japan, with 35 gigs on soundcheck ac
 
 Shingo, VIDEOBOY, Kohei
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*

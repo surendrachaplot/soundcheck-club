@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 22 Nov 2026. Next at Fuse, Brussels on Fri, 4 Dec 2026.
+Papa Nugs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fuse, Brussels on Fri, 4 Dec 2026.
 
 Papa Nugs is a house and techno artist based in United Kingdom, with 174 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 27 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: Fuse, Brussels on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Papa Nugs is a house and techno artist based in United Kingdom, with 174 gigs on
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

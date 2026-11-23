@@ -1,6 +1,6 @@
 # NGL Flounce
 
-NGL Flounce is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Système, Montreal on Thu, 26 Nov 2026.
+NGL Flounce is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Système, Montreal on Thu, 26 Nov 2026.
 
 NGL Flounce is a club and techno artist, with 22 gigs on soundcheck across Montreal. Often billed alongside Jamvvis, 16:9 ratio and DJ Pacifier. Next up: Système, Montreal on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ NGL Flounce is a club and techno artist, with 22 gigs on soundcheck across Montr
 
 Jamvvis, 16:9 ratio, DJ Pacifier
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nglflounce/)*
+*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nglflounce/)*
