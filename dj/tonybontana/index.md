@@ -1,0 +1,28 @@
+# Tony Bontana
+
+Tony Bontana is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at RUST, Copenhagen on Tue, 1 Dec 2026.
+
+Tony Bontana is a downtempo and electronica artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Brussels, Copenhagen and Glasgow and 4 more. Often billed alongside Dis Fig, Julia Louise KnifeFist and Moor Mother. Next up: RUST, Copenhagen on Tue 1 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 1 Dec 2026 | RUST | Copenhagen |
+
+## Recently played
+
+- Various Venues, Bristol, Bristol · Sat, 7 Nov 2026
+- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
+- The Glad Cafe, Glasgow · Thu, 26 Mar 2026
+- Low Four Studio, Manchester · Wed, 25 Mar 2026
+- Combo Milano, Milan · Wed, 10 Dec 2025
+- Club Cheek, London · Sat, 18 Oct 2025
+- Ormside Projects, London · Wed, 10 Sept 2025
+- Vaux-Hall, Brussels · Fri, 5 Sept 2025
+
+## Shares bills with
+
+Dis Fig, Julia Louise KnifeFist, Moor Mother
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonybontana/)*

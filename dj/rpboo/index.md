@@ -1,6 +1,6 @@
 # RP Boo
 
-RP Boo is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
+RP Boo is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
 
 RP Boo is a footwork and house artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 32 more. Often billed alongside DJ Spinn, Crystallmess and Kode9. Next up: Ormside Projects, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ RP Boo is a footwork and house artist based in United States of America, with 89
 
 DJ Spinn, Crystallmess, Kode9
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*

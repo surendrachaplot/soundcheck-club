@@ -1,13 +1,14 @@
 # Daniel Moritz
 
-Daniel Moritz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Arzenal, Budapest on Sat, 19 Dec 2026.
+Daniel Moritz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 11 Dec 2026.
 
-Daniel Moritz is a house and techno artist based in Hungary, with 120 gigs on soundcheck across Budapest, Helsinki and Malta. Often billed alongside Rovizz, Sobek and CRB. Next up: Arzenal, Budapest on Sat 19 Dec.
+Daniel Moritz is a house and techno artist based in Hungary, with 121 gigs on soundcheck across Budapest, Helsinki and Malta. Often billed alongside Rovizz, Sobek and CRB. Next up: Vektor - The Klub, Budapest on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Vektor - The Klub | Budapest |
 | Sat, 19 Dec 2026 | Arzenal | Budapest |
 | Thu, 31 Dec 2026 | Kassa Boat | Budapest |
 
@@ -26,4 +27,4 @@ Daniel Moritz is a house and techno artist based in Hungary, with 120 gigs on so
 
 Rovizz, Sobek, CRB
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*

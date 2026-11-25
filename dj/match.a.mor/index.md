@@ -1,6 +1,6 @@
 # match.a.mor
 
-match.a.mor is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Spin, San Diego on Sat, 5 Dec 2026.
+match.a.mor is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Spin, San Diego on Sat, 5 Dec 2026.
 
 match.a.mor is a house and bass artist based in United States of America, with 13 gigs on soundcheck across San Diego. Often billed alongside Codak, Ali Gria and MNTRA. Next up: Spin, San Diego on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ match.a.mor is a house and bass artist based in United States of America, with 1
 
 Codak, Ali Gria, MNTRA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/match.a.mor/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/match.a.mor/)*

@@ -1,6 +1,6 @@
 # Minus Pink 2 Year Anniversary at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic
 
-Minus Pink 2 Year Anniversary at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic on Sat 19 Dec, London. 12 artists: Arkan, Daskaran, Iyesha and Melati and 8 more. Techno and Experimental. See the line-up on soundcheck.
+Minus Pink 2 Year Anniversary at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic on Sat 19 Dec, London. 13 artists: Arkan, Daskaran, Iyesha and Melati and 9 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Minus Pink 2 Year Anniversary at TBA - Algha Works: Living Womb, Not For Sale Ga
 - Iyesha
 - Melati
 - Mosai
+- PAVEL__
 - Pōnky
 - Princess Xixi
 - Rachel de Moncuit

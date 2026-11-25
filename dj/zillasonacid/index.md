@@ -1,6 +1,6 @@
 # Zillas on Acid
 
-Zillas on Acid is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - A TRANSCENDENTAL SECRET LOCATION !!! , Philadelphia on Fri, 11 Dec 2026.
+Zillas on Acid is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - A TRANSCENDENTAL SECRET LOCATION !!! , Philadelphia on Fri, 11 Dec 2026.
 
 Zillas on Acid is an acid and house artist based in United States of America, with 57 gigs on soundcheck across Barcelona, Berlin, Glasgow and Lausanne and 7 more. Often billed alongside keekee, Mario Cotto and Dave P. Next up: TBA - A TRANSCENDENTAL SECRET LOCATION !!! , Philadelphia on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Zillas on Acid is an acid and house artist based in United States of America, wi
 
 keekee, Mario Cotto, Dave P
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zillasonacid/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zillasonacid/)*

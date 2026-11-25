@@ -1,6 +1,6 @@
 # Joe Kind
 
-Joe Kind is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 5 Dec 2026.
+Joe Kind is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 5 Dec 2026.
 
 Joe Kind is a house and electro artist based in United Kingdom, with 5 gigs on soundcheck across Manchester. Often billed alongside F3rg13, Flint and Flint (UK). Next up: Honey Street Studio, Manchester on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Joe Kind is a house and electro artist based in United Kingdom, with 5 gigs on s
 
 F3rg13, Flint, Flint (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joekind/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joekind/)*

@@ -1,6 +1,6 @@
 # F.HOLLOW
 
-F.HOLLOW is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Racket Space, Dublin on Fri, 15 Jan 2027.
+F.HOLLOW is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Racket Space, Dublin on Fri, 15 Jan 2027.
 
 F.HOLLOW is a techno and electro artist based in Portugal, with 5 gigs on soundcheck across Dublin. Often billed alongside ALPER SKR, BRANDI and Boyd Schidt. Next up: The Racket Space, Dublin on Fri 15 Jan.
 
@@ -21,4 +21,4 @@ F.HOLLOW is a techno and electro artist based in Portugal, with 5 gigs on soundc
 
 ALPER SKR, BRANDI, Boyd Schidt
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fhollow/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fhollow/)*

@@ -1,13 +1,14 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at NDSM Docklands, Amsterdam on Sun, 28 Mar 2027.
+Bambounou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Toplocentrala, Sofia on Sat, 19 Dec 2026.
 
-Bambounou is a techno and house artist based in France, with 182 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 54 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: NDSM Docklands, Amsterdam on Sun 28 Mar.
+Bambounou is a techno and house artist based in France, with 183 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 55 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Toplocentrala, Sofia on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Toplocentrala | Sofia |
 | Sun, 28 Mar 2027 | NDSM Docklands | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bambounou is a techno and house artist based in France, with 182 gigs on soundch
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

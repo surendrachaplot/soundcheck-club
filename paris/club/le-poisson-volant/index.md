@@ -1,6 +1,6 @@
 # Le Poisson Volant
 
-Le Poisson Volant is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Bamao Yendé & TSIP" on Thu, 26 Nov 2026.
+Le Poisson Volant is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bamao Yendé & TSIP" on Thu, 26 Nov 2026.
 
 Le Poisson Volant is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Bamao Yendé, Erna (FR), fetva and Golce and 2 more. See dates, start times and who's playing. 5 Rue Marguerite Moret, 75011 Paris.
 
@@ -17,4 +17,4 @@ Le Poisson Volant is a music venue in Paris listed on soundcheck. 4 upcoming gig
 
 5 Rue Marguerite Moret, 75011 Paris, Paris
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*

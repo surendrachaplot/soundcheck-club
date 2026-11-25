@@ -1,6 +1,6 @@
 # Valerio Vaudano
 
-Valerio Vaudano is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 27 Nov 2026.
+Valerio Vaudano is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 27 Nov 2026.
 
 Valerio Vaudano is a house and italo disco artist based in Italy, with 5 gigs on soundcheck across Berlin, Milan and Tokyo. Often billed alongside Agustina Aliaga, Aidan and Akirahawks. Next up: Bulbul Berlin, Berlin on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Valerio Vaudano is a house and italo disco artist based in Italy, with 5 gigs on
 
 Agustina Aliaga, Aidan, Akirahawks
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriovaudano/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriovaudano/)*

@@ -1,6 +1,6 @@
 # Michael Upson
 
-Michael Upson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 5 Dec 2026.
+Michael Upson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 5 Dec 2026.
 
 Michael Upson is a house and disco artist based in United Kingdom, with 44 gigs on soundcheck across Brighton, Bristol, Leeds and London and 3 more. Often billed alongside DJ Subaru, Lucy Locket and Kessie. Next up: The Doghouse bar & Record Store, Leeds on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Michael Upson is a house and disco artist based in United Kingdom, with 44 gigs 
 
 DJ Subaru, Lucy Locket, Kessie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*

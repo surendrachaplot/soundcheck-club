@@ -1,6 +1,6 @@
 # Kumanope
 
-Kumanope is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ikii, Berlin on Fri, 27 Nov 2026.
+Kumanope is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ikii, Berlin on Fri, 27 Nov 2026.
 
 Kumanope is a bass and techno artist based in France, with 6 gigs on soundcheck across Berlin, Marseille and Paris. Often billed alongside Goldie B, A Strange Wedding and ABI (FR). Next up: Ikii, Berlin on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Kumanope is a bass and techno artist based in France, with 6 gigs on soundcheck 
 
 Goldie B, A Strange Wedding, ABI (FR)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kumanope/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kumanope/)*

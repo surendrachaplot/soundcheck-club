@@ -1,8 +1,8 @@
 # Wade
 
-Wade is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - La Estación, Cordoba, Argentina on Sun, 6 Dec 2026.
+Wade is a Tech House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - La Estación, Cordoba, Argentina on Sun, 6 Dec 2026.
 
-Wade is a tech house and techno artist based in Spain, with 113 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Basel and 38 more. Often billed alongside Chelina Manuhutu, Marco Carola and Vintage Culture. Next up: TBA - La Estación, Cordoba, Argentina on Sun 6 Dec.
+Wade is a tech house and techno artist based in Spain, with 114 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Basel and 38 more. Often billed alongside Chelina Manuhutu, Marco Carola and Vintage Culture. Next up: TBA - La Estación, Cordoba, Argentina on Sun 6 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wade is a tech house and techno artist based in Spain, with 113 gigs on soundche
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | TBA - La Estación, Cordoba | Argentina |
 | Fri, 11 Dec 2026 | Komplexo Tempo | Sao Paulo |
+| Sat, 19 Dec 2026 | Cocoa Mataró | Barcelona |
 | Mon, 21 Dec 2026 | TBA | Uruguay |
 
 ## Recently played
@@ -27,4 +28,4 @@ Wade is a tech house and techno artist based in Spain, with 113 gigs on soundche
 
 Chelina Manuhutu, Marco Carola, Vintage Culture
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

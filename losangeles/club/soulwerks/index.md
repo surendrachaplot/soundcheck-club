@@ -1,17 +1,17 @@
 # Soulwerks
 
-Soulwerks is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "MADTRAXX RELOADED" on Fri, 20 Nov 2026.
+Soulwerks is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Sub Form Junglist" on Sat, 28 Nov 2026.
 
-Soulwerks is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Ava Blank, Draik Lezbijan, Kemyuh and Webmistress. See dates, start times and who's playing. 5168 valley blvd.
+Soulwerks is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 5168 valley blvd.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | MADTRAXX RELOADED | Ava Blank, Draik Lezbijan, Kemyuh, Webmistress |
+| Sat, 28 Nov 2026 | Sub Form Junglist |  |
 
 ## Address
 
 5168 valley blvd, Los Angeles
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/soulwerks/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/soulwerks/)*

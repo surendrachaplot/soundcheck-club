@@ -1,6 +1,6 @@
 # 369 (GER)
 
-369 (GER) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Horn, Bangkok on Fri, 4 Dec 2026.
+369 (GER) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Horn, Bangkok on Fri, 4 Dec 2026.
 
 369 (GER) is a techno and house artist based in Germany, with 19 gigs on soundcheck across Bangkok, Berlin, Freiburg and Hamburg and 3 more. Often billed alongside Bailey Brown, DJ BTM and SPORTMANN. Next up: Horn, Bangkok on Fri 4 Dec.
 
@@ -25,4 +25,4 @@
 
 Bailey Brown, DJ BTM, SPORTMANN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/369ger/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/369ger/)*

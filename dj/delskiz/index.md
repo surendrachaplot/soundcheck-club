@@ -1,6 +1,6 @@
 # Delskiz
 
-Delskiz is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Poush, Paris on Sat, 12 Dec 2026.
+Delskiz is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Poush, Paris on Sat, 12 Dec 2026.
 
 Delskiz is an electronica and experimental artist based in France, with 11 gigs on soundcheck across Paris. Often billed alongside Pipholp, DJ Beluga92 and Messes Basses. Next up: Poush, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Delskiz is an electronica and experimental artist based in France, with 11 gigs 
 
 Pipholp, DJ Beluga92, Messes Basses
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delskiz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delskiz/)*

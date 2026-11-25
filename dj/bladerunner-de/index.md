@@ -1,8 +1,8 @@
 # Bladerunner
 
-Bladerunner is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Nest, Nottingham on Sat, 28 Nov 2026.
+Bladerunner is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Nest, Nottingham on Sat, 28 Nov 2026.
 
-Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Boston and 21 more. Often billed alongside Inja, DJ SS and Benny L. Next up: The Nest, Nottingham on Sat 28 Nov.
+Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Boston and 21 more. Often billed alongside Inja, DJ SS and Benny L. Next up: The Nest, Nottingham on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 86 
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
 | Sat, 30 Jan 2027 | fabric | London |
 | Sat, 6 Feb 2027 | The Cause | London |
+| Sat, 13 Feb 2027 | Six Trees Bar And Kitchen Manchester | Manchester |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 86 
 
 Inja, DJ SS, Benny L
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*

@@ -1,6 +1,6 @@
 # Napoli Segreta
 
-Napoli Segreta is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Basic Club, Naples on Fri, 25 Dec 2026.
+Napoli Segreta is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Basic Club, Naples on Fri, 25 Dec 2026.
 
 Napoli Segreta is a disco and house artist based in Italy, with 20 gigs on soundcheck across Berlin, Cologne, Florence and Geneva and 3 more. Often billed alongside Davide D'Amico, Angelo Perna and Conquasso. Next up: Basic Club, Naples on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Napoli Segreta is a disco and house artist based in Italy, with 20 gigs on sound
 
 Davide D'Amico, Angelo Perna, Conquasso
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/napolisegreta/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/napolisegreta/)*

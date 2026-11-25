@@ -1,6 +1,6 @@
 # Persephone
 
-Persephone is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Persephone is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Persephone is a techno and drum & bass artist based in United States of America, with 4 gigs on soundcheck across Bratislava, Florida and Portland. Often billed alongside A Hundred Drums, AG (NYC) and Black Tiger Sex Machine. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -20,4 +20,4 @@ Persephone is a techno and drum & bass artist based in United States of America,
 
 A Hundred Drums, AG (NYC), Black Tiger Sex Machine
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/persephone/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/persephone/)*

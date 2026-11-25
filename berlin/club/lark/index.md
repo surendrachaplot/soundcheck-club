@@ -1,14 +1,13 @@
 # Lark
 
-Lark is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Nokia Angel - NECROMANCE TOUR" on Mon, 23 Nov 2026.
+Lark is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "low harvest saturday night" on Sat, 28 Nov 2026.
 
-Lark is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including ANTHEM, Chickenmilk dot com, Nitebleach and Sodomland. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
+Lark is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including ANTHEM, Chickenmilk dot com, Nitebleach and Sodomland. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | Nokia Angel - NECROMANCE TOUR |  |
 | Sat, 28 Nov 2026 | low harvest saturday night | ANTHEM, Chickenmilk dot com |
 | Thu, 3 Dec 2026 | Sodomland Album Release Party | ANTHEM, Nitebleach, Sodomland |
 | Thu, 31 Dec 2026 | BAILE TRAMA NYE |  |
@@ -20,4 +19,4 @@ Lark is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

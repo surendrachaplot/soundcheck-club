@@ -1,13 +1,14 @@
 # Ricky Sahota
 
-Ricky Sahota is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Egg London, London on Thu, 31 Dec 2026.
+Ricky Sahota is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Basing House, London on Fri, 11 Dec 2026.
 
-Ricky Sahota is a house and tech house artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Egg London, London on Thu 31 Dec.
+Ricky Sahota is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Basing House, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Basing House | London |
 | Thu, 31 Dec 2026 | Egg London | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ricky Sahota is a house and tech house artist based in United Kingdom, with 77 g
 
 Beezo, JAYDAA, Shenin Amara
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickysahota/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickysahota/)*

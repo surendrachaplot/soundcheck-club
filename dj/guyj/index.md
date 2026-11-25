@@ -1,6 +1,6 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Guy J is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Guy J is a progressive house and house artist based in Israel, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ Guy J is a progressive house and house artist based in Israel, with 148 gigs on 
 
 Guy Mantzur, Sahar Z, Khen
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*

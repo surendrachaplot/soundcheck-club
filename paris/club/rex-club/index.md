@@ -1,14 +1,15 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Vice City presents: Myman, NTBR, Placiid" on Wed, 25 Nov 2026.
+Rex Club is a music venue in Paris with 23 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Vice City presents: Myman, NTBR, Placiid" on Wed, 25 Nov 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Abr., Bakean, Camille Luciani and Camporeale (FR) and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 23 upcoming gigs, with line-ups including Abr., Bakean, Camille Luciani and Camporeale (FR) and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Vice City presents: Myman, NTBR, Placiid | NTBR, Placiid |
+| Thu, 26 Nov 2026 | DISCO INFERNO: AFTERPARTY - Release Party I LinLin & GUESTS | LinLin |
 | Fri, 27 Nov 2026 | La Scarlette Sugar Rush: Berou, Eloi, Lilith | Eloi, Lilith |
 | Sat, 28 Nov 2026 | Bass Culture: D'Julz all night long | D'Julz |
 | Wed, 2 Dec 2026 | Baccvs - Rite IV: The Pulse - Camporeale, Tomoo, Droms, Camille Luciani, Bakean | Bakean, Camille Luciani, Camporeale (FR) |
@@ -17,10 +18,9 @@ Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with 
 | Sat, 5 Dec 2026 | Reflect presents: Chippy Nonstop, Saligo, Sorun b2b V.I.E | Chippy Nonstop, Saligo, Sorun |
 | Wed, 9 Dec 2026 | Underbass & Apero Tech: Kyzwall, Dj ratz b2b See Rose | KLÖSS |
 | Thu, 10 Dec 2026 | LTQB invite: ABR. (Live), Kacy, Cheche | Abr., Kacy |
-| Fri, 11 Dec 2026 | Skryptöm: Estella Boersma (Hybrid djset), Electric Rescue | Electric Rescue, Estella Boersma |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

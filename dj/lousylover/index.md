@@ -1,14 +1,15 @@
 # Lousy Lover
 
-Lousy Lover is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jolene Downtown Miami, Miami on Tue, 1 Dec 2026.
+Lousy Lover is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Jolene Downtown Miami, Miami on Tue, 1 Dec 2026.
 
-Lousy Lover is a tech house and house artist based in United States of America, with 49 gigs on soundcheck across Atlanta, Istanbul, Los Angeles and Medellin and 6 more. Often billed alongside slugg, MEGUSTA and Ale Acosta. Next up: Jolene Downtown Miami, Miami on Tue 1 Dec.
+Lousy Lover is a tech house and house artist based in United States of America, with 50 gigs on soundcheck across Atlanta, Istanbul, Los Angeles and Medellin and 6 more. Often billed alongside slugg, MEGUSTA and Ale Acosta. Next up: Jolene Downtown Miami, Miami on Tue 1 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 1 Dec 2026 | Jolene Downtown Miami | Miami |
+| Thu, 3 Dec 2026 | Edge Miami | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lousy Lover is a tech house and house artist based in United States of America, 
 
 slugg, MEGUSTA, Ale Acosta
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*

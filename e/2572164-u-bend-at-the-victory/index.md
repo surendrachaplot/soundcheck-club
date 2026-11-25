@@ -1,6 +1,6 @@
 # U-BEND at The Victory
 
-U-BEND at The Victory on Sat 30 Jan, London. 1 artist: U-BEND. Balearic and Pop. See the line-up on soundcheck.
+U-BEND at The Victory on Sat 30 Jan, London. 1 artist: U-BEND. Pop and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # muddy puppy
 
-muddy puppy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
+muddy puppy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
 
 muddy puppy is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Heels & Souls, Hamish & Toby and Lora Mipsum. Next up: Secret Location, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ muddy puppy is a house and disco artist based in United Kingdom, with 11 gigs on
 
 Heels & Souls, Hamish & Toby, Lora Mipsum
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muddypuppy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muddypuppy/)*

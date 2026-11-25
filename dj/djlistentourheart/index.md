@@ -1,6 +1,6 @@
 # dj listen to ur heart
 
-dj listen to ur heart is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Madame X, New York City on Thu, 10 Dec 2026.
+dj listen to ur heart is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Madame X, New York City on Thu, 10 Dec 2026.
 
 dj listen to ur heart is a hardcore and experimental artist based in United States of America, with 19 gigs on soundcheck across Berlin, Milan, Montreal and New York City and 1 more. Often billed alongside Nahshi, Sausha and Thoom. Next up: Madame X, New York City on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ dj listen to ur heart is a hardcore and experimental artist based in United Stat
 
 Nahshi, Sausha, Thoom
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlistentourheart/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlistentourheart/)*

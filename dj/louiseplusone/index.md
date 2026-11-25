@@ -1,14 +1,15 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at SET Social, London on Sat, 28 Nov 2026.
+Louise Plus One is a Jungle and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SET Social, London on Sat, 28 Nov 2026.
 
-Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: SET Social, London on Sat 28 Nov.
+Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: SET Social, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | SET Social | London |
+| Fri, 4 Dec 2026 | The Three Compasses | London |
 | Sat, 12 Dec 2026 | M.O.T | London |
 | Fri, 18 Dec 2026 | Lavallée | Brussels |
 | Thu, 31 Dec 2026 | The Fox and Firkin | London |
@@ -28,4 +29,4 @@ Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 12
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

@@ -1,6 +1,6 @@
 # B.R.K.Ø.
 
-B.R.K.Ø. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Fri, 18 Dec 2026.
+B.R.K.Ø. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Fri, 18 Dec 2026.
 
 B.R.K.Ø. is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside e.leptic, E.T. and Deltapeak. Next up: ://about blank, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ B.R.K.Ø. is a techno and trance artist based in Germany, with 10 gigs on soundc
 
 e.leptic, E.T., Deltapeak
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.r.k.o./)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.r.k.o./)*

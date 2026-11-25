@@ -1,13 +1,14 @@
 # Mattia Dambrosio
 
-Mattia Dambrosio is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Circolo Amelia, Milan on Sat, 9 Jan 2027.
+Mattia Dambrosio is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Masada, Milan on Sun, 13 Dec 2026.
 
-Mattia Dambrosio is a techno and dub techno artist based in Italy, with 28 gigs on soundcheck across Milan. Often billed alongside Outburst Knobs, Münch and Viels. Next up: Circolo Amelia, Milan on Sat 9 Jan.
+Mattia Dambrosio is a techno and dub techno artist based in Italy, with 29 gigs on soundcheck across Milan. Often billed alongside Outburst Knobs, Münch and Viels. Next up: Masada, Milan on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Dec 2026 | Masada | Milan |
 | Sat, 9 Jan 2027 | Circolo Amelia | Milan |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mattia Dambrosio is a techno and dub techno artist based in Italy, with 28 gigs 
 
 Outburst Knobs, Münch, Viels
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiadambrosio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiadambrosio/)*

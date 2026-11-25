@@ -1,6 +1,6 @@
 # Silicone Soul
 
-Silicone Soul is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kult, Belgrade on Sat, 19 Dec 2026.
+Silicone Soul is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kult, Belgrade on Sat, 19 Dec 2026.
 
 Silicone Soul is a house and ebm artist based in United Kingdom, with 24 gigs on soundcheck across Antwerp, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Violence., Alvaro Cabana and Jairo Uría. Next up: Kult, Belgrade on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Silicone Soul is a house and ebm artist based in United Kingdom, with 24 gigs on
 
 Violence., Alvaro Cabana, Jairo Uría
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siliconesoul/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siliconesoul/)*

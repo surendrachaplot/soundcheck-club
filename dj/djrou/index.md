@@ -1,13 +1,14 @@
 # DJ Rou
 
-DJ Rou is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
+DJ Rou is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Baumhaus, Bologna on Fri, 4 Dec 2026.
 
-DJ Rou is a house and techno artist based in Italy, with 58 gigs on soundcheck across Barcelona, Berlin, Bologna and Central and 5 more. Often billed alongside Flavio Deff, Rond and Alessio Collina. Next up: TBA - Secret Location, Central on Sat 5 Dec.
+DJ Rou is a house and techno artist based in Italy, with 59 gigs on soundcheck across Barcelona, Berlin, Bologna and Central and 5 more. Often billed alongside Flavio Deff, Rond and Alessio Collina. Next up: TBA - Baumhaus, Bologna on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | TBA - Baumhaus | Bologna |
 | Sat, 5 Dec 2026 | TBA - Secret Location | Central |
 | Sat, 19 Dec 2026 | Millenium Club | Bologna |
 | Thu, 31 Dec 2026 | Link | Bologna |
@@ -27,4 +28,4 @@ DJ Rou is a house and techno artist based in Italy, with 58 gigs on soundcheck a
 
 Flavio Deff, Rond (1), Alessio Collina
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrou/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrou/)*

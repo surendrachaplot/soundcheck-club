@@ -1,6 +1,6 @@
 # Dyzen
 
-Dyzen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Emaar Skyview Istanbul, Istanbul on Sat, 28 Nov 2026.
+Dyzen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Emaar Skyview Istanbul, Istanbul on Sat, 28 Nov 2026.
 
 Dyzen is a techno and house artist based in Italy, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 23 more. Often billed alongside Mind Against, sideral and Recondite. Next up: Emaar Skyview Istanbul, Istanbul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dyzen is a techno and house artist based in Italy, with 64 gigs on soundcheck ac
 
 Mind Against, sideral, Recondite
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*

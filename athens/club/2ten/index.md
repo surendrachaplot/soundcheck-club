@@ -1,6 +1,6 @@
 # 2ten
 
-2ten is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Rave Ritual" on Sat, 21 Nov 2026.
+2ten is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Rave Ritual" on Sat, 28 Nov 2026.
 
 2ten is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including MOSHBEAT, Plagger and TYPEO. See dates, start times and who's playing. Ermou 135, Athens.
 
@@ -8,10 +8,10 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Rave Ritual | MOSHBEAT, Plagger, TYPEO (3) |
+| Sat, 28 Nov 2026 | Rave Ritual | MOSHBEAT, Plagger, TYPEO (3) |
 
 ## Address
 
 Ermou 135, Athens, Athens
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*

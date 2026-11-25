@@ -1,6 +1,6 @@
 # sallah
 
-sallah is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
+sallah is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
 
 sallah is a techno and ghetto tech artist based in Germany, with 14 gigs on soundcheck across Berlin, Lisbon, Liverpool and Munich and 2 more. Often billed alongside DJ Maboku, DJ Nervoso and DJ Nigga Fox. Next up: Chausseestrasse 131, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ sallah is a techno and ghetto tech artist based in Germany, with 14 gigs on soun
 
 DJ Maboku, DJ Nervoso, DJ Nigga Fox
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sallah/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sallah/)*

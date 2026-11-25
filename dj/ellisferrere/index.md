@@ -1,6 +1,6 @@
 # Ellis Ferrere
 
-Ellis Ferrere is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beato 30, Lisbon on Sat, 28 Nov 2026.
+Ellis Ferrere is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Beato 30, Lisbon on Sat, 28 Nov 2026.
 
 Ellis Ferrere is an electronic artist based in Portugal, with 8 gigs on soundcheck across Berlin, Lisbon and London. Often billed alongside Kuza Bruta, Lil Silva and Mad Cisco. Next up: Beato 30, Lisbon on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Ellis Ferrere is an electronic artist based in Portugal, with 8 gigs on soundche
 
 Kuza Bruta (2), Lil Silva, Mad Cisco
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisferrere/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisferrere/)*

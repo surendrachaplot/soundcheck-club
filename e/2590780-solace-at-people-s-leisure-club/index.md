@@ -1,6 +1,6 @@
 # SOLACE at People's Leisure Club
 
-SOLACE at People's Leisure Club on Sat 16 Jan, Edinburgh. 1 artist: DJ MEOZ. Progressive House. See the line-up on soundcheck.
+SOLACE at People's Leisure Club on Sat 16 Jan, Edinburgh. 2 artists: DJ MEOZ and NORDIC. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SOLACE at People's Leisure Club on Sat 16 Jan, Edinburgh. 1 artist: DJ MEOZ. Pro
 ## Line-up
 
 - DJ MEOZ
+- NORDIC
 
 *Source: [soundcheck](https://soundcheck.club/e/2590780-solace-at-people-s-leisure-club/)*

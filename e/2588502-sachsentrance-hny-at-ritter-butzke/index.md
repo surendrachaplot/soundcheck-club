@@ -1,6 +1,6 @@
 # Sachsentrance HNY at Ritter Butzke
 
-Sachsentrance HNY at Ritter Butzke on Thu 31 Dec, Berlin. 5 artists: Atreo, Kirk (US), RaverPik and Sabu! and 1 more. Trance and Techno. See the line-up on soundcheck.
+Sachsentrance HNY at Ritter Butzke on Thu 31 Dec, Berlin. 4 artists: Atreo, RaverPik, Sabu! and The Jakob Sister. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Sachsentrance HNY at Ritter Butzke on Thu 31 Dec, Berlin. 5 artists: Atreo, Kirk
 ## Line-up
 
 - Atreo
-- Kirk (US)
 - RaverPik
 - Sabu!
 - The Jakob Sister

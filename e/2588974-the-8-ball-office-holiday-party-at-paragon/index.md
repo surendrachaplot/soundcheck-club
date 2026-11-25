@@ -1,6 +1,6 @@
 # The 8 Ball Office Holiday Party at Paragon
 
-The 8 Ball Office Holiday Party at Paragon on Fri 18 Dec, New York City. 14 artists: ALI IRL, antron, Bodega Bruja and Brooke Steele and 10 more. Techno and Bass. See the line-up on soundcheck.
+The 8 Ball Office Holiday Party at Paragon on Fri 18 Dec, New York City. 16 artists: _bbyboi, ALI IRL, antron and Bodega Bruja and 12 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ The 8 Ball Office Holiday Party at Paragon on Fri 18 Dec, New York City. 14 arti
 
 ## Line-up
 
+- _bbyboi
 - ALI IRL
 - antron
 - Bodega Bruja
 - Brooke Steele
+- dj diamond life
 - Elina Arbo
 - ethereal.mvp
 - Kweku

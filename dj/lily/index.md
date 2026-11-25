@@ -1,13 +1,14 @@
 # Lily
 
-Lily is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 28 Nov 2026.
+Lily is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Glasgow on Fri, 27 Nov 2026.
 
-Lily is a club and techno artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow. Often billed alongside Babyjaii, Et Al and Acido Cielo. Next up: Nice N Sleazy, Glasgow on Sat 28 Nov.
+Lily is a club and techno artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow. Often billed alongside Babyjaii, Bellarosa and Danyo. Next up: Stereo, Glasgow on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Stereo | Glasgow |
 | Sat, 28 Nov 2026 | Nice N Sleazy | Glasgow |
 | Sat, 5 Dec 2026 | The Poetry Club | Glasgow |
 
@@ -20,6 +21,6 @@ Lily is a club and techno artist based in United Kingdom, with 6 gigs on soundch
 
 ## Shares bills with
 
-Babyjaii, Et Al (1), Acido Cielo
+Babyjaii, Bellarosa, Danyo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lily/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lily/)*

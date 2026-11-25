@@ -1,14 +1,15 @@
 # Field Notes DJs
 
-Field Notes DJs is a Acid and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ISOamsterdam, Amsterdam on Fri, 11 Dec 2026.
+Field Notes DJs is a Acid and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ISOamsterdam, Amsterdam on Fri, 11 Dec 2026.
 
-Field Notes DJs is an acid and electronica artist, with 36 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and London. Often billed alongside Sound Metaphors Djs, Alicia Carrera and Robert Bergman. Next up: ISOamsterdam, Amsterdam on Fri 11 Dec.
+Field Notes DJs is an acid and electronica artist, with 37 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and London. Often billed alongside Sound Metaphors Djs, Alicia Carrera and Robert Bergman. Next up: ISOamsterdam, Amsterdam on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | ISOamsterdam | Amsterdam |
+| Thu, 31 Dec 2026 | Stable Wines | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Field Notes DJs is an acid and electronica artist, with 36 gigs on soundcheck ac
 
 Sound Metaphors Djs, Alicia Carrera, Robert Bergman
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*

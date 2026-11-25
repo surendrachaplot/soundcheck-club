@@ -1,6 +1,6 @@
 # n808
 
-n808 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 2 Dec 2026.
+n808 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 2 Dec 2026.
 
 n808 is a house and tech house artist based in United States of America, with 35 gigs on soundcheck across Austin, Detroit, Los Angeles and Miami and 2 more. Often billed alongside AMPRS&ND, Mz Worthy and Ardalan. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ n808 is a house and tech house artist based in United States of America, with 35
 
 AMPRS&ND, Mz Worthy, Ardalan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n808/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n808/)*

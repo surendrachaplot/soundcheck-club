@@ -1,6 +1,6 @@
 # Korolova pres by Bootshaus at Bootshaus
 
-Korolova pres by Bootshaus on Sat 12 Dec, Cologne. 3 artists: Against All Ødds, Baset and Korolova. Progressive House. See the line-up on soundcheck.
+Korolova pres by Bootshaus on Sat 12 Dec, Cologne. 4 artists: Against All Ødds, Baset, Korolova and Quirin (DE). Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Korolova pres by Bootshaus on Sat 12 Dec, Cologne. 3 artists: Against All Ødds,
 - Against All Ødds
 - Baset
 - Korolova
+- Quirin (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2585973-korolova-pres-by-bootshaus-at-bootshaus/)*

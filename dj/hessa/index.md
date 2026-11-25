@@ -1,13 +1,14 @@
 # Hessa
 
-Hessa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lula Club, Madrid on Mon, 7 Dec 2026.
+Hessa is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sun, 6 Dec 2026.
 
-Hessa is a house and electronica artist based in Spain, with 29 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 3 more. Often billed alongside Alffie, Memed Awad and Moruki. Next up: Lula Club, Madrid on Mon 7 Dec.
+Hessa is a house and minimal artist based in Spain, with 30 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 3 more. Often billed alongside Alffie, Memed Awad and Moruki. Next up: 303 Audiophile Bar, Barcelona on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | 303 Audiophile Bar | Barcelona |
 | Mon, 7 Dec 2026 | Lula Club | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hessa is a house and electronica artist based in Spain, with 29 gigs on soundche
 
 Alffie, Memed Awad, Moruki
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hessa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hessa/)*

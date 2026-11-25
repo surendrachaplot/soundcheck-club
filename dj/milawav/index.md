@@ -1,6 +1,6 @@
 # Mila Wav
 
-Mila Wav is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Distrikt, Prague on Fri, 18 Dec 2026.
+Mila Wav is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Distrikt, Prague on Fri, 18 Dec 2026.
 
 Mila Wav is a techno and gabber artist based in Poland, with 2 gigs on soundcheck across Prague and Sofia. Often billed alongside Deborah Forti, Isabela Clerc and Razzor. Next up: Distrikt, Prague on Fri 18 Dec.
 
@@ -15,4 +15,4 @@ Mila Wav is a techno and gabber artist based in Poland, with 2 gigs on soundchec
 
 Deborah Forti, Isabela Clerc, Razzor
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milawav/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milawav/)*

@@ -1,6 +1,6 @@
 # PM:AM - FRONTIER at Hackney Bridge
 
-PM:AM - FRONTIER at Hackney Bridge on Sat 5 Dec, London. 5 artists: BEKIMACHINE, Bushy Squirrel, Franco and frankllin and 1 more. Progressive House and Techno. See the line-up on soundcheck.
+PM:AM - FRONTIER at Hackney Bridge on Sat 5 Dec, London. 5 artists: BEKIMACHINE, Bushy Squirrel, Franco and Frankllin and 1 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ PM:AM - FRONTIER at Hackney Bridge on Sat 5 Dec, London. 5 artists: BEKIMACHINE,
 - BEKIMACHINE
 - Bushy Squirrel
 - Franco (1)
-- frankllin
+- Frankllin
 - Photrix
 
 *Source: [soundcheck](https://soundcheck.club/e/2573481-pm-am-frontier-at-hackney-bridge/)*

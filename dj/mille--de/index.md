@@ -1,6 +1,6 @@
 # Mille (DE)
 
-Mille (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
+Mille (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
 
 Mille (DE) is a house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Düsseldorf and Hamburg. Often billed alongside DJ MILLE, MILLE and David Lenk. Next up: Slot, Hamburg on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Mille (DE) is a house and techno artist based in Germany, with 9 gigs on soundch
 
 DJ MILLE, MILLE, David Lenk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*

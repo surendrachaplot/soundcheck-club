@@ -1,6 +1,6 @@
 # Rocco Universal
 
-Rocco Universal is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Numm, Tokyo on Sat, 5 Dec 2026.
+Rocco Universal is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Numm, Tokyo on Sat, 5 Dec 2026.
 
 Rocco Universal is a disco and acid artist, with 5 gigs on soundcheck across Bali, Bangkok and Tokyo. Often billed alongside IMEN., Idjut Boys and Ross From Friends. Next up: Numm, Tokyo on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Rocco Universal is a disco and acid artist, with 5 gigs on soundcheck across Bal
 
 IMEN., Idjut Boys, Ross From Friends
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roccouniversal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roccouniversal/)*

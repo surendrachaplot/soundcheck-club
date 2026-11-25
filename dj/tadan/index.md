@@ -1,6 +1,6 @@
 # Tadan
 
-Tadan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at gallery 1986, Vilnius on Fri, 19 Feb 2027.
+Tadan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at gallery 1986, Vilnius on Fri, 19 Feb 2027.
 
 Tadan is a techno and trance artist based in Lithuania, with 36 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Jan Swam, Pyramid of Knowledge and ensure. Next up: gallery 1986, Vilnius on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ Tadan is a techno and trance artist based in Lithuania, with 36 gigs on soundche
 
 Jan Swam, Pyramid of Knowledge, ensure
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tadan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tadan/)*

@@ -1,13 +1,14 @@
 # Disorder44
 
-Disorder44 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 11 Dec 2026.
+Disorder44 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 11 Dec 2026.
 
-Disorder44 is a techno and trance artist based in Mexico, with 17 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Praqqa, Deenia and Cabe. Next up: nueve cero nueve, Mexico City on Fri 11 Dec.
+Disorder44 is a techno and trance artist based in Mexico, with 18 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Praqqa, Cabe and Deenia. Next up: nueve cero nueve, Mexico City on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | nueve cero nueve | Mexico City |
 | Fri, 11 Dec 2026 | nueve cero nueve | Mexico City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Disorder44 is a techno and trance artist based in Mexico, with 17 gigs on soundc
 
 ## Shares bills with
 
-Praqqa, Deenia, Cabe
+Praqqa, Cabe, Deenia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disorder44/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disorder44/)*

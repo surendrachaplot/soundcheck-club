@@ -1,13 +1,13 @@
 # 1712 Studios
 
-1712 Studios is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hot Mess presents: SINNERS Halloween" on Sat, 31 Oct 2026.
+1712 Studios is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Winter Oasis: A Dance Party" on Fri, 29 Jan 2027.
 
-1712 Studios is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including x1aoy3. See dates, start times and who's playing.
+1712 Studios is a music venue in Seattle listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hot Mess presents: SINNERS Halloween | x1aoy3 |
+| Fri, 29 Jan 2027 | Winter Oasis: A Dance Party |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/1712-studios/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/1712-studios/)*

@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Gloria Danger" on Wed, 25 Nov 2026.
+Good Room is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Gloria Danger" on Wed, 25 Nov 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including Adam R, Alinka, Benny Soto and Budino and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Adam R, Alinka, Benny Soto and Budino and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

@@ -1,6 +1,6 @@
 # Sam Pratt
 
-Sam Pratt is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
+Sam Pratt is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
 
 Sam Pratt is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Seth Chohan, AVIAX and A Little Bit Orange. Next up: Holding Patterns, Leeds on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sam Pratt is a house and tech house artist based in United Kingdom, with 75 gigs
 
 Seth Chohan, AVIAX, A Little Bit Orange
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*

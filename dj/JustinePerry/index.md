@@ -1,6 +1,6 @@
 # Justine Perry
 
-Justine Perry is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
+Justine Perry is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
 
 Justine Perry is a techno and house artist based in France, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Paula Koski, Blasha & Allatt and Setaoc Mass. Next up: objekt klein a, Dresden on Sat 28 Nov.
 
@@ -32,4 +32,4 @@ Justine Perry is a techno and house artist based in France, with 191 gigs on sou
 
 Paula Koski, Blasha & Allatt, Setaoc Mass
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*

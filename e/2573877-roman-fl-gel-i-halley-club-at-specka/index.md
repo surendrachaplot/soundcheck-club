@@ -1,6 +1,6 @@
 # Roman Flügel I Halley Club at Specka
 
-Roman Flügel I Halley Club at Specka on Sat 19 Dec, Madrid. 2 artists: Alvaro Cabana and Roman Flügel. Disco and Electronica. See the line-up on soundcheck.
+Roman Flügel I Halley Club at Specka on Sat 19 Dec, Madrid. 2 artists: David Ponziano and Roman Flügel. Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Roman Flügel I Halley Club at Specka on Sat 19 Dec, Madrid. 2 artists: Alvaro C
 
 ## Line-up
 
-- Alvaro Cabana
+- David Ponziano
 - Roman Flügel
 
 *Source: [soundcheck](https://soundcheck.club/e/2573877-roman-fl-gel-i-halley-club-at-specka/)*

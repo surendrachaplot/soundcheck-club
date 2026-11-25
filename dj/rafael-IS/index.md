@@ -1,8 +1,8 @@
 # Rafael (IS)
 
-Rafael (IS) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Penthouse Dubai, Dubai on Sat, 28 Nov 2026.
+Rafael (IS) is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Penthouse Dubai, Dubai on Sat, 28 Nov 2026.
 
-Rafael (IS) is a tech house and house artist based in Israel, with 28 gigs on soundcheck across Austin, Barcelona, Berlin and Brisbane and 16 more. Often billed alongside Jamie Jones, Dennis Cruz and Mason Collective. Next up: The Penthouse Dubai, Dubai on Sat 28 Nov.
+Rafael (IS) is a tech house and house artist based in Israel, with 29 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Jamie Jones, Dennis Cruz and Mason Collective. Next up: The Penthouse Dubai, Dubai on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rafael (IS) is a tech house and house artist based in Israel, with 28 gigs on so
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Penthouse Dubai | Dubai |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 12 Dec 2026 | Amaze | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rafael (IS) is a tech house and house artist based in Israel, with 28 gigs on so
 
 Jamie Jones, Dennis Cruz, Mason Collective
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*

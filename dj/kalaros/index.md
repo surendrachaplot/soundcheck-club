@@ -1,6 +1,6 @@
 # Kala Ros
 
-Kala Ros is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sauvage Swinger Club, Barcelona on Fri, 4 Dec 2026.
+Kala Ros is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sauvage Swinger Club, Barcelona on Fri, 4 Dec 2026.
 
 Kala Ros is a techno and house artist based in Argentina, with 30 gigs on soundcheck across Barcelona and Geneva. Often billed alongside Lucho (VE), MarsattacX and Freeka. Next up: Sauvage Swinger Club, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kala Ros is a techno and house artist based in Argentina, with 30 gigs on soundc
 
 Lucho (VE), MarsattacX, Freeka
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalaros/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalaros/)*

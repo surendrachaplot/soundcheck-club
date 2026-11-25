@@ -1,6 +1,6 @@
 # Ladytron
 
-Ladytron is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at SWG3, Glasgow on Thu, 17 Dec 2026.
+Ladytron is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at SWG3, Glasgow on Thu, 17 Dec 2026.
 
 Ladytron is an electronica and electro artist based in United Kingdom, with 4 gigs on soundcheck across Atlanta, Austin, Glasgow and San Diego. Often billed alongside Amelie Lens, Barry Can't Swim and Basement Jaxx. Next up: SWG3, Glasgow on Thu 17 Dec.
 
@@ -20,4 +20,4 @@ Ladytron is an electronica and electro artist based in United Kingdom, with 4 gi
 
 Amelie Lens, Barry Can't Swim, Basement Jaxx
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladytron/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladytron/)*

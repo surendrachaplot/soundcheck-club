@@ -1,6 +1,6 @@
 # Emvae
 
-Emvae is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
+Emvae is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
 
 Emvae is a house and trance artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Ibiza and 3 more. Often billed alongside Moxes, SAIDAH and Benwal. Next up: Lijm & Cultuur, Netherlands on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Emvae is a house and trance artist based in Netherlands, with 81 gigs on soundch
 
 Moxes, SAIDAH, Benwal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*

@@ -1,17 +1,18 @@
 # Toner(JP)
 
-Toner(JP) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
+Toner(JP) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ya Teng Homestay, Thailand on Fri, 12 Feb 2027.
 
-Toner(JP) is a techno and ambient artist based in Japan, with 48 gigs on soundcheck across Seoul, Taipei and Tokyo. Often billed alongside Atsushi Maeda, OCCA and Lynne. Next up: PBOX STND, Tokyo on Sat 14 Nov.
+Toner(JP) is a techno and ambient artist based in Japan, with 49 gigs on soundcheck across Seoul, Taipei, Thailand and Tokyo. Often billed alongside Atsushi Maeda, OCCA and Lynne. Next up: Ya Teng Homestay, Thailand on Fri 12 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | PBOX STND | Tokyo |
+| Fri, 12 Feb 2027 | Ya Teng Homestay | Thailand |
 
 ## Recently played
 
+- PBOX STND, Tokyo · Sat, 14 Nov 2026
 - 世田谷区立兵庫島公園, Tokyo · Sat, 7 Nov 2026
 - Human Nature, Tokyo · Fri, 16 Oct 2026
 - Bonobo, Tokyo · Sat, 3 Oct 2026
@@ -19,10 +20,9 @@ Toner(JP) is a techno and ambient artist based in Japan, with 48 gigs on soundch
 - WOMB, Tokyo · Mon, 21 Sept 2026
 - Space Orbit, Tokyo · Thu, 3 Sept 2026
 - Mitsuki, Tokyo · Wed, 26 Aug 2026
-- VENT, Tokyo · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Atsushi Maeda, OCCA, Lynne
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*

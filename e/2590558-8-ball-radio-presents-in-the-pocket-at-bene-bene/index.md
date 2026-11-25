@@ -1,6 +1,6 @@
 # 8 Ball Radio presents: In the Pocket at Bene Bene
 
-8 Ball Radio presents: In the Pocket at Bene Bene on Sat 28 Nov, Milan. 5 artists: ethereal.mvp, Kweku, kyxm and martine and 1 more. House and Club. See the line-up on soundcheck.
+8 Ball Radio presents: In the Pocket at Bene Bene on Sat 28 Nov, Milan. 6 artists: _bbyboi, ethereal.mvp, Kweku and kyxm and 2 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- _bbyboi
 - ethereal.mvp
 - Kweku
 - kyxm

@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at UNDERCITY, Seoul on Fri, 27 Nov 2026.
+Wata Igarashi is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at UNDERCITY, Seoul on Fri, 27 Nov 2026.
 
-Wata Igarashi is a techno and house artist based in Japan, with 252 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 65 more. Often billed alongside DJ Nobu, CCL and Polygonia. Next up: UNDERCITY, Seoul on Fri 27 Nov.
+Wata Igarashi is a techno and house artist based in Japan, with 253 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 65 more. Often billed alongside DJ Nobu, CCL and Polygonia. Next up: UNDERCITY, Seoul on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Wata Igarashi is a techno and house artist based in Japan, with 252 gigs on soun
 | Fri, 11 Dec 2026 | Unmute | Hanoi |
 | Sat, 12 Dec 2026 | Pawnshop | Taipei |
 | Fri, 18 Dec 2026 | Abercrombie Hotel | Sydney |
+| Sun, 20 Dec 2026 | Miscellania | Melbourne |
 | Sat, 26 Dec 2026 | WOMB | Tokyo |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 | Fri, 5 Feb 2027 | Lofi | Amsterdam |
 | Sat, 6 Feb 2027 | fabric | London |
-| Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Wata Igarashi is a techno and house artist based in Japan, with 252 gigs on soun
 
 DJ Nobu, CCL, Polygonia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

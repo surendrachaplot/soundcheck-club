@@ -1,6 +1,6 @@
 # Melina Serser
 
-Melina Serser is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Gaffe, London on Sat, 5 Dec 2026.
+Melina Serser is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Gaffe, London on Sat, 5 Dec 2026.
 
 Melina Serser is a house and techno artist based in Uruguay, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Jane Fitz, DJ Koolt and e/tape. Next up: Gaffe, London on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Melina Serser is a house and techno artist based in Uruguay, with 57 gigs on sou
 
 Jane Fitz, DJ Koolt, e/tape
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*

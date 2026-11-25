@@ -1,6 +1,6 @@
 # MRAK
 
-MRAK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 4 Dec 2026.
+MRAK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 4 Dec 2026.
 
 MRAK is a techno and house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: Brooklyn Pacha, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ MRAK is a techno and house artist based in Germany, with 39 gigs on soundcheck a
 
 Tale Of Us, Anyma, Argy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*

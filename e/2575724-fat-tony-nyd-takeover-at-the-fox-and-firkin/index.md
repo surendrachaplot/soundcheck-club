@@ -1,6 +1,6 @@
 # Fat Tony NYD Takeover at The Fox and Firkin
 
-Fat Tony NYD Takeover at The Fox and Firkin on Fri 1 Jan, London. 1 artist: Fat Tony. House and Disco. See the line-up on soundcheck.
+Fat Tony NYD Takeover at The Fox and Firkin on Fri 1 Jan, London. 3 artists: Fat Tony, SIGGY and The Menendez Brothers. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Fat Tony NYD Takeover at The Fox and Firkin on Fri 1 Jan, London. 1 artist: Fat 
 ## Line-up
 
 - Fat Tony
+- SIGGY
+- The Menendez Brothers
 
 *Source: [soundcheck](https://soundcheck.club/e/2575724-fat-tony-nyd-takeover-at-the-fox-and-firkin/)*

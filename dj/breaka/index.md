@@ -1,6 +1,6 @@
 # Breaka
 
-Breaka is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
+Breaka is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
 
 Breaka is a bass and breakbeat artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 43 more. Often billed alongside Bakey, Yushh and Dubrunner. Next up: Razzmatazz, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Breaka is a bass and breakbeat artist based in United Kingdom, with 125 gigs on 
 
 Bakey, Yushh, Dubrunner
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*

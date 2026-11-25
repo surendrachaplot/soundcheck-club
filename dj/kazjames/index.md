@@ -1,6 +1,6 @@
 # Kaz James
 
-Kaz James is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - MILA, Miami on Sat, 5 Dec 2026.
+Kaz James is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - MILA, Miami on Sat, 5 Dec 2026.
 
 Kaz James is a house and afro house artist based in United Kingdom, with 46 gigs on soundcheck across Athens, Ibiza, Istanbul and London and 10 more. Often billed alongside Black Coffee, Carlita and Guy Gerber. Next up: TBA - MILA, Miami on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kaz James is a house and afro house artist based in United Kingdom, with 46 gigs
 
 Black Coffee, Carlita, Guy Gerber
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*

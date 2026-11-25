@@ -1,6 +1,6 @@
 # ZYKLED
 
-ZYKLED is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 15 Jan 2027.
+ZYKLED is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 15 Jan 2027.
 
 ZYKLED is a techno and industrial artist, with 5 gigs on soundcheck across Bern and Zurich. Often billed alongside KAïA, 36birds and AEREA. Next up: TBA - Sous Soul, Bern on Fri 15 Jan.
 
@@ -21,4 +21,4 @@ ZYKLED is a techno and industrial artist, with 5 gigs on soundcheck across Bern 
 
 KAïA (2), 36birds, AEREA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zykled/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zykled/)*

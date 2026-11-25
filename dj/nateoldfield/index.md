@@ -1,6 +1,6 @@
 # Nate Oldfield
 
-Nate Oldfield is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Secret Location, London on Fri, 18 Dec 2026.
+Nate Oldfield is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Secret Location, London on Fri, 18 Dec 2026.
 
 Nate Oldfield is a techno and house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Josh Keit, Shonky and A For Alpha. Next up: Secret Location, London on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Nate Oldfield is a techno and house artist based in United Kingdom, with 3 gigs 
 
 Josh Keit, Shonky, A For Alpha
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nateoldfield/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nateoldfield/)*

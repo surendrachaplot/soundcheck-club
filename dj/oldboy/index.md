@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Loft, Manchester on Thu, 3 Dec 2026.
+Oldboy is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Loft, Manchester on Thu, 3 Dec 2026.
 
 Oldboy is a garage and house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: The Loft, Manchester on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Oldboy is a garage and house artist based in United Kingdom, with 62 gigs on sou
 
 DJ Cosworth, Captain Wallop, Prozak (IRL)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

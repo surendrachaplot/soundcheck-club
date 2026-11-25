@@ -1,6 +1,6 @@
 # Dino and Terry
 
-Dino and Terry is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Harmony Social House - 739 Queen St W, Toronto, ON M6J 1G1, Canada, Toronto on Sun, 27 Dec 2026.
+Dino and Terry is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Harmony Social House - 739 Queen St W, Toronto, ON M6J 1G1, Canada, Toronto on Sun, 27 Dec 2026.
 
 Dino and Terry are a house and club duo based in Canada, with 25 gigs on soundcheck across Toronto. Often billed alongside Yogi, Dirty Dale and Jason Palma. Next up: TBA - Harmony Social House - 739 Queen St W, Toronto, ON M6J 1G1, Canada, Toronto on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Dino and Terry are a house and club duo based in Canada, with 25 gigs on soundch
 
 Yogi, Dirty Dale, Jason Palma
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinoandterry/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinoandterry/)*

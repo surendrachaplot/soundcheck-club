@@ -1,6 +1,6 @@
 # LYA FRANK
 
-LYA FRANK is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 26 Nov 2026.
+LYA FRANK is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 26 Nov 2026.
 
 LYA FRANK is a tech house and house artist based in Colombia, with 26 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Camilo Do Santos, DÍSCOLA and AFM. Next up: Mad Radio Medellín, Medellin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ LYA FRANK is a tech house and house artist based in Colombia, with 26 gigs on so
 
 Camilo Do Santos, DÍSCOLA, AFM
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyafrank/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyafrank/)*

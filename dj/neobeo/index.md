@@ -1,17 +1,18 @@
 # Neobeo
 
-Neobeo is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Süss War Gestern, Berlin on Thu, 12 Nov 2026.
+Neobeo is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 4 Dec 2026.
 
-Neobeo is a deep house and downtempo artist based in Germany, with 73 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Doron, James Rod and saeuer. Next up: Süss War Gestern, Berlin on Thu 12 Nov.
+Neobeo is a deep house and downtempo artist based in Germany, with 74 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Doron, James Rod and Lotte Ahoi. Next up: Crack Bellmer, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Süss War Gestern | Berlin |
+| Fri, 4 Dec 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
+- Süss War Gestern, Berlin · Thu, 12 Nov 2026
 - Süss War Gestern, Berlin · Thu, 29 Oct 2026
 - Süss War Gestern, Berlin · Thu, 15 Oct 2026
 - Süss War Gestern, Berlin · Thu, 1 Oct 2026
@@ -19,10 +20,9 @@ Neobeo is a deep house and downtempo artist based in Germany, with 73 gigs on so
 - gART.n, Berlin · Sun, 23 Aug 2026
 - KitKatClub, Berlin · Fri, 14 Aug 2026
 - Süss War Gestern, Berlin · Thu, 4 Jun 2026
-- Kater, Berlin · Fri, 22 May 2026
 
 ## Shares bills with
 
-Doron, James Rod, saeuer
+Doron, James Rod, Lotte Ahoi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neobeo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neobeo/)*

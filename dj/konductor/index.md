@@ -1,6 +1,6 @@
 # Konductor
 
-Konductor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 3 Dec 2026.
+Konductor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 3 Dec 2026.
 
 Konductor is a techno and house artist, with 10 gigs on soundcheck across Lisbon. Often billed alongside Pierresat, Flip Morgado and Morgado. Next up: Lux Fragil, Lisbon on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Konductor is a techno and house artist, with 10 gigs on soundcheck across Lisbon
 
 Pierresat, Flip Morgado, Morgado
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konductor/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konductor/)*

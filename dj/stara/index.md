@@ -1,13 +1,14 @@
 # Stara
 
-Stara is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ciało, Wroclaw on Sat, 12 Dec 2026.
+Stara is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tama, Poznan on Sat, 28 Nov 2026.
 
-Stara is an electronic artist based in Australia, with 2 gigs on soundcheck across London and Wroclaw. Often billed alongside ME-ERROR, MGSK and Muzan. Next up: Ciało, Wroclaw on Sat 12 Dec.
+Stara is a techno artist based in Australia, with 3 gigs on soundcheck across London, Poznan and Wroclaw. Often billed alongside ME-ERROR, MGSK and Muzan. Next up: Tama, Poznan on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Tama | Poznan |
 | Sat, 12 Dec 2026 | Ciało | Wroclaw |
 
 ## Recently played
@@ -18,4 +19,4 @@ Stara is an electronic artist based in Australia, with 2 gigs on soundcheck acro
 
 ME-ERROR, MGSK, Muzan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stara/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stara/)*

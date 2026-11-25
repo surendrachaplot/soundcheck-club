@@ -1,6 +1,6 @@
 # ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] at ark (Melb)
 
-ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] at ark (Melb) on Sat 28 Nov, Melbourne. 3 artists: Auramatic, Dan Newman and Merel Helderman. Trance and House. See the line-up on soundcheck.
+ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] at ark (Melb) on Sat 28 Nov, Melbourne. 3 artists: Auramatic, Dan Newman and Merel Helderman. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

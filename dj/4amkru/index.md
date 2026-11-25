@@ -1,6 +1,6 @@
 # 4am Kru
 
-4am Kru is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at EngineRooms, South-east on Fri, 27 Nov 2026.
+4am Kru is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at EngineRooms, South-east on Fri, 27 Nov 2026.
 
 4am Kru is a jungle and drum & bass artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 25 more. Often billed alongside Bakey, Sexy Lady Massive and Napes. Next up: EngineRooms, South East on Fri 27 Nov.
 
@@ -32,4 +32,4 @@
 
 Bakey, Sexy Lady Massive, Napes
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*

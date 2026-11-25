@@ -1,6 +1,6 @@
 # Elena Megi
 
-Elena Megi is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Resume Valencia, Valencia on Fri, 27 Nov 2026.
+Elena Megi is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Resume Valencia, Valencia on Fri, 27 Nov 2026.
 
 Elena Megi is a tech house and minimal artist based in Spain, with 5 gigs on soundcheck across Madrid and Valencia. Often billed alongside CAMMMMM, Pin and Ariezzz. Next up: Resume Valencia, Valencia on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Elena Megi is a tech house and minimal artist based in Spain, with 5 gigs on sou
 
 CAMMMMM, Pin, Ariezzz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenalamegi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenalamegi/)*

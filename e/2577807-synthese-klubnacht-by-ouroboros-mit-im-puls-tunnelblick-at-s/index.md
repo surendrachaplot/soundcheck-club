@@ -1,6 +1,6 @@
 # SYNTHESE - KLUBNACHT by OUROBOROS mit IM:PULS & TUNNELBLICK at Stollen 134
 
-SYNTHESE - KLUBNACHT by OUROBOROS mit IM:PULS & TUNNELBLICK at Stollen 134 on Fri 27 Nov, Dortmund / Essen. 3 artists: byrush, Émile and SAEIVAN. Trance and Techno. See the line-up on soundcheck.
+SYNTHESE - KLUBNACHT by OUROBOROS mit IM:PULS & TUNNELBLICK at Stollen 134 on Fri 27 Nov, Dortmund / Essen. 4 artists: byrush, Émile, Olek Groshka and SAEIVAN. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SYNTHESE - KLUBNACHT by OUROBOROS mit IM:PULS & TUNNELBLICK at Stollen 134 on Fr
 
 - byrush
 - Émile
+- Olek Groshka
 - SAEIVAN
 
 *Source: [soundcheck](https://soundcheck.club/e/2577807-synthese-klubnacht-by-ouroboros-mit-im-puls-tunnelblick-at-s/)*

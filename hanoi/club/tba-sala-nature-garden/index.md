@@ -1,6 +1,6 @@
 # TBA - Sala Nature Garden
 
-TBA - Sala Nature Garden is a music venue in Hanoi with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Brazilian party Hanoi" on Sat, 5 Dec 2026.
+TBA - Sala Nature Garden is a music venue in Hanoi with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Brazilian party Hanoi" on Sat, 5 Dec 2026.
 
 TBA - Sala Nature Garden is a music venue in Hanoi listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Sala Nature Garden is a music venue in Hanoi listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Brazilian party Hanoi |  |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/tba-sala-nature-garden/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/tba-sala-nature-garden/)*

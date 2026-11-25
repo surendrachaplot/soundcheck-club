@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Ben Klock is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 Ben Klock is a techno and house artist based in Germany, with 309 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 75 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, with 309 gigs on soundc
 
 Fadi Mohem, Marcel Dettmann, Rødhåd
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

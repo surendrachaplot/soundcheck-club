@@ -1,8 +1,8 @@
 # Carlita
 
-Carlita is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Carlita is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Carlita is a house and techno artist based in Turkey, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Factory Town, Miami on Wed 2 Dec.
+Carlita is a house and techno artist based in Turkey, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carlita is a house and techno artist based in Turkey, with 214 gigs on soundchec
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
+| Sat, 5 Dec 2026 | Factory Town | Miami |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
@@ -27,4 +28,4 @@ Carlita is a house and techno artist based in Turkey, with 214 gigs on soundchec
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

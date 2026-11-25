@@ -1,11 +1,28 @@
 # PervertMX CDMX Año Nuevo at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs.
 
-PervertMX CDMX Año Nuevo at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. on Thu 31 Dec, Mexico City. Techno and House. See the line-up on soundcheck.
+PervertMX CDMX Año Nuevo at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. on Thu 31 Dec, Mexico City. 14 artists: Celice Monnette, Drakhen, Eliel Capa and Enya Botello and 10 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 31 Dec 2026 |
 | Venue | TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. |
 | City | Mexico City |
+
+## Line-up
+
+- Celice Monnette
+- Drakhen
+- Eliel Capa
+- Enya Botello
+- Hot Hudson
+- IVVAAN
+- Lex Digital
+- MIKITA (MX)
+- Pablo Lara
+- Phanta
+- Portugal
+- Rafa Beltran
+- sadgal
+- Torgy
 
 *Source: [soundcheck](https://soundcheck.club/e/2576490-pervertmx-cdmx-a-o-nuevo-at-tba-la-direcci-n-de-la-fiesta-se/)*

@@ -1,6 +1,6 @@
 # Torus
 
-Torus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Dec 2026.
+Torus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Dec 2026.
 
 Torus is a house and techno artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside SIGNAL (JP), Evian Christ and MOTOKA. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Torus is a house and techno artist based in Netherlands, with 92 gigs on soundch
 
 SIGNAL (JP), Evian Christ, MOTOKA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*

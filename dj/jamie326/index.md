@@ -1,6 +1,6 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Row 24 Chicago, Chicago on Sat, 12 Dec 2026.
+Jamie 3:26 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Row 24 Chicago, Chicago on Sat, 12 Dec 2026.
 
 Jamie 3:26 is a house and disco artist based in United States of America, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: Row 24 Chicago, Chicago on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 
 Young Pulse, Dimitri From Paris, Melvo Baptiste
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

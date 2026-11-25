@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "BIGGEST BAR NIGHT" on Wed, 25 Nov 2026.
+TV Lounge is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BIGGEST BAR NIGHT" on Wed, 25 Nov 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including 888lambchop, Andrea Kalajian, britty. and Disc Jockey George and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -23,4 +23,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, wi
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

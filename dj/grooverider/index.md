@@ -1,6 +1,6 @@
 # Grooverider
 
-Grooverider is a Drum & Bass and Jungle artist with 21 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
+Grooverider is a Drum & Bass and Jungle artist with 21 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
 
 Grooverider is a drum & bass and jungle artist based in United Kingdom, with 159 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 30 more. Often billed alongside Fabio, Nicky Blackmarket and Doc Scott. Next up: The Wardrobe, Leeds on Sun 29 Nov.
 
@@ -36,4 +36,4 @@ Grooverider is a drum & bass and jungle artist based in United Kingdom, with 159
 
 Fabio, Nicky Blackmarket, Doc Scott
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*

@@ -1,6 +1,6 @@
 # TONY IANNICELLI
 
-TONY IANNICELLI is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lento Hi Fi Bar, Naples on Thu, 26 Nov 2026.
+TONY IANNICELLI is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lento Hi Fi Bar, Naples on Thu, 26 Nov 2026.
 
 TONY IANNICELLI is a tech house and electronica artist, with 16 gigs on soundcheck across Barcelona and Naples. Often billed alongside Agostino Casillo, Carlo Martino and Cole Knight. Next up: Lento Hi Fi Bar, Naples on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ TONY IANNICELLI is a tech house and electronica artist, with 16 gigs on soundche
 
 Agostino Casillo, Carlo Martino, Cole Knight
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyiannicelli/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyiannicelli/)*

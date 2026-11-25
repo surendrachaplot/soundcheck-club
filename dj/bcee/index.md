@@ -1,6 +1,6 @@
 # BCee
 
-BCee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Art School, Glasgow on Fri, 11 Dec 2026.
+BCee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Art School, Glasgow on Fri, 11 Dec 2026.
 
 BCee is a drum & bass and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Austin, Boston and Brighton and 15 more. Often billed alongside BassLayerz, Bryan Gee and Dillinja. Next up: The Art School, Glasgow on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ BCee is a drum & bass and jungle artist based in United Kingdom, with 37 gigs on
 
 BassLayerz, Bryan Gee, Dillinja
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bcee/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bcee/)*

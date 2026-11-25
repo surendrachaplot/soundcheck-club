@@ -1,14 +1,15 @@
 # VINYA
 
-VINYA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
+VINYA is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
 
-VINYA is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin and Cologne. Often billed alongside LSG, MARRED and MAURO. Next up: Artheater, Cologne on Sat 28 Nov.
+VINYA is a trance and techno artist based in Germany, with 6 gigs on soundcheck across Berlin and Cologne. Often billed alongside LSG, MARRED and MAURO. Next up: Artheater, Cologne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Artheater | Cologne |
+| Fri, 4 Dec 2026 | Garagen | Cologne |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ VINYA is a techno and trance artist based in Germany, with 5 gigs on soundcheck 
 
 LSG, MARRED, MAURO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinya/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinya/)*

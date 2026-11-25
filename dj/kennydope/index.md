@@ -1,13 +1,14 @@
 # Kenny Dope
 
-Kenny Dope is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 104 CENTQUATRE, Paris on Fri, 18 Dec 2026.
+Kenny Dope is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Pitch and Pour Supper Club, Chicago on Fri, 11 Dec 2026.
 
-Kenny Dope is a house and deep house artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Terry Hunter, Louie Vega and Young Pulse. Next up: 104 CENTQUATRE, Paris on Fri 18 Dec.
+Kenny Dope is a house and deep house artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Terry Hunter, Louie Vega and Young Pulse. Next up: TBA - Pitch and Pour Supper Club, Chicago on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | TBA - Pitch and Pour Supper Club | Chicago |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 | Sat, 20 Feb 2027 | SILO | New York City |
 | Sun, 28 Feb 2027 | The Greenwood Hotel | Sydney |
@@ -30,4 +31,4 @@ Kenny Dope is a house and deep house artist based in United States of America, w
 
 Terry Hunter, Louie Vega, Young Pulse
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*

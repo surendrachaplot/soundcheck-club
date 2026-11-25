@@ -1,6 +1,6 @@
 # Founder
 
-Founder is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Roller Skating Rink, Lewis Cubitt Square, King's Cross, London on Thu, 3 Dec 2026.
+Founder is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Roller Skating Rink, Lewis Cubitt Square, King's Cross, London on Thu, 3 Dec 2026.
 
 Founder is a reggaeton and pop artist based in United Kingdom, with 6 gigs on soundcheck across Barcelona and London. Often billed alongside DJ Howard and INOFF. Next up: Roller Skating Rink, Lewis Cubitt Square, King's Cross, London on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ Founder is a reggaeton and pop artist based in United Kingdom, with 6 gigs on so
 
 DJ Howard, INOFF
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/founder/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/founder/)*

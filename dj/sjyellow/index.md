@@ -1,13 +1,14 @@
 # SJ Yellow
 
-SJ Yellow is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Jènemar Passéjure, Prague on Fri, 11 Dec 2026.
+SJ Yellow is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
 
-SJ Yellow is a techno and electro artist based in Slovakia, with 164 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 6 more. Often billed alongside tmk (CZ), Nina Farrina and yo haan. Next up: Jènemar Passéjure, Prague on Fri 11 Dec.
+SJ Yellow is a techno and electro artist based in Slovakia, with 165 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 6 more. Often billed alongside tmk (CZ), Nina Farrina and yo haan. Next up: Fuchs2, Prague on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Fuchs2 | Prague |
 | Fri, 11 Dec 2026 | Jènemar Passéjure | Prague |
 | Sat, 12 Dec 2026 | Trojský Pivovar | Prague |
 | Fri, 1 Jan 2027 | Hidden | Manchester |
@@ -27,4 +28,4 @@ SJ Yellow is a techno and electro artist based in Slovakia, with 164 gigs on sou
 
 tmk (CZ), Nina Farrina, yo haan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*

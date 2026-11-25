@@ -1,6 +1,6 @@
 # Nick Spurway
 
-Nick Spurway is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club 77, Sydney on Fri, 11 Dec 2026.
+Nick Spurway is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club 77, Sydney on Fri, 11 Dec 2026.
 
 Nick Spurway is a house and electronica artist based in Australia, with 8 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Sophie Forrest, 2 Factor Authentication and Alex Diwa. Next up: Club 77, Sydney on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Nick Spurway is a house and electronica artist based in Australia, with 8 gigs o
 
 Sophie Forrest, 2 Factor Authentication, Alex Diwa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickspurway/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickspurway/)*

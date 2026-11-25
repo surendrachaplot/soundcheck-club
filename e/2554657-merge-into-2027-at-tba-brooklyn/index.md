@@ -15,10 +15,10 @@ MERGE INTO 2027 at TBA - Brooklyn on Thu 31 Dec, New York City. 11 artists: Amot
 - Beste Hira
 - Boris
 - Dee Diggs
+- DJ Miss Parker
 - Eric Umble
 - Function
 - Juana
-- Miss Parker
 - Ne/Re/A
 - UFO95
 

@@ -1,6 +1,6 @@
 # Ồn Ào presents RHR (New Year's Eve 2026-2027) at 4th Floor, 161 Điện Biên Phủ, Gia Định, Hồ Chí Minh City
 
-Ồn Ào presents RHR (New Year's Eve 2026-2027) at 4th Floor, 161 Điện Biên Phủ, Gia Định, Hồ Chí Minh City on Thu 31 Dec, Ho Chi Minh City. 5 artists: Anh Vy, LINHTONIK, Phát Paris and RHR and 1 more. Techno and Club. See the line-up on soundcheck.
+Ồn Ào presents RHR (New Year's Eve 2026-2027) at 4th Floor, 161 Điện Biên Phủ, Gia Định, Hồ Chí Minh City on Thu 31 Dec, Ho Chi Minh City. 4 artists: Anh Vy, LINHTONIK, RHR and Smoothie Boiz. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@
 
 - Anh Vy
 - LINHTONIK
-- Phát Paris
 - RHR
 - Smoothie Boiz
 

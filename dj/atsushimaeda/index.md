@@ -1,8 +1,8 @@
 # Atsushi Maeda
 
-Atsushi Maeda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
+Atsushi Maeda is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
 
-Atsushi Maeda is a techno and house artist based in Japan, with 33 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kuala Lumpur and 11 more. Often billed alongside Nao(rural), Toner(JP) and DJ Healthy. Next up: VENT, Tokyo on Fri 27 Nov.
+Atsushi Maeda is a techno and house artist based in Japan, with 35 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kuala Lumpur and 12 more. Often billed alongside Nao(rural), Toner(JP) and DJ Healthy. Next up: VENT, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Atsushi Maeda is a techno and house artist based in Japan, with 33 gigs on sound
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | VENT | Tokyo |
 | Mon, 30 Nov 2026 | Oath | Tokyo |
+| Fri, 18 Dec 2026 | vurt. | Seoul |
+| Fri, 12 Feb 2027 | Ya Teng Homestay | Thailand |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Atsushi Maeda is a techno and house artist based in Japan, with 33 gigs on sound
 
 Nao(rural), Toner(JP), DJ Healthy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushimaeda/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushimaeda/)*

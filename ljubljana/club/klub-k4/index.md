@@ -1,6 +1,6 @@
 # Klub K4
 
-Klub K4 is a music venue in Ljubljana with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "ŠALTHEBL with Pōnky" on Fri, 27 Nov 2026.
+Klub K4 is a music venue in Ljubljana with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ŠALTHEBL with Pōnky" on Fri, 27 Nov 2026.
 
 Klub K4 is a music venue in Ljubljana listed on soundcheck. 5 upcoming gigs, with line-ups including Brtinzz, Cener, Danté and DENNISONN and 2 more. See dates, start times and who's playing. Kersnikova 4 1000 Ljubljana, Slovenia.
 
@@ -18,4 +18,4 @@ Klub K4 is a music venue in Ljubljana listed on soundcheck. 5 upcoming gigs, wit
 
 Kersnikova 4 1000 Ljubljana, Slovenia, Ljubljana
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/klub-k4/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/klub-k4/)*

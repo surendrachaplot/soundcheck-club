@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Kommune - Fall edition " on Fri, 27 Nov 2026.
+Hangar48 Club is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kommune - Fall edition " on Fri, 27 Nov 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including afumedecaroz0, findPeaks, Javi Garza and PASTIGAY and 2 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -16,11 +16,11 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs,
 | Sat, 19 Dec 2026 | MELODICA | Javi Garza, Starni |
 | Fri, 25 Dec 2026 | Kommune Christmas party |  |
 | Sat, 2 Jan 2027 | BOILER GROOVES |  |
-| Fri, 5 Feb 2027 | BOUND BY ENDOGAMY(GEN)_POST PUNK_MADRID |  |
+| Fri, 5 Feb 2027 | BOUND BY ENDOGAMY(GEN)+AURAT(US)_POST PUNK_EBM |  |
 | Sat, 20 Feb 2027 | NIGHT IN ATHENS (GRE) + SHE CANT AFFORD MASCARA (PAK)_Madrid |  |
 
 ## Address
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

@@ -1,6 +1,6 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "A PROPER HOUSE PARTY w/ Gaskin × La La × Mat Eclair" on Fri, 27 Nov 2026.
+Pumpehuset is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "A PROPER HOUSE PARTY w/ Gaskin × La La × Mat Eclair" on Fri, 27 Nov 2026.
 
 Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including A Good Year, buildupbreakdown, Deb Foam and DJ Lukey and 2 more. See dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
@@ -19,4 +19,4 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs,
 
 Studiestræde 52, 1554 Copenhagen V, Denmark, Copenhagen
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*

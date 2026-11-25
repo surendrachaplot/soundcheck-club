@@ -1,6 +1,6 @@
 # Tonaco
 
-Tonaco is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 12 Dec 2026.
+Tonaco is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 12 Dec 2026.
 
 Tonaco is a progressive house and house artist, with 6 gigs on soundcheck across Amsterdam, Milan, Prague and Rio de Janeiro and 1 more. Often billed alongside ASCENDER, Alex O'Rion and Alexisphere. Next up: D-Edge RIO, Rio de Janeiro on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Tonaco is a progressive house and house artist, with 6 gigs on soundcheck across
 
 ASCENDER, Alex O'Rion, Alexisphere
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaco/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaco/)*

@@ -1,14 +1,13 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Dark Monday" on Mon, 23 Nov 2026.
+Dunckerclub is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "80s Inferno by DJ Funky Henning" on Fri, 27 Nov 2026.
 
-Dunckerclub is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
+Dunckerclub is a music venue in Berlin listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | Dark Monday |  |
 | Fri, 27 Nov 2026 | 80s Inferno by DJ Funky Henning |  |
 | Sat, 28 Nov 2026 | INDEPENDENT TANZMUSIK by DJ Spy |  |
 | Mon, 30 Nov 2026 | Dark Monday |  |
@@ -19,4 +18,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. Se
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

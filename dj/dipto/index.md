@@ -1,6 +1,6 @@
 # Dipto
 
-Dipto is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Elsewhere, New York City on Sat, 5 Dec 2026.
+Dipto is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, New York City on Sat, 5 Dec 2026.
 
 Dipto is an electro and techno artist based in Canada, with 6 gigs on soundcheck across New York City and Toronto. Often billed alongside DJ ing, Faiyaz and ARINI. Next up: Elsewhere, New York City on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Dipto is an electro and techno artist based in Canada, with 6 gigs on soundcheck
 
 DJ ing, Faiyaz, ARINI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dipto/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dipto/)*

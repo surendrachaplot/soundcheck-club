@@ -1,13 +1,14 @@
 # Sriracha Czaddy
 
-Sriracha Czaddy is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 4 Dec 2026.
+Sriracha Czaddy is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Trough X Sydney, New-south-wales on Sat, 28 Nov 2026.
 
-Sriracha Czaddy is a techno and club artist based in Thailand, with 50 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Manila and 5 more. Often billed alongside Soup snakeS, Club Mascot and Haus of Ralph. Next up: Oxford Art Factory, Sydney on Fri 4 Dec.
+Sriracha Czaddy is a techno and club artist based in Thailand, with 51 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Manila and 6 more. Often billed alongside Soup snakeS, Club Mascot and Haus of Ralph. Next up: Trough X Sydney, New South Wales on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Trough X Sydney | New-south-wales |
 | Fri, 4 Dec 2026 | Oxford Art Factory | Sydney |
 | Sat, 5 Dec 2026 | TBA - PORT MELBOURNE | Melbourne |
 
@@ -26,4 +27,4 @@ Sriracha Czaddy is a techno and club artist based in Thailand, with 50 gigs on s
 
 Soup snakeS, Club Mascot, Haus of Ralph
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/srirachaczaddy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/srirachaczaddy/)*

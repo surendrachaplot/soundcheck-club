@@ -1,17 +1,18 @@
 # BLXSS
 
-BLXSS is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Descent, Boston on Fri, 20 Nov 2026.
+BLXSS is a Afrobeats and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hava Nightclub, Boston on Wed, 25 Nov 2026.
 
-BLXSS is a club and afrobeats artist based in United States of America, with 7 gigs on soundcheck across Boston. Often billed alongside Christinathesaintt, Nanoos and brazen. Next up: Descent, Boston on Fri 20 Nov.
+BLXSS is an afrobeats and club artist based in United States of America, with 8 gigs on soundcheck across Boston. Often billed alongside Christinathesaintt, Nanoos and brazen. Next up: Hava Nightclub, Boston on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Descent | Boston |
+| Wed, 25 Nov 2026 | Hava Nightclub | Boston |
 
 ## Recently played
 
+- Descent, Boston · Fri, 20 Nov 2026
 - Boston City Hall Plaza, Boston · Sat, 31 Oct 2026
 - TBA - Reunion BBQ 439 Tremont St, Boston, MA, Boston · Fri, 30 Oct 2026
 - Glitch Gallery, Boston · Sat, 5 Sept 2026
@@ -23,4 +24,4 @@ BLXSS is a club and afrobeats artist based in United States of America, with 7 g
 
 Christinathesaintt, Nanoos, brazen
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*

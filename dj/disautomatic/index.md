@@ -1,6 +1,6 @@
 # disautomatic
 
-disautomatic is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at broad hall., Philadelphia on Sat, 19 Dec 2026.
+disautomatic is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at broad hall., Philadelphia on Sat, 19 Dec 2026.
 
 disautomatic is a techno and club artist based in United States of America, with 13 gigs on soundcheck across Philadelphia. Often billed alongside ONEELEVEN, Firestone and America Loves Me. Next up: broad hall., Philadelphia on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ disautomatic is a techno and club artist based in United States of America, with
 
 ONEELEVEN, Firestone, America Loves Me
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disautomatic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disautomatic/)*

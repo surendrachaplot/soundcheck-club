@@ -1,8 +1,8 @@
 # DAX J
 
-DAX J is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Unité.22, Marseille on Fri, 27 Nov 2026.
+DAX J is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Unité.22, Marseille on Fri, 27 Nov 2026.
 
-DAX J is a techno and house artist based in United Kingdom, with 307 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 92 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Unité.22, Marseille on Fri 27 Nov.
+DAX J is a techno and house artist based in United Kingdom, with 308 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 92 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Unité.22, Marseille on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DAX J is a techno and house artist based in United Kingdom, with 307 gigs on sou
 | Sat, 12 Dec 2026 | Centre Point | Dublin |
 | Fri, 18 Dec 2026 | fi | Cologne |
 | Thu, 24 Dec 2026 | SMUT Athens | Athens |
+| Thu, 31 Dec 2026 | Tama | Poznan |
 | Fri, 5 Mar 2027 | Gate Milano | Milan |
 
 ## Recently played
@@ -32,4 +33,4 @@ DAX J is a techno and house artist based in United Kingdom, with 307 gigs on sou
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

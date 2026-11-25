@@ -1,6 +1,6 @@
 # drusnoise
 
-drusnoise is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lauschangriff, Berlin on Thu, 26 Nov 2026.
+drusnoise is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lauschangriff, Berlin on Thu, 26 Nov 2026.
 
 drusnoise is a techno and electronica artist, with 10 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside JacqNoise, 3rd Party Influence and Katharina Bévand. Next up: Lauschangriff, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ drusnoise is a techno and electronica artist, with 10 gigs on soundcheck across 
 
 JacqNoise, 3rd Party Influence, Katharina Bévand
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drusnoise/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drusnoise/)*

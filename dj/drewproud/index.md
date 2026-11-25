@@ -1,6 +1,6 @@
 # Drew Proud
 
-Drew Proud is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
+Drew Proud is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
 
 Drew Proud is a deep house and house artist based in United States of America, with 35 gigs on soundcheck across Boston and New York City. Often billed alongside Heedon, Iman Rizky and Gavin Stephenson. Next up: Crossroads Cafe, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Drew Proud is a deep house and house artist based in United States of America, w
 
 Heedon, Iman Rizky, Gavin Stephenson
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewproud/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewproud/)*

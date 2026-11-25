@@ -1,6 +1,6 @@
 # mi-el
 
-mi-el is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
+mi-el is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
 
 mi-el is a bass and techno artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside re:ni, Amaliah and Batu. Next up: Club Cheek, London on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ mi-el is a bass and techno artist based in United Kingdom, with 117 gigs on soun
 
 re:ni, Amaliah, Batu
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*

@@ -1,6 +1,6 @@
 # Skull
 
-Skull is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mad Radio Medellín, Medellin on Fri, 27 Nov 2026.
+Skull is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mad Radio Medellín, Medellin on Fri, 27 Nov 2026.
 
 Skull is a house and minimal artist based in Colombia, with 64 gigs on soundcheck across Bogotá, Medellin and Mexico City. Often billed alongside DJ MELEJ, JD Groovin' and Bosq. Next up: Mad Radio Medellín, Medellin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Skull is a house and minimal artist based in Colombia, with 64 gigs on soundchec
 
 DJ MELEJ, JD Groovin', Bosq
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skull/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skull/)*

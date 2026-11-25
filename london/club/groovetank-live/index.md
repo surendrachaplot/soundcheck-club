@@ -1,6 +1,6 @@
 # Groovetank Live
 
-Groovetank Live is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "ASKARABASKARA TRANSMISSIONS" on Fri, 27 Nov 2026.
+Groovetank Live is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ASKARABASKARA TRANSMISSIONS" on Fri, 27 Nov 2026.
 
 Groovetank Live is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including D LAI, Miss Vegas, SONI LOBO and ZOLIKA. See dates, start times and who's playing. Unit 67, CONTAINERVILLE STUDIOS, 40 The Oval, London E2 9DT.
 
@@ -16,4 +16,4 @@ Groovetank Live is a music venue in London listed on soundcheck. 3 upcoming gigs
 
 Unit 67, CONTAINERVILLE STUDIOS, 40 The Oval, London E2 9DT, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/groovetank-live/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/groovetank-live/)*

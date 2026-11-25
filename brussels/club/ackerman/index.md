@@ -1,6 +1,6 @@
 # Ackerman
 
-Ackerman is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Kaai Saintklet - Free music event & activities" on Sat, 28 Nov 2026.
+Ackerman is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kaai Saintklet - Free music event & activities" on Sat, 28 Nov 2026.
 
 Ackerman is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ackerman is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Kaai Saintklet - Free music event & activities |  |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ackerman/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ackerman/)*

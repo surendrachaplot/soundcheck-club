@@ -1,6 +1,6 @@
 # Empty Bottle
 
-Empty Bottle is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Caustic Heap: Empryean Album Release" on Thu, 10 Dec 2026.
+Empty Bottle is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Caustic Heap: Empryean Album Release" on Thu, 10 Dec 2026.
 
 Empty Bottle is a music venue in Chicago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1035 N. Western Ave. Chicago, IL 60622; United States.
 
@@ -14,4 +14,4 @@ Empty Bottle is a music venue in Chicago listed on soundcheck. 1 upcoming gig. S
 
 1035 N. Western Ave. Chicago, IL 60622; United States, Chicago
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/empty-bottle/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/empty-bottle/)*

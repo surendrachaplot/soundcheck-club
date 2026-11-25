@@ -1,8 +1,8 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Stereo, Montreal on Thu, 26 Nov 2026.
+Carl Cox is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Montreal on Thu, 26 Nov 2026.
 
-Carl Cox is a techno and house artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 55 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Stereo, Montreal on Thu 26 Nov.
+Carl Cox is a techno and house artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 55 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Stereo, Montreal on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carl Cox is a techno and house artist based in United Kingdom, with 160 gigs on 
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Stereo | Montreal |
 | Fri, 27 Nov 2026 | Rebel | Toronto |
+| Sat, 28 Nov 2026 | Rebel | Toronto |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 | Thu, 31 Dec 2026 | Savaya Bali | Bali |
@@ -32,4 +33,4 @@ Carl Cox is a techno and house artist based in United Kingdom, with 160 gigs on 
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

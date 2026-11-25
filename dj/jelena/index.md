@@ -1,8 +1,8 @@
 # Jelena
 
-Jelena is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
+Jelena is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
 
-Jelena is a techno and house artist based in Switzerland, with 79 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 10 more. Often billed alongside Gomorra, Near End and Thomas Bianco. Next up: Hive Club, Zurich on Fri 27 Nov.
+Jelena is a techno and house artist based in Switzerland, with 79 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 10 more. Often billed alongside Cepheì, Gomorra and Near End. Next up: Hive Club, Zurich on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Jelena is a techno and house artist based in Switzerland, with 79 gigs on soundc
 
 ## Shares bills with
 
-Gomorra, Near End, Thomas Bianco
+Cepheì, Gomorra, Near End
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jelena/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jelena/)*

@@ -1,13 +1,14 @@
 # Quelza
 
-Quelza is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Motel Campo, Geneva on Sat, 5 Dec 2026.
+Quelza is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kaiku, Helsinki on Fri, 4 Dec 2026.
 
-Quelza is a techno and house artist based in France, with 251 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 77 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: Motel Campo, Geneva on Sat 5 Dec.
+Quelza is a techno and house artist based in France, with 252 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 77 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: Kaiku, Helsinki on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Kaiku | Helsinki |
 | Sat, 5 Dec 2026 | Motel Campo | Geneva |
 | Mon, 7 Dec 2026 | Jimmy Jazz | North |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
@@ -32,4 +33,4 @@ Quelza is a techno and house artist based in France, with 251 gigs on soundcheck
 
 Freddy K, BASHKKA, Ogazón
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

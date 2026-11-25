@@ -1,14 +1,15 @@
 # Linh (2)
 
-Linh (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
+Linh (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
 
-Linh is a techno and house artist based in Germany, with 20 gigs on soundcheck across Hamburg, Hannover and Ho Chi Minh City. Often billed alongside SPORTMANN, co:co and Alex Benz. Next up: Uebel & Gefährlich, Hamburg on Sat 5 Dec.
+Linh is a techno and house artist based in Germany, with 21 gigs on soundcheck across Hamburg, Hannover and Ho Chi Minh City. Often billed alongside co:co, SPORTMANN and AKIIM. Next up: Uebel & Gefährlich, Hamburg on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Uebel & Gefährlich | Hamburg |
+| Fri, 1 Jan 2027 | glimmer | Hamburg |
 | Sat, 9 Jan 2027 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
@@ -24,6 +25,6 @@ Linh is a techno and house artist based in Germany, with 20 gigs on soundcheck a
 
 ## Shares bills with
 
-SPORTMANN, co:co, Alex Benz
+co:co, SPORTMANN, AKIIM
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*

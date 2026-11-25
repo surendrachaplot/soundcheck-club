@@ -1,6 +1,6 @@
 # Paperkraft
 
-Paperkraft is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at BAR Inc, Osaka on Sat, 26 Dec 2026.
+Paperkraft is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at BAR Inc, Osaka on Sat, 26 Dec 2026.
 
 Paperkraft is a house and techno artist based in Japan, with 70 gigs on soundcheck across Amsterdam, Byron Bay, Hanoi and Kyoto and 4 more. Often billed alongside Lomax, Stones Taro and Pee.J Anderson. Next up: BAR Inc, Osaka on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Paperkraft is a house and techno artist based in Japan, with 70 gigs on soundche
 
 Lomax, Stones Taro, Pee.J Anderson
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paperkraft/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paperkraft/)*

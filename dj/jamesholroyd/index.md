@@ -1,13 +1,14 @@
 # James Holroyd
 
-James Holroyd is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Golden Lion, Manchester on Fri, 22 Jan 2027.
+James Holroyd is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
 
-James Holroyd is a house and acid artist based in United Kingdom, with 41 gigs on soundcheck across Birmingham, Ibiza, Leeds and Liverpool and 3 more. Often billed alongside Il Bosco, Crazy P and Jon Dasilva. Next up: The Golden Lion, Manchester on Fri 22 Jan.
+James Holroyd is a house and acid artist based in United Kingdom, with 42 gigs on soundcheck across Birmingham, Ibiza, Leeds and Liverpool and 3 more. Often billed alongside Il Bosco, Crazy P and Jon Dasilva. Next up: Mint Warehouse, Leeds on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Mint Warehouse | Leeds |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 | Sat, 13 Feb 2027 | M.O.T | London |
 
@@ -26,4 +27,4 @@ James Holroyd is a house and acid artist based in United Kingdom, with 41 gigs o
 
 Il Bosco, Crazy P, Jon Dasilva
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholroyd/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholroyd/)*

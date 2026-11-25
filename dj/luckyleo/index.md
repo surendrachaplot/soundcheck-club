@@ -1,6 +1,6 @@
 # LuckyLeo
 
-LuckyLeo is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at elipamanoke, Leipzig on Fri, 11 Dec 2026.
+LuckyLeo is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at elipamanoke, Leipzig on Fri, 11 Dec 2026.
 
 LuckyLeo is a trance and house artist based in Germany, with 4 gigs on soundcheck across Karlsruhe and Leipzig. Often billed alongside Delirante, Josia Schlakker and Timstagram. Next up: elipamanoke, Leipzig on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ LuckyLeo is a trance and house artist based in Germany, with 4 gigs on soundchec
 
 Delirante, Josia Schlakker, Timstagram
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckyleo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckyleo/)*

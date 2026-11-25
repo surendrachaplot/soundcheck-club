@@ -1,6 +1,6 @@
 # Marco Neves
 
-Marco Neves is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 17 Dec 2026.
+Marco Neves is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 17 Dec 2026.
 
 Marco Neves is a techno and house artist based in United States of America, with 51 gigs on soundcheck across Amsterdam, Detroit, Miami and New York City and 1 more. Often billed alongside Tlim Shug, /KATA/ and Lexicon. Next up: Do Not Sit On The Furniture, Miami on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Marco Neves is a techno and house artist based in United States of America, with
 
 Tlim Shug, /KATA/, Lexicon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*

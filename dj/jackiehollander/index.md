@@ -1,13 +1,14 @@
 # Jackie Hollander
 
-Jackie Hollander is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Jackie Hollander is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
 
-Jackie Hollander is a house and tech house artist based in United States of America, with 64 gigs on soundcheck across Austin, Bali, Baltimore and Boston and 24 more. Often billed alongside Gorgon City, Riordan and Max Styler. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
+Jackie Hollander is a house and tech house artist based in United States of America, with 65 gigs on soundcheck across Austin, Bali, Baltimore and Boston and 24 more. Often billed alongside Gorgon City, Riordan and Max Styler. Next up: Historic Virginia Key Beach Park, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | Historic Virginia Key Beach Park | Miami |
 | Fri, 11 Dec 2026 | Armature Works Riverfront | Florida |
 | Sun, 20 Dec 2026 | Savaya Bali | Bali |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
@@ -32,4 +33,4 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 
 Gorgon City, Riordan, Max Styler
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*

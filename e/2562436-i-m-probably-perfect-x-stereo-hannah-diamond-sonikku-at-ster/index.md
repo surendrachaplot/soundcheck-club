@@ -1,6 +1,6 @@
 # I'm Probably Perfect x Stereo: Hannah Diamond & SONIKKU at Stereo
 
-I'm Probably Perfect x Stereo: Hannah Diamond & SONIKKU on Fri 27 Nov, Glasgow. 5 artists: Danyo, DJ Sonikku, Hannah Diamond and Nuclear Boyfriend and 1 more. Pop and Club. See the line-up on soundcheck.
+I'm Probably Perfect x Stereo: Hannah Diamond & SONIKKU on Fri 27 Nov, Glasgow. 8 artists: Bellarosa, Danyo, DJ Sonikku and eurokels and 4 more. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ I'm Probably Perfect x Stereo: Hannah Diamond & SONIKKU on Fri 27 Nov, Glasgow. 
 
 ## Line-up
 
+- Bellarosa
 - Danyo
 - DJ Sonikku
+- eurokels
 - Hannah Diamond
+- Lily
 - Nuclear Boyfriend
 - Pure Girl
 

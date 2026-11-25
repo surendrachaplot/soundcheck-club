@@ -1,6 +1,6 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kompass Klub, Ghent on Fri, 27 Nov 2026.
+KRUELTY is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kompass Klub, Ghent on Fri, 27 Nov 2026.
 
 KRUELTY is a techno and hardcore artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: Kompass Klub, Ghent on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ KRUELTY is a techno and hardcore artist based in Netherlands, with 98 gigs on so
 
 KLOFAMA, SLVL, KARAH
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

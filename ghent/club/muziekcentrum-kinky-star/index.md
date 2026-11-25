@@ -1,6 +1,6 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "MENGELMOES: Cul Zag (FR) + Coup Dur (BE)" on Thu, 26 Nov 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "MENGELMOES: Cul Zag (FR) + Coup Dur (BE)" on Thu, 26 Nov 2026.
 
 Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
@@ -14,4 +14,4 @@ Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 1 upcom
 
 Vlasmarkt 9, 9000 Gent, Ghent
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*

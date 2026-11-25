@@ -1,6 +1,6 @@
 # Regis
 
-Regis is a Techno and Experimental artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mago, Chubu on Fri, 27 Nov 2026.
+Regis is a Techno and Experimental artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mago, Chubu on Fri, 27 Nov 2026.
 
 Regis is a techno and experimental artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Mago, Chubu on Fri 27 Nov.
 
@@ -34,4 +34,4 @@ Regis is a techno and experimental artist based in United Kingdom, with 128 gigs
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

@@ -1,6 +1,6 @@
 # KingCrowney
 
-KingCrowney is a Deep House and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+KingCrowney is a Deep House and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
 KingCrowney is a deep house and afrobeat artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Chris Wheatley, Faro and Handson Family. Next up: Rolling Stock, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ KingCrowney is a deep house and afrobeat artist based in United Kingdom, with 10
 
 Chris Wheatley, Faro, Handson Family
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingcrowney/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingcrowney/)*

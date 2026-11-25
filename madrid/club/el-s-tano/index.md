@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 30 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "UNDER HAZE: CX-0, Natxo, VOLTA DEKYRA" on Thu, 26 Nov 2026.
+EL SÓTANO is a music venue in Madrid with 30 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "UNDER HAZE: CX-0, Natxo, VOLTA DEKYRA" on Thu, 26 Nov 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 30 upcoming gigs, with line-ups including Aida Blanco, Allisson Nunes, Arok Shiva and ARTIMANYA and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 30 upcoming gigs, wi
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

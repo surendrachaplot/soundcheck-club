@@ -1,6 +1,6 @@
 # Alex Brasile
 
-Alex Brasile is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Dept 184, Milan on Sat, 19 Dec 2026.
+Alex Brasile is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Dept 184, Milan on Sat, 19 Dec 2026.
 
 Alex Brasile is a techno and electro artist based in Italy, with 10 gigs on soundcheck across Milan. Often billed alongside ALXV, DIVY and Mark Wark. Next up: Club Dept 184, Milan on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Alex Brasile is a techno and electro artist based in Italy, with 10 gigs on soun
 
 ALXV, DIVY, Mark Wark
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbrasile/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbrasile/)*

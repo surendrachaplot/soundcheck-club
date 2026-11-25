@@ -1,6 +1,6 @@
 # Traxman
 
-Traxman is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 26 Dec 2026.
+Traxman is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 26 Dec 2026.
 
 Traxman is a footwork and house artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 28 more. Often billed alongside DJ Spinn, DJ Manny and Jana Rush. Next up: Circus Tokyo, Tokyo on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Traxman is a footwork and house artist based in United States of America, with 8
 
 DJ Spinn, DJ Manny, Jana Rush
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traxman/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traxman/)*

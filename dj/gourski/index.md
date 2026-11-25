@@ -1,14 +1,15 @@
 # Gourski
 
-Gourski is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
+Gourski is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
 
-Gourski is a drum & bass and techno artist based in Germany, with 132 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 8 more. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Bootshaus, Cologne on Fri 27 Nov.
+Gourski is a drum & bass and techno artist based in Germany, with 133 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 8 more. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Bootshaus, Cologne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Bootshaus | Cologne |
+| Fri, 4 Dec 2026 | Garagen | Cologne |
 | Sat, 9 Jan 2027 | Bootshaus | Cologne |
 
 ## Recently played
@@ -26,4 +27,4 @@ Gourski is a drum & bass and techno artist based in Germany, with 132 gigs on so
 
 Enaly, Jaycut, DELTA LABS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*

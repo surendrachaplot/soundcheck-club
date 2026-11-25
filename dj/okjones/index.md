@@ -1,8 +1,8 @@
 # OK Jones
 
-OK Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 4 Dec 2026.
+OK Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 4 Dec 2026.
 
-OK Jones is a disco and house artist, with 11 gigs on soundcheck across Berlin and London. Often billed alongside bad_dubs, Mr Solid Gold and Park Ranger. Next up: Zum Böhmischen Dorf, Berlin on Fri 4 Dec.
+OK Jones is a disco and house artist based in United Kingdom, with 11 gigs on soundcheck across Berlin and London. Often billed alongside bad_dubs, Mr Solid Gold and Park Ranger. Next up: Zum Böhmischen Dorf, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ OK Jones is a disco and house artist, with 11 gigs on soundcheck across Berlin a
 
 bad_dubs, Mr Solid Gold, Park Ranger
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okjones/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okjones/)*

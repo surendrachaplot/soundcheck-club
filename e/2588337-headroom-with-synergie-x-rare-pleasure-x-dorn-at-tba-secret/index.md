@@ -1,6 +1,6 @@
 # Headroom with Synergie x rare pleasure x DORN at TBA - SECRET LOCATION
 
-Headroom with Synergie x rare pleasure x DORN at TBA - SECRET LOCATION on Fri 25 Dec, Hannover. 10 artists: Amanda Mussi, ANAMORPH_, Brandyy and Chiral and 6 more. Techno and House. See the line-up on soundcheck.
+Headroom with Synergie x rare pleasure x DORN at TBA - SECRET LOCATION on Fri 25 Dec, Hannover. 11 artists: Amanda Mussi, ANAMORPH_, Brandyy and Chiral and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Headroom with Synergie x rare pleasure x DORN at TBA - SECRET LOCATION on Fri 25
 - DJ Interstella
 - dxrvo
 - goldie (2)
+- Josiane
 - Lora (2)
 - Naomi (Berlin)
 

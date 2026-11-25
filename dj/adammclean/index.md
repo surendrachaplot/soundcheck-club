@@ -1,13 +1,14 @@
 # Adam Mclean
 
-Adam Mclean is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Drop inn, Birmingham on Sat, 26 Dec 2026.
+Adam Mclean is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at komunal, Birmingham on Sat, 5 Dec 2026.
 
-Adam Mclean is a minimal and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam and Birmingham. Often billed alongside Alexandria, Elliott Boyd and ADAPT (DK). Next up: The Drop inn, Birmingham on Sat 26 Dec.
+Adam Mclean is a minimal and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam and Birmingham. Often billed alongside Alexandria, Elliott Boyd and ADAPT (DK). Next up: komunal, Birmingham on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | komunal | Birmingham |
 | Sat, 26 Dec 2026 | The Drop inn | Birmingham |
 
 ## Recently played
@@ -25,4 +26,4 @@ Adam Mclean is a minimal and tech house artist based in United Kingdom, with 12 
 
 Alexandria, Elliott Boyd, ADAPT (DK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adammclean/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adammclean/)*

@@ -1,6 +1,6 @@
 # Roxie Li
 
-Roxie Li is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at E1, London on Sat, 12 Dec 2026.
+Roxie Li is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at E1, London on Sat, 12 Dec 2026.
 
 Roxie Li is a techno and house artist based in China, with 32 gigs on soundcheck across Amsterdam, Beijing, Copenhagen and Ibiza and 2 more. Often billed alongside Roxie, Redfreya and Innerstice. Next up: E1, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Roxie Li is a techno and house artist based in China, with 32 gigs on soundcheck
 
 Roxie, Redfreya, Innerstice
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxieli/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxieli/)*

@@ -1,6 +1,6 @@
 # Marvin
 
-Marvin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
+Marvin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
 
 Marvin is a techno and house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Antwerp, Bristol and Brussels and 8 more. Often billed alongside Sybil, Bjeor and Catalina. Next up: Ausgang Plaza, Montreal on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Marvin is a techno and house artist based in United Kingdom, with 26 gigs on sou
 
 Sybil, Bjeor, Catalina
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvin/)*

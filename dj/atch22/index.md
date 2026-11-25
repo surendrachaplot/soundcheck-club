@@ -1,14 +1,15 @@
 # Atch22
 
-Atch22 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Twist Bar, Prague on Sat, 28 Nov 2026.
+Atch22 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Twist Bar, Prague on Sat, 28 Nov 2026.
 
-Atch22 is a techno and trance artist based in Czech Republic, with 32 gigs on soundcheck across London and Prague. Often billed alongside Kobayashi Maru, patricccio and Inger Illel. Next up: Twist Bar, Prague on Sat 28 Nov.
+Atch22 is a techno and trance artist based in Czech Republic, with 33 gigs on soundcheck across London and Prague. Often billed alongside Kobayashi Maru, patricccio and Inger Illel. Next up: Twist Bar, Prague on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Twist Bar | Prague |
+| Thu, 31 Dec 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Atch22 is a techno and trance artist based in Czech Republic, with 32 gigs on so
 
 Kobayashi Maru, patricccio, Inger Illel
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atch22/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atch22/)*

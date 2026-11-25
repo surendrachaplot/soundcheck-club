@@ -1,6 +1,6 @@
 # DJ MonkeyMan
 
-DJ MonkeyMan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Monarch, San-francisco-oakland on Sat, 2 Jan 2027.
+DJ MonkeyMan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Monarch, San-francisco-oakland on Sat, 2 Jan 2027.
 
 DJ MonkeyMan is a house and disco artist based in United States of America, with 4 gigs on soundcheck across San Francisco Oakland and San Francisco/Oakland. Often billed alongside Jaage, discoesq and starfari. Next up: Monarch, San Francisco Oakland on Sat 2 Jan.
 
@@ -20,4 +20,4 @@ DJ MonkeyMan is a house and disco artist based in United States of America, with
 
 Jaage, discoesq, starfari
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonkeyman/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonkeyman/)*

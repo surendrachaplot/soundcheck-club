@@ -1,13 +1,14 @@
 # Ancient Methods
 
-Ancient Methods is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Drugstore Beograd, Belgrade on Sat, 19 Dec 2026.
+Ancient Methods is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Moog Club, Barcelona on Wed, 16 Dec 2026.
 
-Ancient Methods is a techno and industrial artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 39 more. Often billed alongside OTHR, 00rt and Phase Fatale. Next up: Drugstore Beograd, Belgrade on Sat 19 Dec.
+Ancient Methods is a techno and industrial artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 39 more. Often billed alongside OTHR, 00rt and Phase Fatale. Next up: Moog Club, Barcelona on Wed 16 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Dec 2026 | Moog Club | Barcelona |
 | Sat, 19 Dec 2026 | Drugstore Beograd | Belgrade |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ancient Methods is a techno and industrial artist based in Germany, with 124 gig
 
 OTHR, 00rt, Phase Fatale
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*

@@ -1,6 +1,6 @@
 # The Dark Wasp
 
-The Dark Wasp is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
+The Dark Wasp is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
 
 The Dark Wasp is a techno and electro artist based in Germany, with 15 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Sholinger, ATZENPUNK and Frank Funke. Next up: ciao ciao Bar, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ The Dark Wasp is a techno and electro artist based in Germany, with 15 gigs on s
 
 Sholinger, ATZENPUNK, Frank Funke
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkwasp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkwasp/)*

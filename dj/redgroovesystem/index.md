@@ -1,6 +1,6 @@
 # RED GROOVE SYSTEM
 
-RED GROOVE SYSTEM is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at PRST, Vienna on Sat, 28 Nov 2026.
+RED GROOVE SYSTEM is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at PRST, Vienna on Sat, 28 Nov 2026.
 
 RED GROOVE SYSTEM is a house and minimal artist based in Austria, with 13 gigs on soundcheck across Berlin, Frankfurt and Vienna. Often billed alongside It's George!, Techno Ganoven and Chris Beulich. Next up: PRST, Vienna on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ RED GROOVE SYSTEM is a house and minimal artist based in Austria, with 13 gigs o
 
 It's George!, Techno Ganoven, Chris Beulich
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redgroovesystem/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redgroovesystem/)*

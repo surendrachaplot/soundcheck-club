@@ -1,6 +1,6 @@
 # Batu
 
-Batu is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nowadays, New York City on Fri, 4 Dec 2026.
+Batu is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Nowadays, New York City on Fri, 4 Dec 2026.
 
 Batu is a techno and bass artist based in United Kingdom, with 180 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 53 more. Often billed alongside Verraco, Ben UFO and CCL. Next up: Nowadays, New York City on Fri 4 Dec.
 
@@ -31,4 +31,4 @@ Batu is a techno and bass artist based in United Kingdom, with 180 gigs on sound
 
 Verraco, Ben UFO, CCL
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*

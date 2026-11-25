@@ -1,8 +1,8 @@
 # DURO
 
-DURO is a music venue in Milan with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "REX - Chloè - Gabrielle Kwarteng" on Fri, 27 Nov 2026.
+DURO is a music venue in Milan with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "REX - Chloè - Gabrielle Kwarteng" on Fri, 27 Nov 2026.
 
-DURO is a music venue in Milan listed on soundcheck. 10 upcoming gigs, with line-ups including Chloé, Dan Ghenacia, Dasha Rush and Derrick May and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
+DURO is a music venue in Milan listed on soundcheck. 10 upcoming gigs, with line-ups including Automatic Writing, Chloé, Dan Ghenacia and Dasha Rush and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
 
 ## What's on
 
@@ -17,10 +17,10 @@ DURO is a music venue in Milan listed on soundcheck. 10 upcoming gigs, with line
 | Sat, 19 Dec 2026 | Oxygène - Dasha Rush | Dasha Rush |
 | Sat, 19 Dec 2026 | OXYGÈNE - Dasha Rush | Dasha Rush |
 | Sun, 20 Dec 2026 | MAGIC SUNDAY - Derrik May | Derrick May |
-| Fri, 22 Jan 2027 | UFeel x DURO with Jonny Rock | Jonny Rock, Vithz |
+| Fri, 22 Jan 2027 | UFeel x DURO with Jonny Rock & Automatic Writing | Automatic Writing, Jonny Rock, Vithz |
 
 ## Address
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

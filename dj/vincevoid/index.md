@@ -1,14 +1,16 @@
 # Vince Void
 
-Vince Void is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 27 Nov 2026.
+Vince Void is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 27 Nov 2026.
 
-Vince Void is a house and electro artist based in France, with 119 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Diesco, Alex Garcia and Pau Rosés. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 27 Nov.
+Vince Void is a house and electro artist based in France, with 121 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Diesco, Alex Garcia and Pau Rosés. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sat, 12 Dec 2026 | 303 Audiophile Bar | Barcelona |
+| Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Vince Void is a house and electro artist based in France, with 119 gigs on sound
 
 Diesco, Alex Garcia (2), Pau Rosés
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*

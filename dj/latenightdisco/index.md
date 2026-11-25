@@ -1,6 +1,6 @@
 # Late Night Disco
 
-Late Night Disco is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
+Late Night Disco is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
 
 Late Night Disco is a disco and funk / soul artist based in United Kingdom, with 73 gigs on soundcheck across Brighton and London. Often billed alongside Suka Meneri, Another George and Perdiem. Next up: Two More Years, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Late Night Disco is a disco and funk / soul artist based in United Kingdom, with
 
 Suka Meneri, Another George, Perdiem
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightdisco/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightdisco/)*

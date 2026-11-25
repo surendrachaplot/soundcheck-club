@@ -1,14 +1,17 @@
 # PSYKEDELIA
 
-PSYKEDELIA is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ex.Dynamo, Bologna on Sat, 28 Nov 2026.
+PSYKEDELIA is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ex.Dynamo, Bologna on Sat, 28 Nov 2026.
 
-PSYKEDELIA is a techno and ambient artist based in Italy, with 6 gigs on soundcheck across Berlin, Bologna and Milan. Often billed alongside Acidalia, Alimac and Alinette. Next up: Ex.Dynamo, Bologna on Sat 28 Nov.
+PSYKEDELIA is a techno and ambient artist based in Italy, with 9 gigs on soundcheck across Berlin, Bologna and Milan. Often billed alongside Acidalia, Alimac and Industrial Romantico. Next up: Ex.Dynamo, Bologna on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Ex.Dynamo | Bologna |
+| Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 1 Jan 2027 | Tempio del Futuro Perduto | Milan |
+| Sat, 9 Jan 2027 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
@@ -20,6 +23,6 @@ PSYKEDELIA is a techno and ambient artist based in Italy, with 6 gigs on soundch
 
 ## Shares bills with
 
-Acidalia, Alimac, Alinette
+Acidalia, Alimac, Industrial Romantico
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psykedelia/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psykedelia/)*

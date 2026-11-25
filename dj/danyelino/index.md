@@ -1,13 +1,14 @@
 # Danyelino
 
-Danyelino is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Floyd, Miami on Fri, 4 Dec 2026.
+Danyelino is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Jolene Downtown Miami, Miami on Mon, 30 Nov 2026.
 
-Danyelino is a house and tech house artist based in United States of America, with 209 gigs on soundcheck across Barcelona, Ibiza and Miami. Often billed alongside Ms. Mada, Bakke and Thunderpony. Next up: Floyd, Miami on Fri 4 Dec.
+Danyelino is a house and tech house artist based in United States of America, with 210 gigs on soundcheck across Barcelona, Ibiza and Miami. Often billed alongside Ms. Mada, Bakke and Thunderpony. Next up: Jolene Downtown Miami, Miami on Mon 30 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 30 Nov 2026 | Jolene Downtown Miami | Miami |
 | Fri, 4 Dec 2026 | Floyd | Miami |
 | Sat, 19 Dec 2026 | Floyd | Miami |
 
@@ -26,4 +27,4 @@ Danyelino is a house and tech house artist based in United States of America, wi
 
 Ms. Mada, Bakke, Thunderpony
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*

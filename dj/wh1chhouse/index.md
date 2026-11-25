@@ -1,6 +1,6 @@
 # Wh1ch House?
 
-Wh1ch House? is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+Wh1ch House? is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
 Wh1ch House? is a techno and house artist based in United States of America, with 5 gigs on soundcheck across Los Angeles. Often billed alongside BLANC MAMBA, John Bryars and King Felix. Next up: TBA, Los Angeles on Wed 25 Nov.
 
@@ -21,4 +21,4 @@ Wh1ch House? is a techno and house artist based in United States of America, wit
 
 BLANC MAMBA, John Bryars, King Felix
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wh1chhouse/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wh1chhouse/)*

@@ -1,6 +1,6 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sprat, Belgrade on Fri, 27 Nov 2026.
+DJ Paypal is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sprat, Belgrade on Fri, 27 Nov 2026.
 
 DJ Paypal is a footwork and bass artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Bangkok and 28 more. Often billed alongside DJ Chad, Missy and Kloxii Li. Next up: Sprat, Belgrade on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Paypal is a footwork and bass artist based in United States of America, with 
 
 DJ Chad, Missy, Kloxii Li
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*

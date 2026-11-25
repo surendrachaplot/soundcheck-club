@@ -1,6 +1,6 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Luciano is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Luciano is a house and tech house artist based in Switzerland, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 23 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Luciano is a house and tech house artist based in Switzerland, with 119 gigs on 
 
 Sossa, Prospa, Marco Carola
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

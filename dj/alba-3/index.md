@@ -1,6 +1,6 @@
 # ALBA (3)
 
-ALBA (3) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Koenji Cave, Tokyo on Sat, 5 Dec 2026.
+ALBA (3) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Koenji Cave, Tokyo on Sat, 5 Dec 2026.
 
 ALBA is a house and hip-hop artist based in Germany, with 27 gigs on soundcheck across Berlin, Leipzig, Munich and Nürnberg and 1 more. Often billed alongside Helina, Anton Gerden and DJ HOT. Next up: Koenji Cave, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ ALBA is a house and hip-hop artist based in Germany, with 27 gigs on soundcheck 
 
 Helina, Anton Gerden, DJ HOT
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*

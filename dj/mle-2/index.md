@@ -1,6 +1,6 @@
 # MLE (2)
 
-MLE (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 26 Nov 2026.
+MLE (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 26 Nov 2026.
 
 MLE is a tech house and house artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside DJ Hochzeit, Ilja Franz and Anton Jonathan. Next up: Golden Pudel Club, Hamburg on Thu 26 Nov.
 
@@ -24,4 +24,4 @@ MLE is a tech house and house artist based in Germany, with 8 gigs on soundcheck
 
 DJ Hochzeit, Ilja Franz, Anton Jonathan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mle-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mle-2/)*

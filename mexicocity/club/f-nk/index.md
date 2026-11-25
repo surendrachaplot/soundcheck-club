@@ -1,8 +1,8 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "RE:SET X Fünk: ATEQ + MNTY + Andreas" on Thu, 26 Nov 2026.
+Fünk is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "RE:SET X Fünk: ATEQ + MNTY + Andreas" on Thu, 26 Nov 2026.
 
-Fünk is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including Astroboii, ATEQ, Bluecommand and DJ Rino and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Astroboii, ATEQ, Bluecommand and Buena Tarde and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
@@ -14,10 +14,11 @@ Fünk is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, wit
 | Thu, 3 Dec 2026 | Ssensorial x Fünk | Astroboii, Bluecommand, Enya Botello, Niño Arbol |
 | Fri, 4 Dec 2026 | Shonky + Justin Shaffer | Justin Shaffer, Shonky |
 | Sat, 5 Dec 2026 | livwutang + VALERIANA + Julia Toporek | Julia Toporek, Valeriana, livwutang |
-| Sat, 12 Dec 2026 | Discos Movimiento presenta: Benelux y Mexico united Club | DJ Rino, EM2K, Gerhard, Nico Borgio, Ursula Prawn |
+| Thu, 10 Dec 2026 | Rat Back Crew x Fünk | Buena Tarde, Daniel Alanís, Maseriche |
+| Sat, 12 Dec 2026 | Discos Movimiento presenta: DJ Rino, Nico Borgio b2b Ursula Prawn and EM2K b2b Gerhard | DJ Rino, EM2K, Gerhard, Nico Borgio, Ursula Prawn |
 
 ## Address
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

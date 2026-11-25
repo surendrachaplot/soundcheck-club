@@ -1,14 +1,15 @@
 # Kweku
 
-Kweku is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
+Kweku is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
 
-Kweku is a club and techno artist based in United States of America, with 32 gigs on soundcheck across Milan and New York City. Often billed alongside Petal, Connector and Délé. Next up: Bene Bene, Milan on Sat 28 Nov.
+Kweku is a club and techno artist based in United States of America, with 33 gigs on soundcheck across Milan, New York City and Rome. Often billed alongside Petal, Connector and Délé. Next up: Bene Bene, Milan on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Bene Bene | Milan |
+| Tue, 1 Dec 2026 | Trenta Formiche | Rome |
 | Wed, 9 Dec 2026 | Mood Ring | New York City |
 | Fri, 18 Dec 2026 | Paragon | New York City |
 
@@ -27,4 +28,4 @@ Kweku is a club and techno artist based in United States of America, with 32 gig
 
 Petal, Connector, Délé
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*

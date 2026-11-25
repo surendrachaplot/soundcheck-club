@@ -1,14 +1,15 @@
 # Rony Seikaly
 
-Rony Seikaly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Rony Seikaly is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Rony Seikaly is a house and techno artist based in United States of America, with 51 gigs on soundcheck across Dubai, Ibiza, Istanbul and Los Angeles and 4 more. Often billed alongside Sossa, Prospa and Seth Troxler. Next up: Factory Town, Miami on Wed 2 Dec.
+Rony Seikaly is a house and techno artist based in United States of America, with 52 gigs on soundcheck across Dubai, Ibiza, Istanbul and Los Angeles and 4 more. Often billed alongside Sossa, Prospa and Seth Troxler. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 5 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rony Seikaly is a house and techno artist based in United States of America, wit
 
 Sossa, Prospa, Seth Troxler
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyseikaly-us/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyseikaly-us/)*

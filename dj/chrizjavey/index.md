@@ -1,6 +1,6 @@
 # Chriz Javey
 
-Chriz Javey is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at A.i Warehouse, Washington DC on Sat, 28 Nov 2026.
+Chriz Javey is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at A.i Warehouse, Washington DC on Sat, 28 Nov 2026.
 
 Chriz Javey is a house and club artist based in United States of America, with 16 gigs on soundcheck across Baltimore, Miami, New York City and Toronto and 1 more. Often billed alongside Darling Cool, 2theT and Tim Fields. Next up: A.i Warehouse, Washington DC on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Chriz Javey is a house and club artist based in United States of America, with 1
 
 Darling Cool, 2theT, Tim Fields
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrizjavey/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrizjavey/)*

@@ -1,6 +1,6 @@
 # Beverly Chills
 
-Beverly Chills is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 28 Nov 2026.
+Beverly Chills is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Beverly Chills is a techno and house artist, with 68 gigs on soundcheck across Chicago, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside nonsuit, likeholywine and Papa Xanny. Next up: The Great Northern, San Francisco/Oakland on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Beverly Chills is a techno and house artist, with 68 gigs on soundcheck across C
 
 nonsuit, likeholywine, Papa Xanny
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*

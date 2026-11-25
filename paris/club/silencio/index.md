@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "CASA ATA: Sossa, GASPARD, DIEGO MEJIA, ROMS" on Thu, 26 Nov 2026.
+Silencio is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "CASA ATA: Sossa, GASPARD, DIEGO MEJIA, ROMS" on Thu, 26 Nov 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Damon Jee, Gwen, horsegiirL and PARIS (AU) and 2 more. See dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -17,4 +17,4 @@ Silencio is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with l
 
 142 rue Montmartre Paris, Paris
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

@@ -1,6 +1,6 @@
 # Al Wootton
 
-Al Wootton is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Al Wootton is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Al Wootton is a techno and dub artist based in United Kingdom, with 68 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 25 more. Often billed alongside Valentina Magaletti, Azu Tiwaline and upsammy. Next up: The Cause, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Al Wootton is a techno and dub artist based in United Kingdom, with 68 gigs on s
 
 Valentina Magaletti, Azu Tiwaline, upsammy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alwootton/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alwootton/)*

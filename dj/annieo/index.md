@@ -1,13 +1,14 @@
 # Annie O
 
-Annie O is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 5 Dec 2026.
+Annie O is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
 
-Annie O is a techno and house artist based in Germany, with 27 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Nürnberg. Often billed alongside Multifuse, Any Mello and Arne Schattenberg. Next up: Ritter Butzke, Berlin on Sat 5 Dec.
+Annie O is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Nürnberg. Often billed alongside Arne Schattenberg, Multifuse and Any Mello. Next up: KitKatClub, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | KitKatClub | Berlin |
 | Sat, 5 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Annie O is a techno and house artist based in Germany, with 27 gigs on soundchec
 
 ## Shares bills with
 
-Multifuse, Any Mello, Arne Schattenberg
+Arne Schattenberg, Multifuse, Any Mello
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieo/)*

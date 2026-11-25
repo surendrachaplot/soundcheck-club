@@ -1,6 +1,6 @@
 # Jek (US)
 
-Jek (US) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
+Jek (US) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
 
 Jek (US) is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bogotá and 21 more. Often billed alongside djfix, Matas and adobeprincess. Next up: Signal, New York City on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Jek (US) is a techno and house artist based in United States of America, with 80
 
 djfix, Matas, adobeprincess
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*

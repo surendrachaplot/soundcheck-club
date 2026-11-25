@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "SÜMA - COMMON GROUND [002]: Moni von Pisani, Moodjo, Stark" on Thu, 26 Nov 2026.
+Bulbul Berlin is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "SÜMA - COMMON GROUND [002]: Moni von Pisani, Moodjo, Stark" on Thu, 26 Nov 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Aggy, Alex Grebe, Ashbeat and DJ Fresh Garlic and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 14 upcoming gigs,
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

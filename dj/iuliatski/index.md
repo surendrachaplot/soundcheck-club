@@ -1,14 +1,15 @@
 # IULIATSKI
 
-IULIATSKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Cello, Basel on Fri, 27 Nov 2026.
+IULIATSKI is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Cello, Basel on Fri, 27 Nov 2026.
 
-IULIATSKI is a trance and techno artist based in Switzerland, with 6 gigs on soundcheck across Basel. Often billed alongside VXBZ, Bouncy Bongi and DJ Discostoff. Next up: Club Cello, Basel on Fri 27 Nov.
+IULIATSKI is a trance and techno artist based in Switzerland, with 7 gigs on soundcheck across Basel. Often billed alongside VXBZ, Bouncy Bongi and winneju. Next up: Club Cello, Basel on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Club Cello | Basel |
+| Fri, 22 Jan 2027 | Das Viertel | Basel |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ IULIATSKI is a trance and techno artist based in Switzerland, with 6 gigs on sou
 
 ## Shares bills with
 
-VXBZ, Bouncy Bongi, DJ Discostoff
+VXBZ, Bouncy Bongi, winneju
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*

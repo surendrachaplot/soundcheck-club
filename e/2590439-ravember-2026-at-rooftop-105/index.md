@@ -1,6 +1,6 @@
 # RAVEMBER 2026 at Rooftop 105
 
-RAVEMBER 2026 at Rooftop 105 on Sat 5 Dec, Geneva. 3 artists: Dimka, PxP Lighthouse and Xta'J. Techno and Psytrance. See the line-up on soundcheck.
+RAVEMBER 2026 at Rooftop 105 on Sat 5 Dec, Geneva. 4 artists: Dimka, Ome Ome Is, PxP Lighthouse and Xta'J. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ RAVEMBER 2026 at Rooftop 105 on Sat 5 Dec, Geneva. 3 artists: Dimka, PxP Lightho
 ## Line-up
 
 - Dimka
+- Ome Ome Is
 - PxP Lighthouse
 - Xta'J
 

@@ -1,13 +1,14 @@
 # Tommy Dymock
 
-Tommy Dymock is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Red Church, Bristol on Thu, 31 Dec 2026.
+Tommy Dymock is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 26 Dec 2026.
 
-Tommy Dymock is a house and progressive house artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, London and Newcastle. Often billed alongside Woody, Betsy Mae and Eksish. Next up: The Red Church, Bristol on Thu 31 Dec.
+Tommy Dymock is a house and progressive house artist based in United Kingdom, with 28 gigs on soundcheck across Bristol, London and Newcastle. Often billed alongside Woody, Betsy Mae and Eksish. Next up: Starlane Pizza Bar, London on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Dec 2026 | Starlane Pizza Bar | London |
 | Thu, 31 Dec 2026 | The Red Church | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tommy Dymock is a house and progressive house artist based in United Kingdom, wi
 
 Woody (3), Betsy Mae, Eksish
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommydymock/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommydymock/)*

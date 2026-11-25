@@ -1,8 +1,8 @@
 # Younger Than Me
 
-Younger Than Me is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Eventhuset, Stockholm on Sat, 12 Dec 2026.
+Younger Than Me is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Eventhuset, Stockholm on Sat, 12 Dec 2026.
 
-Younger Than Me is a techno and house artist based in Italy, with 76 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Maruwa, Industrial Romantico and Elisa Bee. Next up: Eventhuset, Stockholm on Sat 12 Dec.
+Younger Than Me is a techno and house artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Maruwa, Industrial Romantico and Elisa Bee. Next up: Eventhuset, Stockholm on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Younger Than Me is a techno and house artist based in Italy, with 76 gigs on sou
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Eventhuset | Stockholm |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 1 Jan 2027 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Younger Than Me is a techno and house artist based in Italy, with 76 gigs on sou
 
 Maruwa, Industrial Romantico, Elisa Bee
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngerthanme/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngerthanme/)*

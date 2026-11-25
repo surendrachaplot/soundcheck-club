@@ -1,6 +1,6 @@
 # VOID Archive with Plyometrics (CH), Ed Shepherd, LaForge, Sagrivox, Anton Quasi at Void Club
 
-VOID Archive with Plyometrics (CH), Ed Shepherd, LaForge, Sagrivox, Anton Quasi at Void Club on Fri 11 Dec, Berlin. 3 artists: Anton Quasi, Ed Shepherd and Sagrivox. Drum & Bass and Garage. See the line-up on soundcheck.
+VOID Archive with Plyometrics (CH), Ed Shepherd, LaForge, Sagrivox, Anton Quasi at Void Club on Fri 11 Dec, Berlin. 4 artists: Anton Quasi, Ed Shepherd, EMBEE3 and Sagrivox. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ VOID Archive with Plyometrics (CH), Ed Shepherd, LaForge, Sagrivox, Anton Quasi 
 
 - Anton Quasi
 - Ed Shepherd
+- EMBEE3
 - Sagrivox
 
 *Source: [soundcheck](https://soundcheck.club/e/2589449-void-archive-with-plyometrics-ch-ed-shepherd-laforge-sagrivo/)*

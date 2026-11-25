@@ -1,8 +1,8 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "AKAI Presents: RTL8 & KELCI" on Fri, 27 Nov 2026.
+The Classic Grand is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "AKAI Presents: RTL8 & KELCI" on Fri, 27 Nov 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), Bass Generator and BUCK and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), Bass Generator and BUCK and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming 
 | Fri, 18 Dec 2026 | Khaotic presents: TOZA, DAMAXY B2B 5VRGN & more | UMBRA |
 | Sat, 19 Dec 2026 | KHAOTIC x INTRA presents: RAGETRAIN ALL NIGHT LONG |  |
 | Sun, 27 Dec 2026 | Darkside: Winter Sesh '26 | Lekkerfaces, Partyraiser |
-| Sat, 16 Jan 2027 | INTRA: Mad dog, Kelci and Tommyknocker | Mad Dog, Tommyknocker |
+| Fri, 15 Jan 2027 | Disfunction: KROWDEXX | Krowdexx |
 
 ## Address
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

@@ -1,6 +1,6 @@
 # Nikola Vemic
 
-Nikola Vemic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kult, Belgrade on Fri, 11 Dec 2026.
+Nikola Vemic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kult, Belgrade on Fri, 11 Dec 2026.
 
 Nikola Vemic is a house and techno artist based in Serbia, with 42 gigs on soundcheck across Amsterdam, Belgrade, Naples and Utrecht. Often billed alongside Ali Guney, Marko Milosavljevic and Budino. Next up: Kult, Belgrade on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Nikola Vemic is a house and techno artist based in Serbia, with 42 gigs on sound
 
 Ali Guney, Marko Milosavljevic, Budino
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolavemic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolavemic/)*

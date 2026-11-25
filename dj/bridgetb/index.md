@@ -1,13 +1,14 @@
 # Bridget B
 
-Bridget B is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bastet, Philadelphia on Fri, 11 Dec 2026.
+Bridget B is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Dolphin, Philadelphia on Sat, 28 Nov 2026.
 
-Bridget B is a house and deep house artist based in United States of America, with 29 gigs on soundcheck across Philadelphia. Often billed alongside Rob Paine, Francisco Collazo and Sweater. Next up: Bastet, Philadelphia on Fri 11 Dec.
+Bridget B is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Philadelphia. Often billed alongside Rob Paine, Francisco Collazo and Sweater. Next up: The Dolphin, Philadelphia on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Dolphin | Philadelphia |
 | Fri, 11 Dec 2026 | Bastet | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bridget B is a house and deep house artist based in United States of America, wi
 
 Rob Paine, Francisco Collazo, Sweater
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridgetb/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridgetb/)*

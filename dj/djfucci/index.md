@@ -1,6 +1,6 @@
 # Dj Fucci
 
-Dj Fucci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Brutal Mx, Mexico City on Sat, 12 Dec 2026.
+Dj Fucci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Brutal Mx, Mexico City on Sat, 12 Dec 2026.
 
 Dj Fucci is a techno and house artist based in Mexico, with 122 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside sadgal, Enya Botello and Magnolia Coronado. Next up: Brutal Mx, Mexico City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Dj Fucci is a techno and house artist based in Mexico, with 122 gigs on soundche
 
 sadgal, Enya Botello, Magnolia Coronado
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*

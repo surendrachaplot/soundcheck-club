@@ -1,6 +1,6 @@
 # LPLPLP
 
-LPLPLP is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TAG Culture Rome, Rome on Fri, 27 Nov 2026.
+LPLPLP is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TAG Culture Rome, Rome on Fri, 27 Nov 2026.
 
 LPLPLP is a techno and deep house artist based in Italy, with 28 gigs on soundcheck across Rome and Turin. Often billed alongside Gattonero, Luca Viola and AMANDA LEAN. Next up: TAG Culture Rome, Rome on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ LPLPLP is a techno and deep house artist based in Italy, with 28 gigs on soundch
 
 Gattonero, Luca Viola, AMANDA LEAN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lplplp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lplplp/)*

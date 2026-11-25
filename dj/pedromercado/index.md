@@ -1,6 +1,6 @@
 # Pedro Mercado
 
-Pedro Mercado is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 20 Feb 2027.
+Pedro Mercado is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 20 Feb 2027.
 
 Pedro Mercado is a progressive house and deep house artist based in Belgium, with 25 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels. Often billed alongside RELO4D, Alex Sharp and Daniel Pinho. Next up: Veronica Schip, Amsterdam on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Pedro Mercado is a progressive house and deep house artist based in Belgium, wit
 
 RELO4D, Alex Sharp, Daniel Pinho
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedromercado/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedromercado/)*

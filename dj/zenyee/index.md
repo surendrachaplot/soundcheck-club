@@ -1,14 +1,17 @@
 # Zenyee
 
-Zenyee is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 31 Dec 2026.
+Zenyee is a electronic artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 11 Dec 2026.
 
-Zenyee is an electronic artist based in China, with 57 gigs on soundcheck across Berlin and Milan. Often billed alongside Bubbling, Dolce Potente and Industrial Romantico. Next up: Tempio del Futuro Perduto, Milan on Thu 31 Dec.
+Zenyee is an electronic artist based in China, with 60 gigs on soundcheck across Berlin and Milan. Often billed alongside Bubbling, Industrial Romantico and Dolce Potente. Next up: Tempio del Futuro Perduto, Milan on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 18 Dec 2026 | Tempio del Futuro Perduto | Milan |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 1 Jan 2027 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
@@ -23,6 +26,6 @@ Zenyee is an electronic artist based in China, with 57 gigs on soundcheck across
 
 ## Shares bills with
 
-Bubbling, Dolce Potente, Industrial Romantico
+Bubbling, Industrial Romantico, Dolce Potente
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zenyee/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zenyee/)*

@@ -1,8 +1,8 @@
 # Dee Montero
 
-Dee Montero is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 26 Dec 2026.
+Dee Montero is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 26 Dec 2026.
 
-Dee Montero is a progressive house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Byron Bay, Chicago, Hong Kong and Ibiza and 7 more. Often billed alongside AETERI, Exoco and Marksman. Next up: Do Not Sit On The Furniture, Miami on Sat 26 Dec.
+Dee Montero is a progressive house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Byron Bay, Chicago, Hong Kong and Ibiza and 7 more. Often billed alongside AETERI, Exoco and Frankllin. Next up: Do Not Sit On The Furniture, Miami on Sat 26 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dee Montero is a progressive house and techno artist based in United Kingdom, wi
 
 ## Shares bills with
 
-AETERI, Exoco, Marksman
+AETERI, Exoco, Frankllin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deemontero/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deemontero/)*

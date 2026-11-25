@@ -1,13 +1,14 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+Interplanetary Criminal is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TESTBED, Leeds on Fri, 27 Nov 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, with 279 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 82 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: The Prospect Building, Bristol on Sat 28 Nov.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, with 280 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 82 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: TESTBED, Leeds on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TESTBED | Leeds |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 4 Dec 2026 | Mia Mao | Paris |
 | Sat, 5 Dec 2026 | The Telegraph Building | Belfast |
@@ -31,4 +32,4 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 
 Main Phase, MALUGI, KI/KI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

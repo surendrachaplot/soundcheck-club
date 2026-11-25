@@ -1,6 +1,6 @@
 # Locke
 
-Locke is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "THE REJECTION ANTHOLOGY with Domeadig, Vitamin T, Mildi J, DJ SET" on Sat, 28 Nov 2026.
+Locke is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "THE REJECTION ANTHOLOGY with Domeadig, Vitamin T, Mildi J, DJ SET" on Sat, 28 Nov 2026.
 
 Locke is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Vitamin T. See dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with li
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

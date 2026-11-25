@@ -1,13 +1,14 @@
 # Giorgio Di Majo
 
-Giorgio Di Majo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at DURO, Milan on Sat, 5 Dec 2026.
+Giorgio Di Majo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Studionotte, Milan on Fri, 27 Nov 2026.
 
-Giorgio Di Majo is a house and tech house artist based in Italy, with 39 gigs on soundcheck across Florence, London, Milan and Rome. Often billed alongside Guglielmo Morandini, La Sape and Totino. Next up: DURO, Milan on Sat 5 Dec.
+Giorgio Di Majo is a house and tech house artist based in Italy, with 40 gigs on soundcheck across Florence, London, Milan and Rome. Often billed alongside Totino, Guglielmo Morandini and La Sape. Next up: Studionotte, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Studionotte | Milan |
 | Sat, 5 Dec 2026 | DURO | Milan |
 
 ## Recently played
@@ -23,6 +24,6 @@ Giorgio Di Majo is a house and tech house artist based in Italy, with 39 gigs on
 
 ## Shares bills with
 
-Guglielmo Morandini, La Sape, Totino
+Totino, Guglielmo Morandini, La Sape
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiodimajo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiodimajo/)*

@@ -1,6 +1,6 @@
 # Kirkos
 
-Kirkos is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Bhob Rainey / David Lacey / Aonghus McEvoy" on Thu, 26 Nov 2026.
+Kirkos is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bhob Rainey / David Lacey / Aonghus McEvoy" on Thu, 26 Nov 2026.
 
 Kirkos is a music venue in Dublin listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Little Green Street, D07 K744.
 
@@ -16,4 +16,4 @@ Kirkos is a music venue in Dublin listed on soundcheck. 3 upcoming gigs. See dat
 
 Little Green Street, D07 K744, Dublin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/kirkos/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/kirkos/)*

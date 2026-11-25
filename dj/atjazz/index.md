@@ -1,6 +1,6 @@
 # Atjazz
 
-Atjazz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
+Atjazz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
 
 Atjazz is a house and deep house artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Groove Assassin, Jimpster and Kyri R2. Next up: The Steel Yard, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Atjazz is a house and deep house artist based in United Kingdom, with 45 gigs on
 
 Groove Assassin, Jimpster, Kyri R2
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*

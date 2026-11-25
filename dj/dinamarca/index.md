@@ -1,6 +1,6 @@
 # Dinamarca
 
-Dinamarca is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Good Room, New York City on Fri, 11 Dec 2026.
+Dinamarca is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Fri, 11 Dec 2026.
 
 Dinamarca is a club and reggaeton artist based in Sweden, with 80 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 28 more. Often billed alongside Meth Math, Manuka Honey and DJ Python. Next up: Good Room, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Dinamarca is a club and reggaeton artist based in Sweden, with 80 gigs on soundc
 
 Meth Math, Manuka Honey, DJ Python
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*

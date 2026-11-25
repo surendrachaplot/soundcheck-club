@@ -1,14 +1,15 @@
 # High Club Room
 
-High Club Room is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Tortilla w/ Eder Croket" on Sat, 28 Nov 2026.
+High Club Room is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "SPEEDWAX invites: ZENEA" on Fri, 27 Nov 2026.
 
-High Club Room is a music venue in Madrid listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
+High Club Room is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Eder Croket. See dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Tortilla w/ Eder Croket |  |
+| Fri, 27 Nov 2026 | SPEEDWAX invites: ZENEA |  |
+| Sat, 28 Nov 2026 | Tortilla w/ Eder Croket | Eder Croket |
 | Sat, 5 Dec 2026 | Tortilla |  |
 | Sat, 12 Dec 2026 | Tortilla |  |
 | Sat, 19 Dec 2026 | Tortilla |  |
@@ -18,4 +19,4 @@ High Club Room is a music venue in Madrid listed on soundcheck. 5 upcoming gigs.
 
 C/ de Joaquin Costa 27, 28002. Madrid, Madrid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*

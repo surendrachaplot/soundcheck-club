@@ -1,6 +1,6 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DJ Narciso, Baltruschat, late" on Fri, 27 Nov 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "DJ Narciso, Baltruschat, late" on Fri, 27 Nov 2026.
 
 Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 4 upcoming gigs, with line-ups including Das Firmament, DJ Narciso, Keshavara and Teuro and 2 more. See dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
@@ -17,4 +17,4 @@ Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 4 upcom
 
 Grabbeplatz 4; 40213 Düsseldorf; Germany, Düsseldorf
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*

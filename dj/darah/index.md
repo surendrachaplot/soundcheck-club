@@ -1,6 +1,6 @@
 # Darah
 
-Darah is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Black Belval, Luxembourg on Sat, 5 Dec 2026.
+Darah is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Black Belval, Luxembourg on Sat, 5 Dec 2026.
 
 Darah is a techno and industrial artist based in Luxembourg, with 5 gigs on soundcheck across Amsterdam, Ibiza, Luxembourg and Malta. Often billed alongside Philip Ackowsky, Arucal and Erica (IT). Next up: Black Belval, Luxembourg on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Darah is a techno and industrial artist based in Luxembourg, with 5 gigs on soun
 
 Philip Ackowsky, Arucal, Erica (IT)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darah/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darah/)*

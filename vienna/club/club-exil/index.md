@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Let It Roll Tour Vienna" on Fri, 4 Dec 2026.
+Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Let It Roll Tour Vienna" on Fri, 4 Dec 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including A.N.I., Black Sun Empire, Chris Liebing and Delta Heavy and 2 more. See dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -17,4 +17,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

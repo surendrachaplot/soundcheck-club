@@ -1,6 +1,6 @@
 # Kompass Klub
 
-Kompass Klub is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "KRUELTY, Toxic Machinery at Kompass" on Fri, 27 Nov 2026.
+Kompass Klub is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "KRUELTY, Toxic Machinery at Kompass" on Fri, 27 Nov 2026.
 
 Kompass Klub is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including Alignment, BLANKA, Chlär and DAX J and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
 
@@ -17,4 +17,4 @@ Kompass Klub is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, wi
 
 Vliegtuiglaan 12, 9000 Gent - Belgium, Ghent
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*

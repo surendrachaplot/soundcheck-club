@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Slumber Party: Griffin Maxwell Brooks & ilykimchi" on Fri, 27 Nov 2026.
+House of Yes is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Slumber Party: Griffin Maxwell Brooks & ilykimchi" on Fri, 27 Nov 2026.
 
 House of Yes is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Alice Iguchi, Catz 'N Dogz, Dantiez and Eelke Kleijn and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -20,4 +20,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 7 upcoming 
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

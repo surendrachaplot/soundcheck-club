@@ -1,6 +1,6 @@
 # Kalimanda
 
-Kalimanda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
+Kalimanda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
 
 Kalimanda is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Emilion Dollar Baby, Domovnika and KÜRÜF. Next up: Ilses Erika, Leipzig on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Kalimanda is a techno and house artist based in Germany, with 33 gigs on soundch
 
 Emilion Dollar Baby, Domovnika, KÜRÜF
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*

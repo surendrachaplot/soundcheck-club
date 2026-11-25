@@ -1,6 +1,6 @@
 # Hendrik Luke
 
-Hendrik Luke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Soho, Mannheim on Fri, 4 Dec 2026.
+Hendrik Luke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Soho, Mannheim on Fri, 4 Dec 2026.
 
 Hendrik Luke is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Amsterdam, Berlin, Karlsruhe and Mannheim. Often billed alongside Conor O'Sullivan, Aamun Koi and Anton Quasi. Next up: Soho, Mannheim on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Hendrik Luke is a techno and trance artist based in Germany, with 5 gigs on soun
 
 Conor O'Sullivan, Aamun Koi, Anton Quasi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikluke/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikluke/)*

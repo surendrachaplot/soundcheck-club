@@ -1,6 +1,6 @@
 # Natt A Regular Guy
 
-Natt A Regular Guy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
+Natt A Regular Guy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
 
 Natt A Regular Guy is a house and techno artist, with 9 gigs on soundcheck across Berlin. Often billed alongside B2BEATCHES, BROTECH and Bako.. Next up: Studio1111, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Natt A Regular Guy is a house and techno artist, with 9 gigs on soundcheck acros
 
 B2BEATCHES, BROTECH, Bako.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nattaregularguy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nattaregularguy/)*

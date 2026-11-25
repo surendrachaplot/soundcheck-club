@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Julian Anthony is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, with 163 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 163 g
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

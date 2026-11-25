@@ -1,6 +1,6 @@
 # C's Bar
 
-C's Bar is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Solo Trip w/ 77Mushrooms, KAIY, Guso, Stone" on Fri, 27 Nov 2026.
+C's Bar is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Solo Trip w/ 77Mushrooms, KAIY, Guso, Stone" on Fri, 27 Nov 2026.
 
 C's Bar is a music venue in Shanghai listed on soundcheck. 1 upcoming gig, with line-ups including 77Mushrooms, Guso, KAIY and Stone. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ C's Bar is a music venue in Shanghai listed on soundcheck. 1 upcoming gig, with 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Solo Trip w/ 77Mushrooms, KAIY, Guso, Stone | 77Mushrooms, Guso, KAIY, Stone (2) |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/c-s-bar/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/c-s-bar/)*

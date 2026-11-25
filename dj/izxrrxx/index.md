@@ -1,6 +1,6 @@
 # izxrrxx
 
-izxrrxx is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at K2 Comedy Club, Vilnius on Fri, 19 Feb 2027.
+izxrrxx is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at K2 Comedy Club, Vilnius on Fri, 19 Feb 2027.
 
 izxrrxx is a techno and industrial artist based in Lithuania, with 16 gigs on soundcheck across Vilnius. Often billed alongside Acidless, Domciakas and Et Cetera. Next up: K2 Comedy Club, Vilnius on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ izxrrxx is a techno and industrial artist based in Lithuania, with 16 gigs on so
 
 Acidless, Domciakas, Et Cetera
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izxrrxx/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izxrrxx/)*

@@ -1,6 +1,6 @@
-# Off Grid House Bass KLVB NYX at TBA
+# Off Grid House - Bass KLVB NYX at TBA
 
-Off Grid House Bass KLVB NYX at TBA on Fri 27 Nov, Athens. 5 artists: Bllyz, INFINULL, KOOSTA and manliketank and 1 more. Drum & Bass and Bass. See the line-up on soundcheck.
+Off Grid House - Bass KLVB NYX at TBA on Fri 27 Nov, Athens. 5 artists: Bllyz, INFINULL, KOOSTA and manliketank and 1 more. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

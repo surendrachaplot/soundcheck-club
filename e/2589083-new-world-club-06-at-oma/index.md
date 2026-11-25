@@ -1,6 +1,6 @@
 # New World Club 06 at OMA
 
-New World Club 06 at OMA on Fri 27 Nov, Hong Kong. 1 artist: Saint Bernard. House. See the line-up on soundcheck.
+New World Club 06 at OMA on Fri 27 Nov, Hong Kong. 1 artist: Saint Bernard. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

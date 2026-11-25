@@ -1,17 +1,18 @@
 # LaBlackie
 
-LaBlackie is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 20 Nov 2026.
+LaBlackie is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
 
-LaBlackie is an electronic artist based in Spain, with 4 gigs on soundcheck across Barcelona and Paris. Often billed alongside 700 BLISS, B2BBS and Black Coffee. Next up: Razzmatazz, Barcelona on Fri 20 Nov.
+LaBlackie is an electronic artist based in Spain, with 5 gigs on soundcheck across Barcelona and Paris. Often billed alongside 700 BLISS, B2BBS and Black Coffee. Next up: Razzmatazz, Barcelona on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Razzmatazz | Barcelona |
+| Fri, 11 Dec 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 
+- Razzmatazz, Barcelona · Fri, 20 Nov 2026
 - Le Hasard Ludique, Paris · Sat, 29 Nov 2025
 - Fira Barcelona, Barcelona · Thu, 15 Jun 2023
 - Fira Barcelona, Barcelona · Thu, 15 Jun 2023
@@ -20,4 +21,4 @@ LaBlackie is an electronic artist based in Spain, with 4 gigs on soundcheck acro
 
 700 BLISS, B2BBS, Black Coffee
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lablackie/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lablackie/)*

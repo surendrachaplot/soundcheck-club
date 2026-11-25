@@ -1,6 +1,6 @@
 # Kota
 
-Kota is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Metro, Kyoto on Thu, 31 Dec 2026.
+Kota is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Metro, Kyoto on Thu, 31 Dec 2026.
 
 Kota is a techno and house artist based in Japan, with 30 gigs on soundcheck across Bali, Kyoto, Melbourne and Osaka and 2 more. Often billed alongside ATAMI, MOOTOE and OPTIMIST. Next up: Club Metro, Kyoto on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kota is a techno and house artist based in Japan, with 30 gigs on soundcheck acr
 
 ATAMI, MOOTOE, OPTIMIST
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*

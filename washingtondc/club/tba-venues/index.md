@@ -1,6 +1,6 @@
 # TBA - VENUES
 
-TBA - VENUES is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Countdown On The Block NYE27 Block Party DC" on Thu, 31 Dec 2026.
+TBA - VENUES is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Countdown On The Block NYE27 Block Party DC" on Thu, 31 Dec 2026.
 
 TBA - VENUES is a music venue in Washington DC listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - VENUES is a music venue in Washington DC listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Countdown On The Block NYE27 Block Party DC |  |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-venues/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-venues/)*

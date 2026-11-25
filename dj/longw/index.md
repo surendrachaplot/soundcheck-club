@@ -1,14 +1,15 @@
 # long w
 
-long w is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+long w is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
 
-long w is a bass and breakbeat artist based in Poland, with 27 gigs on soundcheck across Poland and Warsaw. Often billed alongside SHHME, Some Guest and Muzaman. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
+long w is a bass and dubstep artist based in Poland, with 28 gigs on soundcheck across Poland, Poznan and Warsaw. Often billed alongside SHHME, Some Guest and Muzaman. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | K-Bar Powiśle | Warsaw |
+| Fri, 4 Dec 2026 | SCHRON | Poznan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ long w is a bass and breakbeat artist based in Poland, with 27 gigs on soundchec
 
 SHHME, Some Guest, Muzaman
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/longw/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/longw/)*

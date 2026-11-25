@@ -1,6 +1,6 @@
 # OWLS
 
-OWLS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 4 Dec 2026.
+OWLS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 4 Dec 2026.
 
 OWLS is a techno and house artist based in United States of America, with 4 gigs on soundcheck across Budapest and Prague. Often billed alongside Kloos, ANESI and Agettro. Next up: Bukanyr Boat, Prague on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ OWLS is a techno and house artist based in United States of America, with 4 gigs
 
 Kloos, ANESI, Agettro
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owls/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owls/)*

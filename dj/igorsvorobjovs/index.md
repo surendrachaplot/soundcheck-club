@@ -1,6 +1,6 @@
 # Igors Vorobjovs
 
-Igors Vorobjovs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Liepājas Metalurgs, Latvia on Sat, 3 Jul 2027.
+Igors Vorobjovs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Liepājas Metalurgs, Latvia on Sat, 3 Jul 2027.
 
 Igors Vorobjovs is a techno and house artist based in Latvia, with 4 gigs on soundcheck across Latvia and Riga. Often billed alongside Ksenia Kamikaza, Waxid and Esoniq. Next up: TBA - Liepājas Metalurgs, Latvia on Sat 3 Jul.
 
@@ -20,4 +20,4 @@ Igors Vorobjovs is a techno and house artist based in Latvia, with 4 gigs on sou
 
 Ksenia Kamikaza, Waxid, Esoniq
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igorsvorobjovs/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igorsvorobjovs/)*

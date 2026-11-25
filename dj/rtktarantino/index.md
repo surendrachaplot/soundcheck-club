@@ -1,14 +1,15 @@
 # RTK Tarantino
 
-RTK Tarantino is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Loft, Manchester on Thu, 26 Nov 2026.
+RTK Tarantino is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Loft, Manchester on Thu, 26 Nov 2026.
 
-RTK Tarantino is a garage and house artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 16 more. Often billed alongside Captain Wallop, Locky and Rossi. Next up: The Loft, Manchester on Thu 26 Nov.
+RTK Tarantino is a garage and house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 17 more. Often billed alongside Captain Wallop, Locky and Rossi. Next up: The Loft, Manchester on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | The Loft | Manchester |
+| Fri, 27 Nov 2026 | The Clock Factory | Bristol |
 | Sat, 5 Dec 2026 | Abercrombie Hotel | Sydney |
 | Sat, 12 Dec 2026 | ark (Melb) | Melbourne |
 | Sat, 19 Dec 2026 | Sweat Shop Brew Kitchen | Auckland |
@@ -30,4 +31,4 @@ RTK Tarantino is a garage and house artist based in United Kingdom, with 41 gigs
 
 Captain Wallop, Locky, Rossi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

@@ -1,8 +1,8 @@
 # Enya Botello
 
-Enya Botello is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Carpet Shop, London on Sat, 28 Nov 2026.
+Enya Botello is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Carpet Shop, London on Sat, 28 Nov 2026.
 
-Enya Botello is a techno and house artist based in Mexico, with 214 gigs on soundcheck across Bogotá, Guadalajara, London and Mexico City and 4 more. Often billed alongside Eliel Capa, Deejay Energy and Magnolia Coronado. Next up: The Carpet Shop, London on Sat 28 Nov.
+Enya Botello is a techno and house artist based in Mexico, with 215 gigs on soundcheck across Bogotá, Guadalajara, London and Mexico City and 4 more. Often billed alongside Eliel Capa, Deejay Energy and Magnolia Coronado. Next up: The Carpet Shop, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Enya Botello is a techno and house artist based in Mexico, with 214 gigs on soun
 | Sat, 5 Dec 2026 | TBA | Mexico City |
 | Sat, 5 Dec 2026 | CHICO | Mexico City |
 | Sat, 12 Dec 2026 | Brutal Mx | Mexico City |
+| Thu, 31 Dec 2026 | TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. | Mexico City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Enya Botello is a techno and house artist based in Mexico, with 214 gigs on soun
 
 Eliel Capa, Deejay Energy, Magnolia Coronado
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*

@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "THE BIG BINGO NIGHT" on Thu, 26 Nov 2026.
+Legal is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "THE BIG BINGO NIGHT" on Thu, 26 Nov 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Boris & Davy, DJoy, Kareem El Morr and Leyla and 2 more. See dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -16,4 +16,4 @@ Legal is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with lin
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

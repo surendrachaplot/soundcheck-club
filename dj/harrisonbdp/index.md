@@ -1,13 +1,14 @@
 # Harrison BDP
 
-Harrison BDP is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Jazz Cafe, London on Sat, 9 Jan 2027.
+Harrison BDP is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Warehouse, Leeds on Thu, 31 Dec 2026.
 
-Harrison BDP is a house and tech house artist based in United Kingdom, with 147 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 44 more. Often billed alongside Black Loops, Kolter and Alien Communications. Next up: The Jazz Cafe, London on Sat 9 Jan.
+Harrison BDP is a house and tech house artist based in United Kingdom, with 148 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 44 more. Often billed alongside Black Loops, Kolter and Alien Communications. Next up: The Warehouse, Leeds on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | The Warehouse | Leeds |
 | Sat, 9 Jan 2027 | The Jazz Cafe | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Harrison BDP is a house and tech house artist based in United Kingdom, with 147 
 
 Black Loops, Kolter, Alien Communications
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*

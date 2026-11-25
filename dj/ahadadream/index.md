@@ -1,6 +1,6 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
+Ahadadream is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
 
 Ahadadream is a house and techno artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 47 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Electric Brixton, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Ahadadream is a house and techno artist based in United Kingdom, with 129 gigs o
 
 SHERELLE, salute, Interplanetary Criminal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*

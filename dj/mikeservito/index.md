@@ -1,8 +1,8 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Mike Servito is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
-Mike Servito is a house and techno artist based in United States of America, with 320 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Shaun J. Wright, Erika and Carlos Souffront. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
+Mike Servito is a house and techno artist based in United States of America, with 321 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Shaun J. Wright, Erika and Carlos Souffront. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mike Servito is a house and techno artist based in United States of America, wit
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
+| Sat, 19 Dec 2026 | TBA | Toronto |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
 | Fri, 22 Jan 2027 | XuXa | Austin |
@@ -31,4 +32,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Shaun J. Wright, Erika, Carlos Souffront
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

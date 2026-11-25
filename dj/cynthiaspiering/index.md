@@ -1,6 +1,6 @@
 # Cynthia Spiering
 
-Cynthia Spiering is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Patronaat, Amsterdam on Sat, 28 Nov 2026.
+Cynthia Spiering is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Patronaat, Amsterdam on Sat, 28 Nov 2026.
 
 Cynthia Spiering is a techno and house artist based in Netherlands, with 118 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 22 more. Often billed alongside DIØN, KARAH and Aphøtic. Next up: Patronaat, Amsterdam on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cynthia Spiering is a techno and house artist based in Netherlands, with 118 gig
 
 DIØN, KARAH, Aphøtic
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiaspiering/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiaspiering/)*

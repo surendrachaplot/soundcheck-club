@@ -1,6 +1,6 @@
 # Samm
 
-Samm is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Outernet Live, London on Fri, 11 Dec 2026.
+Samm is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Outernet Live, London on Fri, 11 Dec 2026.
 
 Samm is a house and deep house artist based in Greece, with 13 gigs on soundcheck across Amsterdam, Hamburg, Ibiza and London and 3 more. Often billed alongside AJNA, Andrea Oliva and Adriatique. Next up: Outernet Live, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Samm is a house and deep house artist based in Greece, with 13 gigs on soundchec
 
 AJNA, Andrea Oliva, Adriatique
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*

@@ -1,8 +1,8 @@
 # Avo (ES)
 
-Avo (ES) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 4 Dec 2026.
+Avo (ES) is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 4 Dec 2026.
 
-Avo (ES) is a house and electronica artist based in Spain, with 74 gigs on soundcheck across Barcelona, Berlin, Chicago and Dubai and 8 more. Often billed alongside Cesc (ES), DANIL0 and Regue. Next up: TBA - Secret Location, Madrid on Fri 4 Dec.
+Avo (ES) is an electronica and house artist based in Spain, with 75 gigs on soundcheck across Barcelona, Berlin, Chicago and Dubai and 8 more. Often billed alongside Cesc (ES), DANIL0 and Regue. Next up: TBA - Secret Location, Madrid on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Avo (ES) is a house and electronica artist based in Spain, with 74 gigs on sound
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | TBA - Secret Location | Madrid |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
+| Fri, 29 Jan 2027 | Cadavra | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Avo (ES) is a house and electronica artist based in Spain, with 74 gigs on sound
 
 Cesc (ES), DANIL0, Regue
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*

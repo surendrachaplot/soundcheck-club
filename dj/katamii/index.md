@@ -1,14 +1,15 @@
 # Katamii
 
-Katamii is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Turbina, Budapest on Sat, 19 Dec 2026.
+Katamii is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Turbina, Budapest on Sat, 19 Dec 2026.
 
-Katamii is a techno and trance artist based in Hungary, with 78 gigs on soundcheck across Belgrade, Bratislava and Budapest. Often billed alongside AGA2L, Mankind and Mirmur. Next up: Turbina, Budapest on Sat 19 Dec.
+Katamii is a techno and trance artist based in Hungary, with 79 gigs on soundcheck across Belgrade, Bratislava and Budapest. Often billed alongside AGA2L, Mankind and Mirmur. Next up: Turbina, Budapest on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Turbina | Budapest |
+| Thu, 31 Dec 2026 | Magma Club Budapest | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Katamii is a techno and trance artist based in Hungary, with 78 gigs on soundche
 
 AGA2L, Mankind, Mirmur
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katamii/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katamii/)*

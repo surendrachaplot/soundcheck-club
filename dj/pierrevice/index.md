@@ -1,6 +1,6 @@
 # Pierre Vice
 
-Pierre Vice is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
+Pierre Vice is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
 
 Pierre Vice is a house and tech house artist based in Germany, with 28 gigs on soundcheck across Berlin and Budapest. Often billed alongside lievar, DJ Zurückbleiben Bitte and DJ ZBB. Next up: Atno, Budapest on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Pierre Vice is a house and tech house artist based in Germany, with 28 gigs on s
 
 lievar, DJ Zurückbleiben Bitte, DJ ZBB
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrevice/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrevice/)*

@@ -1,6 +1,6 @@
 # Timur Azim
 
-Timur Azim is a Breakbeat and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 27 Nov 2026.
+Timur Azim is a Breakbeat and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 27 Nov 2026.
 
 Timur Azim is a breakbeat and techno artist based in Uzbekistan, with 3 gigs on soundcheck across Beijing, Shanghai and Uzbekistan. Often billed alongside 2XUM, Chyngyz and KIKA (MD). Next up: Pillbox Beijing, Beijing on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Timur Azim is a breakbeat and techno artist based in Uzbekistan, with 3 gigs on 
 
 2XUM, Chyngyz, KIKA (MD)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurazim/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurazim/)*

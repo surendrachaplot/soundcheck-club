@@ -1,6 +1,6 @@
 # Hubert.
 
-Hubert. is a Hip-Hop artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at B17, Poland on Thu, 26 Nov 2026.
+Hubert. is a Hip-Hop artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at B17, Poland on Thu, 26 Nov 2026.
 
 Hubert. is a hip-hop artist based in Poland, with 9 gigs on soundcheck across Gdansk, Krakow, Lodz and Poland and 1 more. Next up: B17, Poland on Thu 26 Nov.
 
@@ -21,4 +21,4 @@ Hubert. is a hip-hop artist based in Poland, with 9 gigs on soundcheck across Gd
 - Klub Studio, Krakow · Wed, 18 Nov 2026
 - B90, Gdansk · Sun, 15 Nov 2026
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubert./)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubert./)*

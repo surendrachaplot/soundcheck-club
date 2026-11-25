@@ -1,6 +1,6 @@
 # Stakhan
 
-Stakhan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Super7, Lyon on Sun, 29 Nov 2026.
+Stakhan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Super7, Lyon on Sun, 29 Nov 2026.
 
 Stakhan is a techno and trance artist based in France, with 30 gigs on soundcheck across Berlin, Bordeaux, Düsseldorf and Lyon and 4 more. Often billed alongside Binary Digit, Hyas and Julie Desire. Next up: Super7, Lyon on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Stakhan is a techno and trance artist based in France, with 30 gigs on soundchec
 
 Binary Digit, Hyas, Julie Desire
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stakhan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stakhan/)*

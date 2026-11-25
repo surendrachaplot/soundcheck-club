@@ -1,6 +1,6 @@
 # vitcat (3)
 
-vitcat (3) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Smolna, Warsaw on Fri, 27 Nov 2026.
+vitcat (3) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Smolna, Warsaw on Fri, 27 Nov 2026.
 
 vitcat is a techno and house artist based in Poland, with 32 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Claude Degas, Robsessive and RĀMZĪ. Next up: Smolna, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ vitcat is a techno and house artist based in Poland, with 32 gigs on soundcheck 
 
 Claude Degas, Robsessive, RĀMZĪ
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitcat-3/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitcat-3/)*

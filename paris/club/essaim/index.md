@@ -1,8 +1,8 @@
 # essaim
 
-essaim is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "tribalism - Orphx Live, Tommy Four Seven, TSIEG" on Fri, 27 Nov 2026.
+essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "tribalism - Orphx Live, Tommy Four Seven, TSIEG" on Fri, 27 Nov 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including abs8lute, amin/a, Anetha and BASHKKA and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including abs8lute, Altinbas, amin/a and Anetha and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with li
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

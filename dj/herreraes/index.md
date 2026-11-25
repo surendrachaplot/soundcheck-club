@@ -1,14 +1,15 @@
 # Herrera (ES)
 
-Herrera (ES) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 26 Nov 2026.
+Herrera (ES) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 26 Nov 2026.
 
-Herrera (ES) is a tech house and house artist based in Spain, with 15 gigs on soundcheck across Chicago and Madrid. Often billed alongside Linda Lenor, MartinoResi and Seb Zito. Next up: EL SÓTANO, Madrid on Thu 26 Nov.
+Herrera (ES) is a tech house and house artist based in Spain, with 16 gigs on soundcheck across Chicago and Madrid. Often billed alongside Linda Lenor, MartinoResi and Seb Zito. Next up: EL SÓTANO, Madrid on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | EL SÓTANO | Madrid |
+| Fri, 27 Nov 2026 | X Private Club | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Herrera (ES) is a tech house and house artist based in Spain, with 15 gigs on so
 
 Linda Lenor, MartinoResi, Seb Zito
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herreraes/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herreraes/)*

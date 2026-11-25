@@ -1,13 +1,14 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Document, Bristol on Fri, 4 Dec 2026.
+Luke Una is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
 
-Luke Una is a house and disco artist based in United Kingdom, with 151 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 37 more. Often billed alongside Erol Alkan, Joey T and Simon Morell. Next up: Document, Bristol on Fri 4 Dec.
+Luke Una is a house and disco artist based in United Kingdom, with 152 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 37 more. Often billed alongside Erol Alkan, Joey T and Simon Morell. Next up: Mint Warehouse, Leeds on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Mint Warehouse | Leeds |
 | Fri, 4 Dec 2026 | Document | Bristol |
 | Mon, 28 Dec 2026 | Dahlia Stereo | Manchester |
 | Thu, 31 Dec 2026 | The Golden Lion | Manchester |
@@ -31,4 +32,4 @@ Luke Una is a house and disco artist based in United Kingdom, with 151 gigs on s
 
 Erol Alkan, Joey T, Simon Morell
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

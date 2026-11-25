@@ -1,13 +1,14 @@
 # CCKY
 
-CCKY is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sensorium, Berlin on Wed, 6 Jan 2027.
+CCKY is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
 
-CCKY is a tech house and techno artist based in United Kingdom, with 3 gigs on soundcheck across Berlin and London. Often billed alongside BIMPE, ARKNGL and DVN!. Next up: Sensorium, Berlin on Wed 6 Jan.
+CCKY is a techno and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Berlin and London. Often billed alongside BIMPE, 9LALEY and ARKNGL. Next up: ://about blank, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | ://about blank | Berlin |
 | Wed, 6 Jan 2027 | Sensorium | Berlin |
 
 ## Recently played
@@ -17,6 +18,6 @@ CCKY is a tech house and techno artist based in United Kingdom, with 3 gigs on s
 
 ## Shares bills with
 
-BIMPE, ARKNGL, DVN!
+BIMPE, 9LALEY, ARKNGL
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccky/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccky/)*

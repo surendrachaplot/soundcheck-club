@@ -1,6 +1,6 @@
 # Fred P
 
-Fred P is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at public records, New York City on Thu, 31 Dec 2026.
+Fred P is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at public records, New York City on Thu, 31 Dec 2026.
 
 Fred P is a house and techno artist based in United States of America, with 100 gigs on soundcheck across Adelaide, Amsterdam, Bali and Barcelona and 35 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: public records, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Fred P is a house and techno artist based in United States of America, with 100 
 
 DJ Nobu, DJ Dustin, Lakuti
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

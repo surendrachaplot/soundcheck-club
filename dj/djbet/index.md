@@ -1,6 +1,6 @@
 # DJ Bet
 
-DJ Bet is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Old Miami, Detroit on Wed, 25 Nov 2026.
+DJ Bet is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Old Miami, Detroit on Wed, 25 Nov 2026.
 
 DJ Bet is a hip-hop and techno artist, with 23 gigs on soundcheck across Detroit. Often billed alongside DJ Skeez, Castor and DJ Roach. Next up: Old Miami, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ DJ Bet is a hip-hop and techno artist, with 23 gigs on soundcheck across Detroit
 
 DJ Skeez, Castor, DJ Roach
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbet/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbet/)*

@@ -1,6 +1,6 @@
 # Arkan
 
-Arkan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat, 19 Dec 2026.
+Arkan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat, 19 Dec 2026.
 
 Arkan is a techno and house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Maris Shilton, Mathys Lenne and slin. Next up: TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Arkan is a techno and house artist based in Germany, with 45 gigs on soundcheck 
 
 Maris Shilton, Mathys Lenne, slin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkan/)*

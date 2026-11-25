@@ -1,13 +1,14 @@
 # QRTR
 
-QRTR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Good Room, New York City on Sat, 5 Dec 2026.
+QRTR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Dolphin, Philadelphia on Fri, 27 Nov 2026.
 
-QRTR is a techno and house artist based in United States of America, with 48 gigs on soundcheck across Austin, Chicago, Jacksonville and Los Angeles and 9 more. Often billed alongside JEWELSSEA, Zillas on Acid and DJ Papaya. Next up: Good Room, New York City on Sat 5 Dec.
+QRTR is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Austin, Chicago, Jacksonville and Los Angeles and 9 more. Often billed alongside JEWELSSEA, Zillas on Acid and DJ Papaya. Next up: The Dolphin, Philadelphia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | The Dolphin | Philadelphia |
 | Sat, 5 Dec 2026 | Good Room | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ QRTR is a techno and house artist based in United States of America, with 48 gig
 
 JEWELSSEA, Zillas on Acid, DJ Papaya
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qrtr/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qrtr/)*

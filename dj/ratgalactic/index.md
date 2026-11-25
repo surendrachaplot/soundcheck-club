@@ -1,6 +1,6 @@
 # Rat Galactic
 
-Rat Galactic is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Rat Galactic is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Rat Galactic is an acid and house artist based in United States of America, with 51 gigs on soundcheck across Tampa Bay. Often billed alongside Brian Busto, Christian Parchuke and Kay-S. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Rat Galactic is an acid and house artist based in United States of America, with
 
 Brian Busto, Christian Parchuke, Kay-S
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratgalactic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratgalactic/)*

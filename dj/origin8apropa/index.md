@@ -1,6 +1,6 @@
 # Origin8a & Propa
 
-Origin8a & Propa is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
+Origin8a & Propa is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
 
 Origin8a & Propa are a jungle and hardcore duo based in United Kingdom, with 9 gigs on soundcheck across Brighton, Bristol, Gothenburg and Newcastle and 1 more. Often billed alongside Hypershe, Cheff The Boy and DJ Hybrid. Next up: TBA, Sydney on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Origin8a & Propa are a jungle and hardcore duo based in United Kingdom, with 9 g
 
 Hypershe, Cheff The Boy, DJ Hybrid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*

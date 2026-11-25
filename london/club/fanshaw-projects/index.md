@@ -1,6 +1,6 @@
 # Fanshaw Projects
 
-Fanshaw Projects is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Session//Noisses" on Sun, 6 Dec 2026.
+Fanshaw Projects is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Session//Noisses" on Sun, 6 Dec 2026.
 
 Fanshaw Projects is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Neffa-T. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Fanshaw Projects is a music venue in London listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Session//Noisses | Neffa-T |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fanshaw-projects/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fanshaw-projects/)*

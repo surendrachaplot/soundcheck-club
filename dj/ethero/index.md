@@ -1,13 +1,14 @@
 # ( ether o )
 
-( ether o ) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Zemin Art Gallery, Berlin on Thu, 10 Dec 2026.
+( ether o ) is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rollberg26, Berlin on Sun, 29 Nov 2026.
 
-( ether o ) is a techno and experimental artist based in Taiwan, with 8 gigs on soundcheck across Berlin. Often billed alongside Andrea Burelli, Andrea D'Arsié and Andriy K.. Next up: Zemin Art Gallery, Berlin on Thu 10 Dec.
+( ether o ) is an ambient and techno artist based in Taiwan, with 9 gigs on soundcheck across Berlin. Often billed alongside Slow Moon, Andrea Burelli and Andrea D'Arsié. Next up: Rollberg26, Berlin on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | Rollberg26 | Berlin |
 | Thu, 10 Dec 2026 | Zemin Art Gallery | Berlin |
 
 ## Recently played
@@ -22,6 +23,6 @@
 
 ## Shares bills with
 
-Andrea Burelli, Andrea D'Arsié, Andriy K.
+Slow Moon, Andrea Burelli, Andrea D'Arsié
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethero/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethero/)*

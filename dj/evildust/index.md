@@ -1,6 +1,6 @@
 # Evil Dust
 
-Evil Dust is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Colours Hoxton, London on Sat, 19 Dec 2026.
+Evil Dust is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Colours Hoxton, London on Sat, 19 Dec 2026.
 
 Evil Dust is an ebm and techno artist based in United Kingdom, with 19 gigs on soundcheck across Athens, Brussels, London and Paris and 1 more. Often billed alongside Arrosa, Lais Pattak and Leviminks. Next up: Colours Hoxton, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Evil Dust is an ebm and techno artist based in United Kingdom, with 19 gigs on s
 
 Arrosa, Lais Pattak, Leviminks
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evildust/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evildust/)*

@@ -1,6 +1,6 @@
-# Alta Fidelidad x DJ Service x Chez Perros pres. Lola Haro & Kyle Toole - 21-03h - 2 stages at Seaseaclub Barcelona
+# Alta Fidelidad x DJ Service x Chez Perros pres. Lola Haro & Kyle Toole - 20-03h - 2 stages at Seaseaclub Barcelona
 
-Alta Fidelidad x DJ Service x Chez Perros pres. Lola Haro & Kyle Toole - 21-03h - 2 stages at Seaseaclub Barcelona on Sat 5 Dec, Barcelona. 5 artists: DJ Service, Kyle Toole, Lola Haro and Perro Jimbo and 1 more. Techno and House. See the line-up on soundcheck.
+Alta Fidelidad x DJ Service x Chez Perros pres. Lola Haro & Kyle Toole - 20-03h - 2 stages at Seaseaclub Barcelona on Sat 5 Dec, Barcelona. 6 artists: Brian Topham, DJ Service, Kyle Toole and Lola Haro and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Alta Fidelidad x DJ Service x Chez Perros pres. Lola Haro & Kyle Toole - 21-03h 
 
 ## Line-up
 
+- Brian Topham
 - DJ Service
 - Kyle Toole
 - Lola Haro

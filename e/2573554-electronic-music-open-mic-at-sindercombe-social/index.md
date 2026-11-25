@@ -1,6 +1,6 @@
 # Electronic Music Open Mic at Sindercombe Social
 
-Electronic Music Open Mic at Sindercombe Social on Tue 1 Dec, London. 2 artists: Dj Peter Guma and Sergio Cabrera. Electronica. See the line-up on soundcheck.
+Electronic Music Open Mic at Sindercombe Social on Tue 1 Dec, London. 1 artist: Dj Peter Guma. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ Electronic Music Open Mic at Sindercombe Social on Tue 1 Dec, London. 2 artists:
 ## Line-up
 
 - Dj Peter Guma
-- Sergio Cabrera
 
 *Source: [soundcheck](https://soundcheck.club/e/2573554-electronic-music-open-mic-at-sindercombe-social/)*

@@ -1,6 +1,6 @@
 # Kanem
 
-Kanem is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Grow, London on Sat, 28 Nov 2026.
+Kanem is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Grow, London on Sat, 28 Nov 2026.
 
 Kanem is a house and deep house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Kojay, P-Lucas and Midnight Runner. Next up: Grow, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kanem is a house and deep house artist based in United Kingdom, with 18 gigs on 
 
 Kojay, P-Lucas, Midnight Runner
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*

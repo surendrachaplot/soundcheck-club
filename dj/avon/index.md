@@ -1,6 +1,6 @@
 # avoN
 
-avoN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Culture Box, Copenhagen on Fri, 27 Nov 2026.
+avoN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Culture Box, Copenhagen on Fri, 27 Nov 2026.
 
 avoN is a techno and trance artist based in Denmark, with 36 gigs on soundcheck across Copenhagen. Often billed alongside Ziggy Stardubb, vazkez and Kardinal Bertram. Next up: Culture Box, Copenhagen on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ avoN is a techno and trance artist based in Denmark, with 36 gigs on soundcheck 
 
 Ziggy Stardubb, vazkez, Kardinal Bertram
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avon/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avon/)*

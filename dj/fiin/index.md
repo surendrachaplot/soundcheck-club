@@ -1,0 +1,28 @@
+# Fiin
+
+Fiin is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Aire Miami, Miami on Sat, 5 Dec 2026.
+
+Fiin is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Miami. Often billed alongside Max Stern, Nii Tei and ALEJO (US). Next up: Aire Miami, Miami on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Aire Miami | Miami |
+
+## Recently played
+
+- Aire Miami, Miami · Fri, 23 Oct 2026
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
+- Lion's Den, Miami · Sun, 13 Sept 2026
+- Lion's Den, Miami · Sat, 7 Feb 2026
+- Sable Miami, Miami · Fri, 10 Oct 2025
+- MODE Downtown Miami, Miami · Fri, 7 Mar 2025
+- Jolene Downtown Miami, Miami · Fri, 27 Dec 2024
+- Mana Wynwood, Miami · Fri, 18 Oct 2024
+
+## Shares bills with
+
+Max Stern, Nii Tei, ALEJO (US)
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiin/)*

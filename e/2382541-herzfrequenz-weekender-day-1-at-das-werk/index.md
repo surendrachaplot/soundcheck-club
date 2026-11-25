@@ -1,6 +1,6 @@
 # HERZFREQUENZ WEEKENDER: DAY 1 at Das Werk
 
-HERZFREQUENZ WEEKENDER: DAY 1 at Das Werk on Fri 18 Dec, Vienna. 10 artists: carlo kalu, Crystal O, Grafus and HNAS and 6 more. Trance and Techno. See the line-up on soundcheck.
+HERZFREQUENZ WEEKENDER: DAY 1 at Das Werk on Fri 18 Dec, Vienna. 11 artists: Ben Parker 030, carlo kalu, Crystal O and Grafus and 7 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HERZFREQUENZ WEEKENDER: DAY 1 at Das Werk on Fri 18 Dec, Vienna. 10 artists: car
 
 ## Line-up
 
+- Ben Parker 030
 - carlo kalu
 - Crystal O
 - Grafus

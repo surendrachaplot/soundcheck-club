@@ -1,6 +1,6 @@
 # Richard Gregory
 
-Richard Gregory is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 4 Dec 2026.
+Richard Gregory is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 4 Dec 2026.
 
 Richard Gregory is a techno and trance artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: Cobalt Studios, Newcastle on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Richard Gregory is a techno and trance artist based in United Kingdom, with 50 g
 
 Carl H, Lora Mipsum, Inner Zone
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*

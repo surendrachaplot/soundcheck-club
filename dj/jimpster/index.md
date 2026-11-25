@@ -1,6 +1,6 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Beaumont Studios, Vancouver on Sat, 20 Mar 2027.
+Jimpster is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Beaumont Studios, Vancouver on Sat, 20 Mar 2027.
 
 Jimpster is a house and deep house artist based in United Kingdom, with 96 gigs on soundcheck across Alicante, Amsterdam, Atlanta and Barcelona and 40 more. Often billed alongside Conrad Lee, Hudson’s Choice and Neil Pierce. Next up: The Beaumont Studios, Vancouver on Sat 20 Mar.
 
@@ -26,4 +26,4 @@ Jimpster is a house and deep house artist based in United Kingdom, with 96 gigs 
 
 Conrad Lee, Hudson’s Choice, Neil Pierce
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

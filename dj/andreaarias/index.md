@@ -1,6 +1,6 @@
 # Andrea Arias
 
-Andrea Arias is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
+Andrea Arias is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
 
 Andrea Arias is a techno and electro artist based in Colombia, with 30 gigs on soundcheck across Barcelona, Bogotá, Colombia and Madrid and 3 more. Often billed alongside Cybernea, Alex Jockey and Delectro. Next up: Razzmatazz, Barcelona on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Andrea Arias is a techno and electro artist based in Colombia, with 30 gigs on s
 
 Cybernea, Alex Jockey, Delectro (2)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaarias/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaarias/)*

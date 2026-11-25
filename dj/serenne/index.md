@@ -1,14 +1,15 @@
 # Serenne
 
-Serenne is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Casual, Hong Kong on Sat, 28 Nov 2026.
+Serenne is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Casual, Hong Kong on Sat, 28 Nov 2026.
 
-Serenne is a house and minimal artist based in Switzerland, with 58 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 28 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Casual, Hong Kong on Sat 28 Nov.
+Serenne is a house and minimal artist based in Switzerland, with 59 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 28 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Casual, Hong Kong on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Casual | Hong Kong |
+| Sun, 13 Dec 2026 | Masada | Milan |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 | Fri, 22 Jan 2027 | TBA | Cape Town |
@@ -28,6 +29,6 @@ Serenne is a house and minimal artist based in Switzerland, with 58 gigs on soun
 
 ## Shares bills with
 
-Konstantin, Leafar Legov, Edward
+Konstantin, Edward, Leafar Legov
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*

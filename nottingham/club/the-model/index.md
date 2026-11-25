@@ -1,8 +1,8 @@
 # The Model
 
-The Model is a music venue in Nottingham with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Lobster Lounge brings the FUNK" on Fri, 27 Nov 2026.
+The Model is a music venue in Nottingham with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Lobster Lounge brings the FUNK" on Fri, 27 Nov 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 5 upcoming gigs, with line-ups including Anna Wall, CONFLICT BUREAU, dj come and James Tristan and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 6 upcoming gigs, with line-ups including Anna Wall, CONFLICT BUREAU, dj come and Dylan Whicher and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
@@ -12,10 +12,11 @@ The Model is a music venue in Nottingham listed on soundcheck. 5 upcoming gigs, 
 | Sat, 28 Nov 2026 | Electroground - Anna Wall, James Tristan, dj come & Keeks | Anna Wall, James Tristan, Keeks, dj come |
 | Fri, 4 Dec 2026 | Duty Free #6 |  |
 | Fri, 11 Dec 2026 | Pleasure Promise Records presents: CONFLICT BUREAU | CONFLICT BUREAU, No Caller ID, Wes Baggaley |
+| Fri, 18 Dec 2026 | Boundary Keys: Palestine Fundraiser | Dylan Whicher, Markos (2), Tom O |
 | Sat, 19 Dec 2026 | Soul Buggin' Xmas Party with BigSexy |  |
 
 ## Address
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

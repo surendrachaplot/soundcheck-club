@@ -1,6 +1,6 @@
 # Libere
 
-Libere is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 20 Feb 2027.
+Libere is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 20 Feb 2027.
 
 Libere is a progressive house and deep house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Lbert, Nova Caza and Pedro Mercado. Next up: Veronica Schip, Amsterdam on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Libere is a progressive house and deep house artist based in Netherlands, with 1
 
 Lbert, Nova Caza, Pedro Mercado
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/libere-nl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/libere-nl/)*

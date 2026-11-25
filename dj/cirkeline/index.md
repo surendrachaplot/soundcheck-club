@@ -1,6 +1,6 @@
 # Cirkeline
 
-Cirkeline is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Poolen, Copenhagen on Thu, 26 Nov 2026.
+Cirkeline is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Poolen, Copenhagen on Thu, 26 Nov 2026.
 
 Cirkeline is a house and techno artist based in Denmark, with 62 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside Téa, Gavnlig and Harrison Heat. Next up: Poolen, Copenhagen on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Cirkeline is a house and techno artist based in Denmark, with 62 gigs on soundch
 
 Téa, Gavnlig, Harrison Heat
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkeline/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkeline/)*

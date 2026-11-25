@@ -1,6 +1,6 @@
 # Lonald J. Bandz
 
-Lonald J. Bandz is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
+Lonald J. Bandz is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Lonald J. Bandz is a club and techno artist based in United States of America, with 63 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: Public Works, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lonald J. Bandz is a club and techno artist based in United States of America, w
 
 Discnogirl, RITCHRD, Tom Marsi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonaldj.bandz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonaldj.bandz/)*

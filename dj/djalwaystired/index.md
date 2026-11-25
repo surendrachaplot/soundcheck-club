@@ -1,6 +1,6 @@
 # dj always tired
 
-dj always tired is a Downtempo and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ikii, Berlin on Fri, 27 Nov 2026.
+dj always tired is a Downtempo and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ikii, Berlin on Fri, 27 Nov 2026.
 
 dj always tired is a downtempo and hip-hop artist based in Greece, with 9 gigs on soundcheck across Athens and Berlin. Often billed alongside AVEM, Alexis Roy and Anja Schneider. Next up: Ikii, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ dj always tired is a downtempo and hip-hop artist based in Greece, with 9 gigs o
 
 AVEM, Alexis Roy, Anja Schneider
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwaystired/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwaystired/)*

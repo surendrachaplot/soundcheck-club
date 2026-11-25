@@ -1,0 +1,28 @@
+# Alessa (ES)
+
+Alessa (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at City Hall, Barcelona on Thu, 3 Dec 2026.
+
+Alessa (ES) is a house and techno artist, with 23 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Adriana Ruas, Alexxx and Alfonsvs. Next up: City Hall, Barcelona on Thu 3 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 3 Dec 2026 | City Hall | Barcelona |
+
+## Recently played
+
+- City Hall, Barcelona · Tue, 13 Oct 2026
+- Switch Bar, Barcelona · Wed, 2 Sept 2026
+- Sunseabar Beach Club, Barcelona · Sun, 26 Apr 2026
+- City Hall, Barcelona · Wed, 8 Apr 2026
+- 303 Audiophile Bar, Barcelona · Thu, 2 Apr 2026
+- Gruv, Barcelona · Sat, 21 Mar 2026
+- City Hall, Barcelona · Wed, 11 Mar 2026
+- TBA - Club Electrònic at Secret Location , Barcelona · Sat, 13 Dec 2025
+
+## Shares bills with
+
+Adriana Ruas, Alexxx, Alfonsvs
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessa-es/)*

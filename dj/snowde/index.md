@@ -1,6 +1,6 @@
 # Snow (DE)
 
-Snow (DE) is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paloma, Berlin on Sat, 16 Jan 2027.
+Snow (DE) is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paloma, Berlin on Sat, 16 Jan 2027.
 
 Snow (DE) is a disco and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Hamburg, Istanbul and Lisbon and 2 more. Often billed alongside Soundstream, 35DH-1 and Phonk D. Next up: Paloma, Berlin on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Snow (DE) is a disco and house artist based in Germany, with 45 gigs on soundche
 
 Soundstream, 35DH-1, Phonk D
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snowde/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snowde/)*

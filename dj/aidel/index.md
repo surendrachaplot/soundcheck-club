@@ -1,16 +1,17 @@
 # AIDEL
 
-AIDEL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
+AIDEL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
 
-AIDEL is a techno and house artist based in United States of America, with 44 gigs on soundcheck across Detroit. Often billed alongside Amino, Wax Assassin and Earlll. Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
+AIDEL is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Detroit. Often billed alongside Amino, Wax Assassin and Earlll. Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | The Eagle of Detroit | Detroit |
-| Fri, 27 Nov 2026 | SOS 7 Mile | Detroit |
+| Fri, 27 Nov 2026 | SOS | Detroit |
 | Sat, 28 Nov 2026 | Northern Lights Lounge | Detroit |
+| Wed, 2 Dec 2026 | Spkrbox | Detroit |
 | Sat, 26 Dec 2026 | Moondog Cafe | Detroit |
 
 ## Recently played
@@ -28,4 +29,4 @@ AIDEL is a techno and house artist based in United States of America, with 44 gi
 
 Amino, Wax Assassin, Earlll
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*

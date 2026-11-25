@@ -1,6 +1,6 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
+DJ Nobu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
 
 DJ Nobu is a techno and house artist based in Japan, with 258 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 73 more. Often billed alongside Wata Igarashi, DVS1 and Gabrielle Kwarteng. Next up: MIDNIGHT EAST, Tokyo on Sat 28 Nov.
 
@@ -32,4 +32,4 @@ DJ Nobu is a techno and house artist based in Japan, with 258 gigs on soundcheck
 
 Wata Igarashi, DVS1, Gabrielle Kwarteng
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

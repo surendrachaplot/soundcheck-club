@@ -1,13 +1,14 @@
 # ALYA L
 
-ALYA L is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+ALYA L is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Full Moon Pub & Attic Bar, Bristol on Fri, 27 Nov 2026.
 
-ALYA L is a bass and club artist, with 28 gigs on soundcheck across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Jurango, fig and k means. Next up: The Island, Bristol on Thu 31 Dec.
+ALYA L is a bass and club artist, with 29 gigs on soundcheck across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Jurango, fig and k means. Next up: The Full Moon Pub & Attic Bar, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | The Full Moon Pub & Attic Bar | Bristol |
 | Thu, 31 Dec 2026 | The Island | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ ALYA L is a bass and club artist, with 28 gigs on soundcheck across Berlin, Bris
 
 Jurango, fig (4), k means
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyal/)*

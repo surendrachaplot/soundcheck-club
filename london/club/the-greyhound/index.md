@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Janus Rasmussen" on Thu, 26 Nov 2026.
+The Greyhound is a music venue in London with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Janus Rasmussen" on Thu, 26 Nov 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Anna Kost, Awedinary, Beton Brut and Buckley (UK) and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Anna Kost, Awedinary, Beton Brut and Buckley (UK) and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 14 upcoming gigs,
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

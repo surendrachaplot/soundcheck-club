@@ -1,13 +1,14 @@
 # autogyro
 
-autogyro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
+autogyro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SOS, Detroit on Thu, 26 Nov 2026.
 
-autogyro is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Detroit, New York City and Washington DC. Often billed alongside Wax Assassin, we1sman and IPOK. Next up: Menjo's, Detroit on Sat 28 Nov.
+autogyro is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Detroit, New York City and Washington DC. Often billed alongside Wax Assassin, we1sman and IPOK. Next up: SOS, Detroit on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | SOS | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ autogyro is a techno and house artist based in United States of America, with 22
 
 Wax Assassin, we1sman, IPOK
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*

@@ -1,8 +1,8 @@
 # 4materasu
 
-4materasu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gala Hala, Ljubljana on Sat, 5 Dec 2026.
+4materasu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gala Hala, Ljubljana on Sat, 5 Dec 2026.
 
-4materasu is a techno and trance artist, with 11 gigs on soundcheck across Krakow, Ljubljana, Riga and Stuttgart. Often billed alongside NOTHUSA, Tsukuyomi and maniken05. Next up: Gala Hala, Ljubljana on Sat 5 Dec.
+4materasu is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Krakow, Ljubljana, Riga and Stuttgart. Often billed alongside NOTHUSA, Tsukuyomi and maniken05. Next up: Gala Hala, Ljubljana on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@
 
 NOTHUSA, Tsukuyomi (2), maniken05
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4materasu/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4materasu/)*

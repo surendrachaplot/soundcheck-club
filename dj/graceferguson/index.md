@@ -1,6 +1,6 @@
 # Grace Ferguson
 
-Grace Ferguson is a Classical and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Miscellania, Melbourne on Thu, 26 Nov 2026.
+Grace Ferguson is a Classical and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Miscellania, Melbourne on Thu, 26 Nov 2026.
 
 Grace Ferguson is a classical and experimental artist based in Australia, with 5 gigs on soundcheck across Melbourne. Often billed alongside Antal, Coco Maria and Penelope Trappes. Next up: Miscellania, Melbourne on Thu 26 Nov.
 
@@ -21,4 +21,4 @@ Grace Ferguson is a classical and experimental artist based in Australia, with 5
 
 Antal, Coco Maria, Penelope Trappes
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/graceferguson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/graceferguson/)*

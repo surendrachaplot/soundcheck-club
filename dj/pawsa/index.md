@@ -1,15 +1,17 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+PAWSA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-PAWSA is a house and tech house artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Dennis Cruz, Seth Troxler and Silvie Loto. Next up: Factory Town, Miami on Wed 2 Dec.
+PAWSA is a house and tech house artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Dennis Cruz, Seth Troxler and Silvie Loto. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 5 Dec 2026 | Factory Town | Miami |
 | Tue, 29 Dec 2026 | Du Port El Gouna | Egypt |
+| Sat, 23 Jan 2027 | Sidney Myer Music Bowl | Melbourne |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ PAWSA is a house and tech house artist based in United Kingdom, with 157 gigs on
 
 Dennis Cruz, Seth Troxler, Silvie Loto
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

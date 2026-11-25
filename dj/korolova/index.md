@@ -1,8 +1,8 @@
 # Korolova
 
-Korolova is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Foro Costanera Norte (FCN), Buenos Aires on Sun, 6 Dec 2026.
+Korolova is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Foro Costanera Norte (FCN), Buenos Aires on Sun, 6 Dec 2026.
 
-Korolova is a techno and house artist based in Portugal, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Artbat, Adam Beyer and Kasia (OFC). Next up: Foro Costanera Norte (FCN), Buenos Aires on Sun 6 Dec.
+Korolova is a techno and house artist based in Portugal, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Artbat, Adam Beyer and Kasia (OFC). Next up: Foro Costanera Norte (FCN), Buenos Aires on Sun 6 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Korolova is a techno and house artist based in Portugal, with 147 gigs on soundc
 | Sun, 6 Dec 2026 | Foro Costanera Norte (FCN) | Buenos Aires |
 | Fri, 11 Dec 2026 | Eventpyramide Vösendorf | Austria |
 | Sat, 12 Dec 2026 | Bootshaus | Cologne |
+| Sat, 30 Jan 2027 | Club M2 Miami | Miami |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Korolova is a techno and house artist based in Portugal, with 147 gigs on soundc
 
 Artbat, Adam Beyer, Kasia (OFC)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

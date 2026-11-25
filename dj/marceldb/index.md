@@ -1,14 +1,15 @@
 # MARCEL db
 
-MARCEL db is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at KitKatClub, Berlin on Sun, 29 Nov 2026.
+MARCEL db is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Sun, 29 Nov 2026.
 
-MARCEL db is a techno and electro artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Berlin, Freiburg and Munich. Often billed alongside Chris Veron, DJ Jordan and Daniel Boon. Next up: KitKatClub, Berlin on Sun 29 Nov.
+MARCEL db is a techno and electro artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Freiburg and Munich. Often billed alongside DJ Jordan, Chris Veron and Daniel Boon. Next up: KitKatClub, Berlin on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | KitKatClub | Berlin |
+| Wed, 2 Dec 2026 | KitKatClub | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MARCEL db is a techno and electro artist based in Germany, with 33 gigs on sound
 
 ## Shares bills with
 
-Chris Veron, DJ Jordan, Daniel Boon
+DJ Jordan, Chris Veron, Daniel Boon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*

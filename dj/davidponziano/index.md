@@ -1,6 +1,6 @@
 # David Ponziano
 
-David Ponziano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 17 Nov 2026. Next at Specka, Madrid on Sat, 19 Dec 2026.
+David Ponziano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Specka, Madrid on Sat, 19 Dec 2026.
 
 David Ponziano is a techno and house artist based in Spain, with 101 gigs on soundcheck across Madrid. Often billed alongside Alvaro Cabana, Simon Garcia and TEEMON&POOMBA. Next up: Specka, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ David Ponziano is a techno and house artist based in Spain, with 101 gigs on sou
 
 Alvaro Cabana, Simon Garcia, TEEMON&POOMBA
 
-*Updated Tue, 17 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidponziano/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidponziano/)*

@@ -1,6 +1,6 @@
 # Erik Luebs
 
-Erik Luebs is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Sat, 5 Dec 2026.
+Erik Luebs is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FOLD, London on Sat, 5 Dec 2026.
 
 Erik Luebs is a techno and house artist based in Japan, with 56 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 22 more. Often billed alongside Psyk, Oberman and DJ Morita. Next up: FOLD, London on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Erik Luebs is a techno and house artist based in Japan, with 56 gigs on soundche
 
 Psyk, Oberman, DJ Morita
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*

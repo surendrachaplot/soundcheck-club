@@ -1,6 +1,6 @@
 # D.Bird
 
-D.Bird is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Sat, 28 Nov 2026.
+D.Bird is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Sat, 28 Nov 2026.
 
 D.Bird is a house and breakbeat artist based in Spain, with 40 gigs on soundcheck across Barcelona and Cape Town. Often billed alongside Rindeau, Adria (ES) and Alice Youngling. Next up: Dr. Dou Social Club, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ D.Bird is a house and breakbeat artist based in Spain, with 40 gigs on soundchec
 
 Rindeau, Adria (ES), Alice Youngling
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbird/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbird/)*

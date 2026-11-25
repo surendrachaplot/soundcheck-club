@@ -1,6 +1,6 @@
 # Prohibition Brisbane
 
-Prohibition Brisbane is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Friendly Fire" on Sat, 19 Dec 2026.
+Prohibition Brisbane is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Friendly Fire" on Sat, 19 Dec 2026.
 
 Prohibition Brisbane is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Spook. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Prohibition Brisbane is a music venue in Brisbane listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Friendly Fire | Spook |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/prohibition-brisbane/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/prohibition-brisbane/)*

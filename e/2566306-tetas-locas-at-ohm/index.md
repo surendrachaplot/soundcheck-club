@@ -1,6 +1,6 @@
 # TETAS LOCAS at OHM
 
-TETAS LOCAS at OHM on Sun 29 Nov, Berlin. 6 artists: Isa GT, JASSS, Kontronatura and LIL RISK and 2 more. Club. See the line-up on soundcheck.
+TETAS LOCAS at OHM on Sun 29 Nov, Berlin. 7 artists: Hyperaktivist, Isa GT, JASSS and Kontronatura and 3 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TETAS LOCAS at OHM on Sun 29 Nov, Berlin. 6 artists: Isa GT, JASSS, Kontronatura
 
 ## Line-up
 
+- Hyperaktivist
 - Isa GT
 - JASSS
 - Kontronatura

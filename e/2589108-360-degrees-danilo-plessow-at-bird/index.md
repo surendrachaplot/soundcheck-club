@@ -1,6 +1,6 @@
 # 360 Degrees: Danilo Plessow at BIRD
 
-360 Degrees: Danilo Plessow at BIRD on Fri 18 Dec, Rotterdam. 1 artist: Danilo Plessow. House and Disco. See the line-up on soundcheck.
+360 Degrees: Danilo Plessow at BIRD on Fri 18 Dec, Rotterdam. 2 artists: Ays (NL) and Danilo Plessow. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Ays (NL)
 - Danilo Plessow
 
 *Source: [soundcheck](https://soundcheck.club/e/2589108-360-degrees-danilo-plessow-at-bird/)*

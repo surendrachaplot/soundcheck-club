@@ -1,13 +1,14 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Rick Wade is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Read The Room, Atlanta on Thu, 26 Nov 2026.
 
-Rick Wade is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
+Rick Wade is a house and deep house artist based in United States of America, with 65 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: Read The Room, Atlanta on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Read The Room | Atlanta |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 | Sun, 20 Dec 2026 | Ticcle | Hobart |
 
@@ -26,4 +27,4 @@ Rick Wade is a house and deep house artist based in United States of America, wi
 
 Chuck Daniels, Norm Talley, Curmudgeon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*

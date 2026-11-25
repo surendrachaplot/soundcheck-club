@@ -1,14 +1,15 @@
 # Aline Brooklyn
 
-Aline Brooklyn is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Green Room NYC, New-york-city on Fri, 4 Dec 2026.
+Aline Brooklyn is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Green Room NYC, New-york-city on Fri, 4 Dec 2026.
 
-Aline Brooklyn is a house and electro artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bordeaux and 9 more. Often billed alongside Aman Umber, Krol and Maxime dB. Next up: Green Room NYC, New York City on Fri 4 Dec.
+Aline Brooklyn is a house and electro artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bordeaux and 10 more. Often billed alongside Aman Umber, Krol and Maxime dB. Next up: Green Room NYC, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Green Room NYC | New-york-city |
+| Sat, 23 Jan 2027 | Sidney Myer Music Bowl | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Aline Brooklyn is a house and electro artist based in United States of America, 
 
 Aman Umber, Krol, Maxime dB
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*

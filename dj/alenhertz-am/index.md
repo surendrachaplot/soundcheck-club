@@ -1,13 +1,14 @@
 # Alen Hertz
 
-Alen Hertz is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Pablo Yerevan, Cologne on Fri, 25 Dec 2026.
+Alen Hertz is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - PRIZE by Radisson, Cologne on Wed, 23 Dec 2026.
 
-Alen Hertz is an afro house and house artist based in Armenia, with 3 gigs on soundcheck across Armenia, Barcelona and Cologne. Often billed alongside Navider and vartankourshounian. Next up: TBA - Pablo Yerevan, Cologne on Fri 25 Dec.
+Alen Hertz is an afro house and techno artist based in Armenia, with 4 gigs on soundcheck across Armenia, Barcelona and Cologne. Often billed alongside vartankourshounian and Navider. Next up: TBA - PRIZE by Radisson, Cologne on Wed 23 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Dec 2026 | TBA - PRIZE by Radisson | Cologne |
 | Fri, 25 Dec 2026 | TBA - Pablo Yerevan | Cologne |
 
 ## Recently played
@@ -17,6 +18,6 @@ Alen Hertz is an afro house and house artist based in Armenia, with 3 gigs on so
 
 ## Shares bills with
 
-Navider, vartankourshounian
+vartankourshounian, Navider
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alenhertz-am/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alenhertz-am/)*

@@ -1,6 +1,6 @@
 # Valeria Croft
 
-Valeria Croft is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Atno, Budapest on Wed, 30 Dec 2026.
+Valeria Croft is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Atno, Budapest on Wed, 30 Dec 2026.
 
 Valeria Croft is a house and minimal artist, with 5 gigs on soundcheck across Budapest and Helsinki. Often billed alongside MihuT, Ambos and Sagwa. Next up: Atno, Budapest on Wed 30 Dec.
 
@@ -21,4 +21,4 @@ Valeria Croft is a house and minimal artist, with 5 gigs on soundcheck across Bu
 
 MihuT, Ambos (1), Sagwa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriacroft/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriacroft/)*

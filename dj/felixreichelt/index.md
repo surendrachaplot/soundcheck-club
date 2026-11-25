@@ -1,8 +1,8 @@
 # Felix Reichelt
 
-Felix Reichelt is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Insomnia, Berlin on Sat, 28 Nov 2026.
+Felix Reichelt is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Insomnia, Berlin on Sat, 28 Nov 2026.
 
-Felix Reichelt is a techno and tech house artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brandenburg and 3 more. Often billed alongside Cat Vermillion, Ronny Luft and Kaminka Merel. Next up: Insomnia, Berlin on Sat 28 Nov.
+Felix Reichelt is a techno and tech house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brandenburg and 3 more. Often billed alongside Cat Vermillion, Ronny Luft and Kaminka Merel. Next up: Insomnia, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Felix Reichelt is a techno and tech house artist based in Germany, with 98 gigs 
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Insomnia | Berlin |
 | Fri, 4 Dec 2026 | Der Weiße Hase | Berlin |
+| Wed, 9 Dec 2026 | KitKatClub | Berlin |
 | Sat, 26 Jun 2027 | Bernsteinsee Velten | Brandenburg |
 
 ## Recently played
@@ -27,4 +28,4 @@ Felix Reichelt is a techno and tech house artist based in Germany, with 98 gigs 
 
 Cat Vermillion, Ronny Luft, Kaminka Merel
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixreichelt/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixreichelt/)*

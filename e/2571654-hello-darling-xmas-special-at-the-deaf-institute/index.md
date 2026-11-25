@@ -1,6 +1,6 @@
 # Hello Darling - Xmas Special at The Deaf Institute
 
-Hello Darling - Xmas Special at The Deaf Institute on Fri 18 Dec, Manchester. 2 artists: atalaya and DJ Scissher. House and Disco. See the line-up on soundcheck.
+Hello Darling - Xmas Special at The Deaf Institute on Fri 18 Dec, Manchester. 3 artists: atalaya, DJ Klitbait and DJ Scissher. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Hello Darling - Xmas Special at The Deaf Institute on Fri 18 Dec, Manchester. 2 
 ## Line-up
 
 - atalaya
+- DJ Klitbait
 - DJ Scissher
 
 *Source: [soundcheck](https://soundcheck.club/e/2571654-hello-darling-xmas-special-at-the-deaf-institute/)*

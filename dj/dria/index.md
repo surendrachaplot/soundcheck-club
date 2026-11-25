@@ -1,6 +1,6 @@
 # DRIA
 
-DRIA is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
+DRIA is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
 
 DRIA is a tech house and deep house artist based in United Kingdom, with 32 gigs on soundcheck across London. Often billed alongside Beezo, Shenin Amara and Lance Morgan. Next up: 93 Feet East, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DRIA is a tech house and deep house artist based in United Kingdom, with 32 gigs
 
 Beezo, Shenin Amara, Lance Morgan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*

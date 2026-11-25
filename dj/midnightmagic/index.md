@@ -1,13 +1,14 @@
 # Midnight Magic
 
-Midnight Magic is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Midnight Magic is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Franca, Los Angeles on Fri, 27 Nov 2026.
 
-Midnight Magic is a disco and house artist based in United States of America, with 29 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 3 more. Often billed alongside Andi, COLOURS 87 and Facets. Next up: The Pickle, Miami on Thu 3 Dec.
+Midnight Magic is a disco and italo disco artist based in United States of America, with 30 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 3 more. Often billed alongside Andi, COLOURS 87 and Facets. Next up: Bar Franca, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Bar Franca | Los Angeles |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ Midnight Magic is a disco and house artist based in United States of America, wi
 
 Andi, COLOURS 87, Facets
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*

@@ -1,6 +1,6 @@
 # O/H/M
 
-O/H/M is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lieberscholli, Munich on Thu, 31 Dec 2026.
+O/H/M is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lieberscholli, Munich on Thu, 31 Dec 2026.
 
 O/H/M is a house and techno artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Munich. Often billed alongside Gizmo, Jan Minnerup and Rad.Lez. Next up: Lieberscholli, Munich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ O/H/M is a house and techno artist based in Germany, with 12 gigs on soundcheck 
 
 Gizmo, Jan Minnerup, Rad.Lez
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohm-de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohm-de/)*

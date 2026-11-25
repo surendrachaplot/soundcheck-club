@@ -1,6 +1,6 @@
 # doob
 
-doob is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beate Uwe, Berlin on Thu, 31 Dec 2026.
+doob is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Beate Uwe, Berlin on Thu, 31 Dec 2026.
 
 doob is a downtempo and techno artist based in Germany, with 39 gigs on soundcheck across Bangkok, Berlin, Copenhagen and Hamburg and 2 more. Often billed alongside Janoma, Sascha Cawa and Borella. Next up: Beate Uwe, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ doob is a downtempo and techno artist based in Germany, with 39 gigs on soundche
 
 Janoma, Sascha Cawa, Borella
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doob-de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doob-de/)*

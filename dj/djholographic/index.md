@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Loso, Richmond on Wed, 25 Nov 2026.
+DJ Holographic is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Loso, Richmond on Wed, 25 Nov 2026.
 
 DJ Holographic is a house and techno artist based in United States of America, with 249 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Loso, Richmond on Wed 25 Nov.
 
@@ -32,4 +32,4 @@ DJ Holographic is a house and techno artist based in United States of America, w
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

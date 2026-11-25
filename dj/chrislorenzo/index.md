@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ductwork Houston, Houston on Fri, 4 Dec 2026.
+Chris Lorenzo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ductwork Houston, Houston on Fri, 4 Dec 2026.
 
 Chris Lorenzo is a house and tech house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Austin, Boston and Calgary and 21 more. Often billed alongside Kaskade, FISHER and Green Velvet. Next up: Ductwork Houston, Houston on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Chris Lorenzo is a house and tech house artist based in United Kingdom, with 61 
 
 Kaskade, FISHER, Green Velvet
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

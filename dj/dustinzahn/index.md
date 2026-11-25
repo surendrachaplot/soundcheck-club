@@ -1,6 +1,6 @@
 # Dustin Zahn
 
-Dustin Zahn is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Under Bron, Stockholm on Fri, 4 Dec 2026.
+Dustin Zahn is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Under Bron, Stockholm on Fri, 4 Dec 2026.
 
 Dustin Zahn is a techno and house artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 21 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: Under Bron, Stockholm on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Dustin Zahn is a techno and house artist based in United States of America, with
 
 Centrific, Chami, Henry Chow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*

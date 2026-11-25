@@ -1,13 +1,14 @@
 # Till Antonio
 
-Till Antonio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lieberscholli, Munich on Sat, 19 Dec 2026.
+Till Antonio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Luzztro, Warsaw on Sat, 12 Dec 2026.
 
-Till Antonio is a techno and house artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside Michael Ritter, Intaktogene and Felix E. Next up: Lieberscholli, Munich on Sat 19 Dec.
+Till Antonio is a techno and house artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 20 more. Often billed alongside Michael Ritter, Intaktogene and Felix E. Next up: Luzztro, Warsaw on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Luzztro | Warsaw |
 | Sat, 19 Dec 2026 | Lieberscholli | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Till Antonio is a techno and house artist based in Germany, with 90 gigs on soun
 
 Michael Ritter, Intaktogene, Felix E
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*

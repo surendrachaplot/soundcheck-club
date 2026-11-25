@@ -1,6 +1,6 @@
 # Bloom
 
-Bloom is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Amnesia, Bangkok on Thu, 26 Nov 2026.
+Bloom is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Amnesia, Bangkok on Thu, 26 Nov 2026.
 
 Bloom is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Belfast and 6 more. Often billed alongside Giantsiam, Manymaur and A Hundred Drums. Next up: Amnesia, Bangkok on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Bloom is a house and techno artist based in United Kingdom, with 16 gigs on soun
 
 Giantsiam, Manymaur, A Hundred Drums
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*

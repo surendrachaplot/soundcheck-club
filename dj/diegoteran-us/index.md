@@ -1,13 +1,14 @@
 # Diego Teran
 
-Diego Teran is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Goya Social Club, Madrid on Fri, 18 Dec 2026.
+Diego Teran is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 11 Dec 2026.
 
-Diego Teran is a house and tech house artist based in United States of America, with 25 gigs on soundcheck across Barcelona, Houston, Madrid and Miami and 2 more. Often billed alongside demenz, Lou Flores and Maria Sifontes. Next up: Goya Social Club, Madrid on Fri 18 Dec.
+Diego Teran is a tech house and house artist based in United States of America, with 26 gigs on soundcheck across Barcelona, Houston, Madrid and Miami and 2 more. Often billed alongside demenz, Lou Flores and Maria Sifontes. Next up: NIX Barcelona, Barcelona on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | NIX Barcelona | Barcelona |
 | Fri, 18 Dec 2026 | Goya Social Club | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Diego Teran is a house and tech house artist based in United States of America, 
 
 demenz, Lou Flores, Maria Sifontes
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoteran-us/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoteran-us/)*

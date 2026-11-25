@@ -1,8 +1,8 @@
 # Ali Guney
 
-Ali Guney is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Karmakoma, Belgrade on Sat, 5 Dec 2026.
+Ali Guney is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Karmakoma, Belgrade on Sat, 5 Dec 2026.
 
-Ali Guney is a house and techno artist based in Turkey, with 35 gigs on soundcheck across Belgrade. Often billed alongside Nikola Vemic, Stellarcompanion and schwabe. Next up: Karmakoma, Belgrade on Sat 5 Dec.
+Ali Guney is a techno and house artist based in Turkey, with 36 gigs on soundcheck across Belgrade. Often billed alongside Nikola Vemic, Stellarcompanion and schwabe. Next up: Karmakoma, Belgrade on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ali Guney is a house and techno artist based in Turkey, with 35 gigs on soundche
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Karmakoma | Belgrade |
 | Fri, 25 Dec 2026 | Karmakoma | Belgrade |
+| Fri, 1 Jan 2027 | Para Klub Beograd | Belgrade |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ali Guney is a house and techno artist based in Turkey, with 35 gigs on soundche
 
 Nikola Vemic, Stellarcompanion, schwabe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliguney/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliguney/)*

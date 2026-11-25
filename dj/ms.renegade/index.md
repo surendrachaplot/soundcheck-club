@@ -1,6 +1,6 @@
 # Ms. Renegade
 
-Ms. Renegade is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Ms. Renegade is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Ms. Renegade is a breakbeat and garage artist based in Sweden, with 16 gigs on soundcheck across Gothenburg, London and Stockholm. Often billed alongside FANNY (SE), Marble and Namasenda. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ms. Renegade is a breakbeat and garage artist based in Sweden, with 16 gigs on s
 
 FANNY (SE), Marble, Namasenda
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*

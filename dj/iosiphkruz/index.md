@@ -1,8 +1,8 @@
 # Iosiph Kruz
 
-Iosiph Kruz is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nether Club, Bucharest on Sat, 28 Nov 2026.
+Iosiph Kruz is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Nether Club, Bucharest on Sat, 28 Nov 2026.
 
-Iosiph Kruz is an industrial and techno artist based in Romania, with 2 gigs on soundcheck across Bucharest. Often billed alongside Neotroxian, Project Morpheus and Felix the Cat. Next up: Nether Club, Bucharest on Sat 28 Nov.
+Iosiph Kruz is an industrial and techno artist based in Romania, with 2 gigs on soundcheck across Bucharest. Often billed alongside Neotroxian, Project Morpheus and Dalek. Next up: Nether Club, Bucharest on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Iosiph Kruz is an industrial and techno artist based in Romania, with 2 gigs on 
 
 ## Shares bills with
 
-Neotroxian, Project Morpheus, Felix the Cat
+Neotroxian, Project Morpheus, Dalek
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iosiphkruz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iosiphkruz/)*

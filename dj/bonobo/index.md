@@ -1,15 +1,15 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at First Avenue, Minneapolis-st-paul on Tue, 24 Nov 2026.
+Bonobo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Radius, Chicago on Wed, 25 Nov 2026.
 
-Bonobo is a house and techno artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside DJ Tennis, Honey Dijon and Sofia Kourtesis. Next up: First Avenue, Minneapolis St Paul on Tue 24 Nov.
+Bonobo is a house and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside DJ Tennis, Honey Dijon and Sofia Kourtesis. Next up: Radius, Chicago on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 24 Nov 2026 | First Avenue | Minneapolis-st-paul |
 | Wed, 25 Nov 2026 | Radius | Chicago |
+| Fri, 27 Nov 2026 | MTELUS | Montreal |
 | Fri, 4 Dec 2026 | Union Transfer | Philadelphia |
 | Sat, 5 Dec 2026 | Knockdown Center | New York City |
 | Thu, 11 Mar 2027 | Uber Eats Music Hall | Berlin |
@@ -17,6 +17,7 @@ Bonobo is a house and techno artist based in United States of America, with 101 
 
 ## Recently played
 
+- First Avenue, Minneapolis-st-paul · Tue, 24 Nov 2026
 - Jacaranda Baltic, Liverpool · Tue, 15 Sept 2026
 - Sonnenraum, Berlin · Sat, 15 Aug 2026
 - 528 Ibiza, Ibiza · Tue, 4 Aug 2026
@@ -24,10 +25,9 @@ Bonobo is a house and techno artist based in United States of America, with 101 
 - Vas Shanghai, Shanghai · Mon, 4 May 2026
 - GWK Culture Park, Bali · Fri, 17 Apr 2026
 - Brooklyn Storehouse, New York City · Fri, 2 Jan 2026
-- Q Nightclub, Seattle · Sat, 8 Nov 2025
 
 ## Shares bills with
 
 DJ Tennis, Honey Dijon, Sofia Kourtesis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

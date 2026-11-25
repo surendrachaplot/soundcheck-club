@@ -1,6 +1,6 @@
 # Frieda's Büxe
 
-Frieda's Büxe is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Kiki: One Last Dance" on Fri, 27 Nov 2026.
+Frieda's Büxe is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kiki: One Last Dance" on Fri, 27 Nov 2026.
 
 Frieda's Büxe is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Senc, Kr!z, kso12 and KYLIE and 2 more. See dates, start times and who's playing. Friedaustrasse 23; 8003, Zürich; Switzerland.
 
@@ -17,4 +17,4 @@ Frieda's Büxe is a music venue in Zurich listed on soundcheck. 4 upcoming gigs,
 
 Friedaustrasse 23; 8003, Zürich; Switzerland, Zurich
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*

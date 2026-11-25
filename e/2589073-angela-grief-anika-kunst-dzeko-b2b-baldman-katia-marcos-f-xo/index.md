@@ -1,6 +1,6 @@
 # Angela Grief  Anika Kunst  Dzeko b2b Baldman  KATIA  Marcos F  Xorpel- ÉNFASIS at TBA
 
-Angela Grief  Anika Kunst  Dzeko b2b Baldman  KATIA  Marcos F  Xorpel- ÉNFASIS at TBA on Fri 18 Dec, Madrid. 6 artists: Anika Kunst, Baldman, Dzeko and KATIA and 2 more. Techno and House. See the line-up on soundcheck.
+Angela Grief  Anika Kunst  Dzeko b2b Baldman  KATIA  Marcos F  Xorpel- ÉNFASIS at TBA on Fri 18 Dec, Madrid. 6 artists: Anika Kunst, Baldman, Dzeko and KATIA (ES) and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Angela Grief  Anika Kunst  Dzeko b2b Baldman  KATIA  Marcos F  Xorpel- ÉNFASIS 
 - Anika Kunst
 - Baldman
 - Dzeko
-- KATIA
+- KATIA (ES)
 - tekka (2)
 - Xorpel
 

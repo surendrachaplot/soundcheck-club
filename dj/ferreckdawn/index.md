@@ -1,6 +1,6 @@
 # Ferreck Dawn
 
-Ferreck Dawn is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at O2 Academy Sheffield, Sheffield on Sat, 6 Feb 2027.
+Ferreck Dawn is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at O2 Academy Sheffield, Sheffield on Sat, 6 Feb 2027.
 
 Ferreck Dawn is a house and tech house artist based in Netherlands, with 99 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 29 more. Often billed alongside Sam Divine, Claptone and Todd Terry. Next up: O2 Academy Sheffield, Sheffield on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Ferreck Dawn is a house and tech house artist based in Netherlands, with 99 gigs
 
 Sam Divine, Claptone, Todd Terry
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*

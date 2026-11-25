@@ -1,6 +1,6 @@
 # David Armada
 
-David Armada is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Macarena Club, Barcelona on Wed, 16 Dec 2026.
+David Armada is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Macarena Club, Barcelona on Wed, 16 Dec 2026.
 
 David Armada is a deep house and electro artist, with 94 gigs on soundcheck across Barcelona, Cologne, Geneva and Lisbon and 2 more. Often billed alongside La Forêt, DJ Reas and STVO. Next up: Macarena Club, Barcelona on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ David Armada is a deep house and electro artist, with 94 gigs on soundcheck acro
 
 La Forêt, DJ Reas, STVO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*

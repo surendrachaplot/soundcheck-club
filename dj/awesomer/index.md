@@ -1,6 +1,6 @@
 # Awesomer
 
-Awesomer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Awesomer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Awesomer is a house and techno artist, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ Cira, Mac Vaughn and discoesq. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -24,4 +24,4 @@ Awesomer is a house and techno artist, with 8 gigs on soundcheck across San Fran
 
 DJ Cira, Mac Vaughn, discoesq
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awesomer/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awesomer/)*

@@ -1,6 +1,6 @@
 # buildupbreakdown
 
-buildupbreakdown is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pumpehuset, Copenhagen on Thu, 17 Dec 2026.
+buildupbreakdown is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pumpehuset, Copenhagen on Thu, 17 Dec 2026.
 
 buildupbreakdown is an electronic artist based in Denmark, with 7 gigs on soundcheck across Aarhus and Copenhagen. Often billed alongside Eurohead, Europa and Franarchy. Next up: Pumpehuset, Copenhagen on Thu 17 Dec.
 
@@ -23,4 +23,4 @@ buildupbreakdown is an electronic artist based in Denmark, with 7 gigs on soundc
 
 Eurohead, Europa (1), Franarchy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buildupbreakdown/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buildupbreakdown/)*

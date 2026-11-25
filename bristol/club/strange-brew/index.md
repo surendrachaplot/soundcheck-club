@@ -1,13 +1,15 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "PTS ϟ Foodman & Proc Fiskal" on Fri, 4 Dec 2026.
+Strange Brew is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Brown Excellence" on Fri, 27 Nov 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Beatrice M., Brad Bradley, Burly Chassis and Chez de Milo and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including Beatrice M., Brad Bradley, Brown Excellence and Burly Chassis and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Brown Excellence | Brown Excellence |
+| Sat, 28 Nov 2026 | Collisions w/ Craig Richards & Dave Harvey | Craig Richards, Dave Harvey |
 | Fri, 4 Dec 2026 | PTS ϟ Foodman & Proc Fiskal | Foodman, Proc Fiskal, k means |
 | Fri, 11 Dec 2026 | Club Blanco with Francesco Del Garda & Chez de Milo | Chez de Milo, Francesco Del Garda |
 | Sat, 12 Dec 2026 | Shed, Beatrice M. Pinch & Proverb | Beatrice M., Pinch, Proverb, Shed |
@@ -19,4 +21,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, 
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

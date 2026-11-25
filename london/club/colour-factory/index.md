@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 19 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Labyrinth presents: camoufly Extended Set" on Fri, 27 Nov 2026.
+Colour Factory is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Labyrinth presents: camoufly Extended Set" on Fri, 27 Nov 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including 3MR., AMBRR, Andrea Giudice and ASHTATTZ and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -9,7 +9,7 @@ Colour Factory is a music venue in London listed on soundcheck. 19 upcoming gigs
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Labyrinth presents: camoufly Extended Set | camoufly |
-| Fri, 27 Nov 2026 | Labyrinth presents: camoufly Extended Set  | camoufly |
+| Fri, 27 Nov 2026 | Labyrinth presents: camoufly Extended Set  | Olive Anguz, Olly Rodwell, camoufly |
 | Fri, 27 Nov 2026 | habibis y azizams: hackney yallawick with Milli (MEHMOONI LDN) & rára | Milli, rára |
 | Sat, 28 Nov 2026 | Changing Currents, Wilfy D, AMBRR   | AMBRR, Changing Currents, Wilfy D |
 | Fri, 4 Dec 2026 | GAG (Arabic pop party) | 3MR., ASHTATTZ, Seksu, Tareq |
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 19 upcoming gigs
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

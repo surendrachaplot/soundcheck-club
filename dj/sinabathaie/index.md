@@ -1,14 +1,13 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Arts at the Armory, Massachusetts on Mon, 23 Nov 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fryshuset – Klubben, Stockholm on Fri, 27 Nov 2026.
 
-Sina Bathaie is a downtempo and deep house artist based in Canada, with 117 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Arts at the Armory, Massachusetts on Mon 23 Nov.
+Sina Bathaie is a downtempo and deep house artist based in Canada, with 117 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Fryshuset – Klubben, Stockholm on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | Arts at the Armory | Massachusetts |
 | Fri, 27 Nov 2026 | Fryshuset – Klubben | Stockholm |
 | Sun, 29 Nov 2026 | Backstage | Munich |
 | Mon, 30 Nov 2026 | Club Bahnhof Ehrenfeld | Cologne |
@@ -17,6 +16,7 @@ Sina Bathaie is a downtempo and deep house artist based in Canada, with 117 gigs
 
 ## Recently played
 
+- Arts at the Armory, Massachusetts · Mon, 23 Nov 2026
 - Quartyard, San Diego · Sat, 14 Nov 2026
 - The Vermont Hollywood, Los Angeles · Thu, 12 Nov 2026
 - Yost Theater, Orange-county · Wed, 11 Nov 2026
@@ -24,10 +24,9 @@ Sina Bathaie is a downtempo and deep house artist based in Canada, with 117 gigs
 - Phoenix Concert Theatre, Toronto · Sun, 8 Nov 2026
 - Club Soda, Montreal · Tue, 3 Nov 2026
 - IF Performance Hall Beşiktaş, Istanbul · Fri, 18 Sept 2026
-- Temple Athens, Athens · Tue, 15 Sept 2026
 
 ## Shares bills with
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

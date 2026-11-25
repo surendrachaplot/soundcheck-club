@@ -1,6 +1,6 @@
 # CARDIA at Four Snacks Club
 
-CARDIA at Four Snacks Club on Sat 5 Dec, Frankfurt. 2 artists: Karibik Joe and Ramon Imhof. Electro. See the line-up on soundcheck.
+CARDIA at Four Snacks Club on Sat 5 Dec, Frankfurt. 3 artists: ATRACO, Karibik Joe and Ramon Imhof. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CARDIA at Four Snacks Club on Sat 5 Dec, Frankfurt. 2 artists: Karibik Joe and R
 
 ## Line-up
 
+- ATRACO
 - Karibik Joe
 - Ramon Imhof
 

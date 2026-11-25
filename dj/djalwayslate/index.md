@@ -1,6 +1,6 @@
 # DJ Alwayslate
 
-DJ Alwayslate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Elastica, Vilnius on Fri, 4 Dec 2026.
+DJ Alwayslate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elastica, Vilnius on Fri, 4 Dec 2026.
 
 DJ Alwayslate is a house and techno artist based in Lithuania, with 20 gigs on soundcheck across Vilnius. Often billed alongside Valdagger, SOUL FOOD and BIG BOI. Next up: Elastica, Vilnius on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ Alwayslate is a house and techno artist based in Lithuania, with 20 gigs on s
 
 Valdagger, SOUL FOOD, BIG BOI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwayslate/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwayslate/)*

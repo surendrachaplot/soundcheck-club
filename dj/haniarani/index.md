@@ -1,6 +1,6 @@
 # Hania Rani
 
-Hania Rani is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Triennale di Milano, Milan on Fri, 11 Dec 2026.
+Hania Rani is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Triennale di Milano, Milan on Fri, 11 Dec 2026.
 
 Hania Rani is an experimental and electronica artist based in Poland, with 17 gigs on soundcheck across Adelaide, Austin, Berlin and Bristol and 9 more. Often billed alongside 2K88, Arooj Aftab and Hashtag Ensemble. Next up: Triennale di Milano, Milan on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Hania Rani is an experimental and electronica artist based in Poland, with 17 gi
 
 2K88, Arooj Aftab, Hashtag Ensemble
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haniarani/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haniarani/)*

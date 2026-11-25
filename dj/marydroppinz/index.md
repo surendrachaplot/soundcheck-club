@@ -1,6 +1,6 @@
 # Mary Droppinz
 
-Mary Droppinz is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
+Mary Droppinz is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
 Mary Droppinz is a house and bass artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 18 more. Often billed alongside Zeds Dead, Interplanetary Criminal and Layton Giordani. Next up: Petco Park, San Diego on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Mary Droppinz is a house and bass artist based in United States of America, with
 
 Zeds Dead, Interplanetary Criminal, Layton Giordani
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*

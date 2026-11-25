@@ -1,6 +1,6 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
+Josey Rebelle is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
 
 Josey Rebelle is a techno and house artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: FOLD, London on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Josey Rebelle is a techno and house artist based in United Kingdom, with 137 gig
 
 Josh Caffé, CCL, NIKS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

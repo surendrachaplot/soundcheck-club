@@ -1,6 +1,6 @@
 # BHAOUNCEOUT
 
-BHAOUNCEOUT is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
+BHAOUNCEOUT is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
 
 BHAOUNCEOUT is a dubstep and drum & bass artist based in United States of America, with 6 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Couya, SARITA LINDA and SRI. Next up: TBA - DTLA, Los Angeles on Sat 12 Dec.
 
@@ -9,7 +9,7 @@ BHAOUNCEOUT is a dubstep and drum & bass artist based in United States of Americ
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | TBA - DTLA | Los Angeles |
-| Wed, 16 Dec 2026 | TBA - Mid-City LA | Los Angeles |
+| Thu, 17 Dec 2026 | TBA - Mid-City LA | Los Angeles |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ BHAOUNCEOUT is a dubstep and drum & bass artist based in United States of Americ
 
 Couya, SARITA LINDA, SRI (1)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bhaounceout/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bhaounceout/)*

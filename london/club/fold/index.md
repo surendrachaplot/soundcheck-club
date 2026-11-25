@@ -1,8 +1,8 @@
 # FOLD
 
-FOLD is a music venue in London with 20 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Dresden Extended [SOLD OUT]" on Fri, 27 Nov 2026.
+FOLD is a music venue in London with 21 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Dresden Extended [SOLD OUT]" on Fri, 27 Nov 2026.
 
-FOLD is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Aaron Liberator, adobeprincess, Altinbas and Amelia Holt and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Aaron Liberator, adobeprincess, Altinbas and Amelia Holt and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 20 upcoming gigs, with lin
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

@@ -1,14 +1,14 @@
 # BOUNCEBACK
 
-BOUNCEBACK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at WDM, Hannover on Sat, 28 Nov 2026.
+BOUNCEBACK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Hannover on Sat, 28 Nov 2026.
 
-BOUNCEBACK is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Hannover. Often billed alongside VIVUS, 5euroGoldi and Melushka. Next up: WDM, Hannover on Sat 28 Nov.
+BOUNCEBACK is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Hannover. Often billed alongside VIVUS, 5euroGoldi and Melushka. Next up: TBA, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | WDM | Hannover |
+| Sat, 28 Nov 2026 | TBA | Hannover |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ BOUNCEBACK is a trance and techno artist based in Germany, with 9 gigs on soundc
 
 VIVUS, 5euroGoldi, Melushka
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bounceback/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bounceback/)*

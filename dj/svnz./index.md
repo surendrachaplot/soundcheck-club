@@ -1,6 +1,6 @@
 # SVNZ.
 
-SVNZ. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sala Siroco, Madrid on Mon, 7 Dec 2026.
+SVNZ. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sala Siroco, Madrid on Mon, 7 Dec 2026.
 
 SVNZ. is a techno and house artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside JHONSON., JEFF CUB. and MEANA. Next up: Sala Siroco, Madrid on Mon 7 Dec.
 
@@ -21,4 +21,4 @@ SVNZ. is a techno and house artist based in Spain, with 5 gigs on soundcheck acr
 
 JHONSON., JEFF CUB., MEANA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svnz./)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svnz./)*

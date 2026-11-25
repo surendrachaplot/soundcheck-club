@@ -1,8 +1,8 @@
 # Armen Miran
 
-Armen Miran is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Downtown LA, Los Angeles on Wed, 25 Nov 2026.
+Armen Miran is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Downtown LA, Los Angeles on Wed, 25 Nov 2026.
 
-Armen Miran is a deep house and progressive house artist based in United States of America, with 87 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: TBA - Downtown LA, Los Angeles on Wed 25 Nov.
+Armen Miran is a deep house and progressive house artist based in United States of America, with 88 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: TBA - Downtown LA, Los Angeles on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Armen Miran is a deep house and progressive house artist based in United States 
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | TBA - Downtown LA | Los Angeles |
 | Fri, 4 Dec 2026 | TBA | Yuc-tan |
+| Sat, 9 Jan 2027 | Flash | Washington DC |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Armen Miran is a deep house and progressive house artist based in United States 
 
 Nick Warren, Borella, Caleesi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*

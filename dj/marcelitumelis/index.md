@@ -1,13 +1,14 @@
 # marcelitumelis
 
-marcelitumelis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Crackhouse, Gdansk on Sat, 12 Dec 2026.
+marcelitumelis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at AfterDark, Warsaw on Sat, 28 Nov 2026.
 
-marcelitumelis is a techno and trance artist based in Poland, with 44 gigs on soundcheck across Bucharest, Gdansk, Hamburg and Krakow and 4 more. Often billed alongside xcessive, Józef Keuner and VRAXX. Next up: Crackhouse, Gdansk on Sat 12 Dec.
+marcelitumelis is a techno and trance artist based in Poland, with 45 gigs on soundcheck across Bucharest, Gdansk, Hamburg and Krakow and 4 more. Often billed alongside xcessive, Józef Keuner and VRAXX. Next up: AfterDark, Warsaw on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | AfterDark | Warsaw |
 | Sat, 12 Dec 2026 | Crackhouse | Gdansk |
 
 ## Recently played
@@ -25,4 +26,4 @@ marcelitumelis is a techno and trance artist based in Poland, with 44 gigs on so
 
 xcessive, Józef Keuner, VRAXX
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*

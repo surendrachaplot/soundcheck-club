@@ -1,6 +1,6 @@
 # Eugene presents Merry Christmas with Dj Lisa Silvio , Savion & Asa McCoy at The Rose
 
-Eugene presents Merry Christmas with Dj Lisa Silvio , Savion & Asa McCoy at The Rose on Tue 22 Dec, New York City. 1 artist: Gino Santos. Techno and Tech House. See the line-up on soundcheck.
+Eugene presents Merry Christmas with Dj Lisa Silvio , Savion & Asa McCoy at The Rose on Tue 22 Dec, New York City. 2 artists: Gino Santos and savion. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Eugene presents Merry Christmas with Dj Lisa Silvio , Savion & Asa McCoy at The 
 ## Line-up
 
 - Gino Santos
+- savion
 
 *Source: [soundcheck](https://soundcheck.club/e/2569983-eugene-presents-merry-christmas-with-dj-lisa-silvio-savion-a/)*

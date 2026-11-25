@@ -1,6 +1,6 @@
 # UNRI
 
-UNRI is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Generator Barcelona, Barcelona on Fri, 27 Nov 2026.
+UNRI is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Generator Barcelona, Barcelona on Fri, 27 Nov 2026.
 
 UNRI is a downtempo and tech house artist, with 5 gigs on soundcheck across Barcelona. Often billed alongside Nabil Saffouri DJ, depaula and Carla Valenti. Next up: Generator Barcelona, Barcelona on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ UNRI is a downtempo and tech house artist, with 5 gigs on soundcheck across Barc
 
 Nabil Saffouri DJ, depaula, Carla Valenti
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unri/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unri/)*

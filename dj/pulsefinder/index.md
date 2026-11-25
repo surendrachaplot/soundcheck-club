@@ -1,6 +1,6 @@
 # Pulse Finder
 
-Pulse Finder is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 3 Dec 2026.
+Pulse Finder is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 3 Dec 2026.
 
 Pulse Finder is a techno and garage artist based in United States of America, with 10 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Zero Idea, Curb Alert and AFFIRM. Next up: Public Works, San Francisco/Oakland on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Pulse Finder is a techno and garage artist based in United States of America, wi
 
 Zero Idea, Curb Alert, AFFIRM
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsefinder/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsefinder/)*

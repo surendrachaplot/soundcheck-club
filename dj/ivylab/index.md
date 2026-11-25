@@ -1,8 +1,8 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Thekla, Bristol on Fri, 27 Nov 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 12 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Thekla, Bristol on Fri, 27 Nov 2026.
 
-Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Adelaide, Antwerp, Arkansas and Atlanta and 45 more. Often billed alongside Kasra, Lake Hills and Rohaan. Next up: Thekla, Bristol on Fri 27 Nov.
+Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 112 gigs on soundcheck across Adelaide, Antwerp, Arkansas and Atlanta and 45 more. Often billed alongside Kasra, Lake Hills and Rohaan. Next up: Thekla, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 111 gigs 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Thekla | Bristol |
 | Sat, 28 Nov 2026 | Volks | Brighton |
+| Fri, 4 Dec 2026 | Soho House Hong Kong | Hong Kong |
 | Sat, 5 Dec 2026 | Final | Taipei |
 | Fri, 11 Dec 2026 | Circus Osaka | Osaka |
 | Sat, 12 Dec 2026 | Circus Tokyo | Tokyo |
@@ -35,4 +36,4 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 111 gigs 
 
 Kasra, Lake Hills, Rohaan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

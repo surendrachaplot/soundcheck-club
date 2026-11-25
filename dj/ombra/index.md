@@ -1,18 +1,19 @@
 # Ombra
 
-Ombra is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
+Ombra is a Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
 
-Ombra is an electronic artist based in Cyprus, with 2 gigs on soundcheck across Cyprus. Often billed alongside WAVERÛNNER, 5KILLZ and AEREA. Next up: Castle Club, Cyprus on Fri 4 Dec.
+Ombra is an experimental artist based in Cyprus, with 3 gigs on soundcheck across Berlin and Cyprus. Often billed alongside WAVERÛNNER, 5KILLZ and AEREA. Next up: Castle Club, Cyprus on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Castle Club | Cyprus |
+| Mon, 14 Dec 2026 | Madame Claude | Berlin |
 | Thu, 31 Dec 2026 | Ktima Camelot | Cyprus |
 
 ## Shares bills with
 
 WAVERÛNNER, 5KILLZ, AEREA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ombra/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ombra/)*

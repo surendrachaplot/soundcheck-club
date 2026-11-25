@@ -1,14 +1,15 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bijou Nightclub, Boston on Wed, 25 Nov 2026.
+flotussin is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bijou Nightclub, Boston on Wed, 25 Nov 2026.
 
-flotussin is a club and techno artist based in United States of America, with 105 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 10 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: Bijou Nightclub, Boston on Wed 25 Nov.
+flotussin is a club and techno artist based in United States of America, with 106 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 10 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: Bijou Nightclub, Boston on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Bijou Nightclub | Boston |
+| Sat, 12 Dec 2026 | The Compound | Baltimore |
 | Thu, 31 Dec 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ flotussin is a club and techno artist based in United States of America, with 10
 
 Tromac, DJ-SUN, Kotic Couture
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

@@ -1,6 +1,6 @@
 # Amoss
 
-Amoss is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
+Amoss is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
 
 Amoss is a drum & bass and jungle artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 6 more. Often billed alongside Sydney Bryce, Objectiv and SP:MC. Next up: The Cause, London on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Amoss is a drum & bass and jungle artist based in United Kingdom, with 24 gigs o
 
 Sydney Bryce, Objectiv, SP:MC
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amoss/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amoss/)*

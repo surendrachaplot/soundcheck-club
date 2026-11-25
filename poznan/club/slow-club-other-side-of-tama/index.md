@@ -1,13 +1,15 @@
 # Slow Club- Other Side of Tama
 
-Slow Club- Other Side of Tama is a music venue in Poznan with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Let's Groove Anja Schneider/ Joana/ Tba" on Sat, 24 Oct 2026.
+Slow Club- Other Side of Tama is a music venue in Poznan with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "• LEON & GLASSE ALL NIGHT LONG • 1st BIRTHDAY - DAY I" on Fri, 27 Nov 2026.
 
-Slow Club- Other Side of Tama is a music venue in Poznan listed on soundcheck. 1 upcoming gig, with line-ups including Anja Schneider and Joana. See dates, start times and who's playing.
+Slow Club- Other Side of Tama is a music venue in Poznan listed on soundcheck. 3 upcoming gigs, with line-ups including AeN, Catz 'N Dogz, Dirty Doering and Joana. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Let's Groove Anja Schneider/ Joana/ Tba | Anja Schneider, Joana |
+| Fri, 27 Nov 2026 | • LEON & GLASSE ALL NIGHT LONG • 1st BIRTHDAY - DAY I |  |
+| Sat, 28 Nov 2026 | • Dirty Doering • 1st BIRTHDAY - DAY II | Dirty Doering |
+| Fri, 4 Dec 2026 | • Catz 'N Dogz • FINALLY TOUR / Joana / AeN / FOLKNESS | AeN, Catz 'N Dogz, Joana |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/slow-club-other-side-of-tama/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/slow-club-other-side-of-tama/)*

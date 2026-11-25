@@ -1,6 +1,6 @@
 # Arminiusmarkthalle
 
-Arminiusmarkthalle is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Beats & Bites - Arminiusmarkthalle" on Thu, 26 Nov 2026.
+Arminiusmarkthalle is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Beats & Bites - Arminiusmarkthalle" on Thu, 26 Nov 2026.
 
 Arminiusmarkthalle is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Arminiusmarkthalle is a music venue in Berlin listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Beats & Bites - Arminiusmarkthalle |  |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arminiusmarkthalle/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arminiusmarkthalle/)*

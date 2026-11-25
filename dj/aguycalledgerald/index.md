@@ -1,6 +1,6 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+A Guy Called Gerald is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 A Guy Called Gerald is a house and techno artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ A Guy Called Gerald is a house and techno artist based in United Kingdom, with 1
 
 Will B, gyrofield, Ben UFO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

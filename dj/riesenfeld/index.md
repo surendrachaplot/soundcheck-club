@@ -1,6 +1,6 @@
 # Riesenfeld
 
-Riesenfeld is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
+Riesenfeld is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
 
 Riesenfeld is a techno and house artist based in Denmark, with 14 gigs on soundcheck across Copenhagen. Often billed alongside Elliott Taguchi, Ida Aya and Kardinal Bertram. Next up: Den Anden Side, Copenhagen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Riesenfeld is a techno and house artist based in Denmark, with 14 gigs on soundc
 
 Elliott Taguchi, Ida Aya, Kardinal Bertram
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riesenfeld/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riesenfeld/)*

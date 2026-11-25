@@ -1,13 +1,14 @@
 # S.O.N.S
 
-S.O.N.S is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
+S.O.N.S is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ring, Seoul on Fri, 27 Nov 2026.
 
-S.O.N.S is a techno and house artist based in France, with 96 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 27 more. Often billed alongside Yeonjun, Hakim. and Antwork. Next up: Graphic Hangang, Seoul on Sat 28 Nov.
+S.O.N.S is a techno and house artist based in France, with 97 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 27 more. Often billed alongside Yeonjun, Antwork and Hakim.. Next up: Ring, Seoul on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Ring | Seoul |
 | Sat, 28 Nov 2026 | Graphic Hangang | Seoul |
 
 ## Recently played
@@ -23,6 +24,6 @@ S.O.N.S is a techno and house artist based in France, with 96 gigs on soundcheck
 
 ## Shares bills with
 
-Yeonjun, Hakim., Antwork
+Yeonjun, Antwork, Hakim.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sons/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sons/)*

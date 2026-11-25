@@ -1,13 +1,14 @@
 # DJ Hotcue
 
-DJ Hotcue is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 25 Dec 2026.
+DJ Hotcue is a Trance and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 4 Dec 2026.
 
-DJ Hotcue is a trance and pop artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Patchy, TANZBAER and DJ Jetset. Next up: Humboldthain Club, Berlin on Fri 25 Dec.
+DJ Hotcue is a trance and pop artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside TANZBAER, DJ Jetset and Megaira. Next up: Humboldthain Club, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Humboldthain Club | Berlin |
 | Fri, 25 Dec 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
@@ -16,6 +17,6 @@ DJ Hotcue is a trance and pop artist based in Germany, with 2 gigs on soundcheck
 
 ## Shares bills with
 
-Patchy, TANZBAER, DJ Jetset
+TANZBAER, DJ Jetset, Megaira
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotcue/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotcue/)*

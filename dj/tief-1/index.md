@@ -1,14 +1,15 @@
 # Tief (1)
 
-Tief (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Specka, Madrid on Fri, 27 Nov 2026.
+Tief (1) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Specka, Madrid on Fri, 27 Nov 2026.
 
-Tief is a house and tech house artist based in Spain, with 40 gigs on soundcheck across Frankfurt and Madrid. Often billed alongside Roldan, Chris Figueroa and Hot Since 82. Next up: Specka, Madrid on Fri 27 Nov.
+Tief is a house and tech house artist based in Spain, with 41 gigs on soundcheck across Frankfurt and Madrid. Often billed alongside Roldan, Chris Figueroa and Hot Since 82. Next up: Specka, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Specka | Madrid |
+| Sat, 12 Dec 2026 | Specka | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tief is a house and tech house artist based in Spain, with 40 gigs on soundcheck
 
 Roldan, Chris Figueroa, Hot Since 82
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tief-1/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tief-1/)*

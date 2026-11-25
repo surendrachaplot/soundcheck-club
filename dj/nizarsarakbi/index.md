@@ -1,8 +1,8 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OneSixOne, Melbourne on Sun, 6 Dec 2026.
+Nizar Sarakbi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OneSixOne, Melbourne on Sun, 6 Dec 2026.
 
-Nizar Sarakbi is a house and techno artist based in Ukraine, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Katia Curie, KATIA and vince. Next up: OneSixOne, Melbourne on Sun 6 Dec.
+Nizar Sarakbi is a house and techno artist based in Ukraine, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Katia Curie, KATIA (ES) and vince. Next up: OneSixOne, Melbourne on Sun 6 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Nizar Sarakbi is a house and techno artist based in Ukraine, with 82 gigs on sou
 
 ## Shares bills with
 
-Katia Curie, KATIA, vince
+Katia Curie, KATIA (ES), vince
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

@@ -1,6 +1,6 @@
 # Decø
 
-Decø is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Host, Thessaloniki on Fri, 27 Nov 2026.
+Decø is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Host, Thessaloniki on Fri, 27 Nov 2026.
 
 Decø is a techno and club artist based in Greece, with 7 gigs on soundcheck across Thessaloniki. Often billed alongside Enjoint, Clowl and Altinbas. Next up: The Host, Thessaloniki on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Decø is a techno and club artist based in Greece, with 7 gigs on soundcheck acr
 
 Enjoint, Clowl, Altinbas
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deco-gr/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deco-gr/)*

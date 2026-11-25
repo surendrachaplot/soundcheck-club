@@ -1,6 +1,6 @@
 # Joris van Gelder
 
-Joris van Gelder is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Noorderlicht Café, Amsterdam on Sat, 19 Dec 2026.
+Joris van Gelder is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Noorderlicht Café, Amsterdam on Sat, 19 Dec 2026.
 
 Joris van Gelder is a house and garage artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Ive Lovers, Ken Spieker and 22 Interns. Next up: Noorderlicht Café, Amsterdam on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Joris van Gelder is a house and garage artist based in Netherlands, with 7 gigs 
 
 Ive Lovers, Ken Spieker, 22 Interns
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*

@@ -1,6 +1,6 @@
 # Electric Avenues at Barbossa
 
-Electric Avenues at Barbossa on Fri 27 Nov, Montreal. 2 artists: myfanwy and Venus in Foil. Bass and Club. See the line-up on soundcheck.
+Electric Avenues at Barbossa on Fri 27 Nov, Montreal. 3 artists: myfanwy, nicky_ and Venus in Foil. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Electric Avenues at Barbossa on Fri 27 Nov, Montreal. 2 artists: myfanwy and Ven
 ## Line-up
 
 - myfanwy
+- nicky_
 - Venus in Foil
 
 *Source: [soundcheck](https://soundcheck.club/e/2589888-electric-avenues-at-barbossa/)*

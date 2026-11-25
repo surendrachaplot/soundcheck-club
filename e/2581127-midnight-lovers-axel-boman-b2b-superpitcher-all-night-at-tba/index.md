@@ -1,11 +1,11 @@
-# Midnight Lovers: Axel Boman b2b Superpitcher - All Night at TBA - Downtown Los Angeles
+# Midnight Lovers: Axel Boman b2b Superpitcher - All Night at TBA - New Location, DTLA
 
-Midnight Lovers: Axel Boman b2b Superpitcher - All Night at TBA - Downtown Los Angeles on Sat 12 Dec, Los Angeles. 3 artists: Axel Boman, Pachanga Boys and Superpitcher. House and Electronica. See the line-up on soundcheck.
+Midnight Lovers: Axel Boman b2b Superpitcher - All Night at TBA - New Location, DTLA on Sat 12 Dec, Los Angeles. 3 artists: Axel Boman, Pachanga Boys and Superpitcher. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 12 Dec 2026 |
-| Venue | TBA - Downtown Los Angeles |
+| Venue | TBA - New Location, DTLA |
 | City | Los Angeles |
 
 ## Line-up

@@ -1,14 +1,14 @@
 # nat the f*kn rat
 
-nat the f*kn rat is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 27 Nov 2026.
+nat the f*kn rat is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Closer Private Warehouse, Los Angeles on Fri, 27 Nov 2026.
 
-nat the f*kn rat is a techno and trance artist based in United States of America, with 6 gigs on soundcheck across Los Angeles. Often billed alongside Desa Deca, SØMOS and Aleroj. Next up: TBA - DTLA, Los Angeles on Fri 27 Nov.
+nat the f*kn rat is a techno and trance artist based in United States of America, with 6 gigs on soundcheck across Los Angeles. Often billed alongside Desa Deca, SØMOS and Aleroj. Next up: Closer Private Warehouse, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA - DTLA | Los Angeles |
+| Fri, 27 Nov 2026 | Closer Private Warehouse | Los Angeles |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ nat the f*kn rat is a techno and trance artist based in United States of America
 
 Desa Deca, SØMOS, Aleroj
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natthefknrat/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natthefknrat/)*

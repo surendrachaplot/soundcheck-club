@@ -1,8 +1,8 @@
 # David Barbarossa
 
-David Barbarossa is a Disco and Balearic artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 28 Nov 2026.
+David Barbarossa is a Disco and Balearic artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 28 Nov 2026.
 
-David Barbarossa is a disco and balearic artist based in United Kingdom, with 207 gigs on soundcheck across Edinburgh, Glasgow and Sheffield. Often billed alongside OOFT, Fergus Clark and Percy Main. Next up: Sneaky Pete's, Edinburgh on Sat 28 Nov.
+David Barbarossa is a disco and balearic artist based in United Kingdom, with 212 gigs on soundcheck across Edinburgh, Glasgow and Sheffield. Often billed alongside OOFT, Fergus Clark and Percy Main. Next up: Sneaky Pete's, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,11 @@ David Barbarossa is a disco and balearic artist based in United Kingdom, with 20
 | Sat, 28 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Sun, 29 Nov 2026 | La Cheetah Club | Glasgow |
 | Fri, 4 Dec 2026 | The Rum Shack | Glasgow |
+| Sun, 6 Dec 2026 | La Cheetah Club | Glasgow |
+| Sun, 13 Dec 2026 | La Cheetah Club | Glasgow |
+| Sun, 20 Dec 2026 | La Cheetah Club | Glasgow |
+| Sun, 27 Dec 2026 | La Cheetah Club | Glasgow |
+| Sun, 3 Jan 2027 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
@@ -27,4 +32,4 @@ David Barbarossa is a disco and balearic artist based in United Kingdom, with 20
 
 OOFT, Fergus Clark, Percy Main
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbarbarossa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbarbarossa/)*

@@ -1,13 +1,13 @@
-# Mokka Milch
+# MOKKA*MILCH
 
-Mokka Milch is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "LOOPTOPIA BERLIN" on Fri, 13 Nov 2026.
+MOKKA*MILCH is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Dine & Dance – Vol. 3" on Sat, 28 Nov 2026.
 
-Mokka Milch is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+MOKKA*MILCH is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Mike La Funk. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | LOOPTOPIA BERLIN |  |
+| Sat, 28 Nov 2026 | Dine & Dance – Vol. 3 | Mike La Funk |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-milch/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-milch/)*

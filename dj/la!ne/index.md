@@ -1,6 +1,6 @@
 # LA!NE
 
-LA!NE is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 5 Dec 2026.
+LA!NE is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 5 Dec 2026.
 
 LA!NE is a house and garage artist based in United Kingdom, with 38 gigs on soundcheck across Leeds, Newcastle and Nottingham. Often billed alongside JP(UK), FroD and Socialness. Next up: The Lubber Fiend, Newcastle on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LA!NE is a house and garage artist based in United Kingdom, with 38 gigs on soun
 
 JP(UK), FroD, Socialness
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/la!ne/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/la!ne/)*

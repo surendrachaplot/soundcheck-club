@@ -1,6 +1,6 @@
 # FRÆNCIS
 
-FRÆNCIS is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
+FRÆNCIS is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
 
 FRÆNCIS is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Dresden, Hamburg and Lower Saxony and 1 more. Often billed alongside JENKA, DJ Dios and KYUB. Next up: Void Club, Berlin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ FRÆNCIS is a techno and trance artist based in Germany, with 24 gigs on soundch
 
 JENKA, DJ Dios, KYUB
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fræncis/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fræncis/)*

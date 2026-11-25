@@ -1,6 +1,6 @@
 # Rubinskee
 
-Rubinskee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Salas Roma, Mexico City on Sat, 5 Dec 2026.
+Rubinskee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Salas Roma, Mexico City on Sat, 5 Dec 2026.
 
 Rubinskee is a house and deep house artist based in Mexico, with 73 gigs on soundcheck across Guadalajara, Madrid, Mexico City and New York City. Often billed alongside Harfush, Miss Voltaghe and Duke Skylocker (Disco Dust). Next up: Salas Roma, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rubinskee is a house and deep house artist based in Mexico, with 73 gigs on soun
 
 Harfush, Miss Voltaghe, Duke Skylocker (Disco Dust)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubinskee/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubinskee/)*

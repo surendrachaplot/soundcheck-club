@@ -1,6 +1,6 @@
 # yerbby
 
-yerbby is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jasna 1, Warsaw on Sat, 5 Dec 2026.
+yerbby is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jasna 1, Warsaw on Sat, 5 Dec 2026.
 
 yerbby is a trance and techno artist based in Poland, with 16 gigs on soundcheck across Barcelona, Krakow, Leeds and Manchester and 4 more. Often billed alongside AYDJ, Kacha and NEVAEH. Next up: Jasna 1, Warsaw on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ yerbby is a trance and techno artist based in Poland, with 16 gigs on soundcheck
 
 AYDJ, Kacha, NEVAEH
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yerbby/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yerbby/)*

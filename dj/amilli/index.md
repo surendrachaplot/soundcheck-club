@@ -1,6 +1,6 @@
 # Amilli
 
-Amilli is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
+Amilli is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
 
 Amilli is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 1 more. Often billed alongside Shrff, Krackk and DJ Autobahn. Next up: Oma Doris, Dortmund / Essen on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Amilli is a techno and trance artist based in Germany, with 56 gigs on soundchec
 
 Shrff, Krackk, DJ Autobahn
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amilli/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amilli/)*

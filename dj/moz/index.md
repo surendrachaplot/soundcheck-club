@@ -1,6 +1,6 @@
 # MØZ
 
-MØZ is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Java, Paris on Fri, 11 Dec 2026.
+MØZ is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Java, Paris on Fri, 11 Dec 2026.
 
 MØZ is a techno and electronica artist based in Germany, with 5 gigs on soundcheck across Barcelona and Paris. Often billed alongside Claramonte, Kleyver Reyes and Leo Cotrozo. Next up: La Java, Paris on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ MØZ is a techno and electronica artist based in Germany, with 5 gigs on soundch
 
 Claramonte, Kleyver Reyes, Leo Cotrozo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moz/)*

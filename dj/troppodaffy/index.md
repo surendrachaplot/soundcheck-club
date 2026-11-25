@@ -1,6 +1,6 @@
 # Troppo Daffy
 
-Troppo Daffy is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Antro Brixton, London on Thu, 3 Dec 2026.
+Troppo Daffy is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Antro Brixton, London on Thu, 3 Dec 2026.
 
 Troppo Daffy is a techno and afro house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Omari King, leverson and Mango Park. Next up: Antro Brixton, London on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Troppo Daffy is a techno and afro house artist based in United Kingdom, with 14 
 
 Omari King, leverson, Mango Park
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troppodaffy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troppodaffy/)*

@@ -1,8 +1,8 @@
 # Sam Girling
 
-Sam Girling is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sneaky Pete's, Edinburgh on Mon, 30 Nov 2026.
+Sam Girling is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sneaky Pete's, Edinburgh on Mon, 30 Nov 2026.
 
-Sam Girling is a house and garage artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Angel D'lite. Next up: Sneaky Pete's, Edinburgh on Mon 30 Nov.
+Sam Girling is a house and garage artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 17 more. Often billed alongside LAMMER, Y U QT and Angel D'lite. Next up: Sneaky Pete's, Edinburgh on Mon 30 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sam Girling is a house and garage artist based in United Kingdom, with 51 gigs o
 | --- | --- | --- |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Thu, 10 Dec 2026 | Phonox | London |
+| Fri, 11 Dec 2026 | Clock Factory | Bristol |
 | Fri, 25 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
@@ -28,4 +29,4 @@ Sam Girling is a house and garage artist based in United Kingdom, with 51 gigs o
 
 LAMMER, Y U QT, Angel D'lite
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*

@@ -1,8 +1,8 @@
 # Pink Concrete
 
-Pink Concrete is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
+Pink Concrete is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
 
-Pink Concrete is a techno and house artist based in Turkey, with 165 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 31 more. Often billed alongside Adamatron, aláya and Raketa95. Next up: Ankali & Planeta Za, Prague on Fri 4 Dec.
+Pink Concrete is a techno and house artist based in Turkey, with 166 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 31 more. Often billed alongside Adamatron, aláya and Raketa95. Next up: Ankali & Planeta Za, Prague on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pink Concrete is a techno and house artist based in Turkey, with 165 gigs on sou
 | Fri, 4 Dec 2026 | Ankali & Planeta Za | Prague |
 | Sat, 5 Dec 2026 | Frankhan Selectist | Istanbul |
 | Sat, 19 Dec 2026 | Pawnshop | Taipei |
+| Thu, 31 Dec 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Pink Concrete is a techno and house artist based in Turkey, with 165 gigs on sou
 
 Adamatron, aláya, Raketa95
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*

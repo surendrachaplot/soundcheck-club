@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Ogazón is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: fabric, London on Sat 28 Nov.
 
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on sound
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

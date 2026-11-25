@@ -1,6 +1,6 @@
 # Erika Perales
 
-Erika Perales is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 28 Nov 2026.
+Erika Perales is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 28 Nov 2026.
 
 Erika Perales is a house and techno artist based in Spain, with 61 gigs on soundcheck across Ho Chi Minh City, Taipei and Vietnam. Often billed alongside DESNUAGES, DJ Ouch! and Manny. Next up: Luu Bar, Ho Chi Minh City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Erika Perales is a house and techno artist based in Spain, with 61 gigs on sound
 
 DESNUAGES, DJ Ouch!, Manny (2)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikaperales/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikaperales/)*

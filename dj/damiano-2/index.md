@@ -1,17 +1,18 @@
 # Damiano (2)
 
-Damiano (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Damiano (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 13 Dec 2026.
 
-Damiano is an electro and techno artist based in United Kingdom, with 20 gigs on soundcheck across London and Milan. Often billed alongside CRL, Jos and sohrab.. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
+Damiano is a techno and electro artist based in United Kingdom, with 21 gigs on soundcheck across London and Milan. Often billed alongside CRL, Jos and Nico Etorena. Next up: Vittoria Wharf Studio, London on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Starlane Pizza Bar | London |
+| Sun, 13 Dec 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
+- Starlane Pizza Bar, London · Sun, 22 Nov 2026
 - All My Friends, London · Sat, 11 Jul 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 26 Jun 2026
 - All My Friends, London · Sat, 23 May 2026
@@ -19,10 +20,9 @@ Damiano is an electro and techno artist based in United Kingdom, with 20 gigs on
 - Vittoria Wharf Studio, London · Sat, 25 Apr 2026
 - TBA, London · Thu, 26 Mar 2026
 - All My Friends, London · Sat, 31 Jan 2026
-- Starlane Pizza Bar, London · Sun, 11 Jan 2026
 
 ## Shares bills with
 
-CRL (1), Jos, sohrab.
+CRL (1), Jos, Nico Etorena
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damiano-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damiano-2/)*

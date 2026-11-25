@@ -1,13 +1,14 @@
 # Mya (1)
 
-Mya (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
+Mya (1) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 26 Dec 2026.
 
-Mya is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Ibiza, London and Mallorca and 1 more. Often billed alongside Benji King, Phill de Janeiro and Jude Lenihan. Next up: TBA - Otherways Site, Mallorca, Mallorca on Fri 30 Apr.
+Mya is a house and tech house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Ibiza, London and Mallorca and 1 more. Often billed alongside Benji King, Phill de Janeiro and Jude Lenihan. Next up: Starlane Pizza Bar, London on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Dec 2026 | Starlane Pizza Bar | London |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mya is a house and tech house artist based in United Kingdom, with 19 gigs on so
 
 Benji King, Phill de Janeiro, Jude Lenihan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*

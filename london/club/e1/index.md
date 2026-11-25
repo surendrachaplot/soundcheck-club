@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 27 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "ENDLESS x KURAI: Marie Vaunt,  Klaudia Gawlas,  Lino Fuso, Carlos Perez, K-Style, Nick Acid" on Fri, 27 Nov 2026.
+E1 is a music venue in London with 26 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ENDLESS x KURAI: Marie Vaunt,  Klaudia Gawlas,  Lino Fuso, Carlos Perez, K-Style, Nick Acid" on Fri, 27 Nov 2026.
 
-E1 is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including 2HOT2PLAY, ABEL (UK), Âme and AnD and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including 2HOT2PLAY, ABEL (UK), Âme and AnD and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
@@ -15,12 +15,12 @@ E1 is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-
 | Sat, 28 Nov 2026 | Joey Daniel (Music On), Sepp  | Ciccio (IT), Joey Daniel, Laumee, Sepp |
 | Fri, 4 Dec 2026 | FERAL X ALIVE: Parfait & Neon Graveyard | MISS FRENXH, Neon Graveyard, Parfait |
 | Fri, 4 Dec 2026 | The Menendez Brothers & Friends (04th Dec) | The Menendez Brothers |
-| Sat, 5 Dec 2026 | Oh Eight presents: The Exchange #2 w/ Habias | ANGL (3) |
 | Fri, 11 Dec 2026 | Teletech: KRUELTY [All Night Long] London | KRUELTY |
 | Sat, 12 Dec 2026 | Âme DJ '5 hours set', Patrice Bäumel all night long | ABEL (UK), Motip White, Patrice Bäumel, Redfreya, Roxie Li, Âme |
+| Sat, 12 Dec 2026 | Danny Tenaglia (Daytime Session) | Danny Tenaglia |
 
 ## Address
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

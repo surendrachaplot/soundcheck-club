@@ -1,6 +1,6 @@
 # Lorri Rose
 
-Lorri Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Lorri Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Lorri Rose is a techno and house artist based in Belgium, with 9 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside JIPSEY, AMIRA and ATARAXY. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lorri Rose is a techno and house artist based in Belgium, with 9 gigs on soundch
 
 JIPSEY, AMIRA, ATARAXY
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorrirose/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorrirose/)*

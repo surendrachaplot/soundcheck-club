@@ -1,13 +1,14 @@
 # K-Tanaka
 
-K-Tanaka is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 26 Dec 2026.
+K-Tanaka is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Little Rockers, Okinawa on Fri, 27 Nov 2026.
 
-K-Tanaka is a techno and electro artist, with 2 gigs on soundcheck across Tokyo. Often billed alongside AE35, Homma Honganji and RYOKO2000. Next up: Nakano Heavysick Zero, Tokyo on Sat 26 Dec.
+K-Tanaka is a techno and electro artist, with 3 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside AE35, Homma Honganji and POiSON GiRL FRiEND. Next up: Little Rockers, Okinawa on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Little Rockers | Okinawa |
 | Sat, 26 Dec 2026 | Nakano Heavysick Zero | Tokyo |
 
 ## Recently played
@@ -16,6 +17,6 @@ K-Tanaka is a techno and electro artist, with 2 gigs on soundcheck across Tokyo.
 
 ## Shares bills with
 
-AE35, Homma Honganji, RYOKO2000
+AE35, Homma Honganji, POiSON GiRL FRiEND
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-tanaka/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-tanaka/)*

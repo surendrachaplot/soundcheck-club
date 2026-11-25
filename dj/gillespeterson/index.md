@@ -1,14 +1,15 @@
 # Gilles Peterson
 
-Gilles Peterson is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Emerald Theatre, London on Sun, 13 Dec 2026.
+Gilles Peterson is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Emerald Theatre, London on Sun, 13 Dec 2026.
 
-Gilles Peterson is a jazz and house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: The Emerald Theatre, London on Sun 13 Dec.
+Gilles Peterson is a jazz and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: The Emerald Theatre, London on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | The Emerald Theatre | London |
+| Sun, 31 Jan 2027 | Palais | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 84 gigs
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

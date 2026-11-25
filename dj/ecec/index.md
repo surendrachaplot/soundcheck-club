@@ -1,8 +1,8 @@
 # ecec
 
-ecec is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 笹塚ボウル, Tokyo on Thu, 26 Nov 2026.
+ecec is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 笹塚ボウル, Tokyo on Thu, 26 Nov 2026.
 
-ecec is a techno and house artist based in Japan, with 191 gigs on soundcheck across Chengdu, Osaka, Seoul and Shanghai and 3 more. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: 笹塚ボウル, Tokyo on Thu 26 Nov.
+ecec is a techno and house artist based in Japan, with 192 gigs on soundcheck across Chengdu, Osaka, Seoul and Shanghai and 3 more. Often billed alongside JUN INAGAWA, MoEPiKA and OKAMOTO REIJI. Next up: 笹塚ボウル, Tokyo on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ecec is a techno and house artist based in Japan, with 191 gigs on soundcheck ac
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | 笹塚ボウル | Tokyo |
 | Fri, 4 Dec 2026 | ZEROTOKYO | Tokyo |
+| Fri, 4 Dec 2026 | club asia | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ ecec is a techno and house artist based in Japan, with 191 gigs on soundcheck ac
 
 ## Shares bills with
 
-JUN INAGAWA, OKAMOTO REIJI, MoEPiKA
+JUN INAGAWA, MoEPiKA, OKAMOTO REIJI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*

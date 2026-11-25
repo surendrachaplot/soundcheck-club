@@ -1,6 +1,6 @@
 # HINOTO
 
-HINOTO is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Metro, Kyoto on Thu, 31 Dec 2026.
+HINOTO is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Metro, Kyoto on Thu, 31 Dec 2026.
 
 HINOTO is a techno and bass artist based in Japan, with 4 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Acidclank, Big Animal Theory and Lewo Chyba. Next up: Club Metro, Kyoto on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ HINOTO is a techno and bass artist based in Japan, with 4 gigs on soundcheck acr
 
 Acidclank, Big Animal Theory, Lewo Chyba
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hinoto/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hinoto/)*

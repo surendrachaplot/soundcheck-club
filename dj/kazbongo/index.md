@@ -1,6 +1,6 @@
 # KAZBONGO
 
-KAZBONGO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 4 Dec 2026.
+KAZBONGO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 4 Dec 2026.
 
 KAZBONGO is a house and hip-hop artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside O.Goo, HATSUYUKI and Isshin. Next up: ZEROTOKYO, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ KAZBONGO is a house and hip-hop artist based in Japan, with 9 gigs on soundcheck
 
 O.Goo, HATSUYUKI, Isshin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazbongo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazbongo/)*

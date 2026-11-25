@@ -1,6 +1,6 @@
 # Semi Peppered
 
-Semi Peppered is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
+Semi Peppered is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
 
 Semi Peppered is a house and bass artist based in United Kingdom, with 33 gigs on soundcheck across Antwerp, Berlin, London and Manchester. Often billed alongside MLE (UK), Camilla Reghenzi and EJ Woodall. Next up: The Yard, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Semi Peppered is a house and bass artist based in United Kingdom, with 33 gigs o
 
 MLE (UK), Camilla Reghenzi, EJ Woodall
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semipeppered/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semipeppered/)*

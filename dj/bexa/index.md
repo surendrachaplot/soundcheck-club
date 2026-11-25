@@ -1,6 +1,6 @@
 # BEXA
 
-BEXA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pod Gigantami, Warsaw on Sat, 28 Nov 2026.
+BEXA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pod Gigantami, Warsaw on Sat, 28 Nov 2026.
 
 BEXA is a techno and house artist based in Poland, with 47 gigs on soundcheck across Berlin, Copenhagen, Krakow and Lisbon and 3 more. Often billed alongside deafcandance, jensky and Truant. Next up: Pod Gigantami, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BEXA is a techno and house artist based in Poland, with 47 gigs on soundcheck ac
 
 deafcandance, jensky, Truant
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bexa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bexa/)*

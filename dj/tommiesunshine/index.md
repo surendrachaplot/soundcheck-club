@@ -1,6 +1,6 @@
 # Tommie Sunshine
 
-Tommie Sunshine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Bowery Electric, New York City on Sat, 28 Nov 2026.
+Tommie Sunshine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Bowery Electric, New York City on Sat, 28 Nov 2026.
 
 Tommie Sunshine is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Chicago, Detroit, Los Angeles and Miami and 2 more. Often billed alongside Alexander Technique, Gettoblaster and Tom Peters. Next up: The Bowery Electric, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Tommie Sunshine is a house and techno artist based in United States of America, 
 
 Alexander Technique, Gettoblaster, Tom Peters
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommiesunshine/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommiesunshine/)*

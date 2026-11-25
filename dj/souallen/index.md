@@ -1,6 +1,6 @@
 # Sou Allen
 
-Sou Allen is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Barraca, Valencia on Sat, 23 Jan 2027.
+Sou Allen is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Barraca, Valencia on Sat, 23 Jan 2027.
 
 Sou Allen is a techno and industrial artist based in Spain, with 23 gigs on soundcheck across Valencia. Often billed alongside Domen, Lucas Cabello and Rafa Siles. Next up: Barraca, Valencia on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Sou Allen is a techno and industrial artist based in Spain, with 23 gigs on soun
 
 Domen, Lucas Cabello, Rafa Siles
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souallen/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souallen/)*

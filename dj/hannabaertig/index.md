@@ -1,6 +1,6 @@
 # Hanna Baertig
 
-Hanna Baertig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 2 Jan 2027.
+Hanna Baertig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 2 Jan 2027.
 
 Hanna Baertig is a techno and house artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Multifun, Salomon and Jessamine. Next up: Lokschuppen Berlin, Berlin on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Hanna Baertig is a techno and house artist based in Germany, with 102 gigs on so
 
 Multifun, Salomon (2), Jessamine
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannabaertig/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannabaertig/)*

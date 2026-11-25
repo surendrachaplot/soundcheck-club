@@ -1,6 +1,6 @@
 # Sydney (SP)
 
-Sydney (SP) is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Next Door Records Two, London on Sat, 12 Dec 2026.
+Sydney (SP) is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Next Door Records Two, London on Sat, 12 Dec 2026.
 
 Sydney (SP) is an idm and electro artist, with 11 gigs on soundcheck across London, Melbourne, Paris and San Francisco/Oakland and 1 more. Often billed alongside Uggo, Bonobo and Lucie (UK). Next up: Next Door Records Two, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sydney (SP) is an idm and electro artist, with 11 gigs on soundcheck across Lond
 
 Uggo, Bonobo, Lucie (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydney-sp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydney-sp/)*

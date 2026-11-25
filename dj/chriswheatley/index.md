@@ -1,6 +1,6 @@
 # Chris Wheatley
 
-Chris Wheatley is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
+Chris Wheatley is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
 
 Chris Wheatley is a disco and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Rob Coley, LEV (UK) and Bustin' Loose. Next up: Various Venues, London on Sat 1 May.
 
@@ -25,4 +25,4 @@ Chris Wheatley is a disco and house artist based in United Kingdom, with 25 gigs
 
 Rob Coley, LEV (UK), Bustin' Loose
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*

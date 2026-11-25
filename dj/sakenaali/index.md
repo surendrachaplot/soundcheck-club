@@ -1,6 +1,6 @@
 # Sakena Ali
 
-Sakena Ali is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
+Sakena Ali is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
 
 Sakena Ali is a techno and house artist based in Denmark, with 12 gigs on soundcheck across Copenhagen. Often billed alongside G.HO, KLENA and Sofie Jacobi. Next up: Den Anden Side, Copenhagen on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Sakena Ali is a techno and house artist based in Denmark, with 12 gigs on soundc
 
 G.HO, KLENA, Sofie Jacobi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakenaali/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakenaali/)*

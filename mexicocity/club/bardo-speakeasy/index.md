@@ -1,6 +1,6 @@
 # Bardo Speakeasy
 
-Bardo Speakeasy is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "NOCTURA 005" on Fri, 27 Nov 2026.
+Bardo Speakeasy is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "NOCTURA 005" on Fri, 27 Nov 2026.
 
 Bardo Speakeasy is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs, with line-ups including AMANN, NAHAN, Norman H and Ramiel II and 2 more. See dates, start times and who's playing. Av Nuevo León 225-piso 2, Hipódromo Condesa, Cuauhtémoc,, Mexico City, Mexico 06100.
 
@@ -16,4 +16,4 @@ Bardo Speakeasy is a music venue in Mexico City listed on soundcheck. 3 upcoming
 
 Av Nuevo León 225-piso 2, Hipódromo Condesa, Cuauhtémoc,, Mexico City, Mexico 06100, Mexico City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bardo-speakeasy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bardo-speakeasy/)*

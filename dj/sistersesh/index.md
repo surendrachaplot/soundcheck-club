@@ -1,6 +1,6 @@
 # Sister Sesh
 
-Sister Sesh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Underdog, Cardiff on Sat, 30 Jan 2027.
+Sister Sesh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Underdog, Cardiff on Sat, 30 Jan 2027.
 
 Sister Sesh is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Cardiff. Often billed alongside Paul Cahill, Hawsey and Lubi J. Next up: The Underdog, Cardiff on Sat 30 Jan.
 
@@ -23,4 +23,4 @@ Sister Sesh is a house and techno artist based in United Kingdom, with 7 gigs on
 
 Paul Cahill, Hawsey, Lubi J
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersesh/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersesh/)*

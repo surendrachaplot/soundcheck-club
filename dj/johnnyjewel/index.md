@@ -1,18 +1,18 @@
 # Johnny Jewel
 
-Johnny Jewel is a New Wave and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Beursschouwburg, Brussels on Mon, 23 Nov 2026.
+Johnny Jewel is a New Wave and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Glasgow on Sat, 28 Nov 2026.
 
-Johnny Jewel is a new wave and italo disco artist based in United States of America, with 25 gigs on soundcheck across Baltimore, Barcelona, Berlin and Brussels and 14 more. Often billed alongside 11v151131_M06, 33EMYBW and Al Lover. Next up: Beursschouwburg, Brussels on Mon 23 Nov.
+Johnny Jewel is a new wave and italo disco artist based in United States of America, with 25 gigs on soundcheck across Baltimore, Barcelona, Berlin and Brussels and 14 more. Often billed alongside 11v151131_M06, 33EMYBW and Al Lover. Next up: Stereo, Glasgow on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | Beursschouwburg | Brussels |
 | Sat, 28 Nov 2026 | Stereo | Glasgow |
 
 ## Recently played
 
+- Beursschouwburg, Brussels · Mon, 23 Nov 2026
 - Société des arts technologiques, Montreal · Fri, 5 Jun 2026
 - Gold Diggers, Los Angeles · Fri, 1 May 2026
 - The Ground at Club Space, Miami · Fri, 16 Jan 2026
@@ -20,10 +20,9 @@ Johnny Jewel is a new wave and italo disco artist based in United States of Amer
 - Botanique, Brussels · Wed, 26 Nov 2025
 - Silencio, Paris · Tue, 25 Nov 2025
 - Belgrave Music Hall, Leeds · Thu, 20 Nov 2025
-- Meow Wolf Denver, Denver · Tue, 14 Oct 2025
 
 ## Shares bills with
 
 11v151131_M06, 33EMYBW, Al Lover
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyjewel/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyjewel/)*

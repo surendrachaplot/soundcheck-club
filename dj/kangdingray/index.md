@@ -1,8 +1,8 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Podlasie Club, Chicago on Fri, 27 Nov 2026.
+Kangding Ray is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Podlasie Club, Chicago on Fri, 27 Nov 2026.
 
-Kangding Ray is a techno and experimental artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Podlasie Club, Chicago on Fri 27 Nov.
+Kangding Ray is a techno and experimental artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Podlasie Club, Chicago on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kangding Ray is a techno and experimental artist based in Germany, with 160 gigs
 | Fri, 11 Dec 2026 | VENT | Tokyo |
 | Sat, 19 Dec 2026 | Final | Taipei |
 | Sat, 26 Dec 2026 | essaim | Paris |
+| Fri, 29 Jan 2027 | Karmakoma | Belgrade |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Kangding Ray is a techno and experimental artist based in Germany, with 160 gigs
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

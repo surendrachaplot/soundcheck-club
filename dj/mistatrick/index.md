@@ -1,6 +1,6 @@
 # Mista Trick
 
-Mista Trick is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Lower Third, London on Fri, 12 Feb 2027.
+Mista Trick is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Lower Third, London on Fri, 12 Feb 2027.
 
 Mista Trick is a drum & bass and bass artist based in United Kingdom, with 14 gigs on soundcheck across Birmingham, Bristol, London and Manchester and 3 more. Often billed alongside Ben Suff Donk, Benny L and CICELY. Next up: The Lower Third, London on Fri 12 Feb.
 
@@ -27,4 +27,4 @@ Mista Trick is a drum & bass and bass artist based in United Kingdom, with 14 gi
 
 Ben Suff Donk, Benny L, CICELY
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistatrick/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistatrick/)*

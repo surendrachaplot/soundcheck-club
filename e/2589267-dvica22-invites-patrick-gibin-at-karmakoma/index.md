@@ -1,6 +1,6 @@
 # Dvica22 invites Patrick Gibin at Karmakoma
 
-Dvica22 invites Patrick Gibin at Karmakoma on Fri 4 Dec, Belgrade. 1 artist: Patrick Gibin. See the line-up on soundcheck.
+Dvica22 invites Patrick Gibin at Karmakoma on Fri 4 Dec, Belgrade. 2 artists: 7OGI and Patrick Gibin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dvica22 invites Patrick Gibin at Karmakoma on Fri 4 Dec, Belgrade. 1 artist: Pat
 
 ## Line-up
 
+- 7OGI
 - Patrick Gibin
 
 *Source: [soundcheck](https://soundcheck.club/e/2589267-dvica22-invites-patrick-gibin-at-karmakoma/)*

@@ -1,6 +1,6 @@
 # Slag (NYC)
 
-Slag (NYC) is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri, 11 Dec 2026.
+Slag (NYC) is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri, 11 Dec 2026.
 
 Slag (NYC) is a dubstep and bass artist, with 5 gigs on soundcheck across New York City. Often billed alongside Mike.Gov, Carney and Ellis Delta. Next up: TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Slag (NYC) is a dubstep and bass artist, with 5 gigs on soundcheck across New Yo
 
 Mike.Gov, Carney, Ellis Delta
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slag-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slag-2/)*

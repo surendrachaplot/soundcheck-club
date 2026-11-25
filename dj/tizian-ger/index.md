@@ -1,8 +1,8 @@
 # Tizian [GER]
 
-Tizian [GER] is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 25 Dec 2026.
+Tizian [GER] is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 25 Dec 2026.
 
-Tizian [GER] is a house and techno artist, with 10 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Vraza, Atonism and Mara Menace. Next up: RSO.BERLIN, Berlin on Fri 25 Dec.
+Tizian [GER] is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Vraza, Atonism and Mara Menace. Next up: RSO.BERLIN, Berlin on Fri 25 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tizian [GER] is a house and techno artist, with 10 gigs on soundcheck across Ber
 
 Vraza, Atonism, Mara Menace
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tizian-ger/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tizian-ger/)*

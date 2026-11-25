@@ -1,6 +1,6 @@
 # Robin RB
 
-Robin RB is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+Robin RB is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 Robin RB is a house and electro artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Ben Balance, Anthea and Carmelo. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Robin RB is a house and electro artist based in Germany, with 38 gigs on soundch
 
 Ben Balance, Anthea, Carmelo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*

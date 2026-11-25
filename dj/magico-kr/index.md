@@ -1,6 +1,6 @@
 # Magico.
 
-Magico. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sfactory Sector D, 3rd Floor, Seoul on Sat, 5 Dec 2026.
+Magico. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sfactory Sector D, 3rd Floor, Seoul on Sat, 5 Dec 2026.
 
 Magico. is a techno and house artist based in South Korea, with 58 gigs on soundcheck across Bali, Barcelona, Beijing and Berlin and 17 more. Often billed alongside Minkyu, Antwork and .2ndfloor. Next up: Sfactory Sector D, 3rd Floor, Seoul on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Magico. is a techno and house artist based in South Korea, with 58 gigs on sound
 
 Minkyu, Antwork, .2ndfloor
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magico-kr/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magico-kr/)*

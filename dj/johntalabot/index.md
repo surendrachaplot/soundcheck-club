@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+John Talabot is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 John Talabot is a house and techno artist based in Spain, with 203 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -31,4 +31,4 @@ John Talabot is a house and techno artist based in Spain, with 203 gigs on sound
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

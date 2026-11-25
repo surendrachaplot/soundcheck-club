@@ -1,14 +1,15 @@
 # Sangarang
 
-Sangarang is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at SILO, New York City on Fri, 4 Dec 2026.
+Sangarang is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SILO, New York City on Fri, 4 Dec 2026.
 
-Sangarang is a house and garage artist based in United States of America, with 19 gigs on soundcheck across Chicago and New York City. Often billed alongside NICHE, DJ Squid and $EJ. Next up: SILO, New York City on Fri 4 Dec.
+Sangarang is a house and garage artist based in United States of America, with 20 gigs on soundcheck across Chicago and New York City. Often billed alongside NICHE, DJ Squid and Diantoro. Next up: SILO, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | SILO | New York City |
+| Sat, 30 Jan 2027 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sangarang is a house and garage artist based in United States of America, with 1
 
 ## Shares bills with
 
-NICHE (2), DJ Squid, $EJ
+NICHE (2), DJ Squid, Diantoro
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sangarang/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sangarang/)*

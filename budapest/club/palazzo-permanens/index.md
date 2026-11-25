@@ -1,6 +1,6 @@
 # Palazzo Permanens
 
-Palazzo Permanens is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "KAOTIK" on Thu, 26 Nov 2026.
+Palazzo Permanens is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "KAOTIK" on Thu, 26 Nov 2026.
 
 Palazzo Permanens is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including 96zen, DICA (FR), KALMIKVCS and MắmTôme and 2 more. See dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
 
@@ -19,4 +19,4 @@ Palazzo Permanens is a music venue in Budapest listed on soundcheck. 6 upcoming 
 
 Budapest, Kertész u. 36, 1072, Budapest
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*

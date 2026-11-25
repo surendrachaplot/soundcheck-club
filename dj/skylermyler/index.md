@@ -1,6 +1,6 @@
 # SKYLERMYLER
 
-SKYLERMYLER is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sub Club, Glasgow on Sat, 28 Nov 2026.
+SKYLERMYLER is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sub Club, Glasgow on Sat, 28 Nov 2026.
 
 SKYLERMYLER is an electronica and house artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow and London. Often billed alongside CLO, Céleste and DART. Next up: Sub Club, Glasgow on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ SKYLERMYLER is an electronica and house artist based in United Kingdom, with 7 g
 
 CLO (2), Céleste, DART
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*

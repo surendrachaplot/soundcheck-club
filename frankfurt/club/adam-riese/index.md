@@ -1,8 +1,8 @@
 # Adam Riese
 
-Adam Riese is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "LAUT mit Dominik Eulberg" on Fri, 27 Nov 2026.
+Adam Riese is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "LAUT mit Dominik Eulberg" on Fri, 27 Nov 2026.
 
-Adam Riese is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including ADAN, Calamity, Dominik Eulberg and GEORGE RADSPORT and 2 more. See dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
+Adam Riese is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including ADAN, Calamity, Dominik Eulberg and Frau Laura and 2 more. See dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Adam Riese is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, 
 | Fri, 11 Dec 2026 | BCCO X FASTER with Future666 | HENI |
 | Fri, 18 Dec 2026 | Eddytude & FRIENDS x Adam Riese with GEORGE RADSPORT | GEORGE RADSPORT |
 | Sat, 19 Dec 2026 | Heat Schranz Sesh with Neon Graveyard & Nachtigaller |  |
+| Sat, 26 Dec 2026 | LAUT mit Karotte | Frau Laura, Karotte |
 | Thu, 31 Dec 2026 | Heat New Years Eve |  |
 | Sat, 30 Jan 2027 | Heat x Vendex |  |
 | Sun, 6 Feb 2028 | RIKHTER x Elysium - Adam Riese Frankfurt | ADAN, Calamity (2), Jozh, RIKHTER |
@@ -20,4 +21,4 @@ Adam Riese is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, 
 
 Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland, Frankfurt
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*

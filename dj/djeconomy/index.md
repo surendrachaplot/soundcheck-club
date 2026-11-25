@@ -1,6 +1,6 @@
 # DJ Economy
 
-DJ Economy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
+DJ Economy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
 
 DJ Economy is a house and club artist, with 7 gigs on soundcheck across Los Angeles. Often billed alongside undercurrent, Beggar and DJ Shroomie. Next up: The Airliner, Los Angeles on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ DJ Economy is a house and club artist, with 7 gigs on soundcheck across Los Ange
 
 undercurrent, Beggar, DJ Shroomie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeconomy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeconomy/)*

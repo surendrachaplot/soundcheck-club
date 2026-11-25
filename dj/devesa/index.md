@@ -1,6 +1,6 @@
 # Devesa
 
-Devesa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 12 Dec 2026.
+Devesa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 12 Dec 2026.
 
 Devesa is a techno and house artist based in Spain, with 37 gigs on soundcheck across Austin, Barcelona, Berlin and Bucharest and 2 more. Often billed alongside Jimmy Siao (ES), Demofather and Sergi (ES). Next up: Platforma Wolff, Bucharest on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Devesa is a techno and house artist based in Spain, with 37 gigs on soundcheck a
 
 Jimmy Siao (ES), Demofather, Sergi (ES)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devesa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devesa/)*

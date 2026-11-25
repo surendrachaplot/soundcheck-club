@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "FAST FEELINGS: POP • TECHNO • QUEER" on Fri, 27 Nov 2026.
+Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "FAST FEELINGS: POP • TECHNO • QUEER" on Fri, 27 Nov 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including ADEMES, alleira, Boris and DJ Discostoff and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -9,7 +9,7 @@ Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | FAST FEELINGS: POP • TECHNO • QUEER |  |
-| Sat, 28 Nov 2026 | Lange Nacht der Kölner Kollektive | ADEMES, DJ Discostoff, Elyante, LSG, MARRED, MAURO, OSKAMAXX, Pamela Rave, Paranormila, VINYA |
+| Sat, 28 Nov 2026 | Lange Nacht der Kölner Kollektive - 10 Kollektive - Rave bis 09:00 Uhr | ADEMES, DJ Discostoff, Elyante, LSG, MARRED, MAURO, OSKAMAXX, Pamela Rave, Paranormila, RAFFA, VINYA |
 | Fri, 4 Dec 2026 | Klaudia Gawlas / Michael Klotz uvm. by ARTOFURBANLIFE & HIGH VOLTAGE | Klaudia Gawlas, Michael Klotz |
 | Fri, 11 Dec 2026 | Toolboxxx PRESENTS Temudo & Paula Koski | Elisen, HWRD, Paula Koski, Temudo |
 | Sat, 19 Dec 2026 | QUEEER INC X BOUDICA | Boris, Juan Del Chambo, Samantha Togni, nutenrieth |
@@ -19,4 +19,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

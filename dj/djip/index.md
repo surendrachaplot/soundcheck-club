@@ -1,14 +1,15 @@
 # DJ IP
 
-DJ IP is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
+DJ IP is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
 
-DJ IP is a techno and trance artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Hurts, 6EJOU and Entasia. Next up: Flanders Expo Centre, Ghent on Sat 5 Dec.
+DJ IP is a techno and trance artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Hurts, 6EJOU and Entasia. Next up: Flanders Expo Centre, Ghent on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
+| Sat, 23 Jan 2027 | BASIS | Utrecht |
 | Sat, 7 Aug 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ IP is a techno and trance artist based in Netherlands, with 15 gigs on soundc
 
 Hurts, 6EJOU, Entasia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djip/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djip/)*

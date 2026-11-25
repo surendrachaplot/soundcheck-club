@@ -1,6 +1,6 @@
 # Chris Liberator
 
-Chris Liberator is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Volks, Brighton on Fri, 4 Dec 2026.
+Chris Liberator is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Volks, Brighton on Fri, 4 Dec 2026.
 
 Chris Liberator is a techno and acid artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside DAVE the Drummer, Sterling Moss and Aaron Liberator. Next up: Volks, Brighton on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Chris Liberator is a techno and acid artist based in United Kingdom, with 56 gig
 
 DAVE the Drummer, Sterling Moss, Aaron Liberator
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*

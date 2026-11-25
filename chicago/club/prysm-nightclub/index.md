@@ -1,6 +1,6 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Serum: Yamagucci + The Botanist" on Sat, 28 Nov 2026.
+Prysm Nightclub is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Serum: Yamagucci + The Botanist" on Sat, 28 Nov 2026.
 
 Prysm Nightclub is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including FLETCH, Azzecca, Cole Terrazas and DJ Tennis and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
 
@@ -22,4 +22,4 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 9 upcoming gig
 
 1543 N Kingsbury St, Chicago
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

@@ -1,13 +1,14 @@
 # Vakkum
 
-Vakkum is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 12 Dec 2026.
+Vakkum is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bazzart, Warsaw on Fri, 27 Nov 2026.
 
-Vakkum is a techno and breakbeat artist based in Poland, with 3 gigs on soundcheck across Poznan and Warsaw. Often billed alongside Axis Operandi, Dynamic Goose and Internal Observer. Next up: K-Bar Powiśle, Warsaw on Sat 12 Dec.
+Vakkum is a techno and breakbeat artist based in Poland, with 4 gigs on soundcheck across Poznan and Warsaw. Often billed alongside Axis Operandi, Dynamic Goose and Internal Observer. Next up: Bazzart, Warsaw on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Bazzart | Warsaw |
 | Sat, 12 Dec 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played
@@ -19,4 +20,4 @@ Vakkum is a techno and breakbeat artist based in Poland, with 3 gigs on soundche
 
 Axis Operandi, Dynamic Goose, Internal Observer
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vakkum/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vakkum/)*

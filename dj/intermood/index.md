@@ -1,15 +1,14 @@
 # Intermood
 
-Intermood is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
+Intermood is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
 
-Intermood is a house and jazz artist based in Australia, with 16 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Moopie, DJ Possum and Drifting Clouds. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
+Intermood is a house and jazz artist based in Australia, with 15 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Moopie, DJ Possum and Drifting Clouds. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
-| Sat, 6 Feb 2027 | TBA - Coburg Lake Reserve | Melbourne |
 | Sat, 6 Mar 2027 | Meredith Supernatural Ampitheatre | Melbourne |
 
 ## Recently played
@@ -27,4 +26,4 @@ Intermood is a house and jazz artist based in Australia, with 16 gigs on soundch
 
 Moopie, DJ Possum, Drifting Clouds
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intermood/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intermood/)*

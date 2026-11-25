@@ -1,6 +1,6 @@
 # Rumbler
 
-Rumbler is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
+Rumbler is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
 
 Rumbler is an electronica and techno artist based in Spain, with 17 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside EYRA, Chica Acosta and Gazzi. Next up: Razzmatazz, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rumbler is an electronica and techno artist based in Spain, with 17 gigs on soun
 
 EYRA, Chica Acosta, Gazzi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbler/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbler/)*

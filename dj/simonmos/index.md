@@ -1,6 +1,6 @@
 # Simon Mós
 
-Simon Mós is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Not For Sale Gallery, London on Sat, 12 Dec 2026.
+Simon Mós is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Not For Sale Gallery, London on Sat, 12 Dec 2026.
 
 Simon Mós is a techno and experimental artist based in United Kingdom, with 22 gigs on soundcheck across Berlin and London. Often billed alongside DJ Counselling, Kinga Janicka and AM sin. Next up: Not For Sale Gallery, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Simon Mós is a techno and experimental artist based in United Kingdom, with 22 
 
 DJ Counselling, Kinga Janicka, AM sin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonmos/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonmos/)*

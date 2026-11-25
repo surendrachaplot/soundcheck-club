@@ -1,6 +1,6 @@
 # Chef Carl
 
-Chef Carl is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
+Chef Carl is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 5 Dec 2026.
 
 Chef Carl is a house and dub artist based in United States of America, with 13 gigs on soundcheck across Atlanta, Baltimore, New York City and Philadelphia and 1 more. Often billed alongside Babypufff, Joyce Lim and Tommy Cornelis. Next up: Bossa Nova Civic Club, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Chef Carl is a house and dub artist based in United States of America, with 13 g
 
 Babypufff, Joyce Lim, Tommy Cornelis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chefcarl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chefcarl/)*

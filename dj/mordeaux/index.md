@@ -1,14 +1,15 @@
 # Mordeaux
 
-Mordeaux is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Smolna, Warsaw on Fri, 27 Nov 2026.
+Mordeaux is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Smolna, Warsaw on Fri, 27 Nov 2026.
 
-Mordeaux is a techno and house artist based in Poland, with 39 gigs on soundcheck across Krakow and Warsaw. Often billed alongside kaj garage, Sickdat and Fogler. Next up: Smolna, Warsaw on Fri 27 Nov.
+Mordeaux is a techno and house artist based in Poland, with 40 gigs on soundcheck across Krakow and Warsaw. Often billed alongside kaj garage, Sickdat and Fogler. Next up: Smolna, Warsaw on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Smolna | Warsaw |
+| Fri, 27 Nov 2026 | Bazzart | Warsaw |
 | Sat, 5 Dec 2026 | Smolna | Warsaw |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mordeaux is a techno and house artist based in Poland, with 39 gigs on soundchec
 
 kaj garage, Sickdat, Fogler
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mordeaux/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mordeaux/)*

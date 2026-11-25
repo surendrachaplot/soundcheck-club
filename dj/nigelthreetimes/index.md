@@ -1,13 +1,14 @@
 # NIGELTHREETIMES
 
-NIGELTHREETIMES is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Knockdown Center, New York City on Thu, 4 Feb 2027.
+NIGELTHREETIMES is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
 
-NIGELTHREETIMES is a house and techno artist based in United States of America, with 79 gigs on soundcheck across Chubu, Miami, New Orleans and New York City and 3 more. Often billed alongside Andrew Devlin, No Sir and Jubilee. Next up: Knockdown Center, New York City on Thu 4 Feb.
+NIGELTHREETIMES is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Chubu, Miami, New Orleans and New York City and 3 more. Often billed alongside Andrew Devlin, No Sir and Jubilee. Next up: 88block, Tokyo on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | 88block | Tokyo |
 | Thu, 4 Feb 2027 | Knockdown Center | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ NIGELTHREETIMES is a house and techno artist based in United States of America, 
 
 Andrew Devlin, No Sir, Jubilee
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelthreetimes/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelthreetimes/)*

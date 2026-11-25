@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 9 Dec, Berlin. 9 artists: ASTRANA, Bloodkedelic, Dudulina and Grippe and 5 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 9 Dec, Berlin. 10 artists: ASTRANA, Bloodkedelic, Dudulina and Grippe and 6 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,5 +19,6 @@ TECHNO MITTWOCH at Sensorium on Wed 9 Dec, Berlin. 9 artists: ASTRANA, Bloodkede
 - KIVII
 - Pozzy
 - Røsenwasser
+- Timoka
 
 *Source: [soundcheck](https://soundcheck.club/e/2518136-techno-mittwoch-at-sensorium/)*

@@ -1,6 +1,6 @@
 # Chang Rodrigues
 
-Chang Rodrigues is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
+Chang Rodrigues is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ciao ciao Bar, Berlin on Thu, 3 Dec 2026.
 
 Chang Rodrigues is a techno and electro artist based in Brazil, with 9 gigs on soundcheck across Barcelona, Berlin and Copenhagen. Often billed alongside NEVERSLEEP, 3rd Party Influence and Aamir. Next up: ciao ciao Bar, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Chang Rodrigues is a techno and electro artist based in Brazil, with 9 gigs on s
 
 NEVERSLEEP, 3rd Party Influence, Aamir
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/changrodrigues/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/changrodrigues/)*

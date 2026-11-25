@@ -1,14 +1,14 @@
 # Kupris
 
-Kupris is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Krišjāņa Barona iela 136, Riga, Riga on Fri, 11 Dec 2026.
+Kupris is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret Location, Riga on Fri, 11 Dec 2026.
 
-Kupris is a techno and drum & bass artist based in Latvia, with 21 gigs on soundcheck across Riga. Often billed alongside Kelvin, JSUS and Existal. Next up: TBA - Krišjāņa Barona iela 136, Riga, Riga on Fri 11 Dec.
+Kupris is a techno and drum & bass artist based in Latvia, with 21 gigs on soundcheck across Riga. Often billed alongside Kelvin, JSUS and Existal. Next up: TBA - Secret Location, Riga on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Dec 2026 | TBA - Krišjāņa Barona iela 136, Riga | Riga |
+| Fri, 11 Dec 2026 | TBA - Secret Location | Riga |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Kupris is a techno and drum & bass artist based in Latvia, with 21 gigs on sound
 
 Kelvin, JSUS, Existal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kupris/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kupris/)*

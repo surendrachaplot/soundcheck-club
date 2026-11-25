@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ at ://about blank
 
-★ LOWKEY STARS ☆ at ://about blank on Sat 9 Jan, Berlin. 22 artists: Aniza (DE), BECCA, Bonq and Candice Blonde and 18 more. See the line-up on soundcheck.
+★ LOWKEY STARS ☆ at ://about blank on Sat 9 Jan, Berlin. 23 artists: Aniza (DE), BECCA, Bonq and Candice Blonde and 19 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,6 +25,7 @@
 - Jonny (Free Soul)
 - juli (8)
 - Julka (2)
+- mazelicious
 - Musleter
 - Noctua.
 - Pawell

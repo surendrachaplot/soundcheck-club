@@ -1,6 +1,6 @@
 # BLANK AFTER TOMORROW (57h NYE) at ://about blank
 
-BLANK AFTER TOMORROW (57h NYE) at ://about blank on Thu 31 Dec, Berlin. 20 artists: a:tok, Alex.Do, Bailey Ibbs and Daniel Ö and 16 more. Techno and House. See the line-up on soundcheck.
+BLANK AFTER TOMORROW (57h NYE) at ://about blank on Thu 31 Dec, Berlin. 24 artists: a:tok, Alex.Do, Bailey Ibbs and Daisy Weweh and 20 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,18 +13,22 @@ BLANK AFTER TOMORROW (57h NYE) at ://about blank on Thu 31 Dec, Berlin. 20 artis
 - a:tok
 - Alex.Do
 - Bailey Ibbs
+- Daisy Weweh
 - Daniel Ö
 - Dea (6)
 - evah
 - Finona Rider
 - Hang Aoki
 - Horkheimer
+- Jana Falcon
 - Jessamine
 - Kalipo
 - karete bu
 - Lena Brumby
 - LUISELLE
 - Medha
+- Miss Dance
+- Nein oh Nein
 - Ness
 - NOHAR
 - Shimmy Robin

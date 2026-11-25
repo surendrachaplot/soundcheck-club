@@ -1,13 +1,14 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 27 Nov 2026.
+Simone de Kunovich is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Super Club, Milan on Thu, 26 Nov 2026.
 
-Simone de Kunovich is a house and techno artist based in Italy, with 170 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 27 Nov.
+Simone de Kunovich is a house and techno artist based in Italy, with 171 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: Super Club, Milan on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Super Club | Milan |
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 19 Dec 2026 | public records | New York City |
 
@@ -26,4 +27,4 @@ Simone de Kunovich is a house and techno artist based in Italy, with 170 gigs on
 
 PARAMIDA, Dante (H501), Pascal Moscheni
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*

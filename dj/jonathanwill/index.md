@@ -1,6 +1,6 @@
 # Jonathan Will
 
-Jonathan Will is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Jonathan Will is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Jonathan Will is a house and disco artist, with 5 gigs on soundcheck across Denver, Ho Chi Minh City, San Francisco/Oakland and Tokyo. Often billed alongside Tara Brooks, 3kelves and ALEX GOODCAT. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -21,4 +21,4 @@ Jonathan Will is a house and disco artist, with 5 gigs on soundcheck across Denv
 
 Tara Brooks, 3kelves, ALEX GOODCAT
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanwill/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanwill/)*

@@ -1,8 +1,8 @@
 # XZ5000
 
-XZ5000 is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 119, Berlin on Sat, 28 Nov 2026.
+XZ5000 is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 119, Berlin on Sat, 28 Nov 2026.
 
-XZ5000 is a techno and psytrance artist based in Tunisia, with 11 gigs on soundcheck across Berlin. Often billed alongside HMEHDI, -OA- and CUNT REMEMBER. Next up: 119, Berlin on Sat 28 Nov.
+XZ5000 is a techno and psytrance artist based in Tunisia, with 12 gigs on soundcheck across Berlin. Often billed alongside HMEHDI, Warlord® and -OA-. Next up: 119, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ XZ5000 is a techno and psytrance artist based in Tunisia, with 11 gigs on soundc
 | Sat, 28 Nov 2026 | 119 | Berlin |
 | Sat, 28 Nov 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 19 Dec 2026 | ÆDEN | Berlin |
+| Thu, 31 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ XZ5000 is a techno and psytrance artist based in Tunisia, with 11 gigs on soundc
 
 ## Shares bills with
 
-HMEHDI, -OA-, CUNT REMEMBER
+HMEHDI, Warlord®, -OA-
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*

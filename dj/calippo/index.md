@@ -1,6 +1,6 @@
 # Calippo
 
-Calippo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Toldi Klub, Budapest on Fri, 27 Nov 2026.
+Calippo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Toldi Klub, Budapest on Fri, 27 Nov 2026.
 
 Calippo is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Budapest and Leipzig. Often billed alongside schraeder, Afriqua and Arash Ete. Next up: Toldi Klub, Budapest on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Calippo is a techno and trance artist based in Germany, with 4 gigs on soundchec
 
 schraeder, Afriqua, Arash Ete
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calippo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calippo/)*

@@ -1,13 +1,14 @@
 # Brussi
 
-Brussi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ciało, Wroclaw on Sat, 5 Dec 2026.
+Brussi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Klubokawiarnia Recepcja, Wroclaw on Fri, 4 Dec 2026.
 
-Brussi is a house and tech house artist based in Poland, with 24 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Elvira, Stroppy Pie and Anna Borsuk. Next up: Ciało, Wroclaw on Sat 5 Dec.
+Brussi is a house and tech house artist based in Poland, with 25 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Elvira, Stroppy Pie and Anna Borsuk. Next up: Klubokawiarnia Recepcja, Wroclaw on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Klubokawiarnia Recepcja | Wroclaw |
 | Sat, 5 Dec 2026 | Ciało | Wroclaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Brussi is a house and tech house artist based in Poland, with 24 gigs on soundch
 
 Elvira, Stroppy Pie, Anna Borsuk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brussi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brussi/)*

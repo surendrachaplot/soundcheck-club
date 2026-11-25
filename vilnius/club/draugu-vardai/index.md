@@ -1,6 +1,6 @@
 # Draugu Vardai
 
-Draugu Vardai is a music venue in Vilnius with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Aircraft (Live) in Vilnius. Club - Draugų vardai. Support: Vecera" on Thu, 26 Nov 2026.
+Draugu Vardai is a music venue in Vilnius with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Aircraft (Live) in Vilnius. Club - Draugų vardai. Support: Vecera" on Thu, 26 Nov 2026.
 
 Draugu Vardai is a music venue in Vilnius listed on soundcheck. 1 upcoming gig, with line-ups including Aircraft. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Draugu Vardai is a music venue in Vilnius listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Aircraft (Live) in Vilnius. Club - Draugų vardai. Support: Vecera | Aircraft |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/draugu-vardai/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/draugu-vardai/)*

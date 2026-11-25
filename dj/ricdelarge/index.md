@@ -1,6 +1,6 @@
 # Ric de Large
 
-Ric de Large is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 5 Dec 2026.
+Ric de Large is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 5 Dec 2026.
 
 Ric de Large is a drum & bass and garage artist based in Italy, with 16 gigs on soundcheck across Bologna, Florence, Liverpool and Milan. Often billed alongside epcoraw, Grime Spitterz and MikyCiL. Next up: Kindergarten Club, Bologna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ric de Large is a drum & bass and garage artist based in Italy, with 16 gigs on 
 
 epcoraw, Grime Spitterz, MikyCiL
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricdelarge/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricdelarge/)*

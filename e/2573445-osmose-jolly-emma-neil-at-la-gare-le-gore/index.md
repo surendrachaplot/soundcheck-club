@@ -1,6 +1,6 @@
 # Osmose: Jolly + Emma Neil at La Gare / Le Gore
 
-Osmose: Jolly + Emma Neil at La Gare / Le Gore on Fri 27 Nov, Paris. 1 artist: Jolly (FR). See the line-up on soundcheck.
+Osmose: Jolly + Emma Neil at La Gare / Le Gore on Fri 27 Nov, Paris. 2 artists: Emma Neil and Jolly (FR). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Osmose: Jolly + Emma Neil at La Gare / Le Gore on Fri 27 Nov, Paris. 1 artist: J
 
 ## Line-up
 
+- Emma Neil
 - Jolly (FR)
 
 *Source: [soundcheck](https://soundcheck.club/e/2573445-osmose-jolly-emma-neil-at-la-gare-le-gore/)*

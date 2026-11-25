@@ -14,8 +14,8 @@
 - Annina
 - Barbara Preisinger
 - Danté
-- Jamaica Suk
 - Juan Evangelista
+- PyjamaMama
 - Stiefel One
 
 *Source: [soundcheck](https://soundcheck.club/e/2558432-situationship-expeditions-x-golden-times-at-about-blank/)*

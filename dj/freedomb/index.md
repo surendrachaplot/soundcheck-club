@@ -1,17 +1,18 @@
 # freedomB
 
-freedomB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Casa Amante Club, Madrid on Sat, 21 Nov 2026.
+freedomB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 27 Nov 2026.
 
-freedomB is a house and techno artist based in Germany, with 68 gigs on soundcheck across Barcelona, Berlin, Brussels and Hamburg and 2 more. Often billed alongside Roldan, Sven Dohse and Fab Massimo. Next up: Casa Amante Club, Madrid on Sat 21 Nov.
+freedomB is a house and techno artist based in Germany, with 69 gigs on soundcheck across Barcelona, Berlin, Brussels and Hamburg and 2 more. Often billed alongside Roldan, Sven Dohse and Fab Massimo. Next up: Say No More Madrid, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Casa Amante Club | Madrid |
+| Fri, 27 Nov 2026 | Say No More Madrid | Madrid |
 
 ## Recently played
 
+- Casa Amante Club, Madrid · Sat, 21 Nov 2026
 - Subcero Club, Madrid · Fri, 20 Nov 2026
 - Nômade Temple Madrid, Madrid · Sat, 7 Nov 2026
 - EL SÓTANO, Madrid · Sat, 17 Oct 2026
@@ -19,10 +20,9 @@ freedomB is a house and techno artist based in Germany, with 68 gigs on soundche
 - Terraza Atenas, Madrid · Sun, 30 Aug 2026
 - Goya Social Club, Madrid · Sat, 27 Jun 2026
 - Sala Villanos, Madrid · Sat, 20 Jun 2026
-- Nômade Temple Madrid, Madrid · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Roldan, Sven Dohse, Fab Massimo
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomb/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomb/)*

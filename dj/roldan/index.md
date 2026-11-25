@@ -1,14 +1,15 @@
 # Roldan
 
-Roldan is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Specka, Madrid on Fri, 27 Nov 2026.
+Roldan is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Specka, Madrid on Fri, 27 Nov 2026.
 
-Roldan is a minimal and house artist based in Spain, with 22 gigs on soundcheck across Barcelona, Madrid, Medellin and Puerto Rico. Often billed alongside DËKYR, Tief and freedomB. Next up: Specka, Madrid on Fri 27 Nov.
+Roldan is a minimal and house artist based in Spain, with 23 gigs on soundcheck across Barcelona, Madrid, Medellin and Puerto Rico. Often billed alongside Tief, DËKYR and freedomB. Next up: Specka, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Specka | Madrid |
+| Sat, 12 Dec 2026 | Specka | Madrid |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
@@ -24,6 +25,6 @@ Roldan is a minimal and house artist based in Spain, with 22 gigs on soundcheck 
 
 ## Shares bills with
 
-DËKYR, Tief (1), freedomB
+Tief (1), DËKYR, freedomB
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roldan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roldan/)*

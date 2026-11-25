@@ -1,6 +1,6 @@
 # Liv del Estal
 
-Liv del Estal is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Elysée Montmartre, Paris on Thu, 26 Nov 2026.
+Liv del Estal is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elysée Montmartre, Paris on Thu, 26 Nov 2026.
 
 Liv del Estal is a trance and techno artist based in France, with 9 gigs on soundcheck across Brussels, Marseille and Paris. Often billed alongside DJ Caline, Eskha and YKAi. Next up: Elysée Montmartre, Paris on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Liv del Estal is a trance and techno artist based in France, with 9 gigs on soun
 
 DJ Caline, Eskha, YKAi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livdelestal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livdelestal/)*

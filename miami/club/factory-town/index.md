@@ -1,8 +1,8 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Factory Basel" on Wed, 2 Dec 2026.
+Factory Town is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Factory Basel" on Wed, 2 Dec 2026.
 
-Factory Town is a music venue in Miami listed on soundcheck. 10 upcoming gigs, with line-ups including FLETCH, Paula Tape, Yulia Niko and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
+Factory Town is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with line-ups including FLETCH, Paula Tape, Yulia Niko and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Factory Town is a music venue in Miami listed on soundcheck. 10 upcoming gigs, w
 | Thu, 3 Dec 2026 | Factory Basel (Thursday) | Adam Ten, Ammo Avenue, BLOND:ISH, Ben Sterling, Budino, Carlita, Chinonegro, DJ Tennis, Demi Riquisimo, Diplo, Goldie, HoneyLuv, Jimi Jules, Julian Fijma, KinAhau, Malcolm Zeller, Malone, Marian, Nicole Gallamini, Omar+, Photek, Salomé Le Chat, Tiffy Vera, Tiga, Traumer, Yulia Niko |
 | Fri, 4 Dec 2026 | Vagabundos at Factory Basel 2026 |  |
 | Fri, 4 Dec 2026 | Factory Basel (Friday) | Alci, Avalon Emerson, Benwal, Chloé Caillet, Chris Lake, Coffintexts, DJ BORING, Dennis Ferrer, E R E Z, Ilario Alicante, LUCH (MEX), Luciano, MCR-T, Magdalena (DE), Make A Dance, Maxi Meraki, Palms Trax, Paula Tape, Rafael, Rossi, Salomé Le Chat, Sister System, Solomun, Volkoder |
+| Sat, 5 Dec 2026 | Circoloco | Aline Umber, Beltran, Carlita, Chloé Caillet, Dixon, HALFPINT, Jamback, Jimi Jules, Krol, Make A Dance, Max Dean, Miguelle, Omar+, PAWSA, Palms Trax, Prospa, Rampa, Rony Seikaly, Sedef Adasï, Seth Troxler, TONS |
 | Sun, 6 Dec 2026 | Factory Basel (Sunday) | Bastian Bux, Cam Stockman, ChaseWest, Coffintexts, DJ Holographic, DJ Minx, Eats Everything, FLETCH, Gordo, HAAi, Jay de Lys, Jesse Perez, KinAhau, LP Giobbi, Luna Mar, Marsolo, Mike Servito, Moorhaus, OMRI., Paco Osuna, RAJE, Ranger Trucco, Rooléh, TEED, Tommy Phillips, salute |
 | Thu, 31 Dec 2026 | GOOD FORTUNE PRESENTS Dom Dolla 5 HOUR SET WITH GOOD FRIENDS AT MIAMI'S Factory Town THIS NYE | Cole Knight, Dom Dolla, FCUKERS, SG Lewis |
 | Fri, 1 Jan 2027 | TAPE B |  |
 | Fri, 1 Jan 2027 | horsegiirL | ali rq, horsegiirL |
-| Sat, 2 Jan 2027 | Charlotte de Witte | Charlotte de Witte |
 
 ## Address
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

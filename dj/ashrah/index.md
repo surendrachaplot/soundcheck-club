@@ -1,6 +1,6 @@
 # Ash Rah
 
-Ash Rah is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+Ash Rah is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
 
 Ash Rah is a disco and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Berlin, Croatia and London and 1 more. Often billed alongside A Guy Called Gerald, Admo and Albion Street Music. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
 
@@ -21,4 +21,4 @@ Ash Rah is a disco and house artist based in Netherlands, with 5 gigs on soundch
 
 A Guy Called Gerald, Admo, Albion Street Music
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashrah/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashrah/)*

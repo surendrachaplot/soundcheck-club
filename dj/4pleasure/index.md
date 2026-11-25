@@ -1,6 +1,6 @@
 # 4Pleasure
 
-4Pleasure is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Innervisions Alchemy, London on Wed, 25 Nov 2026.
+4Pleasure is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Innervisions Alchemy, London on Wed, 25 Nov 2026.
 
 4Pleasure is a house and tech house artist based in Spain, with 35 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Angel Sani, Ion Pananides and Alvaro Medina. Next up: Innervisions Alchemy, London on Wed 25 Nov.
 
@@ -25,4 +25,4 @@
 
 Angel Sani, Ion Pananides, Alvaro Medina
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*

@@ -1,6 +1,6 @@
 # Andrea Ratti
 
-Andrea Ratti is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at MOGO, Milan on Wed, 25 Nov 2026.
+Andrea Ratti is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at MOGO, Milan on Wed, 25 Nov 2026.
 
 Andrea Ratti is an electronica and house artist based in Italy, with 35 gigs on soundcheck across Milan and Paris. Often billed alongside Sergio Tavelli, Bitter Saint and Protopapa. Next up: MOGO, Milan on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Andrea Ratti is an electronica and house artist based in Italy, with 35 gigs on 
 
 Sergio Tavelli, Bitter Saint, Protopapa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*

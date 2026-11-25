@@ -1,13 +1,14 @@
 # Kasper Marott
 
-Kasper Marott is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Backsteinboot, Berlin on Fri, 1 Jan 2027.
+Kasper Marott is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ankali & Planeta Za, Prague on Thu, 31 Dec 2026.
 
-Kasper Marott is a techno and trance artist based in Denmark, with 173 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 27 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Backsteinboot, Berlin on Fri 1 Jan.
+Kasper Marott is a techno and trance artist based in Denmark, with 174 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 27 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Ankali & Planeta Za, Prague on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Ankali & Planeta Za | Prague |
 | Fri, 1 Jan 2027 | Backsteinboot | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kasper Marott is a techno and trance artist based in Denmark, with 173 gigs on s
 
 Audrey Danza, Téa, Martin Gilleshøj
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*

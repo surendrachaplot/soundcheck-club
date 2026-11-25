@@ -1,6 +1,6 @@
 # ZAZEN (2)
 
-ZAZEN (2) is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
+ZAZEN (2) is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
 
 ZAZEN is a dubstep and bass artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, VECSILLE and Genick. Next up: club asia, Tokyo on Sun 27 Dec.
 
@@ -24,4 +24,4 @@ ZAZEN is a dubstep and bass artist based in Japan, with 8 gigs on soundcheck acr
 
 MOOTOE, VECSILLE, Genick
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zazen-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zazen-2/)*

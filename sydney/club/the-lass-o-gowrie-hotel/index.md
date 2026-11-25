@@ -1,17 +1,17 @@
 # The Lass O'Gowrie Hotel
 
-The Lass O'Gowrie Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Uncut Jams: Elijah Something, Cassette" on Sat, 24 Oct 2026.
+The Lass O'Gowrie Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "2nDimension Pres. André Zimmer" on Fri, 18 Dec 2026.
 
-The Lass O'Gowrie Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Cassette and Elijah Something. See dates, start times and who's playing. 14 Railway Street , Wickham., Newcastle, New South Wales 2293.
+The Lass O'Gowrie Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Andre Zimmer and jyc.. See dates, start times and who's playing. 14 Railway Street , Wickham., Newcastle, New South Wales 2293.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Uncut Jams: Elijah Something, Cassette | Cassette, Elijah Something |
+| Fri, 18 Dec 2026 | 2nDimension Pres. André Zimmer | Andre Zimmer, jyc. |
 
 ## Address
 
 14 Railway Street , Wickham., Newcastle, New South Wales 2293, Sydney
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lass-o-gowrie-hotel/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lass-o-gowrie-hotel/)*

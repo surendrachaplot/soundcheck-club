@@ -1,13 +1,15 @@
 # Manzone & Strong
 
-Manzone & Strong is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Wiggle Room, Toronto on Sun, 29 Nov 2026.
+Manzone & Strong is a Tech House and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rebel, Toronto on Sat, 28 Nov 2026.
 
-Manzone & Strong are a tech house and house duo based in Canada, with 208 gigs on soundcheck across Toronto. Often billed alongside Barroness, Tyler Hill and Miz Megs. Next up: Wiggle Room, Toronto on Sun 29 Nov.
+Manzone & Strong are a tech house and house duo based in Canada, with 210 gigs on soundcheck across Toronto. Often billed alongside Barroness, Tyler Hill and Addy. Next up: Rebel, Toronto on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Rebel | Toronto |
+| Sun, 29 Nov 2026 | Wiggle Room | Toronto |
 | Sun, 29 Nov 2026 | Wiggle Room | Toronto |
 | Sun, 6 Dec 2026 | Wiggle Room | Toronto |
 | Sat, 12 Dec 2026 | Longshots Shooting and Social | Toronto |
@@ -29,6 +31,6 @@ Manzone & Strong are a tech house and house duo based in Canada, with 208 gigs o
 
 ## Shares bills with
 
-Barroness, Tyler Hill, Miz Megs
+Barroness, Tyler Hill, Addy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manzonestrong/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manzonestrong/)*

@@ -1,6 +1,6 @@
 # ACID ARAB in Athens at Universe Athens
 
-ACID ARAB in Athens at Universe Athens on Fri 27 Nov, Athens. 4 artists: Acid Arab, Anatolian Weapons, Andreas Palmer and pink.wav. See the line-up on soundcheck.
+ACID ARAB in Athens at Universe Athens on Fri 27 Nov, Athens. 5 artists: Acid Arab, Anatolian Weapons, Andreas Palmer and pink.wav and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ ACID ARAB in Athens at Universe Athens on Fri 27 Nov, Athens. 4 artists: Acid Ar
 - Anatolian Weapons
 - Andreas Palmer
 - pink.wav
+- UROK
 
 *Source: [soundcheck](https://soundcheck.club/e/2573352-acid-arab-in-athens-at-universe-athens/)*

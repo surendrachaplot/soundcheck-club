@@ -1,6 +1,6 @@
 # emaenu (2)
 
-emaenu (2) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Thu, 31 Dec 2026.
+emaenu (2) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Void Club, Berlin on Thu, 31 Dec 2026.
 
 emaenu is a techno and drum & bass artist based in Germany, with 28 gigs on soundcheck across Berlin. Often billed alongside Upzet, edgarwilles and KORRA. Next up: Void Club, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ emaenu is a techno and drum & bass artist based in Germany, with 28 gigs on soun
 
 Upzet, edgarwilles, KORRA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emaenu-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emaenu-2/)*

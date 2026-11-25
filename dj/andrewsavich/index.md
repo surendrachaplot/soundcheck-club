@@ -1,6 +1,6 @@
 # Andrew Savich
 
-Andrew Savich is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Smolna, Warsaw on Sat, 28 Nov 2026.
+Andrew Savich is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Smolna, Warsaw on Sat, 28 Nov 2026.
 
 Andrew Savich is a techno and tech house artist based in Belarus, with 11 gigs on soundcheck across Warsaw. Often billed alongside Jerry M, HANICZ and Meskalino. Next up: Smolna, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Andrew Savich is a techno and tech house artist based in Belarus, with 11 gigs o
 
 Jerry M, HANICZ, Meskalino
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsavich/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsavich/)*

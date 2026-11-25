@@ -1,6 +1,6 @@
 # Sure Yeah
 
-Sure Yeah is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Toronto on Fri, 4 Dec 2026.
+Sure Yeah is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Toronto on Fri, 4 Dec 2026.
 
 Sure Yeah is a techno and minimal techno artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Siren, Amrkv and Esther Côté. Next up: TBA, Toronto on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Sure Yeah is a techno and minimal techno artist based in Canada, with 5 gigs on 
 
 Siren (4), Amrkv, Esther Côté
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sureyeah/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sureyeah/)*

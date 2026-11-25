@@ -1,6 +1,6 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 12 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -34,4 +34,4 @@ Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, wi
 
 Nicky B, Kenny Ken, Ray Keith
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*

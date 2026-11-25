@@ -1,6 +1,6 @@
 # Moondog
 
-Moondog is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "HVOB – ASIA TOUR 2027 – TAIPEI" on Thu, 14 Jan 2027.
+Moondog is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "HVOB – ASIA TOUR 2027 – TAIPEI" on Thu, 14 Jan 2027.
 
 Moondog is a music venue in Taipei listed on soundcheck. 1 upcoming gig, with line-ups including HVOB. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Moondog is a music venue in Taipei listed on soundcheck. 1 upcoming gig, with li
 | --- | --- | --- |
 | Thu, 14 Jan 2027 | HVOB – ASIA TOUR 2027 – TAIPEI | HVOB |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/moondog/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/moondog/)*

@@ -1,6 +1,6 @@
 # WILL CARRIGAN.
 
-WILL CARRIGAN. is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Haymarket Belfast - Crimson Room, Belfast on Thu, 31 Dec 2026.
+WILL CARRIGAN. is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Haymarket Belfast - Crimson Room, Belfast on Thu, 31 Dec 2026.
 
 WILL CARRIGAN. is a house and trance artist, with 6 gigs on soundcheck across Belfast and Glasgow. Often billed alongside Body Clinic, CIAN__ and Divergence. Next up: Haymarket Belfast - Crimson Room, Belfast on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ WILL CARRIGAN. is a house and trance artist, with 6 gigs on soundcheck across Be
 
 Body Clinic, CIAN__, Divergence
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willcarrigan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willcarrigan/)*

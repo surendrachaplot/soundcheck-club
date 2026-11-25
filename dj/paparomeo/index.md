@@ -1,6 +1,6 @@
 # Papa Romeo
 
-Papa Romeo is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Sugar Club, Dublin on Tue, 22 Dec 2026.
+Papa Romeo is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Sugar Club, Dublin on Tue, 22 Dec 2026.
 
 Papa Romeo is a funk / soul and jazz artist, with 4 gigs on soundcheck across Dublin. Often billed alongside Bella Festa, Aidan and David Diamond. Next up: The Sugar Club, Dublin on Tue 22 Dec.
 
@@ -20,4 +20,4 @@ Papa Romeo is a funk / soul and jazz artist, with 4 gigs on soundcheck across Du
 
 Bella Festa, Aidan, David Diamond
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paparomeo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paparomeo/)*

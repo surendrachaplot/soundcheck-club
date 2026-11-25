@@ -1,6 +1,6 @@
 # Louiv
 
-Louiv is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 11 Dec 2026.
+Louiv is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 Louiv is a house and tech house artist based in United States of America, with 76 gigs on soundcheck across Atlanta, Austin, Boston and Chicago and 5 more. Often billed alongside Combover, Philco and zacky. Next up: Public Works, San Francisco/Oakland on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Louiv is a house and tech house artist based in United States of America, with 7
 
 Combover, Philco, zacky
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*

@@ -1,6 +1,6 @@
 # eN (3)
 
-eN (3) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Blue Room, Montreal on Fri, 4 Dec 2026.
+eN (3) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Blue Room, Montreal on Fri, 4 Dec 2026.
 
 eN is a techno and deep house artist based in South Korea, with 8 gigs on soundcheck across Berlin, Bologna, Montreal and Tokyo. Often billed alongside ARJ (IR), Berkaï and DJ Yazi. Next up: Blue Room, Montreal on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ eN is a techno and deep house artist based in South Korea, with 8 gigs on soundc
 
 ARJ (IR), Berkaï, DJ Yazi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/en-3/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/en-3/)*

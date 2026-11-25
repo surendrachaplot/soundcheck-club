@@ -1,6 +1,6 @@
 # EYCEE
 
-EYCEE is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Radio Radio, Amsterdam on Fri, 4 Dec 2026.
+EYCEE is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Radio Radio, Amsterdam on Fri, 4 Dec 2026.
 
 EYCEE is a house and garage artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Brussels, Manchester and Rotterdam and 2 more. Often billed alongside Identified Patient, Jan Koster and TINS. Next up: Radio Radio, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ EYCEE is a house and garage artist based in Netherlands, with 66 gigs on soundch
 
 Identified Patient, Jan Koster, TINS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eycee/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eycee/)*

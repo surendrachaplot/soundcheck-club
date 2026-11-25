@@ -1,6 +1,6 @@
 # Mavidius
 
-Mavidius is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Sat, 5 Dec 2026.
+Mavidius is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Void Club, Berlin on Sat, 5 Dec 2026.
 
 Mavidius is a techno and drum & bass artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Modulatos, Dark Anomaly and Flow TNTS. Next up: Void Club, Berlin on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Mavidius is a techno and drum & bass artist based in Germany, with 4 gigs on sou
 
 Modulatos, Dark Anomaly (2), Flow TNTS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mavidius/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mavidius/)*

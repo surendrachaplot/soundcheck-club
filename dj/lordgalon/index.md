@@ -1,6 +1,6 @@
 # Lord Galon
 
-Lord Galon is a New Wave and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bi Nuu, Berlin on Sat, 28 Nov 2026.
+Lord Galon is a New Wave and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bi Nuu, Berlin on Sat, 28 Nov 2026.
 
 Lord Galon is a new wave and electro artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Don Rogall. Next up: Bi Nuu, Berlin on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Lord Galon is a new wave and electro artist based in Germany, with 4 gigs on sou
 
 Don Rogall
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordgalon/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordgalon/)*

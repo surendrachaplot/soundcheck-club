@@ -16,6 +16,6 @@ SPIRAL TRIBE : exhibition - screening - talks - workshops - SP23 closing rave at
 - Ixindamix
 - Jeff23
 - TAKAKO
-- void_response
+- void response
 
 *Source: [soundcheck](https://soundcheck.club/e/2550112-spiral-tribe-exhibition-screening-talks-workshops-sp23-closi/)*

@@ -1,6 +1,6 @@
 # Cheeseporn De L'an Neuf - Nantes at Château de Goulaine
 
-Cheeseporn De L'an Neuf - Nantes at Château de Goulaine on Thu 31 Dec, Nantes. 8 artists: carrà, Combe, Heidy Fly and Kim (FR) and 4 more. Trance and Techno. See the line-up on soundcheck.
+Cheeseporn De L'an Neuf - Nantes at Château de Goulaine on Thu 31 Dec, Nantes. 9 artists: carrà, Combe, Heidy Fly and Kim (FR) and 5 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Cheeseporn De L'an Neuf - Nantes at Château de Goulaine on Thu 31 Dec, Nantes. 
 - Kim (FR)
 - matilda (2)
 - Ottäkam
+- Propolys
 - Somoine
 - Théo Muller
 

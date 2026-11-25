@@ -1,6 +1,6 @@
 # Marco Maldarella
 
-Marco Maldarella is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
+Marco Maldarella is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 Marco Maldarella is a techno and trance artist based in Italy, with 52 gigs on soundcheck across Amsterdam, Athens, Berlin and Bologna and 16 more. Often billed alongside Abo Abo, Woody92 and Amanita. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Marco Maldarella is a techno and trance artist based in Italy, with 52 gigs on s
 
 Abo Abo, Woody92, Amanita
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcomaldarella/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcomaldarella/)*

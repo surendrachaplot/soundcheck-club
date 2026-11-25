@@ -1,8 +1,8 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
+DJ DRECKISCH is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
 
-DJ DRECKISCH is a techno and trance artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 13 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
+DJ DRECKISCH is a techno and trance artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 14 more. Often billed alongside Kacy, Paraçek and 3LEEZA. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ DRECKISCH is a techno and trance artist based in Germany, with 103 gigs on so
 | Fri, 4 Dec 2026 | Distillery | Leipzig |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Tue, 8 Dec 2026 | Club Exil | Vienna |
+| Fri, 11 Dec 2026 | Altes Postlager | Rhineland-palatinate |
 | Thu, 24 Dec 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Sat, 30 Jan 2027 | Fridas Pier | Stuttgart |
@@ -32,6 +33,6 @@ DJ DRECKISCH is a techno and trance artist based in Germany, with 103 gigs on so
 
 ## Shares bills with
 
-Kacy, 3LEEZA, DJ Achim Feuervogel
+Kacy, Paraçek, 3LEEZA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

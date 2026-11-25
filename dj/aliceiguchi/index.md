@@ -1,6 +1,6 @@
 # Alice Iguchi
 
-Alice Iguchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at House of Yes, New York City on Sat, 5 Dec 2026.
+Alice Iguchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at House of Yes, New York City on Sat, 5 Dec 2026.
 
 Alice Iguchi is a house and techno artist based in Japan, with 37 gigs on soundcheck across Berlin, Bogotá, Hong Kong and New York City and 3 more. Often billed alongside TAIHEI, Yo Nishijima and Justin Marchacos. Next up: House of Yes, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Alice Iguchi is a house and techno artist based in Japan, with 37 gigs on soundc
 
 TAIHEI, Yo Nishijima, Justin Marchacos
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceiguchi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceiguchi/)*

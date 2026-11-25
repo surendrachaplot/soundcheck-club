@@ -14,7 +14,7 @@ Toon Winter Town at Lieberscholli on Sat 28 Nov, Munich. 7 artists: Danya (DE), 
 - DJ Yugo
 - Goiaba
 - Jeyrototo
-- kamo.
+- kamo_
 - LYZA
 - SHAJAN
 

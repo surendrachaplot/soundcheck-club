@@ -1,6 +1,6 @@
 # Studio1111
 
-Studio1111 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Wolke 7" on Fri, 27 Nov 2026.
+Studio1111 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Wolke 7" on Fri, 27 Nov 2026.
 
 Studio1111 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including A.tari, B2BEATCHES, Chinichi and Christopher Lawrenz and 2 more. See dates, start times and who's playing. Potsdamer Str. 96, 10785 Berlin.
 
@@ -15,4 +15,4 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wit
 
 Potsdamer Str. 96, 10785 Berlin, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*

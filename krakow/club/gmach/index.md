@@ -1,6 +1,6 @@
 # Gmach
 
-Gmach is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "smog records przedstawia POSTÓJ / Młody Gołąb, Wojtek Siwik & more" on Fri, 11 Dec 2026.
+Gmach is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "smog records przedstawia POSTÓJ / Młody Gołąb, Wojtek Siwik & more" on Fri, 11 Dec 2026.
 
 Gmach is a music venue in Krakow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gmach is a music venue in Krakow listed on soundcheck. 1 upcoming gig. See dates
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | smog records przedstawia POSTÓJ / Młody Gołąb, Wojtek Siwik & more |  |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/gmach/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/gmach/)*

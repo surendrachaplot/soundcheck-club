@@ -1,0 +1,28 @@
+# m.O.N.R.O.E.
+
+m.O.N.R.O.E. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fooq's, Miami on Sun, 6 Dec 2026.
+
+m.O.N.R.O.E. is a house and minimal artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Detroit and 8 more. Often billed alongside Andrea Ghita, Jorissen and Kellie Allen. Next up: Fooq's, Miami on Sun 6 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 6 Dec 2026 | Fooq's | Miami |
+
+## Recently played
+
+- H0L0, New York City · Sat, 7 Nov 2026
+- TBA, Los Angeles · Sat, 3 Oct 2026
+- Marble Bar, Detroit · Sat, 26 Sept 2026
+- Cova Santa, Ibiza · Tue, 25 Aug 2026
+- Marble Bar, Detroit · Sat, 25 Jul 2026
+- Thuishaven, Amsterdam · Sun, 5 Jul 2026
+- Lincoln Factory, Detroit · Mon, 25 May 2026
+- Sable Miami, Miami · Sat, 23 May 2026
+
+## Shares bills with
+
+Andrea Ghita, Jorissen, Kellie Allen
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monroe/)*

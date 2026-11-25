@@ -1,13 +1,14 @@
 # N.Y.A
 
-N.Y.A is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 11 Dec 2026.
+N.Y.A is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Glamorama, Melbourne on Fri, 27 Nov 2026.
 
-N.Y.A is an uk funky and garage artist based in United Kingdom, with 5 gigs on soundcheck across Melbourne. Often billed alongside KJONES, CHEEKI and Crybaby. Next up: QQQ ST. Park, Melbourne on Fri 11 Dec.
+N.Y.A is a garage and house artist based in United Kingdom, with 6 gigs on soundcheck across Melbourne. Often billed alongside KJONES, Bushbaby and CHEEKI. Next up: Glamorama, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Glamorama | Melbourne |
 | Fri, 11 Dec 2026 | QQQ ST. Park | Melbourne |
 
 ## Recently played
@@ -19,6 +20,6 @@ N.Y.A is an uk funky and garage artist based in United Kingdom, with 5 gigs on s
 
 ## Shares bills with
 
-KJONES, CHEEKI, Crybaby
+KJONES, Bushbaby, CHEEKI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nya-uk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nya-uk/)*

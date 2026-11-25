@@ -1,6 +1,6 @@
 # MILA DUCH
 
-MILA DUCH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ÆDEN, Berlin on Wed, 25 Nov 2026.
+MILA DUCH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ÆDEN, Berlin on Wed, 25 Nov 2026.
 
 MILA DUCH is a techno and house artist based in Argentina, with 25 gigs on soundcheck across Berlin, Buenos Aires, Copenhagen and Leipzig and 1 more. Often billed alongside PAULITTAHH, PALOMA and Anna Logic. Next up: ÆDEN, Berlin on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ MILA DUCH is a techno and house artist based in Argentina, with 25 gigs on sound
 
 PAULITTAHH, PALOMA (4), Anna Logic
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miladuch/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miladuch/)*

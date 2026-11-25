@@ -1,6 +1,6 @@
 # Cameron Jack
 
-Cameron Jack is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 27 Nov 2026.
+Cameron Jack is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 27 Nov 2026.
 
 Cameron Jack is a house and afro house artist based in United Kingdom, with 71 gigs on soundcheck across Azerbaijan, Bali, Barcelona and Berlin and 14 more. Often billed alongside Damian Lazarus, Black Coffee and Paul Reynolds. Next up: Brooklyn Pacha, New York City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Cameron Jack is a house and afro house artist based in United Kingdom, with 71 g
 
 Damian Lazarus, Black Coffee, Paul Reynolds
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*

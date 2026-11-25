@@ -1,6 +1,6 @@
 # Gaspar Torres
 
-Gaspar Torres is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Bassment, Amsterdam on Sat, 28 Nov 2026.
+Gaspar Torres is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Bassment, Amsterdam on Sat, 28 Nov 2026.
 
 Gaspar Torres is a progressive house and electronica artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam. Often billed alongside Tom Pavicich, Kevin Di Serna and Alain Pauwels. Next up: The Bassment, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gaspar Torres is a progressive house and electronica artist based in Netherlands
 
 Tom Pavicich, Kevin Di Serna, Alain Pauwels
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspartorres/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspartorres/)*

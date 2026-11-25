@@ -1,14 +1,15 @@
 # sadgal
 
-sadgal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pulquería Vacas Verdes, Mexico City on Sat, 12 Dec 2026.
+sadgal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Pulquería Vacas Verdes, Mexico City on Sat, 12 Dec 2026.
 
-sadgal is a techno and house artist based in Mexico, with 129 gigs on soundcheck across Barcelona, Bogotá, Guadalajara and Madrid and 2 more. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: Pulquería Vacas Verdes, Mexico City on Sat 12 Dec.
+sadgal is a techno and house artist based in Mexico, with 130 gigs on soundcheck across Barcelona, Bogotá, Guadalajara and Madrid and 2 more. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: Pulquería Vacas Verdes, Mexico City on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Pulquería Vacas Verdes | Mexico City |
+| Thu, 31 Dec 2026 | TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ sadgal is a techno and house artist based in Mexico, with 129 gigs on soundcheck
 
 Celice Monnette, Dj Fucci, Enya Botello
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*

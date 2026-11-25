@@ -1,8 +1,8 @@
 # Tashi Tashi
 
-Tashi Tashi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Prisma, Berlin on Tue, 1 Dec 2026.
+Tashi Tashi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Prisma, Berlin on Tue, 1 Dec 2026.
 
-Tashi Tashi is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Alex Grebe, Aras and CCKY. Next up: Prisma, Berlin on Tue 1 Dec.
+Tashi Tashi is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Alex Grebe, Aras and Bee Lincoln. Next up: Prisma, Berlin on Tue 1 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Tashi Tashi is a techno and tech house artist based in Germany, with 9 gigs on s
 
 ## Shares bills with
 
-Alex Grebe, Aras, CCKY
+Alex Grebe, Aras, Bee Lincoln
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tashitashi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tashitashi/)*

@@ -1,6 +1,6 @@
 # Joe Arabica
 
-Joe Arabica is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Joe Arabica is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Joe Arabica is a techno and house artist based in Germany, with 2 gigs on soundcheck across Austria and Frankfurt. Often billed alongside Gregor Tresher, Merissa Mahilaa and AKA AKA. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -15,4 +15,4 @@ Joe Arabica is a techno and house artist based in Germany, with 2 gigs on soundc
 
 Gregor Tresher, Merissa Mahilaa, AKA AKA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joearabica/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joearabica/)*

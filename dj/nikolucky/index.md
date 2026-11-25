@@ -1,6 +1,6 @@
 # Nikolucky
 
-Nikolucky is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Käärmeenpesä, Helsinki on Thu, 31 Dec 2026.
+Nikolucky is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Käärmeenpesä, Helsinki on Thu, 31 Dec 2026.
 
 Nikolucky is a deep house and house artist based in Finland, with 12 gigs on soundcheck across Berlin, Helsinki and Ibiza. Often billed alongside P o B, Peacharoo and Bart Ricardo. Next up: Käärmeenpesä, Helsinki on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Nikolucky is a deep house and house artist based in Finland, with 12 gigs on sou
 
 P o B, Peacharoo, Bart Ricardo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolucky/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolucky/)*

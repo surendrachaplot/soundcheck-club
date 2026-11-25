@@ -1,13 +1,14 @@
 # Sol (HN)
 
-Sol (HN) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Sol (HN) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Subcero Club, Madrid on Sat, 5 Dec 2026.
 
-Sol (HN) is a house and disco artist based in Honduras, with 21 gigs on soundcheck across Ibiza, Jacksonville, London and Lyon and 9 more. Often billed alongside Anthony Mansfield, BEYA and Combover. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
+Sol (HN) is a house and disco artist based in Honduras, with 22 gigs on soundcheck across Ibiza, Jacksonville, London and Lyon and 9 more. Often billed alongside Anthony Mansfield, BEYA and Combover. Next up: Subcero Club, Madrid on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Subcero Club | Madrid |
 | Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sol (HN) is a house and disco artist based in Honduras, with 21 gigs on soundche
 
 Anthony Mansfield, BEYA, Combover
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sol-hn/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sol-hn/)*

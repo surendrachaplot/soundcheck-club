@@ -1,6 +1,6 @@
 # Luciid at SILO
 
-Luciid at SILO on Fri 27 Nov, New York City. 1 artist: Luciid. Techno. See the line-up on soundcheck.
+Luciid at SILO on Fri 27 Nov, New York City. 2 artists: ELIVVATE and Luciid. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Luciid at SILO on Fri 27 Nov, New York City. 1 artist: Luciid. Techno. See the l
 
 ## Line-up
 
+- ELIVVATE
 - Luciid
 
 *Source: [soundcheck](https://soundcheck.club/e/2523865-luciid-at-silo/)*

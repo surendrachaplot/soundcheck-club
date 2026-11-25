@@ -1,6 +1,6 @@
 # DJ Sprinter
 
-DJ Sprinter is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 29 Nov 2026.
+DJ Sprinter is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 29 Nov 2026.
 
 DJ Sprinter is a breakbeat and bass artist, with 20 gigs on soundcheck across Amsterdam, Brisbane, Bristol and Byron Bay and 9 more. Often billed alongside ELOQ, Ave Maria and Svebbe. Next up: Golden Pudel Club, Hamburg on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ DJ Sprinter is a breakbeat and bass artist, with 20 gigs on soundcheck across Am
 
 ELOQ, Ave Maria, Svebbe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinter/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinter/)*

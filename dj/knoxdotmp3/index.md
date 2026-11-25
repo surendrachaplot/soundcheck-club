@@ -1,6 +1,6 @@
 # KNOXDOTMP3
 
-KNOXDOTMP3 is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
+KNOXDOTMP3 is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
 
 KNOXDOTMP3 is a club and techno artist based in United States of America, with 19 gigs on soundcheck across Berlin, Los Angeles, Paris and Seattle. Often billed alongside Shane Thomas, Flabbergast (LA) and Nic Jericho. Next up: TBA, Los Angeles on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ KNOXDOTMP3 is a club and techno artist based in United States of America, with 1
 
 Shane Thomas, Flabbergast (LA), Nic Jericho
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*

@@ -1,6 +1,6 @@
 # Allius
 
-Allius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
+Allius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
 
 Allius is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Ana K Miller. Next up: Bar Shrimp, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Allius is a house and techno artist based in United Kingdom, with 48 gigs on sou
 
 Cersy, ngoma, Ana K Miller
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*

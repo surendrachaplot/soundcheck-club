@@ -1,6 +1,6 @@
 # Ana Selina
 
-Ana Selina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Ana Selina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Ana Selina is a house and techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Robin Flux, AAMIROO and Amy Dabbs. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Ana Selina is a house and techno artist based in Germany, with 3 gigs on soundch
 
 Robin Flux, AAMIROO, Amy Dabbs
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaselina/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaselina/)*

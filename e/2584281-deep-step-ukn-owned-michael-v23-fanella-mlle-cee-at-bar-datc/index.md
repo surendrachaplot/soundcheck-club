@@ -1,6 +1,6 @@
 # Deep step: ukn_owned, michael_v23, Fanella, MLLE CEE at Bar Datcha
 
-Deep step: ukn_owned, michael_v23, Fanella, MLLE CEE at Bar Datcha on Fri 4 Dec, Montreal. 1 artist: MLLE CEE. See the line-up on soundcheck.
+Deep step: ukn_owned, michael_v23, Fanella, MLLE CEE at Bar Datcha on Fri 4 Dec, Montreal. 1 artist: MLLE CEE. Deep House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Azamat B.
 
-Azamat B. is a Reggaeton and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 12 Dec 2026.
+Azamat B. is a Reggaeton and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 12 Dec 2026.
 
 Azamat B. is a reggaeton and bass artist based in France, with 15 gigs on soundcheck across Bordeaux, Brussels, Geneva and Lyon and 2 more. Often billed alongside Anaco, Audrey Danza and Divin0. Next up: La Machine Du Moulin Rouge, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Azamat B. is a reggaeton and bass artist based in France, with 15 gigs on soundc
 
 Anaco, Audrey Danza, Divin0
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azamatb/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azamatb/)*

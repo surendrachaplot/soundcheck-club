@@ -1,6 +1,6 @@
 # Simon Yellow
 
-Simon Yellow is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Catonium, Hamburg on Sat, 30 Jan 2027.
+Simon Yellow is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Catonium, Hamburg on Sat, 30 Jan 2027.
 
 Simon Yellow is a techno and electro artist, with 5 gigs on soundcheck across Berlin, Hamburg, Poznan and Warsaw. Often billed alongside Alex Xandra, BarTech and Bouras. Next up: Catonium, Hamburg on Sat 30 Jan.
 
@@ -21,4 +21,4 @@ Simon Yellow is a techno and electro artist, with 5 gigs on soundcheck across Be
 
 Alex Xandra, BarTech, Bouras
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonyellow/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonyellow/)*

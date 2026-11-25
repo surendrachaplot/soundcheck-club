@@ -1,6 +1,6 @@
 # Allfield
 
-Allfield is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Crescent, North on Sat, 28 Nov 2026.
+Allfield is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Crescent, North on Sat, 28 Nov 2026.
 
 Allfield is a techno and house artist based in United Kingdom, with 3 gigs on soundcheck across Lisbon, London and North. Often billed alongside Deo_, B:Cam and Flo Ruby. Next up: The Crescent, North on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Allfield is a techno and house artist based in United Kingdom, with 3 gigs on so
 
 Deo_, B:Cam, Flo Ruby
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allfield/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allfield/)*

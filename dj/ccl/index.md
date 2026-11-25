@@ -1,6 +1,6 @@
 # CCL
 
-CCL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
+CCL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
 
 CCL is a techno and house artist based in United States of America, with 236 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 71 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ CCL is a techno and house artist based in United States of America, with 236 gig
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

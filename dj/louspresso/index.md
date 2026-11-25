@@ -1,14 +1,15 @@
 # Louspresso
 
-Louspresso is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Louspresso is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
-Louspresso is a house and experimental artist based in United Kingdom, with 3 gigs on soundcheck across Edinburgh. Often billed alongside Jedda, freddy haptic and BPK. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
+Louspresso is a house and experimental artist based in United Kingdom, with 4 gigs on soundcheck across Edinburgh. Often billed alongside Jedda, Nikki Guild and freddy haptic. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | People's Leisure Club | Edinburgh |
+| Sat, 28 Nov 2026 | Paradise Palms | Edinburgh |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Louspresso is a house and experimental artist based in United Kingdom, with 3 gi
 
 ## Shares bills with
 
-Jedda, freddy haptic, BPK (1)
+Jedda, Nikki Guild, freddy haptic
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louspresso/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louspresso/)*

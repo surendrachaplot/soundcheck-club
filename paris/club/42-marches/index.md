@@ -1,6 +1,6 @@
 # 42 Marches
 
-42 Marches is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "2 years of Better Rave: Audrey Danza, Phelowe, & friends" on Fri, 27 Nov 2026.
+42 Marches is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "2 years of Better Rave: Audrey Danza, Phelowe, & friends" on Fri, 27 Nov 2026.
 
 42 Marches is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Audrey Danza, Ben Hamama, Deb Saadoun and DJ Baker and 2 more. See dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
 
@@ -16,4 +16,4 @@
 
 Esplanade Johnny Hallyday, 75012 Paris, Paris
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*

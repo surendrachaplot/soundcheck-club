@@ -1,6 +1,6 @@
 # Troxy
 
-Troxy is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "DnB Allstars NYE: London" on Thu, 31 Dec 2026.
+Troxy is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "DnB Allstars NYE: London" on Thu, 31 Dec 2026.
 
 Troxy is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 490 Commercial Road, London E1 0HX.
 
@@ -14,4 +14,4 @@ Troxy is a music venue in London listed on soundcheck. 1 upcoming gig. See dates
 
 490 Commercial Road, London E1 0HX, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/troxy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/troxy/)*

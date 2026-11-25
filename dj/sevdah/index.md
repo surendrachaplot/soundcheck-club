@@ -1,6 +1,6 @@
 # Sev Dah
 
-Sev Dah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at FVTVR, Paris on Sat, 26 Dec 2026.
+Sev Dah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at FVTVR, Paris on Sat, 26 Dec 2026.
 
 Sev Dah is a techno and house artist based in Sweden, with 34 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 17 more. Often billed alongside Nihad Tule, Ogazón and .Paragon. Next up: FVTVR, Paris on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Sev Dah is a techno and house artist based in Sweden, with 34 gigs on soundcheck
 
 Nihad Tule, Ogazón, .Paragon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*

@@ -1,14 +1,15 @@
 # mastaque
 
-mastaque is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 28 Nov 2026.
+mastaque is a Hip-Hop and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 28 Nov 2026.
 
-mastaque is a hip-hop and amapiano artist based in United Kingdom, with 5 gigs on soundcheck across Bergen and London. Often billed alongside 00ab, Angel Gray and Cass Brewster. Next up: Setlist @ Somerset House, London on Sat 28 Nov.
+mastaque is a hip-hop and afro house artist based in United Kingdom, with 6 gigs on soundcheck across Bergen and London. Often billed alongside 00ab, Angel Gray and Cass Brewster. Next up: Setlist @ Somerset House, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Setlist @ Somerset House | London |
+| Fri, 11 Dec 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ mastaque is a hip-hop and amapiano artist based in United Kingdom, with 5 gigs o
 
 00ab, Angel Gray, Cass Brewster
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*

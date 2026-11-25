@@ -1,6 +1,6 @@
 # Lily C-D
 
-Lily C-D is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Lily C-D is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Lily C-D is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Birmingham, Cardiff and Ibiza and 4 more. Often billed alongside Alexandria, Cam Stockman and Jamie Fielding. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Lily C-D is a house and tech house artist based in United Kingdom, with 30 gigs 
 
 Alexandria, Cam Stockman, Jamie Fielding
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*

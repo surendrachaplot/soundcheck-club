@@ -1,6 +1,6 @@
 # zulfree
 
-zulfree is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Robertas pizza, Riga on Fri, 4 Dec 2026.
+zulfree is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Robertas pizza, Riga on Fri, 4 Dec 2026.
 
 zulfree is a deep house and house artist based in Latvia, with 8 gigs on soundcheck across Riga. Often billed alongside Riposte, ANASI and DV8 (LV). Next up: TBA - Robertas pizza, Riga on Fri 4 Dec.
 
@@ -10,7 +10,7 @@ zulfree is a deep house and house artist based in Latvia, with 8 gigs on soundch
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | TBA - Robertas pizza | Riga |
 | Fri, 4 Dec 2026 | Robertas Pizzeria | Riga |
-| Fri, 11 Dec 2026 | TBA - Krišjāņa Barona iela 136, Riga | Riga |
+| Fri, 11 Dec 2026 | TBA - Secret Location | Riga |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ zulfree is a deep house and house artist based in Latvia, with 8 gigs on soundch
 
 Riposte, ANASI, DV8 (LV)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zulfree/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zulfree/)*

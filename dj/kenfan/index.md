@@ -1,6 +1,6 @@
 # Ken Fan
 
-Ken Fan is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Ken Fan is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Ken Fan is a house and electronica artist based in Spain, with 23 gigs on soundcheck across Hong Kong, Ibiza, Melbourne and Thailand. Often billed alongside DJ Anthony2, Simon Morell and Casey Anderson. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Ken Fan is a house and electronica artist based in Spain, with 23 gigs on soundc
 
 DJ Anthony2, Simon Morell, Casey Anderson
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenfan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenfan/)*

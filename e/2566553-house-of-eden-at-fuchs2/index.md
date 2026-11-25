@@ -1,6 +1,6 @@
 # House Of Eden at Fuchs2
 
-House Of Eden at Fuchs2 on Fri 4 Dec, Prague. 9 artists: 2NDRA, DJames, Electro rite and Kewu and 5 more. Techno and Acid. See the line-up on soundcheck.
+House Of Eden at Fuchs2 on Fri 4 Dec, Prague. 11 artists: 2NDRA, DJames, Electro rite and Kewu and 7 more. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,8 @@ House Of Eden at Fuchs2 on Fri 4 Dec, Prague. 9 artists: 2NDRA, DJames, Electro 
 - Niotech
 - PAY2PLAY
 - RiVid
+- SJ Yellow
+- tmk (CZ)
 - XENEA LUMRA
 
 *Source: [soundcheck](https://soundcheck.club/e/2566553-house-of-eden-at-fuchs2/)*

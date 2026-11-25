@@ -1,6 +1,6 @@
 # Yuuara
 
-Yuuara is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at elipamanoke, Leipzig on Fri, 11 Dec 2026.
+Yuuara is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at elipamanoke, Leipzig on Fri, 11 Dec 2026.
 
 Yuuara is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Karlsruhe and Leipzig. Often billed alongside Stella Muriel, Jaylan and LUIGI323. Next up: elipamanoke, Leipzig on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Yuuara is a techno and trance artist based in Germany, with 4 gigs on soundcheck
 
 Stella Muriel, Jaylan, LUIGI323
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuara/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuara/)*

@@ -1,6 +1,6 @@
 # Corrupted at The Peer Hat
 
-Corrupted at The Peer Hat on Fri 11 Dec, Manchester. 2 artists: gr00vy.cat and W1LY (UK). House and Garage. See the line-up on soundcheck.
+Corrupted at The Peer Hat on Fri 11 Dec, Manchester. 3 artists: Disco Stoner, gr00vy.cat and W1LY (UK). House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Corrupted at The Peer Hat on Fri 11 Dec, Manchester. 2 artists: gr00vy.cat and W
 
 ## Line-up
 
+- Disco Stoner
 - gr00vy.cat
 - W1LY (UK)
 

@@ -1,6 +1,6 @@
 # xinchao
 
-xinchao is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
+xinchao is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
 
 xinchao is a disco and house artist based in Czech Republic, with 9 gigs on soundcheck across Brno and Prague. Often billed alongside Kirill Astra, duboisi and Denny Krygr. Next up: Ankali & Planeta Za, Prague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ xinchao is a disco and house artist based in Czech Republic, with 9 gigs on soun
 
 Kirill Astra, duboisi, Denny Krygr
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xinchao/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xinchao/)*

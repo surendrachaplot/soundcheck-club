@@ -1,14 +1,15 @@
 # SUNA
 
-SUNA is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at vurt., Seoul on Fri, 27 Nov 2026.
+SUNA is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at vurt., Seoul on Fri, 27 Nov 2026.
 
-SUNA is a techno and downtempo artist based in South Korea, with 33 gigs on soundcheck across Kyushu and Seoul. Often billed alongside GOBI, ANSOL and SJK. Next up: vurt., Seoul on Fri 27 Nov.
+SUNA is a techno and downtempo artist based in South Korea, with 34 gigs on soundcheck across Kyushu and Seoul. Often billed alongside GOBI, ANSOL and SJK. Next up: vurt., Seoul on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | vurt. | Seoul |
+| Sun, 6 Dec 2026 | vurt. | Seoul |
 | Sat, 19 Dec 2026 | vurt. | Seoul |
 
 ## Recently played
@@ -26,4 +27,4 @@ SUNA is a techno and downtempo artist based in South Korea, with 33 gigs on soun
 
 GOBI, ANSOL, SJK (1)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suna-kr/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suna-kr/)*

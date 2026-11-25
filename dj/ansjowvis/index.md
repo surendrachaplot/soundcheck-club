@@ -1,6 +1,6 @@
 # Ansjowvis
 
-Ansjowvis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at export, Rotterdam on Fri, 4 Dec 2026.
+Ansjowvis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at export, Rotterdam on Fri, 4 Dec 2026.
 
 Ansjowvis is a techno and acid artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Zena-Rae, OG Karin and Sunnysoposted. Next up: export, Rotterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ansjowvis is a techno and acid artist based in Netherlands, with 28 gigs on soun
 
 Zena-Rae, OG Karin, Sunnysoposted
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ansjowvis/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ansjowvis/)*

@@ -1,14 +1,13 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Eagle Eye Cherry" on Mon, 23 Nov 2026.
+Akvárium Klub is a music venue in Budapest with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kraak&Smaak" on Sat, 28 Nov 2026.
 
-Akvárium Klub is a music venue in Budapest listed on soundcheck. 15 upcoming gigs, with line-ups including Alignment, ALT8, Andrew Cairns and Belocca and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
+Akvárium Klub is a music venue in Budapest listed on soundcheck. 14 upcoming gigs, with line-ups including Alignment, ALT8, Andrew Cairns and Belocca and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | Eagle Eye Cherry |  |
 | Sat, 28 Nov 2026 | Kraak&Smaak | Kraak & Smaak |
 | Sat, 28 Nov 2026 | NRG Budapest - Akvarium | ALT8, Andrew Cairns, DIØR, Jason Cluff, KARAH, Tara Casey, blk. |
 | Mon, 30 Nov 2026 | Macy Gray |  |
@@ -18,9 +17,10 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 15 upcoming gi
 | Sat, 19 Dec 2026 | Bladerunnaz pres. Metrik - goddard. - Emily Makis |  |
 | Sat, 16 Jan 2027 | Hungarian Techno Night | Belocca, NoNameLeft |
 | Fri, 29 Jan 2027 | Alignment & NagyHall | Alignment |
+| Sat, 30 Jan 2027 | Bladerunnaz presents: Mozey | Mozey |
 
 ## Address
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

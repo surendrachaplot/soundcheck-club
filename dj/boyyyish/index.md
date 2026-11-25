@@ -1,6 +1,6 @@
 # boyyyish
 
-boyyyish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bar  Milagro, New York City on Sat, 28 Nov 2026.
+boyyyish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar  Milagro, New York City on Sat, 28 Nov 2026.
 
 boyyyish is a house and techno artist based in United States of America, with 92 gigs on soundcheck across Berlin, London, Mexico City and New York City and 1 more. Often billed alongside Amber Valentine, Kandylion and SPRFRK. Next up: Bar  Milagro, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ boyyyish is a house and techno artist based in United States of America, with 92
 
 Amber Valentine, Kandylion, SPRFRK
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*

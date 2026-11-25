@@ -1,6 +1,6 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Bára Gísladóttir »Silva« & Robert Piotrowicz" on Wed, 25 Nov 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bára Gísladóttir »Silva« & Robert Piotrowicz" on Wed, 25 Nov 2026.
 
 Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 96 Back, Abajour, Akua and Andy Martin and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

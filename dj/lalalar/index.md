@@ -1,14 +1,14 @@
 # Lalalar
 
-Lalalar is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Zappa Barka Ušće bb, Belgrade on Sat, 19 Dec 2026.
+Lalalar is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Nova Zappa Barka, Belgrade on Sat, 19 Dec 2026.
 
-Lalalar is an electronica and ambient artist based in Turkey, with 7 gigs on soundcheck across Belgrade, Berlin, Lisbon and London and 2 more. Often billed alongside C'mon Tigre, DayKoda and Dualismo Sound. Next up: Zappa Barka Ušće bb, Belgrade on Sat 19 Dec.
+Lalalar is an electronica and ambient artist based in Turkey, with 7 gigs on soundcheck across Belgrade, Berlin, Lisbon and London and 2 more. Often billed alongside C'mon Tigre, DayKoda and Dualismo Sound. Next up: Nova Zappa Barka, Belgrade on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Dec 2026 | Zappa Barka Ušće bb | Belgrade |
+| Sat, 19 Dec 2026 | Nova Zappa Barka | Belgrade |
 
 ## Recently played
 
@@ -23,4 +23,4 @@ Lalalar is an electronica and ambient artist based in Turkey, with 7 gigs on sou
 
 C'mon Tigre, DayKoda, Dualismo Sound
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lalalar/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lalalar/)*

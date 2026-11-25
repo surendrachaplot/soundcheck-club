@@ -1,6 +1,6 @@
 # JonnyVicious
 
-JonnyVicious is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+JonnyVicious is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 JonnyVicious is a house and techno artist based in Malaysia, with 96 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 3 more. Often billed alongside LZZY, Alam and Roshan. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ JonnyVicious is a house and techno artist based in Malaysia, with 96 gigs on sou
 
 LZZY, Alam, Roshan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*

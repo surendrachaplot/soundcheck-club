@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Mexico City on Fri, 4 Dec 2026.
+Ngly is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Mexico City on Fri, 4 Dec 2026.
 
 Ngly is a techno and electro artist based in Germany, with 17 gigs on soundcheck across Athens, Bali, Beijing and Belgrade and 8 more. Often billed alongside Burago, Deejay Energy and ALF CHAMPION. Next up: TBA, Mexico City on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Ngly is a techno and electro artist based in Germany, with 17 gigs on soundcheck
 
 Burago, Deejay Energy, ALF CHAMPION
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

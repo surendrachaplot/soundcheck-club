@@ -1,8 +1,8 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New York City on Sat, 5 Dec 2026.
+Hugo Martinez is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Signal, New York City on Sat, 5 Dec 2026.
 
-Hugo Martinez is a house and minimal artist based in Spain, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 14 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Signal, New York City on Sat 5 Dec.
+Hugo Martinez is a house and minimal artist based in Spain, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 14 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Signal, New York City on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hugo Martinez is a house and minimal artist based in Spain, with 86 gigs on soun
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Signal | New York City |
 | Thu, 31 Dec 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played
@@ -27,4 +28,4 @@ Hugo Martinez is a house and minimal artist based in Spain, with 86 gigs on soun
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

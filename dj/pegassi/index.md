@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Pegassi is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Pegassi is a techno and trance artist based in Belgium, with 205 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 66 more. Often billed alongside Helena Lauwaert, Mischluft and Anetha. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Pegassi is a techno and trance artist based in Belgium, with 205 gigs on soundch
 
 Helena Lauwaert, Mischluft, Anetha
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

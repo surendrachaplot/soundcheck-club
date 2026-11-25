@@ -1,6 +1,6 @@
 # Hippie New Year at Ritter Butzke
 
-Hippie New Year at Ritter Butzke on Thu 31 Dec, Berlin. 21 artists: Aaron Hibell, Atreo, Baerbel and Confred and 17 more. Techno and House. See the line-up on soundcheck.
+Hippie New Year at Ritter Butzke on Thu 31 Dec, Berlin. 20 artists: Aaron Hibell, Atreo, Baerbel and Confred and 16 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,7 +18,6 @@ Hippie New Year at Ritter Butzke on Thu 31 Dec, Berlin. 21 artists: Aaron Hibell
 - Dominik Eulberg
 - Einmusik
 - Ele Luz
-- Kirk (US)
 - Maik Gyver
 - Malouna
 - Markus Klee

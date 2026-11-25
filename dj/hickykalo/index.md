@@ -1,6 +1,6 @@
 # Hicky & Kalo
 
-Hicky & Kalo is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Stereo, Montreal on Fri, 18 Dec 2026.
+Hicky & Kalo is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Montreal on Fri, 18 Dec 2026.
 
 Hicky & Kalo are a progressive house and deep house duo based in Canada, with 89 gigs on soundcheck across Amsterdam, Auckland, Bogotá and Buenos Aires and 13 more. Often billed alongside Sebastien Leger, Roy Rosenfeld and Guy Mantzur. Next up: Stereo, Montreal on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Hicky & Kalo are a progressive house and deep house duo based in Canada, with 89
 
 Sebastien Leger, Roy Rosenfeld, Guy Mantzur
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*

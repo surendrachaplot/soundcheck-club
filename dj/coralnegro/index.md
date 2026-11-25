@@ -1,13 +1,14 @@
 # Cøral Negrø
 
-Cøral Negrø is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 16 Jan 2027.
+Cøral Negrø is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hafenklang, Hamburg on Sat, 5 Dec 2026.
 
-Cøral Negrø is a techno and house artist based in Guatemala, with 26 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig. Often billed alongside Konfusia, Aio and Bizzarro Universe. Next up: Ritter Butzke, Berlin on Sat 16 Jan.
+Cøral Negrø is a techno and house artist based in Guatemala, with 27 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig. Often billed alongside Konfusia, Aio and Bizzarro Universe. Next up: Hafenklang, Hamburg on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Hafenklang | Hamburg |
 | Sat, 16 Jan 2027 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cøral Negrø is a techno and house artist based in Guatemala, with 26 gigs on s
 
 Konfusia, Aio, Bizzarro Universe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coralnegro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coralnegro/)*

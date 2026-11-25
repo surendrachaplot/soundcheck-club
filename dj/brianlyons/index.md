@@ -1,0 +1,28 @@
+# Brian Lyons
+
+Brian Lyons is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+
+Brian Lyons is a house and deep house artist based in United States of America, with 65 gigs on soundcheck across Seattle. Often billed alongside Dane Garfield, Dane Garfield Wilson and Julie Herrera. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 1 Jan 2027 | The Monkey Loft | Seattle |
+
+## Recently played
+
+- Chop Suey, Seattle · Sun, 4 Oct 2026
+- Chop Suey, Seattle · Sun, 30 Aug 2026
+- Chop Suey, Seattle · Sun, 21 Jun 2026
+- Chop Suey, Seattle · Sun, 24 May 2026
+- Chop Suey, Seattle · Sun, 10 May 2026
+- Chop Suey, Seattle · Sun, 19 Apr 2026
+- Chop Suey, Seattle · Sat, 28 Mar 2026
+- Chop Suey, Seattle · Sun, 8 Feb 2026
+
+## Shares bills with
+
+Dane Garfield, Dane Garfield Wilson, Julie Herrera
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brianlyons/)*

@@ -1,8 +1,8 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+KUKO is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-KUKO is a techno and trance artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 72 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
+KUKO is a techno and trance artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 72 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ KUKO is a techno and trance artist based in Germany, with 262 gigs on soundcheck
 | Sat, 19 Dec 2026 | Bootshaus | Cologne |
 | Sat, 19 Dec 2026 | Bootshaus | Cologne |
 | Sat, 26 Dec 2026 | Complex Maastricht | Netherlands |
+| Fri, 1 Jan 2027 | Bootshaus | Cologne |
 | Fri, 19 Feb 2027 | Industry City | New-york-city |
-| Fri, 4 Jun 2027 | Clydeside Live | Glasgow |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist based in Germany, with 262 gigs on soundcheck
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

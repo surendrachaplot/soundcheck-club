@@ -1,14 +1,15 @@
 # Match Hoffman
 
-Match Hoffman is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Elysia, Basel on Sat, 12 Dec 2026.
+Match Hoffman is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Elysia, Basel on Sat, 12 Dec 2026.
 
-Match Hoffman is a techno and tech house artist based in Germany, with 46 gigs on soundcheck across Basel, Berlin, East and Milan. Often billed alongside DJ Jordan, Rick.O and Grace Thompson. Next up: Elysia, Basel on Sat 12 Dec.
+Match Hoffman is a techno and tech house artist based in Germany, with 47 gigs on soundcheck across Basel, Berlin, East and Milan. Often billed alongside DJ Jordan, Rick.O and Grace Thompson. Next up: Elysia, Basel on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Elysia | Basel |
+| Wed, 16 Dec 2026 | KitKatClub | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Match Hoffman is a techno and tech house artist based in Germany, with 46 gigs o
 
 DJ Jordan, Rick.O, Grace Thompson
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matchhoffman/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matchhoffman/)*

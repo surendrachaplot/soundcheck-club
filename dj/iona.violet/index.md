@@ -1,14 +1,15 @@
 # Iona.Violet
 
-Iona.Violet is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
+Iona.Violet is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
 
-Iona.Violet is an electro and techno artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside ona:v, Nikki Guild and ROXAN (UK). Next up: The Bongo Club, Edinburgh on Sat 28 Nov.
+Iona.Violet is an electro and techno artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside ona:v, ROXAN (UK) and Nikki Guild. Next up: The Bongo Club, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Bongo Club | Edinburgh |
+| Sat, 23 Jan 2027 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Iona.Violet is an electro and techno artist based in United Kingdom, with 15 gig
 
 ## Shares bills with
 
-ona:v, Nikki Guild, ROXAN (UK)
+ona:v, ROXAN (UK), Nikki Guild
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*

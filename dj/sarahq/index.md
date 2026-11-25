@@ -1,6 +1,6 @@
 # Sarah Q
 
-Sarah Q is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 29 Nov 2026.
+Sarah Q is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 29 Nov 2026.
 
 Sarah Q is a bass and garage artist based in Germany, with 44 gigs on soundcheck across Hamburg and Hannover. Often billed alongside Usus, Freddy Kuno and DJ Babyblade. Next up: Golden Pudel Club, Hamburg on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Sarah Q is a bass and garage artist based in Germany, with 44 gigs on soundcheck
 
 Usus, Freddy Kuno, DJ Babyblade
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahq/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahq/)*

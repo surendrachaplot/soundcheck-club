@@ -1,6 +1,6 @@
 # U10247 with maniac&me & Freunde at Minimal Bar
 
-U10247 with maniac&me & Freunde at Minimal Bar on Sun 21 Feb, Berlin. 1 artist: maniac&me. See the line-up on soundcheck.
+U10247 with maniac&me & Freunde at Minimal Bar on Sun 21 Feb, Berlin. 1 artist: maniac&me. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

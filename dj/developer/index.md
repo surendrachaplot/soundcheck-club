@@ -1,8 +1,8 @@
 # Developer
 
-Developer is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Developer is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
-Developer is a techno and acid artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Aztekan, Jeff Mills and Nick Dagher. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
+Developer is a techno and acid artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Aztekan, Jeff Mills and Nick Dagher. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Developer is a techno and acid artist based in United States of America, with 67
 | --- | --- | --- |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Tresor / Globus | Berlin |
+| Sat, 23 Jan 2027 | Kaņepes Kultūras Centrs | Riga |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Developer is a techno and acid artist based in United States of America, with 67
 
 Aztekan, Jeff Mills, Nick Dagher
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*

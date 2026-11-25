@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Resonance On The Ground curated by IKLECTIK" on Wed, 25 Nov 2026.
+Ormside Projects is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Resonance On The Ground curated by IKLECTIK" on Wed, 25 Nov 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Anina, Coe, ddwy and DJ Gonz and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Ab.Diablo, Anina, Bitter Babe and Coe and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gi
 | Fri, 4 Dec 2026 | Unbound presents: Nazar [live], Tristan Arp [live], Sharnie, DJ Winggold + Goh Well | DJ Winggold, Goh Well, Nazar, Sharnie, Tristan Arp |
 | Sat, 5 Dec 2026 | Atomiser: Foodman, FAUZIA, Nicolini, DJ Gonz, Shauwdii, Jon & Lianne | DJ Gonz, FAUZIA, Foodman |
 | Wed, 9 Dec 2026 | ORMSIDE presents: DJ Sacred / susu laroche / Ossia / Lord Tusk | DJ Sacred, Lord Tusk, Ossia, susu laroche |
-| Fri, 11 Dec 2026 | Warmth presents: TBA |  |
+| Fri, 11 Dec 2026 | Warmth presents: Bitter Babe, Jawnino, MJK, Prof. Stranger + more | Ab.Diablo, Bitter Babe, Jawnino, MJK, Prof. Stranger, VIRI$$ |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

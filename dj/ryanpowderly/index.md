@@ -1,6 +1,6 @@
 # Ryan Powderly
 
-Ryan Powderly is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Solace, Melbourne on Sat, 5 Dec 2026.
+Ryan Powderly is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Solace, Melbourne on Sat, 5 Dec 2026.
 
 Ryan Powderly is a house and electro artist based in Australia, with 5 gigs on soundcheck across Melbourne. Often billed alongside Bridget Small, DAWS and Elsie. Next up: Solace, Melbourne on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Ryan Powderly is a house and electro artist based in Australia, with 5 gigs on s
 
 Bridget Small (2), DAWS, Elsie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanpowderly/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanpowderly/)*

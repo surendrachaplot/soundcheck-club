@@ -1,8 +1,8 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Dennis Cruz is a Tech House and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Dennis Cruz is a tech house and house artist based in Spain, with 210 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside PAWSA, Marco Carola and Seth Troxler. Next up: TBA, Buenos Aires on Fri 20 Nov.
+Dennis Cruz is a tech house and house artist based in Spain, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside PAWSA, Marco Carola and Seth Troxler. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,9 +10,12 @@ Dennis Cruz is a tech house and house artist based in Spain, with 210 gigs on so
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Fri, 4 Dec 2026 | TBA - CASA NEOS | Miami |
+| Fri, 11 Dec 2026 | Blue Room | Montreal |
 | Mon, 21 Dec 2026 | TBA | Uruguay |
 | Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
 | Fri, 15 Jan 2027 | TBA | Toronto |
+| Sat, 16 Jan 2027 | Radius | Chicago |
+| Fri, 22 Jan 2027 | 1015 Folsom | San Francisco/Oakland |
 | Mon, 8 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
@@ -32,4 +35,4 @@ Dennis Cruz is a tech house and house artist based in Spain, with 210 gigs on so
 
 PAWSA, Marco Carola, Seth Troxler
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

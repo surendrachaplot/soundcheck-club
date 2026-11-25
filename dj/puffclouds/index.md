@@ -1,6 +1,6 @@
 # puffclouds
 
-puffclouds is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+puffclouds is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
 
 puffclouds is a techno and house artist based in France, with 6 gigs on soundcheck across Tokyo. Often billed alongside TECSTONE, ALLY and SIGNAL (JP). Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
 
@@ -22,4 +22,4 @@ puffclouds is a techno and house artist based in France, with 6 gigs on soundche
 
 TECSTONE, ALLY, SIGNAL (JP)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puffclouds/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puffclouds/)*

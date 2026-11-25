@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 25 Nov, Berlin. 7 artists: Basshirte, ChéRebel, menicx and MIYĀN and 3 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 25 Nov, Berlin. 8 artists: Basshirte, ChéRebel, menicx and MIYĀN and 4 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ TECHNO MITTWOCH at Sensorium on Wed 25 Nov, Berlin. 7 artists: Basshirte, ChéRe
 - NYCTO
 - rynbj (2)
 - Sin Sonik
+- Timoka
 
 *Source: [soundcheck](https://soundcheck.club/e/2518131-techno-mittwoch-at-sensorium/)*

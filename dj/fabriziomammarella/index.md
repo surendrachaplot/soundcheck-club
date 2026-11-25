@@ -1,6 +1,6 @@
 # Fabrizio Mammarella
 
-Fabrizio Mammarella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 28 Nov 2026.
+Fabrizio Mammarella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 28 Nov 2026.
 
 Fabrizio Mammarella is a house and techno artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 30 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: Peti Kupe, Zagreb on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Fabrizio Mammarella is a house and techno artist based in Italy, with 110 gigs o
 
 Giulia Gutterer, Franz Scala, Charlie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*

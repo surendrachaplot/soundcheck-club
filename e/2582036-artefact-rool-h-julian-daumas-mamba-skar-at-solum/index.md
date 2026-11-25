@@ -1,6 +1,6 @@
 # Artefact: Rooléh, Julian Daumas, Mamba Skar at Solum
 
-Artefact: Rooléh, Julian Daumas, Mamba Skar at Solum on Sat 28 Nov, Paris. 2 artists: Juliann and Rooléh. House and Tech House. See the line-up on soundcheck.
+Artefact: Rooléh, Julian Daumas, Mamba Skar at Solum on Sat 28 Nov, Paris. 2 artists: Julian Daumas and Rooléh. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Artefact: Rooléh, Julian Daumas, Mamba Skar at Solum on Sat 28 Nov, Paris. 2 ar
 
 ## Line-up
 
-- Juliann
+- Julian Daumas
 - Rooléh
 
 *Source: [soundcheck](https://soundcheck.club/e/2582036-artefact-rool-h-julian-daumas-mamba-skar-at-solum/)*

@@ -1,6 +1,6 @@
 # RŌ (FLX4)
 
-RŌ (FLX4) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 24 Dec 2026.
+RŌ (FLX4) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 24 Dec 2026.
 
 RŌ (FLX4) is a techno and electronica artist, with 9 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Julia Konor, H-R-Z and SYM. Next up: Les Enfants Brillants, Barcelona on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ RŌ (FLX4) is a techno and electronica artist, with 9 gigs on soundcheck across 
 
 Julia Konor, H-R-Z, SYM
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roflx4/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roflx4/)*

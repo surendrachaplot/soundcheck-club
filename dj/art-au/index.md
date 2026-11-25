@@ -1,8 +1,8 @@
 # Art (AU)
 
-Art (AU) is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tender, Melbourne on Thu, 3 Dec 2026.
+Art (AU) is a Ambient and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tender, Melbourne on Thu, 3 Dec 2026.
 
-Art (AU) is an ambient and downtempo artist based in Australia, with 14 gigs on soundcheck across Bangkok, Berlin, Hobart and Lisbon and 3 more. Often billed alongside Rev Lon, Bex and Billus. Next up: Tender, Melbourne on Thu 3 Dec.
+Art (AU) is an ambient and downtempo artist based in Australia, with 15 gigs on soundcheck across Bangkok, Berlin, Hobart and Lisbon and 3 more. Often billed alongside Rev Lon, Bex and Billus. Next up: Tender, Melbourne on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Art (AU) is an ambient and downtempo artist based in Australia, with 14 gigs on 
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Tender | Melbourne |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
+| Sun, 27 Dec 2026 | Ticcle | Hobart |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Art (AU) is an ambient and downtempo artist based in Australia, with 14 gigs on 
 
 Rev Lon, Bex, Billus
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/art-au/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/art-au/)*

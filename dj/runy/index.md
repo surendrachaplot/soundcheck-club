@@ -1,6 +1,6 @@
 # Runy
 
-Runy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Tunnel, Serbia on Sat, 5 Dec 2026.
+Runy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Tunnel, Serbia on Sat, 5 Dec 2026.
 
 Runy is a house and techno artist based in Serbia, with 34 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Serbia and 2 more. Often billed alongside Janko, Nemax and Anna Wall. Next up: Club Tunnel, Serbia on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Runy is a house and techno artist based in Serbia, with 34 gigs on soundcheck ac
 
 Janko, Nemax, Anna Wall
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runy/)*

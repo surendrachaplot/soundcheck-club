@@ -1,14 +1,15 @@
 # Freeka
 
-Freeka is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 27 Nov 2026.
+Freeka is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 27 Nov 2026.
 
-Freeka is a techno and acid artist based in Italy, with 43 gigs on soundcheck across Barcelona. Often billed alongside ROSS z, DD.MATTS and IZAN CRAMER. Next up: The Supermercat Gotico, Barcelona on Fri 27 Nov.
+Freeka is a techno and acid artist based in Italy, with 44 gigs on soundcheck across Barcelona. Often billed alongside ROSS z, DD.MATTS and IZAN CRAMER. Next up: The Supermercat Gotico, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Supermercat Gotico | Barcelona |
+| Thu, 3 Dec 2026 | Bridge 48 | Barcelona |
 | Fri, 4 Dec 2026 | D9 Aribau | Barcelona |
 | Sun, 13 Dec 2026 | DETROIT CLUB | Barcelona |
 
@@ -27,4 +28,4 @@ Freeka is a techno and acid artist based in Italy, with 43 gigs on soundcheck ac
 
 ROSS z, DD.MATTS, IZAN CRAMER
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freeka/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freeka/)*

@@ -1,6 +1,6 @@
 # Patchy
 
-Patchy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 25 Dec 2026.
+Patchy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 25 Dec 2026.
 
 Patchy is a trance and techno artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Paul Bauhaus, EZA (DE) and DJ Spaßgetränk. Next up: Humboldthain Club, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Patchy is a trance and techno artist based in Germany, with 19 gigs on soundchec
 
 Paul Bauhaus, EZA (DE), DJ Spaßgetränk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patchy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patchy/)*

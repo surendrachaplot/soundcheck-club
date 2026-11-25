@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "MAKINEROS XXL Winter Edition" on Sat, 28 Nov 2026.
+Fabrik is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MAKINEROS XXL Winter Edition" on Sat, 28 Nov 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including 999999999, Abel Ramos, Adrian Mills and Akira and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -20,4 +20,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with li
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

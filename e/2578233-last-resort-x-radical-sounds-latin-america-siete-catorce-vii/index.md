@@ -1,17 +1,16 @@
-# Last Resort x Radical Sounds Latin America: Siete Catorce/Viiaan + Dakn/M. Takara/Orieta Chrem at OHM
+# Last Resort x Radical Sounds Latin America: Siete Catorce/Viiaan/M. Takara/Orieta Chrem at TBA
 
-Last Resort x Radical Sounds Latin America: Siete Catorce/Viiaan + Dakn/M. Takara/Orieta Chrem at OHM on Sat 28 Nov, Berlin. 5 artists: Basy Tropikalne, Dakn, Orieta Chrem and Siete Catorce and 1 more. Bass and Club. See the line-up on soundcheck.
+Last Resort x Radical Sounds Latin America: Siete Catorce/Viiaan/M. Takara/Orieta Chrem at TBA on Sat 28 Nov, Berlin. 4 artists: Basy Tropikalne, Orieta Chrem, Siete Catorce and Viiaan. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 28 Nov 2026 |
-| Venue | OHM |
+| Venue | TBA |
 | City | Berlin |
 
 ## Line-up
 
 - Basy Tropikalne
-- Dakn
 - Orieta Chrem
 - Siete Catorce
 - Viiaan

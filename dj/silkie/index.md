@@ -1,15 +1,17 @@
 # Silkie
 
-Silkie is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Fri, 4 Dec 2026.
+Silkie is a Dubstep and Dub artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Trinity Centre, Bristol on Fri, 27 Nov 2026.
 
-Silkie is a dubstep and dub artist based in United Kingdom, with 31 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 6 more. Often billed alongside SGT Pokes, Tessa and Felixculpah. Next up: fabric, London on Fri 4 Dec.
+Silkie is a dubstep and dub artist based in United Kingdom, with 33 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 7 more. Often billed alongside SGT Pokes, Tessa and Felixculpah. Next up: The Trinity Centre, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | The Trinity Centre | Bristol |
 | Fri, 4 Dec 2026 | fabric | London |
 | Fri, 11 Dec 2026 | TBA | Sydney |
+| Sat, 12 Dec 2026 | QQQ ST. Park | Melbourne |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -27,4 +29,4 @@ Silkie is a dubstep and dub artist based in United Kingdom, with 31 gigs on soun
 
 SGT Pokes, Tessa, Felixculpah
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*

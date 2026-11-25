@@ -1,6 +1,6 @@
 # Milly on Air
 
-Milly on Air is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 28 Nov 2026.
+Milly on Air is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 28 Nov 2026.
 
 Milly on Air is a house and techno artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and A For Alpha. Next up: Electric Pizza Shop, Manchester on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Milly on Air is a house and techno artist based in United Kingdom, with 77 gigs 
 
 Gallegos, J.Rains, A For Alpha
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*

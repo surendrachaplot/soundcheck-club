@@ -1,13 +1,14 @@
 # The Government Center
 
-The Government Center is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Leafy Brean Recordings Presents: Fuzznaut, Megabeardo + more" on Thu, 22 Oct 2026.
+The Government Center is a music venue in Pittsburgh with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Drum and Bass Night: Special Blackout Edition" on Wed, 25 Nov 2026.
 
-The Government Center is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+The Government Center is a music venue in Pittsburgh listed on soundcheck. 2 upcoming gigs, with line-ups including FLOOD (IE). See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Leafy Brean Recordings Presents: Fuzznaut, Megabeardo + more |  |
+| Wed, 25 Nov 2026 | Drum and Bass Night: Special Blackout Edition |  |
+| Sat, 19 Dec 2026 | Steel City Dungeon Synth Presents: Psychic Hood, Mortlach, Low Cunning, Flood | FLOOD (IE) |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/the-government-center/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/the-government-center/)*

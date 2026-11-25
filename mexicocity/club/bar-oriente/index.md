@@ -1,13 +1,15 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Radio Slave (U.K. - REKIDS), Andre VII, Cinema Paradisco, Quip, calypso & Kickfill" on Fri, 27 Nov 2026.
+Bar Oriente is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ANTIBIOTIKA: Hot Hudson, Mariana Revilla, Sabina Palma" on Wed, 25 Nov 2026.
 
-Bar Oriente is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, with line-ups including Alatriste, Andre VII, Boytoy and calypso and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including Alatriste, Andre VII, Anthony Godfather and Boytoy and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Wed, 25 Nov 2026 | ANTIBIOTIKA: Hot Hudson, Mariana Revilla, Sabina Palma | Hot Hudson, Sabina Palma |
+| Thu, 26 Nov 2026 | HOUSE SOCIETY: Anthony Godfather (España), Bautista, Roli | Anthony Godfather (2), Roli |
 | Fri, 27 Nov 2026 | Radio Slave (U.K. - REKIDS), Andre VII, Cinema Paradisco, Quip, calypso & Kickfill | Andre VII, Cinema Paradisco, Kick Fill, Radio Slave, calypso |
 | Sat, 28 Nov 2026 | Silueta: Simon Doty (Canada / Recess), Ian Martz, Boytoy | Boytoy, Ian Martz, Simon Doty |
 | Fri, 4 Dec 2026 | Yuksek (FR), NuCasa (PL), Alatriste B2B Violet Dny | Alatriste, NuCasa, Yuksek |
@@ -18,4 +20,4 @@ Bar Oriente is a music venue in Mexico City listed on soundcheck. 5 upcoming gig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

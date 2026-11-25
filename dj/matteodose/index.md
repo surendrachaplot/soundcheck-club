@@ -1,6 +1,6 @@
 # Matteo Dose
 
-Matteo Dose is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ramona, Manchester on Sat, 12 Dec 2026.
+Matteo Dose is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ramona, Manchester on Sat, 12 Dec 2026.
 
 Matteo Dose is a house and garage artist based in Italy, with 13 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Gaka, JustElliot and Lucas Flanners. Next up: Ramona, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Matteo Dose is a house and garage artist based in Italy, with 13 gigs on soundch
 
 Gaka, JustElliot, Lucas Flanners
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodose/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodose/)*

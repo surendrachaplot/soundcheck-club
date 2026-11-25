@@ -1,6 +1,6 @@
 # 1LDK
 
-1LDK is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Socore Factory, Osaka on Mon, 28 Dec 2026.
+1LDK is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Socore Factory, Osaka on Mon, 28 Dec 2026.
 
 1LDK is an electronica and pop artist based in Japan, with 11 gigs on soundcheck across Barcelona, Berlin, Cologne and London and 4 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: Socore Factory, Osaka on Mon 28 Dec.
 
@@ -25,4 +25,4 @@
 
 Andriana-Yaroslava Saienko, Carrier, Catu Diosis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*

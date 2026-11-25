@@ -1,6 +1,6 @@
 # AIRKEY
 
-AIRKEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Toldi Klub, Budapest on Thu, 17 Dec 2026.
+AIRKEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Toldi Klub, Budapest on Thu, 17 Dec 2026.
 
 AIRKEY is a house and tech house artist based in Hungary, with 20 gigs on soundcheck across Budapest. Often billed alongside La La, Gary More and some1. Next up: Toldi Klub, Budapest on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ AIRKEY is a house and tech house artist based in Hungary, with 20 gigs on soundc
 
 La La, Gary More, some1
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airkey/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airkey/)*

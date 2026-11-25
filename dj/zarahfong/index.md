@@ -1,6 +1,6 @@
 # Zarah Fong
 
-Zarah Fong is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Acadana, Hong Kong on Thu, 31 Dec 2026.
+Zarah Fong is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Acadana, Hong Kong on Thu, 31 Dec 2026.
 
 Zarah Fong is a bass and techno artist based in China, with 4 gigs on soundcheck across Hong Kong. Often billed alongside ADRIANNA.C, M8-MDM8 and Mill.H. Next up: Acadana, Hong Kong on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Zarah Fong is a bass and techno artist based in China, with 4 gigs on soundcheck
 
 ADRIANNA.C, M8-MDM8, Mill.H
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zarahfong/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zarahfong/)*

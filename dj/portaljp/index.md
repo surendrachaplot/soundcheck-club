@@ -1,6 +1,6 @@
 # PortaL(JP)
 
-PortaL(JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bonobo, Tokyo on Fri, 27 Nov 2026.
+PortaL(JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bonobo, Tokyo on Fri, 27 Nov 2026.
 
 PortaL(JP) is a house and techno artist based in Japan, with 20 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside KA4U, Acrocanthosaurus and CALPISS. Next up: Bonobo, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ PortaL(JP) is a house and techno artist based in Japan, with 20 gigs on soundche
 
 KA4U, Acrocanthosaurus, CALPISS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/portaljp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/portaljp/)*

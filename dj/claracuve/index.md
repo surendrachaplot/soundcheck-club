@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Clara Cuvé is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 Clara Cuvé is a techno and house artist based in Germany, with 284 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Clara Cuvé is a techno and house artist based in Germany, with 284 gigs on soun
 
 Kobosil, I Hate Models, 999999999
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

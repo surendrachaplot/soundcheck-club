@@ -1,8 +1,8 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Kuddelmuddel bei Nacht" on Fri, 27 Nov 2026.
+Tanzhaus West is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kuddelmuddel bei Nacht" on Fri, 27 Nov 2026.
 
-Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including 1luu, 5euroGoldi, ADHASS and Andrale and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
+Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including 1luu, 5euroGoldi, ADHASS and Alexander Aurel and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming gig
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Kuddelmuddel bei Nacht |  |
 | Sat, 28 Nov 2026 | 23 JAHRE Tanzhaus West | ADHASS, CEM, Concussion (CNC), DJ 069, Fabe, HOTBOI2300, Laurine Philippe, MËRO, Nene H, Otis Xo, Q NANi, assena, felix (6), stargurl |
+| Sat, 5 Dec 2026 | Electric Grooves - The Final Closing | Alexander Aurel, Chico Rose, Jermaine Dotson, Noel Rodriguez |
 | Fri, 11 Dec 2026 | HYPERTRANCE | 1luu, 5euroGoldi, Krash Cora, NIKUSH, Orakel, Vivienna, cravings320 |
 | Sat, 12 Dec 2026 | COLOURS with WOODKIN live, Ozzy Riot, Rachel Raw | Flo Circus, Florelle, MAZ'N, Mollono.Bass, Ozzy Riot, Rachel Raw, WOODKIN |
 | Sat, 19 Dec 2026 | BERLINER NAECHTE | Andrale, Britta Arnold, Foolik, Oriental Tropical, Pauli Pocket |
@@ -19,4 +20,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

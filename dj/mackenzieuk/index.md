@@ -1,13 +1,14 @@
 # Mackenzie (UK)
 
-Mackenzie (UK) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+Mackenzie (UK) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mickey Zoggs, Bristol on Fri, 27 Nov 2026.
 
-Mackenzie (UK) is a techno and acid artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Medellin and Osaka. Often billed alongside Anina, Clarity and Jurango. Next up: The Island, Bristol on Thu 31 Dec.
+Mackenzie (UK) is a techno and acid artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, Medellin and Osaka. Often billed alongside Anina, Clarity and Jurango. Next up: Mickey Zoggs, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Mickey Zoggs | Bristol |
 | Thu, 31 Dec 2026 | The Island | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mackenzie (UK) is a techno and acid artist based in United Kingdom, with 18 gigs
 
 Anina, Clarity, Jurango
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackenzieuk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackenzieuk/)*

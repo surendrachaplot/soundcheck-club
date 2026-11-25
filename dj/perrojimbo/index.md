@@ -1,14 +1,15 @@
 # Perro Jimbo
 
-Perro Jimbo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 5 Dec 2026.
+Perro Jimbo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 5 Dec 2026.
 
-Perro Jimbo is a house and techno artist based in Italy, with 90 gigs on soundcheck across Barcelona, Berlin, Dublin and Lyon and 4 more. Often billed alongside VIKk, Family Matters and Fatal. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Dec.
+Perro Jimbo is a house and techno artist based in Italy, with 91 gigs on soundcheck across Barcelona, Berlin, Dublin and Lyon and 4 more. Often billed alongside VIKk, Family Matters and Adria (ES). Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Seaseaclub Barcelona | Barcelona |
+| Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Perro Jimbo is a house and techno artist based in Italy, with 90 gigs on soundch
 
 ## Shares bills with
 
-VIKk, Family Matters, Fatal
+VIKk, Family Matters, Adria (ES)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*

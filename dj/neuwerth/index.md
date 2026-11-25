@@ -1,6 +1,6 @@
 # NEUWERTH
 
-NEUWERTH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
+NEUWERTH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
 
 NEUWERTH is a techno and hardcore artist based in Czech Republic, with 29 gigs on soundcheck across Czech Republic and Prague. Often billed alongside Nøteleks, 2NDRA and NONSENSE (CZ). Next up: Fuchs2, Prague on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ NEUWERTH is a techno and hardcore artist based in Czech Republic, with 29 gigs o
 
 Nøteleks, 2NDRA, NONSENSE (CZ)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neuwerth/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neuwerth/)*

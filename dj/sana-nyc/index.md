@@ -1,6 +1,6 @@
 # Sana (NYC)
 
-Sana (NYC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jupiter Disco, New York City on Fri, 4 Dec 2026.
+Sana (NYC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jupiter Disco, New York City on Fri, 4 Dec 2026.
 
 Sana (NYC) is a house and techno artist, with 22 gigs on soundcheck across London, New Orleans and New York City. Often billed alongside Krithi, $EJ and 444. Next up: Jupiter Disco, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sana (NYC) is a house and techno artist, with 22 gigs on soundcheck across Londo
 
 Krithi, $EJ, 444 (1)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-nyc/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-nyc/)*

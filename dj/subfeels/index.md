@@ -1,6 +1,6 @@
 # subfeels
 
-subfeels is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - SF, San Francisco/Oakland on Sat, 5 Dec 2026.
+subfeels is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SF, San Francisco/Oakland on Sat, 5 Dec 2026.
 
 subfeels is a techno and bass artist based in Canada, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside ek:), DJ Tips and Kaytree. Next up: TBA - SF, San Francisco/Oakland on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ subfeels is a techno and bass artist based in Canada, with 7 gigs on soundcheck 
 
 ek:), DJ Tips, Kaytree
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subfeels/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subfeels/)*

@@ -1,6 +1,6 @@
 # Lorely Mur
 
-Lorely Mur is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
+Lorely Mur is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
 
 Lorely Mur is a techno and industrial artist based in Mexico, with 42 gigs on soundcheck across Boston, Chicago, Colorado and Dallas/Fort Worth and 5 more. Often billed alongside Alex Casillas, Alex Wilcox and Annika Wolfe. Next up: Marble Bar, Detroit on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Lorely Mur is a techno and industrial artist based in Mexico, with 42 gigs on so
 
 Alex Casillas, Alex Wilcox, Annika Wolfe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*

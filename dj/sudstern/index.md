@@ -1,14 +1,15 @@
 # Südstern
 
-Südstern is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beate Uwe, Berlin on Sat, 5 Dec 2026.
+Südstern is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Beate Uwe, Berlin on Sat, 5 Dec 2026.
 
-Südstern is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Vienna. Often billed alongside Pilar Jordan, Lisatrix and myzelia. Next up: Beate Uwe, Berlin on Sat 5 Dec.
+Südstern is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin and Vienna. Often billed alongside Pilar Jordan, Lisatrix and myzelia. Next up: Beate Uwe, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Beate Uwe | Berlin |
+| Fri, 11 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Südstern is a house and techno artist based in Germany, with 12 gigs on soundch
 
 Pilar Jordan, Lisatrix, myzelia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sudstern/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sudstern/)*

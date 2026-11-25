@@ -1,6 +1,6 @@
 # ESSMEE
 
-ESSMEE is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
+ESSMEE is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
 
 ESSMEE is a techno and experimental artist based in Germany, with 4 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside FACONTI, NYCTO and SAAMO. Next up: Rollberg26, Berlin on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ ESSMEE is a techno and experimental artist based in Germany, with 4 gigs on soun
 
 FACONTI, NYCTO, SAAMO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/essmee/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/essmee/)*

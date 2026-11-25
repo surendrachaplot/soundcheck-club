@@ -1,6 +1,6 @@
 # WADDLE, ellie & Rico at Le Bain
 
-WADDLE, ellie & Rico at Le Bain on Thu 3 Dec, New York City. 2 artists: ellie and WADDLE. See the line-up on soundcheck.
+WADDLE, ellie & Rico at Le Bain on Thu 3 Dec, New York City. 3 artists: ellie, Rico (JP) and WADDLE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ WADDLE, ellie & Rico at Le Bain on Thu 3 Dec, New York City. 2 artists: ellie an
 ## Line-up
 
 - ellie
+- Rico (JP)
 - WADDLE
 
 *Source: [soundcheck](https://soundcheck.club/e/2588884-waddle-ellie-rico-at-le-bain/)*

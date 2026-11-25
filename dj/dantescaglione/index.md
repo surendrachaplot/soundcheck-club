@@ -1,17 +1,18 @@
 # Dante Scaglione
 
-Dante Scaglione is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Elsewhere, New York City on Fri, 13 Nov 2026.
+Dante Scaglione is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 17 Dec 2026.
 
-Dante Scaglione is an italo disco and house artist based in United States of America, with 49 gigs on soundcheck across Berlin, Dublin, New York City and Osaka and 1 more. Often billed alongside Frantz, Danny Ramos and IBM Doily. Next up: Elsewhere, New York City on Fri 13 Nov.
+Dante Scaglione is an italo disco and house artist based in United States of America, with 50 gigs on soundcheck across Berlin, Dublin, New York City and Osaka and 1 more. Often billed alongside Frantz, Danny Ramos and IBM Doily. Next up: Bossa Nova Civic Club, New York City on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Elsewhere | New York City |
+| Thu, 17 Dec 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
+- Elsewhere, New York City · Fri, 13 Nov 2026
 - H0L0, New York City · Sat, 13 Jun 2026
 - Escapé Lodge and Espresso, Osaka · Sat, 23 May 2026
 - Bossa Nova Civic Club, New York City · Wed, 29 Apr 2026
@@ -19,10 +20,9 @@ Dante Scaglione is an italo disco and house artist based in United States of Ame
 - Eavesdrop, New York City · Thu, 29 Jan 2026
 - Good Room, New York City · Sat, 17 Jan 2026
 - Nublu, New York City · Sat, 8 Nov 2025
-- Bossa Nova Civic Club, New York City · Thu, 6 Nov 2025
 
 ## Shares bills with
 
 Frantz, Danny Ramos, IBM Doily
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dantescaglione/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dantescaglione/)*

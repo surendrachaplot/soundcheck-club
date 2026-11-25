@@ -1,6 +1,6 @@
 # Xminder
 
-Xminder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at KitKatClub, Berlin on Mon, 7 Dec 2026.
+Xminder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Mon, 7 Dec 2026.
 
 Xminder is a techno and house artist based in Portugal, with 33 gigs on soundcheck across Barcelona, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Glitz, Frankie Flowerz and Bert. Next up: KitKatClub, Berlin on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Xminder is a techno and house artist based in Portugal, with 33 gigs on soundche
 
 Glitz, Frankie Flowerz, Bert
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xminder/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xminder/)*

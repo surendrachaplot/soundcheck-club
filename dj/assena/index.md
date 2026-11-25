@@ -1,8 +1,8 @@
 # assena
 
-assena is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+assena is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
-assena is a trance and techno artist based in Germany, with 8 gigs on soundcheck across Frankfurt, Mainz and Rhineland Palatinate. Often billed alongside A.T.E.K, DJ 069 and PAU. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
+assena is a trance and techno artist based in Germany, with 8 gigs on soundcheck across Frankfurt, Mainz and Rhineland Palatinate. Often billed alongside A.T.E.K, DJ 069 and DJ DRECKISCH. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ assena is a trance and techno artist based in Germany, with 8 gigs on soundcheck
 
 ## Shares bills with
 
-A.T.E.K, DJ 069, PAU (6)
+A.T.E.K, DJ 069, DJ DRECKISCH
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assena/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assena/)*

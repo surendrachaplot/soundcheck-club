@@ -1,6 +1,6 @@
 # Silja Ellis
 
-Silja Ellis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Silja Ellis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Silja Ellis is a house and deep house artist based in Sweden, with 8 gigs on soundcheck across Paris and Stockholm. Often billed alongside Bogeyman, Antony Szmierek and Aurèle. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Silja Ellis is a house and deep house artist based in Sweden, with 8 gigs on sou
 
 Bogeyman, Antony Szmierek, Aurèle
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siljaellis/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siljaellis/)*

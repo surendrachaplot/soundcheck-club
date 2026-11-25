@@ -1,6 +1,6 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Limited Edition #2 with Quaid, David Barbarossa, Bop Gun b2b Neon Falls" on Fri, 4 Dec 2026.
+The Rum Shack is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Limited Edition #2 with Quaid, David Barbarossa, Bop Gun b2b Neon Falls" on Fri, 4 Dec 2026.
 
 The Rum Shack is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including David Barbarossa, Jurnalist and Quaid. See dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs,
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

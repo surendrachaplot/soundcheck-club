@@ -1,13 +1,14 @@
 # Gabriele
 
-Gabriele is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 28 Nov 2026.
+Gabriele is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Via Ciucani 2, Ornago, Milan on Fri, 27 Nov 2026.
 
-Gabriele is a techno and electronica artist based in Italy, with 21 gigs on soundcheck across Milan and Rome. Often billed alongside Nicola Mazzetti, Dove Quiete and Jane Fitz. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 28 Nov.
+Gabriele is a techno and electronica artist based in Italy, with 22 gigs on soundcheck across Milan and Rome. Often billed alongside Nicola Mazzetti, Dove Quiete and Jane Fitz. Next up: TBA - Via Ciucani 2, Ornago, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA - Via Ciucani 2, Ornago | Milan |
 | Sat, 28 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gabriele is a techno and electronica artist based in Italy, with 21 gigs on soun
 
 Nicola Mazzetti, Dove Quiete, Jane Fitz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*

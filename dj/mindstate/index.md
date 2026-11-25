@@ -1,0 +1,28 @@
+# Mindstate
+
+Mindstate is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
+
+Mindstate is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Birmingham, Brighton, Bristol and Ghent and 2 more. Often billed alongside dogger, Verbz and DRS. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 13 Feb.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 13 Feb 2027 | Six Trees Bar And Kitchen Manchester | Manchester |
+
+## Recently played
+
+- Six Trees Bar And Kitchen Manchester, Manchester · Sat, 31 Oct 2026
+- Volks, Brighton · Sat, 31 Oct 2026
+- Four Quarters, London · Fri, 28 Aug 2026
+- IDRA, Manchester · Sat, 23 May 2026
+- Amigo, Ghent · Sat, 11 Apr 2026
+- NUMBER 90 LONDON, London · Sat, 28 Mar 2026
+- The Croft, Bristol · Sat, 21 Mar 2026
+- The Social, London · Sat, 7 Mar 2026
+
+## Shares bills with
+
+dogger, Verbz, DRS
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindstate/)*

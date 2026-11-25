@@ -1,6 +1,6 @@
 # Nova North
 
-Nova North is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 600 Water Street, Baltimore on Thu, 31 Dec 2026.
+Nova North is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 600 Water Street, Baltimore on Thu, 31 Dec 2026.
 
 Nova North is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Angel Money, BENLOGIK and DJ AstroNat. Next up: 600 Water Street, Baltimore on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Nova North is a house and tech house artist based in United States of America, w
 
 Angel Money, BENLOGIK, DJ AstroNat
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novanorth/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novanorth/)*

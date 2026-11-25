@@ -1,14 +1,15 @@
 # Outburst Knobs
 
-Outburst Knobs is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
+Outburst Knobs is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
 
-Outburst Knobs is a techno and electronica artist based in Italy, with 49 gigs on soundcheck across Berlin, Bologna, Brussels and Milan and 2 more. Often billed alongside Viels, Münch and Dixie. Next up: Masada, Milan on Sat 5 Dec.
+Outburst Knobs is a techno and deep house artist based in Italy, with 50 gigs on soundcheck across Berlin, Bologna, Brussels and Milan and 2 more. Often billed alongside Viels, Münch and Dixie. Next up: Masada, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Masada | Milan |
+| Sun, 13 Dec 2026 | Masada | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Outburst Knobs is a techno and electronica artist based in Italy, with 49 gigs o
 
 Viels, Münch, Dixie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outburstknobs/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outburstknobs/)*

@@ -1,13 +1,14 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
+Olga Korol is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
 
-Olga Korol is a house and minimal artist based in Ukraine, with 124 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 46 more. Often billed alongside Per Hammar, Pentti Igor and Cristi Cons. Next up: Next Clubbing, Madrid on Sat 28 Nov.
+Olga Korol is a house and minimal artist based in Ukraine, with 125 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 46 more. Often billed alongside Per Hammar, Pentti Igor and Cristi Cons. Next up: Next Clubbing, Madrid on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Next Clubbing | Madrid |
 | Sat, 28 Nov 2026 | Next Clubbing | Madrid |
 | Sat, 5 Dec 2026 | BORIS CLUB | Barcelona |
 | Thu, 31 Dec 2026 | Spook Club | Valencia |
@@ -27,4 +28,4 @@ Olga Korol is a house and minimal artist based in Ukraine, with 124 gigs on soun
 
 Per Hammar, Pentti Igor, Cristi Cons
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

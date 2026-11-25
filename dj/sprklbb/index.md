@@ -1,17 +1,19 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le point fort d'Aubervilliers, Paris on Sat, 14 Nov 2026.
+SPRKLBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Process PDX, Portland on Fri, 4 Dec 2026.
 
-SPRKLBB is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 17 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: Le point fort d'Aubervilliers, Paris on Sat 14 Nov.
+SPRKLBB is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 17 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: Process PDX, Portland on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Le point fort d'Aubervilliers | Paris |
+| Fri, 4 Dec 2026 | Process PDX | Portland |
+| Sun, 6 Dec 2026 | Signal | New York City |
 
 ## Recently played
 
+- Le point fort d'Aubervilliers, Paris · Sat, 14 Nov 2026
 - The Glove That Fits, London · Fri, 13 Nov 2026
 - Signal, New York City · Fri, 6 Nov 2026
 - Signal, New York City · Sun, 18 Oct 2026
@@ -19,10 +21,9 @@ SPRKLBB is a house and techno artist based in United States of America, with 78 
 - Nowadays, New York City · Sat, 3 Oct 2026
 - Signal, New York City · Sun, 27 Sept 2026
 - Process PDX, Portland · Sat, 12 Sept 2026
-- TBA - Cape Lookout, Portland · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Mutualism, Mike Servito, BEIGE
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*

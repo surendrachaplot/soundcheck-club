@@ -1,6 +1,6 @@
 # Vuur
 
-Vuur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lofi, Amsterdam on Sun, 27 Dec 2026.
+Vuur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lofi, Amsterdam on Sun, 27 Dec 2026.
 
 Vuur is a house and techno artist based in Netherlands, with 120 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dresden and 8 more. Often billed alongside Bastienne, Carlos Valdes and TITIA. Next up: Lofi, Amsterdam on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Vuur is a house and techno artist based in Netherlands, with 120 gigs on soundch
 
 Bastienne, Carlos Valdes, TITIA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vuur/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vuur/)*

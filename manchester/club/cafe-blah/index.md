@@ -1,6 +1,6 @@
 # Cafe Blah
 
-Cafe Blah is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Si Paton, Manchesterjazz.com & Deimatic Display" on Mon, 26 Oct 2026.
+Cafe Blah is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "'gig2' UBUWEB / TINFOIL UNDERWEAR / LAGER BAND" on Tue, 8 Dec 2026.
 
 Cafe Blah is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 445 Wilmslow Road Manchester M20 4AN.
 
@@ -8,10 +8,10 @@ Cafe Blah is a music venue in Manchester listed on soundcheck. 1 upcoming gig. S
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Si Paton, Manchesterjazz.com & Deimatic Display |  |
+| Tue, 8 Dec 2026 | 'gig2' UBUWEB / TINFOIL UNDERWEAR / LAGER BAND |  |
 
 ## Address
 
 445 Wilmslow Road Manchester M20 4AN, Manchester
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cafe-blah/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cafe-blah/)*

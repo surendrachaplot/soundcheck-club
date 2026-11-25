@@ -1,6 +1,6 @@
 # Jos
 
-Jos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
+Jos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
 
 Jos is a techno and house artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: The Cause, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Jos is a techno and house artist based in United Kingdom, with 145 gigs on sound
 
 Alien Communications, Loa Szala, De La Reef
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*

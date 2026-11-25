@@ -1,6 +1,6 @@
 # RAZZCLUB: Mainline Club: PAURRO + Hello Sasy + Dj Babatr pesenta Venezuelan Groove at Razzmatazz
 
-RAZZCLUB: Mainline Club: PAURRO + Hello Sasy + Dj Babatr pesenta Venezuelan Groove at Razzmatazz on Fri 11 Dec, Barcelona. 13 artists: Akalex, Andrea Arias, Dj Babatr and Dj Deep RH and 9 more. See the line-up on soundcheck.
+RAZZCLUB: Mainline Club: PAURRO + Hello Sasy + Dj Babatr pesenta Venezuelan Groove at Razzmatazz on Fri 11 Dec, Barcelona. 16 artists: Akalex, Andrea Arias, Dj Babatr and Dj Deep RH and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,8 +18,11 @@ RAZZCLUB: Mainline Club: PAURRO + Hello Sasy + Dj Babatr pesenta Venezuelan Groo
 - Hello Sasy
 - Hidden Memory
 - John Heaven
+- Kaidara
 - Kanti
+- LaBlackie
 - Maxvll
+- Nessa
 - Nile Fee
 - PAURRO
 - PethbUri

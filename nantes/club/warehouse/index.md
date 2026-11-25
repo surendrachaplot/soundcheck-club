@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "2Much Nantes: Panteros666, Dj Schnake, Kichta" on Fri, 4 Dec 2026.
+Warehouse is a music venue in Nantes with 12 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "2Much Nantes: Panteros666, Dj Schnake, Kichta" on Fri, 4 Dec 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 12 upcoming gigs, with line-ups including Akalex, AMOR MUSIC, Anetha and BETÏSES and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -23,4 +23,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 12 upcoming gigs, wit
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

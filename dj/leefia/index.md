@@ -1,14 +1,15 @@
 # Leefia
 
-Leefia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
+Leefia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
 
-Leefia is a techno and house artist based in Japan, with 66 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Kengo Yuasa and Mamazu. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 28 Nov.
+Leefia is a techno and house artist based in Japan, with 67 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Kengo Yuasa and Mamazu. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | UTOPIA / DYSTOPIA | Tokyo |
+| Wed, 23 Dec 2026 | Disco Eddie's | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Leefia is a techno and house artist based in Japan, with 66 gigs on soundcheck a
 
 SIGNAL (JP), Kengo Yuasa, Mamazu
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leefia/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leefia/)*

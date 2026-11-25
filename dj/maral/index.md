@@ -1,14 +1,14 @@
 # Maral
 
-Maral is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Montreal on Fri, 27 Nov 2026.
+Maral is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Montreal, Montreal on Fri, 27 Nov 2026.
 
-Maral is an experimental and electronica artist, with 32 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside Teebs, Colloboh and Juliet Mendoza. Next up: TBA, Montreal on Fri 27 Nov.
+Maral is an experimental and electronica artist, with 32 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside Teebs, Colloboh and Juliet Mendoza. Next up: TBA - Montreal, Montreal on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA | Montreal |
+| Fri, 27 Nov 2026 | TBA - Montreal | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Maral is an experimental and electronica artist, with 32 gigs on soundcheck acro
 
 Teebs, Colloboh, Juliet Mendoza
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maral/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maral/)*

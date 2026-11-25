@@ -1,6 +1,6 @@
 # Hertz Collision
 
-Hertz Collision is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
+Hertz Collision is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
 
 Hertz Collision is a techno and acid artist based in Italy, with 41 gigs on soundcheck across Athens, Berlin, Florence and London and 11 more. Often billed alongside ARMANDO, IKIIR and Sciahri. Next up: ÆDEN, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Hertz Collision is a techno and acid artist based in Italy, with 41 gigs on soun
 
 ARMANDO, IKIIR, Sciahri
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*

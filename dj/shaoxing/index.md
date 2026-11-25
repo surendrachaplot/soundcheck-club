@@ -1,17 +1,18 @@
 # Shaoxing
 
-Shaoxing is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Apotheka, Manila on Sat, 14 Nov 2026.
+Shaoxing is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Exit Reality, Singapore on Sat, 28 Nov 2026.
 
-Shaoxing is a techno and electronica artist based in Philippines, with 13 gigs on soundcheck across Manila, Seoul and Tokyo. Often billed alongside Duality, baby ikea and Dignos. Next up: Apotheka, Manila on Sat 14 Nov.
+Shaoxing is a techno and electronica artist based in Philippines, with 14 gigs on soundcheck across Manila, Seoul, Singapore and Tokyo. Often billed alongside Duality, baby ikea and Dignos. Next up: Exit Reality, Singapore on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Apotheka | Manila |
+| Sat, 28 Nov 2026 | Exit Reality | Singapore |
 
 ## Recently played
 
+- Apotheka, Manila · Sat, 14 Nov 2026
 - Apotheka, Manila · Sat, 15 Aug 2026
 - Shelter, Seoul · Fri, 26 Jun 2026
 - Apotheka, Manila · Sat, 25 Apr 2026
@@ -19,10 +20,9 @@ Shaoxing is a techno and electronica artist based in Philippines, with 13 gigs o
 - Apotheka, Manila · Sun, 24 Aug 2025
 - Apotheka, Manila · Sat, 10 May 2025
 - Apotheka, Manila · Sat, 22 Feb 2025
-- TBA - Makati, Manila · Sat, 14 Dec 2024
 
 ## Shares bills with
 
 Duality, baby ikea, Dignos
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaoxing/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaoxing/)*

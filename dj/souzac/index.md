@@ -1,6 +1,6 @@
 # SOUZAC
 
-SOUZAC is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pygmalion, Dublin on Sat, 12 Dec 2026.
+SOUZAC is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pygmalion, Dublin on Sat, 12 Dec 2026.
 
 SOUZAC is a progressive house and techno artist based in Brazil, with 51 gigs on soundcheck across Dublin. Often billed alongside GABR:EL, Belen G and NAZARENO MAASS. Next up: Pygmalion, Dublin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SOUZAC is a progressive house and techno artist based in Brazil, with 51 gigs on
 
 GABR:EL, Belen G, NAZARENO MAASS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souzac/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souzac/)*

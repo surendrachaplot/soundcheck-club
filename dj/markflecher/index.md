@@ -1,6 +1,6 @@
 # Mark Flecher
 
-Mark Flecher is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 17 Dec 2026.
+Mark Flecher is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 17 Dec 2026.
 
 Mark Flecher is an electronica and techno artist based in Spain, with 6 gigs on soundcheck across Barcelona, Madrid and Porto. Often billed alongside Alexa Strange, Ali-Az and Amulador. Next up: Les Enfants Brillants, Barcelona on Thu 17 Dec.
 
@@ -22,4 +22,4 @@ Mark Flecher is an electronica and techno artist based in Spain, with 6 gigs on 
 
 Alexa Strange, Ali-Az, Amulador
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markflecher/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markflecher/)*

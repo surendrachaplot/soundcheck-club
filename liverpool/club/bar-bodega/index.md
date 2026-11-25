@@ -1,6 +1,6 @@
 # Bar Bodega
 
-Bar Bodega is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Euphoric Events Presents: Elixir Two Years Of Euphoria" on Fri, 27 Nov 2026.
+Bar Bodega is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Euphoric Events Presents: Elixir Two Years Of Euphoria" on Fri, 27 Nov 2026.
 
 Bar Bodega is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including Sean Ozzy. See dates, start times and who's playing. 14 Colquitt Street, Liverpool, L1 4DE.
 
@@ -15,4 +15,4 @@ Bar Bodega is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, 
 
 14 Colquitt Street, Liverpool, L1 4DE, Liverpool
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/bar-bodega/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/bar-bodega/)*

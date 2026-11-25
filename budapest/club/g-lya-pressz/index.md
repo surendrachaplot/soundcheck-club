@@ -1,6 +1,6 @@
 # Gólya Presszó
 
-Gólya Presszó is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "EA SOUND VOL003" on Sat, 5 Dec 2026.
+Gólya Presszó is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "EA SOUND VOL003" on Sat, 5 Dec 2026.
 
 Gólya Presszó is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including GIGASET, HIEN and Thao. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gólya Presszó is a music venue in Budapest listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | EA SOUND VOL003 | GIGASET, HIEN, Thao |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/g-lya-pressz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/g-lya-pressz/)*

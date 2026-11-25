@@ -1,14 +1,13 @@
 # Tino
 
-Tino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Liquid Club, Malta on Fri, 4 Dec 2026.
+Tino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 11 Dec 2026.
 
-Tino is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 14 more. Often billed alongside ADR (UK), Garrett David and LILI. Next up: Liquid Club, Malta on Fri 4 Dec.
+Tino is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 14 more. Often billed alongside ADR (UK), Garrett David and LILI. Next up: Joshua Brooks, Manchester on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Liquid Club | Malta |
 | Fri, 11 Dec 2026 | Joshua Brooks | Manchester |
 | Sun, 27 Dec 2026 | block. | Dublin |
 
@@ -27,4 +26,4 @@ Tino is a house and techno artist based in United Kingdom, with 51 gigs on sound
 
 ADR (UK), Garrett David, LILI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*

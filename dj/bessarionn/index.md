@@ -1,6 +1,6 @@
 # BESSARIONN
 
-BESSARIONN is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 27 Nov 2026.
+BESSARIONN is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 27 Nov 2026.
 
 BESSARIONN is a tech house and deep house artist, with 3 gigs on soundcheck across Tbilisi. Often billed alongside Andy Bros, Frankie and Musumeci. Next up: Noble Savage, Tbilisi on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ BESSARIONN is a tech house and deep house artist, with 3 gigs on soundcheck acro
 
 Andy Bros, Frankie, Musumeci
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bessarionn/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bessarionn/)*

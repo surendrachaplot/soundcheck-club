@@ -1,14 +1,15 @@
 # Presunta (2)
 
-Presunta (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
+Presunta (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
 
-Presunta is a house and techno artist based in Spain, with 11 gigs on soundcheck across Barcelona and Madrid. Often billed alongside LVL1, Cerescente and Sora Éke. Next up: Razzmatazz, Barcelona on Fri 27 Nov.
+Presunta is a techno and house artist based in Spain, with 12 gigs on soundcheck across Barcelona and Madrid. Often billed alongside LVL1, Cerescente and Sora Éke. Next up: Razzmatazz, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Razzmatazz | Barcelona |
+| Fri, 4 Dec 2026 | TBA | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Presunta is a house and techno artist based in Spain, with 11 gigs on soundcheck
 
 LVL1, Cerescente, Sora Éke
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/presunta-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/presunta-2/)*

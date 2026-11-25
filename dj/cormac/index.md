@@ -1,8 +1,8 @@
 # Cormac
 
-Cormac is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Carpet Shop, London on Fri, 27 Nov 2026.
+Cormac is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Carpet Shop, London on Fri, 27 Nov 2026.
 
-Cormac is a house and techno artist, with 206 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 69 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: The Carpet Shop, London on Fri 27 Nov.
+Cormac is a house and techno artist, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 69 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: The Carpet Shop, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cormac is a house and techno artist, with 206 gigs on soundcheck across Amsterda
 | Sat, 28 Nov 2026 | FVTVR | Paris |
 | Fri, 4 Dec 2026 | Yamamori Tengu | Dublin |
 | Sat, 5 Dec 2026 | SMUT Athens | Athens |
+| Sun, 27 Dec 2026 | NAR | Utrecht |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Cormac is a house and techno artist, with 206 gigs on soundcheck across Amsterda
 
 BASHKKA, Roi Perez, Massimiliano Pagliara
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

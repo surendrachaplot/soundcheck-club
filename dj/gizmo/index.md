@@ -1,14 +1,15 @@
 # Gizmo
 
-Gizmo is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 27 Nov 2026.
+Gizmo is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 27 Nov 2026.
 
-Gizmo is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ghent and 4 more. Often billed alongside Lazykid, Shabiki and Rad.Lez. Next up: Bahnwärter Thiel, Munich on Fri 27 Nov.
+Gizmo is a techno and house artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ghent and 4 more. Often billed alongside Lazykid, Shabiki and Rad.Lez. Next up: Bahnwärter Thiel, Munich on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Bahnwärter Thiel | Munich |
+| Fri, 4 Dec 2026 | club asia | Tokyo |
 | Sat, 5 Dec 2026 | export | Rotterdam |
 | Fri, 11 Dec 2026 | Lieberscholli | Munich |
 | Sat, 19 Dec 2026 | Ruis Alkmaar | Amsterdam |
@@ -31,4 +32,4 @@ Gizmo is a techno and house artist based in Germany, with 35 gigs on soundcheck 
 
 Lazykid, Shabiki, Rad.Lez
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*

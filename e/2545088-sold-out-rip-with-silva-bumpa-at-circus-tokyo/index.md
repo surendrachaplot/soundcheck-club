@@ -14,7 +14,7 @@
 - Genick
 - Jacotanu
 - kyo (3)
-- misa²
+- Misa²
 - MOOTOE
 - Nizikawa
 - OBXR.

@@ -1,6 +1,6 @@
 # Zakk
 
-Zakk is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Hits4Kids" on Sun, 6 Dec 2026.
+Zakk is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Hits4Kids" on Sun, 6 Dec 2026.
 
 Zakk is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig, with line-ups including Pommes Schranze. See dates, start times and who's playing. Fichtenstraße 40, 40233 Düsseldorf, Germany.
 
@@ -14,4 +14,4 @@ Zakk is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig, with 
 
 Fichtenstraße 40, 40233 Düsseldorf, Germany, Düsseldorf
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/zakk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/zakk/)*

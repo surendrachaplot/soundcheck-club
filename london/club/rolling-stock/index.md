@@ -1,6 +1,6 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Thursday Social" on Thu, 26 Nov 2026.
+Rolling Stock is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Thursday Social" on Thu, 26 Nov 2026.
 
 Rolling Stock is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Adiian, Alan Banks, Aubrey Fry and Brandon Benoit and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
@@ -23,4 +23,4 @@ Rolling Stock is a music venue in London listed on soundcheck. 13 upcoming gigs,
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

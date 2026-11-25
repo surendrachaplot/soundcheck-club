@@ -1,6 +1,6 @@
 # B2BEATCHES
 
-B2BEATCHES is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
+B2BEATCHES is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
 
 B2BEATCHES is a house and electro artist, with 4 gigs on soundcheck across Berlin. Often billed alongside BENGALA, Chinichi and Christopher Lawrenz. Next up: Studio1111, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ B2BEATCHES is a house and electro artist, with 4 gigs on soundcheck across Berli
 
 BENGALA, Chinichi, Christopher Lawrenz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b2beatches/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b2beatches/)*

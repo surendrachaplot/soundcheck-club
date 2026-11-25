@@ -1,6 +1,6 @@
 # Nika77
 
-Nika77 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 5 Dec 2026.
+Nika77 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 5 Dec 2026.
 
 Nika77 is a techno and acid artist based in Czech Republic, with 27 gigs on soundcheck across Dresden and Prague. Often billed alongside Elektrabel, Lillou and Axis Alpha. Next up: Sektor Evolution, Dresden on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Nika77 is a techno and acid artist based in Czech Republic, with 27 gigs on soun
 
 Elektrabel, Lillou, Axis Alpha
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nika77/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nika77/)*

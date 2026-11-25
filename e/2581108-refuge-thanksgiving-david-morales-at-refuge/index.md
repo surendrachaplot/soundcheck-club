@@ -1,6 +1,6 @@
 # Refuge Thanksgiving: David Morales at Refuge
 
-Refuge Thanksgiving: David Morales on Thu 26 Nov, New York City. 1 artist: David Morales. See the line-up on soundcheck.
+Refuge Thanksgiving: David Morales on Thu 26 Nov, New York City. 1 artist: David Morales. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

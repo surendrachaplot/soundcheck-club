@@ -1,13 +1,14 @@
 # Lunaks
 
-Lunaks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at block., Dublin on Fri, 18 Dec 2026.
+Lunaks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cellar, Galway on Sat, 5 Dec 2026.
 
-Lunaks is a techno and house artist based in Ireland, with 12 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin. Often billed alongside EMMIE, Meda-Ava and Alex Sparrow. Next up: block., Dublin on Fri 18 Dec.
+Lunaks is a techno and house artist based in Ireland, with 13 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 1 more. Often billed alongside EMMIE, Meda-Ava and Alex Sparrow. Next up: The Cellar, Galway on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | The Cellar | Galway |
 | Fri, 18 Dec 2026 | block. | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lunaks is a techno and house artist based in Ireland, with 12 gigs on soundcheck
 
 EMMIE, Meda-Ava, Alex Sparrow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaks/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaks/)*

@@ -1,6 +1,6 @@
 # Pixelated Records
 
-Pixelated Records is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "The Unity Project Showcase" on Sat, 28 Nov 2026.
+Pixelated Records is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "The Unity Project Showcase" on Sat, 28 Nov 2026.
 
 Pixelated Records is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Tones, LADYLIZBK and TSUMO. See dates, start times and who's playing. 792 Onderdonk Ave, Ridgewood, NY 11385, USA.
 
@@ -16,4 +16,4 @@ Pixelated Records is a music venue in New York City listed on soundcheck. 3 upco
 
 792 Onderdonk Ave, Ridgewood, NY 11385, USA, New York City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*

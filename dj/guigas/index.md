@@ -1,6 +1,6 @@
 # Guigas
 
-Guigas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 19 Dec 2026.
+Guigas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 19 Dec 2026.
 
 Guigas is a house and techno artist based in Portugal, with 41 gigs on soundcheck across Barcelona, Lisbon, London and Porto. Often billed alongside ozmin, Stckman and Elless & Benn. Next up: TBA - Lisboa, Lisbon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Guigas is a house and techno artist based in Portugal, with 41 gigs on soundchec
 
 ozmin, Stckman, Elless & Benn
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guigas/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guigas/)*

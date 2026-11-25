@@ -1,6 +1,6 @@
 # LYNE
 
-LYNE is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
+LYNE is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
 
 LYNE is a drum & bass and techno artist based in Germany, with 27 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Gourski, DELTA LABS and Enaly. Next up: Bootshaus, Cologne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ LYNE is a drum & bass and techno artist based in Germany, with 27 gigs on soundc
 
 Gourski, DELTA LABS, Enaly
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyne/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyne/)*

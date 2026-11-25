@@ -1,6 +1,6 @@
 # FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa
 
-FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on Fri 27 Nov, London. 3 artists: Denava, Ida Best and Lowri. Drum & Bass and Tech House. See the line-up on soundcheck.
+FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on Fri 27 Nov, London. 4 artists: Denava, Ida Best, Lowri and Samari. Drum & Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on 
 - Denava
 - Ida Best
 - Lowri
+- Samari
 
 *Source: [soundcheck](https://soundcheck.club/e/2578934-friyays-at-makossa-house-tech-house-uk-bass-drum-bass-at-clu/)*

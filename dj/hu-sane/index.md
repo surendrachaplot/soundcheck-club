@@ -1,6 +1,6 @@
 # Hu-Sane
 
-Hu-Sane is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 17 Dec 2026.
+Hu-Sane is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 17 Dec 2026.
 
 Hu-Sane is a bass and house artist based in United Kingdom, with 75 gigs on soundcheck across Edinburgh, Glasgow, Manchester and Newcastle and 1 more. Often billed alongside Rahul.mp3, ELANDA and FROSKI. Next up: The Berkeley Suite, Glasgow on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Hu-Sane is a bass and house artist based in United Kingdom, with 75 gigs on soun
 
 Rahul.mp3, ELANDA, FROSKI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hu-sane/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hu-sane/)*

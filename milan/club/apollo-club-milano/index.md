@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Apollo Icons presents Folamour" on Fri, 11 Dec 2026.
+Apollo Club Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Apollo Icons presents Folamour" on Fri, 11 Dec 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Folamour and Rollover Djs. See dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -14,4 +14,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 1 upcoming gi
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

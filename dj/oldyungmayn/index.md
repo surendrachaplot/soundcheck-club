@@ -1,13 +1,14 @@
 # Oldyungmayn
 
-Oldyungmayn is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lioncity, Brussels on Sat, 12 Dec 2026.
+Oldyungmayn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu, 26 Nov 2026.
 
-Oldyungmayn is a techno and club artist based in United Arab Emirates, with 56 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside CEM, Assyouti and Majdolen. Next up: Lioncity, Brussels on Sat 12 Dec.
+Oldyungmayn is a techno and house artist based in United Arab Emirates, with 57 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside CEM, Assyouti and Dj Saliva. Next up: TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | TBA - Lobeckstrasse 30-35, 10969 Berlin | Berlin |
 | Sat, 12 Dec 2026 | Lioncity | Brussels |
 
 ## Recently played
@@ -23,6 +24,6 @@ Oldyungmayn is a techno and club artist based in United Arab Emirates, with 56 g
 
 ## Shares bills with
 
-CEM, Assyouti, Majdolen
+CEM, Assyouti, Dj Saliva
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*

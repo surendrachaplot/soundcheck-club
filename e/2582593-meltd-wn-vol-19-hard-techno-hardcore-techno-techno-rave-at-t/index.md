@@ -1,6 +1,6 @@
-# 'MELTDØWN' vol.19 -HARD TECHNO / HARDCORE TECHNO / TECHNO RAVE- at Triangle
+# 'MELTDØWN' vol.19 -HARD TECHNO/HARDCORE TECHNO/TECHNO RAVE- at Triangle
 
-'MELTDØWN' vol.19 -HARD TECHNO / HARDCORE TECHNO / TECHNO RAVE- at Triangle on Sat 5 Dec, Osaka. 8 artists: Elen Payne, EYEMAY, HSC and kamesou and 4 more. Techno and Hardcore. See the line-up on soundcheck.
+'MELTDØWN' vol.19 -HARD TECHNO/HARDCORE TECHNO/TECHNO RAVE- at Triangle on Sat 5 Dec, Osaka. 8 artists: Elen Payne, EYEMAY, HSC and kamesou and 4 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fuunkt
 
-Fuunkt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Paloma, Berlin on Fri, 18 Dec 2026.
+Fuunkt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Paloma, Berlin on Fri, 18 Dec 2026.
 
 Fuunkt is a house and techno artist based in Spain, with 61 gigs on soundcheck across Berlin and Krakow. Often billed alongside nuarrrrr, ATIKIN and albeiro. Next up: Paloma, Berlin on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Fuunkt is a house and techno artist based in Spain, with 61 gigs on soundcheck a
 
 nuarrrrr, ATIKIN, albeiro
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuunkt/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuunkt/)*

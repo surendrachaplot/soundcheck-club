@@ -1,6 +1,6 @@
 # Bae Blade
 
-Bae Blade is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at RSO.BERLIN, Berlin on Thu, 31 Dec 2026.
+Bae Blade is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at RSO.BERLIN, Berlin on Thu, 31 Dec 2026.
 
 Bae Blade is a techno and trance artist, with 123 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 27 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: RSO.BERLIN, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Bae Blade is a techno and trance artist, with 123 gigs on soundcheck across Amst
 
 Janis Zielinski, Cleopard2000, Juicy Romance
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*

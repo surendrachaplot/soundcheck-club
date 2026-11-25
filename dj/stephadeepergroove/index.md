@@ -1,8 +1,8 @@
 # Steph (A Deeper Groove)
 
-Steph (A Deeper Groove) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at McChuills Music Bar, Glasgow on Sat, 28 Nov 2026.
+Steph (A Deeper Groove) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at McChuills Music Bar, Glasgow on Sat, 28 Nov 2026.
 
-Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Athens, Austin, Glasgow and Manchester and 1 more. Often billed alongside JOC (A Deeper Groove), Chris Hewitt and ReZo. Next up: McChuills Music Bar, Glasgow on Sat 28 Nov.
+Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Athens, Austin, Glasgow and Manchester and 1 more. Often billed alongside JOC (A Deeper Groove), Chris Hewitt and Gary Beck. Next up: McChuills Music Bar, Glasgow on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, wi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | McChuills Music Bar | Glasgow |
 | Sat, 27 Feb 2027 | The Pen And Pencil | Manchester |
+| Sat, 12 Jun 2027 | McChuills Music Bar | Glasgow |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, wi
 
 ## Shares bills with
 
-JOC (A Deeper Groove), Chris Hewitt, ReZo
+JOC (A Deeper Groove), Chris Hewitt, Gary Beck
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephadeepergroove/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephadeepergroove/)*

@@ -1,6 +1,6 @@
 # Soi48
 
-Soi48 is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Final, Taipei on Sat, 28 Nov 2026.
+Soi48 is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Final, Taipei on Sat, 28 Nov 2026.
 
 Soi48 is a bass and club artist based in Japan, with 9 gigs on soundcheck across Seoul, Taipei and Tokyo. Often billed alongside Dungi Sapor, Seesea and DJ yesyes. Next up: Final, Taipei on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Soi48 is a bass and club artist based in Japan, with 9 gigs on soundcheck across
 
 Dungi Sapor, Seesea, DJ yesyes
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soi48/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soi48/)*

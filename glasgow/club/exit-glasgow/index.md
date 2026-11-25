@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Elegia X EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay" on Fri, 27 Nov 2026.
+EXIT Glasgow is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Elegia X EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay" on Fri, 27 Nov 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 3rdcrush, Adrian Skiba, Angel Negrin and Bake and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs,
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

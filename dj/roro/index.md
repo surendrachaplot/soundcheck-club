@@ -1,6 +1,6 @@
 # RORO
 
-RORO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Poull, Paris on Fri, 27 Nov 2026.
+RORO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Poull, Paris on Fri, 27 Nov 2026.
 
 RORO is a house and deep house artist based in Turkey, with 12 gigs on soundcheck across Amsterdam, London and Paris. Often billed alongside Adam Romo, Marcos Loveday and JaeS. Next up: Poull, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ RORO is a house and deep house artist based in Turkey, with 12 gigs on soundchec
 
 Adam Romo, Marcos Loveday, JaeS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roro/)*

@@ -1,6 +1,6 @@
 # DjSport
 
-DjSport is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at LAUT, Barcelona on Fri, 11 Dec 2026.
+DjSport is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at LAUT, Barcelona on Fri, 11 Dec 2026.
 
 DjSport is a techno and club artist based in Mauritius, with 34 gigs on soundcheck across Barcelona, Berlin, Central and Melbourne and 5 more. Often billed alongside Lanav, Just Claudia and Lucient. Next up: LAUT, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DjSport is a techno and club artist based in Mauritius, with 34 gigs on soundche
 
 Lanav, Just Claudia, Lucient
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsport/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsport/)*

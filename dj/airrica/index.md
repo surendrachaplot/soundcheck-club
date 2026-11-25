@@ -1,13 +1,14 @@
 # Airrica
 
-Airrica is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Airrica is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Concourse Project, Austin on Sat, 28 Nov 2026.
 
-Airrica is a house and techno artist based in United States of America, with 101 gigs on soundcheck across Atlanta, Barcelona, Brussels and Calgary and 28 more. Often billed alongside Damian Lazarus, Black Coffee and Chloé Caillet. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
+Airrica is a house and techno artist based in United States of America, with 102 gigs on soundcheck across Atlanta, Austin, Barcelona and Brussels and 29 more. Often billed alongside Damian Lazarus, Black Coffee and Chloé Caillet. Next up: The Concourse Project, Austin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Concourse Project | Austin |
 | Fri, 11 Dec 2026 | Armature Works Riverfront | Florida |
 
 ## Recently played
@@ -25,4 +26,4 @@ Airrica is a house and techno artist based in United States of America, with 101
 
 Damian Lazarus, Black Coffee, Chloé Caillet
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*

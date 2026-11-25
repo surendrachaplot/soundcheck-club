@@ -1,13 +1,14 @@
 # Shygirl
 
-Shygirl is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Columbiahalle, Berlin on Sat, 13 Mar 2027.
+Shygirl is a Pop and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hialeah Park Casino, Miami on Fri, 4 Dec 2026.
 
-Shygirl is a pop and club artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 21 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: Columbiahalle, Berlin on Sat 13 Mar.
+Shygirl is a pop and club artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 21 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: Hialeah Park Casino, Miami on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Hialeah Park Casino | Miami |
 | Sat, 13 Mar 2027 | Columbiahalle | Berlin |
 | Thu, 18 Mar 2027 | SWG3 | Glasgow |
 | Fri, 19 Mar 2027 | Manchester Academy 1 | Manchester |
@@ -27,4 +28,4 @@ Shygirl is a pop and club artist based in United Kingdom, with 48 gigs on soundc
 
 Charlotte de Witte, Eliza Rose, Honey Dijon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*

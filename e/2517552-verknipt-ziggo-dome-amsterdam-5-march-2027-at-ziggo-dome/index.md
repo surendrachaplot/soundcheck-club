@@ -1,6 +1,6 @@
 # VERKNIPT Ziggo Dome - Amsterdam - 5 March 2027 at Ziggo Dome
 
-VERKNIPT Ziggo Dome - Amsterdam - 5 March 2027 on Fri 5 Mar, Amsterdam. 11 artists: Ben Techy, BØĘRY, Jeno and Kobosil and 7 more. See the line-up on soundcheck.
+VERKNIPT Ziggo Dome - Amsterdam - 5 March 2027 on Fri 5 Mar, Amsterdam. 12 artists: Ben Techy, BØĘRY, Jeno and Kobosil and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ VERKNIPT Ziggo Dome - Amsterdam - 5 March 2027 on Fri 5 Mar, Amsterdam. 11 artis
 - Kobosil
 - KRUELTY
 - Nico Moreno
+- Nova Blue
 - Raxeller
 - SANTØS
 - Serafina

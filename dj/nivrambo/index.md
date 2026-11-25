@@ -1,6 +1,6 @@
 # Nivrambo
 
-Nivrambo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
+Nivrambo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
 
 Nivrambo is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alma Linda, Arnau Amatista and BeatzeCutze. Next up: ://about blank, Berlin on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ Nivrambo is a techno and house artist based in Germany, with 5 gigs on soundchec
 
 Alma Linda, Arnau Amatista, BeatzeCutze
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nivrambo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nivrambo/)*

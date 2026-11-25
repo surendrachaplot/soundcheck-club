@@ -1,6 +1,6 @@
 # Èbony
 
-Èbony is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+Èbony is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
 Èbony is a techno and club artist based in Canada, with 18 gigs on soundcheck across Montreal and Toronto. Often billed alongside Tiga, CUERPOS and Maara. Next up: Stereo, Montreal on Sat 5 Dec.
 
@@ -26,4 +26,4 @@
 
 Tiga, CUERPOS, Maara
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebony/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebony/)*

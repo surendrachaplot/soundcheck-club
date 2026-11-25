@@ -1,14 +1,13 @@
 # Stuckeyrella
 
-Stuckeyrella is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - INCOGNITO Celle, Hannover on Fri, 18 Dec 2026.
+Stuckeyrella is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tropi, Baden-w-rttemberg on Sat, 19 Dec 2026.
 
-Stuckeyrella is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Baden W Rttemberg, Berlin, Hamburg and Hannover and 6 more. Often billed alongside DJ Jordan, Grace Thompson and Charlotte Lion. Next up: TBA - INCOGNITO Celle, Hannover on Fri 18 Dec.
+Stuckeyrella is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Baden W Rttemberg, Berlin, Hamburg and Helsinki and 5 more. Often billed alongside DJ Jordan, Grace Thompson and Charlotte Lion. Next up: Tropi, Baden W Rttemberg on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Dec 2026 | TBA - INCOGNITO Celle | Hannover |
 | Sat, 19 Dec 2026 | Tropi | Baden-w-rttemberg |
 
 ## Recently played
@@ -26,4 +25,4 @@ Stuckeyrella is a techno and trance artist based in Germany, with 38 gigs on sou
 
 DJ Jordan, Grace Thompson, Charlotte Lion
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stuckeyrella/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stuckeyrella/)*

@@ -1,6 +1,6 @@
 # Sophia Riv
 
-Sophia Riv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Danger Danger, New-york-city on Sat, 5 Dec 2026.
+Sophia Riv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Danger Danger, New-york-city on Sat, 5 Dec 2026.
 
 Sophia Riv is a techno and electro artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside y2aura, SLUTZ and Castillonaire. Next up: Danger Danger, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sophia Riv is a techno and electro artist based in United States of America, wit
 
 y2aura, SLUTZ, Castillonaire
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*

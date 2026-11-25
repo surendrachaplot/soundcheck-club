@@ -15,7 +15,6 @@ Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artist
 - Alex Kassian
 - Alycia Bezgo
 - Angel D'lite
-- Azzi On The Beat
 - Bad Boombox
 - Caucasian Opportunities
 - Chlär
@@ -63,6 +62,7 @@ Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artist
 - RONI
 - SAIDAH
 - Sam Girling
+- Soju Gang
 - Sweely
 - Tangerine
 - Verraco

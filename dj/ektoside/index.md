@@ -1,6 +1,6 @@
 # Ektoside
 
-Ektoside is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Thu, 31 Dec 2026.
+Ektoside is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Void Club, Berlin on Thu, 31 Dec 2026.
 
 Ektoside is a drum & bass and techno artist based in Bosnia and Herzegovina, with 9 gigs on soundcheck across Berlin. Often billed alongside Upzet, Modulatos and Antiquis Anima. Next up: Void Club, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ektoside is a drum & bass and techno artist based in Bosnia and Herzegovina, wit
 
 Upzet, Modulatos, Antiquis Anima
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ektoside/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ektoside/)*

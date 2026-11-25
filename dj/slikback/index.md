@@ -1,13 +1,14 @@
 # Slikback
 
-Slikback is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gretchen, Berlin on Fri, 19 Feb 2027.
+Slikback is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Dec 2026.
 
-Slikback is an experimental and bass artist based in Kenya, with 68 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 30 more. Often billed alongside ojoo, Brodinski and upsammy. Next up: Gretchen, Berlin on Fri 19 Feb.
+Slikback is an experimental and bass artist based in Kenya, with 69 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 31 more. Often billed alongside ojoo, Brodinski and upsammy. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Fri, 19 Feb 2027 | Gretchen | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Slikback is an experimental and bass artist based in Kenya, with 68 gigs on soun
 
 ojoo, Brodinski, upsammy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*

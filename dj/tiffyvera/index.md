@@ -1,14 +1,15 @@
 # Tiffy Vera
 
-Tiffy Vera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
+Tiffy Vera is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
 
-Tiffy Vera is a house and tech house artist based in Paraguay, with 50 gigs on soundcheck across Los Angeles, Melbourne, Miami and New York City and 4 more. Often billed alongside Nii Tei, Malone and Carlita. Next up: Factory Town, Miami on Thu 3 Dec.
+Tiffy Vera is a house and tech house artist based in Paraguay, with 51 gigs on soundcheck across Los Angeles, Melbourne, Miami and New York City and 4 more. Often billed alongside Nii Tei, Malone and BLOND:ISH. Next up: Factory Town, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
+| Thu, 3 Dec 2026 | Historic Virginia Key Beach Park | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tiffy Vera is a house and tech house artist based in Paraguay, with 50 gigs on s
 
 ## Shares bills with
 
-Nii Tei, Malone, Carlita
+Nii Tei, Malone, BLOND:ISH
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffyvera/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffyvera/)*

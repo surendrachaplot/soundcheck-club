@@ -1,6 +1,6 @@
 # Francesca (PL)
 
-Francesca (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OCZKI, Warsaw on Sat, 28 Nov 2026.
+Francesca (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OCZKI, Warsaw on Sat, 28 Nov 2026.
 
 Francesca (PL) is a techno and house artist based in Poland, with 29 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside SYS.END, Butwho and Lyor Kalt. Next up: OCZKI, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Francesca (PL) is a techno and house artist based in Poland, with 29 gigs on sou
 
 SYS.END, Butwho, Lyor Kalt
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*

@@ -1,6 +1,6 @@
 # Disco Zwei
 
-Disco Zwei is a music venue in Mannheim with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Raserei" on Sat, 28 Nov 2026.
+Disco Zwei is a music venue in Mannheim with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Raserei" on Sat, 28 Nov 2026.
 
 Disco Zwei is a music venue in Mannheim listed on soundcheck. 3 upcoming gigs, with line-ups including Arok, Baby B (DE), Lizzle and Main Phase and 2 more. See dates, start times and who's playing. T6, 14; 68161 Mannheim; Germany.
 
@@ -16,4 +16,4 @@ Disco Zwei is a music venue in Mannheim listed on soundcheck. 3 upcoming gigs, w
 
 T6, 14; 68161 Mannheim; Germany, Mannheim
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*

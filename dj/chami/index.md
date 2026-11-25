@@ -1,8 +1,8 @@
 # Chami
 
-Chami is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bassiani, Tbilisi on Fri, 4 Dec 2026.
+Chami is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bassiani, Tbilisi on Fri, 4 Dec 2026.
 
-Chami is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: Bassiani, Tbilisi on Fri 4 Dec.
+Chami is a techno and house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: Bassiani, Tbilisi on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Chami is a techno and house artist based in Germany, with 119 gigs on soundcheck
 | Fri, 4 Dec 2026 | Bassiani | Tbilisi |
 | Sat, 5 Dec 2026 | Smolna | Warsaw |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
+| Sat, 26 Dec 2026 | Printhouse | Munich |
 | Sat, 16 Jan 2027 | SMUT Athens | Athens |
 
 ## Recently played
@@ -28,4 +29,4 @@ Chami is a techno and house artist based in Germany, with 119 gigs on soundcheck
 
 Olivia Mendez, OPH, Blasha & Allatt
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*

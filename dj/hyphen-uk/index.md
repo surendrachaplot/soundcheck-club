@@ -1,14 +1,15 @@
 # Hyphen
 
-Hyphen is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jupiter Disco, New York City on Thu, 10 Dec 2026.
+Hyphen is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Jupiter Disco, New York City on Thu, 10 Dec 2026.
 
-Hyphen is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Budapest, Copenhagen and London and 3 more. Often billed alongside PJ Statham, Molly Sinnott and PHJ.WAV. Next up: Jupiter Disco, New York City on Thu 10 Dec.
+Hyphen is a house and garage artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Budapest, Copenhagen and London and 4 more. Often billed alongside PJ Statham, Molly Sinnott and PHJ.WAV. Next up: Jupiter Disco, New York City on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | Jupiter Disco | New York City |
+| Sat, 12 Dec 2026 | TBA - Warehouse | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hyphen is a house and garage artist based in United Kingdom, with 16 gigs on sou
 
 PJ Statham, Molly Sinnott, PHJ.WAV
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyphen-uk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyphen-uk/)*

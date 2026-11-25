@@ -1,6 +1,6 @@
 # Zusan (3)
 
-Zusan (3) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 神田明神文化交流館, Tokyo on Sat, 12 Dec 2026.
+Zusan (3) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 神田明神文化交流館, Tokyo on Sat, 12 Dec 2026.
 
 Zusan is a drum & bass and jungle artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside Velocity, Aya ( Human Elements ) and Fonts. Next up: 神田明神文化交流館, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Zusan is a drum & bass and jungle artist based in Japan, with 12 gigs on soundch
 
 Velocity, Aya ( Human Elements ), Fonts
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zusan-3/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zusan-3/)*

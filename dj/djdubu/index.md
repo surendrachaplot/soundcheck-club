@@ -1,6 +1,6 @@
 # DJ Dubu
 
-DJ Dubu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Wed, 25 Nov 2026.
+DJ Dubu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Wed, 25 Nov 2026.
 
 DJ Dubu is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Washington DC. Often billed alongside Associate, $et and Stos. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ DJ Dubu is a techno and house artist based in United States of America, with 10 
 
 Associate, $et, Stos
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdubu/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdubu/)*

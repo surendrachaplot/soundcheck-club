@@ -1,6 +1,6 @@
 # Ryan Manta
 
-Ryan Manta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Zuzu, Boston on Fri, 27 Nov 2026.
+Ryan Manta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Zuzu, Boston on Fri, 27 Nov 2026.
 
 Ryan Manta is a house and techno artist based in United States of America, with 5 gigs on soundcheck across Boston and San Francisco/Oakland. Often billed alongside Mike Incillo, Alex Slater and Anthony Zmoda. Next up: Zuzu, Boston on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Ryan Manta is a house and techno artist based in United States of America, with 
 
 Mike Incillo, Alex Slater, Anthony Zmoda
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmanta/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmanta/)*

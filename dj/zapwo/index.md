@@ -1,6 +1,6 @@
 # ZapWo
 
-ZapWo is a Drum & Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
+ZapWo is a Drum & Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
 
 ZapWo is a drum & bass and garage artist based in Latvia, with 11 gigs on soundcheck across Riga. Often billed alongside EP!C, DEP (LV) and Kapteinis Reinis. Next up: Korpuss, Riga on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ ZapWo is a drum & bass and garage artist based in Latvia, with 11 gigs on soundc
 
 EP!C, DEP (LV), Kapteinis Reinis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zapwo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zapwo/)*

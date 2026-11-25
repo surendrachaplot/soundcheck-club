@@ -1,6 +1,6 @@
 # Joshua Lang
 
-Joshua Lang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bastet, Philadelphia on Wed, 25 Nov 2026.
+Joshua Lang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bastet, Philadelphia on Wed, 25 Nov 2026.
 
 Joshua Lang is a house and disco artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside DJ Sylo, Ben Arsenal and Rob Paine. Next up: Bastet, Philadelphia on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Joshua Lang is a house and disco artist based in United States of America, with 
 
 DJ Sylo, Ben Arsenal, Rob Paine
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshualang/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshualang/)*

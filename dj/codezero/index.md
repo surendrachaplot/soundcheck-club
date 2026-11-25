@@ -1,6 +1,6 @@
 # Codezero
 
-Codezero is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
+Codezero is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
 
 Codezero is an electronic artist based in Puerto Rico, with 2 gigs on soundcheck across Puerto Rico. Often billed alongside Andromedik, Audio and Bou (UK). Next up: Parque de las Ciencias, Puerto Rico on Sat 5 Dec.
 
@@ -15,4 +15,4 @@ Codezero is an electronic artist based in Puerto Rico, with 2 gigs on soundcheck
 
 Andromedik, Audio, Bou (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codezero/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codezero/)*

@@ -1,13 +1,14 @@
 # Adi
 
-Adi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Umoya, Naples on Fri, 4 Jun 2027.
+Adi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Printhouse, Munich on Sat, 26 Dec 2026.
 
-Adi is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside DJ Rino, SVS and Unai Trotti. Next up: Umoya, Naples on Fri 4 Jun.
+Adi is a house and techno artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside DJ Rino, Unai Trotti and SVS. Next up: Printhouse, Munich on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Dec 2026 | Printhouse | Munich |
 | Fri, 4 Jun 2027 | Umoya | Naples |
 
 ## Recently played
@@ -23,6 +24,6 @@ Adi is a house and techno artist based in United States of America, with 46 gigs
 
 ## Shares bills with
 
-DJ Rino, SVS (1), Unai Trotti
+DJ Rino, Unai Trotti, SVS (1)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*

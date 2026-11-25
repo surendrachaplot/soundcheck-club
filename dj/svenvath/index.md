@@ -1,6 +1,6 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Sven Vath is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Sven Vath is a techno and house artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Nina Kraviz. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Sven Vath is a techno and house artist based in Germany, with 258 gigs on soundc
 
 Maurizio Schmitz, Richie Hawtin, Nina Kraviz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

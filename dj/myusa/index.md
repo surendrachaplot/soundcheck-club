@@ -1,6 +1,6 @@
 # myu:sa
 
-myu:sa is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 27 Nov 2026.
+myu:sa is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 27 Nov 2026.
 
 myu:sa is a techno and trance artist based in Belgium, with 83 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 18 more. Often billed alongside Lolalita, waltur and Bollmann. Next up: Lehmann Club, Stuttgart on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ myu:sa is a techno and trance artist based in Belgium, with 83 gigs on soundchec
 
 Lolalita, waltur, Bollmann
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*

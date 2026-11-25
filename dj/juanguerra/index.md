@@ -1,6 +1,6 @@
 # Juan Guerra
 
-Juan Guerra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Artisano Bar, Barcelona on Sat, 28 Nov 2026.
+Juan Guerra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Artisano Bar, Barcelona on Sat, 28 Nov 2026.
 
 Juan Guerra is a techno and house artist based in Argentina, with 47 gigs on soundcheck across Barcelona and Dublin. Often billed alongside Manu Chaile, Nuuk and Edu Suarez. Next up: Artisano Bar, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Juan Guerra is a techno and house artist based in Argentina, with 47 gigs on sou
 
 Manu Chaile, Nuuk, Edu Suarez
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanguerra/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanguerra/)*

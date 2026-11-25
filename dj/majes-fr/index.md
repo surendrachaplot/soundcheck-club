@@ -1,14 +1,15 @@
 # Majes
 
-Majes is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Warehouse, Nantes on Fri, 11 Dec 2026.
+Majes is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Warehouse, Nantes on Fri, 11 Dec 2026.
 
-Majes is a techno and acid artist based in France, with 4 gigs on soundcheck across Amsterdam, Nantes, Rennes and Toulouse. Often billed alongside 25EMEHEURE, ANXHELA and Britney Speed (FR). Next up: Warehouse, Nantes on Fri 11 Dec.
+Majes is a techno and acid artist based in France, with 5 gigs on soundcheck across Amsterdam, Nantes, Rennes and Toulouse and 1 more. Often billed alongside 25EMEHEURE, ANXHELA and Britney Speed (FR). Next up: Warehouse, Nantes on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Warehouse | Nantes |
+| Sat, 12 Dec 2026 | Parc des Expositions du Pays de Lorient | West |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Majes is a techno and acid artist based in France, with 4 gigs on soundcheck acr
 
 25EMEHEURE, ANXHELA, Britney Speed (FR)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majes-fr/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majes-fr/)*

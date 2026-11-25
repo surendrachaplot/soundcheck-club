@@ -1,6 +1,6 @@
 # DUSK TILL DAWN EP. 6 at 131 Mccormack St
 
-DUSK TILL DAWN EP. 6 at 131 Mccormack St on Sat 12 Dec, Toronto. 3 artists: Charles D (US), Joyhauser and Weska. Techno and Tech House. See the line-up on soundcheck.
+DUSK TILL DAWN EP. 6 at 131 Mccormack St on Sat 12 Dec, Toronto. 4 artists: Charles D (US), Enrico Sangiuliano, Joyhauser and Weska. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DUSK TILL DAWN EP. 6 at 131 Mccormack St on Sat 12 Dec, Toronto. 3 artists: Char
 ## Line-up
 
 - Charles D (US)
+- Enrico Sangiuliano
 - Joyhauser
 - Weska
 

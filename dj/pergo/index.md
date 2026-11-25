@@ -1,13 +1,15 @@
 # Pergo
 
-Pergo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+Pergo is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 6 Dec 2026.
 
-Pergo is a techno and club artist based in Spain, with 21 gigs on soundcheck across Barcelona, Madrid, Malaga and Paris and 4 more. Often billed alongside Anna Jevills, Horacio Cruz and Vibrations of Gravity. Next up: Fabrik, Madrid on Sat 30 Jan.
+Pergo is a techno and club artist based in Spain, with 23 gigs on soundcheck across Barcelona, Belgrade, Madrid and Malaga and 5 more. Often billed alongside Anna Jevills, Horacio Cruz and Vibrations of Gravity. Next up: Para Klub Beograd, Belgrade on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Para Klub Beograd | Belgrade |
+| Thu, 31 Dec 2026 | DETROIT CLUB | Barcelona |
 | Sat, 30 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
@@ -25,4 +27,4 @@ Pergo is a techno and club artist based in Spain, with 21 gigs on soundcheck acr
 
 Anna Jevills, Horacio Cruz, Vibrations of Gravity
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pergo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pergo/)*

@@ -1,14 +1,15 @@
 # Heels & Souls
 
-Heels & Souls is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Sat, 19 Dec 2026.
+Heels & Souls is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Sat, 19 Dec 2026.
 
-Heels & Souls are a house and techno duo based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 21 more. Often billed alongside Hamish & Toby, James Andrew and Mari.te. Next up: fabric, London on Sat 19 Dec.
+Heels & Souls are a house and techno duo based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 21 more. Often billed alongside Hamish & Toby, James Andrew and Mari.te. Next up: fabric, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | fabric | London |
+| Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Heels & Souls are a house and techno duo based in United Kingdom, with 86 gigs o
 
 Hamish & Toby, James Andrew, Mari.te
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*

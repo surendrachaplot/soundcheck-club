@@ -1,6 +1,6 @@
 # Der Eggert
 
-Der Eggert is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at KitKatClub, Berlin on Thu, 26 Nov 2026.
+Der Eggert is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Thu, 26 Nov 2026.
 
 Der Eggert is a techno and drum & bass artist based in Germany, with 56 gigs on soundcheck across Berlin and Dresden. Often billed alongside Upzet, Modulatos and Orpheuz. Next up: KitKatClub, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Der Eggert is a techno and drum & bass artist based in Germany, with 56 gigs on 
 
 Upzet, Modulatos, Orpheuz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dereggert/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dereggert/)*

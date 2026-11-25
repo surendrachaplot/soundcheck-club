@@ -1,6 +1,6 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "The EURODANCE Party" on Sat, 28 Nov 2026.
+Market Hotel is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "The EURODANCE Party" on Sat, 28 Nov 2026.
 
 Market Hotel is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including THELIMITDOESNOTEXIST. See dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
@@ -15,4 +15,4 @@ Market Hotel is a music venue in New York City listed on soundcheck. 2 upcoming 
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

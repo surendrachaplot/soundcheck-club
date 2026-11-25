@@ -1,15 +1,16 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Corktown Tavern, Detroit on Wed, 25 Nov 2026.
+Brent Shay is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Corktown Tavern, Detroit on Wed, 25 Nov 2026.
 
-Brent Shay is a techno and house artist based in United States of America, with 105 gigs on soundcheck across Detroit, London, New York City and Orlando and 3 more. Often billed alongside Dj Disc, Pitchblnd and madeera. Next up: Corktown Tavern, Detroit on Wed 25 Nov.
+Brent Shay is a techno and house artist based in United States of America, with 106 gigs on soundcheck across Detroit, London, New York City and Orlando and 3 more. Often billed alongside Dj Disc, Pitchblnd and madeera. Next up: Corktown Tavern, Detroit on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Corktown Tavern | Detroit |
-| Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
+| Wed, 2 Dec 2026 | Spkrbox | Detroit |
+| Sat, 5 Dec 2026 | SOS | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Brent Shay is a techno and house artist based in United States of America, with 
 
 Dj Disc, Pitchblnd, madeera
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*

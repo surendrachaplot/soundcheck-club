@@ -1,6 +1,6 @@
 # Delta Heavy
 
-Delta Heavy is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Exil, Vienna on Fri, 4 Dec 2026.
+Delta Heavy is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Exil, Vienna on Fri, 4 Dec 2026.
 
 Delta Heavy is a drum & bass and bass artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 39 more. Often billed alongside A Little Sound, Kanine and Dimension. Next up: Club Exil, Vienna on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Delta Heavy is a drum & bass and bass artist based in United Kingdom, with 87 gi
 
 A Little Sound, Kanine, Dimension
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltaheavy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltaheavy/)*

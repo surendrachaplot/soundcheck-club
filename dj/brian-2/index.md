@@ -1,6 +1,6 @@
 # BRiAN (2)
 
-BRiAN (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Elsewhere, New York City on Fri, 4 Dec 2026.
+BRiAN (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, New York City on Fri, 4 Dec 2026.
 
 BRiAN is a house and minimal artist based in United States of America, with 9 gigs on soundcheck across Antwerp, Brussels, New York City and San Diego. Often billed alongside Boys Don't Disco, Mimi Raza and Paul Najera. Next up: Elsewhere, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ BRiAN is a house and minimal artist based in United States of America, with 9 gi
 
 Boys Don't Disco, Mimi Raza, Paul Najera
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brian-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brian-2/)*

@@ -1,14 +1,15 @@
 # Dokta Ooz
 
-Dokta Ooz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
+Dokta Ooz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
 
-Dokta Ooz is a house and techno artist based in South Africa, with 7 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Deano, Reezo Hassan and Baby Whitz. Next up: Carfax, Johannesburg on Fri 15 Jan.
+Dokta Ooz is a house and techno artist based in South Africa, with 8 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Deano, Reezo Hassan and Baby Whitz. Next up: Carfax, Johannesburg on Fri 15 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
+| Sat, 23 Jan 2027 | Ridgemore Villa | Cape Town |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Dokta Ooz is a house and techno artist based in South Africa, with 7 gigs on sou
 
 Deano, Reezo Hassan, Baby Whitz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doktaooz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doktaooz/)*

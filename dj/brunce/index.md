@@ -1,6 +1,6 @@
 # Brunce
 
-Brunce is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
+Brunce is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
 
 Brunce is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside DJ Spaßgetränk, Konsument and NIKØ. Next up: Void Club, Berlin on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Brunce is a techno and trance artist based in Germany, with 3 gigs on soundcheck
 
 DJ Spaßgetränk, Konsument, NIKØ
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunce/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunce/)*

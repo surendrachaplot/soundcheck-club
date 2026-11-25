@@ -1,14 +1,15 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Budawangs, New-south-wales on Fri, 27 Nov 2026.
+DJ SO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Budawangs, New-south-wales on Fri, 27 Nov 2026.
 
-DJ SO is a techno and house artist based in Japan, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Kyoto and 15 more. Often billed alongside Yo Nishijima, LØST and Peter Van Hoesen. Next up: TBA - Budawangs, New South Wales on Fri 27 Nov.
+DJ SO is a techno and house artist based in Japan, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Kyoto and 16 more. Often billed alongside Yo Nishijima, LØST and Peter Van Hoesen. Next up: TBA - Budawangs, New South Wales on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
+| Sun, 29 Nov 2026 | Coil | Melbourne |
 | Fri, 4 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ SO is a techno and house artist based in Japan, with 89 gigs on soundcheck ac
 
 Yo Nishijima, LØST, Peter Van Hoesen
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

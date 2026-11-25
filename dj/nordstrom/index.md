@@ -1,6 +1,6 @@
 # NORDSTRØM
 
-NORDSTRØM is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
+NORDSTRØM is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
 
 NORDSTRØM is a techno and minimal artist based in Sweden, with 14 gigs on soundcheck across Gothenburg, Malmo, Oslo and Stockholm. Often billed alongside Alonso Lozano, Caroline Kabat and Ito Cekaj. Next up: TBA - Secret Location, Stockholm on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ NORDSTRØM is a techno and minimal artist based in Sweden, with 14 gigs on sound
 
 Alonso Lozano, Caroline Kabat, Ito Cekaj
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordstrom/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordstrom/)*

@@ -1,8 +1,8 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Good Room, New York City on Fri, 4 Dec 2026.
+PAURRO is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Fri, 4 Dec 2026.
 
-PAURRO is a house and techno artist based in Mexico, with 203 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 40 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: Good Room, New York City on Fri 4 Dec.
+PAURRO is a house and techno artist based in Mexico, with 204 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 41 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: Good Room, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PAURRO is a house and techno artist based in Mexico, with 203 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Good Room | New York City |
 | Fri, 11 Dec 2026 | Razzmatazz | Barcelona |
+| Thu, 31 Dec 2026 | Ankali & Planeta Za | Prague |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ PAURRO is a house and techno artist based in Mexico, with 203 gigs on soundcheck
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

@@ -1,8 +1,8 @@
 # 反核機動隊
 
-反核機動隊 is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
+反核機動隊 is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
 
-反核機動隊 is a jungle and drum & bass artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside Acrocanthosaurus, DUCK and ALPHA. Next up: Live Haus, Tokyo on Fri 4 Dec.
+反核機動隊 is a jungle and drum & bass artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside Acrocanthosaurus, DUCK and ALPHA. Next up: Live Haus, Tokyo on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Live Haus | Tokyo |
 | Sat, 12 Dec 2026 | Heavy Sick Zero | Tokyo |
+| Sat, 26 Dec 2026 | Suns Shimokitazawa | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Acrocanthosaurus, DUCK, ALPHA (4)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*

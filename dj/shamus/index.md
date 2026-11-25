@@ -1,6 +1,6 @@
 # Shamus
 
-Shamus is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
+Shamus is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
 
 Shamus is an electro and disco artist based in Australia, with 5 gigs on soundcheck across Hanoi and Sydney. Often billed alongside Ben Morris, GABBY and Goodwill. Next up: White Bay Power Station, Sydney on Fri 2 Apr.
 
@@ -21,4 +21,4 @@ Shamus is an electro and disco artist based in Australia, with 5 gigs on soundch
 
 Ben Morris, GABBY, Goodwill
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamus/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamus/)*

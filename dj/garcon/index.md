@@ -1,6 +1,6 @@
 # Garçon
 
-Garçon is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at UMI, Brussels on Sat, 5 Dec 2026.
+Garçon is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at UMI, Brussels on Sat, 5 Dec 2026.
 
 Garçon is a techno and house artist based in Switzerland, with 99 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 31 more. Often billed alongside Agonis, Timnah and Konduku. Next up: UMI, Brussels on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ Garçon is a techno and house artist based in Switzerland, with 99 gigs on sound
 
 Agonis, Timnah, Konduku
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*

@@ -1,6 +1,6 @@
 # Lucas Benjamin
 
-Lucas Benjamin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Dec 2026.
+Lucas Benjamin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Dec 2026.
 
 Lucas Benjamin is a house and disco artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Berlin, Malmo and Osaka and 2 more. Often billed alongside Mo Wrights, Pelanoir and Rob Manga. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lucas Benjamin is a house and disco artist based in Netherlands, with 35 gigs on
 
 Mo Wrights, Pelanoir, Rob Manga
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasbenjamin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasbenjamin/)*

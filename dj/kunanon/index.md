@@ -1,13 +1,15 @@
 # Kunanon
 
-Kunanon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
+Kunanon is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, Bangkok on Fri, 27 Nov 2026.
 
-Kunanon is a house and techno artist based in Thailand, with 93 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside MOODYBOOM, Jayja and DMT Disco. Next up: Speakerbox, Bangkok on Sat 28 Nov.
+Kunanon is a house and techno artist based in Thailand, with 95 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside MOODYBOOM, Jayja and DMT Disco. Next up: Elsewhere, Bangkok on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Elsewhere | Bangkok |
+| Fri, 27 Nov 2026 | Bar Temp. | Bangkok |
 | Sat, 28 Nov 2026 | Speakerbox | Bangkok |
 | Sat, 28 Nov 2026 | Dual | Bangkok |
 
@@ -26,4 +28,4 @@ Kunanon is a house and techno artist based in Thailand, with 93 gigs on soundche
 
 MOODYBOOM, Jayja, DMT Disco
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kunanon/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kunanon/)*

@@ -1,6 +1,6 @@
 # Hot Take
 
-Hot Take is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 5 Dec 2026.
+Hot Take is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 5 Dec 2026.
 
 Hot Take is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Chicago, Cleveland, Los Angeles and Montreal and 3 more. Often billed alongside Jack Galactic, Jaggy and Brendan Lemkin. Next up: Smoke & Mirrors, Chicago on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Hot Take is a house and techno artist based in United States of America, with 35
 
 Jack Galactic, Jaggy, Brendan Lemkin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*

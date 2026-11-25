@@ -1,6 +1,6 @@
 # NUUP
 
-NUUP is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 1 Jan 2027.
+NUUP is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 1 Jan 2027.
 
 NUUP is a house and techno artist based in Mexico, with 67 gigs on soundcheck across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: Nitsa Club, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ NUUP is a house and techno artist based in Mexico, with 67 gigs on soundcheck ac
 
 Valderrama, Thomas Hernandez, JE·ROME
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*

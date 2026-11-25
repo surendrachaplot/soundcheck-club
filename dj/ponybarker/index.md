@@ -1,6 +1,6 @@
 # Ponybarker
 
-Ponybarker is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
+Ponybarker is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 28 Nov 2026.
 
 Ponybarker is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin, Hamburg and Nürnberg. Often billed alongside Phauna, Leon Licht and Luca Hagenmüller. Next up: Komplex Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ponybarker is a techno and house artist based in Germany, with 17 gigs on soundc
 
 Phauna, Leon Licht, Luca Hagenmüller
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponybarker/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponybarker/)*

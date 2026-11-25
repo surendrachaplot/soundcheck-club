@@ -1,6 +1,6 @@
 # Moon Warsaw
 
-Moon Warsaw is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "MOON PRESENTS: 3RD BIRTHDAY WITH Jimi Jules" on Sat, 28 Nov 2026.
+Moon Warsaw is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MOON PRESENTS: 3RD BIRTHDAY WITH Jimi Jules" on Sat, 28 Nov 2026.
 
 Moon Warsaw is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Aftersunday, Jimi Jules and Tripolism. See dates, start times and who's playing. Wioślarska 6, 00-411 Warszawa.
 
@@ -15,4 +15,4 @@ Moon Warsaw is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, wi
 
 Wioślarska 6, 00-411 Warszawa, Warsaw
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*

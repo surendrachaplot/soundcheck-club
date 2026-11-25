@@ -1,13 +1,14 @@
 # L.I (1)
 
-L.I (1) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Macadam, Nantes on Fri, 22 Jan 2027.
+L.I (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Macadam, Nantes on Sun, 20 Dec 2026.
 
-L.I is a trance and techno artist based in France, with 4 gigs on soundcheck across Nantes. Often billed alongside 3h12, Border and Katia Curie. Next up: Macadam, Nantes on Fri 22 Jan.
+L.I is a techno and trance artist based in France, with 5 gigs on soundcheck across Nantes. Often billed alongside 3h12, Border and Combe. Next up: Macadam, Nantes on Sun 20 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Dec 2026 | Macadam | Nantes |
 | Fri, 22 Jan 2027 | Macadam | Nantes |
 
 ## Recently played
@@ -18,6 +19,6 @@ L.I is a trance and techno artist based in France, with 4 gigs on soundcheck acr
 
 ## Shares bills with
 
-3h12, Border, Katia Curie
+3h12, Border, Combe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.i-1/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.i-1/)*

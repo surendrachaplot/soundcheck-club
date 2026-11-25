@@ -1,6 +1,6 @@
 # ANÏA
 
-ANÏA is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - CLUB K , Madrid on Sat, 28 Nov 2026.
+ANÏA is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - CLUB K , Madrid on Sat, 28 Nov 2026.
 
 ANÏA is a tech house and techno artist based in Morocco, with 3 gigs on soundcheck across Madrid and Manila. Often billed alongside IZREAL, NORO$T and PANICK. Next up: TBA - CLUB K , Madrid on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ ANÏA is a tech house and techno artist based in Morocco, with 3 gigs on soundch
 
 IZREAL, NORO$T, PANICK
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anïa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anïa/)*

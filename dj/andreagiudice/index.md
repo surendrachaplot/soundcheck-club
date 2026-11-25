@@ -1,14 +1,15 @@
 # Andrea Giudice
 
-Andrea Giudice is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Colour Factory, London on Sat, 19 Dec 2026.
+Andrea Giudice is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Colour Factory, London on Sat, 19 Dec 2026.
 
-Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on soundcheck across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: Colour Factory, London on Sat 19 Dec.
+Andrea Giudice is a house and tech house artist based in Italy, with 115 gigs on soundcheck across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: Colour Factory, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Colour Factory | London |
+| Sat, 26 Dec 2026 | Starlane Pizza Bar | London |
 | Thu, 31 Dec 2026 | TBA - Hackney Wick Secret Location | London |
 | Sat, 16 Jan 2027 | Colour Factory | London |
 | Sat, 13 Feb 2027 | Colour Factory | London |
@@ -31,4 +32,4 @@ Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on
 
 Larry Cadge, Grittrip, Reeno
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*

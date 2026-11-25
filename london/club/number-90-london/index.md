@@ -1,8 +1,8 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Faem e Li presents: Malix & Friends" on Fri, 27 Nov 2026.
+NUMBER 90 LONDON is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Faem e Li presents: Malix & Friends" on Fri, 27 Nov 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Akua, Alba Heidari, Alisdair and Amaliah and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Akua, Alba Heidari, Alexander Skancke and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gi
 | Fri, 18 Dec 2026 | Granville Collective - London | Alisdair, LEN., Raef., Redshift (2), Revstreet |
 | Thu, 31 Dec 2026 | Slipped Disc NYE ✧ Anish Kumar, Pangaea, Storm Mollison, Yemz + more | Anish Kumar, Pangaea, Storm Mollison, Yemz |
 | Thu, 31 Dec 2026 | SHIBUI - NYE | Dub Intentions, Jive Talk, Mannequin, Smeagal Pilly |
-| Fri, 1 Jan 2027 | Half Baked x Art of Dark - NYD 2027 |  |
+| Fri, 1 Jan 2027 | Half Baked x Art of Dark - NYD 2027 | Alexander Skancke, Buddy Love, Dale Mussington, Harry McCanna, NorthSouth, Oliver.r, Onur Özer, Sam Bangura, Sugar Free, Unai Trotti |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

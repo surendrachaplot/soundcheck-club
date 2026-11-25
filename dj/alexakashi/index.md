@@ -1,6 +1,6 @@
 # Alex Akashi
 
-Alex Akashi is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Dept 184, Milan on Fri, 27 Nov 2026.
+Alex Akashi is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Dept 184, Milan on Fri, 27 Nov 2026.
 
 Alex Akashi is a techno and hardcore artist based in Italy, with 5 gigs on soundcheck across Milan and Sardinia. Often billed alongside Andrea Isella, DEBBIE (IT) and Donzo. Next up: Club Dept 184, Milan on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Alex Akashi is a techno and hardcore artist based in Italy, with 5 gigs on sound
 
 Andrea Isella, DEBBIE (IT), Donzo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexakashi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexakashi/)*

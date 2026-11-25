@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 4 Dec 2026.
+Linska is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 4 Dec 2026.
 
 Linska is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 22 more. Often billed alongside Gorgon City, Adam Beyer and Eli Brown. Next up: 99 Scott Ave, New York City on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Linska is a house and techno artist based in United Kingdom, with 54 gigs on sou
 
 Gorgon City, Adam Beyer, Eli Brown
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

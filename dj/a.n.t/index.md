@@ -1,14 +1,15 @@
 # A.N.T
 
-A.N.T is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+A.N.T is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
-A.N.T is a jungle and garage artist based in United Kingdom, with 50 gigs on soundcheck across London and San Francisco/Oakland. Often billed alongside Marky V, Abby Daze and ADA (UK). Next up: M.O.T, London on Fri 27 Nov.
+A.N.T is a jungle and garage artist based in United Kingdom, with 51 gigs on soundcheck across London and San Francisco/Oakland. Often billed alongside Marky V, Abby Daze and CITIZEN. Next up: M.O.T, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | M.O.T | London |
+| Fri, 4 Dec 2026 | Planet Wax | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ A.N.T is a jungle and garage artist based in United Kingdom, with 50 gigs on sou
 
 ## Shares bills with
 
-Marky V, Abby Daze, ADA (UK)
+Marky V, Abby Daze, CITIZEN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*

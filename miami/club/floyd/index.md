@@ -1,6 +1,6 @@
 # Floyd
 
-Floyd is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Bag Raiders" on Sat, 28 Nov 2026.
+Floyd is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bag Raiders" on Sat, 28 Nov 2026.
 
 Floyd is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with line-ups including Berrakka, Ale De Tuglie, Ammo Avenue and Art Department and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
@@ -23,4 +23,4 @@ Floyd is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with lin
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

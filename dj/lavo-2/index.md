@@ -1,6 +1,6 @@
 # LAVO (2)
 
-LAVO (2) is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kruger Club, Vienna on Fri, 27 Nov 2026.
+LAVO (2) is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kruger Club, Vienna on Fri, 27 Nov 2026.
 
 LAVO is a house and progressive house artist based in Spain, with 11 gigs on soundcheck across Barcelona and Vienna. Often billed alongside Fede Frostl, INESSA and Tash. Next up: Kruger Club, Vienna on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ LAVO is a house and progressive house artist based in Spain, with 11 gigs on sou
 
 Fede Frostl, INESSA, Tash
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavo-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavo-2/)*

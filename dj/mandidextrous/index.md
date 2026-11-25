@@ -1,6 +1,6 @@
 # Mandidextrous
 
-Mandidextrous is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Exil, Vienna on Fri, 4 Dec 2026.
+Mandidextrous is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Exil, Vienna on Fri, 4 Dec 2026.
 
 Mandidextrous is a drum & bass and techno artist based in United Kingdom, with 97 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 36 more. Often billed alongside Samurai Breaks, Camo & Krooked and Fred V. Next up: Club Exil, Vienna on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Mandidextrous is a drum & bass and techno artist based in United Kingdom, with 9
 
 Samurai Breaks, Camo & Krooked, Fred V
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*

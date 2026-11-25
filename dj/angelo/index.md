@@ -1,6 +1,6 @@
 # An Gelo
 
-An Gelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 6 Mar 2027.
+An Gelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 6 Mar 2027.
 
 An Gelo is a house and techno artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Barcelona, Medellin and Tokyo and 1 more. Often billed alongside Alexander Koning, Erick E and Lucien Foort. Next up: Thuishaven, Amsterdam on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ An Gelo is a house and techno artist based in United Kingdom, with 15 gigs on so
 
 Alexander Koning, Erick E, Lucien Foort
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelo/)*

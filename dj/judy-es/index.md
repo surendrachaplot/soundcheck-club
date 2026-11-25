@@ -1,6 +1,6 @@
 # Judy (ES)
 
-Judy (ES) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gate Milano, Milan on Fri, 15 Jan 2027.
+Judy (ES) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gate Milano, Milan on Fri, 15 Jan 2027.
 
 Judy (ES) is a techno and house artist based in Spain, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Kyoto and 7 more. Often billed alongside Tuber, R-010 and Alexandre Laeddis. Next up: Gate Milano, Milan on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Judy (ES) is a techno and house artist based in Spain, with 56 gigs on soundchec
 
 Tuber, R-010, Alexandre Laeddis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judy-es/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judy-es/)*

@@ -1,6 +1,6 @@
 # Chloe Lula
 
-Chloe Lula is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
+Chloe Lula is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
 
 Chloe Lula is a techno and experimental artist based in Germany, with 15 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bologna and 1 more. Often billed alongside Ireen Amnes, Barbara Preisinger and Helena Hauff. Next up: Drugstore Beograd, Belgrade on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Chloe Lula is a techno and experimental artist based in Germany, with 15 gigs on
 
 Ireen Amnes, Barbara Preisinger, Helena Hauff
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*

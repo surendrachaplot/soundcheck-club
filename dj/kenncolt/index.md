@@ -1,6 +1,6 @@
 # Kenn Colt
 
-Kenn Colt is a Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Octave Rooftop Lounge & Bar, Bangkok on Thu, 31 Dec 2026.
+Kenn Colt is a Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Octave Rooftop Lounge & Bar, Bangkok on Thu, 31 Dec 2026.
 
 Kenn Colt is an afro house artist based in Belgium, with 33 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Brussels and 7 more. Often billed alongside Linda Lenor. Next up: Octave Rooftop Lounge & Bar, Bangkok on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kenn Colt is an afro house artist based in Belgium, with 33 gigs on soundcheck a
 
 Linda Lenor
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenncolt/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenncolt/)*

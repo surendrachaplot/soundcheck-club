@@ -1,6 +1,6 @@
 # Marco V
 
-Marco V is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Sound House, Dublin on Sat, 28 Nov 2026.
+Marco V is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Sound House, Dublin on Sat, 28 Nov 2026.
 
 Marco V is a trance and techno artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Budapest, Dublin and Edinburgh and 8 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: The Sound House, Dublin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Marco V is a trance and techno artist based in Netherlands, with 26 gigs on soun
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*

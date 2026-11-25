@@ -1,13 +1,13 @@
 # Topazdeluxe
 
-Topazdeluxe is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Aniversario 19 TOPAZdeluxe" on Fri, 20 Nov 2026.
+Topazdeluxe is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Argenis Brito, Miguel Puente" on Sat, 28 Nov 2026.
 
-Topazdeluxe is a music venue in Monterrey listed on soundcheck. 1 upcoming gig, with line-ups including Alexa Rosas, papa jazz and Remille. See dates, start times and who's playing.
+Topazdeluxe is a music venue in Monterrey listed on soundcheck. 1 upcoming gig, with line-ups including Argenis Brito and Miguel Puente. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Aniversario 19 TOPAZdeluxe | Alexa Rosas, Remille, papa jazz |
+| Sat, 28 Nov 2026 | Argenis Brito, Miguel Puente | Argenis Brito, Miguel Puente |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/topazdeluxe/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/topazdeluxe/)*

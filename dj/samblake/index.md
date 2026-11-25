@@ -1,6 +1,6 @@
 # sam blake
 
-sam blake is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Système, Montreal on Thu, 26 Nov 2026.
+sam blake is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Système, Montreal on Thu, 26 Nov 2026.
 
 sam blake is a techno and club artist based in Canada, with 18 gigs on soundcheck across Los Angeles, Montreal and Toronto. Often billed alongside BONNE-V, Badgalquirit and Frankie Teardrop. Next up: Système, Montreal on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ sam blake is a techno and club artist based in Canada, with 18 gigs on soundchec
 
 BONNE-V, Badgalquirit, Frankie Teardrop
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samblake/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samblake/)*

@@ -1,6 +1,6 @@
 # Leviminks
 
-Leviminks is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Colours Hoxton, London on Sat, 19 Dec 2026.
+Leviminks is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Colours Hoxton, London on Sat, 19 Dec 2026.
 
 Leviminks is a techno and ebm artist based in United Kingdom, with 29 gigs on soundcheck across Birmingham, Istanbul and London. Often billed alongside Arrosa, LIZAZA and Ricardo Castro. Next up: Colours Hoxton, London on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Leviminks is a techno and ebm artist based in United Kingdom, with 29 gigs on so
 
 Arrosa, LIZAZA, Ricardo Castro
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*

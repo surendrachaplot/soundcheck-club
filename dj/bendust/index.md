@@ -1,6 +1,6 @@
 # Ben Dust
 
-Ben Dust is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+Ben Dust is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 Ben Dust is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Cologne and Cyprus and 5 more. Often billed alongside Mark Dekoda, Klanglos and Luis Martinez. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -25,4 +25,4 @@ Ben Dust is a techno and trance artist based in Germany, with 31 gigs on soundch
 
 Mark Dekoda, Klanglos, Luis Martinez
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bendust/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bendust/)*

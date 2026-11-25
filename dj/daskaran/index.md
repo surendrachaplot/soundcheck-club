@@ -1,6 +1,6 @@
 # Daskaran
 
-Daskaran is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat, 19 Dec 2026.
+Daskaran is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat, 19 Dec 2026.
 
 Daskaran is a techno and club artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Lisbon, London and Manchester. Often billed alongside Varanasi, CHEZA LUCINA and LO-LOW. Next up: TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Daskaran is a techno and club artist based in United Kingdom, with 19 gigs on so
 
 Varanasi, CHEZA LUCINA, LO-LOW
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*

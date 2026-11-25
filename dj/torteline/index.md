@@ -1,6 +1,6 @@
 # Torteline
 
-Torteline is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 4 Dec 2026.
+Torteline is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 Torteline is a house and afro house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Moheato, Hunter Green and Bryn Avery. Next up: Public Works, San Francisco/Oakland on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Torteline is a house and afro house artist based in United States of America, wi
 
 Moheato, Hunter Green, Bryn Avery
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torteline/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torteline/)*

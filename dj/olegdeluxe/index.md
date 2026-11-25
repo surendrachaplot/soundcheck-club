@@ -1,14 +1,15 @@
 # Oleg Deluxe
 
-Oleg Deluxe is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
+Oleg Deluxe is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
 
-Oleg Deluxe is a club and experimental artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Warlord®, Seviliya and e03. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 28 Nov.
+Oleg Deluxe is a club and experimental artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Warlord®, Seviliya and e03. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
+| Thu, 31 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ Oleg Deluxe is a club and experimental artist based in Germany, with 5 gigs on s
 
 Warlord®, Seviliya, e03 (1)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olegdeluxe/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olegdeluxe/)*

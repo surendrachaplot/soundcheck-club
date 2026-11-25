@@ -1,13 +1,14 @@
 # somebody3lse
 
-somebody3lse is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sans Soleil, Montreal on Thu, 26 Nov 2026.
+somebody3lse is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sans Soleil, Montreal on Thu, 26 Nov 2026.
 
-somebody3lse is a bass and house artist based in United Kingdom, with 58 gigs on soundcheck across Montreal. Often billed alongside CMD, Emil Paquin and Mok-T. Next up: Sans Soleil, Montreal on Thu 26 Nov.
+somebody3lse is a bass and house artist based in United Kingdom, with 59 gigs on soundcheck across Montreal. Often billed alongside CMD, Emil Paquin and Mok-T. Next up: Sans Soleil, Montreal on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Sans Soleil | Montreal |
 | Thu, 26 Nov 2026 | Sans Soleil | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ somebody3lse is a bass and house artist based in United Kingdom, with 58 gigs on
 
 CMD, Emil Paquin, Mok-T
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*

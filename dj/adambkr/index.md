@@ -1,6 +1,6 @@
 # Adam Bkr
 
-Adam Bkr is a Afrobeat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paramour, Brussels on Fri, 4 Dec 2026.
+Adam Bkr is a Afrobeat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paramour, Brussels on Fri, 4 Dec 2026.
 
 Adam Bkr is an afrobeat and funk / soul artist based in Belgium, with 30 gigs on soundcheck across Berlin, Brussels, Paris and Utrecht and 1 more. Often billed alongside Midnight Voodoo, Hassan Raphael and El Nicoya. Next up: Paramour, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Adam Bkr is an afrobeat and funk / soul artist based in Belgium, with 30 gigs on
 
 Midnight Voodoo, Hassan Raphael, El Nicoya
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adambkr/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adambkr/)*

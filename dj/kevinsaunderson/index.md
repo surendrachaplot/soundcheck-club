@@ -1,6 +1,6 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at House of Yes, New York City on Fri, 11 Dec 2026.
+Kevin Saunderson is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at House of Yes, New York City on Fri, 11 Dec 2026.
 
 Kevin Saunderson is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 38 more. Often billed alongside The Saunderson Brothers, Carl Craig and Speedy J. Next up: House of Yes, New York City on Fri 11 Dec.
 
@@ -29,4 +29,4 @@ Kevin Saunderson is a techno and house artist based in United States of America,
 
 The Saunderson Brothers, Carl Craig, Speedy J
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*

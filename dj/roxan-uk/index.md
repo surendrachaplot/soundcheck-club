@@ -1,14 +1,15 @@
 # ROXAN (UK)
 
-ROXAN (UK) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
+ROXAN (UK) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
 
-ROXAN (UK) is a techno and electro artist, with 18 gigs on soundcheck across Edinburgh. Often billed alongside SINN3R, Dan Jakson and EVSKA. Next up: The Bongo Club, Edinburgh on Sat 28 Nov.
+ROXAN (UK) is a techno and electro artist, with 19 gigs on soundcheck across Edinburgh. Often billed alongside SINN3R, Iona.Violet and ona:v. Next up: The Bongo Club, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Bongo Club | Edinburgh |
+| Sat, 23 Jan 2027 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ROXAN (UK) is a techno and electro artist, with 18 gigs on soundcheck across Edi
 
 ## Shares bills with
 
-SINN3R, Dan Jakson, EVSKA
+SINN3R, Iona.Violet, ona:v
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxan-uk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxan-uk/)*

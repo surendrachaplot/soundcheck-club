@@ -1,6 +1,6 @@
 # cell1
 
-cell1 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
+cell1 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
 
 cell1 is a techno and trance artist, with 51 gigs on soundcheck across Berlin and Dresden. Often billed alongside Al Aslan, Sievert Serviert and Blck-Swan. Next up: PKH Warehouse, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ cell1 is a techno and trance artist, with 51 gigs on soundcheck across Berlin an
 
 Al Aslan, Sievert Serviert, Blck-Swan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*

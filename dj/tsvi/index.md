@@ -1,6 +1,6 @@
 # TSVI
 
-TSVI is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
+TSVI is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
 
 TSVI is a techno and bass artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Anunaku, Ehua and Identified Patient. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ TSVI is a techno and bass artist based in United Kingdom, with 115 gigs on sound
 
 Anunaku, Ehua, Identified Patient
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*

@@ -1,6 +1,6 @@
 # Casbah
 
-Casbah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Casbah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Casbah is a house and techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Schnurrsen, Zehlendorfer Disco Squad and Alex Neri. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Casbah is a house and techno artist based in Germany, with 4 gigs on soundcheck 
 
 Schnurrsen, Zehlendorfer Disco Squad, Alex Neri
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casbah/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casbah/)*

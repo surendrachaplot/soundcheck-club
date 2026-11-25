@@ -1,8 +1,8 @@
 # Megaira
 
-Megaira is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at KitKatClub, Berlin on Thu, 26 Nov 2026.
+Megaira is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Thu, 26 Nov 2026.
 
-Megaira is a trance and techno artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Florelle, alemiko and DJ Henk. Next up: KitKatClub, Berlin on Thu 26 Nov.
+Megaira is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Florelle, alemiko and DJ Henk. Next up: KitKatClub, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Megaira is a trance and techno artist based in Germany, with 12 gigs on soundche
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | KitKatClub | Berlin |
 | Sat, 28 Nov 2026 | ÆDEN | Berlin |
+| Fri, 4 Dec 2026 | Humboldthain Club | Berlin |
 | Sun, 27 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 30 Jan 2027 | ://about blank | Berlin |
 
@@ -28,4 +29,4 @@ Megaira is a trance and techno artist based in Germany, with 12 gigs on soundche
 
 Florelle, alemiko, DJ Henk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megaira/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megaira/)*

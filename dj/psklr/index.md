@@ -1,6 +1,6 @@
 # PSKLR
 
-PSKLR is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Cross Club, Prague on Fri, 4 Dec 2026.
+PSKLR is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cross Club, Prague on Fri, 4 Dec 2026.
 
 PSKLR is a techno and deep house artist based in Czech Republic, with 9 gigs on soundcheck across Prague. Often billed alongside Orkus, Broken Robot and Ejdm. Next up: Cross Club, Prague on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ PSKLR is a techno and deep house artist based in Czech Republic, with 9 gigs on 
 
 Orkus, Broken Robot, Ejdm
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psklr/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psklr/)*

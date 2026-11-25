@@ -1,8 +1,8 @@
 # Luka Jukic
 
-Luka Jukic is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+Luka Jukic is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
-Luka Jukic is a techno and electronica artist based in Serbia, with 33 gigs on soundcheck across Belgrade, Berlin, Croatia and Ljubljana and 2 more. Often billed alongside Lollipop Janosz, .Paragon and Impedance. Next up: Rote Sonne, Munich on Sat 28 Nov.
+Luka Jukic is a techno and electronica artist based in Serbia, with 34 gigs on soundcheck across Belgrade, Berlin, Croatia and Ljubljana and 2 more. Often billed alongside Lollipop Janosz, .Paragon and Impedance. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luka Jukic is a techno and electronica artist based in Serbia, with 33 gigs on s
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Rote Sonne | Munich |
 | Fri, 11 Dec 2026 | Drugstore Beograd | Belgrade |
+| Fri, 1 Jan 2027 | Para Klub Beograd | Belgrade |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Luka Jukic is a techno and electronica artist based in Serbia, with 33 gigs on s
 
 Lollipop Janosz, .Paragon, Impedance
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukajukic-rs/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukajukic-rs/)*

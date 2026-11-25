@@ -1,14 +1,15 @@
 # DJ Dustin
 
-DJ Dustin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Dec 2026.
+DJ Dustin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Dec 2026.
 
-DJ Dustin is a house and techno artist based in Germany, with 118 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 40 more. Often billed alongside Konstantin, Yamour and Leafar Legov. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Dec.
+DJ Dustin is a house and techno artist based in Germany, with 119 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 40 more. Often billed alongside Konstantin, Yamour and Leafar Legov. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 26 Dec 2026 | Printhouse | Munich |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
@@ -27,4 +28,4 @@ DJ Dustin is a house and techno artist based in Germany, with 118 gigs on soundc
 
 Konstantin, Yamour, Leafar Legov
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*

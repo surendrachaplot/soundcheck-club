@@ -1,6 +1,6 @@
 # MARCHANTE
 
-MARCHANTE is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at El Cid, Los Angeles on Sat, 5 Dec 2026.
+MARCHANTE is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at El Cid, Los Angeles on Sat, 5 Dec 2026.
 
 MARCHANTE is a club and ghetto tech artist based in United States of America, with 9 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside DJ Kita, Pretty R1cky and Asphodèle. Next up: El Cid, Los Angeles on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MARCHANTE is a club and ghetto tech artist based in United States of America, wi
 
 DJ Kita, Pretty R1cky, Asphodèle
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*

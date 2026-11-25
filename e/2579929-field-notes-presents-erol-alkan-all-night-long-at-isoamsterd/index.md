@@ -1,6 +1,6 @@
 # Field Notes presents… Erol Alkan All Night Long at ISOamsterdam
 
-Field Notes presents… Erol Alkan All Night Long at ISOamsterdam on Fri 11 Dec, Amsterdam. 2 artists: Erol Alkan and Field Notes DJs. Afro House and Electronica. See the line-up on soundcheck.
+Field Notes presents… Erol Alkan All Night Long at ISOamsterdam on Fri 11 Dec, Amsterdam. 2 artists: Erol Alkan and Field Notes DJs. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

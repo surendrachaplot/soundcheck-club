@@ -1,6 +1,6 @@
 # Donny Burlin
 
-Donny Burlin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Chocolate Factory, New York City on Wed, 9 Dec 2026.
+Donny Burlin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Chocolate Factory, New York City on Wed, 9 Dec 2026.
 
 Donny Burlin is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside DatKat, Morgan and Analog Soul. Next up: The Chocolate Factory, New York City on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Donny Burlin is a house and techno artist based in United States of America, wit
 
 DatKat, Morgan, Analog Soul
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnyburlin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnyburlin/)*

@@ -1,6 +1,6 @@
 # Dose
 
-Dose is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Dose is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Dose is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across Berlin, Miami and Tampa Bay. Often billed alongside Doc Brown, AMPRS&ND and Adam Beyer. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Dose is a techno and house artist based in United Kingdom, with 5 gigs on soundc
 
 Doc Brown, AMPRS&ND, Adam Beyer
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dose/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dose/)*

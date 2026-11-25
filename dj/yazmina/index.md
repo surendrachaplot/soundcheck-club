@@ -1,6 +1,6 @@
 # Yazmina
 
-Yazmina is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bread and Butter Arch, London on Fri, 27 Nov 2026.
+Yazmina is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bread and Butter Arch, London on Fri, 27 Nov 2026.
 
 Yazmina is a house and deep house artist based in United Kingdom, with 16 gigs on soundcheck across London and Los Angeles. Often billed alongside OUTTEN, Areola Grande Latte and Bekefi. Next up: Bread and Butter Arch, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Yazmina is a house and deep house artist based in United Kingdom, with 16 gigs o
 
 OUTTEN, Areola Grande Latte, Bekefi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmina/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmina/)*

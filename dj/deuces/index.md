@@ -1,6 +1,6 @@
 # DEUCES
 
-DEUCES is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Jago, London on Fri, 18 Dec 2026.
+DEUCES is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Jago, London on Fri, 18 Dec 2026.
 
 DEUCES is a house and latin bass artist based in United Kingdom, with 7 gigs on soundcheck across Brighton and London. Often billed alongside Latec0mer, ATST and Calm Stiege. Next up: The Jago, London on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ DEUCES is a house and latin bass artist based in United Kingdom, with 7 gigs on 
 
 Latec0mer, ATST, Calm Stiege
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deuces/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deuces/)*

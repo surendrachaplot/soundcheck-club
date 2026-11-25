@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "HONKY DONK vs Mordorkore: 𝔅𝔞𝔱𝔱𝔩𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔍𝔢𝔰𝔱𝔢𝔯𝔷" on Fri, 27 Nov 2026.
+Fitzroy is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "HONKY DONK vs Mordorkore: 𝔅𝔞𝔱𝔱𝔩𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔍𝔢𝔰𝔱𝔢𝔯𝔷" on Fri, 27 Nov 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including ADNS, Ahni, Amowia and angelboy and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with 
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

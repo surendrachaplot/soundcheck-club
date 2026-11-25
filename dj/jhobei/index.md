@@ -1,6 +1,6 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Jhobei is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Jhobei is a house and electro artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Jhobei is a house and electro artist based in United Kingdom, with 79 gigs on so
 
 B.Love, Voigtmann, Enzo Siragusa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

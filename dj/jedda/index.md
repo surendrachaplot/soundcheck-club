@@ -1,14 +1,15 @@
 # Jedda
 
-Jedda is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Jedda is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
-Jedda is a house and disco artist based in United Kingdom, with 40 gigs on soundcheck across Cardiff, Edinburgh and London. Often billed alongside Hobbes, Bartek and Last Days of Pompeii. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
+Jedda is a house and disco artist based in United Kingdom, with 41 gigs on soundcheck across Cardiff, Edinburgh and London. Often billed alongside Hobbes, Nikki Guild and Bartek. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | People's Leisure Club | Edinburgh |
+| Sat, 28 Nov 2026 | Paradise Palms | Edinburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jedda is a house and disco artist based in United Kingdom, with 40 gigs on sound
 
 ## Shares bills with
 
-Hobbes, Bartek, Last Days of Pompeii
+Hobbes, Nikki Guild, Bartek
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jedda/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jedda/)*

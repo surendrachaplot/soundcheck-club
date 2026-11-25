@@ -1,14 +1,15 @@
 # Kalopsia
 
-Kalopsia is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 10 Dec 2026.
+Kalopsia is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 10 Dec 2026.
 
-Kalopsia is a techno and breakbeat artist based in United Kingdom, with 29 gigs on soundcheck across Brussels, Edinburgh, Glasgow and Paris. Often billed alongside manu_facturer, 3SBAT and Lockedback. Next up: The Berkeley Suite, Glasgow on Thu 10 Dec.
+Kalopsia is a techno and breakbeat artist based in United Kingdom, with 30 gigs on soundcheck across Brussels, Edinburgh, Glasgow and Paris and 1 more. Often billed alongside manu_facturer, 3SBAT and Lockedback. Next up: The Berkeley Suite, Glasgow on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | The Berkeley Suite | Glasgow |
+| Thu, 31 Dec 2026 | Club 1 | Santiago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kalopsia is a techno and breakbeat artist based in United Kingdom, with 29 gigs 
 
 manu_facturer, 3SBAT, Lockedback
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsia/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsia/)*

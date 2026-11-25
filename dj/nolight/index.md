@@ -1,6 +1,6 @@
 # No Light
 
-No Light is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
+No Light is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
 
 No Light is a club and techno artist, with 10 gigs on soundcheck across Mexico City. Often billed alongside Lyo XS, Un Dilema and Ana Armada. Next up: TBA - Cuauhtémoc, Mexico City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ No Light is a club and techno artist, with 10 gigs on soundcheck across Mexico C
 
 Lyo XS, Un Dilema, Ana Armada
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nolight/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nolight/)*

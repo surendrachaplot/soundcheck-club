@@ -1,14 +1,15 @@
 # The Bug
 
-The Bug is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at M.O.T, London on Sat, 23 Jan 2027.
+The Bug is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at M.O.T, London on Sat, 23 Jan 2027.
 
-The Bug is a dub and experimental artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: M.O.T, London on Sat 23 Jan.
+The Bug is a dub and experimental artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Flowdan, Warrior Queen and Ghost Dubs. Next up: M.O.T, London on Sat 23 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 23 Jan 2027 | M.O.T | London |
+| Sun, 24 Jan 2027 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ The Bug is a dub and experimental artist based in United Kingdom, with 52 gigs o
 
 ## Shares bills with
 
-Flowdan, Warrior Queen, CCL
+Flowdan, Warrior Queen, Ghost Dubs
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*

@@ -1,8 +1,8 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Katia Curie is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
-Katia Curie is a house and techno artist based in Ukraine, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 26 more. Often billed alongside Nizar Sarakbi, KATIA and vince. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
+Katia Curie is a house and techno artist based in Ukraine, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 26 more. Often billed alongside Nizar Sarakbi, KATIA (ES) and vince. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Katia Curie is a house and techno artist based in Ukraine, with 130 gigs on soun
 
 ## Shares bills with
 
-Nizar Sarakbi, KATIA, vince
+Nizar Sarakbi, KATIA (ES), vince
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

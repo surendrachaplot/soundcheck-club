@@ -1,13 +1,14 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Eats Everything is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar v Krymský, Prague on Sat, 28 Nov 2026.
 
-Eats Everything is a house and tech house artist based in United Kingdom, with 194 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 39 more. Often billed alongside EATS, Sam Divine and Melé. Next up: Factory Town, Miami on Wed 2 Dec.
+Eats Everything is a house and tech house artist based in United Kingdom, with 195 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 40 more. Often billed alongside EATS, Sam Divine and Melé. Next up: Bar v Krymský, Prague on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Bar v Krymský | Prague |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
@@ -31,4 +32,4 @@ Eats Everything is a house and tech house artist based in United Kingdom, with 1
 
 EATS, Sam Divine, Melé
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*

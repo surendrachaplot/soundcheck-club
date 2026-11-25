@@ -1,6 +1,6 @@
 # Next Door Records
 
-Next Door Records is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Stir it up" on Sat, 28 Nov 2026.
+Next Door Records is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Stir it up" on Sat, 28 Nov 2026.
 
 Next Door Records is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Dez (UK), Drew Karma and Mannequin. See dates, start times and who's playing. 304 Uxbridge Road, London, W12 7LJ, United Kingdom.
 
@@ -15,4 +15,4 @@ Next Door Records is a music venue in London listed on soundcheck. 2 upcoming gi
 
 304 Uxbridge Road, London, W12 7LJ, United Kingdom, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*

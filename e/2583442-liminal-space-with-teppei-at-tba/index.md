@@ -1,6 +1,6 @@
 # Liminal Space with teppei at TBA
 
-Liminal Space with teppei at TBA on Fri 11 Dec, Hong Kong. 4 artists: Faxtory, Mill.H, seko (HK) and teppei. Techno. See the line-up on soundcheck.
+Liminal Space with teppei at TBA on Fri 11 Dec, Hong Kong. 6 artists: ADRIANNA.C, Faxtory, Konnection and Mill.H and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Liminal Space with teppei at TBA on Fri 11 Dec, Hong Kong. 4 artists: Faxtory, M
 
 ## Line-up
 
+- ADRIANNA.C
 - Faxtory
+- Konnection
 - Mill.H
 - seko (HK)
 - teppei

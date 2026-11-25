@@ -1,14 +1,13 @@
 # Birdsnake
 
-Birdsnake is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Wheat, Wine & Whiskey - 284 Smith St Collingwood, Melbourne on Wed, 25 Nov 2026.
+Birdsnake is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
-Birdsnake is a house and techno artist based in Australia, with 6 gigs on soundcheck across Melbourne. Often billed alongside Emelyne, Miles Nautu and Tornado Wallace. Next up: TBA - Wheat, Wine & Whiskey - 284 Smith St Collingwood, Melbourne on Wed 25 Nov.
+Birdsnake is a house and techno artist based in Australia, with 6 gigs on soundcheck across Melbourne. Often billed alongside Emelyne, Miles Nautu and Tornado Wallace. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA - Wheat, Wine & Whiskey - 284 Smith St Collingwood | Melbourne |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 | Sat, 30 Jan 2027 | Collingwood Children's Farm | Melbourne |
 
@@ -22,4 +21,4 @@ Birdsnake is a house and techno artist based in Australia, with 6 gigs on soundc
 
 Emelyne, Miles Nautu, Tornado Wallace
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsnake/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsnake/)*

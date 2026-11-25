@@ -1,6 +1,6 @@
-# Gaspar Torres 4 Hour Set at The Bassment
+# Gaspar Torres 4-Hour Set at The Bassment
 
-Gaspar Torres 4 Hour Set at The Bassment on Sat 28 Nov, Amsterdam. 1 artist: Gaspar Torres. Progressive House and Deep House. See the line-up on soundcheck.
+Gaspar Torres 4-Hour Set at The Bassment on Sat 28 Nov, Amsterdam. 1 artist: Gaspar Torres. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

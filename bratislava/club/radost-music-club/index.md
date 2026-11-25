@@ -1,6 +1,6 @@
 # Radost Music Club
 
-Radost Music Club is a music venue in Bratislava with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "GET CLOSER with Carl, Vacho & more" on Fri, 27 Nov 2026.
+Radost Music Club is a music venue in Bratislava with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "GET CLOSER with Carl, Vacho & more" on Fri, 27 Nov 2026.
 
 Radost Music Club is a music venue in Bratislava listed on soundcheck. 3 upcoming gigs, with line-ups including Hasky (SK), Majsko, MIKLEI and misodurica and 1 more. See dates, start times and who's playing. Obchodna 48; 84108 Bratislava; Slovakia.
 
@@ -16,4 +16,4 @@ Radost Music Club is a music venue in Bratislava listed on soundcheck. 3 upcomin
 
 Obchodna 48; 84108 Bratislava; Slovakia, Bratislava
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/radost-music-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/radost-music-club/)*

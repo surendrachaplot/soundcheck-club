@@ -1,6 +1,6 @@
 # Thodoris Triantafillou
 
-Thodoris Triantafillou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Romantso, Athens on Fri, 18 Dec 2026.
+Thodoris Triantafillou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Romantso, Athens on Fri, 18 Dec 2026.
 
 Thodoris Triantafillou is a house and techno artist based in Greece, with 16 gigs on soundcheck across Amsterdam, Athens, Copenhagen and New York City and 1 more. Often billed alongside Another Jim, Bouzidi and Baime. Next up: Romantso, Athens on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Thodoris Triantafillou is a house and techno artist based in Greece, with 16 gig
 
 Another Jim, Bouzidi, Baime
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thodoristriantafillou/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thodoristriantafillou/)*

@@ -1,6 +1,6 @@
 # TranceParty:Rezolucja at The Cause
 
-TranceParty:Rezolucja at The Cause on Fri 11 Dec, London. 1 artist: Evian Christ. See the line-up on soundcheck.
+TranceParty:Rezolucja at The Cause on Fri 11 Dec, London. 2 artists: Evian Christ and KimberlaID. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ TranceParty:Rezolucja at The Cause on Fri 11 Dec, London. 1 artist: Evian Christ
 ## Line-up
 
 - Evian Christ
+- KimberlaID
 
 *Source: [soundcheck](https://soundcheck.club/e/2542852-tranceparty-rezolucja-at-the-cause/)*

@@ -1,6 +1,6 @@
 # WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton at MTW
 
-WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton on Sat 28 Nov, Frankfurt. 6 artists: CiKi, Kacy, Kiko and TAKTSTÖRER and 2 more. Trance and Techno. See the line-up on soundcheck.
+WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton on Sat 28 Nov, Frankfurt. 7 artists: CiKi, Emil Bunker, Kacy and Kiko and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton on Sat 28 Nov, Frankfurt. 6 artis
 ## Line-up
 
 - CiKi
+- Emil Bunker
 - Kacy
 - Kiko
 - TAKTSTÖRER

@@ -1,13 +1,14 @@
 # Blasterjaxx
 
-Blasterjaxx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Open Beatz Festival, Bavaria on Fri, 23 Jul 2027.
+Blasterjaxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
 
-Blasterjaxx is a techno and house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Austin, Bavaria and Cologne and 11 more. Often billed alongside LNY TNZ, BENNETT and Gammer. Next up: Open Beatz Festival, Bavaria on Fri 23 Jul.
+Blasterjaxx is a techno and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Austin, Bavaria and Cologne and 12 more. Often billed alongside LNY TNZ, BENNETT and Bassjackers. Next up: EXPO XXI, Warsaw on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | EXPO XXI | Warsaw |
 | Fri, 23 Jul 2027 | Open Beatz Festival | Bavaria |
 
 ## Recently played
@@ -23,6 +24,6 @@ Blasterjaxx is a techno and house artist based in Netherlands, with 19 gigs on s
 
 ## Shares bills with
 
-LNY TNZ, BENNETT, Gammer
+LNY TNZ, BENNETT, Bassjackers
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blasterjaxx/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blasterjaxx/)*

@@ -1,6 +1,6 @@
 # Petit Bain
 
-Petit Bain is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Africolor X Barbarry - Ratpi Club" on Sat, 28 Nov 2026.
+Petit Bain is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Africolor X Barbarry - Ratpi Club" on Sat, 28 Nov 2026.
 
 Petit Bain is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Wackii, Angie (FR), Bady (FR) and Decius and 2 more. See dates, start times and who's playing. 7 port de la Gare, 75013 Paris.
 
@@ -20,4 +20,4 @@ Petit Bain is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with
 
 7 port de la Gare, 75013 Paris, Paris
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*

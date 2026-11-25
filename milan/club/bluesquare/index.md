@@ -1,17 +1,19 @@
 # Bluesquare
 
-Bluesquare is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "3 Years of Gestalt with Lucus" on Sat, 21 Nov 2026.
+Bluesquare is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "blue nights live: Andrea Dominoni Trio" on Thu, 26 Nov 2026.
 
-Bluesquare is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including 760 Dreams, Cristian Comes, Dogs I Know and Larain and 1 more. See dates, start times and who's playing. Via Tortona 33, 20144.
+Bluesquare is a music venue in Milan listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Via Tortona 33, 20144.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | 3 Years of Gestalt with Lucus | 760 Dreams, Cristian Comes, Dogs I Know, Larain, Velli Reason Wise |
+| Thu, 26 Nov 2026 | blue nights live: Andrea Dominoni Trio |  |
+| Fri, 27 Nov 2026 | hi-fi weekends: Magica Movida |  |
+| Sat, 28 Nov 2026 | hi-fi weekends: Lostin |  |
 
 ## Address
 
 Via Tortona 33, 20144, Milan
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*

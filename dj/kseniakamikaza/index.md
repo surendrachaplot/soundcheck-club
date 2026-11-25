@@ -1,14 +1,14 @@
 # Ksenia Kamikaza
 
-Ksenia Kamikaza is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Teritorija, Riga on Fri, 4 Dec 2026.
+Ksenia Kamikaza is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret place / Zemitana, Riga on Fri, 4 Dec 2026.
 
-Ksenia Kamikaza is a techno and house artist based in Latvia, with 123 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 11 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Teritorija, Riga on Fri 4 Dec.
+Ksenia Kamikaza is a techno and house artist based in Latvia, with 123 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 11 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: TBA - Secret place / Zemitana, Riga on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Teritorija | Riga |
+| Fri, 4 Dec 2026 | TBA - Secret place / Zemitana | Riga |
 | Fri, 18 Dec 2026 | Teritorija | Riga |
 | Sat, 3 Jul 2027 | TBA - Liepājas Metalurgs | Latvia |
 
@@ -27,4 +27,4 @@ Ksenia Kamikaza is a techno and house artist based in Latvia, with 123 gigs on s
 
 Esoniq, Ikss, HP-82
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*

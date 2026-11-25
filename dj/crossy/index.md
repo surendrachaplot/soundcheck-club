@@ -1,6 +1,6 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Steel Yard, London on Sat, 5 Dec 2026.
+Crossy is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Steel Yard, London on Sat, 5 Dec 2026.
 
 Crossy is a drum & bass and jungle artist based in United Kingdom, with 71 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 19 more. Often billed alongside Carasel, Trafic MC and Kanine. Next up: The Steel Yard, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Crossy is a drum & bass and jungle artist based in United Kingdom, with 71 gigs 
 
 Carasel, Trafic MC, Kanine
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

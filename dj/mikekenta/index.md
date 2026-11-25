@@ -1,6 +1,6 @@
 # Mike Kenta
 
-Mike Kenta is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Elsewhere, Bangkok on Tue, 29 Dec 2026.
+Mike Kenta is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, Bangkok on Tue, 29 Dec 2026.
 
 Mike Kenta is a club and techno artist based in Taiwan, with 20 gigs on soundcheck across Bangkok and Taipei. Often billed alongside KC Poe, L-CC and F.G.D.. Next up: Elsewhere, Bangkok on Tue 29 Dec.
 
@@ -26,4 +26,4 @@ Mike Kenta is a club and techno artist based in Taiwan, with 20 gigs on soundche
 
 KC Poe, L-CC, F.G.D.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekenta/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekenta/)*

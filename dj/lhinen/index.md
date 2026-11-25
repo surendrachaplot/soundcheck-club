@@ -1,13 +1,14 @@
 # Lhinen
 
-Lhinen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Teranoma Tidepool, Osaka on Sat, 12 Dec 2026.
+Lhinen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at BnA Alter Museum, Kyoto on Mon, 30 Nov 2026.
 
-Lhinen is a techno and house artist based in Japan, with 37 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kafuka, metome and Chie Otomi. Next up: Teranoma Tidepool, Osaka on Sat 12 Dec.
+Lhinen is a techno and house artist based in Japan, with 38 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kafuka, metome and Chie Otomi. Next up: BnA Alter Museum, Kyoto on Mon 30 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 30 Nov 2026 | BnA Alter Museum | Kyoto |
 | Sat, 12 Dec 2026 | Teranoma Tidepool | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lhinen is a techno and house artist based in Japan, with 37 gigs on soundcheck a
 
 kafuka, metome, Chie Otomi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lhinen/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lhinen/)*

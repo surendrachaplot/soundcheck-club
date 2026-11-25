@@ -1,6 +1,6 @@
 # Musicality at Chausseestrasse 131
 
-Musicality at Chausseestrasse 131 on Sun 20 Dec, Berlin. 2 artists: masking girlfriend and Yuri Umemoto. Experimental and Electronica. See the line-up on soundcheck.
+Musicality at Chausseestrasse 131 on Sun 20 Dec, Berlin. 3 artists: e03, masking girlfriend and Yuri Umemoto. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Musicality at Chausseestrasse 131 on Sun 20 Dec, Berlin. 2 artists: masking girl
 
 ## Line-up
 
+- e03 (1)
 - masking girlfriend
 - Yuri Umemoto
 

@@ -1,6 +1,6 @@
 # Luft
 
-Luft is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Luft session: PSJ" on Thu, 26 Nov 2026.
+Luft is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Luft session: PSJ" on Thu, 26 Nov 2026.
 
 Luft is a music venue in Prague listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Luft is a music venue in Prague listed on soundcheck. 3 upcoming gigs. See dates
 | Fri, 27 Nov 2026 | Luft session: Ypsilonka |  |
 | Sun, 29 Nov 2026 | Luft session: Touchwood |  |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/luft/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/luft/)*

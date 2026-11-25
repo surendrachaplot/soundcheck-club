@@ -1,6 +1,6 @@
 # Edictum
 
-Edictum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Loft, Vienna on Fri, 4 Dec 2026.
+Edictum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Loft, Vienna on Fri, 4 Dec 2026.
 
 Edictum is a progressive house and techno artist based in Austria, with 16 gigs on soundcheck across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and The Wash. Next up: The Loft, Vienna on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Edictum is a progressive house and techno artist based in Austria, with 16 gigs 
 
 Fede Frostl, Daniel Darkhofer, The Wash
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*

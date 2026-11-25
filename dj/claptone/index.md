@@ -1,14 +1,15 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Armania Phuket, Thailand on Sat, 28 Nov 2026.
+Claptone is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Armania Phuket, Thailand on Sat, 28 Nov 2026.
 
-Claptone is a house and tech house artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 75 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Armania Phuket, Thailand on Sat 28 Nov.
+Claptone is a house and tech house artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 75 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Armania Phuket, Thailand on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Armania Phuket | Thailand |
+| Fri, 4 Dec 2026 | Zumana Bali | Bali |
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
@@ -30,4 +31,4 @@ Claptone is a house and tech house artist based in Germany, with 262 gigs on sou
 
 DIEGO SAN DIEGO, Hannah Wants, Solardo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

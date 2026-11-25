@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "ORACLE CULTURE: OG CULTURE + JOSS + &MØRE" on Thu, 26 Nov 2026.
+Oven Club is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ORACLE CULTURE: OG CULTURE + JOSS + &MØRE" on Thu, 26 Nov 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, with line-ups including Camion Bazar, Chico Blanco and Pau Pérez. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -17,4 +17,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, wi
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

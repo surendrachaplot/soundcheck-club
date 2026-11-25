@@ -1,6 +1,6 @@
 # Mieko Suzuki
 
-Mieko Suzuki is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Silent Green, Berlin on Wed, 2 Dec 2026.
+Mieko Suzuki is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Silent Green, Berlin on Wed, 2 Dec 2026.
 
 Mieko Suzuki is an experimental and techno artist based in Germany, with 55 gigs on soundcheck across Barcelona, Berlin, Glasgow and Istanbul and 3 more. Often billed alongside Electric Indigo, Ale Hop and CONTAGIOUS. Next up: Silent Green, Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Mieko Suzuki is an experimental and techno artist based in Germany, with 55 gigs
 
 Electric Indigo, Ale Hop, CONTAGIOUS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miekosuzuki/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miekosuzuki/)*

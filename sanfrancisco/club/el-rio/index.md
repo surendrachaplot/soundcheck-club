@@ -1,6 +1,6 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "[ESC]AVATION" on Fri, 27 Nov 2026.
+El Rio is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "[ESC]AVATION" on Fri, 27 Nov 2026.
 
 El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including ALICE STRIBLING, Lobottomy and xtcemi. See dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
@@ -17,4 +17,4 @@ El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcomin
 
 3158 Mission St, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*

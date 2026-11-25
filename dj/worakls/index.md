@@ -1,8 +1,8 @@
 # Worakls
 
-Worakls is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at UNLOCKED, London on Fri, 4 Dec 2026.
+Worakls is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at UNLOCKED, London on Fri, 4 Dec 2026.
 
-Worakls is a techno and house artist based in France, with 92 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside Aalson, Kobosil and Carina Lawrence. Next up: UNLOCKED, London on Fri 4 Dec.
+Worakls is a techno and house artist based in France, with 93 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside Aalson, Kobosil and Carina Lawrence. Next up: UNLOCKED, London on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Worakls is a techno and house artist based in France, with 92 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | UNLOCKED | London |
 | Sat, 5 Dec 2026 | Het Sieraad | Amsterdam |
+| Sat, 19 Dec 2026 | Óbuda Bay | Budapest |
 | Sat, 16 Jan 2027 | Audio SF | San Francisco/Oakland |
 | Sat, 6 Feb 2027 | Warehouse | Nantes |
 | Sun, 16 May 2027 | Plage De Torcy | Paris |
@@ -29,4 +30,4 @@ Worakls is a techno and house artist based in France, with 92 gigs on soundcheck
 
 Aalson, Kobosil, Carina Lawrence
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*

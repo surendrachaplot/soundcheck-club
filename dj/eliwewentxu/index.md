@@ -1,6 +1,6 @@
 # Eli Wewentxu
 
-Eli Wewentxu is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Eli Wewentxu is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Eli Wewentxu is an experimental and ambient artist based in Chile, with 10 gigs on soundcheck across Berlin, Brussels, Buenos Aires and Mexico City and 2 more. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Eli Wewentxu is an experimental and ambient artist based in Chile, with 10 gigs 
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliwewentxu/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliwewentxu/)*

@@ -1,14 +1,15 @@
 # Angel Cat
 
-Angel Cat is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Video Club, Bogotá on Fri, 4 Dec 2026.
+Angel Cat is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Video Club, Bogotá on Fri, 4 Dec 2026.
 
-Angel Cat is a techno and club artist, with 10 gigs on soundcheck across Berlin, Bogotá, Dublin and Helsinki and 2 more. Often billed alongside Small Crab, SOGI and 2AT. Next up: Video Club, Bogotá on Fri 4 Dec.
+Angel Cat is a club and techno artist, with 11 gigs on soundcheck across Berlin, Bogotá, Dublin and Helsinki and 2 more. Often billed alongside Small Crab, Nyennea and Oleg Deluxe. Next up: Video Club, Bogotá on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Video Club | Bogotá |
+| Thu, 31 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Angel Cat is a techno and club artist, with 10 gigs on soundcheck across Berlin,
 
 ## Shares bills with
 
-Small Crab (2), SOGI, 2AT
+Small Crab (2), Nyennea, Oleg Deluxe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcat/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcat/)*

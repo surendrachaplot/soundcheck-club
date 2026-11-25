@@ -1,14 +1,15 @@
 # Telma
 
-Telma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 28 Nov 2026.
+Telma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 28 Nov 2026.
 
-Telma is a house and techno artist based in Portugal, with 67 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Rui Vargas, Luisa and Varela. Next up: Collect LX Factory, Lisbon on Sat 28 Nov.
+Telma is a house and techno artist based in Portugal, with 68 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Rui Vargas, Luisa and Varela. Next up: Collect LX Factory, Lisbon on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Collect LX Factory | Lisbon |
+| Sat, 19 Dec 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Telma is a house and techno artist based in Portugal, with 67 gigs on soundcheck
 
 Rui Vargas, Luisa, Varela
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telma/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telma/)*

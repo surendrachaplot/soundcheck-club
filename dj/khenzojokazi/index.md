@@ -1,14 +1,15 @@
 # Khenzo Jökazi
 
-Khenzo Jökazi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
+Khenzo Jökazi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
 
-Khenzo Jökazi is a techno and house artist based in South Africa, with 5 gigs on soundcheck across Cape Town. Often billed alongside JED (ZA), Deano and DVS1. Next up: TBA - HARRINGTON STREET, CBD, Cape Town on Thu 31 Dec.
+Khenzo Jökazi is a techno and house artist based in South Africa, with 6 gigs on soundcheck across Cape Town. Often billed alongside JED (ZA), Deano and Thor Rixon. Next up: TBA - HARRINGTON STREET, CBD, Cape Town on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | TBA - HARRINGTON STREET, CBD | Cape Town |
+| Sat, 23 Jan 2027 | Ridgemore Villa | Cape Town |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Khenzo Jökazi is a techno and house artist based in South Africa, with 5 gigs o
 
 ## Shares bills with
 
-JED (ZA), Deano, DVS1
+JED (ZA), Deano, Thor Rixon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khenzojokazi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khenzojokazi/)*

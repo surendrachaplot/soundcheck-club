@@ -1,6 +1,6 @@
 # SHXCXCHCXSH
 
-SHXCXCHCXSH is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Drugstore Beograd, Belgrade on Sat, 19 Dec 2026.
+SHXCXCHCXSH is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Drugstore Beograd, Belgrade on Sat, 19 Dec 2026.
 
 SHXCXCHCXSH is a techno and experimental artist based in Sweden, with 26 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 16 more. Often billed alongside Anthony Linell, Blaark and Djilogue. Next up: Drugstore Beograd, Belgrade on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ SHXCXCHCXSH is a techno and experimental artist based in Sweden, with 26 gigs on
 
 Anthony Linell, Blaark, Djilogue
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shxcxchcxsh/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shxcxchcxsh/)*

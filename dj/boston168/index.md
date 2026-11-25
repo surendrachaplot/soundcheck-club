@@ -1,6 +1,6 @@
 # Boston 168
 
-Boston 168 is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+Boston 168 is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 Boston 168 is a techno and acid artist based in Italy, with 78 gigs on soundcheck across Antwerp, Athens, Barcelona and Beijing and 32 more. Often billed alongside Ellen Allien, Shaleen and Indira Paganotto. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Boston 168 is a techno and acid artist based in Italy, with 78 gigs on soundchec
 
 Ellen Allien, Shaleen, Indira Paganotto
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*

@@ -1,6 +1,6 @@
 # Mattia Trani
 
-Mattia Trani is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Palax Arena - Ferrara Fiere, North on Sat, 19 Dec 2026.
+Mattia Trani is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Palax Arena - Ferrara Fiere, North on Sat, 19 Dec 2026.
 
 Mattia Trani is a techno and industrial artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 13 more. Often billed alongside Gianni Di Bernardo, Luca Agnelli and V111. Next up: TBA - Palax Arena - Ferrara Fiere, North on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Mattia Trani is a techno and industrial artist based in Italy, with 43 gigs on s
 
 Gianni Di Bernardo, Luca Agnelli, V111
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*

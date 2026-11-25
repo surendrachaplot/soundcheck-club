@@ -1,6 +1,6 @@
 # Kyle Parsley
 
-Kyle Parsley is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at All My Friends, London on Fri, 11 Dec 2026.
+Kyle Parsley is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at All My Friends, London on Fri, 11 Dec 2026.
 
 Kyle Parsley is a house and disco artist based in United Kingdom, with 36 gigs on soundcheck across London and Nottingham. Often billed alongside Lander (UK), Deejayu and Jay U. Next up: All My Friends, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kyle Parsley is a house and disco artist based in United Kingdom, with 36 gigs o
 
 Lander (UK), Deejayu, Jay U
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyleparsley/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyleparsley/)*

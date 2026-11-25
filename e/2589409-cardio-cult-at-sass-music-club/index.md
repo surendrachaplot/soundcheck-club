@@ -1,6 +1,6 @@
 # Cardio Cult at SASS Music Club
 
-Cardio Cult at SASS Music Club on Sat 28 Nov, Vienna. 2 artists: Magsi and Mo the prophet. House. See the line-up on soundcheck.
+Cardio Cult at SASS Music Club on Sat 28 Nov, Vienna. 3 artists: heronymus, Magsi and Mo the prophet. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Cardio Cult at SASS Music Club on Sat 28 Nov, Vienna. 2 artists: Magsi and Mo th
 
 ## Line-up
 
+- heronymus
 - Magsi
 - Mo the prophet
 

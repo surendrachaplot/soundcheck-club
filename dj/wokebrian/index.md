@@ -1,6 +1,6 @@
 # Woke Brian
 
-Woke Brian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at MAD Radio NYC, New York City on Wed, 25 Nov 2026.
+Woke Brian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at MAD Radio NYC, New York City on Wed, 25 Nov 2026.
 
 Woke Brian is a house and techno artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Ali Mae, Ash and Avision. Next up: MAD Radio NYC, New York City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Woke Brian is a house and techno artist based in United States of America, with 
 
 Ali Mae, Ash, Avision
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wokebrian/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wokebrian/)*

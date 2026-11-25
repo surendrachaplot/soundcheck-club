@@ -1,6 +1,6 @@
 # Hypoestes
 
-Hypoestes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
+Hypoestes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
 
 Hypoestes is a house and techno artist based in South Africa, with 20 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Leipzig. Often billed alongside Kyle Russouw, Josh.DLM and Thor Rixon. Next up: TBA - HARRINGTON STREET, CBD, Cape Town on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Hypoestes is a house and techno artist based in South Africa, with 20 gigs on so
 
 Kyle Russouw, Josh.DLM, Thor Rixon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoestes/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypoestes/)*

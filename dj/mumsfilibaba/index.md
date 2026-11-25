@@ -1,6 +1,6 @@
 # Mumsfilibaba
 
-Mumsfilibaba is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mitsuki, Tokyo on Thu, 26 Nov 2026.
+Mumsfilibaba is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mitsuki, Tokyo on Thu, 26 Nov 2026.
 
 Mumsfilibaba is a house and techno artist based in Sweden, with 87 gigs on soundcheck across Bangkok, Beijing, Central and Copenhagen and 9 more. Often billed alongside Brent Burns, DOTT and Jayja. Next up: Mitsuki, Tokyo on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Mumsfilibaba is a house and techno artist based in Sweden, with 87 gigs on sound
 
 Brent Burns, DOTT, Jayja
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*

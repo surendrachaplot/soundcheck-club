@@ -1,6 +1,6 @@
 # YUKA YU
 
-YUKA YU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+YUKA YU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 YUKA YU is a house and techno artist based in United States of America, with 52 gigs on soundcheck across New Orleans, Portland, San Francisco/Oakland and Taipei. Often billed alongside Cole Odin, Cryptik and DJ M3. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ YUKA YU is a house and techno artist based in United States of America, with 52 
 
 Cole Odin, Cryptik, DJ M3
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*

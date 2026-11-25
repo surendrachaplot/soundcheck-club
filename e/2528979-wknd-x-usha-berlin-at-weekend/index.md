@@ -1,6 +1,6 @@
 # WKND X USHA BERLIN at Weekend
 
-WKND X USHA BERLIN at Weekend on Fri 11 Dec, Berlin. 1 artist: Denno Matini. Techno and House. See the line-up on soundcheck.
+WKND X USHA BERLIN at Weekend on Fri 11 Dec, Berlin. 2 artists: Denno Matini and Fein Cerra. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ WKND X USHA BERLIN at Weekend on Fri 11 Dec, Berlin. 1 artist: Denno Matini. Tec
 ## Line-up
 
 - Denno Matini
+- Fein Cerra
 
 *Source: [soundcheck](https://soundcheck.club/e/2528979-wknd-x-usha-berlin-at-weekend/)*

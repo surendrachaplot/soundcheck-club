@@ -1,6 +1,6 @@
 # Negami
 
-Negami is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Solfa, Tokyo on Thu, 10 Dec 2026.
+Negami is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Solfa, Tokyo on Thu, 10 Dec 2026.
 
 Negami is a techno and house artist based in Japan, with 52 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Nobuharu Morimoto, COSMOGANG and edge. Next up: Solfa, Tokyo on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Negami is a techno and house artist based in Japan, with 52 gigs on soundcheck a
 
 Nobuharu Morimoto, COSMOGANG, edge
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negami/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negami/)*

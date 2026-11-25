@@ -1,6 +1,6 @@
 # ARJ (IR)
 
-ARJ (IR) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Blue Room, Montreal on Fri, 4 Dec 2026.
+ARJ (IR) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Blue Room, Montreal on Fri, 4 Dec 2026.
 
 ARJ (IR) is a progressive house and deep house artist based in Canada, with 13 gigs on soundcheck across Amsterdam, Montreal and Toronto. Often billed alongside Persis, ATJUNGLE and Hanson w/o H. Next up: Blue Room, Montreal on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ARJ (IR) is a progressive house and deep house artist based in Canada, with 13 g
 
 Persis, ATJUNGLE, Hanson w/o H
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arj-ir/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arj-ir/)*

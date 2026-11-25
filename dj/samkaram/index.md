@@ -1,6 +1,6 @@
 # Sam Karam
 
-Sam Karam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Eastway Baths, London on Sat, 5 Dec 2026.
+Sam Karam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Eastway Baths, London on Sat, 5 Dec 2026.
 
 Sam Karam is a house and techno artist based in Lebanon, with 49 gigs on soundcheck across Amsterdam, Berlin, Brighton and Geneva and 4 more. Often billed alongside CAPTNNN', AOB and Neidex. Next up: Eastway Baths, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sam Karam is a house and techno artist based in Lebanon, with 49 gigs on soundch
 
 CAPTNNN', AOB, Neidex
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samkaram/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samkaram/)*

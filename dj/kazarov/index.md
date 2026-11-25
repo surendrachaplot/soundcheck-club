@@ -1,6 +1,6 @@
 # kazarov
 
-kazarov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Village Underground Lisboa, Lisbon on Mon, 7 Dec 2026.
+kazarov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Village Underground Lisboa, Lisbon on Mon, 7 Dec 2026.
 
 kazarov is a house and techno artist based in Ukraine, with 14 gigs on soundcheck across Lisbon. Often billed alongside ELEVIN, Alberto Pizzarelli and Chris Veron. Next up: Village Underground Lisboa, Lisbon on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ kazarov is a house and techno artist based in Ukraine, with 14 gigs on soundchec
 
 ELEVIN, Alberto Pizzarelli, Chris Veron
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*

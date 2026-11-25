@@ -1,6 +1,6 @@
 # 9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Giorno 2 - Day 2 - 第2天) at Tempio del Futuro Perduto
 
-9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Giorno 2 - Day 2 - 第2天) at Tempio del Futuro Perduto on Fri 1 Jan, Milan. 1 artist: DRUM THE SYSTEM live. See the line-up on soundcheck.
+9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Giorno 2 - Day 2 - 第2天) at Tempio del Futuro Perduto on Fri 1 Jan, Milan. 3 artists: Antikorpo, DRUM THE SYSTEM live and MTMA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- Antikorpo
 - DRUM THE SYSTEM live
+- MTMA (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2530368-9-anni-tempio-9-years-tempio-tempio-giorno-2-day-2-2-at-temp/)*

@@ -1,6 +1,6 @@
 # flows at Yebisu The Garden Hall
 
-flows at Yebisu The Garden Hall on Sun 27 Dec, Tokyo. 2 artists: Nujabes Metaphorical Ensemble and The Orb. House and Hip-Hop. See the line-up on soundcheck.
+flows at Yebisu The Garden Hall on Sun 27 Dec, Tokyo. 3 artists: Nujabes Metaphorical Ensemble, Powder and The Orb. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ flows at Yebisu The Garden Hall on Sun 27 Dec, Tokyo. 2 artists: Nujabes Metapho
 ## Line-up
 
 - Nujabes Metaphorical Ensemble
+- Powder
 - The Orb
 
 *Source: [soundcheck](https://soundcheck.club/e/2567422-flows-at-yebisu-the-garden-hall/)*

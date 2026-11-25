@@ -1,6 +1,6 @@
 # Giegling Seoul After at teller
 
-Giegling Seoul After at teller on Sun 29 Nov, Seoul. 3 artists: Konstantin, Lawrence and Yamour. Minimal and Deep House. See the line-up on soundcheck.
+Giegling Seoul After at teller on Sun 29 Nov, Seoul. 4 artists: Konstantin, Lawrence, Oho. and Yamour. Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Giegling Seoul After at teller on Sun 29 Nov, Seoul. 3 artists: Konstantin, Lawr
 
 - Konstantin
 - Lawrence
+- Oho.
 - Yamour
 
 *Source: [soundcheck](https://soundcheck.club/e/2590575-giegling-seoul-after-at-teller/)*

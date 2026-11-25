@@ -1,14 +1,15 @@
 # Skinny P (2)
 
-Skinny P (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Romantica, Stuttgart on Sat, 28 Nov 2026.
+Skinny P (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Romantica, Stuttgart on Sat, 28 Nov 2026.
 
-Skinny P is a techno and house artist based in Germany, with 4 gigs on soundcheck across Stuttgart. Often billed alongside Femcat, Jochen Junker and Jorkes. Next up: Romantica, Stuttgart on Sat 28 Nov.
+Skinny P is a techno and house artist based in Germany, with 5 gigs on soundcheck across Stuttgart. Often billed alongside Femcat, Jorkes and Alexander Maier. Next up: Romantica, Stuttgart on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Romantica | Stuttgart |
+| Thu, 31 Dec 2026 | Romantica | Stuttgart |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Skinny P is a techno and house artist based in Germany, with 4 gigs on soundchec
 
 ## Shares bills with
 
-Femcat, Jochen Junker, Jorkes
+Femcat, Jorkes, Alexander Maier
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnyp-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnyp-2/)*

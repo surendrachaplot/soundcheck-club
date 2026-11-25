@@ -1,6 +1,6 @@
 # Four Tet
 
-Four Tet is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Four Tet is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 Four Tet is a house and techno artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Skrillex, Ben UFO and Floating Points. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -29,4 +29,4 @@ Four Tet is a house and techno artist based in United Kingdom, with 91 gigs on s
 
 Skrillex, Ben UFO, Floating Points
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*

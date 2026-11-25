@@ -1,6 +1,6 @@
 # Mutualism (DE)
 
-Mutualism (DE) is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 18 Dec 2026.
+Mutualism (DE) is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 18 Dec 2026.
 
 Mutualism (DE) is a techno and italo disco artist based in Germany, with 17 gigs on soundcheck across Austin, Barcelona, Berlin and Gothenburg and 2 more. Often billed alongside Valerej, Mutualism and GEMO. Next up: Razzmatazz, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mutualism (DE) is a techno and italo disco artist based in Germany, with 17 gigs
 
 Valerej, Mutualism, GEMO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mutualism-DE/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mutualism-DE/)*

@@ -1,6 +1,6 @@
 # Byrd
 
-Byrd is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Spin, San Diego on Wed, 25 Nov 2026.
+Byrd is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Spin, San Diego on Wed, 25 Nov 2026.
 
 Byrd is a techno and hardcore artist based in United States of America, with 3 gigs on soundcheck across San Diego and San Francisco/Oakland. Often billed alongside Airod, DJ IDeaL and MORRILL. Next up: Spin, San Diego on Wed 25 Nov.
 
@@ -19,4 +19,4 @@ Byrd is a techno and hardcore artist based in United States of America, with 3 g
 
 Airod, DJ IDeaL, MORRILL
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byrd/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byrd/)*

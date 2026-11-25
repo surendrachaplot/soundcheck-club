@@ -1,14 +1,15 @@
 # Nicola Calbi
 
-Nicola Calbi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mantra Bar, Kuala Lumpur on Sat, 28 Nov 2026.
+Nicola Calbi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mantra Bar, Kuala Lumpur on Sat, 28 Nov 2026.
 
-Nicola Calbi is a house and tech house artist based in Italy, with 25 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 12 more. Often billed alongside ALX, COCOLY and Caus. Next up: Mantra Bar, Kuala Lumpur on Sat 28 Nov.
+Nicola Calbi is a house and tech house artist based in Italy, with 26 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 12 more. Often billed alongside ALX, CLESENT and COCOLY. Next up: Mantra Bar, Kuala Lumpur on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Mantra Bar | Kuala Lumpur |
+| Fri, 18 Dec 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nicola Calbi is a house and tech house artist based in Italy, with 25 gigs on so
 
 ## Shares bills with
 
-ALX, COCOLY, Caus
+ALX, CLESENT, COCOLY
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacalbi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacalbi/)*

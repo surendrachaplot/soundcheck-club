@@ -1,6 +1,6 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 18 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Benditos Locos" on Thu, 26 Nov 2026.
+Lula Club is a music venue in Madrid with 18 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Benditos Locos" on Thu, 26 Nov 2026.
 
 Lula Club is a music venue in Madrid listed on soundcheck. 18 upcoming gigs, with line-ups including AARON SEVILLA, Alvaro Medina, AMOR MUSIC and Calabasa and 2 more. See dates, start times and who's playing. Gran Via 54.
 
@@ -23,4 +23,4 @@ Lula Club is a music venue in Madrid listed on soundcheck. 18 upcoming gigs, wit
 
 Gran Via 54, Madrid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*

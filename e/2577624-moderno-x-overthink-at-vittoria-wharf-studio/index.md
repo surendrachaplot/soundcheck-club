@@ -1,6 +1,6 @@
 # Moderno X Overthink at Vittoria Wharf Studio
 
-Moderno X Overthink at Vittoria Wharf Studio on Sun 13 Dec, London. 2 artists: CRL and Nico Etorena. Trance and Techno. See the line-up on soundcheck.
+Moderno X Overthink at Vittoria Wharf Studio on Sun 13 Dec, London. 4 artists: CRL, Damiano, Nico Etorena and Vass. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Moderno X Overthink at Vittoria Wharf Studio on Sun 13 Dec, London. 2 artists: C
 ## Line-up
 
 - CRL (1)
+- Damiano (2)
 - Nico Etorena
+- Vass
 
 *Source: [soundcheck](https://soundcheck.club/e/2577624-moderno-x-overthink-at-vittoria-wharf-studio/)*

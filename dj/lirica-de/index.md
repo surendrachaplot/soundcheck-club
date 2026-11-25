@@ -1,6 +1,6 @@
 # LIRICA
 
-LIRICA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fundbureau, Hamburg on Sat, 28 Nov 2026.
+LIRICA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fundbureau, Hamburg on Sat, 28 Nov 2026.
 
 LIRICA is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alexej, JASHTECH and NELØ. Next up: Fundbureau, Hamburg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ LIRICA is a techno and house artist based in Germany, with 10 gigs on soundcheck
 
 Alexej, JASHTECH, NELØ
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*

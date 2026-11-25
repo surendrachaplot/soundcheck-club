@@ -1,13 +1,14 @@
 # Manami
 
-Manami is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Colour Factory, London on Thu, 31 Dec 2026.
+Manami is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Palais, London on Fri, 18 Dec 2026.
 
-Manami is a house and techno artist based in Japan, with 106 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 29 more. Often billed alongside Amaliah, Beatrice M. and KT. Next up: Colour Factory, London on Thu 31 Dec.
+Manami is a house and techno artist based in Japan, with 107 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 29 more. Often billed alongside Amaliah, Beatrice M. and KT. Next up: Palais, London on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Palais | London |
 | Thu, 31 Dec 2026 | Colour Factory | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Manami is a house and techno artist based in Japan, with 106 gigs on soundcheck 
 
 Amaliah, Beatrice M., KT
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manami/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manami/)*

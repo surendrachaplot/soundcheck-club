@@ -1,13 +1,14 @@
 # NERONE (2)
 
-NERONE (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Inter Expo Centre, Sofia on Fri, 18 Dec 2026.
+NERONE (2) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Купе / Kupe, Sofia on Fri, 11 Dec 2026.
 
-NERONE is a trance and techno artist based in Bulgaria, with 34 gigs on soundcheck across Sofia. Often billed alongside Egor Sintsoff, SULEV and Zasho. Next up: Inter Expo Centre, Sofia on Fri 18 Dec.
+NERONE is a trance and techno artist based in Bulgaria, with 35 gigs on soundcheck across Sofia. Often billed alongside Egor Sintsoff, SULEV and Zasho. Next up: Купе / Kupe, Sofia on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Купе / Kupe | Sofia |
 | Fri, 18 Dec 2026 | Inter Expo Centre | Sofia |
 
 ## Recently played
@@ -25,4 +26,4 @@ NERONE is a trance and techno artist based in Bulgaria, with 34 gigs on soundche
 
 Egor Sintsoff, SULEV, Zasho
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerone-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerone-2/)*

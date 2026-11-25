@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
+Ben UFO is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
 
 Ben UFO is a techno and house artist based in United Kingdom, with 272 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 80 more. Often billed alongside Helena Hauff, Ogazón and Aurora Halal. Next up: TBA, Mexico City on Sat 5 Dec.
 
@@ -36,4 +36,4 @@ Ben UFO is a techno and house artist based in United Kingdom, with 272 gigs on s
 
 Helena Hauff, Ogazón, Aurora Halal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

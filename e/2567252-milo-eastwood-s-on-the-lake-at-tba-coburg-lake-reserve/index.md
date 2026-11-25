@@ -1,6 +1,6 @@
 # Milo Eastwood's On The Lake at TBA - Coburg Lake Reserve
 
-Milo Eastwood's On The Lake at TBA - Coburg Lake Reserve on Sat 6 Feb, Melbourne. 3 artists: DITA (ID), Intermood and Milo Eastwood. See the line-up on soundcheck.
+Milo Eastwood's On The Lake at TBA - Coburg Lake Reserve on Sat 6 Feb, Melbourne. 1 artist: Ayebatonye. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ Milo Eastwood's On The Lake at TBA - Coburg Lake Reserve on Sat 6 Feb, Melbourne
 
 ## Line-up
 
-- DITA (ID)
-- Intermood
-- Milo Eastwood
+- Ayebatonye
 
 *Source: [soundcheck](https://soundcheck.club/e/2567252-milo-eastwood-s-on-the-lake-at-tba-coburg-lake-reserve/)*

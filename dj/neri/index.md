@@ -1,6 +1,6 @@
 # Neri
 
-Neri is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Arakawa Iwabuchi-Seki Green Area BBQ Site & Surrounding Area, Kita-ku, Tokyo, Tokyo on Sat, 28 Nov 2026.
+Neri is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Arakawa Iwabuchi-Seki Green Area BBQ Site & Surrounding Area, Kita-ku, Tokyo, Tokyo on Sat, 28 Nov 2026.
 
 Neri is a house and disco artist based in Japan, with 114 gigs on soundcheck across Athens, Mexico City and Tokyo. Often billed alongside DJ ISE, DJ Shu-ma and Stev3NN. Next up: Arakawa Iwabuchi-Seki Green Area BBQ Site & Surrounding Area, Kita-ku, Tokyo, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Neri is a house and disco artist based in Japan, with 114 gigs on soundcheck acr
 
 DJ ISE, DJ Shu-ma, Stev3NN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neri/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neri/)*

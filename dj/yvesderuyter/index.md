@@ -1,6 +1,6 @@
 # Yves Deruyter
 
-Yves Deruyter is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Vaag, Antwerp on Sat, 19 Dec 2026.
+Yves Deruyter is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Vaag, Antwerp on Sat, 19 Dec 2026.
 
 Yves Deruyter is a techno and electronica artist based in Belgium, with 16 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Bibi Seck, John Noseda and Lolalita. Next up: Club Vaag, Antwerp on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Yves Deruyter is a techno and electronica artist based in Belgium, with 16 gigs 
 
 Bibi Seck, John Noseda, Lolalita
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesderuyter/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesderuyter/)*

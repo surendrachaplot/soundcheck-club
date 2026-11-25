@@ -1,6 +1,6 @@
 # Dave Angel
 
-Dave Angel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 28 Nov 2026.
+Dave Angel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Dave Angel is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Barcelona, Belgium and Berlin and 8 more. Often billed alongside Alexander Koning, Remy Unger and 4R15. Next up: Village Underground Barcelona, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Dave Angel is a techno and house artist based in United Kingdom, with 17 gigs on
 
 Alexander Koning, Remy Unger, 4R15
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveangel/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveangel/)*

@@ -1,6 +1,6 @@
 # Codex
 
-Codex is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Modula, Belgrade on Sat, 5 Dec 2026.
+Codex is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Modula, Belgrade on Sat, 5 Dec 2026.
 
 Codex is a bass and drum & bass artist, with 4 gigs on soundcheck across Belgrade, Hamburg and Paris. Often billed alongside Abyss, Anna Reusch and Anomalie. Next up: Modula, Belgrade on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Codex is a bass and drum & bass artist, with 4 gigs on soundcheck across Belgrad
 
 Abyss, Anna Reusch, Anomalie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codex/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codex/)*

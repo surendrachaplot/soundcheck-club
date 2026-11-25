@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Ueberrest is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 Ueberrest is a techno and trance artist based in Switzerland, with 135 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 55 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist based in Switzerland, with 135 gigs on s
 
 Kobosil, Somewhen, KUKO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

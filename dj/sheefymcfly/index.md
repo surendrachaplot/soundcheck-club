@@ -1,13 +1,14 @@
 # Sheefy McFly
 
-Sheefy McFly is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Het Bos, Antwerp on Fri, 11 Dec 2026.
+Sheefy McFly is a Ghetto Tech and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Location With Ticket, Denver on Fri, 27 Nov 2026.
 
-Sheefy McFly is a ghetto tech and house artist based in United States of America, with 95 gigs on soundcheck across Antwerp, Chicago, Denver and Detroit and 2 more. Often billed alongside DJ Godfather, Nick Speed and Disc Jockey George. Next up: Het Bos, Antwerp on Fri 11 Dec.
+Sheefy McFly is a ghetto tech and house artist based in United States of America, with 96 gigs on soundcheck across Antwerp, Chicago, Denver and Detroit and 2 more. Often billed alongside DJ Godfather, Nick Speed and Disc Jockey George. Next up: TBA - Location With Ticket, Denver on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA - Location With Ticket | Denver |
 | Fri, 11 Dec 2026 | Het Bos | Antwerp |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sheefy McFly is a ghetto tech and house artist based in United States of America
 
 DJ Godfather, Nick Speed, Disc Jockey George
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheefymcfly/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheefymcfly/)*

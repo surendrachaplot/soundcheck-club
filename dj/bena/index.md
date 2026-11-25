@@ -1,6 +1,6 @@
 # ben A
 
-ben A is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depo Klub, Zagreb on Fri, 27 Nov 2026.
+ben A is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depo Klub, Zagreb on Fri, 27 Nov 2026.
 
 ben A is a disco and techno artist based in United States of America, with 13 gigs on soundcheck across Frankfurt, London, Vilnius and Zagreb. Often billed alongside Chameleonas, Daniele Mizar and Emanuel Pavlova. Next up: Depo Klub, Zagreb on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ben A is a disco and techno artist based in United States of America, with 13 gi
 
 Chameleonas, Daniele Mizar, Emanuel Pavlova
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*

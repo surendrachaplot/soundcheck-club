@@ -1,8 +1,8 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mia Mao, Paris on Fri, 27 Nov 2026.
+Mika Heggemann is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mia Mao, Paris on Fri, 27 Nov 2026.
 
-Mika Heggemann is a techno and trance artist based in Germany, with 198 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 49 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Mia Mao, Paris on Fri 27 Nov.
+Mika Heggemann is a techno and trance artist based in Germany, with 199 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 49 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Mia Mao, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mika Heggemann is a techno and trance artist based in Germany, with 198 gigs on 
 | Fri, 4 Dec 2026 | Academy LA | Los Angeles |
 | Sat, 12 Dec 2026 | Radius | Chicago |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
+| Fri, 1 Jan 2027 | Bootshaus | Cologne |
 | Sat, 23 Jan 2027 | Das Zimmer | Mannheim |
 | Fri, 19 Feb 2027 | Industry City | New-york-city |
 
@@ -31,4 +32,4 @@ Mika Heggemann is a techno and trance artist based in Germany, with 198 gigs on 
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

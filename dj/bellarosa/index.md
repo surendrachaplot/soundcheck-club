@@ -1,13 +1,14 @@
 # Bellarosa
 
-Bellarosa is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Poetry Club, Glasgow on Sat, 5 Dec 2026.
+Bellarosa is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Glasgow on Fri, 27 Nov 2026.
 
-Bellarosa is a club and hip-hop artist based in United Kingdom, with 43 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, leahgte and Salam Kitty. Next up: The Poetry Club, Glasgow on Sat 5 Dec.
+Bellarosa is a club and pop artist based in United Kingdom, with 44 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, leahgte and Salam Kitty. Next up: Stereo, Glasgow on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Stereo | Glasgow |
 | Sat, 5 Dec 2026 | The Poetry Club | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bellarosa is a club and hip-hop artist based in United Kingdom, with 43 gigs on 
 
 Rahul.mp3, leahgte, Salam Kitty
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*

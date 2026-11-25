@@ -1,6 +1,6 @@
 # Etcetera
 
-Etcetera is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Crema Club, Sao Paulo on Sat, 28 Nov 2026.
+Etcetera is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Crema Club, Sao Paulo on Sat, 28 Nov 2026.
 
 Etcetera is a house and disco artist based in Brazil, with 18 gigs on soundcheck across Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside Pedro Gariani, Eli Iwasa and Benjamin Ferreira. Next up: Crema Club, Sao Paulo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Etcetera is a house and disco artist based in Brazil, with 18 gigs on soundcheck
 
 Pedro Gariani, Eli Iwasa, Benjamin Ferreira
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera-br/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera-br/)*

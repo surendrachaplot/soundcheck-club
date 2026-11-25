@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DURO, Milan on Fri, 27 Nov 2026.
+Gabrielle Kwarteng is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at DURO, Milan on Fri, 27 Nov 2026.
 
 Gabrielle Kwarteng is a house and techno artist based in United States of America, with 282 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 77 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: DURO, Milan on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

@@ -1,6 +1,6 @@
 # Jonny Lust
 
-Jonny Lust is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - S Westhafen, Berlin on Fri, 18 Dec 2026.
+Jonny Lust is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - S Westhafen, Berlin on Fri, 18 Dec 2026.
 
 Jonny Lust is a techno and deep house artist based in Venezuela, with 10 gigs on soundcheck across Berlin and London. Often billed alongside Max Muth, Nicolas Lorenzini and Omi on Acid. Next up: TBA - S Westhafen, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Jonny Lust is a techno and deep house artist based in Venezuela, with 10 gigs on
 
 Max Muth, Nicolas Lorenzini, Omi on Acid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnylust/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnylust/)*

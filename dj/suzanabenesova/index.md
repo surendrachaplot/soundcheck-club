@@ -1,6 +1,6 @@
 # Suzana Benesova
 
-Suzana Benesova is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 13 Dec 2026.
+Suzana Benesova is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 13 Dec 2026.
 
 Suzana Benesova is an ambient and experimental artist, with 5 gigs on soundcheck across Amsterdam, Berlin and Stuttgart. Often billed alongside Xenia Reaper, Aalia Iraki and Andriy K.. Next up: TBA - a chapel in neukölln, Berlin on Sun 13 Dec.
 
@@ -21,4 +21,4 @@ Suzana Benesova is an ambient and experimental artist, with 5 gigs on soundcheck
 
 Xenia Reaper, Aalia Iraki, Andriy K.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanabenesova/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanabenesova/)*

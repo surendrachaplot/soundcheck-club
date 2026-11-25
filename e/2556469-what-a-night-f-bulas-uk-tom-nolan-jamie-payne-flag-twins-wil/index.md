@@ -1,11 +1,11 @@
-# WHAT A NIGHT FÁBULAS UK TOM NOLAN, JAMIE  PAYNE  , FLAG TWINS , WILLIAM QUINTERO + residents at E1
+# WHAT A NIGHT FÁBULAS UK TOM NOLAN, JAMIE  PAYNE  , FLAG TWINS , WILLIAM QUINTERO + residents at Onyx (E1)
 
-WHAT A NIGHT FÁBULAS UK TOM NOLAN, JAMIE  PAYNE  , FLAG TWINS , WILLIAM QUINTERO + residents at E1 on Sun 27 Dec, London. 5 artists: Bread & Butter, El Cassar, Jamie Payne and THE FLAG TWINS and 1 more. Tech House. See the line-up on soundcheck.
+WHAT A NIGHT FÁBULAS UK TOM NOLAN, JAMIE  PAYNE  , FLAG TWINS , WILLIAM QUINTERO + residents at Onyx (E1) on Sun 27 Dec, London. 5 artists: Bread & Butter, El Cassar, Jamie Payne and THE FLAG TWINS and 1 more. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 27 Dec 2026 |
-| Venue | E1 |
+| Venue | Onyx (E1) |
 | City | London |
 
 ## Line-up

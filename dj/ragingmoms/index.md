@@ -1,6 +1,6 @@
 # raging moms
 
-raging moms is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kauz, Zurich on Fri, 4 Dec 2026.
+raging moms is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kauz, Zurich on Fri, 4 Dec 2026.
 
 raging moms is a bass and dub artist based in Switzerland, with 10 gigs on soundcheck across Berlin, Paris and Zurich. Often billed alongside ALCATRAZ, Naiad and Phrex. Next up: Kauz, Zurich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ raging moms is a bass and dub artist based in Switzerland, with 10 gigs on sound
 
 ALCATRAZ, Naiad, Phrex
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ragingmoms/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ragingmoms/)*

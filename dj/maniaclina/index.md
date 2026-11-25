@@ -1,8 +1,8 @@
 # maniaclina
 
-maniaclina is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Sandy Beach Paphos, Cyprus on Sat, 28 Nov 2026.
+maniaclina is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sandy Beach Paphos, Cyprus on Sat, 28 Nov 2026.
 
-maniaclina is a techno and trance artist based in Germany, with 130 gigs on soundcheck across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: Sandy Beach Paphos, Cyprus on Sat 28 Nov.
+maniaclina is a techno and trance artist based in Germany, with 131 gigs on soundcheck across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: Sandy Beach Paphos, Cyprus on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ maniaclina is a techno and trance artist based in Germany, with 130 gigs on soun
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Sandy Beach Paphos | Cyprus |
 | Sat, 12 Dec 2026 | Elysia | Basel |
+| Sat, 19 Dec 2026 | Catonium | Hamburg |
 | Fri, 22 Jan 2027 | Z-Bau | Nürnberg |
 | Sat, 13 Feb 2027 | Z-Bau | Nürnberg |
 
@@ -28,4 +29,4 @@ maniaclina is a techno and trance artist based in Germany, with 130 gigs on soun
 
 Charlotte Lion, DJ Jordan, Sika Akis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*

@@ -1,14 +1,15 @@
 # Barker
 
-Barker is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at La Cúpula del Palacio Libertad, Buenos Aires on Fri, 27 Nov 2026.
+Barker is a Techno and Ambient artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at La Cúpula del Palacio Libertad, Buenos Aires on Fri, 27 Nov 2026.
 
-Barker is a techno and ambient artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 37 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Ogazón. Next up: La Cúpula del Palacio Libertad, Buenos Aires on Fri 27 Nov.
+Barker is a techno and ambient artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 37 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Ogazón. Next up: La Cúpula del Palacio Libertad, Buenos Aires on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | La Cúpula del Palacio Libertad | Buenos Aires |
+| Sat, 28 Nov 2026 | Under Club | Buenos Aires |
 | Fri, 4 Dec 2026 | Casa Babylon Club | Argentina |
 | Sun, 6 Dec 2026 | Foxy Live Bar | Argentina |
 | Wed, 9 Dec 2026 | Centro Cultural Antu Quillen | Argentina |
@@ -28,4 +29,4 @@ Barker is a techno and ambient artist based in United Kingdom, with 107 gigs on 
 
 JakoJako, Gabrielle Kwarteng, Ogazón
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

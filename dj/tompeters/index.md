@@ -1,8 +1,8 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mad Radio Miami, Miami on Fri, 27 Nov 2026.
+Tom Peters is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mad Radio Miami, Miami on Fri, 27 Nov 2026.
 
-Tom Peters is a techno and house artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 19 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Mad Radio Miami, Miami on Fri 27 Nov.
+Tom Peters is a techno and house artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 19 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Mad Radio Miami, Miami on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tom Peters is a techno and house artist based in Germany, with 114 gigs on sound
 | Fri, 27 Nov 2026 | Mad Radio Miami | Miami |
 | Sat, 28 Nov 2026 | Club Rawhide | New York City |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
+| Wed, 30 Dec 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Tom Peters is a techno and house artist based in Germany, with 114 gigs on sound
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

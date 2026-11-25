@@ -1,8 +1,8 @@
 # Automatic Writing
 
-Automatic Writing is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
+Automatic Writing is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
-Automatic Writing is a house and techno artist based in France, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: Mia Mao, Paris on Sat 28 Nov.
+Automatic Writing is a house and techno artist based in France, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: Mia Mao, Paris on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Automatic Writing is a house and techno artist based in France, with 74 gigs on 
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Fri, 11 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 18 Dec 2026 | Cabaret Sauvage | Paris |
+| Fri, 22 Jan 2027 | DURO | Milan |
 | Sat, 15 May 2027 | Plage De Torcy | Paris |
 
 ## Recently played
@@ -28,4 +29,4 @@ Automatic Writing is a house and techno artist based in France, with 74 gigs on 
 
 Darween, Guillermo Jamas, Jacan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*

@@ -1,6 +1,6 @@
 # Rooftop105
 
-Rooftop105 is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Infra Connection N.2 X Rooftop 105 Présentent: New Year's Eve" on Thu, 31 Dec 2026.
+Rooftop105 is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Infra Connection N.2 X Rooftop 105 Présentent: New Year's Eve" on Thu, 31 Dec 2026.
 
 Rooftop105 is a music venue in Geneva listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rte des Jeunes 105A, 1212 Lancy, Suisse.
 
@@ -14,4 +14,4 @@ Rooftop105 is a music venue in Geneva listed on soundcheck. 1 upcoming gig. See 
 
 Rte des Jeunes 105A, 1212 Lancy, Suisse, Geneva
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/rooftop105/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/rooftop105/)*

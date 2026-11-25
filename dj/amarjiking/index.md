@@ -1,14 +1,15 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
+Amarji King is a Club and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
 
-Amarji King is a club and techno artist based in United States of America, with 65 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 12 more. Often billed alongside HYPERFEMME, Shy Margiela and BLAIZE. Next up: Highland Lounge, Austin on Fri 27 Nov.
+Amarji King is a club and techno artist based in United States of America, with 66 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 12 more. Often billed alongside HYPERFEMME, Shy Margiela and BLAIZE. Next up: Highland Lounge, Austin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Highland Lounge | Austin |
+| Fri, 27 Nov 2026 | Boondocks | Houston |
 | Thu, 3 Dec 2026 | Ausgang Plaza | Montreal |
 | Fri, 4 Dec 2026 | Paragon | New York City |
 | Sat, 5 Dec 2026 | Ausgang Plaza | Montreal |
@@ -28,4 +29,4 @@ Amarji King is a club and techno artist based in United States of America, with 
 
 HYPERFEMME, Shy Margiela, BLAIZE
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

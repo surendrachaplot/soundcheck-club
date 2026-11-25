@@ -1,14 +1,15 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Los Angeles on Sat, 5 Dec 2026.
+Dj Warning is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Los Angeles on Sat, 5 Dec 2026.
 
-Dj Warning is a techno and house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 13 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: TBA, Los Angeles on Sat 5 Dec.
+Dj Warning is a techno and house artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 13 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: TBA, Los Angeles on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA | Los Angeles |
+| Thu, 17 Dec 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 31 Dec 2026 | Paragon | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Dj Warning is a techno and house artist based in United States of America, with 
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

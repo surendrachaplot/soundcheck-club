@@ -1,6 +1,6 @@
 # Cerescente
 
-Cerescente is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
+Cerescente is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
 
 Cerescente is an electronica and techno artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside FUKCNORMAL, LVL1 and Presunta. Next up: TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Cerescente is an electronica and techno artist based in Spain, with 7 gigs on so
 
 FUKCNORMAL, LVL1, Presunta (2)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerescente/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerescente/)*

@@ -1,6 +1,6 @@
 # MASOI
 
-MASOI is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Joule, Osaka on Sat, 9 Jan 2027.
+MASOI is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Joule, Osaka on Sat, 9 Jan 2027.
 
 MASOI is a psytrance and techno artist based in Japan, with 36 gigs on soundcheck across Barcelona, Osaka and Tokyo. Often billed alongside YUKI.T, Tom Monkey and WOLT. Next up: Joule, Osaka on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ MASOI is a psytrance and techno artist based in Japan, with 36 gigs on soundchec
 
 YUKI.T, Tom Monkey, WOLT
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masoi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masoi/)*

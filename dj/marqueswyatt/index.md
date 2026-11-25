@@ -1,8 +1,8 @@
 # Marques Wyatt
 
-Marques Wyatt is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
+Marques Wyatt is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
 
-Marques Wyatt is a house and deep house artist based in United States of America, with 62 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 5 more. Often billed alongside Ray Kash, Doc Martin and Zach Walker. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
+Marques Wyatt is a house and deep house artist based in United States of America, with 63 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 5 more. Often billed alongside Ray Kash, Zach Walker and Doc Martin. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marques Wyatt is a house and deep house artist based in United States of America
 | --- | --- | --- |
 | Thu, 17 Dec 2026 | Nectar Lounge | Seattle |
 | Sat, 19 Dec 2026 | Hidden Hall | Seattle |
+| Sun, 31 Jan 2027 | Hotel Via | San Francisco/Oakland |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Marques Wyatt is a house and deep house artist based in United States of America
 
 ## Shares bills with
 
-Ray Kash, Doc Martin, Zach Walker
+Ray Kash, Zach Walker, Doc Martin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marqueswyatt/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marqueswyatt/)*

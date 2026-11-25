@@ -1,6 +1,6 @@
 # HERETICS × Skodde // NEW YEAR'S EVE at Secret Location Oslo
 
-HERETICS × Skodde // NEW YEAR'S EVE at Secret Location Oslo on Thu 31 Dec, Oslo. 4 artists: aarnljot, Aydin Imani, Brix and Skodde. See the line-up on soundcheck.
+HERETICS × Skodde // NEW YEAR'S EVE at Secret Location Oslo on Thu 31 Dec, Oslo. 5 artists: aarnljot, Aydin Imani, Brix and Frøy and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ HERETICS × Skodde // NEW YEAR'S EVE at Secret Location Oslo on Thu 31 Dec, Oslo
 - aarnljot
 - Aydin Imani
 - Brix
+- Frøy
 - Skodde
 
 *Source: [soundcheck](https://soundcheck.club/e/2590019-heretics-skodde-new-year-s-eve-at-secret-location-oslo/)*

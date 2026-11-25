@@ -1,6 +1,6 @@
-# Groovers Merch Pop Up Party at Vary
+# GROOVERS Merch Pop Up Party at Vary
 
-Groovers Merch Pop Up Party at Vary on Sat 28 Nov, Leipzig. House and Tech House. See the line-up on soundcheck.
+GROOVERS Merch Pop Up Party at Vary on Sat 28 Nov, Leipzig. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

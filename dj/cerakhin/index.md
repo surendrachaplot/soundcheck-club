@@ -1,6 +1,6 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Cera Khin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Cera Khin is a techno and house artist based in Tunisia, with 210 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 71 more. Often billed alongside Charlie Sparks, Clara Cuvé and Patrick Mason. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Cera Khin is a techno and house artist based in Tunisia, with 210 gigs on soundc
 
 Charlie Sparks, Clara Cuvé, Patrick Mason
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

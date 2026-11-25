@@ -1,6 +1,6 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OVO Arena Wembley, London on Fri, 1 Jan 2027.
+Wheats is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OVO Arena Wembley, London on Fri, 1 Jan 2027.
 
 Wheats is a tech house and house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 28 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: OVO Arena Wembley, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Wheats is a tech house and house artist based in United Kingdom, with 135 gigs o
 
 ALISHA, East End Dubs, wAFF
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*

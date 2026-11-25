@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Huxley's Neue Welt, Berlin on Wed, 25 Nov 2026.
+horsegiirL is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Huxley's Neue Welt, Berlin on Wed, 25 Nov 2026.
 
 horsegiirL is a techno and house artist based in Germany, with 139 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 54 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: Huxley's Neue Welt, Berlin on Wed 25 Nov.
 
@@ -32,4 +32,4 @@ horsegiirL is a techno and house artist based in Germany, with 139 gigs on sound
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

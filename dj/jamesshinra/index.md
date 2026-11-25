@@ -1,6 +1,6 @@
 # James Shinra
 
-James Shinra is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+James Shinra is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 James Shinra is an electro and techno artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Bristol, Dublin and London and 7 more. Often billed alongside Alien Communications, Owain K and Placid. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ James Shinra is an electro and techno artist based in United Kingdom, with 18 gi
 
 Alien Communications, Owain K, Placid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*

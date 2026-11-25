@@ -1,14 +1,15 @@
 # elvito
 
-elvito is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
+elvito is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
 
-elvito is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Berlin. Often billed alongside Sievert Serviert, OLED and EZA (DE). Next up: PKH Warehouse, Berlin on Sat 5 Dec.
+elvito is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Berlin. Often billed alongside Sievert Serviert, OLED and EZA (DE). Next up: PKH Warehouse, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | PKH Warehouse | Berlin |
+| Fri, 11 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ elvito is a techno and trance artist based in Germany, with 37 gigs on soundchec
 
 Sievert Serviert, OLED, EZA (DE)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvito/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvito/)*

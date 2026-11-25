@@ -1,6 +1,6 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and Dub Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
+Luigi Tozzi is a Techno and Dub Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
 
 Luigi Tozzi is a techno and dub techno artist based in Italy, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 3 Dec.
 
@@ -30,4 +30,4 @@ Luigi Tozzi is a techno and dub techno artist based in Italy, with 121 gigs on s
 
 Laura BCR, Feral, Claudio PRC
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

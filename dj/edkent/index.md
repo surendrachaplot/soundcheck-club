@@ -1,8 +1,8 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Ed Kent is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Ed Kent is a house and techno artist based in Australia, with 84 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Moopie. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Ed Kent is a house and techno artist based in Australia, with 85 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Moopie. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ed Kent is a house and techno artist based in Australia, with 84 gigs on soundch
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 19 Dec 2026 | ark (Melb) | Melbourne |
+| Sun, 20 Dec 2026 | Miscellania | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ed Kent is a house and techno artist based in Australia, with 84 gigs on soundch
 
 Hannah D, Mabel, Moopie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*

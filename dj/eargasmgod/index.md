@@ -1,6 +1,6 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 28 Nov 2026.
+EARGASM GOD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 28 Nov 2026.
 
 EARGASM GOD is a techno and trance artist based in Poland, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 48 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Lokschuppen Berlin, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ EARGASM GOD is a techno and trance artist based in Poland, with 188 gigs on soun
 
 DJ Traytex, Indecorum, Meg (PL)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*

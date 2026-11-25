@@ -1,6 +1,6 @@
 # CIVILIAN
 
-CIVILIAN is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 19 Dec 2026.
+CIVILIAN is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 19 Dec 2026.
 
 CIVILIAN is a techno and garage artist based in United Kingdom, with 6 gigs on soundcheck across Berlin and Liverpool. Often billed alongside CHVZ, millwac and Bisofer. Next up: 24 Kitchen Street, Liverpool on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ CIVILIAN is a techno and garage artist based in United Kingdom, with 6 gigs on s
 
 CHVZ, millwac, Bisofer
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/civilian/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/civilian/)*

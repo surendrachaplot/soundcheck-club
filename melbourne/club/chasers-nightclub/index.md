@@ -1,6 +1,6 @@
 # Chasers Nightclub
 
-Chasers Nightclub is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "The Breakfast Club Annual Xmas Rave 2026" on Fri, 25 Dec 2026.
+Chasers Nightclub is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "The Breakfast Club Annual Xmas Rave 2026" on Fri, 25 Dec 2026.
 
 Chasers Nightclub is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Aline Rocha, Horse Meat Disco, Late Nite Tuff Guy and The Shapeshifters. See dates, start times and who's playing. 386 Chapel St, South Yarra VIC 3141, Australia.
 
@@ -15,4 +15,4 @@ Chasers Nightclub is a music venue in Melbourne listed on soundcheck. 2 upcoming
 
 386 Chapel St, South Yarra VIC 3141, Australia, Melbourne
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/chasers-nightclub/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/chasers-nightclub/)*

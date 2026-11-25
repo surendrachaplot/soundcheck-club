@@ -1,14 +1,15 @@
 # Cabe
 
-Cabe is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Ardiente Rooftop Metepec, Estado-de-m-xico on Sat, 5 Dec 2026.
+Cabe is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Ardiente Rooftop Metepec, Estado-de-m-xico on Sat, 5 Dec 2026.
 
-Cabe is a techno and trance artist based in Mexico, with 29 gigs on soundcheck across Estado De M Xico, Guadalajara and Mexico City. Often billed alongside Ramiel II, Praqqa and Gohtobi. Next up: TBA - Ardiente Rooftop Metepec, Estado De M Xico on Sat 5 Dec.
+Cabe is a techno and trance artist based in Mexico, with 30 gigs on soundcheck across Estado De M Xico, Guadalajara and Mexico City. Often billed alongside Ramiel II, Gohtobi and Praqqa. Next up: TBA - Ardiente Rooftop Metepec, Estado De M Xico on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA - Ardiente Rooftop Metepec | Estado-de-m-xico |
+| Fri, 11 Dec 2026 | nueve cero nueve | Mexico City |
 | Fri, 11 Dec 2026 | nueve cero nueve | Mexico City |
 | Sat, 19 Dec 2026 | TBA - Malinalco | Estado-de-m-xico |
 | Sat, 17 Jul 2027 | Bajo Mundo | Mexico-city |
@@ -26,6 +27,6 @@ Cabe is a techno and trance artist based in Mexico, with 29 gigs on soundcheck a
 
 ## Shares bills with
 
-Ramiel II, Praqqa, Gohtobi
+Ramiel II, Gohtobi, Praqqa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabe-mxc/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabe-mxc/)*

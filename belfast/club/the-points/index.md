@@ -1,13 +1,13 @@
 # The Points
 
-The Points is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "ARCLINE x Clipped Pres Princess Glitoris // Rún II " on Sat, 21 Nov 2026.
+The Points is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "GAFF SESSIONS x NETWORK 404 NYE 2026" on Thu, 31 Dec 2026.
 
-The Points is a music venue in Belfast listed on soundcheck. 1 upcoming gig, with line-ups including CLERK., GUZZ., Princess Glitoris and Skellyoz. See dates, start times and who's playing.
+The Points is a music venue in Belfast listed on soundcheck. 1 upcoming gig, with line-ups including Askurmea, Cody Wong and MajinMajin. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | ARCLINE x Clipped Pres Princess Glitoris // Rún II  | CLERK., GUZZ., Princess Glitoris, Skellyoz |
+| Thu, 31 Dec 2026 | GAFF SESSIONS x NETWORK 404 NYE 2026 | Askurmea, Cody Wong, MajinMajin |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-points/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-points/)*

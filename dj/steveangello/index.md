@@ -1,6 +1,6 @@
 # Steve Angello
 
-Steve Angello is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 18 Dec 2026.
+Steve Angello is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 18 Dec 2026.
 
 Steve Angello is a house and progressive house artist based in Sweden, with 22 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 15 more. Often billed alongside Alok, Andy C and Benny Benassi. Next up: ZEROTOKYO, Tokyo on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Steve Angello is a house and progressive house artist based in Sweden, with 22 g
 
 Alok, Andy C, Benny Benassi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveangello/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveangello/)*

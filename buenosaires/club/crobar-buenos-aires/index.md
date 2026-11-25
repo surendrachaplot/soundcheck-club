@@ -1,6 +1,6 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Crobar Pres.: Deer Jade" on Fri, 27 Nov 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Crobar Pres.: Deer Jade" on Fri, 27 Nov 2026.
 
 Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 5 upcoming gigs, with line-ups including Andre VII, Cosenza, Deer Jade and Pampa and 2 more. See dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
@@ -18,4 +18,4 @@ Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 5 u
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

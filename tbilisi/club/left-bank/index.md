@@ -1,17 +1,18 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Free Saturdays: Giorgi Pipia • Memotech • 5nipss" on Sat, 21 Nov 2026.
+Left Bank is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Left Bank Clubnight: Bekuchi • Routes Not Roots • Dali" on Fri, 27 Nov 2026.
 
-Left Bank is a music venue in Tbilisi listed on soundcheck. 1 upcoming gig, with line-ups including Giorgi Pipia and Memotech. See dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
+Left Bank is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Bekuchi, Dali (GE), Gacha and Meyra and 2 more. See dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Free Saturdays: Giorgi Pipia • Memotech • 5nipss | Giorgi Pipia, Memotech |
+| Fri, 27 Nov 2026 | Left Bank Clubnight: Bekuchi • Routes Not Roots • Dali | Bekuchi, Dali (GE), Routes Not Roots |
+| Sat, 28 Nov 2026 | Free Saturdays: Khvedeliani • Gacha • Meyra | Gacha, Meyra, Pas de quartier |
 
 ## Address
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

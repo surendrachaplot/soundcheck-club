@@ -1,6 +1,6 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
+Princess Elf Bar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
 
 Princess Elf Bar is a trance and techno artist based in United Kingdom, with 167 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and Leaha. Next up: The DBA, Manchester on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Princess Elf Bar is a trance and techno artist based in United Kingdom, with 167
 
 AYDJ, Anop, Leaha
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*

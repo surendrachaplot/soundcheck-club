@@ -1,8 +1,8 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Secret Location TBA, London on Sat, 28 Nov 2026.
+Harry McCanna is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret Location TBA, London on Sat, 28 Nov 2026.
 
-Harry McCanna is a house and tech house artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: TBA - Secret Location TBA, London on Sat 28 Nov.
+Harry McCanna is a house and tech house artist based in United Kingdom, with 143 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: TBA - Secret Location TBA, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 142
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Secret Location TBA | London |
 | Sat, 12 Dec 2026 | fabric | London |
+| Fri, 1 Jan 2027 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 142
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

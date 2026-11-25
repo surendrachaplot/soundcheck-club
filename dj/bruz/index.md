@@ -1,6 +1,6 @@
 # Bruz
 
-Bruz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 19 Dec 2026.
+Bruz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 19 Dec 2026.
 
 Bruz is a deep house and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Maceo Plex, Alok and Amu. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Bruz is a deep house and house artist based in Netherlands, with 11 gigs on soun
 
 Maceo Plex, Alok, Amu (1)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruz/)*

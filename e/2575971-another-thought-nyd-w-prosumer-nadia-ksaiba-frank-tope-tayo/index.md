@@ -1,6 +1,6 @@
 # Another Thought: NYD w/ Prosumer, Nadia Ksaiba, Frank Tope & Tayo at 40ft Brewery - Blackhorse Road
 
-Another Thought: NYD w/ Prosumer, Nadia Ksaiba, Frank Tope & Tayo at 40ft Brewery - Blackhorse Road on Fri 1 Jan, London. 8 artists: Ariane V, Ben Gomori, Frank Tope and Hot Blood and 4 more. Disco and Acid. See the line-up on soundcheck.
+Another Thought: NYD w/ Prosumer, Nadia Ksaiba, Frank Tope & Tayo at 40ft Brewery - Blackhorse Road on Fri 1 Jan, London. 9 artists: Ariane V, Ben Gomori, Frank Tope and Gaucho (UK) and 5 more. Acid and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Another Thought: NYD w/ Prosumer, Nadia Ksaiba, Frank Tope & Tayo at 40ft Brewer
 - Ariane V
 - Ben Gomori
 - Frank Tope
+- Gaucho (UK)
 - Hot Blood
 - Nadia Ksaiba
 - Prosumer

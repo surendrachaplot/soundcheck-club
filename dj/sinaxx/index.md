@@ -1,6 +1,6 @@
 # Sina XX
 
-Sina XX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
+Sina XX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
 
 Sina XX is a techno and house artist based in France, with 91 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgium and 26 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: Off-Club, Belgium on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sina XX is a techno and house artist based in France, with 91 gigs on soundcheck
 
 Nesa Azadikhah, Egna, A.mo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*

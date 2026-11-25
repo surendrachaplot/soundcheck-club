@@ -1,6 +1,6 @@
 # Handson Family
 
-Handson Family is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
+Handson Family is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
 
 Handson Family is a funk / soul and house artist based in United Kingdom, with 48 gigs on soundcheck across London and Milan. Often billed alongside Vanessa Freeman, Bustin' Loose and LEV (UK). Next up: The Crypt at St. Matthews Church, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Handson Family is a funk / soul and house artist based in United Kingdom, with 4
 
 Vanessa Freeman, Bustin' Loose, LEV (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*

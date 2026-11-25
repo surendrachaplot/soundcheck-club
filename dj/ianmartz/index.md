@@ -1,6 +1,6 @@
 # Ian Martz
 
-Ian Martz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bar Oriente, Mexico City on Sat, 28 Nov 2026.
+Ian Martz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Oriente, Mexico City on Sat, 28 Nov 2026.
 
 Ian Martz is a house and techno artist based in Mexico, with 21 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside Roch (MX), Monclair and Ro Escobar. Next up: Bar Oriente, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ian Martz is a house and techno artist based in Mexico, with 21 gigs on soundche
 
 Roch (MX), Monclair, Ro Escobar
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartz/)*

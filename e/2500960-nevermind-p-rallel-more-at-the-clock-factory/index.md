@@ -1,6 +1,6 @@
 # Nevermind: p-rallel + more at The Clock Factory
 
-Nevermind: p-rallel + more at The Clock Factory on Fri 27 Nov, Bristol. 1 artist: p-rallel. House and Garage. See the line-up on soundcheck.
+Nevermind: p-rallel + more at The Clock Factory on Fri 27 Nov, Bristol. 4 artists: Lolli, p-rallel, RTK Tarantino and Yemz. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Nevermind: p-rallel + more at The Clock Factory on Fri 27 Nov, Bristol. 1 artist
 
 ## Line-up
 
+- Lolli
 - p-rallel
+- RTK Tarantino
+- Yemz
 
 *Source: [soundcheck](https://soundcheck.club/e/2500960-nevermind-p-rallel-more-at-the-clock-factory/)*

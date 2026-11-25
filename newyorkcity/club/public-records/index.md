@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Anthony Linnell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag" on Fri, 27 Nov 2026.
+public records is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag" on Fri, 27 Nov 2026.
 
 public records is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including 320, A lana, Amir Alexander and Analog Soul and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -8,7 +8,7 @@ public records is a music venue in New York City listed on soundcheck. 18 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Anthony Linnell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag | 320 (1), Anthony Linell, DJ Scallywag, Jin Synth, R Gamble, Trailcam |
+| Fri, 27 Nov 2026 | Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag | 320 (1), Anthony Linell, DJ Scallywag, Jin Synth, R Gamble, Trailcam |
 | Sat, 28 Nov 2026 | Cinthie, Amir Alexander / Snad, Jenifa Mayanja / Edan | Amir Alexander, Cinthie, Edan, Jenifa Mayanja, Snad |
 | Sun, 29 Nov 2026 | The Atrium: Eli Escobar, Jen Cardini | Eli Escobar, Jen Cardini |
 | Thu, 3 Dec 2026 | FACETIME: Victor Calderone [Techno Set], Eric Umble | Eric Umble, Victor Calderone |
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 18 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

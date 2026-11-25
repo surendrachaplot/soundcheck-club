@@ -1,6 +1,6 @@
 # Nowt
 
-Nowt is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hausu, London on Fri, 11 Dec 2026.
+Nowt is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hausu, London on Fri, 11 Dec 2026.
 
 Nowt is a techno and garage artist, with 12 gigs on soundcheck across Bristol and London. Often billed alongside Ambient Babestation Meltdown, Jlte and Unlikely. Next up: Hausu, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Nowt is a techno and garage artist, with 12 gigs on soundcheck across Bristol an
 
 Ambient Babestation Meltdown, Jlte, Unlikely
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nowt/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nowt/)*

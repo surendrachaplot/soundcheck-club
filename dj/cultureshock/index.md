@@ -1,6 +1,6 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Outernet Live, London on Fri, 27 Nov 2026.
+Culture Shock is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Outernet Live, London on Fri, 27 Nov 2026.
 
 Culture Shock is a drum & bass and bass artist based in United Kingdom, with 83 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 40 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Outernet Live, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Culture Shock is a drum & bass and bass artist based in United Kingdom, with 83 
 
 Sub Focus, Dimension, 1991
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

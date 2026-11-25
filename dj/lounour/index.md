@@ -1,6 +1,6 @@
 # Lou Nour
 
-Lou Nour is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ashton Court Estate, Bristol on Sat, 29 May 2027.
+Lou Nour is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ashton Court Estate, Bristol on Sat, 29 May 2027.
 
 Lou Nour is a techno and bass artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 6 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: Ashton Court Estate, Bristol on Sat 29 May.
 
@@ -25,4 +25,4 @@ Lou Nour is a techno and bass artist based in United Kingdom, with 15 gigs on so
 
 SICARIA, Ahadadream, Alexi Shell
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*

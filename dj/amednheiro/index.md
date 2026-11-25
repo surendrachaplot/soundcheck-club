@@ -1,6 +1,6 @@
 # Amed Nheiro
 
-Amed Nheiro is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 28 Nov 2026.
+Amed Nheiro is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 28 Nov 2026.
 
 Amed Nheiro is a house and afro house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Dj OmarO, NAIR (IN) and H7. Next up: ciao ciao Bar, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Amed Nheiro is a house and afro house artist based in Germany, with 13 gigs on s
 
 Dj OmarO, NAIR (IN), H7 (3)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amednheiro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amednheiro/)*

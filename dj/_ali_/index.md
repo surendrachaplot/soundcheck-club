@@ -1,6 +1,6 @@
 # _ÄLI_
 
-_ÄLI_ is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Zemin Art Gallery, Berlin on Wed, 25 Nov 2026.
+_ÄLI_ is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Zemin Art Gallery, Berlin on Wed, 25 Nov 2026.
 
 _ÄLI_ is an electronic artist based in Italy, with 5 gigs on soundcheck across Berlin. Often billed alongside Artifex (DE), DE:MA and Gioski. Next up: Zemin Art Gallery, Berlin on Wed 25 Nov.
 
@@ -21,4 +21,4 @@ _ÄLI_ is an electronic artist based in Italy, with 5 gigs on soundcheck across 
 
 Artifex (DE), DE:MA, Gioski
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_ali_/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_ali_/)*

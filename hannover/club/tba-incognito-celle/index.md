@@ -1,13 +1,13 @@
 # TBA - INCOGNITO Celle
 
-TBA - INCOGNITO Celle is a music venue in Hannover with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Kinkerella By Symbiotikka & Einmalig" on Fri, 18 Dec 2026.
+TBA - INCOGNITO Celle is a music venue in Hannover with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kinkerella By Symbiotikka & Einmalig Cancelled" on Fri, 18 Dec 2026.
 
-TBA - INCOGNITO Celle is a music venue in Hannover listed on soundcheck. 1 upcoming gig, with line-ups including Alle Farben, DJ Jordan, Grace Thompson and Stuckeyrella. See dates, start times and who's playing.
+TBA - INCOGNITO Celle is a music venue in Hannover listed on soundcheck. 1 upcoming gig, with line-ups including Cancelled. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 18 Dec 2026 | Kinkerella By Symbiotikka & Einmalig | Alle Farben, DJ Jordan, Grace Thompson, Stuckeyrella |
+| Fri, 18 Dec 2026 | Kinkerella By Symbiotikka & Einmalig Cancelled | Cancelled |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/tba-incognito-celle/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/tba-incognito-celle/)*

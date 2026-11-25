@@ -1,6 +1,6 @@
 # r1ku
 
-r1ku is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Castle, Kansai on Sat, 28 Nov 2026.
+r1ku is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Castle, Kansai on Sat, 28 Nov 2026.
 
 r1ku is a house and techno artist based in Japan, with 209 gigs on soundcheck across Kansai, Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, SAMO (JP) and YUVIE. Next up: The Castle, Kansai on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ r1ku is a house and techno artist based in Japan, with 209 gigs on soundcheck ac
 
 kengotaki, SAMO (JP), YUVIE
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*

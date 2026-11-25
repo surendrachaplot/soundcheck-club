@@ -1,6 +1,6 @@
 # Tommes K. Brandt
 
-Tommes K. Brandt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 5 Dec 2026.
+Tommes K. Brandt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 5 Dec 2026.
 
 Tommes K. Brandt is a house and disco artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Nikklaas, 7ommes and Better Call Paul. Next up: Süss War Gestern, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tommes K. Brandt is a house and disco artist based in Germany, with 10 gigs on s
 
 Nikklaas, 7ommes, Better Call Paul
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*

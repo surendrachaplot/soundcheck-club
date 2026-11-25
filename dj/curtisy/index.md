@@ -1,6 +1,6 @@
 # Curtisy
 
-Curtisy is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Yamamori Tengu, Dublin on Mon, 21 Dec 2026.
+Curtisy is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Yamamori Tengu, Dublin on Mon, 21 Dec 2026.
 
 Curtisy is a hip-hop and baile funk artist based in United Kingdom, with 11 gigs on soundcheck across Dublin, London and Manchester. Often billed alongside ProSonus, Lills and COBRAH. Next up: Yamamori Tengu, Dublin on Mon 21 Dec.
 
@@ -25,4 +25,4 @@ Curtisy is a hip-hop and baile funk artist based in United Kingdom, with 11 gigs
 
 ProSonus, Lills, COBRAH
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisy/)*

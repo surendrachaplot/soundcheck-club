@@ -1,14 +1,14 @@
 # J-Lost
 
-J-Lost is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Low Key Records, Sofia on Sat, 28 Nov 2026.
+J-Lost is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Low Key Records, Sofia on Sun, 29 Nov 2026.
 
-J-Lost is a techno and electronica artist based in Bulgaria, with 48 gigs on soundcheck across Belgrade, Berlin and Sofia. Often billed alongside Stefan Alexandrov, BEZDAREN and Mira Ghazal. Next up: Low Key Records, Sofia on Sat 28 Nov.
+J-Lost is a techno and electronica artist based in Bulgaria, with 48 gigs on soundcheck across Belgrade, Berlin and Sofia. Often billed alongside Stefan Alexandrov, BEZDAREN and Mira Ghazal. Next up: Low Key Records, Sofia on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Low Key Records | Sofia |
+| Sun, 29 Nov 2026 | Low Key Records | Sofia |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ J-Lost is a techno and electronica artist based in Bulgaria, with 48 gigs on sou
 
 Stefan Alexandrov, BEZDAREN, Mira Ghazal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j-lost/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j-lost/)*

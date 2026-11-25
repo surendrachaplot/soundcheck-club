@@ -1,14 +1,15 @@
 # Machinedrum
 
-Machinedrum is a Bass and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Favela Chic, New Orleans on Sat, 5 Dec 2026.
+Machinedrum is a Bass and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Favela Chic, New Orleans on Sat, 5 Dec 2026.
 
-Machinedrum is a bass and house artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 30 more. Often billed alongside Bianca Oblivion, Sam Binga and Conducta. Next up: Favela Chic, New Orleans on Sat 5 Dec.
+Machinedrum is a bass and house artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 30 more. Often billed alongside Bianca Oblivion, Sam Binga and Conducta. Next up: Favela Chic, New Orleans on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Favela Chic | New Orleans |
+| Fri, 11 Dec 2026 | 314 Scholes | New York City |
 | Thu, 4 Feb 2027 | Купе / Kupe | Sofia |
 | Fri, 5 Feb 2027 | Hidden | Manchester |
 | Sat, 6 Feb 2027 | The Cause | London |
@@ -28,4 +29,4 @@ Machinedrum is a bass and house artist based in United States of America, with 7
 
 Bianca Oblivion, Sam Binga, Conducta
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*

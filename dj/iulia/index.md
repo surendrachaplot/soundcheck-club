@@ -1,6 +1,6 @@
 # iulia
 
-iulia is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
+iulia is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
 
 iulia is a house artist based in Spain, with 5 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Tokyo. Often billed alongside AINES, Adrasha and Atsushi Maeda. Next up: VENT, Tokyo on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ iulia is a house artist based in Spain, with 5 gigs on soundcheck across Amsterd
 
 AINES, Adrasha, Atsushi Maeda
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iulia/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iulia/)*

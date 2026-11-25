@@ -1,6 +1,6 @@
 # NOTMYTYPE (2)
 
-NOTMYTYPE (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Turbinenhalle, North-rhine-westphalia on Sat, 13 Mar 2027.
+NOTMYTYPE (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Turbinenhalle, North-rhine-westphalia on Sat, 13 Mar 2027.
 
 NOTMYTYPE is a techno and trance artist, with 60 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 20 more. Often billed alongside IGDA, Nicolas Julian and A.N.I.. Next up: Turbinenhalle, North Rhine Westphalia on Sat 13 Mar.
 
@@ -25,4 +25,4 @@ NOTMYTYPE is a techno and trance artist, with 60 gigs on soundcheck across Amste
 
 IGDA, Nicolas Julian, A.N.I.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*

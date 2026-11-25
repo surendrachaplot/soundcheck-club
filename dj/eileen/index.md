@@ -1,6 +1,6 @@
 # Eileen
 
-Eileen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 1 Jan 2027.
+Eileen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 1 Jan 2027.
 
 Eileen is a house and techno artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Cologne and Frankfurt. Often billed alongside AUHAM, Admo and Apua. Next up: Shelter Amsterdam, Amsterdam on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Eileen is a house and techno artist based in Germany, with 17 gigs on soundcheck
 
 AUHAM, Admo, Apua
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*

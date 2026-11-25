@@ -1,6 +1,6 @@
 # 49 Katzen... tanzen auf'm Tisch at Kater
 
-49 Katzen... tanzen auf'm Tisch at Kater on Sat 28 Nov, Berlin. 51 artists: Acid Pauli, alko, Argia and AVEM and 47 more. Techno and House. See the line-up on soundcheck.
+49 Katzen... tanzen auf'm Tisch at Kater on Sat 28 Nov, Berlin. 52 artists: Acid Pauli, alko, Argia and AVEM and 48 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -54,6 +54,7 @@
 - Remcord
 - Robin Dey
 - Sarah Kreis
+- Steve Challier
 - Sutsche
 - Sven Dohse
 - Toto Chiavetta

@@ -1,6 +1,6 @@
 # Folic State
 
-Folic State is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 27 Nov 2026.
+Folic State is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 27 Nov 2026.
 
 Folic State is a techno and house artist based in India, with 4 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Cosmik Konnection, Ash Roy and Krumelur. Next up: Ritter Butzke, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Folic State is a techno and house artist based in India, with 4 gigs on soundche
 
 Cosmik Konnection, Ash Roy, Krumelur
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folicstate/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folicstate/)*

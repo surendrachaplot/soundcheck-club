@@ -1,6 +1,6 @@
 # PERSTEPHANII
 
-PERSTEPHANII is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Level 8 DTLA, Los Angeles on Wed, 25 Nov 2026.
+PERSTEPHANII is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Level 8 DTLA, Los Angeles on Wed, 25 Nov 2026.
 
 PERSTEPHANII is an afro house and deep house artist based in United States of America, with 13 gigs on soundcheck across Los Angeles and Milan. Often billed alongside Shanto, DENYC and Araminta. Next up: Level 8 DTLA, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ PERSTEPHANII is an afro house and deep house artist based in United States of Am
 
 Shanto, DENYC, Araminta
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perstephanii/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perstephanii/)*

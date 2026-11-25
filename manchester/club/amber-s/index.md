@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Amber's presents: Addison Groove & Denham Audio" on Fri, 27 Nov 2026.
+Amber's is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Amber's presents: Addison Groove & Denham Audio" on Fri, 27 Nov 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Addison Groove, Anz, Denham Audio and DJ BORING and 2 more. See dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -20,4 +20,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, wi
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

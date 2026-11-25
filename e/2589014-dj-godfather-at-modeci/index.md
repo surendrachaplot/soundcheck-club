@@ -1,6 +1,6 @@
 # DJ Godfather at Modeci
 
-DJ Godfather at Modeci on Fri 27 Nov, Seoul. 1 artist: DJ Godfather. See the line-up on soundcheck.
+DJ Godfather at Modeci on Fri 27 Nov, Seoul. 3 artists: bojvck, DJ Godfather and Jangster. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ DJ Godfather at Modeci on Fri 27 Nov, Seoul. 1 artist: DJ Godfather. See the lin
 
 ## Line-up
 
+- bojvck
 - DJ Godfather
+- Jangster
 
 *Source: [soundcheck](https://soundcheck.club/e/2589014-dj-godfather-at-modeci/)*

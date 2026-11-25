@@ -1,6 +1,6 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Parallel, Amsterdam on Fri, 4 Dec 2026.
+Saint Ludo is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Parallel, Amsterdam on Fri, 4 Dec 2026.
 
 Saint Ludo is a garage and bass artist, with 137 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Y U QT, Bakey and Ewan McVicar. Next up: Parallel, Amsterdam on Fri 4 Dec.
 
@@ -36,4 +36,4 @@ Saint Ludo is a garage and bass artist, with 137 gigs on soundcheck across Amste
 
 Y U QT, Bakey, Ewan McVicar
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

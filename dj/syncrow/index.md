@@ -1,6 +1,6 @@
 # syncrow
 
-syncrow is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 5 Dec 2026.
+syncrow is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 5 Dec 2026.
 
 syncrow is an acid and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Taylor Taylor (NL), Analyze and Bertie. Next up: Waterhouse Studios, Amsterdam on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ syncrow is an acid and house artist based in Netherlands, with 5 gigs on soundch
 
 Taylor Taylor (NL), Analyze, Bertie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syncrow/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syncrow/)*

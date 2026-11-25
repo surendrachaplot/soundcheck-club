@@ -1,6 +1,6 @@
 # LIBIDOH █ at ROSA
 
-LIBIDOH █ at ROSA on Sat 19 Dec, Berlin. 4 artists: Erebos, Hocki, maedchenballern and MARRE. Trance and Techno. See the line-up on soundcheck.
+LIBIDOH █ at ROSA on Sat 19 Dec, Berlin. 8 artists: An Chen, Erebos, Hocki and Lisek and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,13 @@ LIBIDOH █ at ROSA on Sat 19 Dec, Berlin. 4 artists: Erebos, Hocki, maedchenbal
 
 ## Line-up
 
+- An Chen
 - Erebos
 - Hocki
+- Lisek
 - maedchenballern
 - MARRE
+- Neoma
+- PHLOXO
 
 *Source: [soundcheck](https://soundcheck.club/e/2576545-libidoh-at-rosa/)*

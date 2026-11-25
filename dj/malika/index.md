@@ -1,14 +1,15 @@
 # Malika
 
-Malika is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Nido Marseille, Marseille on Sat, 12 Dec 2026.
+Malika is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Nido Marseille, Marseille on Sat, 12 Dec 2026.
 
-Malika is a house and techno artist based in Morocco, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Hamish & Toby, Adi (CO) and DJ Masda. Next up: Nido Marseille, Marseille on Sat 12 Dec.
+Malika is a house and techno artist based in Morocco, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Hamish & Toby, Adi (CO) and DJ Masda. Next up: Nido Marseille, Marseille on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Nido Marseille | Marseille |
+| Sat, 23 Jan 2027 | Cadavra | Madrid |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -27,4 +28,4 @@ Malika is a house and techno artist based in Morocco, with 54 gigs on soundcheck
 
 Hamish & Toby, Adi (CO), DJ Masda
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

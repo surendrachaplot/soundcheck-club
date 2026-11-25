@@ -1,8 +1,8 @@
 # Conrad Taylor
 
-Conrad Taylor is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Newspeak, Montreal on Sat, 12 Dec 2026.
+Conrad Taylor is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Newspeak, Montreal on Sat, 12 Dec 2026.
 
-Conrad Taylor is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Austin, Berlin, Chicago and Dallas Fort Worth and 9 more. Often billed alongside Flash Gea, Marie Vaunt and hhunter. Next up: Newspeak, Montreal on Sat 12 Dec.
+Conrad Taylor is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Austin, Berlin, Chicago and Dallas Fort Worth and 9 more. Often billed alongside Flash Gea, Marie Vaunt and hhunter. Next up: Newspeak, Montreal on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Conrad Taylor is a techno and house artist based in United States of America, wi
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Thu, 28 Jan 2027 | Noto Philadelphia | Philadelphia |
+| Sat, 30 Jan 2027 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Conrad Taylor is a techno and house artist based in United States of America, wi
 
 Flash Gea, Marie Vaunt, hhunter
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*

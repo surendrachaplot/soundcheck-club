@@ -1,13 +1,14 @@
 # Emerald
 
-Emerald is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Umusic Store Camden, London on Thu, 10 Dec 2026.
+Emerald is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Love Inn, Bristol on Sat, 28 Nov 2026.
 
-Emerald is a house and garage artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Special Request, Aletha and Amaliah. Next up: Umusic Store Camden, London on Thu 10 Dec.
+Emerald is a house and garage artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Special Request, Aletha and Amaliah. Next up: The Love Inn, Bristol on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Love Inn | Bristol |
 | Thu, 10 Dec 2026 | Umusic Store Camden | London |
 | Fri, 18 Dec 2026 | Club Empire | London |
 | Thu, 31 Dec 2026 | E1 | London |
@@ -29,4 +30,4 @@ Emerald is a house and garage artist based in United Kingdom, with 77 gigs on so
 
 Special Request, Aletha, Amaliah
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*

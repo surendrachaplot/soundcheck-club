@@ -1,6 +1,6 @@
 # feedbk with Greta, Kurilo at feedbk
 
-feedbk with Greta, Kurilo on Fri 27 Nov, New York City. 3 artists: Greta, Kurilo and Sid Vaga. Minimal Techno. See the line-up on soundcheck.
+feedbk with Greta, Kurilo on Fri 27 Nov, New York City. 2 artists: Kurilo and Sid Vaga. Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ feedbk with Greta, Kurilo on Fri 27 Nov, New York City. 3 artists: Greta, Kurilo
 
 ## Line-up
 
-- Greta
 - Kurilo
 - Sid Vaga
 

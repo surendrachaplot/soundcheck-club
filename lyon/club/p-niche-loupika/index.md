@@ -1,17 +1,17 @@
 # Péniche Loupika
 
-Péniche Loupika is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "⊚ 𝗨𝗻𝗸𝗻𝗼𝘄𝗻 𝗶𝗻𝘃𝗶𝘁𝗲 ⊚ 𝗣𝗲𝗿𝗰𝗵𝗲𝗽𝗼𝗹𝗶𝘀 ⊚" on Sun, 15 Nov 2026.
+Péniche Loupika is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "⊚ 𝗨𝗻𝗸𝗻𝗼𝘄𝗻 𝗶𝗻𝘃𝗶𝘁𝗲 ⊚ 𝗩𝗼𝗹𝗮𝘁𝗶𝗹 ⊚" on Sun, 6 Dec 2026.
 
-Péniche Loupika is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including carrà. See dates, start times and who's playing. 47 Quai Rambaud, 69002 Lyon, France.
+Péniche Loupika is a music venue in Lyon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 47 Quai Rambaud, 69002 Lyon, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | ⊚ 𝗨𝗻𝗸𝗻𝗼𝘄𝗻 𝗶𝗻𝘃𝗶𝘁𝗲 ⊚ 𝗣𝗲𝗿𝗰𝗵𝗲𝗽𝗼𝗹𝗶𝘀 ⊚ | carrà |
+| Sun, 6 Dec 2026 | ⊚ 𝗨𝗻𝗸𝗻𝗼𝘄𝗻 𝗶𝗻𝘃𝗶𝘁𝗲 ⊚ 𝗩𝗼𝗹𝗮𝘁𝗶𝗹 ⊚ |  |
 
 ## Address
 
 47 Quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*

@@ -1,6 +1,6 @@
 # Origins: Objekt & EMA at Palais
 
-Origins: Objekt & EMA at Palais on Fri 11 Dec, London. 2 artists: EMA and Objekt. Techno and Electro. See the line-up on soundcheck.
+Origins: Objekt & EMA at Palais on Fri 11 Dec, London. 4 artists: ANNX, EMA, Objekt and ohmydais. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Origins: Objekt & EMA at Palais on Fri 11 Dec, London. 2 artists: EMA and Objekt
 
 ## Line-up
 
+- ANNX
 - EMA (1)
 - Objekt
+- ohmydais
 
 *Source: [soundcheck](https://soundcheck.club/e/2554305-origins-objekt-ema-at-palais/)*

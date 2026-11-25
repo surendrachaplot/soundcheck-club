@@ -1,6 +1,6 @@
 # Bloc
 
-Bloc is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Sugo Party // November" on Sat, 28 Nov 2026.
+Bloc is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Sugo Party // November" on Sat, 28 Nov 2026.
 
 Bloc is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 117 Bath Street; Glasgow, G2 2SZ; Scotland.
 
@@ -14,4 +14,4 @@ Bloc is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates
 
 117 Bath Street; Glasgow, G2 2SZ; Scotland, Glasgow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/bloc/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/bloc/)*

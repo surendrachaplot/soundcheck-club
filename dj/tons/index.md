@@ -1,8 +1,8 @@
 # TONS
 
-TONS is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
+TONS is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
 
-TONS is a tech house and house artist based in Venezuela, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
+TONS is a tech house and house artist based in Venezuela, with 125 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TONS is a tech house and house artist based in Venezuela, with 124 gigs on sound
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 5 Dec 2026 | Factory Town | Miami |
 | Sat, 12 Dec 2026 | Bohemia Beach Club | Dubai |
 
 ## Recently played
@@ -27,4 +28,4 @@ TONS is a tech house and house artist based in Venezuela, with 124 gigs on sound
 
 Miguelle, Ben Sterling, Marco Carola
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*

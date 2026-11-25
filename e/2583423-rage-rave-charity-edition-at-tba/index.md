@@ -1,6 +1,6 @@
 # Rage Rave: Charity Edition at TBA
 
-Rage Rave: Charity Edition at TBA on Fri 15 Jan, Bucharest. 7 artists: Felix the Cat, Golem (RO), Iosiph Kruz and LVUR and 3 more. Techno and Industrial. See the line-up on soundcheck.
+Rage Rave: Charity Edition at TBA on Fri 15 Jan, Bucharest. 8 artists: Dalek, Felix the Cat, Golem (RO) and Iosiph Kruz and 4 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rage Rave: Charity Edition at TBA on Fri 15 Jan, Bucharest. 7 artists: Felix the
 
 ## Line-up
 
+- Dalek
 - Felix the Cat
 - Golem (RO)
 - Iosiph Kruz

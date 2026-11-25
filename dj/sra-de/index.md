@@ -1,6 +1,6 @@
 # s.ra
 
-s.ra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ://about blank, Berlin on Thu, 24 Dec 2026.
+s.ra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Thu, 24 Dec 2026.
 
 s.ra is a techno and house artist, with 16 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Kikimike, a:tok and Nadine Talakovics. Next up: ://about blank, Berlin on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ s.ra is a techno and house artist, with 16 gigs on soundcheck across Berlin and 
 
 Kikimike, a:tok, Nadine Talakovics
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sra-de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sra-de/)*

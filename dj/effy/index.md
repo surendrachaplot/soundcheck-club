@@ -1,6 +1,6 @@
 # Effy
 
-Effy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
+Effy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
 Effy is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Effy is a techno and house artist based in United Kingdom, with 136 gigs on soun
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

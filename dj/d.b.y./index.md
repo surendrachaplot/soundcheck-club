@@ -1,6 +1,6 @@
 # D.B.Y.
 
-D.B.Y. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Breakglass Studios, Montreal on Sun, 29 Nov 2026.
+D.B.Y. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Breakglass Studios, Montreal on Sun, 29 Nov 2026.
 
 D.B.Y. is a techno and electro artist based in Canada, with 24 gigs on soundcheck across Montreal. Often billed alongside Shadya, Mok-T and Quan. Next up: Breakglass Studios, Montreal on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ D.B.Y. is a techno and electro artist based in Canada, with 24 gigs on soundchec
 
 Shadya, Mok-T, Quan
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.b.y./)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.b.y./)*

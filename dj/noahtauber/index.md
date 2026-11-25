@@ -1,6 +1,6 @@
 # Noah Tauber
 
-Noah Tauber is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at XOYO, London on Sat, 28 Nov 2026.
+Noah Tauber is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at XOYO, London on Sat, 28 Nov 2026.
 
 Noah Tauber is a techno and dub techno artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Glasgow, Hamburg and Lisbon and 3 more. Often billed alongside nohexcode, Ylia (UK) and ANTØNIØ.. Next up: XOYO, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Noah Tauber is a techno and dub techno artist based in United Kingdom, with 29 g
 
 nohexcode, Ylia (UK), ANTØNIØ.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*

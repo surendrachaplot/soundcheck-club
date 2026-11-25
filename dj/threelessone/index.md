@@ -1,6 +1,6 @@
 # Three Less One
 
-Three Less One is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Three Less One is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Three Less One is an electronic artist based in Italy, with 11 gigs on soundcheck across Barcelona, Berlin, Lisbon and Milan and 2 more. Often billed alongside Sara Bluma, Afrodite and Alex Albrecht. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Three Less One is an electronic artist based in Italy, with 11 gigs on soundchec
 
 Sara Bluma, Afrodite (2), Alex Albrecht
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/threelessone/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/threelessone/)*

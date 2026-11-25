@@ -1,0 +1,28 @@
+# N:Fostell
+
+N:Fostell is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
+
+N:Fostell is an afro house and house artist based in United Kingdom, with 9 gigs on soundcheck across Birmingham and London. Often billed alongside Mark Radford, Tippa and Master Stepz. Next up: Ministry Of Sound, London on Sat 26 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 26 Dec 2026 | Ministry Of Sound | London |
+
+## Recently played
+
+- Pushkar Cocktail & Dining, Birmingham · Sat, 17 Oct 2026
+- Egg London, London · Sat, 10 Oct 2026
+- Club Colette, Birmingham · Sat, 18 Oct 2025
+- E1, London · Sat, 29 Mar 2025
+- Studio 338, London · Sun, 15 Sept 2024
+- Ministry Of Sound, London · Sat, 22 Jun 2024
+- TBA - Notting Hill Carnival (Top of West Row c/w Kensal Road), London · Sun, 27 Aug 2023
+- Colesdale Farm, London · Sun, 23 Jul 2023
+
+## Shares bills with
+
+Mark Radford, Tippa, Master Stepz
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell-uk/)*

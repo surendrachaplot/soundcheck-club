@@ -1,6 +1,6 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 27 Nov 2026.
+Pancratio is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 27 Nov 2026.
 
 Pancratio is a house and techno artist based in Italy, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Pancratio is a house and techno artist based in Italy, with 68 gigs on soundchec
 
 Dante (H501), Fabrizio Sala, Leo Benassi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*

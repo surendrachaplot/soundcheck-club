@@ -1,14 +1,15 @@
 # FORTUNATA
 
-FORTUNATA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at AMT, Berlin on Sat, 12 Dec 2026.
+FORTUNATA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at AMT, Berlin on Sat, 12 Dec 2026.
 
-FORTUNATA is a techno and house artist based in Colombia, with 46 gigs on soundcheck across Amsterdam, Berlin and Madrid. Often billed alongside KLOE, XIMA and KLING&KLANG. Next up: AMT, Berlin on Sat 12 Dec.
+FORTUNATA is a techno and house artist based in Colombia, with 47 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Madrid. Often billed alongside KLOE, XIMA and KLING&KLANG. Next up: AMT, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | AMT | Berlin |
+| Fri, 1 Jan 2027 | glimmer | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FORTUNATA is a techno and house artist based in Colombia, with 46 gigs on soundc
 
 KLOE, XIMA, KLING&KLANG
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunata/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunata/)*

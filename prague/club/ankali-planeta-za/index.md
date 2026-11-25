@@ -1,8 +1,8 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "allnighter: DJ MARIA. & Konduku" on Fri, 27 Nov 2026.
+Ankali & Planeta Za is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "allnighter: DJ MARIA. & Konduku" on Fri, 27 Nov 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Adelia, Arton (CZ), Axis Alpha and Ayū and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Adelia, Arton (CZ), Atch22 and Axis Alpha and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
@@ -15,11 +15,11 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming 
 | Fri, 11 Dec 2026 | Disco Církev 9th anniversary | Demonika, Marsman, NCOL, Raphael Kosmos, Shurigen |
 | Sat, 12 Dec 2026 | Weltraum | Adelia, Arton (CZ), Axis Alpha, Eva Falt, Grafik (2), Massa |
 | Fri, 18 Dec 2026 | Harmony XMAS | Ayū (1), BB. angel, DINA, Dash (CZ), Georgia Bird, Misha Jaru, Raleigh, Yan (CZ), Zubescu |
-| Thu, 31 Dec 2026 | #nye_extended [24h] |  |
+| Thu, 31 Dec 2026 | #nye_extended [24h] | Atch22, Cosmodan, Edits, Epoché, Kasper Marott, Kavkaz Widow, LuLu (CZ), Madeleine, PAURRO, Pink Concrete, Raleigh, Shurigen, Silhouette, Theo (8), VNNUK, Yan (CZ), patricccio, seuge |
 | Fri, 5 Feb 2027 | ★ BRUXA ★ Honey for your ears and soul.... ★ |  |
 
 ## Address
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

@@ -1,6 +1,6 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Plano B, Porto on Sat, 5 Dec 2026.
+The Blessed Madonna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Plano B, Porto on Sat, 5 Dec 2026.
 
 The Blessed Madonna is a house and techno artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Honey Dijon, HAAi and Mochakk. Next up: Plano B, Porto on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ The Blessed Madonna is a house and techno artist based in United States of Ameri
 
 Honey Dijon, HAAi, Mochakk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

@@ -1,8 +1,8 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "The Loft: RTK Tarantino (All Night Long)" on Thu, 26 Nov 2026.
+The Loft is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "The Loft: RTK Tarantino (All Night Long)" on Thu, 26 Nov 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Alexander Skancke, b.lo, BELLA (NL) and Cam Stockman and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Alexander Skancke, b.lo, BELLA (NL) and Cam Stockman and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, 
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

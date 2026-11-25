@@ -1,17 +1,22 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Inner Circle feat. Pipe Carrillo" on Sat, 28 Nov 2026.
+Círculo is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Inner Circle feat. LeMichael aka LM" on Thu, 26 Nov 2026.
 
-Círculo is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
+Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including A4U (RU), LeMichael, P.A.N.C.H.I.T.O and Sergio LLamas. See dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Inner Circle feat. LeMichael aka LM | LeMichael |
+| Fri, 27 Nov 2026 | Inner Circle feat. Sergio LLamas (Above You) | Sergio LLamas |
 | Sat, 28 Nov 2026 | Inner Circle feat. Pipe Carrillo |  |
+| Thu, 3 Dec 2026 | Inner Circle feat. Guy Rome |  |
+| Fri, 4 Dec 2026 | Inner Circle feat. A4U | A4U (RU) |
+| Sat, 5 Dec 2026 | Inner Circle feat. P.A.N.C.H.I.T.O | P.A.N.C.H.I.T.O |
 
 ## Address
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

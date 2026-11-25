@@ -1,6 +1,6 @@
 # Groove Fiction LDN EAST at Upper East
 
-Groove Fiction LDN EAST at Upper East on Fri 27 Nov, London. 5 artists: FLORA THA EXPLORA, Livvy Loo, Quidders and Rhiavas and 1 more. House and Minimal. See the line-up on soundcheck.
+Groove Fiction LDN EAST at Upper East on Fri 27 Nov, London. 6 artists: FLORA THA EXPLORA, Livvy Loo, NOIDMATE and Quidders and 2 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Groove Fiction LDN EAST at Upper East on Fri 27 Nov, London. 5 artists: FLORA TH
 
 - FLORA THA EXPLORA
 - Livvy Loo
+- NOIDMATE
 - Quidders
 - Rhiavas
 - Rocco Han

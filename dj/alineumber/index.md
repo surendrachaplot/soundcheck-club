@@ -1,8 +1,8 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
+Aline Umber is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
 
-Aline Umber is a house and minimal artist based in France, with 113 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
+Aline Umber is a house and minimal artist based in France, with 114 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aline Umber is a house and minimal artist based in France, with 113 gigs on soun
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 5 Dec 2026 | Factory Town | Miami |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
@@ -27,4 +28,4 @@ Aline Umber is a house and minimal artist based in France, with 113 gigs on soun
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

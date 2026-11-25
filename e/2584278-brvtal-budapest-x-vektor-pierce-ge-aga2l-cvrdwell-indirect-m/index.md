@@ -14,6 +14,6 @@ BRVTAL BUDAPEST X VEKTOR - Pierce (GE), AGA2L, Cvrdwell, Indirect Movement, BLZS
 - BLZS
 - Cvrdwell
 - Indirect Movement
-- Pierce
+- Pierce (GE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2584278-brvtal-budapest-x-vektor-pierce-ge-aga2l-cvrdwell-indirect-m/)*

@@ -1,6 +1,6 @@
 # Body Marcus
 
-Body Marcus is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mastak, Warsaw on Sun, 20 Dec 2026.
+Body Marcus is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mastak, Warsaw on Sun, 20 Dec 2026.
 
 Body Marcus is an electronica and house artist based in Belarus, with 13 gigs on soundcheck across Warsaw. Often billed alongside Metallicblue, Pridi and Eliza. Next up: Mastak, Warsaw on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Body Marcus is an electronica and house artist based in Belarus, with 13 gigs on
 
 Metallicblue, Pridi, Eliza (2)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodymarcus/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodymarcus/)*

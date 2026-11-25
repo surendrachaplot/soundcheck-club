@@ -1,8 +1,8 @@
 # Frekuence
 
-Frekuence is a music venue in Tirana with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Free to Be — Sonhan / Rebiswan" on Fri, 27 Nov 2026.
+Frekuence is a music venue in Tirana with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Free to Be — Sonhan / Rebiswan" on Fri, 27 Nov 2026.
 
-Frekuence is a music venue in Tirana listed on soundcheck. 2 upcoming gigs, with line-ups including DUNISHA, Rebiswan and Sonhan. See dates, start times and who's playing. Kompleksi Fari, Tirana.
+Frekuence is a music venue in Tirana listed on soundcheck. 3 upcoming gigs, with line-ups including DUNISHA, Rebiswan and Sonhan. See dates, start times and who's playing. Kompleksi Fari, Tirana.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Frekuence is a music venue in Tirana listed on soundcheck. 2 upcoming gigs, with
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Free to Be — Sonhan / Rebiswan | Rebiswan, Sonhan |
 | Sat, 12 Dec 2026 | Frekuence X Premium Raves | DUNISHA |
+| Fri, 18 Dec 2026 | Frekuence X LMD |  |
 
 ## Address
 
 Kompleksi Fari, Tirana, Tirana
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/frekuence/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/frekuence/)*

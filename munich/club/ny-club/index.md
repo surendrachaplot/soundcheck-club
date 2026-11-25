@@ -1,6 +1,6 @@
 # NY.Club
 
-NY.Club is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "DARK PARADISE feat. LUXUSPOP" on Fri, 27 Nov 2026.
+NY.Club is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "DARK PARADISE feat. LUXUSPOP" on Fri, 27 Nov 2026.
 
 NY.Club is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Marvin. See dates, start times and who's playing. Elisenstraße 3, 80335 München.
 
@@ -14,4 +14,4 @@ NY.Club is a music venue in Munich listed on soundcheck. 1 upcoming gig, with li
 
 Elisenstraße 3, 80335 München, Munich
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/ny-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/ny-club/)*

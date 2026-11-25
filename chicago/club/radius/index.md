@@ -1,8 +1,8 @@
 # Radius
 
-Radius is a music venue in Chicago with 38 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Bonobo (Live)" on Wed, 25 Nov 2026.
+Radius is a music venue in Chicago with 39 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bonobo (Live)" on Wed, 25 Nov 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 38 upcoming gigs, with line-ups including ALT8, ALVES (PT), Amal Nemer and Armand Van Helden and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 39 upcoming gigs, with line-ups including ALT8, ALVES (PT), Amal Nemer and Armand Van Helden and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 38 upcoming gigs, with 
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

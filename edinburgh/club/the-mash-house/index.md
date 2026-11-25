@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Subliminal Bleeps" on Fri, 27 Nov 2026.
+The Mash House is a music venue in Edinburgh with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Subliminal Bleeps" on Fri, 27 Nov 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming gigs, with line-ups including Buckfast Barbie, Chris Astrojazz, DV60 and jane doeyes and 2 more. See dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -19,4 +19,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming gi
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

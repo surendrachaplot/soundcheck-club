@@ -1,6 +1,6 @@
 # Blackstone Street Warehouse
 
-Blackstone Street Warehouse is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Morgan Seatree Liverpool" on Sat, 5 Dec 2026.
+Blackstone Street Warehouse is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Morgan Seatree Liverpool" on Sat, 5 Dec 2026.
 
 Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Sterling, Ewan McVicar, Fantasm and Franky Rizardo and 2 more. See dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
 
@@ -21,4 +21,4 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 
 Blackstone Street, Liverpool, L5 9TL, Liverpool
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*

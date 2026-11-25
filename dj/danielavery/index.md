@@ -1,8 +1,8 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Gazarte, Greece on Sat, 19 Dec 2026.
+Daniel Avery is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Gazarte, Greece on Sat, 19 Dec 2026.
 
-Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Richard Fearless, Optimo (Espacio) and IMOGEN. Next up: Gazarte, Greece on Sat 19 Dec.
+Daniel Avery is a techno and house artist based in United Kingdom, with 173 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Richard Fearless, Optimo (Espacio) and IMOGEN. Next up: Gazarte, Greece on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
 | Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
 | Sat, 23 Jan 2027 | The White Hotel | Manchester |
+| Fri, 5 Feb 2027 | Mesones 72 | Mexico City |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs
 
 Richard Fearless, Optimo (Espacio), IMOGEN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

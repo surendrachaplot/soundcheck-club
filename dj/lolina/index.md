@@ -1,19 +1,21 @@
 # Lolina
 
-Lolina is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
+Lolina is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
 
-Lolina is an experimental and electronica artist based in Estonia, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 22 more. Often billed alongside Inga Copeland, John T. Gast and 7038634357. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
+Lolina is an experimental and electronica artist based in Estonia, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 22 more. Often billed alongside Inga Copeland, John T. Gast and 7038634357. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 24 Nov 2026 | A4 - Space for Contemporary Culture | Bratislava |
+| Sat, 28 Nov 2026 | Subdeck | Bratislava |
 | Thu, 10 Dec 2026 | The White Hotel | Manchester |
 | Thu, 21 Jan 2027 | Ormside Projects | London |
 
 ## Recently played
 
+- A4 - Space for Contemporary Culture, Bratislava · Tue, 24 Nov 2026
 - Hotel Forum, Krakow · Sat, 10 Oct 2026
 - Simian, Copenhagen · Sat, 26 Sept 2026
 - TBA - Multiple Venues, Vienna · Fri, 4 Sept 2026
@@ -21,10 +23,9 @@ Lolina is an experimental and electronica artist based in Estonia, with 45 gigs 
 - Ormside Projects, London · Sat, 9 May 2026
 - Pasagüero, Mexico City · Sat, 14 Mar 2026
 - public records, New York City · Wed, 18 Feb 2026
-- Lasociaciøn, Madrid · Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Inga Copeland, John T. Gast, 7038634357
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*

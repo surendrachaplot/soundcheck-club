@@ -1,17 +1,18 @@
 # Ulysse
 
-Ulysse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mia Mao, Paris on Thu, 12 Nov 2026.
+Ulysse is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
 
-Ulysse is a techno and house artist based in France, with 8 gigs on soundcheck across London, Paris and Zurich. Often billed alongside Alessandro Miranda, Amy Cutter and DMC.. Next up: Mia Mao, Paris on Thu 12 Nov.
+Ulysse is a techno and garage artist based in France, with 9 gigs on soundcheck across London, Paris and Zurich. Often billed alongside Adiba, Alessandro Miranda and Amy Cutter. Next up: Jumbi, London on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Mia Mao | Paris |
+| Thu, 31 Dec 2026 | Jumbi | London |
 
 ## Recently played
 
+- Mia Mao, Paris · Thu, 12 Nov 2026
 - Die Schneiderei, Zurich · Fri, 9 Oct 2026
 - Tola, London · Fri, 15 Aug 2025
 - Corsica Studios, London · Fri, 1 Aug 2025
@@ -22,6 +23,6 @@ Ulysse is a techno and house artist based in France, with 8 gigs on soundcheck a
 
 ## Shares bills with
 
-Alessandro Miranda, Amy Cutter, DMC.
+Adiba, Alessandro Miranda, Amy Cutter
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*

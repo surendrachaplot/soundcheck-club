@@ -1,0 +1,28 @@
+# Henry Bennett
+
+Henry Bennett is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Greyhound, London on Sat, 16 Jan 2027.
+
+Henry Bennett is an electro and house artist based in United Kingdom, with 15 gigs on soundcheck across Leeds and London. Often billed alongside Kennedy (UK), Isaac Frost and Oliver Kristian. Next up: The Greyhound, London on Sat 16 Jan.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 16 Jan 2027 | The Greyhound | London |
+
+## Recently played
+
+- The Greyhound, London · Sat, 24 Oct 2026
+- Last Arch, London · Fri, 19 Jun 2026
+- Gaffe, London · Sat, 18 Apr 2026
+- Distrikt, Leeds · Fri, 6 Jun 2025
+- Brixton Storeys, London · Fri, 30 May 2025
+- Brixton Storeys, London · Fri, 30 May 2025
+- M.O.T, London · Fri, 2 May 2025
+- Distrikt, Leeds · Fri, 21 Mar 2025
+
+## Shares bills with
+
+Kennedy (UK), Isaac Frost, Oliver Kristian
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybennett/)*

@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "BASIS/ Helena Lauwaert/ Kalou/ Mirage/ S3PPA" on Fri, 27 Nov 2026.
+BASIS is a music venue in Utrecht with 17 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BASIS/ Helena Lauwaert/ Kalou/ Mirage/ S3PPA" on Fri, 27 Nov 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 15 upcoming gigs, with line-ups including AnD, Aphøtic, Azzurro and BØĘRY and 2 more. See dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming gigs, with line-ups including Afem Syko, AnD, Aphøtic and Azzurro and 2 more. See dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ BASIS is a music venue in Utrecht listed on soundcheck. 15 upcoming gigs, with l
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

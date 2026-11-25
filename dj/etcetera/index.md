@@ -1,6 +1,6 @@
 # Et Cetera
 
-Et Cetera is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Elastica, Vilnius on Fri, 27 Nov 2026.
+Et Cetera is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Elastica, Vilnius on Fri, 27 Nov 2026.
 
 Et Cetera is a techno and industrial artist based in Lithuania, with 39 gigs on soundcheck across Berlin, Copenhagen, Riga and Sao Paulo and 1 more. Often billed alongside Mirror Slave, IP:VIII and Valdagger. Next up: Elastica, Vilnius on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Et Cetera is a techno and industrial artist based in Lithuania, with 39 gigs on 
 
 Mirror Slave, IP:VIII, Valdagger
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*

@@ -1,6 +1,6 @@
 # Playback Events presents: Theo Kottis at Moon Club
 
-Playback Events presents: Theo Kottis at Moon Club on Thu 4 Feb, Bristol. 3 artists: DJelley, Ned Spencer and Theo Kottis. House and Minimal. See the line-up on soundcheck.
+Playback Events presents: Theo Kottis at Moon Club on Thu 4 Feb, Bristol. 3 artists: DJelley, Ned Spencer and Theo Kottis. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

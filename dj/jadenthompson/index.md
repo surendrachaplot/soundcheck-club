@@ -1,6 +1,6 @@
 # Jaden Thompson
 
-Jaden Thompson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Fri, 18 Dec 2026.
+Jaden Thompson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Fri, 18 Dec 2026.
 
 Jaden Thompson is a house and tech house artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 34 more. Often billed alongside Skream, The Martinez Brothers and Luuk van Dijk. Next up: fabric, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Jaden Thompson is a house and tech house artist based in United Kingdom, with 11
 
 Skream, The Martinez Brothers, Luuk van Dijk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadenthompson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadenthompson/)*

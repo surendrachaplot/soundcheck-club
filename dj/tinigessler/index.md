@@ -1,13 +1,14 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Studio 338, London on Thu, 31 Dec 2026.
+Tini Gessler is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Range, Turin on Fri, 27 Nov 2026.
 
-Tini Gessler is a tech house and house artist based in Germany, with 151 gigs on soundcheck across Bali, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside Adam Beyer, Ilario Alicante and Chelina Manuhutu. Next up: Studio 338, London on Thu 31 Dec.
+Tini Gessler is a tech house and house artist based in Germany, with 152 gigs on soundcheck across Bali, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside Adam Beyer, Ilario Alicante and Chelina Manuhutu. Next up: The Range, Turin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | The Range | Turin |
 | Thu, 31 Dec 2026 | Studio 338 | London |
 | Fri, 15 Jan 2027 | Igloofest | Montreal |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
@@ -29,4 +30,4 @@ Tini Gessler is a tech house and house artist based in Germany, with 151 gigs on
 
 Adam Beyer, Ilario Alicante, Chelina Manuhutu
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

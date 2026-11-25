@@ -1,6 +1,6 @@
 # Mandel Turner
 
-Mandel Turner is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paloma, Berlin on Fri, 18 Dec 2026.
+Mandel Turner is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paloma, Berlin on Fri, 18 Dec 2026.
 
 Mandel Turner is a house and funk / soul artist based in Germany, with 32 gigs on soundcheck across Berlin. Often billed alongside Balthazar Martinez, Mat Fink and Mini Nik. Next up: Paloma, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mandel Turner is a house and funk / soul artist based in Germany, with 32 gigs o
 
 Balthazar Martinez, Mat Fink, Mini Nik
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandelturner/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandelturner/)*

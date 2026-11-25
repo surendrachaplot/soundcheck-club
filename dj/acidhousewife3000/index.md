@@ -1,6 +1,6 @@
 # acidhousewife3000
 
-acidhousewife3000 is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hoxton Cabin, London on Fri, 4 Dec 2026.
+acidhousewife3000 is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hoxton Cabin, London on Fri, 4 Dec 2026.
 
 acidhousewife3000 is an electronica and club artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside dbeater, Vlad Zinn and ttttttttt. Next up: Hoxton Cabin, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ acidhousewife3000 is an electronica and club artist based in United Kingdom, wit
 
 dbeater, Vlad Zinn, ttttttttt
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidhousewife3000/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidhousewife3000/)*

@@ -1,6 +1,6 @@
 # Mat Eclair
 
-Mat Eclair is a Garage and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Pumpehuset, Copenhagen on Fri, 27 Nov 2026.
+Mat Eclair is a Garage and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Pumpehuset, Copenhagen on Fri, 27 Nov 2026.
 
 Mat Eclair is a garage and tech house artist based in Denmark, with 5 gigs on soundcheck across Copenhagen, Glasgow, Münster and Rotterdam. Often billed alongside Gaskin, La La and Max Styler. Next up: Pumpehuset, Copenhagen on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Mat Eclair is a garage and tech house artist based in Denmark, with 5 gigs on so
 
 Gaskin, La La, Max Styler
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateclair/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateclair/)*

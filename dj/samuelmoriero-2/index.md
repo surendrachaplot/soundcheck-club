@@ -1,8 +1,8 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Psytrance artist with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 23 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
+Samuel Moriero is a techno and psytrance artist based in Italy, with 36 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 24 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 11 Dec 2026 | Ääniwalli | Helsinki |
+| Sat, 12 Dec 2026 | Parc des Expositions du Pays de Lorient | West |
 | Fri, 18 Dec 2026 | Poolen | Copenhagen |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 26 Dec 2026 | The Telegraph Building | Belfast |
@@ -19,7 +20,6 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
-| Sat, 23 Jan 2027 | Melbourne Showgrounds | Melbourne |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

@@ -1,6 +1,6 @@
 # Dstm
 
-Dstm is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Red Club Disco, Bologna on Fri, 27 Nov 2026.
+Dstm is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Red Club Disco, Bologna on Fri, 27 Nov 2026.
 
 Dstm is a techno and industrial artist based in Italy, with 34 gigs on soundcheck across Barcelona, Berlin, Bologna and Budapest and 15 more. Often billed alongside DEBBIE (IT), Angel Karel and CORA. Next up: Red Club Disco, Bologna on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Dstm is a techno and industrial artist based in Italy, with 34 gigs on soundchec
 
 DEBBIE (IT), Angel Karel, CORA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dstm/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dstm/)*

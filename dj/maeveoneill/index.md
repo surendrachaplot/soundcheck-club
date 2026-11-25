@@ -1,6 +1,6 @@
 # Maeve O'Neill
 
-Maeve O'Neill is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pawn Shop, Dublin on Fri, 4 Dec 2026.
+Maeve O'Neill is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pawn Shop, Dublin on Fri, 4 Dec 2026.
 
 Maeve O'Neill is an electro and techno artist based in Ireland, with 15 gigs on soundcheck across Berlin, Dublin and Galway. Often billed alongside Eliza, Lolz and Dame Area. Next up: Pawn Shop, Dublin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Maeve O'Neill is an electro and techno artist based in Ireland, with 15 gigs on 
 
 Eliza, Lolz, Dame Area
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maeveoneill/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maeveoneill/)*

@@ -1,6 +1,6 @@
 # MIAN
 
-MIAN is a Tech House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Rollberg26, Berlin on Fri, 27 Nov 2026.
+MIAN is a Tech House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rollberg26, Berlin on Fri, 27 Nov 2026.
 
 MIAN is a tech house and post-punk artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Ben Bondy, Hongor and bod [包家巷]. Next up: Rollberg26, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MIAN is a tech house and post-punk artist based in Germany, with 11 gigs on soun
 
 Ben Bondy, Hongor, bod [包家巷]
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mian/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mian/)*

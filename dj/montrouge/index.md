@@ -1,6 +1,6 @@
 # Mont Rouge
 
-Mont Rouge is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Dojo Boutique Club, Budapest on Sat, 12 Dec 2026.
+Mont Rouge is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dojo Boutique Club, Budapest on Sat, 12 Dec 2026.
 
 Mont Rouge is an afro house and house artist based in Switzerland, with 59 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bordeaux and 17 more. Often billed alongside Sasson, Acid Arab and Notre Dame. Next up: Dojo Boutique Club, Budapest on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mont Rouge is an afro house and house artist based in Switzerland, with 59 gigs 
 
 Sasson, Acid Arab, Notre Dame
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montrouge/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montrouge/)*

@@ -1,6 +1,6 @@
 # Sô Lyma
 
-Sô Lyma is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Theatro Municipal, Praça Floriano, S/N - Centro, Rio de Janeiro, Rio de Janeiro on Sat, 28 Nov 2026.
+Sô Lyma is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Theatro Municipal, Praça Floriano, S/N - Centro, Rio de Janeiro, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Sô Lyma is a house and hip-hop artist based in Brazil, with 23 gigs on soundcheck across Rio De Janeiro, Rio de Janeiro and Sao Paulo. Often billed alongside Lysia, Antes E Depois and Bernardo Campos. Next up: TBA - Theatro Municipal, Praça Floriano, S/N - Centro, Rio de Janeiro, Rio de Janeiro on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sô Lyma is a house and hip-hop artist based in Brazil, with 23 gigs on soundche
 
 Lysia, Antes E Depois, Bernardo Campos
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solyma/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solyma/)*

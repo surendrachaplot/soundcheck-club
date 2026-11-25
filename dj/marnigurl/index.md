@@ -1,6 +1,6 @@
 # Marnigurl
 
-Marnigurl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
+Marnigurl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
 
 Marnigurl is a techno and house artist, with 57 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Jaw Jones, Zellers and OMG.BLOG. Next up: ESC, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Marnigurl is a techno and house artist, with 57 gigs on soundcheck across Montre
 
 Jaw Jones, Zellers, OMG.BLOG
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marnigurl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marnigurl/)*

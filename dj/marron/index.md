@@ -1,8 +1,8 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
+MARRØN is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
 
-MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Hive Club, Zurich on Fri 27 Nov.
+MARRØN is a techno and house artist based in Netherlands, with 319 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Hive Club, Zurich on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,15 +10,16 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Hive Club | Zurich |
 | Sat, 28 Nov 2026 | Q35 WAREHOUSE | Turin |
+| Thu, 3 Dec 2026 | Domicile | Miami |
 | Fri, 4 Dec 2026 | BASEMENT | New York City |
 | Sat, 5 Dec 2026 | TBA - Secret Location | Toronto |
 | Fri, 11 Dec 2026 | Flux | Istanbul |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | fabric | London |
 | Fri, 1 Jan 2027 | C12 | Brussels |
+| Sat, 2 Jan 2027 | RADION | Amsterdam |
+| Sat, 9 Jan 2027 | Printhouse | Munich |
 | Fri, 29 Jan 2027 | Carousel Bar & Ballroom | Sydney |
-| Sat, 30 Jan 2027 | Preston Warehouse | Melbourne |
-| Sat, 27 Mar 2027 | NDSM Docklands | Amsterdam |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 
 Blasha & Allatt, Ben Klock, Freddy K
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

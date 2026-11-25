@@ -1,6 +1,6 @@
 # James Holden & Wacław Zimpel + drift FM — Pavel Milyakov (Buttechno) & Ugnė Uma at EartH
 
-James Holden & Wacław Zimpel + drift FM — Pavel Milyakov (Buttechno) & Ugnė Uma at EartH on Sun 21 Feb, London. 4 artists: Buttechno, James Holden, Ugnė Uma and Waclaw Zimpel. See the line-up on soundcheck.
+James Holden & Wacław Zimpel + drift FM — Pavel Milyakov (Buttechno) & Ugnė Uma at EartH on Sun 21 Feb, London. 4 artists: Buttechno, James Holden, Ugnė Uma and Waclaw Zimpel. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

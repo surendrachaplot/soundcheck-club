@@ -1,6 +1,6 @@
 # ProSonus
 
-ProSonus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Stage and Radio, Manchester on Thu, 10 Dec 2026.
+ProSonus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stage and Radio, Manchester on Thu, 10 Dec 2026.
 
 ProSonus is a house and techno artist based in United Kingdom, with 19 gigs on soundcheck across Manchester. Often billed alongside JHarv, Curtisy and Reggie Tansley. Next up: Stage and Radio, Manchester on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ ProSonus is a house and techno artist based in United Kingdom, with 19 gigs on s
 
 JHarv, Curtisy, Reggie Tansley
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prosonus/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prosonus/)*

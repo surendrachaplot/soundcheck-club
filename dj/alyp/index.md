@@ -1,6 +1,6 @@
 # Aly P
 
-Aly P is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
+Aly P is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
 
 Aly P is a house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Edinburgh, Liverpool and Manchester. Often billed alongside Elleinad, Kathryn and 4D (UK). Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Aly P is a house and techno artist based in United Kingdom, with 37 gigs on soun
 
 Elleinad, Kathryn, 4D (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*

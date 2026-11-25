@@ -1,13 +1,14 @@
 # TOHA
 
-TOHA is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 12 Dec 2026.
+TOHA is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
 
-TOHA is an electro and techno artist based in Poland, with 13 gigs on soundcheck across Warsaw. Often billed alongside PayoYayo, Truant and dj.zamocno. Next up: K-Bar Powiśle, Warsaw on Sat 12 Dec.
+TOHA is a techno and electro artist based in Poland, with 14 gigs on soundcheck across Warsaw. Often billed alongside PayoYayo, Abrew and Dedenia. Next up: K-Bar Powiśle, Warsaw on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | K-Bar Powiśle | Warsaw |
 | Sat, 12 Dec 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played
@@ -23,6 +24,6 @@ TOHA is an electro and techno artist based in Poland, with 13 gigs on soundcheck
 
 ## Shares bills with
 
-PayoYayo, Truant, dj.zamocno
+PayoYayo, Abrew, Dedenia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toha/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toha/)*

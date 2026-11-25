@@ -1,6 +1,6 @@
 # k.meower
 
-k.meower is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Prisma, Berlin on Tue, 1 Dec 2026.
+k.meower is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Prisma, Berlin on Tue, 1 Dec 2026.
 
 k.meower is a techno and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin and Hamburg. Often billed alongside peak2soon, Vantavision and Ankit. Next up: Prisma, Berlin on Tue 1 Dec.
 
@@ -26,4 +26,4 @@ k.meower is a techno and tech house artist based in Germany, with 11 gigs on sou
 
 peak2soon, Vantavision, Ankit
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.meower/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.meower/)*

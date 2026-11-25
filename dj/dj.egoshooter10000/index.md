@@ -1,13 +1,14 @@
 # DJ.Egoshooter10000
 
-DJ.Egoshooter10000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Mikropol, Berlin on Sat, 16 Jan 2027.
+DJ.Egoshooter10000 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
 
-DJ.Egoshooter10000 is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Alina Viktoria, Krash Cora and YOVA. Next up: Mikropol, Berlin on Sat 16 Jan.
+DJ.Egoshooter10000 is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Alina Viktoria, Krash Cora and The Kiss. Next up: ://about blank, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | ://about blank | Berlin |
 | Sat, 16 Jan 2027 | Mikropol | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ.Egoshooter10000 is a techno and trance artist based in Germany, with 21 gigs 
 
 ## Shares bills with
 
-Alina Viktoria, Krash Cora, YOVA
+Alina Viktoria, Krash Cora, The Kiss
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.egoshooter10000/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.egoshooter10000/)*

@@ -1,19 +1,19 @@
 # Hex Embrace
 
-Hex Embrace is a EBM and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Tue, 24 Nov 2026.
+Hex Embrace is a EBM and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Tue, 1 Dec 2026.
 
-Hex Embrace is an ebm and club artist based in United States of America, with 133 gigs on soundcheck across San Francisco/Oakland. Often billed alongside ImpirumCrypt, Hopelesss and Byter. Next up: F8 1192 Folsom, San Francisco/Oakland on Tue 24 Nov.
+Hex Embrace is an ebm and club artist based in United States of America, with 133 gigs on soundcheck across San Francisco/Oakland. Often billed alongside ImpirumCrypt, Hopelesss and Byter. Next up: F8 1192 Folsom, San Francisco/Oakland on Tue 1 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 24 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Tue, 1 Dec 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 26 Dec 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 24 Nov 2026
 - F8 1192 Folsom, San Francisco/Oakland · Tue, 17 Nov 2026
 - F8 1192 Folsom, San Francisco/Oakland · Tue, 3 Nov 2026
 - F8 1192 Folsom, San Francisco/Oakland · Tue, 27 Oct 2026
@@ -21,10 +21,9 @@ Hex Embrace is an ebm and club artist based in United States of America, with 13
 - F8 1192 Folsom, San Francisco/Oakland · Tue, 13 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Tue, 6 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Tue, 29 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland · Tue, 15 Sept 2026
 
 ## Shares bills with
 
 ImpirumCrypt, Hopelesss, Byter
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexembrace/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexembrace/)*

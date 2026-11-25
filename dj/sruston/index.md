@@ -1,13 +1,14 @@
 # S Ruston
 
-S Ruston is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ballroom at Palais, London on Sat, 12 Dec 2026.
+S Ruston is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Palais, London on Sat, 12 Dec 2026.
 
-S Ruston is a techno and house artist, with 71 gigs on soundcheck across Beijing, Berlin, Copenhagen and Dortmund / Essen and 9 more. Often billed alongside Ady Toledano, Frozilla and Lockhart. Next up: Ballroom at Palais, London on Sat 12 Dec.
+S Ruston is a techno and house artist, with 72 gigs on soundcheck across Beijing, Berlin, Copenhagen and Dortmund / Essen and 9 more. Often billed alongside Ady Toledano, Frozilla and James Newmarch. Next up: Palais, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Palais | London |
 | Sat, 12 Dec 2026 | Ballroom at Palais | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ S Ruston is a techno and house artist, with 71 gigs on soundcheck across Beijing
 
 ## Shares bills with
 
-Ady Toledano, Frozilla, Lockhart
+Ady Toledano, Frozilla, James Newmarch
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sruston/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sruston/)*

@@ -1,6 +1,6 @@
 # Greggio
 
-Greggio is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beat, London on Sat, 12 Dec 2026.
+Greggio is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Beat, London on Sat, 12 Dec 2026.
 
 Greggio is a tech house and house artist based in United Kingdom, with 8 gigs on soundcheck across Azerbaijan and London. Often billed alongside JIOR, Bhaskar and Max Styler. Next up: Beat, London on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Greggio is a tech house and house artist based in United Kingdom, with 8 gigs on
 
 JIOR, Bhaskar, Max Styler
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greggio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greggio/)*

@@ -1,6 +1,6 @@
 # Eraseland
 
-Eraseland is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sigma, Ibiza on Thu, 17 Dec 2026.
+Eraseland is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sigma, Ibiza on Thu, 17 Dec 2026.
 
 Eraseland is a minimal and minimal techno artist based in Colombia, with 6 gigs on soundcheck across Ibiza, Mallorca and Medellin. Often billed alongside Abstruse, D Jaguar and Luigi Rossi. Next up: Sigma, Ibiza on Thu 17 Dec.
 
@@ -22,4 +22,4 @@ Eraseland is a minimal and minimal techno artist based in Colombia, with 6 gigs 
 
 Abstruse, D Jaguar, Luigi Rossi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eraseland/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eraseland/)*

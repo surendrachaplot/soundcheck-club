@@ -1,6 +1,6 @@
 # Industries
 
-Industries is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Liquidate, Manchester on Fri, 11 Dec 2026.
+Industries is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Liquidate, Manchester on Fri, 11 Dec 2026.
 
 Industries is a house and electro artist based in United Kingdom, with 7 gigs on soundcheck across Manchester. Often billed alongside Antoin KMA, David KMA and ISA (UK). Next up: Liquidate, Manchester on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Industries is a house and electro artist based in United Kingdom, with 7 gigs on
 
 Antoin KMA, David KMA, ISA (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/industries/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/industries/)*

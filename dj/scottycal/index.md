@@ -1,6 +1,6 @@
 # Scotty Cal
 
-Scotty Cal is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Island, Sydney on Sun, 13 Dec 2026.
+Scotty Cal is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Island, Sydney on Sun, 13 Dec 2026.
 
 Scotty Cal is a house and disco artist based in Australia, with 39 gigs on soundcheck across Bali, Indonesia and Sydney. Often billed alongside Kaiser Waldon, Ben Nott and Jimmy Galvin. Next up: The Island, Sydney on Sun 13 Dec.
 
@@ -26,4 +26,4 @@ Scotty Cal is a house and disco artist based in Australia, with 39 gigs on sound
 
 Kaiser Waldon, Ben Nott, Jimmy Galvin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*

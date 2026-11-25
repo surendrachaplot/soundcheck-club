@@ -1,8 +1,8 @@
 # Adam Ten
 
-Adam Ten is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Adam Ten is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Adam Ten is a house and techno artist based in Israel, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Factory Town, Miami on Wed 2 Dec.
+Adam Ten is a house and techno artist based in Israel, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -11,7 +11,9 @@ Adam Ten is a house and techno artist based in Israel, with 178 gigs on soundche
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | TBA - MILA | Miami |
+| Thu, 3 Dec 2026 | Historic Virginia Key Beach Park | Miami |
 | Sat, 5 Dec 2026 | TBA | Mexico City |
+| Sat, 19 Dec 2026 | Kaufleuten | Zurich |
 | Sat, 26 Dec 2026 | TBA - Medellin Polo Club, Punta del Este | Uruguay |
 | Sat, 6 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 
@@ -30,4 +32,4 @@ Adam Ten is a house and techno artist based in Israel, with 178 gigs on soundche
 
 Mita Gami, Jamie Jones, CamelPhat
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*

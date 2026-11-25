@@ -1,6 +1,6 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Thirty3hz, South-east on Fri, 27 Nov 2026.
+Pola & Bryson is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Thirty3hz, South-east on Fri, 27 Nov 2026.
 
 Pola & Bryson are a drum & bass and jungle duo based in United Kingdom, with 88 gigs on soundcheck across Auckland, Baltimore, Barcelona and Berlin and 44 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Thirty3hz, South East on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Pola & Bryson are a drum & bass and jungle duo based in United Kingdom, with 88 
 
 Emily Makis, Camo & Krooked, Hybrid Minds
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

@@ -1,6 +1,6 @@
 # BETRIZA
 
-BETRIZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
+BETRIZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
 
 BETRIZA is a techno and house artist based in Brazil, with 13 gigs on soundcheck across Sao Paulo. Often billed alongside Bllack Rose, Acid Asian and Adnan Sharif. Next up: D-EDGE, Sao Paulo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ BETRIZA is a techno and house artist based in Brazil, with 13 gigs on soundcheck
 
 Bllack Rose, Acid Asian, Adnan Sharif
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betriza/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betriza/)*

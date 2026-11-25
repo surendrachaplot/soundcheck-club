@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "One Dragon Service with CEM & DJ TOOL" on Fri, 27 Nov 2026.
+Den Anden Side is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "One Dragon Service with CEM & DJ TOOL" on Fri, 27 Nov 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, with line-ups including Anna Logic, Asta Fugazi, BAUGRUPPE90 and B From E and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -22,4 +22,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming g
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

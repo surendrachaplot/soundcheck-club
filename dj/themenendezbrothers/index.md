@@ -1,8 +1,8 @@
 # The Menendez Brothers
 
-The Menendez Brothers is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at E1, London on Fri, 4 Dec 2026.
+The Menendez Brothers is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at E1, London on Fri, 4 Dec 2026.
 
-The Menendez Brothers is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Meeshy, Andrea Oliva and Raul Rodriguez. Next up: E1, London on Fri 4 Dec.
+The Menendez Brothers is a house and tech house artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Meeshy, Andrea Oliva and Fat Tony. Next up: E1, London on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ The Menendez Brothers is a house and tech house artist based in United Kingdom, 
 | Fri, 4 Dec 2026 | E1 | London |
 | Fri, 18 Dec 2026 | E1 | London |
 | Sat, 26 Dec 2026 | E1 | London |
+| Fri, 1 Jan 2027 | The Fox and Firkin | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ The Menendez Brothers is a house and tech house artist based in United Kingdom, 
 
 ## Shares bills with
 
-Meeshy, Andrea Oliva, Raul Rodriguez
+Meeshy, Andrea Oliva, Fat Tony
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*

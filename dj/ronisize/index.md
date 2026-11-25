@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Baltimore Soundstage, Baltimore on Sat, 28 Nov 2026.
+Roni Size is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Baltimore Soundstage, Baltimore on Sat, 28 Nov 2026.
 
 Roni Size is a drum & bass and jungle artist based in United Kingdom, with 93 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 40 more. Often billed alongside Grooverider, LTJ Bukem and Fabio. Next up: Baltimore Soundstage, Baltimore on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Roni Size is a drum & bass and jungle artist based in United Kingdom, with 93 gi
 
 Grooverider, LTJ Bukem, Fabio
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

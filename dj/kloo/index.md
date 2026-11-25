@@ -1,6 +1,6 @@
 # KLOO
 
-KLOO is a Dancehall and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Haggerston, London on Fri, 27 Nov 2026.
+KLOO is a Dancehall and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Haggerston, London on Fri, 27 Nov 2026.
 
 KLOO is a dancehall and afro house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Big D, BHV2099 and J Bentley. Next up: The Haggerston, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KLOO is a dancehall and afro house artist based in United Kingdom, with 13 gigs 
 
 Big D, BHV2099, J Bentley
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloo/)*

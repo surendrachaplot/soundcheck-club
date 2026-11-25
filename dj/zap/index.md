@@ -1,6 +1,6 @@
 # Z@p
 
-Z@p is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 28 Nov 2026.
+Z@p is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 28 Nov 2026.
 
 Z@p is a techno and house artist based in Uruguay, with 142 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 45 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Les Enfants Brillants, Barcelona on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Z@p is a techno and house artist based in Uruguay, with 142 gigs on soundcheck a
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

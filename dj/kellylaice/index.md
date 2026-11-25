@@ -1,6 +1,6 @@
 # Kelly Laice
 
-Kelly Laice is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Sun, 29 Nov 2026.
+Kelly Laice is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Sun, 29 Nov 2026.
 
 Kelly Laice is a house and disco artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside Sonia Heis. Next up: Dr. Dou Social Club, Barcelona on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ Kelly Laice is a house and disco artist based in Spain, with 5 gigs on soundchec
 
 Sonia Heis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellylaice/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellylaice/)*

@@ -1,6 +1,6 @@
 # Matt Pace
 
-Matt Pace is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Laissez Faire, New York City on Fri, 27 Nov 2026.
+Matt Pace is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Laissez Faire, New York City on Fri, 27 Nov 2026.
 
 Matt Pace is a house and deep house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside TOR$O, Parker Mac and Beneath. Next up: Laissez Faire, New York City on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Matt Pace is a house and deep house artist based in United States of America, wi
 
 TOR$O, Parker Mac, Beneath
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattpace/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattpace/)*

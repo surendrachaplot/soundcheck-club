@@ -1,8 +1,8 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 23 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "FLY - Denis Sulta - Glasgow" on Thu, 26 Nov 2026.
+Sub Club is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "FLY - Denis Sulta - Glasgow" on Thu, 26 Nov 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 23 upcoming gigs, with line-ups including FLETCH, Alien Communications, Archie Hamilton and Ben Hemsley and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 27 upcoming gigs, with line-ups including FLETCH, Alien Communications, Archie Hamilton and Ben Hemsley and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 23 upcoming gigs, wit
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

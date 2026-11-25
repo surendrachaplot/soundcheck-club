@@ -1,6 +1,6 @@
 # Lance (2)
 
-Lance (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sun, 29 Nov 2026.
+Lance (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sun, 29 Nov 2026.
 
 Lance is a techno and electronica artist based in Greece, with 5 gigs on soundcheck across Athens, Hamburg, Melbourne and Mykonos. Often billed alongside Aii PS, Anton Jonathan and Esteban De Haro. Next up: TBA - Il Mercato Centrale, Melbourne on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ Lance is a techno and electronica artist based in Greece, with 5 gigs on soundch
 
 Aii PS, Anton Jonathan, Esteban De Haro
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lance-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lance-2/)*

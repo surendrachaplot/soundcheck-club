@@ -16,7 +16,7 @@ NYE Special-k (tickets in bio) at Spook Club on Thu 31 Dec, Valencia. 18 artists
 - Elena Megi
 - Felipe Valenzuela
 - Fran.cis
-- KATIA
+- KATIA (ES)
 - Ladrillovitz
 - Lazystep
 - Not A Headliner

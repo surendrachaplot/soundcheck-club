@@ -1,13 +1,14 @@
 # Hannecart
 
-Hannecart is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - 75013, Paris on Sat, 12 Dec 2026.
+Hannecart is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Doka, Amsterdam on Fri, 4 Dec 2026.
 
-Hannecart is a house and minimal artist based in Dominican Republic, with 105 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside Reiss, Alexia Glensy and Cap. Next up: TBA - 75013, Paris on Sat 12 Dec.
+Hannecart is a house and minimal artist based in Dominican Republic, with 106 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside Reiss, Alexia Glensy and Cap. Next up: Doka, Amsterdam on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Doka | Amsterdam |
 | Sat, 12 Dec 2026 | TBA - 75013 | Paris |
 | Fri, 18 Dec 2026 | BRET | Amsterdam |
 
@@ -26,4 +27,4 @@ Hannecart is a house and minimal artist based in Dominican Republic, with 105 gi
 
 Reiss, Alexia Glensy, Cap
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

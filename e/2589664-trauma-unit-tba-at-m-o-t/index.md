@@ -1,6 +1,6 @@
 # TRAUMA UNIT [TBA] at M.O.T
 
-TRAUMA UNIT [TBA] at M.O.T on Fri 15 Jan, London. See the line-up on soundcheck.
+TRAUMA UNIT [TBA] at M.O.T on Fri 15 Jan, London. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

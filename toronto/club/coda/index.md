@@ -1,8 +1,8 @@
 # Coda
 
-Coda is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Rafa Barrios" on Fri, 27 Nov 2026.
+Coda is a music venue in Toronto with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Rafa Barrios" on Fri, 27 Nov 2026.
 
-Coda is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Addy, Ana Luisa, Aydan XR and Behne and 2 more. See dates, start times and who's playing. 794 Bathurst St.
+Coda is a music venue in Toronto listed on soundcheck. 16 upcoming gigs, with line-ups including Addy, Ana Luisa, Aydan XR and Behne and 2 more. See dates, start times and who's playing. 794 Bathurst St.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Coda is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with li
 | Fri, 11 Dec 2026 | Marsolo | Marsolo |
 | Sat, 12 Dec 2026 | Jamback | Jamback |
 | Fri, 18 Dec 2026 | Twin Diplomacy |  |
+| Sat, 19 Dec 2026 | Domestic | Addy |
 | Sat, 26 Dec 2026 | ØTTA - Boxing Day Special | CRISTI:ANA, ØTTA |
 | Wed, 30 Dec 2026 | Odd Mob (Official Afterparty) |  |
-| Thu, 31 Dec 2026 | Victor Ruiz - New Year's Eve 2027 | Addy, Victor Ruiz |
 
 ## Address
 
 794 Bathurst St, Toronto
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

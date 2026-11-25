@@ -1,8 +1,8 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - CREST 72, Seoul on Fri, 11 Dec 2026.
+Mau P is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - CREST 72, Seoul on Fri, 11 Dec 2026.
 
-Mau P is a house and tech house artist based in Netherlands, with 175 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 49 more. Often billed alongside Joseph Capriati, Charlotte de Witte and Dennis Cruz. Next up: TBA - CREST 72, Seoul on Fri 11 Dec.
+Mau P is a house and tech house artist based in Netherlands, with 176 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 49 more. Often billed alongside Joseph Capriati, Charlotte de Witte and Dennis Cruz. Next up: TBA - CREST 72, Seoul on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mau P is a house and tech house artist based in Netherlands, with 175 gigs on so
 | Fri, 11 Dec 2026 | TBA - CREST 72 | Seoul |
 | Sat, 12 Dec 2026 | ZEROTOKYO | Tokyo |
 | Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
+| Sat, 23 Jan 2027 | Club M2 Miami | Miami |
 | Sat, 6 Feb 2027 | Cow Palace | San Francisco/Oakland |
 | Mon, 8 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
@@ -30,4 +31,4 @@ Mau P is a house and tech house artist based in Netherlands, with 175 gigs on so
 
 Joseph Capriati, Charlotte de Witte, Dennis Cruz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

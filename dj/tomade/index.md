@@ -1,6 +1,6 @@
 # TOMA (DE)
 
-TOMA (DE) is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+TOMA (DE) is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 TOMA (DE) is a post-punk and house artist based in Germany, with 4 gigs on soundcheck across London, Paris and Tbilisi. Often billed alongside Al Wootton, C.A.R. and Croatian Amor. Next up: The Cause, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ TOMA (DE) is a post-punk and house artist based in Germany, with 4 gigs on sound
 
 Al Wootton, C.A.R., Croatian Amor
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomade/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomade/)*

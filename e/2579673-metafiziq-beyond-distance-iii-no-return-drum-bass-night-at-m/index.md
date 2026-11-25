@@ -1,6 +1,6 @@
 # METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT at Mixtape 5
 
-METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT at Mixtape 5 on Fri 27 Nov, Sofia. 3 artists: D-MENTAL, KNTRKT and Ogonek. Drum & Bass and Electronica. See the line-up on soundcheck.
+METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT at Mixtape 5 on Fri 27 Nov, Sofia. 4 artists: Cat Budha, D-MENTAL, KNTRKT and Ogonek. Drum & Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT at Mixtape 5 on
 
 ## Line-up
 
+- Cat Budha
 - D-MENTAL
 - KNTRKT
 - Ogonek

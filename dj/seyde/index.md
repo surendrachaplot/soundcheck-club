@@ -1,6 +1,6 @@
 # Seyde
 
-Seyde is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Beate Uwe, Berlin on Thu, 31 Dec 2026.
+Seyde is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Beate Uwe, Berlin on Thu, 31 Dec 2026.
 
 Seyde is a downtempo and progressive house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside zhart (BeYond), Lagomo and Rakäthe. Next up: Beate Uwe, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Seyde is a downtempo and progressive house artist based in Germany, with 11 gigs
 
 zhart (BeYond), Lagomo, Rakäthe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seyde/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seyde/)*

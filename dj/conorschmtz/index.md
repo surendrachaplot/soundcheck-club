@@ -1,6 +1,6 @@
 # Conor Schmtz
 
-Conor Schmtz is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 4 Dec 2026.
+Conor Schmtz is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 4 Dec 2026.
 
 Conor Schmtz is a house and electronica artist based in Ireland, with 40 gigs on soundcheck across Belfast, Berlin, Dublin and London. Often billed alongside Marion Hawkes, ByPhil and Matcha. Next up: The Ulster Sports Club, Belfast on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Conor Schmtz is a house and electronica artist based in Ireland, with 40 gigs on
 
 Marion Hawkes, ByPhil, Matcha
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*

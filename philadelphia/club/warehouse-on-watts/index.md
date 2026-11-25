@@ -1,6 +1,6 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Club Congress x Repeat Behavior x Porkroll" on Sat, 28 Nov 2026.
+Warehouse on Watts is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Club Congress x Repeat Behavior x Porkroll" on Sat, 28 Nov 2026.
 
 Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including cubby.com, DJ Baby Berlin, DJ Matpat and DJ Minx and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
@@ -18,4 +18,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 5 upco
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

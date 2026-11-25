@@ -1,8 +1,8 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
+Flash Gea is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, with 35 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Houston and 8 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
+Flash Gea is a techno and trance artist based in United States of America, with 36 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Houston and 8 more. Often billed alongside Conrad Taylor, DomnRob and Firebunny. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 | Sat, 19 Dec 2026 | TBA - L.A. | Los Angeles |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 | Fri, 8 Jan 2027 | SILO | New-york-city |
+| Sat, 30 Jan 2027 | Elsewhere | New York City |
 | Fri, 19 Feb 2027 | Industry City | New-york-city |
 
 ## Recently played
@@ -28,6 +29,6 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 
 ## Shares bills with
 
-Conrad Taylor, DomnRob, Ueberrest
+Conrad Taylor, DomnRob, Firebunny
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

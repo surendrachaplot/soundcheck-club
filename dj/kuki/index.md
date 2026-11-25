@@ -1,6 +1,6 @@
 # Kuki
 
-Kuki is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Transformator, Wroclaw on Sat, 5 Dec 2026.
+Kuki is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Transformator, Wroclaw on Sat, 5 Dec 2026.
 
 Kuki is a techno and trance artist based in Poland, with 5 gigs on soundcheck across Paris and Wroclaw. Often billed alongside ADB (FR), ANDATA and Arman John. Next up: Transformator, Wroclaw on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Kuki is a techno and trance artist based in Poland, with 5 gigs on soundcheck ac
 
 ADB (FR), ANDATA, Arman John
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuki/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuki/)*

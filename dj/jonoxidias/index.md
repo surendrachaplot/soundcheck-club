@@ -1,6 +1,6 @@
 # Jono Xidias
 
-Jono Xidias is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Sydney on Sat, 5 Dec 2026.
+Jono Xidias is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Sydney on Sat, 5 Dec 2026.
 
 Jono Xidias is a techno and house artist based in Australia, with 36 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 5 more. Often billed alongside Bichue, Mehmet Alpdogan and Accent'. Next up: TBA, Sydney on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jono Xidias is a techno and house artist based in Australia, with 36 gigs on sou
 
 Bichue, Mehmet Alpdogan, Accent'
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoxidias/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoxidias/)*

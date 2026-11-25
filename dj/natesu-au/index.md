@@ -1,14 +1,14 @@
 # Nate S.U
 
-Nate S.U is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Signal, New York City on Sat, 5 Dec 2026.
+Nate S.U is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
 
-Nate S.U is a house and electro artist based in Australia, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Elijah Something, Monile and DJ Botermelk. Next up: Signal, New York City on Sat 5 Dec.
+Nate S.U is a house and electro artist based in Australia, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Elijah Something, Monile and DJ Botermelk. Next up: Seaseaclub Barcelona, Barcelona on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | Signal | New York City |
+| Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Nate S.U is a house and electro artist based in Australia, with 42 gigs on sound
 
 Elijah Something, Monile, DJ Botermelk
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*

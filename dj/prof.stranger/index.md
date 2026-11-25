@@ -1,13 +1,14 @@
 # Prof. Stranger
 
-Prof. Stranger is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Blå, Oslo on Sat, 19 Dec 2026.
+Prof. Stranger is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ormside Projects, London on Fri, 11 Dec 2026.
 
-Prof. Stranger is a house and breakbeat artist based in Sweden, with 20 gigs on soundcheck across Copenhagen, Gothenburg, Hamburg and London and 3 more. Often billed alongside Malika Mahmoud, Bella Boo and DJ Beverage. Next up: Blå, Oslo on Sat 19 Dec.
+Prof. Stranger is a house and breakbeat artist based in Sweden, with 21 gigs on soundcheck across Copenhagen, Gothenburg, Hamburg and London and 3 more. Often billed alongside Malika Mahmoud, Bella Boo and DJ Beverage. Next up: Ormside Projects, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Ormside Projects | London |
 | Sat, 19 Dec 2026 | Blå | Oslo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Prof. Stranger is a house and breakbeat artist based in Sweden, with 20 gigs on 
 
 Malika Mahmoud, Bella Boo, DJ Beverage
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prof.stranger/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prof.stranger/)*

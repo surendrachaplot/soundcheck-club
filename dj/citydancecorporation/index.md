@@ -1,6 +1,6 @@
 # City Dance Corporation
 
-City Dance Corporation is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Toronto on Sat, 12 Dec 2026.
+City Dance Corporation is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Toronto on Sat, 12 Dec 2026.
 
 City Dance Corporation is a techno and house artist based in Poland, with 34 gigs on soundcheck across Montreal and Toronto. Often billed alongside Venus in Foil, HADI and R-ODERICK. Next up: TBA, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ City Dance Corporation is a techno and house artist based in Poland, with 34 gig
 
 Venus in Foil, HADI, R-ODERICK
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/citydancecorporation/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/citydancecorporation/)*

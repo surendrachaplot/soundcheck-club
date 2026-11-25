@@ -1,6 +1,6 @@
 # Pamela Club
 
-Pamela Club is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "FREE TO DANCE" on Thu, 26 Nov 2026.
+Pamela Club is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "FREE TO DANCE" on Thu, 26 Nov 2026.
 
 Pamela Club is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Spielman, Aleqs Notal, Elsa Bernini and Jim Nights and 2 more. See dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
 
@@ -23,4 +23,4 @@ Pamela Club is a music venue in Paris listed on soundcheck. 10 upcoming gigs, wi
 
 62 Rue Mazarine, 75006 Paris, France, Paris
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*

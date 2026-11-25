@@ -1,8 +1,8 @@
 # Andre Zimmer
 
-Andre Zimmer is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Andre Zimmer is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Andre Zimmer is a house and techno artist based in Canada, with 71 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside AKWA, Jacob de Hooge and Carluschka. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Andre Zimmer is a house and techno artist based in Canada, with 72 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside AKWA, Jacob de Hooge and Carluschka. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Andre Zimmer is a house and techno artist based in Canada, with 71 gigs on sound
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 27 Nov 2026 | Chinese Laundry | Sydney |
+| Fri, 18 Dec 2026 | The Lass O'Gowrie Hotel | Sydney |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 | Sat, 26 Dec 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 | Thu, 31 Dec 2026 | The Cause | London |
@@ -30,4 +31,4 @@ Andre Zimmer is a house and techno artist based in Canada, with 71 gigs on sound
 
 AKWA, Jacob de Hooge, Carluschka
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*

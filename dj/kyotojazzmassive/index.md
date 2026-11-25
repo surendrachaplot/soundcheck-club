@@ -1,6 +1,6 @@
 # Kyoto Jazz Massive
 
-Kyoto Jazz Massive is a Jazz and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Peti Kupe, Zagreb on Wed, 25 Nov 2026.
+Kyoto Jazz Massive is a Jazz and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Peti Kupe, Zagreb on Wed, 25 Nov 2026.
 
 Kyoto Jazz Massive is a jazz and club artist based in Japan, with 58 gigs on soundcheck across Berlin, Kyoto, London and Osaka and 2 more. Often billed alongside Yoshihiro Okino, Masaki Tamura and Shuya Okino. Next up: Peti Kupe, Zagreb on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Kyoto Jazz Massive is a jazz and club artist based in Japan, with 58 gigs on sou
 
 Yoshihiro Okino, Masaki Tamura, Shuya Okino
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyotojazzmassive/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyotojazzmassive/)*

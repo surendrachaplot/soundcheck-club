@@ -1,14 +1,15 @@
 # Dale Mussington
 
-Dale Mussington is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Stage and Radio, Manchester on Fri, 18 Dec 2026.
+Dale Mussington is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stage and Radio, Manchester on Fri, 18 Dec 2026.
 
-Dale Mussington is a house and tech house artist, with 59 gigs on soundcheck across Amsterdam, Leeds, London and Malaga and 1 more. Often billed alongside Sam Bangura, Harry McCanna and NorthSouth. Next up: Stage and Radio, Manchester on Fri 18 Dec.
+Dale Mussington is a house and tech house artist, with 60 gigs on soundcheck across Amsterdam, Leeds, London and Malaga and 1 more. Often billed alongside Sam Bangura, Harry McCanna and NorthSouth. Next up: Stage and Radio, Manchester on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Stage and Radio | Manchester |
+| Fri, 1 Jan 2027 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dale Mussington is a house and tech house artist, with 59 gigs on soundcheck acr
 
 Sam Bangura, Harry McCanna, NorthSouth
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*

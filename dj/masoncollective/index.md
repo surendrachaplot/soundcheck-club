@@ -1,6 +1,6 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Mason Collective is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Mason Collective is a tech house and house artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 40 more. Often billed alongside Franky Rizardo, Jamie Jones and Marco Carola. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -28,4 +28,4 @@ Mason Collective is a tech house and house artist based in United Kingdom, with 
 
 Franky Rizardo, Jamie Jones, Marco Carola
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

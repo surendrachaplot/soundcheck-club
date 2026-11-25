@@ -1,6 +1,6 @@
 # Lewys Jones
 
-Lewys Jones is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
+Lewys Jones is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
 
 Lewys Jones is a tech house and house artist, with 7 gigs on soundcheck across London. Often billed alongside Mas Que Nada Brothers, BLILI and Custard Soup. Next up: Oslo Hackney, London on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Lewys Jones is a tech house and house artist, with 7 gigs on soundcheck across L
 
 Mas Que Nada Brothers, BLILI, Custard Soup
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewysjones/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewysjones/)*

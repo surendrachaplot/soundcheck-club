@@ -1,17 +1,18 @@
 # Apachi
 
-Apachi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bolero, Seoul on Thu, 12 Nov 2026.
+Apachi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Shelter, Seoul on Sat, 28 Nov 2026.
 
-Apachi is a techno and electro artist based in South Korea, with 128 gigs on soundcheck across Bangkok, Chengdu, Seoul and Shanghai. Often billed alongside Honn, KINGMCK and X2C. Next up: Bolero, Seoul on Thu 12 Nov.
+Apachi is a techno and electro artist based in South Korea, with 129 gigs on soundcheck across Bangkok, Chengdu, Seoul and Shanghai. Often billed alongside Honn, KINGMCK and X2C. Next up: Shelter, Seoul on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Bolero | Seoul |
+| Sat, 28 Nov 2026 | Shelter | Seoul |
 
 ## Recently played
 
+- Bolero, Seoul · Thu, 12 Nov 2026
 - Bolero, Seoul · Fri, 6 Nov 2026
 - Seoul Community Radio, Seoul · Sat, 31 Oct 2026
 - Shelter, Seoul · Sat, 10 Oct 2026
@@ -19,10 +20,9 @@ Apachi is a techno and electro artist based in South Korea, with 128 gigs on sou
 - Shelter, Seoul · Sat, 26 Sept 2026
 - Shelter, Seoul · Sat, 15 Aug 2026
 - Lion Super Club, Seoul · Sat, 8 Aug 2026
-- Shelter, Seoul · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Honn, KINGMCK, X2C (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apachi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apachi/)*

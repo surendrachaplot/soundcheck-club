@@ -1,10 +1,10 @@
 # RANI's ROOM LA at TBA - Mid-City LA
 
-RANI's ROOM LA at TBA - Mid-City LA on Wed 16 Dec, Los Angeles. 3 artists: BHAOUNCEOUT, SARITA LINDA and SRI. Club and Latin Bass. See the line-up on soundcheck.
+RANI's ROOM LA at TBA - Mid-City LA on Thu 17 Dec, Los Angeles. 3 artists: BHAOUNCEOUT, SARITA LINDA and SRI. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 16 Dec 2026 |
+| Date | Thu, 17 Dec 2026 |
 | Venue | TBA - Mid-City LA |
 | City | Los Angeles |
 

@@ -1,6 +1,6 @@
 # Arkins
 
-Arkins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lion Super Club, Seoul on Thu, 26 Nov 2026.
+Arkins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lion Super Club, Seoul on Thu, 26 Nov 2026.
 
 Arkins is a techno and house artist based in South Korea, with 4 gigs on soundcheck across Barcelona, London and Seoul. Often billed alongside 2SPADE, BENXTAN and HangryRacoon. Next up: Lion Super Club, Seoul on Thu 26 Nov.
 
@@ -20,4 +20,4 @@ Arkins is a techno and house artist based in South Korea, with 4 gigs on soundch
 
 2SPADE, BENXTAN, HangryRacoon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkins/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkins/)*

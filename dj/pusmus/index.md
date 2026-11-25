@@ -1,6 +1,6 @@
 # PUSMUS
 
-PUSMUS is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
+PUSMUS is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
 
 PUSMUS is a techno and acid artist based in Croatia, with 45 gigs on soundcheck across Barcelona, Berlin, Budapest and Krakow and 2 more. Often billed alongside Radios, Teychee and Rikros. Next up: Chausseestrasse 131, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ PUSMUS is a techno and acid artist based in Croatia, with 45 gigs on soundcheck 
 
 Radios, Teychee, Rikros
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*

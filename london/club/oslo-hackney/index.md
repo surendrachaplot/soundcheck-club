@@ -1,6 +1,6 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Oslo Social Club" on Thu, 26 Nov 2026.
+Oslo Hackney is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Oslo Social Club" on Thu, 26 Nov 2026.
 
 Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Albi., CHARLIE POWELL, Custard Soup and Fredd Mann and 2 more. See dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
@@ -19,4 +19,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming gigs, w
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

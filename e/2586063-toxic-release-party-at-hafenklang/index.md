@@ -1,6 +1,6 @@
 # TOXIC: RELEASE PARTY at Hafenklang
 
-TOXIC: RELEASE PARTY at Hafenklang on Fri 11 Dec, Hamburg. 3 artists: carlo kalu, Frank Rayo and NATTA (DE). Techno. See the line-up on soundcheck.
+TOXIC: RELEASE PARTY at Hafenklang on Fri 11 Dec, Hamburg. 4 artists: Ben Parker 030, carlo kalu, Frank Rayo and NATTA (DE). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TOXIC: RELEASE PARTY at Hafenklang on Fri 11 Dec, Hamburg. 3 artists: carlo kalu
 
 ## Line-up
 
+- Ben Parker 030
 - carlo kalu
 - Frank Rayo
 - NATTA (DE)

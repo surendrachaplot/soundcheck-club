@@ -1,6 +1,6 @@
 # Sciahri
 
-Sciahri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
+Sciahri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
 
 Sciahri is a techno and house artist based in Italy, with 70 gigs on soundcheck across Athens, Barcelona, Beijing and Berlin and 16 more. Often billed alongside Dekeyden, Hertz Collision and D-Leria. Next up: ÆDEN, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sciahri is a techno and house artist based in Italy, with 70 gigs on soundcheck 
 
 Dekeyden, Hertz Collision, D-Leria
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*

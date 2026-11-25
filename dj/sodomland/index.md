@@ -1,6 +1,6 @@
 # Sodomland
 
-Sodomland is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lark, Berlin on Thu, 3 Dec 2026.
+Sodomland is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lark, Berlin on Thu, 3 Dec 2026.
 
 Sodomland is an electro and experimental artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London and 4 more. Often billed alongside Global, Europa and Blood of Aza. Next up: Lark, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Sodomland is an electro and experimental artist based in Germany, with 27 gigs o
 
 Global, Europa (1), Blood of Aza
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sodomland/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sodomland/)*

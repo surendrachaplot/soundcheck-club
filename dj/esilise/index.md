@@ -1,14 +1,15 @@
 # Esilise
 
-Esilise is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Switch, South-east on Sat, 28 Nov 2026.
+Esilise is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Switch, South-east on Sat, 28 Nov 2026.
 
-Esilise is a techno and industrial artist based in France, with 52 gigs on soundcheck across Barcelona, Basel, Berlin and Budapest and 12 more. Often billed alongside Krypton, NICE KEED and DYEN. Next up: Switch, South East on Sat 28 Nov.
+Esilise is a techno and industrial artist based in France, with 53 gigs on soundcheck across Barcelona, Basel, Berlin and Budapest and 12 more. Often billed alongside Krypton, NICE KEED and DYEN. Next up: Switch, South East on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Switch | South-east |
+| Wed, 3 Feb 2027 | Rex Club | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Esilise is a techno and industrial artist based in France, with 52 gigs on sound
 
 Krypton, NICE KEED, DYEN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*

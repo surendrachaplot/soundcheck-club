@@ -1,6 +1,6 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+SPFDJ is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 SPFDJ is a techno and house artist based in Sweden, with 273 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ SPFDJ is a techno and house artist based in Sweden, with 273 gigs on soundcheck 
 
 Anetha, DAX J, KI/KI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

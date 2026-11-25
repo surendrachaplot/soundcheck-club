@@ -1,6 +1,6 @@
 # Patsy
 
-Patsy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
+Patsy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
 
 Patsy is a techno and house artist, with 20 gigs on soundcheck across New York City. Often billed alongside Lou Isn't, DJ Lita and PlayPlay. Next up: Paragon, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Patsy is a techno and house artist, with 20 gigs on soundcheck across New York C
 
 Lou Isn't, DJ Lita, PlayPlay
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patsy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patsy/)*

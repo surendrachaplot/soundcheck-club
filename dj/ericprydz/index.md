@@ -1,13 +1,14 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Radius, Chicago on Sat, 5 Dec 2026.
+Eric Prydz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Big Night Live, Boston on Fri, 4 Dec 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, with 118 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Radius, Chicago on Sat 5 Dec.
+Eric Prydz is a techno and house artist based in Sweden, with 119 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 41 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Big Night Live, Boston on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Big Night Live | Boston |
 | Sat, 5 Dec 2026 | Radius | Chicago |
 | Fri, 11 Dec 2026 | Eventpyramide Vösendorf | Austria |
 | Sat, 19 Dec 2026 | Warehouse ZRH | Switzerland |
@@ -27,4 +28,4 @@ Eric Prydz is a techno and house artist based in Sweden, with 118 gigs on soundc
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

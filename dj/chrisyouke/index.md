@@ -1,6 +1,6 @@
 # Chris Youké
 
-Chris Youké is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Fabriek, Brussels on Thu, 31 Dec 2026.
+Chris Youké is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Fabriek, Brussels on Thu, 31 Dec 2026.
 
 Chris Youké is a techno and trance artist based in Belgium, with 17 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Hysope, L'enfant Nocturne and Susano. Next up: La Fabriek, Brussels on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Chris Youké is a techno and trance artist based in Belgium, with 17 gigs on sou
 
 Hysope, L'enfant Nocturne, Susano
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisyouke/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisyouke/)*

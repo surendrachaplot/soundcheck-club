@@ -1,6 +1,6 @@
 # Ivresse au Frac
 
-Ivresse au Frac is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "restroom 001" on Fri, 27 Nov 2026.
+Ivresse au Frac is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "restroom 001" on Fri, 27 Nov 2026.
 
 Ivresse au Frac is a music venue in Marseille listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ivresse au Frac is a music venue in Marseille listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | restroom 001 |  |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/ivresse-au-frac/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/ivresse-au-frac/)*

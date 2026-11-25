@@ -1,6 +1,6 @@
 # Audio
 
-Audio is a Drum & Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
+Audio is a Drum & Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
 
 Audio is a drum & bass and experimental artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bogotá and 22 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: Parque de las Ciencias, Puerto Rico on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Audio is a drum & bass and experimental artist based in United Kingdom, with 42 
 
 Ed Rush, Optical, Pythius
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*

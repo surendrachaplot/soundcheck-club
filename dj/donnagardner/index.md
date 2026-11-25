@@ -1,13 +1,14 @@
 # Donna Gardner
 
-Donna Gardner is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paris Bar, Detroit on Fri, 11 Dec 2026.
+Donna Gardner is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Sat, 28 Nov 2026.
 
-Donna Gardner is a house and funk / soul artist based in United States of America, with 99 gigs on soundcheck across Detroit. Often billed alongside DJ Moppy, Isaac Prieto and Jesse Cory. Next up: Paris Bar, Detroit on Fri 11 Dec.
+Donna Gardner is a house and funk / soul artist based in United States of America, with 100 gigs on soundcheck across Detroit. Often billed alongside DJ Moppy, Isaac Prieto and Jesse Cory. Next up: Traverse City Whiskey Co. Outpost, Detroit on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Traverse City Whiskey Co. Outpost | Detroit |
 | Fri, 11 Dec 2026 | Paris Bar | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Donna Gardner is a house and funk / soul artist based in United States of Americ
 
 DJ Moppy, Isaac Prieto, Jesse Cory
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagardner/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagardner/)*

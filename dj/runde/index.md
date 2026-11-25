@@ -1,14 +1,15 @@
 # Runde
 
-Runde is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Halle W, Geneva on Sat, 28 Nov 2026.
+Runde is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Halle W, Geneva on Sat, 28 Nov 2026.
 
-Runde is a techno and dub techno artist based in Switzerland, with 6 gigs on soundcheck across Geneva and Lausanne. Often billed alongside SERRATI, Blenk and Gioski. Next up: Halle W, Geneva on Sat 28 Nov.
+Runde is a techno and dub techno artist based in Switzerland, with 7 gigs on soundcheck across Geneva and Lausanne. Often billed alongside SERRATI, Blenk and FENIM0RE. Next up: Halle W, Geneva on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Halle W | Geneva |
+| Sat, 19 Dec 2026 | Motel Campo | Geneva |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Runde is a techno and dub techno artist based in Switzerland, with 6 gigs on sou
 
 ## Shares bills with
 
-SERRATI, Blenk, Gioski
+SERRATI, Blenk, FENIM0RE
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runde/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runde/)*

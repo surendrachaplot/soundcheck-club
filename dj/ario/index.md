@@ -1,14 +1,16 @@
 # Ario
 
-Ario is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Om Being, London on Sat, 28 Nov 2026.
+Ario is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Om Being, London on Sat, 28 Nov 2026.
 
-Ario is a techno and ambient artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 17 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Om Being, London on Sat 28 Nov.
+Ario is a techno and ambient artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 18 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Om Being, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Om Being | London |
+| Sat, 5 Dec 2026 | vurt. | Seoul |
+| Sun, 6 Dec 2026 | vurt. | Seoul |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Ario is a techno and ambient artist based in United Kingdom, with 90 gigs on sou
 
 F-on, Yoshitaka Shirakura, Endurance
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*

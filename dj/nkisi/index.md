@@ -1,8 +1,8 @@
 # Nkisi
 
-Nkisi is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kanal Centre Pompidou, Brussels on Sat, 28 Nov 2026.
+Nkisi is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kanal Centre Pompidou, Brussels on Sat, 28 Nov 2026.
 
-Nkisi is an experimental and techno artist based in Democratic Republic of the Congo, with 101 gigs on soundcheck across Amsterdam, Bergen, Berlin and Birmingham and 24 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: Kanal Centre Pompidou, Brussels on Sat 28 Nov.
+Nkisi is an experimental and techno artist based in Democratic Republic of the Congo, with 102 gigs on soundcheck across Amsterdam, Bergen, Berlin and Birmingham and 24 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: Kanal Centre Pompidou, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nkisi is an experimental and techno artist based in Democratic Republic of the C
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Kanal Centre Pompidou | Brussels |
 | Fri, 4 Dec 2026 | The White Hotel | Manchester |
+| Sat, 5 Dec 2026 | 90mil | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Nkisi is an experimental and techno artist based in Democratic Republic of the C
 
 Rainy Miller, Jon K, 2K88
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*

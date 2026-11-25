@@ -1,6 +1,6 @@
 # Chedda Bred
 
-Chedda Bred is a Jazz and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Chedda Bred is a Jazz and Grime artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 Chedda Bred is a jazz and grime artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Chedda Bred is a jazz and grime artist based in United Kingdom, with 25 gigs on 
 
 Chedda B, Neue Grafik, limi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

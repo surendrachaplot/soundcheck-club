@@ -1,6 +1,6 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Jane Fitz is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Jane Fitz is a techno and house artist based in United Kingdom, with 202 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Francesco Del Garda, Marco Shuttle and Carl H. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -36,4 +36,4 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 202 gigs on
 
 Francesco Del Garda, Marco Shuttle, Carl H
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

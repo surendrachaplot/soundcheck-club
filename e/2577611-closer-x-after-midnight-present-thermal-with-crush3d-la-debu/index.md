@@ -1,11 +1,11 @@
-# CLOSER x After Midnight present THERMAL with CRUSH3d (LA Debut) at TBA - DTLA
+# CLOSER x After Midnight present THERMAL with CRUSH3d (LA Debut) at Closer Private Warehouse
 
-CLOSER x After Midnight present THERMAL with CRUSH3d (LA Debut) at TBA - DTLA on Fri 27 Nov, Los Angeles. 3 artists: CRUSH3d, Desa Deca and nat the f*kn rat. Techno. See the line-up on soundcheck.
+CLOSER x After Midnight present THERMAL with CRUSH3d (LA Debut) at Closer Private Warehouse on Fri 27 Nov, Los Angeles. 3 artists: CRUSH3d, Desa Deca and nat the f*kn rat. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 27 Nov 2026 |
-| Venue | TBA - DTLA |
+| Venue | Closer Private Warehouse |
 | City | Los Angeles |
 
 ## Line-up

@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Muze, Nairobi on Fri, 11 Dec 2026.
+Fatboy Slim is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Muze, Nairobi on Fri, 11 Dec 2026.
 
 Fatboy Slim is a house and tech house artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Athens, Austin and Austria and 54 more. Often billed alongside Jayda G, Sarah Story and DJ Holographic. Next up: Muze, Nairobi on Fri 11 Dec.
 
@@ -36,4 +36,4 @@ Fatboy Slim is a house and tech house artist based in United Kingdom, with 118 g
 
 Jayda G, Sarah Story, DJ Holographic
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

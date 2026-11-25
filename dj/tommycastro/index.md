@@ -1,6 +1,6 @@
 # Tommy Castro
 
-Tommy Castro is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Good Room, New York City on Sat, 26 Dec 2026.
+Tommy Castro is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Sat, 26 Dec 2026.
 
 Tommy Castro is a disco and house artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside Planet B, William Robbins and Yurk. Next up: Good Room, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Tommy Castro is a disco and house artist based in United States of America, with
 
 Planet B, William Robbins, Yurk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycastro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycastro/)*

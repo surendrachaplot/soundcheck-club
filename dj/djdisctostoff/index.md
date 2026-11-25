@@ -1,8 +1,8 @@
 # DJ Discostoff
 
-DJ Discostoff is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Club Cello, Basel on Fri, 27 Nov 2026.
+DJ Discostoff is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Cello, Basel on Fri, 27 Nov 2026.
 
-DJ Discostoff is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Basel, Berlin, Cologne and Dortmund / Essen and 1 more. Often billed alongside DJ Tallboy, Rosilicious and Pamela Rave. Next up: Club Cello, Basel on Fri 27 Nov.
+DJ Discostoff is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Basel, Berlin, Cologne and Dortmund / Essen and 1 more. Often billed alongside DJ Tallboy, Rosilicious and Pamela Rave. Next up: Club Cello, Basel on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Discostoff is a techno and trance artist based in Germany, with 44 gigs on so
 | Fri, 4 Dec 2026 | OXI | Berlin |
 | Sat, 5 Dec 2026 | Schrotty | Cologne |
 | Sat, 19 Dec 2026 | Helios37 | Cologne |
+| Thu, 31 Dec 2026 | Schrotty | Cologne |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ DJ Discostoff is a techno and trance artist based in Germany, with 44 gigs on so
 
 DJ Tallboy, Rosilicious, Pamela Rave
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisctostoff/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisctostoff/)*

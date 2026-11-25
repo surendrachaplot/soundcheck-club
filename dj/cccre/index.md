@@ -1,15 +1,18 @@
 # cccre
 
-cccre is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
+cccre is a Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Company Club, Milan on Sat, 28 Nov 2026.
 
-cccre is an electronic artist based in Italy, with 21 gigs on soundcheck across Milan. Often billed alongside Marthial, Kora Lyssa and Iacopo Carli. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
+cccre is a techno artist based in Italy, with 24 gigs on soundcheck across Milan. Often billed alongside Marthial, Kora Lyssa and Elisa Bee. Next up: Company Club, Milan on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Company Club | Milan |
 | Sat, 12 Dec 2026 | Tempio del Futuro Perduto | Milan |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 1 Jan 2027 | Tempio del Futuro Perduto | Milan |
+| Sat, 16 Jan 2027 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ cccre is an electronic artist based in Italy, with 21 gigs on soundcheck across 
 
 ## Shares bills with
 
-Marthial, Kora Lyssa, Iacopo Carli
+Marthial, Kora Lyssa, Elisa Bee
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cccre/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cccre/)*

@@ -1,6 +1,6 @@
 # Caratastrophe
 
-Caratastrophe is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
+Caratastrophe is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
 
 Caratastrophe is a club and ghetto tech artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Jhariah, ILUVDOMRICH and Jake Korolev. Next up: Hart Bar, New York City on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Caratastrophe is a club and ghetto tech artist based in United States of America
 
 Jhariah, ILUVDOMRICH, Jake Korolev
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*

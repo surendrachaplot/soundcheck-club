@@ -1,6 +1,6 @@
 # YUVIE
 
-YUVIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 19 Dec 2026.
+YUVIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 19 Dec 2026.
 
 YUVIE is a techno and house artist based in Japan, with 188 gigs on soundcheck across Okinawa, Osaka, Seoul and Taipei and 1 more. Often billed alongside r1ku, kengotaki and SAMO (JP). Next up: Circus Tokyo, Tokyo on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ YUVIE is a techno and house artist based in Japan, with 188 gigs on soundcheck a
 
 r1ku, kengotaki, SAMO (JP)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*

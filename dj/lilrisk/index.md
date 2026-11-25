@@ -1,8 +1,8 @@
 # LIL RISK
 
-LIL RISK is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at OHM, Berlin on Sun, 29 Nov 2026.
+LIL RISK is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OHM, Berlin on Sun, 29 Nov 2026.
 
-LIL RISK is a club and techno artist based in United States of America, with 31 gigs on soundcheck across Berlin, Hong Kong, Leipzig and Los Angeles and 1 more. Often billed alongside Amowia, Kikelomo and Bungalovv. Next up: OHM, Berlin on Sun 29 Nov.
+LIL RISK is a club and techno artist based in United States of America, with 31 gigs on soundcheck across Berlin, Hong Kong, Leipzig and Los Angeles and 1 more. Often billed alongside Amowia, Hyperaktivist and Kikelomo. Next up: OHM, Berlin on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ LIL RISK is a club and techno artist based in United States of America, with 31 
 
 ## Shares bills with
 
-Amowia, Kikelomo, Bungalovv
+Amowia, Hyperaktivist, Kikelomo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*

@@ -1,6 +1,6 @@
 # Ido Plumes
 
-Ido Plumes is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at M.O.T, London on Sat, 16 Jan 2027.
+Ido Plumes is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at M.O.T, London on Sat, 16 Jan 2027.
 
 Ido Plumes is a club and techno artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, London and Sheffield. Often billed alongside Chez de Milo, Lukas Wigflex and Willow. Next up: M.O.T, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Ido Plumes is a club and techno artist based in United Kingdom, with 34 gigs on 
 
 Chez de Milo, Lukas Wigflex, Willow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idoplumes/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idoplumes/)*

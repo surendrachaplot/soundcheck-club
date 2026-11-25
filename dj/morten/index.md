@@ -1,6 +1,6 @@
 # Morten
 
-Morten is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at World Kyoto, Kyoto on Sat, 12 Dec 2026.
+Morten is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at World Kyoto, Kyoto on Sat, 12 Dec 2026.
 
 Morten is a house and electronica artist based in Denmark, with 36 gigs on soundcheck across Athens, Barcelona, Bratislava and Budapest and 17 more. Often billed alongside David Guetta, Adam Ten and Artbat. Next up: World Kyoto, Kyoto on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Morten is a house and electronica artist based in Denmark, with 36 gigs on sound
 
 David Guetta, Adam Ten, Artbat
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*

@@ -1,6 +1,6 @@
 # MELTA
 
-MELTA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
+MELTA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
 
 MELTA is a drum & bass and jungle artist based in Australia, with 39 gigs on soundcheck across Melbourne. Often billed alongside Stackpackers, SK4NK and safire. Next up: Revolver Upstairs, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MELTA is a drum & bass and jungle artist based in Australia, with 39 gigs on sou
 
 Stackpackers, SK4NK, safire
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melta/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melta/)*

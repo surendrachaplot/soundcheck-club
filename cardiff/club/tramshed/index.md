@@ -1,13 +1,14 @@
 # Tramshed
 
-Tramshed is a music venue in Cardiff with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Kings Of The Rollers: The Holy Grail UK Tour - Cardiff" on Sat, 14 Nov 2026.
+Tramshed is a music venue in Cardiff with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "CYNT presents Dr Banana & Madvilla" on Sat, 5 Dec 2026.
 
-Tramshed is a music venue in Cardiff listed on soundcheck. 1 upcoming gig, with line-ups including Kings of the Rollers. See dates, start times and who's playing.
+Tramshed is a music venue in Cardiff listed on soundcheck. 2 upcoming gigs, with line-ups including Dr Banana, Fattony and MADVILLA. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Kings Of The Rollers: The Holy Grail UK Tour - Cardiff | Kings of the Rollers |
+| Sat, 5 Dec 2026 | CYNT presents Dr Banana & Madvilla | Dr Banana, MADVILLA |
+| Sat, 19 Dec 2026 | FAT TONY / Tramshed, Cardiff | Fattony |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/tramshed/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/tramshed/)*

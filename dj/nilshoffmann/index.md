@@ -1,6 +1,6 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at MS Stubnitz, Hamburg on Sat, 13 Mar 2027.
+Nils Hoffmann is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at MS Stubnitz, Hamburg on Sat, 13 Mar 2027.
 
 Nils Hoffmann is a deep house and progressive house artist based in Germany, with 97 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 41 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: MS Stubnitz, Hamburg on Sat 13 Mar.
 
@@ -25,4 +25,4 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, wit
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

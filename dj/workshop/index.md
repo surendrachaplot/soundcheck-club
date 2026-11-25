@@ -1,6 +1,6 @@
 # Workshop
 
-Workshop is a Rio Funk and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Workshop is a Rio Funk and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Workshop is a rio funk and baile funk artist based in Germany, with 4 gigs on soundcheck across Berlin, London and Tokyo. Often billed alongside Acidclank, Alpha Decay and Espinoza. Next up: The Cause, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Workshop is a rio funk and baile funk artist based in Germany, with 4 gigs on so
 
 Acidclank, Alpha Decay, Espinoza
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/workshop/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/workshop/)*

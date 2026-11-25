@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "INEDIT BY UNDERPULSE" on Thu, 26 Nov 2026.
+Salon Daomé is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "INEDIT BY UNDERPULSE" on Thu, 26 Nov 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including Don Barbarino, DUZA, Inside Blur and Joe Claussell and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -19,4 +19,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 6 upcoming gigs,
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

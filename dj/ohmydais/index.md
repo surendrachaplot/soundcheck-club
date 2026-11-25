@@ -1,13 +1,14 @@
 # ohmydais
 
-ohmydais is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ballroom at Palais, London on Fri, 11 Dec 2026.
+ohmydais is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Palais, London on Fri, 11 Dec 2026.
 
-ohmydais is a techno and house artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Bristol, Leeds and London and 3 more. Often billed alongside fae (UK), Ell Murphy and Highrise. Next up: Ballroom at Palais, London on Fri 11 Dec.
+ohmydais is a techno and house artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Bristol, Leeds and London and 3 more. Often billed alongside fae (UK), Ell Murphy and Highrise. Next up: Palais, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Palais | London |
 | Fri, 11 Dec 2026 | Ballroom at Palais | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ ohmydais is a techno and house artist based in United Kingdom, with 47 gigs on s
 
 fae (UK), Ell Murphy, Highrise
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmydais/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmydais/)*

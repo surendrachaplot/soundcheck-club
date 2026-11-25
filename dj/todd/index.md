@@ -1,6 +1,6 @@
 # TODD
 
-TODD is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
+TODD is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Outhouse, Edinburgh on Sat, 5 Dec 2026.
 
 TODD is a deep house and house artist based in United Kingdom, with 6 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside DifrentMorals, Hobbes and Sammy Peeps. Next up: The Outhouse, Edinburgh on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ TODD is a deep house and house artist based in United Kingdom, with 6 gigs on so
 
 DifrentMorals, Hobbes, Sammy Peeps
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/todd/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/todd/)*

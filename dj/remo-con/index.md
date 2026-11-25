@@ -1,6 +1,6 @@
 # Remo-con
 
-Remo-con is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at CÉ LA VI Tokyo, Tokyo on Fri, 27 Nov 2026.
+Remo-con is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at CÉ LA VI Tokyo, Tokyo on Fri, 27 Nov 2026.
 
 Remo-con is a techno and house artist based in Japan, with 55 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside YOSHIMASA, BEPPU and Takami. Next up: CÉ LA VI Tokyo, Tokyo on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Remo-con is a techno and house artist based in Japan, with 55 gigs on soundcheck
 
 YOSHIMASA, BEPPU, Takami
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*

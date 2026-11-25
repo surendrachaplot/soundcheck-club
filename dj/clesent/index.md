@@ -1,14 +1,15 @@
 # CLESENT
 
-CLESENT is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Z Maruyama, Tokyo on Wed, 2 Dec 2026.
+CLESENT is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Z Maruyama, Tokyo on Wed, 2 Dec 2026.
 
-CLESENT is a tech house and house artist based in Japan, with 111 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Daitto, BNN WKND and IRODORI. Next up: Z Maruyama, Tokyo on Wed 2 Dec.
+CLESENT is a tech house and house artist based in Japan, with 112 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Daitto, BNN WKND and IRODORI. Next up: Z Maruyama, Tokyo on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Z Maruyama | Tokyo |
+| Fri, 18 Dec 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CLESENT is a tech house and house artist based in Japan, with 111 gigs on soundc
 
 Daitto, BNN WKND, IRODORI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clesent/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clesent/)*

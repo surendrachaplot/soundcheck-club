@@ -1,6 +1,6 @@
 # Cottam (2)
 
-Cottam (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Distrikt, Leeds on Fri, 4 Dec 2026.
+Cottam (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Distrikt, Leeds on Fri, 4 Dec 2026.
 
 Cottam is a garage and house artist based in United Kingdom, with 16 gigs on soundcheck across Budapest, Dublin, Leeds and London and 5 more. Often billed alongside Saint Ludo, TABZ and Chappy. Next up: Distrikt, Leeds on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Cottam is a garage and house artist based in United Kingdom, with 16 gigs on sou
 
 Saint Ludo, TABZ, Chappy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cottam-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cottam-2/)*

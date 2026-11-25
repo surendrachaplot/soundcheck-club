@@ -1,6 +1,6 @@
 # Max Underson
 
-Max Underson is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Brazil on Sat, 28 Nov 2026.
+Max Underson is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Brazil on Sat, 28 Nov 2026.
 
 Max Underson is an electronica and techno artist, with 5 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside Anders (BR), Dannie and ASKE. Next up: TBA, Brazil on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Max Underson is an electronica and techno artist, with 5 gigs on soundcheck acro
 
 Anders (BR), Dannie, ASKE
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxunderson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxunderson/)*

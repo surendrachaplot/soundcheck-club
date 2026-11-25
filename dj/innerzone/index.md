@@ -1,6 +1,6 @@
 # Inner Zone
 
-Inner Zone is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Sat, 12 Dec 2026.
+Inner Zone is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FOLD, London on Sat, 12 Dec 2026.
 
 Inner Zone is a techno and tech house artist based in United Kingdom, with 49 gigs on soundcheck across Berlin, Bristol, Edinburgh and Helsinki and 7 more. Often billed alongside DJ TEETH, Alien Communications and Lora Mipsum. Next up: FOLD, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Inner Zone is a techno and tech house artist based in United Kingdom, with 49 gi
 
 DJ TEETH, Alien Communications, Lora Mipsum
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innerzone/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innerzone/)*

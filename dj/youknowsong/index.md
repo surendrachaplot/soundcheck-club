@@ -1,6 +1,6 @@
 # Youknowsong
 
-Youknowsong is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Youknowsong is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Youknowsong is a house and disco artist based in South Korea, with 118 gigs on soundcheck across Bangkok, Hong Kong, Manila and Osaka and 4 more. Often billed alongside Cozyhoon, Shinyoung and JAEHAN. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Youknowsong is a house and disco artist based in South Korea, with 118 gigs on s
 
 Cozyhoon, Shinyoung, JAEHAN (2)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youknowsong/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youknowsong/)*

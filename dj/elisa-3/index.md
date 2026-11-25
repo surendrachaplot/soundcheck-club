@@ -1,6 +1,6 @@
 # elisa (3)
 
-elisa (3) is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Vittoria Wharf Studio, London on Mon, 14 Dec 2026.
+elisa (3) is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Vittoria Wharf Studio, London on Mon, 14 Dec 2026.
 
 elisa is an ambient and electronica artist based in Italy, with 8 gigs on soundcheck across Florence and London. Often billed alongside Drum & Lace, AM sin and AMBRR. Next up: Vittoria Wharf Studio, London on Mon 14 Dec.
 
@@ -24,4 +24,4 @@ elisa is an ambient and electronica artist based in Italy, with 8 gigs on soundc
 
 Drum & Lace, AM sin, AMBRR
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisa-3/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisa-3/)*

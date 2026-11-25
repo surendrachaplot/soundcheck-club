@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Chicago Footwork DJ/Dance Session" on Wed, 25 Nov 2026.
+Stereo is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Chicago Footwork DJ/Dance Session" on Wed, 25 Nov 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Boner, Acido Cielo, Coki and COURTEZ and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Boner, Acido Cielo, Bellarosa and Coki and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Stereo is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with 
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Chicago Footwork DJ/Dance Session |  |
 | Thu, 26 Nov 2026 | Disc Salon with Rebecca Goldberg (Detroit Underground) | Acid Boner, Rebecca Goldberg |
-| Fri, 27 Nov 2026 | I'm Probably Perfect x Stereo: Hannah Diamond & SONIKKU | DJ Sonikku, Danyo, Hannah Diamond, Nuclear Boyfriend, Pure Girl |
+| Fri, 27 Nov 2026 | I'm Probably Perfect x Stereo: Hannah Diamond & SONIKKU | Bellarosa, DJ Sonikku, Danyo, Hannah Diamond, Lily, Nuclear Boyfriend, Pure Girl, eurokels |
 | Sat, 28 Nov 2026 | Bodies In Motion 013: Harri Pepper | Harri Pepper, Joey Name, Rufus (2) |
 | Sat, 28 Nov 2026 | Desire and Johnny Jewel | Johnny Jewel |
 | Thu, 3 Dec 2026 | Calais Appeal Fundraiser Glasgow | LADY INCARNATE |
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

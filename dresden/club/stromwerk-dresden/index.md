@@ -1,6 +1,6 @@
 # Stromwerk Dresden
 
-Stromwerk Dresden is a music venue in Dresden with 15 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Poltergst x Karla Blum" on Fri, 27 Nov 2026.
+Stromwerk Dresden is a music venue in Dresden with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Poltergst x Karla Blum" on Fri, 27 Nov 2026.
 
 Stromwerk Dresden is a music venue in Dresden listed on soundcheck. 15 upcoming gigs, with line-ups including Alfred Heinrichs, André Galluzzi, Anna Reusch and ATB and 2 more. See dates, start times and who's playing. Kraftwerk Mitte 28, 01067 Dresden.
 
@@ -23,4 +23,4 @@ Stromwerk Dresden is a music venue in Dresden listed on soundcheck. 15 upcoming 
 
 Kraftwerk Mitte 28, 01067 Dresden, Dresden
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/stromwerk-dresden/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/stromwerk-dresden/)*

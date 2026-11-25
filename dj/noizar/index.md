@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Signal, New-york-city on Fri, 4 Dec 2026.
+Noizar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Signal, New-york-city on Fri, 4 Dec 2026.
 
 Noizar is a techno and house artist based in Ukraine, with 135 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Shakolin, Karine and Marie K. Next up: Signal, New York City on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Noizar is a techno and house artist based in Ukraine, with 135 gigs on soundchec
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

@@ -1,6 +1,6 @@
 # Edgerunner
 
-Edgerunner is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Provitreff, Zurich on Sat, 19 Dec 2026.
+Edgerunner is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Provitreff, Zurich on Sat, 19 Dec 2026.
 
 Edgerunner is a gabber and hardcore artist based in Germany, with 9 gigs on soundcheck across Berlin, Frankfurt, Nürnberg and Stuttgart and 1 more. Often billed alongside Medusa, cyaabottom and LØUS. Next up: Provitreff, Zurich on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Edgerunner is a gabber and hardcore artist based in Germany, with 9 gigs on soun
 
 Medusa, cyaabottom, LØUS
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgerunner/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgerunner/)*

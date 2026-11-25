@@ -1,6 +1,6 @@
 # Masha Wordpress
 
-Masha Wordpress is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 8 Jan 2027.
+Masha Wordpress is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 8 Jan 2027.
 
 Masha Wordpress is a techno and electro artist based in Russia, with 24 gigs on soundcheck across Amsterdam, Brussels and Helsinki. Often billed alongside Lena Rigel, LAN the Wireless and Dj Serko. Next up: Toekomstmuziek, Amsterdam on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Masha Wordpress is a techno and electro artist based in Russia, with 24 gigs on 
 
 Lena Rigel, LAN the Wireless, Dj Serko
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashawordpress/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashawordpress/)*

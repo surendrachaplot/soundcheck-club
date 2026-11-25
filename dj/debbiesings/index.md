@@ -1,6 +1,6 @@
 # Debbie Sings
 
-Debbie Sings is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Cecil AM, Copenhagen on Fri, 27 Nov 2026.
+Debbie Sings is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Cecil AM, Copenhagen on Fri, 27 Nov 2026.
 
 Debbie Sings is a pop and experimental artist based in Denmark, with 24 gigs on soundcheck across Aarhus, Berlin and Copenhagen. Often billed alongside Deb Foam, Zoumer and HEX ELECTRONIX. Next up: Cecil AM, Copenhagen on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Debbie Sings is a pop and experimental artist based in Denmark, with 24 gigs on 
 
 Deb Foam, Zoumer, HEX ELECTRONIX
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiesings/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiesings/)*

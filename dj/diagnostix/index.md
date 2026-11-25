@@ -1,6 +1,6 @@
 # Diagnostix
 
-Diagnostix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
+Diagnostix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
 
 Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Crossy and Benny L. Next up: fabric, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 55 g
 
 Carasel, Crossy, Benny L
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*

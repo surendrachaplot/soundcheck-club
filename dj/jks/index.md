@@ -1,6 +1,6 @@
 # JKS
 
-JKS is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at glimmer, Hamburg on Fri, 4 Dec 2026.
+JKS is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at glimmer, Hamburg on Fri, 4 Dec 2026.
 
 JKS is a techno and house artist based in France, with 174 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Berlin and 64 more. Often billed alongside Bailey Ibbs, BENZA and François X. Next up: glimmer, Hamburg on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ JKS is a techno and house artist based in France, with 174 gigs on soundcheck ac
 
 Bailey Ibbs, BENZA, François X
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

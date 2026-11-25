@@ -1,6 +1,6 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "longstoryshort" on Fri, 4 Dec 2026.
+Club Vinyl is a music venue in Denver with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "longstoryshort" on Fri, 4 Dec 2026.
 
 Club Vinyl is a music venue in Denver listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 10 upcoming gigs. Se
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

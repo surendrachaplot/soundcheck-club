@@ -1,6 +1,6 @@
 # Mark Jones
 
-Mark Jones is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Coda, Toronto on Fri, 27 Nov 2026.
+Mark Jones is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Coda, Toronto on Fri, 27 Nov 2026.
 
 Mark Jones is a tech house and house artist based in United Kingdom, with 4 gigs on soundcheck across Toronto. Often billed alongside Ardalan, Adrian Salcedo and Alley Kay. Next up: Coda, Toronto on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Mark Jones is a tech house and house artist based in United Kingdom, with 4 gigs
 
 Ardalan, Adrian Salcedo, Alley Kay
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markjones/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markjones/)*

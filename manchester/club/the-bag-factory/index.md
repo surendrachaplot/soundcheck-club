@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "No Weekends Wasted: LIVE 001" on Thu, 26 Nov 2026.
+The Bag Factory is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "No Weekends Wasted: LIVE 001" on Thu, 26 Nov 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Hello From Ben, ik0nixx, LYZANDER and Madelaine Jemine and 2 more. See dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -20,4 +20,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

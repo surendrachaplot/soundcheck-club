@@ -1,8 +1,8 @@
 # Ductwork Houston
 
-Ductwork Houston is a music venue in Houston with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Deorro" on Fri, 27 Nov 2026.
+Ductwork Houston is a music venue in Houston with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Deorro" on Fri, 27 Nov 2026.
 
-Ductwork Houston is a music venue in Houston listed on soundcheck. 5 upcoming gigs, with line-ups including Chris Lorenzo and Deorro. See dates, start times and who's playing.
+Ductwork Houston is a music venue in Houston listed on soundcheck. 5 upcoming gigs, with line-ups including Chris Lorenzo, Deorro and SIDEPIECE. See dates, start times and who's playing.
 
 ## What's on
 
@@ -12,6 +12,6 @@ Ductwork Houston is a music venue in Houston listed on soundcheck. 5 upcoming gi
 | Sat, 28 Nov 2026 | Deathpact |  |
 | Fri, 4 Dec 2026 | Chris Lorenzo | Chris Lorenzo |
 | Sat, 5 Dec 2026 | Sullivan King |  |
-| Fri, 11 Dec 2026 | SIDEPIECE |  |
+| Fri, 11 Dec 2026 | SIDEPIECE | SIDEPIECE |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/ductwork-houston/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/ductwork-houston/)*

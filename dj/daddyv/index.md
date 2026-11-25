@@ -1,6 +1,6 @@
 # Daddy V
 
-Daddy V is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Rocas, Luxembourg on Sat, 28 Nov 2026.
+Daddy V is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rocas, Luxembourg on Sat, 28 Nov 2026.
 
 Daddy V is an electronic artist based in Portugal, with 11 gigs on soundcheck across Lisbon and Luxembourg. Often billed alongside João Melgueira, LVCENA and Midinoize. Next up: Rocas, Luxembourg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Daddy V is an electronic artist based in Portugal, with 11 gigs on soundcheck ac
 
 João Melgueira, LVCENA, Midinoize
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daddyv/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daddyv/)*

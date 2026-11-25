@@ -1,6 +1,6 @@
 # Crazy Neo
 
-Crazy Neo is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at VENT, Tokyo on Sat, 12 Dec 2026.
+Crazy Neo is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at VENT, Tokyo on Sat, 12 Dec 2026.
 
 Crazy Neo is a techno and minimal artist based in Japan, with 33 gigs on soundcheck across Tokyo. Often billed alongside ayaka, Bundo and AKIRAM EN. Next up: VENT, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Crazy Neo is a techno and minimal artist based in Japan, with 33 gigs on soundch
 
 ayaka, Bundo, AKIRAM EN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyneo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyneo/)*

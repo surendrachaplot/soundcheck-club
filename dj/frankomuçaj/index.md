@@ -1,6 +1,6 @@
 # Franko Muçaj
 
-Franko Muçaj is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
+Franko Muçaj is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
 
 Franko Muçaj is a techno and house artist based in Albania, with 9 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Tirana. Often billed alongside Bani D, ButchVoyage and Chriss V. Next up: OXI, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Franko Muçaj is a techno and house artist based in Albania, with 9 gigs on soun
 
 Bani D, ButchVoyage, Chriss V
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankomuçaj/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankomuçaj/)*

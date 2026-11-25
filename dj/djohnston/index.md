@@ -1,6 +1,6 @@
 # DJohnston
 
-DJohnston is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at LAUT, Barcelona on Sat, 5 Dec 2026.
+DJohnston is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at LAUT, Barcelona on Sat, 5 Dec 2026.
 
 DJohnston is a techno and electro artist based in Spain, with 32 gigs on soundcheck across Barcelona. Often billed alongside Verushka, Jhort and servei. Next up: LAUT, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJohnston is a techno and electro artist based in Spain, with 32 gigs on soundch
 
 Verushka, Jhort, servei
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djohnston/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djohnston/)*

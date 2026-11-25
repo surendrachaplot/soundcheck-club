@@ -1,14 +1,15 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Savaya Bali, Bali on Sat, 5 Dec 2026.
+Mind Against is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Savaya Bali, Bali on Sat, 5 Dec 2026.
 
-Mind Against is a techno and house artist based in Italy, with 182 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Adriatique, Innellea and Kevin de Vries. Next up: Savaya Bali, Bali on Sat 5 Dec.
+Mind Against is a techno and house artist based in Italy, with 183 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Adriatique, Innellea and Kevin de Vries. Next up: Savaya Bali, Bali on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Savaya Bali | Bali |
+| Fri, 18 Dec 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Dec 2026 | Warehouse ZRH | Switzerland |
 | Fri, 8 Jan 2027 | Zamna Tulum | Tulum |
 
@@ -27,4 +28,4 @@ Mind Against is a techno and house artist based in Italy, with 182 gigs on sound
 
 Adriatique, Innellea, Kevin de Vries
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

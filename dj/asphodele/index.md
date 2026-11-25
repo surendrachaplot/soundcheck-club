@@ -1,6 +1,6 @@
 # Asphodèle
 
-Asphodèle is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at El Cid, Los Angeles on Sat, 5 Dec 2026.
+Asphodèle is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at El Cid, Los Angeles on Sat, 5 Dec 2026.
 
 Asphodèle is a club and techno artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Cologne and 10 more. Often billed alongside Daddy Kev, BAE BAE and Izella. Next up: El Cid, Los Angeles on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Asphodèle is a club and techno artist based in United States of America, with 6
 
 Daddy Kev, BAE BAE, Izella
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodele/)*

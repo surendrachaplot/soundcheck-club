@@ -1,6 +1,6 @@
 # Lolz
 
-Lolz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pawn Shop, Dublin on Fri, 4 Dec 2026.
+Lolz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pawn Shop, Dublin on Fri, 4 Dec 2026.
 
 Lolz is an electro and techno artist based in Ireland, with 41 gigs on soundcheck across Berlin, Dublin, Galway and Limerick. Often billed alongside Eliza, Maeve O'Neill and Hannah Hession. Next up: Pawn Shop, Dublin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lolz is an electro and techno artist based in Ireland, with 41 gigs on soundchec
 
 Eliza, Maeve O'Neill, Hannah Hession
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolz/)*

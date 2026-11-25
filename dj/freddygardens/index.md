@@ -1,17 +1,18 @@
 # Freddy Gardens
 
-Freddy Gardens is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 13 Nov 2026.
+Freddy Gardens is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dr Morse, Melbourne on Fri, 1 Jan 2027.
 
-Freddy Gardens is a house and balearic artist based in Australia, with 23 gigs on soundcheck across Melbourne, Seoul and Sydney. Often billed alongside Proto-Exotica, Princey and Porcelain Prince. Next up: Angel Music Bar, Melbourne on Fri 13 Nov.
+Freddy Gardens is a house and balearic artist based in Australia, with 24 gigs on soundcheck across Melbourne, Seoul and Sydney. Often billed alongside Proto-Exotica, Princey and Porcelain Prince. Next up: Dr Morse, Melbourne on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Angel Music Bar | Melbourne |
+| Fri, 1 Jan 2027 | Dr Morse | Melbourne |
 
 ## Recently played
 
+- Angel Music Bar, Melbourne · Fri, 13 Nov 2026
 - Runner Up Rooftop Bar, Melbourne · Sun, 18 Oct 2026
 - Angel Music Bar, Melbourne · Fri, 16 Oct 2026
 - Runner Up Rooftop Bar, Melbourne · Sun, 20 Sept 2026
@@ -19,10 +20,9 @@ Freddy Gardens is a house and balearic artist based in Australia, with 23 gigs o
 - Paper, Seoul · Fri, 21 Aug 2026
 - Revolver Upstairs, Melbourne · Sat, 15 Aug 2026
 - Fiftyfive, Melbourne · Sun, 9 Aug 2026
-- Revolver Upstairs, Melbourne · Wed, 22 Jul 2026
 
 ## Shares bills with
 
 Proto-Exotica, Princey, Porcelain Prince
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*

@@ -1,6 +1,6 @@
 # OBEL
 
-OBEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hippodrome Parilly, Lyon on Thu, 31 Dec 2026.
+OBEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hippodrome Parilly, Lyon on Thu, 31 Dec 2026.
 
 OBEL is a techno and house artist, with 9 gigs on soundcheck across Lyon, Nantes and Tokyo. Often billed alongside egomania, BAUGRUPPE90 and CAIVA. Next up: Hippodrome Parilly, Lyon on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ OBEL is a techno and house artist, with 9 gigs on soundcheck across Lyon, Nantes
 
 egomania, BAUGRUPPE90, CAIVA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obel/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obel/)*

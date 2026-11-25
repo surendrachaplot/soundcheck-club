@@ -1,6 +1,6 @@
 # Nick Castle
 
-Nick Castle is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Fri, 11 Dec 2026.
+Nick Castle is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at FOLD, London on Fri, 11 Dec 2026.
 
 Nick Castle is a deep house and house artist, with 56 gigs on soundcheck across Birmingham, Brussels, Ibiza and Lisbon and 2 more. Often billed alongside Adriatique, Âme and Caiiro. Next up: FOLD, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Nick Castle is a deep house and house artist, with 56 gigs on soundcheck across 
 
 Adriatique, Âme, Caiiro
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*

@@ -1,6 +1,6 @@
 # Bella
 
-Bella is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "groove" on Fri, 27 Nov 2026.
+Bella is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "groove" on Fri, 27 Nov 2026.
 
 Bella is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Meikee Magnetic and GOMA. See dates, start times and who's playing. 316 11th St., San Francisco, CA 94103.
 
@@ -15,4 +15,4 @@ Bella is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming
 
 316 11th St., San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bella/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bella/)*

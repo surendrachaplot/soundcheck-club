@@ -1,6 +1,6 @@
 # Uroš Glintic
 
-Uroš Glintic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Belgrade on Wed, 25 Nov 2026.
+Uroš Glintic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Belgrade on Wed, 25 Nov 2026.
 
 Uroš Glintic is a techno and house artist based in Serbia, with 4 gigs on soundcheck across Belgrade. Often billed alongside KovaK, Maschietto and Stashha. Next up: TBA, Belgrade on Wed 25 Nov.
 
@@ -20,4 +20,4 @@ Uroš Glintic is a techno and house artist based in Serbia, with 4 gigs on sound
 
 KovaK, Maschietto, Stashha
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urošglintic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urošglintic/)*

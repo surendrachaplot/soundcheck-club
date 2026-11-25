@@ -1,8 +1,8 @@
 # Neon Graveyard
 
-Neon Graveyard is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at E1, London on Fri, 4 Dec 2026.
+Neon Graveyard is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at E1, London on Fri, 4 Dec 2026.
 
-Neon Graveyard is a techno and trance artist based in Germany, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Johannes Schuster, CALLUSH and KUKO. Next up: E1, London on Fri 4 Dec.
+Neon Graveyard is a techno and trance artist based in Germany, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Johannes Schuster, CALLUSH and KUKO. Next up: E1, London on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Neon Graveyard is a techno and trance artist based in Germany, with 186 gigs on 
 | Fri, 4 Dec 2026 | E1 | London |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Sat, 26 Dec 2026 | TBA - SONDER | Nürnberg |
+| Fri, 1 Jan 2027 | Bootshaus | Cologne |
 | Sat, 13 Mar 2027 | Turbinenhalle | North-rhine-westphalia |
 
 ## Recently played
@@ -28,4 +29,4 @@ Neon Graveyard is a techno and trance artist based in Germany, with 186 gigs on 
 
 Johannes Schuster, CALLUSH, KUKO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*

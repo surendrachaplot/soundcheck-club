@@ -1,6 +1,6 @@
 # J.Rains
 
-J.Rains is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lost Horizon, Bristol on Fri, 4 Dec 2026.
+J.Rains is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lost Horizon, Bristol on Fri, 4 Dec 2026.
 
 J.Rains is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Bristol and London. Often billed alongside Milly on Air, Ms.G and STYLI. Next up: Lost Horizon, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ J.Rains is a techno and house artist based in United Kingdom, with 16 gigs on so
 
 Milly on Air, Ms.G, STYLI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.rains/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.rains/)*

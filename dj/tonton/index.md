@@ -1,6 +1,6 @@
 # tonton
 
-tonton is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jupiter Disco, New York City on Thu, 10 Dec 2026.
+tonton is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jupiter Disco, New York City on Thu, 10 Dec 2026.
 
 tonton is a garage and house artist based in United States of America, with 29 gigs on soundcheck across Berlin, Ibiza and New York City. Often billed alongside Lovelydaze, Alfonso Ares and Amine K. Next up: Jupiter Disco, New York City on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ tonton is a garage and house artist based in United States of America, with 29 g
 
 Lovelydaze, Alfonso Ares, Amine K
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*

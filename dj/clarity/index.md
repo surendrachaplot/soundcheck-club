@@ -1,13 +1,14 @@
 # Clarity
 
-Clarity is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tunnel Club, Birmingham on Fri, 4 Dec 2026.
+Clarity is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Love Inn, Bristol on Thu, 26 Nov 2026.
 
-Clarity is a techno and house artist based in United Kingdom, with 18 gigs on soundcheck across Birmingham, Bristol, Leipzig and London and 5 more. Often billed alongside Pessimist, Anina and Mackenzie (UK). Next up: Tunnel Club, Birmingham on Fri 4 Dec.
+Clarity is a techno and house artist based in United Kingdom, with 19 gigs on soundcheck across Birmingham, Bristol, Leipzig and London and 5 more. Often billed alongside Anina, Pessimist and Mackenzie (UK). Next up: The Love Inn, Bristol on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | The Love Inn | Bristol |
 | Fri, 4 Dec 2026 | Tunnel Club | Birmingham |
 | Thu, 31 Dec 2026 | The Island | Bristol |
 
@@ -24,6 +25,6 @@ Clarity is a techno and house artist based in United Kingdom, with 18 gigs on so
 
 ## Shares bills with
 
-Pessimist, Anina, Mackenzie (UK)
+Anina, Pessimist, Mackenzie (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarity/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarity/)*

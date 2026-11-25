@@ -1,6 +1,6 @@
 # PiERO
 
-PiERO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at WOMB, Tokyo on Thu, 26 Nov 2026.
+PiERO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at WOMB, Tokyo on Thu, 26 Nov 2026.
 
 PiERO is a psytrance and techno artist, with 42 gigs on soundcheck across Kanto, Osaka and Tokyo. Often billed alongside Tom Monkey, MARIHO and MASOI. Next up: WOMB, Tokyo on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ PiERO is a psytrance and techno artist, with 42 gigs on soundcheck across Kanto,
 
 Tom Monkey, MARIHO, MASOI
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piero/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piero/)*

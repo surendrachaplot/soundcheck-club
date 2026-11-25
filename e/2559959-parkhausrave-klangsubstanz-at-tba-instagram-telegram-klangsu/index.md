@@ -1,6 +1,6 @@
 # ParkhausRave - KlangSubsTanz at TBA - instagram | telegram: @klangsubstanz
 
-ParkhausRave - KlangSubsTanz at TBA - instagram | telegram: @klangsubstanz on Sat 12 Dec, Berlin. 16 artists: agls, Ali Rajat, Aslan Venom and Einfach Taffo and 12 more. Techno and House. See the line-up on soundcheck.
+ParkhausRave - KlangSubsTanz at TBA - instagram | telegram: @klangsubstanz on Sat 12 Dec, Berlin. 17 artists: agls, Ali Rajat, Aslan Venom and Einfach Taffo and 13 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ ParkhausRave - KlangSubsTanz at TBA - instagram | telegram: @klangsubstanz on Sa
 - Aslan Venom
 - Einfach Taffo
 - FYZIØ
+- halfwayz
 - Jabuka
 - Laigonen Kanonen
 - LANA:YEN

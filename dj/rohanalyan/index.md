@@ -1,6 +1,6 @@
 # Rohan Alyan
 
-Rohan Alyan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sipsip Rum Bar, Miami on Sat, 5 Dec 2026.
+Rohan Alyan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sipsip Rum Bar, Miami on Sat, 5 Dec 2026.
 
 Rohan Alyan is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Miami, New York City and Washington DC. Often billed alongside Mazin, San Dee and DJ Three. Next up: Sipsip Rum Bar, Miami on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rohan Alyan is a house and deep house artist based in United States of America, 
 
 Mazin, San Dee, DJ Three
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanalyan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanalyan/)*

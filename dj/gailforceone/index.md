@@ -1,14 +1,15 @@
 # Gail Force One
 
-Gail Force One is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 29 Nov 2026.
+Gail Force One is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 29 Nov 2026.
 
-Gail Force One is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Berlin, New York City, Richmond and Washington DC. Often billed alongside PWRPUFF, Prince Rose and Joann Fabrixx. Next up: Bossa Nova Civic Club, New York City on Sun 29 Nov.
+Gail Force One is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Berlin, New York City, Richmond and Washington DC. Often billed alongside PWRPUFF, Prince Rose and Joann Fabrixx. Next up: Bossa Nova Civic Club, New York City on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 12 Dec 2026 | Honey's | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gail Force One is a techno and house artist based in United States of America, w
 
 PWRPUFF, Prince Rose, Joann Fabrixx
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gailforceone/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gailforceone/)*

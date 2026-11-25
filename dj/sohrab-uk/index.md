@@ -1,6 +1,6 @@
 # sohrab.
 
-sohrab. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Basic Club, Naples on Tue, 5 Jan 2027.
+sohrab. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Basic Club, Naples on Tue, 5 Jan 2027.
 
 sohrab. is a techno and house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 21 more. Often billed alongside GNMR, Brasi and Domenico Rosa. Next up: Basic Club, Naples on Tue 5 Jan.
 
@@ -25,4 +25,4 @@ sohrab. is a techno and house artist based in United Kingdom, with 75 gigs on so
 
 GNMR, Brasi, Domenico Rosa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab-uk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab-uk/)*

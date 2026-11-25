@@ -1,6 +1,6 @@
 # KARØL (2)
 
-KARØL (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Valencia on Fri, 27 Nov 2026.
+KARØL (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Valencia on Fri, 27 Nov 2026.
 
 KARØL is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Andorra, Barcelona, Berlin and Bucharest and 3 more. Often billed alongside John Holt, Xuanlee and Lady Dammage. Next up: TBA, Valencia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KARØL is a techno and trance artist based in Germany, with 11 gigs on soundchec
 
 John Holt, Xuanlee, Lady Dammage
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karol-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karol-2/)*

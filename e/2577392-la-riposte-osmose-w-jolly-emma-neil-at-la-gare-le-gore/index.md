@@ -1,6 +1,6 @@
 # LA RIPOSTE: OSMOSE W/ JOLLY + EMMA NEIL at La Gare / Le Gore
 
-LA RIPOSTE: OSMOSE W/ JOLLY + EMMA NEIL at La Gare / Le Gore on Fri 27 Nov, Paris. 1 artist: Jolly (FR). Techno. See the line-up on soundcheck.
+LA RIPOSTE: OSMOSE W/ JOLLY + EMMA NEIL at La Gare / Le Gore on Fri 27 Nov, Paris. 2 artists: Emma Neil and Jolly (FR). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ LA RIPOSTE: OSMOSE W/ JOLLY + EMMA NEIL at La Gare / Le Gore on Fri 27 Nov, Pari
 
 ## Line-up
 
+- Emma Neil
 - Jolly (FR)
 
 *Source: [soundcheck](https://soundcheck.club/e/2577392-la-riposte-osmose-w-jolly-emma-neil-at-la-gare-le-gore/)*

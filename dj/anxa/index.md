@@ -1,6 +1,6 @@
 # ANXA
 
-ANXA is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
+ANXA is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
 
 ANXA is a techno and pop artist based in Germany, with 48 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Lazykid. Next up: Bahnwärter Thiel, Munich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ ANXA is a techno and pop artist based in Germany, with 48 gigs on soundcheck acr
 
 DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Lazykid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anxa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anxa/)*

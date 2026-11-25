@@ -1,13 +1,15 @@
 # Yalta Club
 
-Yalta Club is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "Obsession III" on Fri, 15 Jan 2027.
+Yalta Club is a music venue in Sofia with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Yalta Club with AEREA" on Fri, 27 Nov 2026.
 
-Yalta Club is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including Mila Wav, Razzor, Stameni and viktorija. See dates, start times and who's playing.
+Yalta Club is a music venue in Sofia listed on soundcheck. 3 upcoming gigs, with line-ups including AEREA, Emiliyan, Human Safari and KR:KD K and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Yalta Club with AEREA | AEREA, Human Safari, KR:KD K |
+| Fri, 11 Dec 2026 | Yalta Club with SOSA | Emiliyan, SHENK(BG), SOSA (UK) |
 | Fri, 15 Jan 2027 | Obsession III | Mila Wav, Razzor, Stameni, viktorija |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/yalta-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/yalta-club/)*

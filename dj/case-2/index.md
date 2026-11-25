@@ -1,6 +1,6 @@
 # Case (2)
 
-Case (2) is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Stage and Radio, Manchester on Sat, 28 Nov 2026.
+Case (2) is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stage and Radio, Manchester on Sat, 28 Nov 2026.
 
 Case is an electro and techno artist based in United Kingdom, with 29 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Emerald, Klose One and D.N.S. Next up: Stage and Radio, Manchester on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Case is an electro and techno artist based in United Kingdom, with 29 gigs on so
 
 Emerald, Klose One, D.N.S
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/case-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/case-2/)*

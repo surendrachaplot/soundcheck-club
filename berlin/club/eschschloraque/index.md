@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "MissVergnügen presents ALIEN GHOST - live" on Wed, 25 Nov 2026.
+Eschschloraque is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MissVergnügen presents ALIEN GHOST - live" on Wed, 25 Nov 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including MissVergnügen. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 5 upcoming gigs,
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

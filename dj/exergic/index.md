@@ -1,6 +1,6 @@
 # Exergic
 
-Exergic is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gate Milano, Milan on Fri, 15 Jan 2027.
+Exergic is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gate Milano, Milan on Fri, 15 Jan 2027.
 
 Exergic is a techno and electronica artist based in Colombia, with 8 gigs on soundcheck across Milan. Often billed alongside Ditzy, 7CIRCLE and ARMANDO. Next up: Gate Milano, Milan on Fri 15 Jan.
 
@@ -24,4 +24,4 @@ Exergic is a techno and electronica artist based in Colombia, with 8 gigs on sou
 
 Ditzy, 7CIRCLE, ARMANDO
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exergic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exergic/)*

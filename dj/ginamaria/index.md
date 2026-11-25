@@ -1,14 +1,15 @@
 # Gina Maria
 
-Gina Maria is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TV Lounge, Detroit on Fri, 27 Nov 2026.
+Gina Maria is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TV Lounge, Detroit on Fri, 27 Nov 2026.
 
-Gina Maria is a house and tech house artist based in United States of America, with 26 gigs on soundcheck across Detroit. Often billed alongside DISCOBOT, Chase Carter and ARCS. Next up: TV Lounge, Detroit on Fri 27 Nov.
+Gina Maria is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across Detroit. Often billed alongside DISCOBOT, Chase Carter and Dillon Francis. Next up: TV Lounge, Detroit on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TV Lounge | Detroit |
+| Sat, 20 Feb 2027 | Magic Stick | Detroit |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gina Maria is a house and tech house artist based in United States of America, w
 
 ## Shares bills with
 
-DISCOBOT, Chase Carter, ARCS
+DISCOBOT, Chase Carter, Dillon Francis
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginamaria/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginamaria/)*

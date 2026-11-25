@@ -1,6 +1,6 @@
 # Louie G
 
-Louie G is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bar Shrimp, Manchester on Sun, 20 Dec 2026.
+Louie G is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Shrimp, Manchester on Sun, 20 Dec 2026.
 
 Louie G is a techno and house artist based in United Kingdom, with 83 gigs on soundcheck across Barcelona, Berlin, Bucharest and Glasgow and 10 more. Often billed alongside Ryan Ingleby, Ethan McNamara and DMC.. Next up: Bar Shrimp, Manchester on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ Louie G is a techno and house artist based in United Kingdom, with 83 gigs on so
 
 Ryan Ingleby, Ethan McNamara, DMC.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*

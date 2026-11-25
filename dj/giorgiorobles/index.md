@@ -1,13 +1,14 @@
 # Giorgio Robles
 
-Giorgio Robles is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
+Giorgio Robles is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
 
-Giorgio Robles is a minimal and tech house artist based in Chile, with 11 gigs on soundcheck across Madrid, Melbourne and Sydney. Often billed alongside Vincent Giumelli, Human Halo and Angel Mosteiro. Next up: Next Clubbing, Madrid on Sat 28 Nov.
+Giorgio Robles is a tech house and minimal artist based in Chile, with 12 gigs on soundcheck across Madrid, Melbourne and Sydney. Often billed alongside Vincent Giumelli, Human Halo and Olga Korol. Next up: Next Clubbing, Madrid on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Next Clubbing | Madrid |
 | Sat, 28 Nov 2026 | Next Clubbing | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ Giorgio Robles is a minimal and tech house artist based in Chile, with 11 gigs o
 
 ## Shares bills with
 
-Vincent Giumelli, Human Halo, Angel Mosteiro
+Vincent Giumelli, Human Halo, Olga Korol
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiorobles/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiorobles/)*

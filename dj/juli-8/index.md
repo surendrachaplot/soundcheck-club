@@ -1,6 +1,6 @@
 # juli (8)
 
-juli (8) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Daikanyama ORD., Tokyo on Wed, 25 Nov 2026.
+juli (8) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Daikanyama ORD., Tokyo on Wed, 25 Nov 2026.
 
 juli is a techno and house artist based in Japan, with 8 gigs on soundcheck across Berlin, Seoul and Tokyo. Often billed alongside Michel, Shoma fr,dambosound and YUUGOH. Next up: Daikanyama ORD., Tokyo on Wed 25 Nov.
 
@@ -24,4 +24,4 @@ juli is a techno and house artist based in Japan, with 8 gigs on soundcheck acro
 
 Michel, Shoma fr,dambosound, YUUGOH
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juli-8/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juli-8/)*

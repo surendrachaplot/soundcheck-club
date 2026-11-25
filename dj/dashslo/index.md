@@ -1,14 +1,15 @@
 # DASH (SLO)
 
-DASH (SLO) is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 8MM, Berlin on Sat, 12 Dec 2026.
+DASH (SLO) is a Italo Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 8MM, Berlin on Sat, 12 Dec 2026.
 
-DASH (SLO) is an italo disco and house artist based in Slovenia, with 26 gigs on soundcheck across Amsterdam, Berlin, Ljubljana and Milan and 1 more. Often billed alongside Besch, Krissønik and Brtinzz. Next up: 8MM, Berlin on Sat 12 Dec.
+DASH (SLO) is an italo disco and techno artist based in Slovenia, with 27 gigs on soundcheck across Amsterdam, Berlin, Hannover and Ljubljana and 2 more. Often billed alongside Besch, Brtinzz and Krissønik. Next up: 8MM, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | 8MM | Berlin |
+| Thu, 31 Dec 2026 | WDM | Hannover |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DASH (SLO) is an italo disco and house artist based in Slovenia, with 26 gigs on
 
 ## Shares bills with
 
-Besch, Krissønik, Brtinzz
+Besch, Brtinzz, Krissønik
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashslo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashslo/)*

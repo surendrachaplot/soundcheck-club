@@ -1,6 +1,6 @@
 # NIKØ
 
-NIKØ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
+NIKØ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Void Club, Berlin on Fri, 4 Dec 2026.
 
 NIKØ is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Berlin. Often billed alongside Maurice Werner, DJ Spaßgetränk and Konsument. Next up: Void Club, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ NIKØ is a techno and trance artist based in Germany, with 27 gigs on soundcheck
 
 Maurice Werner, DJ Spaßgetränk, Konsument
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niko-de/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niko-de/)*

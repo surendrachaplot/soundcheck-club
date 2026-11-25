@@ -1,6 +1,6 @@
 # Emma Ollivary
 
-Emma Ollivary is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Parc Des Expositions, Paris on Sat, 19 Dec 2026.
+Emma Ollivary is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Parc Des Expositions, Paris on Sat, 19 Dec 2026.
 
 Emma Ollivary is a techno and hardcore artist based in France, with 12 gigs on soundcheck across Bangkok, Ho Chi Minh City, London and Nantes and 2 more. Often billed alongside uphoria, AISHA and Cassie Raptor. Next up: Parc Des Expositions, Paris on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Emma Ollivary is a techno and hardcore artist based in France, with 12 gigs on s
 
 uphoria, AISHA, Cassie Raptor
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaollivary/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaollivary/)*

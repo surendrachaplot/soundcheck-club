@@ -1,6 +1,6 @@
 # Day/Care at TBA - Nine
 
-Day/Care at TBA - Nine on Sun 29 Nov, Detroit. 2 artists: DJ Hemlok and Kikitosaurio. Garage and Afro House. See the line-up on soundcheck.
+Day/Care at TBA - Nine on Sun 29 Nov, Detroit. 3 artists: DJ Hemlok, FiTS and Kikitosaurio. Garage and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Day/Care at TBA - Nine on Sun 29 Nov, Detroit. 2 artists: DJ Hemlok and Kikitosa
 ## Line-up
 
 - DJ Hemlok
+- FiTS
 - Kikitosaurio
 
 *Source: [soundcheck](https://soundcheck.club/e/2564910-day-care-at-tba-nine/)*

@@ -1,14 +1,14 @@
 # William Quintero (2)
 
-William Quintero (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at E1, London on Sun, 27 Dec 2026.
+William Quintero (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Onyx (E1), London on Sun, 27 Dec 2026.
 
-William Quintero is a tech house and house artist, with 46 gigs on soundcheck across London. Often billed alongside Bread & Butter, TIME LVPSE and Moonz. Next up: E1, London on Sun 27 Dec.
+William Quintero is a tech house and house artist, with 46 gigs on soundcheck across London. Often billed alongside Bread & Butter, TIME LVPSE and Moonz. Next up: Onyx (E1), London on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Dec 2026 | E1 | London |
+| Sun, 27 Dec 2026 | Onyx (E1) | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ William Quintero is a tech house and house artist, with 46 gigs on soundcheck ac
 
 Bread & Butter, TIME LVPSE, Moonz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamquintero-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamquintero-2/)*

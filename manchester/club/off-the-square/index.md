@@ -1,6 +1,6 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Dubverbia 003" on Fri, 4 Dec 2026.
+Off The Square is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Dubverbia 003" on Fri, 4 Dec 2026.
 
 Off The Square is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Chael-UK, Flávio, gr00vy.cat and Indeva and 2 more. See dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
@@ -16,4 +16,4 @@ Off The Square is a music venue in Manchester listed on soundcheck. 3 upcoming g
 
 67 Lever Street, Manchester, M1 1FL, Manchester
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*

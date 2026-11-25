@@ -1,8 +1,8 @@
 # Ø [Phase]
 
-Ø [Phase] is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at smartbar, Chicago on Fri, 4 Dec 2026.
+Ø [Phase] is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at smartbar, Chicago on Fri, 4 Dec 2026.
 
-Ø [Phase] is a techno and house artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 46 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: smartbar, Chicago on Fri 4 Dec.
+Ø [Phase] is a techno and house artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 46 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: smartbar, Chicago on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | smartbar | Chicago |
 | Sat, 5 Dec 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 2 Jan 2027 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Luke Slater, Setaoc Mass, Adriana Lopez
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*

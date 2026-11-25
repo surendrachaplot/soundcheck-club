@@ -1,6 +1,6 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Circus Osaka, Osaka on Fri, 27 Nov 2026.
+Silva Bumpa is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Circus Osaka, Osaka on Fri, 27 Nov 2026.
 
 Silva Bumpa is a garage and house artist based in United Kingdom, with 231 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 59 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: Circus Osaka, Osaka on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 231 gigs 
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

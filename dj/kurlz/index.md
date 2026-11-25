@@ -1,6 +1,6 @@
 # KURLZ
 
-KURLZ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Honey Street Studio, Manchester on Fri, 18 Dec 2026.
+KURLZ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Honey Street Studio, Manchester on Fri, 18 Dec 2026.
 
 KURLZ is a house and tech house artist based in United Kingdom, with 44 gigs on soundcheck across Dubai, Liverpool and Manchester. Often billed alongside Alex Moore, Kuriboh and sebastieN. Next up: Honey Street Studio, Manchester on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ KURLZ is a house and tech house artist based in United Kingdom, with 44 gigs on 
 
 Alex Moore, Kuriboh, sebastieN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*

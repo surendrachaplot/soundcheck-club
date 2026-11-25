@@ -1,6 +1,6 @@
 # Javi Redondo
 
-Javi Redondo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Polifonic.MX, Guadalajara on Sat, 28 Nov 2026.
+Javi Redondo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Polifonic.MX, Guadalajara on Sat, 28 Nov 2026.
 
 Javi Redondo is a house and electronica artist based in Spain, with 48 gigs on soundcheck across Barcelona, Guadalajara, Los Angeles and Madrid and 3 more. Often billed alongside Alvaro Cabana, Certain People and David Ponziano. Next up: Polifonic.MX, Guadalajara on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Javi Redondo is a house and electronica artist based in Spain, with 48 gigs on s
 
 Alvaro Cabana, Certain People, David Ponziano
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*

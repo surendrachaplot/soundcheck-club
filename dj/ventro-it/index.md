@@ -1,6 +1,6 @@
 # VENTRO
 
-VENTRO is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Underclub, Sardinia on Sat, 28 Nov 2026.
+VENTRO is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Underclub, Sardinia on Sat, 28 Nov 2026.
 
 VENTRO is a techno and acid artist based in Italy, with 4 gigs on soundcheck across Milan, Rome and Sardinia. Often billed alongside ATTA__DJ, Alex Akashi and Arweenn. Next up: Underclub, Sardinia on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ VENTRO is a techno and acid artist based in Italy, with 4 gigs on soundcheck acr
 
 ATTA__DJ, Alex Akashi, Arweenn
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ventro-it/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ventro-it/)*

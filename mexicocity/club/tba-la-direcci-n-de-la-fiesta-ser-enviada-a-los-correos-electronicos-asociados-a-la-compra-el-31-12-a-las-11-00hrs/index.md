@@ -1,13 +1,13 @@
 # TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs.
 
-TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. The next is "PervertMX CDMX Año Nuevo" on Thu, 31 Dec 2026.
+TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "PervertMX CDMX Año Nuevo" on Thu, 31 Dec 2026.
 
-TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs. is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Celice Monnette, Drakhen, Eliel Capa and Enya Botello and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 31 Dec 2026 | PervertMX CDMX Año Nuevo |  |
+| Thu, 31 Dec 2026 | PervertMX CDMX Año Nuevo | Celice Monnette, Drakhen, Eliel Capa, Enya Botello, Hot Hudson, IVVAAN, Lex Digital, MIKITA (MX), Pablo Lara, Phanta, Portugal, Rafa Beltran, Torgy, sadgal |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-la-direcci-n-de-la-fiesta-ser-enviada-a-los-correos-electronicos-asociados-a-la-compra-el-31-12-a-las-11-00hrs/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-la-direcci-n-de-la-fiesta-ser-enviada-a-los-correos-electronicos-asociados-a-la-compra-el-31-12-a-las-11-00hrs/)*

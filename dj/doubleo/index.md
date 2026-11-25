@@ -1,6 +1,6 @@
 # Double O
 
-Double O is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
+Double O is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
 
 Double O is a jungle and drum & bass artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 19 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: FORGE, Sheffield on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Double O is a jungle and drum & bass artist based in United Kingdom, with 97 gig
 
 Mantra, Blackeye MC, Decibella
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*

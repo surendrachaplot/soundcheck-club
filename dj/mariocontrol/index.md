@@ -1,6 +1,6 @@
 # MARIO+CONTROL
 
-MARIO+CONTROL is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Joule, Osaka on Wed, 25 Nov 2026.
+MARIO+CONTROL is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Joule, Osaka on Wed, 25 Nov 2026.
 
 MARIO+CONTROL is a techno and tech house artist based in Japan, with 3 gigs on soundcheck across Osaka. Often billed alongside NOBUYA, O-MAN and Astro. Next up: Joule, Osaka on Wed 25 Nov.
 
@@ -19,4 +19,4 @@ MARIO+CONTROL is a techno and tech house artist based in Japan, with 3 gigs on s
 
 NOBUYA (2), O-MAN, Astro
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocontrol/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocontrol/)*

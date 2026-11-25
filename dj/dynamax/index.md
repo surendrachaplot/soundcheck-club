@@ -1,6 +1,6 @@
 # Dynamax
 
-Dynamax is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paradiso, Amsterdam on Sat, 30 Jan 2027.
+Dynamax is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paradiso, Amsterdam on Sat, 30 Jan 2027.
 
 Dynamax is a hardcore and gabber artist based in Japan, with 10 gigs on soundcheck across Amsterdam, Osaka and Tokyo. Often billed alongside M-Project, Reverse16 and Coretex. Next up: Paradiso, Amsterdam on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Dynamax is a hardcore and gabber artist based in Japan, with 10 gigs on soundche
 
 M-Project, Reverse16, Coretex
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamax/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamax/)*

@@ -1,13 +1,14 @@
 # Amal
 
-Amal is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
+Amal is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Compound, Baltimore on Sat, 12 Dec 2026.
 
-Amal is a club and techno artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 13 more. Often billed alongside Nativesun, Black Rave Culture and James Bangura. Next up: Retro Mountain Koh Phangan, Thailand on Thu 14 Jan.
+Amal is a club and techno artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 13 more. Often billed alongside Nativesun, Black Rave Culture and James Bangura. Next up: The Compound, Baltimore on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | The Compound | Baltimore |
 | Thu, 14 Jan 2027 | Retro Mountain Koh Phangan | Thailand |
 
 ## Recently played
@@ -25,4 +26,4 @@ Amal is a club and techno artist based in United States of America, with 70 gigs
 
 Nativesun, Black Rave Culture, James Bangura
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*

@@ -24,7 +24,7 @@ Where Are My Keys - Miami Basel (4 Days) at The Pickle on Thu 3 Dec, Miami. 45 a
 - Desyn
 - Dyed Soundorom
 - Dylan Payne
-- Edward (2)
+- Edward
 - Eleou
 - Enzo Siragusa
 - Fumiya Tanaka

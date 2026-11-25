@@ -1,6 +1,6 @@
 # Zeemen
 
-Zeemen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at vurt., Seoul on Sat, 19 Dec 2026.
+Zeemen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at vurt., Seoul on Sat, 19 Dec 2026.
 
 Zeemen is a techno and house artist based in South Korea, with 97 gigs on soundcheck across Seoul. Often billed alongside Kim.Qna, Minjoon and Xanexx. Next up: vurt., Seoul on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Zeemen is a techno and house artist based in South Korea, with 97 gigs on soundc
 
 Kim.Qna, Minjoon, Xanexx
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemen/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemen/)*

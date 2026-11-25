@@ -1,6 +1,6 @@
 # Trinity Forever
 
-Trinity Forever is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Paragon, New York City on Sat, 28 Nov 2026.
+Trinity Forever is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paragon, New York City on Sat, 28 Nov 2026.
 
 Trinity Forever is a club and hardcore artist based in United States of America, with 32 gigs on soundcheck across Baltimore, New York City, Philadelphia and Washington DC. Often billed alongside Franxx, Girlypop Princess and Gabberbitch69. Next up: Paragon, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Trinity Forever is a club and hardcore artist based in United States of America,
 
 Franxx, Girlypop Princess, Gabberbitch69
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trinityforever/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trinityforever/)*

@@ -1,13 +1,14 @@
 # KENZA KAYATI
 
-KENZA KAYATI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Dojo Boutique Club, Budapest on Sat, 5 Dec 2026.
+KENZA KAYATI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at M.N.Roy, Mexico City on Fri, 27 Nov 2026.
 
-KENZA KAYATI is a house and techno artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 5 more. Often billed alongside Ede, John Bowtie and Paul Svenson. Next up: Dojo Boutique Club, Budapest on Sat 5 Dec.
+KENZA KAYATI is a house and techno artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 6 more. Often billed alongside Ede, John Bowtie and Paul Svenson. Next up: M.N.Roy, Mexico City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | M.N.Roy | Mexico City |
 | Sat, 5 Dec 2026 | Dojo Boutique Club | Budapest |
 | Fri, 18 Dec 2026 | Nordstern | Basel |
 
@@ -26,4 +27,4 @@ KENZA KAYATI is a house and techno artist based in Germany, with 33 gigs on soun
 
 Ede, John Bowtie, Paul Svenson (2)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*

@@ -1,6 +1,6 @@
 # Mødze
 
-Mødze is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 27 Nov 2026.
+Mødze is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 27 Nov 2026.
 
 Mødze is a techno and industrial artist based in Switzerland, with 45 gigs on soundcheck across Antwerp, Belgrade, Berlin and Cologne and 11 more. Often billed alongside DeGuzman, Raxeller and Ana Dimco. Next up: Lehmann Club, Stuttgart on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Mødze is a techno and industrial artist based in Switzerland, with 45 gigs on s
 
 DeGuzman, Raxeller, Ana Dimco
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modze/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modze/)*

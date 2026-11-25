@@ -1,14 +1,15 @@
 # Lekkerfaces
 
-Lekkerfaces is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Lekkerfaces is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
-Lekkerfaces is a hardcore and techno artist based in Italy, with 23 gigs on soundcheck across Antwerp, Cologne, Dresden and Frankfurt and 8 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
+Lekkerfaces is a hardcore and techno artist based in Italy, with 24 gigs on soundcheck across Antwerp, Cologne, Dresden and Frankfurt and 9 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Sat, 12 Dec 2026 | Parc des Expositions du Pays de Lorient | West |
 | Sat, 19 Dec 2026 | Interference | Toulouse |
 | Sun, 27 Dec 2026 | The Classic Grand | Glasgow |
 
@@ -27,4 +28,4 @@ Lekkerfaces is a hardcore and techno artist based in Italy, with 23 gigs on soun
 
 Pinotello, The Dark Horror, Noxiouz
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*

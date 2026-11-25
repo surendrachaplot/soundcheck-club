@@ -1,6 +1,6 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 11 Dec 2026.
+Konfusia is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 11 Dec 2026.
 
 Konfusia is a techno and house artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 22 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Bahnwärter Thiel, Munich on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ Konfusia is a techno and house artist based in Germany, with 122 gigs on soundch
 
 Maurice Mino, Sabura, Sin:port
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

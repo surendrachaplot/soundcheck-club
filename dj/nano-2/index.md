@@ -1,6 +1,6 @@
 # NANO (2)
 
-NANO (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bisou Mayfair, London on Thu, 10 Dec 2026.
+NANO (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bisou Mayfair, London on Thu, 10 Dec 2026.
 
 NANO is a tech house and house artist, with 4 gigs on soundcheck across London. Often billed alongside Just Marco, Pax Arabiana and Sistematic. Next up: Bisou Mayfair, London on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ NANO is a tech house and house artist, with 4 gigs on soundcheck across London. 
 
 Just Marco, Pax Arabiana, Sistematic
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nano-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nano-2/)*

@@ -1,6 +1,6 @@
 # Hendrik Brown
 
-Hendrik Brown is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gaffe, London on Fri, 11 Dec 2026.
+Hendrik Brown is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gaffe, London on Fri, 11 Dec 2026.
 
 Hendrik Brown is a house and electro artist based in United Kingdom, with 8 gigs on soundcheck across London and Newcastle. Often billed alongside Joe Sansom, Alisdair and Béton Brut. Next up: Gaffe, London on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Hendrik Brown is a house and electro artist based in United Kingdom, with 8 gigs
 
 Joe Sansom, Alisdair, Béton Brut
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikbrown/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikbrown/)*

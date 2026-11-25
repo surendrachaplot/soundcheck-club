@@ -1,0 +1,28 @@
+# Jesse Sandwich
+
+Jesse Sandwich is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Podlasie Club, Chicago on Sat, 5 Dec 2026.
+
+Jesse Sandwich is a house and italo disco artist based in United States of America, with 20 gigs on soundcheck across Chicago and Los Angeles. Often billed alongside Ross Kelly, BLACKCLUB and BLESSTONIO. Next up: Podlasie Club, Chicago on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Podlasie Club | Chicago |
+
+## Recently played
+
+- The California Clipper, Chicago · Sat, 24 Oct 2026
+- The California Clipper, Chicago · Tue, 29 Sept 2026
+- The California Clipper, Chicago · Sat, 22 Aug 2026
+- The California Clipper, Chicago · Sat, 20 Jun 2026
+- Apotheke, Los Angeles · Fri, 20 Mar 2026
+- The California Clipper, Chicago · Sat, 17 Jan 2026
+- The California Clipper, Chicago · Sat, 15 Nov 2025
+- TBA - Humboldt Park (Follow @humboldtarboreal for details), Chicago · Sun, 31 Aug 2025
+
+## Shares bills with
+
+Ross Kelly, BLACKCLUB, BLESSTONIO
+
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesandwich/)*

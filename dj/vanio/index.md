@@ -1,6 +1,6 @@
 # Vanio
 
-Vanio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Not For Sale Gallery, London on Sat, 28 Nov 2026.
+Vanio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Not For Sale Gallery, London on Sat, 28 Nov 2026.
 
 Vanio is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Fresh Lov3, Rowland and Boruch. Next up: Not For Sale Gallery, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Vanio is a techno and house artist based in United Kingdom, with 4 gigs on sound
 
 Fresh Lov3, Rowland, Boruch
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanio/)*

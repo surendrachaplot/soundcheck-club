@@ -1,6 +1,6 @@
 # Breakaway: New Year's Eve - Breaks / Hardcore / Jungle / Drum & Bass at Dalston Den
 
-Breakaway: New Year's Eve - Breaks / Hardcore / Jungle / Drum & Bass at Dalston Den on Thu 31 Dec, London. 6 artists: Agility, Blake, Bryn Brax and Dave Zhu and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Breakaway: New Year's Eve - Breaks / Hardcore / Jungle / Drum & Bass at Dalston Den on Thu 31 Dec, London. 6 artists: Agility, Blake (UK), Bryn Brax and Dave Zhu and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Breakaway: New Year's Eve - Breaks / Hardcore / Jungle / Drum & Bass at Dalston 
 ## Line-up
 
 - Agility
-- Blake (2)
+- Blake (UK)
 - Bryn Brax
 - Dave Zhu
 - Whatsname

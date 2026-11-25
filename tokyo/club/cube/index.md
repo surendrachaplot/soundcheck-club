@@ -1,6 +1,6 @@
 # Cube
 
-Cube is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "GOOD PEOPLE GOOD MUSIC" on Fri, 27 Nov 2026.
+Cube is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "GOOD PEOPLE GOOD MUSIC" on Fri, 27 Nov 2026.
 
 Cube is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Eichi Abe, EVE, JUN INAGAWA and Kanamemandala and 2 more. See dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
 
@@ -17,4 +17,4 @@ Cube is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-
 
 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo, Tokyo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*

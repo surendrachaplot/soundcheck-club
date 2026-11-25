@@ -1,6 +1,6 @@
 # Santos
 
-Santos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Socore Factory, Osaka on Mon, 7 Dec 2026.
+Santos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Socore Factory, Osaka on Mon, 7 Dec 2026.
 
 Santos is a techno and tech house artist based in Italy, with 20 gigs on soundcheck across Berlin, Budapest, Detroit and Glasgow and 10 more. Often billed alongside KRUELTY, Nico Moreno and Agents Of Time. Next up: Socore Factory, Osaka on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Santos is a techno and tech house artist based in Italy, with 20 gigs on soundch
 
 KRUELTY, Nico Moreno, Agents Of Time
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*

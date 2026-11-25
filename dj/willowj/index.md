@@ -1,6 +1,6 @@
 # Willow J
 
-Willow J is a Trance and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
+Willow J is a Trance and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
 
 Willow J is a trance and electro artist based in United Kingdom, with 28 gigs on soundcheck across Brighton, Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and maevie. Next up: The DBA, Manchester on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Willow J is a trance and electro artist based in United Kingdom, with 28 gigs on
 
 Lucky Bunny, Princess Elf Bar, maevie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*

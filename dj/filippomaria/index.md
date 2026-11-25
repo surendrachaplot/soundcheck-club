@@ -1,6 +1,6 @@
 # Filippo Maria
 
-Filippo Maria is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 27 Nov 2026.
+Filippo Maria is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 27 Nov 2026.
 
 Filippo Maria is a house and electronica artist based in Italy, with 3 gigs on soundcheck across Berlin, Central and Rome. Often billed alongside DJ Rou, Evaa_ and Franzoh. Next up: Crack Bellmer, Berlin on Fri 27 Nov.
 
@@ -16,4 +16,4 @@ Filippo Maria is a house and electronica artist based in Italy, with 3 gigs on s
 
 DJ Rou, Evaa_, Franzoh
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filippomaria/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filippomaria/)*

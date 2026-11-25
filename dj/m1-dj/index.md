@@ -1,6 +1,6 @@
 # M1-DJ
 
-M1-DJ is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at La Cheetah Club, Glasgow on Tue, 29 Dec 2026.
+M1-DJ is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Cheetah Club, Glasgow on Tue, 29 Dec 2026.
 
 M1-DJ is an electro and club artist based in United Kingdom, with 16 gigs on soundcheck across Glasgow. Often billed alongside K-LUB, Fraser Forbes and A-TØN. Next up: La Cheetah Club, Glasgow on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ M1-DJ is an electro and club artist based in United Kingdom, with 16 gigs on sou
 
 K-LUB, Fraser Forbes, A-TØN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-dj/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-dj/)*

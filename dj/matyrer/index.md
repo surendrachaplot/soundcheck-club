@@ -1,6 +1,6 @@
 # Måtyrer
 
-Måtyrer is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Gewölbe, Cologne on Sun, 20 Dec 2026.
+Måtyrer is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gewölbe, Cologne on Sun, 20 Dec 2026.
 
 Måtyrer is a techno and experimental artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Munich and 2 more. Often billed alongside Dornen, Mariami and lomi. Next up: Gewölbe, Cologne on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Måtyrer is a techno and experimental artist based in Germany, with 51 gigs on s
 
 Dornen, Mariami, lomi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matyrer/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matyrer/)*

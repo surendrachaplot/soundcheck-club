@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 6 Jan, Berlin. 2 artists: CCKY and Tashi Tashi. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 6 Jan, Berlin. 3 artists: Bee Lincoln, CCKY and Tashi Tashi. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TECHNO MITTWOCH at Sensorium on Wed 6 Jan, Berlin. 2 artists: CCKY and Tashi Tas
 
 ## Line-up
 
+- Bee Lincoln
 - CCKY
 - Tashi Tashi
 

@@ -1,6 +1,6 @@
 # wyche
 
-wyche is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 21soho, London on Fri, 27 Nov 2026.
+wyche is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 21soho, London on Fri, 27 Nov 2026.
 
 wyche is an ambient and house artist, with 9 gigs on soundcheck across Detroit and London. Often billed alongside Henson, BOSKY and DJ Love UK. Next up: 21soho, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ wyche is an ambient and house artist, with 9 gigs on soundcheck across Detroit a
 
 Henson, BOSKY, DJ Love UK
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyche/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyche/)*

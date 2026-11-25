@@ -1,8 +1,8 @@
 # Justin Tinderdate
 
-Justin Tinderdate is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Toffler, Rotterdam on Fri, 4 Dec 2026.
+Justin Tinderdate is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Toffler, Rotterdam on Fri, 4 Dec 2026.
 
-Justin Tinderdate is a techno and trance artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 29 more. Often billed alongside Elotrance, Cleopard2000 and Trancemaster Krause. Next up: Toffler, Rotterdam on Fri 4 Dec.
+Justin Tinderdate is a techno and trance artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 29 more. Often billed alongside Elotrance, Cleopard2000 and Trancemaster Krause. Next up: Toffler, Rotterdam on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Justin Tinderdate is a techno and trance artist based in Germany, with 161 gigs 
 | Fri, 4 Dec 2026 | Toffler | Rotterdam |
 | Sat, 12 Dec 2026 | Edelfettwerk | Hamburg |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
+| Fri, 1 Jan 2027 | Bootshaus | Cologne |
 | Fri, 8 Jan 2027 | Strasse E | Dresden |
 
 ## Recently played
@@ -28,4 +29,4 @@ Justin Tinderdate is a techno and trance artist based in Germany, with 161 gigs 
 
 Elotrance, Cleopard2000, Trancemaster Krause
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justintinderdate/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justintinderdate/)*

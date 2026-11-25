@@ -1,6 +1,6 @@
 # Antonsson
 
-Antonsson is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Gazebo, Stockholm on Thu, 31 Dec 2026.
+Antonsson is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Gazebo, Stockholm on Thu, 31 Dec 2026.
 
 Antonsson is a house and tech house artist based in Sweden, with 35 gigs on soundcheck across Copenhagen and Stockholm. Often billed alongside Nassim Mehran, Johannes Drakenberg and La Fleur. Next up: Gazebo, Stockholm on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Antonsson is a house and tech house artist based in Sweden, with 35 gigs on soun
 
 Nassim Mehran, Johannes Drakenberg, La Fleur
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonsson/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonsson/)*

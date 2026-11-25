@@ -1,8 +1,8 @@
 # blissy e
 
-blissy e is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
+blissy e is a House and Broken Beat artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
 
-blissy e is a house and broken beat artist based in United Kingdom, with 49 gigs on soundcheck across London. Often billed alongside DREY (UK), GENIETUNES and Mr. Redley. Next up: Hackney Bridge, London on Fri 4 Dec.
+blissy e is a house and broken beat artist based in United Kingdom, with 50 gigs on soundcheck across London. Often billed alongside Mr. Redley, DREY (UK) and GENIETUNES. Next up: Hackney Bridge, London on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ blissy e is a house and broken beat artist based in United Kingdom, with 49 gigs
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Hackney Bridge | London |
 | Fri, 18 Dec 2026 | Jumbi | London |
+| Thu, 31 Dec 2026 | Jumbi | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ blissy e is a house and broken beat artist based in United Kingdom, with 49 gigs
 
 ## Shares bills with
 
-DREY (UK), GENIETUNES, Mr. Redley
+Mr. Redley, DREY (UK), GENIETUNES
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*

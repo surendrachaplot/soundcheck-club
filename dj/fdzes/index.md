@@ -1,6 +1,6 @@
 # FDZ (ES)
 
-FDZ (ES) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at DETROIT CLUB, Barcelona on Sun, 6 Dec 2026.
+FDZ (ES) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at DETROIT CLUB, Barcelona on Sun, 6 Dec 2026.
 
 FDZ (ES) is a techno artist based in Spain, with 6 gigs on soundcheck across Barcelona. Often billed alongside Daryl Kaplan, Adriano. and Ander Arce. Next up: DETROIT CLUB, Barcelona on Sun 6 Dec.
 
@@ -22,4 +22,4 @@ FDZ (ES) is a techno artist based in Spain, with 6 gigs on soundcheck across Bar
 
 Daryl Kaplan, Adriano., Ander Arce
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fdzes/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fdzes/)*

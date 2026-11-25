@@ -1,6 +1,6 @@
 # PHIZ
 
-PHIZ is a Baile Funk and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Haggerston, London on Sat, 5 Dec 2026.
+PHIZ is a Baile Funk and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Haggerston, London on Sat, 5 Dec 2026.
 
 PHIZ is a baile funk and uk funky artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Akabema, TECHNOLUX and DREIAN. Next up: The Haggerston, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ PHIZ is a baile funk and uk funky artist based in United Kingdom, with 15 gigs o
 
 Akabema, TECHNOLUX, DREIAN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phiz/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phiz/)*

@@ -1,6 +1,6 @@
 # Thomas Moulin
 
-Thomas Moulin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Ippen, Tokyo on Fri, 27 Nov 2026.
+Thomas Moulin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ippen, Tokyo on Fri, 27 Nov 2026.
 
 Thomas Moulin is a house and techno artist, with 4 gigs on soundcheck across Madrid, Paris and Tokyo. Often billed alongside ABI (FR), Alex Dima and BANANA-CHAN. Next up: Ippen, Tokyo on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Thomas Moulin is a house and techno artist, with 4 gigs on soundcheck across Mad
 
 ABI (FR), Alex Dima, BANANA-CHAN
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmoulin/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmoulin/)*

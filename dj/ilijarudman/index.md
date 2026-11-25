@@ -1,6 +1,6 @@
 # Ilija Rudman
 
-Ilija Rudman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 12 Dec 2026.
+Ilija Rudman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 12 Dec 2026.
 
 Ilija Rudman is a house and disco artist based in Croatia, with 29 gigs on soundcheck across Bali, Bratislava, Istanbul and Ljubljana and 1 more. Often billed alongside Antonio Zuza, Danilo Plessow and Felver. Next up: Peti Kupe, Zagreb on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ilija Rudman is a house and disco artist based in Croatia, with 29 gigs on sound
 
 Antonio Zuza, Danilo Plessow, Felver
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilijarudman/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilijarudman/)*

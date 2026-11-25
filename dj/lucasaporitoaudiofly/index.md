@@ -1,6 +1,6 @@
 # Luca Saporito (Audiofly)
 
-Luca Saporito (Audiofly) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 10 Jan 2027.
+Luca Saporito (Audiofly) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 10 Jan 2027.
 
 Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Andhim, Landikhan and Jamie Jones. Next up: Parque Ciudad Empresarial, Santiago on Sun 10 Jan.
 
@@ -25,4 +25,4 @@ Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 5
 
 Andhim, Landikhan, Jamie Jones
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*

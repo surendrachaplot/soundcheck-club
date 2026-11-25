@@ -1,6 +1,6 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Ambo Club w. Phuong-Dan, Love-Songs, Acid Drones + more" on Fri, 27 Nov 2026.
+The Lubber Fiend is a music venue in Newcastle with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Ambo Club w. Phuong-Dan, Love-Songs, Acid Drones + more" on Fri, 27 Nov 2026.
 
 The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 8 upcoming gigs, with line-ups including Adzmandala, Berwick (Live), blo rida and Bushbby and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
@@ -21,4 +21,4 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 8 upcoming 
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

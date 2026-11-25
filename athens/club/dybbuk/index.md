@@ -1,14 +1,13 @@
 # Dybbuk
 
-Dybbuk is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "Believe presents Cap - Dybbuk" on Sat, 21 Nov 2026.
+Dybbuk is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Dybbuk - AME DJ" on Fri, 18 Dec 2026.
 
-Dybbuk is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Always Late, Cap and Jonn. See dates, start times and who's playing.
+Dybbuk is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Âme. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Believe presents Cap - Dybbuk | Always Late, Cap, Jonn |
-| Sat, 21 Nov 2026 | Believe pres. Cap + Jonn + Always Late | Always Late, Cap, Jonn |
+| Fri, 18 Dec 2026 | Dybbuk - AME DJ | Âme |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/dybbuk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/dybbuk/)*

@@ -1,6 +1,6 @@
 # Aidan
 
-Aidan is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Hen's Teeth, Dublin on Wed, 23 Dec 2026.
+Aidan is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hen's Teeth, Dublin on Wed, 23 Dec 2026.
 
 Aidan is a house and italo disco artist based in Ireland, with 38 gigs on soundcheck across Berlin and Dublin. Often billed alongside Bella Festa, David Diamond and Matteo Gamba. Next up: Hen's Teeth, Dublin on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ Aidan is a house and italo disco artist based in Ireland, with 38 gigs on soundc
 
 Bella Festa, David Diamond, Matteo Gamba
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidan/)*

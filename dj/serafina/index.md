@@ -1,6 +1,6 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at 131 Mccormack St, Toronto on Fri, 4 Dec 2026.
+Serafina is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 131 Mccormack St, Toronto on Fri, 4 Dec 2026.
 
 Serafina is a techno and trance artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: 131 Mccormack St, Toronto on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ Serafina is a techno and trance artist based in Germany, with 202 gigs on soundc
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

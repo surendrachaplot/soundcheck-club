@@ -1,6 +1,6 @@
 # Giorgia Angiuli
 
-Giorgia Angiuli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bauhaus, Houston on Wed, 25 Nov 2026.
+Giorgia Angiuli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bauhaus, Houston on Wed, 25 Nov 2026.
 
 Giorgia Angiuli is a techno and house artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Lino Fuso, Anfisa Letyago and Cambric. Next up: Bauhaus, Houston on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Giorgia Angiuli is a techno and house artist based in Italy, with 78 gigs on sou
 
 Lino Fuso, Anfisa Letyago, Cambric
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*

@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Flohpol" on Thu, 26 Nov 2026.
+Südpol is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Flohpol" on Thu, 26 Nov 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Alessia Ceruti, ALI3N, ANDATA and Anton Jonathan and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with 
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

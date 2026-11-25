@@ -1,6 +1,6 @@
 # DJ S (UK)
 
-DJ S (UK) is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
+DJ S (UK) is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
 
 DJ S (UK) is a house and tech house artist based in United Kingdom, with 186 gigs on soundcheck across Amsterdam, Athens, Bangkok and Belfast and 33 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: All is Joy Studios, London on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ DJ S (UK) is a house and tech house artist based in United Kingdom, with 186 gig
 
 Shenin Amara, Jerome Six, JAYDAA
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*

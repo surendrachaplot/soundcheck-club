@@ -1,6 +1,6 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+Ben Sims is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
 Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: FOLD, London on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on 
 
 Oscar Mulero, Blasha & Allatt, Nuke
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

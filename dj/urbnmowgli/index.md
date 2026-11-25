@@ -1,6 +1,6 @@
 # UrbnMowgli
 
-UrbnMowgli is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+UrbnMowgli is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 UrbnMowgli is a house and breakbeat artist based in Germany, with 30 gigs on soundcheck across Barcelona, Basel, Berlin and Bratislava and 3 more. Often billed alongside Moodrich, Lai Raw and Bunny Tsukino. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ UrbnMowgli is a house and breakbeat artist based in Germany, with 30 gigs on sou
 
 Moodrich, Lai Raw, Bunny Tsukino
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*

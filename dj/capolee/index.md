@@ -1,14 +1,16 @@
 # Capo Lee
 
-Capo Lee is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Headrow House, Leeds on Sat, 5 Dec 2026.
+Capo Lee is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
 
-Capo Lee is a garage and grime artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 25 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Headrow House, Leeds on Sat 5 Dec.
+Capo Lee is a garage and bass artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 25 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Electric Brixton, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Electric Brixton | London |
 | Sat, 5 Dec 2026 | Headrow House | Leeds |
+| Tue, 8 Dec 2026 | Defected's The Basement | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Capo Lee is a garage and grime artist based in United Kingdom, with 101 gigs on 
 
 Bakey, Izco, bullet tooth
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*

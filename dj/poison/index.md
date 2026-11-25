@@ -1,14 +1,14 @@
 # POISON
 
-POISON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Dec 2026.
+POISON is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
 
-POISON is a techno and house artist, with 12 gigs on soundcheck across Amsterdam, Frankfurt and Lisbon. Often billed alongside DJINNMUSIC, ATJOP and Ana Dimco. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 12 Dec.
+POISON is a techno and psytrance artist, with 12 gigs on soundcheck across Amsterdam, Lisbon and Mexico City. Often billed alongside DJINNMUSIC, Ana Dimco and Bentech. Next up: TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Dec 2026 | Schlachthof Wiesbaden | Frankfurt |
+| Sat, 28 Nov 2026 | TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO. | Mexico City |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ POISON is a techno and house artist, with 12 gigs on soundcheck across Amsterdam
 
 ## Shares bills with
 
-DJINNMUSIC, ATJOP, Ana Dimco
+DJINNMUSIC, Ana Dimco, Bentech
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poison/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poison/)*

@@ -1,14 +1,14 @@
 # Four Snacks Club
 
-Four Snacks Club is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "33/45 & Concept 101 - Winter Season Opening" on Fri, 27 Nov 2026.
+Four Snacks Club is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "33/45 & Concept 101 - Winter Season Opening" on Fri, 27 Nov 2026.
 
-Four Snacks Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including Cami Jones, Karibik Joe and Ramon Imhof. See dates, start times and who's playing.
+Four Snacks Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including ATRACO, Cami Jones, Karibik Joe and Ramon Imhof. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | 33/45 & Concept 101 - Winter Season Opening | Cami Jones |
-| Sat, 5 Dec 2026 | CARDIA | Karibik Joe, Ramon Imhof |
+| Sat, 5 Dec 2026 | CARDIA | ATRACO, Karibik Joe, Ramon Imhof |
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/four-snacks-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/four-snacks-club/)*

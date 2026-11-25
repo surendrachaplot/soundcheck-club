@@ -1,14 +1,15 @@
 # Oliver SCH
 
-Oliver SCH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Very Small Club, Budapest on Sat, 5 Dec 2026.
+Oliver SCH is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Very Small Club, Budapest on Sat, 5 Dec 2026.
 
-Oliver SCH is a house and techno artist based in Hungary, with 26 gigs on soundcheck across Budapest. Often billed alongside Electric Boutique, Andrija Jäger and Acsa. Next up: Very Small Club, Budapest on Sat 5 Dec.
+Oliver SCH is a house and techno artist based in Hungary, with 27 gigs on soundcheck across Budapest. Often billed alongside Electric Boutique, Andrija Jäger and Acsa. Next up: Very Small Club, Budapest on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Very Small Club | Budapest |
+| Sat, 12 Dec 2026 | Atno | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Oliver SCH is a house and techno artist based in Hungary, with 26 gigs on soundc
 
 Electric Boutique, Andrija Jäger, Acsa
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversch/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversch/)*

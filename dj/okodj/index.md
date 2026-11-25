@@ -1,8 +1,8 @@
 # OKO DJ
 
-OKO DJ is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+OKO DJ is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
-OKO DJ is an experimental and techno artist based in France, with 104 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Judaah. Next up: Botanique, Brussels on Sat 28 Nov.
+OKO DJ is an experimental and techno artist based in France, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Onarrivenow. Next up: Botanique, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OKO DJ is an experimental and techno artist based in France, with 104 gigs on so
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 | Sat, 5 Dec 2026 | Astron Club | Athens |
+| Fri, 11 Dec 2026 | Big Table | Athens |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ OKO DJ is an experimental and techno artist based in France, with 104 gigs on so
 
 ## Shares bills with
 
-Eiger Drums Propaganda, Nosedrip, Judaah
+Eiger Drums Propaganda, Nosedrip, Onarrivenow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*

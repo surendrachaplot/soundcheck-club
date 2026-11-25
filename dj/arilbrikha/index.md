@@ -1,6 +1,6 @@
 # Aril Brikha
 
-Aril Brikha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Umoya, Naples on Fri, 4 Jun 2027.
+Aril Brikha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Umoya, Naples on Fri, 4 Jun 2027.
 
 Aril Brikha is a techno and electro artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Belgrade, Madrid and Marseille and 2 more. Often billed alongside Lola Haro, Nuno dos Santos and Adi. Next up: Umoya, Naples on Fri 4 Jun.
 
@@ -23,4 +23,4 @@ Aril Brikha is a techno and electro artist based in Germany, with 7 gigs on soun
 
 Lola Haro, Nuno dos Santos, Adi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arilbrikha/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arilbrikha/)*

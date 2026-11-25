@@ -1,8 +1,8 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Space 92 is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Space 92 is a techno and house artist based in France, with 153 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 63 more. Often billed alongside Popof, Lilly Palmer and Marie Vaunt. Next up: TBA, Buenos Aires on Fri 20 Nov.
+Space 92 is a techno and house artist based in France, with 154 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 63 more. Often billed alongside Popof, Lilly Palmer and Marie Vaunt. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Space 92 is a techno and house artist based in France, with 153 gigs on soundche
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 28 Nov 2026 | 99 Scott Ave | New York City |
+| Thu, 31 Dec 2026 | EXPO XXI | Warsaw |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Sat, 13 Feb 2027 | Ergo Arena | Gdansk |
@@ -29,4 +30,4 @@ Space 92 is a techno and house artist based in France, with 153 gigs on soundche
 
 Popof, Lilly Palmer, Marie Vaunt
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

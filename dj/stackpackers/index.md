@@ -1,6 +1,6 @@
 # Stackpackers
 
-Stackpackers is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Carol Dee, Melbourne on Sat, 12 Dec 2026.
+Stackpackers is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Carol Dee, Melbourne on Sat, 12 Dec 2026.
 
 Stackpackers is a drum & bass and bass artist based in United Kingdom, with 34 gigs on soundcheck across Melbourne and Sydney. Often billed alongside MELTA, Aaron Static and aGenda. Next up: Carol Dee, Melbourne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Stackpackers is a drum & bass and bass artist based in United Kingdom, with 34 g
 
 MELTA, Aaron Static, aGenda
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stackpackers/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stackpackers/)*

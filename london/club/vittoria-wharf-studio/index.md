@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Jon Gurd & Reset Robot Live" on Fri, 27 Nov 2026.
+Vittoria Wharf Studio is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Jon Gurd & Reset Robot Live" on Fri, 27 Nov 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AKWA, Andrew Robertson, Basement Maxx and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -14,13 +14,13 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcomi
 | Sat, 5 Dec 2026 | AudioRehab | Darren J, Eeks, Jack Burt, Josh German, Mark Radford, Nocturnal Joe |
 | Sun, 6 Dec 2026 | Sunday Best presents Zero 7 (DJ Set), Frank & Tayo and Rob da Bank |  |
 | Thu, 10 Dec 2026 | teething pains + friends: free show | M Eleven, Wounder, madame3swords |
-| Sun, 13 Dec 2026 | Moderno X Overthink | CRL (1), Nico Etorena |
+| Sun, 13 Dec 2026 | Moderno X Overthink | CRL (1), Damiano (2), Nico Etorena, Vass |
 | Mon, 14 Dec 2026 | Solstice Solidarity Synthesis: Winter 2026 | Drum & Lace, elisa (3) |
 | Sat, 19 Dec 2026 | Venuz Launch Party | karishma |
-| Sun, 20 Dec 2026 | Top Thwomps Finale: Numero 6 & Customs | Basement Maxx, Customs, Mackie |
+| Sun, 20 Dec 2026 | Top Thwomps Finale: Numero 6 & Customs | Basement Maxx, Customs, Mackie, nicky brown snout |
 
 ## Address
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

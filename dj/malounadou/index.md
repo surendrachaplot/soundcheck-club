@@ -1,13 +1,14 @@
 # Malounadou
 
-Malounadou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Loft, Vienna on Sat, 12 Dec 2026.
+Malounadou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SASS Music Club, Vienna on Fri, 11 Dec 2026.
 
-Malounadou is a house and techno artist based in Germany, with 9 gigs on soundcheck across Vienna. Often billed alongside Altroy Jerome, Rayya and Anna Soto. Next up: The Loft, Vienna on Sat 12 Dec.
+Malounadou is a house and techno artist based in Germany, with 10 gigs on soundcheck across Vienna. Often billed alongside Altroy Jerome, Rayya and Anna Soto. Next up: SASS Music Club, Vienna on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | SASS Music Club | Vienna |
 | Sat, 12 Dec 2026 | The Loft | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ Malounadou is a house and techno artist based in Germany, with 9 gigs on soundch
 
 Altroy Jerome, Rayya, Anna Soto
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*

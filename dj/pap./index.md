@@ -1,17 +1,18 @@
 # Pap.
 
-Pap. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Madrone Art Bar, San Francisco/Oakland on Thu, 19 Nov 2026.
+Pap. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Apéro Club, San Francisco/Oakland on Thu, 31 Dec 2026.
 
-Pap. is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Los Angeles, Mexico City and San Francisco/Oakland. Often billed alongside AGROPOL, DJ Panderer and John Glass. Next up: Madrone Art Bar, San Francisco/Oakland on Thu 19 Nov.
+Pap. is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Los Angeles, Mexico City and San Francisco/Oakland. Often billed alongside AGROPOL, DJ Panderer and John Glass. Next up: Apéro Club, San Francisco/Oakland on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Madrone Art Bar | San Francisco/Oakland |
+| Thu, 31 Dec 2026 | Apéro Club | San Francisco/Oakland |
 
 ## Recently played
 
+- Madrone Art Bar, San Francisco/Oakland · Thu, 19 Nov 2026
 - Madrone Art Bar, San Francisco/Oakland · Thu, 15 Oct 2026
 - Madrone Art Bar, San Francisco/Oakland · Sun, 6 Sept 2026
 - Madrone Art Bar, San Francisco/Oakland · Thu, 20 Aug 2026
@@ -19,10 +20,9 @@ Pap. is a house and techno artist based in United States of America, with 27 gig
 - 1015 Folsom, San Francisco/Oakland · Fri, 17 Jul 2026
 - Madrone Art Bar, San Francisco/Oakland · Thu, 16 Jul 2026
 - Madrone Art Bar, San Francisco/Oakland · Thu, 21 May 2026
-- Madrone Art Bar, San Francisco/Oakland · Thu, 16 Apr 2026
 
 ## Shares bills with
 
 AGROPOL, DJ Panderer, John Glass
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pap./)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pap./)*

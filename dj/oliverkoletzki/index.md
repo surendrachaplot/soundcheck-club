@@ -1,6 +1,6 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 11 Dec 2026.
+Oliver Koletzki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 11 Dec 2026.
 
 Oliver Koletzki is a house and techno artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: ORIGIN, Los Angeles on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Oliver Koletzki is a house and techno artist based in Germany, with 135 gigs on 
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

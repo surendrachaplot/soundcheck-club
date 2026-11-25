@@ -1,6 +1,6 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
+Karina Schneider is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
 
 Karina Schneider is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 3 more. Often billed alongside Marc Schneider, Beau Didier and AMORAL. Next up: Atelier Rooftop, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Karina Schneider is a techno and house artist based in Germany, with 78 gigs on 
 
 Marc Schneider, Beau Didier, AMORAL
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*

@@ -1,14 +1,15 @@
 # CHISE
 
-CHISE is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Chika-Ikkai, Osaka on Sat, 28 Nov 2026.
+CHISE is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Chika-Ikkai, Osaka on Sat, 28 Nov 2026.
 
-CHISE is a techno and bass artist based in Japan, with 81 gigs on soundcheck across Osaka and Tokyo. Often billed alongside TERU, yu-more and Will A. Next up: Chika-Ikkai, Osaka on Sat 28 Nov.
+CHISE is a techno and bass artist based in Japan, with 82 gigs on soundcheck across Osaka and Tokyo. Often billed alongside TERU, yu-more and Will A. Next up: Chika-Ikkai, Osaka on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Chika-Ikkai | Osaka |
+| Mon, 28 Dec 2026 | Teranoma Tidepool | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CHISE is a techno and bass artist based in Japan, with 81 gigs on soundcheck acr
 
 TERU, yu-more, Will A
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chise/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chise/)*

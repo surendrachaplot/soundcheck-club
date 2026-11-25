@@ -1,6 +1,6 @@
 # KVTS
 
-KVTS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Flux, Istanbul on Fri, 27 Nov 2026.
+KVTS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Flux, Istanbul on Fri, 27 Nov 2026.
 
 KVTS is a techno and industrial artist based in Turkey, with 26 gigs on soundcheck across Istanbul. Often billed alongside Procombo, Arya (TR) and Erde. Next up: Flux, Istanbul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KVTS is a techno and industrial artist based in Turkey, with 26 gigs on soundche
 
 Procombo, Arya (TR), Erde
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvts/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvts/)*

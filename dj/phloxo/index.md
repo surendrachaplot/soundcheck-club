@@ -1,14 +1,15 @@
 # PHLOXO
 
-PHLOXO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at ÆDEN, Berlin on Fri, 11 Dec 2026.
+PHLOXO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ÆDEN, Berlin on Fri, 11 Dec 2026.
 
-PHLOXO is a techno and trance artist based in Ukraine, with 62 gigs on soundcheck across Berlin, Hamburg and Vienna. Often billed alongside Manrick Stapez, HAUSBRAND and .Cheka. Next up: ÆDEN, Berlin on Fri 11 Dec.
+PHLOXO is a techno and trance artist based in Ukraine, with 63 gigs on soundcheck across Berlin, Hamburg and Vienna. Often billed alongside Manrick Stapez, HAUSBRAND and .Cheka. Next up: ÆDEN, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | ÆDEN | Berlin |
+| Sat, 19 Dec 2026 | ROSA | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ PHLOXO is a techno and trance artist based in Ukraine, with 62 gigs on soundchec
 
 Manrick Stapez, HAUSBRAND, .Cheka
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phloxo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phloxo/)*

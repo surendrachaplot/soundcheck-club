@@ -1,17 +1,18 @@
 # Bramble
 
-Bramble is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Peaky Blindrunk and Dema" on Sat, 21 Nov 2026.
+Bramble is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Giuseppe" on Fri, 27 Nov 2026.
 
-Bramble is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including Peaky Blindrunk. See dates, start times and who's playing. 16A Queen St, Edinburgh EH2 1JE.
+Bramble is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Twelve Original Players. See dates, start times and who's playing. 16A Queen St, Edinburgh EH2 1JE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Peaky Blindrunk and Dema | Peaky Blindrunk |
+| Fri, 27 Nov 2026 | Giuseppe |  |
+| Sat, 28 Nov 2026 | 12 Original Players & Kidcamel | Twelve Original Players |
 
 ## Address
 
 16A Queen St, Edinburgh EH2 1JE, Edinburgh
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/bramble/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/bramble/)*

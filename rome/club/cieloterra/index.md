@@ -1,6 +1,6 @@
 # Cieloterra
 
-Cieloterra is a music venue in Rome with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "27|11 RR with future.666" on Fri, 27 Nov 2026.
+Cieloterra is a music venue in Rome with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "27|11 RR with future.666" on Fri, 27 Nov 2026.
 
 Cieloterra is a music venue in Rome listed on soundcheck. 7 upcoming gigs, with line-ups including ANXHELA, DOCTOR MÜCKE, Ellen Allien and future.666 and 2 more. See dates, start times and who's playing. Via Di Portonaccio 23/B - 00159 Roma (RM), Italy.
 
@@ -20,4 +20,4 @@ Cieloterra is a music venue in Rome listed on soundcheck. 7 upcoming gigs, with 
 
 Via Di Portonaccio 23/B - 00159 Roma (RM), Italy, Rome
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*

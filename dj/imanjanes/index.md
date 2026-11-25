@@ -1,8 +1,8 @@
 # Iman Janes
 
-Iman Janes is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Fuse, Brussels on Fri, 27 Nov 2026.
+Iman Janes is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fuse, Brussels on Fri, 27 Nov 2026.
 
-Iman Janes is a techno and house artist based in France, with 34 gigs on soundcheck across Berlin, Bratislava, Brussels and Dortmund / Essen and 9 more. Often billed alongside KALTBLUME, Sicion and Alarico. Next up: Fuse, Brussels on Fri 27 Nov.
+Iman Janes is a techno and tech house artist based in France, with 34 gigs on soundcheck across Berlin, Bratislava, Brussels and Dortmund / Essen and 9 more. Often billed alongside KALTBLUME, Sicion and Alarico. Next up: Fuse, Brussels on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Iman Janes is a techno and house artist based in France, with 34 gigs on soundch
 
 KALTBLUME, Sicion, Alarico
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

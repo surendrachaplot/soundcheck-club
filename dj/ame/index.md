@@ -1,8 +1,8 @@
 # Âme
 
-Âme is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Robert Johnson, Hesse on Sat, 28 Nov 2026.
+Âme is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Robert Johnson, Hesse on Sat, 28 Nov 2026.
 
-Âme is a techno and house artist based in Germany, with 406 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 81 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Robert Johnson, Hesse on Sat 28 Nov.
+Âme is a techno and house artist based in Germany, with 407 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 81 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Robert Johnson, Hesse on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Sat, 28 Nov 2026 | Robert Johnson | Hesse |
 | Sat, 28 Nov 2026 | Luz De Gas | Barcelona |
 | Sat, 12 Dec 2026 | E1 | London |
+| Fri, 18 Dec 2026 | Dybbuk | Athens |
 | Sat, 19 Dec 2026 | Het Sieraad | Amsterdam |
 | Fri, 1 Jan 2027 | 7 Palmer Parade, Cremorne 3121 | Melbourne |
 
@@ -29,4 +30,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

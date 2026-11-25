@@ -1,6 +1,6 @@
 # elfie
 
-elfie is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 27 Nov 2026.
+elfie is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 27 Nov 2026.
 
 elfie is a trance and techno artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside Tiefklang, DJ Bumski and DJ Frechdachs. Next up: Humboldthain Club, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ elfie is a trance and techno artist based in Germany, with 20 gigs on soundcheck
 
 Tiefklang, DJ Bumski, DJ Frechdachs
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*

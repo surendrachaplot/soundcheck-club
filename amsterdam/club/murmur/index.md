@@ -1,6 +1,6 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "mesa e roda: a night of brazilian flavours and sounds w/ dj badu & cocada" on Fri, 27 Nov 2026.
+murmur is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "mesa e roda: a night of brazilian flavours and sounds w/ dj badu & cocada" on Fri, 27 Nov 2026.
 
 murmur is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Jo FLM, NATHIFA EFIA and yusu selectors. See dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
@@ -17,4 +17,4 @@ murmur is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with
 
 Johan van Hasseltweg 39 HS, 1021 KN Amsterdam, Amsterdam
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*

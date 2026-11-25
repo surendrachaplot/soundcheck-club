@@ -1,6 +1,6 @@
 # Dean Sherry
 
-Dean Sherry is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pygmalion, Dublin on Fri, 4 Dec 2026.
+Dean Sherry is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pygmalion, Dublin on Fri, 4 Dec 2026.
 
 Dean Sherry is a house and techno artist based in Ireland, with 11 gigs on soundcheck across Dublin. Often billed alongside Dr.Flamer, Paddy Sheridan and Cailín. Next up: Pygmalion, Dublin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dean Sherry is a house and techno artist based in Ireland, with 11 gigs on sound
 
 Dr.Flamer, Paddy Sheridan, Cailín
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deansherry/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deansherry/)*

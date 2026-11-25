@@ -1,8 +1,8 @@
 # Kora Lyssa
 
-Kora Lyssa is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
+Kora Lyssa is a Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
 
-Kora Lyssa is a techno artist based in Spain, with 27 gigs on soundcheck across Milan. Often billed alongside Marthial, cccre and Iacopo Carli. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
+Kora Lyssa is a techno artist based in Spain, with 29 gigs on soundcheck across Milan. Often billed alongside Marthial, cccre and Iacopo Carli. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Kora Lyssa is a techno artist based in Spain, with 27 gigs on soundcheck across 
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Tempio del Futuro Perduto | Milan |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 1 Jan 2027 | Tempio del Futuro Perduto | Milan |
+| Sat, 16 Jan 2027 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Kora Lyssa is a techno artist based in Spain, with 27 gigs on soundcheck across 
 
 Marthial, cccre, Iacopo Carli
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koralyssa/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koralyssa/)*

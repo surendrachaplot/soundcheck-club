@@ -1,6 +1,6 @@
 # ✦encore.une.fois✦ / TUESDAY TECHNO RAVE / NYE EDITION / 2 FLOORS at OXI
 
-✦encore.une.fois✦ / TUESDAY TECHNO RAVE / NYE EDITION / 2 FLOORS at OXI on Tue 29 Dec, Berlin. 4 artists: Answer Code Request, Koboyo, Linn Elisabet and Mila Black. Techno and Industrial. See the line-up on soundcheck.
+✦encore.une.fois✦ / TUESDAY TECHNO RAVE / NYE EDITION / 2 FLOORS at OXI on Tue 29 Dec, Berlin. 5 artists: Answer Code Request, CAIVA, Koboyo and Linn Elisabet and 1 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Answer Code Request
+- CAIVA
 - Koboyo
 - Linn Elisabet
 - Mila Black

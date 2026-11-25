@@ -1,6 +1,6 @@
 # 2theT
 
-2theT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at A.i Warehouse, Washington DC on Sat, 28 Nov 2026.
+2theT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at A.i Warehouse, Washington DC on Sat, 28 Nov 2026.
 
 2theT is a house and tech house artist based in United States of America, with 11 gigs on soundcheck across Washington DC. Often billed alongside DJ T.E.C., Ben Seagren and Chriz Javey. Next up: A.i Warehouse, Washington DC on Sat 28 Nov.
 
@@ -25,4 +25,4 @@
 
 DJ T.E.C., Ben Seagren, Chriz Javey
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2thet/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2thet/)*

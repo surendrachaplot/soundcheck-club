@@ -1,6 +1,6 @@
 # Garcy
 
-Garcy is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Sound Machine, Toronto on Fri, 4 Dec 2026.
+Garcy is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sound Machine, Toronto on Fri, 4 Dec 2026.
 
 Garcy is a techno and disco artist based in Canada, with 4 gigs on soundcheck across Toronto. Often billed alongside Mane Campos, My Pet Monster and Sampol. Next up: Sound Machine, Toronto on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Garcy is a techno and disco artist based in Canada, with 4 gigs on soundcheck ac
 
 Mane Campos, My Pet Monster, Sampol
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcy/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcy/)*

@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Common Ground" on Fri, 27 Nov 2026.
+Yellow House is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Common Ground" on Fri, 27 Nov 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including AUTOFLOWER, Be Lion, Cleo Grooves and Ive Lovers and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -20,4 +20,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

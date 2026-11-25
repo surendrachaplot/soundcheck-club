@@ -1,8 +1,8 @@
 # SAEIVAN
 
-SAEIVAN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Stollen 134, Dortmund / Essen on Fri, 27 Nov 2026.
+SAEIVAN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stollen 134, Dortmund / Essen on Fri, 27 Nov 2026.
 
-SAEIVAN is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Bochum and Dortmund / Essen. Often billed alongside Kaya Schwarz, byrush and Émile. Next up: Stollen 134, Dortmund / Essen on Fri 27 Nov.
+SAEIVAN is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Bochum and Dortmund / Essen. Often billed alongside Kaya Schwarz, Olek Groshka and byrush. Next up: Stollen 134, Dortmund / Essen on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ SAEIVAN is a trance and techno artist based in Germany, with 4 gigs on soundchec
 
 ## Shares bills with
 
-Kaya Schwarz, byrush, Émile
+Kaya Schwarz, Olek Groshka, byrush
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saeivan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saeivan/)*

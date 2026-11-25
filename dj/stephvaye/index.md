@@ -1,6 +1,6 @@
 # Steph Vaye
 
-Steph Vaye is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Jupiter Disco, New York City on Sun, 27 Dec 2026.
+Steph Vaye is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jupiter Disco, New York City on Sun, 27 Dec 2026.
 
 Steph Vaye is an electronic artist, with 4 gigs on soundcheck across New York City. Often billed alongside Finn Jones, Lauren Murada and Guarionex Jr. Next up: Jupiter Disco, New York City on Sun 27 Dec.
 
@@ -20,4 +20,4 @@ Steph Vaye is an electronic artist, with 4 gigs on soundcheck across New York Ci
 
 Finn Jones, Lauren Murada, Guarionex Jr
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephvaye/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephvaye/)*

@@ -1,6 +1,6 @@
 # Ferdiyei
 
-Ferdiyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 1 Jan 2027.
+Ferdiyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 1 Jan 2027.
 
 Ferdiyei is a house and techno artist based in Spain, with 32 gigs on soundcheck across Barcelona, Guadalajara, Madrid and Mexico City. Often billed alongside Dj Coco, Klara Missyle and ABSOLUTE.. Next up: Nitsa Club, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Ferdiyei is a house and techno artist based in Spain, with 32 gigs on soundcheck
 
 Dj Coco, Klara Missyle, ABSOLUTE.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdiyei/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdiyei/)*

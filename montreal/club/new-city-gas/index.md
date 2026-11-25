@@ -1,6 +1,6 @@
 # New City Gas
 
-New City Gas is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Ian Asher" on Fri, 27 Nov 2026.
+New City Gas is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Ian Asher" on Fri, 27 Nov 2026.
 
 New City Gas is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Bakermat, D.O.D., Ely Oaks and Ian Asher and 2 more. See dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
 
@@ -20,4 +20,4 @@ New City Gas is a music venue in Montreal listed on soundcheck. 7 upcoming gigs,
 
 950 Ottawa St, Montreal, Quebec H3C 2J9, Montreal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/new-city-gas/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/new-city-gas/)*

@@ -1,6 +1,6 @@
 # Pax Arabiana
 
-Pax Arabiana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Bisou Mayfair, London on Thu, 10 Dec 2026.
+Pax Arabiana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bisou Mayfair, London on Thu, 10 Dec 2026.
 
 Pax Arabiana is a house and tech house artist based in Saudi Arabia, with 20 gigs on soundcheck across Barcelona and London. Often billed alongside Dips, Dish Dash and Emmanuel Jal. Next up: Bisou Mayfair, London on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Pax Arabiana is a house and tech house artist based in Saudi Arabia, with 20 gig
 
 Dips, Dish Dash, Emmanuel Jal
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paxarabiana/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paxarabiana/)*

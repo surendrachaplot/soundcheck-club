@@ -1,6 +1,6 @@
 # Nitebleach
 
-Nitebleach is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lark, Berlin on Thu, 3 Dec 2026.
+Nitebleach is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lark, Berlin on Thu, 3 Dec 2026.
 
 Nitebleach is an electronic artist based in Czech Republic, with 5 gigs on soundcheck across Berlin and Prague. Often billed alongside Hlen, ANTHEM and BoLs/sLoB. Next up: Lark, Berlin on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ Nitebleach is an electronic artist based in Czech Republic, with 5 gigs on sound
 
 Hlen, ANTHEM, BoLs/sLoB
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitebleach/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitebleach/)*

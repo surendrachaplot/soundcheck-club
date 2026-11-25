@@ -1,15 +1,13 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Chuck Strangers" on Tue, 24 Nov 2026.
+Headrow House is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kylie Wears Berghaus" on Fri, 27 Nov 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including Capo Lee, Kylie Wears Berghaus, Reeko and Tarzsa. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Capo Lee, Kylie Wears Berghaus, Reeko and Tarzsa. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 24 Nov 2026 | Chuck Strangers |  |
-| Tue, 24 Nov 2026 | 3PM Selects x Louder Noize - Sounds of Electro |  |
 | Fri, 27 Nov 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
 | Wed, 2 Dec 2026 | Milo Korbenski |  |
 | Fri, 4 Dec 2026 | Tarzsa | Tarzsa |
@@ -23,4 +21,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, 
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

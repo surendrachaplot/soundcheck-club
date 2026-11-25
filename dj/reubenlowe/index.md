@@ -1,17 +1,18 @@
 # Reuben Lowe
 
-Reuben Lowe is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Street, Edinburgh on Sun, 22 Nov 2026.
+Reuben Lowe is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Street, Edinburgh on Sun, 29 Nov 2026.
 
-Reuben Lowe is a disco and house artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh. Often billed alongside Mr Doris and The Reflex. Next up: The Street, Edinburgh on Sun 22 Nov.
+Reuben Lowe is a disco and house artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh. Often billed alongside Mr Doris and The Reflex. Next up: The Street, Edinburgh on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | The Street | Edinburgh |
+| Sun, 29 Nov 2026 | The Street | Edinburgh |
 
 ## Recently played
 
+- The Street, Edinburgh · Sun, 22 Nov 2026
 - The Street, Edinburgh · Sun, 15 Nov 2026
 - The Street, Edinburgh · Sun, 8 Nov 2026
 - The Street, Edinburgh · Sun, 1 Nov 2026
@@ -19,10 +20,9 @@ Reuben Lowe is a disco and house artist based in United Kingdom, with 15 gigs on
 - The Street, Edinburgh · Sun, 18 Oct 2026
 - The Street, Edinburgh · Sun, 11 Oct 2026
 - The Street, Edinburgh · Sun, 4 Oct 2026
-- The Street, Edinburgh · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Mr Doris, The Reflex
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reubenlowe/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reubenlowe/)*

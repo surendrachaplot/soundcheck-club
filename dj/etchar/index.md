@@ -1,6 +1,6 @@
 # Etchar
 
-Etchar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
+Etchar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
 
 Etchar is a techno and house artist based in Jordan, with 4 gigs on soundcheck across Bangkok and Thailand. Often billed alongside Elaheh, DOTT and Dean Chew. Next up: Little Moon Villa Koh Mak, Thailand on Tue 29 Dec.
 
@@ -20,4 +20,4 @@ Etchar is a techno and house artist based in Jordan, with 4 gigs on soundcheck a
 
 Elaheh, DOTT, Dean Chew
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etchar/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etchar/)*

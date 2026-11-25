@@ -1,6 +1,6 @@
 # Sariim
 
-Sariim is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
+Sariim is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Sariim is an experimental and techno artist based in Ukraine, with 21 gigs on soundcheck across Belgrade and Berlin. Often billed alongside Costa (FR), Chaosy and Jana Woodstock. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sariim is an experimental and techno artist based in Ukraine, with 21 gigs on so
 
 Costa (FR), Chaosy, Jana Woodstock
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*

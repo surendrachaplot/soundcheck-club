@@ -1,6 +1,6 @@
 # Link
 
-Link is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Chlär & Ignez" on Mon, 7 Dec 2026.
+Link is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Chlär & Ignez" on Mon, 7 Dec 2026.
 
 Link is a music venue in Bologna listed on soundcheck. 4 upcoming gigs, with line-ups including Chlär, DJ Rou, Ellen Allien and Flavio Deff and 2 more. See dates, start times and who's playing. Via Francesco Fantoni 21, 40127 Bologna (BO), Italy.
 
@@ -17,4 +17,4 @@ Link is a music venue in Bologna listed on soundcheck. 4 upcoming gigs, with lin
 
 Via Francesco Fantoni 21, 40127 Bologna (BO), Italy, Bologna
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/link/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/link/)*

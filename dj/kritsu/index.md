@@ -1,8 +1,8 @@
 # Krit Su
 
-Krit Su is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Culture Cafe, Bangkok on Tue, 1 Dec 2026.
+Krit Su is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Culture Cafe, Bangkok on Tue, 1 Dec 2026.
 
-Krit Su is a techno and house artist based in Thailand, with 97 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, Thaistick and Funkpheno. Next up: Culture Cafe, Bangkok on Tue 1 Dec.
+Krit Su is a techno and house artist based in Thailand, with 98 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, Thaistick and Funkpheno. Next up: Culture Cafe, Bangkok on Tue 1 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Krit Su is a techno and house artist based in Thailand, with 97 gigs on soundche
 | Tue, 1 Dec 2026 | Culture Cafe | Bangkok |
 | Fri, 11 Dec 2026 | TBA - bamboo.base.camping, Nakhon Nayok | Bangkok |
 | Fri, 1 Jan 2027 | Culture Cafe | Bangkok |
+| Mon, 1 Feb 2027 | Culture Cafe | Bangkok |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Krit Su is a techno and house artist based in Thailand, with 97 gigs on soundche
 
 DJ Krit Morton, Thaistick, Funkpheno
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kritsu/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kritsu/)*

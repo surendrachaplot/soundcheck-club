@@ -1,15 +1,14 @@
 # Rosilicious
 
-Rosilicious is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Helios37, Cologne on Fri, 18 Dec 2026.
+Rosilicious is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Helios37, Cologne on Fri, 18 Dec 2026.
 
-Rosilicious is a techno and trance artist based in Netherlands, with 43 gigs on soundcheck across Berlin, Cologne and Münster. Often billed alongside DJ Discostoff, DJ Tallboy and Gourski. Next up: Helios37, Cologne on Fri 18 Dec.
+Rosilicious is a techno and trance artist based in Netherlands, with 42 gigs on soundcheck across Berlin, Cologne and Münster. Often billed alongside DJ Discostoff, DJ Tallboy and Gourski. Next up: Helios37, Cologne on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Helios37 | Cologne |
-| Sat, 19 Dec 2026 | Helios37 | Cologne |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Rosilicious is a techno and trance artist based in Netherlands, with 43 gigs on 
 
 DJ Discostoff, DJ Tallboy, Gourski
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosilicious/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosilicious/)*

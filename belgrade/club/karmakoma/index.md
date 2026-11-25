@@ -1,8 +1,8 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 13 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Rouzi LIVE feat. RADAR Crew" on Thu, 26 Nov 2026.
+Karmakoma is a music venue in Belgrade with 18 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Rouzi LIVE feat. RADAR Crew" on Thu, 26 Nov 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Guney, Aneri, Dazion and Gigi Testa and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 18 upcoming gigs, with line-ups including 7OGI, Ali Guney, Amor Satyr and Aneri and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, w
 | Fri, 27 Nov 2026 | Kedr Livanskiy | Kedr Livanskiy |
 | Fri, 27 Nov 2026 | Xiaolin, Janko, Mande | Janko, Xiaolin |
 | Sat, 28 Nov 2026 | Steven Julien, Igor Jadranin | Igor Jadranin, Steven Julien |
-| Fri, 4 Dec 2026 | Dvica22 invites Patrick Gibin | Patrick Gibin |
+| Fri, 4 Dec 2026 | Dvica22 invites Patrick Gibin | 7OGI, Patrick Gibin |
 | Sat, 5 Dec 2026 | Matthias, Borut Cvajner, Ali Güney | Ali Guney, Matthias (1) |
 | Fri, 11 Dec 2026 | Dazion, Zora Collective | Dazion |
 | Fri, 11 Dec 2026 | Repetitor Live, predgrupa Antarktik |  |
@@ -23,4 +23,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, w
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

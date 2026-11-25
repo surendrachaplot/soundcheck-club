@@ -1,8 +1,8 @@
 # Manendria
 
-Manendria is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kastel, Istanbul on Fri, 27 Nov 2026.
+Manendria is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kastel, Istanbul on Fri, 27 Nov 2026.
 
-Manendria is a house and techno artist based in Turkey, with 20 gigs on soundcheck across Istanbul and Seoul. Often billed alongside Volkan Gunduz, FAITH and Alican. Next up: Kastel, Istanbul on Fri 27 Nov.
+Manendria is a house and techno artist based in Turkey, with 21 gigs on soundcheck across Istanbul and Seoul. Often billed alongside Volkan Gunduz, FAITH and Alican. Next up: Kastel, Istanbul on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Manendria is a house and techno artist based in Turkey, with 20 gigs on soundche
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Kastel | Istanbul |
 | Sat, 28 Nov 2026 | Kastel | Istanbul |
+| Fri, 4 Dec 2026 | Kastel | Istanbul |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Manendria is a house and techno artist based in Turkey, with 20 gigs on soundche
 
 Volkan Gunduz, FAITH, Alican
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manendria/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manendria/)*

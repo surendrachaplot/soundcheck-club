@@ -1,6 +1,6 @@
 # C. U. Next Tuesday at Bossa Nova Civic Club
 
-C. U. Next Tuesday at Bossa Nova Civic Club on Tue 5 Jan, New York City. 1 artist: emhy. Techno and Tech House. See the line-up on soundcheck.
+C. U. Next Tuesday at Bossa Nova Civic Club on Tue 5 Jan, New York City. 2 artists: Code Jin and emhy. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ C. U. Next Tuesday at Bossa Nova Civic Club on Tue 5 Jan, New York City. 1 artis
 
 ## Line-up
 
+- Code Jin
 - emhy
 
 *Source: [soundcheck](https://soundcheck.club/e/2580078-c-u-next-tuesday-at-bossa-nova-civic-club/)*

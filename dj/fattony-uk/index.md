@@ -1,6 +1,6 @@
 # Fat Tony
 
-Fat Tony is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Horns Inn, Southampton on Fri, 27 Nov 2026.
+Fat Tony is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Horns Inn, Southampton on Fri, 27 Nov 2026.
 
 Fat Tony is a house and disco artist based in United Kingdom, with 75 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 15 more. Often billed alongside Princess Julia, Pj Gardner and Melvo Baptiste. Next up: Horns Inn, Southampton on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Fat Tony is a house and disco artist based in United Kingdom, with 75 gigs on so
 
 Princess Julia, Pj Gardner, Melvo Baptiste
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony-uk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony-uk/)*

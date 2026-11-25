@@ -1,6 +1,6 @@
 # SubkoØne
 
-SubkoØne is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Transit, Chemnitz on Sat, 5 Dec 2026.
+SubkoØne is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Transit, Chemnitz on Sat, 5 Dec 2026.
 
 SubkoØne is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin, Chemnitz, Dresden and Erfurt and 1 more. Often billed alongside KREONE, Laviena and Ninette. Next up: Transit, Chemnitz on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ SubkoØne is a techno and trance artist based in Germany, with 30 gigs on soundc
 
 KREONE, Laviena, Ninette
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subkoone/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subkoone/)*

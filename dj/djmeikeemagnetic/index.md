@@ -1,6 +1,6 @@
 # DJ Meikee Magnetic
 
-DJ Meikee Magnetic is a Disco and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Bella, San Francisco/Oakland on Thu, 31 Dec 2026.
+DJ Meikee Magnetic is a Disco and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bella, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 DJ Meikee Magnetic is a disco and italo disco artist based in United States of America, with 4 gigs on soundcheck across San Jose and San Francisco/Oakland. Often billed alongside DJ PlayStation, Infinite Jess and Mere Notilde. Next up: Bella, San Francisco/Oakland on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ DJ Meikee Magnetic is a disco and italo disco artist based in United States of A
 
 DJ PlayStation, Infinite Jess, Mere Notilde
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeikeemagnetic/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeikeemagnetic/)*

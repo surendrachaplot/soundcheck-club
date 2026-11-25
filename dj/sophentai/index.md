@@ -1,6 +1,6 @@
 # Sophentai
 
-Sophentai is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Twisted Lime, Hobart on Fri, 4 Dec 2026.
+Sophentai is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Twisted Lime, Hobart on Fri, 4 Dec 2026.
 
 Sophentai is a garage and techno artist based in Australia, with 17 gigs on soundcheck across Adelaide and Hobart. Often billed alongside know.clu, Caucasian Opportunities and Denham Audio. Next up: Twisted Lime, Hobart on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sophentai is a garage and techno artist based in Australia, with 17 gigs on soun
 
 know.clu, Caucasian Opportunities, Denham Audio
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophentai/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophentai/)*

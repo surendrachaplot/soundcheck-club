@@ -1,6 +1,6 @@
 # Tripleset
 
-Tripleset is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at The Faight, San Francisco/Oakland on Fri, 27 Nov 2026.
+Tripleset is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Faight, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 Tripleset is a garage and house artist based in United States of America, with 19 gigs on soundcheck across Denver and San Francisco/Oakland. Often billed alongside That Franco, Alex Edward and Neumonic. Next up: The Faight, San Francisco/Oakland on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Tripleset is a garage and house artist based in United States of America, with 1
 
 That Franco, Alex Edward, Neumonic
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripleset/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripleset/)*

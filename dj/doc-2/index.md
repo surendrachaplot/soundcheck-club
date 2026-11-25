@@ -1,6 +1,6 @@
 # DOC (2)
 
-DOC (2) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at LAUT, Barcelona on Sat, 19 Dec 2026.
+DOC (2) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at LAUT, Barcelona on Sat, 19 Dec 2026.
 
 DOC is a techno and ambient artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Barcelona and Tokyo. Often billed alongside Vand, Ario and Cobahn. Next up: LAUT, Barcelona on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ DOC is a techno and ambient artist based in Netherlands, with 20 gigs on soundch
 
 Vand, Ario, Cobahn
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-2/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-2/)*

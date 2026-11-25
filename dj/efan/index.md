@@ -1,6 +1,6 @@
 # Efan
 
-Efan is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Patterns, Brighton on Fri, 27 Nov 2026.
+Efan is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Patterns, Brighton on Fri, 27 Nov 2026.
 
 Efan is a garage and bass artist based in United Kingdom, with 57 gigs on soundcheck across Aberdeen, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Jackum, Bladerunner and Bushbaby. Next up: Patterns, Brighton on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Efan is a garage and bass artist based in United Kingdom, with 57 gigs on soundc
 
 Jackum, Bladerunner, Bushbaby
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/efan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/efan/)*

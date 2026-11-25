@@ -1,6 +1,6 @@
 # ROKS
 
-ROKS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
+ROKS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
 
 ROKS is a techno and industrial artist based in Russia, with 5 gigs on soundcheck across Bangkok, Beijing, Rest Of Russia and Saint Petersburg. Often billed alongside REIKS, Abelle and Annie. Next up: TBA - Fabula, Rest Of Russia on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ ROKS is a techno and industrial artist based in Russia, with 5 gigs on soundchec
 
 REIKS, Abelle, Annie
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roks/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roks/)*

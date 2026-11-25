@@ -1,15 +1,13 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "uroz" on Mon, 23 Nov 2026.
+Moog Club is a music venue in Barcelona with 38 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Men (L-Men-T)" on Wed, 25 Nov 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including 6tma, BAMBI (BE), DJ MEN and Javi gOn and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 38 upcoming gigs, with line-ups including 6tma, Ancient Methods, BAMBI (BE) and carlota. and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | uroz | uroz |
-| Tue, 24 Nov 2026 | Rubén Seoane | Rubén Seoane |
 | Wed, 25 Nov 2026 | Men (L-Men-T) | DJ MEN |
 | Thu, 26 Nov 2026 | MOOG HISTORY: 6tma + uroz | 6tma, uroz |
 | Fri, 27 Nov 2026 | Bambi | BAMBI (BE) |
@@ -17,10 +15,12 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 | Sun, 29 Nov 2026 | Rabent | Rabent |
 | Mon, 30 Nov 2026 | uroz | uroz |
 | Tue, 1 Dec 2026 | Men (L-Men-T) | DJ MEN |
-| Thu, 24 Dec 2026 | sadsad |  |
+| Wed, 2 Dec 2026 | Lewis Fautzi + Serkin | Lewis Fautzi, Serkin |
+| Thu, 3 Dec 2026 | Carlota | carlota. |
+| Fri, 4 Dec 2026 | Rabent | Rabent |
 
 ## Address
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

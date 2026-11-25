@@ -1,6 +1,6 @@
 # DJ BootyShake
 
-DJ BootyShake is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 20 Feb 2027.
+DJ BootyShake is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 20 Feb 2027.
 
 DJ BootyShake is a jungle and drum & bass artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside PB (UK), NEENZY (UK) and Amelia Leigh. Next up: 24 Kitchen Street, Liverpool on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ DJ BootyShake is a jungle and drum & bass artist based in United Kingdom, with 1
 
 PB (UK), NEENZY (UK), Amelia Leigh
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootyshake/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootyshake/)*

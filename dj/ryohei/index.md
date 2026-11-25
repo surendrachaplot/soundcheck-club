@@ -1,14 +1,15 @@
 # RYOHEI
 
-RYOHEI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
+RYOHEI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
 
-RYOHEI is a techno and house artist based in Japan, with 332 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Osamu M, RINALUCKY and SUETSUGU. Next up: WOMB, Tokyo on Fri 27 Nov.
+RYOHEI is a techno and house artist based in Japan, with 333 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Osamu M, RINALUCKY and SUETSUGU. Next up: WOMB, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | WOMB | Tokyo |
+| Fri, 8 Jan 2027 | Mafali Cafe | Okinawa |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ RYOHEI is a techno and house artist based in Japan, with 332 gigs on soundcheck 
 
 Osamu M, RINALUCKY, SUETSUGU
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryohei/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryohei/)*

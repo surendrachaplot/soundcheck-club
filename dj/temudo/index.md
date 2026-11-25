@@ -1,8 +1,8 @@
 # Temudo
 
-Temudo is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at París 15, Malaga on Sat, 28 Nov 2026.
+Temudo is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at París 15, Malaga on Sat, 28 Nov 2026.
 
-Temudo is a techno and house artist based in Portugal, with 158 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 52 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: París 15, Malaga on Sat 28 Nov.
+Temudo is a techno and house artist based in Portugal, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 52 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: París 15, Malaga on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Temudo is a techno and house artist based in Portugal, with 158 gigs on soundche
 | Sat, 19 Dec 2026 | E1 | London |
 | Thu, 31 Dec 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 14 Jan 2027 | TBA | Boston |
+| Fri, 29 Jan 2027 | E1 | London |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Temudo is a techno and house artist based in Portugal, with 158 gigs on soundche
 
 VIL (PT), CRAVO, Nørbak
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*

@@ -1,6 +1,6 @@
 # Detroit Club: Eklipse New Year at DETROIT CLUB
 
-Detroit Club: Eklipse New Year at DETROIT CLUB on Thu 31 Dec, Barcelona. 3 artists: JKEY, JSTIN and VOICEX. See the line-up on soundcheck.
+Detroit Club: Eklipse New Year at DETROIT CLUB on Thu 31 Dec, Barcelona. 4 artists: JKEY, JSTIN, Pergo and VOICEX. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Detroit Club: Eklipse New Year at DETROIT CLUB on Thu 31 Dec, Barcelona. 3 artis
 
 - JKEY
 - JSTIN
+- Pergo
 - VOICEX
 
 *Source: [soundcheck](https://soundcheck.club/e/2588075-detroit-club-eklipse-new-year-at-detroit-club/)*

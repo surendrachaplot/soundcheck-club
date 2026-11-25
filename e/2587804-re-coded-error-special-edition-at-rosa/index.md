@@ -1,6 +1,6 @@
 # RE:CODED error_ · Special Edition at ROSA
 
-RE:CODED error_ · Special Edition at ROSA on Wed 30 Dec, Berlin. 1 artist: Nick Devon. Techno. See the line-up on soundcheck.
+RE:CODED error_ · Special Edition at ROSA on Wed 30 Dec, Berlin. 1 artist: Nick Devon. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

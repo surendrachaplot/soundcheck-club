@@ -1,6 +1,6 @@
 # Dzeko
 
-Dzeko is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Stereo, Glasgow on Sat, 5 Dec 2026.
+Dzeko is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Glasgow on Sat, 5 Dec 2026.
 
 Dzeko is a techno and electro artist based in Spain, with 45 gigs on soundcheck across Barcelona, Glasgow, Madrid and South. Often billed alongside Anika Kunst, HERMETICA and Aizikovic. Next up: Stereo, Glasgow on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Dzeko is a techno and electro artist based in Spain, with 45 gigs on soundcheck 
 
 Anika Kunst, HERMETICA, Aizikovic
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeko/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeko/)*

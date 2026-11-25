@@ -1,6 +1,6 @@
 # Ryme Tyme
 
-Ryme Tyme is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
+Ryme Tyme is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
 
 Ryme Tyme is a drum & bass and jungle artist based in United Kingdom, with 17 gigs on soundcheck across Brighton, Leeds, London and Sheffield and 1 more. Often billed alongside Double O, Mantra and Optical. Next up: FORGE, Sheffield on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ryme Tyme is a drum & bass and jungle artist based in United Kingdom, with 17 gi
 
 Double O, Mantra, Optical
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rymetyme/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rymetyme/)*

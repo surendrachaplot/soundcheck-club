@@ -1,6 +1,6 @@
 # Lil Tony
 
-Lil Tony is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Kaiku, Helsinki on Fri, 27 Nov 2026.
+Lil Tony is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kaiku, Helsinki on Fri, 27 Nov 2026.
 
 Lil Tony is a house and techno artist based in Finland, with 94 gigs on soundcheck across Helsinki, New York City, Rio de Janeiro and Tokyo. Often billed alongside CEB (FI), Katerina and HiToshi. Next up: Kaiku, Helsinki on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Lil Tony is a house and techno artist based in Finland, with 94 gigs on soundche
 
 CEB (FI), Katerina, HiToshi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liltony/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liltony/)*

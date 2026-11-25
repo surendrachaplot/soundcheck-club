@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Frankielanuit!, Toulouse on Sat, 5 Dec 2026.
+KT is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Frankielanuit!, Toulouse on Sat, 5 Dec 2026.
 
 KT is a house and techno artist based in United Kingdom, with 137 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 29 more. Often billed alongside Darush, Free Zing and Papa Nugs. Next up: Frankielanuit!, Toulouse on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ KT is a house and techno artist based in United Kingdom, with 137 gigs on soundc
 
 Darush, Free Zing, Papa Nugs
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

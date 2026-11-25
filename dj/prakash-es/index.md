@@ -1,6 +1,6 @@
 # Prakash
 
-Prakash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at El Viajero Las Palmas, Canary-islands on Thu, 26 Nov 2026.
+Prakash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at El Viajero Las Palmas, Canary-islands on Thu, 26 Nov 2026.
 
 Prakash is a house and techno artist, with 4 gigs on soundcheck across Barcelona, Bratislava, Canary Islands and Istanbul. Often billed alongside Ezgi, Makepeace and Reformed Society. Next up: El Viajero Las Palmas, Canary Islands on Thu 26 Nov.
 
@@ -20,4 +20,4 @@ Prakash is a house and techno artist, with 4 gigs on soundcheck across Barcelona
 
 Ezgi, Makepeace, Reformed Society
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prakash-es/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prakash-es/)*

@@ -1,6 +1,6 @@
 # folie
 
-folie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
+folie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
 
 folie is a techno and club artist based in United States of America, with 19 gigs on soundcheck across Chicago, Edinburgh, Geneva and Montreal and 1 more. Often billed alongside jess11, uRaNg3L and Rodent. Next up: TBA, Sydney on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ folie is a techno and club artist based in United States of America, with 19 gig
 
 jess11, uRaNg3L, Rodent
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folie/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folie/)*

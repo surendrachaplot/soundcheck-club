@@ -1,6 +1,6 @@
 # HUMAN  ERROR
 
-HUMAN  ERROR is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Magma, Tenerife, Canary-islands on Sat, 5 Dec 2026.
+HUMAN  ERROR is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Magma, Tenerife, Canary-islands on Sat, 5 Dec 2026.
 
 HUMAN  ERROR is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside WILDERÍCH, DVAID and zwilling.. Next up: Magma, Tenerife, Canary Islands on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ HUMAN  ERROR is a techno and trance artist based in Germany, with 64 gigs on sou
 
 WILDERÍCH, DVAID, zwilling.
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*

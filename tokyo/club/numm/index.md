@@ -1,14 +1,13 @@
 # Numm
 
-Numm is a music venue in Tokyo with 34 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "GROLIA" on Tue, 24 Nov 2026.
+Numm is a music venue in Tokyo with 33 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "creative lounge" on Thu, 26 Nov 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 34 upcoming gigs, with line-ups including 5ive, CHIDA, Connor and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 33 upcoming gigs, with line-ups including 5ive, CHIDA, Connor and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 24 Nov 2026 | GROLIA |  |
 | Thu, 26 Nov 2026 | creative lounge | Yuta Suzuki |
 | Thu, 26 Nov 2026 | creative lounge | Connor, Oviduct, Shingo, Yuta Suzuki, kentaraw |
 | Fri, 27 Nov 2026 | CHIDA | CHIDA |
@@ -18,9 +17,10 @@ Numm is a music venue in Tokyo listed on soundcheck. 34 upcoming gigs, with line
 | Wed, 2 Dec 2026 | REDEMPTION | TAT2K |
 | Fri, 4 Dec 2026 | On and On 1st Anniversary | DNG (1) |
 | Sat, 5 Dec 2026 | K.T.N.F | Kitano, NOONI NOBU |
+| Sat, 5 Dec 2026 | Rocco Universal / Sanshiro / Kantaro Hayashi / Teruu | Rocco Universal, Sanshiro (Deep Dance Music Page), Teruu |
 
 ## Address
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

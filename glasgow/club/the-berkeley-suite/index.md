@@ -1,14 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "CASA: BORN SLIPPY PT.2 // 24TH NOVEMBER AT The Berkeley Suite" on Tue, 24 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 24 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "All Night Dept. - D2D 001 w/ Jeremy Sylvester, MADVILLA, Wilfy D & Shedcat" on Thu, 26 Nov 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with line-ups including Chris Liberator, Co-Accused, Crazy P and Doc Scott and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 24 upcoming gigs, with line-ups including Bruce Sangster, Chris Liberator, Co-Accused and Crazy P and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 24 Nov 2026 | CASA: BORN SLIPPY PT.2 // 24TH NOVEMBER AT The Berkeley Suite |  |
 | Thu, 26 Nov 2026 | All Night Dept. - D2D 001 w/ Jeremy Sylvester, MADVILLA, Wilfy D & Shedcat | Jeremy Sylvester, MADVILLA, Shedcat, Wilfy D |
 | Fri, 27 Nov 2026 | Sih-Lest presents: Jasper Tygner & DOREY | DOREY, Jasper Tygner |
 | Sat, 28 Nov 2026 | BREATHE: Crazy P : Early Doors 6PM -10PM  | Crazy P, Jamie Gunn |
@@ -18,9 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 25 upcoming
 | Thu, 10 Dec 2026 | A.D.S.R w/ JAZ IMSKY, SOFSOF x manu_facturer, Kalopsia | JAZ IMSKY, Kalopsia, SOFSOF, manu_facturer |
 | Fri, 11 Dec 2026 | I Love Acid versus Attack Release | Chris Liberator, I am blip, Kairogen, Obakegaku お化け学, Posthuman, Ty Lumnus |
 | Sat, 12 Dec 2026 | Optimo (Espacio) - The Depths of Winter | Optimo (Espacio) |
+| Wed, 16 Dec 2026 | PILOT | Bruce Sangster |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

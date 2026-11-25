@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "DayBreak, Woah Nelliee, Hugh Miles & Travis George" on Wed, 25 Nov 2026.
+Elsewhere is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "DayBreak, Woah Nelliee, Hugh Miles & Travis George" on Wed, 25 Nov 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 22 upcoming gigs, with line-ups including anamē, Angel Money, ARINI and ARMANA KHAN and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 24 upcoming gigs, with line-ups including anamē, Angel Money, ARINI and Arjun Shah and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 22 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

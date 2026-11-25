@@ -1,14 +1,13 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Angel Bat Dawid" on Tue, 24 Nov 2026.
+Silent Green is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "LIA LIA + Levi" on Fri, 27 Nov 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Dis Fig, FITNESSS, Ka Baird and Levi (DE) and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Dis Fig, FITNESSS, Ka Baird and Levi (DE) and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 24 Nov 2026 | Angel Bat Dawid |  |
 | Fri, 27 Nov 2026 | LIA LIA + Levi | Levi (DE), LiaLia |
 | Wed, 2 Dec 2026 | BEAM SPLITTER x XIU XIU present: DEDICATED PLAY FESTIVAL (Dec 2 - 4) | Ka Baird, Mieko Suzuki, Valentin Tszin |
 | Wed, 9 Dec 2026 | Sintonia 2026 Attunement III |  |
@@ -18,9 +17,10 @@ Silent Green is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, 
 | Fri, 22 Jan 2027 | CTM 2027: Opening Concert | Polygonia, Simon Popp |
 | Sat, 23 Jan 2027 | CTM 2027: Colliding | Dis Fig, FITNESSS (2) |
 | Sat, 23 Jan 2027 | CTM 2027: In Listening |  |
+| Sun, 24 Jan 2027 | CTM 2027: Spatial Audio Experimentation Lab Finale |  |
 
 ## Address
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

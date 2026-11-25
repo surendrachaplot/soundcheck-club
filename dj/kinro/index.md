@@ -1,6 +1,6 @@
 # KINRO
 
-KINRO is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Final, Taipei on Sat, 2 Jan 2027.
+KINRO is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Final, Taipei on Sat, 2 Jan 2027.
 
 KINRO is a techno and experimental artist based in Taiwan, with 8 gigs on soundcheck across Hong Kong, Seoul and Taipei. Often billed alongside POJU, Ian Gouriet and Koncorde. Next up: Final, Taipei on Sat 2 Jan.
 
@@ -24,4 +24,4 @@ KINRO is a techno and experimental artist based in Taiwan, with 8 gigs on soundc
 
 POJU, Ian Gouriet, Koncorde
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinro/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinro/)*

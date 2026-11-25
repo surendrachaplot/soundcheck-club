@@ -1,6 +1,6 @@
 # Simone Liberali
 
-Simone Liberali is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Tunnel, Milan on Fri, 4 Dec 2026.
+Simone Liberali is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tunnel, Milan on Fri, 4 Dec 2026.
 
 Simone Liberali is a tech house and house artist based in Italy, with 10 gigs on soundcheck across Barcelona, Dubai, Ibiza and London and 2 more. Often billed alongside Alice Youngling, Aurora and BESH. Next up: Tunnel, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Simone Liberali is a tech house and house artist based in Italy, with 10 gigs on
 
 Alice Youngling, Aurora, BESH
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneliberali/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneliberali/)*

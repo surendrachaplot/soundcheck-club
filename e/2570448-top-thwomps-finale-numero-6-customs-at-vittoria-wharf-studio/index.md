@@ -1,6 +1,6 @@
 # Top Thwomps Finale: Numero 6 & Customs at Vittoria Wharf Studio
 
-Top Thwomps Finale: Numero 6 & Customs at Vittoria Wharf Studio on Sun 20 Dec, London. 3 artists: Basement Maxx, Customs and Mackie. House and Disco. See the line-up on soundcheck.
+Top Thwomps Finale: Numero 6 & Customs at Vittoria Wharf Studio on Sun 20 Dec, London. 4 artists: Basement Maxx, Customs, Mackie and nicky brown snout. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Top Thwomps Finale: Numero 6 & Customs at Vittoria Wharf Studio on Sun 20 Dec, L
 - Basement Maxx
 - Customs
 - Mackie
+- nicky brown snout
 
 *Source: [soundcheck](https://soundcheck.club/e/2570448-top-thwomps-finale-numero-6-customs-at-vittoria-wharf-studio/)*

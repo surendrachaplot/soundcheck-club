@@ -1,14 +1,15 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Hasvat Informant is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Hasvat Informant is a techno and trance artist based in Australia, with 74 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brisbane and 10 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Hasvat Informant is a techno and trance artist based in Australia, with 75 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brisbane and 10 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Fri, 11 Dec 2026 | Carousel Bar & Ballroom | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hasvat Informant is a techno and trance artist based in Australia, with 74 gigs 
 
 Mama Snake, Cloudy Ku, Simrana
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*

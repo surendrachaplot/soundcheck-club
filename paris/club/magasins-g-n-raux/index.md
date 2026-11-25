@@ -1,18 +1,17 @@
 # Magasins Généraux
 
-Magasins Généraux is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 21 Nov 2026. The next is "OUTREBLEU [weekender]" on Fri, 20 Nov 2026.
+Magasins Généraux is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Spectrum Waves: Anniversary" on Fri, 11 Dec 2026.
 
-Magasins Généraux is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Aaron J, Atomic moog, GiGi FM and Innersha and 2 more. See dates, start times and who's playing. 1 Rue de l'Ancien Canal, 93500 Pantin.
+Magasins Généraux is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1 Rue de l'Ancien Canal, 93500 Pantin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | OUTREBLEU [weekender] | .VRIL, Aaron J, Atomic moog, GiGi FM, Innersha, Katatonic Silentio, Maemm, Sybil, Timnah, Trois-Quarts Taxi System, nthng, upsammy |
-| Sat, 21 Nov 2026 | OUTREBLEU [weekender] — day 2 | .VRIL, Aaron J, Atomic moog, GiGi FM, Katatonic Silentio, Maemm, Timnah |
+| Fri, 11 Dec 2026 | Spectrum Waves: Anniversary |  |
 
 ## Address
 
 1 Rue de l'Ancien Canal, 93500 Pantin, Paris
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/magasins-g-n-raux/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/magasins-g-n-raux/)*

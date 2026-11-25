@@ -1,14 +1,15 @@
 # CMYK
 
-CMYK is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 12 Dec 2026.
+CMYK is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 12 Dec 2026.
 
-CMYK is a house and electro artist based in France, with 62 gigs on soundcheck across Barcelona, Berlin, London and Lyon and 3 more. Often billed alongside pekkuliar, VARAN and DJ Gamba. Next up: MIDNIGHT EAST, Tokyo on Sat 12 Dec.
+CMYK is a house and electro artist based in France, with 63 gigs on soundcheck across Barcelona, Berlin, London and Lyon and 3 more. Often billed alongside pekkuliar, VARAN and DJ Gamba. Next up: MIDNIGHT EAST, Tokyo on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | MIDNIGHT EAST | Tokyo |
+| Sat, 12 Dec 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CMYK is a house and electro artist based in France, with 62 gigs on soundcheck a
 
 pekkuliar, VARAN, DJ Gamba
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cmyk/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cmyk/)*

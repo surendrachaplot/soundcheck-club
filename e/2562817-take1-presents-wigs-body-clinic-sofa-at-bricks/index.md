@@ -1,6 +1,6 @@
 # take1 presents: Wigs, Body Clinic, SOFA at Bricks
 
-take1 presents: Wigs, Body Clinic, SOFA at Bricks on Sat 28 Nov, London. 7 artists: Body Clinic, Mark Darcy, SOFA (UK) and TARZI and 3 more. Trance and House. See the line-up on soundcheck.
+take1 presents: Wigs, Body Clinic, SOFA at Bricks on Sat 28 Nov, London. 8 artists: Body Clinic, CARRiER (AU), Mark Darcy and SOFA (UK) and 4 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ take1 presents: Wigs, Body Clinic, SOFA at Bricks on Sat 28 Nov, London. 7 artis
 ## Line-up
 
 - Body Clinic
+- CARRiER (AU)
 - Mark Darcy
 - SOFA (UK)
 - TARZI

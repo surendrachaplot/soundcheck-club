@@ -1,17 +1,18 @@
 # Sam Ritter
 
-Sam Ritter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Babylon Taipei -ATT4FUN , Taipei on Sat, 21 Nov 2026.
+Sam Ritter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Flat 5 - No. 116-1號, Section 2, Wuchang St, Wanhua District, Taipei City, 108, Taipei on Sun, 29 Nov 2026.
 
-Sam Ritter is a techno and house artist based in Taiwan, with 98 gigs on soundcheck across Melbourne, Sydney and Taipei. Often billed alongside GIORGIO (IT), Raina and CHIEN. Next up: TBA - Babylon Taipei -ATT4FUN , Taipei on Sat 21 Nov.
+Sam Ritter is a techno and house artist based in Taiwan, with 99 gigs on soundcheck across Melbourne, Sydney and Taipei. Often billed alongside GIORGIO (IT), Raina and CHIEN. Next up: TBA - Flat 5 - No. 116-1號, Section 2, Wuchang St, Wanhua District, Taipei City, 108, Taipei on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Babylon Taipei -ATT4FUN  | Taipei |
+| Sun, 29 Nov 2026 | TBA - Flat 5 - No. 116-1號, Section 2, Wuchang St, Wanhua District, Taipei City, 108 | Taipei |
 
 ## Recently played
 
+- TBA - Babylon Taipei -ATT4FUN , Taipei · Sat, 21 Nov 2026
 - TBA - B1, No. 14號, Lane 77, Section 2, Zhongshan N Rd, Zhongshan Village, Zhongshan District, Taipei City, 10491, Taipei · Sun, 15 Nov 2026
 - 23 Music Room, Taipei · Sat, 7 Nov 2026
 - TBA - Flat 5 - No. 116-1號, Section 2, Wuchang St, Wanhua District, Taipei City, 108, Taipei · Sun, 11 Oct 2026
@@ -19,10 +20,9 @@ Sam Ritter is a techno and house artist based in Taiwan, with 98 gigs on soundch
 - TBA - Babylon Taipei -ATT4FUN , Taipei · Sat, 12 Sept 2026
 - 23 Music Room, Taipei · Sat, 5 Sept 2026
 - TBA - Babylon Taipei -ATT4FUN , Taipei · Sat, 22 Aug 2026
-- TBA - Babylon Taipei -ATT4FUN , Taipei · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 GIORGIO (IT), Raina, CHIEN
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samritter/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samritter/)*

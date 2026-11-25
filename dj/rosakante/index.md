@@ -1,6 +1,6 @@
 # Rosa Kante
 
-Rosa Kante is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 5 Dec 2026.
+Rosa Kante is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 5 Dec 2026.
 
 Rosa Kante is a techno and house artist based in Germany, with 77 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich. Often billed alongside Leon Licht, Fast (DE) and Kaufmann. Next up: Jonny Knüppel, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Rosa Kante is a techno and house artist based in Germany, with 77 gigs on soundc
 
 Leon Licht, Fast (DE), Kaufmann
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosakante/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosakante/)*

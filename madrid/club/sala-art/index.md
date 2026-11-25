@@ -1,8 +1,8 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "La Chismoteka: Release Party" on Sat, 28 Nov 2026.
+Sala ART is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "La Chismoteka: Release Party" on Sat, 28 Nov 2026.
 
-Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Costa, Diskoan, Ketiov and Marcos in Dub and 2 more. See dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
+Sala ART is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Costa, Diskoan, Ketiov and Marcos in Dub and 2 more. See dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
 ## What's on
 
@@ -12,9 +12,11 @@ Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with 
 | Sat, 5 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Foreplay | Diskoan, Marcos in Dub |
 | Fri, 18 Dec 2026 | CHRØMA: STELLA BOSSI | Costa (2), STELLA BOSSI |
 | Sat, 2 Jan 2027 | MyPleasure // Re-load // New Year Festival | Ketiov, Marcos in Dub |
+| Fri, 29 Jan 2027 | CHRØMA: TBA |  |
+| Fri, 12 Feb 2027 | CHRØMA: TBA |  |
 
 ## Address
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

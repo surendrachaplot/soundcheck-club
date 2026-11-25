@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Pandora Sevilla, South on Fri, 4 Dec 2026.
+Sara Landry is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Pandora Sevilla, South on Fri, 4 Dec 2026.
 
 Sara Landry is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside I Hate Models, Nico Moreno and 999999999. Next up: Pandora Sevilla, South on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ Sara Landry is a techno and house artist based in United States of America, with
 
 I Hate Models, Nico Moreno, 999999999
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

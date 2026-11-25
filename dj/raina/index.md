@@ -1,6 +1,6 @@
 # Raina
 
-Raina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Pawnshop, Taipei on Fri, 4 Dec 2026.
+Raina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pawnshop, Taipei on Fri, 4 Dec 2026.
 
 Raina is a house and techno artist based in Taiwan, with 40 gigs on soundcheck across Bristol, Taipei and Tokyo. Often billed alongside Sam Ritter, CHIEN and Debbie with an 'S'. Next up: Pawnshop, Taipei on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Raina is a house and techno artist based in Taiwan, with 40 gigs on soundcheck a
 
 Sam Ritter, CHIEN, Debbie with an 'S'
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raina/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raina/)*

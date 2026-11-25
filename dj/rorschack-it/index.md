@@ -1,6 +1,6 @@
 # Rorschack
 
-Rorschack is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Circolo Amelia, Milan on Sat, 12 Dec 2026.
+Rorschack is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Circolo Amelia, Milan on Sat, 12 Dec 2026.
 
 Rorschack is a techno and acid artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 14 more. Often billed alongside Yamila, Functional Disorder and Spad. Next up: Circolo Amelia, Milan on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Rorschack is a techno and acid artist based in Italy, with 78 gigs on soundcheck
 
 Yamila, Functional Disorder, Spad
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*

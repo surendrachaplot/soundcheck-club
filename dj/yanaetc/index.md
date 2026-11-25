@@ -1,6 +1,6 @@
 # YANA ETC
 
-YANA ETC is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Live Haus, Tokyo on Fri, 27 Nov 2026.
+YANA ETC is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Live Haus, Tokyo on Fri, 27 Nov 2026.
 
 YANA ETC is a techno and industrial artist based in Belarus, with 33 gigs on soundcheck across Amsterdam, Berlin, Budapest and Istanbul and 11 more. Often billed alongside BTFL, PARAPHER and SAS. Next up: Live Haus, Tokyo on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ YANA ETC is a techno and industrial artist based in Belarus, with 33 gigs on sou
 
 BTFL, PARAPHER, SAS (2)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanaetc/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanaetc/)*

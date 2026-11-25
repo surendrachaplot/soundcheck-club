@@ -1,14 +1,15 @@
 # AGROPOL
 
-AGROPOL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 3 Dec 2026.
+AGROPOL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 3 Dec 2026.
 
-AGROPOL is a house and techno artist based in United States of America, with 58 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ Panderer, Pap. and John Glass. Next up: Public Works, San Francisco/Oakland on Thu 3 Dec.
+AGROPOL is a house and techno artist based in United States of America, with 59 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ Panderer, Pap. and John Glass. Next up: Public Works, San Francisco/Oakland on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Public Works | San Francisco/Oakland |
+| Thu, 31 Dec 2026 | Apéro Club | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AGROPOL is a house and techno artist based in United States of America, with 58 
 
 DJ Panderer, Pap., John Glass
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agropol/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agropol/)*

@@ -1,13 +1,14 @@
 # Scar
 
-Scar is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Viertel, Basel on Sat, 20 Mar 2027.
+Scar is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Social, London on Fri, 11 Dec 2026.
 
-Scar is a techno and hardcore artist based in United Kingdom, with 42 gigs on soundcheck across Basel, Bristol, Glasgow and London and 5 more. Often billed alongside kso12, 1luu and Alicia (UK). Next up: Viertel, Basel on Sat 20 Mar.
+Scar is a techno and hardcore artist based in United Kingdom, with 43 gigs on soundcheck across Basel, Bristol, Glasgow and London and 5 more. Often billed alongside kso12, 1luu and Alicia (UK). Next up: The Social, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | The Social | London |
 | Sat, 20 Mar 2027 | Viertel | Basel |
 
 ## Recently played
@@ -25,4 +26,4 @@ Scar is a techno and hardcore artist based in United Kingdom, with 42 gigs on so
 
 kso12, 1luu, Alicia (UK)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*

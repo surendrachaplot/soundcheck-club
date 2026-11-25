@@ -1,6 +1,6 @@
 # Pascal Moscheni (BORIS CLUB) at BORIS CLUB
 
-Pascal Moscheni (BORIS CLUB) on Fri 27 Nov, Barcelona. 1 artist: Pascal Moscheni. House. See the line-up on soundcheck.
+Pascal Moscheni (BORIS CLUB) on Fri 27 Nov, Barcelona. 3 artists: Ferrari, Marcel BS and Pascal Moscheni. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Pascal Moscheni (BORIS CLUB) on Fri 27 Nov, Barcelona. 1 artist: Pascal Moscheni
 
 ## Line-up
 
+- Ferrari
+- Marcel BS
 - Pascal Moscheni
 
 *Source: [soundcheck](https://soundcheck.club/e/2570381-pascal-moscheni-boris-club-at-boris-club/)*

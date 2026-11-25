@@ -1,6 +1,6 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+Jay Duncan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
 Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: Low Profile Studios, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

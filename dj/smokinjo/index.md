@@ -1,14 +1,15 @@
 # Smokin Jo
 
-Smokin Jo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Timber Loft, London on Sun, 13 Dec 2026.
+Smokin Jo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Timber Loft, London on Sun, 13 Dec 2026.
 
-Smokin Jo is a house and disco artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Bali, Brighton and Edinburgh and 9 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: The Timber Loft, London on Sun 13 Dec.
+Smokin Jo is a house and disco artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Bali, Brighton and Edinburgh and 10 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: The Timber Loft, London on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | The Timber Loft | London |
+| Sat, 13 Feb 2027 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Smokin Jo is a house and disco artist based in United Kingdom, with 58 gigs on s
 
 Melon Bomb, Melvo Baptiste, Eats Everything
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*

@@ -1,13 +1,14 @@
 # Human Safari
 
-Human Safari is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. Next at Zoo, Geneva on Sat, 28 Nov 2026.
+Human Safari is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Yalta Club, Sofia on Fri, 27 Nov 2026.
 
-Human Safari is a techno and house artist based in Malta, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 19 more. Often billed alongside SHDW, Kyle Cortis and Budg. Next up: Zoo, Geneva on Sat 28 Nov.
+Human Safari is a techno and house artist based in Malta, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 20 more. Often billed alongside SHDW, Kyle Cortis and Budg. Next up: Yalta Club, Sofia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Yalta Club | Sofia |
 | Sat, 28 Nov 2026 | Zoo | Geneva |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 12 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -27,4 +28,4 @@ Human Safari is a techno and house artist based in Malta, with 68 gigs on soundc
 
 SHDW, Kyle Cortis, Budg
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*

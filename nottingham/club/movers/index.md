@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 16 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Fascination film screening w afterparty ft Evil Woman, Another Place + Kay Fabe" on Thu, 26 Nov 2026.
+Movers is a music venue in Nottingham with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Fascination film screening w afterparty ft Evil Woman, Another Place + Kay Fabe" on Thu, 26 Nov 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming gigs, with line-ups including Another Place, Charles Webster, Evil Woman and Inland Knights and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

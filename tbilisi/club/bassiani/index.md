@@ -1,8 +1,8 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 8 upcoming gigs listed on soundcheck as of Mon, 23 Nov 2026. The next is "Delsin: 30 Years Anniversary" on Fri, 27 Nov 2026.
+Bassiani is a music venue in Tbilisi with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Delsin: 30 Years Anniversary" on Fri, 27 Nov 2026.
 
-Bassiani is a music venue in Tbilisi listed on soundcheck. 8 upcoming gigs, with line-ups including 98dots, Amelia Holt, Amir and ATEQ and 2 more. See dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
+Bassiani is a music venue in Tbilisi listed on soundcheck. 10 upcoming gigs, with line-ups including 98dots, Amelia Holt, Amir and ATEQ and 2 more. See dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
 ## What's on
 
@@ -15,10 +15,12 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 8 upcoming gigs, with
 | Fri, 11 Dec 2026 | Bassiani x Non Series Quince | HVL, Ina Kacz, Kvanchi, Luigi Tozzi, Mathew Jonson, Polygonia, Psyk, skyra |
 | Sat, 12 Dec 2026 | Horoom – Sat, 12.12.2026 | DJ Sense, Mancho, Roi Perez, Valley Dolly |
 | Fri, 18 Dec 2026 | Bassiani – Horoom – Fri, 18.12.2026 | Comethisfar, Dito, Héctor Oaks, Ika (GE), Laia, Sophie Phare, Sugar Free, Tarkno |
+| Sat, 19 Dec 2026 | Morevi: Boyá, Keto, Perm & HAL, Tomma | Boyá, HAL, Keto, Perm, Tomma |
+| Fri, 25 Dec 2026 | Zurkin [all night long] | Zurkin |
 | Thu, 31 Dec 2026 | Bassiani NYE 2027 | .VRIL, 98dots, ATEQ, BMI (GE), Ben Kaczor, Claudio PRC, Cobert, DJ Dustin, Dito, HVL, Hamatsuki, Interstellar Funk, Kancheli, Kat Davids, Kvanchi, Lb Honne, Mancho, Martinou, Natascha Kann, Nathalie Seres, Ndrx, Newa, Philippa Pacho, Ron Albrecht, Separat, Sophie Phare, Stojche, Tobias., Valley Dolly, Zitto, dj sweet6teen, nebbieri, skyra |
 
 ## Address
 
 Tsereteli street 2 , Tbilisi, Georgia, Tbilisi
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*

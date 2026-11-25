@@ -1,14 +1,15 @@
 # Myyuh
 
-Myyuh is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Nowadays, New York City on Thu, 10 Dec 2026.
+Myyuh is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Nowadays, New York City on Thu, 10 Dec 2026.
 
-Myyuh is a house and club artist based in United States of America, with 23 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside MNSA, Nadim Maghzal and Saphe. Next up: Nowadays, New York City on Thu 10 Dec.
+Myyuh is a house and club artist based in United States of America, with 24 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside MNSA, Nadim Maghzal and Saphe. Next up: Nowadays, New York City on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | Nowadays | New York City |
+| Sat, 26 Dec 2026 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Myyuh is a house and club artist based in United States of America, with 23 gigs
 
 MNSA, Nadim Maghzal, Saphe
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*
+*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*
