@@ -1,13 +1,14 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Jazz Cafe, London on Sat, 2 Jan 2027.
+Riva Starr is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sable Miami, Miami on Fri, 27 Nov 2026.
 
-Riva Starr is a house and tech house artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: The Jazz Cafe, London on Sat 2 Jan.
+Riva Starr is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Sable Miami, Miami on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Sable Miami | Miami |
 | Sat, 2 Jan 2027 | The Jazz Cafe | London |
 
 ## Recently played

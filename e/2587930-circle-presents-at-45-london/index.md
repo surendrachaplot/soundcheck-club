@@ -1,6 +1,6 @@
 # Circle presents at 45 London
 
-Circle presents at 45 London on Fri 18 Dec, London. 3 artists: Azire, MXT (UK) and Summer Ghemati. House and Deep House. See the line-up on soundcheck.
+Circle presents at 45 London on Fri 18 Dec, London. 4 artists: Azire, Meritz, MXT (UK) and Summer Ghemati. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Circle presents at 45 London on Fri 18 Dec, London. 3 artists: Azire, MXT (UK) a
 ## Line-up
 
 - Azire
+- Meritz
 - MXT (UK)
 - Summer Ghemati
 

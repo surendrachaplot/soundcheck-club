@@ -1,15 +1,13 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BIGGEST BAR NIGHT" on Wed, 25 Nov 2026.
+TV Lounge is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Left On Red" on Fri, 27 Nov 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including 888lambchop, Andrea Kalajian, britty. and Disc Jockey George and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including 888lambchop, Disc Jockey George, DJ Minx and DJ Slimey and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | BIGGEST BAR NIGHT |  |
-| Wed, 25 Nov 2026 | WONDERFUL WEDNESDAY • The night before Thanksgiving Edition | Andrea Kalajian, DJ Cent, DJ SPHiNX, britty., something blue |
 | Fri, 27 Nov 2026 | Left On Red | Gina Maria |
 | Sat, 28 Nov 2026 | THANKSGIVING | 888lambchop, DJ Slimey, Fullbodydurag, JMT (2), KRW (1), Marcus NF Harris, Ryan Sadorus, Zoe Talley, jamea., saylem celeste |
 | Sun, 29 Nov 2026 | GOSPEL HOUSE 313 presented by THILL Radio | Terrence Parker |

@@ -1,14 +1,13 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MCC presents Blackout Wednesday at Level 8" on Wed, 25 Nov 2026.
+Level 8 DTLA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Grammy Awards After Party @ The Moxy Hotel Rooftop" on Sun, 7 Feb 2027.
 
-Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including DENYC and PERSTEPHANII. See dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
+Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | MCC presents Blackout Wednesday at Level 8 | DENYC, PERSTEPHANII |
 | Sun, 7 Feb 2027 | Grammy Awards After Party @ The Moxy Hotel Rooftop |  |
 
 ## Address

@@ -2,7 +2,7 @@
 
 Just P is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Antro Brixton, London on Thu, 3 Dec 2026.
 
-Just P is a hip-hop and amapiano artist, with 20 gigs on soundcheck across London. Often billed alongside Wezaari, DJ KO and Latec0mer. Next up: Antro Brixton, London on Thu 3 Dec.
+Just P is a hip-hop and amapiano artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside Wezaari, DJ KO and Latec0mer. Next up: Antro Brixton, London on Thu 3 Dec.
 
 ## Upcoming shows
 

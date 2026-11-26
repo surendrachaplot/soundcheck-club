@@ -1,14 +1,13 @@
 # Choukroun
 
-Choukroun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Outer Heaven, New York City on Wed, 25 Nov 2026.
+Choukroun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - 52 Walker Street, New York City on Fri, 11 Dec 2026.
 
-Choukroun is a house and techno artist based in United States of America, with 105 gigs on soundcheck across Miami and New York City. Often billed alongside Armii1n, Zayd and Monk. Next up: Outer Heaven, New York City on Wed 25 Nov.
+Choukroun is a house and techno artist based in United States of America, with 105 gigs on soundcheck across Miami and New York City. Often billed alongside Armii1n, Zayd and Monk. Next up: TBA - 52 Walker Street, New York City on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Outer Heaven | New York City |
 | Fri, 11 Dec 2026 | TBA - 52 Walker Street | New York City |
 
 ## Recently played

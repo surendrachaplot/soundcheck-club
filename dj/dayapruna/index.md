@@ -1,14 +1,15 @@
 # Daya Pruna
 
-Daya Pruna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Mon, 14 Dec 2026.
+Daya Pruna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Mon, 14 Dec 2026.
 
-Daya Pruna is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin and Seoul. Often billed alongside babxi, Frankie Flowerz and Red Pig Flower. Next up: KitKatClub, Berlin on Mon 14 Dec.
+Daya Pruna is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin and Seoul. Often billed alongside babxi, Frankie Flowerz and Red Pig Flower. Next up: KitKatClub, Berlin on Mon 14 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 14 Dec 2026 | KitKatClub | Berlin |
+| Fri, 25 Dec 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 

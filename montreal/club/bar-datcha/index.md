@@ -13,7 +13,7 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, 
 | Sat, 28 Nov 2026 | NONSTOP: Sydney Sarayeva, Kridelka, Hey: Albert, Benji b2b Colmee, DUROCHER | DUROCHER, Sydney Sarayeva |
 | Thu, 3 Dec 2026 | TERRELL, DJ HIDI & Bisou Bizou | BisouBizou |
 | Fri, 4 Dec 2026 | Deep step: ukn_owned, michael_v23, Fanella, MLLE CEE | MLLE CEE |
-| Sat, 5 Dec 2026 | CLASS OF 2095 - DJ Cinéma Quartier Latin, HEY: ALBERT, HALO, .ape, No Police | HALO, HEY: ALBERT |
+| Sat, 5 Dec 2026 | CLASS OF 2095 - DJ Cinéma Quartier Latin, HEY: ALBERT, HALO, .ape, No Police | HEY: ALBERT, Halo Varga |
 | Thu, 10 Dec 2026 | Mrktbeatz, dtq3000 (datchatonightqueen) & Gwinestefani | Gwinestefani |
 | Fri, 11 Dec 2026 | Datcha Nonstop: x3butterfly, Fieldnote, Karuna | x3butterfly |
 | Sat, 12 Dec 2026 | NONSTOP: Midnite Club presents Jordan Gardner, 999ADJ, Groceries | 999ADJ, Groceries, Jordan Gardner |

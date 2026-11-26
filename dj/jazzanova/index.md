@@ -1,14 +1,13 @@
 # Jazzanova
 
-Jazzanova is a Jazz and Funk / Soul artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Note Jazz Club London, London on Thu, 26 Nov 2026.
+Jazzanova is a Jazz and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Note Jazz Club London, London on Fri, 27 Nov 2026.
 
-Jazzanova is a jazz and funk / soul artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 9 more. Often billed alongside Alex Barck, Wayne Snow and Markus Tone. Next up: Blue Note Jazz Club London, London on Thu 26 Nov.
+Jazzanova is a jazz and funk / soul artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 9 more. Often billed alongside Alex Barck, Wayne Snow and Markus Tone. Next up: Blue Note Jazz Club London, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Blue Note Jazz Club London | London |
 | Fri, 27 Nov 2026 | Blue Note Jazz Club London | London |
 | Sat, 28 Nov 2026 | Blue Note Milano | Milan |
 | Sat, 5 Dec 2026 | BIX | Stuttgart |

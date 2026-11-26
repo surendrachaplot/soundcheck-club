@@ -1,14 +1,13 @@
 # Capes
 
-Capes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+Capes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Los Angeles on Sat, 19 Dec 2026.
 
-Capes is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Chicago, Los Angeles, Mexico City and Monterrey and 2 more. Often billed alongside Adult Hits, Hazy and fun2bjane. Next up: TBA, Los Angeles on Wed 25 Nov.
+Capes is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Chicago, Los Angeles, Mexico City and Monterrey and 2 more. Often billed alongside Adult Hits, Hazy and fun2bjane. Next up: TBA, Los Angeles on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA | Los Angeles |
 | Sat, 19 Dec 2026 | TBA | Los Angeles |
 
 ## Recently played

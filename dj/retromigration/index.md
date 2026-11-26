@@ -1,14 +1,16 @@
 # Retromigration
 
-Retromigration is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 31 Dec 2026.
+Retromigration is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 31 Dec 2026.
 
-Retromigration is a house and deep house artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Monty DJ, Bradley Zero and Cinnaman. Next up: Radio Radio, Amsterdam on Thu 31 Dec.
+Retromigration is a house and deep house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Monty DJ, Bradley Zero and Cinnaman. Next up: Radio Radio, Amsterdam on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Radio Radio | Amsterdam |
+| Fri, 15 Jan 2027 | Shelter Amsterdam | Amsterdam |
+| Fri, 22 Jan 2027 | Doka | Amsterdam |
 
 ## Recently played
 

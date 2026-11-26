@@ -1,14 +1,13 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location - Washington DC, Washington DC on Wed, 25 Nov 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 6 Dec 2026.
 
-MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 206 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Dresden and 7 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: TBA - Secret Location - Washington DC, Washington DC on Wed 25 Nov.
+MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 206 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Dresden and 7 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA - Secret Location - Washington DC | Washington DC |
 | Sun, 6 Dec 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 
 ## Recently played

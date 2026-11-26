@@ -2,7 +2,7 @@
 
 Lucie (UK) is a IDM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Next Door Records Two, London on Sat, 12 Dec 2026.
 
-Lucie (UK) is an idm and techno artist, with 5 gigs on soundcheck across London. Often billed alongside Sydney (SP), Uggo and Leo Gosh. Next up: Next Door Records Two, London on Sat 12 Dec.
+Lucie (UK) is an idm and techno artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Sydney (SP), Uggo and Leo Gosh. Next up: Next Door Records Two, London on Sat 12 Dec.
 
 ## Upcoming shows
 

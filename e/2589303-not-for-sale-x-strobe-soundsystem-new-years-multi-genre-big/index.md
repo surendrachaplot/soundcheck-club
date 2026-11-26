@@ -1,6 +1,6 @@
 # Not For Sale x Strobe Soundsystem - New Years Multi Genre Big Weekend at Not For Sale Gallery
 
-Not For Sale x Strobe Soundsystem - New Years Multi Genre Big Weekend at Not For Sale Gallery on Fri 1 Jan, London. 6 artists: Braden, DJ SS, Fresh Lov3 and Martha - DJ and 2 more. Drum & Bass and Techno. See the line-up on soundcheck.
+Not For Sale x Strobe Soundsystem - New Years Multi Genre Big Weekend at Not For Sale Gallery on Fri 1 Jan, London. 7 artists: Braden, DJ SS, Fresh Lov3 and Helen Rose and 3 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Not For Sale x Strobe Soundsystem - New Years Multi Genre Big Weekend at Not For
 - Braden
 - DJ SS
 - Fresh Lov3
+- Helen Rose
 - Martha - DJ
 - Rowland
 - Vanio

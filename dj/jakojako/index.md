@@ -1,8 +1,8 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+JakoJako is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-JakoJako is a techno and house artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+JakoJako is a techno and house artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JakoJako is a techno and house artist based in Germany, with 183 gigs on soundch
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 27 Nov 2026 | Abercrombie Hotel | Sydney |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Fri, 12 Feb 2027 | FOLD | London |
 
 ## Recently played
 

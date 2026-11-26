@@ -1,14 +1,13 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at elipamanoke, Leipzig on Wed, 25 Nov 2026.
+JANEIN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Odonien, Cologne on Sat, 28 Nov 2026.
 
-JANEIN is a techno and house artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Basel and 28 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: elipamanoke, Leipzig on Wed 25 Nov.
+JANEIN is a techno and house artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Basel and 28 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: Odonien, Cologne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | elipamanoke | Leipzig |
 | Sat, 28 Nov 2026 | Odonien | Cologne |
 | Tue, 1 Dec 2026 | OXI | Berlin |
 | Fri, 4 Dec 2026 | Sektor Evolution | Dresden |

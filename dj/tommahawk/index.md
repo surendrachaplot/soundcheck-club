@@ -1,8 +1,8 @@
 # Tommahawk
 
-Tommahawk is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Clubroom, Thuringia on Sat, 28 Nov 2026.
+Tommahawk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Clubroom, Thuringia on Sat, 28 Nov 2026.
 
-Tommahawk is a techno and house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Clubroom, Thuringia on Sat 28 Nov.
+Tommahawk is a techno and house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Clubroom, Thuringia on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Tommahawk is a techno and house artist based in Germany, with 86 gigs on soundch
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Clubroom | Thuringia |
 | Sat, 5 Dec 2026 | Fusion Club | Münster |
-| Fri, 18 Dec 2026 | Ritter Butzke | Berlin |
 | Sat, 6 Feb 2027 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played

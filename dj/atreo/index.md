@@ -1,13 +1,14 @@
 # Atreo
 
-Atreo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
+Atreo is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at objekt klein a, Dresden on Fri, 18 Dec 2026.
 
-Atreo is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside RaverPik, Sabu! and The Jakob Sister. Next up: Ritter Butzke, Berlin on Thu 31 Dec.
+Atreo is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Berlin and Dresden. Often billed alongside RaverPik, Sabu! and The Jakob Sister. Next up: objekt klein a, Dresden on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | objekt klein a | Dresden |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 

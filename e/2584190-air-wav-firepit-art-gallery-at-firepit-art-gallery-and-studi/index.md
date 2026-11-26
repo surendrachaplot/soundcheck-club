@@ -1,6 +1,6 @@
 # AIR.wav // Firepit Art Gallery at Firepit Art Gallery and Studios CIC
 
-AIR.wav // Firepit Art Gallery at Firepit Art Gallery and Studios CIC on Fri 27 Nov, London. 2 artists: AMAR (UK) and PEDRØ. Deep House. See the line-up on soundcheck.
+AIR.wav // Firepit Art Gallery at Firepit Art Gallery and Studios CIC on Fri 27 Nov, London. 3 artists: AMAR (UK), LORKIK and PEDRØ. Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ AIR.wav // Firepit Art Gallery at Firepit Art Gallery and Studios CIC on Fri 27 
 ## Line-up
 
 - AMAR (UK)
+- LORKIK
 - PEDRØ
 
 *Source: [soundcheck](https://soundcheck.club/e/2584190-air-wav-firepit-art-gallery-at-firepit-art-gallery-and-studi/)*

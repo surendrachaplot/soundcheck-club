@@ -1,14 +1,13 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mission Ballroom, Denver on Wed, 25 Nov 2026.
+Josh Baker is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radius, Chicago on Fri, 27 Nov 2026.
 
-Josh Baker is a house and tech house artist based in United Kingdom, with 248 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Mission Ballroom, Denver on Wed 25 Nov.
+Josh Baker is a house and tech house artist based in United Kingdom, with 248 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Radius, Chicago on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Mission Ballroom | Denver |
 | Fri, 27 Nov 2026 | Radius | Chicago |
 | Sat, 28 Nov 2026 | TBA | London |
 | Tue, 29 Dec 2026 | New City Gas | Montreal |

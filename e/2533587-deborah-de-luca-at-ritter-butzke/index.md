@@ -1,6 +1,6 @@
 # Deborah De Luca at Ritter Butzke
 
-Deborah De Luca at Ritter Butzke on Fri 18 Dec, Berlin. 6 artists: Deborah De Luca, Gunnar Stiller, Mattia Saviolo and Rad.Lez and 2 more. Techno. See the line-up on soundcheck.
+Deborah De Luca at Ritter Butzke on Fri 18 Dec, Berlin. 8 artists: Deborah De Luca, Gunnar Stiller, Jil Tanner and Mattia Saviolo and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,11 @@ Deborah De Luca at Ritter Butzke on Fri 18 Dec, Berlin. 6 artists: Deborah De Lu
 
 - Deborah De Luca
 - Gunnar Stiller
+- Jil Tanner
 - Mattia Saviolo
+- Maurice Mino
 - Rad.Lez
 - Sin:port
-- Tommahawk
+- Tomma
 
 *Source: [soundcheck](https://soundcheck.club/e/2533587-deborah-de-luca-at-ritter-butzke/)*

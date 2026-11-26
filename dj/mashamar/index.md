@@ -1,14 +1,13 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
+Masha Mar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Masha Mar is a house and techno artist based in Serbia, with 162 gigs on soundcheck across Athens, Belgrade, Berlin and Denver and 15 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: Catch One, Los Angeles on Wed 25 Nov.
+Masha Mar is a house and techno artist based in Serbia, with 162 gigs on soundcheck across Athens, Belgrade, Berlin and Denver and 15 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Catch One | Los Angeles |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Thu, 31 Dec 2026 | Belasco Theater | Los Angeles |
 

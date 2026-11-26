@@ -1,6 +1,6 @@
 # Don Diablo London at UNLOCKED
 
-Don Diablo London at UNLOCKED on Sat 28 Nov, London. 1 artist: Don Diablo. House and EBM. See the line-up on soundcheck.
+Don Diablo London at UNLOCKED on Sat 28 Nov, London. 2 artists: Don Diablo and Mas Que Nada Brothers. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Don Diablo London at UNLOCKED on Sat 28 Nov, London. 1 artist: Don Diablo. House
 ## Line-up
 
 - Don Diablo
+- Mas Que Nada Brothers
 
 *Source: [soundcheck](https://soundcheck.club/e/2554768-don-diablo-london-at-unlocked/)*

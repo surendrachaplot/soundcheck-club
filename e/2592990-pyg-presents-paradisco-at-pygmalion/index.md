@@ -1,6 +1,6 @@
 # Pyg presents Paradisco at Pygmalion
 
-Pyg presents Paradisco at Pygmalion on Fri 27 Nov, Dublin. 3 artists: Gabb (MX), GG and NM Musik. House. See the line-up on soundcheck.
+Pyg presents Paradisco at Pygmalion on Fri 27 Nov, Dublin. 3 artists: G.G (LB), Gabb (PRY) and NM Musik. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Pyg presents Paradisco at Pygmalion on Fri 27 Nov, Dublin. 3 artists: Gabb (MX),
 
 ## Line-up
 
-- Gabb (MX)
-- GG (2)
+- G.G (LB)
+- Gabb (PRY)
 - NM Musik
 
 *Source: [soundcheck](https://soundcheck.club/e/2592990-pyg-presents-paradisco-at-pygmalion/)*

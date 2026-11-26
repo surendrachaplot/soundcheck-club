@@ -1,8 +1,8 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Spybar, Chicago on Sat, 19 Dec 2026.
+George Smeddles is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Spybar, Chicago on Sat, 19 Dec 2026.
 
-George Smeddles is a house and tech house artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 23 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Spybar, Chicago on Sat 19 Dec.
+George Smeddles is a house and tech house artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 23 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Spybar, Chicago on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ George Smeddles is a house and tech house artist based in United Kingdom, with 8
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Spybar | Chicago |
 | Sat, 2 Jan 2027 | The Concourse Project | Austin |
+| Sat, 16 Jan 2027 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 

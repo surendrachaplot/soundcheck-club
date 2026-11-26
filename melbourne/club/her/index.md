@@ -1,18 +1,17 @@
 # HER
 
-HER is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Kumi & Friends" on Fri, 13 Nov 2026.
+HER is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Soothsayer presents: TRUSTEE Invites Special Guest" on Sat, 28 Nov 2026.
 
-HER is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 270 Lonsdale St, Melbourne, Australia.
+HER is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including TRUSTEE. See dates, start times and who's playing. 270 Lonsdale St, Melbourne, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Kumi & Friends |  |
-| Sat, 14 Nov 2026 | Got The Sauce 'The Loft' |  |
+| Sat, 28 Nov 2026 | Soothsayer presents: TRUSTEE Invites Special Guest | TRUSTEE |
 
 ## Address
 
 270 Lonsdale St, Melbourne, Australia, Melbourne
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/her/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/her/)*

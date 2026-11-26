@@ -1,14 +1,13 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radius, Chicago on Wed, 25 Nov 2026.
+Bonobo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MTELUS, Montreal on Fri, 27 Nov 2026.
 
-Bonobo is a house and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside DJ Tennis, Honey Dijon and Sofia Kourtesis. Next up: Radius, Chicago on Wed 25 Nov.
+Bonobo is a house and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside DJ Tennis, Honey Dijon and Sofia Kourtesis. Next up: MTELUS, Montreal on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Radius | Chicago |
 | Fri, 27 Nov 2026 | MTELUS | Montreal |
 | Fri, 4 Dec 2026 | Union Transfer | Philadelphia |
 | Sat, 5 Dec 2026 | Knockdown Center | New York City |

@@ -1,6 +1,6 @@
 # SSL XL 2027 at The Pitt Market
 
-SSL XL 2027 at The Pitt Market on Sat 30 Jan, Edinburgh. 7 artists: 2 Bad Mice, Mantra, Mrs Magoo and Neil Landstrumm and 3 more. Hardcore and Jungle. See the line-up on soundcheck.
+SSL XL 2027 at The Pitt Market on Sat 30 Jan, Edinburgh. 10 artists: 2 Bad Mice, DJ Spinn, DJ SS and Feena and 6 more. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,9 @@ SSL XL 2027 at The Pitt Market on Sat 30 Jan, Edinburgh. 7 artists: 2 Bad Mice, 
 ## Line-up
 
 - 2 Bad Mice
+- DJ Spinn
+- DJ SS
+- Feena
 - Mantra
 - Mrs Magoo
 - Neil Landstrumm

@@ -1,14 +1,13 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Superior Ingredients, New York City on Wed, 25 Nov 2026.
+Louie Vega is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fabriketa, Sao Paulo on Sat, 28 Nov 2026.
 
-Louie Vega is a house and disco artist based in United States of America, with 222 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 40 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Superior Ingredients, New York City on Wed 25 Nov.
+Louie Vega is a house and disco artist based in United States of America, with 222 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 40 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Fabriketa, Sao Paulo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Superior Ingredients | New York City |
 | Sat, 28 Nov 2026 | Fabriketa | Sao Paulo |
 | Sat, 5 Dec 2026 | The Warehouse Project | Manchester |
 | Sun, 6 Dec 2026 | The BBE Store | London |

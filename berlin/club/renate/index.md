@@ -10,7 +10,7 @@ Renate is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with l
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Renate Klubnacht & Daytime with Queer Vinyl Night, Mark Gill & 23XI | Chris Ku, David Böning, Eva Crystaltips, Mark Gill, Murrin, Pascale Project, Tajik, Talia Dorr, The Pedagogist, katja. |
 | Sat, 28 Nov 2026 | Renate Klubnacht & Daytime with Flight Mode & GTI | Eliott Litrowski, Furotica, GTI, Jelle from the Block, Kidcat, Laylla Dane, Leona Jacewska, Sarahtonin, TS Kahuna, Tactile, Vasco, Vio PRG, ilbroccolovolante |
-| Fri, 4 Dec 2026 | Renate Klubnacht w/ Tasha Safari, OLIV & Enigma | DAHRAXT, Klix, Mystral, OLIV, Tasha Safari, charis |
+| Fri, 4 Dec 2026 | Renate Klubnacht w/ ENIGMA, Chloe Lula, Mystral, OLIV & more | Chloe Lula, DAHRAXT, Klix, Mystral, OLIV, Tasha Safari, charis |
 | Sat, 5 Dec 2026 | Renate Klubnacht & Daytime with FEUCHT X WITH US, HIR & Quatsch  | Amphia, Barbad, CHRANDY, Crystal (3), Doctora Amor, Femur, François Dulac, Julie Desire, Khloe, Mars O10C, hi.fí |
 | Sat, 5 Dec 2026 | FUNDRAISER: Protect The Dolls & Casa Kua |  |
 | Fri, 11 Dec 2026 | Renate Klubnacht & Daytime w/ WUB & Pleasure Patterns | Caillou, DJ STRAIGHT GIRL, Jimmie, KINGA, Kidcat, Minq, ilbroccolovolante |

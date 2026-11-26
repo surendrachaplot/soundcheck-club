@@ -1,14 +1,15 @@
 # Holly Lester
 
-Holly Lester is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 11 Dec 2026.
+Holly Lester is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 11 Dec 2026.
 
-Holly Lester is a house and techno artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Bali, Belfast and Berlin and 17 more. Often billed alongside Plain Sailing DJs, Swoose and Body Clinic. Next up: The Ulster Sports Club, Belfast on Fri 11 Dec.
+Holly Lester is a house and techno artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Bali, Belfast and Berlin and 17 more. Often billed alongside Plain Sailing DJs, Swoose and Body Clinic. Next up: The Ulster Sports Club, Belfast on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | The Ulster Sports Club | Belfast |
+| Sat, 9 Jan 2027 | fabric | London |
 
 ## Recently played
 

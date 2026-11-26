@@ -1,14 +1,13 @@
 # Victor G (MY)
 
-Victor G (MY) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kyo KL, Kuala Lumpur on Thu, 26 Nov 2026.
+Victor G (MY) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 28 Nov 2026.
 
-Victor G (MY) is a house and tech house artist based in Malaysia, with 50 gigs on soundcheck across Kuala Lumpur and Shanghai. Often billed alongside Alam, Axel Groove and LZZY. Next up: Kyo KL, Kuala Lumpur on Thu 26 Nov.
+Victor G (MY) is a house and tech house artist based in Malaysia, with 50 gigs on soundcheck across Kuala Lumpur and Shanghai. Often billed alongside Alam, Axel Groove and LZZY. Next up: Wet Deck at W Hotel, Kuala Lumpur on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Kyo KL | Kuala Lumpur |
 | Sat, 28 Nov 2026 | Wet Deck at W Hotel | Kuala Lumpur |
 
 ## Recently played

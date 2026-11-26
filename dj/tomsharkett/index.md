@@ -2,7 +2,7 @@
 
 Tom Sharkett is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Golden Lion, Manchester on Sat, 5 Dec 2026.
 
-Tom Sharkett is a house and electronica artist, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Lupini, Matt Hum and Decius. Next up: The Golden Lion, Manchester on Sat 5 Dec.
+Tom Sharkett is a house and electronica artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Lupini, Matt Hum and Decius. Next up: The Golden Lion, Manchester on Sat 5 Dec.
 
 ## Upcoming shows
 

@@ -1,13 +1,14 @@
 # Vonderau
 
-Vonderau is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Catonium, Hamburg on Sat, 30 Jan 2027.
+Vonderau is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Panama, Amsterdam on Sat, 2 Jan 2027.
 
-Vonderau is a techno and tech house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Frankfurt and 3 more. Often billed alongside Dan Brocksmith, Daryl Johnson and Luke Sun. Next up: Catonium, Hamburg on Sat 30 Jan.
+Vonderau is a techno and tech house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Frankfurt and 3 more. Often billed alongside Dan Brocksmith, Daryl Johnson and Luke Sun. Next up: Panama, Amsterdam on Sat 2 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 2 Jan 2027 | Panama | Amsterdam |
 | Sat, 30 Jan 2027 | Catonium | Hamburg |
 
 ## Recently played

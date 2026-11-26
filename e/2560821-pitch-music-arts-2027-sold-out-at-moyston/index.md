@@ -62,7 +62,7 @@ Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artist
 - RONI
 - SAIDAH
 - Sam Girling
-- Soju Gang
+- SheIsAlive
 - Sweely
 - Tangerine
 - Verraco

@@ -1,14 +1,13 @@
 # Wassu
 
-Wassu is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pandora Café & House Music, Richmond on Wed, 25 Nov 2026.
+Wassu is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Chemist, Boston on Sat, 12 Dec 2026.
 
-Wassu is a progressive house and deep house artist based in United States of America, with 42 gigs on soundcheck across Austin, Baltimore, Boston and Chicago and 14 more. Often billed alongside ELIF, TOMMYLOGIK and Authentic. Next up: Pandora Café & House Music, Richmond on Wed 25 Nov.
+Wassu is a progressive house and deep house artist based in United States of America, with 42 gigs on soundcheck across Austin, Baltimore, Boston and Chicago and 14 more. Often billed alongside ELIF, TOMMYLOGIK and Authentic. Next up: The Chemist, Boston on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Pandora Café & House Music | Richmond |
 | Sat, 12 Dec 2026 | The Chemist | Boston |
 
 ## Recently played

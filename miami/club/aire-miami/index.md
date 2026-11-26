@@ -1,8 +1,8 @@
 # Aire Miami
 
-Aire Miami is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Aire: Rodrigo Vieira, Bagdelan, Sophie du Futur, Orel Sasportas (IL)" on Thu, 26 Nov 2026.
+Aire Miami is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Aire: Rodrigo Vieira, Bagdelan, Sophie du Futur, Orel Sasportas (IL)" on Thu, 26 Nov 2026.
 
-Aire Miami is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with line-ups including ANDREATENS, Art Department, Fiin and Floyd Lavine and 2 more. See dates, start times and who's playing. 111 NE 20th Street, Miami, FL 33137, USA.
+Aire Miami is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with line-ups including ANDREATENS, Art Department, Conosur and Fiin and 2 more. See dates, start times and who's playing. 111 NE 20th Street, Miami, FL 33137, USA.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Aire Miami is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with
 | Fri, 4 Dec 2026 | HVMZA (Miami Art Week) |  |
 | Sat, 5 Dec 2026 | Art Department & More | Art Department, Fiin |
 | Thu, 31 Dec 2026 | Aire: New Years Eve |  |
+| Thu, 31 Dec 2026 | NYE 2027 with Gab Rhome | Conosur, Gab Rhome |
 
 ## Address
 

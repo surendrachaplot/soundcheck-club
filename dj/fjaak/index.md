@@ -1,8 +1,8 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Warehouse ZRH, Zurich on Sat, 28 Nov 2026.
+FJAAK is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Warehouse ZRH, Zurich on Sat, 28 Nov 2026.
 
-FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 92 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Warehouse ZRH, Zurich on Sat 28 Nov.
+FJAAK is a techno and house artist based in Germany, with 309 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 92 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Warehouse ZRH, Zurich on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck
 | Fri, 4 Dec 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
 | Fri, 11 Dec 2026 | WDM | Hannover |
+| Sat, 12 Dec 2026 | Distillery | Leipzig |
 | Fri, 18 Dec 2026 | Jaeger | Oslo |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
@@ -19,7 +20,6 @@ FJAAK is a techno and house artist based in Germany, with 308 gigs on soundcheck
 | Fri, 15 Jan 2027 | Gate Milano | Milan |
 | Sat, 16 Jan 2027 | control | Bucharest |
 | Sat, 13 Feb 2027 | Phonox | London |
-| Fri, 19 Feb 2027 | gallery 1986 | Vilnius |
 
 ## Recently played
 

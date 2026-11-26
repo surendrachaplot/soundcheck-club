@@ -1,14 +1,15 @@
 # FOULMOUTH
 
-FOULMOUTH is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Billy Bootleggers, Nottingham on Fri, 27 Nov 2026.
+FOULMOUTH is a Hardcore and Gabber artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Billy Bootleggers, Nottingham on Fri, 27 Nov 2026.
 
-FOULMOUTH is a hardcore and gabber artist based in United Kingdom, with 35 gigs on soundcheck across Bristol, Leeds, Liverpool and Manchester and 1 more. Often billed alongside FKA Hardcore, Anop and Princess Elf Bar. Next up: Billy Bootleggers, Nottingham on Fri 27 Nov.
+FOULMOUTH is a hardcore and gabber artist based in United Kingdom, with 36 gigs on soundcheck across Bristol, Leeds, Liverpool and Manchester and 1 more. Often billed alongside FKA Hardcore, Anop and Princess Elf Bar. Next up: Billy Bootleggers, Nottingham on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Billy Bootleggers | Nottingham |
+| Sat, 28 Nov 2026 | Beaver Works | Leeds |
 | Wed, 2 Dec 2026 | The DBA | Manchester |
 | Sat, 12 Dec 2026 | Meraki | Liverpool |
 

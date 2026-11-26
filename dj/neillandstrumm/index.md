@@ -2,7 +2,7 @@
 
 Neil Landstrumm is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Belle Angele, Edinburgh on Tue, 29 Dec 2026.
 
-Neil Landstrumm is a techno and bass artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Bologna and Bristol and 14 more. Often billed alongside Skillis, Creep Woland and Feena. Next up: La Belle Angele, Edinburgh on Tue 29 Dec.
+Neil Landstrumm is a techno and bass artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Bologna and Bristol and 14 more. Often billed alongside Skillis, Feena and Creep Woland. Next up: La Belle Angele, Edinburgh on Tue 29 Dec.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Neil Landstrumm is a techno and bass artist based in United Kingdom, with 46 gig
 
 ## Shares bills with
 
-Skillis, Creep Woland, Feena
+Skillis, Feena, Creep Woland
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neillandstrumm/)*

@@ -1,14 +1,13 @@
 # M.I.O
 
-M.I.O is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at HVEN, Tokyo on Thu, 26 Nov 2026.
+M.I.O is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 4 Dec 2026.
 
-M.I.O is a bass and techno artist, with 54 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: HVEN, Tokyo on Thu 26 Nov.
+M.I.O is a bass and techno artist, with 54 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: Circus Tokyo, Tokyo on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | HVEN | Tokyo |
 | Fri, 4 Dec 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played

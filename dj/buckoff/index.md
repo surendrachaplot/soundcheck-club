@@ -1,14 +1,13 @@
 # BUCK/OFF
 
-BUCK/OFF is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - DTLA, Los Angeles on Wed, 25 Nov 2026.
+BUCK/OFF is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
 
-BUCK/OFF is a tech house and house artist based in United States of America, with 21 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Nic Jericho, Flabbergast (LA) and masato. Next up: TBA - DTLA, Los Angeles on Wed 25 Nov.
+BUCK/OFF is a tech house and house artist based in United States of America, with 21 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Nic Jericho, Flabbergast (LA) and masato. Next up: TBA, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA - DTLA | Los Angeles |
 | Sat, 28 Nov 2026 | TBA | Los Angeles |
 
 ## Recently played

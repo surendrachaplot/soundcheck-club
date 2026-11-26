@@ -1,14 +1,13 @@
 # Ardalan
 
-Ardalan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 25 Nov 2026.
+Ardalan is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 26 Nov 2026.
 
-Ardalan is a house and tech house artist based in Iran, with 93 gigs on soundcheck across Atlanta, Austin, Berlin and Chicago and 15 more. Often billed alongside Life on Planets, Justin Martin and RUDEE NIK. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 25 Nov.
+Ardalan is a house and tech house artist based in Iran, with 93 gigs on soundcheck across Atlanta, Austin, Berlin and Chicago and 15 more. Often billed alongside Life on Planets, Justin Martin and RUDEE NIK. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 26 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | Footie on First | Seattle |
 

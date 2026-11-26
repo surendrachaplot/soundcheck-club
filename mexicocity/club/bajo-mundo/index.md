@@ -1,8 +1,8 @@
 # Bajo Mundo
 
-Bajo Mundo is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Luxuria" on Sat, 28 Nov 2026.
+Bajo Mundo is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Luxuria" on Sat, 28 Nov 2026.
 
-Bajo Mundo is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including Cabe, Daan Cruz, Machinelove and Mistikvibe and 2 more. See dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
+Bajo Mundo is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, with line-ups including Cabe, Daan Cruz, Machinelove and Mistikvibe and 2 more. See dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Bajo Mundo is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs
 | Sat, 28 Nov 2026 | Luxuria |  |
 | Sat, 28 Nov 2026 | LUXURIA |  |
 | Fri, 4 Dec 2026 | Veneno 7 AÑOS | Machinelove, Mistikvibe, Praqqa, Smoque, Umvral, Vekan |
+| Sat, 5 Dec 2026 | THE BLVCK Sessions |  |
 | Sat, 17 Jul 2027 | ABSTRACTA X Dorsal | Cabe, Daan Cruz, Octoptic, Ramiel II |
 
 ## Address

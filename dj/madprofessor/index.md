@@ -1,8 +1,8 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Argo16, Venice on Sat, 28 Nov 2026.
+Mad Professor is a Dub and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Argo16, Venice on Sat, 28 Nov 2026.
 
-Mad Professor is a dub and bass artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Austria, Bali and Barcelona and 45 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: Argo16, Venice on Sat 28 Nov.
+Mad Professor is a dub and bass artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Austria, Bali and Barcelona and 46 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: Argo16, Venice on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mad Professor is a dub and bass artist based in United Kingdom, with 81 gigs on 
 | Sat, 5 Dec 2026 | La Souris Verte | West |
 | Thu, 4 Mar 2027 | Dom im Berg | Austria |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
+| Fri, 30 Jul 2027 | Black Pit Farm Estate | South-east |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

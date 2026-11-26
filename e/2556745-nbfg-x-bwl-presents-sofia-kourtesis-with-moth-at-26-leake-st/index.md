@@ -1,6 +1,6 @@
 # NBFG x BWL presents: Sofia Kourtesis with MOTH at 26 Leake Street
 
-NBFG x BWL presents: Sofia Kourtesis with MOTH at 26 Leake Street on Fri 27 Nov, London. 7 artists: Bianca Oblivion, DaiSu, DJ-CK and Egg On Toast and 3 more. Techno and Electronica. See the line-up on soundcheck.
+NBFG x BWL presents: Sofia Kourtesis with MOTH at 26 Leake Street on Fri 27 Nov, London. 7 artists: Bianca Oblivion, DaiSu, DJ-CK and Egg On Toast and 3 more. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

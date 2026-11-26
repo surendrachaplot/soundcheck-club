@@ -1,13 +1,14 @@
 # Cali Caracho
 
-Cali Caracho is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Amp, Münster on Sat, 28 Nov 2026.
+Cali Caracho is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kleine Freiheit, Lower-saxony on Fri, 27 Nov 2026.
 
-Cali Caracho is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Dortmund / Essen, Düsseldorf, Hamburg and Münster. Often billed alongside Redfocks, Valeby and Toni Scheppat. Next up: Amp, Münster on Sat 28 Nov.
+Cali Caracho is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Dortmund / Essen, Düsseldorf, Hamburg and Lower Saxony and 1 more. Often billed alongside Redfocks, Valeby and Toni Scheppat. Next up: Kleine Freiheit, Lower Saxony on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Kleine Freiheit | Lower-saxony |
 | Sat, 28 Nov 2026 | Amp | Münster |
 
 ## Recently played

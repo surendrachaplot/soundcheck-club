@@ -1,14 +1,13 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Wed, 25 Nov 2026.
+Andy C is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Warehouse, Leeds on Fri, 4 Dec 2026.
 
-Andy C is a drum & bass and jungle artist based in United Kingdom, with 118 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 53 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: 1015 Folsom, San Francisco/Oakland on Wed 25 Nov.
+Andy C is a drum & bass and jungle artist based in United Kingdom, with 118 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 53 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: The Warehouse, Leeds on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | The Warehouse | Leeds |
 | Sat, 5 Dec 2026 | XOYO | London |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |

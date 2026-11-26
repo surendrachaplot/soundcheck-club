@@ -1,6 +1,6 @@
 # Grounded. // 019 w// Winslow at Last Arch
 
-Grounded. // 019 w// Winslow at Last Arch on Sat 30 Jan, London. 5 artists: Dilemma, Ed Culprit, Episode Three and Luas and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Grounded. // 019 w// Winslow at Last Arch on Sat 30 Jan, London. 7 artists: Conspiracy, Dilemma, Ed Culprit and Episode Three and 3 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ Grounded. // 019 w// Winslow at Last Arch on Sat 30 Jan, London. 5 artists: Dile
 
 ## Line-up
 
+- Conspiracy
 - Dilemma (2)
 - Ed Culprit
 - Episode Three
 - Luas
+- Warno (2)
 - Winslow
 
 *Source: [soundcheck](https://soundcheck.club/e/2563022-grounded-019-w-winslow-at-last-arch/)*

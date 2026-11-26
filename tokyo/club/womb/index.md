@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "PASSION 4TH ANNIVERSARY (HOUSE / TECH HOUSE)" on Thu, 26 Nov 2026.
+WOMB is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NEURON" on Fri, 27 Nov 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Abura, AHREUM, AIBA and ANDY DEDE and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including Abura, AHREUM, AIBA and ANDY DEDE and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | PASSION 4TH ANNIVERSARY (HOUSE / TECH HOUSE) | NAMIMI SENSEI, Ozwick, PiERO, Tonbo |
 | Fri, 27 Nov 2026 | NEURON | AHREUM, ANDY DEDE, EIGHT, FALYN, Kandarta, Kris Fuji, LYOM, RYOHEI, TOCHAN, Tenten, Trikk |
 | Sat, 28 Nov 2026 | SO FAR (TECHNO) | AYANA KOSHIBA, DJ Dextro, FUJIWARAMONE, Kulage, Risa Taniguchi, SENNY D, Shogo Ito, Tommy Wada |
 | Wed, 2 Dec 2026 | LYRA ROOM × WTW | Kotono Shirai, Lui (6), uuu7, viene |
@@ -18,6 +17,7 @@ WOMB is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line
 | Fri, 11 Dec 2026 | ADVENTURE -ADS DAIBOUNENKAI 2026- (TRANCE / TECHNO) | PONTA, WATARU |
 | Sat, 12 Dec 2026 | CABARET RECORDINGS | CHIDA, DJ Masda, FELINE (JP), Licaxxx, Onur Özer, Samuel Jabba, Satoshi Otsuki, kengotaki |
 | Sun, 13 Dec 2026 | NESTAL K-POP NIGHT: I LOVE BB in Tokyo | DJ CHIKA, JUNK.PARK |
+| Fri, 18 Dec 2026 | AMNESIA IBIZA 50TH ANNIVERSARY (TECH HOUSE / HOUSE) | Mar-T, Marco Faraone |
 
 ## Address
 

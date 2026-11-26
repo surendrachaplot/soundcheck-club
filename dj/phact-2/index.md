@@ -1,14 +1,15 @@
 # Phact (UK)
 
-Phact (UK) is a Minimal Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NDR2 Red Room, London on Sat, 28 Nov 2026.
+Phact (UK) is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NDR2 Red Room, London on Sat, 28 Nov 2026.
 
-Phact (UK) is a minimal techno and electro artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Son of Paul, Mantis and Mantis (UK). Next up: NDR2 Red Room, London on Sat 28 Nov.
+Phact (UK) is a minimal techno and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Son of Paul, Mantis and Mantis (UK). Next up: NDR2 Red Room, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | NDR2 Red Room | London |
+| Sat, 12 Dec 2026 | The Greyhound | London |
 
 ## Recently played
 

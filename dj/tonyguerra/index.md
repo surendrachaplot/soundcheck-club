@@ -1,14 +1,13 @@
 # Tony Guerra
 
-Tony Guerra is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SILO, New York City on Wed, 25 Nov 2026.
+Tony Guerra is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Edge Miami, Miami on Sun, 6 Dec 2026.
 
-Tony Guerra is a tech house and house artist based in Venezuela, with 54 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 11 more. Often billed alongside Mason Collective, Raul Ortiz and CESAR ALMENA. Next up: SILO, New York City on Wed 25 Nov.
+Tony Guerra is a tech house and house artist based in Venezuela, with 54 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 11 more. Often billed alongside Mason Collective, Raul Ortiz and CESAR ALMENA. Next up: Edge Miami, Miami on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | SILO | New York City |
 | Sun, 6 Dec 2026 | Edge Miami | Miami |
 
 ## Recently played

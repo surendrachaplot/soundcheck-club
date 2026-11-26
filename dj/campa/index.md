@@ -1,13 +1,14 @@
 # CAMPA
 
-CAMPA is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Westhafen, Leipzig on Thu, 31 Dec 2026.
+CAMPA is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery, Leipzig on Sat, 19 Dec 2026.
 
-CAMPA is a techno and hip-hop artist based in Germany, with 9 gigs on soundcheck across Leipzig and Munich. Often billed alongside Fennek, Langnikel and Moto Moto. Next up: Westhafen, Leipzig on Thu 31 Dec.
+CAMPA is a techno and hip-hop artist based in Germany, with 10 gigs on soundcheck across Leipzig and Munich. Often billed alongside Fennek, Moto Moto and Langnikel. Next up: Distillery, Leipzig on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Distillery | Leipzig |
 | Thu, 31 Dec 2026 | Westhafen | Leipzig |
 
 ## Recently played
@@ -23,6 +24,6 @@ CAMPA is a techno and hip-hop artist based in Germany, with 9 gigs on soundcheck
 
 ## Shares bills with
 
-Fennek, Langnikel, Moto Moto
+Fennek, Moto Moto, Langnikel
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/campa/)*

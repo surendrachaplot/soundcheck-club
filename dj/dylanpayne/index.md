@@ -1,14 +1,13 @@
 # Dylan Payne
 
-Dylan Payne is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 3oz Dive Club, San Diego on Wed, 25 Nov 2026.
+Dylan Payne is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - New Location, Los Angeles on Fri, 27 Nov 2026.
 
-Dylan Payne is a house and techno artist based in United States of America, with 93 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 17 more. Often billed alongside Highkin', Krane and O.BEE. Next up: 3oz Dive Club, San Diego on Wed 25 Nov.
+Dylan Payne is a house and techno artist based in United States of America, with 93 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 17 more. Often billed alongside Highkin', Krane and O.BEE. Next up: TBA - New Location, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | 3oz Dive Club | San Diego |
 | Fri, 27 Nov 2026 | TBA - New Location | Los Angeles |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Thu, 10 Dec 2026 | Signal | New York City |

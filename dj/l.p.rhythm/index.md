@@ -1,14 +1,13 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Love Inn, Bristol on Wed, 25 Nov 2026.
+L.P. Rhythm is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
-L.P. Rhythm is a house and tech house artist based in United Kingdom, with 195 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 36 more. Often billed alongside Gaskin, Locky and Luuk van Dijk. Next up: The Love Inn, Bristol on Wed 25 Nov.
+L.P. Rhythm is a house and tech house artist based in United Kingdom, with 195 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 36 more. Often billed alongside Gaskin, Locky and Luuk van Dijk. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | The Love Inn | Bristol |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |

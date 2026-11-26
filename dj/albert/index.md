@@ -1,14 +1,14 @@
 # Albert
 
-Albert is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 28 Nov 2026.
+Albert is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 27 Nov 2026.
 
-Albert is a techno and bass artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Mannheim and New York City. Often billed alongside Alexander Koning, DMan and Dimitri. Next up: Disco Zwei, Mannheim on Sat 28 Nov.
+Albert is a techno and bass artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Mannheim and New York City. Often billed alongside Alexander Koning, DMan and Dimitri. Next up: Disco Zwei, Mannheim on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Disco Zwei | Mannheim |
+| Fri, 27 Nov 2026 | Disco Zwei | Mannheim |
 
 ## Recently played
 

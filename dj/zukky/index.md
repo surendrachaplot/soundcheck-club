@@ -1,14 +1,13 @@
 # Zukky
 
-Zukky is a Club and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 26 Nov 2026.
+Zukky is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Fri, 27 Nov 2026.
 
-Zukky is a club and electro artist based in Italy, with 12 gigs on soundcheck across Tokyo. Often billed alongside kazuma, Lemi and KOSHIRO. Next up: SEL OCTAGON TOKYO, Tokyo on Thu 26 Nov.
+Zukky is a club and electro artist based in Italy, with 12 gigs on soundcheck across Tokyo. Often billed alongside kazuma, Lemi and KOSHIRO. Next up: SEL OCTAGON TOKYO, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Fri, 27 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 
 ## Recently played

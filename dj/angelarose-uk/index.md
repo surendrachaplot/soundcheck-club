@@ -1,14 +1,15 @@
 # Angela Rose
 
-Angela Rose is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Sun, 27 Dec 2026.
+Angela Rose is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Sun, 27 Dec 2026.
 
-Angela Rose is a house and afro house artist based in United Kingdom, with 30 gigs on soundcheck across London. Often billed alongside CLEIDO, Carlos Aries and Gavin Peters. Next up: Ministry Of Sound, London on Sun 27 Dec.
+Angela Rose is a house and afro house artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside CLEIDO, Carlos Aries and Gavin Peters. Next up: Ministry Of Sound, London on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Dec 2026 | Ministry Of Sound | London |
+| Thu, 31 Dec 2026 | Boxhall City | London |
 
 ## Recently played
 

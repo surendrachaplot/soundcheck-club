@@ -1,14 +1,13 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SET w/Patrice Baumel & Armen Miran in LA" on Wed, 25 Nov 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "SMD - NYE" on Thu, 31 Dec 2026.
 
-TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Armen Miran, DJ Holographic, Juan Maclean and Patrice Bäumel. See dates, start times and who's playing. To Be Announced - DTLA.
+TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including DJ Holographic and Juan Maclean. See dates, start times and who's playing. To Be Announced - DTLA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | SET w/Patrice Baumel & Armen Miran in LA | Armen Miran, Patrice Bäumel |
 | Thu, 31 Dec 2026 | SMD - NYE | DJ Holographic, Juan Maclean |
 
 ## Address

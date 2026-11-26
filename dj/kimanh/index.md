@@ -1,14 +1,13 @@
 # Kim Anh
 
-Kim Anh is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gabriela, New York City on Wed, 25 Nov 2026.
+Kim Anh is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BASEMENT, New York City on Sat, 19 Dec 2026.
 
-Kim Anh is a house and disco artist based in United States of America, with 137 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 11 more. Often billed alongside Eli Escobar, The Carry Nation and Mike Servito. Next up: Gabriela, New York City on Wed 25 Nov.
+Kim Anh is a house and disco artist based in United States of America, with 137 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 11 more. Often billed alongside Eli Escobar, The Carry Nation and Mike Servito. Next up: BASEMENT, New York City on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Gabriela | New York City |
 | Sat, 19 Dec 2026 | BASEMENT | New York City |
 | Fri, 1 Jan 2027 | public records | New York City |
 

@@ -1,14 +1,13 @@
 # J. Richards
 
-J. Richards is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at H0L0, New York City on Wed, 25 Nov 2026.
+J. Richards is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - 333, New York City on Fri, 27 Nov 2026.
 
-J. Richards is a house and techno artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Detroit and 11 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: H0L0, New York City on Wed 25 Nov.
+J. Richards is a house and techno artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Detroit and 11 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: TBA - 333, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | H0L0 | New York City |
 | Fri, 27 Nov 2026 | TBA - 333 | New York City |
 | Sat, 12 Dec 2026 | Signal | New York City |
 | Thu, 31 Dec 2026 | Signal | New York City |

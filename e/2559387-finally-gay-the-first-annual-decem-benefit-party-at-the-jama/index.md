@@ -1,6 +1,6 @@
 # finally gay: the first annual decem-benefit party at The Jama
 
-finally gay: the first annual decem-benefit party at The Jama on Fri 18 Dec, Toronto. 1 artist: Prince Batrick. See the line-up on soundcheck.
+finally gay: the first annual decem-benefit party at The Jama on Fri 18 Dec, Toronto. 5 artists: Burn Baby, Julia Dickens, Moon Hymns and OMG.BLOG and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ finally gay: the first annual decem-benefit party at The Jama on Fri 18 Dec, Tor
 
 ## Line-up
 
-- Prince Batrick
+- Burn Baby
+- Julia Dickens
+- Moon Hymns
+- OMG.BLOG
+- Phillippe
 
 *Source: [soundcheck](https://soundcheck.club/e/2559387-finally-gay-the-first-annual-decem-benefit-party-at-the-jama/)*

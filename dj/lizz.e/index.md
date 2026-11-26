@@ -1,17 +1,17 @@
 # lizz.e
 
-lizz.e is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at De Fik Garden, Amsterdam on Thu, 26 Nov 2026.
+lizz.e is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
 
-lizz.e is a house and progressive house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Berlin, Nijmegen and Rotterdam and 2 more. Often billed alongside Boss Priester, Nathan Homan and Cromby. Next up: De Fik Garden, Amsterdam on Thu 26 Nov.
+lizz.e is a house and progressive house artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Berlin, Nijmegen and Rotterdam and 2 more. Often billed alongside Boss Priester, Nathan Homan and Cromby. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | De Fik Garden | Amsterdam |
 | Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
 | Fri, 25 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
+| Sat, 23 Jan 2027 | Shelter Amsterdam | Amsterdam |
 | Sat, 20 Feb 2027 | De Vereeniging | Nijmegen |
 
 ## Recently played

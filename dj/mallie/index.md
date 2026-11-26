@@ -1,14 +1,15 @@
 # Mallie
 
-Mallie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 29 Nov 2026.
+Mallie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 29 Nov 2026.
 
-Mallie is a house and techno artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Kyra Khaldi, Doudou MD and Hugo Martinez. Next up: Thuishaven, Amsterdam on Sun 29 Nov.
+Mallie is a house and techno artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Kyra Khaldi, Doudou MD and Hugo Martinez. Next up: Thuishaven, Amsterdam on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Thuishaven | Amsterdam |
+| Fri, 15 Jan 2027 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 

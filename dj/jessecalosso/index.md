@@ -1,14 +1,13 @@
 # Jesse Calosso
 
-Jesse Calosso is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Ground at Club Space, Miami on Wed, 25 Nov 2026.
+Jesse Calosso is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fabrik, Madrid on Sat, 2 Jan 2027.
 
-Jesse Calosso is a tech house and house artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Barcelona, Boston and Bucharest and 17 more. Often billed alongside Jean Pierre, The Martinez Brothers and AJ Christou. Next up: The Ground at Club Space, Miami on Wed 25 Nov.
+Jesse Calosso is a tech house and house artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Barcelona, Boston and Bucharest and 17 more. Often billed alongside Jean Pierre, The Martinez Brothers and AJ Christou. Next up: Fabrik, Madrid on Sat 2 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 2 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played

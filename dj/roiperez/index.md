@@ -1,8 +1,8 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 11 Dec 2026.
+Roi Perez is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 11 Dec 2026.
 
-Roi Perez is a house and techno artist based in Germany, with 245 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Ministerium Club, Lisbon on Fri 11 Dec.
+Roi Perez is a house and techno artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Ministerium Club, Lisbon on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Roi Perez is a house and techno artist based in Germany, with 245 gigs on soundc
 | Sat, 12 Dec 2026 | Bassiani | Tbilisi |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
+| Sat, 9 Jan 2027 | fabric | London |
 | Sat, 20 Feb 2027 | Lofi | Amsterdam |
 
 ## Recently played

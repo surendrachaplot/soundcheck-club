@@ -1,14 +1,13 @@
 # Bar Americas
 
-Bar Americas is a music venue in Guadalajara with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ssystem" on Wed, 25 Nov 2026.
+Bar Americas is a music venue in Guadalajara with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Madota" on Thu, 26 Nov 2026.
 
-Bar Americas is a music venue in Guadalajara listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Av. Chapultepec #507, 44140, Col. Americana, Guadalajara Jalisco, México.
+Bar Americas is a music venue in Guadalajara listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. Av. Chapultepec #507, 44140, Col. Americana, Guadalajara Jalisco, México.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Ssystem |  |
 | Thu, 26 Nov 2026 | Madota |  |
 | Fri, 27 Nov 2026 | Matt Sassari |  |
 | Fri, 27 Nov 2026 | Blue Deermon |  |

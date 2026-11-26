@@ -1,8 +1,8 @@
 # Mr Scruff
 
-Mr Scruff is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loft, Manchester on Fri, 27 Nov 2026.
+Mr Scruff is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loft, Manchester on Fri, 27 Nov 2026.
 
-Mr Scruff is a house and disco artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: The Loft, Manchester on Fri 27 Nov.
+Mr Scruff is a house and disco artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: The Loft, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Mr Scruff is a house and disco artist based in United Kingdom, with 117 gigs on 
 | Fri, 11 Dec 2026 | Gingerino's Pizza | Newcastle |
 | Sat, 12 Dec 2026 | Sub Club | Glasgow |
 | Sun, 13 Dec 2026 | Sneaky Pete's | Edinburgh |
+| Fri, 30 Jul 2027 | Black Pit Farm Estate | South-east |
 
 ## Recently played
 

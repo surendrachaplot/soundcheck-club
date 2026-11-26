@@ -1,6 +1,6 @@
-# Don't Stop at Distillery
+# DON'T STOP at Distillery
 
-Don't Stop at Distillery on Sat 9 Jan, Leipzig. 1 artist: Chris Liebing. See the line-up on soundcheck.
+DON'T STOP at Distillery on Sat 9 Jan, Leipzig. 7 artists: Andreas Eckhardt, Carotin, Chris Liebing and ELOISA and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@ Don't Stop at Distillery on Sat 9 Jan, Leipzig. 1 artist: Chris Liebing. See the
 
 ## Line-up
 
+- Andreas Eckhardt
+- Carotin
 - Chris Liebing
+- ELOISA
+- Medha
+- Neele
+- Shuray & Walle
 
 *Source: [soundcheck](https://soundcheck.club/e/2529070-don-t-stop-at-distillery/)*

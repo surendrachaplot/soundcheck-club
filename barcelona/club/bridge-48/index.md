@@ -1,14 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "B48 LIVE x FOLIA" on Thu, 26 Nov 2026.
+Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Poblenou Open Night x BRIDGE 48" on Fri, 27 Nov 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Alfa Cornae, Angie (CY), Burial and CAPITANA and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Alfa Cornae, Angie (CY), Burial and CAPITANA and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | B48 LIVE x FOLIA | VILLANELLE |
 | Fri, 27 Nov 2026 | Poblenou Open Night x BRIDGE 48 | CAPITANA, JOCHI, MEMBRILLA, Mila Morr, Nadia Boulif, Narima Satori, TBA, XOA |
 | Sat, 28 Nov 2026 | Unpredictable Sound Celebration of Life | Angie (CY), JOCHI, Matteo Bigliardi |
 | Sun, 29 Nov 2026 | El Living de Bridge |  |
@@ -18,6 +17,7 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, 
 | Sat, 5 Dec 2026 | Kryptofabbrikk Records THE LAB BARCELONA | Kryptonicadjs, Rakel |
 | Sat, 12 Dec 2026 | Placeo pres. Terry Iarusci - Afternoon Showcase - Bridge48 |  |
 | Mon, 11 Jan 2027 | AUDE Listening Session: David Bowie, Blackstar (2016) |  |
+| Fri, 15 Jan 2027 | Back To Bed Vol.1 |  |
 
 ## Address
 

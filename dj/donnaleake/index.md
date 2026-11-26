@@ -1,14 +1,13 @@
 # Donna Leake
 
-Donna Leake is a Jazz and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Haremame / 晴れたら空に豆まいて, Tokyo on Thu, 26 Nov 2026.
+Donna Leake is a Jazz and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Else, Kuala Lumpur on Sun, 29 Nov 2026.
 
-Donna Leake is a jazz and funk / soul artist based in United Kingdom, with 90 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 29 more. Often billed alongside Haseeb Iqbal, Konduku and Suze Ijó. Next up: Haremame / 晴れたら空に豆まいて, Tokyo on Thu 26 Nov.
+Donna Leake is a jazz and funk / soul artist based in United Kingdom, with 90 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 29 more. Often billed alongside Haseeb Iqbal, Konduku and Suze Ijó. Next up: Else, Kuala Lumpur on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Haremame / 晴れたら空に豆まいて | Tokyo |
 | Sun, 29 Nov 2026 | Else | Kuala Lumpur |
 | Sat, 19 Dec 2026 | La Bellevilloise | Paris |
 

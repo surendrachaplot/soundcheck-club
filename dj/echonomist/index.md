@@ -1,8 +1,8 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gallery, London on Thu, 26 Nov 2026.
+Echonomist is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gallery, London on Thu, 26 Nov 2026.
 
-Echonomist is a house and techno artist based in Greece, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 44 more. Often billed alongside Jenia Tarsol, Denis Horvat and Avangart Tabldot. Next up: Gallery, London on Thu 26 Nov.
+Echonomist is a house and techno artist based in Greece, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside Jenia Tarsol, Denis Horvat and Avangart Tabldot. Next up: Gallery, London on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Echonomist is a house and techno artist based in Greece, with 150 gigs on soundc
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Gallery | London |
 | Sat, 28 Nov 2026 | Dojo Boutique Club | Budapest |
+| Fri, 4 Dec 2026 | CLOUD.9 MARBELLA | South |
 | Sat, 26 Dec 2026 | Mason Bar | Cyprus |
+| Fri, 18 Jun 2027 | BORIS CLUB | Barcelona |
 
 ## Recently played
 

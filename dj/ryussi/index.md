@@ -1,0 +1,28 @@
+# Ryussi
+
+Ryussi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Electrowerkz, London on Sat, 5 Dec 2026.
+
+Ryussi is a house and techno artist based in United Kingdom, with 35 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Joshua James, Mike Menace and Joel Mignott. Next up: Electrowerkz, London on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Electrowerkz | London |
+
+## Recently played
+
+- Aethos London Shoreditch, London · Sat, 31 Oct 2026
+- Electrowerkz, London · Sat, 5 Sept 2026
+- The Marquee Moon, London · Sat, 15 Aug 2026
+- Eastern Bloc Records, Manchester · Thu, 9 Jul 2026
+- The Cause, London · Sat, 6 Jun 2026
+- XOYO, London · Fri, 29 May 2026
+- XOYO, London · Fri, 17 Apr 2026
+- XOYO, London · Fri, 20 Mar 2026
+
+## Shares bills with
+
+Joshua James, Mike Menace, Joel Mignott
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryussi/)*

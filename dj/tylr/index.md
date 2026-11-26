@@ -1,15 +1,16 @@
 # Tylr
 
-Tylr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
+Tylr is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
 
-Tylr is a house and techno artist based in United States of America, with 345 gigs on soundcheck across Detroit, London, New York City and San Francisco/Oakland and 2 more. Often billed alongside Loren, Garrison XR and Kass (US). Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
+Tylr is a house and techno artist based in United States of America, with 347 gigs on soundcheck across Detroit, London, New York City and San Francisco/Oakland and 2 more. Often billed alongside Loren, Garrison XR and Kass (US). Next up: Menjo's, Detroit on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | The Eagle of Detroit | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
+| Sun, 29 Nov 2026 | Spkrbox | Detroit |
+| Fri, 11 Dec 2026 | El Trombone | Detroit |
 
 ## Recently played
 

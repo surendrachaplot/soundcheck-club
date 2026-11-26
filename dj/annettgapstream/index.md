@@ -1,14 +1,15 @@
 # Annett Gapstream
 
-Annett Gapstream is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Annett Gapstream is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
-Annett Gapstream is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 14 more. Often billed alongside Frida Darko, Kotoe and Hidden Empire. Next up: Kater, Berlin on Sat 12 Dec.
+Annett Gapstream is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 14 more. Often billed alongside Frida Darko, Kotoe and Hidden Empire. Next up: Kater, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Kater | Berlin |
+| Thu, 24 Dec 2026 | Hoppetosse | Berlin |
 
 ## Recently played
 

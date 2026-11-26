@@ -1,14 +1,13 @@
 # hypemelo
 
-hypemelo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Paris Bar, Detroit on Wed, 25 Nov 2026.
+hypemelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
 
-hypemelo is a house and techno artist based in United States of America, with 96 gigs on soundcheck across Cleveland, Detroit and New York City. Often billed alongside Amino, Duck Trash and Garrison XR. Next up: Paris Bar, Detroit on Wed 25 Nov.
+hypemelo is a house and techno artist based in United States of America, with 96 gigs on soundcheck across Cleveland, Detroit and New York City. Often billed alongside Amino, Duck Trash and Garrison XR. Next up: Menjo's, Detroit on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Paris Bar | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 
 ## Recently played

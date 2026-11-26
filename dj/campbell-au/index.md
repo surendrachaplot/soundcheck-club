@@ -1,14 +1,13 @@
 # Campbell
 
-Campbell is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Section 8, Melbourne on Thu, 26 Nov 2026.
+Campbell is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
 
-Campbell is a bass and dubstep artist based in Australia, with 17 gigs on soundcheck across Amsterdam, Berlin, Istanbul and London and 3 more. Often billed alongside Emelyne, Hally and MELTA. Next up: Section 8, Melbourne on Thu 26 Nov.
+Campbell is a bass and dubstep artist based in Australia, with 17 gigs on soundcheck across Amsterdam, Berlin, Istanbul and London and 3 more. Often billed alongside Emelyne, Hally and MELTA. Next up: Revolver Upstairs, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Section 8 | Melbourne |
 | Sat, 5 Dec 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played

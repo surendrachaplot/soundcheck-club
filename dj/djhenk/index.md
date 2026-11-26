@@ -1,8 +1,8 @@
 # DJ Henk
 
-DJ Henk is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Sat, 19 Dec 2026.
+DJ Henk is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Sat, 19 Dec 2026.
 
-DJ Henk is a trance and techno artist based in Germany, with 149 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: ://about blank, Berlin on Sat 19 Dec.
+DJ Henk is a trance and techno artist based in Germany, with 150 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: ://about blank, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Henk is a trance and techno artist based in Germany, with 149 gigs on soundch
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
 | Sun, 27 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 31 Dec 2026 | MÄX | Zurich |
+| Fri, 8 Jan 2027 | Lokschuppen Berlin | Berlin |
 | Sat, 30 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played

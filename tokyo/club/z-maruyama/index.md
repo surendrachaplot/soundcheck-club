@@ -1,14 +1,13 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "INTERSECT" on Thu, 26 Nov 2026.
+Z Maruyama is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "HOUSE SESSION WITH RED RUBY (HOUSE / TECH HOUSE)" on Fri, 27 Nov 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including AHREUM, ASSIGN, Casas and Chihoshi and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including AHREUM, ASSIGN, Casas and Chihoshi and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | INTERSECT |  |
 | Fri, 27 Nov 2026 | HOUSE SESSION WITH RED RUBY (HOUSE / TECH HOUSE) | Chika Luna, GooPer, Onsawa&tkc |
 | Sat, 28 Nov 2026 | Rezonance (DRUM &BASS) | ASSIGN, ITSUKI, Maozon, kens:k |
 | Sat, 28 Nov 2026 | CONNECTION | JINI, Leo Gabriel |
@@ -18,6 +17,7 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 5 Dec 2026 | NODE | CKRN303, Do Shock Booze, Nobuharu Morimoto |
 | Sun, 6 Dec 2026 | TRANCE ESSENTIALS PRESENTS VII X TOKYO 10TH BIRTHDAY WEEKENDER TOKYO CLOSING PARTY | DJ 34, Greg Downey, John Askew |
 | Fri, 11 Dec 2026 | Spiller JAPAN TOUR IN TOKYO -Z Maruyama 1ST ANNIVERSARY FT HOUSE SESSION- (HOUSE) | Spiller, Yamariki, dj yumi-cco |
+| Fri, 18 Dec 2026 | DAITOKAI 1ST ANNIVERSARY (TECH HOUSE) | CLESENT, Casas, Daitto, Nicola Calbi |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at WaV, Liverpool on Fri, 4 Dec 2026.
+Hidde van Wee is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at WaV, Liverpool on Fri, 4 Dec 2026.
 
-Hidde van Wee is a house and tech house artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Cardiff and 16 more. Often billed alongside Sidney Charles, Boss Priester and Job de Jong. Next up: WaV, Liverpool on Fri 4 Dec.
+Hidde van Wee is a house and tech house artist based in Netherlands, with 82 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Cardiff and 16 more. Often billed alongside Sidney Charles, Boss Priester and Job de Jong. Next up: WaV, Liverpool on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Hidde van Wee is a house and tech house artist based in Netherlands, with 81 gig
 | Sat, 19 Dec 2026 | Complex Maastricht | Netherlands |
 | Thu, 31 Dec 2026 | Hal 4 aan de Maas | Rotterdam |
 | Thu, 31 Dec 2026 | Club Holy Moly | Netherlands |
+| Sat, 30 Jan 2027 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played

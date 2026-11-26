@@ -14,15 +14,15 @@
 - BECCA
 - Bonq
 - Candice Blonde
-- d o l c e
 - Dark Zenith
 - DAZA
 - DJ JUANSOHN
 - DJ Taxiteller
+- Dolce888
 - Dudulina
 - FANXI B
 - IZA (2)
-- Jonny (Free Soul)
+- JONNY*
 - juli (8)
 - Julka (2)
 - mazelicious

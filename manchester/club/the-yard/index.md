@@ -1,14 +1,13 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RE:IMAGINED 001" on Wed, 25 Nov 2026.
+The Yard is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Partisan 10th Birthday" on Fri, 27 Nov 2026.
 
-The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Freeland, Chris Massey, Clemency and d. clemente and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
+The Yard is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Freeland, Chris Massey, Clemency and d. clemente and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | RE:IMAGINED 001 | Granite Styr |
 | Fri, 27 Nov 2026 | Partisan 10th Birthday | Clemency, Kusasa, Semi Peppered, Zuri, d. clemente, fig (4) |
 | Sat, 28 Nov 2026 | Sticky Heat with Adam Freeland | Adam Freeland, Chris Massey, Muddy Feet |
 | Sat, 23 Jan 2027 | Litronix live + Shunt Volta & Girls Who Play Records | Shunt Voltage |

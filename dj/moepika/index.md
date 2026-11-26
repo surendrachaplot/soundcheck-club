@@ -1,14 +1,13 @@
 # MoEPiKA
 
-MoEPiKA is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at club asia, Tokyo on Thu, 26 Nov 2026.
+MoEPiKA is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Enter Shibuya, Tokyo on Mon, 30 Nov 2026.
 
-MoEPiKA is a techno and bass artist based in Japan, with 172 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside YUVIE, ecec and Romy Mats. Next up: club asia, Tokyo on Thu 26 Nov.
+MoEPiKA is a techno and bass artist based in Japan, with 172 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside YUVIE, ecec and Romy Mats. Next up: Enter Shibuya, Tokyo on Mon 30 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | club asia | Tokyo |
 | Mon, 30 Nov 2026 | Enter Shibuya | Tokyo |
 | Fri, 4 Dec 2026 | club asia | Tokyo |
 

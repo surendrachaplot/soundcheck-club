@@ -2,7 +2,7 @@
 
 K-Tanaka is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Little Rockers, Okinawa on Fri, 27 Nov 2026.
 
-K-Tanaka is a techno and electro artist, with 3 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside AE35, Homma Honganji and POiSON GiRL FRiEND. Next up: Little Rockers, Okinawa on Fri 27 Nov.
+K-Tanaka is a techno and electro artist based in Japan, with 3 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside AE35, Homma Honganji and POiSON GiRL FRiEND. Next up: Little Rockers, Okinawa on Fri 27 Nov.
 
 ## Upcoming shows
 

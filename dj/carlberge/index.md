@@ -1,13 +1,14 @@
 # Carl Bergé
 
-Carl Bergé is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Paloma, Berlin on Fri, 4 Dec 2026.
+Carl Bergé is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Dalston Superstore, London on Thu, 26 Nov 2026.
 
-Carl Bergé is a house and techno artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bochum and 10 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Paloma, Berlin on Fri 4 Dec.
+Carl Bergé is a house and techno artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bochum and 10 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Dalston Superstore, London on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Dalston Superstore | London |
 | Fri, 4 Dec 2026 | Paloma | Berlin |
 | Fri, 11 Dec 2026 | Kater | Berlin |
 | Sat, 19 Dec 2026 | Schlegel Kultur Club | Bochum |

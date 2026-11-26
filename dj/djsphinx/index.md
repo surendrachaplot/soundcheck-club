@@ -1,14 +1,13 @@
 # DJ SPHiNX
 
-DJ SPHiNX is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
+DJ SPHiNX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
 
-DJ SPHiNX is a techno and house artist based in United States of America, with 95 gigs on soundcheck across Adelaide, Cleveland, Detroit and Paris. Often billed alongside Craig Gonzalez, LATEX GIRL and hypemelo. Next up: TV Lounge, Detroit on Wed 25 Nov.
+DJ SPHiNX is a techno and house artist based in United States of America, with 95 gigs on soundcheck across Adelaide, Cleveland, Detroit and Paris. Often billed alongside Craig Gonzalez, LATEX GIRL and hypemelo. Next up: Menjo's, Detroit on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TV Lounge | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 | Thu, 31 Dec 2026 | Tangent Gallery | Detroit |
 

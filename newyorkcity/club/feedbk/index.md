@@ -1,14 +1,13 @@
 # feedbk
 
-feedbk is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "feedbk Thanksgiving Eve with Mariiin" on Wed, 25 Nov 2026.
+feedbk is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "feedbk with Greta, Kurilo" on Fri, 27 Nov 2026.
 
-feedbk is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Mariiin, ADREE, AG (NYC) and Ancut and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
+feedbk is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including ADREE, AG (NYC), Ancut and Burchan Acar and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | feedbk Thanksgiving Eve with Mariiin | Mariiin, Richard O'Bryan |
 | Fri, 27 Nov 2026 | feedbk with Greta, Kurilo | Kurilo, Sid Vaga |
 | Sat, 28 Nov 2026 | feedbk x Discarded Gems with Daura, Ancut [longform] | Ancut, Daura, LemAr |
 | Sun, 29 Nov 2026 | feedbk with secret guest | ADREE |
@@ -18,6 +17,7 @@ feedbk is a music venue in New York City listed on soundcheck. 13 upcoming gigs,
 | Sat, 5 Dec 2026 | feedbk x Archivio Records with Bushwacka! - Storm DAT '1994' release party | Bushwacka!, Daniel Dutts, La Vega, Luciio |
 | Sun, 6 Dec 2026 | feedbk with TBA |  |
 | Thu, 10 Dec 2026 | feedbk with Mitrimar |  |
+| Fri, 11 Dec 2026 | feedbk with Helly and DJ Tjizza | AG (NYC), DJ Tjizza, Helly |
 
 ## Address
 

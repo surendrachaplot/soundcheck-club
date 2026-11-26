@@ -1,14 +1,13 @@
 # Johnny Fiore
 
-Johnny Fiore is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at XOYO, London on Wed, 25 Nov 2026.
+Johnny Fiore is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Protocol, London on Sat, 12 Dec 2026.
 
-Johnny Fiore is a tech house and house artist, with 26 gigs on soundcheck across London and Rome. Often billed alongside Dimanté, Enrico Chirchiello and Francesco Poggi. Next up: XOYO, London on Wed 25 Nov.
+Johnny Fiore is a tech house and house artist, with 26 gigs on soundcheck across London and Rome. Often billed alongside Dimanté, Enrico Chirchiello and Francesco Poggi. Next up: Protocol, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | XOYO | London |
 | Sat, 12 Dec 2026 | Protocol | London |
 | Sun, 13 Dec 2026 | Protocol | London |
 

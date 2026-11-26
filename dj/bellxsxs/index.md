@@ -1,13 +1,14 @@
 # bellxsxs
 
-bellxsxs is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OneSixOne, Melbourne on Fri, 11 Dec 2026.
+bellxsxs is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Brown Alley, Melbourne on Fri, 27 Nov 2026.
 
-bellxsxs is a house and techno artist based in Australia, with 54 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Boogs, Ben Silver and Jordan Corey. Next up: OneSixOne, Melbourne on Fri 11 Dec.
+bellxsxs is a house and techno artist based in Australia, with 55 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Boogs, Ben Silver and Jordan Corey. Next up: Brown Alley, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Brown Alley | Melbourne |
 | Fri, 11 Dec 2026 | OneSixOne | Melbourne |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 

@@ -2,7 +2,7 @@
 
 Last Arch is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "23 Degrees: G33 - All Night Long" on Fri, 27 Nov 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including BEADS, Ben Boe, Bunney and Dilemma and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including BEADS, Ben Boe, Bunney and Conspiracy and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 

@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "between x SEELEN" on Wed, 25 Nov 2026.
+elipamanoke is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SCORN" on Fri, 27 Nov 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including AMBROXAN, ANKA, Clitty and Comic Sans and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, with line-ups including AMBROXAN, ANKA, Clitty and Comic Sans and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | between x SEELEN | JANEIN, Stigmatique |
 | Fri, 27 Nov 2026 | SCORN | AMBROXAN, Gretchen B, Johnnyaga, LARIOUS, Plateau Bitch, SPLINTER (2) |
 | Sat, 28 Nov 2026 | newfaces – weekend edition [14 artists; 10€ entry] | DJ Nasi Goreng, devi-dasi, mizy, orbok, w*sserratte |
 | Wed, 2 Dec 2026 | between x VBA | Iced Matchko Latte, R-SOHR, VIVEX |
@@ -18,6 +17,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, 
 | Sat, 12 Dec 2026 | Bass Basar – Christmas Market & DJs | ANKA (2), DJ Purpur, DJ Spit, Laviena, Siggi Petrol, dj spa, genelle |
 | Sat, 19 Dec 2026 | Sachsentrance Hammerharte Bescherung | DJ https, Meta Chrom, RaverPik, Trancy Chatman, VLUNA, snoritz |
 | Sun, 27 Dec 2026 | NACHLEGEN – eli's sunday rave |  |
+| Thu, 31 Dec 2026 | hallo welt |  |
 
 ## Address
 

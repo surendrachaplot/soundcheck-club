@@ -1,17 +1,18 @@
 # Obbi
 
-Obbi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TCQ, Buenos Aires on Fri, 13 Nov 2026.
+Obbi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Bizarre, Naples on Sat, 28 Nov 2026.
 
-Obbi is a house and disco artist based in Italy, with 24 gigs on soundcheck across Buenos Aires, London and Naples. Often billed alongside ThanksMate, Giuseppe Fava and KARLOVE. Next up: TCQ, Buenos Aires on Fri 13 Nov.
+Obbi is a house and disco artist based in Italy, with 25 gigs on soundcheck across Buenos Aires, London and Naples. Often billed alongside ThanksMate, Giuseppe Fava and KARLOVE. Next up: Club Bizarre, Naples on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TCQ | Buenos Aires |
+| Sat, 28 Nov 2026 | Club Bizarre | Naples |
 
 ## Recently played
 
+- TCQ, Buenos Aires · Fri, 13 Nov 2026
 - Chiostri a Carbonara, Naples · Sun, 25 Oct 2026
 - Basic Club, Naples · Sat, 17 Oct 2026
 - Umoya, Naples · Sun, 20 Sept 2026
@@ -19,10 +20,9 @@ Obbi is a house and disco artist based in Italy, with 24 gigs on soundcheck acro
 - The Carpet Shop, London · Sat, 7 Feb 2026
 - Lento Hi Fi Bar, Naples · Sat, 27 Dec 2025
 - REC Napoli, Naples · Sat, 1 Nov 2025
-- Umoya, Naples · Sat, 9 Aug 2025
 
 ## Shares bills with
 
 ThanksMate, Giuseppe Fava, KARLOVE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obbi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obbi/)*

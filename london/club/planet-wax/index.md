@@ -1,8 +1,8 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "TONE DEF 'MADE IN LEWISHAM EP LAUNCH'" on Thu, 26 Nov 2026.
+Planet Wax is a music venue in London with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "TONE DEF 'MADE IN LEWISHAM EP LAUNCH'" on Thu, 26 Nov 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including A.N.T, Abby Daze, Andy Foundations and Artilect and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including A.N.T, Abby Daze, Andy Foundations and Artilect and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 

@@ -1,14 +1,13 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 28 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Juan Yarin [Moblack / Rumors]" on Wed, 25 Nov 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 27 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Secret Thursdays" on Thu, 26 Nov 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 28 upcoming gigs, with line-ups including Alan Epps, Anthony Middleton, Betical and Britta Arnold and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 27 upcoming gigs, with line-ups including Anthony Middleton, Betical, Britta Arnold and Camilo Franco and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Juan Yarin [Moblack / Rumors] | Alan Epps, Jessy Nimni, Juan Yarin |
 | Thu, 26 Nov 2026 | Secret Thursdays | Patafunk |
 | Fri, 27 Nov 2026 | Sander Kleinenberg [Armada Music] | Lucas Zarate, Sander Kleinenberg |
 | Sat, 28 Nov 2026 | Raw Main [All Day I Dream / Lost Mircale] | Jessy Nimni, Raw Main |
@@ -18,6 +17,7 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 28 u
 | Sat, 5 Dec 2026 | Boho Experience: Do Not Sit on Art Week | Camilo Franco, Jo.Ke, Mandrake, Surreal Flight |
 | Wed, 9 Dec 2026 | ART BASEL RECOVERY | Jessy Nimni |
 | Thu, 10 Dec 2026 | Secret Thursdays |  |
+| Fri, 11 Dec 2026 | DAVI [Bedrock Records/Crosstown Rebels] | DAVI, Viktop |
 
 ## Address
 

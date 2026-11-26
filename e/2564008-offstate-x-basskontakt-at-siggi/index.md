@@ -1,6 +1,6 @@
 # Offstate x BassKontakt at Siggi
 
-Offstate x BassKontakt at Siggi on Sat 28 Nov, Brandenburg. 8 artists: Blosvenn, Charleen Herzig, djst4rlight and Hypnosphere and 4 more. See the line-up on soundcheck.
+Offstate x BassKontakt at Siggi on Sat 28 Nov, Brandenburg. 9 artists: Blosvenn, Charleen Herzig, djst4rlight and Hypnosphere and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Offstate x BassKontakt at Siggi on Sat 28 Nov, Brandenburg. 8 artists: Blosvenn,
 - Hypnosphere
 - MARRE
 - Milchgeld
+- NÁSSIA
 - Rerïck
 - VIVI909
 

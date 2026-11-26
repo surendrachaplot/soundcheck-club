@@ -2,7 +2,7 @@
 
 Baby Jane is a Electro and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fortune Sound Club, Vancouver on Sat, 28 Nov 2026.
 
-Baby Jane is an electro and hardcore artist based in United States of America, with 7 gigs on soundcheck across Los Angeles, Miami, Montreal and North Carolina and 3 more. Often billed alongside Flapjack. Next up: Fortune Sound Club, Vancouver on Sat 28 Nov.
+Baby Jane is an electro and hardcore artist based in United States of America, with 7 gigs on soundcheck across Los Angeles, Miami, Montreal and North Carolina and 3 more. Often billed alongside Flapjack and Flleur. Next up: Fortune Sound Club, Vancouver on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Baby Jane is an electro and hardcore artist based in United States of America, w
 
 ## Shares bills with
 
-Flapjack
+Flapjack, Flleur
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*

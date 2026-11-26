@@ -1,8 +1,8 @@
 # Medha
 
-Medha is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Odonien, Cologne on Sat, 28 Nov 2026.
+Medha is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Odonien, Cologne on Sat, 28 Nov 2026.
 
-Medha is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside n.akin, JANEIN and Stigmatique. Next up: Odonien, Cologne on Sat 28 Nov.
+Medha is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside n.akin, JANEIN and Stigmatique. Next up: Odonien, Cologne on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Medha is a techno and house artist based in Germany, with 38 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Odonien | Cologne |
 | Fri, 4 Dec 2026 | Sektor Evolution | Dresden |
+| Sat, 12 Dec 2026 | Distillery | Leipzig |
 | Thu, 31 Dec 2026 | ://about blank | Berlin |
+| Sat, 9 Jan 2027 | Distillery | Leipzig |
 
 ## Recently played
 

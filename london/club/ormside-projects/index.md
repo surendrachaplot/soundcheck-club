@@ -9,7 +9,7 @@ Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | BBBwithluv x AFRICANPU$$Y presents AFREECAN IN LONDON | XT1ANA, midnightswami |
-| Fri, 27 Nov 2026 | [SOLD OUT / RESALE ACTIVE] Unsound London x Tropical Waste: RP Boo, Kode9  | Hermeneia, Kode9, RP Boo, Seb (Tropical Waste), k means |
+| Fri, 27 Nov 2026 | [LTD LATE ENTRY TIX AVAIL] Unsound London x Tropical Waste: RP Boo, Kode9  | Hermeneia, Kode9, RP Boo, Seb (Tropical Waste), k means |
 | Sat, 28 Nov 2026 | Lemon Lounge | ddwy |
 | Wed, 2 Dec 2026 | Hootenanny: Erwan Keravec, Or Sobre Blau, Camberwell Group, Lily Beltane |  |
 | Thu, 3 Dec 2026 | wing! (WORTH SCANNING FOR) ft. Theadora and C.O.BS |  |

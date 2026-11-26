@@ -1,15 +1,15 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 51 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "yuraa" on Fri, 27 Nov 2026.
+The Jazz Cafe is a music venue in London with 52 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "yuraa" on Fri, 27 Nov 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 51 upcoming gigs, with line-ups including Afriquoi, Auntie Flo, Ayce & Spirit Of House and Bobby. and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 52 upcoming gigs, with line-ups including Afriquoi, Auntie Flo, Ayce & Spirit Of House and Bobby. and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | yuraa |  |
-| Fri, 27 Nov 2026 | El Búho, Auntie Flo, Valeria Pacific | Auntie Flo, El Buho |
+| Fri, 27 Nov 2026 | Vibración Tropical: El Búho, Auntie Flo, Valeria Pacific | Auntie Flo, El Buho |
 | Sat, 28 Nov 2026 | Soul City: House Music Every Saturday Night |  |
 | Sat, 28 Nov 2026 | soulcity - a dance thing |  |
 | Tue, 1 Dec 2026 | Horace Andy & The Dub Asante Band |  |

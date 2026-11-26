@@ -1,14 +1,15 @@
 # Cowlick
 
-Cowlick is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Horse & Groom, London on Fri, 27 Nov 2026.
+Cowlick is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Horse & Groom, London on Fri, 27 Nov 2026.
 
-Cowlick is a house and deep house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside AFTR, AJ Couque and Abana. Next up: The Horse & Groom, London on Fri 27 Nov.
+Cowlick is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside AFTR, AJ Couque and Abana. Next up: The Horse & Groom, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Horse & Groom | London |
+| Sat, 5 Dec 2026 | Electrowerkz | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Goya Social Club, Madrid on Fri, 4 Dec 2026.
+Charlotte (FR) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Goya Social Club, Madrid on Fri, 4 Dec 2026.
 
-Charlotte (FR) is a house and techno artist based in France, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Goya Social Club, Madrid on Fri 4 Dec.
+Charlotte (FR) is a house and techno artist based in France, with 104 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 29 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Goya Social Club, Madrid on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Goya Social Club | Madrid |
+| Sat, 5 Dec 2026 | Weetamix | Geneva |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
 ## Recently played

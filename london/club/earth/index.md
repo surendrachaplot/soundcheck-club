@@ -10,7 +10,7 @@ EartH is a music venue in London listed on soundcheck. 9 upcoming gigs, with lin
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Unsound London: Space Afrika, Księżyc, gyrofield, Abdullah Miniawy, Simo Cell + more | Abdullah Miniawy, Simo Cell, Space Afrika, gyrofield |
 | Sat, 28 Nov 2026 | Unsound London: Simo Cell & Abdullah Miniawy, Anz, gyrofield, Tercet Imperial | Abdullah Miniawy, Anz, Simo Cell, gyrofield |
-| Fri, 4 Dec 2026 | Hunee - Hunchin' All Night | Hunee |
+| Fri, 4 Dec 2026 | Hunee - Hunchin' All Night [In The Round] | Hunee |
 | Sat, 5 Dec 2026 | Holy Tongue, Shackleton, James Massiah, and Regina Collage | James Massiah, Shackleton |
 | Mon, 7 Dec 2026 | Yawning Portal + merely & Niko Demus | Niko Demus, Yawning Portal, merely |
 | Sat, 12 Dec 2026 | Origins: DjRUM (All Night Long) | DjRUM |

@@ -1,8 +1,8 @@
 # Village Underground
 
-Village Underground is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Labyrinth presents: Distruction Boyz" on Fri, 27 Nov 2026.
+Village Underground is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Labyrinth presents: Distruction Boyz" on Fri, 27 Nov 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Arab, Afroasis, Blue Ringed Baby and Bridge (NY) and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Arab, Afroasis, Blue Ringed Baby and Bridge (NY) and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 

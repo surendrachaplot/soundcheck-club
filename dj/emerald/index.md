@@ -9,7 +9,7 @@ Emerald is a house and garage artist based in United Kingdom, with 78 gigs on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Love Inn | Bristol |
-| Thu, 10 Dec 2026 | Umusic Store Camden | London |
+| Thu, 10 Dec 2026 | Umusic Shop Camden | London |
 | Fri, 18 Dec 2026 | Club Empire | London |
 | Thu, 31 Dec 2026 | E1 | London |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |

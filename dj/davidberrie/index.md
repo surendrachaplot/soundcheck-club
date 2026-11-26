@@ -1,14 +1,13 @@
 # David Berrie
 
-David Berrie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at H0L0, New York City on Wed, 25 Nov 2026.
+David Berrie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MAD Radio NYC, New York City on Fri, 27 Nov 2026.
 
-David Berrie is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Boston and 6 more. Often billed alongside CHKLTE, Bruno Limma and Chuwee. Next up: H0L0, New York City on Wed 25 Nov.
+David Berrie is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Boston and 6 more. Often billed alongside CHKLTE, Bruno Limma and Chuwee. Next up: MAD Radio NYC, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | H0L0 | New York City |
 | Fri, 27 Nov 2026 | MAD Radio NYC | New York City |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 

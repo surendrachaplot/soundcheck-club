@@ -9,7 +9,7 @@ Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Critter b2b KATARAMA all night | Critter, KATARAMA |
-| Sat, 28 Nov 2026 | Bubble Trouble with Milch | Lily (JP), Milch (1), Sakiko Nagai |
+| Sat, 28 Nov 2026 | Bubble Trouble with Milch 4am Last Call | Lily (JP), Milch (1), Sakiko Nagai |
 | Fri, 4 Dec 2026 | IOU presents Tammy Lakkis (Detroit) - 4AM LAST CALL | Moon King, Rabzi, Tammy Lakkis |
 | Sat, 5 Dec 2026 | Hypnotic Mindscapes | Cosmic JD, Masayuki Tomita |
 | Thu, 10 Dec 2026 | Bug Mode with Cal-C & Milch | Cal C (Modern Art), Milch (1) |

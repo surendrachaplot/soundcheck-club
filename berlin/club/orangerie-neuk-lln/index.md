@@ -1,15 +1,20 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Behind the Groove with Bijon, Saulo & Friends" on Sat, 28 Nov 2026.
+Orangerie Neukölln is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Naked Grapes with Eli Bot" on Thu, 26 Nov 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including aaandscha, Bijon, Chuki Juri and Flor Coto and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including aaandscha, Adri Alibi, Baroć and Bijon and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Behind the Groove with Bijon, Saulo & Friends | Bijon |
+| Thu, 26 Nov 2026 | Naked Grapes with Eli Bot | Eli Bot |
+| Fri, 27 Nov 2026 | Sound Canteen with Baroć | Baroć |
+| Sat, 28 Nov 2026 | Behind the Groove with Bijon, Saulo & Friends | Bijon, DJ Sanni, Jimmy Potts |
+| Thu, 3 Dec 2026 | Naked Grapes with MYKI | MYKI |
+| Thu, 10 Dec 2026 | Naked Grapes with charli/e | charli/e |
 | Sat, 12 Dec 2026 | Altered States with aaandscha, Chatbot Caro, Rapha b2b Green Ink | Green Ink, aaandscha |
+| Fri, 18 Dec 2026 | Sound Canteen with Adri Alibi | Adri Alibi |
 | Sat, 19 Dec 2026 | La Casita Recordings invites Pulso: Chuki Juri, Flor Coto, Mati Amoretti, Nacho Carbajal  | Chuki Juri, Flor Coto, Mati Amoretti, Nacho Carbajal, No Silver Bullet, Szew |
 | Thu, 7 Jan 2027 | Naked Grapes with Sisi Savidge |  |
 | Fri, 29 Jan 2027 | Sound Canteen with mnm |  |

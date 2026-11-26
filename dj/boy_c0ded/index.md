@@ -1,14 +1,15 @@
 # boy_c0ded
 
-boy_c0ded is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Wonderville, New York City on Fri, 4 Dec 2026.
+boy_c0ded is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Wonderville, New York City on Fri, 4 Dec 2026.
 
-boy_c0ded is a club and techno artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside crnk.dgtl, esme2k and Traps N Trees. Next up: Wonderville, New York City on Fri 4 Dec.
+boy_c0ded is a club and techno artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside esme2k, crnk.dgtl and Traps N Trees. Next up: Wonderville, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Wonderville | New York City |
+| Sat, 19 Dec 2026 | Bar  Milagro | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ boy_c0ded is a club and techno artist based in United States of America, with 13
 
 ## Shares bills with
 
-crnk.dgtl, esme2k, Traps N Trees
+esme2k, crnk.dgtl, Traps N Trees
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boy_c0ded/)*

@@ -10,7 +10,7 @@ UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with 
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Jadu Heart - ALBUM POP UP |  |
 | Fri, 27 Nov 2026 | IDEMI - Headline Show - UNLOCKED, London | IDEMI |
-| Sat, 28 Nov 2026 | Don Diablo London | Don Diablo |
+| Sat, 28 Nov 2026 | Don Diablo London | Don Diablo, Mas Que Nada Brothers |
 | Thu, 3 Dec 2026 | Nervous Records In London: 35 Year Anniversary |  |
 | Fri, 4 Dec 2026 | Worakls - [SOLD OUT] | REYUS, Worakls |
 | Sat, 12 Dec 2026 | UNLOCKED Electronic: Makèz, D Stone + Special Guest TBA | D Stone, Hayley Zalassi, Makèz, Rennie Peters |

@@ -1,8 +1,8 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Power Dance Club" on Fri, 27 Nov 2026.
+KREUZWERK is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Power Dance Club" on Fri, 27 Nov 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Aldonna and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 131bpm, Aaron Blau, acidheaven and ADAM MUNNINGS and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
@@ -16,8 +16,8 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 | Fri, 1 Jan 2027 | Power Dance Club NYD 2027 | 131bpm, ADAM MUNNINGS, Aaron Blau, Aldonna, Andre Zimmer, Byron Yeates, CEM, Carly Zeng, Chico Blanco, Cromby, DJ NORTHERN, DJ TOOL, Dirty Daddy Don, Eoin DJ, Jen Cardini, Lea Occhi, Liad Krispin, Luigi Di Venere, Majdolen, Massimiliano Pagliara, Richii, Skankstasy, Stathis (GR), Tam Tam, Yazzus |
 | Fri, 15 Jan 2027 | NO BORDERS |  |
 | Fri, 29 Jan 2027 | In Balance |  |
+| Sat, 6 Feb 2027 | Rave 'n' Cruise 2027 | Bennet (DE), Call Super, Craig Richards, Darcy Mahady, Gene On Earth, Laura Fiore, Midland, OK Williams, Stevo Bajski, acidheaven, e/tape, livwutang |
 | Sun, 7 Mar 2027 | BCCO x ÜBERKIKZ International Women's Day | DJ ANGEL (fr), Daria Kolosova, Ketarina, SAIKA, ÜBERKIKZ |
-| Thu, 25 Mar 2027 | BCCO x FENIM0RE All Night Long | FENIM0RE |
 
 ## Address
 

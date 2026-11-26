@@ -1,14 +1,13 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 31 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BABCIA TAKES ACID" on Wed, 25 Nov 2026.
+Stage and Radio is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Vispera's Dirtieth - Minimal Damage" on Fri, 27 Nov 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming gigs, with line-ups including Alex Milo, Ally King, Amelia Leigh and April (UK) and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 30 upcoming gigs, with line-ups including Alex Milo, Ally King, Amelia Leigh and April (UK) and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | BABCIA TAKES ACID |  |
 | Fri, 27 Nov 2026 | Vispera's Dirtieth - Minimal Damage | Vispera |
 | Fri, 27 Nov 2026 | No More All Male Lineups X Mind Over Matter | Ally King, Amelia Leigh, GEOMETRIKK |
 | Sat, 28 Nov 2026 | Sir Hiss & Friends: Just Jane B2B CASE B2B Sir Hiss (All Night Long) | Case (2), Just Jane, Sir Hiss |
@@ -18,6 +17,7 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming
 | Fri, 4 Dec 2026 | The Latest Edition: Bassline, Grime & More |  |
 | Sat, 5 Dec 2026 | Cut the Rug x OPTIC |  |
 | Sat, 5 Dec 2026 | LOADING |  |
+| Tue, 8 Dec 2026 | FUSEFM X BPMSOC: LIVE IN THE DANCE |  |
 
 ## Address
 

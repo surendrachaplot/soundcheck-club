@@ -1,6 +1,6 @@
 # [CANCELLED] Circle Presents at Parallel45 at Parallel 45
 
-[CANCELLED] Circle Presents at Parallel45 at Parallel 45 on Fri 4 Dec, London. 3 artists: Azire, MXT (UK) and Summer Ghemati. House and Deep House. See the line-up on soundcheck.
+[CANCELLED] Circle Presents at Parallel45 at Parallel 45 on Fri 4 Dec, London. 4 artists: Azire, Meritz, MXT (UK) and Summer Ghemati. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Azire
+- Meritz
 - MXT (UK)
 - Summer Ghemati
 

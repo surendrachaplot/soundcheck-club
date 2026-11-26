@@ -1,8 +1,8 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WITH US présente 'EX TOXIQUE' (*´-`)" on Fri, 27 Nov 2026.
+La Station - Gare des Mines is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WITH US présente 'EX TOXIQUE' (*´-`)" on Fri, 27 Nov 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including A-440, Angel D'lite, Antilogic and BABY-B and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including A-440, Angel D'lite, Antilogic and BABY-B and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
@@ -15,9 +15,9 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 10 u
 | Sat, 5 Dec 2026 | la Culottée | Roe Deers |
 | Sat, 12 Dec 2026 | EXPLITY VS HYPERCORE PRESENT FINISH THEY/THEM: THE ULTIMATE DJ DUEL | Claude Murder, Karlfroye, Talita Otović |
 | Sat, 12 Dec 2026 | EXPLITY VS HYPERCORE PRESENT FINISH THEY/THEM: THE ULTIMATE DJ DUEL | Claude Murder, Karlfroye, Talita Otović |
+| Sun, 13 Dec 2026 | HEDONY 008 |  |
 | Fri, 18 Dec 2026 | AÏE DES MINES - Les prolongations |  |
 | Sat, 19 Dec 2026 | Club Humide - CLOSING 2026 | Angel D'lite, Lucifer, SXCL |
-| Sat, 26 Dec 2026 | BAILE TRAMA with CARMEN, GOUZOU b2b MEZZER, LUX AYO, N3LYSTAR, Sorun | LUX AYO, N3LYSTAR, Sorun |
 
 ## Address
 

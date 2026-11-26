@@ -1,6 +1,6 @@
 # BiBi: Ryan Elliott b2b Special Guest at Shelter Amsterdam
 
-BiBi: Ryan Elliott b2b Special Guest at Shelter Amsterdam on Fri 1 Jan, Amsterdam. 3 artists: Eileen, Ryan Elliott and Tonno Disko. House and Tech House. See the line-up on soundcheck.
+BiBi: Ryan Elliott b2b Special Guest at Shelter Amsterdam on Fri 1 Jan, Amsterdam. 3 artists: Eileen (NL), Ryan Elliott and Tonno Disko. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ BiBi: Ryan Elliott b2b Special Guest at Shelter Amsterdam on Fri 1 Jan, Amsterda
 
 ## Line-up
 
-- Eileen
+- Eileen (NL)
 - Ryan Elliott
 - Tonno Disko
 

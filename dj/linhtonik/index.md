@@ -1,14 +1,13 @@
 # LINHTONIK
 
-LINHTONIK is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Factory 47, Hanoi on Thu, 26 Nov 2026.
+LINHTONIK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mirage, Hanoi on Fri, 27 Nov 2026.
 
-LINHTONIK is a techno and house artist based in Vietnam, with 35 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Emmytee, HDMI? and Fomococo. Next up: Factory 47, Hanoi on Thu 26 Nov.
+LINHTONIK is a techno and house artist based in Vietnam, with 35 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Emmytee, HDMI? and Fomococo. Next up: Mirage, Hanoi on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Factory 47 | Hanoi |
 | Fri, 27 Nov 2026 | Mirage | Hanoi |
 | Sat, 12 Dec 2026 | Unmute | Hanoi |
 | Thu, 31 Dec 2026 | 4th Floor, 161 Điện Biên Phủ, Gia Định, Hồ Chí Minh City | Ho-chi-minh-city |

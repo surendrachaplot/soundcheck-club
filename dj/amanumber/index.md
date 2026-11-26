@@ -1,8 +1,8 @@
 # Aman Umber
 
-Aman Umber is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Dec 2026.
+Aman Umber is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Dec 2026.
 
-Aman Umber is a house and electro artist based in France, with 41 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bordeaux and 7 more. Often billed alongside Aline Brooklyn, Krol and Maxime dB. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Dec.
+Aman Umber is a house and electro artist based in France, with 42 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bordeaux and 7 more. Often billed alongside Aline Brooklyn, Krol and Maxime dB. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aman Umber is a house and electro artist based in France, with 41 gigs on soundc
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sun, 6 Dec 2026 | Fooq's | Miami |
+| Fri, 18 Dec 2026 | Wanderlust | Paris |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # kentaraw
 
-kentaraw is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Numm, Tokyo on Thu, 26 Nov 2026.
+kentaraw is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
 
-kentaraw is a house and minimal artist based in Japan, with 7 gigs on soundcheck across Seoul and Tokyo. Often billed alongside yoshiken, yyshuu and Oviduct. Next up: Numm, Tokyo on Thu 26 Nov.
+kentaraw is a house and minimal artist based in Japan, with 7 gigs on soundcheck across Seoul and Tokyo. Often billed alongside yoshiken, yyshuu and Oviduct. Next up: Aoyama Hachi, Tokyo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Numm | Tokyo |
 | Sat, 5 Dec 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played

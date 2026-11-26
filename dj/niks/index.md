@@ -1,8 +1,8 @@
 # NIKS
 
-NIKS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
+NIKS is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
 
-NIKS is a house and techno artist based in United Kingdom, with 170 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: export, Rotterdam on Fri 27 Nov.
+NIKS is a house and techno artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: export, Rotterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ NIKS is a house and techno artist based in United Kingdom, with 170 gigs on soun
 | Fri, 27 Nov 2026 | export | Rotterdam |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
+| Sat, 9 Jan 2027 | fabric | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

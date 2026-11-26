@@ -1,14 +1,15 @@
 # Emma B
 
-Emma B is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Audio Club, Geneva on Fri, 27 Nov 2026.
+Emma B is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Audio Club, Geneva on Fri, 27 Nov 2026.
 
-Emma B is a house and techno artist based in France, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Solah. Next up: Audio Club, Geneva on Fri 27 Nov.
+Emma B is a house and techno artist based in France, with 110 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Solah. Next up: Audio Club, Geneva on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Audio Club | Geneva |
+| Fri, 8 Jan 2027 | Shelter Amsterdam | Amsterdam |
 | Sat, 15 May 2027 | Plage De Torcy | Paris |
 
 ## Recently played

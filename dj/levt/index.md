@@ -1,14 +1,15 @@
 # Levt
 
-Levt is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
+Levt is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
 
-Levt is a techno and tech house artist based in Germany, with 35 gigs on soundcheck across Berlin, Bremen, Cologne and Dortmund / Essen and 12 more. Often billed alongside I Hate Models, 999999999 and Charlie Sparks. Next up: TBA, Bremen on Fri 11 Dec.
+Levt is a techno and tech house artist based in Germany, with 36 gigs on soundcheck across Berlin, Bremen, Cologne and Dortmund / Essen and 12 more. Often billed alongside I Hate Models, 999999999 and Charlie Sparks. Next up: TBA, Bremen on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | TBA | Bremen |
+| Fri, 11 Dec 2026 | OST | Berlin |
 
 ## Recently played
 

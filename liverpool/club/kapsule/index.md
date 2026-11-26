@@ -1,8 +1,8 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Trommel with Cap, E.LINA & Elleinad" on Fri, 27 Nov 2026.
+Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Trommel with Cap, E.LINA & Elleinad" on Fri, 27 Nov 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Aerofunk, Bradley Zero, Cap and Cersy and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Aerofunk, Bradley Zero, Cap and Cersy and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 

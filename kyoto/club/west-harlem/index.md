@@ -1,14 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FMKS" on Thu, 26 Nov 2026.
+West Harlem is a music venue in Kyoto with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NC4K feat. Fold(Well Street): West Harlem 13 years anniversary" on Sat, 28 Nov 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 7 upcoming gigs, with line-ups including Aspara, BIG MATSUMURA, DJ Master Kohta and Dove and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 6 upcoming gigs, with line-ups including Aspara, BIG MATSUMURA, DJ Master Kohta and Dove and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | FMKS | Kross Section, Sangwoo |
 | Sat, 28 Nov 2026 | NC4K feat. Fold(Well Street): West Harlem 13 years anniversary | Fold, Lomax, Sou Kitahara, Stones Taro |
 | Thu, 3 Dec 2026 | Anvai | DJ Master Kohta, Mannuma |
 | Fri, 4 Dec 2026 | Supernatural | K8 (TYO GQOM), Lomax, kitapon, michika |

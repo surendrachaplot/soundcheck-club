@@ -1,8 +1,8 @@
 # radial
 
-radial is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Zen Arcade w/ Harri Pepper & Kyle Toole, Ellie Anderson" on Fri, 27 Nov 2026.
+radial is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Zen Arcade w/ Harri Pepper & Kyle Toole, Ellie Anderson" on Fri, 27 Nov 2026.
 
-radial is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Curtain, Alien Communications, Amy Cutter and Baby Rollén and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Curtain, Alien Communications, Amy Cutter and Baby Rollén and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
@@ -14,10 +14,10 @@ radial is a music venue in London listed on soundcheck. 10 upcoming gigs, with l
 | Fri, 4 Dec 2026 | Tom VR b2b Hodge + Caroune + Black Prius | Caroune, Hodge, Tom VR |
 | Sat, 5 Dec 2026 | ToadLick | Amy Cutter, Baby Rollén, Georgia Girl, Kenny Blacksmith, Louis Polturak, just bill. |
 | Sat, 12 Dec 2026 | theoracle with Melody & Theo Kottis | Melody RA+RE, Theo Kottis |
+| Thu, 17 Dec 2026 | grounded SOCIAL | Delay Grounds |
 | Fri, 18 Dec 2026 | Electrobar: PRZ live + Alien Communications + Cignol live + CASE | Alien Communications, Case (2), Cignol (2), PRZ |
 | Thu, 31 Dec 2026 | NYE |  |
 | Fri, 15 Jan 2027 | IT'S MUTUAL | Blue Method, Jïmono |
-| Sat, 16 Jan 2027 | Soulmates | Dennis Christensen, Matt Pond, Rap Saunders |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TivoliVredenburg, Utrecht on Fri, 4 Dec 2026.
+Joris Voorn is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TivoliVredenburg, Utrecht on Fri, 4 Dec 2026.
 
-Joris Voorn is a techno and house artist based in Netherlands, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 63 more. Often billed alongside Artbat, Kevin de Vries and Adam Beyer. Next up: TivoliVredenburg, Utrecht on Fri 4 Dec.
+Joris Voorn is a techno and house artist based in Netherlands, with 211 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 63 more. Often billed alongside Adam Beyer, Artbat and Kevin de Vries. Next up: TivoliVredenburg, Utrecht on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joris Voorn is a techno and house artist based in Netherlands, with 210 gigs on 
 | Sat, 5 Dec 2026 | TBA - Foothills of Nandi, Karahalli | Bangalore |
 | Sat, 19 Dec 2026 | Klokgebouw | Eindhoven |
 | Fri, 15 Jan 2027 | TBA - P12 Beach Club, Jurerê, Florianopolis | Brazil |
+| Sat, 20 Feb 2027 | Sugarfactory | Amsterdam |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Joris Voorn is a techno and house artist based in Netherlands, with 210 gigs on 
 
 ## Shares bills with
 
-Artbat, Kevin de Vries, Adam Beyer
+Adam Beyer, Artbat, Kevin de Vries
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

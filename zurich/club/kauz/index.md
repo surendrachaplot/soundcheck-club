@@ -1,14 +1,13 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "dunnstig jam" on Thu, 26 Nov 2026.
+Kauz is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Frida Darko" on Fri, 27 Nov 2026.
 
-Kauz is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including Alessia Ceruti, Aline (CH), Arutani and Atrice and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
+Kauz is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including Alessia Ceruti, Aline (CH), Arutani and Atrice and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | dunnstig jam |  |
 | Fri, 27 Nov 2026 | Frida Darko | AVEM, Arutani, Frida Darko, Najesh & Artišoko |
 | Thu, 3 Dec 2026 | half notes // live-jazz im Kauz |  |
 | Fri, 4 Dec 2026 | CRIT | Luk LeChuck, Mia Koden, Phrex, raging moms |
@@ -18,6 +17,7 @@ Kauz is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with lin
 | Thu, 17 Dec 2026 | O/Y & KL!T 𝔸𝕝𝕝 ℕ𝕚𝕘𝕙𝕥 𝕃𝕠𝕟𝕘 | O/Y |
 | Thu, 24 Dec 2026 | besinnungslose weihnacht | Playlove, Styro 2000 |
 | Sat, 26 Dec 2026 | Claudio PRC & Rambadu | Atrice, Claudio PRC, Lucy D.T., Rambadu, hypnoe |
+| Thu, 31 Dec 2026 | silvester - save the date | DJ Equipment, Shabiyou, Zsófi |
 
 ## Address
 

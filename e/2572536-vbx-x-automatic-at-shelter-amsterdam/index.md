@@ -1,6 +1,6 @@
 # VBX x Automatic at Shelter Amsterdam
 
-VBX x Automatic at Shelter Amsterdam on Fri 11 Dec, Amsterdam. 5 artists: Automatic Writing, Cap, E.LINA and Morgan and 1 more. House. See the line-up on soundcheck.
+VBX x Automatic at Shelter Amsterdam on Fri 11 Dec, Amsterdam. 6 artists: Automatic Writing, Cap, E.LINA and Morgan and 2 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ VBX x Automatic at Shelter Amsterdam on Fri 11 Dec, Amsterdam. 5 artists: Automa
 - Cap
 - E.LINA
 - Morgan
+- Noach
 - Sonja Moonear
 
 *Source: [soundcheck](https://soundcheck.club/e/2572536-vbx-x-automatic-at-shelter-amsterdam/)*

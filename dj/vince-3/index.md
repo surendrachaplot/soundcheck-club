@@ -1,14 +1,15 @@
 # vince
 
-vince is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
+vince is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
 
-vince is a techno and house artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bratislava and 12 more. Often billed alongside Muallem, BASHKKA and Felix Rupprecht. Next up: Atelier Rooftop, Berlin on Sat 28 Nov.
+vince is a house and techno artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bratislava and 12 more. Often billed alongside Muallem, BASHKKA and Felix Rupprecht. Next up: Atelier Rooftop, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Atelier Rooftop | Berlin |
+| Sat, 19 Dec 2026 | Funkhaus Wien | Vienna |
 
 ## Recently played
 

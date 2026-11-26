@@ -1,14 +1,15 @@
 # Sons Of Hidden
 
-Sons Of Hidden is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Masada, Milan on Sat, 12 Dec 2026.
+Sons Of Hidden is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Masada, Milan on Sat, 12 Dec 2026.
 
-Sons Of Hidden is a techno and electronica artist, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 13 more. Often billed alongside Marco Ramos, Andres Gil and Deraout. Next up: Masada, Milan on Sat 12 Dec.
+Sons Of Hidden is a techno and electronica artist, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 13 more. Often billed alongside Marco Ramos, Andres Gil and Deraout. Next up: Masada, Milan on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Masada | Milan |
+| Fri, 18 Dec 2026 | TBA - Powered by: Void Acoustics | Madrid |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Jun 2027 | TBA - Castañeda | North |
 

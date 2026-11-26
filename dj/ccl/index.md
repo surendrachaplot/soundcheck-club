@@ -9,7 +9,7 @@ CCL is a techno and house artist based in United States of America, with 236 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | 24 Kitchen Street | Liverpool |
-| Sun, 6 Dec 2026 | TBA | Berlin |
+| Sun, 6 Dec 2026 | 90mil | Berlin |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 | Thu, 31 Dec 2026 | Tangent Gallery | Detroit |
 | Thu, 31 Dec 2026 | Nowadays | New York City |

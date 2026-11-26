@@ -1,15 +1,14 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Chairs" on Wed, 25 Nov 2026.
+Enter Shibuya is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Chairs" on Wed, 25 Nov 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including AMANE, Daichi, DiscCampForest and DJ Quietstorm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AMANE, Daichi, DiscCampForest and DJ Quietstorm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Chairs | Louis Shannon |
-| Thu, 26 Nov 2026 | Command  | Shoma fr,dambosound |
 | Fri, 27 Nov 2026 | Nektar | AMANE, Daichi, Hayato, Sota Shimada |
 | Sat, 28 Nov 2026 | SONDER TOKYO -2nd Anniversary- | KAIKAI, Katz 25, Moulin, TOSHI |
 | Mon, 30 Nov 2026 | KAITAI | HAYATE, MoEPiKA, Romy Mats |

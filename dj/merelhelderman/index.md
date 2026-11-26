@@ -1,8 +1,8 @@
 # Merel Helderman
 
-Merel Helderman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
+Merel Helderman is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
 
-Merel Helderman is a house and techno artist based in Netherlands, with 76 gigs on soundcheck across Amsterdam, Berlin, Melbourne and The Hague and 1 more. Often billed alongside Benny Rodrigues, Boris Coelman and Moody Mehran. Next up: ark (Melb), Melbourne on Sat 28 Nov.
+Merel Helderman is a house and techno artist based in Netherlands, with 77 gigs on soundcheck across Amsterdam, Berlin, Melbourne and The Hague and 1 more. Often billed alongside Benny Rodrigues, Boris Coelman and Moody Mehran. Next up: ark (Melb), Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Merel Helderman is a house and techno artist based in Netherlands, with 76 gigs 
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | ark (Melb) | Melbourne |
 | Fri, 1 Jan 2027 | WAS. | Utrecht |
+| Sat, 2 Jan 2027 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 

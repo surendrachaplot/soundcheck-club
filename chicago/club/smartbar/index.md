@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Things That Go Bump In The Night with Derrick Carter" on Wed, 25 Nov 2026.
+smartbar is a music venue in Chicago with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Flowers of Romance feat. DVS1 - Justin Aulis Long" on Fri, 27 Nov 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, with line-ups including ali rq, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming gigs, with line-ups including ali rq, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Things That Go Bump In The Night with Derrick Carter | Derrick Carter |
 | Fri, 27 Nov 2026 | Flowers of Romance feat. DVS1 - Justin Aulis Long | DVS1, Justin Aulis Long |
 | Sat, 28 Nov 2026 | Mushroom Jazz feat. Mark Farina - DJ Heather - Michael Serafini | DJ Heather, Mark Farina, Michael Serafini |
 | Sun, 29 Nov 2026 | Queen! feat. Derrick Carter - Michael Serafini - Shaun J Wright | Derrick Carter, Michael Serafini, Shaun J. Wright |
@@ -18,6 +17,7 @@ smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, wit
 | Fri, 11 Dec 2026 | Horse Meat Disco - Shaun J Wright - Sunshine Rewind | Horse Meat Disco, Shaun J. Wright |
 | Sat, 12 Dec 2026 | Diamond Formation x Flow State feat. Cashu - livwutang - Ariel Zetina | Ariel Zetina, Cashu, livwutang |
 | Sun, 13 Dec 2026 | Queen! feat. DJ Miss Parker - Michael Serafini - Shaun J Wright | DJ Miss Parker, Michael Serafini, Shaun J. Wright |
+| Wed, 16 Dec 2026 | deadAir 5 feat. Jane Remover - By Storm - Kuru - Heavensouls - ali rq (DJ Set) | Jane Remover, Kuru, ali rq |
 
 ## Address
 

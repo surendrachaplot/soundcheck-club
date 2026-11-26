@@ -1,15 +1,15 @@
 # MIMI404
 
-MIMI404 is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 25 Nov 2026.
+MIMI404 is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Bielefeld, Hamburg on Sat, 28 Nov 2026.
 
-MIMI404 is a trance and techno artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 5 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Lokschuppen Berlin, Berlin on Wed 25 Nov.
+MIMI404 is a trance and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 6 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Lokschuppen Bielefeld, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 28 Nov 2026 | Lokschuppen Bielefeld | Hamburg |
+| Sat, 28 Nov 2026 | Cu | London |
 | Fri, 11 Dec 2026 | ÆDEN | Berlin |
 | Sun, 13 Dec 2026 | Blue Velvet | Berlin |
 | Sat, 19 Dec 2026 | Insomnia | Berlin |

@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WEEKDAY ORDERS" on Thu, 26 Nov 2026.
+BAR Inc is a music venue in Osaka with 22 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WEEKEND SELECTERS" on Fri, 27 Nov 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 23 upcoming gigs, with line-ups including An-i, BurnTale, cazbow and David A-P and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming gigs, with line-ups including An-i, BurnTale, cazbow and David A-P and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | WEEKDAY ORDERS |  |
 | Fri, 27 Nov 2026 | WEEKEND SELECTERS | Mendel, Ryu (JP) |
 | Sat, 28 Nov 2026 | WEEKEND SELECTERS | DJ Compufunk, Derrick May |
 | Sun, 29 Nov 2026 | HOLIDAY ORDERS |  |
@@ -18,6 +17,7 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 23 upcoming gigs, with l
 | Fri, 4 Dec 2026 | WEEKEND SELECTERS | Dengue Dengue Dengue, Kito Jempere |
 | Sat, 5 Dec 2026 | WEEKEND SELECTERS | Satoshi Tomiie, YAMA(JP/OSK) |
 | Sun, 6 Dec 2026 | HOLIDAY ORDERS | Kenji Tazaki, MARU (3) |
+| Mon, 7 Dec 2026 | WEEKDAY ORDERS |  |
 
 ## Address
 

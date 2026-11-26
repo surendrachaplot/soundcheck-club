@@ -1,14 +1,13 @@
 # Miniwax
 
-Miniwax is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Rencontre Krystal Zealot x Julien Neel" on Thu, 26 Nov 2026.
+Miniwax is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Release DJ Sundae" on Fri, 27 Nov 2026.
 
-Miniwax is a music venue in Paris listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing.
+Miniwax is a music venue in Paris listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Rencontre Krystal Zealot x Julien Neel |  |
 | Fri, 27 Nov 2026 | Release DJ Sundae |  |
 | Sat, 28 Nov 2026 | Lancement Listen Magazine |  |
 | Sun, 29 Nov 2026 | Un Dimanche avec Somewhere Soul |  |

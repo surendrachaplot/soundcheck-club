@@ -1,14 +1,15 @@
 # Wigs
 
-Wigs is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+Wigs is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
-Wigs is a house and trance artist based in United Kingdom, with 5 gigs on soundcheck across Barcelona, Berlin, London and Manchester. Often billed alongside ANNX, Albal and Body Clinic. Next up: Bricks, London on Sat 28 Nov.
+Wigs is a house and trance artist based in United Kingdom, with 6 gigs on soundcheck across Barcelona, Berlin, London and Manchester. Often billed alongside ANNX, ANNĒ and Alarico. Next up: Bricks, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Bricks | London |
+| Sat, 6 Feb 2027 | fabric | London |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Wigs is a house and trance artist based in United Kingdom, with 5 gigs on soundc
 
 ## Shares bills with
 
-ANNX, Albal, Body Clinic
+ANNX, ANNĒ, Alarico
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs/)*

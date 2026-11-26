@@ -1,8 +1,8 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
+Teenage Mutants is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
 
-Teenage Mutants is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Jaeger, Oslo on Fri 27 Nov.
+Teenage Mutants is a techno and house artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Jaeger, Oslo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Teenage Mutants is a techno and house artist based in Germany, with 156 gigs on 
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Fri, 18 Dec 2026 | WDM | Hannover |
+| Thu, 24 Dec 2026 | Hoppetosse | Berlin |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

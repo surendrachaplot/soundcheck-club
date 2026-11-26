@@ -1,14 +1,13 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Minimal Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Wed, 25 Nov 2026.
+Tauceti (FR) is a Techno and Minimal Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Boston on Sat, 28 Nov 2026.
 
-Tauceti (FR) is a techno and minimal techno artist based in France, with 97 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA - Los Angeles, Los Angeles on Wed 25 Nov.
+Tauceti (FR) is a techno and minimal techno artist based in France, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Tommy Four Seven, Psyk and Decoder. Next up: TBA, Boston on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 28 Nov 2026 | TBA | Boston |
 | Sun, 29 Nov 2026 | TBA - Brooklyn Warehouse | New York City |
 | Fri, 4 Dec 2026 | TBA - East Vancouver | Vancouver |
@@ -18,6 +17,7 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 97 gigs
 | Thu, 31 Dec 2026 | Acadana | Hong Kong |
 | Sat, 9 Jan 2027 | SMUT Athens | Athens |
 | Thu, 14 Jan 2027 | Cadavra | Madrid |
+| Fri, 12 Feb 2027 | FOLD | London |
 | Fri, 2 Jul 2027 | TBA - Veta Festival, Barruelo de Santullán | North |
 
 ## Recently played

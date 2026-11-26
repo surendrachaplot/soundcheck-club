@@ -1,8 +1,8 @@
 # Bent
 
-Bent is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Bent is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
-Bent is a house and club artist based in Germany, with 12 gigs on soundcheck across Berlin, Ghent, Hamburg and Porto. Often billed alongside Feasting, Gio Goltara and Qualia Trax. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
+Bent is a house and club artist based in Germany, with 13 gigs on soundcheck across Berlin, Ghent, Hamburg and Porto. Often billed alongside Feasting, Gio Goltara and Ina Kaysen. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bent is a house and club artist based in Germany, with 12 gigs on soundcheck acr
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Ghent (multi-venue) | Ghent |
 | Fri, 27 Nov 2026 | Monarch | Berlin |
+| Fri, 27 Nov 2026 | Funke | Ghent |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Bent is a house and club artist based in Germany, with 12 gigs on soundcheck acr
 
 ## Shares bills with
 
-Feasting, Gio Goltara, Qualia Trax
+Feasting, Gio Goltara, Ina Kaysen
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bent/)*

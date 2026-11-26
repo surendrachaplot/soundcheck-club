@@ -1,6 +1,6 @@
 # Nuestra Semana Noviembre at Bardo Speakeasy
 
-Nuestra Semana Noviembre at Bardo Speakeasy on Thu 26 Nov, Mexico City. 2 artists: Gerardo Portilla and Leonidas. See the line-up on soundcheck.
+Nuestra Semana Noviembre at Bardo Speakeasy on Thu 26 Nov, Mexico City. 4 artists: Andrreas, Gerardo Portilla, Leonidas and TRIVEAT. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Nuestra Semana Noviembre at Bardo Speakeasy on Thu 26 Nov, Mexico City. 2 artist
 
 ## Line-up
 
+- Andrreas
 - Gerardo Portilla
 - Leonidas
+- TRIVEAT
 
 *Source: [soundcheck](https://soundcheck.club/e/2594250-nuestra-semana-noviembre-at-bardo-speakeasy/)*

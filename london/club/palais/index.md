@@ -14,7 +14,7 @@ Palais is a music venue in London listed on soundcheck. 30 upcoming gigs, with l
 | Sat, 5 Dec 2026 | Palais: Suze Ijó, Giles Smith & Serenda | DREY (UK), Giles Smith, Serenda, Soph, Suze Ijó |
 | Fri, 11 Dec 2026 | Origins: Objekt & EMA | ANNX, EMA (1), Objekt, ohmydais |
 | Sat, 12 Dec 2026 | Origins: Voicedrone & James Newmarch (All Night Long) | James Newmarch, S Ruston, Voicedrone |
-| Fri, 18 Dec 2026 | [SOLD OUT] Palais: Bakey ft. SP:MC, Manami, Mantra | Bakey, FNKD, INGI, Manami, Mantra, SP:MC |
+| Fri, 18 Dec 2026 | Palais: Bakey ft. SP:MC, Manami, Mantra [SOLD OUT] | Bakey, FNKD, INGI, Manami, Mantra, SP:MC |
 | Sat, 19 Dec 2026 | Origins: Pearson Sound (All Night Long) | Alicia (UK), Pearson Sound |
 | Sat, 26 Dec 2026 | Palais: Boxing Day - Special Guests TBA |  |
 | Sun, 27 Dec 2026 | Palais: Special Guests TBA |  |

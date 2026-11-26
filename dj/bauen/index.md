@@ -2,7 +2,7 @@
 
 Bauen is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at OXI, Berlin on Fri, 11 Dec 2026.
 
-Bauen is a house and disco artist, with 20 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Javier Anxiety, Luca Olivotto and Eva Crystaltips. Next up: OXI, Berlin on Fri 11 Dec.
+Bauen is a house and disco artist based in Argentina, with 20 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Javier Anxiety, Luca Olivotto and Eva Crystaltips. Next up: OXI, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 

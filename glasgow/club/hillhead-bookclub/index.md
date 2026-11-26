@@ -9,7 +9,7 @@ Hillhead Bookclub is a music venue in Glasgow listed on soundcheck. 3 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | Through The Roof // Ethan Walsh (Jamie Fielding Pre-Party) |  |
-| Sat, 26 Dec 2026 | RARE x Breathe // Boxing Day |  |
+| Sat, 26 Dec 2026 | RARE x BREATHE // Boxing Day |  |
 | Thu, 31 Dec 2026 | Céleste's New Years Eve Party 2026 | Céleste |
 
 ## Address

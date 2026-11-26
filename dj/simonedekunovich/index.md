@@ -1,8 +1,8 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Super Club, Milan on Thu, 26 Nov 2026.
+Simone de Kunovich is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Super Club, Milan on Thu, 26 Nov 2026.
 
-Simone de Kunovich is a house and techno artist based in Italy, with 171 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: Super Club, Milan on Thu 26 Nov.
+Simone de Kunovich is a house and techno artist based in Italy, with 172 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: Super Club, Milan on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Simone de Kunovich is a house and techno artist based in Italy, with 171 gigs on
 | Thu, 26 Nov 2026 | Super Club | Milan |
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 19 Dec 2026 | public records | New York City |
+| Fri, 22 Jan 2027 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 

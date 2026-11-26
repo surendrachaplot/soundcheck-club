@@ -1,13 +1,14 @@
 # DJ KAIDO
 
-DJ KAIDO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 29 Jan 2027.
+DJ KAIDO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at objekt klein a, Dresden on Fri, 18 Dec 2026.
 
-DJ KAIDO is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig and 1 more. Often billed alongside MRGNSTRN, DUSTNER and FARAWAY. Next up: Lokschuppen Berlin, Berlin on Fri 29 Jan.
+DJ KAIDO is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig and 1 more. Often billed alongside MRGNSTRN, DUSTNER and FARAWAY. Next up: objekt klein a, Dresden on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | objekt klein a | Dresden |
 | Fri, 29 Jan 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

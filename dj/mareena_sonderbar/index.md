@@ -1,14 +1,15 @@
 # Mareena
 
-Mareena is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 18 Dec 2026.
+Mareena is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 18 Dec 2026.
 
-Mareena is a techno and house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Kerrie, Bloody Mary and JakoJako. Next up: Lehmann Club, Stuttgart on Fri 18 Dec.
+Mareena is a techno and house artist based in Germany, with 136 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Kerrie, Stojche and Bloody Mary. Next up: Lehmann Club, Stuttgart on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Lehmann Club | Stuttgart |
+| Sat, 19 Dec 2026 | Tresor / Globus | Berlin |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 2 Jan 2027 | Tresor / Globus | Berlin |
 
@@ -25,6 +26,6 @@ Mareena is a techno and house artist based in Germany, with 135 gigs on soundche
 
 ## Shares bills with
 
-Kerrie, Bloody Mary, JakoJako
+Kerrie, Stojche, Bloody Mary
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

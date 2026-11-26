@@ -1,6 +1,6 @@
 # VINYLS: Electro Special — The Late Show at Revolver Upstairs
 
-VINYLS: Electro Special — The Late Show at Revolver Upstairs on Sat 28 Nov, Melbourne. 4 artists: Agent 86, Kovac, Lewis Cancut and Modular. House and Electro. See the line-up on soundcheck.
+VINYLS: Electro Special — The Late Show at Revolver Upstairs on Sat 28 Nov, Melbourne. 4 artists: Agent 86, Kovac, Lewis Cancut and Modulor. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ VINYLS: Electro Special — The Late Show at Revolver Upstairs on Sat 28 Nov, Me
 - Agent 86
 - Kovac
 - Lewis Cancut
-- Modular
+- Modulor
 
 *Source: [soundcheck](https://soundcheck.club/e/2588936-vinyls-electro-special-the-late-show-at-revolver-upstairs/)*

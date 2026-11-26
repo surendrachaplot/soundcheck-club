@@ -8,7 +8,7 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Pyg presents Paradisco | GG (2), Gabb (MX), NM Musik |
+| Fri, 27 Nov 2026 | Pyg presents Paradisco | G.G (LB), Gabb (PRY), NM Musik |
 | Sat, 28 Nov 2026 | Pyg presents LIA |  |
 | Fri, 4 Dec 2026 | Timeless House / Fiesta/Justus at Pyg Xmas Afterwork free party | Dean Sherry, Dr.Flamer, Paddy Sheridan |
 | Sat, 5 Dec 2026 | Pyg presents Krystal Klear | DJ Deece, Krystal Klear |

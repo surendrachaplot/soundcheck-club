@@ -2,14 +2,14 @@
 
 The Woodshop is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "London Elektricity at Driven AM" on Sat, 5 Dec 2026.
 
-The Woodshop is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Dave Shichman, Lens, London Elektricity and Ultra DNB. See dates, start times and who's playing. 21a Meadow Street, Brooklyn, NY 11206.
+The Woodshop is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Dave Shichman, Lens, London Elektricity and Samantha DaSilva and 1 more. See dates, start times and who's playing. 21a Meadow Street, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | London Elektricity at Driven AM | Dave Shichman, London Elektricity |
-| Thu, 10 Dec 2026 | DRUM AND BASS LENS (UK) NYC DEBUT | Lens (2), Ultra DNB |
+| Thu, 10 Dec 2026 | DRUM AND BASS LENS (UK) NYC DEBUT | Lens (2), Samantha DaSilva, Ultra DNB |
 
 ## Address
 

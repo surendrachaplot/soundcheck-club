@@ -1,14 +1,13 @@
 # Apotheka
 
-Apotheka is a music venue in Manila with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "R U AFK? NINAJIRACHI, UNDERSCORES, DAINE THEMED NIGHT presented by Cheddar Productions" on Thu, 26 Nov 2026.
+Apotheka is a music venue in Manila with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "YETI SOUNDSYSTEM: MANILA" on Fri, 27 Nov 2026.
 
-Apotheka is a music venue in Manila listed on soundcheck. 9 upcoming gigs, with line-ups including Arthur Yeti, Duality, rEmPiT g0dDe$$ and shasti and 1 more. See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
+Apotheka is a music venue in Manila listed on soundcheck. 8 upcoming gigs, with line-ups including Arthur Yeti, Duality, rEmPiT g0dDe$$ and shasti and 1 more. See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | R U AFK? NINAJIRACHI, UNDERSCORES, DAINE THEMED NIGHT presented by Cheddar Productions |  |
 | Fri, 27 Nov 2026 | YETI SOUNDSYSTEM: MANILA | Arthur Yeti, Duality, T33G33 |
 | Sat, 28 Nov 2026 | Control |  |
 | Sat, 28 Nov 2026 | Yeti Soundsystem Tour: Manila |  |

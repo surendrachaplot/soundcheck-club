@@ -1,8 +1,8 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 4 Dec 2026.
+Bennet (DE) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 4 Dec 2026.
 
-Bennet (DE) is a house and techno artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Golden Pudel Club, Hamburg on Fri 4 Dec.
+Bennet (DE) is a house and techno artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Golden Pudel Club, Hamburg on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bennet (DE) is a house and techno artist based in Germany, with 93 gigs on sound
 | Sat, 5 Dec 2026 | Südpol | Hamburg |
 | Sat, 12 Dec 2026 | Printhouse | Munich |
 | Fri, 5 Feb 2027 | Macadam | Nantes |
+| Sat, 6 Feb 2027 | KREUZWERK | Berlin |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ Alexia is a house and deep house artist based in United Kingdom, with 61 gigs on
 
 ## Recently played
 
-- TBA - Secret Location, Berlin · Fri, 20 Nov 2026
+- Lark, Berlin · Fri, 20 Nov 2026
 - Klaproos, Amsterdam · Sun, 25 Oct 2026
 - ZENNER, Berlin · Fri, 16 Oct 2026
 - Loft Studios, London · Fri, 16 Oct 2026

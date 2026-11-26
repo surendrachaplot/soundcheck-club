@@ -1,13 +1,14 @@
 # Topper
 
-Topper is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
+Topper is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hoppetosse, Berlin on Sat, 19 Dec 2026.
 
-Topper is a house and minimal artist, with 93 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: TBA - Secret Location, Bali on Sat 20 Mar.
+Topper is a house and minimal artist, with 94 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Hoppetosse, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Hoppetosse | Berlin |
 | Sat, 20 Mar 2027 | TBA - Secret Location | Bali |
 
 ## Recently played

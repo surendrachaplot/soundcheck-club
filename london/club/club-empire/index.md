@@ -11,7 +11,7 @@ Club Empire is a music venue in London listed on soundcheck. 8 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Last Free Tickets: 4 Hours With: Manuel Darquart | Manuel Darquart |
 | Sat, 28 Nov 2026 | 4 Hours With: Daisybelle | Daisybelle |
 | Sat, 28 Nov 2026 | Just Announced: Jamie Tack & Friends | Russ Yallop |
-| Fri, 4 Dec 2026 | HOUSE/DISCO Free Party: Four Hours Under The Discoball |  |
+| Fri, 4 Dec 2026 | HOUSE/DISCO + FREE TICKETS: Four Hours Under The Discoball |  |
 | Sat, 5 Dec 2026 | Last Free Tickets: 4 Hours With: Nina Yamada | Nina Yamada |
 | Fri, 11 Dec 2026 | Limited Free Tickets - 4 Hours With: Lily London | Lily London |
 | Sat, 12 Dec 2026 | Limited Free Tickets - 4 Hours With: Wolf Music | Wolf Music |

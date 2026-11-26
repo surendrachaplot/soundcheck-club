@@ -1,8 +1,8 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Shelter 10 YEARS" on Fri, 27 Nov 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Shelter 10 YEARS" on Fri, 27 Nov 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Automatic Writing and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 23 upcoming gigs, with line-ups including A For Alpha, AJ Christou, Alec Dienaar and Ammé and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcomin
 | Sat, 28 Nov 2026 | M-High (all night) | Alec Dienaar, Eline, M-High, STIPP |
 | Fri, 4 Dec 2026 | Sam Alfred (all night) |  |
 | Sat, 5 Dec 2026 | Hot Since 82, Juliana X, Kim April | Charlie Boon, Hot Since 82, Juliana X, Kim April, Seor |
-| Fri, 11 Dec 2026 | VBX x Automatic | Automatic Writing, Cap, E.LINA, Morgan, Sonja Moonear |
+| Fri, 11 Dec 2026 | VBX x Automatic | Automatic Writing, Cap, E.LINA, Morgan, Noach, Sonja Moonear |
 | Sat, 12 Dec 2026 | AJ Christou, James Poole, Sem Jacobs | AJ Christou, Ammé, James Poole, Ken Spieker |
 | Fri, 18 Dec 2026 | Dennis Quin B2B Job de Jong (all night) | Dennis Quin, Job de Jong |
 | Sat, 19 Dec 2026 | Shelter presents: CLUB.RECORD / S-candalo, DJ Spit, ESTRELLA, Vasco, Victor | DJ Spit, ESTRELLA, Kevin Lo, Pelanoir, S-candalo, Vasco, Victor (DE) |

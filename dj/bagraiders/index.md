@@ -1,14 +1,13 @@
 # Bag Raiders
 
-Bag Raiders is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Tee Gee, Los Angeles on Wed, 25 Nov 2026.
+Bag Raiders is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at It'll Do, Dallas-fort-worth on Fri, 27 Nov 2026.
 
-Bag Raiders is a house and electronica artist based in Australia, with 41 gigs on soundcheck across Auckland, Bali, Brisbane and Dallas Fort Worth and 13 more. Often billed alongside Boogs, Casey Leaver and Amber Ferraro. Next up: Club Tee Gee, Los Angeles on Wed 25 Nov.
+Bag Raiders is a house and electronica artist based in Australia, with 41 gigs on soundcheck across Auckland, Bali, Brisbane and Dallas Fort Worth and 13 more. Often billed alongside Boogs, Casey Leaver and Amber Ferraro. Next up: It'll Do, Dallas Fort Worth on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Club Tee Gee | Los Angeles |
 | Fri, 27 Nov 2026 | It'll Do | Dallas-fort-worth |
 | Sat, 28 Nov 2026 | Floyd | Miami |
 

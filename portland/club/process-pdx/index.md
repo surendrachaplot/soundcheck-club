@@ -1,14 +1,13 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Spend The Night presents: Gerd Janson" on Wed, 25 Nov 2026.
+Process PDX is a music venue in Portland with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Thank Gawd it's Funky - Cee Blanco all night long" on Fri, 27 Nov 2026.
 
-Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming gigs, with line-ups including 8maos, Feu du Camp, Gerd Janson and Groshong and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
+Process PDX is a music venue in Portland listed on soundcheck. 8 upcoming gigs, with line-ups including 8maos, Feu du Camp, Just Another Bitch and Maude Vôs and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Spend The Night presents: Gerd Janson | Gerd Janson, Groshong |
 | Fri, 27 Nov 2026 | Thank Gawd it's Funky - Cee Blanco all night long |  |
 | Sat, 28 Nov 2026 | Hickey Machine - 2 Year Anniversary | Vignette |
 | Thu, 3 Dec 2026 | Slow Techno ft. Maude Vôs | Maude Vôs, Peter Sheppard, othrwrld |

@@ -1,13 +1,14 @@
 # Ana Molina
 
-Ana Molina is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Prince Charles, Berlin on Thu, 31 Dec 2026.
+Ana Molina is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
 
-Ana Molina is a house and disco artist based in Spain, with 27 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Black Loops, Emanuele Barilli and jiyun kim. Next up: Prince Charles, Berlin on Thu 31 Dec.
+Ana Molina is a house and disco artist based in Spain, with 28 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Black Loops, Emanuele Barilli and Ruff Stuff. Next up: Zur Klappe, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Zur Klappe | Berlin |
 | Thu, 31 Dec 2026 | Prince Charles | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ana Molina is a house and disco artist based in Spain, with 27 gigs on soundchec
 
 ## Shares bills with
 
-Black Loops, Emanuele Barilli, jiyun kim
+Black Loops, Emanuele Barilli, Ruff Stuff
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anamolina/)*

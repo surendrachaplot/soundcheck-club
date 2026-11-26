@@ -1,14 +1,13 @@
 # Steve Bug
 
-Steve Bug is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Flash, Washington DC on Wed, 25 Nov 2026.
+Steve Bug is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 27 Nov 2026.
 
-Steve Bug is a house and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Auckland, Austria and Barcelona and 38 more. Often billed alongside Mathias Kaden, Steve Challier and miAs. Next up: Flash, Washington DC on Wed 25 Nov.
+Steve Bug is a house and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Auckland, Austria and Barcelona and 38 more. Often billed alongside Mathias Kaden, Steve Challier and miAs. Next up: Lincoln Factory, Detroit on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Flash | Washington DC |
 | Fri, 27 Nov 2026 | Lincoln Factory | Detroit |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Fri, 15 Jan 2027 | Hoppetosse | Berlin |

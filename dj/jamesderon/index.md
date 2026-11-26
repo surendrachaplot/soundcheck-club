@@ -1,14 +1,18 @@
 # James Deron
 
-James Deron is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Halle W, Geneva on Fri, 27 Nov 2026.
+James Deron is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Halle W, Geneva on Fri, 27 Nov 2026.
 
-James Deron is a house and afro house artist based in Switzerland, with 11 gigs on soundcheck across Geneva and Miami. Often billed alongside Bryan Peroni, Saliva Commandos and Ray Vazquez. Next up: Halle W, Geneva on Fri 27 Nov.
+James Deron is a house and afro house artist based in Switzerland, with 15 gigs on soundcheck across Geneva and Miami. Often billed alongside Bryan Peroni, Saliva Commandos and Ray Vazquez. Next up: Halle W, Geneva on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Halle W | Geneva |
+| Sat, 5 Dec 2026 | TBA - Ariston Bar & Restaurant, Rue du Port 6 | Geneva |
+| Sat, 12 Dec 2026 | TBA - Ariston Bar & Restaurant, Rue du Port 6 | Geneva |
+| Sat, 19 Dec 2026 | TBA - Ariston Bar & Restaurant, Rue du Port 6 | Geneva |
+| Sat, 26 Dec 2026 | TBA - Ariston Bar & Restaurant, Rue du Port 6 | Geneva |
 
 ## Recently played
 

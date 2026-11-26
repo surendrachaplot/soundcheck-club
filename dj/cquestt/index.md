@@ -1,15 +1,13 @@
 # Cquestt
 
-Cquestt is a Reggaeton and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Origin, Los Angeles on Wed, 25 Nov 2026.
+Cquestt is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Cquestt is a reggaeton and club artist based in United States of America, with 129 gigs on soundcheck across Atlanta, Chicago, Detroit and London and 8 more. Often billed alongside DINABN, CHRYSALIS and Quinn Blake. Next up: Origin, Los Angeles on Wed 25 Nov.
+Cquestt is a reggaeton and club artist based in United States of America, with 129 gigs on soundcheck across Atlanta, Chicago, Detroit and London and 8 more. Often billed alongside DINABN, CHRYSALIS and Quinn Blake. Next up: Monarch, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Origin | Los Angeles |
-| Wed, 25 Nov 2026 | ORIGIN | Los Angeles |
 | Sat, 28 Nov 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played

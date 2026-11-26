@@ -1,8 +1,8 @@
 # IAMBP
 
-IAMBP is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+IAMBP is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
-IAMBP is a house and electro artist based in France, with 103 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 22 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: ASIAT Park, Brussels on Sat 28 Nov.
+IAMBP is a house and electro artist based in France, with 104 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 22 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ IAMBP is a house and electro artist based in France, with 103 gigs on soundcheck
 | Fri, 18 Dec 2026 | La Marbrerie | Paris |
 | Thu, 31 Dec 2026 | The Cause | London |
 | Fri, 1 Jan 2027 | All My Friends | London |
+| Fri, 15 Jan 2027 | La Machine Du Moulin Rouge | Paris |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

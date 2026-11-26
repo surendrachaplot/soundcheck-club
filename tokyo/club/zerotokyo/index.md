@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "VIRAL -ALL MIX / JAPANESE ELECTRONIC POP / VOCALOID-" on Thu, 26 Nov 2026.
+ZEROTOKYO is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT -" on Fri, 27 Nov 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including æ-chan, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including æ-chan, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | VIRAL -ALL MIX / JAPANESE ELECTRONIC POP / VOCALOID- | Genick, omeme_gangimari, sumi |
 | Fri, 27 Nov 2026 | NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT - | Carpainter, HATSUYUKI, RION, RYO2, SLEEPY HEVD, Seimei, TRID3NT, VECSILLE, knell, æ-chan |
 | Sat, 28 Nov 2026 | Locker Room feat. DAISY - HARD TECHNO / TECHNO - | Calavera, DALJAE, Daisy-it, HATSUYUKI, KATSU (2), O.Goo, SHIGEKI NISHIKAWA, STRATAH, Soluna, YOXIKI, kyuuu |
 | Sun, 29 Nov 2026 | REIMEI - HIPHOP / R&B / LATIN / TRAP / DUBSTEP / HARD TECHNO / TECHNO / HOUSE - |  |
@@ -18,6 +17,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with
 | Thu, 10 Dec 2026 | Assemble -Rise Of Legends- Vol.2 - BASS / HARDCORE / HOUSE / TECHNO - | ATMK, CRAZYHYUGA, KJ Physical, Kijta, N_dog, R1pq, SAKO, YASUKI |
 | Sat, 12 Dec 2026 | Mau P - HOUSE / TECH HOUSE - | Mau P |
 | Fri, 18 Dec 2026 | THE ONE presents Steve Angello - PROGRESSIVE HOUSE / HOUSE - | AXÖN, AY (10), DJ ITZ, Dan Miyagishi, ERIx2, HATSUYUKI, PUNK N MATRIX, Steve Angello, TAKUTO (2), YOSHIMASA, Yamariki |
+| Sat, 19 Dec 2026 | ESSENCE - Anfisa Letyago - TECHNO - | Anfisa Letyago |
 
 ## Address
 

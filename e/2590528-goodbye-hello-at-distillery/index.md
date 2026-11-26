@@ -1,6 +1,6 @@
 # GOODBYE × HELLO at Distillery
 
-GOODBYE × HELLO at Distillery on Thu 31 Dec, Leipzig. 8 artists: BIGALKE, InterStella, KREONE and Nadine Talakovics and 4 more. Techno and House. See the line-up on soundcheck.
+GOODBYE × HELLO at Distillery on Thu 31 Dec, Leipzig. 12 artists: BIGALKE, Cynthia Matisse, InterStella and KREONE and 8 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,15 @@ GOODBYE × HELLO at Distillery on Thu 31 Dec, Leipzig. 8 artists: BIGALKE, Inter
 ## Line-up
 
 - BIGALKE
+- Cynthia Matisse
 - InterStella
 - KREONE
 - Nadine Talakovics
+- Napoleon Dynamite
 - Ninette
+- Paps
 - SubkoØne
+- Submod
 - Timstagram
 - Vy Tran
 

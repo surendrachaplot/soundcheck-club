@@ -1,15 +1,14 @@
 # Tapefeed
 
-Tapefeed is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Glove That Fits, London on Thu, 3 Dec 2026.
+Tapefeed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Glove That Fits, London on Thu, 3 Dec 2026.
 
-Tapefeed is a techno and house artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bologna and 11 more. Often billed alongside Anna Wall, Craig Richards and Rene Wise. Next up: The Glove That Fits, London on Thu 3 Dec.
+Tapefeed is a techno and house artist based in Italy, with 79 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bologna and 11 more. Often billed alongside Anna Wall, Craig Richards and Rene Wise. Next up: The Glove That Fits, London on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | The Glove That Fits | London |
-| Sat, 6 Feb 2027 | fabric | London |
 
 ## Recently played
 

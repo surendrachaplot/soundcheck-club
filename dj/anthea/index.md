@@ -1,8 +1,8 @@
 # Anthea
 
-Anthea is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at REC Napoli, Naples on Sat, 28 Nov 2026.
+Anthea is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at REC Napoli, Naples on Sat, 28 Nov 2026.
 
-Anthea is a house and techno artist based in United Kingdom, with 201 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 56 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: REC Napoli, Naples on Sat 28 Nov.
+Anthea is a house and techno artist based in United Kingdom, with 202 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 56 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: REC Napoli, Naples on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Anthea is a house and techno artist based in United Kingdom, with 201 gigs on so
 | Thu, 3 Dec 2026 | Sable Miami | Miami |
 | Fri, 4 Dec 2026 | TBA - East Williamsburg | New-york-city |
 | Sat, 26 Dec 2026 | Stereo | Montreal |
+| Fri, 15 Jan 2027 | La Machine Du Moulin Rouge | Paris |
 
 ## Recently played
 

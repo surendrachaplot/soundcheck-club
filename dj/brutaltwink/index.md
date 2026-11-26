@@ -1,14 +1,14 @@
 # Brutal Twink
 
-Brutal Twink is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Honey's, New York City on Wed, 25 Nov 2026.
+Brutal Twink is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar  Milagro, New York City on Sat, 19 Dec 2026.
 
-Brutal Twink is an electro and house artist based in United States of America, with 42 gigs on soundcheck across New York City. Often billed alongside Subcultures, SWIMMIE and Melona. Next up: Honey's, New York City on Wed 25 Nov.
+Brutal Twink is an electro and house artist based in United States of America, with 43 gigs on soundcheck across New York City. Often billed alongside Subcultures, SWIMMIE and Melona. Next up: Bar  Milagro, New York City on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Honey's | New York City |
+| Sat, 19 Dec 2026 | Bar  Milagro | New York City |
 | Wed, 23 Dec 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played

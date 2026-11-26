@@ -1,14 +1,13 @@
 # Eizu 映図
 
-Eizu 映図 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Temp., Bangkok on Thu, 26 Nov 2026.
+Eizu 映図 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, Bangkok on Fri, 27 Nov 2026.
 
-Eizu 映図 is a techno and house artist based in Thailand, with 20 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside Mayuu, DJ Krit Morton and Kunanon. Next up: Bar Temp., Bangkok on Thu 26 Nov.
+Eizu 映図 is a techno and house artist based in Thailand, with 20 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside Mayuu, DJ Krit Morton and Kunanon. Next up: Elsewhere, Bangkok on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Bar Temp. | Bangkok |
 | Fri, 27 Nov 2026 | Elsewhere | Bangkok |
 | Sat, 28 Nov 2026 | Goethe Institut Thailand | Bangkok |
 

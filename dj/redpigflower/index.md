@@ -1,8 +1,8 @@
 # Red Pig Flower
 
-Red Pig Flower is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Vista, Mexico City on Wed, 25 Nov 2026.
+Red Pig Flower is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Vista, Mexico City on Wed, 25 Nov 2026.
 
-Red Pig Flower is a house and techno artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 20 more. Often billed alongside babxi, Daya Pruna and Minji. Next up: La Vista, Mexico City on Wed 25 Nov.
+Red Pig Flower is a house and techno artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 20 more. Often billed alongside babxi, Daya Pruna and Minji. Next up: La Vista, Mexico City on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Red Pig Flower is a house and techno artist based in Germany, with 97 gigs on so
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | La Vista | Mexico City |
 | Sat, 5 Dec 2026 | La Ventana al Mar | Puerto-rico |
+| Thu, 24 Dec 2026 | Hoppetosse | Berlin |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Isochrone is a Breakbeat and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cu, London on Sat, 9 Jan 2027.
 
-Isochrone is a breakbeat and dubstep artist, with 7 gigs on soundcheck across London and Utrecht. Often billed alongside Ortlieb, Avran and Kutchi. Next up: Cu, London on Sat 9 Jan.
+Isochrone is a breakbeat and dubstep artist based in United Kingdom, with 7 gigs on soundcheck across London and Utrecht. Often billed alongside Ortlieb, Avran and Kutchi. Next up: Cu, London on Sat 9 Jan.
 
 ## Upcoming shows
 

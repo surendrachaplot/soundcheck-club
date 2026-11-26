@@ -1,8 +1,8 @@
 # Egg On Toast
 
-Egg On Toast is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
+Egg On Toast is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
 
-Egg On Toast is a techno and bass artist based in United Kingdom, with 38 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside MARACUYá, THT GRL and Aiden Francis. Next up: 26 Leake Street, London on Fri 27 Nov.
+Egg On Toast is a techno and house artist based in United Kingdom, with 38 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside MARACUYá, THT GRL and Aiden Francis. Next up: 26 Leake Street, London on Fri 27 Nov.
 
 ## Upcoming shows
 

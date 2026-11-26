@@ -1,11 +1,11 @@
-# Re:versal presents... Two Special Guests & Emerald & Professor Yes at Umusic Store Camden
+# Re:versal presents... Two Special Guests & Emerald & Professor Yes at Umusic Shop Camden
 
-Re:versal presents... Two Special Guests & Emerald & Professor Yes at Umusic Store Camden on Thu 10 Dec, London. 2 artists: Emerald and Professor Yes. Garage and Tech House. See the line-up on soundcheck.
+Re:versal presents... Two Special Guests & Emerald & Professor Yes at Umusic Shop Camden on Thu 10 Dec, London. 2 artists: Emerald and Professor Yes. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 10 Dec 2026 |
-| Venue | Umusic Store Camden |
+| Venue | Umusic Shop Camden |
 | City | London |
 
 ## Line-up

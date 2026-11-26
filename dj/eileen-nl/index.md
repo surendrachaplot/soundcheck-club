@@ -1,14 +1,16 @@
 # Eileen (NL)
 
-Eileen (NL) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Doka, Amsterdam on Fri, 18 Dec 2026.
+Eileen (NL) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Doka, Amsterdam on Fri, 18 Dec 2026.
 
-Eileen (NL) is a house and disco artist based in Netherlands, with 123 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 9 more. Often billed alongside Mowgli (NL), Leroy Rey and Yopo (NL). Next up: Doka, Amsterdam on Fri 18 Dec.
+Eileen (NL) is a house and disco artist based in Netherlands, with 125 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 9 more. Often billed alongside Mowgli (NL), Leroy Rey and Yopo (NL). Next up: Doka, Amsterdam on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Doka | Amsterdam |
+| Fri, 1 Jan 2027 | Shelter Amsterdam | Amsterdam |
+| Fri, 1 Jan 2027 | Shelter Amsterdam | Amsterdam |
 | Sat, 20 Feb 2027 | Lofi | Amsterdam |
 
 ## Recently played

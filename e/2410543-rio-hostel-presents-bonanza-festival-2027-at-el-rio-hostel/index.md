@@ -69,9 +69,9 @@ Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colomb
 - SAMM UKWU
 - SeBAss
 - Shanti Celeste
+- SheIsAlive
 - Shjva
 - Silkie
-- Soju Gang
 - Tama Sumo
 - Taylor Shockley
 - theories

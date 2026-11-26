@@ -1,6 +1,6 @@
 # GroundUpCollective presents: Together in Motion at Four Quarters
 
-GroundUpCollective presents: Together in Motion at Four Quarters on Fri 27 Nov, London. 7 artists: Alfie Fraser, Calm Stiege, Danny L Harle and Declan Knapp and 3 more. Drum & Bass and Garage. See the line-up on soundcheck.
+GroundUpCollective presents: Together in Motion at Four Quarters on Fri 27 Nov, London. 6 artists: Alfie Fraser, Calm Stiege, Declan Knapp and Elemental and 2 more. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ GroundUpCollective presents: Together in Motion at Four Quarters on Fri 27 Nov, 
 
 - Alfie Fraser
 - Calm Stiege
-- Danny L Harle
 - Declan Knapp
 - Elemental
 - Jay Steel

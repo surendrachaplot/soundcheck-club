@@ -1,28 +1,28 @@
 # FrezZ
 
-FrezZ is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Greyhound, London on Thu, 12 Nov 2026.
+FrezZ is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at DreamBags Jaguarshoes, London on Fri, 11 Dec 2026.
 
-FrezZ is a tech house and minimal artist based in Italy, with 45 gigs on soundcheck across London. Often billed alongside Giovanni Savoca, Simon Carr and George Morteanu. Next up: The Greyhound, London on Thu 12 Nov.
+FrezZ is a tech house and minimal artist based in Italy, with 44 gigs on soundcheck across London. Often billed alongside Giovanni Savoca, Simon Carr and George Morteanu. Next up: DreamBags Jaguarshoes, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | The Greyhound | London |
+| Fri, 11 Dec 2026 | DreamBags Jaguarshoes | London |
 
 ## Recently played
 
+- The Greyhound, London · Thu, 12 Nov 2026
 - The Glove That Fits, London · Sat, 26 Sept 2026
-- Starlane Pizza Bar, London · Sun, 23 Aug 2026
-- Gallery, London · Thu, 20 Aug 2026
 - The Cross, London · Sat, 25 Jul 2026
 - Hop Kingdom, London · Sat, 20 Jun 2026
 - XOYO, London · Wed, 17 Jun 2026
 - TBA, London · Sat, 16 May 2026
 - The Cross, London · Sat, 2 May 2026
+- Starlane Pizza Bar, London · Sun, 22 Feb 2026
 
 ## Shares bills with
 
 Giovanni Savoca, Simon Carr, George Morteanu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*

@@ -1,6 +1,6 @@
 # Baby Jane - Montréal at Fairmount Theatre
 
-Baby Jane - Montréal at Fairmount Theatre on Wed 2 Dec, Montreal. 1 artist: Baby Jane. Electro and Pop. See the line-up on soundcheck.
+Baby Jane - Montréal at Fairmount Theatre on Wed 2 Dec, Montreal. 2 artists: Baby Jane and Flleur. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Baby Jane - Montréal at Fairmount Theatre on Wed 2 Dec, Montreal. 1 artist: Bab
 ## Line-up
 
 - Baby Jane
+- Flleur
 
 *Source: [soundcheck](https://soundcheck.club/e/2529853-baby-jane-montr-al-at-fairmount-theatre/)*

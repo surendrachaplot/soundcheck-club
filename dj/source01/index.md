@@ -1,14 +1,15 @@
 # Source01
 
-Source01 is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Chausseestrasse 131, Berlin on Wed, 2 Dec 2026.
+Source01 is a Club and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Chausseestrasse 131, Berlin on Wed, 2 Dec 2026.
 
-Source01 is a club and electronica artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Warlord®, daki* and Locre. Next up: Chausseestrasse 131, Berlin on Wed 2 Dec.
+Source01 is a club and electronica artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Warlord®, daki* and Locre. Next up: Chausseestrasse 131, Berlin on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Chausseestrasse 131 | Berlin |
+| Thu, 10 Dec 2026 | Studio 1111 | Berlin |
 | Thu, 31 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played

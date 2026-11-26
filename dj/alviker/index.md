@@ -1,14 +1,15 @@
 # Alviker
 
-Alviker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Metropol, Berlin on Sun, 6 Dec 2026.
+Alviker is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Metropol, Berlin on Sun, 6 Dec 2026.
 
-Alviker is a techno and trance artist based in Spain, with 78 gigs on soundcheck across Bangkok, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside DAVID MENA, Reitze and Alputo. Next up: Metropol, Berlin on Sun 6 Dec.
+Alviker is a techno and trance artist based in Spain, with 79 gigs on soundcheck across Bangkok, Barcelona, Berlin and Dresden and 3 more. Often billed alongside DAVID MENA, Reitze and Alputo. Next up: Metropol, Berlin on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Metropol | Berlin |
+| Fri, 18 Dec 2026 | objekt klein a | Dresden |
 
 ## Recently played
 

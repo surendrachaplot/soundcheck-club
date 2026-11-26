@@ -11,7 +11,7 @@ NEU is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, with li
 | Sat, 28 Nov 2026 | Bread & Butter and Alonso Lozano at Neu | Alonso Lozano, Bread & Butter |
 | Sat, 28 Nov 2026 | Alonso Losano & Bread&Butter (RO) |  |
 | Fri, 4 Dec 2026 | Raresh | Raresh |
-| Sat, 5 Dec 2026 | OLING at Neu | OLING |
+| Sat, 5 Dec 2026 | OLING | OLING |
 | Fri, 11 Dec 2026 | Dirty Hands, Olga Karol & Per Hammar | Dirty Hands, Per Hammar |
 | Sat, 12 Dec 2026 | [ju:dtend'en:s] |  |
 | Sat, 19 Dec 2026 | Serialism 20 years – Cesare vs Disorder | Cesare vs Disorder |

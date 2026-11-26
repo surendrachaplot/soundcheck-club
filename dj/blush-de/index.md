@@ -1,8 +1,8 @@
 # Blu:sh
 
-Blu:sh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Romantso, Athens on Sat, 28 Nov 2026.
+Blu:sh is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Romantso, Athens on Sat, 28 Nov 2026.
 
-Blu:sh is a techno and trance artist based in France, with 60 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Zeynep, Georgia Bird and Marie Malarie. Next up: Romantso, Athens on Sat 28 Nov.
+Blu:sh is a techno and trance artist based in France, with 61 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Georgia Bird, Zeynep and Diva DJ. Next up: Romantso, Athens on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Blu:sh is a techno and trance artist based in France, with 60 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Romantso | Athens |
 | Sat, 5 Dec 2026 | OHM | Berlin |
+| Fri, 11 Dec 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Blu:sh is a techno and trance artist based in France, with 60 gigs on soundcheck
 
 ## Shares bills with
 
-Zeynep, Georgia Bird, Marie Malarie
+Georgia Bird, Zeynep, Diva DJ
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-de/)*

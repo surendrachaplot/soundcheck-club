@@ -1,14 +1,13 @@
 # Lunchbox
 
-Lunchbox is a music venue in Atlanta with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Revgrl: 2 Years Of Reverse" on Wed, 25 Nov 2026.
+Lunchbox is a music venue in Atlanta with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "GWINNIT: Technogiving" on Sat, 28 Nov 2026.
 
-Lunchbox is a music venue in Atlanta listed on soundcheck. 8 upcoming gigs, with line-ups including AIRGLO, Alexion, Aries and Audio and 2 more. See dates, start times and who's playing. 50 Lower Alabama Street, Atlanta, GA 30303.
+Lunchbox is a music venue in Atlanta listed on soundcheck. 7 upcoming gigs, with line-ups including AIRGLO, Alexion, Aries and Audio and 2 more. See dates, start times and who's playing. 50 Lower Alabama Street, Atlanta, GA 30303.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Revgrl: 2 Years Of Reverse | Rhannya |
 | Sat, 28 Nov 2026 | GWINNIT: Technogiving |  |
 | Fri, 4 Dec 2026 | SUB·TLE presents: METODI (USA Debut), SAM WOLFE with BEICO (USA Debut) | METODI |
 | Sat, 5 Dec 2026 | Lelantus: Atlanta | Alexion, Sesli, Stone Van Brooken |

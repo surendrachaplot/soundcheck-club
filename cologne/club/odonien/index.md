@@ -1,8 +1,8 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "OCN - odonische clubnacht" on Sat, 28 Nov 2026.
+Odonien is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "OCN - odonische clubnacht" on Sat, 28 Nov 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including AEKO, Alyne, andré wiese and Bergen and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including AEKO, Alyne, andré wiese and Bergen and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Odonien is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with 
 | Fri, 4 Dec 2026 | EhrenKlub in Odonien #31 |  |
 | Sat, 5 Dec 2026 | Odonien Records invites Berlin Sound Therapy with Melbo & Falke, Alyne, TraumaMia & justUS | Alyne, Falke, Melbo, Pardis, TraumaMia, justUS |
 | Fri, 11 Dec 2026 | árbol | Carmen Electro, KIMME, SLANY, dj_kareless, randal1na |
+| Sat, 12 Dec 2026 | Wyldhearts x Odonien | OSKAMAXX, Rundfunk |
 | Tue, 29 Dec 2026 | The last rave of the year at Odonien |  |
 | Sun, 28 Feb 2027 | ADRENALINE  pres. David Löhlein, Yasmin Regisford & THELMA | David Löhlein, FLACCO, THELMA, Vagabund, Yasmin Regisford |
 | Sat, 13 Mar 2027 | Kontur x Odonien | AEKO |

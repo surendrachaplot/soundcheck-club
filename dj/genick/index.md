@@ -1,14 +1,13 @@
 # Genick
 
-Genick is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 26 Nov 2026.
+Genick is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
-Genick is a bass and garage artist based in Japan, with 85 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Jacotanu, VECSILLE and SPRAYBOX. Next up: ZEROTOKYO, Tokyo on Thu 26 Nov.
+Genick is a bass and garage artist based in Japan, with 85 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Jacotanu, VECSILLE and SPRAYBOX. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | ZEROTOKYO | Tokyo |
 | Sat, 28 Nov 2026 | Circus Tokyo | Tokyo |
 | Sun, 27 Dec 2026 | club asia | Tokyo |
 

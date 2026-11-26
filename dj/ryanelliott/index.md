@@ -1,14 +1,13 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Nowadays, New York City on Wed, 25 Nov 2026.
+Ryan Elliott is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, with 277 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Nowadays, New York City on Wed 25 Nov.
+Ryan Elliott is a house and techno artist based in United States of America, with 277 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Nowadays | New York City |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 28 Nov 2026 | Jolene Downtown Miami | Miami |
 | Sat, 5 Dec 2026 | fabric | London |

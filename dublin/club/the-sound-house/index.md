@@ -1,8 +1,8 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "GRAND THEFT ALERT: Dublin City" on Fri, 27 Nov 2026.
+The Sound House is a music venue in Dublin with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "GRAND THEFT ALERT: Dublin City" on Fri, 27 Nov 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with line-ups including Girls of the Internet, JACK MARLOW, Marco V and Shannen Blessing and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 15 upcoming gigs, with line-ups including Girls of the Internet, JACK MARLOW, Marco V and Shannen Blessing and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
@@ -16,8 +16,8 @@ The Sound House is a music venue in Dublin listed on soundcheck. 14 upcoming gig
 | Thu, 10 Dec 2026 | Switch Angel / Wolf Cutt / Kayleigh Noble | Switch Angel, Wolf Cutt |
 | Fri, 11 Dec 2026 | BAILE TRAMA with LUKZ, SAYLE, SZAL, VIESCOBAR |  |
 | Sat, 19 Dec 2026 | INFLUENCE PRESENTS: KSN & SOLYD |  |
+| Sat, 26 Dec 2026 | ISR PRESENTS MËRO |  |
 | Fri, 1 Jan 2027 | Dublin's Biggest New Year's Day Party |  |
-| Sat, 9 Jan 2027 | NO COLLECTIVE:RUSH HOUR |  |
 
 ## Address
 

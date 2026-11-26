@@ -1,14 +1,15 @@
 # Gammer
 
-Gammer is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vauxhall Arches, London on Fri, 11 Dec 2026.
+Gammer is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vauxhall Arches, London on Fri, 11 Dec 2026.
 
-Gammer is a hardcore and techno artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Liverpool, London and Los Angeles and 3 more. Often billed alongside Darren Styles, Hixxy and Klubfiller. Next up: Vauxhall Arches, London on Fri 11 Dec.
+Gammer is a hardcore and techno artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Liverpool, London and Los Angeles and 3 more. Often billed alongside Darren Styles, Dougal and Hixxy. Next up: Vauxhall Arches, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Vauxhall Arches | London |
+| Sat, 30 Jan 2027 | Plaza Camden | London |
 | Sat, 24 Apr 2027 | Outernet Live | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Gammer is a hardcore and techno artist based in United Kingdom, with 18 gigs on 
 
 ## Shares bills with
 
-Darren Styles, Hixxy, Klubfiller
+Darren Styles, Dougal, Hixxy
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gammer/)*

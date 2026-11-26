@@ -2,7 +2,7 @@
 
 Weekend is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WKND X Nika Herero" on Fri, 27 Nov 2026.
 
-Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Gallus, Andrea Castells, Brigado Crew and Dennis Beutler and 2 more. See dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
+Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Gallus, Andrea Castells, Dennis Beutler and Denno Matini and 2 more. See dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with l
 | Fri, 27 Nov 2026 | WKND X Nika Herero | Kuyateh, Nika Herero |
 | Sat, 5 Dec 2026 | PROPAGANDA |  |
 | Fri, 11 Dec 2026 | WKND X USHA BERLIN | Denno Matini, Fein Cerra |
-| Fri, 18 Dec 2026 | SPEECHLESS x WKND w/ Brigado Crew & Pascale Voltaire  - CLOSING FRIDAYS 2026 | Brigado Crew, Pascale Voltaire |
+| Fri, 18 Dec 2026 | SPEECHLESS x WKND w/ Musumeci & Pascale Voltaire  - CLOSING FRIDAYS 2026 | Musumeci, Pascale Voltaire |
 | Wed, 30 Dec 2026 | PROPAGANDA - PRE NYE |  |
 | Thu, 31 Dec 2026 | NEW YEAR'S EVE 2026/27 – ROOFTOP OVER BERLIN | Alex Gallus, Dennis Beutler |
 | Fri, 15 Jan 2027 | WKND - 2 YEARS ANNIVERSARY | Andrea Castells, Pascale Voltaire |

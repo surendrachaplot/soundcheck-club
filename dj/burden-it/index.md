@@ -2,7 +2,7 @@
 
 Burden is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Sat, 6 Feb 2027.
 
-Burden is a techno and house artist based in Italy, with 35 gigs on soundcheck across Berlin, Birmingham, Galway and Leeds and 4 more. Often billed alongside Slumber, Tapefeed and Antonio De Angelis. Next up: fabric, London on Sat 6 Feb.
+Burden is a techno and house artist based in Italy, with 35 gigs on soundcheck across Berlin, Birmingham, Galway and Leeds and 4 more. Often billed alongside Slumber, Antonio De Angelis and Mosai. Next up: fabric, London on Sat 6 Feb.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Burden is a techno and house artist based in Italy, with 35 gigs on soundcheck a
 
 ## Shares bills with
 
-Slumber, Tapefeed, Antonio De Angelis
+Slumber, Antonio De Angelis, Mosai
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burden-it/)*

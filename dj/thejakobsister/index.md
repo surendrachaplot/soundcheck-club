@@ -1,8 +1,8 @@
 # The Jakob Sister
 
-The Jakob Sister is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+The Jakob Sister is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
-The Jakob Sister is a trance and techno artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Antwerp, Austria and Berlin and 26 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: ://about blank, Berlin on Fri 27 Nov.
+The Jakob Sister is a trance and techno artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Antwerp, Austria and Berlin and 26 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: ://about blank, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ The Jakob Sister is a trance and techno artist based in Germany, with 129 gigs o
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | ://about blank | Berlin |
 | Sat, 28 Nov 2026 | Helios37 | Cologne |
+| Fri, 18 Dec 2026 | objekt klein a | Dresden |
 | Sat, 19 Dec 2026 | Kater | Berlin |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |

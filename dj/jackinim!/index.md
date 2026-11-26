@@ -1,14 +1,13 @@
 # JACKIN' I'M!
 
-JACKIN' I'M! is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mad Radio Medellín, Medellin on Wed, 25 Nov 2026.
+JACKIN' I'M! is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Casa Ninguno, Medellin on Fri, 11 Dec 2026.
 
-JACKIN' I'M! is a house and disco artist based in Colombia, with 27 gigs on soundcheck across Medellin. Often billed alongside Andrea Arias, Hotmode and JD Groovin'. Next up: Mad Radio Medellín, Medellin on Wed 25 Nov.
+JACKIN' I'M! is a house and disco artist based in Colombia, with 27 gigs on soundcheck across Medellin. Often billed alongside Andrea Arias, Hotmode and JD Groovin'. Next up: Casa Ninguno, Medellin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Mad Radio Medellín | Medellin |
 | Fri, 11 Dec 2026 | Casa Ninguno | Medellin |
 
 ## Recently played

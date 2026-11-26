@@ -1,6 +1,6 @@
-# Noise Orchestra presents: Da Capo New Year's Eve at Distillery N17
+# Noise Orchestra presents: DA CAPO New Year's Eve at Distillery N17
 
-Noise Orchestra presents: Da Capo New Year's Eve at Distillery N17 on Thu 31 Dec, London. 11 artists: Antonio De Angelis, Arnaud Le Texier, Gridlock and HMMND and 7 more. Techno. See the line-up on soundcheck.
+Noise Orchestra presents: DA CAPO New Year's Eve at Distillery N17 on Thu 31 Dec, London. 11 artists: Antonio De Angelis, Arnaud Le Texier, Gridlock and HMMND and 7 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

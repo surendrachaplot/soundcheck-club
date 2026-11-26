@@ -1,8 +1,8 @@
 # Lulah Francs
 
-Lulah Francs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Floyd, Miami on Wed, 2 Dec 2026.
+Lulah Francs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Floyd, Miami on Wed, 2 Dec 2026.
 
-Lulah Francs is a house and disco artist based in Spain, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Demi Riquisimo, Michelle Manetti and Scarlett O'Malley. Next up: Floyd, Miami on Wed 2 Dec.
+Lulah Francs is a house and techno artist based in Spain, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Demi Riquisimo, Michelle Manetti and Scarlett O'Malley. Next up: Floyd, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lulah Francs is a house and disco artist based in Spain, with 75 gigs on soundch
 | Wed, 2 Dec 2026 | Floyd | Miami |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 12 Dec 2026 | TBA | Denver |
+| Sat, 9 Jan 2027 | fabric | London |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 24 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Smolna TRIBE: JĘGA, DJ PANZA, Anika & more" on Thu, 26 Nov 2026.
+Smolna is a music venue in Warsaw with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Smolna NON STOP: Nikolina" on Fri, 27 Nov 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 24 upcoming gigs, with line-ups including AMRTUM, Andrew Savich, Anika and Claude Degas and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 23 upcoming gigs, with line-ups including AMRTUM, Andrew Savich, Claude Degas and EM ILL and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Smolna TRIBE: JĘGA, DJ PANZA, Anika & more | Anika |
 | Fri, 27 Nov 2026 | Smolna NON STOP: Nikolina | Mambi Dexter, Mordeaux, NIKOLINA_, Nightfall, Violent, vitcat (3) |
 | Sat, 28 Nov 2026 | Smolna NON STOP: TRIPTYKH | Andrew Savich, Claude Degas, EM ILL, GRAŻYNA, HANICZ, KLAUDIA, TRIPTYKH, VIVØ |
 | Sun, 29 Nov 2026 | Smolna NON STOP: Traumer | Fibon, Lukas What?!, MROZ, Piotr Ho, Traumer |
@@ -18,6 +17,7 @@ Smolna is a music venue in Warsaw listed on soundcheck. 24 upcoming gigs, with l
 | Sat, 12 Dec 2026 | Smolna x Eternia | Joyhauser |
 | Sat, 12 Dec 2026 | Smolna x Schissma: JAAX | JAAX |
 | Fri, 18 Dec 2026 | Smolna: Überkikz | ÜBERKIKZ |
+| Sat, 19 Dec 2026 | Smolna: TBA |  |
 
 ## Address
 

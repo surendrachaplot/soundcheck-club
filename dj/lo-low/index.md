@@ -1,14 +1,15 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Glove That Fits, London on Thu, 26 Nov 2026.
+LO-LOW is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Glove That Fits, London on Thu, 26 Nov 2026.
 
-LO-LOW is a techno and house artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Berlin, Bologna and London and 4 more. Often billed alongside David Ramsay, Samantha Togni and Someone Sunny. Next up: The Glove That Fits, London on Thu 26 Nov.
+LO-LOW is a techno and house artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Berlin, Bologna and London and 4 more. Often billed alongside David Ramsay, Samantha Togni and Someone Sunny. Next up: The Glove That Fits, London on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | The Glove That Fits | London |
+| Sat, 6 Feb 2027 | fabric | London |
 
 ## Recently played
 

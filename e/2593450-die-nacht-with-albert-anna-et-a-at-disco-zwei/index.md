@@ -1,10 +1,10 @@
 # Die Nacht with Albert. & Anna Etōa at Disco Zwei
 
-Die Nacht with Albert. & Anna Etōa at Disco Zwei on Sat 28 Nov, Mannheim. 1 artist: Albert. Bass and Grime. See the line-up on soundcheck.
+Die Nacht with Albert. & Anna Etōa at Disco Zwei on Fri 27 Nov, Mannheim. 1 artist: Albert. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 28 Nov 2026 |
+| Date | Fri, 27 Nov 2026 |
 | Venue | Disco Zwei |
 | City | Mannheim |
 

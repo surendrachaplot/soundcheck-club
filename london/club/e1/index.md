@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ENDLESS x KURAI: Marie Vaunt,  Klaudia Gawlas,  Lino Fuso, Carlos Perez, K-Style, Nick Acid" on Fri, 27 Nov 2026.
+E1 is a music venue in London with 29 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ENDLESS x KURAI: Marie Vaunt,  Klaudia Gawlas,  Lino Fuso, Carlos Perez, K-Style, Nick Acid" on Fri, 27 Nov 2026.
 
-E1 is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including 2HOT2PLAY, ABEL (UK), Âme and AnD and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including 2HOT2PLAY, ABEL (UK), Âme and AnD and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 

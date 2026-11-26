@@ -1,14 +1,13 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and Progressive House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Downtown LA, Los Angeles on Wed, 25 Nov 2026.
+Patrice Bäumel is a Techno and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Refuge, New York City on Fri, 27 Nov 2026.
 
-Patrice Bäumel is a techno and progressive house artist based in Germany, with 170 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: TBA - Downtown LA, Los Angeles on Wed 25 Nov.
+Patrice Bäumel is a techno and progressive house artist based in Germany, with 170 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: Refuge, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA - Downtown LA | Los Angeles |
 | Fri, 27 Nov 2026 | Refuge | New York City |
 | Sat, 28 Nov 2026 | Fünk | Mexico City |
 | Fri, 4 Dec 2026 | Do Not Sit On The Furniture | Miami |

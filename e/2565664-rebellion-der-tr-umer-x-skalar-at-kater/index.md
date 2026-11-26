@@ -1,6 +1,6 @@
 # Rebellion der Träumer* x Skalar at Kater
 
-Rebellion der Träumer* x Skalar at Kater on Sat 12 Dec, Berlin. 26 artists: Aio, Anna Schreit, Annett Gapstream and Baba The Knife and 22 more. Techno and House. See the line-up on soundcheck.
+Rebellion der Träumer* x Skalar at Kater on Sat 12 Dec, Berlin. 27 artists: Aio, Anna Schreit, Annett Gapstream and Baba The Knife and 23 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ Rebellion der Träumer* x Skalar at Kater on Sat 12 Dec, Berlin. 26 artists: Aio
 - Etzo
 - Francis FF
 - Horst Haller
+- Karlo Kurbel
 - Katzengold
 - KLATTE
 - Kotoe

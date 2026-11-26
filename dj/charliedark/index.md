@@ -1,14 +1,15 @@
 # Charlie Dark
 
-Charlie Dark is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Grow, London on Sat, 19 Dec 2026.
+Charlie Dark is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Grow, London on Sat, 19 Dec 2026.
 
-Charlie Dark is a funk / soul and house artist based in United Kingdom, with 57 gigs on soundcheck across Barcelona, Brighton, Bristol and Copenhagen and 8 more. Often billed alongside Dean Bryce, MiNNA and Tash LC. Next up: Grow, London on Sat 19 Dec.
+Charlie Dark is a funk / soul and house artist based in United Kingdom, with 58 gigs on soundcheck across Barcelona, Brighton, Bristol and Copenhagen and 9 more. Often billed alongside Dean Bryce, MiNNA and Tash LC. Next up: Grow, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Grow | London |
+| Fri, 30 Jul 2027 | Black Pit Farm Estate | South-east |
 
 ## Recently played
 

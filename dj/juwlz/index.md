@@ -1,14 +1,15 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+JUWLZ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
-JUWLZ is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside Lisatrix, cell1 and ClubSubbe. Next up: ÆDEN, Berlin on Fri 27 Nov.
+JUWLZ is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside ClubSubbe, Lisatrix and Thielking. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | ÆDEN | Berlin |
+| Sat, 12 Dec 2026 | TBA - secret Location via Telegram  | Berlin |
 | Sat, 2 Jan 2027 | TRAUM | Antwerp |
 
 ## Recently played
@@ -24,6 +25,6 @@ JUWLZ is a techno and trance artist based in Germany, with 36 gigs on soundcheck
 
 ## Shares bills with
 
-Lisatrix, cell1, ClubSubbe
+ClubSubbe, Lisatrix, Thielking
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*

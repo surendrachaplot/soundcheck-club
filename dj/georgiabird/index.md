@@ -1,8 +1,8 @@
 # Georgia Bird
 
-Georgia Bird is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
+Georgia Bird is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
 
-Georgia Bird is a techno and house artist based in Australia, with 35 gigs on soundcheck across Berlin, Byron Bay, Hobart and Melbourne and 4 more. Often billed alongside Alfred Czital, Yan (CZ) and Ayū. Next up: Golden Gate, Berlin on Fri 27 Nov.
+Georgia Bird is a techno and house artist based in Australia, with 36 gigs on soundcheck across Berlin, Byron Bay, Hobart and Melbourne and 4 more. Often billed alongside Alfred Czital, Yan (CZ) and Ayū. Next up: Golden Gate, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Georgia Bird is a techno and house artist based in Australia, with 35 gigs on so
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Golden Gate | Berlin |
 | Sat, 5 Dec 2026 | OHM | Berlin |
+| Fri, 11 Dec 2026 | TBA - Secret Location | Berlin |
 | Fri, 18 Dec 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

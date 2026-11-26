@@ -1,8 +1,8 @@
 # t e s t p r e s s
 
-t e s t p r e s s is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
+t e s t p r e s s is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
 
-t e s t p r e s s is a techno and trance artist based in United Kingdom, with 120 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 35 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Gotec, Karlsruhe on Fri 27 Nov.
+t e s t p r e s s is a techno and trance artist based in United Kingdom, with 121 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 35 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Gotec, Karlsruhe on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ t e s t p r e s s is a techno and trance artist based in United Kingdom, with 12
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 11 Dec 2026 | The Telegraph Building | Belfast |
+| Fri, 22 Jan 2027 | The Timber Yard | Melbourne |
 
 ## Recently played
 

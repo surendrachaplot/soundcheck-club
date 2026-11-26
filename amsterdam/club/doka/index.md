@@ -1,8 +1,8 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco" on Fri, 27 Nov 2026.
+Doka is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco" on Fri, 27 Nov 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Actress, Bevan, Chima Isaaro and CTRLZORA and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Actress, Aurelius, Bevan and Chima Isaaro and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 

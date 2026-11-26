@@ -1,14 +1,13 @@
 # AEZARYA
 
-AEZARYA is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at nachbar, Amsterdam on Wed, 25 Nov 2026.
+AEZARYA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Amsterdam on Fri, 27 Nov 2026.
 
-AEZARYA is a techno and hardcore artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin and Leipzig. Often billed alongside Scrappy Coco, Gigi Spears and Richie Rollin. Next up: nachbar, Amsterdam on Wed 25 Nov.
+AEZARYA is a techno and hardcore artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin and Leipzig. Often billed alongside Scrappy Coco, Gigi Spears and Richie Rollin. Next up: TBA, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | nachbar | Amsterdam |
 | Fri, 27 Nov 2026 | TBA | Amsterdam |
 
 ## Recently played

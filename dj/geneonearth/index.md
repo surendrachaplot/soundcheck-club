@@ -1,8 +1,8 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sub Club, Glasgow on Fri, 27 Nov 2026.
+Gene On Earth is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sub Club, Glasgow on Fri, 27 Nov 2026.
 
-Gene On Earth is a house and tech house artist based in United States of America, with 228 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 64 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Sub Club, Glasgow on Fri 27 Nov.
+Gene On Earth is a house and tech house artist based in United States of America, with 229 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 64 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Sub Club, Glasgow on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Gene On Earth is a house and tech house artist based in United States of America
 | Fri, 27 Nov 2026 | Sub Club | Glasgow |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Sat, 12 Dec 2026 | fabric | London |
+| Sat, 6 Feb 2027 | KREUZWERK | Berlin |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 | Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 | Fri, 28 May 2027 | Peckham Rye Park | London |

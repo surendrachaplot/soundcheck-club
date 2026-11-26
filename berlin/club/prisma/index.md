@@ -1,15 +1,14 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sssmile Afterhour" on Thu, 26 Nov 2026.
+Prisma is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Klubkneipe x Resonance" on Sun, 29 Nov 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Agustin Mendez, Andi Beat, Benua and Carl Conrad and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Agustin Mendez, Andi Beat, Chaos Techno.Berlin and ChéRebel and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Sssmile Afterhour | Benua, Carl Conrad, THYS (2), The Kiss |
-| Sun, 29 Nov 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
+| Sun, 29 Nov 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, FREEGO, Kijara, Levandream, The Shredder, Zutri |
 | Tue, 1 Dec 2026 | Klubkneipe x Tuesday Ritual - Tattoo Flash Day | Tashi Tashi, k.meower |
 | Thu, 3 Dec 2026 | Sssmile Afterhour | RÄK, Saenko |
 | Sun, 6 Dec 2026 | Klubkneipe - Sunset Grooves | NAIR (IN) |
@@ -18,6 +17,7 @@ Prisma is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with l
 | Thu, 17 Dec 2026 | Sssmile Afterhour Flinta Special | Emma (8), Kalimanda, Najka |
 | Sun, 20 Dec 2026 | Klubkneipe |  |
 | Thu, 24 Dec 2026 | Sssmile Afterhour | Agustin Mendez, ChéRebel, MOFS |
+| Sun, 27 Dec 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
 
 ## Address
 

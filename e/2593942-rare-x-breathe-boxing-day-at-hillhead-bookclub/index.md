@@ -1,6 +1,6 @@
-# RARE x Breathe // Boxing Day at Hillhead Bookclub
+# RARE x BREATHE // Boxing Day at Hillhead Bookclub
 
-RARE x Breathe // Boxing Day at Hillhead Bookclub on Sat 26 Dec, Glasgow. House. See the line-up on soundcheck.
+RARE x BREATHE // Boxing Day at Hillhead Bookclub on Sat 26 Dec, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

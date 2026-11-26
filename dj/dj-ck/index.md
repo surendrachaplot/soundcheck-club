@@ -1,8 +1,8 @@
 # DJ-CK
 
-DJ-CK is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
+DJ-CK is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
 
-DJ-CK is a house and techno artist based in Ireland, with 45 gigs on soundcheck across Antwerp, Cork, Dublin and London and 1 more. Often billed alongside Katiaki, Toraigh and GLUT Sound. Next up: 26 Leake Street, London on Fri 27 Nov.
+DJ-CK is a house and trance artist based in Ireland, with 45 gigs on soundcheck across Antwerp, Cork, Dublin and London and 1 more. Often billed alongside Katiaki, Toraigh and GLUT Sound. Next up: 26 Leake Street, London on Fri 27 Nov.
 
 ## Upcoming shows
 

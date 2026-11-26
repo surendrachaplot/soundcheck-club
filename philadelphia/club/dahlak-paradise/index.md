@@ -1,14 +1,15 @@
 # Dahlak Paradise
 
-Dahlak Paradise is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Bass at the Altar" on Sun, 29 Nov 2026.
+Dahlak Paradise is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Bass at the Altar" on Sun, 29 Nov 2026.
 
-Dahlak Paradise is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Lady JMW. See dates, start times and who's playing. 4708 Baltimore Ave, Philadelphia, PA 19143, USA.
+Dahlak Paradise is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs, with line-ups including Lady JMW. See dates, start times and who's playing. 4708 Baltimore Ave, Philadelphia, PA 19143, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Bass at the Altar | Lady JMW |
+| Fri, 4 Dec 2026 | Ayo Slide Thru |  |
 
 ## Address
 

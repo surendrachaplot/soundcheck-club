@@ -1,13 +1,14 @@
 # Reflex Blue
 
-Reflex Blue is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bonfim, North on Sat, 19 Dec 2026.
+Reflex Blue is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location in Poble Espanyol, Barcelona on Sat, 5 Dec 2026.
 
-Reflex Blue is a house and tech house artist based in Australia, with 119 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 41 more. Often billed alongside Doudou MD, Fumiya Tanaka and Gene On Earth. Next up: Bonfim, North on Sat 19 Dec.
+Reflex Blue is a house and tech house artist based in Australia, with 120 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 41 more. Often billed alongside Doudou MD, Fumiya Tanaka and Gene On Earth. Next up: TBA - Secret Location in Poble Espanyol, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | TBA - Secret Location in Poble Espanyol | Barcelona |
 | Sat, 19 Dec 2026 | Bonfim | North |
 | Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |

@@ -2,7 +2,7 @@
 
 Pavline is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - The Good Landing, London on Sat, 19 Dec 2026.
 
-Pavline is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Berlin and London. Often billed alongside L KAE F, Calcium Channel and Distal_. Next up: TBA - The Good Landing, London on Sat 19 Dec.
+Pavline is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Berlin and London. Often billed alongside L KAE F, La Fille and Calcium Channel. Next up: TBA - The Good Landing, London on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Pavline is a house and techno artist based in United Kingdom, with 7 gigs on sou
 
 ## Shares bills with
 
-L KAE F, Calcium Channel, Distal_
+L KAE F, La Fille, Calcium Channel
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavline/)*

@@ -1,14 +1,13 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Music Box, San Diego on Wed, 25 Nov 2026.
+O'Flynn is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Independent, San Francisco/Oakland on Fri, 27 Nov 2026.
 
-O'Flynn is a house and garage artist based in United Kingdom, with 87 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: Music Box, San Diego on Wed 25 Nov.
+O'Flynn is a house and garage artist based in United Kingdom, with 87 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: The Independent, San Francisco/Oakland on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Music Box | San Diego |
 | Fri, 27 Nov 2026 | The Independent | San Francisco/Oakland |
 | Sat, 26 Dec 2026 | Phonox | London |
 

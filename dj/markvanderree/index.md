@@ -1,14 +1,13 @@
 # Mark van der Ree
 
-Mark van der Ree is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Minimal Bar, Berlin on Wed, 25 Nov 2026.
+Mark van der Ree is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 12 Dec 2026.
 
-Mark van der Ree is a house and deep house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside DJ NEAR MiNT, Vanree and CC:NIELOS. Next up: Minimal Bar, Berlin on Wed 25 Nov.
+Mark van der Ree is a house and deep house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside DJ NEAR MiNT, Vanree and CC:NIELOS. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Minimal Bar | Berlin |
 | Sat, 12 Dec 2026 | Mokka Mitte Bar / James Simon Park | Berlin |
 
 ## Recently played

@@ -1,13 +1,13 @@
 # [EDIT]
 
-[EDIT] is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "NO LIMITS /// OFFSET Events" on Sat, 21 Nov 2026.
+[EDIT] is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Cage Presents: Welcome to the House" on Fri, 27 Nov 2026.
 
-[EDIT] is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including Fentonffp and Marshall. See dates, start times and who's playing.
+[EDIT] is a music venue in Leeds listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | NO LIMITS /// OFFSET Events | Fentonffp, Marshall |
+| Fri, 27 Nov 2026 | Cage Presents: Welcome to the House |  |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/edit/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/edit/)*

@@ -1,14 +1,14 @@
 # Gusto
 
-Gusto is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at BASEMENT, New York City on Sat, 12 Dec 2026.
+Gusto is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Planet Wax, London on Sat, 12 Dec 2026.
 
-Gusto is a drum & bass and jungle artist based in Italy, with 22 gigs on soundcheck across Brighton, Bristol, London and Malta and 2 more. Often billed alongside DLR, BRAIN and Minor Forms. Next up: BASEMENT, New York City on Sat 12 Dec.
+Gusto is a drum & bass and jungle artist based in Italy, with 22 gigs on soundcheck across Brighton, Bristol, London and Malta and 1 more. Often billed alongside DLR, BRAIN and Minor Forms. Next up: Planet Wax, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Dec 2026 | BASEMENT | New York City |
+| Sat, 12 Dec 2026 | Planet Wax | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Gusto is a drum & bass and jungle artist based in Italy, with 22 gigs on soundch
 
 DLR, BRAIN, Minor Forms
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gusto/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gusto/)*

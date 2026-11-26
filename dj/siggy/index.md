@@ -1,13 +1,14 @@
 # SIGGY
 
-SIGGY is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fox and Firkin, London on Fri, 1 Jan 2027.
+SIGGY is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Electrowerkz, London on Sat, 5 Dec 2026.
 
-SIGGY is a disco and house artist based in United Kingdom, with 5 gigs on soundcheck across Ibiza, Liverpool, London and Manchester. Often billed alongside Dan Shake, Annie Mac and Black Hawks of Panamá. Next up: The Fox and Firkin, London on Fri 1 Jan.
+SIGGY is a disco and house artist based in United Kingdom, with 6 gigs on soundcheck across Ibiza, Liverpool, London and Manchester. Often billed alongside Dan Shake, Annie Mac and Black Hawks of Panamá. Next up: Electrowerkz, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Electrowerkz | London |
 | Fri, 1 Jan 2027 | The Fox and Firkin | London |
 
 ## Recently played
@@ -21,4 +22,4 @@ SIGGY is a disco and house artist based in United Kingdom, with 5 gigs on soundc
 
 Dan Shake, Annie Mac, Black Hawks of Panamá
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siggy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siggy/)*

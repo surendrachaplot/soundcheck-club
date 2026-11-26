@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Vice City presents: Myman, NTBR, Placiid" on Wed, 25 Nov 2026.
+Rex Club is a music venue in Paris with 22 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DISCO INFERNO: AFTERPARTY - Release Party I LinLin & GUESTS" on Thu, 26 Nov 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 23 upcoming gigs, with line-ups including Abr., Bakean, Camille Luciani and Camporeale (FR) and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 22 upcoming gigs, with line-ups including Abr., Bakean, Camille Luciani and Camporeale (FR) and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Vice City presents: Myman, NTBR, Placiid | NTBR, Placiid |
 | Thu, 26 Nov 2026 | DISCO INFERNO: AFTERPARTY - Release Party I LinLin & GUESTS | LinLin |
 | Fri, 27 Nov 2026 | La Scarlette Sugar Rush: Berou, Eloi, Lilith | Eloi, Lilith |
 | Sat, 28 Nov 2026 | Bass Culture: D'Julz all night long | D'Julz |
@@ -18,6 +17,7 @@ Rex Club is a music venue in Paris listed on soundcheck. 23 upcoming gigs, with 
 | Sat, 5 Dec 2026 | Reflect presents: Chippy Nonstop, Saligo, Sorun b2b V.I.E | Chippy Nonstop, Saligo, Sorun |
 | Wed, 9 Dec 2026 | Underbass & Apero Tech: Kyzwall, Dj ratz b2b See Rose | KLÖSS |
 | Thu, 10 Dec 2026 | LTQB invite: ABR. (Live), Kacy, Cheche | Abr., Kacy |
+| Fri, 11 Dec 2026 | Skryptöm: Estella Boersma (Hybrid djset), Electric Rescue | Electric Rescue, Estella Boersma |
 
 ## Address
 

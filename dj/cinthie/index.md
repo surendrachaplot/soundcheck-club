@@ -1,8 +1,8 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
+Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
 
-Cinthie is a house and techno artist based in Germany, with 325 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 68 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: 1015 Folsom, San Francisco/Oakland on Fri 27 Nov.
+Cinthie is a house and techno artist based in Germany, with 326 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 68 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: 1015 Folsom, San Francisco/Oakland on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Cinthie is a house and techno artist based in Germany, with 325 gigs on soundche
 | Fri, 18 Dec 2026 | Yamamori Tengu | Dublin |
 | Sat, 19 Dec 2026 | Bien Public | Bordeaux |
 | Fri, 25 Dec 2026 | Robert Johnson | Hesse |
+| Sat, 26 Dec 2026 | Distillery | Leipzig |
 | Thu, 31 Dec 2026 | public records | New York City |
 | Sat, 16 Jan 2027 | Klakaz | Athens |
 | Sat, 23 Jan 2027 | essaim | Paris |
-| Sat, 6 Feb 2027 | Azimut Club | Turin |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Mar710 is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Desterro, Lisbon on Fri, 27 Nov 2026.
 
-Mar710 is a downtempo and ambient artist, with 12 gigs on soundcheck across Lisbon. Often billed alongside nharo, Imberbe and DJ Privilégio. Next up: Desterro, Lisbon on Fri 27 Nov.
+Mar710 is a downtempo and ambient artist based in Portugal, with 12 gigs on soundcheck across Lisbon. Often billed alongside nharo, Imberbe and DJ Privilégio. Next up: Desterro, Lisbon on Fri 27 Nov.
 
 ## Upcoming shows
 

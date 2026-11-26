@@ -1,8 +1,8 @@
 # Timstagram
 
-Timstagram is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Absturz, Leipzig on Sat, 5 Dec 2026.
+Timstagram is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Absturz, Leipzig on Sat, 5 Dec 2026.
 
-Timstagram is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Leipzig. Often billed alongside DZBL, DJ Schnürschuh and KETA PERRY. Next up: Absturz, Leipzig on Sat 5 Dec.
+Timstagram is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Leipzig. Often billed alongside DZBL, DJ Schnürschuh and KETA PERRY. Next up: Absturz, Leipzig on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Timstagram is a techno and trance artist based in Germany, with 21 gigs on sound
 | Sat, 5 Dec 2026 | Absturz | Leipzig |
 | Fri, 11 Dec 2026 | elipamanoke | Leipzig |
 | Thu, 31 Dec 2026 | Distillery | Leipzig |
+| Sat, 16 Jan 2027 | Distillery | Leipzig |
 
 ## Recently played
 

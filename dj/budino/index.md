@@ -1,14 +1,13 @@
 # Budino
 
-Budino is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Wed, 25 Nov 2026.
+Budino is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
-Budino is a house and techno artist based in Italy, with 180 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 51 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Good Room, New York City on Wed 25 Nov.
+Budino is a house and techno artist based in Italy, with 180 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 51 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Good Room | New York City |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Sat, 12 Dec 2026 | Printhouse | Munich |

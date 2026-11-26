@@ -1,6 +1,6 @@
 # 1sqft present TRISTAN & Friends at Bossa Nova Civic Club
 
-1sqft present TRISTAN & Friends at Bossa Nova Civic Club on Wed 2 Dec, New York City. 1 artist: TRISTAN. House and Club. See the line-up on soundcheck.
+1sqft present TRISTAN & Friends at Bossa Nova Civic Club on Wed 2 Dec, New York City. 2 artists: Daizo and TRISTAN. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Daizo
 - TRISTAN (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2593270-1sqft-present-tristan-friends-at-bossa-nova-civic-club/)*

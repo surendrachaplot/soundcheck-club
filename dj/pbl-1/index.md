@@ -1,0 +1,28 @@
+# PBL (1)
+
+PBL (1) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gare Porto, Porto on Sat, 5 Dec 2026.
+
+PBL is a tech house and house artist based in Spain, with 17 gigs on soundcheck across Amsterdam, Madrid, Medellin and Porto. Often billed alongside André Dias, Molina and Obando. Next up: Gare Porto, Porto on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Gare Porto | Porto |
+
+## Recently played
+
+- Viuz, Medellin · Fri, 30 Oct 2026
+- Viuz, Medellin · Sun, 19 Jul 2026
+- TILLATEC, Amsterdam · Sat, 25 Apr 2026
+- Viuz, Medellin · Sun, 12 Apr 2026
+- LA Fabryka, Madrid · Thu, 2 Apr 2026
+- Gare Porto, Porto · Sat, 21 Mar 2026
+- Salon Amador, Medellin · Fri, 20 Feb 2026
+- Viuz, Medellin · Thu, 15 Jan 2026
+
+## Shares bills with
+
+André Dias, Molina, Obando
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pbl-1/)*

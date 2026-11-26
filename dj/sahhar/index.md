@@ -1,8 +1,8 @@
 # saHHar
 
-saHHar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rollbergstr. 26, Berlin on Thu, 26 Nov 2026.
+saHHar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rollbergstr. 26, Berlin on Thu, 26 Nov 2026.
 
-saHHar is a techno and house artist based in Germany, with 49 gigs on soundcheck across Berlin, Brussels, Munich and New York City and 1 more. Often billed alongside Omar.D, Meriem S and Al Aslan. Next up: Rollbergstr. 26, Berlin on Thu 26 Nov.
+saHHar is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Brussels, Munich and New York City and 2 more. Often billed alongside Omar.D, Meriem S and Al Aslan. Next up: Rollbergstr. 26, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ saHHar is a techno and house artist based in Germany, with 49 gigs on soundcheck
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Rollbergstr. 26 | Berlin |
 | Fri, 27 Nov 2026 | Gretchen | Berlin |
+| Sat, 5 Dec 2026 | La Marbrerie | Paris |
 | Sat, 19 Dec 2026 | ÆDEN | Berlin |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # 5euroGoldi
 
-5euroGoldi is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 28 Nov 2026.
+5euroGoldi is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 28 Nov 2026.
 
-5euroGoldi is a trance and techno artist based in Germany, with 78 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 5 more. Often billed alongside VIVUS, Melushka and Arman John. Next up: Lokschuppen Berlin, Berlin on Sat 28 Nov.
+5euroGoldi is a trance and techno artist based in Germany, with 79 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 5 more. Often billed alongside VIVUS, Melushka and Arman John. Next up: Lokschuppen Berlin, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Wed, 9 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 11 Dec 2026 | Tanzhaus West | Frankfurt |
 | Sat, 12 Dec 2026 | WDM | Hannover |
+| Fri, 8 Jan 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Emma 2000
 
-Emma 2000 is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Emma 2000 is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Emma 2000 is a house and tech house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and bullet tooth. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Emma 2000 is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and bullet tooth. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 16 Jan 2027 | Shelter Amsterdam | Amsterdam |
 | Sat, 6 Feb 2027 | Sawmills | Bristol |
 
 ## Recently played

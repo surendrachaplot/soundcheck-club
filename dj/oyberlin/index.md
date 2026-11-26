@@ -1,14 +1,13 @@
 # O/Y
 
-O/Y is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tausend, Berlin on Wed, 25 Nov 2026.
+O/Y is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kauz, Zurich on Thu, 17 Dec 2026.
 
-O/Y is a deep house and techno artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Basel, Berlin and Dortmund / Essen and 11 more. Often billed alongside Black Mirror Park, Telva and aantz. Next up: Tausend, Berlin on Wed 25 Nov.
+O/Y is a deep house and techno artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Basel, Berlin and Dortmund / Essen and 11 more. Often billed alongside Black Mirror Park, Telva and aantz. Next up: Kauz, Zurich on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Tausend | Berlin |
 | Thu, 17 Dec 2026 | Kauz | Zurich |
 
 ## Recently played

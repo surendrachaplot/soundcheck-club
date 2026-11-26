@@ -10,7 +10,7 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 4 upcoming gig
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | ENCORE LAB - Grand opening - HENRI | Henri Bergmann |
 | Fri, 4 Dec 2026 | THE NEW WAVE - BY Disconnect | Connect |
-| Sat, 5 Dec 2026 | Toru Ikemoto: HORN - A Raw Hypnotic Techno Cage Rave [HOTBOXX] | Toru Ikemoto |
+| Sat, 5 Dec 2026 | Toru Ikemoto (Live): HORN - A Raw Hypnotic Techno Cage Rave [HOTBOXX] | Toru Ikemoto |
 | Thu, 13 May 2027 | Warrington-Runcorn New Town Development Plan // Grand Social Ballroom, Dublin // 13 May 2027 | Warrington-Runcorn New Town Development Plan |
 
 ## Address

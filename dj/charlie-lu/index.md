@@ -1,14 +1,15 @@
 # charli/e
 
-charli/e is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Legal, Munich on Sat, 5 Dec 2026.
+charli/e is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Legal, Munich on Sat, 5 Dec 2026.
 
-charli/e is a house and tech house artist, with 35 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 3 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Legal, Munich on Sat 5 Dec.
+charli/e is a house and tech house artist, with 36 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 3 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Legal, Munich on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Legal | Munich |
+| Thu, 10 Dec 2026 | Orangerie Neukölln | Berlin |
 | Sun, 13 Dec 2026 | TBA - Pücklerstraße 34, 10997 Berlin | Berlin |
 | Thu, 31 Dec 2026 | Mojo | Hamburg |
 

@@ -1,13 +1,14 @@
 # Bambi (Menage a Trois)
 
-Bambi (Menage a Trois) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lofi, Amsterdam on Fri, 1 Jan 2027.
+Bambi (Menage a Trois) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at objekt klein a, Dresden on Fri, 18 Dec 2026.
 
-Bambi (Menage a Trois) is a house and techno artist based in Spain, with 36 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 9 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: Lofi, Amsterdam on Fri 1 Jan.
+Bambi (Menage a Trois) is a house and techno artist based in Spain, with 37 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 9 more. Often billed alongside WESTKLANG, DJ B2B and DJ KAIDO. Next up: objekt klein a, Dresden on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | objekt klein a | Dresden |
 | Fri, 1 Jan 2027 | Lofi | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Bambi (Menage a Trois) is a house and techno artist based in Spain, with 36 gigs
 
 ## Shares bills with
 
-WESTKLANG, DJ B2B, Speedo
+WESTKLANG, DJ B2B, DJ KAIDO
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimenageatrois/)*

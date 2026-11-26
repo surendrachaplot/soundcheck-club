@@ -1,14 +1,13 @@
 # The Kiss
 
-The Kiss is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Prisma, Berlin on Thu, 26 Nov 2026.
+The Kiss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
 
-The Kiss is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin and Chicago. Often billed alongside Benua, Blck-Swan and H7. Next up: Prisma, Berlin on Thu 26 Nov.
+The Kiss is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin and Chicago. Often billed alongside Benua, Blck-Swan and H7. Next up: Chausseestrasse 131, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Prisma | Berlin |
 | Fri, 4 Dec 2026 | Chausseestrasse 131 | Berlin |
 | Fri, 11 Dec 2026 | ://about blank | Berlin |
 

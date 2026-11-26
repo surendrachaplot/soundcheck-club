@@ -1,14 +1,15 @@
 # Rodrigue Darbon
 
-Rodrigue Darbon is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Madrid on Sat, 12 Dec 2026.
+Rodrigue Darbon is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Madrid on Sat, 12 Dec 2026.
 
-Rodrigue Darbon is a house and tech house artist based in France, with 15 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Le Nomad, Avo (ES) and Foie Gras. Next up: TBA, Madrid on Sat 12 Dec.
+Rodrigue Darbon is a house and tech house artist based in France, with 16 gigs on soundcheck across Barcelona, Madrid and Paris. Often billed alongside Le Nomad, Avo (ES) and Foie Gras. Next up: TBA, Madrid on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | TBA | Madrid |
+| Fri, 18 Dec 2026 | Wanderlust | Paris |
 | Fri, 1 Jan 2027 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played

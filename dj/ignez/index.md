@@ -1,8 +1,8 @@
 # Ignez
 
-Ignez is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
+Ignez is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hive Club, Zurich on Fri, 27 Nov 2026.
 
-Ignez is a techno and house artist based in Netherlands, with 245 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 76 more. Often billed alongside Yanamaste, Rene Wise and Rødhåd. Next up: Hive Club, Zurich on Fri 27 Nov.
+Ignez is a techno and house artist based in Netherlands, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 76 more. Often billed alongside Yanamaste, Rene Wise and Rødhåd. Next up: Hive Club, Zurich on Fri 27 Nov.
 
 ## Upcoming shows
 

@@ -16,7 +16,7 @@ Dalston Den is a music venue in London listed on soundcheck. 9 upcoming gigs, wi
 | Fri, 11 Dec 2026 | Breakfast Club #3 | Donnie on a Bike, Nou (UK), Telex, jude |
 | Thu, 17 Dec 2026 | PULSE |  |
 | Fri, 18 Dec 2026 | Work It |  |
-| Thu, 31 Dec 2026 | Breakaway: New Year's Eve - Breaks / Hardcore / Jungle / Drum & Bass | Agility, Blake (UK), Bryn Brax, Dave Zhu, Whatsname, zoneSL |
+| Thu, 31 Dec 2026 | Breakaway: New Year's Eve - Breaks / Hardcore / Jungle / Drum & Bass | Agility, Blake (UK), Bryn Brax, Dave Zhu, INSECT CRUSHA, OS:MAN, Whatsname, zoneSL |
 
 ## Address
 

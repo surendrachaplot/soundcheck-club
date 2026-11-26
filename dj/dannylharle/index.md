@@ -1,14 +1,13 @@
 # Danny L Harle
 
-Danny L Harle is a Garage and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Four Quarters, London on Fri, 27 Nov 2026.
+Danny L Harle is a Dubstep and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
-Danny L Harle is a garage and dubstep artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Crystallmess, Lauren Duffus and Malibu. Next up: Four Quarters, London on Fri 27 Nov.
+Danny L Harle is a dubstep and pop artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Crystallmess, Lauren Duffus and Malibu. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Four Quarters | London |
 | Sat, 5 Dec 2026 | Autódromo de Interlagos | Sao Paulo |
 
 ## Recently played

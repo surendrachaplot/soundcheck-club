@@ -1,6 +1,6 @@
 # TBA - Amsterdam, Netherlands
 
-TBA - Amsterdam, Netherlands is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "NOTHING EXISTS AFTER MIDNIGHT" on Sun, 8 Nov 2026.
+TBA - Amsterdam, Netherlands is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "WHEN THE CITY SLEEPS, THE UNDERGROUND COMES ALIVE" on Sun, 13 Dec 2026.
 
 TBA - Amsterdam, Netherlands is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - Amsterdam, Netherlands is a music venue in Amsterdam listed on soundcheck.
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | NOTHING EXISTS AFTER MIDNIGHT |  |
+| Sun, 13 Dec 2026 | WHEN THE CITY SLEEPS, THE UNDERGROUND COMES ALIVE |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-amsterdam-netherlands/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-amsterdam-netherlands/)*

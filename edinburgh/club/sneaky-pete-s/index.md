@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 34 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "REDEMPTION presents Big Miz // Sneaky Pete's XI" on Wed, 25 Nov 2026.
+Sneaky Pete's is a music venue in Edinburgh with 33 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "YBZ INVITES // Yemz" on Thu, 26 Nov 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gigs, with line-ups including Ant TC1, Asa Tate, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gigs, with line-ups including Ant TC1, Asa Tate, billybawbags and Bimini and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | REDEMPTION presents Big Miz // Sneaky Pete's XI | Big Miz |
 | Thu, 26 Nov 2026 | YBZ INVITES // Yemz | Georj (2), Gilbo, Texyo, Yemz, billybawbags |
 | Fri, 27 Nov 2026 | Telfort's Good Place | Telfort |
 | Sat, 28 Nov 2026 | Soul Jam: David Barbarossa | David Barbarossa, Percy Main, Tuesday Gonzalez |
@@ -18,6 +17,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gi
 | Wed, 2 Dec 2026 | Andromeda presents: Sunny D & Buddy  | Buddy. (2), SKYLAR, Sunny D |
 | Thu, 3 Dec 2026 | Import: Buckfast Barbie's Dreamhouse | Buckfast Barbie |
 | Fri, 4 Dec 2026 | Hot Mess: Queer Dance Party | Simonotron |
+| Sat, 5 Dec 2026 | EHFM Club Night | George T, Sweet Philly, daiz.y, discjocelyne |
 
 ## Address
 

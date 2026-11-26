@@ -1,14 +1,15 @@
 # nixmoon
 
-nixmoon is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
+nixmoon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
 
-nixmoon is a techno and tech house artist based in Germany, with 22 gigs on soundcheck across Beijing, Berlin and Shanghai. Often billed alongside Bee Lincoln, OCD and DotDash. Next up: Sensorium, Berlin on Wed 16 Dec.
+nixmoon is a techno and tech house artist based in Germany, with 23 gigs on soundcheck across Beijing, Berlin and Shanghai. Often billed alongside Bee Lincoln, OCD and DotDash. Next up: Sensorium, Berlin on Wed 16 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Dec 2026 | Sensorium | Berlin |
+| Wed, 13 Jan 2027 | Sensorium | Berlin |
 
 ## Recently played
 

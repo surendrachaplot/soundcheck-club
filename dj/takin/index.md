@@ -1,14 +1,13 @@
 # TAKiN
 
-TAKiN is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location - Washington DC, Washington DC on Wed, 25 Nov 2026.
+TAKiN is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Wiggle Room, Toronto on Sat, 19 Dec 2026.
 
-TAKiN is a tech house and house artist based in Canada, with 127 gigs on soundcheck across Toronto, Vancouver and Washington DC. Often billed alongside Barroness, Tyler Hill and Manzone & Strong. Next up: TBA - Secret Location - Washington DC, Washington DC on Wed 25 Nov.
+TAKiN is a tech house and house artist based in Canada, with 127 gigs on soundcheck across Toronto, Vancouver and Washington DC. Often billed alongside Barroness, Tyler Hill and Manzone & Strong. Next up: Wiggle Room, Toronto on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA - Secret Location - Washington DC | Washington DC |
 | Sat, 19 Dec 2026 | Wiggle Room | Toronto |
 | Sun, 20 Dec 2026 | Wiggle Room | Toronto |
 

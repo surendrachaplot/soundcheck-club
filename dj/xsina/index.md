@@ -1,14 +1,13 @@
 # X(S)INA
 
-X(S)INA is a Techno and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
+X(S)INA is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SOS, Detroit on Fri, 27 Nov 2026.
 
-X(S)INA is a techno and ghetto tech artist based in United States of America, with 13 gigs on soundcheck across Detroit. Often billed alongside Garrison XR, we1sman and AIDEL. Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
+X(S)INA is a techno and ghetto tech artist based in United States of America, with 13 gigs on soundcheck across Detroit. Often billed alongside Garrison XR, we1sman and AIDEL. Next up: SOS, Detroit on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | The Eagle of Detroit | Detroit |
 | Fri, 27 Nov 2026 | SOS | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 

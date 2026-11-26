@@ -1,6 +1,6 @@
 # Mondo at 93 Feet East
 
-Mondo at 93 Feet East on Sat 5 Dec, London. 4 artists: Andy Moor, Darren Tate, nümind and Simon Gregory. Progressive House and Trance. See the line-up on soundcheck.
+Mondo at 93 Feet East on Sat 5 Dec, London. 5 artists: Andy Moor, C-systems, Darren Tate and nümind and 1 more. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Mondo at 93 Feet East on Sat 5 Dec, London. 4 artists: Andy Moor, Darren Tate, n
 ## Line-up
 
 - Andy Moor
+- C-systems
 - Darren Tate
 - nümind
 - Simon Gregory

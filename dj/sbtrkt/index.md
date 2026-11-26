@@ -1,14 +1,13 @@
 # SBTRKT
 
-SBTRKT is a Garage and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 26 Nov 2026.
+SBTRKT is a Garage and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Osaka, Osaka on Sat, 28 Nov 2026.
 
-SBTRKT is a garage and electronica artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Dixon, Little Dragon and Marcel Dettmann. Next up: Circus Tokyo, Tokyo on Thu 26 Nov.
+SBTRKT is a garage and electronica artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Dixon, Little Dragon and Marcel Dettmann. Next up: Circus Osaka, Osaka on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Circus Tokyo | Tokyo |
 | Sat, 28 Nov 2026 | Circus Osaka | Osaka |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Jive Turkey Thanksgiving Eve Dance Party" on Wed, 25 Nov 2026.
+Trestle Inn is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Gotta Get Up To Get Down - A James Brown Happy Hour" on Fri, 27 Nov 2026.
 
-Trestle Inn is a music venue in Philadelphia listed on soundcheck. 3 upcoming gigs, with line-ups including DJ lil'dave. See dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
+Trestle Inn is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Jive Turkey Thanksgiving Eve Dance Party | DJ lil'dave |
 | Fri, 27 Nov 2026 | Gotta Get Up To Get Down - A James Brown Happy Hour |  |
 | Sat, 28 Nov 2026 | SATURNIA |  |
 

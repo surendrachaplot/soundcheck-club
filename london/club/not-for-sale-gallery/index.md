@@ -13,7 +13,7 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 9 upcoming
 | Fri, 11 Dec 2026 | Mesh:Social | Jinjé, Llyr, Louf |
 | Sat, 12 Dec 2026 | EMARE return at NOT FOR SALE | Kohnan, Leaches, Marilena, Mattia Zucchelli, NXO_, Simon Mós |
 | Sun, 13 Dec 2026 | SOLARIS I | Mowie |
-| Fri, 1 Jan 2027 | Not For Sale x Strobe Soundsystem - New Years Multi Genre Big Weekend | Braden, DJ SS, Fresh Lov3, Martha - DJ, Rowland, Vanio |
+| Fri, 1 Jan 2027 | Not For Sale x Strobe Soundsystem - New Years Multi Genre Big Weekend | Braden, DJ SS, Fresh Lov3, Helen Rose, Martha - DJ, Rowland, Vanio |
 | Tue, 26 Jan 2027 | WHERE DO I STAND? 360° Immersive Audiovisual Experience, by Yola Kudela | Katie Gately |
 | Wed, 10 Feb 2027 | Electric Minds |  |
 | Sun, 14 Mar 2027 | 華 HANA 002 · Sakura | Kazuki Takahashi, SCYLLA, Yukari |

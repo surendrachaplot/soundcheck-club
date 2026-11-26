@@ -1,14 +1,13 @@
 # Metro Baltimore
 
-Metro Baltimore is a music venue in Baltimore with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SWEET SPOT: BRITNEY BLACKOUT" on Wed, 25 Nov 2026.
+Metro Baltimore is a music venue in Baltimore with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "TRAIT RAZOR with Seven Teller, Bonafide Fabian & More" on Fri, 4 Dec 2026.
 
-Metro Baltimore is a music venue in Baltimore listed on soundcheck. 6 upcoming gigs, with line-ups including Soohan. See dates, start times and who's playing.
+Metro Baltimore is a music venue in Baltimore listed on soundcheck. 5 upcoming gigs, with line-ups including Soohan. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | SWEET SPOT: BRITNEY BLACKOUT |  |
 | Fri, 4 Dec 2026 | TRAIT RAZOR with Seven Teller, Bonafide Fabian & More |  |
 | Thu, 10 Dec 2026 | THE PALMER SQUARES |  |
 | Sat, 19 Dec 2026 | DIRTY CHRISTMAS 2026: Hosted by EZE JACKSON |  |

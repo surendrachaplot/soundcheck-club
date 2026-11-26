@@ -1,11 +1,16 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 13 Jan, Berlin. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 13 Jan, Berlin. 2 artists: nixmoon and NYCTO. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Wed, 13 Jan 2027 |
 | Venue | Sensorium |
 | City | Berlin |
+
+## Line-up
+
+- nixmoon
+- NYCTO
 
 *Source: [soundcheck](https://soundcheck.club/e/2581085-techno-mittwoch-at-sensorium/)*

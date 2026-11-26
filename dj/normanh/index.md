@@ -1,14 +1,15 @@
 # Norman H
 
-Norman H is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bardo Speakeasy, Mexico City on Fri, 4 Dec 2026.
+Norman H is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bardo Speakeasy, Mexico City on Fri, 4 Dec 2026.
 
-Norman H is a progressive house and deep house artist, with 4 gigs on soundcheck across London and Mexico City. Often billed alongside Audioglider, Dimaio and Em Boss. Next up: Bardo Speakeasy, Mexico City on Fri 4 Dec.
+Norman H is a progressive house and deep house artist, with 5 gigs on soundcheck across London and Mexico City. Often billed alongside Andy Moya, Audioglider and Dimaio. Next up: Bardo Speakeasy, Mexico City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Bardo Speakeasy | Mexico City |
+| Sat, 5 Dec 2026 | Bardo Speakeasy | Mexico City |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Norman H is a progressive house and deep house artist, with 4 gigs on soundcheck
 
 ## Shares bills with
 
-Audioglider, Dimaio, Em Boss
+Andy Moya, Audioglider, Dimaio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normanh/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normanh/)*

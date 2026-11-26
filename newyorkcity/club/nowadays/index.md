@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ryan Elliott All Night" on Wed, 25 Nov 2026.
+Nowadays is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie" on Fri, 27 Nov 2026.
 
-Nowadays is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Ryan Elliott All Night | Ryan Elliott |
 | Fri, 27 Nov 2026 | Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie | AceMo, Princess Peggie, Swami Sound |
 | Sat, 28 Nov 2026 | livwutang All Night | livwutang |
 | Sat, 28 Nov 2026 | SanDia: Family Affair with Bendito, Jeremy Giros, Kata, Miss Gypsy | /KATA/, Bendito, Jeremy Giros, Miss Gypsy |
@@ -18,6 +17,7 @@ Nowadays is a music venue in New York City listed on soundcheck. 20 upcoming gig
 | Sat, 5 Dec 2026 | Waxed Record Fair | Adam X, Frankie Bones, Private Press, Rose Kourts |
 | Thu, 10 Dec 2026 | Palestine Forever and DJs Against Apartheid present: Thawra ثورة | ARCHANGEL (US), Loris, Myyuh, Nanoos, Omar Ahmad, Relaxer |
 | Fri, 11 Dec 2026 | Antal All Night | Antal |
+| Sat, 12 Dec 2026 | Nonstop: Avalon Emerson, Darwin, gyrofield, MZ3, Priori, Tiga, x3butterfly | Avalon Emerson, Darwin, Mz3 (1), Priori, Tiga, gyrofield, x3butterfly |
 
 ## Address
 

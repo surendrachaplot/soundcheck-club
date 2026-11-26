@@ -1,14 +1,13 @@
 # ebgiii
 
-ebgiii is a Techno and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Neon Clown Dream Lounge, Philadelphia on Wed, 25 Nov 2026.
+ebgiii is a Techno and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bastet, Philadelphia on Sat, 12 Dec 2026.
 
-ebgiii is a techno and post-punk artist based in United States of America, with 7 gigs on soundcheck across Philadelphia. Often billed alongside G I N A, Gravers Lane and Mike Textbeak. Next up: Neon Clown Dream Lounge, Philadelphia on Wed 25 Nov.
+ebgiii is a techno and post-punk artist based in United States of America, with 7 gigs on soundcheck across Philadelphia. Often billed alongside G I N A, Gravers Lane and Mike Textbeak. Next up: Bastet, Philadelphia on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Neon Clown Dream Lounge | Philadelphia |
 | Sat, 12 Dec 2026 | Bastet | Philadelphia |
 | Thu, 31 Dec 2026 | Neon Clown Dream Lounge | Philadelphia |
 

@@ -1,14 +1,15 @@
 # Andreas Eckhardt
 
-Andreas Eckhardt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
+Andreas Eckhardt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
 
-Andreas Eckhardt is a techno and house artist based in Germany, with 10 gigs on soundcheck across Leipzig. Often billed alongside Thomas Heinrich, BIGALKE and Oliver Rosemann. Next up: Distillery, Leipzig on Sat 28 Nov.
+Andreas Eckhardt is a techno and house artist based in Germany, with 11 gigs on soundcheck across Leipzig. Often billed alongside Thomas Heinrich, BIGALKE and Carotin. Next up: Distillery, Leipzig on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Distillery | Leipzig |
+| Sat, 9 Jan 2027 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Andreas Eckhardt is a techno and house artist based in Germany, with 10 gigs on 
 
 ## Shares bills with
 
-Thomas Heinrich, BIGALKE, Oliver Rosemann
+Thomas Heinrich, BIGALKE, Carotin
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaseckhardt/)*

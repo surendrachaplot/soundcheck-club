@@ -1,13 +1,14 @@
 # Mas Que Nada Brothers
 
-Mas Que Nada Brothers is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
+Mas Que Nada Brothers is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at UNLOCKED, London on Sat, 28 Nov 2026.
 
-Mas Que Nada Brothers is a house and disco artist based in United Kingdom, with 109 gigs on soundcheck across Brighton, Bristol, Ibiza and London and 2 more. Often billed alongside Tommy Tickle, Hywel Gregory and Fredd Mann. Next up: Oslo Hackney, London on Sat 12 Dec.
+Mas Que Nada Brothers is a house and disco artist based in United Kingdom, with 110 gigs on soundcheck across Brighton, Bristol, Ibiza and London and 2 more. Often billed alongside Tommy Tickle, Hywel Gregory and Fredd Mann. Next up: UNLOCKED, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | UNLOCKED | London |
 | Sat, 12 Dec 2026 | Oslo Hackney | London |
 | Sat, 19 Dec 2026 | Jargo | London |
 

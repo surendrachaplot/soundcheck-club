@@ -1,14 +1,13 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kyo KL, Kuala Lumpur on Thu, 26 Nov 2026.
+Joseph Capriati is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zumana Bali, Bali on Fri, 27 Nov 2026.
 
-Joseph Capriati is a techno and house artist based in Italy, with 247 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Jamie Jones, Indira Paganotto and Seth Troxler. Next up: Kyo KL, Kuala Lumpur on Thu 26 Nov.
+Joseph Capriati is a techno and house artist based in Italy, with 248 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Zumana Bali, Bali on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Kyo KL | Kuala Lumpur |
 | Fri, 27 Nov 2026 | Zumana Bali | Bali |
 | Sun, 29 Nov 2026 | Savaya Bali | Bali |
 | Sat, 12 Dec 2026 | Plaza Mayor Medellin | Medellin |
@@ -16,6 +15,7 @@ Joseph Capriati is a techno and house artist based in Italy, with 247 gigs on so
 | Mon, 28 Dec 2026 | fabric | London |
 | Fri, 1 Jan 2027 | Fitz Club | Madrid |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
+| Sun, 21 Feb 2027 | Sugarfactory | Amsterdam |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
@@ -31,6 +31,6 @@ Joseph Capriati is a techno and house artist based in Italy, with 247 gigs on so
 
 ## Shares bills with
 
-Jamie Jones, Indira Paganotto, Seth Troxler
+Jamie Jones, Indira Paganotto, Dennis Cruz
 
 *Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

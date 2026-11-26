@@ -1,14 +1,13 @@
 # Midline
 
-Midline is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "INNA MIAMI" on Wed, 25 Nov 2026.
+Midline is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WonkyWilla MIAMI" on Sat, 28 Nov 2026.
 
-Midline is a music venue in Miami listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
+Midline is a music venue in Miami listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | INNA MIAMI |  |
 | Sat, 28 Nov 2026 | WonkyWilla MIAMI |  |
 | Fri, 11 Dec 2026 | NOREH MIAMI |  |
 

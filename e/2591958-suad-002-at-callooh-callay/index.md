@@ -1,6 +1,6 @@
 # SUAD 002 at Callooh Callay
 
-SUAD 002 at Callooh Callay on Sat 12 Dec, London. 1 artist: BUKKA. Progressive House and Techno. See the line-up on soundcheck.
+SUAD 002 at Callooh Callay on Sat 12 Dec, London. 1 artist: Alex Serer. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ SUAD 002 at Callooh Callay on Sat 12 Dec, London. 1 artist: BUKKA. Progressive H
 
 ## Line-up
 
-- BUKKA
+- Alex Serer
 
 *Source: [soundcheck](https://soundcheck.club/e/2591958-suad-002-at-callooh-callay/)*

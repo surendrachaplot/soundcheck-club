@@ -1,13 +1,14 @@
 # SIKOTI
 
-SIKOTI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
+SIKOTI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Melbourne Pavilion, Melbourne on Thu, 31 Dec 2026.
 
-SIKOTI is a techno and trance artist based in United Kingdom, with 141 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 42 more. Often billed alongside Alex Farell, Azyr and Faster Horses. Next up: Hidden, Manchester on Fri 1 Jan.
+SIKOTI is a techno and trance artist based in United Kingdom, with 142 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 42 more. Often billed alongside Alex Farell, Azyr and Faster Horses. Next up: Melbourne Pavilion, Melbourne on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Melbourne Pavilion | Melbourne |
 | Fri, 1 Jan 2027 | Hidden | Manchester |
 
 ## Recently played
