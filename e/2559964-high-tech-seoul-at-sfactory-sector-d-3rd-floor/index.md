@@ -1,6 +1,6 @@
 # HIGH-TECH SEOUL at Sfactory Sector D, 3rd Floor
 
-HIGH-TECH SEOUL at Sfactory Sector D, 3rd Floor on Sat 5 Dec, Seoul. 3 artists: Magico., NUSNOOM and Rene Wise. Techno. See the line-up on soundcheck.
+HIGH-TECH SEOUL at Sfactory Sector D, 3rd Floor on Sat 5 Dec, Seoul. 2 artists: NUSNOOM and Rene Wise. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ HIGH-TECH SEOUL at Sfactory Sector D, 3rd Floor on Sat 5 Dec, Seoul. 3 artists: 
 
 ## Line-up
 
-- Magico.
 - NUSNOOM
 - Rene Wise
 

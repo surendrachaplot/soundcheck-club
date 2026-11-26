@@ -1,0 +1,28 @@
+# Andy Mac
+
+Andy Mac is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Strange Brew, Bristol on Sat, 5 Dec 2026.
+
+Andy Mac is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across Brighton, Bristol, Cork and Liverpool and 1 more. Often billed alongside Jay L, Armand Van Helden and Ben Santiago. Next up: Strange Brew, Bristol on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Strange Brew | Bristol |
+
+## Recently played
+
+- Gbar, Liverpool · Sat, 26 Sept 2026
+- Strange Brew, Bristol · Fri, 21 Aug 2026
+- Strange Brew, Bristol · Fri, 15 May 2026
+- Goleen Harbour, Cork · Fri, 21 Nov 2025
+- Patterns, Brighton · Sat, 9 Aug 2025
+- Sefton Park, Liverpool · Sat, 13 Jul 2024
+- Gbar, Liverpool · Mon, 6 May 2024
+- Block, Brighton · Fri, 22 Dec 2023
+
+## Shares bills with
+
+Jay L, Armand Van Helden, Ben Santiago
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymac/)*

@@ -1,6 +1,6 @@
 # Maissouille
 
-Maissouille is a Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Parc des Expositions du Pays de Lorient, West on Sat, 12 Dec 2026.
+Maissouille is a Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Parc des Expositions du Pays de Lorient, West on Sat, 12 Dec 2026.
 
 Maissouille is a hardcore artist based in France, with 2 gigs on soundcheck across Berlin and West. Often billed alongside Alliezz, DJ Henk and DJ Steuerhinterziehung. Next up: Parc des Expositions du Pays de Lorient, West on Sat 12 Dec.
 
@@ -15,4 +15,4 @@ Maissouille is a hardcore artist based in France, with 2 gigs on soundcheck acro
 
 Alliezz, DJ Henk, DJ Steuerhinterziehung
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maissouille/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maissouille/)*

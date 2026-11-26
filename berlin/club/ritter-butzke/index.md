@@ -1,8 +1,8 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Soupherb vs psYsq" on Fri, 27 Nov 2026.
+Ritter Butzke is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Soupherb vs psYsq" on Fri, 27 Nov 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alex Wann and Alle Farben and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alex Wann and Alle Farben and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 20 upcoming gigs,
 | Sat, 5 Dec 2026 | Michael Canitrot | Michael Canitrot, NDNA, Prismode, Vlad Yaki |
 | Sat, 5 Dec 2026 | Don Diablo | Annie O, Don Diablo, LOVRA |
 | Fri, 11 Dec 2026 | Eskalation with Die Gebrüder Brett, KaaCee KomaCasper, Justin Prince, SAGEZZA | Justin Prince |
+| Fri, 11 Dec 2026 | MUKKIMIAU & Max Joni | MUKKIMIAU, Max Joni |
 | Fri, 18 Dec 2026 | Deborah De Luca | Deborah De Luca, Gunnar Stiller, Mattia Saviolo, Rad.Lez, Sin:port, Tommahawk |
-| Fri, 25 Dec 2026 | House of GIVING #2 - Charity & Donation Dance Night Event | Alle Farben |
 
 ## Address
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

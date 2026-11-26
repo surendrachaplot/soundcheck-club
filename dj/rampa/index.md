@@ -1,6 +1,6 @@
 # Rampa
 
-Rampa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Rampa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Rampa is a house and techno artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside &ME, Adam Port and Seth Troxler. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -27,4 +27,4 @@ Rampa is a house and techno artist based in Germany, with 98 gigs on soundcheck 
 
 &ME, Adam Port, Seth Troxler
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*

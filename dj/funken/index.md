@@ -1,14 +1,14 @@
 # Funken
 
-Funken is a Downtempo and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Berlin on Fri, 27 Nov 2026.
+Funken is a Downtempo and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Atemporal, Berlin on Fri, 27 Nov 2026.
 
-Funken is a downtempo and dub artist, with 34 gigs on soundcheck across Berlin. Often billed alongside Al_Massimo, Overthink 71 and Paoler. Next up: TBA, Berlin on Fri 27 Nov.
+Funken is a downtempo and dub artist, with 34 gigs on soundcheck across Berlin. Often billed alongside Al_Massimo, Overthink 71 and Paoler. Next up: Atemporal, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA | Berlin |
+| Fri, 27 Nov 2026 | Atemporal | Berlin |
 | Sat, 12 Dec 2026 | TBA | Berlin |
 
 ## Recently played
@@ -26,4 +26,4 @@ Funken is a downtempo and dub artist, with 34 gigs on soundcheck across Berlin. 
 
 Al_Massimo, Overthink 71, Paoler
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*

@@ -1,6 +1,6 @@
 # Maribell
 
-Maribell is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 26 Nov 2026.
+Maribell is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 26 Nov 2026.
 
 Maribell is an electronic artist based in Portugal, with 45 gigs on soundcheck across Lisbon. Often billed alongside S4DO, xavbeatz and Bieu. Next up: Lux Fragil, Lisbon on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Maribell is an electronic artist based in Portugal, with 45 gigs on soundcheck a
 
 S4DO, xavbeatz, Bieu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maribell/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maribell/)*

@@ -1,17 +1,18 @@
 # kayBe (UK)
 
-kayBe (UK) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at ://about blank, Berlin on Sun, 15 Nov 2026.
+kayBe (UK) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 12 Dec 2026.
 
-kayBe (UK) is a house and downtempo artist based in Australia, with 18 gigs on soundcheck across Amsterdam, Berlin, London and Stockholm. Often billed alongside Flawd, BDC (Aus) and Fabïan. Next up: ://about blank, Berlin on Sun 15 Nov.
+kayBe (UK) is a house and electronica artist based in Australia, with 19 gigs on soundcheck across Amsterdam, Berlin, London and Stockholm. Often billed alongside Flawd, BDC (Aus) and Fabïan. Next up: Klunkerkranich, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | ://about blank | Berlin |
+| Sat, 12 Dec 2026 | Klunkerkranich | Berlin |
 
 ## Recently played
 
+- ://about blank, Berlin · Sun, 15 Nov 2026
 - TBA, Amsterdam · Fri, 23 Oct 2026
 - Klunkerkranich, Berlin · Thu, 24 Sept 2026
 - Klunkerkranich, Berlin · Fri, 10 Jul 2026
@@ -19,10 +20,9 @@ kayBe (UK) is a house and downtempo artist based in Australia, with 18 gigs on s
 - Klunkerkranich, Berlin · Fri, 22 Aug 2025
 - NUMBER 90 LONDON, London · Sat, 31 May 2025
 - Gaffe, London · Sat, 12 Apr 2025
-- Folklore, London · Sat, 9 Nov 2024
 
 ## Shares bills with
 
 Flawd, BDC (Aus), Fabïan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaybeuk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaybeuk/)*

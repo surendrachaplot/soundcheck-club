@@ -1,6 +1,6 @@
 # Avi Sic
 
-Avi Sic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Theme House, Chicago on Fri, 27 Nov 2026.
+Avi Sic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Theme House, Chicago on Fri, 27 Nov 2026.
 
 Avi Sic is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Chicago. Often billed alongside AMARI, Alex Kislov and Amit. Next up: Theme House, Chicago on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Avi Sic is a house and techno artist based in United States of America, with 6 g
 
 AMARI, Alex Kislov, Amit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avisic/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avisic/)*

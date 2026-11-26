@@ -1,14 +1,15 @@
 # Flow
 
-Flow is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at La Fábrica de Hielo, Valencia on Fri, 27 Nov 2026.
+Flow is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Fábrica de Hielo, Valencia on Fri, 27 Nov 2026.
 
-Flow is a house and techno artist based in Netherlands, with 22 gigs on soundcheck across Berlin, Melbourne, Osaka and Valencia. Often billed alongside Flowing, Ingy and Robert Estrela. Next up: La Fábrica de Hielo, Valencia on Fri 27 Nov.
+Flow is a house and techno artist based in Netherlands, with 23 gigs on soundcheck across Berlin, Melbourne, Osaka and Valencia. Often billed alongside Flowing, Ingy and Robert Estrela. Next up: La Fábrica de Hielo, Valencia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | La Fábrica de Hielo | Valencia |
+| Sat, 12 Dec 2026 | Madre | Valencia |
 | Fri, 29 Jan 2027 | La Fábrica de Hielo | Valencia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Flow is a house and techno artist based in Netherlands, with 22 gigs on soundche
 
 Flowing, Ingy, Robert Estrela
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*

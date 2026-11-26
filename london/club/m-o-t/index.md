@@ -1,14 +1,13 @@
 # M.O.T
 
-M.O.T is a music venue in London with 31 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "PARADE Catchphrase Mixtape Release Parties" on Wed, 25 Nov 2026.
+M.O.T is a music venue in London with 30 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "GSHC M.O.T Takeover" on Thu, 26 Nov 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including A.N.T, alterum, Bill Brewster and Blood of Aza and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including A.N.T, alterum, Benko and Bill Brewster and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | PARADE Catchphrase Mixtape Release Parties |  |
 | Thu, 26 Nov 2026 | GSHC M.O.T Takeover |  |
 | Thu, 26 Nov 2026 | No.006 [UK debut] w/ Tailtiu, 10212&bod [包家巷], Funny Games, jolae   | Tailtiu, bod [包家巷], jolae |
 | Fri, 27 Nov 2026 | Oneman b2b Plastician [All Night Long] | Oneman, Plastician |
@@ -18,9 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 31 upcoming gigs, with li
 | Sat, 28 Nov 2026 | Moving Parts: Tim Reaper, El-B, Jossy Mitsu + more | El-B, Jossy Mitsu, Marleigh, Nora (UK), Riel, Tibor, Tim Reaper |
 | Sun, 29 Nov 2026 | Príncipe Day Party: DJ Lycox, DJ Marfox, Nídia | DJ Lycox, DJ Marfox, Nídia |
 | Wed, 2 Dec 2026 | UNKNOWN GOOD FEST: Eistir / Josephine Illingworth / Ropeburn + more |  |
+| Thu, 3 Dec 2026 | Techno In LONDON - OPEN DECKS & SOCIAL | Sophia Nicole |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

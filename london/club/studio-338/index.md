@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "F*CK ME IT'S CHRISTMAS" on Fri, 4 Dec 2026.
+Studio 338 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "F*CK ME IT'S CHRISTMAS" on Fri, 4 Dec 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Beezo, Casey Spillman, DJ S (UK) and Jack n Danny and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -18,4 +18,4 @@ Studio 338 is a music venue in London listed on soundcheck. 5 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

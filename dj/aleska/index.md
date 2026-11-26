@@ -1,13 +1,14 @@
 # Aleska
 
-Aleska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jupiter Disco, New York City on Wed, 9 Dec 2026.
+Aleska is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Newtown Radio, New York City on Fri, 4 Dec 2026.
 
-Aleska is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Austin, Berlin, Madrid and New York City. Often billed alongside Sam Valle, elle xxo and Remniqe. Next up: Jupiter Disco, New York City on Wed 9 Dec.
+Aleska is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Austin, Berlin, Madrid and New York City. Often billed alongside Sam Valle, elle xxo and Remniqe. Next up: Newtown Radio, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Newtown Radio | New York City |
 | Wed, 9 Dec 2026 | Jupiter Disco | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aleska is a techno and house artist based in United States of America, with 24 g
 
 Sam Valle, elle xxo, Remniqe
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*

@@ -1,6 +1,6 @@
 # James Hometown
 
-James Hometown is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Art School, Glasgow on Fri, 27 Nov 2026.
+James Hometown is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Art School, Glasgow on Fri, 27 Nov 2026.
 
 James Hometown is a bass and dub artist based in United Kingdom, with 57 gigs on soundcheck across Dublin, Edinburgh and Glasgow. Often billed alongside Hometown Sound, izit? and T-O-D. Next up: The Art School, Glasgow on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ James Hometown is a bass and dub artist based in United Kingdom, with 57 gigs on
 
 Hometown Sound, izit?, T-O-D
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshometown/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshometown/)*

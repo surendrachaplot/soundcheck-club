@@ -1,6 +1,6 @@
 # Stella K
 
-Stella K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at essaim, Paris on Sat, 30 Jan 2027.
+Stella K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at essaim, Paris on Sat, 30 Jan 2027.
 
 Stella K is a techno and house artist based in France, with 38 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 4 more. Often billed alongside NMSS, Vera Moro and Golce. Next up: essaim, Paris on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Stella K is a techno and house artist based in France, with 38 gigs on soundchec
 
 NMSS, Vera Moro, Golce
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*

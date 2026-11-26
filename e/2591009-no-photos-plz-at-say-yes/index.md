@@ -1,6 +1,6 @@
 # NO PHOTOS PLZ at Say Yes
 
-NO PHOTOS PLZ at Say Yes on Sat 28 Nov, Los Angeles. 3 artists: BODII, nish. and Shaun Ross. House and Afro House. See the line-up on soundcheck.
+NO PHOTOS PLZ at Say Yes on Sat 28 Nov, Los Angeles. 5 artists: Alxander Ivey, BODII, Mr. Fowler and nish. and 1 more. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ NO PHOTOS PLZ at Say Yes on Sat 28 Nov, Los Angeles. 3 artists: BODII, nish. and
 
 ## Line-up
 
+- Alxander Ivey
 - BODII
+- Mr. Fowler
 - nish.
 - Shaun Ross
 

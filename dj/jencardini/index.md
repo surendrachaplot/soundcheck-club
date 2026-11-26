@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 27 Nov 2026.
+Jen Cardini is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 27 Nov 2026.
 
 Jen Cardini is a techno and house artist based in France, with 296 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Société des arts technologiques, Montreal on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Jen Cardini is a techno and house artist based in France, with 296 gigs on sound
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

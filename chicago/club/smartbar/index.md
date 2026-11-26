@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Things That Go Bump In The Night with Derrick Carter" on Wed, 25 Nov 2026.
+smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Things That Go Bump In The Night with Derrick Carter" on Wed, 25 Nov 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, with line-ups including ali rq, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

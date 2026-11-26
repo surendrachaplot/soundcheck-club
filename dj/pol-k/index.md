@@ -1,6 +1,6 @@
 # Pol K
 
-Pol K is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Macarena Club, Barcelona on Fri, 25 Dec 2026.
+Pol K is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Fri, 25 Dec 2026.
 
 Pol K is a house and deep house artist based in Spain, with 58 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Carlos Vila, Nuzzo and Hugo Martinez. Next up: Macarena Club, Barcelona on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Pol K is a house and deep house artist based in Spain, with 58 gigs on soundchec
 
 Carlos Vila, Nuzzo, Hugo Martinez
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*

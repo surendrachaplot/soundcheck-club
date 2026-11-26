@@ -1,6 +1,6 @@
 # Mameron
 
-Mameron is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Teranoma Tidepool, Osaka on Sat, 28 Nov 2026.
+Mameron is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Teranoma Tidepool, Osaka on Sat, 28 Nov 2026.
 
 Mameron is a dubstep and drum & bass artist based in Japan, with 3 gigs on soundcheck across Osaka. Often billed alongside LEiCA and DJ GEKI. Next up: Teranoma Tidepool, Osaka on Sat 28 Nov.
 
@@ -16,4 +16,4 @@ Mameron is a dubstep and drum & bass artist based in Japan, with 3 gigs on sound
 
 LEiCA, DJ GEKI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mameron/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mameron/)*

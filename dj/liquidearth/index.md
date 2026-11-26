@@ -1,8 +1,8 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - New Location, Los Angeles on Fri, 27 Nov 2026.
+Liquid Earth is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - New Location, Los Angeles on Fri, 27 Nov 2026.
 
-Liquid Earth is a house and techno artist based in United States of America, with 213 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: TBA - New Location, Los Angeles on Fri 27 Nov.
+Liquid Earth is a house and techno artist based in United States of America, with 214 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 65 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: TBA - New Location, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Liquid Earth is a house and techno artist based in United States of America, wit
 | Sat, 5 Dec 2026 | TBA - SECRET LOCATION | Seattle |
 | Thu, 31 Dec 2026 | Signal | New York City |
 | Sat, 16 Jan 2027 | Cadavra | Madrid |
+| Sat, 30 Jan 2027 | Sanctuary at Helen Mayo Park | Adelaide |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -30,4 +31,4 @@ Liquid Earth is a house and techno artist based in United States of America, wit
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

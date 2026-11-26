@@ -1,6 +1,6 @@
 # Excalibur
 
-Excalibur is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+Excalibur is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
 Excalibur is a techno and experimental artist based in Canada, with 13 gigs on soundcheck across Montreal, New York City, Toronto and Vancouver. Often billed alongside DJ Frog, DJ Spence and musa. Next up: Stereo, Montreal on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Excalibur is a techno and experimental artist based in Canada, with 13 gigs on s
 
 DJ Frog, DJ Spence, musa
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excalibur/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excalibur/)*

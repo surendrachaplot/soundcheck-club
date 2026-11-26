@@ -1,6 +1,6 @@
 # Kyle Russouw
 
-Kyle Russouw is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
+Kyle Russouw is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
 
 Kyle Russouw is a techno and house artist based in South Africa, with 33 gigs on soundcheck across Berlin, Cape Town and Munich. Often billed alongside Deano, Hypoestes and Irshaad Samaai. Next up: TBA - HARRINGTON STREET, CBD, Cape Town on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kyle Russouw is a techno and house artist based in South Africa, with 33 gigs on
 
 Deano, Hypoestes, Irshaad Samaai
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylerussouw/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylerussouw/)*

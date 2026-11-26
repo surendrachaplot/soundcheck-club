@@ -1,6 +1,6 @@
 # Chichöl
 
-Chichöl is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Macarena Club, Barcelona on Mon, 14 Dec 2026.
+Chichöl is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Mon, 14 Dec 2026.
 
 Chichöl is a house and electronica artist based in Spain, with 31 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Mhauro, Misla and Angel Mellado. Next up: Macarena Club, Barcelona on Mon 14 Dec.
 
@@ -25,4 +25,4 @@ Chichöl is a house and electronica artist based in Spain, with 31 gigs on sound
 
 Mhauro, Misla, Angel Mellado
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chichol/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chichol/)*

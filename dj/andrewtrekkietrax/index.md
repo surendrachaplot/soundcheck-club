@@ -1,13 +1,14 @@
 # Andrew (TREKKIE TRAX)
 
-Andrew (TREKKIE TRAX) is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
+Andrew (TREKKIE TRAX) is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 4 Dec 2026.
 
-Andrew (TREKKIE TRAX) is a bass and house artist based in Japan, with 70 gigs on soundcheck across Kyoto, Los Angeles, San Francisco/Oakland and Tokyo. Often billed alongside Carpainter, Seimei and Nakamura Minami. Next up: club asia, Tokyo on Sun 27 Dec.
+Andrew (TREKKIE TRAX) is a bass and house artist based in Japan, with 71 gigs on soundcheck across Kyoto, Los Angeles, San Francisco/Oakland and Tokyo. Often billed alongside Carpainter, Seimei and Nakamura Minami. Next up: Circus Tokyo, Tokyo on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Circus Tokyo | Tokyo |
 | Sun, 27 Dec 2026 | club asia | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Andrew (TREKKIE TRAX) is a bass and house artist based in Japan, with 70 gigs on
 
 Carpainter, Seimei, Nakamura Minami
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtrekkietrax/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtrekkietrax/)*

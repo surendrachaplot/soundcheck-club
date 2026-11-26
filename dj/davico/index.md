@@ -1,6 +1,6 @@
 # Davico
 
-Davico is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Sat, 28 Nov 2026.
+Davico is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Sat, 28 Nov 2026.
 
 Davico is a tech house and house artist based in South Korea, with 94 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Departs, Demuk and Sudowoo. Next up: TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Davico is a tech house and house artist based in South Korea, with 94 gigs on so
 
 Departs, Demuk, Sudowoo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davico/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davico/)*

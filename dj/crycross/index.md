@@ -1,6 +1,6 @@
 # cry$cross
 
-cry$cross is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 314 Scholes, New York City on Fri, 11 Dec 2026.
+cry$cross is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 314 Scholes, New York City on Fri, 11 Dec 2026.
 
 cry$cross is a house and techno artist based in United States of America, with 79 gigs on soundcheck across Los Angeles, New York City and Philadelphia. Often billed alongside Swaya, BOJAQ and Kweku Saunderson. Next up: 314 Scholes, New York City on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ cry$cross is a house and techno artist based in United States of America, with 7
 
 Swaya, BOJAQ, Kweku Saunderson
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*

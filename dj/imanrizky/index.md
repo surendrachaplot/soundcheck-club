@@ -1,6 +1,6 @@
 # Iman Rizky
 
-Iman Rizky is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
+Iman Rizky is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
 
 Iman Rizky is a deep house and house artist based in United States of America, with 33 gigs on soundcheck across Miami, New York City and San Diego. Often billed alongside Gavin Stephenson, Drew Proud and J. Richards. Next up: Crossroads Cafe, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Iman Rizky is a deep house and house artist based in United States of America, w
 
 Gavin Stephenson, Drew Proud, J. Richards
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanrizky/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanrizky/)*

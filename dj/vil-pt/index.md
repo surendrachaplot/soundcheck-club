@@ -1,6 +1,6 @@
 # VIL (PT)
 
-VIL (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Open Ground, Wuppertal on Sat, 19 Dec 2026.
+VIL (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Open Ground, Wuppertal on Sat, 19 Dec 2026.
 
 VIL (PT) is a techno and house artist based in Portugal, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 35 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: Open Ground, Wuppertal on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ VIL (PT) is a techno and house artist based in Portugal, with 128 gigs on soundc
 
 CRAVO, Temudo, Nørbak
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*

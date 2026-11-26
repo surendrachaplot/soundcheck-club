@@ -1,14 +1,14 @@
 # Isoz
 
-Isoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 18 Nov 2026.
+Isoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hertz, Seoul on Fri, 4 Dec 2026.
 
-Isoz is a techno and house artist based in South Korea, with 41 gigs on soundcheck across Seoul. Often billed alongside J.U.N.E, aso and Shinyoung. Next up: Graphic Hangang, Seoul on Wed 18 Nov.
+Isoz is a techno and house artist based in South Korea, with 42 gigs on soundcheck across Seoul. Often billed alongside J.U.N.E, aso and Shinyoung. Next up: Hertz, Seoul on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 18 Nov 2026 | Graphic Hangang | Seoul |
+| Fri, 4 Dec 2026 | Hertz | Seoul |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Isoz is a techno and house artist based in South Korea, with 41 gigs on soundche
 
 J.U.N.E, aso (1), Shinyoung
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isoz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isoz/)*

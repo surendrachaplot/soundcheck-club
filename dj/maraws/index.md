@@ -1,6 +1,6 @@
 # MARAws
 
-MARAws is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Westbahnstudios, Vienna on Thu, 26 Nov 2026.
+MARAws is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Westbahnstudios, Vienna on Thu, 26 Nov 2026.
 
 MARAws is a techno and club artist based in Austria, with 19 gigs on soundcheck across London and Vienna. Often billed alongside Inou Ki Endo, DJ DIAMOND and Ku-Ro. Next up: Westbahnstudios, Vienna on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ MARAws is a techno and club artist based in Austria, with 19 gigs on soundcheck 
 
 Inou Ki Endo, DJ DIAMOND (2), Ku-Ro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maraws/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maraws/)*

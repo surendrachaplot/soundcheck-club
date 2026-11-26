@@ -1,13 +1,14 @@
 # Jo Christy
 
-Jo Christy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Moyston, Melbourne on Fri, 5 Mar 2027.
+Jo Christy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Glamorama, Melbourne on Sat, 28 Nov 2026.
 
-Jo Christy is a house and techno artist based in Australia, with 42 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Jesse DM, Simonetti and Slumdog. Next up: Moyston, Melbourne on Fri 5 Mar.
+Jo Christy is a house and techno artist based in Australia, with 43 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Jesse DM, Simonetti and Slumdog. Next up: Glamorama, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Glamorama | Melbourne |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jo Christy is a house and techno artist based in Australia, with 42 gigs on soun
 
 Jesse DM, Simonetti, Slumdog
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*

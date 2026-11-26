@@ -1,6 +1,6 @@
 # Sophia Constantinou
 
-Sophia Constantinou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Phonox, London on Thu, 26 Nov 2026.
+Sophia Constantinou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Phonox, London on Thu, 26 Nov 2026.
 
 Sophia Constantinou is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across Glasgow and London. Often billed alongside DJelley, S.U.R.E. and tasha.mp4. Next up: Phonox, London on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Sophia Constantinou is a techno and house artist based in United Kingdom, with 9
 
 DJelley, S.U.R.E., tasha.mp4
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*

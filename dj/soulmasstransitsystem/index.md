@@ -1,6 +1,6 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Cardiff Students' Union - The Great Hall, Cardiff on Sat, 28 Nov 2026.
+Soul Mass Transit System is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Cardiff Students' Union - The Great Hall, Cardiff on Sat, 28 Nov 2026.
 
 Soul Mass Transit System is a garage and house artist based in United Kingdom, with 167 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Faster Horses. Next up: Cardiff Students' Union - The Great Hall, Cardiff on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 Silva Bumpa, Dr Dubplate, Faster Horses
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

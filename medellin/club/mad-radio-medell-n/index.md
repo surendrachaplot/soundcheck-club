@@ -1,6 +1,6 @@
 # Mad Radio Medellín
 
-Mad Radio Medellín is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "SONIDO FABRICATO: AUDIOMASÓN / JACKIN I'M! / LALA" on Wed, 25 Nov 2026.
+Mad Radio Medellín is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SONIDO FABRICATO: AUDIOMASÓN / JACKIN I'M! / LALA" on Wed, 25 Nov 2026.
 
 Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 4 upcoming gigs, with line-ups including JACKIN' I'M!, LYA FRANK, macarena.rec and Skull and 1 more. See dates, start times and who's playing. Calle 8a # 33 - 40 Medellín.
 
@@ -17,4 +17,4 @@ Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 4 upcomin
 
 Calle 8a # 33 - 40 Medellín, Medellin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*

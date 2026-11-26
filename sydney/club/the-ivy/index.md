@@ -1,6 +1,6 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "All Day I Dream of Sydney" on Sat, 28 Nov 2026.
+The Ivy is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "All Day I Dream of Sydney" on Sat, 28 Nov 2026.
 
 The Ivy is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including Anetha, Bari, Benwal and Casual P and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
@@ -20,4 +20,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with l
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

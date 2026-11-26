@@ -1,8 +1,8 @@
 # Yang Bing
 
-Yang Bing is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
+Yang Bing is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
 
-Yang Bing is a techno and house artist based in China, with 85 gigs on soundcheck across Beijing, Belgrade, Berlin and Chengdu and 3 more. Often billed alongside DJ-BLUE, Jeff Chong and DJ Eric Lee. Next up: Groundless Factory, Beijing on Fri 27 Nov.
+Yang Bing is a techno and house artist based in China, with 86 gigs on soundcheck across Beijing, Belgrade, Berlin and Chengdu and 3 more. Often billed alongside DJ-BLUE, Jeff Chong and DJ Eric Lee. Next up: Groundless Factory, Beijing on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yang Bing is a techno and house artist based in China, with 85 gigs on soundchec
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Groundless Factory | Beijing |
 | Sat, 12 Dec 2026 | Cici Park | Chongqing |
+| Sat, 16 Jan 2027 | OIL Club | Shenzhen |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Yang Bing is a techno and house artist based in China, with 85 gigs on soundchec
 
 DJ-BLUE, Jeff Chong, DJ Eric Lee
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yangbing/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yangbing/)*

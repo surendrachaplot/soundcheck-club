@@ -1,6 +1,6 @@
 # Mya (1)
 
-Mya (1) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 26 Dec 2026.
+Mya (1) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 26 Dec 2026.
 
 Mya is a house and tech house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Ibiza, London and Mallorca and 1 more. Often billed alongside Benji King, Phill de Janeiro and Jude Lenihan. Next up: Starlane Pizza Bar, London on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Mya is a house and tech house artist based in United Kingdom, with 20 gigs on so
 
 Benji King, Phill de Janeiro, Jude Lenihan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*

@@ -1,6 +1,6 @@
 # Davide Dev
 
-Davide Dev is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Marbrerie, Paris on Fri, 4 Dec 2026.
+Davide Dev is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Marbrerie, Paris on Fri, 4 Dec 2026.
 
 Davide Dev is a house and disco artist based in Italy, with 24 gigs on soundcheck across Barcelona, Berlin, Florence and London and 6 more. Often billed alongside Kapote, Barbara Boeing and Sam Ruffillo. Next up: La Marbrerie, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Davide Dev is a house and disco artist based in Italy, with 24 gigs on soundchec
 
 Kapote, Barbara Boeing, Sam Ruffillo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*

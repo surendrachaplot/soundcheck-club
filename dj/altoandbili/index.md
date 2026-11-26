@@ -1,6 +1,6 @@
 # Alto and Bili
 
-Alto and Bili is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rhythm, Toronto on Sat, 12 Dec 2026.
+Alto and Bili is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rhythm, Toronto on Sat, 12 Dec 2026.
 
 Alto and Bili are a disco and italo disco duo, with 24 gigs on soundcheck across Toronto. Often billed alongside Cyclist, Alister Johnson and LeBaron James. Next up: Rhythm, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Alto and Bili are a disco and italo disco duo, with 24 gigs on soundcheck across
 
 Cyclist, Alister Johnson, LeBaron James
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/altoandbili/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/altoandbili/)*

@@ -1,6 +1,6 @@
 # Four Play at KitKatClub
 
-Four Play at KitKatClub on Fri 4 Dec, Berlin. 13 artists: ANNARA, Annie O, Arne Schattenberg and Bandite and 9 more. Techno and House. See the line-up on soundcheck.
+Four Play at KitKatClub on Fri 4 Dec, Berlin. 15 artists: ANNARA, Annie O, Arne Schattenberg and Bandite and 11 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,5 +23,7 @@ Four Play at KitKatClub on Fri 4 Dec, Berlin. 13 artists: ANNARA, Annie O, Arne 
 - Paula Hilton
 - Pilar Jordan
 - Sven Weisemann
+- Tatiana
+- Vakomey
 
 *Source: [soundcheck](https://soundcheck.club/e/2326246-four-play-at-kitkatclub/)*

@@ -1,14 +1,15 @@
 # Motiva
 
-Motiva is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at IT Athens, Athens on Fri, 27 Nov 2026.
+Motiva is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at IT Athens, Athens on Fri, 27 Nov 2026.
 
-Motiva is a techno artist based in Greece, with 4 gigs on soundcheck across Athens. Often billed alongside RAVAR, Adam Des and Cirkle. Next up: IT Athens, Athens on Fri 27 Nov.
+Motiva is a techno artist based in Greece, with 5 gigs on soundcheck across Athens. Often billed alongside RAVAR, Adam Des and Cirkle. Next up: IT Athens, Athens on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | IT Athens | Athens |
+| Thu, 31 Dec 2026 | Universe Athens | Athens |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Motiva is a techno artist based in Greece, with 4 gigs on soundcheck across Athe
 
 RAVAR, Adam Des, Cirkle
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motiva/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motiva/)*

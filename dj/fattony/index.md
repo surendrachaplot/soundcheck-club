@@ -1,6 +1,6 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tramshed, Cardiff on Sat, 19 Dec 2026.
+Fattony is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tramshed, Cardiff on Sat, 19 Dec 2026.
 
 Fattony is a house and tech house artist based in Germany, with 34 gigs on soundcheck across Brighton, Cardiff, Glasgow and Ibiza and 7 more. Often billed alongside Horse Meat Disco, MiNNA and Natasha Diggs. Next up: Tramshed, Cardiff on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Fattony is a house and tech house artist based in Germany, with 34 gigs on sound
 
 Horse Meat Disco, MiNNA, Natasha Diggs
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

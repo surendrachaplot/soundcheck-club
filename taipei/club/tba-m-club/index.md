@@ -1,6 +1,6 @@
 # TBA - M Club
 
-TBA - M Club is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Out & About Vol. 10 (Day)" on Sat, 5 Dec 2026.
+TBA - M Club is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Out & About Vol. 10 (Day)" on Sat, 5 Dec 2026.
 
 TBA - M Club is a music venue in Taipei listed on soundcheck. 1 upcoming gig, with line-ups including DZRT FRST and The Cook, The Thief. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - M Club is a music venue in Taipei listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Out & About Vol. 10 (Day) | DZRT FRST, The Cook, The Thief |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/tba-m-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/tba-m-club/)*

@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Home The Venue, Sydney on Fri, 27 Nov 2026.
+PETERBLUE is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Home The Venue, Sydney on Fri, 27 Nov 2026.
 
 PETERBLUE is a techno and trance artist based in Colombia, with 91 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 41 more. Often billed alongside Noise Mafia, Adrian Mills and fumi (DE). Next up: Home The Venue, Sydney on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ PETERBLUE is a techno and trance artist based in Colombia, with 91 gigs on sound
 
 Noise Mafia, Adrian Mills, fumi (DE)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

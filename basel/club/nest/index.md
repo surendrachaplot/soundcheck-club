@@ -1,6 +1,6 @@
 # Nest
 
-Nest is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Subject To Restrictions Discs pres. Mara Zuli • Tesdorpf • Nive • Dominik André" on Sat, 28 Nov 2026.
+Nest is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Subject To Restrictions Discs pres. Mara Zuli • Tesdorpf • Nive • Dominik André" on Sat, 28 Nov 2026.
 
 Nest is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with line-ups including Dominik André, Hypatia, Mara Zuli and Nive and 1 more. See dates, start times and who's playing. Nachtigallenwäldeli 9, 4051 Basel.
 
@@ -17,4 +17,4 @@ Nest is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with line-
 
 Nachtigallenwäldeli 9, 4051 Basel, Basel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*

@@ -1,6 +1,6 @@
 # Above & Beyond
 
-Above & Beyond is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tides, Hong Kong on Fri, 27 Nov 2026.
+Above & Beyond is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tides, Hong Kong on Fri, 27 Nov 2026.
 
 Above & Beyond are a trance and techno duo based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Austin, Bali and Belfast and 30 more. Often billed alongside Billy Gillies, Charlotte de Witte and Deadmau5. Next up: Tides, Hong Kong on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Above & Beyond are a trance and techno duo based in United Kingdom, with 56 gigs
 
 Billy Gillies, Charlotte de Witte, Deadmau5
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*

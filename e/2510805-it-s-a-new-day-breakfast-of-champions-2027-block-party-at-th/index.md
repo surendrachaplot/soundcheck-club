@@ -1,6 +1,6 @@
 # It's A New DAY + Breakfast Of Champions 2027 Block Party at The Great Northern
 
-It's A New DAY + Breakfast Of Champions 2027 Block Party at The Great Northern on Fri 1 Jan, San Francisco/Oakland. 65 artists: 3kelves, ALEX GOODCAT, Anderson Chase and Anthony Mansfield and 61 more. House and Disco. See the line-up on soundcheck.
+It's A New DAY + Breakfast Of Champions 2027 Block Party at The Great Northern on Fri 1 Jan, San Francisco/Oakland. 67 artists: 3kelves, ALEX GOODCAT, Anderson Chase and Anthony Mansfield and 63 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ It's A New DAY + Breakfast Of Champions 2027 Block Party at The Great Northern o
 - Awesomer
 - BEYA
 - Brunch Life
+- Chloé Robinson
 - Cole Odin
 - Combover
 - David Harness
@@ -63,6 +64,7 @@ It's A New DAY + Breakfast Of Champions 2027 Block Party at The Great Northern o
 - Ploy
 - Priscilla
 - Rooz
+- Sacha Robotti
 - ShOOey
 - Shubostar
 - SkiiTour

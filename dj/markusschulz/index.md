@@ -1,6 +1,6 @@
 # Markus Schulz
 
-Markus Schulz is a Trance and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Concourse Project, Austin on Fri, 18 Dec 2026.
+Markus Schulz is a Trance and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Concourse Project, Austin on Fri, 18 Dec 2026.
 
 Markus Schulz is a trance and house artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Austin, Bangkok and Bogotá and 32 more. Often billed alongside Amy Wiles, Ferry Corsten and Billy Gillies. Next up: The Concourse Project, Austin on Fri 18 Dec.
 
@@ -30,4 +30,4 @@ Markus Schulz is a trance and house artist based in United States of America, wi
 
 Amy Wiles, Ferry Corsten, Billy Gillies
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*

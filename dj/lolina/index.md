@@ -1,6 +1,6 @@
 # Lolina
 
-Lolina is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
+Lolina is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
 
 Lolina is an experimental and electronica artist based in Estonia, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 22 more. Often billed alongside Inga Copeland, John T. Gast and 7038634357. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
 
@@ -28,4 +28,4 @@ Lolina is an experimental and electronica artist based in Estonia, with 46 gigs 
 
 Inga Copeland, John T. Gast, 7038634357
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*

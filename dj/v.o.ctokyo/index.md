@@ -1,6 +1,6 @@
 # v.o.c tokyo
 
-v.o.c tokyo is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Shinjuku Duusraa, Tokyo on Sat, 19 Dec 2026.
+v.o.c tokyo is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Shinjuku Duusraa, Tokyo on Sat, 19 Dec 2026.
 
 v.o.c tokyo is a footwork and ghetto tech artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside Acrocanthosaurus, Oyubi and SPRAYBOX. Next up: Shinjuku Duusraa, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ v.o.c tokyo is a footwork and ghetto tech artist based in Japan, with 11 gigs on
 
 Acrocanthosaurus, Oyubi, SPRAYBOX
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v.o.ctokyo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v.o.ctokyo/)*

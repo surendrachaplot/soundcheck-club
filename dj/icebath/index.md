@@ -1,6 +1,6 @@
 # ICE BATH
 
-ICE BATH is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
+ICE BATH is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Cuauhtémoc, Mexico City on Fri, 27 Nov 2026.
 
 ICE BATH is a club and experimental artist based in Mexico, with 5 gigs on soundcheck across Mexico City. Often billed alongside Lyo XS, fka phaedra and nimrock11. Next up: TBA - Cuauhtémoc, Mexico City on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ ICE BATH is a club and experimental artist based in Mexico, with 5 gigs on sound
 
 Lyo XS, fka phaedra, nimrock11
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icebath/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icebath/)*

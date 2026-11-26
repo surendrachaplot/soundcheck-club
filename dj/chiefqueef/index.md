@@ -1,6 +1,6 @@
 # CHIEF QUEEF
 
-CHIEF QUEEF is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Romantica, Stuttgart on Thu, 26 Nov 2026.
+CHIEF QUEEF is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Romantica, Stuttgart on Thu, 26 Nov 2026.
 
 CHIEF QUEEF is a techno and electro artist based in Germany, with 19 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Karlsruhe and 3 more. Often billed alongside DJ BREXIT, Joy Boy and Sophti. Next up: Romantica, Stuttgart on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ CHIEF QUEEF is a techno and electro artist based in Germany, with 19 gigs on sou
 
 DJ BREXIT, Joy Boy, Sophti
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*

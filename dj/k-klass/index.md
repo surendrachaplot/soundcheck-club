@@ -1,6 +1,6 @@
 # K-Klass
 
-K-Klass is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Andrews Leicester, Midlands on Fri, 27 Nov 2026.
+K-Klass is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Andrews Leicester, Midlands on Fri, 27 Nov 2026.
 
 K-Klass is a house and club artist based in United Kingdom, with 60 gigs on soundcheck across Aberdeen, Birmingham, Bristol and Glasgow and 8 more. Often billed alongside Seb Fontaine, Todd Terry and Graeme Park. Next up: Bar Andrews Leicester, Midlands on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ K-Klass is a house and club artist based in United Kingdom, with 60 gigs on soun
 
 Seb Fontaine, Todd Terry, Graeme Park
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*

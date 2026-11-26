@@ -1,6 +1,6 @@
 # biased
 
-biased is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Dec 2026.
+biased is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Dec 2026.
 
 biased is a bass and techno artist based in Italy, with 26 gigs on soundcheck across Milan, Naples, New York City and Rome. Often billed alongside F L V X X X, Ortensio and Aeery. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ biased is a bass and techno artist based in Italy, with 26 gigs on soundcheck ac
 
 F L V X X X, Ortensio, Aeery
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biasedit/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biasedit/)*

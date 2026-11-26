@@ -1,6 +1,6 @@
 # PUFFIE
 
-PUFFIE is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
+PUFFIE is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
 
 PUFFIE is a house and disco artist based in United States of America, with 22 gigs on soundcheck across Los Angeles, Mexico City, New York City and Orange County and 1 more. Often billed alongside Jonny Sum, Alex Chapman and Hayes Bradley. Next up: Catch One, Los Angeles on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ PUFFIE is a house and disco artist based in United States of America, with 22 gi
 
 ## Recently played
 
+- Catch One, Los Angeles · Wed, 25 Nov 2026
 - Avalon Hollywood, Los Angeles · Thu, 29 Oct 2026
 - The Great Northern, San Francisco/Oakland · Sun, 27 Sept 2026
 - François Ghebaly + Night Gallery, Los Angeles · Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ PUFFIE is a house and disco artist based in United States of America, with 22 gi
 - TBA - Downtown Los Angeles, Los Angeles · Fri, 29 May 2026
 - TBA - Downtown LA, Los Angeles · Fri, 3 Apr 2026
 - Silverlake Lounge, Los Angeles · Sat, 28 Mar 2026
-- Le Bain, New York City · Thu, 19 Mar 2026
 
 ## Shares bills with
 
 Jonny Sum, Alex Chapman, Hayes Bradley
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puffie/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puffie/)*

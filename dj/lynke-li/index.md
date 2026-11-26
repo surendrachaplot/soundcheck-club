@@ -1,6 +1,6 @@
 # Lynke
 
-Lynke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at K2 Comedy Club, Vilnius on Fri, 19 Feb 2027.
+Lynke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at K2 Comedy Club, Vilnius on Fri, 19 Feb 2027.
 
 Lynke is a techno and house artist based in Lithuania, with 19 gigs on soundcheck across Vilnius. Often billed alongside Mirror Slave, DJ Alwayslate and MWT. Next up: K2 Comedy Club, Vilnius on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ Lynke is a techno and house artist based in Lithuania, with 19 gigs on soundchec
 
 Mirror Slave, DJ Alwayslate, MWT
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynke-li/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynke-li/)*

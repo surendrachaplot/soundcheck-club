@@ -1,6 +1,6 @@
 # MARINI
 
-MARINI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dufte im Kant-Garagenpalast, Berlin on Sat, 28 Nov 2026.
+MARINI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dufte im Kant-Garagenpalast, Berlin on Sat, 28 Nov 2026.
 
 MARINI is a house and disco artist based in Ireland, with 30 gigs on soundcheck across Amsterdam, Berlin, Dublin and London. Often billed alongside Ricky Chong, Aisling and Bevan. Next up: Dufte im Kant-Garagenpalast, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MARINI is a house and disco artist based in Ireland, with 30 gigs on soundcheck 
 
 Ricky Chong, Aisling, Bevan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marini/)*

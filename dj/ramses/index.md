@@ -1,13 +1,14 @@
 # Ramses
 
-Ramses is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Ramses is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Unter Deck, Munich on Thu, 26 Nov 2026.
 
-Ramses is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Munich, New York City and Thailand. Often billed alongside Chocolate Chaos, Love Higher and bossy boots. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Ramses is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Munich, New York City and Thailand. Often billed alongside Chocolate Chaos, Cosimoto and Love Higher. Next up: Unter Deck, Munich on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Unter Deck | Munich |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ramses is a techno and house artist based in United States of America, with 23 g
 
 ## Shares bills with
 
-Chocolate Chaos, Love Higher, bossy boots
+Chocolate Chaos, Cosimoto, Love Higher
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramses/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramses/)*

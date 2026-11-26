@@ -1,6 +1,6 @@
 # Felixculpah
 
-Felixculpah is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Fri, 4 Dec 2026.
+Felixculpah is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Fri, 4 Dec 2026.
 
 Felixculpah is a dubstep and dub artist based in United Kingdom, with 38 gigs on soundcheck across Antwerp, Barcelona, Bucharest and Leeds and 5 more. Often billed alongside Breakfake, SGT Pokes and Kahn. Next up: fabric, London on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Felixculpah is a dubstep and dub artist based in United Kingdom, with 38 gigs on
 
 Breakfake, SGT Pokes, Kahn
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*

@@ -1,6 +1,6 @@
 # Dharma
 
-Dharma is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
+Dharma is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
 
 Dharma is a techno and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Bogotá, Denver, London and Mexico City. Often billed alongside Bedriñana, La Ramona and Owldisco. Next up: TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dharma is a techno and electronica artist based in United Kingdom, with 19 gigs 
 
 Bedriñana, La Ramona, Owldisco
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dharma/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dharma/)*

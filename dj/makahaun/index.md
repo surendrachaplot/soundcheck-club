@@ -1,6 +1,6 @@
 # makahaun
 
-makahaun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+makahaun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
 makahaun is a techno and house artist based in Germany, with 41 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 4 more. Often billed alongside pik, Anuli and HTML 2020. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ makahaun is a techno and house artist based in Germany, with 41 gigs on soundche
 
 pik (1), Anuli, HTML 2020
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*

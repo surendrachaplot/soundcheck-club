@@ -1,6 +1,6 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rebel, Toronto on Sat, 23 Jan 2027.
+Infected Mushroom is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rebel, Toronto on Sat, 23 Jan 2027.
 
 Infected Mushroom is a psytrance and trance artist based in Israel, with 53 gigs on soundcheck across Athens, Atlanta, Austin and Berlin and 27 more. Often billed alongside Angerfist, Astrix and Billy Gillies. Next up: Rebel, Toronto on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Infected Mushroom is a psytrance and trance artist based in Israel, with 53 gigs
 
 Angerfist, Astrix, Billy Gillies
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

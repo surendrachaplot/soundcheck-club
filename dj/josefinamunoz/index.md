@@ -1,6 +1,6 @@
 # Josefina Muñoz
 
-Josefina Muñoz is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TCQ, Buenos Aires on Sat, 19 Dec 2026.
+Josefina Muñoz is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TCQ, Buenos Aires on Sat, 19 Dec 2026.
 
 Josefina Muñoz is a techno and acid artist based in Argentina, with 24 gigs on soundcheck across Buenos Aires. Often billed alongside Fiama Molina, MYLAH and Fiama. Next up: TCQ, Buenos Aires on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Josefina Muñoz is a techno and acid artist based in Argentina, with 24 gigs on 
 
 Fiama Molina, MYLAH, Fiama
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinamunoz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinamunoz/)*

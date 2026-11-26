@@ -1,6 +1,6 @@
 # Grand River
 
-Grand River is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Aapex, Seoul on Sun, 29 Nov 2026.
+Grand River is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Aapex, Seoul on Sun, 29 Nov 2026.
 
 Grand River is an experimental and ambient artist, with 38 gigs on soundcheck across Athens, Barcelona, Bergen and Berlin and 16 more. Often billed alongside Abul Mogard, upsammy and Zoë Mc Pherson. Next up: Aapex, Seoul on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Grand River is an experimental and ambient artist, with 38 gigs on soundcheck ac
 
 Abul Mogard, upsammy, Zoë Mc Pherson
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*

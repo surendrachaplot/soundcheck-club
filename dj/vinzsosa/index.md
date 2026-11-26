@@ -1,6 +1,6 @@
 # Vinz Sosa
 
-Vinz Sosa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at BRET, Amsterdam on Fri, 18 Dec 2026.
+Vinz Sosa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BRET, Amsterdam on Fri, 18 Dec 2026.
 
 Vinz Sosa is a house and techno artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Berlin, Cologne and Istanbul and 5 more. Often billed alongside dj sweet6teen, Terrakin and Liam Reddan. Next up: BRET, Amsterdam on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Vinz Sosa is a house and techno artist based in Germany, with 40 gigs on soundch
 
 dj sweet6teen, Terrakin, Liam Reddan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*

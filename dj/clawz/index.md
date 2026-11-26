@@ -1,6 +1,6 @@
 # CLAWZ
 
-CLAWZ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Avalon Hollywood, Los Angeles on Wed, 25 Nov 2026.
+CLAWZ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Avalon Hollywood, Los Angeles on Wed, 25 Nov 2026.
 
 CLAWZ is a techno and acid artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Austin, Barcelona and Bologna and 15 more. Often billed alongside X&trick, DYEN and 6EJOU. Next up: Avalon Hollywood, Los Angeles on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ CLAWZ is a techno and acid artist based in United States of America, with 48 gig
 
 ## Recently played
 
+- Avalon Hollywood, Los Angeles · Wed, 25 Nov 2026
 - TBA - Secret Location, Atlanta · Fri, 30 Oct 2026
 - Domicile, Miami · Fri, 30 Oct 2026
 - Strand DC, Washington DC · Sat, 26 Sept 2026
@@ -19,10 +20,9 @@ CLAWZ is a techno and acid artist based in United States of America, with 48 gig
 - Brutal Mx, Mexico City · Fri, 27 Feb 2026
 - 888 Garage, San Francisco/Oakland · Fri, 5 Dec 2025
 - Domicile, Miami · Fri, 21 Nov 2025
-- TRANSMISSION DC, Washington DC · Thu, 23 Oct 2025
 
 ## Shares bills with
 
 X&trick, DYEN, 6EJOU
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clawz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clawz/)*

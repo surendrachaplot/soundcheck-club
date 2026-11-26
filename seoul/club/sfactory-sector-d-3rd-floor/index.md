@@ -1,13 +1,13 @@
 # Sfactory Sector D, 3rd Floor
 
-Sfactory Sector D, 3rd Floor is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "HIGH-TECH SEOUL" on Sat, 5 Dec 2026.
+Sfactory Sector D, 3rd Floor is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "HIGH-TECH SEOUL" on Sat, 5 Dec 2026.
 
-Sfactory Sector D, 3rd Floor is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Magico., NUSNOOM and Rene Wise. See dates, start times and who's playing.
+Sfactory Sector D, 3rd Floor is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including NUSNOOM and Rene Wise. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | HIGH-TECH SEOUL | Magico., NUSNOOM, Rene Wise |
+| Sat, 5 Dec 2026 | HIGH-TECH SEOUL | NUSNOOM, Rene Wise |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/sfactory-sector-d-3rd-floor/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/sfactory-sector-d-3rd-floor/)*

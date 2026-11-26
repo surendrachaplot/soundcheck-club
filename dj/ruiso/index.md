@@ -1,6 +1,6 @@
 # Ruiso
 
-Ruiso is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Core, Madrid on Thu, 26 Nov 2026.
+Ruiso is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Core, Madrid on Thu, 26 Nov 2026.
 
 Ruiso is a techno and trance artist based in Spain, with 11 gigs on soundcheck across Madrid and Valencia. Often billed alongside Karena, Mental Duality and Phranem. Next up: Core, Madrid on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Ruiso is a techno and trance artist based in Spain, with 11 gigs on soundcheck a
 
 Karena, Mental Duality, Phranem
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruiso/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruiso/)*

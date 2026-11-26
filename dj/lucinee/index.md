@@ -1,6 +1,6 @@
 # Lucinee
 
-Lucinee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
+Lucinee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
 Lucinee is a techno and trance artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 37 more. Often billed alongside Lifka, Sept and CLTX. Next up: 119, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lucinee is a techno and trance artist based in Germany, with 141 gigs on soundch
 
 Lifka, Sept, CLTX
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*

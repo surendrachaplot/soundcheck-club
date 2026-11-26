@@ -1,14 +1,15 @@
 # Zephyr (2)
 
-Zephyr (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ampere, Antwerp on Sat, 28 Nov 2026.
+Zephyr (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ampere, Antwerp on Sat, 28 Nov 2026.
 
-Zephyr is a house and techno artist based in France, with 10 gigs on soundcheck across Antwerp. Often billed alongside Digby, Alexander Skancke and DJ EZ. Next up: Ampere, Antwerp on Sat 28 Nov.
+Zephyr is a house and techno artist based in France, with 11 gigs on soundcheck across Antwerp. Often billed alongside Digby, Pirrès and Alexander Skancke. Next up: Ampere, Antwerp on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Ampere | Antwerp |
+| Thu, 31 Dec 2026 | Ampere | Antwerp |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Zephyr is a house and techno artist based in France, with 10 gigs on soundcheck 
 
 ## Shares bills with
 
-Digby, Alexander Skancke, DJ EZ
+Digby, Pirrès, Alexander Skancke
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zephyr-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zephyr-2/)*

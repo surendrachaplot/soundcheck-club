@@ -1,6 +1,6 @@
 # Pablo Cornejo
 
-Pablo Cornejo is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Minimal Bar, Berlin on Mon, 30 Nov 2026.
+Pablo Cornejo is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Minimal Bar, Berlin on Mon, 30 Nov 2026.
 
 Pablo Cornejo is an electronic artist based in Chile, with 160 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Beta Basti, Nils Ohrmann and Skinny Duchamp. Next up: Minimal Bar, Berlin on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Pablo Cornejo is an electronic artist based in Chile, with 160 gigs on soundchec
 
 Beta Basti, Nils Ohrmann, Skinny Duchamp
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablocornejo-cl/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablocornejo-cl/)*

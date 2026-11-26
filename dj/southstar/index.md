@@ -1,6 +1,6 @@
 # southstar
 
-southstar is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+southstar is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 southstar is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 42 more. Often billed alongside Funk Tribu, DJ Heartstring and SPFDJ. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ southstar is a techno and house artist based in Germany, with 74 gigs on soundch
 
 Funk Tribu, DJ Heartstring, SPFDJ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*

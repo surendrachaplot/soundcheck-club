@@ -1,17 +1,18 @@
 # Pinky
 
-Pinky is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Blvck Water, Osaka on Thu, 12 Nov 2026.
+Pinky is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Triangle, Osaka on Wed, 30 Dec 2026.
 
-Pinky is a psytrance and techno artist based in Italy, with 6 gigs on soundcheck across Central, Münster, Osaka and Rome. Often billed alongside Adelmo, MARIHO and Tom Monkey. Next up: Blvck Water, Osaka on Thu 12 Nov.
+Pinky is a psytrance and techno artist based in Italy, with 7 gigs on soundcheck across Central, Münster, Osaka and Rome. Often billed alongside Adelmo, C!AO and MARIHO. Next up: Triangle, Osaka on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Blvck Water | Osaka |
+| Wed, 30 Dec 2026 | Triangle | Osaka |
 
 ## Recently played
 
+- Blvck Water, Osaka · Thu, 12 Nov 2026
 - TBA - Officina della Memoria, Central · Sat, 31 Oct 2026
 - Triangle, Osaka · Sun, 18 Oct 2026
 - 南港三角公園, Osaka · Sat, 3 Oct 2026
@@ -20,6 +21,6 @@ Pinky is a psytrance and techno artist based in Italy, with 6 gigs on soundcheck
 
 ## Shares bills with
 
-Adelmo, MARIHO, Tom Monkey
+Adelmo, C!AO, MARIHO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinky/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinky/)*

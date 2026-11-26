@@ -1,13 +1,15 @@
 # cee_ohh
 
-cee_ohh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
+cee_ohh is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Skatehalle Berlin, Berlin on Fri, 4 Dec 2026.
 
-cee_ohh is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Berlin and San Francisco/Oakland. Often billed alongside Lisatrix, Pilar Jordan and Dela Nesto. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 20 Mar.
+cee_ohh is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin and San Francisco/Oakland. Often billed alongside Lisatrix, Pilar Jordan and Dela Nesto. Next up: Skatehalle Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Skatehalle Berlin | Berlin |
+| Sat, 12 Dec 2026 | Void Club | Berlin |
 | Sat, 20 Mar 2027 | TBA - SECRET PORTAL WAREHOUSE RAVE | Berlin |
 
 ## Recently played
@@ -25,4 +27,4 @@ cee_ohh is a techno and trance artist based in Germany, with 13 gigs on soundche
 
 Lisatrix, Pilar Jordan, Dela Nesto
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cee_ohh/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cee_ohh/)*

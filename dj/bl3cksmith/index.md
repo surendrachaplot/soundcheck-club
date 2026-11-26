@@ -1,6 +1,6 @@
 # BL3CKSMITH
 
-BL3CKSMITH is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Super Club, Milan on Sat, 28 Nov 2026.
+BL3CKSMITH is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Super Club, Milan on Sat, 28 Nov 2026.
 
 BL3CKSMITH is a techno and tech house artist based in Italy, with 21 gigs on soundcheck across Amsterdam, London and Milan. Often billed alongside Pantomatic, SAGO and N4C. Next up: Super Club, Milan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BL3CKSMITH is a techno and tech house artist based in Italy, with 21 gigs on sou
 
 Pantomatic, SAGO (2), N4C (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*

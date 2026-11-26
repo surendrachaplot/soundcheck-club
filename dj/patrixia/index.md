@@ -1,6 +1,6 @@
 # Patrixia
 
-Patrixia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Pennsylvania on Sat, 19 Dec 2026.
+Patrixia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Pennsylvania on Sat, 19 Dec 2026.
 
 Patrixia is a techno and industrial artist based in United States of America, with 22 gigs on soundcheck across Chicago and Pennsylvania. Often billed alongside EchoDroides, Black Light Smoke and Amber Gris. Next up: TBA, Pennsylvania on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Patrixia is a techno and industrial artist based in United States of America, wi
 
 EchoDroides, Black Light Smoke, Amber Gris
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrixia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrixia/)*

@@ -1,6 +1,6 @@
 # DJ MBA
 
-DJ MBA is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at berlinClub, Madrid on Thu, 26 Nov 2026.
+DJ MBA is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at berlinClub, Madrid on Thu, 26 Nov 2026.
 
 DJ MBA is an afrobeat and afro house artist based in Spain, with 102 gigs on soundcheck across Madrid. Often billed alongside DJ Mois and DJ MATERIA PRIMA. Next up: berlinClub, Madrid on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ DJ MBA is an afrobeat and afro house artist based in Spain, with 102 gigs on sou
 
 DJ Mois, DJ MATERIA PRIMA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmba/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmba/)*

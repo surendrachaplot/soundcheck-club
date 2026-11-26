@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "INCOGNITO x NON SERIES Quince: Neel, Psyk (LA Debut), Tauceti _ Thanksgiving Eve Rave" on Wed, 25 Nov 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "INCOGNITO x NON SERIES Quince: Neel, Psyk (LA Debut), Tauceti _ Thanksgiving Eve Rave" on Wed, 25 Nov 2026.
 
-TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 12 upcoming gigs, with line-ups including 999999999, Akua, Annika Wolfe and Body Wave DJs and 2 more. See dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 13 upcoming gigs, with line-ups including 999999999, Aiden (DE), Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -17,6 +17,6 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 12 upcom
 | Fri, 18 Dec 2026 | WORK presents: 999999999 [4 HR Set]. JIA, & Trovarsi [LIVE] | 999999999, JIA, Trovarsi |
 | Sat, 19 Dec 2026 | WORK presents 999999999 Invites: 999999999, Annika Wolfe, Boston 168 [Live], & Kaiser | 999999999, Annika Wolfe, Boston 168, Kaiser (K S R) |
 | Thu, 31 Dec 2026 | WORK x Dirty Epic x HAYES: Cravo, Nørbak, Temudo, VIL, Insical & Ønyx | CRAVO, Insical, Nørbak, Temudo, VIL (PT), Ønyx |
-| Fri, 29 Jan 2027 | WORK presents Nicole Moudaber In The Mood: RAW | Nicole Moudaber |
+| Sat, 2 Jan 2027 | WORK Harder presents: Aiden [4 Hour Set] & Nova | Aiden (DE), NOVA (5) |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

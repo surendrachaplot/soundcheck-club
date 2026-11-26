@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ESSEL" on Fri, 27 Nov 2026.
+Spybar is a music venue in Chicago with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ESSEL" on Fri, 27 Nov 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 13 upcoming gigs, with line-ups including Bushbaby, Derrick Carter, Easttown and George Smeddles and 2 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 13 upcoming gigs, with 
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

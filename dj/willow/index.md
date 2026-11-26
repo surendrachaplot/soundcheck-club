@@ -1,8 +1,8 @@
 # Willow
 
-Willow is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at radial, London on Sat, 28 Nov 2026.
+Willow is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at radial, London on Sat, 28 Nov 2026.
 
-Willow is a house and techno artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 31 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: radial, London on Sat 28 Nov.
+Willow is a house and techno artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 31 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: radial, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Willow is a house and techno artist based in United Kingdom, with 137 gigs on so
 | Sat, 28 Nov 2026 | radial | London |
 | Sat, 5 Dec 2026 | Distrikt | Leeds |
 | Sat, 12 Dec 2026 | Phonox | London |
+| Sat, 19 Dec 2026 | Starlane Pizza Bar | London |
 | Fri, 29 Jan 2027 | Eastern Bloc Records | Manchester |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
@@ -29,4 +30,4 @@ Willow is a house and techno artist based in United Kingdom, with 137 gigs on so
 
 Lukas Wigflex, Dr Banana, Bobby.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*

@@ -1,6 +1,6 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Warehouse, Orange County on Wed, 25 Nov 2026.
+Xiorro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Warehouse, Orange County on Wed, 25 Nov 2026.
 
 Xiorro is a techno and house artist based in United States of America, with 91 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 31 more. Often billed alongside Laure Croft, Faster Horses and Parallx. Next up: TBA - Warehouse, Orange County on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ Xiorro is a techno and house artist based in United States of America, with 91 g
 
 ## Recently played
 
+- TBA - Warehouse, Orange County · Wed, 25 Nov 2026
 - RSO.BERLIN, Berlin · Fri, 20 Nov 2026
 - Peti Kupe, Zagreb · Fri, 13 Nov 2026
 - OST, Berlin · Thu, 5 Nov 2026
@@ -20,10 +21,9 @@ Xiorro is a techno and house artist based in United States of America, with 91 g
 - UNDERCITY, Seoul · Sat, 10 Oct 2026
 - Pisco Bar, Kuala Lumpur · Sat, 3 Oct 2026
 - Horn, Bangkok · Fri, 2 Oct 2026
-- OIL Club, Shenzhen · Thu, 1 Oct 2026
 
 ## Shares bills with
 
 Laure Croft, Faster Horses, Parallx
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*

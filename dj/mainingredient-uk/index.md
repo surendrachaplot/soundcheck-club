@@ -1,17 +1,18 @@
 # Main Ingredient
 
-Main Ingredient is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
+Main Ingredient is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 19 Dec 2026.
 
-Main Ingredient is a house and acid artist based in United Kingdom, with 33 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Marti-Time!, Chris Astrojazz and DJ Shannon. Next up: People's Leisure Club, Edinburgh on Sat 21 Nov.
+Main Ingredient is a house and acid artist based in United Kingdom, with 34 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Marti-Time!, Chris Astrojazz and DJ Shannon. Next up: People's Leisure Club, Edinburgh on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | People's Leisure Club | Edinburgh |
+| Sat, 19 Dec 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
+- People's Leisure Club, Edinburgh · Sat, 21 Nov 2026
 - People's Leisure Club, Edinburgh · Sat, 19 Sept 2026
 - People's Leisure Club, Edinburgh · Sat, 15 Aug 2026
 - People's Leisure Club, Edinburgh · Sat, 25 Jul 2026
@@ -19,10 +20,9 @@ Main Ingredient is a house and acid artist based in United Kingdom, with 33 gigs
 - People's Leisure Club, Edinburgh · Sat, 27 Jun 2026
 - The Outhouse, Edinburgh · Sat, 13 Jun 2026
 - The Pitt Market, Edinburgh · Sat, 30 May 2026
-- People's Leisure Club, Edinburgh · Sat, 16 May 2026
 
 ## Shares bills with
 
 Marti-Time!, Chris Astrojazz, DJ Shannon
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mainingredient-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mainingredient-uk/)*

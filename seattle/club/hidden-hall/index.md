@@ -1,6 +1,6 @@
 # Hidden Hall
 
-Hidden Hall is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Reflect December 8 2026" on Tue, 8 Dec 2026.
+Hidden Hall is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Reflect December 8 2026" on Tue, 8 Dec 2026.
 
 Hidden Hall is a music venue in Seattle listed on soundcheck. 5 upcoming gigs, with line-ups including Black Velveteen, Christine Michelle, Copeland and Jamie Schwabl and 2 more. See dates, start times and who's playing. 400 N 35th Street Seattle, WA 98103.
 
@@ -18,4 +18,4 @@ Hidden Hall is a music venue in Seattle listed on soundcheck. 5 upcoming gigs, w
 
 400 N 35th Street Seattle, WA 98103, Seattle
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*

@@ -1,6 +1,6 @@
 # LOFTUS
 
-LOFTUS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Rawhide, New York City on Thu, 26 Nov 2026.
+LOFTUS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Rawhide, New York City on Thu, 26 Nov 2026.
 
 LOFTUS is a house and techno artist based in United States of America, with 25 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside ConCon, Delilah At Night and Ben Wagner. Next up: Club Rawhide, New York City on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ LOFTUS is a house and techno artist based in United States of America, with 25 g
 
 ConCon, Delilah At Night, Ben Wagner
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*

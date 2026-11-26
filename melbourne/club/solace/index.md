@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Solace Radio x Greaze Mode / Ham Paz Magnus" on Thu, 26 Nov 2026.
+Solace is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Solace Radio x Greaze Mode / Ham Paz Magnus" on Thu, 26 Nov 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including ADMINISTRATOR, Ari (AU), Char(k) and Charms and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -23,4 +23,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, wit
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

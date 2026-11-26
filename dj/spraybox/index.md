@@ -1,6 +1,6 @@
 # SPRAYBOX
 
-SPRAYBOX is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
+SPRAYBOX is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
 
 SPRAYBOX is a bass and garage artist based in Japan, with 43 gigs on soundcheck across Chubu, Manchester, Osaka and Sydney and 1 more. Often billed alongside Genick, Ogasawara and Jacotanu. Next up: club asia, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ SPRAYBOX is a bass and garage artist based in Japan, with 43 gigs on soundcheck 
 
 Genick, Ogasawara, Jacotanu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spraybox/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spraybox/)*

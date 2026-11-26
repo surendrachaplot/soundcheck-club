@@ -1,6 +1,6 @@
 # peony
 
-peony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
+peony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
 
 peony is a house and techno artist based in Spain, with 33 gigs on soundcheck across Barcelona, Berlin and New York City. Often billed alongside menine, Adria (ES) and Haana Peony. Next up: Seaseaclub Barcelona, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ peony is a house and techno artist based in Spain, with 33 gigs on soundcheck ac
 
 menine, Adria (ES), Haana Peony
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peony/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peony/)*

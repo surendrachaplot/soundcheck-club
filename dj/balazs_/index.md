@@ -1,6 +1,6 @@
 # Balazs_
 
-Balazs_ is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 27 Nov 2026.
+Balazs_ is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 27 Nov 2026.
 
 Balazs_ is a techno artist based in Hungary, with 2 gigs on soundcheck across Budapest. Often billed alongside Daniel Moritz, Detective Kelly and Johanna Bozai. Next up: Vektor - The Klub, Budapest on Fri 27 Nov.
 
@@ -15,4 +15,4 @@ Balazs_ is a techno artist based in Hungary, with 2 gigs on soundcheck across Bu
 
 Daniel Moritz, Detective Kelly, Johanna Bozai
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balazs_/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balazs_/)*

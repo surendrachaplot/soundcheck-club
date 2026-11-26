@@ -1,6 +1,6 @@
 # Peredel
 
-Peredel is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at FOMO, Azerbaijan on Fri, 27 Nov 2026.
+Peredel is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at FOMO, Azerbaijan on Fri, 27 Nov 2026.
 
 Peredel is a tech house and house artist, with 5 gigs on soundcheck across Azerbaijan, Dubai and Düsseldorf. Often billed alongside Broken Hill, Dennis Cruz and Etch. Next up: FOMO, Azerbaijan on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Peredel is a tech house and house artist, with 5 gigs on soundcheck across Azerb
 
 Broken Hill, Dennis Cruz, Etch
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peredel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peredel/)*

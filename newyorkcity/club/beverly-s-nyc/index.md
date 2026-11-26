@@ -1,6 +1,6 @@
 # Beverly's NYC
 
-Beverly's NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "for your entertainment" on Thu, 10 Dec 2026.
+Beverly's NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "for your entertainment" on Thu, 10 Dec 2026.
 
 Beverly's NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 297 Grand St, New York, NY.
 
@@ -14,4 +14,4 @@ Beverly's NYC is a music venue in New York City listed on soundcheck. 1 upcoming
 
 297 Grand St, New York, NY, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/beverly-s-nyc/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/beverly-s-nyc/)*

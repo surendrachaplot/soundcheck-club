@@ -1,6 +1,6 @@
 # 40split
 
-40split is a Club and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The LookOut, San Francisco/Oakland on Thu, 3 Dec 2026.
+40split is a Club and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The LookOut, San Francisco/Oakland on Thu, 3 Dec 2026.
 
 40split is a club and jungle artist based in United States of America, with 61 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Discnogirl, Moonpie and DJ Buck. Next up: The LookOut, San Francisco/Oakland on Thu 3 Dec.
 
@@ -25,4 +25,4 @@
 
 Discnogirl, Moonpie, DJ Buck
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/40split/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/40split/)*

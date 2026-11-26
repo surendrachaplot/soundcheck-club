@@ -1,6 +1,6 @@
 # Alma Negrot
 
-Alma Negrot is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret, Rio de Janeiro on Sat, 28 Nov 2026.
+Alma Negrot is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Alma Negrot is a house and techno artist, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: TBA - Secret, Rio de Janeiro on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Alma Negrot is a house and techno artist, with 47 gigs on soundcheck across Amst
 
 Gezender, Kontronatura, materia hache
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*

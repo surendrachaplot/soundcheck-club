@@ -1,6 +1,6 @@
 # GEISTFREI
 
-GEISTFREI is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rote Sonne, Munich on Fri, 4 Dec 2026.
+GEISTFREI is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rote Sonne, Munich on Fri, 4 Dec 2026.
 
 GEISTFREI is a techno and ambient artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin, Budapest and Calgary and 9 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: Rote Sonne, Munich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ GEISTFREI is a techno and ambient artist based in Germany, with 39 gigs on sound
 
 Verhall, Melchiorr, Colum Urton
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*

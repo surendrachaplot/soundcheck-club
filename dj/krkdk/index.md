@@ -1,6 +1,6 @@
 # KR:KD K
 
-KR:KD K is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Yalta Club, Sofia on Fri, 27 Nov 2026.
+KR:KD K is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yalta Club, Sofia on Fri, 27 Nov 2026.
 
 KR:KD K is a techno and hardcore artist based in Bulgaria, with 38 gigs on soundcheck across Amsterdam, Bulgaria, London and Sofia. Often billed alongside Polith, Royal Flush and KASSIS. Next up: Yalta Club, Sofia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KR:KD K is a techno and hardcore artist based in Bulgaria, with 38 gigs on sound
 
 Polith, Royal Flush, KASSIS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*

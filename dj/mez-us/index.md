@@ -1,6 +1,6 @@
 # Mez (US)
 
-Mez (US) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rex Club, Paris on Wed, 23 Dec 2026.
+Mez (US) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Wed, 23 Dec 2026.
 
 Mez (US) is a techno and minimal artist based in United States of America, with 8 gigs on soundcheck across Karlsruhe, Leipzig, Paris and Sydney. Often billed alongside 131bpm, ADAM MUNNINGS and AGY3NA. Next up: Rex Club, Paris on Wed 23 Dec.
 
@@ -24,4 +24,4 @@ Mez (US) is a techno and minimal artist based in United States of America, with 
 
 131bpm, ADAM MUNNINGS, AGY3NA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mez-us/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mez-us/)*

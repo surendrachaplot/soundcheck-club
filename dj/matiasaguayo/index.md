@@ -1,6 +1,6 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, New York City on Sat, 26 Dec 2026.
+Matias Aguayo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Sat, 26 Dec 2026.
 
 Matias Aguayo is a house and techno artist based in Germany, with 96 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 36 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: Elsewhere, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Matias Aguayo is a house and techno artist based in Germany, with 96 gigs on sou
 
 PAURRO, Justin Strauss, Magda
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*

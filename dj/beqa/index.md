@@ -1,13 +1,14 @@
 # BEQA
 
-BEQA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pas Berlin, Berlin on Sun, 20 Dec 2026.
+BEQA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 28 Nov 2026.
 
-BEQA is a house and tech house artist based in Georgia, with 51 gigs on soundcheck across Berlin, Hamburg, Tbilisi and Valencia. Often billed alongside SUMO, IKAKO and Rati. Next up: Pas Berlin, Berlin on Sun 20 Dec.
+BEQA is a house and tech house artist based in Georgia, with 52 gigs on soundcheck across Berlin, Hamburg, Tbilisi and Valencia. Often billed alongside SUMO, IKAKO and Rati. Next up: Mtkvarze, Tbilisi on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Mtkvarze | Tbilisi |
 | Sun, 20 Dec 2026 | Pas Berlin | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ BEQA is a house and tech house artist based in Georgia, with 51 gigs on soundche
 
 SUMO, IKAKO, Rati
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beqa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beqa/)*

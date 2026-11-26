@@ -1,0 +1,28 @@
+# Joe Goddard
+
+Joe Goddard is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sunday Sunday, Mexico City on Sun, 29 Nov 2026.
+
+Joe Goddard is a house and disco artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside Colleen 'Cosmo' Murphy, Hot Chip and Alexis Taylor. Next up: Sunday Sunday, Mexico City on Sun 29 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 29 Nov 2026 | Sunday Sunday | Mexico City |
+
+## Recently played
+
+- DRUMSHEDS, London · Sat, 10 Oct 2026
+- Patterns, Brighton · Sat, 19 Sept 2026
+- Fidelity Studio, Dublin · Sat, 12 Sept 2026
+- Hare & Hounds, Birmingham · Fri, 11 Sept 2026
+- Night Tales, London · Fri, 28 Aug 2026
+- 528 Ibiza, Ibiza · Tue, 14 Jul 2026
+- Night Tales Loft, London · Fri, 19 Jun 2026
+- Hidden Grooves, London · Tue, 2 Jun 2026
+
+## Shares bills with
+
+Colleen 'Cosmo' Murphy, Hot Chip, Alexis Taylor
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joegoddard/)*

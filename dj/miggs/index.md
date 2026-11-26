@@ -1,6 +1,6 @@
 # Miggs
 
-Miggs is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
+Miggs is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
 
 Miggs is a garage and techno artist based in United Kingdom, with 79 gigs on soundcheck across Birmingham, Brighton, Bristol and Edinburgh and 3 more. Often billed alongside DAIZ, Alien Izz and Amber Rose. Next up: 26 Leake Street, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Miggs is a garage and techno artist based in United Kingdom, with 79 gigs on sou
 
 DAIZ, Alien Izz, Amber Rose
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miggs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miggs/)*

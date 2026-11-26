@@ -1,6 +1,6 @@
 # BROM
 
-BROM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Panic Room, Paris on Fri, 11 Dec 2026.
+BROM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Panic Room, Paris on Fri, 11 Dec 2026.
 
 BROM is a techno and house artist based in France, with 16 gigs on soundcheck across Amsterdam, Bordeaux, Brussels and Cologne and 6 more. Often billed alongside DJ Brom, Sarah San and 41ISSA. Next up: Panic Room, Paris on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ BROM is a techno and house artist based in France, with 16 gigs on soundcheck ac
 
 DJ Brom, Sarah San, 41ISSA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brom/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brom/)*

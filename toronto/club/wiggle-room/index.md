@@ -1,8 +1,8 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Dancing with Jimmy" on Thu, 26 Nov 2026.
+Wiggle Room is a music venue in Toronto with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Dancing with Jimmy" on Thu, 26 Nov 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with line-ups including Addy, Anthony Cole, Barroness and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 16 upcoming gigs, with line-ups including Addy, Anthony Cole, Barroness and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, 
 | Fri, 4 Dec 2026 | WR Records: Marc DePulse [GER] & Tyler Hill - Release Party | Anthony Cole, CRISTI:ANA, Marc DePulse, Tyler Hill |
 | Sat, 5 Dec 2026 | RISE: ESSEL [Toolroom] | Miz Megs, SHERA, Sophia Essel |
 | Sun, 6 Dec 2026 | Sunday SerVice: Chris Campos - Manzone & Strong | Manzone & Strong |
+| Fri, 11 Dec 2026 | Kitty Cat Soiree | Barroness, Dick Diamonds |
 | Sat, 12 Dec 2026 | Nervous Records: Mike Nervous & Mandiz [Extended Set] | Mandiz, Mike Nervous, Nour (CAN), Tyler Hill |
-| Sun, 13 Dec 2026 | Sunday SerVice: Mark Farina [Mushroom Jazz to House Extended Set | Manzone & Strong, Mark Farina, Mr. Haze |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

@@ -1,0 +1,28 @@
+# Vanille
+
+Vanille is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Java, Paris on Fri, 18 Dec 2026.
+
+Vanille is a techno and electro artist based in France, with 83 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 17 more. Often billed alongside MCR-T, Yasmin Regisford and Behzad. Next up: La Java, Paris on Fri 18 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Dec 2026 | La Java | Paris |
+
+## Recently played
+
+- Noorderlicht Café, Amsterdam · Wed, 21 Oct 2026
+- Badaboum, Paris · Sat, 10 Oct 2026
+- Palais de Tokyo, Paris · Sat, 22 Aug 2026
+- Algha's Plantroom, London · Sun, 9 Aug 2026
+- Le Sucre, Lyon · Fri, 31 Jul 2026
+- La Java, Paris · Fri, 10 Jul 2026
+- Pamela Club, Paris · Thu, 9 Jul 2026
+- RSO.BERLIN, Berlin · Sat, 4 Jul 2026
+
+## Shares bills with
+
+MCR-T, Yasmin Regisford, Behzad
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*

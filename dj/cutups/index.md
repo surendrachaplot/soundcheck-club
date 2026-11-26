@@ -1,6 +1,6 @@
 # Cutups
 
-Cutups is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Collapse, Pittsburgh on Sat, 12 Dec 2026.
+Cutups is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Collapse, Pittsburgh on Sat, 12 Dec 2026.
 
 Cutups is a jungle and bass artist based in United States of America, with 12 gigs on soundcheck across Pittsburgh. Often billed alongside Baseck, Edgar Um and Xanopticon. Next up: Collapse, Pittsburgh on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Cutups is a jungle and bass artist based in United States of America, with 12 gi
 
 Baseck, Edgar Um, Xanopticon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutups/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutups/)*

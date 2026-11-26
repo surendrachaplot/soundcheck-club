@@ -1,8 +1,8 @@
 # Evvolita
 
-Evvolita is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 1000fryd, Denmark on Sat, 12 Dec 2026.
+Evvolita is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1000fryd, Denmark on Sat, 12 Dec 2026.
 
-Evvolita is a techno and house artist based in Denmark, with 17 gigs on soundcheck across Berlin, Copenhagen, Denmark and Gothenburg and 1 more. Often billed alongside AELVA K, AZADÎ and Johanna Knutsson. Next up: 1000fryd, Denmark on Sat 12 Dec.
+Evvolita is a techno and house artist based in Denmark, with 18 gigs on soundcheck across Berlin, Copenhagen, Denmark and Gothenburg and 1 more. Often billed alongside AELVA K, AZADÎ and Johanna Knutsson. Next up: 1000fryd, Denmark on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Evvolita is a techno and house artist based in Denmark, with 17 gigs on soundche
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | 1000fryd | Denmark |
 | Thu, 31 Dec 2026 | Plan B | Malmo |
+| Fri, 22 Jan 2027 | Culture Box | Copenhagen |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Evvolita is a techno and house artist based in Denmark, with 17 gigs on soundche
 
 AELVA K, AZADÎ, Johanna Knutsson
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evvolita/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evvolita/)*

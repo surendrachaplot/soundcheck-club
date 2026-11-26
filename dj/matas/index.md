@@ -1,6 +1,6 @@
 # Matas
 
-Matas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at BASEMENT, New York City on Fri, 4 Dec 2026.
+Matas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BASEMENT, New York City on Fri, 4 Dec 2026.
 
 Matas is a techno and house artist based in United States of America, with 63 gigs on soundcheck across Berlin, Boston, Copenhagen and Los Angeles and 2 more. Often billed alongside Jek (US), LYDO and KYRUH. Next up: BASEMENT, New York City on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Matas is a techno and house artist based in United States of America, with 63 gi
 
 Jek (US), LYDO, KYRUH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matas/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matas/)*

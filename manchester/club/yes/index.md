@@ -1,14 +1,13 @@
 # Yes
 
-Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "KILIMANJARO Live" on Wed, 25 Nov 2026.
+Yes is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Laurence Guy" on Fri, 27 Nov 2026.
 
-Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Anish Kumar, Aurat, Girls of the Internet and gr00vy.cat and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
+Yes is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Anish Kumar, Aurat, Girls of the Internet and gr00vy.cat and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | KILIMANJARO Live | KILIMANJARO |
 | Fri, 27 Nov 2026 | Laurence Guy | Jade Li, Laurence Guy |
 | Fri, 27 Nov 2026 | PIRI & FREINDS |  |
 | Sat, 28 Nov 2026 | Medlock & PC18 ALL NIGHT LONG | Medlock |
@@ -18,9 +17,10 @@ Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with 
 | Sat, 5 Dec 2026 | 365 Party Girls |  |
 | Thu, 10 Dec 2026 | Girls of the Internet (Live) | Girls of the Internet |
 | Fri, 11 Dec 2026 | DJ Jackum + MUCKANIKS + SHADEV | Jackum, MUCKANIKS, SHADEV |
+| Sat, 19 Dec 2026 | Deptford Northern Soul Club |  |
 
 ## Address
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

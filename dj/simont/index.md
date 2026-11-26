@@ -1,6 +1,6 @@
 # Simon T
 
-Simon T is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
+Simon T is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
 
 Simon T is a dub techno and techno artist based in Italy, with 54 gigs on soundcheck across London, Milan and Turin. Often billed alongside Lorenzo LSP, Flavio Vecchi and Ricky Montanari. Next up: Station Live Club, Milan on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Simon T is a dub techno and techno artist based in Italy, with 54 gigs on soundc
 
 Lorenzo LSP, Flavio Vecchi, Ricky Montanari
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simont/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simont/)*

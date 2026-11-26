@@ -1,6 +1,6 @@
 # Rohaan
 
-Rohaan is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mission Ballroom, Denver on Sat, 12 Dec 2026.
+Rohaan is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mission Ballroom, Denver on Sat, 12 Dec 2026.
 
 Rohaan is a drum & bass and bass artist based in United Kingdom, with 34 gigs on soundcheck across Atlanta, Auckland, Brighton and Brisbane and 20 more. Often billed alongside Ivy Lab, Buunshin and ENiGMA Dubz. Next up: Mission Ballroom, Denver on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Rohaan is a drum & bass and bass artist based in United Kingdom, with 34 gigs on
 
 Ivy Lab, Buunshin, ENiGMA Dubz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*

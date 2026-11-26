@@ -1,6 +1,6 @@
 # VIVAY
 
-VIVAY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 9 Jan 2027.
+VIVAY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 9 Jan 2027.
 
 VIVAY is a techno and industrial artist, with 22 gigs on soundcheck across Barcelona, Belgrade, Berlin and Frankfurt and 7 more. Often billed alongside CBR., RIKHTER and SOVA_. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ VIVAY is a techno and industrial artist, with 22 gigs on soundcheck across Barce
 
 CBR., RIKHTER, SOVA_
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivay/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivay/)*

@@ -1,17 +1,18 @@
 # crobar
 
-crobar is a music venue in Cleveland with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Saytek" on Fri, 4 Dec 2026.
+crobar is a music venue in Cleveland with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "PERF feat. Mx. Blaire" on Sat, 28 Nov 2026.
 
-crobar is a music venue in Cleveland listed on soundcheck. 1 upcoming gig, with line-ups including Jesse Hawk and Saytek. See dates, start times and who's playing. 3244 Saint Clair Ave Cleveland, Oh 44114.
+crobar is a music venue in Cleveland listed on soundcheck. 2 upcoming gigs, with line-ups including Delish, Jesse Hawk, Joey Sardelle and Mx. Blaire and 1 more. See dates, start times and who's playing. 3244 Saint Clair Ave Cleveland, Oh 44114.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | PERF feat. Mx. Blaire | Delish, Joey Sardelle, Mx. Blaire |
 | Fri, 4 Dec 2026 | Saytek | Jesse Hawk, Saytek |
 
 ## Address
 
 3244 Saint Clair Ave Cleveland, Oh 44114, Cleveland
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/crobar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/crobar/)*

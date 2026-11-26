@@ -1,8 +1,8 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Luke Dean_ is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Luke Dean_ is a house and tech house artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 35 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Luke Dean_ is a house and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 35 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 122 gi
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
+| Sat, 28 Nov 2026 | TBA | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sun, 27 Dec 2026 | Depot Mayfield | Manchester |
 | Sun, 27 Dec 2026 | Circuit | South-east |
@@ -30,4 +31,4 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 122 gi
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

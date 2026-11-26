@@ -1,6 +1,6 @@
 # DJ BREXIT
 
-DJ BREXIT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Romantica, Stuttgart on Thu, 26 Nov 2026.
+DJ BREXIT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Romantica, Stuttgart on Thu, 26 Nov 2026.
 
 DJ BREXIT is a techno and house artist based in Germany, with 15 gigs on soundcheck across Stuttgart. Often billed alongside Joy Boy, CHIEF QUEEF and Bernd Affleck. Next up: Romantica, Stuttgart on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ DJ BREXIT is a techno and house artist based in Germany, with 15 gigs on soundch
 
 Joy Boy, CHIEF QUEEF, Bernd Affleck
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrexit/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrexit/)*

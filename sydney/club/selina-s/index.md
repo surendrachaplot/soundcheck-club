@@ -1,6 +1,6 @@
 # Selina's
 
-Selina's is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Surge Ctrl" on Fri, 11 Dec 2026.
+Selina's is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Surge Ctrl" on Fri, 11 Dec 2026.
 
 Selina's is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Farell, Dusky, L.zwo and NEGITIV and 2 more. See dates, start times and who's playing. 253 Coogee Bay Rd, Coogee NSW 2034.
 
@@ -16,4 +16,4 @@ Selina's is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with 
 
 253 Coogee Bay Rd, Coogee NSW 2034, Sydney
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/selina-s/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/selina-s/)*

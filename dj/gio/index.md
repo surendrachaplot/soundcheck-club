@@ -1,6 +1,6 @@
 # GI.O
 
-GI.O is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
+GI.O is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
 
 GI.O is a techno and trance artist based in Brazil, with 88 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 18 more. Often billed alongside Sabu!, The Jakob Sister and Cara Elizabeth. Next up: AMT, Berlin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ GI.O is a techno and trance artist based in Brazil, with 88 gigs on soundcheck a
 
 Sabu!, The Jakob Sister, Cara Elizabeth
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*

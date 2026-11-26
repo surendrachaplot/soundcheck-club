@@ -1,6 +1,6 @@
 # Jason Peters
 
-Jason Peters is a House and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
+Jason Peters is a House and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
 
 Jason Peters is a house and italo disco artist based in United States of America, with 23 gigs on soundcheck across Barcelona, Los Angeles, Mexico City and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Amatric and Nicoshi. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Jason Peters is a house and italo disco artist based in United States of America
 
 Sharlese, Amatric, Nicoshi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*

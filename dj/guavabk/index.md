@@ -1,6 +1,6 @@
 # GUAVA (BK)
 
-GUAVA (BK) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mood Ring, New York City on Wed, 2 Dec 2026.
+GUAVA (BK) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mood Ring, New York City on Wed, 2 Dec 2026.
 
 GUAVA (BK) is a house and breakbeat artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside JULESMCKOOLS, ANICHE and Iluvonionz. Next up: Mood Ring, New York City on Wed 2 Dec.
 
@@ -24,4 +24,4 @@ GUAVA (BK) is a house and breakbeat artist based in United States of America, wi
 
 JULESMCKOOLS, ANICHE, Iluvonionz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guavabk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guavabk/)*

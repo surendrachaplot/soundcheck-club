@@ -1,17 +1,18 @@
 # Easymind
 
-Easymind is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at The Edge Seoul, Seoul on Fri, 20 Nov 2026.
+Easymind is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Thila Ground, Seoul on Sun, 29 Nov 2026.
 
-Easymind is a club and hip-hop artist based in South Korea, with 7 gigs on soundcheck across Seoul. Often billed alongside oddeen, ABOPF and Acidwork. Next up: The Edge Seoul, Seoul on Fri 20 Nov.
+Easymind is a club and hip-hop artist based in South Korea, with 8 gigs on soundcheck across Seoul. Often billed alongside oddeen, ABOPF and Acidwork. Next up: Thila Ground, Seoul on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Edge Seoul | Seoul |
+| Sun, 29 Nov 2026 | Thila Ground | Seoul |
 
 ## Recently played
 
+- The Edge Seoul, Seoul · Fri, 20 Nov 2026
 - Lovehaus, Seoul · Thu, 2 Oct 2025
 - Cakeshop, Seoul · Fri, 13 Dec 2024
 - Lovehaus, Seoul · Fri, 13 Sept 2024
@@ -23,4 +24,4 @@ Easymind is a club and hip-hop artist based in South Korea, with 7 gigs on sound
 
 oddeen, ABOPF, Acidwork
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easymind/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easymind/)*

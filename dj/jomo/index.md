@@ -1,6 +1,6 @@
 # Jomo
 
-Jomo is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Komedia Bath, West-wales on Thu, 26 Nov 2026.
+Jomo is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Komedia Bath, West-wales on Thu, 26 Nov 2026.
 
 Jomo is a hip-hop and club artist, with 30 gigs on soundcheck across Barcelona, Berlin, London and Tokyo and 2 more. Often billed alongside DJ Quietstorm, Miya and Black Mood. Next up: Komedia Bath, West Wales on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Jomo is a hip-hop and club artist, with 30 gigs on soundcheck across Barcelona, 
 
 DJ Quietstorm, Miya, Black Mood
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jomo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jomo/)*

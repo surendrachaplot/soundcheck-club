@@ -1,6 +1,6 @@
 # Joshua Orange
 
-Joshua Orange is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Spirit, Pittsburgh on Sat, 28 Nov 2026.
+Joshua Orange is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Spirit, Pittsburgh on Sat, 28 Nov 2026.
 
 Joshua Orange is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Detroit, New York City, Philadelphia and Pittsburgh. Often billed alongside HUNY, Dj incognito mode and Amarji King. Next up: Spirit, Pittsburgh on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Joshua Orange is a house and techno artist based in United States of America, wi
 
 HUNY, Dj incognito mode, Amarji King
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaorange/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaorange/)*

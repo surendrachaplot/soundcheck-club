@@ -1,8 +1,8 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at smartbar, Chicago on Sat, 19 Dec 2026.
+Eris Drew is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at smartbar, Chicago on Sat, 19 Dec 2026.
 
-Eris Drew is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 66 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: smartbar, Chicago on Sat 19 Dec.
+Eris Drew is a house and techno artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 67 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: smartbar, Chicago on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 | Thu, 31 Dec 2026 | Tangent Gallery | Detroit |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
 | Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
+| Fri, 18 Jun 2027 | The Woodland Glade, Horseheath Racecourse | South-east |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
@@ -30,4 +31,4 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

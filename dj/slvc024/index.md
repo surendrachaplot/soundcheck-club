@@ -1,14 +1,15 @@
 # SLVC024
 
-SLVC024 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at KG Radio, Belgrade on Fri, 27 Nov 2026.
+SLVC024 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at KG Radio, Belgrade on Fri, 27 Nov 2026.
 
-SLVC024 is a techno and electro artist based in Serbia, with 10 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside AM Hi, Mamavitae and Aneri. Next up: KG Radio, Belgrade on Fri 27 Nov.
+SLVC024 is a techno and electro artist based in Serbia, with 11 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside AM Hi, Mamavitae and Aneri. Next up: KG Radio, Belgrade on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | KG Radio | Belgrade |
+| Thu, 31 Dec 2026 | Drugstore Beograd | Belgrade |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SLVC024 is a techno and electro artist based in Serbia, with 10 gigs on soundche
 
 AM Hi, Mamavitae, Aneri
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvc024/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvc024/)*

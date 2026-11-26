@@ -1,14 +1,15 @@
 # Rakim Under
 
-Rakim Under is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OXI, Berlin on Sat, 28 Nov 2026.
+Rakim Under is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OXI, Berlin on Sat, 28 Nov 2026.
 
-Rakim Under is a house and techno artist based in United Kingdom, with 89 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside David Triana, Der and Kenia. Next up: OXI, Berlin on Sat 28 Nov.
+Rakim Under is a house and techno artist based in United Kingdom, with 90 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside David Triana, Der and Kenia. Next up: OXI, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | OXI | Berlin |
+| Thu, 3 Dec 2026 | Gallery | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rakim Under is a house and techno artist based in United Kingdom, with 89 gigs o
 
 David Triana, Der, Kenia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*

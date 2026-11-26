@@ -1,6 +1,6 @@
 # Finn
 
-Finn is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret Location, London on Sat, 28 Nov 2026.
+Finn is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location, London on Sat, 28 Nov 2026.
 
 Finn is a house and garage artist based in United Kingdom, with 89 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Hamburg and 6 more. Often billed alongside Tom Boogizm, BFTT and Chunky. Next up: TBA - Secret Location, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Finn is a house and garage artist based in United Kingdom, with 89 gigs on sound
 
 Tom Boogizm, BFTT, Chunky
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*

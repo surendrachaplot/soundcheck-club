@@ -1,6 +1,6 @@
 # Antwerp Expo
 
-Antwerp Expo is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "MALUGI x Open Circle present: A Really Sunny Day in February" on Sat, 13 Feb 2027.
+Antwerp Expo is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "MALUGI x Open Circle present: A Really Sunny Day in February" on Sat, 13 Feb 2027.
 
 Antwerp Expo is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, with line-ups including MALUGI. See dates, start times and who's playing. Jan van Rijswijcklaan 191, 2020 Antwerpen, Belgium.
 
@@ -14,4 +14,4 @@ Antwerp Expo is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, w
 
 Jan van Rijswijcklaan 191, 2020 Antwerpen, Belgium, Antwerp
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/antwerp-expo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/antwerp-expo/)*

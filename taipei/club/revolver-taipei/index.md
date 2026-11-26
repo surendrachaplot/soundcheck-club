@@ -1,6 +1,6 @@
 # Revolver Taipei
 
-Revolver Taipei is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "6 𝓤𝓷𝓶𝓪𝓴𝓮 · 0 𝓗𝓸𝓵𝓵𝓸𝔀 · 6 𝓖𝓸𝓭𝓼 ༺" on Sat, 31 Oct 2026.
+Revolver Taipei is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "DOJO#12" on Sat, 28 Nov 2026.
 
 Revolver Taipei is a music venue in Taipei listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Revolver Taipei is a music venue in Taipei listed on soundcheck. 1 upcoming gig.
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 6 𝓤𝓷𝓶𝓪𝓴𝓮 · 0 𝓗𝓸𝓵𝓵𝓸𝔀 · 6 𝓖𝓸𝓭𝓼 ༺ |  |
+| Sat, 28 Nov 2026 | DOJO#12 |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/revolver-taipei/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/revolver-taipei/)*

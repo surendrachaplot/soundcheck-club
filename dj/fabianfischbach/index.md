@@ -1,6 +1,6 @@
 # Fabian Fischbach
 
-Fabian Fischbach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
+Fabian Fischbach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
 
 Fabian Fischbach is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin. Often billed alongside tzunamic, Anne-Sophie Selig and Der olle Kramer. Next up: TBA - Westhafen, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Fabian Fischbach is a techno and house artist based in Germany, with 30 gigs on 
 
 tzunamic, Anne-Sophie Selig, Der olle Kramer
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*

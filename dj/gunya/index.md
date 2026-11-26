@@ -1,6 +1,6 @@
 # Gunya
 
-Gunya is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Culture Cafe, Bangkok on Fri, 4 Dec 2026.
+Gunya is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Culture Cafe, Bangkok on Fri, 4 Dec 2026.
 
 Gunya is a techno and industrial artist based in Thailand, with 139 gigs on soundcheck across Bangkok. Often billed alongside The3RD, Damon Rider and REIKS. Next up: Culture Cafe, Bangkok on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ Gunya is a techno and industrial artist based in Thailand, with 139 gigs on soun
 
 The3RD, Damon Rider, REIKS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunya/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunya/)*

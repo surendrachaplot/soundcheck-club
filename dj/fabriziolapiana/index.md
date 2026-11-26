@@ -1,6 +1,6 @@
 # Fabrizio Lapiana
 
-Fabrizio Lapiana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lanificio 159, Rome on Sat, 12 Dec 2026.
+Fabrizio Lapiana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lanificio 159, Rome on Sat, 12 Dec 2026.
 
 Fabrizio Lapiana is a techno and house artist based in Italy, with 17 gigs on soundcheck across Berlin, Dortmund / Essen, Milan and Rome. Often billed alongside Wizard K, Acid Washed and Adelmo. Next up: Lanificio 159, Rome on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Fabrizio Lapiana is a techno and house artist based in Italy, with 17 gigs on so
 
 Wizard K, Acid Washed, Adelmo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziolapiana/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziolapiana/)*

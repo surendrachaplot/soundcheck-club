@@ -1,6 +1,6 @@
 # Ty Salone
 
-Ty Salone is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bastet, Philadelphia on Sat, 12 Dec 2026.
+Ty Salone is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bastet, Philadelphia on Sat, 12 Dec 2026.
 
 Ty Salone is a house and deep house artist based in United States of America, with 66 gigs on soundcheck across Berlin, Budapest, London and Manchester and 5 more. Often billed alongside Rob Paine, Willyum and Rasho. Next up: Bastet, Philadelphia on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ty Salone is a house and deep house artist based in United States of America, wi
 
 Rob Paine, Willyum, Rasho
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tysalone/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tysalone/)*

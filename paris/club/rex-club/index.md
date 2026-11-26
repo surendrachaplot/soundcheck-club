@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 23 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Vice City presents: Myman, NTBR, Placiid" on Wed, 25 Nov 2026.
+Rex Club is a music venue in Paris with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Vice City presents: Myman, NTBR, Placiid" on Wed, 25 Nov 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 23 upcoming gigs, with line-ups including Abr., Bakean, Camille Luciani and Camporeale (FR) and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 23 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

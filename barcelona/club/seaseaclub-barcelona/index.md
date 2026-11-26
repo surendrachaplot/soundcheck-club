@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "■ Checkpoint & Les Enfants goes to Seaseaclub with The Ghost, Evan Baggs " on Sat, 28 Nov 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "■ Checkpoint & Les Enfants goes to Seaseaclub with The Ghost, Evan Baggs " on Sat, 28 Nov 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Adria (ES), Alex Garcia, Alex Neri and Amaliah and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -18,4 +18,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcom
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

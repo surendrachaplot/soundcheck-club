@@ -1,6 +1,6 @@
 # Ed Culprit
 
-Ed Culprit is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mezzanine - Tooting, London on Sat, 28 Nov 2026.
+Ed Culprit is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mezzanine - Tooting, London on Sat, 28 Nov 2026.
 
 Ed Culprit is a drum & bass and jungle artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Counter Culture, DJ Melinki and Decaz. Next up: Mezzanine - Tooting, London on Sat 28 Nov.
 
@@ -16,4 +16,4 @@ Ed Culprit is a drum & bass and jungle artist based in United Kingdom, with 3 gi
 
 Counter Culture, DJ Melinki, Decaz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edculprit/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edculprit/)*

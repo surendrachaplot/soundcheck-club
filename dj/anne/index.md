@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+ANNĒ is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 ANNĒ is a techno and house artist based in Greece, with 225 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 75 more. Often billed alongside SHDW, Sera J and Alarico. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -35,4 +35,4 @@ ANNĒ is a techno and house artist based in Greece, with 225 gigs on soundcheck 
 
 SHDW, Sera J, Alarico
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

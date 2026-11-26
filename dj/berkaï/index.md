@@ -1,6 +1,6 @@
 # Berkaï
 
-Berkaï is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Blue Room, Montreal on Fri, 27 Nov 2026.
+Berkaï is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Room, Montreal on Fri, 27 Nov 2026.
 
 Berkaï is a progressive house and techno artist based in Morocco, with 5 gigs on soundcheck across Montreal. Often billed alongside AYEENB, Kolophane and Underthebed. Next up: Blue Room, Montreal on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Berkaï is a progressive house and techno artist based in Morocco, with 5 gigs o
 
 AYEENB, Kolophane, Underthebed
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berkaï/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berkaï/)*

@@ -1,6 +1,6 @@
 # Athens Conservatoire - Ωδείον Αθηνών
 
-Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "SOLACE" on Sat, 19 Dec 2026.
+Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SOLACE" on Sat, 19 Dec 2026.
 
 Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Adriana Lopez, CHEX, Dora Mask and Héctor Oaks and 2 more. See dates, start times and who's playing. Vasileos Georgiou B 17-19, Athens 10675.
 
@@ -16,4 +16,4 @@ Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens list
 
 Vasileos Georgiou B 17-19, Athens 10675, Athens
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/athens-conservatoire/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/athens-conservatoire/)*

@@ -1,6 +1,6 @@
 # Kollektivet Livet Bar & Scen
 
-Kollektivet Livet Bar & Scen is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Episodes pres. Stavroz (live)" on Sat, 20 Feb 2027.
+Kollektivet Livet Bar & Scen is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Episodes pres. Stavroz (live)" on Sat, 20 Feb 2027.
 
 Kollektivet Livet Bar & Scen is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Antonsson and Stavroz. See dates, start times and who's playing. Stadsgårdsterminalen, 116 45 Stockholm, Sweden.
 
@@ -14,4 +14,4 @@ Kollektivet Livet Bar & Scen is a music venue in Stockholm listed on soundcheck.
 
 Stadsgårdsterminalen, 116 45 Stockholm, Sweden, Stockholm
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kollektivet-livet-bar-scen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kollektivet-livet-bar-scen/)*

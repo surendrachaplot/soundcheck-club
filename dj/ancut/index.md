@@ -1,6 +1,6 @@
 # Ancut
 
-Ancut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at feedbk, New-york-city on Sat, 28 Nov 2026.
+Ancut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at feedbk, New-york-city on Sat, 28 Nov 2026.
 
 Ancut is a techno and house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 18 more. Often billed alongside Matthias, So-Fi and Alex Picone. Next up: feedbk, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ancut is a techno and house artist based in Italy, with 70 gigs on soundcheck ac
 
 Matthias (1), So-Fi, Alex Picone
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*

@@ -1,6 +1,6 @@
 # Ben Gomori
 
-Ben Gomori is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
+Ben Gomori is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
 
 Ben Gomori is a house and disco artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: 40ft Brewery - Blackhorse Road, London on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 62 gigs on 
 
 Ariane V, Gaucho (UK), Sarahtonin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*

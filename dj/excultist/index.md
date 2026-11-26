@@ -1,6 +1,6 @@
 # Excultist
 
-Excultist is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bolero, Seoul on Thu, 26 Nov 2026.
+Excultist is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bolero, Seoul on Thu, 26 Nov 2026.
 
 Excultist is an electro and pop artist based in South Korea, with 14 gigs on soundcheck across Seoul. Often billed alongside rue, S1LVERLUV and ccottonmouth. Next up: Bolero, Seoul on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Excultist is an electro and pop artist based in South Korea, with 14 gigs on sou
 
 rue (3), S1LVERLUV, ccottonmouth
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excultist/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excultist/)*

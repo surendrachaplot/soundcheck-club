@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "WITH US présente 'EX TOXIQUE' (*´-`)" on Fri, 27 Nov 2026.
+La Station - Gare des Mines is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WITH US présente 'EX TOXIQUE' (*´-`)" on Fri, 27 Nov 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including A-440, Angel D'lite, Antilogic and BABY-B and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 10 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

@@ -1,8 +1,8 @@
 # Vero
 
-Vero is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sky Club, Leipzig on Sat, 28 Nov 2026.
+Vero is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sky Club, Leipzig on Sat, 28 Nov 2026.
 
-Vero is a techno and electro artist based in Ukraine, with 16 gigs on soundcheck across Amsterdam, Berlin, Freiburg and Leipzig and 3 more. Often billed alongside Ben Dust, AMBAM and ASLO. Next up: Sky Club, Leipzig on Sat 28 Nov.
+Vero is a techno and tech house artist based in Ukraine, with 17 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Freiburg and 4 more. Often billed alongside Ben Dust, AMBAM and ASLO. Next up: Sky Club, Leipzig on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vero is a techno and electro artist based in Ukraine, with 16 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Sky Club | Leipzig |
 | Fri, 11 Dec 2026 | Am Hawerkamp | Münster |
+| Fri, 25 Dec 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Vero is a techno and electro artist based in Ukraine, with 16 gigs on soundcheck
 
 Ben Dust, AMBAM, ASLO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*

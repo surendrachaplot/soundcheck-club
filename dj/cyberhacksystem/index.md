@@ -1,6 +1,6 @@
 # CYBERHACKSYSTEM
 
-CYBERHACKSYSTEM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bolero, Seoul on Sat, 28 Nov 2026.
+CYBERHACKSYSTEM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bolero, Seoul on Sat, 28 Nov 2026.
 
 CYBERHACKSYSTEM is a techno and house artist based in Japan, with 79 gigs on soundcheck across Osaka, Seoul, Shanghai and Tokyo. Often billed alongside ecec, HIMAWARI and MoEPiKA. Next up: Bolero, Seoul on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ CYBERHACKSYSTEM is a techno and house artist based in Japan, with 79 gigs on sou
 
 ecec, HIMAWARI, MoEPiKA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*

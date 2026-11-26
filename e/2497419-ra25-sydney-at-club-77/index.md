@@ -1,6 +1,6 @@
 # RA25: Sydney at Club 77
 
-RA25: Sydney at Club 77 on Sat 5 Dec, Sydney. 10 artists: Ben Fester, CC:DISCO!, DJ PGZ and DJ Plead and 6 more. See the line-up on soundcheck.
+RA25: Sydney at Club 77 on Sat 5 Dec, Sydney. 10 artists: Ben Fester, CC:DISCO!, DJ PGZ and DJ Plead and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

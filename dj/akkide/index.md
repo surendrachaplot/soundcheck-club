@@ -1,6 +1,6 @@
 # AKKI (DE)
 
-AKKI (DE) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Sat, 19 Dec 2026.
+AKKI (DE) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at club asia, Tokyo on Sat, 19 Dec 2026.
 
 AKKI (DE) is a techno and garage artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Bern and Calgary and 20 more. Often billed alongside Alfred Heinrichs, Alignment and Klanglos. Next up: club asia, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ AKKI (DE) is a techno and garage artist based in Germany, with 41 gigs on soundc
 
 Alfred Heinrichs, Alignment, Klanglos
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*

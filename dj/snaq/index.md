@@ -1,6 +1,6 @@
 # SNAQ
 
-SNAQ is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 3 Dec 2026.
+SNAQ is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 3 Dec 2026.
 
 SNAQ is a techno and club artist based in United States of America, with 95 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside DMN TWNK, Del and JustJovani. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ SNAQ is a techno and club artist based in United States of America, with 95 gigs
 
 DMN TWNK, Del (4), JustJovani
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snaq/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snaq/)*

@@ -1,6 +1,6 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu, 26 Nov 2026.
+OK Williams is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu, 26 Nov 2026.
 
 OK Williams is a techno and house artist based in United Kingdom, with 196 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baltimore and 54 more. Often billed alongside BASHKKA, Richard Akingbehin and Shanti Celeste. Next up: TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu 26 Nov.
 
@@ -32,4 +32,4 @@ OK Williams is a techno and house artist based in United Kingdom, with 196 gigs 
 
 BASHKKA, Richard Akingbehin, Shanti Celeste
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*

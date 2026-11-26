@@ -1,17 +1,18 @@
 # erika (SF)
 
-erika (SF) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sun, 22 Nov 2026.
+erika (SF) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 4 Dec 2026.
 
-erika (SF) is a club and techno artist based in United States of America, with 114 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: The Regency Ballroom, San Francisco/Oakland on Sun 22 Nov.
+erika (SF) is a club and techno artist based in United States of America, with 115 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
+| Fri, 4 Dec 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- The Regency Ballroom, San Francisco/Oakland · Sun, 22 Nov 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 20 Nov 2026
 - Signal, New York City · Thu, 5 Nov 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 30 Oct 2026
@@ -19,10 +20,9 @@ erika (SF) is a club and techno artist based in United States of America, with 1
 - YuYu Cine Club, Mexico City · Fri, 16 Oct 2026
 - TBA - Downtown Los Angeles, Los Angeles · Fri, 9 Oct 2026
 - Public Works, San Francisco/Oakland · Sun, 27 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 sfcowboy, moth (US), Lexicon
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*

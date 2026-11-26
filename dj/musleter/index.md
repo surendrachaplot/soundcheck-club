@@ -1,6 +1,6 @@
 # Musleter
 
-Musleter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
+Musleter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
 
 Musleter is a house and techno artist based in Poland, with 25 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Hong Kong and 3 more. Often billed alongside Sacre, Dedenia and Edvvin. Next up: ://about blank, Berlin on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Musleter is a house and techno artist based in Poland, with 25 gigs on soundchec
 
 Sacre, Dedenia, Edvvin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musleter/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musleter/)*

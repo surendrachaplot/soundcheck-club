@@ -1,14 +1,15 @@
 # Guso
 
-Guso is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at C's Bar, Shanghai on Fri, 27 Nov 2026.
+Guso is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at C's Bar, Shanghai on Fri, 27 Nov 2026.
 
-Guso is a techno and hardcore artist based in China, with 27 gigs on soundcheck across Shanghai. Often billed alongside Onyx, DJ EBP and 2Difficult. Next up: C's Bar, Shanghai on Fri 27 Nov.
+Guso is a techno and hardcore artist based in China, with 28 gigs on soundcheck across Shanghai and Shenzhen. Often billed alongside Onyx, DJ EBP and 2Difficult. Next up: C's Bar, Shanghai on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | C's Bar | Shanghai |
+| Sat, 12 Dec 2026 | OIL Club | Shenzhen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Guso is a techno and hardcore artist based in China, with 27 gigs on soundcheck 
 
 Onyx, DJ EBP, 2Difficult
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guso/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guso/)*

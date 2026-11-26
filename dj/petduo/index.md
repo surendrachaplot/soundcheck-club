@@ -1,6 +1,6 @@
 # PETDuo
 
-PETDuo is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sensorium, Berlin on Wed, 30 Dec 2026.
+PETDuo is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Wed, 30 Dec 2026.
 
 PETDuo is a techno and tech house artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 25 more. Often billed alongside Viktor Kampf, OGUZ and Nuke. Next up: Sensorium, Berlin on Wed 30 Dec.
 
@@ -27,4 +27,4 @@ PETDuo is a techno and tech house artist based in Germany, with 102 gigs on soun
 
 Viktor Kampf, OGUZ, Nuke
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petduo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petduo/)*

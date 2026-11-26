@@ -1,6 +1,6 @@
 # Fly Fox
 
-Fly Fox is a Disco and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Wiper and True, Old Market Taproom, Bristol on Thu, 26 Nov 2026.
+Fly Fox is a Disco and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Wiper and True, Old Market Taproom, Bristol on Thu, 26 Nov 2026.
 
 Fly Fox is a disco and breakbeat artist, with 9 gigs on soundcheck across Bristol and Madrid. Often billed alongside hi tanke, Frankie 2 Handz and Ind Ra. Next up: Wiper and True, Old Market Taproom, Bristol on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Fly Fox is a disco and breakbeat artist, with 9 gigs on soundcheck across Bristo
 
 hi tanke, Frankie 2 Handz, Ind Ra
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flyfox/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flyfox/)*

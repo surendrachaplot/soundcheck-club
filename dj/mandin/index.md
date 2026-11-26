@@ -1,14 +1,14 @@
 # MANDIN
 
-MANDIN is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Rodeo Klub, Budapest on Fri, 20 Nov 2026.
+MANDIN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rodeo Klub, Budapest on Fri, 27 Nov 2026.
 
-MANDIN is a house and afro house artist based in Hungary, with 20 gigs on soundcheck across Budapest. Often billed alongside Ratkay, Viktor Bondar and Abrish. Next up: Rodeo Klub, Budapest on Fri 20 Nov.
+MANDIN is a house and tech house artist based in Hungary, with 21 gigs on soundcheck across Budapest. Often billed alongside Ratkay, Viktor Bondar and Abrish. Next up: Rodeo Klub, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Rodeo Klub | Budapest |
+| Fri, 27 Nov 2026 | Rodeo Klub | Budapest |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ MANDIN is a house and afro house artist based in Hungary, with 20 gigs on soundc
 
 Ratkay, Viktor Bondar, Abrish
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandin/)*

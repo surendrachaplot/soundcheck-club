@@ -1,6 +1,6 @@
 # Chus & Ceballos: Back In Brooklyn at Superior Ingredients
 
-Chus & Ceballos: Back In Brooklyn at Superior Ingredients on Sun 29 Nov, New York City. 3 artists: Chus & Ceballos, DJ Chus and Pablo Ceballos. House and Tech House. See the line-up on soundcheck.
+Chus & Ceballos: Back In Brooklyn at Superior Ingredients on Sun 29 Nov, New York City. 4 artists: Chus & Ceballos, Cristian Arango, DJ Chus and Pablo Ceballos. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Chus & Ceballos: Back In Brooklyn at Superior Ingredients on Sun 29 Nov, New Yor
 ## Line-up
 
 - Chus & Ceballos
+- Cristian Arango
 - DJ Chus
 - Pablo Ceballos
 

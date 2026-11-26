@@ -1,6 +1,6 @@
 # Theo Gramal
 
-Theo Gramal is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 29 Jan 2027.
+Theo Gramal is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 29 Jan 2027.
 
 Theo Gramal is a techno and downtempo artist based in Germany, with 20 gigs on soundcheck across Berlin, Leipzig and Nürnberg. Often billed alongside Solatic, Acid Foxy and Dolph. Next up: Die Rakete, Nürnberg on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Theo Gramal is a techno and downtempo artist based in Germany, with 20 gigs on s
 
 Solatic, Acid Foxy, Dolph
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*

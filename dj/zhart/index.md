@@ -1,6 +1,6 @@
 # zhart
 
-zhart is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Beate Uwe, Berlin on Sun, 29 Nov 2026.
+zhart is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Beate Uwe, Berlin on Sun, 29 Nov 2026.
 
 zhart is a downtempo and deep house artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg and Zurich. Often billed alongside ANNAWAFFEL, Agrest and Chioma. Next up: Beate Uwe, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ zhart is a downtempo and deep house artist based in Germany, with 12 gigs on sou
 
 ANNAWAFFEL, Agrest, Chioma
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart/)*

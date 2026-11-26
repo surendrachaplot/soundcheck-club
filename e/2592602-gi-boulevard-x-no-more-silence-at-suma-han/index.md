@@ -1,6 +1,6 @@
-# GIØ- Boulevard X NO MORE SILENCE at Suma Han
+# GIØ - Boulevard X NO MORE SILENCE at Suma Han
 
-GIØ- Boulevard X NO MORE SILENCE at Suma Han on Sat 30 Jan, Istanbul. 4 artists: 2TAL, DJ HOTMAIL, GIØ and SIN9. Techno. See the line-up on soundcheck.
+GIØ - Boulevard X NO MORE SILENCE at Suma Han on Sat 30 Jan, Istanbul. 4 artists: 2TAL, DJ HOTMAIL, GIØ and SIN9. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

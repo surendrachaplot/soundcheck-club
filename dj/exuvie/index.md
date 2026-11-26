@@ -1,6 +1,6 @@
 # Exuvie
 
-Exuvie is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
+Exuvie is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
 
 Exuvie is a techno and electro artist based in Belgium, with 25 gigs on soundcheck across Brussels, Ghent, Lyon and Milan. Often billed alongside Hadone, Blain and Clara D. Next up: UMI, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Exuvie is a techno and electro artist based in Belgium, with 25 gigs on soundche
 
 Hadone, Blain, Clara D
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvie/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvie/)*

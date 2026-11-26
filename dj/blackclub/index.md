@@ -1,6 +1,6 @@
 # BLACKCLUB
 
-BLACKCLUB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Podlasie Club, Chicago on Sat, 5 Dec 2026.
+BLACKCLUB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Podlasie Club, Chicago on Sat, 5 Dec 2026.
 
 BLACKCLUB is a techno and house artist based in United States of America, with 44 gigs on soundcheck across Brussels, Chicago, Glasgow and Lyon and 3 more. Often billed alongside hhunter, HOTPRETTY and Miss Twink USA. Next up: Podlasie Club, Chicago on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BLACKCLUB is a techno and house artist based in United States of America, with 4
 
 hhunter, HOTPRETTY, Miss Twink USA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackclub/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackclub/)*

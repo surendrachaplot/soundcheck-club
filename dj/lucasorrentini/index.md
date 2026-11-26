@@ -1,6 +1,6 @@
 # Luca Sorrentini
 
-Luca Sorrentini is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lento Hi Fi Bar, Naples on Wed, 2 Dec 2026.
+Luca Sorrentini is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lento Hi Fi Bar, Naples on Wed, 2 Dec 2026.
 
 Luca Sorrentini is a disco and funk / soul artist based in Italy, with 9 gigs on soundcheck across Naples. Often billed alongside Conquasso, FabioGrillo and Giuseppe Fava. Next up: Lento Hi Fi Bar, Naples on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Luca Sorrentini is a disco and funk / soul artist based in Italy, with 9 gigs on
 
 Conquasso, FabioGrillo, Giuseppe Fava
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasorrentini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasorrentini/)*

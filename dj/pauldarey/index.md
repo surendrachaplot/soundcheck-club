@@ -1,6 +1,6 @@
 # Paul Darey
 
-Paul Darey is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Macarena Club, Barcelona on Thu, 10 Dec 2026.
+Paul Darey is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Thu, 10 Dec 2026.
 
 Paul Darey is a deep house and tech house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Lisbon and 1 more. Often billed alongside Dadame, Diamaē and Dub Tiger. Next up: Macarena Club, Barcelona on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Paul Darey is a deep house and tech house artist based in Spain, with 9 gigs on 
 
 Dadame, Diamaē, Dub Tiger
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauldarey/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauldarey/)*

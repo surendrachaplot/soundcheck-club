@@ -1,6 +1,6 @@
 # Valencia
 
-Valencia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, New York City on Thu, 31 Dec 2026.
+Valencia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Thu, 31 Dec 2026.
 
 Valencia is a techno and house artist based in Colombia, with 35 gigs on soundcheck across Austin, Bogotá, Medellin and New York City. Often billed alongside McCombie, GHERAN and Alessandra Fierro. Next up: Elsewhere, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Valencia is a techno and house artist based in Colombia, with 35 gigs on soundch
 
 McCombie, GHERAN, Alessandra Fierro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valencia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valencia/)*

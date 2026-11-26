@@ -1,6 +1,6 @@
 # Bodega Bruja
 
-Bodega Bruja is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
+Bodega Bruja is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Paragon, New York City on Fri, 18 Dec 2026.
 
 Bodega Bruja is a techno and house artist, with 17 gigs on soundcheck across New York City. Often billed alongside Recreational DJ, Kweku and Marios. Next up: Paragon, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Bodega Bruja is a techno and house artist, with 17 gigs on soundcheck across New
 
 Recreational DJ, Kweku, Marios
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegabruja/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegabruja/)*

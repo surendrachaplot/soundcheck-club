@@ -1,6 +1,6 @@
 # Meyhartt
 
-Meyhartt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
+Meyhartt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
 
 Meyhartt is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Berlin, Erfurt, Leipzig and Prague and 1 more. Often billed alongside VLUNA, Jaszaloth and CAVVØ. Next up: Ilses Erika, Leipzig on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Meyhartt is a techno and trance artist based in Germany, with 31 gigs on soundch
 
 VLUNA, Jaszaloth, CAVVØ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*

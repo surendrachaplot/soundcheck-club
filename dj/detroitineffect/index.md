@@ -1,18 +1,20 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 28 Nov 2026.
+Detroit In Effect is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 28 Nov 2026.
 
-Detroit In Effect is a techno and electro artist based in United States of America, with 122 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 43 more. Often billed alongside Serge, DJ Assault and Afra. Next up: Platforma Wolff, Bucharest on Sat 28 Nov.
+Detroit In Effect is a techno and electro artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 43 more. Often billed alongside Serge, DJ Assault and Afra. Next up: Platforma Wolff, Bucharest on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Platforma Wolff | Bucharest |
+| Sat, 28 Nov 2026 | Kafe Hærverk | Oslo |
 | Sat, 5 Dec 2026 | Kino Roland | Zurich |
 | Fri, 11 Dec 2026 | Het Bos | Antwerp |
 | Sun, 13 Dec 2026 | Hoppetosse | Berlin |
 | Sat, 19 Dec 2026 | Northern Lights Lounge | Detroit |
+| Thu, 31 Dec 2026 | M.O.T | London |
 | Fri, 1 Jan 2027 | The White Hotel | Manchester |
 
 ## Recently played
@@ -30,4 +32,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Serge, DJ Assault, Afra
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

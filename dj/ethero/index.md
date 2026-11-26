@@ -1,6 +1,6 @@
 # ( ether o )
 
-( ether o ) is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rollberg26, Berlin on Sun, 29 Nov 2026.
+( ether o ) is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rollberg26, Berlin on Sun, 29 Nov 2026.
 
 ( ether o ) is an ambient and techno artist based in Taiwan, with 9 gigs on soundcheck across Berlin. Often billed alongside Slow Moon, Andrea Burelli and Andrea D'Arsié. Next up: Rollberg26, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@
 
 Slow Moon, Andrea Burelli, Andrea D'Arsié
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethero/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethero/)*

@@ -1,6 +1,6 @@
 # Sean Gonzalez
 
-Sean Gonzalez is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bredouille, Berlin on Sat, 5 Dec 2026.
+Sean Gonzalez is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bredouille, Berlin on Sat, 5 Dec 2026.
 
 Sean Gonzalez is a house and electro artist based in Bolivia, with 14 gigs on soundcheck across Berlin and New York City. Often billed alongside Juan Diego Drouet, Baroma and Culo Sucio. Next up: Bredouille, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sean Gonzalez is a house and electro artist based in Bolivia, with 14 gigs on so
 
 Juan Diego Drouet, Baroma, Culo Sucio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*

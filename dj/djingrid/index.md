@@ -1,6 +1,6 @@
 # DJ Ingrid
 
-DJ Ingrid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paradiso Music Room, Byron Bay on Thu, 31 Dec 2026.
+DJ Ingrid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Paradiso Music Room, Byron Bay on Thu, 31 Dec 2026.
 
 DJ Ingrid is a house and techno artist based in Australia, with 50 gigs on soundcheck across Byron Bay, Melbourne and Sydney. Often billed alongside Ryan Berkeley, DJ JNETT and Mikekon. Next up: Paradiso Music Room, Byron Bay on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DJ Ingrid is a house and techno artist based in Australia, with 50 gigs on sound
 
 Ryan Berkeley, DJ JNETT, Mikekon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djingrid/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djingrid/)*

@@ -1,6 +1,6 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Carriageworks, Sydney on Sat, 30 Jan 2027.
+SWIM (AU) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Carriageworks, Sydney on Sat, 30 Jan 2027.
 
 SWIM (AU) is a house and techno artist based in Australia, with 59 gigs on soundcheck across Adelaide, Amsterdam, Belfast and Berlin and 24 more. Often billed alongside CRUSH3d, DJ Heartstring and BELLA (NL). Next up: Carriageworks, Sydney on Sat 30 Jan.
 
@@ -29,4 +29,4 @@ SWIM (AU) is a house and techno artist based in Australia, with 59 gigs on sound
 
 CRUSH3d, DJ Heartstring, BELLA (NL)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*

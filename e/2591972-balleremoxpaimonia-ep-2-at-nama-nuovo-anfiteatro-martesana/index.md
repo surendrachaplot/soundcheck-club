@@ -1,6 +1,6 @@
 # BalleremoXPaimonia - Ep.2 at NAMA - Nuovo Anfiteatro Martesana
 
-BalleremoXPaimonia - Ep.2 at NAMA - Nuovo Anfiteatro Martesana on Fri 11 Dec, Milan. 6 artists: 6amsunset, biased, F L V X X X and JUNGLA and 2 more. Techno and Bass. See the line-up on soundcheck.
+BalleremoXPaimonia - Ep.2 at NAMA - Nuovo Anfiteatro Martesana on Fri 11 Dec, Milan. 7 artists: 6amsunset, biased, F L V X X X and JUNGLA and 3 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ BalleremoXPaimonia - Ep.2 at NAMA - Nuovo Anfiteatro Martesana on Fri 11 Dec, Mi
 - biased
 - F L V X X X
 - JUNGLA
+- Ruhta
 - Sense Fracture
 - Slikback
 

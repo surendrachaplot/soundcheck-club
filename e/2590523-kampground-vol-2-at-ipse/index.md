@@ -1,6 +1,6 @@
 # Kampground Vol. 2 at Ipse
 
-Kampground Vol. 2 at Ipse on Sat 12 Dec, Berlin. 2 artists: PEACEOFHIT and ROBERT KAMP. Techno and House. See the line-up on soundcheck.
+Kampground Vol. 2 at Ipse on Sat 12 Dec, Berlin. 3 artists: PEACEOFHIT, ROBERT KAMP and Sassy Honey. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Kampground Vol. 2 at Ipse on Sat 12 Dec, Berlin. 2 artists: PEACEOFHIT and ROBER
 
 - PEACEOFHIT
 - ROBERT KAMP
+- Sassy Honey
 
 *Source: [soundcheck](https://soundcheck.club/e/2590523-kampground-vol-2-at-ipse/)*

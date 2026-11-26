@@ -1,6 +1,6 @@
 # Adana Twins
 
-Adana Twins is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Adana Twins is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Adana Twins is a techno and house artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Andhim, Colyn and Cole Knight. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Adana Twins is a techno and house artist based in Germany, with 88 gigs on sound
 
 Andhim, Colyn, Cole Knight
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adanatwins/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adanatwins/)*

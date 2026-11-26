@@ -1,6 +1,6 @@
 # Ampersand Presents: ON at 21soho
 
-Ampersand Presents: ON at 21soho on Fri 27 Nov, London. 2 artists: WILLY XO and wyche. House and Tech House. See the line-up on soundcheck.
+Ampersand Presents: ON at 21soho on Fri 27 Nov, London. 3 artists: vish, WILLY XO and wyche. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ampersand Presents: ON at 21soho on Fri 27 Nov, London. 2 artists: WILLY XO and 
 
 ## Line-up
 
+- vish
 - WILLY XO
 - wyche
 

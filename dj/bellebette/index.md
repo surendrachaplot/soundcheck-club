@@ -1,6 +1,6 @@
 # Belle Bette
 
-Belle Bette is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Jago, London on Sat, 12 Dec 2026.
+Belle Bette is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Jago, London on Sat, 12 Dec 2026.
 
 Belle Bette is a disco and funk / soul artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Joseph Russell, Cedric Woo and Donna Leake. Next up: The Jago, London on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Belle Bette is a disco and funk / soul artist based in United Kingdom, with 5 gi
 
 Joseph Russell, Cedric Woo, Donna Leake
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellebette/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellebette/)*

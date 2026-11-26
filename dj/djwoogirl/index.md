@@ -1,6 +1,6 @@
 # DJ Woo Girl
 
-DJ Woo Girl is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jolene, Copenhagen on Fri, 27 Nov 2026.
+DJ Woo Girl is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jolene, Copenhagen on Fri, 27 Nov 2026.
 
 DJ Woo Girl is a house and progressive house artist based in Denmark, with 23 gigs on soundcheck across Copenhagen. Often billed alongside Baltza, Lucky Lube and Frederik Tollund. Next up: Jolene, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Woo Girl is a house and progressive house artist based in Denmark, with 23 gi
 
 Baltza, Lucky Lube, Frederik Tollund
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*

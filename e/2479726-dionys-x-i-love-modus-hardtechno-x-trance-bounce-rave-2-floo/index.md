@@ -1,6 +1,6 @@
 # Dionys x I Love Modus: Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club
 
-Dionys x I Love Modus: Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club on Sat 12 Dec, Berlin. 2 artists: Brizze and e.leptic. Trance and Techno. See the line-up on soundcheck.
+Dionys x I Love Modus: Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club on Sat 12 Dec, Berlin. 8 artists: Brizze, cee_ohh, DJ Jetset and e.leptic and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,12 @@ Dionys x I Love Modus: Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club o
 ## Line-up
 
 - Brizze
+- cee_ohh
+- DJ Jetset
 - e.leptic
+- Elias Nuit (2)
+- senaitstar
+- VIØLITAS
+- Zukunftsfritze
 
 *Source: [soundcheck](https://soundcheck.club/e/2479726-dionys-x-i-love-modus-hardtechno-x-trance-bounce-rave-2-floo/)*

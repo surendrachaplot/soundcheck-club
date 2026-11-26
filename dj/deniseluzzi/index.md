@@ -1,6 +1,6 @@
 # Denise Luzzi
 
-Denise Luzzi is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 27 Nov 2026.
+Denise Luzzi is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 27 Nov 2026.
 
 Denise Luzzi is an electro and electronica artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Florence and 3 more. Often billed alongside Dino, Sancra and Fabrizio Sala. Next up: Circolo degli Illuminati, Rome on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Denise Luzzi is an electro and electronica artist based in Italy, with 25 gigs o
 
 Dino (2), Sancra, Fabrizio Sala
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deniseluzzi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deniseluzzi/)*

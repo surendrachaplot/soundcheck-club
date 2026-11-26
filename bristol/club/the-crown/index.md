@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Chichester to Bristol" on Wed, 25 Nov 2026.
+The Crown is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Chichester to Bristol" on Wed, 25 Nov 2026.
 
 The Crown is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including Frazer Ray, JC, Neev and Wray. See dates, start times and who's playing. 10, All Saints Lane, Bristol. BS1 1JH.
 
@@ -16,4 +16,4 @@ The Crown is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, wit
 
 10, All Saints Lane, Bristol. BS1 1JH, Bristol
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*

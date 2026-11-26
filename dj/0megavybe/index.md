@@ -1,6 +1,6 @@
 # 0megavybe
 
-0megavybe is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 10 Dec 2026.
+0megavybe is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 10 Dec 2026.
 
 0megavybe is a trance and techno artist based in Germany, with 71 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 9 more. Often billed alongside HEDDA, FRÆNZ: and Multifun. Next up: Golden Pudel Club, Hamburg on Thu 10 Dec.
 
@@ -25,4 +25,4 @@
 
 HEDDA, FRÆNZ:, Multifun
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/0megavybe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/0megavybe/)*

@@ -1,6 +1,6 @@
 # Hughesee
 
-Hughesee is a Jungle and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SET Social, London on Sat, 28 Nov 2026.
+Hughesee is a Jungle and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SET Social, London on Sat, 28 Nov 2026.
 
 Hughesee is a jungle and hardcore artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Louise Plus One, Equinox (UK) and DJ Azure. Next up: SET Social, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Hughesee is a jungle and hardcore artist based in United Kingdom, with 114 gigs 
 
 Louise Plus One, Equinox (UK), DJ Azure
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hughesee/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hughesee/)*

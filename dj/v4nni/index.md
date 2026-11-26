@@ -1,6 +1,6 @@
 # V4NNI
 
-V4NNI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
+V4NNI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
 
 V4NNI is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside CEEE, *Tia* and Alexander Pohl. Next up: TBA - Westhafen, Berlin on Fri 27 Nov.
 
@@ -15,4 +15,4 @@ V4NNI is a techno and trance artist based in Germany, with 2 gigs on soundcheck 
 
 CEEE, *Tia*, Alexander Pohl
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v4nni/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v4nni/)*

@@ -1,6 +1,6 @@
 # Cabana
 
-Cabana is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
+Cabana is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
 
 Cabana is a progressive house and house artist based in Netherlands, with 55 gigs on soundcheck across Barcelona, Prague and Tirana. Often billed alongside Andrea Love, RuxXandra and Alice Youngling. Next up: Roots Audiophile Café, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cabana is a progressive house and house artist based in Netherlands, with 55 gig
 
 Andrea Love, RuxXandra, Alice Youngling
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabana/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabana/)*

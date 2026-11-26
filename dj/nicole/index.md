@@ -1,6 +1,6 @@
 # Nicole
 
-Nicole is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fuchs2, Prague on Fri, 18 Dec 2026.
+Nicole is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fuchs2, Prague on Fri, 18 Dec 2026.
 
 Nicole is an electronica and house artist based in Croatia, with 21 gigs on soundcheck across Barcelona, Berlin, Lisbon and Milan and 4 more. Often billed alongside Bekuchi, Flaneur. and Troy. Next up: Fuchs2, Prague on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Nicole is an electronica and house artist based in Croatia, with 21 gigs on soun
 
 Bekuchi, Flaneur., Troy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*

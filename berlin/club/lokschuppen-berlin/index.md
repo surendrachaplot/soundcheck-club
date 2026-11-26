@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 47 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "SIGNALS - 5€ Tickets - MËRO, MIMI404, Pamela Rave b2b Bouncy Bitch	" on Wed, 25 Nov 2026.
+Lokschuppen Berlin is a music venue in Berlin with 49 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SIGNALS - 5€ Tickets - MËRO, MIMI404, Pamela Rave b2b Bouncy Bitch	" on Wed, 25 Nov 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 47 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, YOVA and Aida Arko and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 49 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, YOVA and Aida Arko and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 47 upcoming 
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | SIGNALS - 5€ Tickets - MËRO, MIMI404, Pamela Rave b2b Bouncy Bitch	 | Bouncy Bitch, MIMI404, MËRO, Pamela Rave |
 | Thu, 26 Nov 2026 | Chantal's House of Shame |  |
-| Fri, 27 Nov 2026 | MixMag x Lokschuppen pres. Aida Arko, LIEKS, Azzurro, Ozzwald | Aida Arko, Amo (IT), Azzurro, Cobb Douglas, Joshkabonna, LIEKS, Ozzwald, SOHOE, carlo kalu, pavvvvvvlo |
+| Fri, 27 Nov 2026 | MixMag x Lokschuppen pres. Aida Arko, LIEKS, Azzurro, Arman John | Aida Arko, Amo (IT), Arman John, Azzurro, Cobb Douglas, Joshkabonna, LIEKS, Ozzwald, SOHOE, carlo kalu, pavvvvvvlo |
 | Sat, 28 Nov 2026 | CUTE with EARGASM GOD, Trancestrudel All Night Long, Charleen Herzig | 5euroGoldi, Charleen Herzig, DJ Flink, DJ WASSERFALL, EARGASM GOD, JUICY (DE), Krash Cora, Stacy, Trancestrudel, sterni (DE) |
 | Sun, 29 Nov 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | DJ Jetset, EGE363 |
 | Wed, 2 Dec 2026 | SIGNALS - 5€ Tickets - with DJ Traytex, bbymeister, EZA | DJ Traytex, EZA (DE), bbymeister |
@@ -23,4 +23,4 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 47 upcoming 
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

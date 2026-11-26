@@ -1,17 +1,18 @@
 # Kristina Sheli
 
-Kristina Sheli is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
+Kristina Sheli is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tausend, Berlin on Fri, 27 Nov 2026.
 
-Kristina Sheli is a house and electro artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside LIZZN, Marvel Gold and Natasha Roze. Next up: Beate Uwe, Berlin on Sat 21 Nov.
+Kristina Sheli is a house and electro artist based in Germany, with 25 gigs on soundcheck across Berlin. Often billed alongside LIZZN, Marvel Gold and Natasha Roze. Next up: Tausend, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Beate Uwe | Berlin |
+| Fri, 27 Nov 2026 | Tausend | Berlin |
 
 ## Recently played
 
+- Beate Uwe, Berlin · Sat, 21 Nov 2026
 - Motzstrassenfest at Nollendorfplatz, Berlin · Sun, 19 Jul 2026
 - Tausend, Berlin · Sat, 27 Jun 2026
 - Kater, Berlin · Sat, 4 Apr 2026
@@ -19,10 +20,9 @@ Kristina Sheli is a house and electro artist based in Germany, with 24 gigs on s
 - Tausend, Berlin · Thu, 19 Feb 2026
 - Kater, Berlin · Sat, 15 Nov 2025
 - TBA - Former Watergate, Falckensteinstraße 49, Kreuzberg, Berlin · Sat, 15 Nov 2025
-- Beate Uwe, Berlin · Sat, 4 Oct 2025
 
 ## Shares bills with
 
 LIZZN, Marvel Gold, Natasha Roze
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinasheli/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinasheli/)*

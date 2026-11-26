@@ -1,6 +1,6 @@
 # Dicso_Muzek
 
-Dicso_Muzek is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Süss War Gestern, Berlin on Tue, 15 Dec 2026.
+Dicso_Muzek is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Süss War Gestern, Berlin on Tue, 15 Dec 2026.
 
 Dicso_Muzek is a house and electro artist based in Germany, with 65 gigs on soundcheck across Berlin. Often billed alongside Better Call Paul, Nikklaas and ADAM REC.. Next up: Süss War Gestern, Berlin on Tue 15 Dec.
 
@@ -25,4 +25,4 @@ Dicso_Muzek is a house and electro artist based in Germany, with 65 gigs on soun
 
 Better Call Paul, Nikklaas, ADAM REC.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dicso_muzek/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dicso_muzek/)*

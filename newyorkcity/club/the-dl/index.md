@@ -1,6 +1,6 @@
 # The DL
 
-The DL is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Reggaeton Friendsgiving NYC – Thanksgiving Eve Rooftop Party" on Wed, 25 Nov 2026.
+The DL is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Reggaeton Friendsgiving NYC – Thanksgiving Eve Rooftop Party" on Wed, 25 Nov 2026.
 
 The DL is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 95 Delancey Street, New York, New York, 10002, United States.
 
@@ -15,4 +15,4 @@ The DL is a music venue in New York City listed on soundcheck. 2 upcoming gigs. 
 
 95 Delancey Street, New York, New York, 10002, United States, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-dl/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-dl/)*

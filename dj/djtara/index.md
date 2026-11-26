@@ -1,6 +1,6 @@
 # DJ Tara
 
-DJ Tara is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Sun, 17 Jan 2027.
+DJ Tara is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Sun, 17 Jan 2027.
 
 DJ Tara is a house and r&b artist based in United States of America, with 42 gigs on soundcheck across Berlin, Detroit, London and Los Angeles and 1 more. Often billed alongside FLORA, Toribio and Niyah West. Next up: Good Room, New York City on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ DJ Tara is a house and r&b artist based in United States of America, with 42 gig
 
 FLORA, Toribio, Niyah West
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*

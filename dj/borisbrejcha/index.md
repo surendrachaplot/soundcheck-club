@@ -1,8 +1,8 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
-Boris Brejcha is a techno and minimal techno artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 66 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
+Boris Brejcha is a techno and minimal techno artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 67 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 146 g
 | Sat, 23 Jan 2027 | Melbourne Showgrounds | Melbourne |
 | Fri, 5 Feb 2027 | Igloofest | Montreal |
 | Sat, 6 Feb 2027 | Rebel | Toronto |
+| Fri, 25 Jun 2027 | Allgäu Airport - Flughafen Memmingen | Bavaria |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 146 g
 
 Moritz Hofbauer, Ann Clue, Deniz Bul
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

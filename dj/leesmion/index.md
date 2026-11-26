@@ -1,13 +1,14 @@
 # Leesmion
 
-Leesmion is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at RADION, Amsterdam on Fri, 1 Jan 2027.
+Leesmion is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at LOU, Rotterdam on Fri, 11 Dec 2026.
 
-Leesmion is a progressive house and house artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Andy (NL), Charmaine and DTM Funk. Next up: RADION, Amsterdam on Fri 1 Jan.
+Leesmion is a minimal and tech house artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Andy (NL), Charmaine and DTM Funk. Next up: LOU, Rotterdam on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | LOU | Rotterdam |
 | Fri, 1 Jan 2027 | RADION | Amsterdam |
 
 ## Recently played
@@ -19,4 +20,4 @@ Leesmion is a progressive house and house artist based in Netherlands, with 3 gi
 
 Andy (NL), Charmaine, DTM Funk
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leesmion/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leesmion/)*

@@ -1,6 +1,6 @@
 # Virgo (3)
 
-Virgo (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at BreadRoom, Milan on Thu, 26 Nov 2026.
+Virgo (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BreadRoom, Milan on Thu, 26 Nov 2026.
 
 Virgo is an electro and techno artist based in Italy, with 7 gigs on soundcheck across Milan. Often billed alongside Buza, Vis. and Axëw. Next up: BreadRoom, Milan on Thu 26 Nov.
 
@@ -23,4 +23,4 @@ Virgo is an electro and techno artist based in Italy, with 7 gigs on soundcheck 
 
 Buza, Vis., Axëw
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virgo-3/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virgo-3/)*

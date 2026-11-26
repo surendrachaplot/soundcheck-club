@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Golden Record NYC x Vin.yl present Eli Escobar" on Wed, 25 Nov 2026.
+Green Room NYC is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Golden Record NYC x Vin.yl present Eli Escobar" on Wed, 25 Nov 2026.
 
 Green Room NYC is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Aline Brooklyn, AG, ALDAVE and Armii1n and 2 more. See dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -20,4 +20,4 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 7 upcomin
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

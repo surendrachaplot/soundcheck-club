@@ -1,6 +1,6 @@
 # Dominik Audio
 
-Dominik Audio is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Dominik Audio is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Dominik Audio is a drum & bass and breakbeat artist based in United States of America, with 10 gigs on soundcheck across Miami, Phoenix, San Francisco/Oakland and Tampa Bay. Often billed alongside Brook B, Doc Brown and Gio Leon. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Dominik Audio is a drum & bass and breakbeat artist based in United States of Am
 
 Brook B, Doc Brown, Gio Leon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikaudio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikaudio/)*

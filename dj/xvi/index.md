@@ -1,6 +1,6 @@
 # X:VI
 
-X:VI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Supermarket, Zurich on Sat, 5 Dec 2026.
+X:VI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Supermarket, Zurich on Sat, 5 Dec 2026.
 
 X:VI is a house and tech house artist, with 14 gigs on soundcheck across Barcelona, Madrid and Zurich. Often billed alongside And Hazel, Benosah and Rafa Aleman. Next up: Supermarket, Zurich on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ X:VI is a house and tech house artist, with 14 gigs on soundcheck across Barcelo
 
 And Hazel, Benosah, Rafa Aleman
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xvi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xvi/)*

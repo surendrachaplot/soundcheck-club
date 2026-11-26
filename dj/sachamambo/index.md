@@ -1,6 +1,6 @@
 # Sacha Mambo
 
-Sacha Mambo is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 28 Nov 2026.
+Sacha Mambo is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 28 Nov 2026.
 
 Sacha Mambo is a techno and house artist based in France, with 52 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 7 more. Often billed alongside Matej Rusmir, Nicola Mazzetti and Stevie Whisper. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Sacha Mambo is a techno and house artist based in France, with 52 gigs on soundc
 
 Matej Rusmir, Nicola Mazzetti, Stevie Whisper
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*

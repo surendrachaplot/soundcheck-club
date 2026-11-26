@@ -1,6 +1,6 @@
 # Juan Toca Rico
 
-Juan Toca Rico is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Flash, Washington DC on Fri, 18 Dec 2026.
+Juan Toca Rico is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Flash, Washington DC on Fri, 18 Dec 2026.
 
 Juan Toca Rico is a minimal and house artist based in United States of America, with 6 gigs on soundcheck across New York City and Washington DC. Often billed alongside David Gaviria, Pablo Flor and Bttologic. Next up: Flash, Washington DC on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Juan Toca Rico is a minimal and house artist based in United States of America, 
 
 David Gaviria, Pablo Flor, Bttologic
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juantocarico/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juantocarico/)*

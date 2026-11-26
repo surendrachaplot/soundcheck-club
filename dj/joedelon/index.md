@@ -1,6 +1,6 @@
 # Joe Delon
 
-Joe Delon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Joe Delon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Joe Delon is a house and techno artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Beijing and 41 more. Often billed alongside Gwenan, Dana Kuehr and Nick Kagame. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Joe Delon is a house and techno artist based in United Kingdom, with 131 gigs on
 
 Gwenan, Dana Kuehr, Nick Kagame
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*

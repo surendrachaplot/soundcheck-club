@@ -1,14 +1,15 @@
 # Club Penguin
 
-Club Penguin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Abbey, Manchester on Sat, 28 Nov 2026.
+Club Penguin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Abbey, Manchester on Sat, 28 Nov 2026.
 
-Club Penguin is a techno and trance artist based in United Kingdom, with 31 gigs on soundcheck across Leeds, Manchester and Newcastle. Often billed alongside blo rida, SUS-R and teepee h. Next up: The Abbey, Manchester on Sat 28 Nov.
+Club Penguin is a techno and trance artist based in United Kingdom, with 32 gigs on soundcheck across Leeds, Manchester and Newcastle. Often billed alongside blo rida, SUS-R and teepee h. Next up: The Abbey, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Abbey | Manchester |
+| Thu, 3 Dec 2026 | renae | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Club Penguin is a techno and trance artist based in United Kingdom, with 31 gigs
 
 blo rida, SUS-R, teepee h
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubpenguin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubpenguin/)*

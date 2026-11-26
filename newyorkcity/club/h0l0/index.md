@@ -1,26 +1,26 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Fruitful presents: Daniel Bell, David Berrie & friends" on Wed, 25 Nov 2026.
+H0L0 is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Fruitful presents: Daniel Bell, David Berrie & friends" on Wed, 25 Nov 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, Bruno Limma and Connie and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, Bruno Limma and Connie and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Fruitful presents: Daniel Bell, David Berrie & friends | Bruno Limma, Daniel Bell, David Berrie, J. Richards, Rana Iravani, Zach G |
-| Sat, 28 Nov 2026 | ReSolute 19th Anniversary (New Date) | Connie, Lauren Ritter, Maksim, O.BEE, Rasho, Shvili |
+| Sat, 28 Nov 2026 | ReSolute 19th Anniversary (New Date) | Connie, Lauren Ritter, Maksim, Matt Foley, O.BEE, Orazio Rispo, Rasho, Shvili |
 | Thu, 3 Dec 2026 | Rhythm Cartel x Rare Heaven | Abril IRL, DNC (1), JOHNNY O, LoKho, Scribble, entity_A, logeybear |
+| Fri, 4 Dec 2026 | ReSolute presents: Priku + more | Ksenyeah, Madmotormiquel, Manguito, Nacho Isa, Priku |
 | Sat, 5 Dec 2026 | ReSolute: Tomás Station & Brett Johnson (Open to Close) | Brett Johnson, Tomas Station |
 | Fri, 11 Dec 2026 | KEIN KLUB: Marie Davidson b2b Danny Daze, Jon K, Kilopatrah Jones | Danny Daze, Jon K, Kilopatrah Jones, Marie Davidson |
 | Sat, 12 Dec 2026 | MUSCLECARS, Toribio, Love Injection: Together Again | Love Injection, MUSCLECARS, Toribio |
 | Sat, 19 Dec 2026 | GRAVEDGR & Guests | GRAVEDGR |
 | Thu, 31 Dec 2026 | ReSolute New Year's Eve and Day Extravaganza |  |
-| Sat, 16 Jan 2027 | KEIN KLUB: line-up tba |  |
-| Fri, 5 Feb 2027 | KEIN KLUB: line-up tba |  |
+| Sat, 16 Jan 2027 | KEIN KLUB: '27 opening |  |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

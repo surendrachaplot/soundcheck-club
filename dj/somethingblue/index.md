@@ -1,6 +1,6 @@
 # something blue
 
-something blue is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
+something blue is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TV Lounge, Detroit on Wed, 25 Nov 2026.
 
 something blue is a techno and house artist based in United States of America, with 124 gigs on soundcheck across Austin, Chicago, Detroit and Pittsburgh. Often billed alongside Auntie Chanel, Ashton Swinton and dream beach. Next up: TV Lounge, Detroit on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ something blue is a techno and house artist based in United States of America, w
 
 ## Recently played
 
+- TV Lounge, Detroit · Wed, 25 Nov 2026
 - Hizz Lounge, Detroit · Sun, 1 Nov 2026
 - Lincoln Factory, Detroit · Sat, 31 Oct 2026
 - Spkrbox, Detroit · Sun, 18 Oct 2026
@@ -20,10 +21,9 @@ something blue is a techno and house artist based in United States of America, w
 - Marble Bar, Detroit · Fri, 2 Oct 2026
 - Spkrbox, Detroit · Tue, 29 Sept 2026
 - TV Lounge, Detroit · Sat, 15 Aug 2026
-- Lincoln Factory, Detroit · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Auntie Chanel, Ashton Swinton, dream beach
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somethingblue/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somethingblue/)*

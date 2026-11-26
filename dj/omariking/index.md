@@ -1,6 +1,6 @@
 # Omari King
 
-Omari King is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Antro Brixton, London on Thu, 3 Dec 2026.
+Omari King is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Antro Brixton, London on Thu, 3 Dec 2026.
 
 Omari King is a hip-hop and funk / soul artist based in United Kingdom, with 19 gigs on soundcheck across London. Often billed alongside Omari, leverson and Troppo Daffy. Next up: Antro Brixton, London on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Omari King is a hip-hop and funk / soul artist based in United Kingdom, with 19 
 
 Omari, leverson, Troppo Daffy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omariking/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omariking/)*

@@ -1,6 +1,6 @@
 # STÜM
 
-STÜM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+STÜM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 STÜM is a techno and house artist based in Australia, with 78 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Austin and 27 more. Often billed alongside Kyle Starkey, Benwal and Ewan McVicar. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ STÜM is a techno and house artist based in Australia, with 78 gigs on soundchec
 
 Kyle Starkey, Benwal, Ewan McVicar
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

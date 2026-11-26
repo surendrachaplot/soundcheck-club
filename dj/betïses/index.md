@@ -1,6 +1,6 @@
 # BETÏSES
 
-BETÏSES is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Warehouse, Nantes on Fri, 12 Feb 2027.
+BETÏSES is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Warehouse, Nantes on Fri, 12 Feb 2027.
 
 BETÏSES is a techno and trance artist based in France, with 37 gigs on soundcheck across Brussels, Lyon, Nantes and Paris. Often billed alongside Britney Speed (FR), Enigmatik and Britney Speed. Next up: Warehouse, Nantes on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ BETÏSES is a techno and trance artist based in France, with 37 gigs on soundche
 
 Britney Speed (FR), Enigmatik, Britney Speed
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betïses/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betïses/)*

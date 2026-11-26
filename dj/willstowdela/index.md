@@ -1,6 +1,6 @@
 # willstowdela
 
-willstowdela is a Garage and IDM artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Admiral, Brighton on Sat, 5 Dec 2026.
+willstowdela is a Garage and IDM artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Admiral, Brighton on Sat, 5 Dec 2026.
 
 willstowdela is a garage and idm artist based in United Kingdom, with 2 gigs on soundcheck across Brighton. Often billed alongside fjv. Next up: The Admiral, Brighton on Sat 5 Dec.
 
@@ -15,4 +15,4 @@ willstowdela is a garage and idm artist based in United Kingdom, with 2 gigs on 
 
 fjv (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willstowdela/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willstowdela/)*

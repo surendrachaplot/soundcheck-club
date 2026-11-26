@@ -1,15 +1,17 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Pan-Pot is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Dirty House, Shanghai on Sat, 5 Dec 2026.
 
-Pan-Pot is a techno and house artist based in Germany, with 221 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 76 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Pan-Pot is a techno and house artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 77 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Dirty House, Shanghai on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Dirty House | Shanghai |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Sat, 26 Dec 2026 | fi | Cologne |
+| Sat, 2 Jan 2027 | Refuge | New York City |
 | Sat, 16 Jan 2027 | Fridas Pier | Stuttgart |
 | Sat, 6 Feb 2027 | Uebel & Gefährlich | Hamburg |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
@@ -29,4 +31,4 @@ Pan-Pot is a techno and house artist based in Germany, with 221 gigs on soundche
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

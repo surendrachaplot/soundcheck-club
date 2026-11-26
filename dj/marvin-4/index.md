@@ -1,6 +1,6 @@
 # Marvin (4)
 
-Marvin (4) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at NY.Club, Munich on Fri, 27 Nov 2026.
+Marvin (4) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NY.Club, Munich on Fri, 27 Nov 2026.
 
 Marvin is a techno and house artist based in Germany, with 6 gigs on soundcheck across Berlin, Cologne and Munich. Often billed alongside KEN (DE), Tobias Sommer and Chris Bekker. Next up: NY.Club, Munich on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Marvin is a techno and house artist based in Germany, with 6 gigs on soundcheck 
 
 KEN (DE), Tobias Sommer, Chris Bekker
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvin-4/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvin-4/)*

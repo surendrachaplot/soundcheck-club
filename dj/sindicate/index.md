@@ -1,6 +1,6 @@
 # Sindicate
 
-Sindicate is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fundbureau, Hamburg on Fri, 18 Dec 2026.
+Sindicate is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fundbureau, Hamburg on Fri, 18 Dec 2026.
 
 Sindicate is a drum & bass and bass artist based in Germany, with 24 gigs on soundcheck across Berlin, Birmingham, Hamburg and Leipzig and 1 more. Often billed alongside Eightball, Fibe and duaba. Next up: Fundbureau, Hamburg on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sindicate is a drum & bass and bass artist based in Germany, with 24 gigs on sou
 
 Eightball, Fibe, duaba
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicate/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicate/)*

@@ -1,6 +1,6 @@
 # Rōse (CH)
 
-Rōse (CH) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at D! Club, Lausanne on Fri, 1 Jan 2027.
+Rōse (CH) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at D! Club, Lausanne on Fri, 1 Jan 2027.
 
 Rōse (CH) is a techno and psytrance artist based in Switzerland, with 48 gigs on soundcheck across Barcelona, Basel, Berlin and Bologna and 7 more. Often billed alongside Avocado, Gioski and Protokseed. Next up: D! Club, Lausanne on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Rōse (CH) is a techno and psytrance artist based in Switzerland, with 48 gigs o
 
 Avocado, Gioski, Protokseed
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rose-ch/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rose-ch/)*

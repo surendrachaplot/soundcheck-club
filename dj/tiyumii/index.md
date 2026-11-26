@@ -1,13 +1,14 @@
 # Tiyumii
 
-Tiyumii is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 19 Dec 2026.
+Tiyumii is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 5 Dec 2026.
 
-Tiyumii is a techno and latin bass artist based in Venezuela, with 43 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Julio César, Sofy Suars and T0M1. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 19 Dec.
+Tiyumii is a techno and latin bass artist based in Venezuela, with 44 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Julio César, Sofy Suars and T0M1. Next up: El Pumarejo Barcelona, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | El Pumarejo Barcelona | Barcelona |
 | Sat, 19 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tiyumii is a techno and latin bass artist based in Venezuela, with 43 gigs on so
 
 Julio César, Sofy Suars, T0M1
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiyumii/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiyumii/)*

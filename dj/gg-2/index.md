@@ -1,6 +1,6 @@
 # GG (2)
 
-GG (2) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pygmalion, Dublin on Fri, 27 Nov 2026.
+GG (2) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pygmalion, Dublin on Fri, 27 Nov 2026.
 
 GG is a house and hip-hop artist based in United Kingdom, with 7 gigs on soundcheck across Dublin, London, Seoul and Tokyo. Often billed alongside Bliss, Yuka and Aster. Next up: Pygmalion, Dublin on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ GG is a house and hip-hop artist based in United Kingdom, with 7 gigs on soundch
 
 Bliss (1), Yuka, Aster
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gg-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gg-2/)*

@@ -1,6 +1,6 @@
 # Years of Denial
 
-Years of Denial is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
+Years of Denial is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
 
 Years of Denial is a techno and ebm artist, with 51 gigs on soundcheck across Athens, Barcelona, Beijing and Belgrade and 26 more. Often billed alongside Choronzon, ComaRobot and Curses. Next up: ROSA, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Years of Denial is a techno and ebm artist, with 51 gigs on soundcheck across At
 
 Choronzon, ComaRobot, Curses
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yearsofdenial/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yearsofdenial/)*

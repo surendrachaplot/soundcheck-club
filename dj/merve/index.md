@@ -1,6 +1,6 @@
 # Merve
 
-Merve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
+Merve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
 
 Merve is a house and techno artist based in Australia, with 95 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 34 more. Often billed alongside Fastlove, Sansibar and Angel D'lite. Next up: The White Hotel, Manchester on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Merve is a house and techno artist based in Australia, with 95 gigs on soundchec
 
 Fastlove, Sansibar, Angel D'lite
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*

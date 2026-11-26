@@ -1,6 +1,6 @@
 # DC81
 
-DC81 is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
+DC81 is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
 
 DC81 is a house and electronica artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside Mganz, juliboe and GUS PICCO. Next up: BUS Hexperience, Barcelona on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ DC81 is a house and electronica artist based in Spain, with 11 gigs on soundchec
 
 Mganz, juliboe, GUS PICCO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dc81/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dc81/)*

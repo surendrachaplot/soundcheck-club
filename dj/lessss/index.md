@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
+LESSSS is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
 
 LESSSS is a techno and hardcore artist based in France, with 194 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 61 more. Often billed alongside Azyr, OMAKS and Basswell. Next up: Flanders Expo Centre, Ghent on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ LESSSS is a techno and hardcore artist based in France, with 194 gigs on soundch
 
 Azyr, OMAKS, Basswell
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

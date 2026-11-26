@@ -1,6 +1,6 @@
 # Black Panda
 
-Black Panda is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Monarch, San Francisco/Oakland on Thu, 3 Dec 2026.
+Black Panda is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Monarch, San Francisco/Oakland on Thu, 3 Dec 2026.
 
 Black Panda is a house and tech house artist based in United States of America, with 43 gigs on soundcheck across San Francisco/Oakland. Often billed alongside vRok, Sammy Taylor and DJ Parrot. Next up: Monarch, San Francisco/Oakland on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Black Panda is a house and tech house artist based in United States of America, 
 
 vRok, Sammy Taylor, DJ Parrot
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpanda/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpanda/)*

@@ -1,6 +1,6 @@
 # TWOFACEDKIMMY
 
-TWOFACEDKIMMY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Cova, Hamburg on Fri, 27 Nov 2026.
+TWOFACEDKIMMY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Cova, Hamburg on Fri, 27 Nov 2026.
 
 TWOFACEDKIMMY is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover. Often billed alongside Unromantic, TRYPTAJ and Alex Benz. Next up: La Cova, Hamburg on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ TWOFACEDKIMMY is a techno and trance artist based in Germany, with 28 gigs on so
 
 Unromantic, TRYPTAJ, Alex Benz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*

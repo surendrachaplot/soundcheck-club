@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 74 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Deep Wednesdays feat. Kat_Es & Clarence" on Wed, 25 Nov 2026.
+Minimal Bar is a music venue in Berlin with 74 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Deep Wednesdays feat. Mark v.d.R & Clarence" on Wed, 25 Nov 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 74 upcoming gigs, with line-ups including Beshy, CEEE, CL-ljud and Clarence and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -8,7 +8,7 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 74 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Deep Wednesdays feat. Kat_Es & Clarence | Clarence (2), Kat_Es |
+| Wed, 25 Nov 2026 | Deep Wednesdays feat. Mark v.d.R & Clarence | Clarence (2), Mark van der Ree |
 | Thu, 26 Nov 2026 | electronic.thursday mit Pyrame | Pyrame |
 | Fri, 27 Nov 2026 | Friends.zone with Deacon Frost Jr. & CEEE & Freunde | CEEE |
 | Sat, 28 Nov 2026 | friends.zone mit Mario Lauriano & Freunde | Mario Lauriano |
@@ -23,4 +23,4 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 74 upcoming gigs, w
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

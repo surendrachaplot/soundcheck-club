@@ -1,6 +1,6 @@
 # Eva Porating
 
-Eva Porating is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tendance, Prague on Thu, 26 Nov 2026.
+Eva Porating is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tendance, Prague on Thu, 26 Nov 2026.
 
 Eva Porating is a techno and downtempo artist based in Czech Republic, with 52 gigs on soundcheck across Berlin and Prague. Often billed alongside Marie Pravda, Mike.H and Møreti. Next up: Tendance, Prague on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Eva Porating is a techno and downtempo artist based in Czech Republic, with 52 g
 
 Marie Pravda, Mike.H, Møreti
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaporating/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaporating/)*

@@ -1,6 +1,6 @@
 # DE FEO
 
-DE FEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dada Beijing, Beijing on Sat, 28 Nov 2026.
+DE FEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dada Beijing, Beijing on Sat, 28 Nov 2026.
 
 DE FEO is a techno and house artist based in Italy, with 31 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 7 more. Often billed alongside Pooja B, BOHO and Molly Lin. Next up: Dada Beijing, Beijing on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DE FEO is a techno and house artist based in Italy, with 31 gigs on soundcheck a
 
 Pooja B, BOHO, Molly Lin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo-it/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo-it/)*

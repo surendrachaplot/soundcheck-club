@@ -1,13 +1,13 @@
 # Babble
 
-Babble is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "South of Houston presents: Selecciones Nocturnas" on Sat, 31 Oct 2026.
+Babble is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hot Tropic, D-Novo & Mr Dan at Babble 'After Dark'" on Sat, 12 Dec 2026.
 
-Babble is a music venue in Brighton listed on soundcheck. 1 upcoming gig, with line-ups including Nancy Noise and Sounds of Harris. See dates, start times and who's playing.
+Babble is a music venue in Brighton listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | South of Houston presents: Selecciones Nocturnas | Nancy Noise, Sounds of Harris |
+| Sat, 12 Dec 2026 | Hot Tropic, D-Novo & Mr Dan at Babble 'After Dark' |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/babble/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/babble/)*

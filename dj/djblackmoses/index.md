@@ -1,6 +1,6 @@
 # DJ Black Moses
 
-DJ Black Moses is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 27 Nov 2026.
+DJ Black Moses is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 27 Nov 2026.
 
 DJ Black Moses is a techno and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, London and Paris. Often billed alongside The Snatcha, Caren G. and Ryan Pamatmat. Next up: DNA. CLUB, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Black Moses is a techno and tech house artist based in United Kingdom, with 1
 
 The Snatcha, Caren G., Ryan Pamatmat
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackmoses/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackmoses/)*

@@ -1,6 +1,6 @@
 # _bbyboi
 
-_bbyboi is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
+_bbyboi is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
 
 _bbyboi is a house and club artist based in Philippines, with 3 gigs on soundcheck across Milan, New York City and Rome. Often billed alongside Kweku, ethereal.mvp and kyxm. Next up: Bene Bene, Milan on Sat 28 Nov.
 
@@ -16,4 +16,4 @@ _bbyboi is a house and club artist based in Philippines, with 3 gigs on soundche
 
 Kweku, ethereal.mvp, kyxm
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_bbyboi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_bbyboi/)*

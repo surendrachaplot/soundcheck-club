@@ -1,6 +1,6 @@
 # cola2k
 
-cola2k is a Trance and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sunny High, Stuttgart on Fri, 11 Dec 2026.
+cola2k is a Trance and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sunny High, Stuttgart on Fri, 11 Dec 2026.
 
 cola2k is a trance and idm artist, with 5 gigs on soundcheck across Berlin, Leeds and Stuttgart. Often billed alongside Healer, KPAX and Princess Elf Bar. Next up: Sunny High, Stuttgart on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ cola2k is a trance and idm artist, with 5 gigs on soundcheck across Berlin, Leed
 
 Healer, KPAX, Princess Elf Bar
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cola2k/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cola2k/)*

@@ -1,6 +1,6 @@
 # fi x Pan-Pot & Etage147 at fi
 
-fi x Pan-Pot & Etage147 on Sat 26 Dec, Cologne. 2 artists: LALENA and Pan-Pot. Techno and House. See the line-up on soundcheck.
+fi x Pan-Pot & Etage147 on Sat 26 Dec, Cologne. 3 artists: Ada Luvv, LALENA and Pan-Pot. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ fi x Pan-Pot & Etage147 on Sat 26 Dec, Cologne. 2 artists: LALENA and Pan-Pot. T
 
 ## Line-up
 
+- Ada Luvv
 - LALENA
 - Pan-Pot
 

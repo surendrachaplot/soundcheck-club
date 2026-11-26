@@ -1,4 +1,4 @@
-# Miguel Migs, Colette, Robiñho, Ricardo Torres & Danny B at Jungle Hollywood
+# Miguel Migs, Colette, Robiñho, Ricardo Torres & Danny B at Jungle Hollywood at Jungle Hollywood
 
 Miguel Migs, Colette, Robiñho, Ricardo Torres & Danny B at Jungle Hollywood on Wed 25 Nov, Los Angeles. 2 artists: DJ Colette and Miguel Migs. House and Deep House. See the line-up on soundcheck.
 

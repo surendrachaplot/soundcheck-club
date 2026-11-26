@@ -1,6 +1,6 @@
 # Obi Baby
 
-Obi Baby is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lime Milano, Milan on Sat, 12 Dec 2026.
+Obi Baby is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lime Milano, Milan on Sat, 12 Dec 2026.
 
 Obi Baby is a techno and hardcore artist based in Italy, with 20 gigs on soundcheck across Milan. Often billed alongside Franz Bush, Ari Denaro and Manuela Bagnato. Next up: Lime Milano, Milan on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Obi Baby is a techno and hardcore artist based in Italy, with 20 gigs on soundch
 
 Franz Bush, Ari Denaro, Manuela Bagnato
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obibaby/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obibaby/)*

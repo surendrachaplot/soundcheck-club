@@ -1,8 +1,8 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Yalta Club, Sofia on Fri, 27 Nov 2026.
+AEREA is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Yalta Club, Sofia on Fri, 27 Nov 2026.
 
-AEREA is a techno and trance artist based in Spain, with 87 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 53 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Yalta Club, Sofia on Fri 27 Nov.
+AEREA is a techno and trance artist based in Spain, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 53 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Yalta Club, Sofia on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ AEREA is a techno and trance artist based in Spain, with 87 gigs on soundcheck a
 | Sun, 20 Dec 2026 | Mia Mao | Paris |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 | Sat, 30 Jan 2027 | WDM | Hannover |
+| Fri, 5 Feb 2027 | Gate Milano | Milan |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ AEREA is a techno and trance artist based in Spain, with 87 gigs on soundcheck a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

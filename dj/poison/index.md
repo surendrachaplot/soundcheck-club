@@ -1,6 +1,6 @@
 # POISON
 
-POISON is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
+POISON is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
 
 POISON is a techno and psytrance artist, with 12 gigs on soundcheck across Amsterdam, Lisbon and Mexico City. Often billed alongside DJINNMUSIC, Ana Dimco and Bentech. Next up: TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ POISON is a techno and psytrance artist, with 12 gigs on soundcheck across Amste
 
 DJINNMUSIC, Ana Dimco, Bentech
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poison/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poison/)*

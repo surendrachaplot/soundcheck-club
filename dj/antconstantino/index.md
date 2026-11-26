@@ -1,6 +1,6 @@
 # ANTCONSTANTINO
 
-ANTCONSTANTINO is a Grime and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TRAUMA, Rio de Janeiro on Thu, 26 Nov 2026.
+ANTCONSTANTINO is a Grime and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TRAUMA, Rio de Janeiro on Thu, 26 Nov 2026.
 
 ANTCONSTANTINO is a grime and baile funk artist based in Brazil, with 46 gigs on soundcheck across Berlin, Bristol, Geneva and London and 3 more. Often billed alongside Chediak, Jacquelone and HIGH TUCO. Next up: TRAUMA, Rio de Janeiro on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ ANTCONSTANTINO is a grime and baile funk artist based in Brazil, with 46 gigs on
 
 Chediak, Jacquelone, HIGH TUCO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antconstantino/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antconstantino/)*

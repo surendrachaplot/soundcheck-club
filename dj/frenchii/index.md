@@ -1,6 +1,6 @@
 # French II
 
-French II is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ormside Projects, London on Fri, 22 Jan 2027.
+French II is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ormside Projects, London on Fri, 22 Jan 2027.
 
 French II is a techno and house artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Alberta Balsam, Bastian Benjamin and Milio. Next up: Ormside Projects, London on Fri 22 Jan.
 
@@ -26,4 +26,4 @@ French II is a techno and house artist based in Netherlands, with 42 gigs on sou
 
 Alberta Balsam, Bastian Benjamin, Milio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchii/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchii/)*

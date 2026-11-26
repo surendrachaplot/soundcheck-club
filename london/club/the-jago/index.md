@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Heaven on Hertz" on Fri, 11 Dec 2026.
+The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Heaven on Hertz" on Fri, 11 Dec 2026.
 
 The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Belle Bette, chrs apula, DEUCES and Joseph Russell and 2 more. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -17,4 +17,4 @@ The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

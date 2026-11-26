@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Palms Trax is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Palms Trax is a house and techno artist based in Germany, with 222 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 67 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: fabric, London on Sat 28 Nov.
 
@@ -34,4 +34,4 @@ Palms Trax is a house and techno artist based in Germany, with 222 gigs on sound
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

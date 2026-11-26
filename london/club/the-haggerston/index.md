@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Local Movements 8" on Fri, 27 Nov 2026.
+The Haggerston is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Local Movements 8" on Fri, 27 Nov 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Art Dealer, ayla, Big D and DJABLÈS and 2 more. See dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -19,4 +19,4 @@ The Haggerston is a music venue in London listed on soundcheck. 6 upcoming gigs,
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

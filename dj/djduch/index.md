@@ -1,6 +1,6 @@
 # DJ Duch
 
-DJ Duch is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ŚLINA, Poznan on Fri, 27 Nov 2026.
+DJ Duch is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ŚLINA, Poznan on Fri, 27 Nov 2026.
 
 DJ Duch is a house and electronica artist based in Poland, with 22 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Teskko, DJ POLKOMTEL and naked relaxing. Next up: ŚLINA, Poznan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Duch is a house and electronica artist based in Poland, with 22 gigs on sound
 
 Teskko, DJ POLKOMTEL, naked relaxing
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduch/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduch/)*

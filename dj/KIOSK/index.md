@@ -1,6 +1,6 @@
 # KIOSK
 
-KIOSK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Stockholm, Stockholm on Sat, 12 Dec 2026.
+KIOSK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Stockholm, Stockholm on Sat, 12 Dec 2026.
 
 KIOSK is a techno and house artist, with 11 gigs on soundcheck across Barcelona, Copenhagen, Leeds and Lyon and 1 more. Often billed alongside Anders HP, Aja Gulris and Baime. Next up: TBA - Stockholm, Stockholm on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KIOSK is a techno and house artist, with 11 gigs on soundcheck across Barcelona,
 
 Anders HP, Aja Gulris, Baime
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KIOSK/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KIOSK/)*

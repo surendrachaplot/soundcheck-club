@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily" on Thu, 26 Nov 2026.
+Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily" on Thu, 26 Nov 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 2NDRA, 3ever, Adamatron and AddlyMuff and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with l
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

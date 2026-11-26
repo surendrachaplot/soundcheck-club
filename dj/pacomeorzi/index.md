@@ -1,6 +1,6 @@
 # Pacôme Orzi
 
-Pacôme Orzi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 19 Dec 2026.
+Pacôme Orzi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 19 Dec 2026.
 
 Pacôme Orzi is a techno and electro artist based in France, with 19 gigs on soundcheck across Brussels, Strasbourg and Tbilisi. Often billed alongside Itaho, 1client and Vod Kasat. Next up: Karmen Camina, Strasbourg on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Pacôme Orzi is a techno and electro artist based in France, with 19 gigs on sou
 
 Itaho, 1client, Vod Kasat
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacomeorzi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacomeorzi/)*

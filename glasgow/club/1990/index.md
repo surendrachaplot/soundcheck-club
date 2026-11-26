@@ -1,6 +1,6 @@
 # 1990
 
-1990 is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "+886 ISLAND EXPORT" on Thu, 26 Nov 2026.
+1990 is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "+886 ISLAND EXPORT" on Thu, 26 Nov 2026.
 
 1990 is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including 90s Kidd, Fidget Spinner, Justyyna and SPPT and 1 more. See dates, start times and who's playing. 427 Sauchiehall Street G2 3LG.
 
@@ -16,4 +16,4 @@
 
 427 Sauchiehall Street G2 3LG, Glasgow
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*

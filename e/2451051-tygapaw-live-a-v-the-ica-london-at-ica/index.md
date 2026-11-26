@@ -1,6 +1,6 @@
 # TYGAPAW (Live A/V) @ THE ICA, LONDON at ICA
 
-TYGAPAW (Live A/V) @ THE ICA, LONDON on Sat 5 Dec, London. 1 artist: TYGAPAW. See the line-up on soundcheck.
+TYGAPAW (Live A/V) @ THE ICA, LONDON on Sat 5 Dec, London. 2 artists: Suutoo and TYGAPAW. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TYGAPAW (Live A/V) @ THE ICA, LONDON on Sat 5 Dec, London. 1 artist: TYGAPAW. Se
 
 ## Line-up
 
+- Suutoo
 - TYGAPAW
 
 *Source: [soundcheck](https://soundcheck.club/e/2451051-tygapaw-live-a-v-the-ica-london-at-ica/)*

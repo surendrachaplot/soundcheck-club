@@ -1,6 +1,6 @@
 # World Kyoto
 
-World Kyoto is a music venue in Kyoto with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Familie zone meets MESTIZA" on Fri, 27 Nov 2026.
+World Kyoto is a music venue in Kyoto with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Familie zone meets MESTIZA" on Fri, 27 Nov 2026.
 
 World Kyoto is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs, with line-ups including MËSTIZA, Moodymann and Morten. See dates, start times and who's playing. 97 Shincho, Shimogyo-ku, Kyoto-shi, Kyoto, 600-8001 Japan.
 
@@ -16,4 +16,4 @@ World Kyoto is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs, wit
 
 97 Shincho, Shimogyo-ku, Kyoto-shi, Kyoto, 600-8001 Japan, Kyoto
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/world-kyoto/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/world-kyoto/)*

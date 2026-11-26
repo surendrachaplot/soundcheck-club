@@ -1,6 +1,6 @@
 # Placiid
 
-Placiid is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rex Club, Paris on Wed, 25 Nov 2026.
+Placiid is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Wed, 25 Nov 2026.
 
 Placiid is a techno and minimal techno artist based in France, with 8 gigs on soundcheck across Bordeaux, Lyon, Madrid and Nantes and 1 more. Often billed alongside RED DEEP, Da Night and Märzhase. Next up: Rex Club, Paris on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ Placiid is a techno and minimal techno artist based in France, with 8 gigs on so
 
 ## Recently played
 
+- Rex Club, Paris · Wed, 25 Nov 2026
 - L'Entrepôt, Bordeaux, Bordeaux · Fri, 11 Jul 2025
 - Terminal Club, Lyon · Fri, 18 Oct 2024
 - X Private Club, Madrid · Sat, 17 Aug 2024
@@ -24,4 +25,4 @@ Placiid is a techno and minimal techno artist based in France, with 8 gigs on so
 
 RED DEEP, Da Night, Märzhase
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/placiid/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/placiid/)*

@@ -1,6 +1,6 @@
 # GEMMA (ES)
 
-GEMMA (ES) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
+GEMMA (ES) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
 
 GEMMA (ES) is a house and electro artist based in Spain, with 37 gigs on soundcheck across Amsterdam, Barcelona, Tirana and Tokyo. Often billed alongside Andrea Love, Cabana and Alice Youngling. Next up: Roots Audiophile Café, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ GEMMA (ES) is a house and electro artist based in Spain, with 37 gigs on soundch
 
 Andrea Love, Cabana, Alice Youngling
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemma-es/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemma-es/)*

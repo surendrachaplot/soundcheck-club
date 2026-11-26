@@ -1,8 +1,8 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MINCE'D 002" on Fri, 27 Nov 2026.
+The Ulster Sports Club is a music venue in Belfast with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MINCE'D 002" on Fri, 27 Nov 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming gigs, with line-ups including Cartin, Conor Schmtz, DJ BORING and Emma O and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 12 upcoming gigs, with line-ups including Cartin, Conor Schmtz, Cromby and DJ BORING and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upco
 | Fri, 11 Dec 2026 | Social Sounds presents Holly Lester, Matcha + Michaél Corr | Holly Lester, Matcha |
 | Sat, 12 Dec 2026 | Féline (Bébé) W/ Chris Frieze / Tripper / Conor Schmtz | Conor Schmtz |
 | Fri, 18 Dec 2026 | Glacier X Glutek: The Polar Series |  |
-| Thu, 31 Dec 2026 | Twitch NYE - Logan Fisher & Jack Tiraquon | Jack Tiraquon, Logan Fisher |
+| Sat, 26 Dec 2026 | Cromby b2b Swoose All Night Long | Cromby, Swoose |
 
 ## Address
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

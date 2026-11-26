@@ -1,14 +1,14 @@
 # ezri_dax
 
-ezri_dax is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Philadelphia on Sat, 28 Nov 2026.
+ezri_dax is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA -, Philadelphia on Sat, 28 Nov 2026.
 
-ezri_dax is a techno and bass artist based in United States of America, with 10 gigs on soundcheck across Philadelphia and Richmond. Often billed alongside Furtive, 6LOV3 and America Loves Me. Next up: TBA, Philadelphia on Sat 28 Nov.
+ezri_dax is a techno and bass artist based in United States of America, with 10 gigs on soundcheck across Philadelphia and Richmond. Often billed alongside Furtive, 6LOV3 and America Loves Me. Next up: TBA -, Philadelphia on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | TBA | Philadelphia |
+| Sat, 28 Nov 2026 | TBA - | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ ezri_dax is a techno and bass artist based in United States of America, with 10 
 
 Furtive, 6LOV3, America Loves Me
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezri_dax/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezri_dax/)*

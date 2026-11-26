@@ -1,6 +1,6 @@
 # Bluest
 
-Bluest is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Das Werk, Vienna on Fri, 4 Dec 2026.
+Bluest is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Das Werk, Vienna on Fri, 4 Dec 2026.
 
 Bluest is a techno and industrial artist based in Austria, with 12 gigs on soundcheck across Vienna. Often billed alongside Silentsevir, Trugbild and eskalia. Next up: Das Werk, Vienna on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Bluest is a techno and industrial artist based in Austria, with 12 gigs on sound
 
 Silentsevir, Trugbild, eskalia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluest/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluest/)*

@@ -1,6 +1,6 @@
 # The Advent
 
-The Advent is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
+The Advent is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
 
 The Advent is a techno and electro artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 45 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: RSO.BERLIN, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ The Advent is a techno and electro artist based in United Kingdom, with 111 gigs
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

@@ -1,13 +1,14 @@
 # Tania Just
 
-Tania Just is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Den Anden Side, Copenhagen on Thu, 31 Dec 2026.
+Tania Just is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
 
-Tania Just is a house and techno artist based in Denmark, with 57 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Murrin, Mark Gill and Lucky Lube. Next up: Den Anden Side, Copenhagen on Thu 31 Dec.
+Tania Just is a house and techno artist based in Denmark, with 58 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Murrin, Mark Gill and Lucky Lube. Next up: Baggen, Copenhagen on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Baggen | Copenhagen |
 | Thu, 31 Dec 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tania Just is a house and techno artist based in Denmark, with 57 gigs on soundc
 
 Murrin, Mark Gill, Lucky Lube
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taniajust/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taniajust/)*

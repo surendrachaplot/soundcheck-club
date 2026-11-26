@@ -1,6 +1,6 @@
 # Avalon Hollywood
 
-Avalon Hollywood is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Mutate: CLAWZ with Dr Donk" on Wed, 25 Nov 2026.
+Avalon Hollywood is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mutate: CLAWZ with Dr Donk" on Wed, 25 Nov 2026.
 
 Avalon Hollywood is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Babayaga, Blerry, CLAWZ and ETRA and 2 more. See dates, start times and who's playing. 1735 Vine Street, Hollywood, CA 90028.
 
@@ -18,4 +18,4 @@ Avalon Hollywood is a music venue in Los Angeles listed on soundcheck. 5 upcomin
 
 1735 Vine Street, Hollywood, CA 90028, Los Angeles
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*

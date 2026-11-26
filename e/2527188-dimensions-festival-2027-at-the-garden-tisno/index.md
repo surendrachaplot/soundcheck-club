@@ -43,7 +43,7 @@ Dimensions Festival 2027 at The Garden Tisno on Thu 26 Aug, Croatia. 90 artists:
 - GNMR
 - Grace Sands
 - H-Foundation
-- Halo Varga
+- HALO
 - Hamish & Toby
 - Heels & Souls
 - Helena Hauff

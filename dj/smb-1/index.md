@@ -1,6 +1,6 @@
 # SMB (1)
 
-SMB (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
+SMB (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
 
 SMB is a house and techno artist based in Czech Republic, with 16 gigs on soundcheck across Prague. Often billed alongside Meldaboi, Silverbo1 and Fatty M. Next up: Gabriel Loci, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ SMB is a house and techno artist based in Czech Republic, with 16 gigs on soundc
 
 Meldaboi, Silverbo1, Fatty M
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smb-1/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smb-1/)*

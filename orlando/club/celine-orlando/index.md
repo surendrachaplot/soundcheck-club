@@ -1,6 +1,6 @@
 # Celine Orlando
 
-Celine Orlando is a music venue in Orlando with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "DJ Meredith Marks" on Fri, 27 Nov 2026.
+Celine Orlando is a music venue in Orlando with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DJ Meredith Marks" on Fri, 27 Nov 2026.
 
 Celine Orlando is a music venue in Orlando listed on soundcheck. 4 upcoming gigs, with line-ups including bradeazy. See dates, start times and who's playing. 22 S Magnolia Ave. Orlando, FL, 32801, USA.
 
@@ -17,4 +17,4 @@ Celine Orlando is a music venue in Orlando listed on soundcheck. 4 upcoming gigs
 
 22 S Magnolia Ave. Orlando, FL, 32801, USA, Orlando
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/orlando/club/celine-orlando/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/orlando/club/celine-orlando/)*

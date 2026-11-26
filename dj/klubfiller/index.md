@@ -1,6 +1,6 @@
 # Klubfiller
 
-Klubfiller is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Outernet Live, London on Sat, 24 Apr 2027.
+Klubfiller is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Outernet Live, London on Sat, 24 Apr 2027.
 
 Klubfiller is a hardcore and club artist based in United Kingdom, with 14 gigs on soundcheck across Glasgow, Liverpool, London and Manchester and 3 more. Often billed alongside MC Storm, Andy Whitby and Dougal. Next up: Outernet Live, London on Sat 24 Apr.
 
@@ -25,4 +25,4 @@ Klubfiller is a hardcore and club artist based in United Kingdom, with 14 gigs o
 
 MC Storm, Andy Whitby, Dougal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klubfiller/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klubfiller/)*

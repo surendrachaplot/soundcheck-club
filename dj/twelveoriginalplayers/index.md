@@ -1,6 +1,6 @@
 # Twelve Original Players
 
-Twelve Original Players is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bramble, Edinburgh on Sat, 28 Nov 2026.
+Twelve Original Players is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bramble, Edinburgh on Sat, 28 Nov 2026.
 
 Twelve Original Players is a hip-hop and funk / soul artist based in United Kingdom, with 20 gigs on soundcheck across Edinburgh. Often billed alongside AKUMU, Anikonik and Bake. Next up: Bramble, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Twelve Original Players is a hip-hop and funk / soul artist based in United King
 
 AKUMU, Anikonik, Bake
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveoriginalplayers/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveoriginalplayers/)*

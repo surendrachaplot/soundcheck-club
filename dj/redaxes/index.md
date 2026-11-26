@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at WOMB, Tokyo on Fri, 4 Dec 2026.
+Red Axes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at WOMB, Tokyo on Fri, 4 Dec 2026.
 
 Red Axes is a house and techno artist based in Israel, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: WOMB, Tokyo on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Red Axes is a house and techno artist based in Israel, with 91 gigs on soundchec
 
 DJ Tennis, Adiel, Bakke
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

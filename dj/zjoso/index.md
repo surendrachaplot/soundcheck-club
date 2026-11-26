@@ -1,13 +1,14 @@
 # Zjoso
 
-Zjoso is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at New Guernica, Melbourne on Fri, 11 Dec 2026.
+Zjoso is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Coil, Melbourne on Fri, 27 Nov 2026.
 
-Zjoso is a house and deep house artist based in Australia, with 104 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Byron Bay and 8 more. Often billed alongside Zepherin Saint, DJ JNETT and Adriana. Next up: New Guernica, Melbourne on Fri 11 Dec.
+Zjoso is a house and deep house artist based in Australia, with 105 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Byron Bay and 8 more. Often billed alongside Zepherin Saint, DJ JNETT and Adriana. Next up: Coil, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Coil | Melbourne |
 | Fri, 11 Dec 2026 | New Guernica | Melbourne |
 | Sat, 12 Dec 2026 | Solace | Melbourne |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
@@ -27,4 +28,4 @@ Zjoso is a house and deep house artist based in Australia, with 104 gigs on soun
 
 Zepherin Saint, DJ JNETT, Adriana (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*

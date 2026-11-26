@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Black Wednesday: Solardo" on Wed, 25 Nov 2026.
+Spin is a music venue in San Diego with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Black Wednesday: Solardo" on Wed, 25 Nov 2026.
 
 Spin is a music venue in San Diego listed on soundcheck. 10 upcoming gigs, with line-ups including Ali Gria, Byrd, Cam Stockman and DAVI and 2 more. See dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in San Diego listed on soundcheck. 10 upcoming gigs, with 
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

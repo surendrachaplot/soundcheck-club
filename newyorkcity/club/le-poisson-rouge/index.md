@@ -1,6 +1,6 @@
 # Le Poisson Rouge
 
-Le Poisson Rouge is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "The Golden Age of EDM Party" on Wed, 25 Nov 2026.
+Le Poisson Rouge is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "The Golden Age of EDM Party" on Wed, 25 Nov 2026.
 
 Le Poisson Rouge is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including corto.alto and UNKLE. See dates, start times and who's playing. 158 Bleecker Street; New York, NY 10012; United States.
 
@@ -18,4 +18,4 @@ Le Poisson Rouge is a music venue in New York City listed on soundcheck. 5 upcom
 
 158 Bleecker Street; New York, NY 10012; United States, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-poisson-rouge/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-poisson-rouge/)*

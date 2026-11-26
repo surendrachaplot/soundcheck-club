@@ -1,8 +1,8 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
+Captain Wallop is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
 
-Captain Wallop is a garage and house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: NOWHERE, Manchester on Sat 28 Nov.
+Captain Wallop is a house and garage artist based in United Kingdom, with 64 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 16 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: NOWHERE, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,10 +11,13 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 61 gig
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | Club Colette | Birmingham |
 | Sat, 5 Dec 2026 | Hazy Club | Sheffield |
+| Thu, 17 Dec 2026 | The Steel Yard | London |
 | Thu, 31 Dec 2026 | Mint XL | Leeds |
 | Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
 | Fri, 22 Jan 2027 | Glamorama | Melbourne |
+| Sat, 30 Jan 2027 | Sanctuary at Helen Mayo Park | Adelaide |
 | Sat, 6 Feb 2027 | Sawmills | Bristol |
+| Fri, 12 Feb 2027 | The Loft | Manchester |
 
 ## Recently played
 
@@ -31,4 +34,4 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 61 gig
 
 RTK Tarantino, DAISY, MADVILLA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

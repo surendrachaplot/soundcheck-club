@@ -1,6 +1,6 @@
 # Chico Blanco
 
-Chico Blanco is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Oven Club, Valencia on Fri, 27 Nov 2026.
+Chico Blanco is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Oven Club, Valencia on Fri, 27 Nov 2026.
 
 Chico Blanco is a house and techno artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Los Angeles and 4 more. Often billed alongside 8kitoo, acidheaven and Juguete. Next up: Oven Club, Valencia on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Chico Blanco is a house and techno artist based in Spain, with 45 gigs on soundc
 
 8kitoo, acidheaven, Juguete
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicoblanco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicoblanco/)*

@@ -1,6 +1,6 @@
 # Yannick Weineck
 
-Yannick Weineck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Thu, 26 Nov 2026.
+Yannick Weineck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Thu, 26 Nov 2026.
 
 Yannick Weineck is a trance and techno artist based in Germany, with 30 gigs on soundcheck across Berlin and Buenos Aires. Often billed alongside Feel .MA, Jaycap and ChéRebel. Next up: KitKatClub, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Yannick Weineck is a trance and techno artist based in Germany, with 30 gigs on 
 
 Feel .MA, Jaycap, ChéRebel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickweineck/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickweineck/)*

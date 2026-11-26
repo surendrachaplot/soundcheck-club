@@ -1,6 +1,6 @@
 # dyn (JP)
 
-dyn (JP) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Blvck Water, Osaka on Sat, 12 Dec 2026.
+dyn (JP) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blvck Water, Osaka on Sat, 12 Dec 2026.
 
 dyn (JP) is a techno and acid artist based in Japan, with 34 gigs on soundcheck across Osaka. Often billed alongside ZAGUN, amor (JP) and 死者蘇生CH. Next up: Blvck Water, Osaka on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ dyn (JP) is a techno and acid artist based in Japan, with 34 gigs on soundcheck 
 
 ZAGUN, amor (JP), 死者蘇生CH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyn-jp/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyn-jp/)*

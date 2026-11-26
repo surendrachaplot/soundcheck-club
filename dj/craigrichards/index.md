@@ -1,8 +1,8 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Strange Brew, Bristol on Sat, 28 Nov 2026.
+Craig Richards is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Strange Brew, Bristol on Sat, 28 Nov 2026.
 
-Craig Richards is a house and techno artist based in United Kingdom, with 173 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Strange Brew, Bristol on Sat 28 Nov.
+Craig Richards is a house and techno artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Strange Brew, Bristol on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Craig Richards is a house and techno artist based in United Kingdom, with 173 gi
 | Fri, 11 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 12 Dec 2026 | fabric | London |
 | Sat, 16 Jan 2027 | fabric | London |
+| Sat, 30 Jan 2027 | Mint XL | Leeds |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Sat, 13 Mar 2027 | fabric | London |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
@@ -33,4 +34,4 @@ Craig Richards is a house and techno artist based in United Kingdom, with 173 gi
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

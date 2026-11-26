@@ -1,6 +1,6 @@
 # Unkuul
 
-Unkuul is a Afro Tech and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jardin Hospice, Brussels on Fri, 27 Nov 2026.
+Unkuul is a Afro Tech and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jardin Hospice, Brussels on Fri, 27 Nov 2026.
 
 Unkuul is an afro tech and baile funk artist based in United Kingdom, with 6 gigs on soundcheck across Brussels, London and Manchester. Often billed alongside BillyJ, Chef Adisa and DJ Lively. Next up: Jardin Hospice, Brussels on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Unkuul is an afro tech and baile funk artist based in United Kingdom, with 6 gig
 
 BillyJ, Chef Adisa, DJ Lively
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unkuul/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unkuul/)*

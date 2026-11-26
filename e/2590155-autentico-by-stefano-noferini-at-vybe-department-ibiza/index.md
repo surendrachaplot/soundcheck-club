@@ -1,6 +1,6 @@
 # AUTENTICO by Stefano Noferini at Vybe Department Ibiza
 
-AUTENTICO by Stefano Noferini at Vybe Department Ibiza on Fri 11 Dec, Ibiza. 2 artists: Karla Amaro and Stefano Noferini. House and Minimal. See the line-up on soundcheck.
+AUTENTICO by Stefano Noferini at Vybe Department Ibiza on Fri 11 Dec, Ibiza. 3 artists: EUGEN1O, Karla Amaro and Stefano Noferini. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ AUTENTICO by Stefano Noferini at Vybe Department Ibiza on Fri 11 Dec, Ibiza. 2 a
 
 ## Line-up
 
+- EUGEN1O
 - Karla Amaro
 - Stefano Noferini
 

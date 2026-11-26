@@ -1,13 +1,14 @@
 # Azo
 
-Azo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 19 Dec 2026.
+Azo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Glazart, Paris on Sun, 6 Dec 2026.
 
-Azo is a techno and house artist based in France, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Vera Moro, Clara D and Fais Le Beau. Next up: Karmen Camina, Strasbourg on Sat 19 Dec.
+Azo is a techno and house artist based in France, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Vera Moro, Clara D and Fais Le Beau. Next up: Glazart, Paris on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Glazart | Paris |
 | Sat, 19 Dec 2026 | Karmen Camina | Strasbourg |
 | Fri, 1 Jan 2027 | C12 | Brussels |
 
@@ -26,4 +27,4 @@ Azo is a techno and house artist based in France, with 93 gigs on soundcheck acr
 
 Vera Moro, Clara D, Fais Le Beau
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*

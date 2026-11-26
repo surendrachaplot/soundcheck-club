@@ -1,6 +1,6 @@
-# alboroto with Piem, BizZa, neloh at TBA - möod masella
+# alboroto with Piem, BizZa, Neloh at TBA - möod masella
 
-alboroto with Piem, BizZa, neloh at TBA - möod masella on Sat 5 Dec, Barcelona. 3 artists: BizZa, Neloh and Piem. House and Tech House. See the line-up on soundcheck.
+alboroto with Piem, BizZa, Neloh at TBA - möod masella on Sat 5 Dec, Barcelona. 3 artists: BizZa, Neloh and Piem. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

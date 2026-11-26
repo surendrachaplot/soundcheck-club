@@ -1,6 +1,6 @@
 # VLZQUES
 
-VLZQUES is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fuchs2, Prague on Thu, 26 Nov 2026.
+VLZQUES is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fuchs2, Prague on Thu, 26 Nov 2026.
 
 VLZQUES is a club and baile funk artist based in Slovakia, with 30 gigs on soundcheck across Barcelona, Bratislava, Krakow and Prague. Often billed alongside yangovica, TRANSmisia and VISNEACS. Next up: Fuchs2, Prague on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ VLZQUES is a club and baile funk artist based in Slovakia, with 30 gigs on sound
 
 yangovica, TRANSmisia, VISNEACS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlzques/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlzques/)*

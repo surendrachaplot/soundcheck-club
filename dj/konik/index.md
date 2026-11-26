@@ -1,14 +1,15 @@
 # Konik
 
-Konik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at MODULE, Copenhagen on Fri, 27 Nov 2026.
+Konik is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MODULE, Copenhagen on Fri, 27 Nov 2026.
 
-Konik is a techno and house artist based in France, with 8 gigs on soundcheck across Budapest, Copenhagen, Lyon and Madrid. Often billed alongside Denes Toth, Baime and Justrice. Next up: MODULE, Copenhagen on Fri 27 Nov.
+Konik is a techno and house artist based in France, with 9 gigs on soundcheck across Bratislava, Budapest, Copenhagen and Lyon and 1 more. Often billed alongside Denes Toth, Baime and Justrice. Next up: MODULE, Copenhagen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | MODULE | Copenhagen |
+| Sat, 19 Dec 2026 | Radost Music Club | Bratislava |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Konik is a techno and house artist based in France, with 8 gigs on soundcheck ac
 
 Denes Toth, Baime, Justrice
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konik/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konik/)*

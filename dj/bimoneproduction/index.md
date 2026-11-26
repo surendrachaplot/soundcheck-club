@@ -1,6 +1,6 @@
 # Bim One Production
 
-Bim One Production is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at duo Music Exchange, Tokyo on Wed, 30 Dec 2026.
+Bim One Production is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at duo Music Exchange, Tokyo on Wed, 30 Dec 2026.
 
 Bim One Production is a dub and bass artist, with 9 gigs on soundcheck across Osaka and Tokyo. Often billed alongside OG Militant B, maidable and okadada. Next up: duo Music Exchange, Tokyo on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Bim One Production is a dub and bass artist, with 9 gigs on soundcheck across Os
 
 OG Militant B, maidable, okadada
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bimoneproduction/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bimoneproduction/)*

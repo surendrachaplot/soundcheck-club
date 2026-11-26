@@ -1,6 +1,6 @@
 # FIFI FORTE
 
-FIFI FORTE is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at NX Newcastle, Newcastle on Sat, 28 Nov 2026.
+FIFI FORTE is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NX Newcastle, Newcastle on Sat, 28 Nov 2026.
 
 FIFI FORTE is a tech house and house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Liverpool and 7 more. Often billed alongside Jamie Jones, Mike Morrisey and Manda Moor. Next up: NX Newcastle, Newcastle on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ FIFI FORTE is a tech house and house artist based in United Kingdom, with 33 gig
 
 Jamie Jones, Mike Morrisey, Manda Moor
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*

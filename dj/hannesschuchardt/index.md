@@ -1,6 +1,6 @@
 # Hannes Schuchardt
 
-Hannes Schuchardt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Romantica, Stuttgart on Fri, 27 Nov 2026.
+Hannes Schuchardt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Romantica, Stuttgart on Fri, 27 Nov 2026.
 
 Hannes Schuchardt is a techno and house artist, with 31 gigs on soundcheck across Stuttgart. Often billed alongside Dominik Krammer, Hansn and BLAK & CRÉER. Next up: Romantica, Stuttgart on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Hannes Schuchardt is a techno and house artist, with 31 gigs on soundcheck acros
 
 Dominik Krammer, Hansn, BLAK & CRÉER
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannesschuchardt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannesschuchardt/)*

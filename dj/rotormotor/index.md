@@ -1,0 +1,28 @@
+# RotorMotor
+
+RotorMotor is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Klub K4, Ljubljana on Sat, 19 Dec 2026.
+
+RotorMotor is a trance and techno artist, with 13 gigs on soundcheck across Bratislava, Budapest, Ljubljana and Madrid and 1 more. Often billed alongside Polner, Amertume and Baron Von Trax. Next up: Klub K4, Ljubljana on Sat 19 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 19 Dec 2026 | Klub K4 | Ljubljana |
+
+## Recently played
+
+- Klub K4, Ljubljana · Sat, 24 Oct 2026
+- Peti Kupe, Zagreb · Fri, 16 Oct 2026
+- Kader Grad Kodeljevo, Ljubljana · Thu, 11 Jun 2026
+- Palazzo Permanens, Budapest · Sat, 7 Mar 2026
+- Mondo, Madrid · Sat, 23 Aug 2025
+- TBA -   A4 Studio - Film, TV Studio & Event House, Bratislava · Fri, 28 Mar 2025
+- Gala Hala, Ljubljana · Sat, 25 May 2024
+- Klub K4, Ljubljana · Wed, 1 May 2024
+
+## Shares bills with
+
+Polner, Amertume, Baron Von Trax
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rotormotor/)*

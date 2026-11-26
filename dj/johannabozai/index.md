@@ -1,6 +1,6 @@
 # Johanna Bozai
 
-Johanna Bozai is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 27 Nov 2026.
+Johanna Bozai is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 27 Nov 2026.
 
 Johanna Bozai is a techno and hardcore artist, with 24 gigs on soundcheck across Budapest and Sofia. Often billed alongside ädene, Sikztah and Akác. Next up: Vektor - The Klub, Budapest on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Johanna Bozai is a techno and hardcore artist, with 24 gigs on soundcheck across
 
 ädene, Sikztah, Akác
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*

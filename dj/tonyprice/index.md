@@ -1,6 +1,6 @@
 # Tony Price
 
-Tony Price is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Embassy Bar, Toronto on Thu, 26 Nov 2026.
+Tony Price is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Embassy Bar, Toronto on Thu, 26 Nov 2026.
 
 Tony Price is a house and acid artist based in Canada, with 83 gigs on soundcheck across Belgrade, Berlin, Detroit and Geneva and 8 more. Often billed alongside Milch, Mikey Apples and Invisible City. Next up: The Embassy Bar, Toronto on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Tony Price is a house and acid artist based in Canada, with 83 gigs on soundchec
 
 Milch (1), Mikey Apples, Invisible City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyprice/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyprice/)*

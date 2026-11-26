@@ -1,6 +1,6 @@
 # Terminal (2)
 
-Terminal (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
+Terminal (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
 
 Terminal is a techno and house artist based in Hungary, with 9 gigs on soundcheck across Athens, Budapest, London and Romania. Often billed alongside Klayman, Vatsanah and SVR101. Next up: Black Sea Coast Beach, Romania on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ Terminal is a techno and house artist based in Hungary, with 9 gigs on soundchec
 
 Klayman, Vatsanah, SVR101
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal-2/)*

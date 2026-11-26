@@ -1,6 +1,6 @@
 # Frankie G
 
-Frankie G is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Slow Club, Barcelona on Sat, 5 Dec 2026.
+Frankie G is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Slow Club, Barcelona on Sat, 5 Dec 2026.
 
 Frankie G is a house and techno artist, with 82 gigs on soundcheck across Barcelona. Often billed alongside Toni The Boss, Navider and Hermes Disco Eterno. Next up: Slow Club, Barcelona on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Frankie G is a house and techno artist, with 82 gigs on soundcheck across Barcel
 
 Toni The Boss, Navider, Hermes Disco Eterno
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-g/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-g/)*

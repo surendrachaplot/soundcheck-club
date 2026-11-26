@@ -1,6 +1,6 @@
 # Jongho
 
-Jongho is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
+Jongho is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
 
 Jongho is a minimal and minimal techno artist based in South Korea, with 109 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Milan and 4 more. Often billed alongside Kibum, Mihak and Nomal. Next up: Graphic Hangang, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jongho is a minimal and minimal techno artist based in South Korea, with 109 gig
 
 Kibum, Mihak, Nomal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jongho/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jongho/)*

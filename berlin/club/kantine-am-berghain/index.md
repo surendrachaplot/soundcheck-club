@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Charlotte Plank - €UROSTARZ TOUR - Kantine am Berghain" on Fri, 4 Dec 2026.
+Kantine am Berghain is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Charlotte Plank - €UROSTARZ TOUR - Kantine am Berghain" on Fri, 4 Dec 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Baba Stiltz, Camilla Tarantino, Lust For Youth and MATTAM and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 7 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

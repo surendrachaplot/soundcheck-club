@@ -1,6 +1,6 @@
 # Malwen
 
-Malwen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Four Quarters, London on Sat, 19 Dec 2026.
+Malwen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Four Quarters, London on Sat, 19 Dec 2026.
 
 Malwen is a house and techno artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Roy McKilljoy, KOSIE and Martita. Next up: Four Quarters, London on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Malwen is a house and techno artist based in United Kingdom, with 8 gigs on soun
 
 Roy McKilljoy, KOSIE, Martita
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malwen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malwen/)*

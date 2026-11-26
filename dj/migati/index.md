@@ -1,6 +1,6 @@
 # Migati
 
-Migati is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Madame Claude, Berlin on Sat, 5 Dec 2026.
+Migati is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Madame Claude, Berlin on Sat, 5 Dec 2026.
 
 Migati is a downtempo and techno artist, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alma Linda, Bennet (DE) and Crew Ombrelle. Next up: Madame Claude, Berlin on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Migati is a downtempo and techno artist, with 6 gigs on soundcheck across Berlin
 
 Alma Linda, Bennet (DE), Crew Ombrelle
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migati/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migati/)*

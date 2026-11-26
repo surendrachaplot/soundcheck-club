@@ -1,6 +1,6 @@
 # Rubenus
 
-Rubenus is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 18 Dec 2026.
+Rubenus is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 18 Dec 2026.
 
 Rubenus is a tech house and house artist based in Spain, with 65 gigs on soundcheck across Barcelona, Basel, London and Medellin. Often billed alongside DIROS, Jon Peña and Pau Guilera. Next up: NIX Barcelona, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Rubenus is a tech house and house artist based in Spain, with 65 gigs on soundch
 
 DIROS, Jon Peña, Pau Guilera
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenus/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenus/)*

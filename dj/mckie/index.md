@@ -1,6 +1,6 @@
 # MC Kie
 
-MC Kie is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
+MC Kie is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
 
 MC Kie is a garage and house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester. Often billed alongside DJ Luck & MC Neat, MC Creed and Artful Dodger. Next up: Onyx (E1), London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ MC Kie is a garage and house artist based in United Kingdom, with 27 gigs on sou
 
 DJ Luck & MC Neat, MC Creed, Artful Dodger
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mckie/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mckie/)*

@@ -1,14 +1,15 @@
 # Abrew
 
-Abrew is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
+Abrew is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
 
-Abrew is a techno and trance artist, with 100 gigs on soundcheck across Krakow, Poznan, Prague and Warsaw. Often billed alongside Kobayashkn, dj.zamocno and bolo. Next up: K-Bar Powiśle, Warsaw on Sat 28 Nov.
+Abrew is a techno and trance artist, with 101 gigs on soundcheck across Krakow, Poznan, Prague and Warsaw. Often billed alongside Kobayashkn, dj.zamocno and bolo. Next up: K-Bar Powiśle, Warsaw on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | K-Bar Powiśle | Warsaw |
+| Fri, 4 Dec 2026 | TBA - Secret Location Cracow Old Town | Krakow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Abrew is a techno and trance artist, with 100 gigs on soundcheck across Krakow, 
 
 Kobayashkn, dj.zamocno, bolo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abrew/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abrew/)*

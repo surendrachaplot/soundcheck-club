@@ -1,14 +1,15 @@
 # Jeneva
 
-Jeneva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Glove That Fits, London on Fri, 27 Nov 2026.
+Jeneva is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Glove That Fits, London on Fri, 27 Nov 2026.
 
-Jeneva is a techno and house artist, with 44 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Mar/us. Next up: The Glove That Fits, London on Fri 27 Nov.
+Jeneva is a techno and house artist, with 45 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Mar/us. Next up: The Glove That Fits, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Glove That Fits | London |
+| Fri, 29 Jan 2027 | FOLD | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jeneva is a techno and house artist, with 44 gigs on soundcheck across Berlin, L
 
 Greg Brockmann, LO-LOW, Mar/us
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*

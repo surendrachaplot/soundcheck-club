@@ -1,6 +1,6 @@
 # Dj Nulo
 
-Dj Nulo is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Beato 30, Lisbon on Sat, 28 Nov 2026.
+Dj Nulo is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Beato 30, Lisbon on Sat, 28 Nov 2026.
 
 Dj Nulo is a club and afrobeats artist based in Portugal, with 8 gigs on soundcheck across Lisbon. Often billed alongside DJ Narciso, DJ Lycox and DJ Maboku. Next up: Beato 30, Lisbon on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Dj Nulo is a club and afrobeats artist based in Portugal, with 8 gigs on soundch
 
 DJ Narciso, DJ Lycox, DJ Maboku
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnulo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnulo/)*

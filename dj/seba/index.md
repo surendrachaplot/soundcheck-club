@@ -1,6 +1,6 @@
 # Seba
 
-Seba is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Under Bron, Stockholm on Sat, 5 Dec 2026.
+Seba is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Under Bron, Stockholm on Sat, 5 Dec 2026.
 
 Seba is a drum & bass and jungle artist based in Sweden, with 41 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 16 more. Often billed alongside rzt, Double O and charlie.pxls. Next up: Under Bron, Stockholm on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Seba is a drum & bass and jungle artist based in Sweden, with 41 gigs on soundch
 
 rzt, Double O, charlie.pxls
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*

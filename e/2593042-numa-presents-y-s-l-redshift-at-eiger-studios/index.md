@@ -1,6 +1,6 @@
 # numa. presents: // Y.S.L // Redshift // at Eiger Studios
 
-numa. presents: // Y.S.L // Redshift // at Eiger Studios on Sat 6 Feb, Leeds. 2 artists: Redshift and YSL (Young Saucy Lovers). See the line-up on soundcheck.
+numa. presents: // Y.S.L // Redshift // at Eiger Studios on Sat 6 Feb, Leeds. 2 artists: Redshift and YSL (Young Saucy Lovers). Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

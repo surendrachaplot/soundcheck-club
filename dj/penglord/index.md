@@ -1,6 +1,6 @@
 # Penglord
 
-Penglord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
+Penglord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
 
 Penglord is a techno and house artist based in Germany, with 75 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 11 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: Schrotty, Cologne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Penglord is a techno and house artist based in Germany, with 75 gigs on soundche
 
 P.Vanillaboy, EliaHaze, Hello Sasy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*

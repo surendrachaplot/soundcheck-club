@@ -1,8 +1,8 @@
 # Système
 
-Système is a music venue in Montreal with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "play-do x puzzle present: puddle 001" on Thu, 26 Nov 2026.
+Système is a music venue in Montreal with 24 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "play-do x puzzle present: puddle 001" on Thu, 26 Nov 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 15 upcoming gigs, with line-ups including Akpossoul, Asha, Badgalquirit and Bwi-Bwi and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 24 upcoming gigs, with line-ups including Akpossoul, Alina (MTL), Aram and Asha and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Système is a music venue in Montreal listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 4 Dec 2026 | LE 10EME ANNIVERSAIRE DE LA RAMA | Kris Guilty |
 | Sat, 5 Dec 2026 | Festival De La House | Akpossoul, Gone Deville |
 | Sat, 5 Dec 2026 | Akpossoul, MINZI ROBERTA, Gone Deville | Akpossoul, Gone Deville |
-| Thu, 10 Dec 2026 | Drink n Draw |  |
+| Sun, 6 Dec 2026 | Les Soirées Système | GrandHuit, Ruby Jane |
 
 ## Address
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

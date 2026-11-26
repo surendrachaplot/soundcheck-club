@@ -1,6 +1,6 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+East End Dubs is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 East End Dubs is a house and tech house artist based in United Kingdom, with 297 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 55 more. Often billed alongside ALISHA, Max Dean and Jamback. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -34,4 +34,4 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 297
 
 ALISHA, Max Dean, Jamback
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

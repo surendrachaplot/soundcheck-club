@@ -1,6 +1,6 @@
 # Ultra Naté
 
-Ultra Naté is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 27 Nov 2026.
+Ultra Naté is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 27 Nov 2026.
 
 Ultra Naté is a house and afro house artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 15 more. Often billed alongside DJ Spen, The Elders and DJ Minx. Next up: The Arts Factory Byron Bay, Byron Bay on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Ultra Naté is a house and afro house artist based in United States of America, 
 
 DJ Spen, The Elders, DJ Minx
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*

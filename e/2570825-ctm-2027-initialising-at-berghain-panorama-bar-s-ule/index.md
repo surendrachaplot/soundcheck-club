@@ -1,6 +1,6 @@
 # CTM 2027: Initialising at Berghain | Panorama Bar | Säule
 
-CTM 2027: Initialising at Berghain | Panorama Bar | Säule on Fri 22 Jan, Berlin. 5 artists: A.N.I., Debit, Evil Grimace and Kontronatura and 1 more. Trance and Breakbeat. See the line-up on soundcheck.
+CTM 2027: Initialising at Berghain | Panorama Bar | Säule on Fri 22 Jan, Berlin. 12 artists: A.N.I., Blck Mamba, Debit and Evil Grimace and 8 more. Trance and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,16 @@ CTM 2027: Initialising at Berghain | Panorama Bar | Säule on Fri 22 Jan, Berlin
 ## Line-up
 
 - A.N.I.
+- Blck Mamba
 - Debit
 - Evil Grimace
+- KAVARI
 - Kontronatura
+- Lord Spikeheart
+- Mark Fell
+- NegoO
 - NZIRIA
+- Pierre Kwenders
+- San Farafina
 
 *Source: [soundcheck](https://soundcheck.club/e/2570825-ctm-2027-initialising-at-berghain-panorama-bar-s-ule/)*

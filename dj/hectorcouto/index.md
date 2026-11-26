@@ -1,6 +1,6 @@
 # Hector Couto
 
-Hector Couto is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Asdeoccidente, Colombia on Fri, 27 Nov 2026.
+Hector Couto is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Asdeoccidente, Colombia on Fri, 27 Nov 2026.
 
 Hector Couto is a tech house and house artist based in Spain, with 78 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 27 more. Often billed alongside Prunk, Ammo Avenue and Dimmish. Next up: Asdeoccidente, Colombia on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Hector Couto is a tech house and house artist based in Spain, with 78 gigs on so
 
 Prunk, Ammo Avenue, Dimmish
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*

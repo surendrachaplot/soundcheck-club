@@ -1,6 +1,6 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Media Center, Ljubljana on Fri, 27 Nov 2026.
+In Verruf is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Media Center, Ljubljana on Fri, 27 Nov 2026.
 
 In Verruf is a techno and trance artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 60 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Media Center, Ljubljana on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ In Verruf is a techno and trance artist based in Germany, with 183 gigs on sound
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

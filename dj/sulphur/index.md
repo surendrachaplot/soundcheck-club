@@ -1,6 +1,6 @@
 # Sulphur
 
-Sulphur is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 27 Nov 2026.
+Sulphur is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 27 Nov 2026.
 
 Sulphur is a garage and house artist based in United Kingdom, with 21 gigs on soundcheck across Brighton, Bristol, Cardiff and Leeds and 7 more. Often billed alongside Oldboy, SUFI and Scruz. Next up: Mesmeric Sofia, Sofia on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Sulphur is a garage and house artist based in United Kingdom, with 21 gigs on so
 
 Oldboy (2), SUFI, Scruz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulphur/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulphur/)*

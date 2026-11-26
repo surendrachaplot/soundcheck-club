@@ -1,6 +1,6 @@
 # dijaka
 
-dijaka is a Club and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dali, Cork on Sun, 27 Dec 2026.
+dijaka is a Club and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dali, Cork on Sun, 27 Dec 2026.
 
 dijaka is a club and ambient artist based in Ireland, with 22 gigs on soundcheck across Cork, Dublin, Edinburgh and Galway and 1 more. Often billed alongside -Doubt, R.Kitt and Roo Honeychild. Next up: Dali, Cork on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ dijaka is a club and ambient artist based in Ireland, with 22 gigs on soundcheck
 
 -Doubt, R.Kitt, Roo Honeychild
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dijaka/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dijaka/)*

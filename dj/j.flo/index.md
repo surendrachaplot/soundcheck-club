@@ -1,6 +1,6 @@
 # j.flo
 
-j.flo is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 27 Nov 2026.
+j.flo is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 27 Nov 2026.
 
 j.flo is a bass and electro artist based in Poland, with 5 gigs on soundcheck across Krakow. Often billed alongside Semprey, Michał Jung and Aetha. Next up: Sekta Selekta, Krakow on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ j.flo is a bass and electro artist based in Poland, with 5 gigs on soundcheck ac
 
 Semprey, Michał Jung, Aetha
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.flo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.flo/)*

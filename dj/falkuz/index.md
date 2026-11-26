@@ -1,17 +1,18 @@
 # Falkuz
 
-Falkuz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Granata Studio, Bologna on Sat, 14 Nov 2026.
+Falkuz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dumbo, Bologna on Fri, 18 Dec 2026.
 
-Falkuz is a techno and house artist based in Italy, with 7 gigs on soundcheck across Bologna. Often billed alongside A1R1N, Franz F and Onokai (UTB). Next up: Granata Studio, Bologna on Sat 14 Nov.
+Falkuz is a techno and house artist based in Italy, with 8 gigs on soundcheck across Bologna. Often billed alongside A1R1N, Franz F and Onokai (UTB). Next up: Dumbo, Bologna on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Granata Studio | Bologna |
+| Fri, 18 Dec 2026 | Dumbo | Bologna |
 
 ## Recently played
 
+- Granata Studio, Bologna · Sat, 14 Nov 2026
 - La Scuderia, Bologna · Sat, 25 Jul 2026
 - Filla, Bologna · Sat, 2 May 2026
 - Filla, Bologna · Sun, 22 Mar 2026
@@ -23,4 +24,4 @@ Falkuz is a techno and house artist based in Italy, with 7 gigs on soundcheck ac
 
 A1R1N, Franz F, Onokai (UTB)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/falkuz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/falkuz/)*

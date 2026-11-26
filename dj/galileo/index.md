@@ -1,6 +1,6 @@
 # Galileo
 
-Galileo is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
+Galileo is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
 
 Galileo is a techno and acid artist based in Spain, with 32 gigs on soundcheck across Barcelona, Johannesburg and Madrid. Often billed alongside Pulpix, Nigabba and Nixy. Next up: Carfax, Johannesburg on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Galileo is a techno and acid artist based in Spain, with 32 gigs on soundcheck a
 
 Pulpix, Nigabba, Nixy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galileo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galileo/)*

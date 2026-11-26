@@ -1,6 +1,6 @@
 # CasaBranca 04 with Polygonia, Donato Dozzy, Francesco Chirico & Freddye at Brancaleone
 
-CasaBranca 04 with Polygonia, Donato Dozzy, Francesco Chirico & Freddye at Brancaleone on Sat 28 Nov, Rome. 3 artists: Donato Dozzy, Freddye and Polygonia. Experimental and Electronica. See the line-up on soundcheck.
+CasaBranca 04 with Polygonia, Donato Dozzy, Francesco Chirico & Freddye at Brancaleone on Sat 28 Nov, Rome. 3 artists: Donato Dozzy, Freddye and Polygonia. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

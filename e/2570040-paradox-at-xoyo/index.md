@@ -1,6 +1,6 @@
 # PARADOX at XOYO
 
-PARADOX at XOYO on Wed 25 Nov, London. 3 artists: BOA, HAIG and Johnny Fiore. Tech House and Deep House. See the line-up on soundcheck.
+PARADOX at XOYO on Wed 25 Nov, London. 4 artists: BOA, El Cassar, HAIG and Johnny Fiore. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PARADOX at XOYO on Wed 25 Nov, London. 3 artists: BOA, HAIG and Johnny Fiore. Te
 ## Line-up
 
 - BOA (1)
+- El Cassar
 - HAIG
 - Johnny Fiore
 

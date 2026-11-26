@@ -1,6 +1,6 @@
 # Kate Monroe
 
-Kate Monroe is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
+Kate Monroe is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
 
 Kate Monroe is a club and house artist based in Australia, with 5 gigs on soundcheck across Sydney. Often billed alongside Mark Dynamix, Kid Kenobi and Robbie Lowe. Next up: White Bay Power Station, Sydney on Fri 2 Apr.
 
@@ -21,4 +21,4 @@ Kate Monroe is a club and house artist based in Australia, with 5 gigs on soundc
 
 Mark Dynamix, Kid Kenobi, Robbie Lowe
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katemonroe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katemonroe/)*

@@ -1,6 +1,6 @@
 # Lemurian
 
-Lemurian is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lion's Den, Miami on Fri, 27 Nov 2026.
+Lemurian is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lion's Den, Miami on Fri, 27 Nov 2026.
 
 Lemurian is a deep house and downtempo artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Ibiza, Mexico City and Miami and 3 more. Often billed alongside Deer Jade, Manumat and Sainte Vie. Next up: Lion's Den, Miami on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lemurian is a deep house and downtempo artist based in United States of America,
 
 Deer Jade, Manumat, Sainte Vie
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemurian/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemurian/)*

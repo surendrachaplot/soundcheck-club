@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau" on Fri, 27 Nov 2026.
+RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau" on Fri, 27 Nov 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, ABADIR, Adiel and Akua and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

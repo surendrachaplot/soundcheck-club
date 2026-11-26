@@ -1,6 +1,6 @@
 # Border Control
 
-Border Control is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Sol Sky Bar, Canopy by Hilton, Al Seef, Dubai on Sat, 28 Nov 2026.
+Border Control is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Sol Sky Bar, Canopy by Hilton, Al Seef, Dubai on Sat, 28 Nov 2026.
 
 Border Control is a progressive house and deep house artist based in Sri Lanka, with 4 gigs on soundcheck across Dubai. Often billed alongside Halishan, Harith and Goos. Next up: TBA - Sol Sky Bar, Canopy by Hilton, Al Seef, Dubai on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Border Control is a progressive house and deep house artist based in Sri Lanka, 
 
 Halishan, Harith, Goos (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bordercontrol/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bordercontrol/)*

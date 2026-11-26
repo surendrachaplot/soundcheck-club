@@ -1,6 +1,6 @@
 # Murchadh
 
-Murchadh is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fade Street Studios, Dublin on Sat, 19 Dec 2026.
+Murchadh is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fade Street Studios, Dublin on Sat, 19 Dec 2026.
 
 Murchadh is a techno and progressive house artist based in Ireland, with 20 gigs on soundcheck across Cork and Dublin. Often billed alongside Murchadh, ACKERMAN and EMMIE. Next up: Fade Street Studios, Dublin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Murchadh is a techno and progressive house artist based in Ireland, with 20 gigs
 
 Murchadh, ACKERMAN, EMMIE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/murchadh-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/murchadh-2/)*

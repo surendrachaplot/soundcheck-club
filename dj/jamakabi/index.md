@@ -1,6 +1,6 @@
 # Jamakabi
 
-Jamakabi is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
+Jamakabi is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
 
 Jamakabi is a grime and dubstep artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, London, Manchester and Sofia. Often billed alongside Capo Lee, Footsie and Sir Spyro. Next up: Electric Brixton, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jamakabi is a grime and dubstep artist based in United Kingdom, with 10 gigs on 
 
 Capo Lee, Footsie, Sir Spyro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamakabi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamakabi/)*

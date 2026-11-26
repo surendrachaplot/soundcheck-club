@@ -1,6 +1,6 @@
 # Oscide
 
-Oscide is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Yamamori Tengu, Dublin on Sun, 20 Dec 2026.
+Oscide is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yamamori Tengu, Dublin on Sun, 20 Dec 2026.
 
 Oscide is a house and progressive house artist based in Ireland, with 15 gigs on soundcheck across Dublin and Rotterdam. Often billed alongside JUSTDYL, Collie and Dicko. Next up: Yamamori Tengu, Dublin on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Oscide is a house and progressive house artist based in Ireland, with 15 gigs on
 
 JUSTDYL, Collie (1), Dicko
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscide/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscide/)*

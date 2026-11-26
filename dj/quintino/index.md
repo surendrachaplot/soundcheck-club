@@ -1,6 +1,6 @@
 # Quintino
 
-Quintino is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
+Quintino is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
 
 Quintino is an electronica and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Austin, Cologne and Ibiza and 5 more. Often billed alongside Lucas & Steve, Afrojack and Alignment. Next up: EXPO XXI, Warsaw on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Quintino is an electronica and house artist based in Netherlands, with 11 gigs o
 
 Lucas & Steve, Afrojack, Alignment
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quintino/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quintino/)*

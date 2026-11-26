@@ -1,6 +1,6 @@
 # Jazz Dining B-Flat
 
-Jazz Dining B-Flat is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Jim Butler Group - New Electric Jazz Fusion Concert" on Tue, 15 Dec 2026.
+Jazz Dining B-Flat is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Jim Butler Group - New Electric Jazz Fusion Concert" on Tue, 15 Dec 2026.
 
 Jazz Dining B-Flat is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Jazz Dining B-Flat is a music venue in Tokyo listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Tue, 15 Dec 2026 | Jim Butler Group - New Electric Jazz Fusion Concert |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/jazz-dining-b-flat/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/jazz-dining-b-flat/)*

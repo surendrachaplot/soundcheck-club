@@ -1,6 +1,6 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "__c_u_ltr__ invites" on Fri, 27 Nov 2026.
+NDR2 Red Room is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "__c_u_ltr__ invites" on Fri, 27 Nov 2026.
 
 NDR2 Red Room is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Asa Ray, Harri Pepper, IZP and Mantis (UK) and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -18,4 +18,4 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 5 upcoming gigs, 
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

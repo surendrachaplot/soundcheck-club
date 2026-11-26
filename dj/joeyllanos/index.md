@@ -1,6 +1,6 @@
 # Joey Llanos
 
-Joey Llanos is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Sat, 26 Dec 2026.
+Joey Llanos is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Sat, 26 Dec 2026.
 
 Joey Llanos is a disco and house artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside Douglas Sherman, Ali Coleman and Byron Stingily. Next up: Good Room, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Joey Llanos is a disco and house artist based in United States of America, with 
 
 Douglas Sherman, Ali Coleman, Byron Stingily
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyllanos/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyllanos/)*

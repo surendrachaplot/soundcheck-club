@@ -1,6 +1,6 @@
 # Alan Harman
 
-Alan Harman is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Entrepôts Dominion, Montreal on Thu, 31 Dec 2026.
+Alan Harman is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Entrepôts Dominion, Montreal on Thu, 31 Dec 2026.
 
 Alan Harman is a techno and new wave artist based in Canada, with 7 gigs on soundcheck across Montreal and Toronto. Often billed alongside M Salaciak, Con Secuencias and El Ángel Exterminador. Next up: Entrepôts Dominion, Montreal on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Alan Harman is a techno and new wave artist based in Canada, with 7 gigs on soun
 
 M Salaciak, Con Secuencias, El Ángel Exterminador
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanharman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanharman/)*

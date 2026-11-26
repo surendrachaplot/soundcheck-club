@@ -1,6 +1,6 @@
 # Ghoztbomb
 
-Ghoztbomb is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Abyss Toledo, Ohio on Sat, 28 Nov 2026.
+Ghoztbomb is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Abyss Toledo, Ohio on Sat, 28 Nov 2026.
 
 Ghoztbomb is an industrial and techno artist based in United States of America, with 4 gigs on soundcheck across Detroit and Ohio. Often billed alongside Shakti. Next up: The Abyss Toledo, Ohio on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Ghoztbomb is an industrial and techno artist based in United States of America, 
 
 Shakti
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoztbomb/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoztbomb/)*

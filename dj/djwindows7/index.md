@@ -1,6 +1,6 @@
 # DJ WINDOWS 7
 
-DJ WINDOWS 7 is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lumma, Peru on Fri, 27 Nov 2026.
+DJ WINDOWS 7 is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lumma, Peru on Fri, 27 Nov 2026.
 
 DJ WINDOWS 7 is a house and garage artist based in Mexico, with 10 gigs on soundcheck across Argentina, Bogotá, Guadalajara and Medellin and 5 more. Often billed alongside Pijus, Target Demographic and Mike.D. Next up: Lumma, Peru on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DJ WINDOWS 7 is a house and garage artist based in Mexico, with 10 gigs on sound
 
 Pijus, Target Demographic, Mike.D
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwindows7/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwindows7/)*

@@ -1,6 +1,6 @@
 # Charms
 
-Charms is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SPIT, 58 Irving St, Footscray, Melbourne on Fri, 27 Nov 2026.
+Charms is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SPIT, 58 Irving St, Footscray, Melbourne on Fri, 27 Nov 2026.
 
 Charms is a bass and dub artist based in United Kingdom, with 32 gigs on soundcheck across London, Manchester and Melbourne. Often billed alongside Moopie, Pugilist and Stormn Norm. Next up: TBA - SPIT, 58 Irving St, Footscray, Melbourne on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Charms is a bass and dub artist based in United Kingdom, with 32 gigs on soundch
 
 Moopie, Pugilist, Stormn Norm
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charms/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charms/)*

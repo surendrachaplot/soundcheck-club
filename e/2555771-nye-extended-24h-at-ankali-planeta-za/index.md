@@ -1,6 +1,6 @@
 # #nye_extended [24h] at Ankali & Planeta Za
 
-#nye_extended [24h] at Ankali & Planeta Za on Thu 31 Dec, Prague. 18 artists: Atch22, Cosmodan, Edits and Epoché and 14 more. See the line-up on soundcheck.
+#nye_extended [24h] at Ankali & Planeta Za on Thu 31 Dec, Prague. 20 artists: Atch22, Cosmodan, Edits and Epoché and 16 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,8 @@
 - Kavkaz Widow
 - LuLu (CZ)
 - Madeleine
+- Malachi Constant
+- Matysku
 - patricccio
 - PAURRO
 - Pink Concrete

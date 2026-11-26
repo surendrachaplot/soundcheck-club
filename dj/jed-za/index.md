@@ -1,6 +1,6 @@
 # JED (ZA)
 
-JED (ZA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mødular., Cape Town on Sat, 19 Dec 2026.
+JED (ZA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mødular., Cape Town on Sat, 19 Dec 2026.
 
 JED (ZA) is a techno and house artist based in South Africa, with 37 gigs on soundcheck across Berlin, Cape Town, Paris and Stuttgart. Often billed alongside Deano, Saunter and Khenzo Jökazi. Next up: Mødular., Cape Town on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ JED (ZA) is a techno and house artist based in South Africa, with 37 gigs on sou
 
 Deano, Saunter, Khenzo Jökazi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jed-za/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jed-za/)*

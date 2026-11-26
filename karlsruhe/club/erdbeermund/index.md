@@ -1,6 +1,6 @@
 # Erdbeermund
 
-Erdbeermund is a music venue in Karlsruhe with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "THRILLED! mit technoa" on Fri, 27 Nov 2026.
+Erdbeermund is a music venue in Karlsruhe with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "THRILLED! mit technoa" on Fri, 27 Nov 2026.
 
 Erdbeermund is a music venue in Karlsruhe listed on soundcheck. 2 upcoming gigs, with line-ups including technoa. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Erdbeermund is a music venue in Karlsruhe listed on soundcheck. 2 upcoming gigs,
 | Fri, 27 Nov 2026 | THRILLED! mit technoa | technoa |
 | Sat, 12 Dec 2026 | Freak 'n Jones |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/erdbeermund/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/erdbeermund/)*

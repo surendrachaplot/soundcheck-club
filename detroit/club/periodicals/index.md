@@ -1,6 +1,6 @@
 # Periodicals
 
-Periodicals is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "TRONIQ" on Sat, 5 Dec 2026.
+Periodicals is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "TRONIQ" on Sat, 5 Dec 2026.
 
 Periodicals is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including Scott Avery. See dates, start times and who's playing. 4892 Grand River Ave Detroit, MI, 48208-2257, USA.
 
@@ -14,4 +14,4 @@ Periodicals is a music venue in Detroit listed on soundcheck. 1 upcoming gig, wi
 
 4892 Grand River Ave Detroit, MI, 48208-2257, USA, Detroit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/periodicals/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/periodicals/)*

@@ -1,14 +1,15 @@
 # ROÜGE
 
-ROÜGE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Nordstern, Basel on Sat, 28 Nov 2026.
+ROÜGE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Nordstern, Basel on Sat, 28 Nov 2026.
 
-ROÜGE is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside I Hate Models, Bours? and EARGASM GOD. Next up: Nordstern, Basel on Sat 28 Nov.
+ROÜGE is a techno and trance artist based in France, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside I Hate Models, Bours? and EARGASM GOD. Next up: Nordstern, Basel on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Nordstern | Basel |
+| Fri, 22 Jan 2027 | KALT | Strasbourg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ROÜGE is a techno and trance artist based in France, with 119 gigs on soundchec
 
 I Hate Models, Bours?, EARGASM GOD
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*

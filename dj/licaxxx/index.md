@@ -1,6 +1,6 @@
 # Licaxxx
 
-Licaxxx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Fri, 4 Dec 2026.
+Licaxxx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at club asia, Tokyo on Fri, 4 Dec 2026.
 
 Licaxxx is a house and techno artist based in Japan, with 104 gigs on soundcheck across Chengdu, Hanoi, Hong Kong and Kyoto and 7 more. Often billed alongside kengotaki, FELINE (JP) and JUN INAGAWA. Next up: club asia, Tokyo on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Licaxxx is a house and techno artist based in Japan, with 104 gigs on soundcheck
 
 kengotaki, FELINE (JP), JUN INAGAWA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*

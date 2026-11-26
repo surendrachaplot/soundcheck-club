@@ -1,6 +1,6 @@
 # Lychee (CA)
 
-Lychee (CA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bambi's, Toronto on Sat, 19 Dec 2026.
+Lychee (CA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bambi's, Toronto on Sat, 19 Dec 2026.
 
 Lychee (CA) is a house and techno artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside AKWA, Chloe J and Maves. Next up: Bambi's, Toronto on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Lychee (CA) is a house and techno artist based in Canada, with 10 gigs on soundc
 
 AKWA, Chloe J, Maves
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*

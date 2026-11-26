@@ -1,6 +1,6 @@
 # tzunamic
 
-tzunamic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
+tzunamic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
 
 tzunamic is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Anne-Sophie Selig, Fabian Fischbach and Der olle Kramer. Next up: TBA - Westhafen, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ tzunamic is a techno and house artist based in Germany, with 14 gigs on soundche
 
 Anne-Sophie Selig, Fabian Fischbach, Der olle Kramer
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tzunamic/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tzunamic/)*

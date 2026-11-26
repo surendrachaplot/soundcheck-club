@@ -1,14 +1,15 @@
 # Mark Fell
 
-Mark Fell is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The White Hotel, Manchester on Fri, 4 Dec 2026.
+Mark Fell is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The White Hotel, Manchester on Fri, 4 Dec 2026.
 
-Mark Fell is an experimental and techno artist based in United Kingdom, with 19 gigs on soundcheck across Basel, Bergen, Berlin and Kyoto and 10 more. Often billed alongside Rian Treanor, YPY and Kelman Duran. Next up: The White Hotel, Manchester on Fri 4 Dec.
+Mark Fell is an experimental and techno artist based in United Kingdom, with 20 gigs on soundcheck across Basel, Bergen, Berlin and Kyoto and 10 more. Often billed alongside Rian Treanor, YPY and KAVARI. Next up: The White Hotel, Manchester on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | The White Hotel | Manchester |
+| Fri, 22 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mark Fell is an experimental and techno artist based in United Kingdom, with 19 
 
 ## Shares bills with
 
-Rian Treanor, YPY, Kelman Duran
+Rian Treanor, YPY, KAVARI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfell/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfell/)*

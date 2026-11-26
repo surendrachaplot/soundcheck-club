@@ -1,6 +1,6 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "(FULL CIRCLE)" on Fri, 27 Nov 2026.
+Tokonoma Club is a music venue in Frankfurt with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "(FULL CIRCLE)" on Fri, 27 Nov 2026.
 
 Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 5 upcoming gigs, with line-ups including Anna Hjalmarsson, Answer Code Request, Bliss Inc. and Byron Yeates and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
@@ -18,4 +18,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 5 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

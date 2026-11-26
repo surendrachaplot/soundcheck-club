@@ -1,6 +1,6 @@
 # Entaktogen
 
-Entaktogen is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Cova, Hamburg on Sat, 5 Dec 2026.
+Entaktogen is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Cova, Hamburg on Sat, 5 Dec 2026.
 
 Entaktogen is a techno artist, with 8 gigs on soundcheck across Hamburg and Hannover. Often billed alongside Arlo Bell, Blossmbae and Cøral Negrø. Next up: La Cova, Hamburg on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Entaktogen is a techno artist, with 8 gigs on soundcheck across Hamburg and Hann
 
 Arlo Bell, Blossmbae, Cøral Negrø
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entaktogen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entaktogen/)*

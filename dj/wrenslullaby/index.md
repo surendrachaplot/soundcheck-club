@@ -1,14 +1,15 @@
 # Wren's Lullaby
 
-Wren's Lullaby is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
+Wren's Lullaby is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
 
-Wren's Lullaby is a techno and hardcore artist based in United States of America, with 26 gigs on soundcheck across Berlin and New York City. Often billed alongside Megan Rosengarten, TS Julien and SENGA. Next up: The Deep End, New York City on Fri 27 Nov.
+Wren's Lullaby is a techno and hardcore artist based in United States of America, with 27 gigs on soundcheck across Berlin and New York City. Often billed alongside Megan Rosengarten, TS Julien and SENGA. Next up: The Deep End, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Deep End | New York City |
+| Fri, 4 Dec 2026 | Newtown Radio | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Wren's Lullaby is a techno and hardcore artist based in United States of America
 
 Megan Rosengarten, TS Julien, SENGA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*

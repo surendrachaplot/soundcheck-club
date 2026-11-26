@@ -1,6 +1,6 @@
 # Dark Matter
 
-Dark Matter is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
+Dark Matter is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
 
 Dark Matter is a techno and industrial artist based in United Kingdom, with 11 gigs on soundcheck across Chicago, Detroit, Finland and London and 4 more. Often billed alongside FØSS, Julia Kova and IGDA. Next up: The Brooklyn Monarch, New York City on Wed 25 Nov.
 
@@ -15,16 +15,17 @@ Dark Matter is a techno and industrial artist based in United Kingdom, with 11 g
 
 ## Recently played
 
+- The Brooklyn Monarch, New York City · Wed, 25 Nov 2026
+- The Brooklyn Monarch, New York City · Wed, 25 Nov 2026
 - Ciało, Wroclaw · Sat, 10 Oct 2026
 - E1, London · Fri, 26 Jun 2026
 - Elektricity, Detroit · Fri, 5 Jun 2026
 - Le Mazette, Paris · Sat, 1 Mar 2025
 - The Sultan Room, New York City · Sat, 11 Jan 2025
 - TBA - Lake County Fairgrounds , Chicago · Mon, 30 Dec 2024
-- Le Mazette, Paris · Fri, 26 Apr 2024
 
 ## Shares bills with
 
 FØSS, Julia Kova, IGDA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmatter-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmatter-uk/)*

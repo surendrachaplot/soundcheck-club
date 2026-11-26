@@ -1,6 +1,6 @@
 # Patrick Krause
 
-Patrick Krause is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Monkeys, Hannover on Fri, 27 Nov 2026.
+Patrick Krause is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Monkeys, Hannover on Fri, 27 Nov 2026.
 
 Patrick Krause is a house and tech house artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Hannover, Istanbul and Munich. Often billed alongside Usatov, Main Identity and Thomas Corbach. Next up: Monkeys, Hannover on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Patrick Krause is a house and tech house artist based in Germany, with 9 gigs on
 
 Usatov, Main Identity, Thomas Corbach
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkrause/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkrause/)*

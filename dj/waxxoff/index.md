@@ -1,14 +1,15 @@
 # WAXX OFF
 
-WAXX OFF is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
+WAXX OFF is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
 
-WAXX OFF is a garage and house artist based in Australia, with 30 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 10 more. Often billed alongside Prizefight, IsGwan and 6 SENSE. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
+WAXX OFF is a garage and house artist based in Australia, with 31 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 10 more. Often billed alongside Prizefight, IsGwan and Osmosis Jones. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
+| Sat, 26 Dec 2026 | Bonython Park | Adelaide |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 
@@ -25,6 +26,6 @@ WAXX OFF is a garage and house artist based in Australia, with 30 gigs on soundc
 
 ## Shares bills with
 
-Prizefight, IsGwan, 6 SENSE
+Prizefight, IsGwan, Osmosis Jones
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*

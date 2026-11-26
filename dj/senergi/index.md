@@ -1,6 +1,6 @@
 # SENERGI
 
-SENERGI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+SENERGI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 SENERGI is a house and techno artist based in Spain, with 69 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Kyoto and 6 more. Often billed alongside Agua con gas, Ines Cartas and INGI. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ SENERGI is a house and techno artist based in Spain, with 69 gigs on soundcheck 
 
 Agua con gas, Ines Cartas, INGI (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senergi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senergi/)*

@@ -1,6 +1,6 @@
 # Adriana A
 
-Adriana A is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cat Club, San Francisco/Oakland on Sat, 5 Dec 2026.
+Adriana A is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cat Club, San Francisco/Oakland on Sat, 5 Dec 2026.
 
 Adriana A is a pop and club artist, with 25 gigs on soundcheck across Berlin and San Francisco/Oakland. Often billed alongside Jupiter Gatling, KEN (DE) and DJ PayPaul. Next up: Cat Club, San Francisco/Oakland on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Adriana A is a pop and club artist, with 25 gigs on soundcheck across Berlin and
 
 Jupiter Gatling, KEN (DE), DJ PayPaul
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaa/)*

@@ -1,6 +1,6 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tour & Taxis, Brussels on Sat, 28 Nov 2026.
+KI/KI is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tour & Taxis, Brussels on Sat, 28 Nov 2026.
 
 KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 80 more. Often billed alongside DJ Gigola, Anetha and Funk Tribu. Next up: Tour & Taxis, Brussels on Sat 28 Nov.
 
@@ -34,4 +34,4 @@ KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundc
 
 DJ Gigola, Anetha, Funk Tribu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*

@@ -1,14 +1,14 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Subterrannean, Chicago on Wed, 25 Nov 2026.
+Nanoos is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Subterranean, Chicago on Wed, 25 Nov 2026.
 
-Nanoos is a club and ghetto tech artist based in United States of America, with 98 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 20 more. Often billed alongside Cquestt, Dj Nico and Fullbodydurag. Next up: Subterrannean, Chicago on Wed 25 Nov.
+Nanoos is a club and ghetto tech artist based in United States of America, with 98 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 20 more. Often billed alongside Cquestt, Dj Nico and Fullbodydurag. Next up: Subterranean, Chicago on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Subterrannean | Chicago |
+| Wed, 25 Nov 2026 | Subterranean | Chicago |
 | Fri, 27 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 5 Dec 2026 | TBA - Premises | Chicago |
 | Thu, 10 Dec 2026 | Nowadays | New York City |
@@ -16,6 +16,7 @@ Nanoos is a club and ghetto tech artist based in United States of America, with 
 
 ## Recently played
 
+- Subterranean, Chicago · Wed, 25 Nov 2026
 - Descent, Boston · Fri, 20 Nov 2026
 - Don Quixote, Los Angeles · Fri, 13 Nov 2026
 - Sleeping Village, Chicago · Sat, 7 Nov 2026
@@ -23,10 +24,9 @@ Nanoos is a club and ghetto tech artist based in United States of America, with 
 - Concord Music Hall, Chicago · Sat, 10 Oct 2026
 - Podlasie Club, Chicago · Fri, 9 Oct 2026
 - Big Pink, Detroit · Fri, 2 Oct 2026
-- TBA - Wicker Park, Chicago · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Cquestt, Dj Nico, Fullbodydurag
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

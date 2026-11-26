@@ -1,6 +1,6 @@
 # Vinny Vins
 
-Vinny Vins is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gingerino's Pizza, Newcastle on Fri, 18 Dec 2026.
+Vinny Vins is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gingerino's Pizza, Newcastle on Fri, 18 Dec 2026.
 
 Vinny Vins is a disco and house artist based in United Kingdom, with 46 gigs on soundcheck across Newcastle. Often billed alongside Diz Jockey, Bill Brewster and LA!NE. Next up: Gingerino's Pizza, Newcastle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Vinny Vins is a disco and house artist based in United Kingdom, with 46 gigs on 
 
 Diz Jockey, Bill Brewster, LA!NE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvins/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvins/)*

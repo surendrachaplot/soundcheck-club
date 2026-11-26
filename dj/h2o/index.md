@@ -1,6 +1,6 @@
 # H2O
 
-H2O is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
+H2O is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 5 Dec 2026.
 
 H2O is a techno and electro artist based in France, with 42 gigs on soundcheck across Brussels, Marseille, Paris and Rio de Janeiro. Often billed alongside Jacky Jeane, Blanche and Amau. Next up: La Rotonde Stalingrad, Paris on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ H2O is a techno and electro artist based in France, with 42 gigs on soundcheck a
 
 Jacky Jeane, Blanche, Amau
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h2o/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h2o/)*

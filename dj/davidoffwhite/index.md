@@ -1,6 +1,6 @@
 # DAVIDOFFWHITE
 
-DAVIDOFFWHITE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
+DAVIDOFFWHITE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
 
 DAVIDOFFWHITE is a techno and electro artist based in Czech Republic, with 11 gigs on soundcheck across Czech Republic and Prague. Often billed alongside Nøteleks, 2NDRA and NEUWERTH. Next up: Husitská 22, Prague on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DAVIDOFFWHITE is a techno and electro artist based in Czech Republic, with 11 gi
 
 Nøteleks, 2NDRA, NEUWERTH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidoffwhite/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidoffwhite/)*

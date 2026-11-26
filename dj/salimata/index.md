@@ -1,6 +1,6 @@
 # SALIMATA
 
-SALIMATA is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Zur Klappe, Berlin on Sat, 28 Nov 2026.
+SALIMATA is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zur Klappe, Berlin on Sat, 28 Nov 2026.
 
 SALIMATA is a house and afro house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Berlin, Bochum and Cologne and 8 more. Often billed alongside JANE RYSE, KimPalm and Carl Bergé. Next up: Zur Klappe, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ SALIMATA is a house and afro house artist based in Germany, with 62 gigs on soun
 
 JANE RYSE, KimPalm, Carl Bergé
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salimata/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salimata/)*

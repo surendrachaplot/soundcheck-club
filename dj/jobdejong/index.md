@@ -1,8 +1,8 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Job de Jong is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
-Job de Jong is a house and tech house artist based in Netherlands, with 183 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 29 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
+Job de Jong is a house and tech house artist based in Netherlands, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 29 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Job de Jong is a house and tech house artist based in Netherlands, with 183 gigs
 | Fri, 18 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 19 Dec 2026 | TBA - Vibes Eindhoven | Eindhoven |
 | Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
+| Fri, 1 Jan 2027 | XOYO | London |
 | Fri, 15 Jan 2027 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 20 Feb 2027 | Graanfabriek | Netherlands |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
@@ -34,4 +35,4 @@ Job de Jong is a house and tech house artist based in Netherlands, with 183 gigs
 
 Dennis Quin, Prunk, M-High
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

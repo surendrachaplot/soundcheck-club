@@ -1,6 +1,6 @@
 # Emil Bunker
 
-Emil Bunker is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
+Emil Bunker is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
 
 Emil Bunker is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Frankfurt. Often billed alongside Kacy, The Belgian Stallion and Antonym. Next up: MTW, Frankfurt on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Emil Bunker is a techno and trance artist based in Germany, with 7 gigs on sound
 
 Kacy, The Belgian Stallion, Antonym
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilbunker/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilbunker/)*

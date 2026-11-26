@@ -1,6 +1,6 @@
 # SAVSSOUNDS
 
-SAVSSOUNDS is a Jungle and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Lower Third, London on Fri, 11 Dec 2026.
+SAVSSOUNDS is a Jungle and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Lower Third, London on Fri, 11 Dec 2026.
 
 SAVSSOUNDS is a jungle and afro house artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, London, New York City and Seoul and 1 more. Often billed alongside Donnie Sunshine, HARUNA and KATALYSSST. Next up: The Lower Third, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ SAVSSOUNDS is a jungle and afro house artist based in United Kingdom, with 17 gi
 
 Donnie Sunshine, HARUNA (2), KATALYSSST
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savssounds/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savssounds/)*

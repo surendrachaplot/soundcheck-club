@@ -1,6 +1,6 @@
 # TAKUTO (2)
 
-TAKUTO (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 18 Dec 2026.
+TAKUTO (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 18 Dec 2026.
 
 TAKUTO is a house and techno artist based in Japan, with 38 gigs on soundcheck across Tokyo. Often billed alongside AY, O.Goo and DADO. Next up: ZEROTOKYO, Tokyo on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ TAKUTO is a house and techno artist based in Japan, with 38 gigs on soundcheck a
 
 AY (10), O.Goo, DADO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuto-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuto-2/)*

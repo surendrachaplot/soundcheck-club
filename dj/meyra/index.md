@@ -1,6 +1,6 @@
 # Meyra
 
-Meyra is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Left Bank, Tbilisi on Sat, 28 Nov 2026.
+Meyra is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Left Bank, Tbilisi on Sat, 28 Nov 2026.
 
 Meyra is an electronic artist based in Georgia, with 16 gigs on soundcheck across Tbilisi. Often billed alongside Memotech, Routes Not Roots and Sportsmanship. Next up: Left Bank, Tbilisi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Meyra is an electronic artist based in Georgia, with 16 gigs on soundcheck acros
 
 Memotech, Routes Not Roots, Sportsmanship
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meyra/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meyra/)*

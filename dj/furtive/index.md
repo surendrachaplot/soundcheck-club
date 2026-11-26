@@ -1,6 +1,6 @@
 # Furtive
 
-Furtive is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Bushwick, New York City on Sat, 12 Dec 2026.
+Furtive is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Bushwick, New York City on Sat, 12 Dec 2026.
 
 Furtive is a techno and trance artist based in United States of America, with 28 gigs on soundcheck across New York City, Paris, Philadelphia and Pittsburgh and 2 more. Often billed alongside Ron Like Hell, rippenzack and Cubby. Next up: TBA - Bushwick, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Furtive is a techno and trance artist based in United States of America, with 28
 
 Ron Like Hell, rippenzack, Cubby
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/furtive/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/furtive/)*

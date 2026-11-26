@@ -1,6 +1,6 @@
 # Cosmodan
 
-Cosmodan is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ankali & Planeta Za, Prague on Thu, 31 Dec 2026.
+Cosmodan is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ankali & Planeta Za, Prague on Thu, 31 Dec 2026.
 
 Cosmodan is an electro and club artist based in Czech Republic, with 33 gigs on soundcheck across Belgrade, Prague, Strasbourg and Wroclaw. Often billed alongside Leoht, Olga Zhaldak and Atch22. Next up: Ankali & Planeta Za, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Cosmodan is an electro and club artist based in Czech Republic, with 33 gigs on 
 
 Leoht, Olga Zhaldak, Atch22
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmodan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmodan/)*

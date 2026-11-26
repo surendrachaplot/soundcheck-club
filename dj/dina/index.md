@@ -1,8 +1,8 @@
 # DINA
 
-DINA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+DINA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-DINA is a techno and trance artist based in Canada, with 146 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: Lardner Park, Melbourne on Fri 27 Nov.
+DINA is a techno and trance artist based in Canada, with 147 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DINA is a techno and trance artist based in Canada, with 146 gigs on soundcheck 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 27 Nov 2026 | Revolver Upstairs | Melbourne |
+| Sat, 28 Nov 2026 | Ancient World | Adelaide |
 | Fri, 18 Dec 2026 | Ankali & Planeta Za | Prague |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
@@ -28,4 +29,4 @@ DINA is a techno and trance artist based in Canada, with 146 gigs on soundcheck 
 
 Alpha Tracks, Philipp Drube, Jeans (NL)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*

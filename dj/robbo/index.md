@@ -1,6 +1,6 @@
 # Robbo
 
-Robbo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Eiger Studios, Leeds on Fri, 18 Dec 2026.
+Robbo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Eiger Studios, Leeds on Fri, 18 Dec 2026.
 
 Robbo is a house and minimal artist based in United Kingdom, with 41 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Jenson., Jenson and Josh Keit. Next up: Eiger Studios, Leeds on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Robbo is a house and minimal artist based in United Kingdom, with 41 gigs on sou
 
 Jenson., Jenson, Josh Keit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*

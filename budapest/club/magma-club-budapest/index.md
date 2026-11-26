@@ -1,6 +1,6 @@
 # Magma Club Budapest
 
-Magma Club Budapest is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MAGMA Grand Opening" on Sat, 12 Dec 2026.
+Magma Club Budapest is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MAGMA Grand Opening" on Sat, 12 Dec 2026.
 
 Magma Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming gigs, with line-ups including AGA2L, Beta, BLZS and Cvrdwell and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Magma Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcomin
 | Tue, 29 Dec 2026 | Manas Portal x Magma with Out of Orbit & Eitan Reiter | Eitan Reiter, Out of Orbit |
 | Thu, 31 Dec 2026 | Magma NYE: 20-Hour Marathon | AGA2L, BLZS, Cvrdwell, Erro, Jaffa Surfa, Katamii, Maron, Rolo (2), SLYM, klpflrtpr, reveszbalint |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/magma-club-budapest/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/magma-club-budapest/)*

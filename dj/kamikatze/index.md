@@ -1,6 +1,6 @@
 # Kamikatze
 
-Kamikatze is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kade, Munich on Fri, 27 Nov 2026.
+Kamikatze is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kade, Munich on Fri, 27 Nov 2026.
 
 Kamikatze is a bass and dubstep artist based in Germany, with 21 gigs on soundcheck across Leipzig, Munich and Prague. Often billed alongside Polaster, Cosimoto and Tyra. Next up: Kade, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kamikatze is a bass and dubstep artist based in Germany, with 21 gigs on soundch
 
 Polaster, Cosimoto, Tyra
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikatze/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikatze/)*

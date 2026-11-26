@@ -1,6 +1,6 @@
 # Motus x ABGEDREHT - WINTER RAVE with ETERA, Ben Derris & MORE (FREE ENTRY BEFORE 00:00) at ://about blank
 
-Motus x ABGEDREHT - WINTER RAVE with ETERA, Ben Derris & MORE (FREE ENTRY BEFORE 00:00) at ://about blank on Fri 18 Dec, Berlin. 11 artists: B.R.K.Ø., Ben Derris, DJ PLUS PLUS and e.leptic and 7 more. Trance and Techno. See the line-up on soundcheck.
+Motus x ABGEDREHT - WINTER RAVE with ETERA, Ben Derris & MORE (FREE ENTRY BEFORE 00:00) at ://about blank on Fri 18 Dec, Berlin. 12 artists: B.R.K.Ø., BECCA, Ben Derris and DJ PLUS PLUS and 8 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Motus x ABGEDREHT - WINTER RAVE with ETERA, Ben Derris & MORE (FREE ENTRY BEFORE
 ## Line-up
 
 - B.R.K.Ø.
+- BECCA
 - Ben Derris
 - DJ PLUS PLUS
 - e.leptic

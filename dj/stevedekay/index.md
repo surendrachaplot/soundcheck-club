@@ -1,6 +1,6 @@
 # Steve Dekay
 
-Steve Dekay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
+Steve Dekay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
 
 Steve Dekay is a techno and trance artist based in Colombia, with 8 gigs on soundcheck across Amsterdam, Barcelona, Edinburgh and Los Angeles and 3 more. Often billed alongside Allen Watts, Artbat and Astrix. Next up: Black Sea Coast Beach, Romania on Fri 18 Jun.
 
@@ -24,4 +24,4 @@ Steve Dekay is a techno and trance artist based in Colombia, with 8 gigs on soun
 
 Allen Watts, Artbat, Astrix
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*

@@ -1,6 +1,6 @@
 # Kungs
 
-Kungs is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lac Jacques Vernier à Douai, North on Fri, 25 Jun 2027.
+Kungs is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lac Jacques Vernier à Douai, North on Fri, 25 Jun 2027.
 
 Kungs is a house and electro artist based in France, with 36 gigs on soundcheck across Austin, Barcelona, Berlin and Bordeaux and 18 more. Often billed alongside CHRIS STASSY, Isa Rojas and Mathame. Next up: Lac Jacques Vernier à Douai, North on Fri 25 Jun.
 
@@ -25,4 +25,4 @@ Kungs is a house and electro artist based in France, with 36 gigs on soundcheck 
 
 CHRIS STASSY, Isa Rojas, Mathame
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*

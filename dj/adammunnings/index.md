@@ -1,6 +1,6 @@
 # ADAM MUNNINGS
 
-ADAM MUNNINGS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+ADAM MUNNINGS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
 
 ADAM MUNNINGS is a house and techno artist based in Australia, with 82 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 9 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: OST, Berlin on Thu 31 Dec.
 
@@ -27,4 +27,4 @@ ADAM MUNNINGS is a house and techno artist based in Australia, with 82 gigs on s
 
 Elninodiablo, DJ Petite, Jonathan Apelbaum
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*

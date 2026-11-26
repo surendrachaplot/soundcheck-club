@@ -1,8 +1,8 @@
 # Dimitri From Paris
 
-Dimitri From Paris is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Night Tales, London on Sat, 28 Nov 2026.
+Dimitri From Paris is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Night Tales, London on Sat, 28 Nov 2026.
 
-Dimitri From Paris is a house and disco artist based in France, with 111 gigs on soundcheck across Antwerp, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: Night Tales, London on Sat 28 Nov.
+Dimitri From Paris is a house and disco artist based in France, with 112 gigs on soundcheck across Antwerp, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: Night Tales, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dimitri From Paris is a house and disco artist based in France, with 111 gigs on
 | Sat, 28 Nov 2026 | Night Tales | London |
 | Sat, 5 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 18 Dec 2026 | Ace Hotel Kyoto | Kyoto |
+| Sat, 16 Jan 2027 | La Bellevilloise | Paris |
 | Sat, 30 Jan 2027 | Charlies Loft | Glasgow |
 | Sat, 1 May 2027 | Various Venues | London |
 
@@ -29,4 +30,4 @@ Dimitri From Paris is a house and disco artist based in France, with 111 gigs on
 
 Melvo Baptiste, Melon Bomb, Sophie Lloyd
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*

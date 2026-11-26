@@ -1,14 +1,13 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Damian Lazarus" on Wed, 25 Nov 2026.
+Zumana Bali is a music venue in Bali with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Joseph Capriati" on Fri, 27 Nov 2026.
 
-Zumana Bali is a music venue in Bali listed on soundcheck. 13 upcoming gigs, with line-ups including Claptone, Damian Lazarus, DJ Tennis and Dubfire and 2 more. See dates, start times and who's playing.
+Zumana Bali is a music venue in Bali listed on soundcheck. 12 upcoming gigs, with line-ups including Claptone, DJ Tennis, Dubfire and Francis Mercier and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Damian Lazarus | Damian Lazarus |
 | Fri, 27 Nov 2026 | Joseph Capriati | Joseph Capriati |
 | Sat, 28 Nov 2026 | LUCH | LUCH (MEX) |
 | Wed, 2 Dec 2026 | Juany Bravo | Juany Bravo |
@@ -18,5 +17,6 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 13 upcoming gigs, wit
 | Wed, 16 Dec 2026 | Kitty Amor | Kitty Amor |
 | Fri, 18 Dec 2026 | Dubfire | Dubfire |
 | Sat, 19 Dec 2026 | RODRIGUEZ JR | Rodriguez Jr. |
+| Thu, 31 Dec 2026 | NYE - Francis Mercier PRESENTS SOLÈY | Francis Mercier |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

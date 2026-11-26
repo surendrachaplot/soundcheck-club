@@ -1,6 +1,6 @@
 # George Silver
 
-George Silver is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Arroz Estúdios, Lisbon on Fri, 27 Nov 2026.
+George Silver is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Arroz Estúdios, Lisbon on Fri, 27 Nov 2026.
 
 George Silver is a house and techno artist based in Portugal, with 10 gigs on soundcheck across Lisbon and Porto. Often billed alongside Sibson, Mariana Raposo and Ricardo Grüssl. Next up: Arroz Estúdios, Lisbon on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ George Silver is a house and techno artist based in Portugal, with 10 gigs on so
 
 Sibson, Mariana Raposo, Ricardo Grüssl
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesilver/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesilver/)*

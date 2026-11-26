@@ -1,6 +1,6 @@
 # dirtymoney
 
-dirtymoney is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Radius, Chicago on Sat, 12 Dec 2026.
+dirtymoney is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Radius, Chicago on Sat, 12 Dec 2026.
 
 dirtymoney is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Chicago, Detroit and Ho Chi Minh City. Often billed alongside Adam Pecho, quade and Dunes of Dawn. Next up: Radius, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ dirtymoney is a techno and house artist based in United States of America, with 
 
 Adam Pecho, quade, Dunes of Dawn
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtymoney/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtymoney/)*

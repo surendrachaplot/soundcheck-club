@@ -1,6 +1,6 @@
 # Michael Klotz
 
-Michael Klotz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stromwerk Dresden, Dresden on Fri, 27 Nov 2026.
+Michael Klotz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stromwerk Dresden, Dresden on Fri, 27 Nov 2026.
 
 Michael Klotz is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 2 more. Often billed alongside A.T.E.K, An Chen and Atype. Next up: Stromwerk Dresden, Dresden on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Michael Klotz is a techno and trance artist based in Germany, with 7 gigs on sou
 
 A.T.E.K, An Chen, Atype
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelklotz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelklotz/)*

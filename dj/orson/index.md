@@ -1,14 +1,15 @@
 # Orson
 
-Orson is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
+Orson is a House and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
 
-Orson is a dubstep and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Dortmund / Essen, Dresden and London and 3 more. Often billed alongside DJ Hops, DJ Flounce and Impurity. Next up: SCHRON, Poznan on Fri 4 Dec.
+Orson is a house and dubstep artist based in Germany, with 40 gigs on soundcheck across Berlin, Brussels, Dortmund / Essen and Dresden and 4 more. Often billed alongside DJ Hops, DJ Flounce and Impurity. Next up: SCHRON, Poznan on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | SCHRON | Poznan |
+| Fri, 18 Dec 2026 | Bonnefooi | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Orson is a dubstep and house artist based in Germany, with 39 gigs on soundcheck
 
 DJ Hops, DJ Flounce, Impurity
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orson/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orson/)*

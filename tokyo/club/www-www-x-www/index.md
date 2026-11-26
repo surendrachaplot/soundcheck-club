@@ -1,6 +1,6 @@
 # WWW / WWW X / WWW β
 
-WWW / WWW X / WWW β is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "WWW New Year Party 2026-27 -108 Spirits-" on Thu, 31 Dec 2026.
+WWW / WWW X / WWW β is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "WWW New Year Party 2026-27 -108 Spirits-" on Thu, 31 Dec 2026.
 
 WWW / WWW X / WWW β is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Foodman, Laraaji and Minna-no-Kimochi. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ WWW / WWW X / WWW β is a music venue in Tokyo listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | WWW New Year Party 2026-27 -108 Spirits- | Foodman, Laraaji, Minna-no-Kimochi |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-www-x-www/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-www-x-www/)*

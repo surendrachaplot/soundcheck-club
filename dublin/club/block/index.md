@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Block x RAW: BIIA" on Fri, 27 Nov 2026.
+block. is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Block x RAW: BIIA" on Fri, 27 Nov 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with line-ups including ALPER SKR, Benji King, bernie soundmate and BIIA and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -23,4 +23,4 @@ block. is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with l
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

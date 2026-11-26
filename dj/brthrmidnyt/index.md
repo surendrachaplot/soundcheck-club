@@ -1,6 +1,6 @@
 # BrthrMidnyt
 
-BrthrMidnyt is a EBM and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at AMT, Berlin on Sun, 29 Nov 2026.
+BrthrMidnyt is a EBM and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at AMT, Berlin on Sun, 29 Nov 2026.
 
 BrthrMidnyt is an ebm and house artist based in United States of America, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Bézier, La Carpio and cristian zanotti. Next up: AMT, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ BrthrMidnyt is an ebm and house artist based in United States of America, with 1
 
 Bézier, La Carpio, cristian zanotti
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brthrmidnyt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brthrmidnyt/)*

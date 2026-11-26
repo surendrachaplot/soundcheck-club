@@ -1,6 +1,6 @@
 # KAAI
 
-KAAI is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Palax Arena - Ferrara Fiere, North on Sat, 19 Dec 2026.
+KAAI is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Palax Arena - Ferrara Fiere, North on Sat, 19 Dec 2026.
 
 KAAI is a techno and dub techno artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Cologne and 13 more. Often billed alongside Slam, Kairogen and Charlie Sparks. Next up: TBA - Palax Arena - Ferrara Fiere, North on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ KAAI is a techno and dub techno artist based in United Kingdom, with 44 gigs on 
 
 Slam, Kairogen, Charlie Sparks
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*

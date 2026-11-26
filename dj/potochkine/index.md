@@ -1,6 +1,6 @@
 # POTOCHKINE
 
-POTOCHKINE is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+POTOCHKINE is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 POTOCHKINE is a post-punk and ebm artist based in France, with 7 gigs on soundcheck across Athens, Bologna, Lausanne and London and 2 more. Often billed alongside C.A.R., Curses and Lust For Youth. Next up: The Cause, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ POTOCHKINE is a post-punk and ebm artist based in France, with 7 gigs on soundch
 
 C.A.R., Curses, Lust For Youth
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/potochkine/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/potochkine/)*

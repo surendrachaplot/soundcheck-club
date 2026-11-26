@@ -1,6 +1,6 @@
 # Lorenzo Slider
 
-Lorenzo Slider is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - 333, New York City on Sat, 28 Nov 2026.
+Lorenzo Slider is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - 333, New York City on Sat, 28 Nov 2026.
 
 Lorenzo Slider is a house and techno artist, with 20 gigs on soundcheck across Berlin, Bogotá, Ibiza and Mallorca and 4 more. Often billed alongside Pablo Romero, Arvi and Charles Wax. Next up: TBA - 333, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lorenzo Slider is a house and techno artist, with 20 gigs on soundcheck across B
 
 Pablo Romero, Arvi, Charles Wax
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoslider/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoslider/)*

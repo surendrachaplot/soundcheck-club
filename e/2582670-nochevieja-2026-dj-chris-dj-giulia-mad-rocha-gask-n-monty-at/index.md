@@ -1,6 +1,6 @@
-# NOCHEVIEJA 2026: DJ Chris, Dj Giulia Mad, Rocha, Gaskón, Monty at EL SÓTANO
+# NOCHEVIEJA 2026: DJ Chris, DJ Giulia Mad, Rocha, Gaskón, Monty at EL SÓTANO
 
-NOCHEVIEJA 2026: DJ Chris, Dj Giulia Mad, Rocha, Gaskón, Monty at EL SÓTANO on Thu 31 Dec, Madrid. 3 artists: DR ROCHA, Gaskón and Monty. Club and Electronica. See the line-up on soundcheck.
+NOCHEVIEJA 2026: DJ Chris, DJ Giulia Mad, Rocha, Gaskón, Monty at EL SÓTANO on Thu 31 Dec, Madrid. 3 artists: DR ROCHA, Gaskón and Monty. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

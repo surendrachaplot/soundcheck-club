@@ -1,6 +1,6 @@
 # Jambo
 
-Jambo is a Experimental and Grime artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Brixtonia Lounge, London on Thu, 26 Nov 2026.
+Jambo is a Experimental and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Brixtonia Lounge, London on Thu, 26 Nov 2026.
 
 Jambo is an experimental and grime artist, with 6 gigs on soundcheck across Barcelona and London. Often billed alongside Joe Cabana, Mad Max and Edge <3. Next up: Brixtonia Lounge, London on Thu 26 Nov.
 
@@ -22,4 +22,4 @@ Jambo is an experimental and grime artist, with 6 gigs on soundcheck across Barc
 
 Joe Cabana, Mad Max, Edge <3
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jambo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jambo/)*

@@ -1,8 +1,8 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Mietze Conte - SWG3 Warehouse" on Fri, 27 Nov 2026.
+SWG3 is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mietze Conte - SWG3 Warehouse" on Fri, 27 Nov 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with line-ups including A For Alpha, ALISHA, AMMARA and An Dannsa Dub and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including A For Alpha, ALISHA, AMMARA and An Dannsa Dub and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with li
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

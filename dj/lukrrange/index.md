@@ -1,6 +1,6 @@
 # Lukr Range
 
-Lukr Range is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OXI, Berlin on Tue, 8 Dec 2026.
+Lukr Range is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OXI, Berlin on Tue, 8 Dec 2026.
 
 Lukr Range is a techno and trance artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bologna and 11 more. Often billed alongside VNVK, EMIRA and BLACK ANTHEM RESTORE. Next up: OXI, Berlin on Tue 8 Dec.
 
@@ -27,4 +27,4 @@ Lukr Range is a techno and trance artist based in Germany, with 85 gigs on sound
 
 VNVK, EMIRA, BLACK ANTHEM RESTORE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*

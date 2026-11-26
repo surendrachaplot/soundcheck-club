@@ -1,6 +1,6 @@
 # Bisou Mayfair
 
-Bisou Mayfair is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Pax Arabiana x Mouage - Bisou" on Thu, 10 Dec 2026.
+Bisou Mayfair is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Pax Arabiana x Mouage - Bisou" on Thu, 10 Dec 2026.
 
 Bisou Mayfair is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including NANO and Pax Arabiana. See dates, start times and who's playing. 9 Swallow Street, London, W1B 4DF.
 
@@ -16,4 +16,4 @@ Bisou Mayfair is a music venue in London listed on soundcheck. 3 upcoming gigs, 
 
 9 Swallow Street, London, W1B 4DF, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*

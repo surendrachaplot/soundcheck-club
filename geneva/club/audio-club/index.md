@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "RED BULL NIGHT SHIFT with DJ TENNIS · EMMA B · La Forêt" on Fri, 27 Nov 2026.
+Audio Club is a music venue in Geneva with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RED BULL NIGHT SHIFT with DJ TENNIS · EMMA B · La Forêt" on Fri, 27 Nov 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Tennis, Emma B, La Forêt and Michel Cleis and 1 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -15,4 +15,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 2 upcoming gigs, wit
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

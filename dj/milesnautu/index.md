@@ -1,6 +1,6 @@
 # Miles Nautu
 
-Miles Nautu is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+Miles Nautu is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
 Miles Nautu is a house and hip-hop artist based in Australia, with 6 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Birdsnake, Coco Maria and Emelyne. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Miles Nautu is a house and hip-hop artist based in Australia, with 6 gigs on sou
 
 Birdsnake, Coco Maria, Emelyne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesnautu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesnautu/)*

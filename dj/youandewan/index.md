@@ -1,6 +1,6 @@
 # Youandewan
 
-Youandewan is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Youandewan is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
 
 Youandewan is a house and minimal artist based in Germany, with 126 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 41 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Youandewan is a house and minimal artist based in Germany, with 126 gigs on soun
 
 Huerta, Liquid Earth, Truly Madly
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*

@@ -1,8 +1,8 @@
 # Solak
 
-Solak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Solak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
-Solak is a disco and house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Al Wootton, Bill Brewster and C.A.R.. Next up: The Cause, London on Sat 28 Nov.
+Solak is a disco and house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Al Wootton, Andi and Bill Brewster. Next up: The Cause, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Solak is a disco and house artist based in United Kingdom, with 2 gigs on soundc
 
 ## Shares bills with
 
-Al Wootton, Bill Brewster, C.A.R.
+Al Wootton, Andi, Bill Brewster
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solak/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solak/)*

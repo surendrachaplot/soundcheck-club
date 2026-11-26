@@ -1,6 +1,6 @@
 # Hyan (2)
 
-Hyan (2) is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 11 Dec 2026.
+Hyan (2) is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 11 Dec 2026.
 
 Hyan is a garage and house artist based in New Zealand, with 15 gigs on soundcheck across Auckland, Christchurch, London and Melbourne and 1 more. Often billed alongside Caru (NZ), THIRZA and ADDAX (AU). Next up: QQQ ST. Park, Melbourne on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Hyan is a garage and house artist based in New Zealand, with 15 gigs on soundche
 
 Caru (NZ), THIRZA, ADDAX (AU)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*

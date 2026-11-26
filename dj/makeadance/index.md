@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Azimut Club, Turin on Sat, 28 Nov 2026.
+Make A Dance is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Azimut Club, Turin on Sat, 28 Nov 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 143 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 40 more. Often billed alongside Paula Tape, Chloé Caillet and Lulah Francs. Next up: Azimut Club, Turin on Sat 28 Nov.
+Make A Dance is a house and disco artist based in United Kingdom, with 144 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 40 more. Often billed alongside Paula Tape, Chloé Caillet and Lulah Francs. Next up: Azimut Club, Turin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Make A Dance is a house and disco artist based in United Kingdom, with 143 gigs 
 | Thu, 31 Dec 2026 | KOKO | London |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 | Thu, 14 Jan 2027 | Igloofest | Montreal |
+| Sat, 30 Jan 2027 | Mint XL | Leeds |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -35,4 +36,4 @@ Make A Dance is a house and disco artist based in United Kingdom, with 143 gigs 
 
 Paula Tape, Chloé Caillet, Lulah Francs
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

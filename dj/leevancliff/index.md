@@ -1,6 +1,6 @@
 # Lee Van Cliff
 
-Lee Van Cliff is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Deposito Pontecorvo, Florence on Sat, 5 Dec 2026.
+Lee Van Cliff is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Deposito Pontecorvo, Florence on Sat, 5 Dec 2026.
 
 Lee Van Cliff is a techno and house artist based in Italy, with 7 gigs on soundcheck across Florence, Milan and Turin. Often billed alongside Bassik, Distorted Planet and Hëit. Next up: Deposito Pontecorvo, Florence on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Lee Van Cliff is a techno and house artist based in Italy, with 7 gigs on soundc
 
 Bassik, Distorted Planet, Hëit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leevancliff/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leevancliff/)*

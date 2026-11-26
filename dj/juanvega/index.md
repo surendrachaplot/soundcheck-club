@@ -1,6 +1,6 @@
 # JUAN VEGA
 
-JUAN VEGA is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Union Club, Vauxhall, London on Fri, 27 Nov 2026.
+JUAN VEGA is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Union Club, Vauxhall, London on Fri, 27 Nov 2026.
 
 JUAN VEGA is a tech house and techno artist based in Spain, with 5 gigs on soundcheck across London and Madrid. Often billed alongside Cristian Ebasta, Enrico Chirchiello and Almuedo. Next up: Union Club, Vauxhall, London on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ JUAN VEGA is a tech house and techno artist based in Spain, with 5 gigs on sound
 
 Cristian Ebasta, Enrico Chirchiello, Almuedo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanvega/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanvega/)*

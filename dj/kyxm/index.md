@@ -1,6 +1,6 @@
 # kyxm
 
-kyxm is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
+kyxm is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
 
 kyxm is a club and bass artist based in United States of America, with 41 gigs on soundcheck across Milan, New York City and Rome. Often billed alongside ethereal.mvp, martine and Pacha DJ. Next up: Bene Bene, Milan on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ kyxm is a club and bass artist based in United States of America, with 41 gigs o
 
 ethereal.mvp, martine (5), Pacha DJ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*

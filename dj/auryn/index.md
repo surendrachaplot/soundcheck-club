@@ -1,6 +1,6 @@
 # Auryn
 
-Auryn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fuchs2, Prague on Fri, 18 Dec 2026.
+Auryn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fuchs2, Prague on Fri, 18 Dec 2026.
 
 Auryn is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin, Hannover, Prague and The Hague. Often billed alongside Inverse Element, .VRIL and AADJA. Next up: Fuchs2, Prague on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Auryn is a techno and house artist based in Germany, with 10 gigs on soundcheck 
 
 Inverse Element, .VRIL, AADJA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auryn/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auryn/)*

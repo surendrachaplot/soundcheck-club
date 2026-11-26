@@ -1,14 +1,13 @@
 # Jordy
 
-Jordy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Jordy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 19 Dec 2026.
 
-Jordy is a techno and house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 4 more. Often billed alongside Josiane, Di² and Guliver. Next up: The Cause, London on Sat 28 Nov.
+Jordy is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 4 more. Often billed alongside Josiane, Di² and Guliver. Next up: Halcyon, San Francisco/Oakland on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | The Cause | London |
 | Sat, 19 Dec 2026 | Halcyon | San Francisco/Oakland |
 | Fri, 1 Jan 2027 | Gewölbe | Cologne |
 
@@ -27,4 +26,4 @@ Jordy is a techno and house artist based in Germany, with 26 gigs on soundcheck 
 
 Josiane, Di² (1), Guliver
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*

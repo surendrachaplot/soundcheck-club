@@ -1,6 +1,6 @@
 # Just_Me
 
-Just_Me is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Private Location Neukölln, Berlin on Fri, 27 Nov 2026.
+Just_Me is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Private Location Neukölln, Berlin on Fri, 27 Nov 2026.
 
 Just_Me is a house and tech house artist based in Slovakia, with 21 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Chicago and 3 more. Often billed alongside Chad Andrew, Dimitri Monev and Brizman. Next up: Private Location Neukölln, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Just_Me is a house and tech house artist based in Slovakia, with 21 gigs on soun
 
 Chad Andrew, Dimitri Monev, Brizman
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/just_me/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/just_me/)*

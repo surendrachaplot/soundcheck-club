@@ -1,6 +1,6 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Loso, Richmond on Sat, 12 Dec 2026.
+Bridge (NY) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Loso, Richmond on Sat, 12 Dec 2026.
 
 Bridge (NY) is a house and disco artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Boston, Dublin and Lisbon and 9 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Loso, Richmond on Sat 12 Dec.
 
@@ -29,4 +29,4 @@ Bridge (NY) is a house and disco artist based in United States of America, with 
 
 CRVM, Wolf Spritzer, DJ Shannon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

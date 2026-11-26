@@ -1,6 +1,6 @@
 # The Eagle
 
-The Eagle is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Horse Meat Disco's 23rd Birthday Party at Eagle London" on Sun, 29 Nov 2026.
+The Eagle is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Horse Meat Disco's 23rd Birthday Party at Eagle London" on Sun, 29 Nov 2026.
 
 The Eagle is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Horse Meat Disco, Prosumer and Sophie Lloyd. See dates, start times and who's playing. 349 Kennington Ln, London SE11 5QY, United Kingdom.
 
@@ -15,4 +15,4 @@ The Eagle is a music venue in London listed on soundcheck. 2 upcoming gigs, with
 
 349 Kennington Ln, London SE11 5QY, United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*

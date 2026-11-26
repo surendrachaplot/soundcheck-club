@@ -1,6 +1,6 @@
 # Ali Gria
 
-Ali Gria is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Spin, San Diego on Sat, 5 Dec 2026.
+Ali Gria is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Spin, San Diego on Sat, 5 Dec 2026.
 
 Ali Gria is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across San Diego. Often billed alongside Terry Jasinto, Jimbo James and Mitch Dodge. Next up: Spin, San Diego on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ali Gria is a house and tech house artist based in United States of America, wit
 
 Terry Jasinto, Jimbo James, Mitch Dodge
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aligria/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aligria/)*

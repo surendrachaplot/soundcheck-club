@@ -1,6 +1,6 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Port of Belgrade, Stage 2, Belgrade on Fri, 11 Dec 2026.
+KlangKuenstler is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Port of Belgrade, Stage 2, Belgrade on Fri, 11 Dec 2026.
 
 KlangKuenstler is a techno and house artist based in Germany, with 212 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: TBA - Port of Belgrade, Stage 2, Belgrade on Fri 11 Dec.
 
@@ -29,4 +29,4 @@ KlangKuenstler is a techno and house artist based in Germany, with 212 gigs on s
 
 Daria Kolosova, I Hate Models, Kobosil
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

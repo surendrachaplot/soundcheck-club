@@ -1,13 +1,14 @@
 # Paquita Gordon
 
-Paquita Gordon is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Dec 2026.
+Paquita Gordon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 11 Dec 2026.
 
-Paquita Gordon is a house and techno artist based in Italy, with 148 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Francesco Del Garda, BASHKKA and Marco Shuttle. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Dec.
+Paquita Gordon is a house and techno artist based in Italy, with 149 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Francesco Del Garda, BASHKKA and Marco Shuttle. Next up: CLUB RAUM, Amsterdam on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | CLUB RAUM | Amsterdam |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 31 Dec 2026 | The Cause | London |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
@@ -29,4 +30,4 @@ Paquita Gordon is a house and techno artist based in Italy, with 148 gigs on sou
 
 Francesco Del Garda, BASHKKA, Marco Shuttle
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*

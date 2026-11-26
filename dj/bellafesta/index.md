@@ -1,6 +1,6 @@
 # Bella Festa
 
-Bella Festa is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hen's Teeth, Dublin on Wed, 23 Dec 2026.
+Bella Festa is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hen's Teeth, Dublin on Wed, 23 Dec 2026.
 
 Bella Festa is an italo disco and house artist based in Ireland, with 52 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 2 more. Often billed alongside David Diamond, Aidan and Budino. Next up: Hen's Teeth, Dublin on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ Bella Festa is an italo disco and house artist based in Ireland, with 52 gigs on
 
 David Diamond, Aidan, Budino
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellafesta/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellafesta/)*

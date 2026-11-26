@@ -1,6 +1,6 @@
 # Saige Sounds
 
-Saige Sounds is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rosegarden, Berlin on Sat, 5 Dec 2026.
+Saige Sounds is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rosegarden, Berlin on Sat, 5 Dec 2026.
 
 Saige Sounds is a house and broken beat artist based in United Kingdom, with 63 gigs on soundcheck across Berlin, London and Perth. Often billed alongside Alexander Nut, joey manzi and Ben hauke. Next up: Rosegarden, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Saige Sounds is a house and broken beat artist based in United Kingdom, with 63 
 
 Alexander Nut, joey manzi, Ben hauke
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saigesounds/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saigesounds/)*

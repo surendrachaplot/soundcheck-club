@@ -1,6 +1,6 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "You Are What You Dance presents: Excursions vol. 1" on Fri, 27 Nov 2026.
+AUX Club is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "You Are What You Dance presents: Excursions vol. 1" on Fri, 27 Nov 2026.
 
 AUX Club is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including a.metz, Até., Body Double and DLV and 2 more. See dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
@@ -15,4 +15,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with 
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

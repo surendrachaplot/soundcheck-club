@@ -1,6 +1,6 @@
 # Berlin Bunny
 
-Berlin Bunny is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
+Berlin Bunny is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
 
 Berlin Bunny is a techno and house artist based in Poland, with 74 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 14 more. Often billed alongside Eyesdice, Paty Vapor and Franz Scala. Next up: Groundless Factory, Beijing on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Berlin Bunny is a techno and house artist based in Poland, with 74 gigs on sound
 
 Eyesdice, Paty Vapor, Franz Scala
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*

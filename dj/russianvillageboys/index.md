@@ -1,6 +1,6 @@
 # Russian Village Boys
 
-Russian Village Boys is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Parc des Expositions du Pays de Lorient, West on Sat, 12 Dec 2026.
+Russian Village Boys is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Parc des Expositions du Pays de Lorient, West on Sat, 12 Dec 2026.
 
 Russian Village Boys is a techno and electro artist based in Germany, with 39 gigs on soundcheck across Barcelona, Basel, Berlin and Bordeaux and 16 more. Often billed alongside Angerfist, AMBAM and Hádes. Next up: Parc des Expositions du Pays de Lorient, West on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Russian Village Boys is a techno and electro artist based in Germany, with 39 gi
 
 Angerfist, AMBAM, Hádes
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*

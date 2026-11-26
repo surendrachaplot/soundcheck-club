@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 37 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Subverted x Mutant Modality" on Fri, 27 Nov 2026.
+TBA - Secret Location is a music venue in London with 39 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Subverted x Mutant Modality" on Fri, 27 Nov 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including 0dysseus, Alessio Landini, ALICA RØUGH and Amanda Mussi and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including 0dysseus, Alessio Landini, ALICA RØUGH and Amanda Mussi and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -17,6 +17,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 37 upcomi
 | Sat, 28 Nov 2026 | PARAVIBE - Back to the Vibe | Finn, Holly Why, Kane Solo, Saf Mitchell |
 | Sat, 28 Nov 2026 | Octon890 Warehouse | Imperium, OKSY, Scythe, siasios |
 | Sat, 28 Nov 2026 | High Grade Club Secret Party |  |
-| Sun, 29 Nov 2026 | Trade Center | Butchqueen.fm, DJ Trade Trainer, lealucifer |
+| Sat, 28 Nov 2026 | Diskotheque - private listening |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

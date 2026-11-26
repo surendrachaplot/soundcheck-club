@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "SPECTRA: STEP 001" on Fri, 27 Nov 2026.
+Village Underground Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SPECTRA: STEP 001" on Fri, 27 Nov 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including 4R15, Breakfake, Dave Angel and Drivetrain and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -18,4 +18,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

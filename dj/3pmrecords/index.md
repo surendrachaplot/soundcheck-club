@@ -1,6 +1,6 @@
 # 3PM RECORDS
 
-3PM RECORDS is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mint Warehouse, Leeds on Fri, 4 Dec 2026.
+3PM RECORDS is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mint Warehouse, Leeds on Fri, 4 Dec 2026.
 
 3PM RECORDS is a house and garage artist based in United Kingdom, with 21 gigs on soundcheck across Leeds and Manchester. Often billed alongside Partridge, Fentonffp and Alexandria. Next up: Mint Warehouse, Leeds on Fri 4 Dec.
 
@@ -26,4 +26,4 @@
 
 Partridge, Fentonffp, Alexandria
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3pmrecords/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3pmrecords/)*

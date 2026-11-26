@@ -1,6 +1,6 @@
 # Jemin
 
-Jemin is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at vurt., Seoul on Fri, 27 Nov 2026.
+Jemin is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at vurt., Seoul on Fri, 27 Nov 2026.
 
 Jemin is a techno and ambient artist based in South Korea, with 3 gigs on soundcheck across Seoul. Often billed alongside SUNA, Ario and Marco Shuttle. Next up: vurt., Seoul on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Jemin is a techno and ambient artist based in South Korea, with 3 gigs on soundc
 
 SUNA, Ario, Marco Shuttle
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jemin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jemin/)*

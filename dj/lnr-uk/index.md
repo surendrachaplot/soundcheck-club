@@ -1,14 +1,16 @@
 # LNR (UK)
 
-LNR (UK) is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Fox and Firkin, London on Sat, 30 Jan 2027.
+LNR (UK) is a Dub and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fox and Firkin, London on Sat, 30 Jan 2027.
 
-LNR (UK) is a club and breakbeat artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Bristol, Brussels and London and 1 more. Often billed alongside ojoo, Remma and Sybil. Next up: The Fox and Firkin, London on Sat 30 Jan.
+LNR (UK) is a dub and club artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Bristol, Brussels and London and 1 more. Often billed alongside ojoo, Elijah Minnelli and Remma. Next up: The Fox and Firkin, London on Sat 30 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 30 Jan 2027 | The Fox and Firkin | London |
+| Sat, 30 Jan 2027 | The Fox and Firkin | London |
+| Sat, 6 Feb 2027 | The Island | Bristol |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ LNR (UK) is a club and breakbeat artist based in United Kingdom, with 20 gigs on
 
 ## Shares bills with
 
-ojoo, Remma, Sybil
+ojoo, Elijah Minnelli, Remma
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lnr-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lnr-uk/)*

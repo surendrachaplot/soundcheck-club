@@ -1,6 +1,6 @@
 # Traps N Trees
 
-Traps N Trees is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Nikki Lopez, Philadelphia on Sat, 28 Nov 2026.
+Traps N Trees is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Nikki Lopez, Philadelphia on Sat, 28 Nov 2026.
 
 Traps N Trees is a club and techno artist based in United States of America, with 50 gigs on soundcheck across Atlanta, Baltimore, Detroit and New York City and 2 more. Often billed alongside DJ Sega, DJ Reezey and Hideyoshi. Next up: Nikki Lopez, Philadelphia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Traps N Trees is a club and techno artist based in United States of America, wit
 
 DJ Sega, DJ Reezey, Hideyoshi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trapsntrees/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trapsntrees/)*

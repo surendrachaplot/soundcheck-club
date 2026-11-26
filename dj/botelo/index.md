@@ -1,6 +1,6 @@
 # Botelo
 
-Botelo is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Levu VIP, Mexico City on Sat, 28 Nov 2026.
+Botelo is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Levu VIP, Mexico City on Sat, 28 Nov 2026.
 
 Botelo is a techno and reggaeton artist based in Mexico, with 27 gigs on soundcheck across Mexico City. Often billed alongside Eliel Capa, Cruz de Cal and MKRUL. Next up: Levu VIP, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Botelo is a techno and reggaeton artist based in Mexico, with 27 gigs on soundch
 
 Eliel Capa, Cruz de Cal, MKRUL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botelo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botelo/)*

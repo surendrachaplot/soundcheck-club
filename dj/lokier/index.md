@@ -1,6 +1,6 @@
 # Lokier
 
-Lokier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Exit Reality, Singapore on Sat, 5 Dec 2026.
+Lokier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Exit Reality, Singapore on Sat, 5 Dec 2026.
 
 Lokier is a techno and trance artist based in Mexico, with 99 gigs on soundcheck across Antwerp, Athens, Barcelona and Basel and 45 more. Often billed alongside 999999999, Lee Ann Roberts and DYEN. Next up: Exit Reality, Singapore on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lokier is a techno and trance artist based in Mexico, with 99 gigs on soundcheck
 
 999999999, Lee Ann Roberts, DYEN
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*

@@ -1,6 +1,6 @@
 # Iced Matchko Latte
 
-Iced Matchko Latte is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at elipamanoke, Leipzig on Wed, 2 Dec 2026.
+Iced Matchko Latte is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at elipamanoke, Leipzig on Wed, 2 Dec 2026.
 
 Iced Matchko Latte is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Leipzig. Often billed alongside Scrappy Coco, VLUNA and Raphus. Next up: elipamanoke, Leipzig on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Iced Matchko Latte is a techno and trance artist based in Germany, with 11 gigs 
 
 Scrappy Coco, VLUNA, Raphus
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icedmatchkolatte/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icedmatchkolatte/)*

@@ -1,6 +1,6 @@
 # Mishka
 
-Mishka is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
+Mishka is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
 
 Mishka is a downtempo and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Dresden, Rest Of Russia and San Francisco/Oakland and 1 more. Often billed alongside Jeremy Castillo, CTRL and Avalon Emerson. Next up: TBA - Fabula, Rest Of Russia on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mishka is a downtempo and house artist based in United States of America, with 2
 
 Jeremy Castillo, CTRL, Avalon Emerson
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishka/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishka/)*

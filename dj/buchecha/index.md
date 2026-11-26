@@ -1,6 +1,6 @@
 # Buchecha
 
-Buchecha is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Closer Private Warehouse, Los Angeles on Sat, 28 Nov 2026.
+Buchecha is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Closer Private Warehouse, Los Angeles on Sat, 28 Nov 2026.
 
 Buchecha is a techno and industrial artist based in Brazil, with 19 gigs on soundcheck across Barcelona, Cologne, Lisbon and Los Angeles and 2 more. Often billed alongside Alex TB, BUFAINE and Barbers. Next up: Closer Private Warehouse, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Buchecha is a techno and industrial artist based in Brazil, with 19 gigs on soun
 
 Alex TB, BUFAINE, Barbers
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buchecha/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buchecha/)*

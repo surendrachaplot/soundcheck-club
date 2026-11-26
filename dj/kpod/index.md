@@ -1,6 +1,6 @@
 # K POD
 
-K POD is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Klubokawiarnia Recepcja, Wroclaw on Fri, 4 Dec 2026.
+K POD is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Klubokawiarnia Recepcja, Wroclaw on Fri, 4 Dec 2026.
 
 K POD is a house and deep house artist based in Poland, with 8 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Ada Stawiarz, Brussi and Hedonist. Next up: Klubokawiarnia Recepcja, Wroclaw on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ K POD is a house and deep house artist based in Poland, with 8 gigs on soundchec
 
 Ada Stawiarz, Brussi, Hedonist
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kpod/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kpod/)*

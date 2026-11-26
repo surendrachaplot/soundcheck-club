@@ -1,6 +1,6 @@
 # VINAI
 
-VINAI is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
+VINAI is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
 
 VINAI is an electro and electronica artist, with 7 gigs on soundcheck across Bali, London, New York City and Osaka and 3 more. Often billed alongside 000 (DJ), Advanced (SK) and Afrojack. Next up: EXPO XXI, Warsaw on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ VINAI is an electro and electronica artist, with 7 gigs on soundcheck across Bal
 
 000 (DJ), Advanced (SK), Afrojack
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinai-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinai-uk/)*

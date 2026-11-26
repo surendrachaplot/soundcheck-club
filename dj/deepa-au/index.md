@@ -1,13 +1,14 @@
 # Deepa
 
-Deepa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 28 Nov 2026.
+Deepa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 27 Nov 2026.
 
-Deepa is a house and techno artist based in Australia, with 123 gigs on soundcheck across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: Sub Club Melbourne, Melbourne on Sat 28 Nov.
+Deepa is a house and techno artist based in Australia, with 124 gigs on soundcheck across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: Colombian Hotel, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Colombian Hotel | Sydney |
 | Sat, 28 Nov 2026 | Sub Club Melbourne | Melbourne |
 | Sun, 29 Nov 2026 | Smith St Hotel | Melbourne |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
@@ -27,4 +28,4 @@ Deepa is a house and techno artist based in Australia, with 123 gigs on soundche
 
 Ciara, Rakish, Baschoe
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*

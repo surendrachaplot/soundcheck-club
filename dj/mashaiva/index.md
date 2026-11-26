@@ -1,6 +1,6 @@
 # Masha Iva
 
-Masha Iva is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Carousel - Altes Autohaus, Heidelberg on Sat, 28 Nov 2026.
+Masha Iva is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Carousel - Altes Autohaus, Heidelberg on Sat, 28 Nov 2026.
 
 Masha Iva is a house and disco artist based in Germany, with 7 gigs on soundcheck across Heidelberg and Mannheim. Often billed alongside Chris Wo, Chris Gerber and Jakob Mäder. Next up: TBA - Carousel - Altes Autohaus, Heidelberg on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Masha Iva is a house and disco artist based in Germany, with 7 gigs on soundchec
 
 Chris Wo, Chris Gerber, Jakob Mäder
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashaiva/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashaiva/)*

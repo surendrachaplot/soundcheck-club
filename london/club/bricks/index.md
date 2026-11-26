@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Ceazars Uk: Winter Warmers" on Fri, 27 Nov 2026.
+Bricks is a music venue in London with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ceazars Uk: Winter Warmers" on Fri, 27 Nov 2026.
 
 Bricks is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Adela, AVANTIME, Body Clinic and CARRiER (AU) and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -20,4 +20,4 @@ Bricks is a music venue in London listed on soundcheck. 7 upcoming gigs, with li
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

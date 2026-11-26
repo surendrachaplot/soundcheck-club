@@ -1,6 +1,6 @@
 # E.LINA
 
-E.LINA is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kapsule, Liverpool on Fri, 27 Nov 2026.
+E.LINA is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kapsule, Liverpool on Fri, 27 Nov 2026.
 
 E.LINA is a house and minimal artist based in Ukraine, with 167 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 44 more. Often billed alongside Annyrock, DJ Senc and Cap. Next up: Kapsule, Liverpool on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ E.LINA is a house and minimal artist based in Ukraine, with 167 gigs on soundche
 
 Annyrock, DJ Senc, Cap
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

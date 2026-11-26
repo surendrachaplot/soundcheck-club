@@ -1,6 +1,6 @@
 # ButhoTheWarrior
 
-ButhoTheWarrior is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sun, 13 Dec 2026.
+ButhoTheWarrior is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sun, 13 Dec 2026.
 
 ButhoTheWarrior is a house and disco artist based in United Kingdom, with 68 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside Optimistic Soul, ELANDA and Harri & Domenic. Next up: Sneaky Pete's, Edinburgh on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ ButhoTheWarrior is a house and disco artist based in United Kingdom, with 68 gig
 
 Optimistic Soul, ELANDA, Harri & Domenic
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*

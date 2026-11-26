@@ -1,6 +1,6 @@
 # Trailcam
 
-Trailcam is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at public records, New York City on Fri, 27 Nov 2026.
+Trailcam is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at public records, New York City on Fri, 27 Nov 2026.
 
 Trailcam is a techno and dub techno artist based in Canada, with 23 gigs on soundcheck across Berlin, Detroit, London and Melbourne and 4 more. Often billed alongside Anthony Linell, Evigt Mörker and Jessie Granqvist. Next up: public records, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Trailcam is a techno and dub techno artist based in Canada, with 23 gigs on soun
 
 Anthony Linell, Evigt Mörker, Jessie Granqvist
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trailcam/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trailcam/)*

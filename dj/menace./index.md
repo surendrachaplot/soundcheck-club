@@ -1,6 +1,6 @@
 # MENACE.
 
-MENACE. is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Toronto on Fri, 11 Dec 2026.
+MENACE. is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Toronto on Fri, 11 Dec 2026.
 
 MENACE. is a techno and hardcore artist based in Canada, with 18 gigs on soundcheck across Toronto and Vancouver. Often billed alongside VARON, R4TS and A_C_E.. Next up: TBA, Toronto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ MENACE. is a techno and hardcore artist based in Canada, with 18 gigs on soundch
 
 VARON, R4TS, A_C_E.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/menace./)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/menace./)*

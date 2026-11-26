@@ -1,6 +1,6 @@
 # Binary Operator
 
-Binary Operator is a Minimal Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - secret location in Farringdon , London on Sat, 16 Jan 2027.
+Binary Operator is a Minimal Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - secret location in Farringdon , London on Sat, 16 Jan 2027.
 
 Binary Operator is a minimal techno and disco artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside nicky brown snout, Tibulca and Nicky B. Next up: TBA - secret location in Farringdon , London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Binary Operator is a minimal techno and disco artist based in United Kingdom, wi
 
 nicky brown snout, Tibulca, Nicky B
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryoperator/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryoperator/)*

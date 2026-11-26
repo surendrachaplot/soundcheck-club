@@ -1,6 +1,6 @@
 # Riley
 
-Riley is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
+Riley is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
 
 Riley is a tech house and house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Dublin and 12 more. Often billed alongside Max Dean, ALISHA and East End Dubs. Next up: Historic Virginia Key Beach Park, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Riley is a tech house and house artist based in United Kingdom, with 44 gigs on 
 
 Max Dean, ALISHA, East End Dubs
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*

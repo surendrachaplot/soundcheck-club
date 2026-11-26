@@ -1,6 +1,6 @@
 # Ticcle
 
-Ticcle is a music venue in Hobart with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ticcle sundays with Tim Heaney (CBR/Vessel Records) (all day long)" on Sun, 29 Nov 2026.
+Ticcle is a music venue in Hobart with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ticcle sundays with Tim Heaney (CBR/Vessel Records) (all day long)" on Sun, 29 Nov 2026.
 
 Ticcle is a music venue in Hobart listed on soundcheck. 4 upcoming gigs, with line-ups including Art (AU), Marcellus Pittman, Rick Wade and Suze Ijó and 1 more. See dates, start times and who's playing. 64 Warwick Street Hobart 7000.
 
@@ -17,4 +17,4 @@ Ticcle is a music venue in Hobart listed on soundcheck. 4 upcoming gigs, with li
 
 64 Warwick Street Hobart 7000, Hobart
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/ticcle/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/ticcle/)*

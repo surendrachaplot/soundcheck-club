@@ -1,6 +1,6 @@
 # Super5
 
-Super5 is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "THE DARE NIGHT RESIDENCY - OYSTER CACTHER & TOMMY99" on Wed, 25 Nov 2026.
+Super5 is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "THE DARE NIGHT RESIDENCY - OYSTER CACTHER & TOMMY99" on Wed, 25 Nov 2026.
 
 Super5 is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, with line-ups including Margo (GER) and Reine Mayr. See dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
@@ -17,4 +17,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, with line
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

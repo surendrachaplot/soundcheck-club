@@ -1,6 +1,6 @@
 # Starni
 
-Starni is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 19 Dec 2026.
+Starni is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 19 Dec 2026.
 
 Starni is a progressive house and house artist based in Spain, with 21 gigs on soundcheck across Madrid. Often billed alongside Javi Garza, Vico Deep and Benja Molina. Next up: Hangar48 Club, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Starni is a progressive house and house artist based in Spain, with 21 gigs on s
 
 Javi Garza, Vico Deep, Benja Molina
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starni/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starni/)*

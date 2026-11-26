@@ -1,6 +1,6 @@
 # Lewin Paul
 
-Lewin Paul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
+Lewin Paul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
 
 Lewin Paul is a house and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Münster. Often billed alongside Jacke, Caren Callas and Eliza Feliz. Next up: Renate, Berlin on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Lewin Paul is a house and techno artist based in Germany, with 32 gigs on soundc
 
 Jacke, Caren Callas, Eliza Feliz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewinpaul/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewinpaul/)*

@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "THURSDAY - SINGLES LOVE TECHNO (under 35) with Dario Milkovic & neeko" on Thu, 26 Nov 2026.
+Pracht is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "THURSDAY - SINGLES LOVE TECHNO (under 35) with Dario Milkovic & neeko" on Thu, 26 Nov 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including Andrale, ANN-LUX, Dario Milkovic and Jens Balser and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -17,4 +17,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

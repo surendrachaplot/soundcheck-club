@@ -1,6 +1,6 @@
 # gallery 1986
 
-gallery 1986 is a music venue in Vilnius with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "X: Karine & Shakolin, Aiste Regina, Clicklounge, Donatas Chipak, Tumosa // 12.11" on Fri, 11 Dec 2026.
+gallery 1986 is a music venue in Vilnius with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "X: Karine & Shakolin, Aiste Regina, Clicklounge, Donatas Chipak, Tumosa // 12.11" on Fri, 11 Dec 2026.
 
 gallery 1986 is a music venue in Vilnius listed on soundcheck. 5 upcoming gigs, with line-ups including Aiste Regina, Clicklounge, Curses and Danielle (UK) and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ gallery 1986 is a music venue in Vilnius listed on soundcheck. 5 upcoming gigs, 
 | Thu, 31 Dec 2026 | galore 2027: Danielle, Massimiliano Pagliara && more // 12,31 | Aiste Regina, Clicklounge, Danielle (UK), Donatas Chipak, Massimiliano Pagliara, Monika Seta, Roe Deers |
 | Fri, 19 Feb 2027 | gallery night: FJAAK // 02.19 | FJAAK, Kameu, Lolah.III, Marija, Tadan |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/gallery-1986/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/gallery-1986/)*

@@ -1,6 +1,6 @@
 # Ku-Ro
 
-Ku-Ro is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Westbahnstudios, Vienna on Thu, 26 Nov 2026.
+Ku-Ro is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Westbahnstudios, Vienna on Thu, 26 Nov 2026.
 
 Ku-Ro is an electronic artist based in United Kingdom, with 10 gigs on soundcheck across London and Vienna. Often billed alongside MARAws, Anja Ngozi and Bliss. Next up: Westbahnstudios, Vienna on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Ku-Ro is an electronic artist based in United Kingdom, with 10 gigs on soundchec
 
 MARAws, Anja Ngozi, Bliss (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ku-ro/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ku-ro/)*

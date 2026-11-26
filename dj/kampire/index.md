@@ -1,6 +1,6 @@
 # Kampire
 
-Kampire is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Kampire is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Kampire is a bass and house artist based in Uganda, with 57 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside DJ Travella, De Schuurman and Jay Mitta. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Kampire is a bass and house artist based in Uganda, with 57 gigs on soundcheck a
 
 DJ Travella, De Schuurman, Jay Mitta
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*

@@ -1,6 +1,6 @@
 # Jay NuFunk
 
-Jay NuFunk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Junction Underground, Toronto on Fri, 4 Dec 2026.
+Jay NuFunk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Junction Underground, Toronto on Fri, 4 Dec 2026.
 
 Jay NuFunk is a house and disco artist based in Canada, with 44 gigs on soundcheck across Toronto. Often billed alongside Yogi, Iced Misto and Jason Palma. Next up: Junction Underground, Toronto on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Jay NuFunk is a house and disco artist based in Canada, with 44 gigs on soundche
 
 Yogi, Iced Misto, Jason Palma
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynufunk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynufunk/)*

@@ -1,14 +1,15 @@
 # MARIEEEA
 
-MARIEEEA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
+MARIEEEA is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
 
-MARIEEEA is a techno and hardcore artist based in United Kingdom, with 45 gigs on soundcheck across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Lau.tastic, Sohtech and DEBBIE (IT). Next up: Unit 58, London on Fri 18 Dec.
+MARIEEEA is a techno and hardcore artist based in United Kingdom, with 46 gigs on soundcheck across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Lau.tastic, Sohtech and Alignment. Next up: Unit 58, London on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Unit 58 | London |
+| Sat, 2 Jan 2027 | fabric | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MARIEEEA is a techno and hardcore artist based in United Kingdom, with 45 gigs o
 
 ## Shares bills with
 
-Lau.tastic, Sohtech, DEBBIE (IT)
+Lau.tastic, Sohtech, Alignment
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*

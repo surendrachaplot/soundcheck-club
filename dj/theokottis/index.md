@@ -1,13 +1,14 @@
 # Theo Kottis
 
-Theo Kottis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at radial, London on Sat, 12 Dec 2026.
+Theo Kottis is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 29 Nov 2026.
 
-Theo Kottis is a house and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 17 more. Often billed alongside Alien Communications, BAYS and DMX Krew. Next up: radial, London on Sat 12 Dec.
+Theo Kottis is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 17 more. Often billed alongside Alien Communications, BAYS and DMX Krew. Next up: Thuishaven, Amsterdam on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 12 Dec 2026 | radial | London |
 | Thu, 4 Feb 2027 | Moon Club | Bristol |
 
@@ -26,4 +27,4 @@ Theo Kottis is a house and techno artist based in United Kingdom, with 85 gigs o
 
 Alien Communications, BAYS, DMX Krew
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*

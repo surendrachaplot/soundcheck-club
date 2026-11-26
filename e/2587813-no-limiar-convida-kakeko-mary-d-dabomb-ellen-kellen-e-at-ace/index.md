@@ -1,6 +1,6 @@
 # No Limiar Convida: Kakeko, Mary D, Dabomb, Ellen Kellen E at ACERVO BAR
 
-No Limiar Convida: Kakeko, Mary D, Dabomb, Ellen Kellen E at ACERVO BAR on Fri 18 Dec, Rio de Janeiro. 1 artist: Mary D. Baile Funk and Bass. See the line-up on soundcheck.
+No Limiar Convida: Kakeko, Mary D, Dabomb, Ellen Kellen E at ACERVO BAR on Fri 18 Dec, Rio de Janeiro. 1 artist: Mary D. Bass and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Massano
 
-Massano is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - La Fabrica, Cordoba, Argentina on Sat, 28 Nov 2026.
+Massano is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - La Fabrica, Cordoba, Argentina on Sat, 28 Nov 2026.
 
-Massano is a techno and house artist based in United Kingdom, with 182 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 61 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: TBA - La Fabrica, Cordoba, Argentina on Sat 28 Nov.
+Massano is a techno and house artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 61 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: TBA - La Fabrica, Cordoba, Argentina on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - La Fabrica, Cordoba | Argentina |
+| Thu, 10 Dec 2026 | Drip KL | Kuala Lumpur |
 | Sat, 19 Dec 2026 | Kraftwerk | Zurich |
 
 ## Recently played
@@ -26,4 +27,4 @@ Massano is a techno and house artist based in United Kingdom, with 182 gigs on s
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

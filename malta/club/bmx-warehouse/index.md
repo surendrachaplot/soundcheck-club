@@ -1,6 +1,6 @@
 # BMX Warehouse
 
-BMX Warehouse is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Euphoria (Vol. 4)" on Sat, 12 Dec 2026.
+BMX Warehouse is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Euphoria (Vol. 4)" on Sat, 12 Dec 2026.
 
 BMX Warehouse is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including Jesahel, Joshua Calleja, OBLX and tina. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ BMX Warehouse is a music venue in Malta listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Euphoria (Vol. 4) | Jesahel, Joshua Calleja, OBLX, tina |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/bmx-warehouse/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/bmx-warehouse/)*

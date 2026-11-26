@@ -1,6 +1,6 @@
 # Onleash
 
-Onleash is a Trance and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
+Onleash is a Trance and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Onleash is a trance and club artist based in Norway, with 20 gigs on soundcheck across Beijing, Berlin, Glasgow and London and 5 more. Often billed alongside Fakethias, Warlord® and AKUMU. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Onleash is a trance and club artist based in Norway, with 20 gigs on soundcheck 
 
 Fakethias, Warlord®, AKUMU
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*

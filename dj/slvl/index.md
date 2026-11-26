@@ -1,6 +1,6 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kompass Klub, Ghent on Fri, 27 Nov 2026.
+SLVL is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kompass Klub, Ghent on Fri, 27 Nov 2026.
 
 SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 38 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Kompass Klub, Ghent on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on sou
 
 KLOFAMA, KRUELTY, KARAH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

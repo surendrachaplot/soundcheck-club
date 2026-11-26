@@ -1,6 +1,6 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at CÉ LA VI Tokyo, Tokyo on Fri, 27 Nov 2026.
+YOSHIMASA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at CÉ LA VI Tokyo, Tokyo on Fri, 27 Nov 2026.
 
 YOSHIMASA is a techno and house artist based in Japan, with 100 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, Remo-con and BEPPU. Next up: CÉ LA VI Tokyo, Tokyo on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ YOSHIMASA is a techno and house artist based in Japan, with 100 gigs on soundche
 
 DJ 34, Remo-con, BEPPU
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*

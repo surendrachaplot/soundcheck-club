@@ -1,6 +1,6 @@
 # Vand
 
-Vand is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at LAUT, Barcelona on Sat, 19 Dec 2026.
+Vand is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at LAUT, Barcelona on Sat, 19 Dec 2026.
 
 Vand is a techno and house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Melbourne and 4 more. Often billed alongside Shoal, Bas Dobbelaer and Ivano Tetelepta. Next up: LAUT, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Vand is a techno and house artist based in Netherlands, with 23 gigs on soundche
 
 Shoal, Bas Dobbelaer, Ivano Tetelepta
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vand/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vand/)*

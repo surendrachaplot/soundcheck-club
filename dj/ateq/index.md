@@ -1,14 +1,15 @@
 # ATEQ
 
-ATEQ is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fünk, Mexico City on Thu, 26 Nov 2026.
+ATEQ is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fünk, Mexico City on Thu, 26 Nov 2026.
 
-ATEQ is a techno and house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 16 more. Often billed alongside ORION (IT), skyra and Kancheli. Next up: Fünk, Mexico City on Thu 26 Nov.
+ATEQ is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 16 more. Often billed alongside skyra, ORION (IT) and Hamatsuki. Next up: Fünk, Mexico City on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Fünk | Mexico City |
+| Sat, 28 Nov 2026 | TBA | Berlin |
 | Sat, 5 Dec 2026 | Gewölbe | Cologne |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
@@ -25,6 +26,6 @@ ATEQ is a techno and house artist based in Germany, with 60 gigs on soundcheck a
 
 ## Shares bills with
 
-ORION (IT), skyra, Kancheli
+skyra, ORION (IT), Hamatsuki
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*

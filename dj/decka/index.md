@@ -1,6 +1,6 @@
 # Decka
 
-Decka is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Dec 2026.
+Decka is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Dec 2026.
 
 Decka is a techno and electronica artist based in United Kingdom, with 54 gigs on soundcheck across Barcelona, Belgrade, Berlin and Birmingham and 17 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Decka is a techno and electronica artist based in United Kingdom, with 54 gigs o
 
 Claudio PRC, Roseen, The Lady Machine
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*

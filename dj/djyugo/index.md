@@ -1,14 +1,15 @@
 # DJ Yugo
 
-DJ Yugo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
+DJ Yugo is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
 
-DJ Yugo is a trance and techno artist based in Germany, with 38 gigs on soundcheck across Leipzig, Munich, Stuttgart and Vienna. Often billed alongside ENERGY TAPE, MASSAGIO and Alicea. Next up: Lieberscholli, Munich on Sat 28 Nov.
+DJ Yugo is a trance and techno artist based in Germany, with 39 gigs on soundcheck across Leipzig, Munich, Stuttgart and Vienna. Often billed alongside ENERGY TAPE, MASSAGIO and Alicea. Next up: Lieberscholli, Munich on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Lieberscholli | Munich |
+| Sat, 12 Dec 2026 | Skateschule München - Spaceforskate | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Yugo is a trance and techno artist based in Germany, with 38 gigs on soundche
 
 ENERGY TAPE, MASSAGIO, Alicea
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyugo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyugo/)*

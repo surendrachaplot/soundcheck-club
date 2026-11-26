@@ -1,6 +1,6 @@
 # Noisia
 
-Noisia is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 11 Dec 2026.
+Noisia is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 11 Dec 2026.
 
 Noisia is a drum & bass and jungle artist based in Netherlands, with 4 gigs on soundcheck across Milan, Poznan, Seoul and Vienna. Often billed alongside Alegria, Bambi Uzi and DJ Co.kr. Next up: Circolo Magnolia, Milan on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Noisia is a drum & bass and jungle artist based in Netherlands, with 4 gigs on s
 
 Alegria, Bambi Uzi, DJ Co.kr
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisia/)*

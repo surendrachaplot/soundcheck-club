@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "26 Years of RC1" on Fri, 27 Nov 2026.
+Lakota is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "26 Years of RC1" on Fri, 27 Nov 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 15 upcoming gigs, with line-ups including 2HOT2PLAY, Fatman D, IC3 and Nicky Blackmarket and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 15 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

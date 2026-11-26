@@ -1,6 +1,6 @@
 # CREAM (2)
 
-CREAM (2) is a Dubstep and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lion Super Club, Seoul on Sat, 28 Nov 2026.
+CREAM (2) is a Dubstep and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lion Super Club, Seoul on Sat, 28 Nov 2026.
 
 CREAM is a dubstep and electro artist based in South Korea, with 6 gigs on soundcheck across Seoul. Often billed alongside AEIDA, Advanced (SK) and Aurede. Next up: Lion Super Club, Seoul on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ CREAM is a dubstep and electro artist based in South Korea, with 6 gigs on sound
 
 AEIDA, Advanced (SK), Aurede
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cream-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cream-2/)*

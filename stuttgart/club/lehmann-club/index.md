@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "WHNZMMR SESSION" on Fri, 27 Nov 2026.
+Lehmann Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WHNZMMR SESSION" on Fri, 27 Nov 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs, with line-ups including Beau Didier, Blasha & Allatt, GLIA and Isaiah (NL) and 2 more. See dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -15,4 +15,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

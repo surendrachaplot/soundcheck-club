@@ -1,6 +1,6 @@
 # ED (MX)
 
-ED (MX) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Waiheke Island Resort, Auckland on Sat, 30 Jan 2027.
+ED (MX) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Waiheke Island Resort, Auckland on Sat, 30 Jan 2027.
 
 ED (MX) is a house and minimal artist based in Mexico, with 44 gigs on soundcheck across Auckland, Copenhagen, Mexico City and Miami and 1 more. Often billed alongside Itza Chacón, Alo and Mejia. Next up: Waiheke Island Resort, Auckland on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ ED (MX) is a house and minimal artist based in Mexico, with 44 gigs on soundchec
 
 Itza Chacón, Alo, Mejia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*

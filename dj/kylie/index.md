@@ -1,14 +1,15 @@
 # KYLIE
 
-KYLIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 19 Dec 2026.
+KYLIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 19 Dec 2026.
 
-KYLIE is a techno and house artist based in Switzerland, with 40 gigs on soundcheck across Basel, Geneva, Lausanne and Stuttgart and 1 more. Often billed alongside kso12, MARCISM and GCOD. Next up: Frieda's Büxe, Zurich on Sat 19 Dec.
+KYLIE is a techno and house artist based in Switzerland, with 41 gigs on soundcheck across Basel, Geneva, Lausanne and Stuttgart and 1 more. Often billed alongside kso12, GCOD and MARCISM. Next up: Frieda's Büxe, Zurich on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Frieda's Büxe | Zurich |
+| Sat, 9 Jan 2027 | EXIL | Zurich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ KYLIE is a techno and house artist based in Switzerland, with 40 gigs on soundch
 
 ## Shares bills with
 
-kso12, MARCISM, GCOD
+kso12, GCOD, MARCISM
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*

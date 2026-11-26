@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "7point1 Houseparty" on Fri, 27 Nov 2026.
+Bread and Butter is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "7point1 Houseparty" on Fri, 27 Nov 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including abdu1.l, Andy Caruso, Any Koh and Carl Rowlinson and 2 more. See dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -17,4 +17,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 4 upcoming gig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

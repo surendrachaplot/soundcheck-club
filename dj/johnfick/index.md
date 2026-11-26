@@ -1,6 +1,6 @@
 # John Fick
 
-John Fick is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Thu, 17 Dec 2026.
+John Fick is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Thu, 17 Dec 2026.
 
 John Fick is a techno and tech house artist based in Germany, with 19 gigs on soundcheck across Berlin, Copenhagen and Stockholm. Often billed alongside 8-AN, Molly Lollen and Ritual Cycles. Next up: KitKatClub, Berlin on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ John Fick is a techno and tech house artist based in Germany, with 19 gigs on so
 
 8-AN, Molly Lollen, Ritual Cycles
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfick/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfick/)*

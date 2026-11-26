@@ -1,6 +1,6 @@
 # Formula
 
-Formula is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
+Formula is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
 
 Formula is a reggaeton and club artist based in United Kingdom, with 3 gigs on soundcheck across Bristol and New York City. Often billed alongside Badger (UK), Bladerunner and Burt Cope. Next up: Sawmills, Bristol on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Formula is a reggaeton and club artist based in United Kingdom, with 3 gigs on s
 
 Badger (UK), Bladerunner, Burt Cope
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formula/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formula/)*

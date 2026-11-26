@@ -1,6 +1,6 @@
 # joycxi
 
-joycxi is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 28 Nov 2026.
+joycxi is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 28 Nov 2026.
 
 joycxi is a techno and club artist based in United States of America, with 36 gigs on soundcheck across Chicago and Detroit. Often billed alongside we1sman, Wax Assassin and AIDEL. Next up: Northern Lights Lounge, Detroit on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ joycxi is a techno and club artist based in United States of America, with 36 gi
 
 we1sman, Wax Assassin, AIDEL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*

@@ -1,6 +1,6 @@
 # WAKA XINXI
 
-WAKA XINXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
+WAKA XINXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
 
 WAKA XINXI is a techno and house artist based in Japan, with 182 gigs on soundcheck across Seoul and Tokyo. Often billed alongside YOSHI KANOU, Kulage and LiaRako. Next up: HVEN, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ WAKA XINXI is a techno and house artist based in Japan, with 182 gigs on soundch
 
 YOSHI KANOU, Kulage, LiaRako
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wakaxinxi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wakaxinxi/)*

@@ -1,6 +1,6 @@
 # Mark (DE)
 
-Mark (DE) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Miscellania, Melbourne on Sun, 13 Dec 2026.
+Mark (DE) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Miscellania, Melbourne on Sun, 13 Dec 2026.
 
 Mark (DE) is a techno and minimal artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Canberra and 4 more. Often billed alongside Beks, Christoph de Babalon and Costax. Next up: Miscellania, Melbourne on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Mark (DE) is a techno and minimal artist based in Germany, with 10 gigs on sound
 
 Beks, Christoph de Babalon, Costax
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mark-de/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mark-de/)*

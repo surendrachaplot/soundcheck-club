@@ -1,18 +1,18 @@
 # Xana
 
-Xana is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Wed, 25 Nov 2026.
+Xana is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at R Lounge, Tokyo on Thu, 31 Dec 2026.
 
-Xana is a techno and experimental artist based in Malaysia, with 19 gigs on soundcheck across Kuala Lumpur, Miami, Tampa Bay and Tokyo. Often billed alongside 1-800-Lolita, SATURNSARii and Mai iachetti. Next up: SEL OCTAGON TOKYO, Tokyo on Wed 25 Nov.
+Xana is a techno and experimental artist based in Malaysia, with 19 gigs on soundcheck across Kuala Lumpur, Miami, Tampa Bay and Tokyo. Often billed alongside 1-800-Lolita, SATURNSARii and Mai iachetti. Next up: R Lounge, Tokyo on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Thu, 31 Dec 2026 | R Lounge | Tokyo |
 
 ## Recently played
 
+- SEL OCTAGON TOKYO, Tokyo · Wed, 25 Nov 2026
 - R Lounge, Tokyo · Sat, 14 Nov 2026
 - SEL OCTAGON TOKYO, Tokyo · Wed, 28 Oct 2026
 - Jolene Downtown Miami, Miami · Thu, 10 Sept 2026
@@ -20,10 +20,9 @@ Xana is a techno and experimental artist based in Malaysia, with 19 gigs on soun
 - Pisco Bar, Kuala Lumpur · Sat, 8 Aug 2026
 - Fooq's Miami, Miami · Sat, 18 Jul 2026
 - Mad Chiller World, Tampa Bay · Fri, 12 Jun 2026
-- TBA - Secret location in Miami 👻, Miami · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 1-800-Lolita, SATURNSARii, Mai iachetti
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*

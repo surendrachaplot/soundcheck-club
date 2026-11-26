@@ -1,6 +1,6 @@
 # L3SS TH4N
 
-L3SS TH4N is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Goethe Institut Thailand, Bangkok on Sat, 28 Nov 2026.
+L3SS TH4N is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Goethe Institut Thailand, Bangkok on Sat, 28 Nov 2026.
 
 L3SS TH4N is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Bangkok. Often billed alongside Brownie Popkens, Eizu 映図 and LOMOROOM. Next up: Goethe Institut Thailand, Bangkok on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ L3SS TH4N is a techno and house artist based in United States of America, with 1
 
 Brownie Popkens, Eizu 映図, LOMOROOM
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ssth4n/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ssth4n/)*

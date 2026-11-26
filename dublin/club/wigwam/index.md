@@ -1,8 +1,8 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Naughty or Nice" on Thu, 26 Nov 2026.
+Wigwam is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Naughty or Nice" on Thu, 26 Nov 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including BANSHE, Bronwyn., Cirkle and Cromby and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with line-ups including BANSHE, Bronwyn., Cirkle and Cromby and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with l
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

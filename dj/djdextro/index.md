@@ -1,6 +1,6 @@
 # DJ Dextro
 
-DJ Dextro is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
+DJ Dextro is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
 
 DJ Dextro is a techno and acid artist based in Portugal, with 36 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 16 more. Often billed alongside Marco Ramos, CESAR ALMENA and Tommy Wada. Next up: WOMB, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ DJ Dextro is a techno and acid artist based in Portugal, with 36 gigs on soundch
 
 Marco Ramos, CESAR ALMENA, Tommy Wada
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*

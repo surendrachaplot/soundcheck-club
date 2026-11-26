@@ -1,6 +1,6 @@
 # Mattik (UK)
 
-Mattik (UK) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 20 Feb 2027.
+Mattik (UK) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 20 Feb 2027.
 
 Mattik (UK) is a garage and bass artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 11 more. Often billed alongside Mattik UK, Seb Skint and Rich Reason. Next up: 24 Kitchen Street, Liverpool on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Mattik (UK) is a garage and bass artist based in United Kingdom, with 62 gigs on
 
 Mattik UK, Seb Skint, Rich Reason
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*

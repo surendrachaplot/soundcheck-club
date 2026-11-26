@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Love Saves Wednesdays: L.P. Rhythm + Amber H" on Wed, 25 Nov 2026.
+The Love Inn is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Love Saves Wednesdays: L.P. Rhythm + Amber H" on Wed, 25 Nov 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Amber H, Anina, AVA and Clarity and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -20,4 +20,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, 
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

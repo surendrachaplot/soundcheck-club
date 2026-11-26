@@ -1,6 +1,6 @@
 # K4NCIIO
 
-K4NCIIO is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at UNDERCITY, Seoul on Fri, 18 Dec 2026.
+K4NCIIO is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at UNDERCITY, Seoul on Fri, 18 Dec 2026.
 
 K4NCIIO is a psytrance and techno artist based in South Korea, with 28 gigs on soundcheck across Seoul and Tokyo. Often billed alongside PSYTONIC, Jamjari and ILLUMI. Next up: UNDERCITY, Seoul on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ K4NCIIO is a psytrance and techno artist based in South Korea, with 28 gigs on s
 
 PSYTONIC, Jamjari, ILLUMI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k4nciio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k4nciio/)*

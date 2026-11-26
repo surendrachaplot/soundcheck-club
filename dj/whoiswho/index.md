@@ -1,6 +1,6 @@
 # WhoIsWho
 
-WhoIsWho is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at glimmer, Hamburg on Fri, 1 Jan 2027.
+WhoIsWho is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at glimmer, Hamburg on Fri, 1 Jan 2027.
 
 WhoIsWho is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Hamburg, Ljubljana, Prague and Rio de Janeiro. Often billed alongside Dirty Disco Divas, BNZN and Linh. Next up: glimmer, Hamburg on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ WhoIsWho is a techno and trance artist based in Germany, with 28 gigs on soundch
 
 Dirty Disco Divas, BNZN, Linh (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whoiswho/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whoiswho/)*

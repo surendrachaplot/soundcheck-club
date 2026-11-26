@@ -1,6 +1,6 @@
 # HIDAI
 
-HIDAI is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ya Teng Homestay, Thailand on Fri, 12 Feb 2027.
+HIDAI is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ya Teng Homestay, Thailand on Fri, 12 Feb 2027.
 
 HIDAI is a techno and acid artist based in Japan, with 9 gigs on soundcheck across Bangkok, Thailand and Tokyo. Often billed alongside NUTMEG, Kugel and Sunju Hargun. Next up: Ya Teng Homestay, Thailand on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ HIDAI is a techno and acid artist based in Japan, with 9 gigs on soundcheck acro
 
 NUTMEG, Kugel, Sunju Hargun
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidai/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidai/)*

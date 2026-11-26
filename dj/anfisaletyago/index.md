@@ -1,6 +1,6 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Anfisa Letyago is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Adam Beyer, Enrico Sangiuliano and Pan-Pot. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -27,4 +27,4 @@ Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on sou
 
 Adam Beyer, Enrico Sangiuliano, Pan-Pot
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

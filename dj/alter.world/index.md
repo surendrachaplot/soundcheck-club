@@ -1,6 +1,6 @@
 # alter.world
 
-alter.world is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Honey's, New York City on Thu, 3 Dec 2026.
+alter.world is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Honey's, New York City on Thu, 3 Dec 2026.
 
 alter.world is a techno and dub techno artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Oscil, Uttaraa and Qtea. Next up: Honey's, New York City on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ alter.world is a techno and dub techno artist based in United States of America,
 
 Oscil, Uttaraa, Qtea
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*

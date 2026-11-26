@@ -1,6 +1,6 @@
 # Laissez Faire
 
-Laissez Faire is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Affect: 2 Year Anniversary" on Fri, 27 Nov 2026.
+Laissez Faire is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Affect: 2 Year Anniversary" on Fri, 27 Nov 2026.
 
 Laissez Faire is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Matt Pace, Nico Noir, Ryan Maxwell and Sleepy & Boo. See dates, start times and who's playing. 10 Theatre Alley, New York, NY 10038.
 
@@ -15,4 +15,4 @@ Laissez Faire is a music venue in New York City listed on soundcheck. 2 upcoming
 
 10 Theatre Alley, New York, NY 10038, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/laissez-faire/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/laissez-faire/)*

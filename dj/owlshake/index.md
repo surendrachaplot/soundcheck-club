@@ -1,6 +1,6 @@
 # Owlshake
 
-Owlshake is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bien Public, Bordeaux on Sat, 19 Dec 2026.
+Owlshake is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bien Public, Bordeaux on Sat, 19 Dec 2026.
 
 Owlshake is a house and techno artist based in France, with 13 gigs on soundcheck across Bordeaux and Paris. Often billed alongside Aï Smash, Donna Gibson and Falafef. Next up: Bien Public, Bordeaux on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Owlshake is a house and techno artist based in France, with 13 gigs on soundchec
 
 Aï Smash, Donna Gibson, Falafef
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owlshake/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owlshake/)*

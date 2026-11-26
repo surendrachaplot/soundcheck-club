@@ -1,6 +1,6 @@
 # Goya Social Club
 
-Goya Social Club is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "PANDORA" on Thu, 26 Nov 2026.
+Goya Social Club is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "PANDORA" on Thu, 26 Nov 2026.
 
 Goya Social Club is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Charlotte (FR), Dellavega, Diego and Diego Teran and 2 more. See dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
 
@@ -20,4 +20,4 @@ Goya Social Club is a music venue in Madrid listed on soundcheck. 7 upcoming gig
 
 Calle de Goya, 43, 28001 Madrid, Spain, Madrid
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*

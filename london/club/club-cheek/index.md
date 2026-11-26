@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Meet In The MIDI: mi-el, T.NO " on Fri, 27 Nov 2026.
+Club Cheek is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Meet In The MIDI: mi-el, T.NO " on Fri, 27 Nov 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Ruby SD, batgirl, Cardi-O and Cosmo Sofi and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -21,4 +21,4 @@ Club Cheek is a music venue in London listed on soundcheck. 8 upcoming gigs, wit
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

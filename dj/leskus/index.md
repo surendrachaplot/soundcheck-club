@@ -1,6 +1,6 @@
 # Leskus
 
-Leskus is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
+Leskus is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
 
 Leskus is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Budapest, Frankfurt and Hannover. Often billed alongside Tarkan, MAHA and Ponygirl. Next up: WDM, Hannover on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Leskus is a techno and trance artist based in Germany, with 11 gigs on soundchec
 
 Tarkan, MAHA, Ponygirl
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*

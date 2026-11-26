@@ -1,6 +1,6 @@
 # 1ycia
 
-1ycia is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 12 Dec 2026.
+1ycia is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 1ycia is an electronica and pop artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Beverly Chills, Denimontaro and IOANNINA. Next up: Monarch, San Francisco/Oakland on Sat 12 Dec.
 
@@ -22,4 +22,4 @@
 
 Beverly Chills, Denimontaro, IOANNINA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ycia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ycia/)*

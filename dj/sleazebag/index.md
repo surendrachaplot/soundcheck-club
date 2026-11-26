@@ -1,6 +1,6 @@
 # Sleazebag
 
-Sleazebag is a Drum & Bass and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at M.O.T, London on Sat, 19 Dec 2026.
+Sleazebag is a Drum & Bass and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M.O.T, London on Sat, 19 Dec 2026.
 
 Sleazebag is a drum & bass and footwork artist based in United Kingdom, with 27 gigs on soundcheck across Bristol and London. Often billed alongside skywalka, Krash Dubs and PEPPA. Next up: M.O.T, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Sleazebag is a drum & bass and footwork artist based in United Kingdom, with 27 
 
 skywalka, Krash Dubs, PEPPA (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazebag/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazebag/)*

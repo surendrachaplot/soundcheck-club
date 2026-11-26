@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 24 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "All Night Dept. - D2D 001 w/ Jeremy Sylvester, MADVILLA, Wilfy D & Shedcat" on Thu, 26 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "All Night Dept. - D2D 001 w/ Jeremy Sylvester, MADVILLA, Wilfy D & Shedcat" on Thu, 26 Nov 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 24 upcoming gigs, with line-ups including Bruce Sangster, Chris Liberator, Co-Accused and Crazy P and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with line-ups including Bruce Sangster, Chris Liberator, Co-Accused and Crazy P and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 24 upcoming
 | Thu, 10 Dec 2026 | A.D.S.R w/ JAZ IMSKY, SOFSOF x manu_facturer, Kalopsia | JAZ IMSKY, Kalopsia, SOFSOF, manu_facturer |
 | Fri, 11 Dec 2026 | I Love Acid versus Attack Release | Chris Liberator, I am blip, Kairogen, Obakegaku お化け学, Posthuman, Ty Lumnus |
 | Sat, 12 Dec 2026 | Optimo (Espacio) - The Depths of Winter | Optimo (Espacio) |
-| Wed, 16 Dec 2026 | PILOT | Bruce Sangster |
+| Mon, 14 Dec 2026 | The Berkeley Suite presents: Ewan McVicar b2b Special Request | Ewan McVicar, Special Request |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

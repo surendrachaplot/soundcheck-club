@@ -1,8 +1,8 @@
 # Danielle (UK)
 
-Danielle (UK) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Radio Radio, Amsterdam on Fri, 27 Nov 2026.
+Danielle (UK) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radio Radio, Amsterdam on Fri, 27 Nov 2026.
 
-Danielle (UK) is a techno and house artist based in United Kingdom, with 163 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 43 more. Often billed alongside Amaliah, Ryan Elliott and Ogazón. Next up: Radio Radio, Amsterdam on Fri 27 Nov.
+Danielle (UK) is a techno and house artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 43 more. Often billed alongside Amaliah, Ryan Elliott and Ogazón. Next up: Radio Radio, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Danielle (UK) is a techno and house artist based in United Kingdom, with 163 gig
 | Sat, 12 Dec 2026 | Cadavra | Madrid |
 | Thu, 31 Dec 2026 | gallery 1986 | Vilnius |
 | Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
+| Sat, 6 Feb 2027 | The Carpet Shop | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -30,4 +31,4 @@ Danielle (UK) is a techno and house artist based in United Kingdom, with 163 gig
 
 Amaliah, Ryan Elliott, Ogazón
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

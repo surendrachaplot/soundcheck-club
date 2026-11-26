@@ -1,8 +1,8 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
+Heidi Lawden is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
 
-Heidi Lawden is a house and disco artist based in United States of America, with 177 gigs on soundcheck across Athens, Bali, Barcelona and Belfast and 21 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: Catch One, Los Angeles on Wed 25 Nov.
+Heidi Lawden is a house and disco artist based in United States of America, with 178 gigs on soundcheck across Athens, Bali, Barcelona and Belfast and 22 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: Catch One, Los Angeles on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -13,9 +13,11 @@ Heidi Lawden is a house and disco artist based in United States of America, with
 | Thu, 3 Dec 2026 | Floyd | Miami |
 | Sat, 5 Dec 2026 | Sunset at EDITION | Los Angeles |
 | Thu, 31 Dec 2026 | Belasco Theater | Los Angeles |
+| Fri, 18 Jun 2027 | The Woodland Glade, Horseheath Racecourse | South-east |
 
 ## Recently played
 
+- Catch One, Los Angeles · Wed, 25 Nov 2026
 - TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles · Sat, 14 Nov 2026
 - TBA, Los Angeles · Fri, 6 Nov 2026
 - Yamashiro Hollywood, Los Angeles · Sat, 31 Oct 2026
@@ -23,10 +25,9 @@ Heidi Lawden is a house and disco artist based in United States of America, with
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - BASEMENT, New York City · Sat, 19 Sept 2026
-- The Cause, London · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Masha Mar, Lovefingers, Masha
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*

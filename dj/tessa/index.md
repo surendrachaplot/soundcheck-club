@@ -1,6 +1,6 @@
 # Tessa
 
-Tessa is a Garage and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
+Tessa is a Garage and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
 
 Tessa is a garage and baile funk artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Buenos Aires, London and Rotterdam. Often billed alongside Silkie, Don Plok and Anita B Queen. Next up: Kizuna, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Tessa is a garage and baile funk artist based in United Kingdom, with 18 gigs on
 
 Silkie, Don Plok, Anita B Queen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tessa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tessa/)*

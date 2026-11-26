@@ -1,6 +1,6 @@
 # Roka
 
-Roka is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Miscellania, Melbourne on Sun, 13 Dec 2026.
+Roka is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Miscellania, Melbourne on Sun, 13 Dec 2026.
 
 Roka is a tech house and house artist based in Australia, with 27 gigs on soundcheck across Byron Bay, London and Melbourne. Often billed alongside Séarlait, Moopie and DJ Possum. Next up: Miscellania, Melbourne on Sun 13 Dec.
 
@@ -27,4 +27,4 @@ Roka is a tech house and house artist based in Australia, with 27 gigs on soundc
 
 Séarlait, Moopie, DJ Possum
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

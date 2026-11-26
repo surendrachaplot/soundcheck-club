@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
+Fadi Mohem is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
 
 Fadi Mohem is a techno and house artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 75 more. Often billed alongside Ben Klock, Rødhåd and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Dec.
 
@@ -36,4 +36,4 @@ Fadi Mohem is a techno and house artist based in Germany, with 272 gigs on sound
 
 Ben Klock, Rødhåd, Ogazón
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

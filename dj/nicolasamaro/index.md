@@ -1,6 +1,6 @@
 # Nicolas Amaro
 
-Nicolas Amaro is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Macarena Club, Barcelona on Sun, 20 Dec 2026.
+Nicolas Amaro is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Sun, 20 Dec 2026.
 
 Nicolas Amaro is an electro and acid artist based in Uruguay, with 14 gigs on soundcheck across Barcelona. Often billed alongside Wilowm, Lyonel and EMilio. Next up: Macarena Club, Barcelona on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Nicolas Amaro is an electro and acid artist based in Uruguay, with 14 gigs on so
 
 Wilowm, Lyonel, EMilio (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasamaro/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasamaro/)*

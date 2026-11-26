@@ -1,6 +1,6 @@
 # Tomas Crow
 
-Tomas Crow is a Krautrock and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio dB, Berlin on Sat, 5 Dec 2026.
+Tomas Crow is a Krautrock and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio dB, Berlin on Sat, 5 Dec 2026.
 
 Tomas Crow is a krautrock and electro artist based in United Kingdom, with 7 gigs on soundcheck across Berlin and London. Often billed alongside Louf, AGUSTIN BARBEI and Drum & Lace. Next up: Studio dB, Berlin on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Tomas Crow is a krautrock and electro artist based in United Kingdom, with 7 gig
 
 Louf, AGUSTIN BARBEI, Drum & Lace
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomascrow/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomascrow/)*

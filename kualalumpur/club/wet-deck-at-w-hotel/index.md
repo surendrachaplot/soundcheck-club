@@ -1,6 +1,6 @@
 # Wet Deck at W Hotel
 
-Wet Deck at W Hotel is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Stereo Therapy feat Alam b2b Victor G" on Sat, 28 Nov 2026.
+Wet Deck at W Hotel is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Stereo Therapy feat Alam b2b Victor G" on Sat, 28 Nov 2026.
 
 Wet Deck at W Hotel is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including Alam, Rodriguez Jr. and Victor G (MY). See dates, start times and who's playing. 121, Jalan Ampang, 50450, Kuala Lumpur.
 
@@ -15,4 +15,4 @@ Wet Deck at W Hotel is a music venue in Kuala Lumpur listed on soundcheck. 2 upc
 
 121, Jalan Ampang, 50450, Kuala Lumpur, Kuala Lumpur
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/wet-deck-at-w-hotel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/wet-deck-at-w-hotel/)*

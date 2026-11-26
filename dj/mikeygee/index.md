@@ -1,6 +1,6 @@
 # Mikey Gee
 
-Mikey Gee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 27 Nov 2026.
+Mikey Gee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 27 Nov 2026.
 
 Mikey Gee is a house and disco artist based in Germany, with 53 gigs on soundcheck across Berlin, Munich, Perth and Vienna. Often billed alongside Julie Fleischer, André Dancekowski and CHEWCHEW. Next up: Funkhaus Wien, Vienna on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mikey Gee is a house and disco artist based in Germany, with 53 gigs on soundche
 
 Julie Fleischer, André Dancekowski, CHEWCHEW
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeygee/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeygee/)*

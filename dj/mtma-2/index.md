@@ -1,6 +1,6 @@
 # MTMA (2)
 
-MTMA (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 1 Jan 2027.
+MTMA (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 1 Jan 2027.
 
 MTMA is an electronic artist based in Italy, with 5 gigs on soundcheck across Berlin and Milan. Often billed alongside GIS, Antikorpo and ChéRebel. Next up: Tempio del Futuro Perduto, Milan on Fri 1 Jan.
 
@@ -21,4 +21,4 @@ MTMA is an electronic artist based in Italy, with 5 gigs on soundcheck across Be
 
 GIS (2), Antikorpo, ChéRebel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mtma-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mtma-2/)*

@@ -1,6 +1,6 @@
 # Pimpernel
 
-Pimpernel is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Pimpernel All Night Long" on Wed, 25 Nov 2026.
+Pimpernel is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Pimpernel All Night Long" on Wed, 25 Nov 2026.
 
 Pimpernel is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including JAN RIEG, Jepe, Sonson and Thomas Herb and 1 more. See dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
 
@@ -19,4 +19,4 @@ Pimpernel is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with
 
 Müllerstr. 56; 80469 Munich; Germany, Munich
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*

@@ -1,6 +1,6 @@
 # Arielle Free
 
-Arielle Free is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Riviera Beach Club, Melbourne on Sun, 27 Dec 2026.
+Arielle Free is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Riviera Beach Club, Melbourne on Sun, 27 Dec 2026.
 
 Arielle Free is a house and tech house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Auckland, Austria and Bali and 29 more. Often billed alongside David Guetta, Meduza and Sam Divine. Next up: Riviera Beach Club, Melbourne on Sun 27 Dec.
 
@@ -27,4 +27,4 @@ Arielle Free is a house and tech house artist based in United Kingdom, with 136 
 
 David Guetta, Meduza, Sam Divine
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*

@@ -1,6 +1,6 @@
 # Patrick Kyle
 
-Patrick Kyle is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Banya Brooklyn, New York City on Sun, 13 Dec 2026.
+Patrick Kyle is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Banya Brooklyn, New York City on Sun, 13 Dec 2026.
 
 Patrick Kyle is a disco and house artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside Burn Baby, Coach Chris and DROPO. Next up: Banya Brooklyn, New York City on Sun 13 Dec.
 
@@ -24,4 +24,4 @@ Patrick Kyle is a disco and house artist based in United States of America, with
 
 Burn Baby, Coach Chris, DROPO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkyle/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkyle/)*

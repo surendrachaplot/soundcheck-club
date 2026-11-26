@@ -1,6 +1,6 @@
 # Yert
 
-Yert is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri, 11 Dec 2026.
+Yert is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri, 11 Dec 2026.
 
 Yert is a dubstep and bass artist based in United States of America, with 14 gigs on soundcheck across Baltimore, London, Manchester and New York City and 2 more. Often billed alongside Ellis Delta, Visiter and Babypufff. Next up: TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Yert is a dubstep and bass artist based in United States of America, with 14 gig
 
 Ellis Delta, Visiter, Babypufff
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yert/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yert/)*

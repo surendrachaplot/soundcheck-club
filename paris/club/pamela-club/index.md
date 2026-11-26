@@ -1,8 +1,8 @@
 # Pamela Club
 
-Pamela Club is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "FREE TO DANCE" on Thu, 26 Nov 2026.
+Pamela Club is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FREE TO DANCE" on Thu, 26 Nov 2026.
 
-Pamela Club is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Spielman, Aleqs Notal, Elsa Bernini and Jim Nights and 2 more. See dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
+Pamela Club is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Spielman, Aleqs Notal, Alex From Tokyo and Elsa Bernini and 2 more. See dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Pamela Club is a music venue in Paris listed on soundcheck. 10 upcoming gigs, wi
 | Sat, 28 Nov 2026 | FATHER/SON |  |
 | Fri, 4 Dec 2026 | Studio B - Nightchou, Jim Nights, Annabella | Jim Nights, Nightchou |
 | Fri, 4 Dec 2026 | STUDIO B | Jim Nights, Nightchou |
-| Sat, 5 Dec 2026 | LA TRIBUNAL | Elsa Bernini, Paulina (2) |
+| Sat, 5 Dec 2026 | LA TRIBUNAL | Elsa Bernini, LOUIS SAVARY, Paulina (2) |
+| Sat, 12 Dec 2026 | BOYS FROM JAPAN | Alex From Tokyo, Man Called Dylan |
 | Thu, 31 Dec 2026 | NEW YEAR'S EVE AT PAMELA |  |
 | Sat, 2 Jan 2027 | I.L Recordings - Aleqs Notal All Night Long | Aleqs Notal |
-| Sat, 2 Jan 2027 | I.L RECORDINGS | Aleqs Notal |
 
 ## Address
 
 62 Rue Mazarine, 75006 Paris, France, Paris
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*

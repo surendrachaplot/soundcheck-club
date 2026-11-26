@@ -1,6 +1,6 @@
 # 33/45 Club
 
-33/45 Club is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Progresounds at 33/45 - PROGRESSIVE HOUSE, MELODIC TECHNO" on Thu, 26 Nov 2026.
+33/45 Club is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Progresounds at 33/45 - PROGRESSIVE HOUSE, MELODIC TECHNO" on Thu, 26 Nov 2026.
 
 33/45 Club is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, with line-ups including AlesaDJ, Moni Hole and OCKTIVE. See dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
 
@@ -17,4 +17,4 @@
 
 C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia, Valencia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*

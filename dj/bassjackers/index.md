@@ -1,6 +1,6 @@
 # Bassjackers
 
-Bassjackers is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+Bassjackers is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
 
 Bassjackers is a techno and electronica artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cologne and 16 more. Often billed alongside Charlie Sparks, Dimitri Vegas & Like Mike and 2HOT2PLAY. Next up: Brussels Expo, Brussels on Wed 30 Dec.
 
@@ -27,4 +27,4 @@ Bassjackers is a techno and electronica artist based in Netherlands, with 37 gig
 
 Charlie Sparks, Dimitri Vegas & Like Mike, 2HOT2PLAY
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*

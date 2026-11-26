@@ -1,6 +1,6 @@
 # TSIP
 
-TSIP is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 26 Nov 2026.
+TSIP is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 26 Nov 2026.
 
 TSIP is a club and bass artist, with 23 gigs on soundcheck across Marseille, Paris and Warsaw. Often billed alongside Jonas Alexander, Bamao Yendé and fetva. Next up: Le Poisson Volant, Paris on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ TSIP is a club and bass artist, with 23 gigs on soundcheck across Marseille, Par
 
 Jonas Alexander, Bamao Yendé, fetva
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsip/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsip/)*

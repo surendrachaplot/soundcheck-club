@@ -1,6 +1,6 @@
 # Domenico Rosa
 
-Domenico Rosa is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Freakout Club, Bologna on Fri, 27 Nov 2026.
+Domenico Rosa is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Freakout Club, Bologna on Fri, 27 Nov 2026.
 
 Domenico Rosa is an electro and house artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 7 more. Often billed alongside Marcolino, GNMR and Giammarco Orsini. Next up: Freakout Club, Bologna on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Domenico Rosa is an electro and house artist based in Italy, with 51 gigs on sou
 
 Marcolino, GNMR, Giammarco Orsini
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicorosa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicorosa/)*

@@ -1,6 +1,6 @@
 # Ali Rajat
 
-Ali Rajat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
+Ali Rajat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
 
 Ali Rajat is a house and techno artist based in Bangladesh, with 13 gigs on soundcheck across Berlin and Hamburg. Often billed alongside IRAD, Dino S and Upzet. Next up: TBA - instagram | telegram: @klangsubstanz, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ali Rajat is a house and techno artist based in Bangladesh, with 13 gigs on soun
 
 IRAD, Dino S, Upzet
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirajat/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirajat/)*

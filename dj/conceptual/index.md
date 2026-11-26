@@ -1,6 +1,6 @@
 # CONCEPTUAL
 
-CONCEPTUAL is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OHM, Berlin on Sat, 12 Dec 2026.
+CONCEPTUAL is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OHM, Berlin on Sat, 12 Dec 2026.
 
 CONCEPTUAL is a techno and experimental artist based in Italy, with 121 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 40 more. Often billed alongside MODERN, MOE (LB) and Pâris.. Next up: OHM, Berlin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ CONCEPTUAL is a techno and experimental artist based in Italy, with 121 gigs on 
 
 MODERN, MOE (LB), Pâris.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*

@@ -1,6 +1,6 @@
 # Julieta Intergalactica
 
-Julieta Intergalactica is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Low Key Records, Sofia on Thu, 26 Nov 2026.
+Julieta Intergalactica is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Low Key Records, Sofia on Thu, 26 Nov 2026.
 
 Julieta Intergalactica is an electronica and disco artist based in Bulgaria, with 54 gigs on soundcheck across Belgrade and Sofia. Often billed alongside Juliana Lima, Diass and KANZ. Next up: Low Key Records, Sofia on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Julieta Intergalactica is an electronica and disco artist based in Bulgaria, wit
 
 Juliana Lima, Diass, KANZ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julietaintergalactica/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julietaintergalactica/)*

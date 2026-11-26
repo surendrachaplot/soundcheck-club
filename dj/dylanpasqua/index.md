@@ -1,6 +1,6 @@
 # Dylan Pasqua
 
-Dylan Pasqua is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
+Dylan Pasqua is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
 
 Dylan Pasqua is a breakbeat and techno artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Guillaume Cartier, Davide Del Vecchio and Tommy- (UK). Next up: All My Friends, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Dylan Pasqua is a breakbeat and techno artist based in United Kingdom, with 11 g
 
 Guillaume Cartier, Davide Del Vecchio, Tommy- (UK)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpasqua/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpasqua/)*

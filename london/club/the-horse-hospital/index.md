@@ -1,6 +1,6 @@
 # The Horse Hospital
 
-The Horse Hospital is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "CEASELESS VII" on Fri, 18 Dec 2026.
+The Horse Hospital is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "CEASELESS VII" on Fri, 18 Dec 2026.
 
 The Horse Hospital is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Colonnade, Bloomsbury, WC1N 1HX, London.
 
@@ -14,4 +14,4 @@ The Horse Hospital is a music venue in London listed on soundcheck. 1 upcoming g
 
 Colonnade, Bloomsbury, WC1N 1HX, London, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-hospital/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-hospital/)*

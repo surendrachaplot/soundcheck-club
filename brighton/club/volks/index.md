@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Ivy Lab - Farewell Tour" on Sat, 28 Nov 2026.
+Volks is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ivy Lab - Farewell Tour" on Sat, 28 Nov 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, with line-ups including Aaron Liberator, Acid Carbon, Beano and Benny L and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, with 
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

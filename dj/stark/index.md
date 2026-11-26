@@ -1,6 +1,6 @@
 # Stark
 
-Stark is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 26 Nov 2026.
+Stark is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 26 Nov 2026.
 
 Stark is a house and club artist, with 27 gigs on soundcheck across Berlin, Budapest, Melbourne and New York City. Often billed alongside Hanussen, Knoll and MSKD. Next up: Bulbul Berlin, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Stark is a house and club artist, with 27 gigs on soundcheck across Berlin, Buda
 
 Hanussen, Knoll, MSKD
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*

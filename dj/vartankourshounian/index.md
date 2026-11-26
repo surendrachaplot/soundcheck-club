@@ -1,6 +1,6 @@
 # vartankourshounian
 
-vartankourshounian is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Extra Dry Bonn, Cologne on Sat, 5 Dec 2026.
+vartankourshounian is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Extra Dry Bonn, Cologne on Sat, 5 Dec 2026.
 
 vartankourshounian is an afro house and techno artist based in Germany, with 3 gigs on soundcheck across Cologne. Often billed alongside Alen Hertz. Next up: TBA - Extra Dry Bonn, Cologne on Sat 5 Dec.
 
@@ -16,4 +16,4 @@ vartankourshounian is an afro house and techno artist based in Germany, with 3 g
 
 Alen Hertz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vartankourshounian/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vartankourshounian/)*

@@ -1,6 +1,6 @@
 # LA TRIBUNAL at Pamela Club
 
-LA TRIBUNAL at Pamela Club on Sat 5 Dec, Paris. 2 artists: Elsa Bernini and Paulina. House. See the line-up on soundcheck.
+LA TRIBUNAL at Pamela Club on Sat 5 Dec, Paris. 3 artists: Elsa Bernini, LOUIS SAVARY and Paulina. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LA TRIBUNAL at Pamela Club on Sat 5 Dec, Paris. 2 artists: Elsa Bernini and Paul
 ## Line-up
 
 - Elsa Bernini
+- LOUIS SAVARY
 - Paulina (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2590599-la-tribunal-at-pamela-club/)*

@@ -1,6 +1,6 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Nightcap Detroit" on Wed, 25 Nov 2026.
+Spkrbox is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Nightcap Detroit" on Wed, 25 Nov 2026.
 
 Spkrbox is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including AIDEL, ALI IRL, Bileebob and Brent Shay and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
@@ -22,4 +22,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with 
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

@@ -1,8 +1,8 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Saoirse is a house and techno artist based in Ireland, with 200 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Mella Dee, Shanti Celeste and Peach. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Saoirse is a house and techno artist based in Ireland, with 201 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Mella Dee, Shanti Celeste and Peach. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Saoirse is a house and techno artist based in Ireland, with 200 gigs on soundche
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | GASHOUDER | Amsterdam |
 | Sat, 28 Nov 2026 | Hito Scheveningen | The Hague |
+| Fri, 11 Dec 2026 | CLUB RAUM | Amsterdam |
 | Sat, 13 Feb 2027 | essaim | Paris |
 | Sat, 29 May 2027 | Ashton Court Estate | Bristol |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
@@ -30,4 +31,4 @@ Saoirse is a house and techno artist based in Ireland, with 200 gigs on soundche
 
 Mella Dee, Shanti Celeste, Peach
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

@@ -1,8 +1,8 @@
 # Jorg
 
-Jorg is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 28 Nov 2026.
+Jorg is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 28 Nov 2026.
 
-Jorg is a house and minimal techno artist, with 7 gigs on soundcheck across Amsterdam, Miami, New York City and Rome. Often billed alongside Alexander Koning, Lucien Foort and Remy Unger. Next up: Circolo degli Illuminati, Rome on Sat 28 Nov.
+Jorg is a house and minimal techno artist based in Canada, with 7 gigs on soundcheck across Amsterdam, Miami, New York City and Rome. Often billed alongside Alexander Koning, Lucien Foort and Remy Unger. Next up: Circolo degli Illuminati, Rome on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Jorg is a house and minimal techno artist, with 7 gigs on soundcheck across Amst
 
 Alexander Koning, Lucien Foort, Remy Unger
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorg/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorg/)*

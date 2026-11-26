@@ -1,6 +1,6 @@
 # RASA x Sivilian Affairs present Celestial Seasonings with Adiel & DJ Masda at RASA
 
-RASA x Sivilian Affairs present Celestial Seasonings with Adiel & DJ Masda on Sat 19 Dec, Singapore. 3 artists: Adiel, DJ Masda and Sivanesh. See the line-up on soundcheck.
+RASA x Sivilian Affairs present Celestial Seasonings with Adiel & DJ Masda on Sat 19 Dec, Singapore. 3 artists: Adiel, DJ Masda and Sivanesh. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

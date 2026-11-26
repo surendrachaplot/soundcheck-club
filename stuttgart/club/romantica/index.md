@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "KATZENGOLD am DONNERSTAG meets DACH REKORDS" on Thu, 26 Nov 2026.
+Romantica is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "KATZENGOLD am DONNERSTAG meets DACH REKORDS" on Thu, 26 Nov 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including Alexander Maier, Bernd Affleck, CHIEF QUEEF and DJ BREXIT and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -19,4 +19,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

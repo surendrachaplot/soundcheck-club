@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Amtrac & Seb Wildblood" on Fri, 27 Nov 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Amtrac & Seb Wildblood" on Fri, 27 Nov 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 3kelves, ALEX GOODCAT, ALMAS and Amtrac and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -16,11 +16,11 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 | Sat, 12 Dec 2026 | SET x Safra with Darco (Maccabi House) Extended Set | HAPKI, Kohbain, MONĪ, SAGMO, Vann Essa |
 | Sat, 19 Dec 2026 | Wicked - 35 Years of Free Form Funk | Jeno, Tom of England, Tranquil Elephantizer |
 | Thu, 31 Dec 2026 | Dancing Queen ABBA Glitter Disco NYE Extravaganza |  |
-| Fri, 1 Jan 2027 | It's A New DAY + Breakfast Of Champions 2027 Block Party | 3kelves, ALEX GOODCAT, Anderson Chase, Anthony Mansfield, Awesomer, BEYA, Brunch Life, Cole Odin, Combover, DEBONAIR, DJ Cira, DJ Holographic, DJ M3, DJ Minx, David Harness, Deckard, Desert Hearts, Doc Martin, Dominik Audio, Duserock, Dylan C. Greene, Dïrac, Emanate, Eva, Femmelectric, Fusion, Galen, Glover, HK (1), Homero Espinosa, Horse Meat Disco, Jason Peters, Jonathan Will, Just Another Bitch, Justin Martin, Kevin Knapp, LAKEVERETT, Lee Coombs, Mac Vaughn, Mira, Moheato, Mungo Sound Machine, Papa Lu, Papa Xanny, Philco, PillowTalk, Ploy, Priscilla, Rooz, ShOOey, Shubostar, SkiiTour, Sol (HN), Solar, Steve Fabus, TAMO, Tara Brooks, The Operator (2), YUKA YU, YokoO, discoesq, divaDanielle, likeholywine, nonsuit, starfari |
+| Fri, 1 Jan 2027 | It's A New DAY + Breakfast Of Champions 2027 Block Party | 3kelves, ALEX GOODCAT, Anderson Chase, Anthony Mansfield, Awesomer, BEYA, Brunch Life, Chloé Robinson, Cole Odin, Combover, DEBONAIR, DJ Cira, DJ Holographic, DJ M3, DJ Minx, David Harness, Deckard, Desert Hearts, Doc Martin, Dominik Audio, Duserock, Dylan C. Greene, Dïrac, Emanate, Eva, Femmelectric, Fusion, Galen, Glover, HK (1), Homero Espinosa, Horse Meat Disco, Jason Peters, Jonathan Will, Just Another Bitch, Justin Martin, Kevin Knapp, LAKEVERETT, Lee Coombs, Mac Vaughn, Mira, Moheato, Mungo Sound Machine, Papa Lu, Papa Xanny, Philco, PillowTalk, Ploy, Priscilla, Rooz, Sacha Robotti, ShOOey, Shubostar, SkiiTour, Sol (HN), Solar, Steve Fabus, TAMO, Tara Brooks, The Operator (2), YUKA YU, YokoO, discoesq, divaDanielle, likeholywine, nonsuit, starfari |
 | Sat, 23 Jan 2027 | Liminal |  |
 
 ## Address
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

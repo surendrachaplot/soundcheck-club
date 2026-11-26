@@ -1,8 +1,8 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Dec 2026.
+Tama Sumo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Dec 2026.
 
-Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Dec.
+Tama Sumo is a house and techno artist based in Germany, with 221 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundc
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
+| Sat, 26 Dec 2026 | Tikal Praia Bar | Brazil |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Sat, 6 Mar 2027 | The Cause | London |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
@@ -30,4 +31,4 @@ Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundc
 
 Lakuti, Roi Perez, MUSCLECARS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

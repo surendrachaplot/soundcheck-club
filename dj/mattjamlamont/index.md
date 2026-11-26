@@ -1,6 +1,6 @@
 # Matt Jam Lamont
 
-Matt Jam Lamont is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
+Matt Jam Lamont is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
 
 Matt Jam Lamont is a garage and house artist based in United Kingdom, with 45 gigs on soundcheck across Birmingham, Bristol, Dubai and Ibiza and 5 more. Often billed alongside MC DT, DJ Listener and MC Creed. Next up: Ministry Of Sound, London on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Matt Jam Lamont is a garage and house artist based in United Kingdom, with 45 gi
 
 MC DT, DJ Listener, MC Creed
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*

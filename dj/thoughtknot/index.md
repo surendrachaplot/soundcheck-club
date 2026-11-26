@@ -1,6 +1,6 @@
 # ThoughtKnot
 
-ThoughtKnot is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Wed, 25 Nov 2026.
+ThoughtKnot is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Wed, 25 Nov 2026.
 
 ThoughtKnot is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Athens and New York City. Often billed alongside James Axon, Budino and Maddy Maia. Next up: Good Room, New York City on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ ThoughtKnot is a house and techno artist based in United Kingdom, with 13 gigs o
 
 ## Recently played
 
+- Good Room, New York City · Wed, 25 Nov 2026
 - Animal, New York City · Fri, 11 Sept 2026
 - Good Room, New York City · Sun, 6 Sept 2026
 - H0L0, New York City · Fri, 28 Aug 2026
@@ -20,10 +21,9 @@ ThoughtKnot is a house and techno artist based in United Kingdom, with 13 gigs o
 - Animal, New York City · Sun, 7 Jun 2026
 - C'mon Everybody, New York City · Fri, 8 May 2026
 - Le Bain, New York City · Sun, 18 Jan 2026
-- Good Room, New York City · Sat, 3 May 2025
 
 ## Shares bills with
 
 James Axon, Budino, Maddy Maia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thoughtknot/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thoughtknot/)*

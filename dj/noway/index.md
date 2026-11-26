@@ -1,6 +1,6 @@
 # NO WAY
 
-NO WAY is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 5 Dec 2026.
+NO WAY is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 5 Dec 2026.
 
 NO WAY is a bass and garage artist based in Canada, with 37 gigs on soundcheck across Athens, Berlin, Geneva and Osaka and 2 more. Often billed alongside MOOTOE, In-Character and SLEEPY HEVD. Next up: Circus Tokyo, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ NO WAY is a bass and garage artist based in Canada, with 37 gigs on soundcheck a
 
 MOOTOE, In-Character, SLEEPY HEVD
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*

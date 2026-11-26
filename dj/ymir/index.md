@@ -1,6 +1,6 @@
 # Ymir
 
-Ymir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kastel, Istanbul on Fri, 4 Dec 2026.
+Ymir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kastel, Istanbul on Fri, 4 Dec 2026.
 
 Ymir is a house and techno artist based in Turkey, with 17 gigs on soundcheck across Istanbul. Often billed alongside Volkan Gunduz, EMRE ISIYEL and Ferhat Albayrak. Next up: Kastel, Istanbul on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ymir is a house and techno artist based in Turkey, with 17 gigs on soundcheck ac
 
 Volkan Gunduz, EMRE ISIYEL, Ferhat Albayrak
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ymir/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ymir/)*

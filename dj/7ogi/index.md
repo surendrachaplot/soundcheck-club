@@ -1,6 +1,6 @@
 # 7OGI
 
-7OGI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Karmakoma, Belgrade on Fri, 4 Dec 2026.
+7OGI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Karmakoma, Belgrade on Fri, 4 Dec 2026.
 
 7OGI is a house and tech house artist based in Serbia, with 5 gigs on soundcheck across Belgrade and Naples. Often billed alongside Gerun, TOMÆ and Benjamin.. Next up: Karmakoma, Belgrade on Fri 4 Dec.
 
@@ -21,4 +21,4 @@
 
 Gerun, TOMÆ, Benjamin.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7ogi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7ogi/)*

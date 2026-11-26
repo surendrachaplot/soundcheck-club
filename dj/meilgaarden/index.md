@@ -1,6 +1,6 @@
 # Meilgaarden
 
-Meilgaarden is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+Meilgaarden is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
 Meilgaarden is a house and techno artist based in Sweden, with 102 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Boston and 12 more. Often billed alongside Ian Crane, x3butterfly and Byron Yeates. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Meilgaarden is a house and techno artist based in Sweden, with 102 gigs on sound
 
 Ian Crane, x3butterfly, Byron Yeates
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*

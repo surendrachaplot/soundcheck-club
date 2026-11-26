@@ -1,6 +1,6 @@
 # Brunch Life
 
-Brunch Life is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Brunch Life is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Brunch Life is a house and disco artist based in United States of America, with 15 gigs on soundcheck across Miami and San Francisco/Oakland. Often billed alongside J Key, Anderson Chase and Justin Martin. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Brunch Life is a house and disco artist based in United States of America, with 
 
 J Key, Anderson Chase, Justin Martin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunchlife/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunchlife/)*

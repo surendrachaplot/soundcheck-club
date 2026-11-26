@@ -1,6 +1,6 @@
 # Dj Radar
 
-Dj Radar is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cadavra, Madrid on Fri, 29 Jan 2027.
+Dj Radar is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cadavra, Madrid on Fri, 29 Jan 2027.
 
 Dj Radar is a house and electronica artist based in Spain, with 9 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Avo (ES), ildec and A.M. Project. Next up: Cadavra, Madrid on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Dj Radar is a house and electronica artist based in Spain, with 9 gigs on soundc
 
 Avo (ES), ildec, A.M. Project
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djradar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djradar/)*

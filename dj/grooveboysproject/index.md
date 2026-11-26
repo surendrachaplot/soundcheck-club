@@ -1,6 +1,6 @@
 # Groove Boys Project
 
-Groove Boys Project is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Djoon, Paris on Fri, 4 Dec 2026.
+Groove Boys Project is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Djoon, Paris on Fri, 4 Dec 2026.
 
 Groove Boys Project is a house and disco artist based in France, with 31 gigs on soundcheck across Nantes, Paris and Tbilisi. Often billed alongside Afshin, Tour-Maubourg and Dusty Fingers. Next up: Djoon, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Groove Boys Project is a house and disco artist based in France, with 31 gigs on
 
 Afshin, Tour-Maubourg, Dusty Fingers
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveboysproject/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveboysproject/)*

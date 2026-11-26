@@ -1,6 +1,6 @@
 # Reelworks Denver
 
-Reelworks Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "OMNOM" on Sat, 5 Dec 2026.
+Reelworks Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "OMNOM" on Sat, 5 Dec 2026.
 
 Reelworks Denver is a music venue in Denver listed on soundcheck. 2 upcoming gigs, with line-ups including Bou (UK) and Hedex. See dates, start times and who's playing. 1399 35th St. Denver CO. 80205.
 
@@ -15,4 +15,4 @@ Reelworks Denver is a music venue in Denver listed on soundcheck. 2 upcoming gig
 
 1399 35th St. Denver CO. 80205, Denver
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*

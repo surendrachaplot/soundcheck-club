@@ -1,6 +1,6 @@
 # JOAN (Genetikal Twins)
 
-JOAN (Genetikal Twins) is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mad Radio Barcelona, Barcelona on Thu, 26 Nov 2026.
+JOAN (Genetikal Twins) is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mad Radio Barcelona, Barcelona on Thu, 26 Nov 2026.
 
 JOAN (Genetikal Twins) is an electronica and minimal artist, with 10 gigs on soundcheck across Barcelona. Often billed alongside Alex Cristea, Agustin Bosco and FREDDIESS. Next up: Mad Radio Barcelona, Barcelona on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ JOAN (Genetikal Twins) is an electronica and minimal artist, with 10 gigs on sou
 
 Alex Cristea, Agustin Bosco, FREDDIESS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joangenetikaltwins/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joangenetikaltwins/)*

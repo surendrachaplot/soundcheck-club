@@ -1,17 +1,17 @@
 # Xolo
 
-Xolo is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "ALL WAX by Synaptica" on Fri, 23 Oct 2026.
+Xolo is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "GET TOGETHER" on Sat, 28 Nov 2026.
 
-Xolo is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Leopoldstr. 13.
+Xolo is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Drea. See dates, start times and who's playing. Leopoldstr. 13.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | ALL WAX by Synaptica |  |
+| Sat, 28 Nov 2026 | GET TOGETHER | Drea |
 
 ## Address
 
 Leopoldstr. 13, Munich
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/xolo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/xolo/)*

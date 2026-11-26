@@ -1,6 +1,6 @@
 # DJ Achim Feuervogel
 
-DJ Achim Feuervogel is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
+DJ Achim Feuervogel is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
 
 DJ Achim Feuervogel is a trance and techno artist based in Germany, with 78 gigs on soundcheck across Augsburg, Berlin, Budapest and Cologne and 16 more. Often billed alongside zwilling., Feta Felice and Amøn. Next up: OST, Berlin on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ DJ Achim Feuervogel is a trance and techno artist based in Germany, with 78 gigs
 
 zwilling., Feta Felice, Amøn
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djachimfeuervogel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djachimfeuervogel/)*

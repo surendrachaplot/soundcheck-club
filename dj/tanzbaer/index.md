@@ -1,6 +1,6 @@
 # TANZBAER
 
-TANZBAER is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 4 Dec 2026.
+TANZBAER is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 4 Dec 2026.
 
 TANZBAER is a trance and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside DJ Hotcue, DJ Jetset and DJ Spaßgetränk. Next up: Humboldthain Club, Berlin on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ TANZBAER is a trance and techno artist based in Germany, with 5 gigs on soundche
 
 DJ Hotcue, DJ Jetset, DJ Spaßgetränk
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzbaer/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzbaer/)*

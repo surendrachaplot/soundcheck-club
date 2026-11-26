@@ -1,13 +1,14 @@
 # nox
 
-nox is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 12 Dec 2026.
+nox is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Throw Social DC, Washington DC on Sat, 28 Nov 2026.
 
-nox is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin, Chicago, Lisbon and Malaga and 5 more. Often billed alongside Akuma, 9LALEY and ACE [DE]. Next up: Studio Club Malaga, Malaga on Sat 12 Dec.
+nox is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin, Chicago, Lisbon and Malaga and 6 more. Often billed alongside Akuma, 9LALEY and ACE [DE]. Next up: Throw Social DC, Washington DC on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Throw Social DC | Washington DC |
 | Sat, 12 Dec 2026 | Studio Club Malaga | Malaga |
 | Thu, 31 Dec 2026 | Fusion Club | Münster |
 
@@ -26,4 +27,4 @@ nox is a techno and tech house artist based in Germany, with 17 gigs on soundche
 
 Akuma, 9LALEY, ACE [DE]
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nox/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nox/)*

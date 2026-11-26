@@ -1,6 +1,6 @@
 # John Wick
 
-John Wick is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Village Underground Lisboa, Lisbon on Sat, 19 Dec 2026.
+John Wick is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Village Underground Lisboa, Lisbon on Sat, 19 Dec 2026.
 
 John Wick is a techno and club artist based in Portugal, with 21 gigs on soundcheck across Lisbon, London and Los Angeles. Often billed alongside John-E, Alex Pereira and Brianathegemini. Next up: Village Underground Lisboa, Lisbon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ John Wick is a techno and club artist based in Portugal, with 21 gigs on soundch
 
 John-E, Alex Pereira, Brianathegemini
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnwick/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnwick/)*

@@ -1,6 +1,6 @@
 # Saint Popsy
 
-Saint Popsy is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Insomnia, Berlin on Sat, 5 Dec 2026.
+Saint Popsy is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Insomnia, Berlin on Sat, 5 Dec 2026.
 
 Saint Popsy is a drum & bass and techno artist based in Poland, with 11 gigs on soundcheck across Berlin and Munich. Often billed alongside MixB, Kenzura and ENOME. Next up: Insomnia, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Saint Popsy is a drum & bass and techno artist based in Poland, with 11 gigs on 
 
 MixB, Kenzura, ENOME
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpopsy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpopsy/)*

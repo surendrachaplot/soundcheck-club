@@ -1,6 +1,6 @@
 # Stenk
 
-Stenk is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Drum Club: Halloween Special" on Sat, 31 Oct 2026.
+Stenk is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Drum Club" on Fri, 11 Dec 2026.
 
 Stenk is a music venue in Budapest listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Budapest, Kerepesi út 9, 1087 Hungary.
 
@@ -8,10 +8,10 @@ Stenk is a music venue in Budapest listed on soundcheck. 1 upcoming gig. See dat
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Drum Club: Halloween Special |  |
+| Fri, 11 Dec 2026 | Drum Club |  |
 
 ## Address
 
 Budapest, Kerepesi út 9, 1087 Hungary, Budapest
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/stenk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/stenk/)*

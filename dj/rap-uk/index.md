@@ -1,6 +1,6 @@
 # RAP (UK)
 
-RAP (UK) is a Hip-Hop and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
+RAP (UK) is a Hip-Hop and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Korpuss, Riga on Sat, 28 Nov 2026.
 
 RAP (UK) is a hip-hop and electro artist based in United Kingdom, with 13 gigs on soundcheck across Geneva, Lisbon, Lyon and Manchester and 5 more. Often billed alongside 18+, 249.92 and 2VIBES. Next up: Korpuss, Riga on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ RAP (UK) is a hip-hop and electro artist based in United Kingdom, with 13 gigs o
 
 18+, 249.92, 2VIBES
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rap-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rap-uk/)*

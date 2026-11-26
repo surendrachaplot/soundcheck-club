@@ -1,6 +1,6 @@
 # DJ TEETH
 
-DJ TEETH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at B-SIDE, Warsaw on Fri, 27 Nov 2026.
+DJ TEETH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at B-SIDE, Warsaw on Fri, 27 Nov 2026.
 
 DJ TEETH is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Bristol, Ghent and London and 8 more. Often billed alongside TPR (DE), E-Talking and Carl H. Next up: B-SIDE, Warsaw on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DJ TEETH is a techno and house artist based in Germany, with 50 gigs on soundche
 
 TPR (DE), E-Talking, Carl H
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*

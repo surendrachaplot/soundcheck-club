@@ -1,6 +1,6 @@
 # Friends & Lovers
 
-Friends & Lovers is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bay Day with Baydriana" on Fri, 27 Nov 2026.
+Friends & Lovers is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Bay Day with Baydriana" on Fri, 27 Nov 2026.
 
 Friends & Lovers is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 641 Classon Avenue Brooklyn NY.
 
@@ -15,4 +15,4 @@ Friends & Lovers is a music venue in New York City listed on soundcheck. 2 upcom
 
 641 Classon Avenue Brooklyn NY, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/friends-lovers/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/friends-lovers/)*

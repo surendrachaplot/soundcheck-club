@@ -1,6 +1,6 @@
 # Nadia Boulif
 
-Nadia Boulif is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bridge 48, Barcelona on Fri, 27 Nov 2026.
+Nadia Boulif is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bridge 48, Barcelona on Fri, 27 Nov 2026.
 
 Nadia Boulif is a house and afro house artist based in Spain, with 12 gigs on soundcheck across Barcelona, Ibiza, Lausanne and London and 1 more. Often billed alongside fajardo, jose fajardo and AKAY (ES). Next up: Bridge 48, Barcelona on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nadia Boulif is a house and afro house artist based in Spain, with 12 gigs on so
 
 fajardo, jose fajardo, AKAY (ES)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaboulif/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaboulif/)*

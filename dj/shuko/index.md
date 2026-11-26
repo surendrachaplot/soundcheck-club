@@ -1,6 +1,6 @@
 # Shuko
 
-Shuko is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 29 Nov 2026.
+Shuko is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 29 Nov 2026.
 
 Shuko is a house and club artist based in Zambia, with 43 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside C.FRIM, Baschoe and Rydeen (AU). Next up: Poor Toms Oltra, Sydney on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Shuko is a house and club artist based in Zambia, with 43 gigs on soundcheck acr
 
 C.FRIM, Baschoe, Rydeen (AU)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shuko/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shuko/)*

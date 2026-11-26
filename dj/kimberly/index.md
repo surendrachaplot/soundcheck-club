@@ -1,8 +1,8 @@
 # Kimberly
 
-Kimberly is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OXI, Berlin on Fri, 4 Dec 2026.
+Kimberly is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OXI, Berlin on Fri, 4 Dec 2026.
 
-Kimberly is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Treibende Kraft, .Cheka and 2HOT2PLAY. Next up: OXI, Berlin on Fri 4 Dec.
+Kimberly is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Treibende Kraft, .Cheka and 2HOT2PLAY. Next up: OXI, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kimberly is a techno and trance artist based in Germany, with 5 gigs on soundche
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | OXI | Berlin |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
+| Sat, 30 Jan 2027 | OST | Berlin |
 | Sat, 7 Aug 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -21,4 +22,4 @@ Kimberly is a techno and trance artist based in Germany, with 5 gigs on soundche
 
 Treibende Kraft, .Cheka, 2HOT2PLAY
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberly/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberly/)*

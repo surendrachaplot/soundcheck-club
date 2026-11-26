@@ -1,6 +1,6 @@
 # Maulini
 
-Maulini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Ground at Club Space, Miami on Wed, 25 Nov 2026.
+Maulini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Ground at Club Space, Miami on Wed, 25 Nov 2026.
 
 Maulini is a house and tech house artist based in United States of America, with 18 gigs on soundcheck across Bogotá, Medellin and Miami. Often billed alongside Antonio Estrada, Nat Siriani and Felizeta. Next up: The Ground at Club Space, Miami on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ Maulini is a house and tech house artist based in United States of America, with
 
 ## Recently played
 
+- The Ground at Club Space, Miami · Wed, 25 Nov 2026
 - Bodega Taqueria Y Tequila, Miami · Thu, 20 Aug 2026
 - Viuz, Medellin · Sun, 7 Jun 2026
 - Radio Estrella, Bogotá · Fri, 5 Jun 2026
@@ -19,10 +20,9 @@ Maulini is a house and tech house artist based in United States of America, with
 - Astra Miami, Miami · Thu, 26 Feb 2026
 - MODE Downtown Miami, Miami · Fri, 6 Feb 2026
 - Jolt Radio, Miami · Fri, 19 Dec 2025
-- MODE Downtown Miami, Miami · Thu, 4 Dec 2025
 
 ## Shares bills with
 
 Antonio Estrada, Nat Siriani, Felizeta
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maulini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maulini/)*

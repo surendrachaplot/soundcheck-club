@@ -1,6 +1,6 @@
 # N SO
 
-N SO is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
+N SO is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
 
 N SO is a techno and club artist based in United States of America, with 26 gigs on soundcheck across Portland and Seattle. Often billed alongside ACHAMA, Ross Lowder and Jason Code. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ N SO is a techno and club artist based in United States of America, with 26 gigs
 
 ACHAMA, Ross Lowder, Jason Code
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nso-usa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nso-usa/)*

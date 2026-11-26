@@ -1,6 +1,6 @@
 # GALAGO (BE)
 
-GALAGO (BE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Charlatan, Ghent on Sat, 5 Dec 2026.
+GALAGO (BE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Charlatan, Ghent on Sat, 5 Dec 2026.
 
 GALAGO (BE) is a techno and house artist based in Belgium, with 16 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jaxter, Don Cabron and Groovegsus. Next up: Charlatan, Ghent on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ GALAGO (BE) is a techno and house artist based in Belgium, with 16 gigs on sound
 
 Jaxter, Don Cabron, Groovegsus
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*

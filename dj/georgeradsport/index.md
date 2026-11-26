@@ -1,6 +1,6 @@
 # GEORGE RADSPORT
 
-GEORGE RADSPORT is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
+GEORGE RADSPORT is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
 
 GEORGE RADSPORT is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin, Frankfurt, Leipzig and London and 4 more. Often billed alongside Part Time Killer, Shanixx and 2FEL. Next up: RSO.BERLIN, Berlin on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ GEORGE RADSPORT is a techno and trance artist based in Germany, with 8 gigs on s
 
 Part Time Killer, Shanixx, 2FEL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeradsport/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeradsport/)*

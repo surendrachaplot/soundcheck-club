@@ -1,8 +1,8 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Music Room, Belfast on Fri, 27 Nov 2026.
+Alien Communications is a Electro and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Music Room, Belfast on Fri, 27 Nov 2026.
 
-Alien Communications is an electro and techno artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 23 more. Often billed alongside Jos, Ste Roberts and De La Reef. Next up: Music Room, Belfast on Fri 27 Nov.
+Alien Communications is an electro and techno artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 24 more. Often billed alongside Jos, Ste Roberts and De La Reef. Next up: Music Room, Belfast on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Alien Communications is an electro and techno artist based in United Kingdom, wi
 | Fri, 18 Dec 2026 | radial | London |
 | Sat, 19 Dec 2026 | The Old Blue Last | London |
 | Thu, 31 Dec 2026 | Signal | New York City |
+| Sat, 30 Jan 2027 | Amber's | Manchester |
 | Fri, 5 Mar 2027 | Sub Club | Glasgow |
 | Sat, 6 Mar 2027 | The Biscuit Factory | Edinburgh |
 
@@ -30,4 +31,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, wi
 
 Jos, Ste Roberts, De La Reef
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

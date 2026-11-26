@@ -1,6 +1,6 @@
 # Chinichi
 
-Chinichi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
+Chinichi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
 
 Chinichi is a house and techno artist, with 6 gigs on soundcheck across Berlin and Munich. Often billed alongside Leona Jacewska, B2BEATCHES and Bauen. Next up: Studio1111, Berlin on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Chinichi is a house and techno artist, with 6 gigs on soundcheck across Berlin a
 
 Leona Jacewska, B2BEATCHES, Bauen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinichi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinichi/)*

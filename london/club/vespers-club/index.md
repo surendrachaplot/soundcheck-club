@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 21 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Vespers: Anti Camera + Carlotta + more" on Wed, 25 Nov 2026.
+Vespers Club is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "inklingroom & Złom at Vespers" on Thu, 26 Nov 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including abejizaza, Abobo, Aïsha Devi and Ama (UK) and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -8,7 +8,6 @@ Vespers Club is a music venue in London listed on soundcheck. 21 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Vespers: Anti Camera + Carlotta + more |  |
 | Thu, 26 Nov 2026 | inklingroom & Złom at Vespers | Aïsha Devi, leisure fm, lil replica |
 | Fri, 27 Nov 2026 | Pye Corner Audio | Pye Corner Audio |
 | Sat, 28 Nov 2026 | Cubicle Culture | Abobo, Hans Raider, Munkwerk |
@@ -18,9 +17,10 @@ Vespers Club is a music venue in London listed on soundcheck. 21 upcoming gigs, 
 | Wed, 2 Dec 2026 | Vespers: I Love To Feel | Vanessa Bedoret |
 | Fri, 4 Dec 2026 | SWAGEVER |  |
 | Sat, 5 Dec 2026 | SEX ON THE DANCEFLOOR |  |
+| Sun, 6 Dec 2026 | Motive Hunter: The FREE Motive Before Christmas (Open Decks + Day Party) |  |
 
 ## Address
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

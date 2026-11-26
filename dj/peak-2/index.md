@@ -1,6 +1,6 @@
 # PEAK (2)
 
-PEAK (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Supermercat Gotico, Barcelona on Thu, 26 Nov 2026.
+PEAK (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Supermercat Gotico, Barcelona on Thu, 26 Nov 2026.
 
 PEAK is a drum & bass and bass artist based in Netherlands, with 14 gigs on soundcheck across Barcelona and Utrecht. Often billed alongside BALA, Maje and CAPITANA. Next up: The Supermercat Gotico, Barcelona on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ PEAK is a drum & bass and bass artist based in Netherlands, with 14 gigs on soun
 
 BALA (3), Maje, CAPITANA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peak-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peak-2/)*

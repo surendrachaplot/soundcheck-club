@@ -1,6 +1,6 @@
 # Yunhee
 
-Yunhee is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 18 Dec 2026.
+Yunhee is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 18 Dec 2026.
 
 Yunhee is a techno artist based in South Korea, with 47 gigs on soundcheck across Amsterdam and Milan. Often billed alongside Marco Ramos, Ritzi Lee and Industrialyzer. Next up: Tempio del Futuro Perduto, Milan on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Yunhee is a techno artist based in South Korea, with 47 gigs on soundcheck acros
 
 Marco Ramos, Ritzi Lee, Industrialyzer
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yunhee/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yunhee/)*

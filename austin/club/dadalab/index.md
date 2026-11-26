@@ -1,6 +1,6 @@
 # Dadalab
 
-Dadalab is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "dadageek presents: Caroline Davis - Aida Shirazi - Hexpartner" on Fri, 4 Dec 2026.
+Dadalab is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "dadageek presents: Caroline Davis - Aida Shirazi - Hexpartner" on Fri, 4 Dec 2026.
 
 Dadalab is a music venue in Austin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2008 Alexander Ave, Austin, TX 78722.
 
@@ -15,4 +15,4 @@ Dadalab is a music venue in Austin listed on soundcheck. 2 upcoming gigs. See da
 
 2008 Alexander Ave, Austin, TX 78722, Austin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*

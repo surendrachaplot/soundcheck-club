@@ -1,6 +1,6 @@
 # Digitalmambe
 
-Digitalmambe is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
+Digitalmambe is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
 
 Digitalmambe is a techno and ebm artist based in Colombia, with 5 gigs on soundcheck across Bogotá. Often billed alongside Fourtwenty Sound, Hotmode and Julio. Next up: Torre Colpatria, Bogotá on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Digitalmambe is a techno and ebm artist based in Colombia, with 5 gigs on soundc
 
 Fourtwenty Sound, Hotmode, Julio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalmambe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalmambe/)*

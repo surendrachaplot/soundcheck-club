@@ -1,6 +1,6 @@
 # ädene
 
-ädene is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kassa Boat, Budapest on Thu, 31 Dec 2026.
+ädene is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kassa Boat, Budapest on Thu, 31 Dec 2026.
 
 ädene is a techno and industrial artist based in Hungary, with 53 gigs on soundcheck across Budapest. Often billed alongside Johanna Bozai, rav:n and Kamafaka. Next up: Kassa Boat, Budapest on Thu 31 Dec.
 
@@ -25,4 +25,4 @@
 
 Johanna Bozai, rav:n, Kamafaka
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*

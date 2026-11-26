@@ -1,6 +1,6 @@
 # Navid Asadi (DE)
 
-Navid Asadi (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Haus73, Hamburg on Thu, 31 Dec 2026.
+Navid Asadi (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Haus73, Hamburg on Thu, 31 Dec 2026.
 
 Navid Asadi (DE) is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside DJ Hellfire, Jesse (DE) and Bailey Brown. Next up: Haus73, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Navid Asadi (DE) is a techno and trance artist based in Germany, with 17 gigs on
 
 DJ Hellfire, Jesse (DE), Bailey Brown
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/navidasadide/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/navidasadide/)*

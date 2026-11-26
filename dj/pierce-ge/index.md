@@ -1,6 +1,6 @@
 # Pierce (GE)
 
-Pierce (GE) is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 18 Dec 2026.
+Pierce (GE) is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 18 Dec 2026.
 
 Pierce (GE) is a techno artist based in Georgia, with 23 gigs on soundcheck across Berlin, Budapest, Hamburg and London and 2 more. Often billed alongside Puritan, Vulkanski and 1BYAKKO. Next up: Vektor - The Klub, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Pierce (GE) is a techno artist based in Georgia, with 23 gigs on soundcheck acro
 
 Puritan, Vulkanski, 1BYAKKO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce-ge/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce-ge/)*

@@ -1,13 +1,14 @@
 # Mx. Blaire
 
-Mx. Blaire is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Lilypad, Boston on Fri, 4 Dec 2026.
+Mx. Blaire is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at crobar, Cleveland on Sat, 28 Nov 2026.
 
-Mx. Blaire is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: The Lilypad, Boston on Fri 4 Dec.
+Mx. Blaire is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 7 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: crobar, Cleveland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | crobar | Cleveland |
 | Fri, 4 Dec 2026 | The Lilypad | Boston |
 | Sat, 5 Dec 2026 | BASEMENT | New York City |
 
@@ -26,4 +27,4 @@ Mx. Blaire is a house and techno artist based in United States of America, with 
 
 Adam Unknown, Jordan Graham, Math3ca
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*

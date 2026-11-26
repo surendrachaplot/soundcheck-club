@@ -1,6 +1,6 @@
 # BisouBizou
 
-BisouBizou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Datcha, Montreal on Thu, 3 Dec 2026.
+BisouBizou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Datcha, Montreal on Thu, 3 Dec 2026.
 
 BisouBizou is a house and techno artist based in Canada, with 31 gigs on soundcheck across Montreal. Often billed alongside Andie, DJ Hidi and Alina (MTL). Next up: Bar Datcha, Montreal on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ BisouBizou is a house and techno artist based in Canada, with 31 gigs on soundch
 
 Andie, DJ Hidi, Alina (MTL)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoubizou/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoubizou/)*

@@ -1,6 +1,6 @@
 # TACSY
 
-TACSY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at EN MUSIC BAR, Osaka on Fri, 27 Nov 2026.
+TACSY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at EN MUSIC BAR, Osaka on Fri, 27 Nov 2026.
 
 TACSY is a techno and house artist based in Japan, with 9 gigs on soundcheck across Osaka. Often billed alongside EYEMAY, Koichi (Koichiro Okada) and Ashikaga. Next up: EN MUSIC BAR, Osaka on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ TACSY is a techno and house artist based in Japan, with 9 gigs on soundcheck acr
 
 EYEMAY, Koichi (Koichiro Okada), Ashikaga
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tacsy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tacsy/)*

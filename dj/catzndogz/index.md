@@ -1,6 +1,6 @@
 # Catz 'N Dogz
 
-Catz 'N Dogz is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Slow Club- Other Side of Tama, Poznan on Fri, 4 Dec 2026.
+Catz 'N Dogz is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Slow Club- Other Side of Tama, Poznan on Fri, 4 Dec 2026.
 
 Catz 'N Dogz is a house and tech house artist based in Poland, with 99 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside The Shapeshifters, Eats Everything and Jellybean Benitez. Next up: Slow Club- Other Side of Tama, Poznan on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Catz 'N Dogz is a house and tech house artist based in Poland, with 99 gigs on s
 
 The Shapeshifters, Eats Everything, Jellybean Benitez
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*

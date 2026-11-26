@@ -1,6 +1,6 @@
 # Micky Hurts
 
-Micky Hurts is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Now&Wow, Rotterdam on Sat, 6 Feb 2027.
+Micky Hurts is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Now&Wow, Rotterdam on Sat, 6 Feb 2027.
 
 Micky Hurts is a house and tech house artist based in Netherlands, with 59 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Liverpool and 3 more. Often billed alongside Alexander Koning, Dave Leatherman and Dimitri. Next up: Now&Wow, Rotterdam on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Micky Hurts is a house and tech house artist based in Netherlands, with 59 gigs 
 
 Alexander Koning, Dave Leatherman, Dimitri (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyhurts/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyhurts/)*

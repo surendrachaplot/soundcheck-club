@@ -1,6 +1,6 @@
 # NoNameLeft
 
-NoNameLeft is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 16 Jan 2027.
+NoNameLeft is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 16 Jan 2027.
 
 NoNameLeft is a techno and house artist based in Hungary, with 48 gigs on soundcheck across Berlin, Budapest, Cape Town and Copenhagen and 13 more. Often billed alongside Dreadsun, Ele Luz and Aio. Next up: Akvárium Klub, Budapest on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ NoNameLeft is a techno and house artist based in Hungary, with 48 gigs on soundc
 
 Dreadsun, Ele Luz, Aio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*

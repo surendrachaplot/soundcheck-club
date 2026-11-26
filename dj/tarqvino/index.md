@@ -1,14 +1,15 @@
 # Tarqvino
 
-Tarqvino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
+Tarqvino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
 
-Tarqvino is a house and techno artist based in Colombia, with 27 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Joint4nine, Juanitablue and Roller Gal. Next up: Torre Colpatria, Bogotá on Fri 27 Nov.
+Tarqvino is a house and techno artist based in Colombia, with 28 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Joint4nine, Surfer Rosa and Juanitablue. Next up: Torre Colpatria, Bogotá on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Torre Colpatria | Bogotá |
+| Fri, 27 Nov 2026 | Espacio KB | Bogotá |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tarqvino is a house and techno artist based in Colombia, with 27 gigs on soundch
 
 ## Shares bills with
 
-Joint4nine, Juanitablue, Roller Gal
+Joint4nine, Surfer Rosa, Juanitablue
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarqvino/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarqvino/)*

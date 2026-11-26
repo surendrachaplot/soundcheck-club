@@ -1,6 +1,6 @@
 # Nadine Hennig
 
-Nadine Hennig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Nadine Hennig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Nadine Hennig is a house and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg. Often billed alongside Bonjour Ben, MASCHA and Slurm McKenzie. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Nadine Hennig is a house and techno artist based in Germany, with 30 gigs on sou
 
 Bonjour Ben, MASCHA, Slurm McKenzie
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/NadineHennig/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/NadineHennig/)*

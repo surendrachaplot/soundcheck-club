@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OIL Club, Shenzhen on Sat, 28 Nov 2026.
+L.F.T. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OIL Club, Shenzhen on Sat, 28 Nov 2026.
 
 L.F.T. is a techno and electro artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 44 more. Often billed alongside Festnacht, DJ MELL G and Helena Hauff. Next up: OIL Club, Shenzhen on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ L.F.T. is a techno and electro artist based in Germany, with 128 gigs on soundch
 
 Festnacht, DJ MELL G, Helena Hauff
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

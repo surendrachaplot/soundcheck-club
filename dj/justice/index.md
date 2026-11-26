@@ -1,6 +1,6 @@
 # Justice
 
-Justice is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Wed, 30 Dec 2026.
+Justice is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Wed, 30 Dec 2026.
 
 Justice is a house and techno artist based in France, with 54 gigs on soundcheck across Baltimore, Berlin, Boston and Brisbane and 21 more. Often billed alongside Kaytranada, Jamie xx and Kolja Broxi. Next up: Pier 48's Shed A, San Francisco/Oakland on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ Justice is a house and techno artist based in France, with 54 gigs on soundcheck
 
 Kaytranada, Jamie xx, Kolja Broxi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justice/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justice/)*

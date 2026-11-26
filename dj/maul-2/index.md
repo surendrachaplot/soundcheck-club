@@ -1,13 +1,14 @@
 # Maul (2)
 
-Maul (2) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Toronto on Thu, 31 Dec 2026.
+Maul (2) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 19 Dec 2026.
 
-Maul is a techno and hardcore artist based in Canada, with 19 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and MVCHE. Next up: TBA, Toronto on Thu 31 Dec.
+Maul is a techno and hardcore artist based in Canada, with 20 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and MVCHE. Next up: Geary Avenue Warehouse Project, Toronto on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Geary Avenue Warehouse Project | Toronto |
 | Thu, 31 Dec 2026 | TBA | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Maul is a techno and hardcore artist based in Canada, with 19 gigs on soundcheck
 
 KILL 9 1, R4TS, MVCHE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*

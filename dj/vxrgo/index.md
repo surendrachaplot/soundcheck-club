@@ -1,6 +1,6 @@
 # VXRGO
 
-VXRGO is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Pitt Market, Edinburgh on Sat, 30 Jan 2027.
+VXRGO is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Pitt Market, Edinburgh on Sat, 30 Jan 2027.
 
 VXRGO is a jungle and drum & bass artist based in United Kingdom, with 102 gigs on soundcheck across Brighton, Bristol, Copenhagen and Edinburgh and 9 more. Often billed alongside Silva Snipa, Tim Reaper and Blackeye MC. Next up: The Pitt Market, Edinburgh on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ VXRGO is a jungle and drum & bass artist based in United Kingdom, with 102 gigs 
 
 Silva Snipa, Tim Reaper, Blackeye MC
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*

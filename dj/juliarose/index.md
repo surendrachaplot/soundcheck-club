@@ -1,6 +1,6 @@
 # Julia Rose
 
-Julia Rose is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 28 Nov 2026.
+Julia Rose is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Julia Rose is a techno and club artist based in United States of America, with 4 gigs on soundcheck across San Francisco/Oakland. Often billed alongside NATHALIA, Yuca Frita and 1OO1O. Next up: Monarch, San Francisco/Oakland on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Julia Rose is a techno and club artist based in United States of America, with 4
 
 NATHALIA (2), Yuca Frita, 1OO1O
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliarose/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliarose/)*

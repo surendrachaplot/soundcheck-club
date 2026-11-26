@@ -1,6 +1,6 @@
 # Tiko
 
-Tiko is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fusion Club, Münster on Sat, 5 Dec 2026.
+Tiko is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fusion Club, Münster on Sat, 5 Dec 2026.
 
 Tiko is a techno and house artist based in Germany, with 18 gigs on soundcheck across Barcelona, Berlin, Münster and Sydney. Often billed alongside Jens Mueller, Alexia K. and Dennis Siemion. Next up: Fusion Club, Münster on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Tiko is a techno and house artist based in Germany, with 18 gigs on soundcheck a
 
 Jens Mueller, Alexia K., Dennis Siemion
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiko/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiko/)*

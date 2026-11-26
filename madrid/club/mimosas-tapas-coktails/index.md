@@ -1,6 +1,6 @@
 # Mimosas Tapas & Coktails
 
-Mimosas Tapas & Coktails is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "Housing Sessions" on Sun, 22 Nov 2026.
+Mimosas Tapas & Coktails is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Housing Sessions - Tech House Edition" on Sun, 29 Nov 2026.
 
 Mimosas Tapas & Coktails is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Mimosas Tapas & Coktails is a music venue in Madrid listed on soundcheck. 1 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Housing Sessions |  |
+| Sun, 29 Nov 2026 | Housing Sessions - Tech House Edition |  |
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mimosas-tapas-coktails/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mimosas-tapas-coktails/)*

@@ -1,6 +1,6 @@
 # De La Noise
 
-De La Noise is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Soulkitchen, Amsterdam on Fri, 27 Nov 2026.
+De La Noise is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Soulkitchen, Amsterdam on Fri, 27 Nov 2026.
 
 De La Noise is an afro house and afro tech artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Cape Town and Rotterdam. Often billed alongside Pascal Morais, KARKÂDÉ and Kasango. Next up: Soulkitchen, Amsterdam on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ De La Noise is an afro house and afro tech artist based in Netherlands, with 8 g
 
 Pascal Morais, KARKÂDÉ, Kasango
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delanoise/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delanoise/)*

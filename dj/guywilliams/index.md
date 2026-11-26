@@ -1,14 +1,15 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tangerine, Manchester on Fri, 4 Dec 2026.
+Guy Williams is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tangerine, Manchester on Fri, 4 Dec 2026.
 
-Guy Williams is a house and disco artist based in United Kingdom, with 70 gigs on soundcheck across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and DJ Paulette. Next up: Tangerine, Manchester on Fri 4 Dec.
+Guy Williams is a house and disco artist based in United Kingdom, with 71 gigs on soundcheck across Barcelona, Ibiza, London and Manchester and 3 more. Often billed alongside Jo Mills, Grace Sands and S/A/M. Next up: Tangerine, Manchester on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Tangerine | Manchester |
+| Fri, 18 Jun 2027 | The Woodland Glade, Horseheath Racecourse | South-east |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Guy Williams is a house and disco artist based in United Kingdom, with 70 gigs o
 
 ## Shares bills with
 
-Jo Mills, S/A/M, DJ Paulette
+Jo Mills, Grace Sands, S/A/M
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

@@ -1,6 +1,6 @@
 # Chus & Ceballos
 
-Chus & Ceballos is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bijou Nightclub, Boston on Fri, 27 Nov 2026.
+Chus & Ceballos is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bijou Nightclub, Boston on Fri, 27 Nov 2026.
 
 Chus & Ceballos are a house and tech house duo based in Spain, with 28 gigs on soundcheck across Barcelona, Boston, Chicago and Denver and 11 more. Often billed alongside DJ Chus, Pablo Ceballos and ANDREATENS. Next up: Bijou Nightclub, Boston on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Chus & Ceballos are a house and tech house duo based in Spain, with 28 gigs on s
 
 DJ Chus, Pablo Ceballos, ANDREATENS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*

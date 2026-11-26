@@ -1,6 +1,6 @@
 # Thomas Heinrich
 
-Thomas Heinrich is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
+Thomas Heinrich is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
 
 Thomas Heinrich is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Andreas Eckhardt, DJ HDGDL and 50PHIE. Next up: Distillery, Leipzig on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Thomas Heinrich is a techno and house artist based in Germany, with 11 gigs on s
 
 Andreas Eckhardt, DJ HDGDL, 50PHIE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasheinrich/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasheinrich/)*

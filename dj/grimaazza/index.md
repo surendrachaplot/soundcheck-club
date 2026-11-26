@@ -1,6 +1,6 @@
 # Grima & Azza
 
-Grima & Azza is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
+Grima & Azza is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
 
 Grima & Azza are a drum & bass and jungle duo based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Leeds and 1 more. Often billed alongside Logan D, Eksman and Harry Shotta. Next up: Electric Brixton, London on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Grima & Azza are a drum & bass and jungle duo based in United Kingdom, with 18 g
 
 Logan D, Eksman, Harry Shotta
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grimaazza/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grimaazza/)*

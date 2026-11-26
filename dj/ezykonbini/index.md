@@ -1,13 +1,14 @@
 # Ezy Konbini
 
-Ezy Konbini is a Dubstep and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 26 Feb 2027.
+Ezy Konbini is a Breakcore and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radio Bar, Melbourne on Fri, 18 Dec 2026.
 
-Ezy Konbini is a dubstep and electro artist based in Australia, with 2 gigs on soundcheck across Melbourne. Often billed alongside File Explorer. Next up: QQQ ST. Park, Melbourne on Fri 26 Feb.
+Ezy Konbini is a breakcore and dubstep artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside File Explorer. Next up: Radio Bar, Melbourne on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Radio Bar | Melbourne |
 | Fri, 26 Feb 2027 | QQQ ST. Park | Melbourne |
 
 ## Recently played
@@ -18,4 +19,4 @@ Ezy Konbini is a dubstep and electro artist based in Australia, with 2 gigs on s
 
 File Explorer
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezykonbini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezykonbini/)*

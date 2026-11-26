@@ -1,6 +1,6 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Berlin Kink" on Thu, 26 Nov 2026.
+Insomnia is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Berlin Kink" on Thu, 26 Nov 2026.
 
 Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Andree Wischnewski, Ben Green, Diana May and DJ Clark Kent and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

@@ -1,6 +1,6 @@
 # nimino
 
-nimino is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+nimino is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 nimino is a house and electronica artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -28,4 +28,4 @@ nimino is a house and electronica artist based in United Kingdom, with 53 gigs o
 
 Lane 8, Boys Noize, Elderbrook
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*

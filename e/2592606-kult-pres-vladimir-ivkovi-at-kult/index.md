@@ -1,6 +1,6 @@
 # KULT pres. Vladimir Ivković at Kult
 
-KULT pres. Vladimir Ivković at Kult on Fri 12 Feb, Belgrade. 1 artist: Vladimir Ivkovic. See the line-up on soundcheck.
+KULT pres. Vladimir Ivković at Kult on Fri 12 Feb, Belgrade. 2 artists: Runy and Vladimir Ivkovic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KULT pres. Vladimir Ivković at Kult on Fri 12 Feb, Belgrade. 1 artist: Vladimir
 
 ## Line-up
 
+- Runy
 - Vladimir Ivkovic
 
 *Source: [soundcheck](https://soundcheck.club/e/2592606-kult-pres-vladimir-ivkovi-at-kult/)*

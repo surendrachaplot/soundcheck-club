@@ -1,6 +1,6 @@
 # Santi Lecot
 
-Santi Lecot is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at BORIS CLUB, Barcelona on Mon, 7 Dec 2026.
+Santi Lecot is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BORIS CLUB, Barcelona on Mon, 7 Dec 2026.
 
 Santi Lecot is a house and progressive house artist based in Argentina, with 11 gigs on soundcheck across Barcelona, Madrid and Zurich. Often billed alongside Shiver (AR), pr:mo and Babo. Next up: BORIS CLUB, Barcelona on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Santi Lecot is a house and progressive house artist based in Argentina, with 11 
 
 Shiver (AR), pr:mo, Babo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santilecot/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santilecot/)*

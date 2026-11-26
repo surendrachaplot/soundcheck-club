@@ -1,6 +1,6 @@
 # Schiela
 
-Schiela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OXI, Berlin on Tue, 15 Dec 2026.
+Schiela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at OXI, Berlin on Tue, 15 Dec 2026.
 
 Schiela is a techno and house artist based in Germany, with 27 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Istanbul and 2 more. Often billed alongside Christoph Faust, Power Squad and Alyssa & Gia. Next up: OXI, Berlin on Tue 15 Dec.
 
@@ -25,4 +25,4 @@ Schiela is a techno and house artist based in Germany, with 27 gigs on soundchec
 
 Christoph Faust, Power Squad, Alyssa & Gia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schiela/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schiela/)*

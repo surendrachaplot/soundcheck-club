@@ -1,6 +1,6 @@
 # thrg pres. all local, all live at Marble Bar
 
-thrg pres. all local, all live at Marble Bar on Sat 26 Dec, Detroit. 5 artists: a jaske, Fudz, sts_sts_sts and Tamper Evident and 1 more. See the line-up on soundcheck.
+thrg pres. all local, all live at Marble Bar on Sat 26 Dec, Detroit. 6 artists: a jaske, craftmatik, Fudz and sts_sts_sts and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ thrg pres. all local, all live at Marble Bar on Sat 26 Dec, Detroit. 5 artists: 
 ## Line-up
 
 - a jaske
+- craftmatik
 - Fudz
 - sts_sts_sts
 - Tamper Evident

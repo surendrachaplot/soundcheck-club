@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Friendsgiving: Blizzard, DJ David, Plushie, Radicchio, Rockstar " on Wed, 25 Nov 2026.
+Jupiter Disco is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Friendsgiving: Blizzard, DJ David, Plushie, Radicchio, Rockstar " on Wed, 25 Nov 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including 1ol1v1a, Ah Dek, Akash Raje and Aleska and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 21 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

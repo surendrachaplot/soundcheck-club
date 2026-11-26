@@ -1,17 +1,18 @@
 # Nicolau
 
-Nicolau is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Tomodachi, Ibiza on Sat, 21 Nov 2026.
+Nicolau is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tomodachi, Ibiza on Thu, 26 Nov 2026.
 
-Nicolau is a house and minimal artist based in United Kingdom, with 10 gigs on soundcheck across Ibiza and Manchester. Often billed alongside Miller, 4Pleasure and A.M. Project. Next up: Tomodachi, Ibiza on Sat 21 Nov.
+Nicolau is a house and minimal artist based in United Kingdom, with 11 gigs on soundcheck across Ibiza and Manchester. Often billed alongside Miller, 4Pleasure and A.M. Project. Next up: Tomodachi, Ibiza on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Tomodachi | Ibiza |
+| Thu, 26 Nov 2026 | Tomodachi | Ibiza |
 
 ## Recently played
 
+- Tomodachi, Ibiza · Sat, 21 Nov 2026
 - Tomodachi, Ibiza · Fri, 2 Oct 2026
 - TBA - San Antonio, Sa Punta des Molí, Ibiza · Sat, 2 May 2026
 - Tomodachi, Ibiza · Tue, 16 Sept 2025
@@ -19,10 +20,9 @@ Nicolau is a house and minimal artist based in United Kingdom, with 10 gigs on s
 - Tomodachi, Ibiza · Tue, 9 Sept 2025
 - Pacha Ibiza, Ibiza · Sun, 4 May 2025
 - Sigma, Ibiza · Fri, 27 Sept 2024
-- Ramona, Manchester · Sat, 30 Sept 2023
 
 ## Shares bills with
 
 Miller, 4Pleasure, A.M. Project
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolau/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolau/)*

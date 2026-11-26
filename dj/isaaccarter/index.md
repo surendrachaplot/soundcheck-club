@@ -1,8 +1,8 @@
 # Isaac Carter
 
-Isaac Carter is a House and Deep House artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 27 Nov 2026.
+Isaac Carter is a House and Deep House artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 27 Nov 2026.
 
-Isaac Carter is a house and deep house artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Lux Fragil, Lisbon on Fri 27 Nov.
+Isaac Carter is a house and deep house artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Lux Fragil, Lisbon on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 108 
 | Sat, 5 Dec 2026 | Refuge | New York City |
 | Fri, 11 Dec 2026 | Polifonic.MX | Guadalajara |
 | Sat, 12 Dec 2026 | TBA | Denver |
+| Thu, 17 Dec 2026 | The Steel Yard | London |
 | Sat, 19 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 31 Dec 2026 | The Cause | London |
 | Sun, 28 Mar 2027 | NDSM Docklands | Amsterdam |
@@ -35,4 +36,4 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 108 
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

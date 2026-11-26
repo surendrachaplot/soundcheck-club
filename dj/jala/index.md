@@ -1,6 +1,6 @@
 # JALA
 
-JALA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SALA MUV, Madrid on Sat, 12 Dec 2026.
+JALA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SALA MUV, Madrid on Sat, 12 Dec 2026.
 
 JALA is a techno and tech house artist based in Spain, with 14 gigs on soundcheck across Madrid and Valencia. Often billed alongside Cynth, Jesus Riaño and Gabriel D'or & Bordoy. Next up: TBA - SALA MUV, Madrid on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ JALA is a techno and tech house artist based in Spain, with 14 gigs on soundchec
 
 Cynth, Jesus Riaño, Gabriel D'or & Bordoy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jala/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jala/)*

@@ -1,6 +1,6 @@
 # Statera Cellars
 
-Statera Cellars is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Club Liminal" on Fri, 4 Dec 2026.
+Statera Cellars is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Club Liminal" on Fri, 4 Dec 2026.
 
 Statera Cellars is a music venue in Portland listed on soundcheck. 2 upcoming gigs, with line-ups including Ajota, cables, Maude Vôs and othrwrld. See dates, start times and who's playing. 109 se salmon st.
 
@@ -15,4 +15,4 @@ Statera Cellars is a music venue in Portland listed on soundcheck. 2 upcoming gi
 
 109 se salmon st, Portland
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*

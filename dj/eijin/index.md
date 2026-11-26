@@ -1,6 +1,6 @@
 # eijin
 
-eijin is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 19 Dec 2026.
+eijin is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 19 Dec 2026.
 
 eijin is a techno and electronica artist based in Japan, with 60 gigs on soundcheck across Kyoto, Okinawa, Osaka and Taipei and 1 more. Often billed alongside E.O.U, ast midori and Whatman. Next up: Circus Tokyo, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ eijin is a techno and electronica artist based in Japan, with 60 gigs on soundch
 
 E.O.U, ast midori, Whatman
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*

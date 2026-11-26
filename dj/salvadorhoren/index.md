@@ -1,6 +1,6 @@
 # Salvador Hören
 
-Salvador Hören is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
+Salvador Hören is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
 
 Salvador Hören is a house and minimal artist based in Colombia, with 64 gigs on soundcheck across Bogotá, Medellin and Tokyo. Often billed alongside Hören, Sir Leaks and JD Groovin'. Next up: Yolo Hostel, Medellin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Salvador Hören is a house and minimal artist based in Colombia, with 64 gigs on
 
 Hören, Sir Leaks, JD Groovin'
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorhoren/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorhoren/)*

@@ -1,8 +1,8 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "UNA" on Wed, 25 Nov 2026.
+Panic Room is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "UNA" on Wed, 25 Nov 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with line-ups including BROM and Midori (Menace). See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including BROM, Kalani, Midori (Menace) and Walid. See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Panic Room is a music venue in Paris listed on soundcheck. 13 upcoming gigs, wit
 | Thu, 3 Dec 2026 | GROOVE CLUB | Midori (Menace) |
 | Fri, 4 Dec 2026 | SWEET MUSIC AGENCY X EXODUS CALL |  |
 | Sat, 5 Dec 2026 | UNDERGROUND SOUND |  |
+| Wed, 9 Dec 2026 | SOUS LE RADAR CLUB #02 - JOE LA PANIC |  |
 | Thu, 10 Dec 2026 | 3.0 RECORDS: UNDERGROUND FOREVER |  |
-| Fri, 11 Dec 2026 | THE WAITING ROOM |  |
 
 ## Address
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

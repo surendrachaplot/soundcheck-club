@@ -1,14 +1,15 @@
 # MALAISE VAGAL
 
-MALAISE VAGAL is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Petit Bain, Paris on Fri, 4 Dec 2026.
+MALAISE VAGAL is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Petit Bain, Paris on Fri, 4 Dec 2026.
 
-MALAISE VAGAL is a bass and club artist based in France, with 26 gigs on soundcheck across Nantes, Paris and Strasbourg. Often billed alongside Erna (FR), Kenzzza and Zhar. Next up: Petit Bain, Paris on Fri 4 Dec.
+MALAISE VAGAL is a bass and club artist based in France, with 27 gigs on soundcheck across Nantes, Paris and Strasbourg. Often billed alongside Erna (FR), Kenzzza and Zhar. Next up: Petit Bain, Paris on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Petit Bain | Paris |
+| Sat, 12 Dec 2026 | Mains D'œuvres | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MALAISE VAGAL is a bass and club artist based in France, with 26 gigs on soundch
 
 Erna (FR), Kenzzza, Zhar
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malaisevagal/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malaisevagal/)*

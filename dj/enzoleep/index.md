@@ -1,13 +1,14 @@
 # Enzo Leep
 
-Enzo Leep is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at La Terraza del Factor, Barcelona on Sat, 12 Dec 2026.
+Enzo Leep is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tomodachi, Ibiza on Thu, 26 Nov 2026.
 
-Enzo Leep is a house and electronica artist based in Spain, with 69 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside ELVI (SE), Ion Pananides and Alvaro Medina. Next up: La Terraza del Factor, Barcelona on Sat 12 Dec.
+Enzo Leep is a house and minimal artist based in Spain, with 70 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside ELVI (SE), Ion Pananides and Alvaro Medina. Next up: Tomodachi, Ibiza on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Tomodachi | Ibiza |
 | Sat, 12 Dec 2026 | La Terraza del Factor | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Enzo Leep is a house and electronica artist based in Spain, with 69 gigs on soun
 
 ELVI (SE), Ion Pananides, Alvaro Medina
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*

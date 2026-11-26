@@ -1,6 +1,6 @@
 # Adele Tondu
 
-Adele Tondu is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The DBA, Manchester on Sat, 28 Nov 2026.
+Adele Tondu is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The DBA, Manchester on Sat, 28 Nov 2026.
 
 Adele Tondu is a bass and garage artist based in United Kingdom, with 31 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Atiké, Sham Steele and Amber Rose. Next up: The DBA, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Adele Tondu is a bass and garage artist based in United Kingdom, with 31 gigs on
 
 Atiké, Sham Steele, Amber Rose
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adeletondu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adeletondu/)*

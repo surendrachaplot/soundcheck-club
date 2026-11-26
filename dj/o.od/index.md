@@ -1,6 +1,6 @@
 # O.od
 
-O.od is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
+O.od is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
 
 O.od is a pop and club artist based in South Korea, with 16 gigs on soundcheck across Seoul. Often billed alongside MOHOHOMO, rue and DAEGARI. Next up: Ximxim Bar, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ O.od is a pop and club artist based in South Korea, with 16 gigs on soundcheck a
 
 MOHOHOMO, rue (3), DAEGARI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.od/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.od/)*

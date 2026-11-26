@@ -1,6 +1,6 @@
 # ETHICS
 
-ETHICS is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Love Inn, Bristol on Thu, 26 Nov 2026.
+ETHICS is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Love Inn, Bristol on Thu, 26 Nov 2026.
 
 ETHICS is a drum & bass and jungle artist based in United Kingdom, with 17 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside Deselecta, Sideshow and Betsy Mae. Next up: The Love Inn, Bristol on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ ETHICS is a drum & bass and jungle artist based in United Kingdom, with 17 gigs 
 
 Deselecta, Sideshow, Betsy Mae
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*

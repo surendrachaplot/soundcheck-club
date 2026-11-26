@@ -1,6 +1,6 @@
 # nea.cuajo
 
-nea.cuajo is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Distillery, Leipzig on Fri, 18 Dec 2026.
+nea.cuajo is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery, Leipzig on Fri, 18 Dec 2026.
 
 nea.cuajo is a breakbeat and techno artist, with 22 gigs on soundcheck across Berlin, Leipzig and Medellin. Often billed alongside Cafgar, Gladee and discobabe2. Next up: Distillery, Leipzig on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ nea.cuajo is a breakbeat and techno artist, with 22 gigs on soundcheck across Be
 
 Cafgar, Gladee, discobabe2
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neacuajo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neacuajo/)*

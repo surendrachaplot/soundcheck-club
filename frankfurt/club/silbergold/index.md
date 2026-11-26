@@ -1,6 +1,6 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "CRUCIAL" on Fri, 27 Nov 2026.
+Silbergold is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "CRUCIAL" on Fri, 27 Nov 2026.
 
 Silbergold is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including Dana Ruh, Frederic. and Robert Drewek. See dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
@@ -17,4 +17,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, 
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

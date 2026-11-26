@@ -1,6 +1,6 @@
 # AlesaDJ
 
-AlesaDJ is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sala Taro, Barcelona on Fri, 27 Nov 2026.
+AlesaDJ is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sala Taro, Barcelona on Fri, 27 Nov 2026.
 
 AlesaDJ is an electronica and electro artist based in Spain, with 20 gigs on soundcheck across Barcelona, London, Madrid and Valencia. Often billed alongside OCKTIVE, Mundo D and Blue Hour. Next up: Sala Taro, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ AlesaDJ is an electronica and electro artist based in Spain, with 20 gigs on sou
 
 OCKTIVE, Mundo D, Blue Hour
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alesadj/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alesadj/)*

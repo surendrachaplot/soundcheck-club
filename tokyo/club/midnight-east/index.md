@@ -1,6 +1,6 @@
 # MIDNIGHT EAST
 
-MIDNIGHT EAST is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "解体新書 KTSNS feat. Pangaea" on Fri, 27 Nov 2026.
+MIDNIGHT EAST is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "解体新書 KTSNS feat. Pangaea" on Fri, 27 Nov 2026.
 
 MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Akie, Albino Sound, Big Animal Theory and CMYK and 2 more. See dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -17,4 +17,4 @@ MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, w
 
 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*

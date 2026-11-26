@@ -1,6 +1,6 @@
 # Dillon Francis
 
-Dillon Francis is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Magic Stick, Detroit on Sat, 20 Feb 2027.
+Dillon Francis is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Magic Stick, Detroit on Sat, 20 Feb 2027.
 
 Dillon Francis is a house and bass artist based in United States of America, with 43 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 17 more. Often billed alongside Flosstradamus, Hamdi and Adventure Club. Next up: Magic Stick, Detroit on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Dillon Francis is a house and bass artist based in United States of America, wit
 
 Flosstradamus, Hamdi, Adventure Club
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*

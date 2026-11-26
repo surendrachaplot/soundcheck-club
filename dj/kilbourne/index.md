@@ -1,6 +1,6 @@
 # Kilbourne
 
-Kilbourne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
+Kilbourne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
 
 Kilbourne is a techno and hardcore artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 22 more. Often billed alongside Relaxer, Buzzi and Manu Le Malin. Next up: TBA - DTLA, Los Angeles on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Kilbourne is a techno and hardcore artist based in United States of America, wit
 
 Relaxer, Buzzi, Manu Le Malin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*

@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 21 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Long Play: Adrianne Lenker" on Thu, 26 Nov 2026.
+Rhythm is a music venue in Toronto with 21 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Long Play: Adrianne Lenker" on Thu, 26 Nov 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 21 upcoming gigs, with line-ups including Alto and Bili, Ankathesia, Arapu and Ciel and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 21 upcoming gigs, with 
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

@@ -1,6 +1,6 @@
 # Temppeliaukio Church
 
-Temppeliaukio Church is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kali Malone presents 'Burning Song'" on Fri, 4 Jun 2027.
+Temppeliaukio Church is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Kali Malone presents 'Burning Song'" on Fri, 4 Jun 2027.
 
 Temppeliaukio Church is a music venue in Helsinki listed on soundcheck. 1 upcoming gig, with line-ups including Kali Malone. See dates, start times and who's playing. Lutherinkatu 3, 00100, Helsinki, Finland.
 
@@ -14,4 +14,4 @@ Temppeliaukio Church is a music venue in Helsinki listed on soundcheck. 1 upcomi
 
 Lutherinkatu 3, 00100, Helsinki, Finland, Helsinki
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/temppeliaukio-church/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/temppeliaukio-church/)*

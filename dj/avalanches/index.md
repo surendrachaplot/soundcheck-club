@@ -1,6 +1,6 @@
 # The Avalanches
 
-The Avalanches is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Haus der Visionäre, Berlin on Sat, 5 Dec 2026.
+The Avalanches is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Haus der Visionäre, Berlin on Sat, 5 Dec 2026.
 
 The Avalanches is an electronica and house artist based in Australia, with 14 gigs on soundcheck across Adelaide, Bali, Berlin and Bristol and 8 more. Often billed alongside Flume, 2ManyDJs and 4am Kru. Next up: Haus der Visionäre, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ The Avalanches is an electronica and house artist based in Australia, with 14 gi
 
 Flume, 2ManyDJs, 4am Kru
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*

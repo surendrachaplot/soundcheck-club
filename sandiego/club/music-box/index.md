@@ -1,6 +1,6 @@
 # Music Box
 
-Music Box is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "O'Flynn" on Wed, 25 Nov 2026.
+Music Box is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "O'Flynn" on Wed, 25 Nov 2026.
 
 Music Box is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, with line-ups including Amtrac, French 79 and O'Flynn. See dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
 
@@ -19,4 +19,4 @@ Music Box is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, w
 
 1337 India St, San Diego, CA 92101, San Diego
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*

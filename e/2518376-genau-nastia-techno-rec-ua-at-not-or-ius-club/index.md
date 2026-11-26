@@ -1,6 +1,6 @@
 # GENAU: Nastia (TECHNO Rec / UA) at not|or|ius Club
 
-GENAU: Nastia (TECHNO Rec / UA) at not|or|ius Club on Sat 12 Dec, Turin. 1 artist: Nastia. Techno. See the line-up on soundcheck.
+GENAU: Nastia (TECHNO Rec / UA) at not|or|ius Club on Sat 12 Dec, Turin. 2 artists: Gandalf and Nastia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GENAU: Nastia (TECHNO Rec / UA) at not|or|ius Club on Sat 12 Dec, Turin. 1 artis
 
 ## Line-up
 
+- Gandalf
 - Nastia
 
 *Source: [soundcheck](https://soundcheck.club/e/2518376-genau-nastia-techno-rec-ua-at-not-or-ius-club/)*

@@ -1,6 +1,6 @@
 # ✧ GROOVE SERVICE with ATOMIC PLAYBOY ✧ FREE ENTRY ✧ at The Buff Club
 
-✧ GROOVE SERVICE with ATOMIC PLAYBOY ✧ FREE ENTRY ✧ at The Buff Club on Fri 27 Nov, Glasgow. 1 artist: djsmuz. House and Disco. See the line-up on soundcheck.
+✧ GROOVE SERVICE with ATOMIC PLAYBOY ✧ FREE ENTRY ✧ at The Buff Club on Fri 27 Nov, Glasgow. 2 artists: Atomic Playboy and djsmuz. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Atomic Playboy
 - djsmuz
 
 *Source: [soundcheck](https://soundcheck.club/e/2575087-groove-service-with-atomic-playboy-free-entry-at-the-buff-cl/)*

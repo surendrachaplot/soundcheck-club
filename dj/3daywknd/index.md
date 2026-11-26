@@ -1,6 +1,6 @@
 # 3daywknd
 
-3daywknd is a Garage and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at De Fik Garden, Amsterdam on Fri, 18 Dec 2026.
+3daywknd is a Garage and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at De Fik Garden, Amsterdam on Fri, 18 Dec 2026.
 
 3daywknd is a garage and minimal techno artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam and Krakow. Often billed alongside JSPRV35 and SHE/HER. Next up: De Fik Garden, Amsterdam on Fri 18 Dec.
 
@@ -15,4 +15,4 @@
 
 JSPRV35, SHE/HER
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3daywknd/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3daywknd/)*

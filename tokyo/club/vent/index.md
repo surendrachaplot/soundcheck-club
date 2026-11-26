@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Giegling / Giegling Tokyo Residency Closing Party" on Fri, 27 Nov 2026.
+VENT is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Giegling / Giegling Tokyo Residency Closing Party" on Fri, 27 Nov 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including 50Minimals, AI, AKIRAM EN and Aldonna and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

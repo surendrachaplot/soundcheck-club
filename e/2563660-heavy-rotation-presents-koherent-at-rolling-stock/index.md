@@ -1,6 +1,6 @@
 # Heavy Rotation presents: Koherent at Rolling Stock
 
-Heavy Rotation presents: Koherent at Rolling Stock on Sat 5 Dec, London. 1 artist: Koherent. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Heavy Rotation presents: Koherent at Rolling Stock on Sat 5 Dec, London. 2 artists: BIG DRECO and Koherent. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Heavy Rotation presents: Koherent at Rolling Stock on Sat 5 Dec, London. 1 artis
 
 ## Line-up
 
+- BIG DRECO
 - Koherent
 
 *Source: [soundcheck](https://soundcheck.club/e/2563660-heavy-rotation-presents-koherent-at-rolling-stock/)*

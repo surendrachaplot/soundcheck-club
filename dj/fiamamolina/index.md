@@ -1,6 +1,6 @@
 # Fiama Molina
 
-Fiama Molina is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TCQ, Buenos Aires on Sat, 5 Dec 2026.
+Fiama Molina is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TCQ, Buenos Aires on Sat, 5 Dec 2026.
 
 Fiama Molina is a techno and acid artist based in Argentina, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 1 more. Often billed alongside Fiama, Josefina Muñoz and MYLAH. Next up: TCQ, Buenos Aires on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Fiama Molina is a techno and acid artist based in Argentina, with 26 gigs on sou
 
 Fiama, Josefina Muñoz, MYLAH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*

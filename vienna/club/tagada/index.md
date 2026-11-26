@@ -1,6 +1,6 @@
 # Tagada
 
-Tagada is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Patches" on Sat, 28 Nov 2026.
+Tagada is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Patches" on Sat, 28 Nov 2026.
 
 Tagada is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including dj ayran, Edictum, Fede Frostl and Julani and 2 more. See dates, start times and who's playing. Brunnengasse 76, 1160 Wien, Austria.
 
@@ -17,4 +17,4 @@ Tagada is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with li
 
 Brunnengasse 76, 1160 Wien, Austria, Vienna
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*

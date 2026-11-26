@@ -1,6 +1,6 @@
 # NEO CLUB ROMA
 
-NEO CLUB ROMA is a music venue in Rome with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "UP NEO vs OUR FRIDAY" on Fri, 27 Nov 2026.
+NEO CLUB ROMA is a music venue in Rome with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "UP NEO vs OUR FRIDAY" on Fri, 27 Nov 2026.
 
 NEO CLUB ROMA is a music venue in Rome listed on soundcheck. 5 upcoming gigs, with line-ups including Cristian Scaglione, Daniel Dee, David Easy and Flavio Rago and 2 more. See dates, start times and who's playing. Via degli Argonauti 18, 00154 Roma (RM), Italy.
 
@@ -18,4 +18,4 @@ NEO CLUB ROMA is a music venue in Rome listed on soundcheck. 5 upcoming gigs, wi
 
 Via degli Argonauti 18, 00154 Roma (RM), Italy, Rome
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/neo-club-roma/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/neo-club-roma/)*

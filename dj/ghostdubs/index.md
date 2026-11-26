@@ -1,6 +1,6 @@
 # Ghost Dubs
 
-Ghost Dubs is a Dub and Experimental artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Open Ground, Wuppertal on Sat, 28 Nov 2026.
+Ghost Dubs is a Dub and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Open Ground, Wuppertal on Sat, 28 Nov 2026.
 
 Ghost Dubs is a dub and experimental artist based in United Kingdom, with 28 gigs on soundcheck across Barcelona, Basel, Berlin and Brighton and 16 more. Often billed alongside The Bug, K Wata and Ayanna Heaven. Next up: Open Ground, Wuppertal on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Ghost Dubs is a dub and experimental artist based in United Kingdom, with 28 gig
 
 The Bug, K Wata, Ayanna Heaven
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostdubs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostdubs/)*

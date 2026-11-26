@@ -1,6 +1,6 @@
 # Fortune Sound Club
 
-Fortune Sound Club is a music venue in Vancouver with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "PROPAGATE PRES. BLAWAN (DJ SET)" on Thu, 26 Nov 2026.
+Fortune Sound Club is a music venue in Vancouver with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "PROPAGATE PRES. BLAWAN (DJ SET)" on Thu, 26 Nov 2026.
 
 Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 7 upcoming gigs, with line-ups including Baby Jane, Blawan, Frost Children and Lynnic. See dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
 
@@ -20,4 +20,4 @@ Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 7 upcomin
 
 147 East Pender St; Vancouver, BC V6A 1T6; Canada, Vancouver
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*

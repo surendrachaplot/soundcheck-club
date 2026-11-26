@@ -1,6 +1,6 @@
 # Laser
 
-Laser is a Techno and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 笹塚ボウル, Tokyo on Thu, 26 Nov 2026.
+Laser is a Techno and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 笹塚ボウル, Tokyo on Thu, 26 Nov 2026.
 
 Laser is a techno and hip-hop artist based in Italy, with 13 gigs on soundcheck across Kyoto, Milan, New York City and Osaka and 1 more. Often billed alongside GS Projekt, LØST and Yoshitaka Shirakura. Next up: 笹塚ボウル, Tokyo on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Laser is a techno and hip-hop artist based in Italy, with 13 gigs on soundcheck 
 
 GS Projekt, LØST, Yoshitaka Shirakura
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laser/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laser/)*

@@ -1,6 +1,6 @@
 # KLÖSS
 
-KLÖSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rex Club, Paris on Wed, 9 Dec 2026.
+KLÖSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Wed, 9 Dec 2026.
 
 KLÖSS is a techno and trance artist, with 6 gigs on soundcheck across Berlin, Paris and Vienna. Often billed alongside FC Kabagar, Amygdala and Annie. Next up: Rex Club, Paris on Wed 9 Dec.
 
@@ -22,4 +22,4 @@ KLÖSS is a techno and trance artist, with 6 gigs on soundcheck across Berlin, P
 
 FC Kabagar, Amygdala, Annie
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*

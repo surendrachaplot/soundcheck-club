@@ -1,6 +1,6 @@
 # Marcos (HH/FQR)
 
-Marcos (HH/FQR) is a House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
+Marcos (HH/FQR) is a House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
 
 Marcos (HH/FQR) is a house artist based in United Kingdom, with 3 gigs on soundcheck across Manchester. Often billed alongside Fastlove, Aiden Francis and Angel D'lite. Next up: The White Hotel, Manchester on Fri 27 Nov.
 
@@ -16,4 +16,4 @@ Marcos (HH/FQR) is a house artist based in United Kingdom, with 3 gigs on soundc
 
 Fastlove, Aiden Francis, Angel D'lite
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosuk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosuk/)*

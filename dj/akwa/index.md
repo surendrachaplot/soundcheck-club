@@ -1,6 +1,6 @@
 # AKWA
 
-AKWA is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
+AKWA is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
 
 AKWA is a house and disco artist based in Canada, with 48 gigs on soundcheck across Berlin, London, Montreal and New York City and 2 more. Often billed alongside TESFAY, Madelic and Andre Zimmer. Next up: Arch 14, London on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ AKWA is a house and disco artist based in Canada, with 48 gigs on soundcheck acr
 
 TESFAY, Madelic, Andre Zimmer
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*

@@ -1,6 +1,6 @@
 # kennino
 
-kennino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 8 Marvila, Lisbon on Tue, 1 Dec 2026.
+kennino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 8 Marvila, Lisbon on Tue, 1 Dec 2026.
 
 kennino is a techno and trance artist based in Philippines, with 28 gigs on soundcheck across Berlin, Lisbon and Milan. Often billed alongside DJ Yok, GADDAM and ophell. Next up: 8 Marvila, Lisbon on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ kennino is a techno and trance artist based in Philippines, with 28 gigs on soun
 
 DJ Yok, GADDAM, ophell
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennino/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennino/)*

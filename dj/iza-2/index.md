@@ -1,6 +1,6 @@
 # IZA (2)
 
-IZA (2) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Insomnia, Berlin on Sat, 5 Dec 2026.
+IZA (2) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Insomnia, Berlin on Sat, 5 Dec 2026.
 
 IZA is a techno and drum & bass artist based in Germany, with 9 gigs on soundcheck across Berlin, Brussels, Hamburg and Leipzig and 1 more. Often billed alongside Momo, Soft Bites and AALIYAH. Next up: Insomnia, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ IZA is a techno and drum & bass artist based in Germany, with 9 gigs on soundche
 
 Momo, Soft Bites, AALIYAH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*

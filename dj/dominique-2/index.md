@@ -1,6 +1,6 @@
 # Dominique (2)
 
-Dominique (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Madame Claude, Berlin on Sat, 12 Dec 2026.
+Dominique (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Madame Claude, Berlin on Sat, 12 Dec 2026.
 
 Dominique is an electronic artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Glasgow and New York City and 1 more. Often billed alongside AISHA, ASLO and Adrian Mills. Next up: Madame Claude, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Dominique is an electronic artist, with 9 gigs on soundcheck across Amsterdam, B
 
 AISHA, ASLO, Adrian Mills
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique-2/)*

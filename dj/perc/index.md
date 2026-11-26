@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Club Freedom, Av. Recoleta 345, Santiago on Fri, 4 Dec 2026.
+Perc is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Club Freedom, Av. Recoleta 345, Santiago on Fri, 4 Dec 2026.
 
 Perc is a techno and industrial artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 73 more. Often billed alongside Ansome, DAX J and Somniac One. Next up: TBA - Club Freedom, Av. Recoleta 345, Santiago on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Perc is a techno and industrial artist based in United Kingdom, with 192 gigs on
 
 Ansome, DAX J, Somniac One
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

@@ -1,6 +1,6 @@
 # Fotomatón bar
 
-Fotomatón bar is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ELEKTROKOHLE + SAD LANDS" on Sat, 5 Dec 2026.
+Fotomatón bar is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ELEKTROKOHLE + SAD LANDS" on Sat, 5 Dec 2026.
 
 Fotomatón bar is a music venue in Madrid listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Fotomatón bar is a music venue in Madrid listed on soundcheck. 2 upcoming gigs.
 | Sat, 5 Dec 2026 | ELEKTROKOHLE + SAD LANDS |  |
 | Sat, 16 Jan 2027 | MYNATIONSHIT + DJ SET: Andrés Noarbe & Aitor Arch |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fotomat-n-bar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fotomat-n-bar/)*

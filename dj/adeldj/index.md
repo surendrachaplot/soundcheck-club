@@ -1,6 +1,6 @@
 # Adel dj
 
-Adel dj is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tigullio, Malta on Sat, 28 Nov 2026.
+Adel dj is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tigullio, Malta on Sat, 28 Nov 2026.
 
 Adel dj is a progressive house and techno artist based in Egypt, with 16 gigs on soundcheck across Malta. Often billed alongside Praag, Abdy and Sercan Aslan. Next up: Tigullio, Malta on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Adel dj is a progressive house and techno artist based in Egypt, with 16 gigs on
 
 Praag, Abdy, Sercan Aslan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adeldj/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adeldj/)*

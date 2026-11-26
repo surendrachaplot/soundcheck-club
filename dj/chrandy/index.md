@@ -1,8 +1,8 @@
 # CHRANDY
 
-CHRANDY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Georgia Bar, Berlin on Thu, 26 Nov 2026.
+CHRANDY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Georgia Bar, Berlin on Thu, 26 Nov 2026.
 
-CHRANDY is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Doctora Amor, Agua con gas and Femur. Next up: Georgia Bar, Berlin on Thu 26 Nov.
+CHRANDY is a house and techno artist based in Germany, with 28 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Doctora Amor, Agua con gas and Femur. Next up: Georgia Bar, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CHRANDY is a house and techno artist based in Germany, with 27 gigs on soundchec
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Georgia Bar | Berlin |
 | Sat, 5 Dec 2026 | Renate | Berlin |
+| Sat, 6 Feb 2027 | Lark | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CHRANDY is a house and techno artist based in Germany, with 27 gigs on soundchec
 
 Doctora Amor, Agua con gas, Femur
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrandy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrandy/)*

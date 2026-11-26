@@ -1,6 +1,6 @@
 # Diva International
 
-Diva International is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
+Diva International is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
 
 Diva International is a house and techno artist based in Bulgaria, with 7 gigs on soundcheck across Berlin and Sofia. Often billed alongside 8-AN, Algorithm and BAHAA AL DEEN. Next up: AMT, Berlin on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Diva International is a house and techno artist based in Bulgaria, with 7 gigs o
 
 8-AN, Algorithm, BAHAA AL DEEN
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divainternational/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divainternational/)*

@@ -1,6 +1,6 @@
 # Cakebutcher
 
-Cakebutcher is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at MODULE, Copenhagen on Fri, 11 Dec 2026.
+Cakebutcher is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at MODULE, Copenhagen on Fri, 11 Dec 2026.
 
 Cakebutcher is a techno and trance artist based in Romania, with 15 gigs on soundcheck across Copenhagen. Often billed alongside Kardinal Bertram, LMN and steamboi. Next up: MODULE, Copenhagen on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Cakebutcher is a techno and trance artist based in Romania, with 15 gigs on soun
 
 Kardinal Bertram, LMN (1), steamboi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cakebutcher/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cakebutcher/)*

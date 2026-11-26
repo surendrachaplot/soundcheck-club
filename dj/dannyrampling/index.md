@@ -1,6 +1,6 @@
 # Danny Rampling
 
-Danny Rampling is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at SWG3, Glasgow on Sat, 13 Feb 2027.
+Danny Rampling is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at SWG3, Glasgow on Sat, 13 Feb 2027.
 
 Danny Rampling is a house and club artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Auckland, Brighton and Glasgow and 5 more. Often billed alongside Andy Baxter, Jason Bye and Tall Paul. Next up: SWG3, Glasgow on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Danny Rampling is a house and club artist based in United Kingdom, with 18 gigs 
 
 Andy Baxter, Jason Bye, Tall Paul
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrampling/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrampling/)*

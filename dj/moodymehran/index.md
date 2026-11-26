@@ -1,6 +1,6 @@
 # Moody Mehran
 
-Moody Mehran is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TivoliVredenburg, Utrecht on Sat, 5 Dec 2026.
+Moody Mehran is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TivoliVredenburg, Utrecht on Sat, 5 Dec 2026.
 
 Moody Mehran is a house and techno artist based in Netherlands, with 164 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 15 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: TivoliVredenburg, Utrecht on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Moody Mehran is a house and techno artist based in Netherlands, with 164 gigs on
 
 Lucky Done Gone, Tjade, Kyra Khaldi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*

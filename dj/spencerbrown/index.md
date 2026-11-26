@@ -1,8 +1,8 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 4 Dec 2026.
+Spencer Brown is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 4 Dec 2026.
 
-Spencer Brown is a progressive house and house artist based in United States of America, with 98 gigs on soundcheck across Adelaide, Austin, Berlin and Boston and 31 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: The XOX Arena Arch Galeries, Kuala Lumpur on Fri 4 Dec.
+Spencer Brown is a progressive house and house artist based in United States of America, with 99 gigs on soundcheck across Adelaide, Austin, Berlin and Boston and 31 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: The XOX Arena Arch Galeries, Kuala Lumpur on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Spencer Brown is a progressive house and house artist based in United States of 
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | The XOX Arena Arch Galeries | Kuala Lumpur |
 | Sat, 5 Dec 2026 | Pasir Panjang Power Station | Singapore |
+| Sat, 16 Jan 2027 | Public Works | San Francisco/Oakland |
 | Fri, 22 Jan 2027 | SILO | New York City |
 | Sat, 6 Feb 2027 | Concord Music Hall | Chicago |
 | Fri, 26 Feb 2027 | Demo Room | Toronto |
@@ -29,4 +30,4 @@ Spencer Brown is a progressive house and house artist based in United States of 
 
 Qrion, John Digweed, Jody Wisternoff
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*

@@ -1,6 +1,6 @@
 # Louisahhh
 
-Louisahhh is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sleeping Village, Chicago on Thu, 21 Jan 2027.
+Louisahhh is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sleeping Village, Chicago on Thu, 21 Jan 2027.
 
 Louisahhh is a techno and electro artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 12 more. Often billed alongside Maëlstrom, Lewis G. Burton and Wax Wings. Next up: Sleeping Village, Chicago on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Louisahhh is a techno and electro artist based in United States of America, with
 
 Maëlstrom, Lewis G. Burton, Wax Wings
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*

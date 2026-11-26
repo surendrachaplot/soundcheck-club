@@ -1,14 +1,15 @@
 # DJ Three
 
-DJ Three is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+DJ Three is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
-DJ Three is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Austin, Detroit and Houston and 7 more. Often billed alongside Öona Dahl, Brian Busto and Grumptronix. Next up: The Castle, Tampa Bay on Sat 12 Dec.
+DJ Three is a house and techno artist based in United States of America, with 49 gigs on soundcheck across Atlanta, Austin, Detroit and Houston and 7 more. Often billed alongside Öona Dahl, Brian Busto and Grumptronix. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | The Castle | Tampa Bay |
+| Fri, 1 Jan 2027 | Refuge | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Three is a house and techno artist based in United States of America, with 48
 
 Öona Dahl, Brian Busto, Grumptronix
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*

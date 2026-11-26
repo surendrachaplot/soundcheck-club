@@ -1,6 +1,6 @@
 # Weiss
 
-Weiss is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hotel Steyne, Sydney on Fri, 1 Jan 2027.
+Weiss is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hotel Steyne, Sydney on Fri, 1 Jan 2027.
 
 Weiss is a house and tech house artist based in United Kingdom, with 25 gigs on soundcheck across Adelaide, Auckland, Brisbane and Dublin and 14 more. Often billed alongside Doorly, Dusky and Yamariki. Next up: Hotel Steyne, Sydney on Fri 1 Jan.
 
@@ -27,4 +27,4 @@ Weiss is a house and tech house artist based in United Kingdom, with 25 gigs on 
 
 Doorly, Dusky, Yamariki
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*

@@ -1,8 +1,8 @@
 # Kris Guilty
 
-Kris Guilty is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Système, Montreal on Fri, 4 Dec 2026.
+Kris Guilty is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Système, Montreal on Fri, 4 Dec 2026.
 
-Kris Guilty is a house and techno artist based in Canada, with 76 gigs on soundcheck across Montreal, New York City, Paris and Toronto. Often billed alongside Guthrie, Gene Tellem and Walla P. Next up: Système, Montreal on Fri 4 Dec.
+Kris Guilty is a house and techno artist based in Canada, with 77 gigs on soundcheck across Montreal, New York City, Paris and Toronto. Often billed alongside Guthrie, Gene Tellem and DJ Hidi. Next up: Système, Montreal on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kris Guilty is a house and techno artist based in Canada, with 76 gigs on soundc
 | Fri, 4 Dec 2026 | Système | Montreal |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
+| Sun, 13 Dec 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Kris Guilty is a house and techno artist based in Canada, with 76 gigs on soundc
 
 ## Shares bills with
 
-Guthrie, Gene Tellem, Walla P
+Guthrie, Gene Tellem, DJ Hidi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krisguilty/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krisguilty/)*

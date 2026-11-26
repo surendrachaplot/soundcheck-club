@@ -1,13 +1,14 @@
 # Viktoria Spielmann
 
-Viktoria Spielmann is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at MUENZE, Berlin on Wed, 30 Dec 2026.
+Viktoria Spielmann is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OIL Club, Shenzhen on Sat, 12 Dec 2026.
 
-Viktoria Spielmann is a techno and electronica artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Hannover and Kassel and 5 more. Often billed alongside future.666, AEREA and DJ Cringey. Next up: MUENZE, Berlin on Wed 30 Dec.
+Viktoria Spielmann is a techno and electronica artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Hannover and Kassel and 6 more. Often billed alongside future.666, FILTRACK and AEREA. Next up: OIL Club, Shenzhen on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | OIL Club | Shenzhen |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 | Sat, 27 Mar 2027 | RSO.BERLIN | Berlin |
 
@@ -24,6 +25,6 @@ Viktoria Spielmann is a techno and electronica artist based in Germany, with 24 
 
 ## Shares bills with
 
-future.666, AEREA, DJ Cringey
+future.666, FILTRACK, AEREA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*

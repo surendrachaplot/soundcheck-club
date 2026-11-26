@@ -1,13 +1,14 @@
 # fernanDITO
 
-fernanDITO is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Metropolitan Bar, New York City on Fri, 18 Dec 2026.
+fernanDITO is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Animal, New York City on Sat, 28 Nov 2026.
 
-fernanDITO is a house and italo disco artist based in United States of America, with 24 gigs on soundcheck across Melbourne and New York City. Often billed alongside SPRFRK, Kandylion and AC_LOVE. Next up: Metropolitan Bar, New York City on Fri 18 Dec.
+fernanDITO is a house and italo disco artist based in United States of America, with 25 gigs on soundcheck across Melbourne and New York City. Often billed alongside SPRFRK, Kandylion and AC_LOVE. Next up: Animal, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Animal | New York City |
 | Fri, 18 Dec 2026 | Metropolitan Bar | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ fernanDITO is a house and italo disco artist based in United States of America, 
 
 SPRFRK, Kandylion, AC_LOVE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandito/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandito/)*

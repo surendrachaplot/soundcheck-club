@@ -1,17 +1,18 @@
 # Yang (VN)
 
-Yang (VN) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Unmute, Hanoi on Fri, 20 Nov 2026.
+Yang (VN) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Unmute, Hanoi on Sat, 5 Dec 2026.
 
-Yang (VN) is a techno and house artist based in Vietnam, with 48 gigs on soundcheck across Hanoi. Often billed alongside CONG, Kway and dMb (VN). Next up: Unmute, Hanoi on Fri 20 Nov.
+Yang (VN) is a techno and house artist based in Vietnam, with 49 gigs on soundcheck across Hanoi. Often billed alongside CONG, Kway and dMb (VN). Next up: Unmute, Hanoi on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Unmute | Hanoi |
+| Sat, 5 Dec 2026 | Unmute | Hanoi |
 
 ## Recently played
 
+- Unmute, Hanoi · Fri, 20 Nov 2026
 - Factory 47, Hanoi · Sat, 31 Oct 2026
 - Factory 47, Hanoi · Sat, 19 Sept 2026
 - Factory 47, Hanoi · Fri, 24 Jul 2026
@@ -19,10 +20,9 @@ Yang (VN) is a techno and house artist based in Vietnam, with 48 gigs on soundch
 - Unmute, Hanoi · Fri, 24 Apr 2026
 - Unmute, Hanoi · Sat, 21 Mar 2026
 - Unmute, Hanoi · Thu, 19 Feb 2026
-- Unmute, Hanoi · Sat, 24 Jan 2026
 
 ## Shares bills with
 
 CONG, Kway, dMb (VN)
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yang-vn/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yang-vn/)*

@@ -1,6 +1,6 @@
 # Caro van Ee
 
-Caro van Ee is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Open Beatz Festival, Bavaria on Fri, 23 Jul 2027.
+Caro van Ee is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Open Beatz Festival, Bavaria on Fri, 23 Jul 2027.
 
 Caro van Ee is a trance and electro artist, with 5 gigs on soundcheck across Bavaria, Berlin, Cologne and Dresden and 1 more. Often billed alongside Paraçek, 3LEEZA and Ave (DE). Next up: Open Beatz Festival, Bavaria on Fri 23 Jul.
 
@@ -21,4 +21,4 @@ Caro van Ee is a trance and electro artist, with 5 gigs on soundcheck across Bav
 
 Paraçek, 3LEEZA, Ave (DE)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carovanee/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carovanee/)*

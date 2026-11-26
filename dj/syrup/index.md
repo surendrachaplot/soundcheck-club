@@ -1,8 +1,8 @@
 # Syrup
 
-Syrup is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Glamorama, Melbourne on Fri, 27 Nov 2026.
+Syrup is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Glamorama, Melbourne on Fri, 27 Nov 2026.
 
-Syrup is a garage and house artist based in Australia, with 5 gigs on soundcheck across Melbourne. Often billed alongside Mike Callander, Acid Safari and BETHANY. Next up: Glamorama, Melbourne on Fri 27 Nov.
+Syrup is a garage and house artist based in Australia, with 5 gigs on soundcheck across Melbourne. Often billed alongside Mike Callander, Acid Safari and Bby Cass. Next up: Glamorama, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Syrup is a garage and house artist based in Australia, with 5 gigs on soundcheck
 
 ## Shares bills with
 
-Mike Callander, Acid Safari, BETHANY (1)
+Mike Callander, Acid Safari, Bby Cass
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup/)*

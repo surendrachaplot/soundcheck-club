@@ -1,6 +1,6 @@
 # Manuel Carbone
 
-Manuel Carbone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Madame Claude, Berlin on Mon, 30 Nov 2026.
+Manuel Carbone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Madame Claude, Berlin on Mon, 30 Nov 2026.
 
 Manuel Carbone is an experimental and ambient artist based in Italy, with 7 gigs on soundcheck across Berlin. Often billed alongside Airaboi, Harp-a and Lutz Gallmeister. Next up: Madame Claude, Berlin on Mon 30 Nov.
 
@@ -23,4 +23,4 @@ Manuel Carbone is an experimental and ambient artist based in Italy, with 7 gigs
 
 Airaboi, Harp-a, Lutz Gallmeister
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcarbone/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcarbone/)*

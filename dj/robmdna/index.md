@@ -1,6 +1,6 @@
 # Rob Mdna
 
-Rob Mdna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at El Viajero Las Palmas, Canary-islands on Thu, 26 Nov 2026.
+Rob Mdna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at El Viajero Las Palmas, Canary-islands on Thu, 26 Nov 2026.
 
 Rob Mdna is a techno and trance artist based in Spain, with 22 gigs on soundcheck across Canary Islands and Copenhagen. Often billed alongside Divad Yaya, Ama Lien and Dingo Tracks. Next up: El Viajero Las Palmas, Canary Islands on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Rob Mdna is a techno and trance artist based in Spain, with 22 gigs on soundchec
 
 Divad Yaya, Ama Lien, Dingo Tracks
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robmdna/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robmdna/)*

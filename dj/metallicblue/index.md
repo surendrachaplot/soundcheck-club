@@ -1,6 +1,6 @@
 # Metallicblue
 
-Metallicblue is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mastak, Warsaw on Sun, 20 Dec 2026.
+Metallicblue is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mastak, Warsaw on Sun, 20 Dec 2026.
 
 Metallicblue is an experimental and electronica artist, with 8 gigs on soundcheck across Warsaw. Often billed alongside Body Marcus, Puha and Samogulov. Next up: Mastak, Warsaw on Sun 20 Dec.
 
@@ -24,4 +24,4 @@ Metallicblue is an experimental and electronica artist, with 8 gigs on soundchec
 
 Body Marcus, Puha, Samogulov
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metallicblue/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metallicblue/)*

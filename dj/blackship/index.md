@@ -1,6 +1,6 @@
 # Blackship
 
-Blackship is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at R Lounge, Tokyo on Fri, 1 Jan 2027.
+Blackship is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at R Lounge, Tokyo on Fri, 1 Jan 2027.
 
 Blackship is a techno and house artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside Drunken Kong, U:ICHI and AHREUM. Next up: R Lounge, Tokyo on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Blackship is a techno and house artist based in Japan, with 30 gigs on soundchec
 
 Drunken Kong, U:ICHI, AHREUM
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackship/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackship/)*

@@ -1,8 +1,8 @@
 # Fabio Santos
 
-Fabio Santos is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TESTBED, Leeds on Fri, 27 Nov 2026.
+Fabio Santos is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TESTBED, Leeds on Fri, 27 Nov 2026.
 
-Fabio Santos is a house and garage artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Berlin, Bristol and Leeds and 4 more. Often billed alongside Michel de Hey, Luis Ripa and AAT (NL). Next up: TESTBED, Leeds on Fri 27 Nov.
+Fabio Santos is a house and garage artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Berlin, Bristol and Leeds and 5 more. Often billed alongside Michel de Hey, Luis Ripa and AAT (NL). Next up: TESTBED, Leeds on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Fabio Santos is a house and garage artist based in Netherlands, with 37 gigs on 
 | Sat, 12 Dec 2026 | Renate | Berlin |
 | Sat, 19 Dec 2026 | Inter-City | The Hague |
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
+| Fri, 1 Jan 2027 | XOYO | London |
 | Sat, 6 Feb 2027 | Now&Wow | Rotterdam |
 
 ## Recently played
@@ -30,4 +31,4 @@ Fabio Santos is a house and garage artist based in Netherlands, with 37 gigs on 
 
 Michel de Hey, Luis Ripa, AAT (NL)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*

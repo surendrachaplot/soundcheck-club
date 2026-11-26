@@ -1,14 +1,15 @@
 # ZE:NA
 
-ZE:NA is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+ZE:NA is a Bass and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
-ZE:NA is a bass and downtempo artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London. Often billed alongside PJ Bridger, Distal_ and zunz. Next up: Kater, Berlin on Sat 28 Nov.
+ZE:NA is a bass and downtempo artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London. Often billed alongside PJ Bridger, Distal_ and zunz. Next up: Kater, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Kater | Berlin |
+| Sat, 28 Nov 2026 | ciao ciao Bar | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ZE:NA is a bass and downtempo artist based in United Kingdom, with 36 gigs on so
 
 PJ Bridger, Distal_, zunz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*

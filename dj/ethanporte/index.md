@@ -1,6 +1,6 @@
 # Ethan Porte
 
-Ethan Porte is a R&B and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 28 Nov 2026.
+Ethan Porte is a R&B and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 28 Nov 2026.
 
 Ethan Porte is a r&b and afro house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside European 305, Miamor and Afroasis. Next up: Setlist @ Somerset House, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Ethan Porte is a r&b and afro house artist based in United Kingdom, with 6 gigs 
 
 European 305, Miamor, Afroasis
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanporte/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanporte/)*

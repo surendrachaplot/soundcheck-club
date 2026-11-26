@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 15 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Kardinal Bertram / steamboi / LMN + SoundConnects 3rd Birthday" on Fri, 27 Nov 2026.
+Culture Box is a music venue in Copenhagen with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Kardinal Bertram / steamboi / LMN + SoundConnects 3rd Birthday" on Fri, 27 Nov 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 15 upcoming gigs, with line-ups including Aerocell, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming gigs, with line-ups including Aerocell, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 15 upcoming gig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

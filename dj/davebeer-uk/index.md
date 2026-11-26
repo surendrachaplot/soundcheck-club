@@ -1,6 +1,6 @@
 # Dave Beer
 
-Dave Beer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
+Dave Beer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
 
 Dave Beer is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Ibiza, Leeds and Manchester. Often billed alongside Frenchy, James Holroyd and Killa P. Next up: Mint Warehouse, Leeds on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dave Beer is a house and tech house artist based in United Kingdom, with 11 gigs
 
 Frenchy, James Holroyd, Killa P
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davebeer-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davebeer-uk/)*

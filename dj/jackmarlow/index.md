@@ -1,6 +1,6 @@
 # JACK MARLOW
 
-JACK MARLOW is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Sound House, Dublin on Fri, 4 Dec 2026.
+JACK MARLOW is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Sound House, Dublin on Fri, 4 Dec 2026.
 
 JACK MARLOW is a garage and house artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Boston, Brighton and Brisbane and 20 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: The Sound House, Dublin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ JACK MARLOW is a garage and house artist based in United Kingdom, with 58 gigs o
 
 GEE LEE, Lemtom, salameh
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*

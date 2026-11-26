@@ -1,6 +1,6 @@
 # DANNY G LUVS U
 
-DANNY G LUVS U is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Los Angeles on Sun, 29 Nov 2026.
+DANNY G LUVS U is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Los Angeles on Sun, 29 Nov 2026.
 
 DANNY G LUVS U is a house and techno artist based in United States of America, with 5 gigs on soundcheck across Los Angeles. Often billed alongside Lily Ardalan, AMANTE and DJ LIGMA. Next up: TBA, Los Angeles on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ DANNY G LUVS U is a house and techno artist based in United States of America, w
 
 Lily Ardalan, AMANTE, DJ LIGMA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygluvsu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygluvsu/)*

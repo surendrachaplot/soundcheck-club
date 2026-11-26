@@ -1,13 +1,14 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 19 Dec 2026.
+Avangart Tabldot is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
 
-Avangart Tabldot is a house and afro house artist based in Turkey, with 103 gigs on soundcheck across Amsterdam, Athens, Azerbaijan and Barcelona and 29 more. Often billed alongside Mahmut Orhan, Echonomist and Henri Bergmann. Next up: Bohemia Beach Club, Dubai on Sat 19 Dec.
+Avangart Tabldot is a house and afro house artist based in Turkey, with 104 gigs on soundcheck across Amsterdam, Athens, Azerbaijan and Barcelona and 29 more. Often billed alongside Mahmut Orhan, Echonomist and Henri Bergmann. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 9 Dec 2026 | Zorlu Performans Sanatları Merkezi | Istanbul |
 | Sat, 19 Dec 2026 | Bohemia Beach Club | Dubai |
 | Sat, 23 Jan 2027 | Shahdag Main Plaza | Azerbaijan |
 
@@ -26,4 +27,4 @@ Avangart Tabldot is a house and afro house artist based in Turkey, with 103 gigs
 
 Mahmut Orhan, Echonomist, Henri Bergmann
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*

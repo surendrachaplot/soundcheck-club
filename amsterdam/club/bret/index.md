@@ -1,8 +1,8 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Sam Hofman (3hrs) with Fendi, Kara Okay B2B Freddi" on Fri, 27 Nov 2026.
+BRET is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sam Hofman (3hrs) with Fendi, Kara Okay B2B Freddi" on Fri, 27 Nov 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Maqossa, Al Ex, Alex Dima and Alexia Glensy and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Maqossa, Al Ex, Alex Dima and Alexia Glensy and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
@@ -17,10 +17,10 @@ BRET is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with 
 | Sun, 6 Dec 2026 | ALARICO PRES. FLIRT SHOWCASE |  |
 | Fri, 11 Dec 2026 | ØTTA HOTTIES Album Tour | Ketarina, Serafina, lizaliza, ØTTA |
 | Sat, 12 Dec 2026 | One Eye Witness | Evan Baggs, Hylke |
-| Fri, 18 Dec 2026 | Maat Sound | Hannecart, Morgan, Vinz Sosa |
+| Sun, 13 Dec 2026 | Syntax Error x BRET: From Dub Til Dawn |  |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

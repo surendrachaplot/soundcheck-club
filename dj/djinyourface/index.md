@@ -1,6 +1,6 @@
 # DJ InYourFace
 
-DJ InYourFace is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 12 Dec 2026.
+DJ InYourFace is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 12 Dec 2026.
 
 DJ InYourFace is an acid and techno artist based in Canada, with 37 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Dj Sarcastic, Icky Magdala and Joss DeWitt. Next up: Bar Le Ritz PDB, Montreal on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ InYourFace is an acid and techno artist based in Canada, with 37 gigs on soun
 
 Dj Sarcastic, Icky Magdala, Joss DeWitt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djinyourface/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djinyourface/)*

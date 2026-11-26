@@ -1,6 +1,6 @@
 # Gebrüder Teichmann
 
-Gebrüder Teichmann is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fame - des Katers Kantine, Berlin on Fri, 11 Dec 2026.
+Gebrüder Teichmann is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fame - des Katers Kantine, Berlin on Fri, 11 Dec 2026.
 
 Gebrüder Teichmann is an experimental and techno artist based in Germany, with 18 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Jackbox, S-max and Raymond Ernst. Next up: Fame - des Katers Kantine, Berlin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Gebrüder Teichmann is an experimental and techno artist based in Germany, with 
 
 Jackbox, S-max, Raymond Ernst
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gebruderteichmann/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gebruderteichmann/)*

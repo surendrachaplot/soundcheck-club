@@ -1,6 +1,6 @@
 # 4NOUK
 
-4NOUK is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+4NOUK is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 4NOUK is a trance and techno artist based in Germany, with 59 gigs on soundcheck across Berlin. Often billed alongside Amo (IT), Hanne B and Bruno Brero. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@
 
 Amo (IT), Hanne B, Bruno Brero
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4nouk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4nouk/)*

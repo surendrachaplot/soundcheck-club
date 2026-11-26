@@ -1,13 +1,14 @@
 # Khainz
 
-Khainz is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Halfmoon Festival Koh Pha-Nang, Thailand on Wed, 10 Feb 2027.
+Khainz is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mesones 72, Mexico City on Sat, 30 Jan 2027.
 
-Khainz is a techno and tech house artist based in Switzerland, with 22 gigs on soundcheck across Amsterdam, Bergen, Berlin and Bern and 12 more. Often billed alongside Einmusik, 9OASES and Avocado. Next up: Halfmoon Festival Koh Pha-Nang, Thailand on Wed 10 Feb.
+Khainz is a techno and tech house artist based in Switzerland, with 23 gigs on soundcheck across Amsterdam, Bergen, Berlin and Bern and 12 more. Often billed alongside Einmusik, 9OASES and Avocado. Next up: Mesones 72, Mexico City on Sat 30 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 30 Jan 2027 | Mesones 72 | Mexico City |
 | Wed, 10 Feb 2027 | Halfmoon Festival Koh Pha-Nang | Thailand |
 
 ## Recently played
@@ -25,4 +26,4 @@ Khainz is a techno and tech house artist based in Switzerland, with 22 gigs on s
 
 Einmusik, 9OASES, Avocado
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khainz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khainz/)*

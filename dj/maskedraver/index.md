@@ -1,6 +1,6 @@
 # Masked raver
 
-Masked raver is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Levu VIP, Mexico City on Sat, 28 Nov 2026.
+Masked raver is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Levu VIP, Mexico City on Sat, 28 Nov 2026.
 
 Masked raver is a techno and industrial artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside Botelo, Fuckboyzo and Mademoiselle Chérie. Next up: Levu VIP, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Masked raver is a techno and industrial artist based in Mexico, with 10 gigs on 
 
 Botelo, Fuckboyzo, Mademoiselle Chérie
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maskedraver/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maskedraver/)*

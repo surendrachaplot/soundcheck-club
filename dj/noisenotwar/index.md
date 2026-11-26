@@ -1,6 +1,6 @@
 # Noise Not War
 
-Noise Not War is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Schrotty, Cologne on Fri, 27 Nov 2026.
+Noise Not War is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Schrotty, Cologne on Fri, 27 Nov 2026.
 
 Noise Not War is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bochum and 21 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: Schrotty, Cologne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Noise Not War is a techno and trance artist based in Germany, with 64 gigs on so
 
 Death of Mars, Filialleiter, SIKXTO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*

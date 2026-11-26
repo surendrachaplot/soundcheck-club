@@ -1,6 +1,6 @@
 # MOAH
 
-MOAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cakeshop, Seoul on Sat, 5 Dec 2026.
+MOAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cakeshop, Seoul on Sat, 5 Dec 2026.
 
 MOAH is a techno and house artist based in South Korea, with 16 gigs on soundcheck across Bangkok and Seoul. Often billed alongside lucii, Hogun and Hwiah. Next up: Cakeshop, Seoul on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MOAH is a techno and house artist based in South Korea, with 16 gigs on soundche
 
 lucii, Hogun, Hwiah
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moah/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moah/)*

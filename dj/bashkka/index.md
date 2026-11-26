@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 27 Nov 2026.
+BASHKKA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 27 Nov 2026.
 
 BASHKKA is a techno and house artist based in Germany, with 334 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 71 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Abercrombie Hotel, Sydney on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ BASHKKA is a techno and house artist based in Germany, with 334 gigs on soundche
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

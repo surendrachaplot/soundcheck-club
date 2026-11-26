@@ -1,6 +1,6 @@
 # Fasega
 
-Fasega is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Timebar, Stockholm on Fri, 4 Dec 2026.
+Fasega is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Timebar, Stockholm on Fri, 4 Dec 2026.
 
 Fasega is a house and techno artist based in Sweden, with 9 gigs on soundcheck across Stockholm. Often billed alongside SZSA, Claire Hardman and MarcoPellegrino. Next up: Timebar, Stockholm on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Fasega is a house and techno artist based in Sweden, with 9 gigs on soundcheck a
 
 SZSA, Claire Hardman, MarcoPellegrino
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasega/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasega/)*

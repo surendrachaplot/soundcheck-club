@@ -1,6 +1,6 @@
 # BODII
 
-BODII is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
+BODII is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
 
 BODII is a house and hip-hop artist based in United States of America, with 28 gigs on soundcheck across Los Angeles. Often billed alongside Terrell Brooke, DeFacto X and Shaun Ross. Next up: Say Yes, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BODII is a house and hip-hop artist based in United States of America, with 28 g
 
 Terrell Brooke, DeFacto X, Shaun Ross
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodii/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodii/)*

@@ -1,6 +1,6 @@
 # Glaskeen
 
-Glaskeen is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at CCO La Rayonne, Lyon on Thu, 31 Dec 2026.
+Glaskeen is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at CCO La Rayonne, Lyon on Thu, 31 Dec 2026.
 
 Glaskeen is a techno and hardcore artist based in France, with 8 gigs on soundcheck across Lille, Lyon, Paris and Toulouse. Often billed alongside Istigkeit, 2HOT2PLAY and AREA ØNE. Next up: CCO La Rayonne, Lyon on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Glaskeen is a techno and hardcore artist based in France, with 8 gigs on soundch
 
 Istigkeit, 2HOT2PLAY, AREA ØNE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*

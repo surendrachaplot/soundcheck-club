@@ -1,6 +1,6 @@
 # Waffles Kru
 
-Waffles Kru is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Brasserie de la Mule, Brussels on Sat, 5 Dec 2026.
+Waffles Kru is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Brasserie de la Mule, Brussels on Sat, 5 Dec 2026.
 
 Waffles Kru is a bass and breakbeat artist based in Belgium, with 12 gigs on soundcheck across Brussels and Lisbon. Often billed alongside La Dame, Mambele and Chris Youké. Next up: Brasserie de la Mule, Brussels on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Waffles Kru is a bass and breakbeat artist based in Belgium, with 12 gigs on sou
 
 La Dame, Mambele, Chris Youké
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waffleskru/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waffleskru/)*

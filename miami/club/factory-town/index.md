@@ -1,6 +1,6 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Factory Basel" on Wed, 2 Dec 2026.
+Factory Town is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Factory Basel" on Wed, 2 Dec 2026.
 
 Factory Town is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with line-ups including FLETCH, Paula Tape, Yulia Niko and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
@@ -23,4 +23,4 @@ Factory Town is a music venue in Miami listed on soundcheck. 11 upcoming gigs, w
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

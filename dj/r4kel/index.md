@@ -1,6 +1,6 @@
 # R4KEL
 
-R4KEL is a Rio Funk and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ministerium Club, Lisbon on Mon, 30 Nov 2026.
+R4KEL is a Rio Funk and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministerium Club, Lisbon on Mon, 30 Nov 2026.
 
 R4KEL is a rio funk and r&b artist based in Portugal, with 8 gigs on soundcheck across Lisbon. Often billed alongside ADAME (MX), DarkSunn and GAVI. Next up: Ministerium Club, Lisbon on Mon 30 Nov.
 
@@ -24,4 +24,4 @@ R4KEL is a rio funk and r&b artist based in Portugal, with 8 gigs on soundcheck 
 
 ADAME (MX), DarkSunn, GAVI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r4kel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r4kel/)*

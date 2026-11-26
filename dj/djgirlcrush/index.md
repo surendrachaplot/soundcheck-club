@@ -1,6 +1,6 @@
 # DJ girlcrush
 
-DJ girlcrush is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Honey's, New York City on Tue, 1 Dec 2026.
+DJ girlcrush is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Honey's, New York City on Tue, 1 Dec 2026.
 
 DJ girlcrush is a techno and house artist based in United States of America, with 50 gigs on soundcheck across New York City. Often billed alongside Kristen London, CMD+JAZMINE and Cryostatik. Next up: Honey's, New York City on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ DJ girlcrush is a techno and house artist based in United States of America, wit
 
 Kristen London, CMD+JAZMINE, Cryostatik
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirlcrush/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirlcrush/)*

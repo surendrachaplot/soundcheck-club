@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "CLUB Y2K" on Sat, 28 Nov 2026.
+Garagen is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "CLUB Y2K" on Sat, 28 Nov 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with line-ups including Aura, Gourski, ICX (DE) and localgingerbitch and 2 more. See dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -17,4 +17,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with 
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

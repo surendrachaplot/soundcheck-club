@@ -1,6 +1,6 @@
 # Blawan
 
-Blawan is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fortune Sound Club, Vancouver on Thu, 26 Nov 2026.
+Blawan is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fortune Sound Club, Vancouver on Thu, 26 Nov 2026.
 
 Blawan is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Helena Hauff, upsammy and JakoJako. Next up: Fortune Sound Club, Vancouver on Thu 26 Nov.
 
@@ -34,4 +34,4 @@ Blawan is a techno and house artist based in United Kingdom, with 178 gigs on so
 
 Helena Hauff, upsammy, JakoJako
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*

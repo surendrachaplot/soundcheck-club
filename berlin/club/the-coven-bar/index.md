@@ -1,6 +1,6 @@
 # The Coven Bar
 
-The Coven Bar is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bad Decisions" on Wed, 30 Dec 2026.
+The Coven Bar is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Bad Decisions" on Wed, 30 Dec 2026.
 
 The Coven Bar is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Coven Bar is a music venue in Berlin listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Wed, 30 Dec 2026 | Bad Decisions |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-coven-bar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-coven-bar/)*

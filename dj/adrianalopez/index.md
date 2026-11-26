@@ -1,6 +1,6 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
+Adriana Lopez is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
 Adriana Lopez is a techno and house artist based in Colombia, with 172 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Oscar Mulero, Dasha Rush and Setaoc Mass. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
@@ -31,4 +31,4 @@ Adriana Lopez is a techno and house artist based in Colombia, with 172 gigs on s
 
 Oscar Mulero, Dasha Rush, Setaoc Mass
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

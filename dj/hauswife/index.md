@@ -1,17 +1,18 @@
 # HAUSWiFE
 
-HAUSWiFE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Glamorama, Melbourne on Sat, 21 Nov 2026.
+HAUSWiFE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Coil, Melbourne on Fri, 27 Nov 2026.
 
-HAUSWiFE is a house and techno artist based in Australia, with 120 gigs on soundcheck across Bangkok, Bristol, Melbourne and San Francisco/Oakland and 1 more. Often billed alongside Mitch Tonta, JOVE and Joey Coco. Next up: Glamorama, Melbourne on Sat 21 Nov.
+HAUSWiFE is a house and techno artist based in Australia, with 121 gigs on soundcheck across Bangkok, Bristol, Melbourne and San Francisco/Oakland and 1 more. Often billed alongside Mitch Tonta, JOVE and Joey Coco. Next up: Coil, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Glamorama | Melbourne |
+| Fri, 27 Nov 2026 | Coil | Melbourne |
 
 ## Recently played
 
+- Glamorama, Melbourne · Sat, 21 Nov 2026
 - My Aeon, Melbourne · Sat, 31 Oct 2026
 - New Guernica, Melbourne · Thu, 29 Oct 2026
 - Howler, Melbourne · Sun, 25 Oct 2026
@@ -19,10 +20,9 @@ HAUSWiFE is a house and techno artist based in Australia, with 120 gigs on sound
 - Glamorama, Melbourne · Sat, 5 Sept 2026
 - New Guernica, Melbourne · Thu, 30 Jul 2026
 - New Guernica, Melbourne · Thu, 23 Jul 2026
-- Glamorama, Melbourne · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Mitch Tonta, JOVE, Joey Coco
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*

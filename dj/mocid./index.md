@@ -1,6 +1,6 @@
 # MOCID.
 
-MOCID. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Auro Kitchen and Bar, Delhi on Thu, 26 Nov 2026.
+MOCID. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Auro Kitchen and Bar, Delhi on Thu, 26 Nov 2026.
 
 MOCID. is a house and techno artist based in India, with 5 gigs on soundcheck across Bangkok, Delhi and Other Regions. Often billed alongside .g (TH), ANSWER (IN) and Aiden Francis. Next up: Auro Kitchen and Bar, Delhi on Thu 26 Nov.
 
@@ -21,4 +21,4 @@ MOCID. is a house and techno artist based in India, with 5 gigs on soundcheck ac
 
 .g (TH), ANSWER (IN), Aiden Francis
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocid./)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocid./)*

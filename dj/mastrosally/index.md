@@ -1,6 +1,6 @@
 # Mastro Sally
 
-Mastro Sally is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sky Sinner, Barcelona on Fri, 4 Dec 2026.
+Mastro Sally is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sky Sinner, Barcelona on Fri, 4 Dec 2026.
 
 Mastro Sally is a tech house and house artist based in Italy, with 16 gigs on soundcheck across Barcelona. Often billed alongside Mario Chicoli, Vinz (ITA) and Babo. Next up: Sky Sinner, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mastro Sally is a tech house and house artist based in Italy, with 16 gigs on so
 
 Mario Chicoli, Vinz (ITA), Babo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mastrosally/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mastrosally/)*

@@ -1,6 +1,6 @@
 # Venus Flytrap (2)
 
-Venus Flytrap (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Angel Music Bar, Melbourne on Sun, 29 Nov 2026.
+Venus Flytrap (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Angel Music Bar, Melbourne on Sun, 29 Nov 2026.
 
 Venus Flytrap is a techno and house artist based in China, with 40 gigs on soundcheck across Berlin, Melbourne, Shanghai and Shenzhen. Often billed alongside Paper-Cuts, Pjenné and Hybrid Man. Next up: Angel Music Bar, Melbourne on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Venus Flytrap is a techno and house artist based in China, with 40 gigs on sound
 
 Paper-Cuts, Pjenné, Hybrid Man
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytrap-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytrap-2/)*

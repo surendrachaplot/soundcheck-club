@@ -1,6 +1,6 @@
 # Princess Glitoris
 
-Princess Glitoris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 5 Dec 2026.
+Princess Glitoris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 5 Dec 2026.
 
 Princess Glitoris is a techno and house artist based in Ireland, with 36 gigs on soundcheck across Belfast, Dublin and Edinburgh. Often billed alongside Divergence, HI-KRU and IndeniaL. Next up: The Ulster Sports Club, Belfast on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Princess Glitoris is a techno and house artist based in Ireland, with 36 gigs on
 
 Divergence, HI-KRU, IndeniaL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessglitoris/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessglitoris/)*

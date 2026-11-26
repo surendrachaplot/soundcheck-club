@@ -1,6 +1,6 @@
 # Miguel Puente
 
-Miguel Puente is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Topazdeluxe, Monterrey on Sat, 28 Nov 2026.
+Miguel Puente is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Topazdeluxe, Monterrey on Sat, 28 Nov 2026.
 
 Miguel Puente is a house and minimal artist based in Mexico, with 13 gigs on soundcheck across Guadalajara, Mexico City, Monterrey and Prague. Often billed alongside Sakro, Louie Fresco and Argenis Brito. Next up: Topazdeluxe, Monterrey on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Miguel Puente is a house and minimal artist based in Mexico, with 13 gigs on sou
 
 Sakro, Louie Fresco, Argenis Brito
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpuente/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpuente/)*

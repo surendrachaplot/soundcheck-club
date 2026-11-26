@@ -1,6 +1,6 @@
 # AMG SAIMURA (TECHVANE)
 
-AMG SAIMURA (TECHVANE) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Violetta, Tokyo on Thu, 26 Nov 2026.
+AMG SAIMURA (TECHVANE) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Violetta, Tokyo on Thu, 26 Nov 2026.
 
 AMG SAIMURA (TECHVANE) is a techno and acid artist based in Japan, with 59 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Kojiro, Remi Ohsugi and Ryusei Sato. Next up: Violetta, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ AMG SAIMURA (TECHVANE) is a techno and acid artist based in Japan, with 59 gigs 
 
 Kojiro, Remi Ohsugi, Ryusei Sato
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amgsaimuratechvane/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amgsaimuratechvane/)*

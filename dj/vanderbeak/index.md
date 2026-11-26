@@ -1,6 +1,6 @@
 # Vanderbeak
 
-Vanderbeak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Goja, Bangkok on Fri, 27 Nov 2026.
+Vanderbeak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Goja, Bangkok on Fri, 27 Nov 2026.
 
 Vanderbeak is a house and techno artist based in Netherlands, with 86 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Seoul. Often billed alongside Manikk, DANE. and Dusan Nikolic. Next up: Goja, Bangkok on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vanderbeak is a house and techno artist based in Netherlands, with 86 gigs on so
 
 Manikk, DANE., Dusan Nikolic
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderbeak/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderbeak/)*

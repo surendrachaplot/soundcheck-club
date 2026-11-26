@@ -1,6 +1,6 @@
 # DJ Sappo
 
-DJ Sappo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
+DJ Sappo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
 
 DJ Sappo is a drum & bass and jungle artist, with 9 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Mark XTC, North Base and Bladerunner. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ DJ Sappo is a drum & bass and jungle artist, with 9 gigs on soundcheck across Li
 
 Mark XTC, North Base, Bladerunner
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsappo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsappo/)*

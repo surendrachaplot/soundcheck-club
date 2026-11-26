@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Let Me Rock X Black Wednesday" on Wed, 25 Nov 2026.
+TRANSMISSION DC is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Let Me Rock X Black Wednesday" on Wed, 25 Nov 2026.
 
 TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 10 upcoming gigs, with line-ups including belizenotbrazil, Bodegaparty, D.Dan and Deboriá and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 10 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

@@ -1,6 +1,6 @@
 # Rollover Djs
 
-Rollover Djs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Apollo Club Milano, Milan on Fri, 11 Dec 2026.
+Rollover Djs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Apollo Club Milano, Milan on Fri, 11 Dec 2026.
 
 Rollover Djs is a house and disco artist based in Italy, with 36 gigs on soundcheck across Antwerp, Berlin, Milan and New York City and 1 more. Often billed alongside Delfonic, Kapote and Speaking Minds. Next up: Apollo Club Milano, Milan on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Rollover Djs is a house and disco artist based in Italy, with 36 gigs on soundch
 
 Delfonic, Kapote, Speaking Minds
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolloverdjs-it/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolloverdjs-it/)*

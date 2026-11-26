@@ -1,14 +1,15 @@
 # Chloé Robinson
 
-Chloé Robinson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
+Chloé Robinson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
 
-Chloé Robinson is a house and techno artist based in United Kingdom, with 105 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 37 more. Often billed alongside DJ ADHD, Nikki Nair and Four Tet. Next up: Electric Brixton, London on Fri 27 Nov.
+Chloé Robinson is a house and techno artist based in United Kingdom, with 106 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 37 more. Often billed alongside DJ ADHD, Nikki Nair and Four Tet. Next up: Electric Brixton, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Electric Brixton | London |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 
 ## Recently played
@@ -26,4 +27,4 @@ Chloé Robinson is a house and techno artist based in United Kingdom, with 105 g
 
 DJ ADHD, Nikki Nair, Four Tet
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloerobinson/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloerobinson/)*

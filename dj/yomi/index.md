@@ -1,6 +1,6 @@
 # Yomi
 
-Yomi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club About, Chubu on Fri, 27 Nov 2026.
+Yomi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club About, Chubu on Fri, 27 Nov 2026.
 
 Yomi is a techno and electro artist based in South Korea, with 87 gigs on soundcheck across Chubu, Manila, Mexico City and Okinawa and 4 more. Often billed alongside Honn, MOVIN.KR and rerekat. Next up: Club About, Chubu on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Yomi is a techno and electro artist based in South Korea, with 87 gigs on soundc
 
 Honn, MOVIN.KR, rerekat
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yomi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yomi/)*

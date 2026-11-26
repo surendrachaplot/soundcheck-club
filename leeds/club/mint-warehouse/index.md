@@ -1,6 +1,6 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BACK TO BASICS: 35th ANNIVERSARY" on Sat, 28 Nov 2026.
+Mint Warehouse is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BACK TO BASICS: 35th ANNIVERSARY" on Sat, 28 Nov 2026.
 
 Mint Warehouse is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including 3PM RECORDS, Dave Beer, Fish56Octagon and Frenchy and 2 more. See dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
@@ -16,4 +16,4 @@ Mint Warehouse is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, 
 
 Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom, Leeds
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*

@@ -1,13 +1,14 @@
 # Matt Radovich
 
-Matt Radovich is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 4 Dec 2026.
+Matt Radovich is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Glamorama, Melbourne on Sat, 28 Nov 2026.
 
-Matt Radovich is a techno and house artist based in Australia, with 86 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: Revolver Upstairs, Melbourne on Fri 4 Dec.
+Matt Radovich is a techno and house artist based in Australia, with 87 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: Glamorama, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Glamorama | Melbourne |
 | Fri, 4 Dec 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Matt Radovich is a techno and house artist based in Australia, with 86 gigs on s
 
 Craig McWhinney, Mike Callander, Acid Safari
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*

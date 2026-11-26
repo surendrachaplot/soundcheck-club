@@ -1,6 +1,6 @@
 # Kryder
 
-Kryder is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Jamaica Gogo, Guadalajara on Fri, 27 Nov 2026.
+Kryder is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Jamaica Gogo, Guadalajara on Fri, 27 Nov 2026.
 
 Kryder is a house and tech house artist, with 9 gigs on soundcheck across Bratislava, Bristol, Guadalajara and London and 3 more. Often billed alongside Charlie Harvey, Chicane and Ciaran McAuley. Next up: Jamaica Gogo, Guadalajara on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kryder is a house and tech house artist, with 9 gigs on soundcheck across Bratis
 
 Charlie Harvey, Chicane, Ciaran McAuley
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kryder/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kryder/)*

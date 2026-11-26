@@ -1,6 +1,6 @@
 # Robert Hood
 
-Robert Hood is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SWG3, Glasgow on Sun, 27 Dec 2026.
+Robert Hood is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SWG3, Glasgow on Sun, 27 Dec 2026.
 
 Robert Hood is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 31 more. Often billed alongside Chlär, Floorplan and Lyric Hood. Next up: SWG3, Glasgow on Sun 27 Dec.
 
@@ -26,4 +26,4 @@ Robert Hood is a techno and house artist based in United States of America, with
 
 Chlär, Floorplan, Lyric Hood
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*

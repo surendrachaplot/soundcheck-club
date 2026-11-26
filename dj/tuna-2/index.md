@@ -1,6 +1,6 @@
 # TUNA (2)
 
-TUNA (2) is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cakeshop, Seoul on Sat, 5 Dec 2026.
+TUNA (2) is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cakeshop, Seoul on Sat, 5 Dec 2026.
 
 TUNA is a bass and jungle artist based in South Korea, with 8 gigs on soundcheck across Seoul. Often billed alongside HASHTAGPOPE, Dabin and HAGY. Next up: Cakeshop, Seoul on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ TUNA is a bass and jungle artist based in South Korea, with 8 gigs on soundcheck
 
 HASHTAGPOPE, Dabin, HAGY
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tuna-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tuna-2/)*

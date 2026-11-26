@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MINDTHEGAP x demolish2ascend NYC" on Wed, 25 Nov 2026.
+Mood Ring is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MINDTHEGAP x demolish2ascend NYC" on Wed, 25 Nov 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including BlackDanielWhite, Body Copy, Crush Club and dev.n and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including BlackDanielWhite, BLCKLST, Body Copy and Crush Club and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Mood Ring is a music venue in New York City listed on soundcheck. 13 upcoming gi
 | Wed, 2 Dec 2026 | RECESS | GUAVA (BK), JULESMCKOOLS, rex pelium |
 | Thu, 3 Dec 2026 | eklektik | Harry Fletcher, Jared Maharaj, La Vega, Sampol |
 | Fri, 4 Dec 2026 | oomfRAVE presents PYRO | Body Copy, Max Parkinson, oomfhaver |
-| Wed, 9 Dec 2026 | Beats without Borders - LOVE SUPPLY, Simisola, BlackDanielWhite, Kweku | BlackDanielWhite, Kweku, Love Higher, Petal, Simisola |
+| Sun, 6 Dec 2026 | BK Loves UKG | BLCKLST, Lord of Ciphers, Lovelydaze, Sasha Rome, kstrobez |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

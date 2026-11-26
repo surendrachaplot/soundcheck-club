@@ -1,6 +1,6 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Lewis Taylor is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Lewis Taylor is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Brisbane and 17 more. Often billed alongside Ellia Jaya, Gaskin and Harry Robson. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, with 52 g
 
 Ellia Jaya, Gaskin, Harry Robson
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

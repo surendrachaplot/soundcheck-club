@@ -1,6 +1,6 @@
 # Inyoung son
 
-Inyoung son is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at FS., Tokyo on Sat, 28 Nov 2026.
+Inyoung son is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at FS., Tokyo on Sat, 28 Nov 2026.
 
 Inyoung son is a techno and industrial artist based in South Korea, with 8 gigs on soundcheck across Seoul, Tbilisi and Tokyo. Often billed alongside B.A.R.K, 3.14 and Albino Sound. Next up: FS., Tokyo on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Inyoung son is a techno and industrial artist based in South Korea, with 8 gigs 
 
 B.A.R.K, 3.14, Albino Sound
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inyoungson/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inyoungson/)*

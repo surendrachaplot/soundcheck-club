@@ -1,14 +1,15 @@
 # KoiKoi
 
-KoiKoi is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
+KoiKoi is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
 
-KoiKoi is a club and latin bass artist based in South Korea, with 17 gigs on soundcheck across Seoul. Often billed alongside MAZE (KR), August and dayoung. Next up: Ximxim Bar, Seoul on Fri 27 Nov.
+KoiKoi is a club and baile funk artist based in South Korea, with 18 gigs on soundcheck across Seoul. Often billed alongside MAZE (KR), August and dayoung. Next up: Ximxim Bar, Seoul on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Ximxim Bar | Seoul |
+| Fri, 11 Dec 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KoiKoi is a club and latin bass artist based in South Korea, with 17 gigs on sou
 
 MAZE (KR), August (3), dayoung
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koikoi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koikoi/)*

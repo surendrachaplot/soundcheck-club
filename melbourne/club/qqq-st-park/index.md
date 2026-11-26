@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK)" on Fri, 27 Nov 2026.
+QQQ ST. Park is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK)" on Fri, 27 Nov 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Static, Autogenesis, Azifm and dawnbreaker and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -22,4 +22,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "RX Fridaze: Patrick Mason" on Fri, 27 Nov 2026.
+Flux is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RX Fridaze: Patrick Mason" on Fri, 27 Nov 2026.
 
 Flux is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with line-ups including Dandy M, IYPO, KVTS and MARRØN and 2 more. See dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
@@ -16,4 +16,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with li
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

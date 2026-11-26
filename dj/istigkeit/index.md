@@ -1,6 +1,6 @@
 # Istigkeit
 
-Istigkeit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kodz, Lille on Sat, 16 Jan 2027.
+Istigkeit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kodz, Lille on Sat, 16 Jan 2027.
 
 Istigkeit is a techno and trance artist based in France, with 26 gigs on soundcheck across Lille, Lyon and Paris. Often billed alongside Glaskeen, Salem Unsigned and Stan Christ. Next up: Kodz, Lille on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Istigkeit is a techno and trance artist based in France, with 26 gigs on soundch
 
 Glaskeen, Salem Unsigned, Stan Christ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/istigkeit/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/istigkeit/)*

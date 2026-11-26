@@ -1,6 +1,6 @@
 # Nick Devon
 
-Nick Devon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ROSA, Berlin on Wed, 30 Dec 2026.
+Nick Devon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ROSA, Berlin on Wed, 30 Dec 2026.
 
 Nick Devon is a techno and industrial artist based in Greece, with 19 gigs on soundcheck across Athens and Berlin. Often billed alongside Rezo, DjSteph and MPathy. Next up: ROSA, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Nick Devon is a techno and industrial artist based in Greece, with 19 gigs on so
 
 Rezo (2), DjSteph, MPathy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdevon/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdevon/)*

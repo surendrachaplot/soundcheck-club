@@ -1,6 +1,6 @@
 # Frederik Anthony
 
-Frederik Anthony is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Chiave, London on Thu, 3 Dec 2026.
+Frederik Anthony is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Chiave, London on Thu, 3 Dec 2026.
 
 Frederik Anthony is a deep house and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Dominic (UK), Lenny (UK) and MAHAR. Next up: Chiave, London on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ Frederik Anthony is a deep house and house artist based in United Kingdom, with 
 
 Dominic (UK), Lenny (UK), MAHAR
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederikanthony/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederikanthony/)*

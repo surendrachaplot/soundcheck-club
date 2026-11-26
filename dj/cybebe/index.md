@@ -1,6 +1,6 @@
 # Cybebe
 
-Cybebe is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 26 Nov 2026.
+Cybebe is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 26 Nov 2026.
 
 Cybebe is a techno and downtempo artist based in Mexico, with 38 gigs on soundcheck across Basel and Mexico City. Often billed alongside Astroboii, Lyo XS and EM2K. Next up: nueve cero nueve, Mexico City on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Cybebe is a techno and downtempo artist based in Mexico, with 38 gigs on soundch
 
 Astroboii, Lyo XS, EM2K
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cybebe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cybebe/)*

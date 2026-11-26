@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "NONSTOP PT. 1" on Fri, 27 Nov 2026.
+Lieberscholli is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NONSTOP PT. 1" on Fri, 27 Nov 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Andrale, Cottí Larje, Daniel Neuland and Danya (DE) and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -19,4 +19,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 6 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

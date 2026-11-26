@@ -1,6 +1,6 @@
 # Dresden
 
-Dresden is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
+Dresden is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
 
 Dresden is a techno and electro artist based in Spain, with 28 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Ivan Smagghe, Manfredas and Gabrielle Kwarteng. Next up: FOLD, London on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Dresden is a techno and electro artist based in Spain, with 28 gigs on soundchec
 
 Ivan Smagghe, Manfredas, Gabrielle Kwarteng
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*

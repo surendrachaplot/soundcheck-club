@@ -1,6 +1,6 @@
 # 5A
 
-5A is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Discompasso" on Thu, 26 Nov 2026.
+5A is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Discompasso" on Thu, 26 Nov 2026.
 
 5A is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Conor Brophy, Laimonas, MÜLLER and Tiago Carvalho and 2 more. See dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
@@ -17,4 +17,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

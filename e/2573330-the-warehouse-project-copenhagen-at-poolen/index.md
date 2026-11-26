@@ -1,6 +1,6 @@
 # The Warehouse Project Copenhagen at Poolen
 
-The Warehouse Project Copenhagen at Poolen on Sat 23 Jan, Copenhagen. 3 artists: Ahadadream, Ben UFO and Main Phase. Garage. See the line-up on soundcheck.
+The Warehouse Project Copenhagen at Poolen on Sat 23 Jan, Copenhagen. 4 artists: Ahadadream, Ben UFO, Lou Nour and Main Phase. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ The Warehouse Project Copenhagen at Poolen on Sat 23 Jan, Copenhagen. 3 artists:
 
 - Ahadadream
 - Ben UFO
+- Lou Nour
 - Main Phase
 
 *Source: [soundcheck](https://soundcheck.club/e/2573330-the-warehouse-project-copenhagen-at-poolen/)*

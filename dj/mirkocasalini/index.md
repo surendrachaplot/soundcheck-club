@@ -1,6 +1,6 @@
 # Mirko Casalini
 
-Mirko Casalini is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Audioteca, Naples on Sat, 5 Dec 2026.
+Mirko Casalini is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Audioteca, Naples on Sat, 5 Dec 2026.
 
 Mirko Casalini is a house and disco artist based in Italy, with 8 gigs on soundcheck across Florence and Naples. Often billed alongside D612, Mistiche Vibre and Biga. Next up: Audioteca, Naples on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Mirko Casalini is a house and disco artist based in Italy, with 8 gigs on soundc
 
 D612, Mistiche Vibre, Biga
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirkocasalini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirkocasalini/)*

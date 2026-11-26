@@ -1,6 +1,6 @@
 # Pedro Sanmartin
 
-Pedro Sanmartin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Macarena Club, Barcelona on Sat, 12 Dec 2026.
+Pedro Sanmartin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Sat, 12 Dec 2026.
 
 Pedro Sanmartin is a techno and house artist based in Spain, with 8 gigs on soundcheck across Amsterdam, Barcelona and Copenhagen. Often billed alongside Daniel Pinho, MarioF and Pedro Mercado. Next up: Macarena Club, Barcelona on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Pedro Sanmartin is a techno and house artist based in Spain, with 8 gigs on soun
 
 Daniel Pinho, MarioF, Pedro Mercado
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrosanmartin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrosanmartin/)*

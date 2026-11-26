@@ -1,6 +1,6 @@
 # Catonium
 
-Catonium is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "KINKY RAW HAMBURG – ONE LAST DANCE" on Sat, 19 Dec 2026.
+Catonium is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "KINKY RAW HAMBURG – ONE LAST DANCE" on Sat, 19 Dec 2026.
 
 Catonium is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including JOKI, maniaclina, Miss Nansix and Psyfonic and 2 more. See dates, start times and who's playing. Försterweg 163, 22525 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Catonium is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with
 
 Försterweg 163, 22525 Hamburg, Germany, Hamburg
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/catonium/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/catonium/)*

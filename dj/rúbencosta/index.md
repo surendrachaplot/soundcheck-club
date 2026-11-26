@@ -1,6 +1,6 @@
 # Rúben Costa
 
-Rúben Costa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Era uma vez no Porto, Porto on Wed, 25 Nov 2026.
+Rúben Costa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Era uma vez no Porto, Porto on Wed, 25 Nov 2026.
 
 Rúben Costa is a house and techno artist based in Portugal, with 65 gigs on soundcheck across Lisbon and Porto. Often billed alongside Let, Pedro Tabuada and AIKKO. Next up: Era uma vez no Porto, Porto on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ Rúben Costa is a house and techno artist based in Portugal, with 65 gigs on sou
 
 ## Recently played
 
+- Era uma vez no Porto, Porto · Wed, 25 Nov 2026
 - Plano B, Porto · Sat, 14 Nov 2026
 - Plano B, Porto · Sat, 31 Oct 2026
 - Plano B, Porto · Sat, 10 Oct 2026
@@ -19,10 +20,9 @@ Rúben Costa is a house and techno artist based in Portugal, with 65 gigs on sou
 - Plano B, Porto · Fri, 11 Sept 2026
 - Plano B, Porto · Fri, 21 Aug 2026
 - Era uma vez no Porto, Porto · Wed, 5 Aug 2026
-- Plano B, Porto · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Let (3), Pedro Tabuada, AIKKO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rúbencosta/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rúbencosta/)*

@@ -1,6 +1,6 @@
 # randomPLAY (Italy) at Underground Agimi
 
-randomPLAY (Italy) at Underground Agimi on Thu 26 Nov, Tirana. 1 artist: randomPLAY. Techno and Electronica. See the line-up on soundcheck.
+randomPLAY (Italy) at Underground Agimi on Thu 26 Nov, Tirana. 1 artist: On.play. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ randomPLAY (Italy) at Underground Agimi on Thu 26 Nov, Tirana. 1 artist: randomP
 
 ## Line-up
 
-- randomPLAY
+- On.play
 
 *Source: [soundcheck](https://soundcheck.club/e/2593650-randomplay-italy-at-underground-agimi/)*

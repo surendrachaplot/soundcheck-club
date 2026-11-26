@@ -1,8 +1,8 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Stay Offline part III" on Thu, 26 Nov 2026.
+Starlane Pizza Bar is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Stay Offline part III" on Thu, 26 Nov 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including 100hz, Andrea Giudice, Brenen and Calla and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including 100hz, Analog Disease, Andrea Giudice and Brenen and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 14 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

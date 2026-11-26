@@ -1,6 +1,6 @@
 # GRACE KTOWN
 
-GRACE KTOWN is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Dolphin, Philadelphia on Fri, 27 Nov 2026.
+GRACE KTOWN is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Dolphin, Philadelphia on Fri, 27 Nov 2026.
 
 GRACE KTOWN is a club and afrobeats artist based in United States of America, with 5 gigs on soundcheck across Los Angeles, Philadelphia and Seoul. Often billed alongside ANDOW, Azure and Cquestt. Next up: The Dolphin, Philadelphia on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ GRACE KTOWN is a club and afrobeats artist based in United States of America, wi
 
 ANDOW, Azure, Cquestt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracektown/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracektown/)*

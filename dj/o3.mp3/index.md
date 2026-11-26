@@ -1,6 +1,6 @@
 # o3.mp3
 
-o3.mp3 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Malaga Sin City, Milan on Sat, 28 Nov 2026.
+o3.mp3 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Malaga Sin City, Milan on Sat, 28 Nov 2026.
 
 o3.mp3 is a techno and electro artist based in Sweden, with 5 gigs on soundcheck across Milan. Often billed alongside Vittorio Di Mango, ARMANDO and AllaDerivaLontano. Next up: Malaga Sin City, Milan on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ o3.mp3 is a techno and electro artist based in Sweden, with 5 gigs on soundcheck
 
 Vittorio Di Mango, ARMANDO, AllaDerivaLontano
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o3.mp3/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o3.mp3/)*

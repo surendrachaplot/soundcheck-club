@@ -1,6 +1,6 @@
 # Alex Iso
 
-Alex Iso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bohnengold, Berlin on Fri, 27 Nov 2026.
+Alex Iso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bohnengold, Berlin on Fri, 27 Nov 2026.
 
 Alex Iso is a techno and house artist based in Canada, with 8 gigs on soundcheck across Berlin. Often billed alongside Axxi Oma, Crimson Lake and DJ Kodah. Next up: Bohnengold, Berlin on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Alex Iso is a techno and house artist based in Canada, with 8 gigs on soundcheck
 
 Axxi Oma, Crimson Lake, DJ Kodah
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiso/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiso/)*

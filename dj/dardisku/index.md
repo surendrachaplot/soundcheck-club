@@ -1,6 +1,6 @@
 # DAR DISKU
 
-DAR DISKU is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mickey Zoggs, Bristol on Sat, 28 Nov 2026.
+DAR DISKU is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mickey Zoggs, Bristol on Sat, 28 Nov 2026.
 
 DAR DISKU is a house and disco artist based in Bahrain, with 46 gigs on soundcheck across Birmingham, Bristol, Bucharest and Dubai and 5 more. Often billed alongside Millie McKee, Sofie K and Cheb Mimo. Next up: Mickey Zoggs, Bristol on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ DAR DISKU is a house and disco artist based in Bahrain, with 46 gigs on soundche
 
 Millie McKee, Sofie K, Cheb Mimo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*

@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Simonee ‣ Rui Alves ‣ SLIM J - SUNDAY 29 NOV × CARMO • FREE" on Sun, 29 Nov 2026.
+Carmo Rooftop is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Simonee ‣ Rui Alves ‣ SLIM J - SUNDAY 29 NOV × CARMO • FREE" on Sun, 29 Nov 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including Bilal, Mayan (PT), Mr Majestyk and roujax and 2 more. See dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -18,4 +18,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, 
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

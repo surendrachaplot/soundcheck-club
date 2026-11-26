@@ -1,6 +1,6 @@
 # hhunter
 
-hhunter is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 27 Nov 2026.
+hhunter is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 27 Nov 2026.
 
 hhunter is a techno and hardcore artist based in United States of America, with 85 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas Fort Worth and 10 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: Smoke & Mirrors, Chicago on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ hhunter is a techno and hardcore artist based in United States of America, with 
 
 Elarm, Kula, Flores Negras
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

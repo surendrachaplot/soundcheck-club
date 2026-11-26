@@ -1,6 +1,6 @@
 # EMAN (FR)
 
-EMAN (FR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FVTVR, Paris on Sat, 28 Nov 2026.
+EMAN (FR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FVTVR, Paris on Sat, 28 Nov 2026.
 
 EMAN (FR) is a techno and house artist based in France, with 36 gigs on soundcheck across Amsterdam, Berlin, Madrid and Miami and 4 more. Often billed alongside Blasha & Allatt, Chami and Claudio PRC. Next up: FVTVR, Paris on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ EMAN (FR) is a techno and house artist based in France, with 36 gigs on soundche
 
 Blasha & Allatt, Chami, Claudio PRC
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eman-FR/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eman-FR/)*

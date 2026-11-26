@@ -1,6 +1,6 @@
 # NAR
 
-NAR is a music venue in Utrecht with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "DE DANSVLOER / DON'T MIND THE GAP: UUUDITIONS" on Thu, 26 Nov 2026.
+NAR is a music venue in Utrecht with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DE DANSVLOER / DON'T MIND THE GAP: UUUDITIONS" on Thu, 26 Nov 2026.
 
 NAR is a music venue in Utrecht listed on soundcheck. 16 upcoming gigs, with line-ups including Ajuma, Cormac, Cristel Ball and Doppelgang and 2 more. See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 16 upcoming gigs, with lin
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

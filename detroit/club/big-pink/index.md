@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BLACKOUT WEDNESDAY - DJ KDIRTY & SLIKKMONEY (HIPHOP ALL NIGHT)" on Wed, 25 Nov 2026.
+Big Pink is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BLACKOUT WEDNESDAY - DJ KDIRTY & SLIKKMONEY (HIPHOP ALL NIGHT)" on Wed, 25 Nov 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -19,4 +19,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming gigs. See 
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

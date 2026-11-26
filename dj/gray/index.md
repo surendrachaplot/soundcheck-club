@@ -1,6 +1,6 @@
 # Gray
 
-Gray is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
+Gray is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
 
 Gray is a house and jungle artist, with 6 gigs on soundcheck across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Diagnostix, Benny L and Bladerunner. Next up: fabric, London on Sat 30 Jan.
 
@@ -22,4 +22,4 @@ Gray is a house and jungle artist, with 6 gigs on soundcheck across Berlin, Leed
 
 Diagnostix, Benny L, Bladerunner
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gray/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gray/)*

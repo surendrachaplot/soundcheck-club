@@ -1,6 +1,6 @@
 # Jay Tripwire
 
-Jay Tripwire is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 27 Nov 2026.
+Jay Tripwire is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 27 Nov 2026.
 
 Jay Tripwire is a house and minimal artist based in Canada, with 102 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 38 more. Often billed alongside Tyler Stadius, Maher Daniel and Danyelino. Next up: Eastern Bloc Records, Manchester on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Jay Tripwire is a house and minimal artist based in Canada, with 102 gigs on sou
 
 Tyler Stadius, Maher Daniel, Danyelino
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*

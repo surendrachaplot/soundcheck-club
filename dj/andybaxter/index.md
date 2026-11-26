@@ -1,6 +1,6 @@
 # Andy Baxter
 
-Andy Baxter is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Las Dalias Ibiza, Ibiza on Thu, 26 Nov 2026.
+Andy Baxter is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Las Dalias Ibiza, Ibiza on Thu, 26 Nov 2026.
 
 Andy Baxter is a house and electronica artist based in Spain, with 35 gigs on soundcheck across Cape Town and Ibiza. Often billed alongside Jason Bye, Marshall Jefferson and Claptone. Next up: Las Dalias Ibiza, Ibiza on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Andy Baxter is a house and electronica artist based in Spain, with 35 gigs on so
 
 Jason Bye, Marshall Jefferson, Claptone
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andybaxter/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andybaxter/)*

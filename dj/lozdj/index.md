@@ -1,6 +1,6 @@
 # Loz DJ
 
-Loz DJ is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mezzanine - Tooting, London on Fri, 27 Nov 2026.
+Loz DJ is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mezzanine - Tooting, London on Fri, 27 Nov 2026.
 
 Loz DJ is a tech house and house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside MAÏS, Lucky Penny and Pableeto. Next up: Mezzanine - Tooting, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Loz DJ is a tech house and house artist based in United Kingdom, with 9 gigs on 
 
 MAÏS, Lucky Penny, Pableeto
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lozdj/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lozdj/)*

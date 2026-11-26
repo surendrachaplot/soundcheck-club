@@ -1,6 +1,6 @@
 # jWave
 
-jWave is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Warehouse, Leeds on Thu, 31 Dec 2026.
+jWave is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Warehouse, Leeds on Thu, 31 Dec 2026.
 
 jWave is a tech house and house artist based in United Kingdom, with 55 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 17 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: The Warehouse, Leeds on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ jWave is a tech house and house artist based in United Kingdom, with 55 gigs on 
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

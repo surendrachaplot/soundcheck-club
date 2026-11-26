@@ -1,14 +1,15 @@
 # Elliott Taguchi
 
-Elliott Taguchi is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
+Elliott Taguchi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
 
-Elliott Taguchi is a techno and new wave artist based in Denmark, with 38 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside Johannes Astrup, Milo Makua and DJ 2LATE. Next up: Den Anden Side, Copenhagen on Fri 18 Dec.
+Elliott Taguchi is a techno and house artist based in Denmark, with 39 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside Johannes Astrup, Milo Makua and DJ 2LATE. Next up: Den Anden Side, Copenhagen on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Den Anden Side | Copenhagen |
+| Fri, 22 Jan 2027 | Culture Box | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Elliott Taguchi is a techno and new wave artist based in Denmark, with 38 gigs o
 
 Johannes Astrup, Milo Makua, DJ 2LATE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotttaguchi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotttaguchi/)*

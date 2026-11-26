@@ -1,6 +1,6 @@
 # Sven Weisemann
 
-Sven Weisemann is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
+Sven Weisemann is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
 
 Sven Weisemann is a house and techno artist based in Germany, with 57 gigs on soundcheck across Berlin, Hamburg, Leipzig and New York City. Often billed alongside Luca Olivotto, Nephews and Eva Crystaltips. Next up: KitKatClub, Berlin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Sven Weisemann is a house and techno artist based in Germany, with 57 gigs on so
 
 Luca Olivotto, Nephews, Eva Crystaltips
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenweisemann/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenweisemann/)*

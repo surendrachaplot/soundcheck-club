@@ -1,6 +1,6 @@
 # Sayuri (2)
 
-Sayuri (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Knock, Tokyo on Sat, 5 Dec 2026.
+Sayuri (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Knock, Tokyo on Sat, 5 Dec 2026.
 
 Sayuri is a house and techno artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside Satoshi Matsui, guro.det and AMANE. Next up: Knock, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sayuri is a house and techno artist based in Japan, with 49 gigs on soundcheck a
 
 Satoshi Matsui, guro.det, AMANE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-2/)*

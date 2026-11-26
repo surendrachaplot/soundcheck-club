@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle" on Fri, 27 Nov 2026.
+Aoyama Hachi is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle" on Fri, 27 Nov 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including agap, AiMii, C-Motion and CKRN303 and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -23,4 +23,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, w
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

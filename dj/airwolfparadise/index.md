@@ -1,6 +1,6 @@
 # Airwolf Paradise
 
-Airwolf Paradise is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Academy LA, Los Angeles on Sun, 17 Jan 2027.
+Airwolf Paradise is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Academy LA, Los Angeles on Sun, 17 Jan 2027.
 
 Airwolf Paradise is a house and tech house artist based in Australia, with 51 gigs on soundcheck across Adelaide, Austin, Australian Capital Territory and Bali and 19 more. Often billed alongside Torren Foot, Patrick Topping and Dom Dolla. Next up: Academy LA, Los Angeles on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ Airwolf Paradise is a house and tech house artist based in Australia, with 51 gi
 
 Torren Foot, Patrick Topping, Dom Dolla
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*

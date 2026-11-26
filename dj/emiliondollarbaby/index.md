@@ -1,6 +1,6 @@
 # Emilion Dollar Baby
 
-Emilion Dollar Baby is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 45 London, London on Sat, 28 Nov 2026.
+Emilion Dollar Baby is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 45 London, London on Sat, 28 Nov 2026.
 
 Emilion Dollar Baby is a house and techno artist based in Spain, with 42 gigs on soundcheck across Berlin and London. Often billed alongside Kazuki Takahashi, Yukari and Kalimanda. Next up: 45 London, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Emilion Dollar Baby is a house and techno artist based in Spain, with 42 gigs on
 
 Kazuki Takahashi, Yukari, Kalimanda
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*

@@ -1,14 +1,15 @@
 # babybel
 
-babybel is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Stidilä, Helsinki on Sun, 29 Nov 2026.
+babybel is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stidilä, Helsinki on Sun, 29 Nov 2026.
 
-babybel is a techno and experimental artist based in Finland, with 30 gigs on soundcheck across Helsinki. Often billed alongside Sala, Basit Soomro and Exploited Body. Next up: Stidilä, Helsinki on Sun 29 Nov.
+babybel is a techno and bass artist based in Finland, with 31 gigs on soundcheck across Helsinki. Often billed alongside Sala, Basit Soomro and Exploited Body. Next up: Stidilä, Helsinki on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Stidilä | Helsinki |
+| Fri, 11 Dec 2026 | Post Bar | Helsinki |
 | Thu, 31 Dec 2026 | Kaiku | Helsinki |
 
 ## Recently played
@@ -26,4 +27,4 @@ babybel is a techno and experimental artist based in Finland, with 30 gigs on so
 
 Sala (3), Basit Soomro, Exploited Body
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babybel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babybel/)*

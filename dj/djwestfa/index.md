@@ -1,8 +1,8 @@
 # DJ Westfa
 
-DJ Westfa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+DJ Westfa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
-DJ Westfa is a house and techno artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
+DJ Westfa is a house and techno artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Westfa is a house and techno artist based in Germany, with 73 gigs on soundch
 | --- | --- | --- |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Westfa is a house and techno artist based in Germany, with 73 gigs on soundch
 
 Wendel Sield, JAXX TMS, Garnett
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*

@@ -1,6 +1,6 @@
 # Pavel Aeling
 
-Pavel Aeling is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tendance, Prague on Sat, 28 Nov 2026.
+Pavel Aeling is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tendance, Prague on Sat, 28 Nov 2026.
 
 Pavel Aeling is a house and disco artist based in Czech Republic, with 57 gigs on soundcheck across Berlin, Budapest and Prague. Often billed alongside Teresi, Fatty M and Nill Garçon. Next up: Tendance, Prague on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Pavel Aeling is a house and disco artist based in Czech Republic, with 57 gigs o
 
 Teresi, Fatty M, Nill Garçon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelaeling/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelaeling/)*

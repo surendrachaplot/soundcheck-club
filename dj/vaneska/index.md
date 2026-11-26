@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
+Vaneska is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
 
 Vaneska is a trance and techno artist based in Germany, with 42 gigs on soundcheck across Augsburg, Berlin, Cologne and Hamburg and 3 more. Often billed alongside NAGINI, Praun and 9LALEY. Next up: ://about blank, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Vaneska is a trance and techno artist based in Germany, with 42 gigs on soundche
 
 NAGINI, Praun, 9LALEY
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

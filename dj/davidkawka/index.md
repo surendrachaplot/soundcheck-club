@@ -1,6 +1,6 @@
 # David Kawka
 
-David Kawka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 4 Dec 2026.
+David Kawka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 4 Dec 2026.
 
 David Kawka is a techno artist based in Switzerland, with 5 gigs on soundcheck across Bern and Zurich. Often billed alongside Kevqube, Dee Jota and Kadric. Next up: TBA - Sous Soul, Bern on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ David Kawka is a techno artist based in Switzerland, with 5 gigs on soundcheck a
 
 Kevqube, Dee Jota, Kadric
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkawka/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkawka/)*

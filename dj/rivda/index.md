@@ -1,13 +1,14 @@
 # Rivda
 
-Rivda is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Boat - Le Sonic, Lyon on Fri, 4 Dec 2026.
+Rivda is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Boat - Le Sonic, Lyon on Sat, 28 Nov 2026.
 
-Rivda is a techno and bass artist based in France, with 15 gigs on soundcheck across Lyon. Often billed alongside HBB (MA), Klefman and Druz. Next up: Boat - Le Sonic, Lyon on Fri 4 Dec.
+Rivda is a techno and bass artist based in France, with 16 gigs on soundcheck across Lyon. Often billed alongside HBB (MA), Klefman and Druz. Next up: Boat - Le Sonic, Lyon on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Boat - Le Sonic | Lyon |
 | Fri, 4 Dec 2026 | Boat - Le Sonic | Lyon |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rivda is a techno and bass artist based in France, with 15 gigs on soundcheck ac
 
 HBB (MA), Klefman, Druz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivda/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivda/)*

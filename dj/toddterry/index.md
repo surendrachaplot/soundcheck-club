@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
+Todd Terry is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
 
 Todd Terry is a house and tech house artist based in United States of America, with 166 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Razzmatazz, Barcelona on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Todd Terry is a house and tech house artist based in United States of America, w
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

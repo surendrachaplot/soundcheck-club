@@ -1,6 +1,6 @@
 # F-on
 
-F-on is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at vurt., Seoul on Fri, 11 Dec 2026.
+F-on is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at vurt., Seoul on Fri, 11 Dec 2026.
 
 F-on is a techno and ambient artist based in Spain, with 21 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 8 more. Often billed alongside Ario, Amulador and Cobahn. Next up: vurt., Seoul on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ F-on is a techno and ambient artist based in Spain, with 21 gigs on soundcheck a
 
 Ario, Amulador, Cobahn
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f-on/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f-on/)*

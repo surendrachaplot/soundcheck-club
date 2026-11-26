@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "VIRAL -ALL MIX / JAPANESE ELECTRONIC POP / VOCALOID-" on Thu, 26 Nov 2026.
+ZEROTOKYO is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "VIRAL -ALL MIX / JAPANESE ELECTRONIC POP / VOCALOID-" on Thu, 26 Nov 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including æ-chan, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

@@ -1,6 +1,6 @@
 # Sergio Blema
 
-Sergio Blema is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at NIX Barcelona, Barcelona on Thu, 24 Dec 2026.
+Sergio Blema is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NIX Barcelona, Barcelona on Thu, 24 Dec 2026.
 
 Sergio Blema is a tech house and afro house artist based in Spain, with 21 gigs on soundcheck across Barcelona. Often billed alongside LawFish, Marc Monton and Seba Ruiz. Next up: NIX Barcelona, Barcelona on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Sergio Blema is a tech house and afro house artist based in Spain, with 21 gigs 
 
 LawFish, Marc Monton, Seba Ruiz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergioblema/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergioblema/)*

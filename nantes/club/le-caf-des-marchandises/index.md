@@ -1,6 +1,6 @@
 # Le Café des Marchandises
 
-Le Café des Marchandises is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Spacy Crew présente: Club Mirage · Paul Audin, Brigitte, Glamour Glitch, Scott Patterson" on Sat, 19 Dec 2026.
+Le Café des Marchandises is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Spacy Crew présente: Club Mirage · Paul Audin, Brigitte, Glamour Glitch, Scott Patterson" on Sat, 19 Dec 2026.
 
 Le Café des Marchandises is a music venue in Nantes listed on soundcheck. 1 upcoming gig, with line-ups including Scott P. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Le Café des Marchandises is a music venue in Nantes listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Spacy Crew présente: Club Mirage · Paul Audin, Brigitte, Glamour Glitch, Scott Patterson | Scott P |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-caf-des-marchandises/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-caf-des-marchandises/)*

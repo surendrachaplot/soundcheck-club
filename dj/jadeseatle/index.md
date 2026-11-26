@@ -1,6 +1,6 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hoppetosse, Berlin on Fri, 4 Dec 2026.
+Jade Seatle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hoppetosse, Berlin on Fri, 4 Dec 2026.
 
 Jade Seatle is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Jane Fitz, NIGHT MOVES and Seb Odyssey. Next up: Hoppetosse, Berlin on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Jade Seatle is a house and techno artist based in United Kingdom, with 58 gigs o
 
 Jane Fitz, NIGHT MOVES, Seb Odyssey
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*

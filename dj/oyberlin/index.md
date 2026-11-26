@@ -1,6 +1,6 @@
 # O/Y
 
-O/Y is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tausend, Berlin on Wed, 25 Nov 2026.
+O/Y is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tausend, Berlin on Wed, 25 Nov 2026.
 
 O/Y is a deep house and techno artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Basel, Berlin and Dortmund / Essen and 11 more. Often billed alongside Black Mirror Park, Telva and aantz. Next up: Tausend, Berlin on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ O/Y is a deep house and techno artist based in Germany, with 70 gigs on soundche
 
 ## Recently played
 
+- Tausend, Berlin · Wed, 25 Nov 2026
 - Ikii, Berlin · Wed, 21 Oct 2026
 - Tresor.West, Dortmund / Essen · Thu, 17 Sept 2026
 - Holdenweid, Basel · Fri, 4 Sept 2026
@@ -20,10 +21,9 @@ O/Y is a deep house and techno artist based in Germany, with 70 gigs on soundche
 - TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 - Hoppetosse, Berlin · Sat, 4 Jul 2026
 - gART.n, Berlin · Sun, 21 Jun 2026
-- Kauz, Zurich · Fri, 29 May 2026
 
 ## Shares bills with
 
 Black Mirror Park, Telva, aantz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oyberlin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oyberlin/)*

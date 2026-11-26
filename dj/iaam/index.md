@@ -1,6 +1,6 @@
 # IAAM
 
-IAAM is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 19 Dec 2026.
+IAAM is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 19 Dec 2026.
 
 IAAM is a tech house and house artist based in Spain, with 18 gigs on soundcheck across Bali. Often billed alongside Adam Dado, Kaiser Waldon and Baldo. Next up: Sunset Beach Bali, Bali on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ IAAM is a tech house and house artist based in Spain, with 18 gigs on soundcheck
 
 Adam Dado, Kaiser Waldon, Baldo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iaam/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iaam/)*

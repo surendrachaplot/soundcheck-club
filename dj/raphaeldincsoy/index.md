@@ -1,6 +1,6 @@
 # Raphael Dincsoy
 
-Raphael Dincsoy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Climax-Institutes, Stuttgart on Fri, 27 Nov 2026.
+Raphael Dincsoy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Climax-Institutes, Stuttgart on Fri, 27 Nov 2026.
 
 Raphael Dincsoy is a techno and house artist based in Germany, with 143 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 9 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Climax-Institutes, Stuttgart on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Raphael Dincsoy is a techno and house artist based in Germany, with 143 gigs on 
 
 Tamara Wirth, David Löhlein, Sibel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*

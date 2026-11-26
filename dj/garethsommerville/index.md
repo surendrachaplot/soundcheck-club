@@ -1,6 +1,6 @@
 # Gareth Sommerville
 
-Gareth Sommerville is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Caley Bar, Edinburgh on Fri, 27 Nov 2026.
+Gareth Sommerville is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Caley Bar, Edinburgh on Fri, 27 Nov 2026.
 
 Gareth Sommerville is a house and disco artist based in United Kingdom, with 37 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside Huggy, David Elders and Alien Communications. Next up: The Caley Bar, Edinburgh on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Gareth Sommerville is a house and disco artist based in United Kingdom, with 37 
 
 Huggy, David Elders, Alien Communications
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garethsommerville/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garethsommerville/)*

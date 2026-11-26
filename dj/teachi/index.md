@@ -1,6 +1,6 @@
 # TEACHI
 
-TEACHI is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Little Rockers, Okinawa on Fri, 27 Nov 2026.
+TEACHI is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Little Rockers, Okinawa on Fri, 27 Nov 2026.
 
 TEACHI is a footwork and bass artist, with 7 gigs on soundcheck across Okinawa. Often billed alongside K-Tanaka, POiSON GiRL FRiEND and 女子JUKE楽坊. Next up: Little Rockers, Okinawa on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ TEACHI is a footwork and bass artist, with 7 gigs on soundcheck across Okinawa. 
 
 K-Tanaka, POiSON GiRL FRiEND, 女子JUKE楽坊
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teachi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teachi/)*

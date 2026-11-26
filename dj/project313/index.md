@@ -1,6 +1,6 @@
 # Project 313
 
-Project 313 is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
+Project 313 is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Marble Bar, Detroit on Sat, 19 Dec 2026.
 
 Project 313 is a techno and dub techno artist based in United States of America, with 24 gigs on soundcheck across Denver, Detroit, Guadalajara and Los Angeles and 1 more. Often billed alongside Anthony Jimenez, Corbin Davis and DJ SPHiNX. Next up: Marble Bar, Detroit on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Project 313 is a techno and dub techno artist based in United States of America,
 
 Anthony Jimenez, Corbin Davis, DJ SPHiNX
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/project313/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/project313/)*

@@ -1,6 +1,6 @@
 # EN:VY
 
-EN:VY is a Drum & Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Grelle Forelle, Vienna on Sat, 12 Dec 2026.
+EN:VY is a Drum & Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Grelle Forelle, Vienna on Sat, 12 Dec 2026.
 
 EN:VY is a drum & bass and dubstep artist based in Ukraine, with 34 gigs on soundcheck across Auckland, Bristol, Ghent and London and 12 more. Often billed alongside Enei, Kasra and Kyrist. Next up: Grelle Forelle, Vienna on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ EN:VY is a drum & bass and dubstep artist based in Ukraine, with 34 gigs on soun
 
 Enei, Kasra, Kyrist
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*

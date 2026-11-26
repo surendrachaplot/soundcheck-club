@@ -1,6 +1,6 @@
 # Elwood
 
-Elwood is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
+Elwood is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
 
 Elwood is a techno and house artist based in Spain, with 19 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Phosky, S_STEELE and David Elimelech. Next up: La Paloma, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Elwood is a techno and house artist based in Spain, with 19 gigs on soundcheck a
 
 Phosky, S_STEELE, David Elimelech
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elwood/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elwood/)*

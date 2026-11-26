@@ -1,6 +1,6 @@
 # Markos (2)
 
-Markos (2) is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Model, Nottingham on Fri, 18 Dec 2026.
+Markos (2) is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Model, Nottingham on Fri, 18 Dec 2026.
 
 Markos is an acid and house artist based in United Kingdom, with 12 gigs on soundcheck across Leeds, Nottingham and Rotterdam. Often billed alongside Dylan Whicher, Bella Hall and Benny Bysouth. Next up: The Model, Nottingham on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Markos is an acid and house artist based in United Kingdom, with 12 gigs on soun
 
 Dylan Whicher, Bella Hall, Benny Bysouth
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markos-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markos-2/)*

@@ -1,6 +1,6 @@
 # Diffrent
 
-Diffrent is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hangaren, Copenhagen on Fri, 4 Dec 2026.
+Diffrent is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hangaren, Copenhagen on Fri, 4 Dec 2026.
 
 Diffrent is a garage and house artist based in Germany, with 166 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Kyle Starkey, Pegassi and SAIDAH. Next up: Hangaren, Copenhagen on Fri 4 Dec.
 
@@ -31,4 +31,4 @@ Diffrent is a garage and house artist based in Germany, with 166 gigs on soundch
 
 Kyle Starkey, Pegassi, SAIDAH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

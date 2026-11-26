@@ -1,6 +1,6 @@
 # Tsuyoshi Suzuki
 
-Tsuyoshi Suzuki is a Psytrance and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Daphnia, Osaka on Sat, 28 Nov 2026.
+Tsuyoshi Suzuki is a Psytrance and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Daphnia, Osaka on Sat, 28 Nov 2026.
 
 Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, with 60 gigs on soundcheck across Athens, Beijing, Kanto and Melbourne and 2 more. Often billed alongside Drunken Kong, ERIMIYA and BERLINER KINDL. Next up: Club Daphnia, Osaka on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, with 60 gigs on
 
 Drunken Kong, ERIMIYA, BERLINER KINDL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuyoshi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuyoshi/)*

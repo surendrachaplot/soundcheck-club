@@ -1,6 +1,6 @@
 # Daniella da Silva
 
-Daniella da Silva is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Thu, 31 Dec 2026.
+Daniella da Silva is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Thu, 31 Dec 2026.
 
 Daniella da Silva is a techno and industrial artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Parsa Jafari, Bárbara Lago and Dexphase. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Daniella da Silva is a techno and industrial artist based in Germany, with 63 gi
 
 Parsa Jafari, Bárbara Lago, Dexphase
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*

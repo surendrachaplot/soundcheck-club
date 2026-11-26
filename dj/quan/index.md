@@ -1,6 +1,6 @@
 # Quan
 
-Quan is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Entrepôts Dominion, Montreal on Thu, 31 Dec 2026.
+Quan is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Entrepôts Dominion, Montreal on Thu, 31 Dec 2026.
 
 Quan is a techno and experimental artist based in Vietnam, with 22 gigs on soundcheck across Hanoi, Montreal, Seoul and Shanghai. Often billed alongside D.B.Y., Halina Rice and James Benjamin. Next up: Entrepôts Dominion, Montreal on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Quan is a techno and experimental artist based in Vietnam, with 22 gigs on sound
 
 D.B.Y., Halina Rice, James Benjamin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quan/)*

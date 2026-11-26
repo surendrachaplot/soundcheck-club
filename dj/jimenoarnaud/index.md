@@ -1,0 +1,28 @@
+# Jimeno Arnaud
+
+Jimeno Arnaud is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+
+Jimeno Arnaud is a house and deep house artist based in Mexico, with 48 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Barreto, Wolffer and Irena Stanisic. Next up: Departamento, Mexico City on Wed 25 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 25 Nov 2026 | Departamento | Mexico City |
+
+## Recently played
+
+- Departamento, Mexico City · Wed, 25 Nov 2026
+- TBA - Caleta - Dr. Atl 62, Mexico-city · Sat, 7 Nov 2026
+- Departamento, Mexico City · Wed, 28 Oct 2026
+- TBA - Rosso, Mexico City · Thu, 22 Oct 2026
+- nueve cero nueve, Mexico City · Sat, 3 Oct 2026
+- M.N.Roy, Mexico City · Fri, 28 Aug 2026
+- ROCA HIFI, Mexico City · Wed, 26 Aug 2026
+- Departamento, Mexico City · Wed, 12 Aug 2026
+
+## Shares bills with
+
+Barreto, Wolffer, Irena Stanisic
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimenoarnaud/)*

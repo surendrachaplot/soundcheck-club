@@ -1,6 +1,6 @@
 # Shengchou
 
-Shengchou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dunzengarav, Mongolia on Fri, 27 Nov 2026.
+Shengchou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dunzengarav, Mongolia on Fri, 27 Nov 2026.
 
 Shengchou is a techno and electro artist based in China, with 39 gigs on soundcheck across Beijing, Chongqing, Mongolia and Shanghai and 2 more. Often billed alongside LIUYANG, cisco and NYB. Next up: Dunzengarav, Mongolia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Shengchou is a techno and electro artist based in China, with 39 gigs on soundch
 
 LIUYANG, cisco (3), NYB (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shengchou/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shengchou/)*

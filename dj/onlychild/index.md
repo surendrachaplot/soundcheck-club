@@ -1,0 +1,28 @@
+# Only Child
+
+Only Child is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Sydney on Sat, 26 Dec 2026.
+
+Only Child is a techno and house artist based in United States of America, with 14 gigs on soundcheck across New York City and Sydney. Often billed alongside Significant Other, Khalilah and Lucy. Next up: TBA, Sydney on Sat 26 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 26 Dec 2026 | TBA | Sydney |
+
+## Recently played
+
+- Webster's Rooftop and Bar, Sydney · Sun, 25 Jan 2026
+- Club 77, Sydney · Fri, 24 Oct 2025
+- Club 77, Sydney · Fri, 11 Apr 2025
+- Sussudio, Sydney · Fri, 15 Nov 2024
+- Chinese Laundry, Sydney · Fri, 1 Nov 2024
+- Chinese Laundry, Sydney · Sat, 26 Oct 2024
+- Sussudio, Sydney · Fri, 23 Aug 2024
+- TBA - Spirits of Newtown - 169 King St, Newtown, Sydney · Sat, 6 Jul 2024
+
+## Shares bills with
+
+Significant Other, Khalilah, Lucy
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlychild/)*

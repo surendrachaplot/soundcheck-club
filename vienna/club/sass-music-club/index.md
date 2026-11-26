@@ -1,6 +1,6 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Donnerstag Nacht s/ Slack Hippy, NEOMODERN, Crnobrnja" on Thu, 26 Nov 2026.
+SASS Music Club is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Donnerstag Nacht s/ Slack Hippy, NEOMODERN, Crnobrnja" on Thu, 26 Nov 2026.
 
 SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including brÅk, CED/Cedsh, Clem Vital and Crazy Sonic and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
@@ -20,4 +20,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

@@ -1,6 +1,6 @@
 # Tresor meets Bailey Ibbs at Tresor / Globus
 
-Tresor meets Bailey Ibbs at Tresor / Globus on Fri 11 Dec, Berlin. 7 artists: Bailey Ibbs, Elisa Bee, JKS and LDS and 3 more. Techno and House. See the line-up on soundcheck.
+Tresor meets Bailey Ibbs at Tresor / Globus on Fri 11 Dec, Berlin. 8 artists: Bailey Ibbs, Briain, Elisa Bee and JKS and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Tresor meets Bailey Ibbs at Tresor / Globus on Fri 11 Dec, Berlin. 7 artists: Ba
 ## Line-up
 
 - Bailey Ibbs
+- Briain
 - Elisa Bee
 - JKS
 - LDS

@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Zen Arcade w/ Harri Pepper & Kyle Toole, Ellie Anderson" on Fri, 27 Nov 2026.
+radial is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Zen Arcade w/ Harri Pepper & Kyle Toole, Ellie Anderson" on Fri, 27 Nov 2026.
 
 radial is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Curtain, Alien Communications, Amy Cutter and Baby Rollén and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 10 upcoming gigs, with l
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

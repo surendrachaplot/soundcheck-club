@@ -1,6 +1,6 @@
 # Terry Hunter
 
-Terry Hunter is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Chocolate Factory, New York City on Wed, 25 Nov 2026.
+Terry Hunter is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Chocolate Factory, New York City on Wed, 25 Nov 2026.
 
 Terry Hunter is a house and deep house artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Chicago and 12 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: The Chocolate Factory, New York City on Wed 25 Nov.
 
@@ -14,6 +14,7 @@ Terry Hunter is a house and deep house artist based in United Kingdom, with 105 
 
 ## Recently played
 
+- The Chocolate Factory, New York City · Wed, 25 Nov 2026
 - Warehouse on Watts, Philadelphia · Sat, 21 Nov 2026
 - TBA - Pitch and Pour Supper Club, Chicago · Fri, 6 Nov 2026
 - Le Nocturne, Chicago · Sat, 31 Oct 2026
@@ -21,10 +22,9 @@ Terry Hunter is a house and deep house artist based in United Kingdom, with 105 
 - Vic's Bar, Amsterdam · Fri, 23 Oct 2026
 - Port of Leith Distillery, Edinburgh · Sat, 12 Sept 2026
 - Jackson Park, Chicago · Sat, 11 Jul 2026
-- smartbar, Chicago · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Mike Dunn, Wayne Williams, Adorio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*

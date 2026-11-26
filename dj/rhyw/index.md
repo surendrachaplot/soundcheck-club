@@ -1,14 +1,15 @@
 # Rhyw
 
-Rhyw is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret location Neuköln, Berlin on Thu, 31 Dec 2026.
+Rhyw is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret location Neuköln, Berlin on Thu, 31 Dec 2026.
 
-Rhyw is a techno and bass artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Mor Elian, Pariah and Aurora Halal. Next up: TBA - Secret location Neuköln, Berlin on Thu 31 Dec.
+Rhyw is a techno and bass artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Mor Elian, Pariah and Aurora Halal. Next up: TBA - Secret location Neuköln, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | TBA - Secret location Neuköln | Berlin |
+| Sat, 23 Jan 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rhyw is a techno and bass artist based in United Kingdom, with 104 gigs on sound
 
 Mor Elian, Pariah, Aurora Halal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyw/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyw/)*

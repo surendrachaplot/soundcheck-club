@@ -1,6 +1,6 @@
 # Kotiēr
 
-Kotiēr is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at BERHTA, Washington DC on Sat, 19 Dec 2026.
+Kotiēr is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BERHTA, Washington DC on Sat, 19 Dec 2026.
 
 Kotiēr is a progressive house and techno artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Berlin, Boston and Detroit and 9 more. Often billed alongside Aaron Hibell, Kölsch and AANO. Next up: BERHTA, Washington DC on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Kotiēr is a progressive house and techno artist based in United States of Ameri
 
 Aaron Hibell, Kölsch, AANO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kotier/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kotier/)*

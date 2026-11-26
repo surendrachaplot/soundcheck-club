@@ -1,8 +1,8 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Eiger Studios, Leeds on Fri, 27 Nov 2026.
+mad miran is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Eiger Studios, Leeds on Fri, 27 Nov 2026.
 
-mad miran is a techno and bass artist based in Netherlands, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: Eiger Studios, Leeds on Fri 27 Nov.
+mad miran is a techno and bass artist based in Netherlands, with 233 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: Eiger Studios, Leeds on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ mad miran is a techno and bass artist based in Netherlands, with 232 gigs on sou
 | Thu, 31 Dec 2026 | Open Ground | Wuppertal |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 | Sat, 23 Jan 2027 | Palais | London |
+| Sat, 6 Feb 2027 | The Island | Bristol |
 | Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
@@ -33,4 +34,4 @@ mad miran is a techno and bass artist based in Netherlands, with 232 gigs on sou
 
 Identified Patient, Pariah, DjRUM
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

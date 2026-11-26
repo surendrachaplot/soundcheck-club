@@ -1,6 +1,6 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Get-Together: Free Entry: OPEN DECKS - presented by DNA. CLUB" on Fri, 27 Nov 2026.
+DNA. CLUB is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FREE ENTRY: Get-Together: OPEN DECKS - presented by DNA. CLUB" on Fri, 27 Nov 2026.
 
 DNA. CLUB is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Anne-Sophie Selig, DJ Black Moses, James Love and kaiko and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -8,7 +8,7 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Get-Together: Free Entry: OPEN DECKS - presented by DNA. CLUB | DJ Black Moses, James Love, KANIKA, KJ (JP), MACHINNE, Moksalesi, Thyrse |
+| Fri, 27 Nov 2026 | FREE ENTRY: Get-Together: OPEN DECKS - presented by DNA. CLUB | DJ Black Moses, James Love, KANIKA, KJ (JP), MACHINNE, Moksalesi, Thyrse |
 | Fri, 4 Dec 2026 | kta.mke - Prog House - Anne Sophie Selig - kaiko - Scott Johnson - Tallah | Anne-Sophie Selig, Tallah, kaiko |
 | Sat, 12 Dec 2026 | RAPSUIT - by Streetbeat |  |
 
@@ -16,4 +16,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

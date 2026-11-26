@@ -1,6 +1,6 @@
 # Kevin Knapp
 
-Kevin Knapp is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Kevin Knapp is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Kevin Knapp is a house and tech house artist based in United States of America, with 31 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 9 more. Often billed alongside Mikey Lion, Tara Brooks and Doc Martin. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Kevin Knapp is a house and tech house artist based in United States of America, 
 
 Mikey Lion, Tara Brooks, Doc Martin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinknapp/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinknapp/)*

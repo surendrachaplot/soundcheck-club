@@ -1,6 +1,6 @@
 # Gabalicious
 
-Gabalicious is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tola, London on Fri, 4 Dec 2026.
+Gabalicious is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tola, London on Fri, 4 Dec 2026.
 
 Gabalicious is a garage and house artist based in United States of America, with 14 gigs on soundcheck across London and New York City. Often billed alongside ANICHE, /KATA/ and Aleska. Next up: Tola, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Gabalicious is a garage and house artist based in United States of America, with
 
 ANICHE, /KATA/, Aleska
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabalicious/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabalicious/)*

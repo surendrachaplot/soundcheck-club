@@ -1,8 +1,8 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TV Lounge, Detroit on Sat, 12 Dec 2026.
+Jacques Greene is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TV Lounge, Detroit on Sat, 12 Dec 2026.
 
-Jacques Greene is a house and techno artist based in Canada, with 118 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 39 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: TV Lounge, Detroit on Sat 12 Dec.
+Jacques Greene is a house and techno artist based in Canada, with 119 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 39 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: TV Lounge, Detroit on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jacques Greene is a house and techno artist based in Canada, with 118 gigs on so
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | TV Lounge | Detroit |
 | Thu, 28 Jan 2027 | Night We Met | Nashville |
+| Sat, 6 Feb 2027 | Société des arts technologiques | Montreal |
 | Sat, 20 Feb 2027 | H0L0 | New York City |
 | Fri, 26 Feb 2027 | Quartyard | San-diego |
 
@@ -28,4 +29,4 @@ Jacques Greene is a house and techno artist based in Canada, with 118 gigs on so
 
 Nosaj Thing, Jubilee, Coffintexts
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

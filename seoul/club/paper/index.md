@@ -1,6 +1,6 @@
 # Paper
 
-Paper is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Cherrish Club, 2nd Anniversary Trip" on Fri, 27 Nov 2026.
+Paper is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Cherrish Club, 2nd Anniversary Trip" on Fri, 27 Nov 2026.
 
 Paper is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including FOI (SK), JAEHAN, JNS and KEEMTE and 2 more. See dates, start times and who's playing. Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350.
 
@@ -17,4 +17,4 @@ Paper is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 
 Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350, Seoul
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*

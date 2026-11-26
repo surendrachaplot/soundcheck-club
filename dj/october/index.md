@@ -1,6 +1,6 @@
 # October
 
-October is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mickey Zoggs, Bristol on Fri, 27 Nov 2026.
+October is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mickey Zoggs, Bristol on Fri, 27 Nov 2026.
 
 October is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Florence, London and Strasbourg. Often billed alongside Mackenzie (UK), itako and 1client. Next up: Mickey Zoggs, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ October is a techno and house artist based in United Kingdom, with 14 gigs on so
 
 Mackenzie (UK), itako, 1client
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/october/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/october/)*

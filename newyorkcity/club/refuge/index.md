@@ -1,8 +1,8 @@
 # Refuge
 
-Refuge is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "David Morales" on Thu, 26 Nov 2026.
+Refuge is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "David Morales" on Thu, 26 Nov 2026.
 
-Refuge is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including AJ Christou, Cristoph, David Morales and Isaac Carter and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including AJ Christou, Analog Soul, Anthony Parasole and Clive Henry and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 14 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

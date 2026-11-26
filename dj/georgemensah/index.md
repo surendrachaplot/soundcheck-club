@@ -1,6 +1,6 @@
 # George Mensah
 
-George Mensah is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
+George Mensah is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
 
 George Mensah is a house and tech house artist based in United Kingdom, with 96 gigs on soundcheck across Brighton, Ibiza, Leeds and Liverpool and 5 more. Often billed alongside Sammy Porter, Tilli Murphy and Charlotte Van de Peer. Next up: Chelmsford City Racecourse, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ George Mensah is a house and tech house artist based in United Kingdom, with 96 
 
 Sammy Porter, Tilli Murphy, Charlotte Van de Peer
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemensah/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemensah/)*

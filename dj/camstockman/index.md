@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Cam Stockman is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, with 83 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 28 more. Often billed alongside Tommy Phillips, Jamback and Locky. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 83 g
 
 Tommy Phillips, Jamback, Locky
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

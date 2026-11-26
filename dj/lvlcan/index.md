@@ -1,14 +1,15 @@
 # LVL (CAN)
 
-LVL (CAN) is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Gastown, Vancouver on Sat, 28 Nov 2026.
+LVL (CAN) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Gastown, Vancouver on Sat, 28 Nov 2026.
 
-LVL (CAN) is a bass and house artist based in Canada, with 6 gigs on soundcheck across Vancouver. Often billed alongside Aaron Payne, Bÿständer and C-Star. Next up: TBA - Gastown, Vancouver on Sat 28 Nov.
+LVL (CAN) is a bass and techno artist based in Canada, with 7 gigs on soundcheck across Budapest and Vancouver. Often billed alongside Aaron Payne, Bÿständer and C-Star. Next up: TBA - Gastown, Vancouver on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Gastown | Vancouver |
+| Fri, 11 Dec 2026 | Edith | Budapest |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ LVL (CAN) is a bass and house artist based in Canada, with 6 gigs on soundcheck 
 
 Aaron Payne, Bÿständer, C-Star
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvlcan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvlcan/)*

@@ -1,8 +1,8 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Sat, 19 Dec 2026.
+Dr. Rubinstein is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Sat, 19 Dec 2026.
 
-Dr. Rubinstein is a techno and house artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 67 more. Often billed alongside Ellen Allien, Freddy K and Hyperaktivist. Next up: Good Room, New York City on Sat 19 Dec.
+Dr. Rubinstein is a techno and house artist based in Germany, with 218 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 67 more. Often billed alongside Ellen Allien, Freddy K and Hyperaktivist. Next up: Good Room, New York City on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 217 gigs on s
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Good Room | New York City |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
+| Sat, 26 Dec 2026 | CLUB RAUM | Amsterdam |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 217 gigs on s
 
 Ellen Allien, Freddy K, Hyperaktivist
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

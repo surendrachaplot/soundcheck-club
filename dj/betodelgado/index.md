@@ -1,6 +1,6 @@
 # Beto Delgado
 
-Beto Delgado is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Atlantic Sound, Barcelona on Sat, 12 Dec 2026.
+Beto Delgado is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Atlantic Sound, Barcelona on Sat, 12 Dec 2026.
 
 Beto Delgado is a progressive house and techno artist based in Spain, with 28 gigs on soundcheck across Barcelona. Often billed alongside KARELBLADE, Ibañez and JOANNA DARK. Next up: Atlantic Sound, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Beto Delgado is a progressive house and techno artist based in Spain, with 28 gi
 
 KARELBLADE, Ibañez, JOANNA DARK
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betodelgado/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betodelgado/)*

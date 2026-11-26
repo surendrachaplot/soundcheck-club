@@ -1,6 +1,6 @@
 # Super8 & Tab
 
-Super8 & Tab is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Outernet Live, London on Sat, 30 Jan 2027.
+Super8 & Tab is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Outernet Live, London on Sat, 30 Jan 2027.
 
 Super8 & Tab are a progressive house and trance duo based in Finland, with 15 gigs on soundcheck across Auckland, Birmingham, Glasgow and Helsinki and 10 more. Often billed alongside Amy Wiles, Leena Punks and Richard Durand. Next up: Outernet Live, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Super8 & Tab are a progressive house and trance duo based in Finland, with 15 gi
 
 Amy Wiles, Leena Punks, Richard Durand
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*

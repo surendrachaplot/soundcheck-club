@@ -1,6 +1,6 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Labyrinth Weekend" on Fri, 27 Nov 2026.
+RADION is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Labyrinth Weekend" on Fri, 27 Nov 2026.
 
 RADION is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 1morning, Adriana Lopez, Akua and Alexia Glensy and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
@@ -23,4 +23,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, wit
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

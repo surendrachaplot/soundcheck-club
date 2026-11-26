@@ -1,6 +1,6 @@
 # La Portenya DJ
 
-La Portenya DJ is a Latin Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Diobar, Barcelona on Fri, 27 Nov 2026.
+La Portenya DJ is a Latin Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Diobar, Barcelona on Fri, 27 Nov 2026.
 
 La Portenya DJ is a latin bass and disco artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside La Porteña y los Piratas, Arturo Banbini and Konik Polny. Next up: Diobar, Barcelona on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ La Portenya DJ is a latin bass and disco artist based in Spain, with 5 gigs on s
 
 La Porteña y los Piratas, Arturo Banbini, Konik Polny
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenyadj/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenyadj/)*

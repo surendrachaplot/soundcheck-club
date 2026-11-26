@@ -1,6 +1,6 @@
 # The Crane
 
-The Crane is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 4 Dec 2026.
+The Crane is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 4 Dec 2026.
 
 The Crane is a bass and pop artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside bad_dubs, Haider and Dream Sequence. Next up: Zum Böhmischen Dorf, Berlin on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ The Crane is a bass and pop artist based in Germany, with 8 gigs on soundcheck a
 
 bad_dubs, Haider, Dream Sequence
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrane/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrane/)*

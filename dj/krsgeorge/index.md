@@ -1,6 +1,6 @@
 # KRS George
 
-KRS George is a Disco and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Soup, Manchester on Thu, 3 Dec 2026.
+KRS George is a Disco and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Soup, Manchester on Thu, 3 Dec 2026.
 
 KRS George is a disco and electronica artist based in United Kingdom, with 2 gigs on soundcheck across Manchester. Often billed alongside Jim Bane, Joseph Tunde and Kieran Jandu. Next up: Soup, Manchester on Thu 3 Dec.
 
@@ -15,4 +15,4 @@ KRS George is a disco and electronica artist based in United Kingdom, with 2 gig
 
 Jim Bane, Joseph Tunde, Kieran Jandu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krsgeorge/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krsgeorge/)*

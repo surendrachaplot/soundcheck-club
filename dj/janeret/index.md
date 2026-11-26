@@ -1,6 +1,6 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at La Belle Électrique, South-east on Sat, 19 Dec 2026.
+Janeret is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Belle Électrique, South-east on Sat, 19 Dec 2026.
 
 Janeret is a house and minimal artist based in France, with 157 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 56 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: La Belle Électrique, South East on Sat 19 Dec.
 
@@ -28,4 +28,4 @@ Janeret is a house and minimal artist based in France, with 157 gigs on soundche
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

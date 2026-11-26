@@ -1,13 +1,14 @@
 # YESNA
 
-YESNA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Moyston, Melbourne on Fri, 5 Mar 2027.
+YESNA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bird, Perth on Mon, 28 Dec 2026.
 
-YESNA is a house and techno artist based in Australia, with 10 gigs on soundcheck across Melbourne and Perth. Often billed alongside Rok Riley, ATARANGI and Cooper Cooper. Next up: Moyston, Melbourne on Fri 5 Mar.
+YESNA is a house and techno artist based in Australia, with 11 gigs on soundcheck across Melbourne and Perth. Often billed alongside Rok Riley, ATARANGI and Burna. Next up: The Bird, Perth on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 28 Dec 2026 | The Bird | Perth |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ YESNA is a house and techno artist based in Australia, with 10 gigs on soundchec
 
 ## Shares bills with
 
-Rok Riley, ATARANGI, Cooper Cooper
+Rok Riley, ATARANGI, Burna
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesna/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesna/)*

@@ -1,6 +1,6 @@
 # Italo Brutalo
 
-Italo Brutalo is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
+Italo Brutalo is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
 
 Italo Brutalo is a techno and italo disco artist based in Germany, with 29 gigs on soundcheck across Athens, Berlin, Hamburg and Ibiza and 8 more. Often billed alongside ANDI A., Crille & Tamalt and Franz Scala. Next up: Gabriel Loci, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Italo Brutalo is a techno and italo disco artist based in Germany, with 29 gigs 
 
 ANDI A., Crille & Tamalt, Franz Scala
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*

@@ -1,6 +1,6 @@
 # Jude Race
 
-Jude Race is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Concept Haus, Manchester on Thu, 31 Dec 2026.
+Jude Race is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Concept Haus, Manchester on Thu, 31 Dec 2026.
 
 Jude Race is a house and techno artist based in United Kingdom, with 31 gigs on soundcheck across Leeds, London, Manchester and Newcastle. Often billed alongside Weston, Louie G and Bunney. Next up: Concept Haus, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jude Race is a house and techno artist based in United Kingdom, with 31 gigs on 
 
 Weston, Louie G, Bunney
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*

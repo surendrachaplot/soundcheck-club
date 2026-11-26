@@ -1,6 +1,6 @@
 # Marc Homer
 
-Marc Homer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SOS, Detroit on Thu, 26 Nov 2026.
+Marc Homer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SOS, Detroit on Thu, 26 Nov 2026.
 
 Marc Homer is a techno and house artist based in Germany, with 41 gigs on soundcheck across Atlanta, Berlin, Detroit and Los Angeles and 3 more. Often billed alongside Wax Assassin, we1sman and Khloe. Next up: SOS, Detroit on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Marc Homer is a techno and house artist based in Germany, with 41 gigs on soundc
 
 Wax Assassin, we1sman, Khloe
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchomer/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchomer/)*

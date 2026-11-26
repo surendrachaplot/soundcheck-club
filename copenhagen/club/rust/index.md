@@ -1,6 +1,6 @@
 # RUST
 
-RUST is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Woesum (SE) + Europa (DE) // RUST" on Thu, 26 Nov 2026.
+RUST is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Woesum (SE) + Europa (DE) // RUST" on Thu, 26 Nov 2026.
 
 RUST is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Absalon Rieper, Anton Goltermann, Tiffi M and Tony Bontana and 1 more. See dates, start times and who's playing. Guldbergsgade 8, 2200 København N.
 
@@ -18,4 +18,4 @@ RUST is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with 
 
 Guldbergsgade 8, 2200 København N, Copenhagen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*

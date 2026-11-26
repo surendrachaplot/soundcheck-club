@@ -1,6 +1,6 @@
 # STUKES
 
-STUKES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
+STUKES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
 
 STUKES is a techno and house artist based in United States of America, with 43 gigs on soundcheck across Baltimore, Detroit, Los Angeles and New York City and 3 more. Often billed alongside B_X_R_N_X_R_D, Xav (US) and TonalTheory. Next up: TBA - Washington DC , Washington DC on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ STUKES is a techno and house artist based in United States of America, with 43 g
 
 B_X_R_N_X_R_D, Xav (US), TonalTheory
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*

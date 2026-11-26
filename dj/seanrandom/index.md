@@ -1,6 +1,6 @@
 # Sean Random
 
-Sean Random is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Viuz, Medellin on Sat, 28 Nov 2026.
+Sean Random is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Viuz, Medellin on Sat, 28 Nov 2026.
 
 Sean Random is a tech house and minimal artist based in Colombia, with 64 gigs on soundcheck across Medellin. Often billed alongside Nook, Raized and DH Moon. Next up: Viuz, Medellin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sean Random is a tech house and minimal artist based in Colombia, with 64 gigs o
 
 Nook, Raized, DH Moon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrandom/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrandom/)*

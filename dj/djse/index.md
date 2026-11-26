@@ -1,6 +1,6 @@
 # Dj Sé
 
-Dj Sé is a Bass and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 26 Nov 2026.
+Dj Sé is a Bass and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 26 Nov 2026.
 
 Dj Sé is a bass and downtempo artist based in Mexico, with 7 gigs on soundcheck across Mexico City. Often billed alongside Cybebe, Astroboii and Lyo XS. Next up: nueve cero nueve, Mexico City on Thu 26 Nov.
 
@@ -23,4 +23,4 @@ Dj Sé is a bass and downtempo artist based in Mexico, with 7 gigs on soundcheck
 
 Cybebe, Astroboii, Lyo XS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djse/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djse/)*

@@ -1,6 +1,6 @@
 # Philo_
 
-Philo_ is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tagada, Vienna on Sat, 28 Nov 2026.
+Philo_ is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tagada, Vienna on Sat, 28 Nov 2026.
 
 Philo_ is a house and breakbeat artist based in Austria, with 21 gigs on soundcheck across Berlin, Cologne, Hamburg and Münster and 1 more. Often billed alongside KLARYOKO, Aino DJ and BØRT. Next up: Tagada, Vienna on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Philo_ is a house and breakbeat artist based in Austria, with 21 gigs on soundch
 
 KLARYOKO, Aino DJ, BØRT
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philo_/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philo_/)*

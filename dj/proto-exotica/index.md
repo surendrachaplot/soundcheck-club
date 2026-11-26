@@ -1,17 +1,18 @@
 # Proto-Exotica
 
-Proto-Exotica is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Music Room, Melbourne on Sun, 15 Nov 2026.
+Proto-Exotica is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dr Morse, Melbourne on Fri, 1 Jan 2027.
 
-Proto-Exotica is a house and disco artist based in Australia, with 37 gigs on soundcheck across Bangkok, Kuala Lumpur, Melbourne and Singapore and 2 more. Often billed alongside Princey, Freddy Gardens and Porcelain Prince. Next up: Music Room, Melbourne on Sun 15 Nov.
+Proto-Exotica is a house and disco artist based in Australia, with 38 gigs on soundcheck across Bangkok, Kuala Lumpur, Melbourne and Singapore and 2 more. Often billed alongside Princey, Freddy Gardens and Porcelain Prince. Next up: Dr Morse, Melbourne on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Music Room | Melbourne |
+| Fri, 1 Jan 2027 | Dr Morse | Melbourne |
 
 ## Recently played
 
+- Music Room, Melbourne · Sun, 15 Nov 2026
 - Angel Music Bar, Melbourne · Fri, 13 Nov 2026
 - Revolver Upstairs, Melbourne · Sat, 28 Mar 2026
 - Angel Music Bar, Melbourne · Sat, 21 Mar 2026
@@ -19,10 +20,9 @@ Proto-Exotica is a house and disco artist based in Australia, with 37 gigs on so
 - TBA - Inner North Warehouse Location, Melbourne · Sat, 28 Feb 2026
 - Angel Music Bar, Melbourne · Sat, 17 Jan 2026
 - Collingwood Children's Farm, Melbourne · Wed, 31 Dec 2025
-- Rawmen Records, Tokyo · Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Princey, Freddy Gardens, Porcelain Prince
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proto-exotica/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proto-exotica/)*

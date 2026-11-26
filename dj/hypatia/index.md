@@ -1,6 +1,6 @@
 # Hypatia
 
-Hypatia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Nest, Basel on Sat, 12 Dec 2026.
+Hypatia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Nest, Basel on Sat, 12 Dec 2026.
 
 Hypatia is a techno and industrial artist based in Germany, with 12 gigs on soundcheck across Barcelona, Basel, Berlin and Leipzig and 1 more. Often billed alongside Sarah for Sure, Clarisse and Inverse Element. Next up: Nest, Basel on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Hypatia is a techno and industrial artist based in Germany, with 12 gigs on soun
 
 Sarah for Sure, Clarisse, Inverse Element
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypatia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypatia/)*

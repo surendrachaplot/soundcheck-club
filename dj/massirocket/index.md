@@ -1,6 +1,6 @@
 # Massi Rocket
 
-Massi Rocket is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Rocket Club, Milan on Thu, 26 Nov 2026.
+Massi Rocket is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Rocket Club, Milan on Thu, 26 Nov 2026.
 
 Massi Rocket is a house and tech house artist based in Italy, with 95 gigs on soundcheck across Athens and Milan. Often billed alongside Richey V, Dusk Poem and Simon Ricci. Next up: The Rocket Club, Milan on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Massi Rocket is a house and tech house artist based in Italy, with 95 gigs on so
 
 Richey V, Dusk Poem, Simon Ricci
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massirocket/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massirocket/)*

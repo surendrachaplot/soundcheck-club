@@ -1,6 +1,6 @@
 # Vanoni
 
-Vanoni is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Under Club, Buenos Aires on Fri, 27 Nov 2026.
+Vanoni is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Under Club, Buenos Aires on Fri, 27 Nov 2026.
 
 Vanoni is a techno and idm artist based in Argentina, with 11 gigs on soundcheck across Buenos Aires. Often billed alongside Forest On Stasys, Kyntral and Alderaan. Next up: Under Club, Buenos Aires on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vanoni is a techno and idm artist based in Argentina, with 11 gigs on soundcheck
 
 Forest On Stasys, Kyntral, Alderaan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanoni/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanoni/)*

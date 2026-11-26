@@ -1,6 +1,6 @@
 # Punisher
 
-Punisher is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Airport Würzburg, Nürnberg on Sat, 2 Jan 2027.
+Punisher is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Airport Würzburg, Nürnberg on Sat, 2 Jan 2027.
 
 Punisher is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Boston, Detroit, Frankfurt and Nürnberg and 2 more. Often billed alongside Joe Tagessian, Blake Baxter and Dan Bain. Next up: Airport Würzburg, Nürnberg on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Punisher is a techno and house artist based in United States of America, with 19
 
 Joe Tagessian, Blake Baxter, Dan Bain
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punisher/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punisher/)*

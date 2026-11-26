@@ -1,6 +1,6 @@
 # Marino
 
-Marino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
+Marino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
 
 Marino is a techno and house artist based in Belgium, with 8 gigs on soundcheck across Barcelona, Milan and Münster. Often billed alongside ALYF, Dennis Siemion and Pechschwarz. Next up: Fusion Club, Münster on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Marino is a techno and house artist based in Belgium, with 8 gigs on soundcheck 
 
 ALYF, Dennis Siemion, Pechschwarz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marino/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marino/)*

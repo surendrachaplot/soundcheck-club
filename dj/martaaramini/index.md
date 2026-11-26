@@ -1,14 +1,14 @@
 # marta aramini
 
-marta aramini is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - New Location! , Los Angeles on Sat, 28 Nov 2026.
+marta aramini is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - New Location, Los Angeles on Sat, 28 Nov 2026.
 
-marta aramini is a house and afro house artist based in United States of America, with 19 gigs on soundcheck across Barcelona, Los Angeles, Miami and San Diego. Often billed alongside Sauaro, AMIRA and Ardalan. Next up: TBA - New Location! , Los Angeles on Sat 28 Nov.
+marta aramini is a house and afro house artist based in United States of America, with 19 gigs on soundcheck across Barcelona, Los Angeles, Miami and San Diego. Often billed alongside Sauaro, AMIRA and Ardalan. Next up: TBA - New Location, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | TBA - New Location!  | Los Angeles |
+| Sat, 28 Nov 2026 | TBA - New Location | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ marta aramini is a house and afro house artist based in United States of America
 
 Sauaro, AMIRA, Ardalan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaramini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaramini/)*

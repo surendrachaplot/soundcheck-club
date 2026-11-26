@@ -1,13 +1,14 @@
 # Hang The DJs
 
-Hang The DJs is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
+Hang The DJs is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hootananny Brixton, London on Fri, 4 Dec 2026.
 
-Hang The DJs is a hardcore and gabber artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 4 more. Often billed alongside Lobsta B, Stinny Stone and alterum. Next up: Sawmills, Bristol on Thu 31 Dec.
+Hang The DJs is a hardcore and gabber artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 4 more. Often billed alongside Lobsta B, alterum and Slayphex Twins. Next up: Hootananny Brixton, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Hootananny Brixton | London |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
 | Sat, 24 Apr 2027 | Outernet Live | London |
 
@@ -24,6 +25,6 @@ Hang The DJs is a hardcore and gabber artist based in United Kingdom, with 22 gi
 
 ## Shares bills with
 
-Lobsta B, Stinny Stone, alterum
+Lobsta B, alterum, Slayphex Twins
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hangthedjs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hangthedjs/)*

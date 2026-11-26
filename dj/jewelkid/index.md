@@ -1,6 +1,6 @@
 # Jewel Kid
 
-Jewel Kid is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Duel Club, Naples on Sat, 5 Dec 2026.
+Jewel Kid is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Duel Club, Naples on Sat, 5 Dec 2026.
 
 Jewel Kid is a house and tech house artist based in Malta, with 9 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 5 more. Often billed alongside James Hurr, NODUS and Sam Supplier. Next up: Duel Club, Naples on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jewel Kid is a house and tech house artist based in Malta, with 9 gigs on soundc
 
 James Hurr, NODUS, Sam Supplier
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelkid/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelkid/)*

@@ -1,6 +1,6 @@
 # Séxstasy
 
-Séxstasy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
+Séxstasy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
 
 Séxstasy is a techno and house artist based in Russia, with 21 gigs on soundcheck across Bali, Bangkok, Beijing and Belgrade and 8 more. Often billed alongside Kirill Shapovalov, Sofia Rodina and Dirty Daddy Don. Next up: Retro Mountain Koh Phangan, Thailand on Thu 14 Jan.
 
@@ -25,4 +25,4 @@ Séxstasy is a techno and house artist based in Russia, with 21 gigs on soundche
 
 Kirill Shapovalov, Sofia Rodina, Dirty Daddy Don
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexstasy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexstasy/)*

@@ -1,8 +1,8 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Max Dean is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Max Dean is a house and tech house artist based in United Kingdom, with 248 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Max Dean is a house and tech house artist based in United Kingdom, with 249 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Max Dean is a house and tech house artist based in United Kingdom, with 248 gigs
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
+| Sat, 28 Nov 2026 | TBA | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sat, 5 Dec 2026 | Factory Town | Miami |
 | Sun, 27 Dec 2026 | Depot Mayfield | Manchester |
@@ -33,4 +34,4 @@ Max Dean is a house and tech house artist based in United Kingdom, with 248 gigs
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

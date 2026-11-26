@@ -1,6 +1,6 @@
 # Sala Upload Barcelona
 
-Sala Upload Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "El Circuit: Naia, Gusset i Calero" on Thu, 26 Nov 2026.
+Sala Upload Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "El Circuit: Naia, Gusset i Calero" on Thu, 26 Nov 2026.
 
 Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Axis Mundi, Beatrice (DE), Diego Montiel and Enzio Etchaberri and 2 more. See dates, start times and who's playing. Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona.
 
@@ -18,4 +18,4 @@ Sala Upload Barcelona is a music venue in Barcelona listed on soundcheck. 5 upco
 
 Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona, Barcelona
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-upload-barcelona/)*

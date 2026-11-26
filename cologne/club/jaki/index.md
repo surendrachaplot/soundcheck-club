@@ -1,6 +1,6 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "JAKI presents: Spöki & auflinks" on Fri, 27 Nov 2026.
+JAKI is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "JAKI presents: Spöki & auflinks" on Fri, 27 Nov 2026.
 
 JAKI is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with line-ups including DJ ASS TITS, juno.j, Kosta Kostov and Slaymira. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
@@ -17,4 +17,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

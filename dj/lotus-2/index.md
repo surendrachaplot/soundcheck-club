@@ -1,6 +1,6 @@
 # Lotus (2)
 
-Lotus (2) is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 11 Dec 2026.
+Lotus (2) is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 11 Dec 2026.
 
 Lotus is a psytrance and techno artist based in Netherlands, with 6 gigs on soundcheck across Rotterdam and Tokyo. Often billed alongside Takuya Asakura, Ajuma and BERLINER KINDL. Next up: Koenji Cave, Tokyo on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Lotus is a psytrance and techno artist based in Netherlands, with 6 gigs on soun
 
 Takuya Asakura, Ajuma, BERLINER KINDL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotus-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotus-2/)*

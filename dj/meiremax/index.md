@@ -1,6 +1,6 @@
 # Meiremax
 
-Meiremax is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Blindspot*, Bucharest on Sat, 5 Dec 2026.
+Meiremax is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blindspot*, Bucharest on Sat, 5 Dec 2026.
 
 Meiremax is a hardcore and gabber artist based in Belgium, with 15 gigs on soundcheck across Antwerp and Bucharest. Often billed alongside Dalek, Project Morpheus and Neotroxian. Next up: Blindspot*, Bucharest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Meiremax is a hardcore and gabber artist based in Belgium, with 15 gigs on sound
 
 Dalek, Project Morpheus, Neotroxian
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meiremax/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meiremax/)*

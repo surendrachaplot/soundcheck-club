@@ -1,6 +1,6 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BOPS • queer. pop. party" on Fri, 27 Nov 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BOPS • queer. pop. party" on Fri, 27 Nov 2026.
 
 THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Absoluut, Bass Btch, Budakid and Cote de Boeuf and the Elegant 1 and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
@@ -20,4 +20,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming gi
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

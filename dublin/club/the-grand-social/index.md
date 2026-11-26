@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ENCORE LAB - Grand opening - HENRI" on Sat, 28 Nov 2026.
+The Grand Social is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ENCORE LAB - Grand opening - HENRI" on Sat, 28 Nov 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with line-ups including Connect, Henri Bergmann, Toru Ikemoto and Warrington-Runcorn New Town Development Plan. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -17,4 +17,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 4 upcoming gig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

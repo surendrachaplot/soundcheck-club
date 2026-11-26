@@ -1,13 +1,14 @@
 # Tanja Turner
 
-Tanja Turner is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Celeste, Vienna on Sat, 19 Dec 2026.
+Tanja Turner is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 4 Dec 2026.
 
-Tanja Turner is a house and disco artist based in Austria, with 20 gigs on soundcheck across Vienna. Often billed alongside Ambient Animal, DJ Ebhardy and Kobermann. Next up: Celeste, Vienna on Sat 19 Dec.
+Tanja Turner is a house and disco artist based in Austria, with 21 gigs on soundcheck across Vienna. Often billed alongside Ambient Animal, DJ Ebhardy and Kobermann. Next up: Funkhaus Wien, Vienna on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Funkhaus Wien | Vienna |
 | Sat, 19 Dec 2026 | Celeste | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tanja Turner is a house and disco artist based in Austria, with 20 gigs on sound
 
 Ambient Animal, DJ Ebhardy, Kobermann
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjaturner/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjaturner/)*

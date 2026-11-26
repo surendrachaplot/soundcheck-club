@@ -1,6 +1,6 @@
 # Samo
 
-Samo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Saloon, Tokyo on Thu, 26 Nov 2026.
+Samo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Saloon, Tokyo on Thu, 26 Nov 2026.
 
 Samo is a house and techno artist based in Denmark, with 97 gigs on soundcheck across Hong Kong, Kyoto, London and Mexico City and 5 more. Often billed alongside kengotaki, YUVIE and r1ku. Next up: Saloon, Tokyo on Thu 26 Nov.
 
@@ -28,4 +28,4 @@ Samo is a house and techno artist based in Denmark, with 97 gigs on soundcheck a
 
 kengotaki, YUVIE, r1ku
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samo/)*

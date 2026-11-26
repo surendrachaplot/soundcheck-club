@@ -1,6 +1,6 @@
 # Marc Monton
 
-Marc Monton is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Slow Club, Barcelona on Fri, 4 Dec 2026.
+Marc Monton is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Slow Club, Barcelona on Fri, 4 Dec 2026.
 
 Marc Monton is a tech house and techno artist based in Spain, with 17 gigs on soundcheck across Barcelona. Often billed alongside LawFish, Sergio Blema and Seba Ruiz. Next up: Slow Club, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Marc Monton is a tech house and techno artist based in Spain, with 17 gigs on so
 
 LawFish, Sergio Blema, Seba Ruiz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmonton/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmonton/)*

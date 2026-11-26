@@ -1,6 +1,6 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Twist Bar, Prague on Fri, 4 Dec 2026.
+DJ Fett Burger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Twist Bar, Prague on Fri, 4 Dec 2026.
 
 DJ Fett Burger is a house and disco artist based in Norway, with 109 gigs on soundcheck across Antwerp, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: Twist Bar, Prague on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ DJ Fett Burger is a house and disco artist based in Norway, with 109 gigs on sou
 
 Telephones, DJ Sotofett, Jana Falcon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*

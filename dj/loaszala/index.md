@@ -1,6 +1,6 @@
 # Loa Szala
 
-Loa Szala is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
+Loa Szala is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
 
 Loa Szala is a house and techno artist based in United Kingdom, with 121 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 40 more. Often billed alongside Jos, Andy Luff and Alien Communications. Next up: Carreglwyd Estate, West Wales on Thu 10 Jun.
 
@@ -25,4 +25,4 @@ Loa Szala is a house and techno artist based in United Kingdom, with 121 gigs on
 
 Jos, Andy Luff, Alien Communications
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*

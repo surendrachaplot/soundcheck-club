@@ -1,6 +1,6 @@
 # Onarrivenow
 
-Onarrivenow is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Astron Club, Athens on Sat, 5 Dec 2026.
+Onarrivenow is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Astron Club, Athens on Sat, 5 Dec 2026.
 
 Onarrivenow is a club and bass artist based in Greece, with 13 gigs on soundcheck across Athens and Berlin. Often billed alongside OKO DJ, Eiger Drums Propaganda and Andreas Palmer. Next up: Astron Club, Athens on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Onarrivenow is a club and bass artist based in Greece, with 13 gigs on soundchec
 
 OKO DJ, Eiger Drums Propaganda, Andreas Palmer
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onarrivenow/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onarrivenow/)*

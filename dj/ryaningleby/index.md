@@ -1,6 +1,6 @@
 # Ryan Ingleby
 
-Ryan Ingleby is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Shrimp, Manchester on Sun, 20 Dec 2026.
+Ryan Ingleby is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Shrimp, Manchester on Sun, 20 Dec 2026.
 
 Ryan Ingleby is an electro and techno artist based in United Kingdom, with 53 gigs on soundcheck across Leeds, London, Manchester and Valencia. Often billed alongside Louie G, Ethan McNamara and FROND. Next up: Bar Shrimp, Manchester on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ Ryan Ingleby is an electro and techno artist based in United Kingdom, with 53 gi
 
 Louie G, Ethan McNamara, FROND
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryaningleby/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryaningleby/)*

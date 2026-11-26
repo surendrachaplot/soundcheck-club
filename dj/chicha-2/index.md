@@ -1,6 +1,6 @@
 # Chicha (2)
 
-Chicha (2) is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 5 Dec 2026.
+Chicha (2) is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 5 Dec 2026.
 
 Chicha is a bass and house artist based in United Kingdom, with 44 gigs on soundcheck across Edinburgh, Glasgow, London and Madrid and 1 more. Often billed alongside xivro, Libra Esterlina and makaya. Next up: EXIT Glasgow, Glasgow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Chicha is a bass and house artist based in United Kingdom, with 44 gigs on sound
 
 xivro, Libra Esterlina, makaya
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicha-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicha-2/)*

@@ -1,0 +1,28 @@
+# Hally
+
+Hally is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bird, Perth on Mon, 28 Dec 2026.
+
+Hally is a bass and techno artist based in United Kingdom, with 38 gigs on soundcheck across Adelaide, Birmingham, Edinburgh and Glasgow and 9 more. Often billed alongside Burna, Girl Tool and Boy In Nature. Next up: The Bird, Perth on Mon 28 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Mon, 28 Dec 2026 | The Bird | Perth |
+
+## Recently played
+
+- boomroom, Perth · Fri, 23 Oct 2026
+- Buffalo Club Fremantle, Perth · Sat, 13 Jun 2026
+- Webster's Rooftop and Bar, Sydney · Fri, 29 May 2026
+- Section 8, Melbourne · Sat, 21 Mar 2026
+- RASA, Singapore · Sat, 7 Feb 2026
+- Pisco Bar, Kuala Lumpur · Sat, 24 Jan 2026
+- Ramona, Manchester · Wed, 17 Dec 2025
+- The Bongo Club, Edinburgh · Sat, 22 Nov 2025
+
+## Shares bills with
+
+Burna, Girl Tool, Boy In Nature
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hally/)*

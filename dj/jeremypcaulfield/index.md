@@ -1,6 +1,6 @@
 # Jeremy P. Caulfield
 
-Jeremy P. Caulfield is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bsmt 254, Toronto on Sun, 27 Dec 2026.
+Jeremy P. Caulfield is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bsmt 254, Toronto on Sun, 27 Dec 2026.
 
 Jeremy P. Caulfield is a techno and drum & bass artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside Lee Osborne, Ian Guthrie and CAETANO. Next up: Bsmt 254, Toronto on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Jeremy P. Caulfield is a techno and drum & bass artist based in Canada, with 9 g
 
 Lee Osborne, Ian Guthrie, CAETANO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremypcaulfield/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremypcaulfield/)*

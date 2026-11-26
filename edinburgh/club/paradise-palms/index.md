@@ -1,6 +1,6 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Bailerinas" on Fri, 27 Nov 2026.
+Paradise Palms is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Bailerinas" on Fri, 27 Nov 2026.
 
 Paradise Palms is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including bailerinas, Flipside, Jedda and Louspresso and 1 more. See dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 2 upcoming gi
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

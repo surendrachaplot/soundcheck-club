@@ -1,8 +1,8 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sama, Tbilisi on Fri, 27 Nov 2026.
+Lakuti is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sama, Tbilisi on Fri, 27 Nov 2026.
 
-Lakuti is a house and techno artist based in United Kingdom, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Sama, Tbilisi on Fri 27 Nov.
+Lakuti is a house and techno artist based in United Kingdom, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Sama, Tbilisi on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lakuti is a house and techno artist based in United Kingdom, with 225 gigs on so
 | Fri, 27 Nov 2026 | Sama | Tbilisi |
 | Fri, 4 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
+| Sat, 26 Dec 2026 | Tikal Praia Bar | Brazil |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Sat, 6 Mar 2027 | The Cause | London |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
@@ -31,4 +32,4 @@ Lakuti is a house and techno artist based in United Kingdom, with 225 gigs on so
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

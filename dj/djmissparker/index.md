@@ -1,8 +1,8 @@
 # DJ Miss Parker
 
-DJ Miss Parker is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at smartbar, Chicago on Sun, 13 Dec 2026.
+DJ Miss Parker is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at smartbar, Chicago on Sun, 13 Dec 2026.
 
-DJ Miss Parker is a techno and acid artist based in United States of America, with 4 gigs on soundcheck across Chicago and New York City. Often billed alongside Amotik, Auspex and Beste Hira. Next up: smartbar, Chicago on Sun 13 Dec.
+DJ Miss Parker is a house and techno artist based in United States of America, with 5 gigs on soundcheck across Chicago and New York City. Often billed alongside Amotik, Auspex and Beste Hira. Next up: smartbar, Chicago on Sun 13 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Miss Parker is a techno and acid artist based in United States of America, wi
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | smartbar | Chicago |
 | Thu, 17 Dec 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 19 Dec 2026 | Paragon | New York City |
 | Wed, 23 Dec 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 31 Dec 2026 | TBA - Brooklyn | New York City |
 
@@ -17,4 +18,4 @@ DJ Miss Parker is a techno and acid artist based in United States of America, wi
 
 Amotik, Auspex, Beste Hira
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmissparker/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmissparker/)*

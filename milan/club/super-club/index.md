@@ -1,6 +1,6 @@
 # Super Club
 
-Super Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "1 Million Black Tour by Rabanne" on Thu, 26 Nov 2026.
+Super Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "1 Million Black Tour by Rabanne" on Thu, 26 Nov 2026.
 
 Super Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including BL3CKSMITH, EDMMARO, MARNIK and N4C and 1 more. See dates, start times and who's playing. Via Tortona 27, 20144, Milano.
 
@@ -16,4 +16,4 @@ Super Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with
 
 Via Tortona 27, 20144, Milano, Milan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/super-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/super-club/)*

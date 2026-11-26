@@ -1,6 +1,6 @@
 # Pleasure Club
 
-Pleasure Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "little Pleasure party feat. DeepFaith & Dreems" on Thu, 31 Dec 2026.
+Pleasure Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "little Pleasure party feat. DeepFaith & Dreems" on Thu, 31 Dec 2026.
 
 Pleasure Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Dreems, Jocelyn (AU), La Figa and MADAMI and 1 more. See dates, start times and who's playing. 6 Wilson St, Newtown NSW 2042.
 
@@ -14,4 +14,4 @@ Pleasure Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, w
 
 6 Wilson St, Newtown NSW 2042, Sydney
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pleasure-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pleasure-club/)*

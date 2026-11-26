@@ -1,6 +1,6 @@
 # KŌMA (3)
 
-KŌMA (3) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
+KŌMA (3) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
 
 KŌMA is a techno and bass artist based in Belgium, with 47 gigs on soundcheck across Antwerp, Berlin, Bristol and Brussels and 6 more. Often billed alongside Shoplifter, VCR and Erykah. Next up: C12, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ KŌMA is a techno and bass artist based in Belgium, with 47 gigs on soundcheck a
 
 Shoplifter, VCR (1), Erykah
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-3/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-3/)*

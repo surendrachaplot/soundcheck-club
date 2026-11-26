@@ -1,6 +1,6 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at DRUMSHEDS, London on Sun, 20 Dec 2026.
+Nicole Moudaber is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at DRUMSHEDS, London on Sun, 20 Dec 2026.
 
 Nicole Moudaber is a techno and house artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 50 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: DRUMSHEDS, London on Sun 20 Dec.
 
@@ -35,4 +35,4 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 155 g
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

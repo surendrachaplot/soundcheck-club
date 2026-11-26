@@ -1,6 +1,6 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Castro Theatre, San Francisco/Oakland on Fri, 5 Feb 2027.
+Alex Oxley is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Castro Theatre, San Francisco/Oakland on Fri, 5 Feb 2027.
 
 Alex Oxley is a disco and italo disco artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 25 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: The Castro Theatre, San Francisco/Oakland on Fri 5 Feb.
 
@@ -26,4 +26,4 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 65 gi
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

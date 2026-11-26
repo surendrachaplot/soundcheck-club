@@ -1,6 +1,6 @@
 # Ryan Wells
 
-Ryan Wells is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
+Ryan Wells is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
 
 Ryan Wells is a house and techno artist based in Canada, with 8 gigs on soundcheck across Calgary, London and Vancouver. Often billed alongside Earth2Sam, Finn Nelson and Sergio SP. Next up: Secret Location, London on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Ryan Wells is a house and techno artist based in Canada, with 8 gigs on soundche
 
 Earth2Sam, Finn Nelson, Sergio SP
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanwells/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanwells/)*

@@ -1,6 +1,6 @@
 # Pink Id
 
-Pink Id is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at City Hall, Barcelona on Wed, 25 Nov 2026.
+Pink Id is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at City Hall, Barcelona on Wed, 25 Nov 2026.
 
 Pink Id is a hardcore and acid artist based in Argentina, with 7 gigs on soundcheck across Barcelona. Often billed alongside Atari Stacey, MISKO and Max Circuit. Next up: City Hall, Barcelona on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ Pink Id is a hardcore and acid artist based in Argentina, with 7 gigs on soundch
 
 ## Recently played
 
+- City Hall, Barcelona · Wed, 25 Nov 2026
 - City Hall, Barcelona · Thu, 19 Nov 2026
 - City Hall, Barcelona · Tue, 15 Sept 2026
 - Unplugbcn, Barcelona · Fri, 15 May 2026
@@ -23,4 +24,4 @@ Pink Id is a hardcore and acid artist based in Argentina, with 7 gigs on soundch
 
 Atari Stacey, MISKO, Max Circuit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkid/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkid/)*

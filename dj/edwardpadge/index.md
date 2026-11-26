@@ -1,6 +1,6 @@
 # EDWARD PADGE
 
-EDWARD PADGE is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tamsue, Bangkok on Sat, 28 Nov 2026.
+EDWARD PADGE is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tamsue, Bangkok on Sat, 28 Nov 2026.
 
 EDWARD PADGE is a drum & bass and garage artist based in Myanmar, with 11 gigs on soundcheck across Bangkok. Often billed alongside JAYSN, MINt and SAVEMEKILLY. Next up: Tamsue, Bangkok on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ EDWARD PADGE is a drum & bass and garage artist based in Myanmar, with 11 gigs o
 
 JAYSN, MINt (1), SAVEMEKILLY
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardpadge/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardpadge/)*

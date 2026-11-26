@@ -1,14 +1,15 @@
 # Chanel Carmichael
 
-Chanel Carmichael is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
+Chanel Carmichael is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
 
-Chanel Carmichael is a house and minimal artist based in United Kingdom, with 23 gigs on soundcheck across Helsinki, Ibiza, Liverpool and London and 2 more. Often billed alongside Saffron Stone, AJ Christou and Adam Locke. Next up: Ministry Of Sound, London on Fri 27 Nov.
+Chanel Carmichael is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Helsinki, Ibiza, Liverpool and London and 2 more. Often billed alongside Saffron Stone, AJ Christou and Adam Locke. Next up: Ministry Of Sound, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Ministry Of Sound | London |
+| Fri, 18 Dec 2026 | Egg London | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Chanel Carmichael is a house and minimal artist based in United Kingdom, with 23
 
 Saffron Stone, AJ Christou, Adam Locke
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chanelcarmichael/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chanelcarmichael/)*

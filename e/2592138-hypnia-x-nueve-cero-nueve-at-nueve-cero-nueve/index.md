@@ -1,6 +1,6 @@
 # hypnia X nueve cero nueve at nueve cero nueve
 
-hypnia X nueve cero nueve on Thu 10 Dec, Mexico City. 2 artists: TRIVEAT and Value of Time. House. See the line-up on soundcheck.
+hypnia X nueve cero nueve on Thu 10 Dec, Mexico City. 3 artists: Dani Barbosa, TRIVEAT and Value of Time. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ hypnia X nueve cero nueve on Thu 10 Dec, Mexico City. 2 artists: TRIVEAT and Val
 
 ## Line-up
 
+- Dani Barbosa
 - TRIVEAT
 - Value of Time
 

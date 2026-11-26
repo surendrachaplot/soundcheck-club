@@ -1,6 +1,6 @@
 # Gabbu
 
-Gabbu is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
+Gabbu is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
 
 Gabbu is a techno and industrial artist based in Malta, with 9 gigs on soundcheck across Malta. Often billed alongside Joshua Calleja, OBLX and FIASKA. Next up: Groove Gardens, Malta on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Gabbu is a techno and industrial artist based in Malta, with 9 gigs on soundchec
 
 Joshua Calleja, OBLX, FIASKA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbu/)*

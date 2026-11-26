@@ -1,6 +1,6 @@
 # GUS PICCO
 
-GUS PICCO is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at City Hall, Barcelona on Sat, 5 Dec 2026.
+GUS PICCO is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at City Hall, Barcelona on Sat, 5 Dec 2026.
 
 GUS PICCO is an afro house and house artist based in Argentina, with 15 gigs on soundcheck across Barcelona. Often billed alongside SANIRR, Santi Gonzalez and Agoostina. Next up: City Hall, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ GUS PICCO is an afro house and house artist based in Argentina, with 15 gigs on 
 
 SANIRR, Santi Gonzalez, Agoostina
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*

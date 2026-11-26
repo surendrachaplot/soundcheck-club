@@ -1,6 +1,6 @@
 # Serge Devant
 
-Serge Devant is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Brooklyn Pacha, New York City on Sat, 19 Dec 2026.
+Serge Devant is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Brooklyn Pacha, New York City on Sat, 19 Dec 2026.
 
 Serge Devant is a house and tech house artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Bali, Bogotá and Cyprus and 13 more. Often billed alongside Jamie Jones, Joseph Capriati and Lauren Lane. Next up: Brooklyn Pacha, New York City on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Serge Devant is a house and tech house artist based in United States of America,
 
 Jamie Jones, Joseph Capriati, Lauren Lane
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergedevant/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergedevant/)*

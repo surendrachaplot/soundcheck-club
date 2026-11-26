@@ -1,13 +1,14 @@
 # Jano
 
-Jano is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 19 Dec 2026.
+Jano is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - ROMA NORTE , Mexico City on Fri, 4 Dec 2026.
 
-Jano is a techno and afro house artist based in United Kingdom, with 15 gigs on soundcheck across Bangkok, Brussels, Manchester and Paris and 3 more. Often billed alongside HIDRA, IZIK and MOSTASH. Next up: Bangkok Island, Bangkok on Sat 19 Dec.
+Jano is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Bangkok, Brussels, Manchester and Mexico City and 4 more. Often billed alongside HIDRA, IZIK and MOSTASH. Next up: TBA - ROMA NORTE , Mexico City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | TBA - ROMA NORTE  | Mexico City |
 | Sat, 19 Dec 2026 | Bangkok Island | Bangkok |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jano is a techno and afro house artist based in United Kingdom, with 15 gigs on 
 
 HIDRA, IZIK, MOSTASH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jano/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jano/)*

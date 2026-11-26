@@ -1,15 +1,15 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Chicago House – Live" on Thu, 26 Nov 2026.
+The Fox and Firkin is a music venue in London with 19 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Chicago House – Live" on Thu, 26 Nov 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Awesome Tapes From Africa, Beirut Groove Collective, ben A and Calm Stiege and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Awesome Tapes From Africa, Beirut Groove Collective, Bena and Calm Stiege and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Chicago House – Live |  |
-| Sat, 28 Nov 2026 | Earth Groove X Shedding Histories | Chameleonas, Cosmo Sofi, Edible, ben A |
+| Sat, 28 Nov 2026 | Earth Groove X Shedding Histories | Bena, Chameleonas, Cosmo Sofi, Edible |
 | Sat, 5 Dec 2026 | Noche de las Velitas |  |
 | Fri, 11 Dec 2026 | Prince Fatty X Greensleeves Xmas Dance | Liam Bailey, Prince Fatty |
 | Fri, 11 Dec 2026 | Wah Wah Live: Raz & Afla + Gideon Conn | Dom Servini, Raz and Afla |
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

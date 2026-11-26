@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Discoteca Botánica" on Thu, 26 Nov 2026.
+Paloma is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Discoteca Botánica" on Thu, 26 Nov 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 11:68PM, 4meter, Balthazar Martinez and bb:fm and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including 11:68PM, 4meter, Balthazar Martinez and bb:fm and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Paloma is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with l
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

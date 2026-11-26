@@ -1,6 +1,6 @@
 # Yuzu
 
-Yuzu is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Panaf Night Club, Osaka on Sat, 12 Dec 2026.
+Yuzu is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Panaf Night Club, Osaka on Sat, 12 Dec 2026.
 
 Yuzu is a techno and garage artist, with 11 gigs on soundcheck across Los Angeles, Osaka, San Francisco/Oakland and Tokyo. Often billed alongside Adware, Clearcast and Curb Alert. Next up: Panaf Night Club, Osaka on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Yuzu is a techno and garage artist, with 11 gigs on soundcheck across Los Angele
 
 Adware, Clearcast, Curb Alert
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzu/)*

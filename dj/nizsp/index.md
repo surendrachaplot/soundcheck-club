@@ -1,6 +1,6 @@
 # NIZ (SP)
 
-NIZ (SP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Supermercat Gotico, Barcelona on Wed, 25 Nov 2026.
+NIZ (SP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Supermercat Gotico, Barcelona on Wed, 25 Nov 2026.
 
 NIZ (SP) is a techno and house artist based in Spain, with 58 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Ana Alves, DAX J and Lucía Gea. Next up: The Supermercat Gotico, Barcelona on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ NIZ (SP) is a techno and house artist based in Spain, with 58 gigs on soundcheck
 
 ## Recently played
 
+- The Supermercat Gotico, Barcelona · Wed, 25 Nov 2026
 - Nitsa Club, Barcelona · Fri, 18 Sept 2026
 - Seaseaclub Barcelona, Barcelona · Sun, 5 Jul 2026
 - DETROIT CLUB, Barcelona · Sat, 13 Jun 2026
@@ -19,10 +20,9 @@ NIZ (SP) is a techno and house artist based in Spain, with 58 gigs on soundcheck
 - Moog Club, Barcelona · Fri, 8 May 2026
 - Carpa & Picnic of El Poble Espanyol, Barcelona · Sat, 18 Apr 2026
 - Nitsa Club, Barcelona · Fri, 10 Apr 2026
-- DETROIT CLUB, Barcelona · Sat, 22 Nov 2025
 
 ## Shares bills with
 
 Ana Alves, DAX J, Lucía Gea
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nizsp/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nizsp/)*

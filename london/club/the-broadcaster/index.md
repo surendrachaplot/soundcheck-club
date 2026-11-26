@@ -1,6 +1,6 @@
 # The Broadcaster
 
-The Broadcaster is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Harrison" on Fri, 27 Nov 2026.
+The Broadcaster is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Harrison" on Fri, 27 Nov 2026.
 
 The Broadcaster is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Jason Bye and Tristan Ingram. See dates, start times and who's playing. 89 Wood Ln, London W12 7FX.
 
@@ -18,4 +18,4 @@ The Broadcaster is a music venue in London listed on soundcheck. 5 upcoming gigs
 
 89 Wood Ln, London W12 7FX, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-broadcaster/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-broadcaster/)*

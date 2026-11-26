@@ -1,6 +1,6 @@
 # Jinnychoo
 
-Jinnychoo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Flac, Seoul on Fri, 27 Nov 2026.
+Jinnychoo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Flac, Seoul on Fri, 27 Nov 2026.
 
 Jinnychoo is a house and tech house artist based in South Korea, with 12 gigs on soundcheck across Seoul. Often billed alongside Davico, Departs and Grace Kim. Next up: Flac, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jinnychoo is a house and tech house artist based in South Korea, with 12 gigs on
 
 Davico, Departs, Grace Kim
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinnychoo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinnychoo/)*

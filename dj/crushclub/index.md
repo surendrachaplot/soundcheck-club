@@ -1,6 +1,6 @@
 # Crush Club
 
-Crush Club is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mood Ring, New York City on Fri, 27 Nov 2026.
+Crush Club is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mood Ring, New York City on Fri, 27 Nov 2026.
 
 Crush Club is a techno and house artist based in United States of America, with 10 gigs on soundcheck across New York City, Philadelphia and San Francisco/Oakland. Often billed alongside elle xxo, Señoritajuicy and BEYA. Next up: Mood Ring, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Crush Club is a techno and house artist based in United States of America, with 
 
 elle xxo, Señoritajuicy, BEYA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crushclub/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crushclub/)*

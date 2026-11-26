@@ -1,6 +1,6 @@
 # KASSIS
 
-KASSIS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tunnel, Milan on Sat, 5 Dec 2026.
+KASSIS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tunnel, Milan on Sat, 5 Dec 2026.
 
 KASSIS is a techno and industrial artist based in Bulgaria, with 33 gigs on soundcheck across Berlin, Budapest, Lisbon and London and 4 more. Often billed alongside GØBLIN, VAYROX and Labåzuy. Next up: Tunnel, Milan on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ KASSIS is a techno and industrial artist based in Bulgaria, with 33 gigs on soun
 
 GØBLIN, VAYROX, Labåzuy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassis/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassis/)*

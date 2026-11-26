@@ -1,6 +1,6 @@
 # FatLuck 2 at F8 1192 Folsom
 
-FatLuck 2 at F8 1192 Folsom on Fri 18 Dec, San Francisco/Oakland. 6 artists: AG, DJ Fat Frog, Keishaboy and M27 and 2 more. Club and Jungle. See the line-up on soundcheck.
+FatLuck 2 at F8 1192 Folsom on Fri 18 Dec, San Francisco/Oakland. 7 artists: AG, dj 5spice, DJ Fat Frog and Keishaboy and 3 more. Club and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FatLuck 2 at F8 1192 Folsom on Fri 18 Dec, San Francisco/Oakland. 6 artists: AG,
 ## Line-up
 
 - AG (1)
+- dj 5spice
 - DJ Fat Frog
 - Keishaboy
 - M27 (1)

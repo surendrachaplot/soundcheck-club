@@ -1,6 +1,6 @@
 # Hole44
 
-Hole44 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Dina Summer / Black Devil Disco Club / Boy Deluxe LIVE in Berlin" on Fri, 5 Feb 2027.
+Hole44 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Dina Summer / Black Devil Disco Club / Boy Deluxe LIVE in Berlin" on Fri, 5 Feb 2027.
 
 Hole44 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Black Devil Disco Club, boy deluxe, Dina Summer and Satin Jackets. See dates, start times and who's playing. Hermannstr. 146, 12051 Berlin.
 
@@ -15,4 +15,4 @@ Hole44 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with li
 
 Hermannstr. 146, 12051 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*

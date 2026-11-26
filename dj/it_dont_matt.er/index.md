@@ -1,6 +1,6 @@
 # it_dont_Matt.er
 
-it_dont_Matt.er is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at M.O.T, London on Thu, 11 Feb 2027.
+it_dont_Matt.er is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M.O.T, London on Thu, 11 Feb 2027.
 
 it_dont_Matt.er is a breakcore and hardcore artist based in United Kingdom, with 37 gigs on soundcheck across Cardiff, London and Midlands. Often billed alongside alterum, AC (dot robot) and Takenbymarshall. Next up: M.O.T, London on Thu 11 Feb.
 
@@ -25,4 +25,4 @@ it_dont_Matt.er is a breakcore and hardcore artist based in United Kingdom, with
 
 alterum, AC (dot robot), Takenbymarshall
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*

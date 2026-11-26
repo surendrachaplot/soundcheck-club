@@ -1,6 +1,6 @@
 # Kid Simius
 
-Kid Simius is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 5 Dec 2026.
+Kid Simius is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 5 Dec 2026.
 
 Kid Simius is a house and techno artist based in Spain, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 26 more. Often billed alongside Sarah Wild, Biesmans and Natalie Robinson. Next up: Studio Club Malaga, Malaga on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Kid Simius is a house and techno artist based in Spain, with 59 gigs on soundche
 
 Sarah Wild, Biesmans, Natalie Robinson
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*

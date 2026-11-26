@@ -1,6 +1,6 @@
 # Alen Hertz
 
-Alen Hertz is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - PRIZE by Radisson, Cologne on Wed, 23 Dec 2026.
+Alen Hertz is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - PRIZE by Radisson, Cologne on Wed, 23 Dec 2026.
 
 Alen Hertz is an afro house and techno artist based in Armenia, with 4 gigs on soundcheck across Armenia, Barcelona and Cologne. Often billed alongside vartankourshounian and Navider. Next up: TBA - PRIZE by Radisson, Cologne on Wed 23 Dec.
 
@@ -20,4 +20,4 @@ Alen Hertz is an afro house and techno artist based in Armenia, with 4 gigs on s
 
 vartankourshounian, Navider
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alenhertz-am/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alenhertz-am/)*

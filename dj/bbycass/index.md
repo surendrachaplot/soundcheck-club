@@ -1,6 +1,6 @@
 # Bby Cass
 
-Bby Cass is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cy Space, Melbourne on Fri, 18 Dec 2026.
+Bby Cass is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cy Space, Melbourne on Fri, 18 Dec 2026.
 
 Bby Cass is a house and techno artist based in Australia, with 37 gigs on soundcheck across Melbourne. Often billed alongside TEEJAY, Mike Callander and Ed Kent. Next up: Cy Space, Melbourne on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Bby Cass is a house and techno artist based in Australia, with 37 gigs on soundc
 
 TEEJAY, Mike Callander, Ed Kent
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbycass/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbycass/)*

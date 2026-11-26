@@ -1,6 +1,6 @@
 # Unhuman
 
-Unhuman is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Urban Spree, Berlin on Fri, 11 Dec 2026.
+Unhuman is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Urban Spree, Berlin on Fri, 11 Dec 2026.
 
 Unhuman is a techno and industrial artist based in Greece, with 96 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 21 more. Often billed alongside Phase Fatale, Petra Flurr and 00rt. Next up: Urban Spree, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Unhuman is a techno and industrial artist based in Greece, with 96 gigs on sound
 
 Phase Fatale, Petra Flurr, 00rt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unhuman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unhuman/)*

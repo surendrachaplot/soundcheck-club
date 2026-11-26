@@ -1,6 +1,6 @@
 # Sydney Bryce
 
-Sydney Bryce is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Planet Wax, London on Sat, 12 Dec 2026.
+Sydney Bryce is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Planet Wax, London on Sat, 12 Dec 2026.
 
 Sydney Bryce is a drum & bass and jungle artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Bristol, Edinburgh and London and 2 more. Often billed alongside Amoss, Visionobi and KRÆK. Next up: Planet Wax, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sydney Bryce is a drum & bass and jungle artist based in United Kingdom, with 24
 
 Amoss, Visionobi, KRÆK
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneybryce/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneybryce/)*

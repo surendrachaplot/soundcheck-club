@@ -1,6 +1,6 @@
 # Urbi
 
-Urbi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
+Urbi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
 
 Urbi is a house and deep house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: 26 Leake Street, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Urbi is a house and deep house artist based in United Kingdom, with 61 gigs on s
 
 Hayley Zalassi, SAVANNAHH, Levi Love
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*

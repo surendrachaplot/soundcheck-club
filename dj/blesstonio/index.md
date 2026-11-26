@@ -1,6 +1,6 @@
 # BLESSTONIO
 
-BLESSTONIO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Venue Info Will Be Sent To Ticketholders, Chicago on Sun, 17 Jan 2027.
+BLESSTONIO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Venue Info Will Be Sent To Ticketholders, Chicago on Sun, 17 Jan 2027.
 
 BLESSTONIO is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Chicago, Detroit, Mexico City and New York City. Often billed alongside CTRLZORA, Kenjiro and Charles Trees. Next up: TBA - Venue Info Will Be Sent To Ticketholders, Chicago on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ BLESSTONIO is a house and techno artist based in United States of America, with 
 
 CTRLZORA, Kenjiro, Charles Trees
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*

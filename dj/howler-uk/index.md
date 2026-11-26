@@ -1,6 +1,6 @@
 # Howler (UK)
 
-Howler (UK) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 7 Dec 2026.
+Howler (UK) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 7 Dec 2026.
 
 Howler (UK) is a techno and ambient artist based in United Kingdom, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Jotam., Appleblim and Forgotten Sounds. Next up: Tresor / Globus, Berlin on Mon 7 Dec.
 
@@ -23,4 +23,4 @@ Howler (UK) is a techno and ambient artist based in United Kingdom, with 7 gigs 
 
 Jotam., Appleblim, Forgotten Sounds
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howler-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howler-uk/)*

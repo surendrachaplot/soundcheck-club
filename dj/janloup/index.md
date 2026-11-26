@@ -1,8 +1,8 @@
 # Jan Loup
 
-Jan Loup is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Jan Loup is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
-Jan Loup is a bass and techno artist based in France, with 77 gigs on soundcheck across Amsterdam, Berlin, Bologna and Bordeaux and 28 more. Often billed alongside Maquis Son Sistèm, ojoo and A Strange Wedding. Next up: Shunter, Rotterdam on Fri 27 Nov.
+Jan Loup is a bass and techno artist based in France, with 78 gigs on soundcheck across Amsterdam, Berlin, Bologna and Bordeaux and 28 more. Often billed alongside Maquis Son Sistèm, ojoo and A Strange Wedding. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jan Loup is a bass and techno artist based in France, with 77 gigs on soundcheck
 | Fri, 27 Nov 2026 | Shunter | Rotterdam |
 | Sat, 5 Dec 2026 | Panke | Berlin |
 | Sat, 12 Dec 2026 | Fitzroy | Berlin |
+| Fri, 29 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 6 Feb 2027 | Club Lucia | Vienna |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
@@ -29,4 +30,4 @@ Jan Loup is a bass and techno artist based in France, with 77 gigs on soundcheck
 
 Maquis Son Sistèm, ojoo, A Strange Wedding
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*

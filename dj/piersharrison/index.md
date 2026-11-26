@@ -1,6 +1,6 @@
 # Piers Harrison
 
-Piers Harrison is a House and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dalston Den, London on Tue, 8 Dec 2026.
+Piers Harrison is a House and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dalston Den, London on Tue, 8 Dec 2026.
 
 Piers Harrison is a house and new wave artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, London, Los Angeles and Osaka and 2 more. Often billed alongside Brian Not Brian, Espen Haa and Soft Rocks. Next up: Dalston Den, London on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ Piers Harrison is a house and new wave artist based in United Kingdom, with 20 g
 
 Brian Not Brian, Espen Haa, Soft Rocks
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piersharrison/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piersharrison/)*

@@ -1,6 +1,6 @@
 # SYS.END
 
-SYS.END is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at OCZKI, Warsaw on Sat, 28 Nov 2026.
+SYS.END is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OCZKI, Warsaw on Sat, 28 Nov 2026.
 
 SYS.END is a techno and house artist based in Belarus, with 22 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Francesca (PL), Butwho and Casper Weiss. Next up: OCZKI, Warsaw on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ SYS.END is a techno and house artist based in Belarus, with 22 gigs on soundchec
 
 Francesca (PL), Butwho, Casper Weiss
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sys.end/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sys.end/)*

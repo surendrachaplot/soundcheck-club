@@ -1,6 +1,6 @@
 # Pressure Point (US)
 
-Pressure Point (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Smoke & Mirrors, Chicago on Wed, 25 Nov 2026.
+Pressure Point (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Smoke & Mirrors, Chicago on Wed, 25 Nov 2026.
 
 Pressure Point (US) is a techno and house artist based in United States of America, with 59 gigs on soundcheck across Chicago, Miami and New York City. Often billed alongside Berrakka, Lady Narcisse and SATURNSARii. Next up: Smoke & Mirrors, Chicago on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ Pressure Point (US) is a techno and house artist based in United States of Ameri
 
 ## Recently played
 
+- Smoke & Mirrors, Chicago · Wed, 25 Nov 2026
 - ZeyZey, Miami · Sun, 15 Nov 2026
 - The Boombox, Miami · Sat, 7 Nov 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
@@ -19,10 +20,9 @@ Pressure Point (US) is a techno and house artist based in United States of Ameri
 - Floyd, Miami · Sun, 5 Jul 2026
 - The Chocolate Factory, New York City · Sat, 27 Jun 2026
 - The Ground at Club Space, Miami · Sat, 13 Jun 2026
-- Club Space Miami, Miami · Fri, 29 May 2026
 
 ## Shares bills with
 
 Berrakka, Lady Narcisse, SATURNSARii
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint-2/)*

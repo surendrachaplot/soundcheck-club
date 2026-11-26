@@ -1,6 +1,6 @@
 # Moon King
 
-Moon King is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bambi's, Toronto on Fri, 4 Dec 2026.
+Moon King is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bambi's, Toronto on Fri, 4 Dec 2026.
 
 Moon King is a house and electro artist based in Canada, with 37 gigs on soundcheck across Detroit and Toronto. Often billed alongside Ensoul, Tammy Lakkis and Kiki LeFreak. Next up: Bambi's, Toronto on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Moon King is a house and electro artist based in Canada, with 37 gigs on soundch
 
 Ensoul, Tammy Lakkis, Kiki LeFreak
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonking/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonking/)*

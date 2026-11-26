@@ -1,6 +1,6 @@
 # gummi
 
-gummi is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Narocz 13, Warsaw on Fri, 4 Dec 2026.
+gummi is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Narocz 13, Warsaw on Fri, 4 Dec 2026.
 
 gummi is a bass and techno artist based in Poland, with 48 gigs on soundcheck across Brussels, Krakow, Poland and Warsaw and 1 more. Often billed alongside Taan, 2K88 and madikoptah. Next up: Narocz 13, Warsaw on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ gummi is a bass and techno artist based in Poland, with 48 gigs on soundcheck ac
 
 Taan, 2K88, madikoptah
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gummi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gummi/)*

@@ -1,6 +1,6 @@
 # luxation.p
 
-luxation.p is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - MING HONGDAE, Seoul on Sat, 12 Dec 2026.
+luxation.p is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - MING HONGDAE, Seoul on Sat, 12 Dec 2026.
 
 luxation.p is a drum & bass and jungle artist, with 5 gigs on soundcheck across Seoul. Often billed alongside Deletable, YUNI and Xeomi. Next up: TBA - MING HONGDAE, Seoul on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ luxation.p is a drum & bass and jungle artist, with 5 gigs on soundcheck across 
 
 Deletable, YUNI, Xeomi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxation.p/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxation.p/)*

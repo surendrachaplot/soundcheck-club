@@ -1,6 +1,6 @@
 # Sasha Steppa
 
-Sasha Steppa is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Trinity Centre, Bristol on Sat, 28 Nov 2026.
+Sasha Steppa is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Trinity Centre, Bristol on Sat, 28 Nov 2026.
 
 Sasha Steppa is a dub and dubstep artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Geneva and London. Often billed alongside Dubkasm, Ray Keith and Gorgon Sound. Next up: The Trinity Centre, Bristol on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sasha Steppa is a dub and dubstep artist based in United Kingdom, with 15 gigs o
 
 Dubkasm, Ray Keith, Gorgon Sound
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashasteppa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashasteppa/)*

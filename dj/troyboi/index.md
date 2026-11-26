@@ -1,6 +1,6 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Warehouse at The Nashville Fairgrounds, Nashville on Wed, 30 Dec 2026.
+TroyBoi is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Warehouse at The Nashville Fairgrounds, Nashville on Wed, 30 Dec 2026.
 
 TroyBoi is a bass and dubstep artist based in United Kingdom, with 32 gigs on soundcheck across Austin, Calgary, California and Chicago and 16 more. Often billed alongside Matroda, Alesso and Deorro. Next up: The Warehouse at The Nashville Fairgrounds, Nashville on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, with 32 gigs on so
 
 Matroda, Alesso, Deorro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*

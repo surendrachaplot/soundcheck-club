@@ -1,6 +1,6 @@
 # Classmatic
 
-Classmatic is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Fri, 11 Dec 2026.
+Classmatic is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Fri, 11 Dec 2026.
 
 Classmatic is a tech house and house artist based in Brazil, with 95 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside The Martinez Brothers, Paco Osuna and Jesse Calosso. Next up: Komplexo Tempo, Sao Paulo on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Classmatic is a tech house and house artist based in Brazil, with 95 gigs on sou
 
 The Martinez Brothers, Paco Osuna, Jesse Calosso
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*

@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MCC presents Blackout Wednesday at Level 8" on Wed, 25 Nov 2026.
+Level 8 DTLA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MCC presents Blackout Wednesday at Level 8" on Wed, 25 Nov 2026.
 
 Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including DENYC and PERSTEPHANII. See dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -15,4 +15,4 @@ Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gi
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

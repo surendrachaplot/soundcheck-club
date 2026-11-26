@@ -1,6 +1,6 @@
 # Synthia
 
-Synthia is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ciało, Wroclaw on Sat, 12 Dec 2026.
+Synthia is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ciało, Wroclaw on Sat, 12 Dec 2026.
 
 Synthia is a techno and industrial artist based in United Kingdom, with 8 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside A.N.I., BPD LALUNIE and BRAVO GRL. Next up: Ciało, Wroclaw on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Synthia is a techno and industrial artist based in United Kingdom, with 8 gigs o
 
 A.N.I., BPD LALUNIE, BRAVO GRL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synthia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synthia/)*

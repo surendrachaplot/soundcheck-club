@@ -1,6 +1,6 @@
 # Augustus Williams
 
-Augustus Williams is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at HALO DETROIT, Detroit on Sat, 28 Nov 2026.
+Augustus Williams is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at HALO DETROIT, Detroit on Sat, 28 Nov 2026.
 
 Augustus Williams is a techno and electro artist based in United States of America, with 53 gigs on soundcheck across Austin, Berlin, Chicago and Detroit and 1 more. Often billed alongside DJ I.V., DJ Seoul and Dru Ruiz. Next up: HALO DETROIT, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Augustus Williams is a techno and electro artist based in United States of Ameri
 
 DJ I.V., DJ Seoul, Dru Ruiz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustuswilliams/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustuswilliams/)*

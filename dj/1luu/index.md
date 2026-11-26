@@ -1,6 +1,6 @@
 # 1luu
 
-1luu is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 11 Dec 2026.
+1luu is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 11 Dec 2026.
 
 1luu is a techno and trance artist based in Switzerland, with 108 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 16 more. Often billed alongside DJ Henk, Aexhy and DJ Traytex. Next up: Tanzhaus West, Frankfurt on Fri 11 Dec.
 
@@ -26,4 +26,4 @@
 
 DJ Henk, Aexhy, DJ Traytex
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*

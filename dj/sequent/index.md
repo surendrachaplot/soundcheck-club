@@ -1,13 +1,14 @@
 # Sequent
 
-Sequent is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Loop, Vienna on Mon, 7 Dec 2026.
+Sequent is a Drum & Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FLUCC, Vienna on Fri, 4 Dec 2026.
 
-Sequent is a drum & bass and dubstep artist based in Austria, with 25 gigs on soundcheck across London, Prague and Vienna. Often billed alongside Kasra, EN:VY and Rudolfode. Next up: Loop, Vienna on Mon 7 Dec.
+Sequent is a drum & bass and dubstep artist based in Austria, with 26 gigs on soundcheck across London, Prague and Vienna. Often billed alongside Kasra, EN:VY and Nadin. Next up: FLUCC, Vienna on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | FLUCC | Vienna |
 | Mon, 7 Dec 2026 | Loop | Vienna |
 | Sat, 6 Feb 2027 | The Cause | London |
 
@@ -24,6 +25,6 @@ Sequent is a drum & bass and dubstep artist based in Austria, with 25 gigs on so
 
 ## Shares bills with
 
-Kasra, EN:VY, Rudolfode
+Kasra, EN:VY, Nadin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sequent/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sequent/)*

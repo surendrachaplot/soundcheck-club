@@ -1,8 +1,8 @@
 # Dorisburg
 
-Dorisburg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
+Dorisburg is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
 
-Dorisburg is a techno and house artist based in Sweden, with 66 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Oberman, Polygonia and Laura BCR. Next up: Masada, Milan on Sat 5 Dec.
+Dorisburg is a techno and house artist based in Sweden, with 67 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Oberman, Polygonia and Laura BCR. Next up: Masada, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dorisburg is a techno and house artist based in Sweden, with 66 gigs on soundche
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Masada | Milan |
 | Sat, 12 Dec 2026 | UMI | Brussels |
+| Sat, 30 Jan 2027 | Village Underground | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dorisburg is a techno and house artist based in Sweden, with 66 gigs on soundche
 
 Oberman, Polygonia, Laura BCR
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorisburg/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorisburg/)*

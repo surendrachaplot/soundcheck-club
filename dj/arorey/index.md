@@ -1,6 +1,6 @@
 # Aro Rey
 
-Aro Rey is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Specka, Madrid on Fri, 11 Dec 2026.
+Aro Rey is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Specka, Madrid on Fri, 11 Dec 2026.
 
 Aro Rey is a house and tech house artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside B444P, Baugust and DHERMIDA. Next up: Specka, Madrid on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Aro Rey is a house and tech house artist based in Spain, with 11 gigs on soundch
 
 B444P, Baugust, DHERMIDA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arorey/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arorey/)*

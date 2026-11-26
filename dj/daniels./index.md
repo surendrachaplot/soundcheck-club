@@ -1,6 +1,6 @@
 # Daniel S.
 
-Daniel S. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 26 Nov 2026.
+Daniel S. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 26 Nov 2026.
 
 Daniel S. is a house and techno artist, with 6 gigs on soundcheck across Berlin, Cologne and Munich. Often billed alongside Manrick Stapez, 909 RACING TEAM and ADEMES. Next up: Bahnwärter Thiel, Munich on Thu 26 Nov.
 
@@ -22,4 +22,4 @@ Daniel S. is a house and techno artist, with 6 gigs on soundcheck across Berlin,
 
 Manrick Stapez, 909 RACING TEAM, ADEMES
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniels./)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniels./)*

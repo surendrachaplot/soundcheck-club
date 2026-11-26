@@ -1,6 +1,6 @@
 # Andrea Zarco
 
-Andrea Zarco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at La Paloma, Barcelona on Fri, 4 Dec 2026.
+Andrea Zarco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Paloma, Barcelona on Fri, 4 Dec 2026.
 
 Andrea Zarco is a house and techno artist based in Mexico, with 51 gigs on soundcheck across Amsterdam, Barcelona, Guadalajara and London and 4 more. Often billed alongside SABALZA, Zarco and Diego Montiel. Next up: La Paloma, Barcelona on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Andrea Zarco is a house and techno artist based in Mexico, with 51 gigs on sound
 
 SABALZA, Zarco, Diego Montiel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazarco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazarco/)*

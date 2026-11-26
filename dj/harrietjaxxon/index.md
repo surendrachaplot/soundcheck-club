@@ -1,6 +1,6 @@
 # Harriet Jaxxon
 
-Harriet Jaxxon is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Warehouse, Leeds on Fri, 4 Dec 2026.
+Harriet Jaxxon is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Warehouse, Leeds on Fri, 4 Dec 2026.
 
 Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 71 gigs on soundcheck across Auckland, Austria, Baltimore and Berlin and 29 more. Often billed alongside Mozey, Inja and Andy C. Next up: The Warehouse, Leeds on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 
 
 Mozey, Inja, Andy C
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*

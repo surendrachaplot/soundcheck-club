@@ -1,6 +1,6 @@
 # Botlkap
 
-Botlkap is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Honey's, New York City on Sat, 12 Dec 2026.
+Botlkap is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Honey's, New York City on Sat, 12 Dec 2026.
 
 Botlkap is a garage and uk funky artist, with 5 gigs on soundcheck across New York City. Often billed alongside Amber Valentine, DJ Houseplants and Gail Force One. Next up: Honey's, New York City on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Botlkap is a garage and uk funky artist, with 5 gigs on soundcheck across New Yo
 
 Amber Valentine, DJ Houseplants, Gail Force One
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botlkap/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botlkap/)*

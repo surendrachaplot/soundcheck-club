@@ -1,6 +1,6 @@
 # Dominique.
 
-Dominique. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 19 Dec 2026.
+Dominique. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 19 Dec 2026.
 
 Dominique. is a techno and house artist based in United Kingdom, with 54 gigs on soundcheck across Barcelona, Berlin, Dundee and Edinburgh and 7 more. Often billed alongside GUBBY, Robbie and t e s t p r e s s. Next up: The Marlborough Red Room, Glasgow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Dominique. is a techno and house artist based in United Kingdom, with 54 gigs on
 
 GUBBY, Robbie, t e s t p r e s s
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique./)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique./)*

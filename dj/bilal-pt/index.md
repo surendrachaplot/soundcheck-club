@@ -1,6 +1,6 @@
 # Bilal
 
-Bilal is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Carmo Rooftop, Lisbon on Fri, 4 Dec 2026.
+Bilal is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Carmo Rooftop, Lisbon on Fri, 4 Dec 2026.
 
 Bilal is a progressive house and house artist based in Portugal, with 5 gigs on soundcheck across Istanbul, Lisbon and Melbourne. Often billed alongside Ali Bilal, Francisca Urbano and Kee_ko. Next up: Carmo Rooftop, Lisbon on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Bilal is a progressive house and house artist based in Portugal, with 5 gigs on 
 
 Ali Bilal, Francisca Urbano, Kee_ko
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bilal-pt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bilal-pt/)*

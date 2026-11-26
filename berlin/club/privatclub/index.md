@@ -1,6 +1,6 @@
 # Privatclub
 
-Privatclub is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Cosmopolitan - Disco All Night" on Sat, 28 Nov 2026.
+Privatclub is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Cosmopolitan - Disco All Night" on Sat, 28 Nov 2026.
 
 Privatclub is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Bizarre Billy and Jerome Froese. See dates, start times and who's playing. Skalitzer Straße 85-86, 10997 Berlin.
 
@@ -16,4 +16,4 @@ Privatclub is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Skalitzer Straße 85-86, 10997 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*

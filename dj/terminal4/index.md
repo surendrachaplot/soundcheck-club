@@ -1,6 +1,6 @@
 # TERMINAL 4
 
-TERMINAL 4 is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at LDN East, London on Sat, 28 Nov 2026.
+TERMINAL 4 is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at LDN East, London on Sat, 28 Nov 2026.
 
 TERMINAL 4 is an afro house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across London and Midlands. Often billed alongside Supa D, DJ Majesty and Shenin Amara. Next up: LDN East, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ TERMINAL 4 is an afro house and tech house artist based in United Kingdom, with 
 
 Supa D, DJ Majesty, Shenin Amara
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*

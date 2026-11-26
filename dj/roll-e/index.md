@@ -1,6 +1,6 @@
 # Roll-e
 
-Roll-e is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jolene Downtown Miami, Miami on Wed, 25 Nov 2026.
+Roll-e is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jolene Downtown Miami, Miami on Wed, 25 Nov 2026.
 
 Roll-e is a bass and electro artist based in United States of America, with 52 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, CHAOS! and Viva Vidal. Next up: Jolene Downtown Miami, Miami on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ Roll-e is a bass and electro artist based in United States of America, with 52 g
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami · Wed, 25 Nov 2026
 - Jolene Downtown Miami, Miami · Fri, 13 Nov 2026
 - The Ground at Club Space, Miami · Sat, 7 Nov 2026
 - The Ground at Club Space, Miami · Sun, 6 Sept 2026
@@ -19,10 +20,9 @@ Roll-e is a bass and electro artist based in United States of America, with 52 g
 - Floyd, Miami · Sat, 8 Aug 2026
 - The Corner, Miami · Fri, 17 Jul 2026
 - Floyd, Miami · Sat, 20 Jun 2026
-- The Boombox, Miami · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 SATURNSARii, CHAOS!, Viva Vidal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*

@@ -1,6 +1,6 @@
 # Donna Leake - WeekDay MidNight 3hours set at Haremame / 晴れたら空に豆まいて
 
-Donna Leake - WeekDay MidNight 3hours set at Haremame / 晴れたら空に豆まいて on Thu 26 Nov, Tokyo. 1 artist: Donna Leake. Afrobeat and Jazz. See the line-up on soundcheck.
+Donna Leake - WeekDay MidNight 3hours set at Haremame / 晴れたら空に豆まいて on Thu 26 Nov, Tokyo. 1 artist: Donna Leake. Jazz and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

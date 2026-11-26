@@ -1,6 +1,6 @@
 # Anah
 
-Anah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at LAUT, Barcelona on Fri, 4 Dec 2026.
+Anah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at LAUT, Barcelona on Fri, 4 Dec 2026.
 
 Anah is a house and techno artist based in Portugal, with 83 gigs on soundcheck across Barcelona, Berlin, Bologna and Hamburg and 16 more. Often billed alongside Lumiere, Francesco Del Garda and Christian AB. Next up: LAUT, Barcelona on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Anah is a house and techno artist based in Portugal, with 83 gigs on soundcheck 
 
 Lumiere, Francesco Del Garda, Christian AB
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anah/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anah/)*

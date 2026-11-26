@@ -1,6 +1,6 @@
 # MORVIUS
 
-MORVIUS is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
+MORVIUS is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
 
 MORVIUS is a techno and hardcore artist based in Mexico, with 18 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Deenia, Sabina Palma and Umvral. Next up: TBA, Mexico City on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ MORVIUS is a techno and hardcore artist based in Mexico, with 18 gigs on soundch
 
 Deenia, Sabina Palma, Umvral
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morvius/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morvius/)*

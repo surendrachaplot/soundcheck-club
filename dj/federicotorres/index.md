@@ -1,6 +1,6 @@
 # Federico Torres
 
-Federico Torres is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
+Federico Torres is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
 
 Federico Torres is a house and minimal artist based in Colombia, with 21 gigs on soundcheck across Berlin and Medellin. Often billed alongside Dantral, Salvador Hören and Cami España. Next up: Yolo Hostel, Medellin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Federico Torres is a house and minimal artist based in Colombia, with 21 gigs on
 
 Dantral, Salvador Hören, Cami España
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicotorres/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicotorres/)*

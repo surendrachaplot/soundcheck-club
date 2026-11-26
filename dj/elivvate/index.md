@@ -1,6 +1,6 @@
 # ELIVVATE
 
-ELIVVATE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SILO, New York City on Fri, 27 Nov 2026.
+ELIVVATE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SILO, New York City on Fri, 27 Nov 2026.
 
 ELIVVATE is a techno and house artist based in United States of America, with 11 gigs on soundcheck across New York City and Philadelphia. Often billed alongside MiGS718, Pablo Vitale and a.gar. Next up: SILO, New York City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ELIVVATE is a techno and house artist based in United States of America, with 11
 
 MiGS718, Pablo Vitale, a.gar
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*

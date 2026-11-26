@@ -1,8 +1,8 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 27 Nov 2026.
+Giammarco Orsini is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 27 Nov 2026.
 
-Giammarco Orsini is a house and techno artist based in Italy, with 192 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 47 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 27 Nov.
+Giammarco Orsini is a house and techno artist based in Italy, with 193 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 47 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Giammarco Orsini is a house and techno artist based in Italy, with 192 gigs on s
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Dec 2026 | DURO | Milan |
+| Sat, 26 Dec 2026 | CLUB RAUM | Amsterdam |
 | Thu, 31 Dec 2026 | Prince Charles | Berlin |
 | Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
@@ -29,4 +30,4 @@ Giammarco Orsini is a house and techno artist based in Italy, with 192 gigs on s
 
 PARAMIDA, Marcolino, Anthea
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

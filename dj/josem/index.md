@@ -1,6 +1,6 @@
 # Jose M
 
-Jose M is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Viuz, Medellin on Thu, 26 Nov 2026.
+Jose M is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Viuz, Medellin on Thu, 26 Nov 2026.
 
 Jose M is a tech house and house artist based in Colombia, with 89 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Jose M., Matheo Velez and jose monsalve. Next up: Viuz, Medellin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Jose M is a tech house and house artist based in Colombia, with 89 gigs on sound
 
 Jose M., Matheo Velez, jose monsalve
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josem/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josem/)*

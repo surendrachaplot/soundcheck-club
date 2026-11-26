@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TESTBED, Leeds on Sat, 12 Dec 2026.
+Max Cooper is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TESTBED, Leeds on Sat, 12 Dec 2026.
 
 Max Cooper is a techno and electronica artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Richie Hawtin, Actress and Blawan. Next up: TESTBED, Leeds on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 135 
 
 Richie Hawtin, Actress, Blawan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Danze Afrika Club" on Thu, 26 Nov 2026.
+berlinClub is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Danze Afrika Club" on Thu, 26 Nov 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Sosa, Alvaro Medina, Daya Dadlani and Demattei and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -20,4 +20,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

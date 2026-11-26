@@ -1,14 +1,15 @@
 # Thomas Bianco
 
-Thomas Bianco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 28 Nov 2026.
+Thomas Bianco is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 28 Nov 2026.
 
-Thomas Bianco is a techno and house artist based in Switzerland, with 41 gigs on soundcheck across Basel, Dresden, Geneva and Lausanne and 2 more. Often billed alongside Mishael Müller, kso12 and MARCISM. Next up: Amboss Rampe, Zurich on Sat 28 Nov.
+Thomas Bianco is a techno and house artist based in Switzerland, with 42 gigs on soundcheck across Basel, Dresden, Geneva and Lausanne and 2 more. Often billed alongside kso12, Mishael Müller and MARCISM. Next up: Amboss Rampe, Zurich on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Amboss Rampe | Zurich |
+| Sat, 9 Jan 2027 | EXIL | Zurich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Thomas Bianco is a techno and house artist based in Switzerland, with 41 gigs on
 
 ## Shares bills with
 
-Mishael Müller, kso12, MARCISM
+kso12, Mishael Müller, MARCISM
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasbianco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasbianco/)*

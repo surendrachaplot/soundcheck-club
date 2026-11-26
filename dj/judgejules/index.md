@@ -1,6 +1,6 @@
 # Judge Jules
 
-Judge Jules is a Trance and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Arts Factory Garden Bar, Byron-bay on Sat, 26 Dec 2026.
+Judge Jules is a Trance and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Arts Factory Garden Bar, Byron-bay on Sat, 26 Dec 2026.
 
 Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Belfast and 17 more. Often billed alongside Seb Fontaine, Mauro Picotto and Billy Gillies. Next up: Arts Factory Garden Bar, Byron Bay on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs o
 
 Seb Fontaine, Mauro Picotto, Billy Gillies
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*

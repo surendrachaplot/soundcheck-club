@@ -1,6 +1,6 @@
 # Quantic
 
-Quantic is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Monk Club, Rome on Sat, 28 Nov 2026.
+Quantic is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Monk Club, Rome on Sat, 28 Nov 2026.
 
 Quantic is a jazz and house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Alejandra Sabillón, G-HA and Jamz Supernova. Next up: Monk Club, Rome on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Quantic is a jazz and house artist based in United Kingdom, with 44 gigs on soun
 
 Alejandra Sabillón, G-HA, Jamz Supernova
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*

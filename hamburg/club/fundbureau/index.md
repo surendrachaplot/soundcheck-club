@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Hafen7 goes to Hamburg" on Fri, 27 Nov 2026.
+Fundbureau is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hafen7 goes to Hamburg" on Fri, 27 Nov 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Baime, Convinzed, Eightball and Jula and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, wi
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

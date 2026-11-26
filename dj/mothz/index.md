@@ -1,6 +1,6 @@
 # Mothz
 
-Mothz is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club 1, Santiago on Thu, 31 Dec 2026.
+Mothz is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club 1, Santiago on Thu, 31 Dec 2026.
 
 Mothz is a techno and electronica artist based in Chile, with 8 gigs on soundcheck across Santiago. Often billed alongside ADVNCD, DUPØUY and Alexa Strange. Next up: Club 1, Santiago on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Mothz is a techno and electronica artist based in Chile, with 8 gigs on soundche
 
 ADVNCD, DUPØUY, Alexa Strange
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothz/)*

@@ -1,13 +1,14 @@
 # Dj Hermano
 
-Dj Hermano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fortaleza, Brazil on Sat, 30 Jan 2027.
+Dj Hermano is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Système, Montreal on Sun, 27 Dec 2026.
 
-Dj Hermano is a house and techno artist based in Brazil, with 89 gigs on soundcheck across Bogotá, Brazil, Chicago and Los Angeles and 11 more. Often billed alongside Pretty Gay Friendly, CUERPOS and Mok-T. Next up: Fortaleza, Brazil on Sat 30 Jan.
+Dj Hermano is a house and techno artist based in Brazil, with 90 gigs on soundcheck across Bogotá, Brazil, Chicago and Los Angeles and 11 more. Often billed alongside Pretty Gay Friendly, CUERPOS and Mok-T. Next up: Système, Montreal on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Dec 2026 | Système | Montreal |
 | Sat, 30 Jan 2027 | Fortaleza | Brazil |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dj Hermano is a house and techno artist based in Brazil, with 89 gigs on soundch
 
 Pretty Gay Friendly, CUERPOS, Mok-T
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*

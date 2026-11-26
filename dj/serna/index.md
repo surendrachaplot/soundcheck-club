@@ -1,13 +1,14 @@
 # SERNA
 
-SERNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lasociaciøn, Madrid on Sat, 12 Dec 2026.
+SERNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - LFO, Madrid on Mon, 7 Dec 2026.
 
-SERNA is a techno and house artist based in Spain, with 10 gigs on soundcheck across Madrid, Medellin and Mexico City. Often billed alongside NDSTPS, Safia and Alejandro. Next up: Lasociaciøn, Madrid on Sat 12 Dec.
+SERNA is a techno and house artist based in Spain, with 11 gigs on soundcheck across Madrid, Medellin and Mexico City. Often billed alongside NDSTPS, Safia and Alejandro. Next up: TBA - LFO, Madrid on Mon 7 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 7 Dec 2026 | TBA - LFO | Madrid |
 | Sat, 12 Dec 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ SERNA is a techno and house artist based in Spain, with 10 gigs on soundcheck ac
 
 NDSTPS, Safia (2), Alejandro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serna/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serna/)*

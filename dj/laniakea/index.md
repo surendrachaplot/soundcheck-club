@@ -1,6 +1,6 @@
 # LANI AKEA
 
-LANI AKEA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+LANI AKEA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 LANI AKEA is a techno and tech house artist based in Germany, with 19 gigs on soundcheck across Berlin, Mannheim, Nürnberg and Tampa Bay. Often billed alongside Marco Lautner, Sempasa and Fiedel. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ LANI AKEA is a techno and tech house artist based in Germany, with 19 gigs on so
 
 Marco Lautner, Sempasa, Fiedel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laniakea/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laniakea/)*

@@ -1,6 +1,6 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Nest, Nottingham on Fri, 4 Dec 2026.
+Anaïs is a Drum & Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Nest, Nottingham on Fri, 4 Dec 2026.
 
 Anaïs is a drum & bass and garage artist based in United Kingdom, with 64 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 24 more. Often billed alongside P Money, Whiney and Degs. Next up: The Nest, Nottingham on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Anaïs is a drum & bass and garage artist based in United Kingdom, with 64 gigs 
 
 P Money, Whiney, Degs
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

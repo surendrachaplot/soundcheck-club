@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Poolen, Copenhagen on Fri, 11 Dec 2026.
+DJ EZ is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Poolen, Copenhagen on Fri, 11 Dec 2026.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 32 more. Often billed alongside Benny Rodrigues, Danny Howard and Sam Divine. Next up: Poolen, Copenhagen on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 114 gigs on sou
 
 Benny Rodrigues, Danny Howard, Sam Divine
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

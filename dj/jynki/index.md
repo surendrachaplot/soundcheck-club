@@ -1,6 +1,6 @@
 # Jynki
 
-Jynki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 14 Dec 2026.
+Jynki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 14 Dec 2026.
 
 Jynki is a techno and house artist based in United States of America, with 7 gigs on soundcheck across Berlin and Pittsburgh. Often billed alongside AndrewsFox, BAUTZ and BEJA. Next up: Tresor / Globus, Berlin on Mon 14 Dec.
 
@@ -23,4 +23,4 @@ Jynki is a techno and house artist based in United States of America, with 7 gig
 
 AndrewsFox, BAUTZ, BEJA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jynki/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jynki/)*

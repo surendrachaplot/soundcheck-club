@@ -1,6 +1,6 @@
 # Eva Toya
 
-Eva Toya is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at M7 Club, Barcelona on Sat, 19 Dec 2026.
+Eva Toya is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M7 Club, Barcelona on Sat, 19 Dec 2026.
 
 Eva Toya is a techno and electronica artist based in Spain, with 7 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Adviro, DAISY and Nita Key. Next up: M7 Club, Barcelona on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Eva Toya is a techno and electronica artist based in Spain, with 7 gigs on sound
 
 Adviro, DAISY, Nita Key
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evatoya/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evatoya/)*

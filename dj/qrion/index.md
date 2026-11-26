@@ -1,6 +1,6 @@
 # Qrion
 
-Qrion is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at DRUMSHEDS, London on Sat, 5 Dec 2026.
+Qrion is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at DRUMSHEDS, London on Sat, 5 Dec 2026.
 
 Qrion is a house and techno artist based in Japan, with 80 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 30 more. Often billed alongside Nicky Elisabeth, Rezident and Romain Garcia. Next up: DRUMSHEDS, London on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Qrion is a house and techno artist based in Japan, with 80 gigs on soundcheck ac
 
 Nicky Elisabeth, Rezident, Romain Garcia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*

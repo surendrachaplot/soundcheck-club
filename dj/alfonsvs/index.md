@@ -1,6 +1,6 @@
 # Alfonsvs
 
-Alfonsvs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
+Alfonsvs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
 
 Alfonsvs is a house and techno artist based in Portugal, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Adriana Ruas, Luís Afonso and Nuno Carneiro. Next up: Signal, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Alfonsvs is a house and techno artist based in Portugal, with 69 gigs on soundch
 
 Adriana Ruas, Luís Afonso, Nuno Carneiro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsvs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsvs/)*

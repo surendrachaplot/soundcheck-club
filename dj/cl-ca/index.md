@@ -1,8 +1,8 @@
 # Ciel
 
-Ciel is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret Location, Toronto on Sat, 28 Nov 2026.
+Ciel is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location, Toronto on Sat, 28 Nov 2026.
 
-Ciel is a techno and house artist based in Canada, with 240 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 65 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: TBA - Secret Location, Toronto on Sat 28 Nov.
+Ciel is a techno and house artist based in Canada, with 241 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 65 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: TBA - Secret Location, Toronto on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Ciel is a techno and house artist based in Canada, with 240 gigs on soundcheck a
 | Sat, 12 Dec 2026 | Flowranch | Quebec City |
 | Fri, 18 Dec 2026 | Mooi Space | Toronto |
 | Sat, 26 Dec 2026 | Standard Time | Toronto |
+| Sat, 16 Jan 2027 | Société des arts technologiques | Montreal |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -32,4 +33,4 @@ Ciel is a techno and house artist based in Canada, with 240 gigs on soundcheck a
 
 Milch (1), CCL, Venus in Foil
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

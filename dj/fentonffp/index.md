@@ -1,6 +1,6 @@
 # Fentonffp
 
-Fentonffp is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Distrikt, Leeds on Thu, 31 Dec 2026.
+Fentonffp is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Distrikt, Leeds on Thu, 31 Dec 2026.
 
 Fentonffp is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Leeds and Manchester. Often billed alongside 3PM RECORDS, Partridge and AJ Jonesy. Next up: Distrikt, Leeds on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Fentonffp is a house and tech house artist based in United Kingdom, with 19 gigs
 
 3PM RECORDS, Partridge, AJ Jonesy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonffp/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonffp/)*

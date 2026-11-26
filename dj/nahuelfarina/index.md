@@ -1,6 +1,6 @@
 # Nahuel Farina
 
-Nahuel Farina is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at berlinClub, Madrid on Sun, 6 Dec 2026.
+Nahuel Farina is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at berlinClub, Madrid on Sun, 6 Dec 2026.
 
 Nahuel Farina is a progressive house and house artist based in Argentina, with 18 gigs on soundcheck across Madrid. Often billed alongside Nico Spina, Unai García and Vico Deep. Next up: berlinClub, Madrid on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Nahuel Farina is a progressive house and house artist based in Argentina, with 1
 
 Nico Spina, Unai García, Vico Deep
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahuelfarina/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahuelfarina/)*

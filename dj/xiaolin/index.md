@@ -1,6 +1,6 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Karmakoma, Belgrade on Fri, 27 Nov 2026.
+Xiaolin is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Karmakoma, Belgrade on Fri, 27 Nov 2026.
 
 Xiaolin is a house and techno artist, with 110 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 35 more. Often billed alongside Sunsiaré, Mr. Ho and Emel. Next up: Karmakoma, Belgrade on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Xiaolin is a house and techno artist, with 110 gigs on soundcheck across Amsterd
 
 Sunsiaré, Mr. Ho, Emel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

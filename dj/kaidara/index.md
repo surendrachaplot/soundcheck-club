@@ -1,6 +1,6 @@
 # Kaidara
 
-Kaidara is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 27 Nov 2026.
+Kaidara is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 27 Nov 2026.
 
 Kaidara is a bass and club artist based in Spain, with 29 gigs on soundcheck across Barcelona, Ghent, Madrid and New York City and 1 more. Often billed alongside DJ2D2, Kanti and PethbUri. Next up: Nitsa Club, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Kaidara is a bass and club artist based in Spain, with 29 gigs on soundcheck acr
 
 DJ2D2, Kanti, PethbUri
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaidara/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaidara/)*

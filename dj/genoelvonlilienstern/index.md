@@ -1,6 +1,6 @@
 # Genoël von Lilienstern
 
-Genoël von Lilienstern is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Genoël von Lilienstern is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 Genoël von Lilienstern is an experimental and club artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside 96 Back, A.N.I. and Debit. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -15,4 +15,4 @@ Genoël von Lilienstern is an experimental and club artist based in Germany, wit
 
 96 Back, A.N.I., Debit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genoelvonlilienstern/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genoelvonlilienstern/)*

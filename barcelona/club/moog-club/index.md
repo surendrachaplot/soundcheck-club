@@ -1,6 +1,6 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 38 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Men (L-Men-T)" on Wed, 25 Nov 2026.
+Moog Club is a music venue in Barcelona with 38 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Men (L-Men-T)" on Wed, 25 Nov 2026.
 
 Moog Club is a music venue in Barcelona listed on soundcheck. 38 upcoming gigs, with line-ups including 6tma, Ancient Methods, BAMBI (BE) and carlota. and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 38 upcoming gigs, 
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

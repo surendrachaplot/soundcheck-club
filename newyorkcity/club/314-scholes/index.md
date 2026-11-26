@@ -1,6 +1,6 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Sango" on Wed, 25 Nov 2026.
+314 Scholes is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sango" on Wed, 25 Nov 2026.
 
 314 Scholes is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Baauer, cry$cross, dilhaar and Krithi and 2 more. See dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
@@ -18,4 +18,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

@@ -1,6 +1,6 @@
 # Pau Rosés
 
-Pau Rosés is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 25 Dec 2026.
+Pau Rosés is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 25 Dec 2026.
 
 Pau Rosés is a house and electro artist based in Spain, with 145 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: Les Enfants Brillants, Barcelona on Fri 25 Dec.
 
@@ -9,8 +9,8 @@ Pau Rosés is a house and electro artist based in Spain, with 145 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Dec 2026 | Les Enfants Brillants | Barcelona |
-| Thu, 31 Dec 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Fri, 1 Jan 2027 | Seaseaclub Barcelona | Barcelona |
+| Fri, 1 Jan 2027 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Pau Rosés is a house and electro artist based in Spain, with 145 gigs on soundc
 
 Adria (ES), Swann, Vince Void
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*

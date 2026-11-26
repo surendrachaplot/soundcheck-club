@@ -1,6 +1,6 @@
 # Dual Damage
 
-Dual Damage is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at BEC (Bilbao Exhibition Center), North on Sat, 28 Nov 2026.
+Dual Damage is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BEC (Bilbao Exhibition Center), North on Sat, 28 Nov 2026.
 
 Dual Damage is a hardcore and techno artist based in Netherlands, with 37 gigs on soundcheck across Antwerp, Budapest, Cologne and Düsseldorf and 18 more. Often billed alongside Angerfist, Paul Elstak and Da Tweekaz. Next up: BEC (Bilbao Exhibition Center), North on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Dual Damage is a hardcore and techno artist based in Netherlands, with 37 gigs o
 
 Angerfist, Paul Elstak, Da Tweekaz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*

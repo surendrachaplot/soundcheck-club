@@ -1,6 +1,6 @@
 # Adriana Ruas
 
-Adriana Ruas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
+Adriana Ruas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
 
 Adriana Ruas is a house and techno artist based in Portugal, with 71 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 7 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: Signal, New York City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Adriana Ruas is a house and techno artist based in Portugal, with 71 gigs on sou
 
 Alfonsvs, Nuno Carneiro, Jorge Caiado
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*

@@ -1,6 +1,6 @@
 # Beartrax
 
-Beartrax is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jupiter Disco, New York City on Sat, 12 Dec 2026.
+Beartrax is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jupiter Disco, New York City on Sat, 12 Dec 2026.
 
 Beartrax is a house and italo disco artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and New York City. Often billed alongside Max Buchalik, Micropacer and Andi. Next up: Jupiter Disco, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Beartrax is a house and italo disco artist based in United States of America, wi
 
 Max Buchalik, Micropacer, Andi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beartrax/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beartrax/)*

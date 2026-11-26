@@ -1,14 +1,15 @@
 # Prospa
 
-Prospa is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
+Prospa is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
 
-Prospa is a house and techno artist based in United Kingdom, with 196 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 54 more. Often billed alongside Seth Troxler, Josh Baker and Carlita. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
+Prospa is a house and techno artist based in United Kingdom, with 197 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 54 more. Often billed alongside Seth Troxler, Josh Baker and Carlita. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
+| Sat, 28 Nov 2026 | TBA | London |
 | Tue, 1 Dec 2026 | Club Space Miami | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sat, 5 Dec 2026 | Factory Town | Miami |
@@ -30,4 +31,4 @@ Prospa is a house and techno artist based in United Kingdom, with 196 gigs on so
 
 Seth Troxler, Josh Baker, Carlita
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

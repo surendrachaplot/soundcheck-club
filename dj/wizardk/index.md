@@ -1,6 +1,6 @@
 # Wizard K
 
-Wizard K is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lanificio 159, Rome on Sat, 12 Dec 2026.
+Wizard K is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lanificio 159, Rome on Sat, 12 Dec 2026.
 
 Wizard K is a techno artist based in Italy, with 19 gigs on soundcheck across Rome. Often billed alongside Adelmo, Fabrizio Lapiana and Nothing Is Real. Next up: Lanificio 159, Rome on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Wizard K is a techno artist based in Italy, with 19 gigs on soundcheck across Ro
 
 Adelmo, Fabrizio Lapiana, Nothing Is Real
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wizardk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wizardk/)*

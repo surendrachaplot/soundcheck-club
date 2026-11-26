@@ -1,6 +1,6 @@
 # Sideshow
 
-Sideshow is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Love Inn, Bristol on Thu, 26 Nov 2026.
+Sideshow is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Love Inn, Bristol on Thu, 26 Nov 2026.
 
 Sideshow is a techno and dub techno artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Detroit, London and Manchester and 1 more. Often billed alongside Deselecta, ETHICS and Tom Oakley. Next up: The Love Inn, Bristol on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Sideshow is a techno and dub techno artist based in United Kingdom, with 15 gigs
 
 Deselecta, ETHICS, Tom Oakley
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sideshow/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sideshow/)*

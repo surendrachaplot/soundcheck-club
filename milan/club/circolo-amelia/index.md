@@ -1,6 +1,6 @@
 # Circolo Amelia
 
-Circolo Amelia is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BUKA" on Sat, 28 Nov 2026.
+Circolo Amelia is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BUKA" on Sat, 28 Nov 2026.
 
 Circolo Amelia is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including A. Brehme, DJ Sotofett, Jugodefatuo and Kambo Super Sound and 2 more. See dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
 
@@ -16,4 +16,4 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 3 upcoming gigs, 
 
 via privata venezia giulia, 19 - Milan - Italy, Milan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*

@@ -1,6 +1,6 @@
 # Isabelle Koci
 
-Isabelle Koci is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Wardrobe, Leeds on Fri, 4 Dec 2026.
+Isabelle Koci is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Wardrobe, Leeds on Fri, 4 Dec 2026.
 
 Isabelle Koci is a house and tech house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Quidders. Next up: The Wardrobe, Leeds on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Isabelle Koci is a house and tech house artist based in United Kingdom, with 23 
 
 Reeshy, Julian Anthony, Quidders
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*

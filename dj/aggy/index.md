@@ -1,6 +1,6 @@
 # Aggy
 
-Aggy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 18 Dec 2026.
+Aggy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 18 Dec 2026.
 
 Aggy is a house and club artist based in Germany, with 21 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Isaac Elejalde, Pilar Jordan and vault.. Next up: Bulbul Berlin, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Aggy is a house and club artist based in Germany, with 21 gigs on soundcheck acr
 
 Isaac Elejalde, Pilar Jordan, vault.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aggy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aggy/)*

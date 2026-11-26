@@ -1,6 +1,6 @@
 # Azu Tiwaline
 
-Azu Tiwaline is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ingang, Amsterdam on Sat, 12 Dec 2026.
+Azu Tiwaline is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ingang, Amsterdam on Sat, 12 Dec 2026.
 
 Azu Tiwaline is a techno and bass artist based in France, with 109 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 39 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: ingang, Amsterdam on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Azu Tiwaline is a techno and bass artist based in France, with 109 gigs on sound
 
 DJ Plead, upsammy, CCL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*

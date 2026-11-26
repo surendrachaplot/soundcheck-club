@@ -1,6 +1,6 @@
 # Hotel Via
 
-Hotel Via is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Alex Wann - Day Party Rooftop" on Sun, 6 Dec 2026.
+Hotel Via is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Alex Wann - Day Party Rooftop" on Sun, 6 Dec 2026.
 
 Hotel Via is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Wann, Alkemiss Erika, Le Youth and Marques Wyatt and 2 more. See dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
 
@@ -18,4 +18,4 @@ Hotel Via is a music venue in San Francisco/Oakland listed on soundcheck. 5 upco
 
 138 King St. San Francisco, CA 94107, San Francisco/Oakland
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*

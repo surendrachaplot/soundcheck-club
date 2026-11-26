@@ -1,6 +1,6 @@
 # Kenji Tazaki
 
-Kenji Tazaki is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Temp., Bangkok on Fri, 27 Nov 2026.
+Kenji Tazaki is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Temp., Bangkok on Fri, 27 Nov 2026.
 
 Kenji Tazaki is a house and minimal artist based in Japan, with 30 gigs on soundcheck across Bangkok, Berlin, Chongqing and Osaka and 2 more. Often billed alongside Yoshitaca, Hideto Omura and Elli.on. Next up: Bar Temp., Bangkok on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Kenji Tazaki is a house and minimal artist based in Japan, with 30 gigs on sound
 
 Yoshitaca, Hideto Omura, Elli.on
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitazaki/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitazaki/)*

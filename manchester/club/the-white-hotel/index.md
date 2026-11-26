@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 29 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "NEW WORLD XII: [The FALL of NEW WORLD pt.2] Iceboy Violet / Prison Religion / Mia Mai / Loney" on Wed, 25 Nov 2026.
+The White Hotel is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NEW WORLD XII: [The FALL of NEW WORLD pt.2] Iceboy Violet / Prison Religion / Mia Mai / Loney" on Wed, 25 Nov 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 29 upcoming gigs, with line-ups including Fastlove, aalice, Afrodeutsche and Aiden Francis and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 30 upcoming gigs, with line-ups including Fastlove, aalice, Afrodeutsche and Aiden Francis and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 29 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

@@ -1,6 +1,6 @@
 # Lobster
 
-Lobster is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at RADION, Amsterdam on Sat, 2 Jan 2027.
+Lobster is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at RADION, Amsterdam on Sat, 2 Jan 2027.
 
 Lobster is a techno and industrial artist, with 13 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Paris and 2 more. Often billed alongside Phil Berg, Adam Beyer and Alben. Next up: RADION, Amsterdam on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Lobster is a techno and industrial artist, with 13 gigs on soundcheck across Ams
 
 Phil Berg, Adam Beyer, Alben
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobster-fr/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobster-fr/)*

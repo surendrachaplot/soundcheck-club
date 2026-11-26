@@ -1,6 +1,6 @@
 # Bakey
 
-Bakey is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Palais, London on Fri, 18 Dec 2026.
+Bakey is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Palais, London on Fri, 18 Dec 2026.
 
 Bakey is a garage and bass artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 32 more. Often billed alongside Capo Lee, Dr Dubplate and Breaka. Next up: Palais, London on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Bakey is a garage and bass artist based in United Kingdom, with 168 gigs on soun
 
 Capo Lee, Dr Dubplate, Breaka
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakey/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakey/)*

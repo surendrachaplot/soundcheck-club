@@ -1,14 +1,15 @@
 # alterum
 
-alterum is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
+alterum is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
 
-alterum is a hardcore and techno artist based in United Kingdom, with 66 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside 3DMA, pissxie and Takenbymarshall. Next up: Distillery N17, London on Fri 27 Nov.
+alterum is a hardcore and techno artist based in United Kingdom, with 67 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside 3DMA, pissxie and Takenbymarshall. Next up: Distillery N17, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Distillery N17 | London |
+| Fri, 4 Dec 2026 | Hootananny Brixton | London |
 | Thu, 11 Feb 2027 | M.O.T | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ alterum is a hardcore and techno artist based in United Kingdom, with 66 gigs on
 
 3DMA, pissxie, Takenbymarshall
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*

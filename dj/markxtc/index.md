@@ -1,6 +1,6 @@
 # Mark XTC
 
-Mark XTC is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
+Mark XTC is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
 
 Mark XTC is a jungle and drum & bass artist based in United Kingdom, with 63 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 2 more. Often billed alongside North Base, Slipmatt and Chimpo. Next up: Rebellion, Manchester on Thu 31 Dec.
 
@@ -27,4 +27,4 @@ Mark XTC is a jungle and drum & bass artist based in United Kingdom, with 63 gig
 
 North Base, Slipmatt, Chimpo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markxtc/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markxtc/)*

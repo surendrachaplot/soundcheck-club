@@ -1,6 +1,6 @@
 # Kev Koko
 
-Kev Koko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
+Kev Koko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
 
 Kev Koko is a techno and trance artist, with 9 gigs on soundcheck across Berlin, Hamburg, Milan and Zurich. Often billed alongside DJ Cringey, Haaizey and Speckman. Next up: Studio1111, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kev Koko is a techno and trance artist, with 9 gigs on soundcheck across Berlin,
 
 DJ Cringey, Haaizey, Speckman
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevkoko/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevkoko/)*

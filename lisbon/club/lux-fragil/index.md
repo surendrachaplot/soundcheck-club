@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Maribell, Maboku" on Thu, 26 Nov 2026.
+Lux Fragil is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Maribell, Maboku" on Thu, 26 Nov 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming gigs, with line-ups including Adana Twins, Afonso Peixoto, Andhim and AZM and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming gigs, wi
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

@@ -1,6 +1,6 @@
 # Benny Bysouth
 
-Benny Bysouth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Secret Location, London on Fri, 18 Dec 2026.
+Benny Bysouth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Secret Location, London on Fri, 18 Dec 2026.
 
 Benny Bysouth is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across Leeds, London and Nottingham. Often billed alongside Cam Harrop, Redshift and A.Wild. Next up: Secret Location, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Benny Bysouth is a techno and house artist based in United Kingdom, with 9 gigs 
 
 Cam Harrop, Redshift (2), A.Wild
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybysouth/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybysouth/)*

@@ -1,6 +1,6 @@
 # Feliciana Silvestre
 
-Feliciana Silvestre is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Toronto on Sun, 20 Dec 2026.
+Feliciana Silvestre is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Toronto on Sun, 20 Dec 2026.
 
 Feliciana Silvestre is a techno and trance artist based in Mexico, with 10 gigs on soundcheck across Toronto. Often billed alongside Jonah K, Jad Ad and Jose Carbonell. Next up: TBA, Toronto on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Feliciana Silvestre is a techno and trance artist based in Mexico, with 10 gigs 
 
 Jonah K, Jad Ad, Jose Carbonell
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicianasilvestre/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicianasilvestre/)*

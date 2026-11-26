@@ -1,11 +1,28 @@
 # JFF vol.7 1st Anniversary 24h Marathon at Starlane Pizza Bar
 
-JFF vol.7 1st Anniversary 24h Marathon at Starlane Pizza Bar on Sat 19 Dec, London. Techno and Electro. See the line-up on soundcheck.
+JFF vol.7 1st Anniversary 24h Marathon at Starlane Pizza Bar on Sat 19 Dec, London. 14 artists: Analog Disease, Bruno Schmidt, Darush and Desuba and 10 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 19 Dec 2026 |
 | Venue | Starlane Pizza Bar |
 | City | London |
+
+## Line-up
+
+- Analog Disease
+- Bruno Schmidt
+- Darush
+- Desuba
+- Jayar
+- Matteo Manzini
+- Monterosso
+- Richard Gregory
+- Robin Ordell
+- Samir Chani
+- Save P
+- Timoti
+- Ughe
+- Willow
 
 *Source: [soundcheck](https://soundcheck.club/e/2521618-jff-vol-7-1st-anniversary-24h-marathon-at-starlane-pizza-bar/)*

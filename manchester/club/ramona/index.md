@@ -1,13 +1,14 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Baked Bean Records Launch Party w/ Malachy & Matteo Dose" on Sat, 12 Dec 2026.
+Ramona is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ramona: Entropic Takeover" on Fri, 4 Dec 2026.
 
-Ramona is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Coyle, Malachy, Matteo Dose and Willsy. See dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
+Ramona is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Coyle, Malachy, Matteo Dose and Willsy. See dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Ramona: Entropic Takeover |  |
 | Sat, 12 Dec 2026 | Baked Bean Records Launch Party w/ Malachy & Matteo Dose | Coyle, Malachy, Matteo Dose, Willsy |
 | Sat, 19 Dec 2026 | ThreeFifty6 Xmas Knees Up |  |
 
@@ -15,4 +16,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, wit
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

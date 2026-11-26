@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "VOLTIQUE: THANKSGIVING EVE" on Wed, 25 Nov 2026.
+TBA - DTLA is a music venue in Los Angeles with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "VOLTIQUE: THANKSGIVING EVE" on Wed, 25 Nov 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Farahani, Alima Lee, AMORAL and BHAOUNCEOUT and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 13 upcoming gig
 | Sat, 12 Dec 2026 | T4T WRESTLING X Trans*cendent Present: T4T Combat Rave | BHAOUNCEOUT, VILENA |
 | Sat, 12 Dec 2026 | STRAIGHT FORME: Peachlyfe (LIVE), Dangerous Rose, Josh Steers, John Bryars | Dangerous Rose, John Bryars, Josh Steers, Peachlyfe |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

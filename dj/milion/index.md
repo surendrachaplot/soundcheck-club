@@ -1,6 +1,6 @@
 # Milion
 
-Milion is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Milion is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Milion is a house and garage artist based in Netherlands, with 115 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 25 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Milion is a house and garage artist based in Netherlands, with 115 gigs on sound
 
 SAIDAH, Locky, Bella Claxton
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*

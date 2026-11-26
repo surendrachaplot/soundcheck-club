@@ -1,6 +1,6 @@
 # Vlad Ioachimescu
 
-Vlad Ioachimescu is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
+Vlad Ioachimescu is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
 
 Vlad Ioachimescu is a minimal and minimal techno artist based in Romania, with 50 gigs on soundcheck across Berlin, Hong Kong, London and Los Angeles and 2 more. Often billed alongside Obreja., LUUD and Ludgero Costa. Next up: All My Friends, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Vlad Ioachimescu is a minimal and minimal techno artist based in Romania, with 5
 
 Obreja., LUUD, Ludgero Costa
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladioachimescu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladioachimescu/)*

@@ -1,13 +1,14 @@
 # TRIVEAT
 
-TRIVEAT is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 10 Dec 2026.
+TRIVEAT is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 28 Nov 2026.
 
-TRIVEAT is a house and afro house artist based in Mexico, with 8 gigs on soundcheck across Mexico City. Often billed alongside Andrreas, Value of Time and Cinema Paradisco. Next up: nueve cero nueve, Mexico City on Thu 10 Dec.
+TRIVEAT is a house and tech house artist based in Mexico, with 9 gigs on soundcheck across Mexico City. Often billed alongside Andrreas, Dani Barbosa and Value of Time. Next up: Bardo Speakeasy, Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Bardo Speakeasy | Mexico City |
 | Thu, 10 Dec 2026 | nueve cero nueve | Mexico City |
 
 ## Recently played
@@ -22,6 +23,6 @@ TRIVEAT is a house and afro house artist based in Mexico, with 8 gigs on soundch
 
 ## Shares bills with
 
-Andrreas, Value of Time, Cinema Paradisco
+Andrreas, Dani Barbosa, Value of Time
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triveat/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triveat/)*

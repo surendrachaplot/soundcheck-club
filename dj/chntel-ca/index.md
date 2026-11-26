@@ -1,6 +1,6 @@
 # CHNTEL.
 
-CHNTEL. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Warehouse, Toronto on Sat, 12 Dec 2026.
+CHNTEL. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Warehouse, Toronto on Sat, 12 Dec 2026.
 
 CHNTEL. is a house and tech house artist based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside Annamite, Dark Matter and In Depth Subject. Next up: TBA - Warehouse, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ CHNTEL. is a house and tech house artist based in Canada, with 21 gigs on soundc
 
 Annamite, Dark Matter (3), In Depth Subject
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chntel-ca/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chntel-ca/)*

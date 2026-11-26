@@ -1,13 +1,14 @@
 # skyra
 
-skyra is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bassiani, Tbilisi on Fri, 11 Dec 2026.
+skyra is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
-skyra is a house and techno artist based in Georgia, with 102 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 6 more. Often billed alongside Boyá, Hamatsuki and HVL. Next up: Bassiani, Tbilisi on Fri 11 Dec.
+skyra is a house and techno artist based in Georgia, with 103 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 6 more. Often billed alongside Boyá, Hamatsuki and HVL. Next up: TBA, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | TBA | Berlin |
 | Fri, 11 Dec 2026 | Bassiani | Tbilisi |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
@@ -27,4 +28,4 @@ skyra is a house and techno artist based in Georgia, with 102 gigs on soundcheck
 
 Boyá, Hamatsuki, HVL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*

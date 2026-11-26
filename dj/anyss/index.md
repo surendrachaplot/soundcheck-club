@@ -1,13 +1,14 @@
 # Anyss
 
-Anyss is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 25 Dec 2026.
+Anyss is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Social Room, Hong Kong on Sat, 12 Dec 2026.
 
-Anyss is a house and techno artist based in France, with 34 gigs on soundcheck across Hong Kong and Thailand. Often billed alongside Sunsiaré, Vence and Jeremy Cheung. Next up: 宀 Club, Hong Kong on Fri 25 Dec.
+Anyss is a house and techno artist based in France, with 35 gigs on soundcheck across Hong Kong and Thailand. Often billed alongside Sunsiaré, Vence and Jeremy Cheung. Next up: Social Room, Hong Kong on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Social Room | Hong Kong |
 | Fri, 25 Dec 2026 | 宀 Club | Hong Kong |
 | Fri, 12 Feb 2027 | Ya Teng Homestay | Thailand |
 
@@ -26,4 +27,4 @@ Anyss is a house and techno artist based in France, with 34 gigs on soundcheck a
 
 Sunsiaré, Vence, Jeremy Cheung
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*

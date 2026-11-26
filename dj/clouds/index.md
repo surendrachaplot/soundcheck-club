@@ -1,6 +1,6 @@
 # Clouds
 
-Clouds is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
+Clouds is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
 
 Clouds is a techno and trance artist based in United Kingdom, with 107 gigs on soundcheck across Aberdeen, Amsterdam, Basel and Belfast and 30 more. Often billed alongside Tommy Holohan, Faster Horses and X CLUB.. Next up: SWG3, Glasgow on Sat 28 Nov.
 
@@ -32,4 +32,4 @@ Clouds is a techno and trance artist based in United Kingdom, with 107 gigs on s
 
 Tommy Holohan, Faster Horses, X CLUB.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*

@@ -1,6 +1,6 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "KRACH 45" on Thu, 26 Nov 2026.
+Turtur is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "KRACH 45" on Thu, 26 Nov 2026.
 
 Turtur is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including Darimel, Eightball and SUNS. See dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Turtur is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with l
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

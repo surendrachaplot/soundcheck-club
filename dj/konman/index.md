@@ -1,6 +1,6 @@
 # Konman
 
-Konman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at PRST, Vienna on Fri, 27 Nov 2026.
+Konman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at PRST, Vienna on Fri, 27 Nov 2026.
 
 Konman is a house and tech house artist based in Austria, with 18 gigs on soundcheck across Vienna. Often billed alongside Eye F, Stipo and foxloe. Next up: PRST, Vienna on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Konman is a house and tech house artist based in Austria, with 18 gigs on soundc
 
 Eye F, Stipo, foxloe
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konman/)*

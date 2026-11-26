@@ -1,6 +1,6 @@
 # Mindaniel
 
-Mindaniel is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Halo Saigon Skybar, Ho Chi Minh City on Fri, 27 Nov 2026.
+Mindaniel is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Halo Saigon Skybar, Ho Chi Minh City on Fri, 27 Nov 2026.
 
 Mindaniel is an afro house and techno artist, with 8 gigs on soundcheck across Amsterdam, Berlin, Hanoi and Ho Chi Minh City and 1 more. Often billed alongside Anthity, DOBE and ECE EKREN. Next up: TBA - Halo Saigon Skybar, Ho Chi Minh City on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Mindaniel is an afro house and techno artist, with 8 gigs on soundcheck across A
 
 Anthity, DOBE, ECE EKREN
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindaniel/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindaniel/)*

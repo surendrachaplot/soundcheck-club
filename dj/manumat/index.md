@@ -1,6 +1,6 @@
 # Manumat
 
-Manumat is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lion's Den, Miami on Fri, 27 Nov 2026.
+Manumat is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lion's Den, Miami on Fri, 27 Nov 2026.
 
 Manumat is a deep house and house artist based in Colombia, with 38 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside Fiin, Lemurian and Afterclapp. Next up: Lion's Den, Miami on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Manumat is a deep house and house artist based in Colombia, with 38 gigs on soun
 
 Fiin, Lemurian, Afterclapp
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manumat/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manumat/)*

@@ -1,15 +1,17 @@
 # MileZ
 
-MileZ is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
+MileZ is a Techno and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
 
-MileZ is a techno and jungle artist based in United Kingdom, with 150 gigs on soundcheck across Beijing, Chubu, Kyoto and London and 4 more. Often billed alongside YUVIE, SAMO (JP) and r1ku. Next up: 88block, Tokyo on Sun 29 Nov.
+MileZ is a techno and jungle artist based in United Kingdom, with 152 gigs on soundcheck across Beijing, Chubu, Kyoto and London and 4 more. Often billed alongside YUVIE, SAMO (JP) and r1ku. Next up: 88block, Tokyo on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | 88block | Tokyo |
+| Fri, 4 Dec 2026 | Circus Tokyo | Tokyo |
 | Sat, 12 Dec 2026 | Heavy Sick Zero | Tokyo |
+| Fri, 18 Dec 2026 | Upsidedown | Osaka |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ MileZ is a techno and jungle artist based in United Kingdom, with 150 gigs on so
 
 YUVIE, SAMO (JP), r1ku
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milez/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milez/)*

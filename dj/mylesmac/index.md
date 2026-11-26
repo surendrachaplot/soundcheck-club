@@ -1,13 +1,14 @@
 # Myles Mac
 
-Myles Mac is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Solace, Melbourne on Sat, 5 Dec 2026.
+Myles Mac is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Coil, Melbourne on Sat, 28 Nov 2026.
 
-Myles Mac is a house and techno artist based in Australia, with 91 gigs on soundcheck across Adelaide, Berlin, Byron Bay and Copenhagen and 8 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Solace, Melbourne on Sat 5 Dec.
+Myles Mac is a house and techno artist based in Australia, with 92 gigs on soundcheck across Adelaide, Berlin, Byron Bay and Copenhagen and 8 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Coil, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Coil | Melbourne |
 | Sat, 5 Dec 2026 | Solace | Melbourne |
 | Sat, 9 Jan 2027 | ark (Melb) | Melbourne |
 | Sat, 30 Jan 2027 | Collingwood Children's Farm | Melbourne |
@@ -27,4 +28,4 @@ Myles Mac is a house and techno artist based in Australia, with 91 gigs on sound
 
 DJ Possum, Andy Hart, Bex
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*

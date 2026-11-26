@@ -1,14 +1,15 @@
 # Julion De'Angelo
 
-Julion De'Angelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Factory Floor, Sheffield on Sat, 28 Nov 2026.
+Julion De'Angelo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Factory Floor, Sheffield on Sat, 28 Nov 2026.
 
-Julion De'Angelo is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 8 more. Often billed alongside Meftah, Whodat and CTRLZORA. Next up: Factory Floor, Sheffield on Sat 28 Nov.
+Julion De'Angelo is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 9 more. Often billed alongside Meftah, Whodat and CTRLZORA. Next up: Factory Floor, Sheffield on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Factory Floor | Sheffield |
+| Sat, 5 Dec 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Julion De'Angelo is a house and techno artist based in United States of America,
 
 Meftah, Whodat, CTRLZORA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*

@@ -1,6 +1,6 @@
 # bielak
 
-bielak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
+bielak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
 
 bielak is a house and techno artist based in Poland, with 40 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Schmeltzer, bart ender and Taan. Next up: K-Bar Powiśle, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ bielak is a house and techno artist based in Poland, with 40 gigs on soundcheck 
 
 Schmeltzer, bart ender, Taan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bielak/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bielak/)*

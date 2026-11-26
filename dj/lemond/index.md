@@ -1,6 +1,6 @@
 # Lemon D
 
-Lemon D is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Lemon D is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 Lemon D is a drum & bass and jungle artist based in United Kingdom, with 26 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 3 more. Often billed alongside Dillinja, MC GQ and Carasel. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Lemon D is a drum & bass and jungle artist based in United Kingdom, with 26 gigs
 
 Dillinja, MC GQ, Carasel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemond/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemond/)*

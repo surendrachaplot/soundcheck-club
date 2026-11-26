@@ -1,6 +1,6 @@
 # Adam R
 
-Adam R is a Club and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Fri, 11 Dec 2026.
+Adam R is a Club and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Fri, 11 Dec 2026.
 
 Adam R is a club and dub techno artist based in United States of America, with 36 gigs on soundcheck across Leipzig and New York City. Often billed alongside Oscar Nñ, Valentin Lamar and JLMR. Next up: Good Room, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Adam R is a club and dub techno artist based in United States of America, with 3
 
 Oscar Nñ, Valentin Lamar, JLMR
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamr/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamr/)*

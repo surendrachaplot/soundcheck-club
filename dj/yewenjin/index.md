@@ -1,6 +1,6 @@
 # Yewen Jin
 
-Yewen Jin is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Spanners, London on Thu, 3 Dec 2026.
+Yewen Jin is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Spanners, London on Thu, 3 Dec 2026.
 
 Yewen Jin is an experimental and electronica artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside House on the Strand, Raindrogyny and Solar Rocks. Next up: Spanners, London on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Yewen Jin is an experimental and electronica artist based in United Kingdom, wit
 
 House on the Strand, Raindrogyny, Solar Rocks
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yewenjin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yewenjin/)*

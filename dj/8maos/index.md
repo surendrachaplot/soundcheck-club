@@ -1,6 +1,6 @@
 # 8maos
 
-8maos is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Process PDX, Portland on Sat, 5 Dec 2026.
+8maos is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Process PDX, Portland on Sat, 5 Dec 2026.
 
 8maos is a minimal and house artist based in United States of America, with 8 gigs on soundcheck across Portland. Often billed alongside Feu du Camp, Aaron Davis and Alvaro. Next up: Process PDX, Portland on Sat 5 Dec.
 
@@ -24,4 +24,4 @@
 
 Feu du Camp, Aaron Davis, Alvaro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8maos/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8maos/)*

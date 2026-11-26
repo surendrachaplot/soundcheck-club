@@ -1,6 +1,6 @@
 # DJ Thank You
 
-DJ Thank You is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Chicago on Fri, 11 Dec 2026.
+DJ Thank You is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Chicago on Fri, 11 Dec 2026.
 
 DJ Thank You is a techno and club artist based in United States of America, with 99 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 2 more. Often billed alongside Angel Money, DJ Sour and flirty800. Next up: TBA, Chicago on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ DJ Thank You is a techno and club artist based in United States of America, with
 
 Angel Money, DJ Sour, flirty800
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djthankyou/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djthankyou/)*

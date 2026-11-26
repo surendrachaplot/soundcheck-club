@@ -1,6 +1,6 @@
 # Marta (SL)
 
-Marta (SL) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, New York City on Thu, 31 Dec 2026.
+Marta (SL) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Thu, 31 Dec 2026.
 
 Marta (SL) is a techno and tech house artist, with 13 gigs on soundcheck across Amsterdam, Ljubljana, London and Nantes and 6 more. Often billed alongside Max Styler, .Paragon and AC Slater. Next up: Elsewhere, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Marta (SL) is a techno and tech house artist, with 13 gigs on soundcheck across 
 
 Max Styler, .Paragon, AC Slater
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marta-sl/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marta-sl/)*

@@ -1,6 +1,6 @@
 # Harvy Valencia
 
-Harvy Valencia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Edge Miami, Miami on Sun, 6 Dec 2026.
+Harvy Valencia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Edge Miami, Miami on Sun, 6 Dec 2026.
 
 Harvy Valencia is a tech house and house artist based in Colombia, with 53 gigs on soundcheck across Amsterdam, Austin, Barcelona and Chicago and 11 more. Often billed alongside Mason Collective, Miluhska and Ms. Mada. Next up: Edge Miami, Miami on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Harvy Valencia is a tech house and house artist based in Colombia, with 53 gigs 
 
 Mason Collective, Miluhska, Ms. Mada
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*

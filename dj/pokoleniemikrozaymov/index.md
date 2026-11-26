@@ -1,6 +1,6 @@
 # POKOLENIE MIKROZAYMOV
 
-POKOLENIE MIKROZAYMOV is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Dual, Bangkok on Fri, 27 Nov 2026.
+POKOLENIE MIKROZAYMOV is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Dual, Bangkok on Fri, 27 Nov 2026.
 
 POKOLENIE MIKROZAYMOV is a techno and industrial artist based in Russia, with 60 gigs on soundcheck across Bangkok, Taipei and Thailand. Often billed alongside InRemission, REIKS and NØSYNC. Next up: Dual, Bangkok on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ POKOLENIE MIKROZAYMOV is a techno and industrial artist based in Russia, with 60
 
 InRemission, REIKS, NØSYNC
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pokoleniemikrozaymov/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pokoleniemikrozaymov/)*

@@ -1,6 +1,6 @@
 # ZZZEUGIRDOR
 
-ZZZEUGIRDOR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Washington DC on Sat, 12 Dec 2026.
+ZZZEUGIRDOR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Washington DC on Sat, 12 Dec 2026.
 
 ZZZEUGIRDOR is a techno and acid artist based in United States of America, with 9 gigs on soundcheck across Washington DC. Often billed alongside Solidare, Artemis.105 and Alucarda. Next up: TBA, Washington DC on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ZZZEUGIRDOR is a techno and acid artist based in United States of America, with 
 
 Solidare, Artemis.105, Alucarda
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzeugirdor/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzeugirdor/)*

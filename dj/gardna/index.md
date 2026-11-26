@@ -1,6 +1,6 @@
 # Gardna
 
-Gardna is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Bristol, Bristol on Sat, 28 Nov 2026.
+Gardna is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Electric Bristol, Bristol on Sat, 28 Nov 2026.
 
 Gardna is a drum & bass and jungle artist based in United Kingdom, with 48 gigs on soundcheck across Adelaide, Athens, Auckland and Bangkok and 14 more. Often billed alongside Mozey, Hybrid Minds and Dillinja. Next up: Electric Bristol, Bristol on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Gardna is a drum & bass and jungle artist based in United Kingdom, with 48 gigs 
 
 Mozey, Hybrid Minds, Dillinja
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gardna/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gardna/)*

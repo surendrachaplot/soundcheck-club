@@ -1,6 +1,6 @@
 # Tom Boogizm
 
-Tom Boogizm is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 4 Dec 2026.
+Tom Boogizm is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 4 Dec 2026.
 
 Tom Boogizm is a club and bass artist based in United Kingdom, with 66 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Finn, Chunky and KD22LR. Next up: EXIT Glasgow, Glasgow on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Tom Boogizm is a club and bass artist based in United Kingdom, with 66 gigs on s
 
 Finn, Chunky, KD22LR
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*

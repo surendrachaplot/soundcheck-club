@@ -1,6 +1,6 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 32 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "RAVELAND x 20kHz : Hard Techno/ Bounce/ Groove" on Wed, 25 Nov 2026.
+John Doe is a music venue in Amsterdam with 32 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RAVELAND x 20kHz : Hard Techno/ Bounce/ Groove" on Wed, 25 Nov 2026.
 
 John Doe is a music venue in Amsterdam listed on soundcheck. 32 upcoming gigs, with line-ups including Alex Sharp, DMS1N3RGY, Kléo and Marco Ramos and 2 more. See dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 32 upcoming gigs, w
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

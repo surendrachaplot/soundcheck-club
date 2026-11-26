@@ -1,14 +1,15 @@
 # Mr James
 
-Mr James is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
+Mr James is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
 
-Mr James is a house and disco artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Max Sinàl, Tilt DJs and Studio Batsumi. Next up: KOKO, London on Sat 5 Dec.
+Mr James is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Max Sinàl, Tilt DJs and Studio Batsumi. Next up: KOKO, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | KOKO | London |
+| Sat, 19 Dec 2026 | Two More Years | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mr James is a house and disco artist based in United Kingdom, with 23 gigs on so
 
 Max Sinàl, Tilt DJs, Studio Batsumi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrjames/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrjames/)*

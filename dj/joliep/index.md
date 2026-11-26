@@ -1,6 +1,6 @@
 # Jolie P
 
-Jolie P is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
+Jolie P is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Electric Brixton, London on Fri, 27 Nov 2026.
 
 Jolie P is a jungle and drum & bass artist based in United Kingdom, with 7 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside SKALAH (UK), 2Shy MC and 4am Kru. Next up: Electric Brixton, London on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Jolie P is a jungle and drum & bass artist based in United Kingdom, with 7 gigs 
 
 SKALAH (UK), 2Shy MC, 4am Kru
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joliep/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joliep/)*

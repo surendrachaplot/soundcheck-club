@@ -1,6 +1,6 @@
 # sweetestcape
 
-sweetestcape is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+sweetestcape is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
 sweetestcape is a techno and house artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, Rachel de Moncuit and THEMPRESS. Next up: FOLD, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ sweetestcape is a techno and house artist based in United Kingdom, with 36 gigs 
 
 Amphia, Rachel de Moncuit, THEMPRESS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*

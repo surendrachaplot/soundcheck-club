@@ -1,13 +1,14 @@
 # Panthora
 
-Panthora is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Panthora is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at El Espacio, Bogotá on Sat, 28 Nov 2026.
 
-Panthora is a house and minimal artist based in Colombia, with 37 gigs on soundcheck across Bogotá, Colombia, Medellin and Miami. Often billed alongside Charlie Florez, Memek and Juan Leal. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Panthora is a house and minimal artist based in Colombia, with 38 gigs on soundcheck across Bogotá, Colombia, Medellin and Miami. Often billed alongside Charlie Florez, Memek and Juan Leal. Next up: El Espacio, Bogotá on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | El Espacio | Bogotá |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Panthora is a house and minimal artist based in Colombia, with 37 gigs on soundc
 
 Charlie Florez, Memek, Juan Leal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panthora/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panthora/)*

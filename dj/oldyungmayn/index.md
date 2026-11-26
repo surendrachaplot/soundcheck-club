@@ -1,6 +1,6 @@
 # Oldyungmayn
 
-Oldyungmayn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu, 26 Nov 2026.
+Oldyungmayn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu, 26 Nov 2026.
 
 Oldyungmayn is a techno and house artist based in United Arab Emirates, with 57 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside CEM, Assyouti and Dj Saliva. Next up: TBA - Lobeckstrasse 30-35, 10969 Berlin, Berlin on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Oldyungmayn is a techno and house artist based in United Arab Emirates, with 57 
 
 CEM, Assyouti, Dj Saliva
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*

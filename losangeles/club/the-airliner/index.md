@@ -1,6 +1,6 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Reflections: Michael Fam, $coe, Shroomie" on Sat, 28 Nov 2026.
+The Airliner is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Reflections: Michael Fam, $coe, Shroomie" on Sat, 28 Nov 2026.
 
 The Airliner is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including agraybé, Ava Blank, Captain Planet and DJ Economy and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
@@ -18,4 +18,4 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 5 upcoming gi
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

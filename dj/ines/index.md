@@ -1,6 +1,6 @@
 # Inés
 
-Inés is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, New York City on Sat, 26 Dec 2026.
+Inés is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Sat, 26 Dec 2026.
 
 Inés is a house and techno artist based in Spain, with 29 gigs on soundcheck across Chicago, Madrid, New York City and Seoul and 2 more. Often billed alongside Coolrnch, Arjun Shah and Adam Pecho. Next up: Elsewhere, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Inés is a house and techno artist based in Spain, with 29 gigs on soundcheck ac
 
 Coolrnch, Arjun Shah, Adam Pecho
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ines/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ines/)*

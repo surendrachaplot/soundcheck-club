@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "THANKSGIVING EVE with BWC Sounds // Hashland, Krispy" on Wed, 25 Nov 2026.
+Bastet is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "THANKSGIVING EVE with BWC Sounds // Hashland, Krispy" on Wed, 25 Nov 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including Andre Power, Ash Lauryn, Bridget B and DJ Dommis and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -19,4 +19,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, w
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

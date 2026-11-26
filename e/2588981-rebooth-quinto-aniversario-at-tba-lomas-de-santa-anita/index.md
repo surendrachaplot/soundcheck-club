@@ -1,6 +1,6 @@
 # Rebooth: Quinto Aniversario at TBA - Lomas de Santa Anita
 
-Rebooth: Quinto Aniversario at TBA - Lomas de Santa Anita on Fri 4 Dec, Guadalajara. 6 artists: elRojo, Franc Mamba, HLoretto and Paloums and 2 more. House and Minimal. See the line-up on soundcheck.
+Rebooth: Quinto Aniversario at TBA - Lomas de Santa Anita on Fri 4 Dec, Guadalajara. 7 artists: Black Echoes, elRojo, Franc Mamba and HLoretto and 3 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rebooth: Quinto Aniversario at TBA - Lomas de Santa Anita on Fri 4 Dec, Guadalaj
 
 ## Line-up
 
+- Black Echoes
 - elRojo
 - Franc Mamba
 - HLoretto

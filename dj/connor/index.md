@@ -1,6 +1,6 @@
 # Connor
 
-Connor is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Numm, Tokyo on Thu, 26 Nov 2026.
+Connor is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Numm, Tokyo on Thu, 26 Nov 2026.
 
 Connor is a house and techno artist based in Japan, with 34 gigs on soundcheck across Kyoto, Melbourne, Osaka and Tokyo. Often billed alongside KABUTO, Shhhhh and Yuta Suzuki. Next up: Numm, Tokyo on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Connor is a house and techno artist based in Japan, with 34 gigs on soundcheck a
 
 KABUTO, Shhhhh, Yuta Suzuki
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connor/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connor/)*

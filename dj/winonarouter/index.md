@@ -1,0 +1,28 @@
+# Winona Router
+
+Winona Router is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 27 Nov 2026.
+
+Winona Router is a house and club artist based in Australia, with 18 gigs on soundcheck across Brisbane, Byron Bay and Sydney. Often billed alongside venus, Pinz and Ralphalfa. Next up: Colombian Hotel, Sydney on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | Colombian Hotel | Sydney |
+
+## Recently played
+
+- Haven, Byron Bay · Fri, 6 Nov 2026
+- Echo & Bounce, Brisbane · Sun, 5 Apr 2026
+- Black Bear Lodge, Brisbane · Sat, 4 Apr 2026
+- The Prince Consort, Brisbane · Fri, 27 Mar 2026
+- QUIVR, Brisbane · Fri, 27 Mar 2026
+- QUIVR, Brisbane · Sat, 2 Aug 2025
+- Tokyo Sing Song, Sydney · Sun, 13 Jul 2025
+- The Princess Theatre, Brisbane · Fri, 6 Jun 2025
+
+## Shares bills with
+
+venus, Pinz, Ralphalfa
+
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winonarouter/)*

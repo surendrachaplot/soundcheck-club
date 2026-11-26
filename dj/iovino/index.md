@@ -1,6 +1,6 @@
 # Iovino
 
-Iovino is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at BORIS CLUB, Barcelona on Mon, 7 Dec 2026.
+Iovino is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BORIS CLUB, Barcelona on Mon, 7 Dec 2026.
 
 Iovino is a progressive house and house artist based in Spain, with 18 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid. Often billed alongside KELO AR, Ivan Akselman and Candela Mor. Next up: BORIS CLUB, Barcelona on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Iovino is a progressive house and house artist based in Spain, with 18 gigs on s
 
 KELO AR, Ivan Akselman, Candela Mor
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iovino/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iovino/)*

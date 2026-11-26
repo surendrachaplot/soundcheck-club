@@ -1,6 +1,6 @@
 # ZuKaRoHi
 
-ZuKaRoHi is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Débris, Tokyo on Tue, 1 Dec 2026.
+ZuKaRoHi is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Débris, Tokyo on Tue, 1 Dec 2026.
 
 ZuKaRoHi is a bass and experimental artist based in Japan, with 21 gigs on soundcheck across Tokyo. Often billed alongside NullDaSensei, Oshi and Sayuri. Next up: Débris, Tokyo on Tue 1 Dec.
 
@@ -26,4 +26,4 @@ ZuKaRoHi is a bass and experimental artist based in Japan, with 21 gigs on sound
 
 NullDaSensei, Oshi, Sayuri (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zukarohi/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zukarohi/)*

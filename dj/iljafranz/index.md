@@ -1,6 +1,6 @@
 # Ilja Franz
 
-Ilja Franz is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 26 Nov 2026.
+Ilja Franz is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 26 Nov 2026.
 
 Ilja Franz is a tech house and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside Finona Rider, Sasha Zlykh and Aii PS. Next up: Golden Pudel Club, Hamburg on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Ilja Franz is a tech house and house artist based in Germany, with 39 gigs on so
 
 Finona Rider, Sasha Zlykh, Aii PS
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*

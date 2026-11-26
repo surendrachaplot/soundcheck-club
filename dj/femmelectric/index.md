@@ -1,6 +1,6 @@
 # Femmelectric
 
-Femmelectric is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Femmelectric is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Femmelectric is a house and disco artist based in United States of America, with 29 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ M3, BEYA and DJ PlayStation. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Femmelectric is a house and disco artist based in United States of America, with
 
 DJ M3, BEYA, DJ PlayStation
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femmelectric/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femmelectric/)*

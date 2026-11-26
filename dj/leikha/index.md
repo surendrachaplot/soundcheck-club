@@ -1,13 +1,14 @@
 # leikha
 
-leikha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 23 Jan 2027.
+leikha is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Safari Lounge, Edinburgh on Sat, 12 Dec 2026.
 
-leikha is a techno and electro artist based in Malaysia, with 4 gigs on soundcheck across Edinburgh. Often billed alongside Dan Jakson, ROXAN (UK) and Rònan White. Next up: The Bongo Club, Edinburgh on Sat 23 Jan.
+leikha is an electronica and experimental artist based in Malaysia, with 5 gigs on soundcheck across Edinburgh. Often billed alongside Dan Jakson, ROXAN (UK) and Rònan White. Next up: The Safari Lounge, Edinburgh on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | The Safari Lounge | Edinburgh |
 | Sat, 23 Jan 2027 | The Bongo Club | Edinburgh |
 
 ## Recently played
@@ -20,4 +21,4 @@ leikha is a techno and electro artist based in Malaysia, with 4 gigs on soundche
 
 Dan Jakson, ROXAN (UK), Rònan White
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leikha/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leikha/)*

@@ -1,6 +1,6 @@
 # SAYA
 
-SAYA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
+SAYA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
 
 SAYA is a house and techno artist based in Finland, with 29 gigs on soundcheck across Amsterdam, Bristol, Brussels and Ibiza and 9 more. Often billed alongside Huck Finn, Shady Lady and Solartrak. Next up: TBA, Amsterdam on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ SAYA is a house and techno artist based in Finland, with 29 gigs on soundcheck a
 
 Huck Finn, Shady Lady, Solartrak
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saya/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saya/)*

@@ -1,6 +1,6 @@
 # RED-RUNNR
 
-RED-RUNNR is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
+RED-RUNNR is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
 
 RED-RUNNR is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Danger Carey, Optimistic Soul and Southside Acid Movement. Next up: Saints of Ingram, Glasgow on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ RED-RUNNR is a house and disco artist based in United Kingdom, with 24 gigs on s
 
 Danger Carey, Optimistic Soul, Southside Acid Movement
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/red-runnr/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/red-runnr/)*

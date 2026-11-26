@@ -1,6 +1,6 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
+DJ Harvey is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
 
 DJ Harvey is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Austin, Bali and Chicago and 15 more. Often billed alongside Heidi Lawden, Seth Troxler and Masha Mar. Next up: Catch One, Los Angeles on Wed 25 Nov.
 
@@ -14,6 +14,7 @@ DJ Harvey is a house and techno artist based in United States of America, with 6
 
 ## Recently played
 
+- Catch One, Los Angeles · Wed, 25 Nov 2026
 - Knockdown Center, New York City · Fri, 13 Nov 2026
 - Marko Disco, Tijuana · Sat, 31 Oct 2026
 - TBA - Secret Location, New York City · Fri, 30 Oct 2026
@@ -21,10 +22,9 @@ DJ Harvey is a house and techno artist based in United States of America, with 6
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Ministry Of Sound, London · Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza · Wed, 12 Aug 2026
-- Akbar, Los Angeles · Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Heidi Lawden, Seth Troxler, Masha Mar
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

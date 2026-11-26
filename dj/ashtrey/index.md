@@ -1,14 +1,15 @@
 # ASHTREY
 
-ASHTREY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at E1, London on Fri, 18 Dec 2026.
+ASHTREY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at E1, London on Fri, 18 Dec 2026.
 
-ASHTREY is a techno and house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Berlin, Leeds and London and 1 more. Often billed alongside Samantha Togni, Karlie Marx and TEDESCO. Next up: E1, London on Fri 18 Dec.
+ASHTREY is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Berlin, Leeds and London and 1 more. Often billed alongside Samantha Togni, TEDESCO and Karlie Marx. Next up: E1, London on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | E1 | London |
+| Fri, 29 Jan 2027 | FOLD | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ASHTREY is a techno and house artist based in United Kingdom, with 51 gigs on so
 
 ## Shares bills with
 
-Samantha Togni, Karlie Marx, TEDESCO
+Samantha Togni, TEDESCO, Karlie Marx
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtrey/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtrey/)*

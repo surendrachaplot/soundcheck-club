@@ -1,6 +1,6 @@
 # Abraxas
 
-Abraxas is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Laboratorio Octogon, Madrid on Fri, 11 Dec 2026.
+Abraxas is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Laboratorio Octogon, Madrid on Fri, 11 Dec 2026.
 
 Abraxas is a techno and industrial artist based in Spain, with 13 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Petra Flurr, Undergarden and Unhuman. Next up: Laboratorio Octogon, Madrid on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Abraxas is a techno and industrial artist based in Spain, with 13 gigs on soundc
 
 Petra Flurr, Undergarden, Unhuman
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abraxas/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abraxas/)*

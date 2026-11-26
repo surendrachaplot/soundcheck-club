@@ -1,13 +1,14 @@
 # Danny Avila
 
-Danny Avila is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Time Nightclub, Orange County on Sat, 28 Nov 2026.
+Danny Avila is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Concourse Project, Austin on Fri, 27 Nov 2026.
 
-Danny Avila is a techno and tech house artist based in Spain, with 56 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 29 more. Often billed alongside Carlos Manaça, Charles D (US) and Dj Du'ArT. Next up: Time Nightclub, Orange County on Sat 28 Nov.
+Danny Avila is a techno and tech house artist based in Spain, with 57 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 29 more. Often billed alongside Carlos Manaça, Charles D (US) and Dj Du'ArT. Next up: The Concourse Project, Austin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | The Concourse Project | Austin |
 | Sat, 28 Nov 2026 | Time Nightclub | Orange County |
 | Sat, 12 Dec 2026 | Magic Stick | Detroit |
 
@@ -26,4 +27,4 @@ Danny Avila is a techno and tech house artist based in Spain, with 56 gigs on so
 
 Carlos Manaça, Charles D (US), Dj Du'ArT
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*

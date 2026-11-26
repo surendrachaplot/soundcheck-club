@@ -1,6 +1,6 @@
 # Musica Club NYC
 
-Musica Club NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Joonbug Presents: New Year's Eve at Musica" on Thu, 31 Dec 2026.
+Musica Club NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Joonbug Presents: New Year's Eve at Musica" on Thu, 31 Dec 2026.
 
 Musica Club NYC is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Danny Krivit, Francois K and Joe Claussell. See dates, start times and who's playing. 637 W 50th Street, New York, NY 10019 USA.
 
@@ -15,4 +15,4 @@ Musica Club NYC is a music venue in New York City listed on soundcheck. 2 upcomi
 
 637 W 50th Street, New York, NY 10019 USA, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/musica-club-nyc/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/musica-club-nyc/)*

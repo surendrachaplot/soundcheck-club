@@ -1,6 +1,6 @@
 # Lobe Studio
 
-Lobe Studio is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "'Going to Ground' with Bobby Myseh" on Thu, 26 Nov 2026.
+Lobe Studio is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "'Going to Ground' with Bobby Myseh" on Thu, 26 Nov 2026.
 
 Lobe Studio is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including Bobby Myseh. See dates, start times and who's playing. 713 East Hastings Street.
 
@@ -15,4 +15,4 @@ Lobe Studio is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs,
 
 713 East Hastings Street, Vancouver
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/lobe-studio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/lobe-studio/)*

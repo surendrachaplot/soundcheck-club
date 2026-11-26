@@ -1,6 +1,6 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "La Paloma meets Dance Elements: Steffi x Virginia + Elwood b2b Ezekiel + Phijos" on Fri, 27 Nov 2026.
+La Paloma is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "La Paloma meets Dance Elements: Steffi x Virginia + Elwood b2b Ezekiel + Phijos" on Fri, 27 Nov 2026.
 
 La Paloma is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including ALOT, Andrea Zarco, BASHKKA and COEO and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
@@ -19,4 +19,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, w
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

@@ -1,6 +1,6 @@
 # KSAL
 
-KSAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at KINKI COCKTAIL CLUB, Madrid on Sat, 28 Nov 2026.
+KSAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KINKI COCKTAIL CLUB, Madrid on Sat, 28 Nov 2026.
 
 KSAL is a techno and house artist based in Spain, with 22 gigs on soundcheck across Barcelona and Madrid. Often billed alongside ANJELIKA SAHAKIAN, Miguel Rivas and Ana Sant. Next up: KINKI COCKTAIL CLUB, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KSAL is a techno and house artist based in Spain, with 22 gigs on soundcheck acr
 
 ANJELIKA SAHAKIAN, Miguel Rivas, Ana Sant
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*

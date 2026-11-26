@@ -1,6 +1,6 @@
 # Owain K
 
-Owain K is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - secret location , Bristol on Sat, 28 Nov 2026.
+Owain K is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - secret location , Bristol on Sat, 28 Nov 2026.
 
 Owain K is a house and acid artist based in United Kingdom, with 77 gigs on soundcheck across Bristol, Cardiff, London and Manchester and 1 more. Often billed alongside Placid, Zobol and Alien Communications. Next up: TBA - secret location , Bristol on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Owain K is a house and acid artist based in United Kingdom, with 77 gigs on soun
 
 Placid, Zobol, Alien Communications
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*

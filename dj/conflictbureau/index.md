@@ -1,6 +1,6 @@
 # CONFLICT BUREAU
 
-CONFLICT BUREAU is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Mickey Zoggs, Bristol on Fri, 27 Nov 2026.
+CONFLICT BUREAU is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mickey Zoggs, Bristol on Fri, 27 Nov 2026.
 
 CONFLICT BUREAU is a house and acid artist based in United States of America, with 19 gigs on soundcheck across Bristol, Chicago, Detroit and London and 4 more. Often billed alongside Dretraxx, Eric Schwab and Max Daley. Next up: Mickey Zoggs, Bristol on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ CONFLICT BUREAU is a house and acid artist based in United States of America, wi
 
 Dretraxx, Eric Schwab, Max Daley
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*

@@ -1,6 +1,6 @@
 # Aerbreak
 
-Aerbreak is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
+Aerbreak is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
 
 Aerbreak is a hardcore and jungle artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Krash Dubs, 50CAL and D-Luc-D. Next up: The Loco Klub, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Aerbreak is a hardcore and jungle artist based in United Kingdom, with 24 gigs o
 
 Krash Dubs, 50CAL, D-Luc-D
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerbreak/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerbreak/)*

@@ -1,6 +1,6 @@
 # Incog
 
-Incog is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
+Incog is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
 
 Incog is a techno and electro artist based in United Kingdom, with 13 gigs on soundcheck across London and Sydney. Often billed alongside DanKemp, skinbin and Jaye Ward. Next up: TBA, Sydney on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Incog is a techno and electro artist based in United Kingdom, with 13 gigs on so
 
 DanKemp, skinbin, Jaye Ward
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/incog/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/incog/)*

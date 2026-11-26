@@ -1,6 +1,6 @@
 # Mixfits (2)
 
-Mixfits (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Thu, 26 Nov 2026.
+Mixfits (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Thu, 26 Nov 2026.
 
 Mixfits is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Aberdeen, Edinburgh and Glasgow. Often billed alongside Jodie Mooney, RUA DJ and TOOKAST. Next up: Cabaret Voltaire, Edinburgh on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Mixfits is a house and techno artist based in United Kingdom, with 52 gigs on so
 
 Jodie Mooney, RUA DJ, TOOKAST
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*

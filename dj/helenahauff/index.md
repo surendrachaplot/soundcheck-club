@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and Electro artist with 13 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Jolene Downtown Miami, Miami on Wed, 25 Nov 2026.
+Helena Hauff is a Techno and Electro artist with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Jolene Downtown Miami, Miami on Wed, 25 Nov 2026.
 
 Helena Hauff is a techno and electro artist based in Germany, with 249 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside DVS1, Ben UFO and Job Jobse. Next up: Jolene Downtown Miami, Miami on Wed 25 Nov.
 
@@ -23,6 +23,7 @@ Helena Hauff is a techno and electro artist based in Germany, with 249 gigs on s
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami · Wed, 25 Nov 2026
 - Nowadays, New York City · Sat, 21 Nov 2026
 - Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Sawmills, Bristol · Sat, 14 Nov 2026
@@ -30,10 +31,9 @@ Helena Hauff is a techno and electro artist based in Germany, with 249 gigs on s
 - Fira Barcelona, Barcelona · Fri, 6 Nov 2026
 - Depot Mayfield, Manchester · Fri, 30 Oct 2026
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
-- Het Rijk van de Keizer, Amsterdam · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 DVS1, Ben UFO, Job Jobse
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

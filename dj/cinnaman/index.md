@@ -1,13 +1,14 @@
 # Cinnaman
 
-Cinnaman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Cinnaman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 31 Dec 2026.
 
-Cinnaman is a house and techno artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Paris and 4 more. Often billed alongside Passion DEEZ, Monty DJ and Nèna. Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
+Cinnaman is a house and techno artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Paris and 4 more. Often billed alongside Monty DJ, Passion DEEZ and Nèna. Next up: Radio Radio, Amsterdam on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Radio Radio | Amsterdam |
 | Mon, 15 Mar 2027 | Leysin Ski Resort | Switzerland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Cinnaman is a house and techno artist based in Netherlands, with 102 gigs on sou
 
 ## Shares bills with
 
-Passion DEEZ, Monty DJ, Nèna
+Monty DJ, Passion DEEZ, Nèna
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnaman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnaman/)*

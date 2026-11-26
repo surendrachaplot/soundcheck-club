@@ -1,6 +1,6 @@
 # Mike Buké
 
-Mike Buké is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 3 Apr 2027.
+Mike Buké is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 3 Apr 2027.
 
 Mike Buké is a techno and deep house artist based in Germany, with 8 gigs on soundcheck across Berlin, Dresden and Munich. Often billed alongside AKA AKA, AVA Irandoost and André Galluzzi. Next up: Stromwerk Dresden, Dresden on Sat 3 Apr.
 
@@ -24,4 +24,4 @@ Mike Buké is a techno and deep house artist based in Germany, with 8 gigs on so
 
 AKA AKA, AVA Irandoost, André Galluzzi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebuke/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebuke/)*

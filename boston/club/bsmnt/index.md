@@ -1,6 +1,6 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BLACKOUT WEDNESDAY" on Wed, 25 Nov 2026.
+Bsmnt is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BLACKOUT WEDNESDAY" on Wed, 25 Nov 2026.
 
 Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Daniel Bell, Deej (UK) and J. Worra. See dates, start times and who's playing. 100 stuart st, boston, ma.
 
@@ -17,4 +17,4 @@ Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with lin
 
 100 stuart st, boston, ma, Boston
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

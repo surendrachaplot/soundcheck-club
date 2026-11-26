@@ -1,6 +1,6 @@
 # Mancho
 
-Mancho is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bassiani, Tbilisi on Sat, 12 Dec 2026.
+Mancho is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bassiani, Tbilisi on Sat, 12 Dec 2026.
 
 Mancho is a techno and house artist based in Georgia, with 70 gigs on soundcheck across Tbilisi. Often billed alongside Kvanchi, Sophie Phare and skyra. Next up: Bassiani, Tbilisi on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Mancho is a techno and house artist based in Georgia, with 70 gigs on soundcheck
 
 Kvanchi, Sophie Phare, skyra
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mancho/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mancho/)*

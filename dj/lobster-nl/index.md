@@ -1,6 +1,6 @@
 # Lobster (NL)
 
-Lobster (NL) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Inter-City, The Hague on Sat, 28 Nov 2026.
+Lobster (NL) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Inter-City, The Hague on Sat, 28 Nov 2026.
 
 Lobster (NL) is a techno and house artist based in Netherlands, with 169 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Grace Dahl, Phil Berg and Beste Hira. Next up: Inter-City, The Hague on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Lobster (NL) is a techno and house artist based in Netherlands, with 169 gigs on
 
 Grace Dahl, Phil Berg, Beste Hira
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobster-nl/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobster-nl/)*

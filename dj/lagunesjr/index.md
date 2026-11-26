@@ -1,6 +1,6 @@
 # Lagunes Jr
 
-Lagunes Jr is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Mexico City on Fri, 27 Nov 2026.
+Lagunes Jr is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Mexico City on Fri, 27 Nov 2026.
 
 Lagunes Jr is a house and minimal artist based in Mexico, with 7 gigs on soundcheck across Mexico City. Often billed alongside Ru.i, Sabliv and Blank. Next up: TBA, Mexico City on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Lagunes Jr is a house and minimal artist based in Mexico, with 7 gigs on soundch
 
 Ru.i, Sabliv, Blank
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lagunesjr/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lagunesjr/)*

@@ -1,13 +1,14 @@
 # Ogem Yilmaz
 
-Ogem Yilmaz is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 11 Dec 2026.
+Ogem Yilmaz is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
 
-Ogem Yilmaz is a house and acid artist based in Turkey, with 9 gigs on soundcheck across Istanbul. Often billed alongside Ezgi, Ace Brothers and Ali Kuru. Next up: Minimüzikhol, Istanbul on Fri 11 Dec.
+Ogem Yilmaz is a house and acid artist based in Turkey, with 10 gigs on soundcheck across Istanbul. Often billed alongside Ezgi, Oceanvs Orientalis and Ace Brothers. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 9 Dec 2026 | Zorlu Performans Sanatları Merkezi | Istanbul |
 | Fri, 11 Dec 2026 | Minimüzikhol | Istanbul |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ogem Yilmaz is a house and acid artist based in Turkey, with 9 gigs on soundchec
 
 ## Shares bills with
 
-Ezgi, Ace Brothers, Ali Kuru
+Ezgi, Oceanvs Orientalis, Ace Brothers
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogemyilmaz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogemyilmaz/)*

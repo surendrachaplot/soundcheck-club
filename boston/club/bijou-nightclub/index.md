@@ -1,6 +1,6 @@
 # Bijou Nightclub
 
-Bijou Nightclub is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Deep/Cutt 3 Year Anniversary: Flotussin, Proswervez & more" on Wed, 25 Nov 2026.
+Bijou Nightclub is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Deep/Cutt 3 Year Anniversary: Flotussin, Proswervez & more" on Wed, 25 Nov 2026.
 
 Bijou Nightclub is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Adelaide, Alexandr, Chus & Ceballos and flotussin and 1 more. See dates, start times and who's playing. 51 Stuart Street, Boston MA 02116, USA.
 
@@ -15,4 +15,4 @@ Bijou Nightclub is a music venue in Boston listed on soundcheck. 2 upcoming gigs
 
 51 Stuart Street, Boston MA 02116, USA, Boston
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bijou-nightclub/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bijou-nightclub/)*

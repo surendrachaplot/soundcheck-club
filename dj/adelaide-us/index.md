@@ -1,6 +1,6 @@
 # Adelaide (1)
 
-Adelaide (1) is a Club and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bijou Nightclub, Boston on Wed, 25 Nov 2026.
+Adelaide (1) is a Club and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bijou Nightclub, Boston on Wed, 25 Nov 2026.
 
 Adelaide is a club and afrobeat artist based in United States of America, with 6 gigs on soundcheck across Boston and New York City. Often billed alongside Christinathesaintt, zzzzach and Alexandr. Next up: Bijou Nightclub, Boston on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ Adelaide is a club and afrobeat artist based in United States of America, with 6
 
 ## Recently played
 
+- Bijou Nightclub, Boston · Wed, 25 Nov 2026
 - Hava Nightclub, Boston · Sat, 24 Oct 2026
 - Cloud & Spirits, Boston · Fri, 9 Oct 2026
 - Hart Bar, New York City · Fri, 18 Sept 2026
@@ -22,4 +23,4 @@ Adelaide is a club and afrobeat artist based in United States of America, with 6
 
 Christinathesaintt, zzzzach, Alexandr
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*

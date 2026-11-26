@@ -1,14 +1,13 @@
 # Exit Reality
 
-Exit Reality is a music venue in Singapore with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Exit Reality with Erwin Linden & Arai.Ki" on Wed, 25 Nov 2026.
+Exit Reality is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Exit Reality with Wonni & Feosho" on Thu, 26 Nov 2026.
 
-Exit Reality is a music venue in Singapore listed on soundcheck. 7 upcoming gigs, with line-ups including 3MZY, Cosmo Carbon, Erwin Linden and Kevin Sy and 2 more. See dates, start times and who's playing.
+Exit Reality is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, with line-ups including 3MZY, Cosmo Carbon, Kevin Sy and Leona Jacewska and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Exit Reality with Erwin Linden & Arai.Ki | Erwin Linden |
 | Thu, 26 Nov 2026 | Exit Reality with Wonni & Feosho |  |
 | Fri, 27 Nov 2026 | Exit Reality with Meliah & Cosmo Carbon | Cosmo Carbon |
 | Sat, 28 Nov 2026 | Exit Reality with 3MZY & Shaoxing | 3MZY, Shaoxing |
@@ -16,4 +15,4 @@ Exit Reality is a music venue in Singapore listed on soundcheck. 7 upcoming gigs
 | Sat, 5 Dec 2026 | Exit Reality with Lokier (Lightstrike, MX) | Lokier |
 | Sat, 12 Dec 2026 | Exit Reality with Leona Jacewska (Wrong Era, PL) | Kevin Sy, Leona Jacewska |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*

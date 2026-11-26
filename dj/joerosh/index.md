@@ -1,6 +1,6 @@
 # Joe Rosh
 
-Joe Rosh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Off Topic, Turin on Fri, 4 Dec 2026.
+Joe Rosh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Off Topic, Turin on Fri, 4 Dec 2026.
 
 Joe Rosh is a techno and house artist based in Italy, with 37 gigs on soundcheck across Berlin, Bologna, London and Milan and 4 more. Often billed alongside Kodacci, San Nicola and Mehmet Alpdogan. Next up: Off Topic, Turin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Joe Rosh is a techno and house artist based in Italy, with 37 gigs on soundcheck
 
 Kodacci, San Nicola, Mehmet Alpdogan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*

@@ -1,6 +1,6 @@
 # BOg
 
-BOg is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+BOg is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 BOg is a house and techno artist based in France, with 20 gigs on soundcheck across Berlin, Brussels, Copenhagen and Dallas/Fort Worth and 12 more. Often billed alongside Alessandro Parisi, Benji DF and Bertram. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ BOg is a house and techno artist based in France, with 20 gigs on soundcheck acr
 
 Alessandro Parisi, Benji DF, Bertram
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bog/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bog/)*

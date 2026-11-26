@@ -1,6 +1,6 @@
 # The Admiral
 
-The Admiral is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Mosaic" on Sat, 5 Dec 2026.
+The Admiral is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mosaic" on Sat, 5 Dec 2026.
 
 The Admiral is a music venue in Brighton listed on soundcheck. 1 upcoming gig, with line-ups including fjv and willstowdela. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Admiral is a music venue in Brighton listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Mosaic | fjv (1), willstowdela |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-admiral/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-admiral/)*

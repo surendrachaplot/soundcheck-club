@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Overmono DJ Set / LATINEO x Club Romantico: DNGDNGDNG Live · re:ni · M8NSE · Kaidara" on Fri, 27 Nov 2026.
+Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Overmono DJ Set / LATINEO x Club Romantico: DNGDNGDNG Live · re:ni · M8NSE · Kaidara" on Fri, 27 Nov 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including 2ManyDJs, Andrea Castells, Ben Sterling and Dengue Dengue Dengue and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

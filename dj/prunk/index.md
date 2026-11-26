@@ -1,6 +1,6 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hemkade 48, Amsterdam on Sat, 12 Dec 2026.
+Prunk is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hemkade 48, Amsterdam on Sat, 12 Dec 2026.
 
 Prunk is a house and tech house artist based in Netherlands, with 320 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Hemkade 48, Amsterdam on Sat 12 Dec.
 
@@ -29,4 +29,4 @@ Prunk is a house and tech house artist based in Netherlands, with 320 gigs on so
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

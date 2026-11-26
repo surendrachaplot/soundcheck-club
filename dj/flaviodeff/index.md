@@ -1,6 +1,6 @@
 # Flavio Deff
 
-Flavio Deff is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Freakout Club, Bologna on Fri, 27 Nov 2026.
+Flavio Deff is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Freakout Club, Bologna on Fri, 27 Nov 2026.
 
 Flavio Deff is a techno and electro artist based in Italy, with 61 gigs on soundcheck across Bologna and Milan. Often billed alongside Dave Scott (IT), gAs and DJ Rou. Next up: Freakout Club, Bologna on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Flavio Deff is a techno and electro artist based in Italy, with 61 gigs on sound
 
 Dave Scott (IT), gAs, DJ Rou
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flaviodeff/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flaviodeff/)*

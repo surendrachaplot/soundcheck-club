@@ -1,8 +1,8 @@
 # PAPCO
 
-PAPCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
+PAPCO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
 
-PAPCO is a techno and house artist based in Slovakia, with 20 gigs on soundcheck across Sydney. Often billed alongside Bryan Ro, LIIA and Nadine B. Next up: Carousel Bar & Ballroom, Sydney on Fri 27 Nov.
+PAPCO is a techno and house artist based in Slovakia, with 21 gigs on soundcheck across Bratislava and Sydney. Often billed alongside Bryan Ro, LIIA and Nadine B. Next up: Carousel Bar & Ballroom, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PAPCO is a techno and house artist based in Slovakia, with 20 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Carousel Bar & Ballroom | Sydney |
 | Fri, 27 Nov 2026 | Carousel Bar & Ballroom | Sydney |
+| Sat, 19 Dec 2026 | Radost Music Club | Bratislava |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ PAPCO is a techno and house artist based in Slovakia, with 20 gigs on soundcheck
 
 Bryan Ro, LIIA, Nadine B
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papco/)*

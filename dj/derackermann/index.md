@@ -1,6 +1,6 @@
 # der Ackermann
 
-der Ackermann is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Kater, Berlin on Thu, 10 Dec 2026.
+der Ackermann is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Thu, 10 Dec 2026.
 
 der Ackermann is a house and tech house artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Gebrüder Teichmann, HANNAHHANSEN and TRVS25. Next up: Kater, Berlin on Thu 10 Dec.
 
@@ -15,4 +15,4 @@ der Ackermann is a house and tech house artist based in Germany, with 2 gigs on 
 
 Gebrüder Teichmann, HANNAHHANSEN, TRVS25
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derackermann/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derackermann/)*

@@ -1,6 +1,6 @@
 # Delguero
 
-Delguero is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Garage Noord, Amsterdam on Thu, 3 Dec 2026.
+Delguero is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Garage Noord, Amsterdam on Thu, 3 Dec 2026.
 
 Delguero is a techno and ghetto tech artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam and Kuala Lumpur. Often billed alongside Jayzo, RawB and Alex Sharp. Next up: Garage Noord, Amsterdam on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Delguero is a techno and ghetto tech artist based in Netherlands, with 14 gigs o
 
 Jayzo, RawB, Alex Sharp
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delguero/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delguero/)*

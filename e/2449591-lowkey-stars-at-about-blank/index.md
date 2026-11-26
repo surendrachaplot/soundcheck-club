@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ at ://about blank
 
-★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 25 artists: *Tia*, Alexander Pohl, Amin Fallaha and Anna Kasyan and 21 more. Trance and Techno. See the line-up on soundcheck.
+★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 26 artists: *Tia*, Alexander Pohl, Amin Fallaha and Anna Kasyan and 22 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -35,5 +35,6 @@
 - Tenacious T
 - TONKS
 - V4NNI
+- ZANDRA
 
 *Source: [soundcheck](https://soundcheck.club/e/2449591-lowkey-stars-at-about-blank/)*

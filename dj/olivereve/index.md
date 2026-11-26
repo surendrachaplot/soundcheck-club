@@ -1,6 +1,6 @@
 # Oliver Eve
 
-Oliver Eve is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, New York City on Fri, 11 Dec 2026.
+Oliver Eve is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, New York City on Fri, 11 Dec 2026.
 
 Oliver Eve is a techno and deep house artist, with 6 gigs on soundcheck across Austin and New York City. Often billed alongside Daniela, Enssembl and Maps of Alaska. Next up: TBA, New York City on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Oliver Eve is a techno and deep house artist, with 6 gigs on soundcheck across A
 
 Daniela, Enssembl, Maps of Alaska
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivereve/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivereve/)*

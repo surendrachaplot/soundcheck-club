@@ -1,6 +1,6 @@
 # Spectribe
 
-Spectribe is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
+Spectribe is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
 
 Spectribe is a techno and electro artist based in Poland, with 53 gigs on soundcheck across Berlin, Gdansk, Krakow and Poznan and 2 more. Often billed alongside kEczuP, Glassz and Trans Timmermans. Next up: Ciało, Wroclaw on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Spectribe is a techno and electro artist based in Poland, with 53 gigs on soundc
 
 kEczuP, Glassz, Trans Timmermans
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spectribe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spectribe/)*

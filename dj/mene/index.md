@@ -1,17 +1,18 @@
 # Mene
 
-Mene is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Egg London, London on Fri, 13 Nov 2026.
+Mene is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Egg London, London on Fri, 18 Dec 2026.
 
-Mene is a tech house and house artist based in Serbia, with 43 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 4 more. Often billed alongside ACA (YU), Nemax and Dimitri J. Next up: Egg London, London on Fri 13 Nov.
+Mene is a tech house and house artist based in Serbia, with 44 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 4 more. Often billed alongside ACA (YU), Nemax and Dimitri J. Next up: Egg London, London on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Egg London | London |
+| Fri, 18 Dec 2026 | Egg London | London |
 
 ## Recently played
 
+- Egg London, London · Fri, 13 Nov 2026
 - TBA - AMSTERDAM BARBER COMPANY, Amsterdam · Sat, 24 Oct 2026
 - Kult, Belgrade · Sat, 17 Oct 2026
 - TBA - Secret location announced only to ticket holders, Ibiza · Sun, 4 Oct 2026
@@ -19,10 +20,9 @@ Mene is a tech house and house artist based in Serbia, with 43 gigs on soundchec
 - ZT Hotel Villa Olimpica, Barcelona · Sat, 20 Jun 2026
 - Atlantic Club, Barcelona · Thu, 18 Jun 2026
 - Forum Station, Barcelona · Thu, 18 Jun 2026
-- Ložionica, Belgrade · Sat, 7 Mar 2026
 
 ## Shares bills with
 
 ACA (YU), Nemax, Dimitri J
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*

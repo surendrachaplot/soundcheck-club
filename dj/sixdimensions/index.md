@@ -1,6 +1,6 @@
 # SIX DIMENSIONS
 
-SIX DIMENSIONS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
+SIX DIMENSIONS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
 
 SIX DIMENSIONS is a techno and house artist based in Germany, with 25 gigs on soundcheck across Hamburg. Often billed alongside Danya (DE), GRØMM and Temasa. Next up: Slot, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ SIX DIMENSIONS is a techno and house artist based in Germany, with 25 gigs on so
 
 Danya (DE), GRØMM, Temasa
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixdimensions/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixdimensions/)*

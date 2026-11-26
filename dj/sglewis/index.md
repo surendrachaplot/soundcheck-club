@@ -1,6 +1,6 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at ZeyZey, Miami on Wed, 2 Dec 2026.
+SG Lewis is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ZeyZey, Miami on Wed, 2 Dec 2026.
 
 SG Lewis is a house and electronica artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: ZeyZey, Miami on Wed 2 Dec.
 
@@ -29,4 +29,4 @@ SG Lewis is a house and electronica artist based in United Kingdom, with 96 gigs
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

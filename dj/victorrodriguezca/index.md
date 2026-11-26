@@ -1,6 +1,6 @@
 # VICTOR RODRIGUEZ (CA)
 
-VICTOR RODRIGUEZ (CA) is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Salon Daomé, Montreal on Fri, 4 Dec 2026.
+VICTOR RODRIGUEZ (CA) is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Salon Daomé, Montreal on Fri, 4 Dec 2026.
 
 VICTOR RODRIGUEZ (CA) is a house artist based in Canada, with 10 gigs on soundcheck across Montreal. Often billed alongside Mitch Oliver, DUZA and Jay de Lys. Next up: Salon Daomé, Montreal on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ VICTOR RODRIGUEZ (CA) is a house artist based in Canada, with 10 gigs on soundch
 
 Mitch Oliver, DUZA, Jay de Lys
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguezca/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguezca/)*

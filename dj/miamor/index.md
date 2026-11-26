@@ -1,6 +1,6 @@
 # Miamor
 
-Miamor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
+Miamor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
 
 Miamor is a techno and trance artist based in Belgium, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Helena Lauwaert, MOKER and BAVR. Next up: Ministry Of Sound, London on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Miamor is a techno and trance artist based in Belgium, with 61 gigs on soundchec
 
 Helena Lauwaert, MOKER, BAVR
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*

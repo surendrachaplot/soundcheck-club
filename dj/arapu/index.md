@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rhythm, Toronto on Fri, 27 Nov 2026.
+Arapu is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rhythm, Toronto on Fri, 27 Nov 2026.
 
 Arapu is a house and minimal artist based in Romania, with 165 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 37 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Rhythm, Toronto on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Arapu is a house and minimal artist based in Romania, with 165 gigs on soundchec
 
 Priku, Seth Troxler, Sossa
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

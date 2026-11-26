@@ -1,6 +1,6 @@
 # MILKMANN
 
-MILKMANN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
+MILKMANN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
 
 MILKMANN is a house and techno artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside Aoi Kurihara, DJ Flexure and Ippei. Next up: Tengu Shokudo, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ MILKMANN is a house and techno artist based in Japan, with 12 gigs on soundcheck
 
 Aoi Kurihara, DJ Flexure, Ippei
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milkmann-jp/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milkmann-jp/)*

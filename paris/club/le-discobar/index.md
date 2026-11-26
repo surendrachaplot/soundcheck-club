@@ -1,17 +1,18 @@
 # Le Discobar
 
-Le Discobar is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "VINYLE MIRAGE w/Onakan Disko" on Fri, 27 Nov 2026.
+Le Discobar is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "VINYLE MIRAGE w/Onakan Disko" on Fri, 27 Nov 2026.
 
-Le Discobar is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Onakan Disko. See dates, start times and who's playing. 92 rue Rébeval, 75019, Paris.
+Le Discobar is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Jeanne and Onakan Disko. See dates, start times and who's playing. 92 rue Rébeval, 75019, Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | VINYLE MIRAGE w/Onakan Disko | Onakan Disko |
+| Fri, 15 Jan 2027 | DiscoDiscoDisco | Jeanne (1) |
 
 ## Address
 
 92 rue Rébeval, 75019, Paris, Paris
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-discobar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-discobar/)*

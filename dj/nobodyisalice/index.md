@@ -1,6 +1,6 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Thu, 26 Nov 2026.
+NOBODYISALICE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Thu, 26 Nov 2026.
 
 NOBODYISALICE is a house and techno artist based in Spain, with 32 gigs on soundcheck across Barcelona. Often billed alongside XipNoize, Breezy S and Gabo Oliveira. Next up: Dr. Dou Social Club, Barcelona on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ NOBODYISALICE is a house and techno artist based in Spain, with 32 gigs on sound
 
 XipNoize, Breezy S, Gabo Oliveira
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

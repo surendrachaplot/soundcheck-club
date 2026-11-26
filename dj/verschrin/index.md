@@ -1,6 +1,6 @@
 # Verschrin
 
-Verschrin is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Westbahnstudios, Vienna on Thu, 26 Nov 2026.
+Verschrin is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Westbahnstudios, Vienna on Thu, 26 Nov 2026.
 
 Verschrin is an electronic artist, with 8 gigs on soundcheck across London and Vienna. Often billed alongside Solo Isa, MARAws and Bara & Isa. Next up: Westbahnstudios, Vienna on Thu 26 Nov.
 
@@ -24,4 +24,4 @@ Verschrin is an electronic artist, with 8 gigs on soundcheck across London and V
 
 Solo Isa, MARAws, Bara & Isa
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verschrin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verschrin/)*

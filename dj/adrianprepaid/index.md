@@ -1,6 +1,6 @@
 # Adrian Prepaid
 
-Adrian Prepaid is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Haus73, Hamburg on Fri, 4 Dec 2026.
+Adrian Prepaid is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Haus73, Hamburg on Fri, 4 Dec 2026.
 
 Adrian Prepaid is a house and garage artist based in Germany, with 8 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Bubamara, DIESEN and Deralinea. Next up: Haus73, Hamburg on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Adrian Prepaid is a house and garage artist based in Germany, with 8 gigs on sou
 
 Bubamara, DIESEN, Deralinea (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianprepaid/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianprepaid/)*

@@ -1,6 +1,6 @@
 # [jnny]
 
-[jnny] is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tranzit, Hamburg on Sat, 28 Nov 2026.
+[jnny] is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tranzit, Hamburg on Sat, 28 Nov 2026.
 
 [jnny] is a trance and techno artist, with 7 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside MIMI404, OnlyWithYou and Ynk. Next up: Tranzit, Hamburg on Sat 28 Nov.
 
@@ -23,4 +23,4 @@
 
 MIMI404, OnlyWithYou, Ynk (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jnny/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jnny/)*

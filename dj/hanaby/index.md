@@ -1,6 +1,6 @@
 # Hanaby
 
-Hanaby is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Fitzroy, Berlin on Sun, 6 Dec 2026.
+Hanaby is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fitzroy, Berlin on Sun, 6 Dec 2026.
 
 Hanaby is a techno and house artist based in Germany, with 112 gigs on soundcheck across Antwerp, Athens, Berlin and Cologne and 13 more. Often billed alongside malengo, DJ Jewel and Nico Adomako. Next up: Fitzroy, Berlin on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Hanaby is a techno and house artist based in Germany, with 112 gigs on soundchec
 
 malengo, DJ Jewel, Nico Adomako
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaby/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaby/)*

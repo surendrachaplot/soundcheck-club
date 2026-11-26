@@ -1,6 +1,6 @@
 # Anthony Godfather (2)
 
-Anthony Godfather (2) is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Oriente, Mexico City on Thu, 26 Nov 2026.
+Anthony Godfather (2) is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Oriente, Mexico City on Thu, 26 Nov 2026.
 
 Anthony Godfather is a tech house and techno artist based in Spain, with 17 gigs on soundcheck across Amsterdam, Barcelona, London and Madrid and 3 more. Often billed alongside Abdon, CESAR ALMENA and Darius Syrossian. Next up: Bar Oriente, Mexico City on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Anthony Godfather is a tech house and techno artist based in Spain, with 17 gigs
 
 Abdon, CESAR ALMENA, Darius Syrossian
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*

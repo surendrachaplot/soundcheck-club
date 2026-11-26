@@ -1,6 +1,6 @@
 # PINTALABIOS
 
-PINTALABIOS is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at XuXa, Austin on Fri, 4 Dec 2026.
+PINTALABIOS is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at XuXa, Austin on Fri, 4 Dec 2026.
 
 PINTALABIOS is a club and techno artist, with 9 gigs on soundcheck across Austin, Dallas/Fort Worth, Houston and New York City. Often billed alongside Civil, D.F.G. and Jesus Freak. Next up: XuXa, Austin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ PINTALABIOS is a club and techno artist, with 9 gigs on soundcheck across Austin
 
 Civil, D.F.G., Jesus Freak
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pintalabios/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pintalabios/)*

@@ -1,6 +1,6 @@
 # Dual Monitor
 
-Dual Monitor is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Phonox, London on Thu, 10 Dec 2026.
+Dual Monitor is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Phonox, London on Thu, 10 Dec 2026.
 
 Dual Monitor is a bass and techno artist based in United Kingdom, with 56 gigs on soundcheck across Bristol, Cardiff, Chicago and Copenhagen and 14 more. Often billed alongside Pluralist (UK), BLUMITSU and Frazer Ray. Next up: Phonox, London on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Dual Monitor is a bass and techno artist based in United Kingdom, with 56 gigs o
 
 Pluralist (UK), BLUMITSU, Frazer Ray
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*

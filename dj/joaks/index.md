@@ -1,6 +1,6 @@
 # Joaks
 
-Joaks is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club 1, Santiago on Sat, 28 Nov 2026.
+Joaks is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club 1, Santiago on Sat, 28 Nov 2026.
 
 Joaks is an electronica and techno artist based in Chile, with 2 gigs on soundcheck across Santiago. Often billed alongside Andrea Riffo, DUPØUY and Eurydome. Next up: Club 1, Santiago on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ Joaks is an electronica and techno artist based in Chile, with 2 gigs on soundch
 
 Andrea Riffo, DUPØUY, Eurydome
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joaks/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joaks/)*

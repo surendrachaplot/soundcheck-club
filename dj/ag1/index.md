@@ -1,6 +1,6 @@
 # AG (1)
 
-AG (1) is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Green Room NYC, New York City on Sat, 5 Dec 2026.
+AG (1) is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Green Room NYC, New York City on Sat, 5 Dec 2026.
 
 AG is a club and footwork artist based in United States of America, with 46 gigs on soundcheck across Barcelona, Chicago, Miami and New York City and 1 more. Often billed alongside DJ Fat Frog, satandoll and Petal. Next up: Green Room NYC, New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ AG is a club and footwork artist based in United States of America, with 46 gigs
 
 DJ Fat Frog, satandoll, Petal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*

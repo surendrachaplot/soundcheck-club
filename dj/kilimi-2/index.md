@@ -1,13 +1,14 @@
 # Kilimi (2)
 
-Kilimi (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club 77, Sydney on Sun, 29 Nov 2026.
+Kilimi (2) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 27 Nov 2026.
 
-Kilimi is a techno and club artist based in Australia, with 16 gigs on soundcheck across Bangkok, Melbourne and Sydney. Often billed alongside Maz, ATARANGI and Kenfo. Next up: Club 77, Sydney on Sun 29 Nov.
+Kilimi is a techno and club artist based in Australia, with 17 gigs on soundcheck across Bangkok, Melbourne and Sydney. Often billed alongside Maz, ATARANGI and Kenfo. Next up: Colombian Hotel, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Colombian Hotel | Sydney |
 | Sun, 29 Nov 2026 | Club 77 | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kilimi is a techno and club artist based in Australia, with 16 gigs on soundchec
 
 Maz (5), ATARANGI, Kenfo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimi-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimi-2/)*

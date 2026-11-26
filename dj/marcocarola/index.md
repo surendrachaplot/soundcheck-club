@@ -1,6 +1,6 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Marco Carola is a Tech House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Marco Carola is a tech house and techno artist based in Italy, with 328 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 47 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Marco Carola is a tech house and techno artist based in Italy, with 328 gigs on 
 
 Franky Rizardo, Ale De Tuglie, Dennis Cruz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

@@ -1,6 +1,6 @@
 # Milo Eastwood
 
-Milo Eastwood is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sidney Myer Music Bowl, Melbourne on Thu, 31 Dec 2026.
+Milo Eastwood is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sidney Myer Music Bowl, Melbourne on Thu, 31 Dec 2026.
 
 Milo Eastwood is a house and disco artist based in Australia, with 27 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Adriana, Frizzy and DJ JNETT. Next up: Sidney Myer Music Bowl, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Milo Eastwood is a house and disco artist based in Australia, with 27 gigs on so
 
 Adriana (1), Frizzy, DJ JNETT
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miloeastwood/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miloeastwood/)*

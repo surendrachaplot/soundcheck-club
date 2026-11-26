@@ -1,6 +1,6 @@
 # Caliente Isa
 
-Caliente Isa is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Club (Málaga), Malaga on Sat, 28 Nov 2026.
+Caliente Isa is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Club (Málaga), Malaga on Sat, 28 Nov 2026.
 
 Caliente Isa is a club and house artist based in Portugal, with 36 gigs on soundcheck across Lisbon, Malaga and Porto. Often billed alongside Runnan, LADRA and Onio (PT). Next up: The Club (Málaga), Malaga on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Caliente Isa is a club and house artist based in Portugal, with 36 gigs on sound
 
 Runnan, LADRA, Onio (PT)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calienteisa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calienteisa/)*

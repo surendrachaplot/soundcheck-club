@@ -1,6 +1,6 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at FLUCC, Vienna on Fri, 11 Dec 2026.
+Fafi Abdel Nour is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FLUCC, Vienna on Fri, 11 Dec 2026.
 
 Fafi Abdel Nour is a house and techno artist based in Netherlands, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Jennifer Loveless, Shanti Celeste and ISAbella. Next up: FLUCC, Vienna on Fri 11 Dec.
 
@@ -34,4 +34,4 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 234 gigs
 
 Jennifer Loveless, Shanti Celeste, ISAbella
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*

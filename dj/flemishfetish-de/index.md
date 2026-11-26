@@ -1,6 +1,6 @@
 # Flemish.Fetish
 
-Flemish.Fetish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Paloma, Berlin on Fri, 27 Nov 2026.
+Flemish.Fetish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Paloma, Berlin on Fri, 27 Nov 2026.
 
 Flemish.Fetish is a house and techno artist based in Germany, with 46 gigs on soundcheck across Antwerp, Berlin, Brussels and Cape Town and 3 more. Often billed alongside Jana Falcon, ADAM MUNNINGS and Cheriii. Next up: Paloma, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Flemish.Fetish is a house and techno artist based in Germany, with 46 gigs on so
 
 Jana Falcon, ADAM MUNNINGS, Cheriii
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*

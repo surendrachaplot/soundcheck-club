@@ -1,6 +1,6 @@
 # Birdee
 
-Birdee is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Franca, Los Angeles on Fri, 27 Nov 2026.
+Birdee is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Franca, Los Angeles on Fri, 27 Nov 2026.
 
 Birdee is a disco and house artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Leeds, London and Los Angeles and 6 more. Often billed alongside Bustin' Loose, Colour Vision and Monsieur Van Pratt. Next up: Bar Franca, Los Angeles on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Birdee is a disco and house artist based in United Kingdom, with 24 gigs on soun
 
 Bustin' Loose, Colour Vision, Monsieur Van Pratt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdee/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdee/)*

@@ -1,6 +1,6 @@
 # Romjulsfestivalen: Funk For Forest (Live) + Storken + Aksel FU + Erald + Neontastic at Jaeger
 
-Romjulsfestivalen: Funk For Forest (Live) + Storken + Aksel FU + Erald + Neontastic at Jaeger on Mon 28 Dec, Oslo. 2 artists: Erald and Storken. Balearic and Disco. See the line-up on soundcheck.
+Romjulsfestivalen: Funk For Forest (Live) + Storken + Aksel FU + Erald + Neontastic at Jaeger on Mon 28 Dec, Oslo. 2 artists: Erald and Storken. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

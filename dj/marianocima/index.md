@@ -1,6 +1,6 @@
 # Mariano Cima
 
-Mariano Cima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Macarena Club, Barcelona on Sat, 26 Dec 2026.
+Mariano Cima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Sat, 26 Dec 2026.
 
 Mariano Cima is a house and techno artist based in Spain, with 44 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Copenhagen and 1 more. Often billed alongside Aleski, enem and Chino Latino. Next up: Macarena Club, Barcelona on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Mariano Cima is a house and techno artist based in Spain, with 44 gigs on soundc
 
 Aleski, enem, Chino Latino
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianocima/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianocima/)*

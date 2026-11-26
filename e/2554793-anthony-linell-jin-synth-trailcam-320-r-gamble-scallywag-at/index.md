@@ -1,6 +1,6 @@
 # Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag at public records
 
-Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag at public records on Fri 27 Nov, New York City. 6 artists: 320, Anthony Linell, DJ Scallywag and Jin Synth and 2 more. Dub Techno. See the line-up on soundcheck.
+Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag at public records on Fri 27 Nov, New York City. 6 artists: 320, Anthony Linell, DJ Scallywag and Jin Synth and 2 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Yu Yu Cine Club: WiG Anniversary" on Fri, 27 Nov 2026.
+YuYu Cine Club is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Yu Yu Cine Club: WiG Anniversary w/ TOCCORORO, BBYAFRICKA" on Fri, 27 Nov 2026.
 
 YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Annette, BBYAFRICKA, fka phaedra and Nimue and 2 more. See dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
@@ -8,11 +8,11 @@ YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 2 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Yu Yu Cine Club: WiG Anniversary | BBYAFRICKA, TOCCORORO, fka phaedra |
+| Fri, 27 Nov 2026 | Yu Yu Cine Club: WiG Anniversary w/ TOCCORORO, BBYAFRICKA | BBYAFRICKA, TOCCORORO, fka phaedra |
 | Fri, 11 Dec 2026 | Yu Yu Cine Club: DESFASE takeover with Annette, Nimue, Wolffer | Annette, Nimue, Wolffer |
 
 ## Address
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

@@ -1,6 +1,6 @@
 # Maudux
 
-Maudux is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Le Petit Salon, Lyon on Fri, 18 Dec 2026.
+Maudux is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Petit Salon, Lyon on Fri, 18 Dec 2026.
 
 Maudux is a techno and trance artist based in France, with 35 gigs on soundcheck across Amsterdam, Berlin, Finland and Geneva and 8 more. Often billed alongside MATRAKK, Nico Moreno and 1luu. Next up: Le Petit Salon, Lyon on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Maudux is a techno and trance artist based in France, with 35 gigs on soundcheck
 
 MATRAKK, Nico Moreno, 1luu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*

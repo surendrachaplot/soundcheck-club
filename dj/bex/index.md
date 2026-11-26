@@ -1,6 +1,6 @@
 # Bex
 
-Bex is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 11 Dec 2026.
+Bex is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 11 Dec 2026.
 
 Bex is a house and techno artist based in Australia, with 101 gigs on soundcheck across Adelaide, Berlin, Brussels and Hobart and 6 more. Often billed alongside Terri, Hannah D and Mike Callander. Next up: Collingwood Basement, Melbourne on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Bex is a house and techno artist based in Australia, with 101 gigs on soundcheck
 
 Terri (2), Hannah D, Mike Callander
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bex/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bex/)*

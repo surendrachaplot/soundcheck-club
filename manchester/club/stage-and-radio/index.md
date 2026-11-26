@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 31 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BABCIA TAKES ACID" on Wed, 25 Nov 2026.
+Stage and Radio is a music venue in Manchester with 31 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BABCIA TAKES ACID" on Wed, 25 Nov 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming gigs, with line-ups including Alex Milo, Ally King, Amelia Leigh and April (UK) and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

@@ -1,13 +1,14 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 13 Dec 2026.
+Joss Dean is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
-Joss Dean is a house and tech house artist based in United Kingdom, with 98 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Thuishaven, Amsterdam on Sun 13 Dec.
+Joss Dean is a house and tech house artist based in United Kingdom, with 99 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: fabric, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | fabric | London |
 | Sun, 13 Dec 2026 | Thuishaven | Amsterdam |
 | Fri, 18 Dec 2026 | TivoliVredenburg | Utrecht |
 | Mon, 28 Dec 2026 | IDRA | Manchester |
@@ -30,4 +31,4 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 98 gigs
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

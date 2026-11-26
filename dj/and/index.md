@@ -1,6 +1,6 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at E1, London on Sat, 2 Jan 2027.
+AnD is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at E1, London on Sat, 2 Jan 2027.
 
 AnD is a techno and industrial artist based in United Kingdom, with 212 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 68 more. Often billed alongside CLTX, LESSSS and Dexphase. Next up: E1, London on Sat 2 Jan.
 
@@ -27,4 +27,4 @@ AnD is a techno and industrial artist based in United Kingdom, with 212 gigs on 
 
 CLTX, LESSSS, Dexphase
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*

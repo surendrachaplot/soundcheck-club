@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Lukas & Frank live in Edinburgh" on Wed, 25 Nov 2026.
+The Liquid Room is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Lukas & Frank live in Edinburgh" on Wed, 25 Nov 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Hemsley, Dennis Quin, Job de Jong and LUKAS & FRANK. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -16,4 +16,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 3 upcoming g
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

@@ -1,6 +1,6 @@
 # Eddie Logix
 
-Eddie Logix is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Vesper Books And Wine, Detroit on Wed, 25 Nov 2026.
+Eddie Logix is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vesper Books And Wine, Detroit on Wed, 25 Nov 2026.
 
 Eddie Logix is a house and disco artist based in United States of America, with 164 gigs on soundcheck across Chicago, Cleveland, Detroit and New York City and 4 more. Often billed alongside Jo Rad Silver, Peter Croce and Crate Digga. Next up: Vesper Books And Wine, Detroit on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ Eddie Logix is a house and disco artist based in United States of America, with 
 
 ## Recently played
 
+- Vesper Books And Wine, Detroit · Wed, 25 Nov 2026
 - TV Lounge, Detroit · Fri, 20 Nov 2026
 - Cafe Bourbon Street, Ohio · Fri, 13 Nov 2026
 - Traverse City Whiskey Co. Outpost, Detroit · Sat, 31 Oct 2026
@@ -20,10 +21,9 @@ Eddie Logix is a house and disco artist based in United States of America, with 
 - Traverse City Whiskey Co. Outpost, Detroit · Sat, 17 Oct 2026
 - The High Dive, Detroit · Tue, 6 Oct 2026
 - Donovan's Pub, Detroit · Mon, 14 Sept 2026
-- TV Lounge, Detroit · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Jo Rad Silver, Peter Croce, Crate Digga
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*

@@ -1,6 +1,6 @@
 # The Wardrobe
 
-The Wardrobe is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Metalheadz Blue Note Sessions - Grooverider, Doc Scott, J Majik & Diverge" on Sun, 29 Nov 2026.
+The Wardrobe is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Metalheadz Blue Note Sessions - Grooverider, Doc Scott, J Majik & Diverge" on Sun, 29 Nov 2026.
 
 The Wardrobe is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Diverge, Doc Scott, Egyptian Lover and Grooverider and 2 more. See dates, start times and who's playing. 6 St. Peter's Square; Leeds; LS9 8AH; United Kingdom.
 
@@ -16,4 +16,4 @@ The Wardrobe is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, wi
 
 6 St. Peter's Square; Leeds; LS9 8AH; United Kingdom, Leeds
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-wardrobe/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-wardrobe/)*

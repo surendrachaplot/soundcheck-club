@@ -1,6 +1,6 @@
 # Octonomy
 
-Octonomy is a Drone and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stone Circle Theatre, New York City on Thu, 17 Dec 2026.
+Octonomy is a Drone and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Stone Circle Theatre, New York City on Thu, 17 Dec 2026.
 
 Octonomy is a drone and industrial artist based in United States of America, with 14 gigs on soundcheck across Chicago, New York City, Oslo and The Hague and 1 more. Often billed alongside Sync Sapro, January Hunt and Veblen Defect. Next up: Stone Circle Theatre, New York City on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Octonomy is a drone and industrial artist based in United States of America, wit
 
 Sync Sapro, January Hunt, Veblen Defect
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octonomy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octonomy/)*

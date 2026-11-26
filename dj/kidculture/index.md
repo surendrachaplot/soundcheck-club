@@ -1,6 +1,6 @@
 # Kid Culture
 
-Kid Culture is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Onder Hans, Amsterdam on Fri, 4 Dec 2026.
+Kid Culture is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Onder Hans, Amsterdam on Fri, 4 Dec 2026.
 
 Kid Culture is a house and disco artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Aron Friedman, Fouk and Hightower. Next up: Onder Hans, Amsterdam on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Kid Culture is a house and disco artist based in Netherlands, with 5 gigs on sou
 
 Aron Friedman, Fouk, Hightower
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidculture/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidculture/)*

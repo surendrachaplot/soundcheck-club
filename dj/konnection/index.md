@@ -1,6 +1,6 @@
 # Konnection
 
-Konnection is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Hong Kong on Fri, 11 Dec 2026.
+Konnection is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Hong Kong on Fri, 11 Dec 2026.
 
 Konnection is a techno and house artist based in China, with 44 gigs on soundcheck across Chengdu, Hong Kong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Faxtory and seko (HK). Next up: TBA, Hong Kong on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Konnection is a techno and house artist based in China, with 44 gigs on soundche
 
 Dan-neo, Faxtory, seko (HK)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*

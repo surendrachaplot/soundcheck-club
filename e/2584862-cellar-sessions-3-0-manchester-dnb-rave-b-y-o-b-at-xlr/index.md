@@ -1,6 +1,6 @@
 # CELLAR SESSIONS 3.0 - MANCHESTER DNB RAVE [B.Y.O.B] at XLR
 
-CELLAR SESSIONS 3.0 - MANCHESTER DNB RAVE [B.Y.O.B] at XLR on Thu 3 Dec, Manchester. 2 artists: Cookie and Maggy B. Drum & Bass and Jungle. See the line-up on soundcheck.
+CELLAR SESSIONS 3.0 - MANCHESTER DNB RAVE [B.Y.O.B] at XLR on Thu 3 Dec, Manchester. 1 artist: Maggy B. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ CELLAR SESSIONS 3.0 - MANCHESTER DNB RAVE [B.Y.O.B] at XLR on Thu 3 Dec, Manches
 
 ## Line-up
 
-- Cookie (2)
 - Maggy B
 
 *Source: [soundcheck](https://soundcheck.club/e/2584862-cellar-sessions-3-0-manchester-dnb-rave-b-y-o-b-at-xlr/)*

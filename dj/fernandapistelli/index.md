@@ -1,6 +1,6 @@
 # Fernanda Pistelli
 
-Fernanda Pistelli is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lac De Géronde, Switzerland on Thu, 24 Jun 2027.
+Fernanda Pistelli is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lac De Géronde, Switzerland on Thu, 24 Jun 2027.
 
 Fernanda Pistelli is a techno and trance artist based in Brazil, with 18 gigs on soundcheck across Athens, Barcelona, Basel and Cologne and 8 more. Often billed alongside Animato, Dub Tiger and Funk Tribu. Next up: Lac De Géronde, Switzerland on Thu 24 Jun.
 
@@ -25,4 +25,4 @@ Fernanda Pistelli is a techno and trance artist based in Brazil, with 18 gigs on
 
 Animato, Dub Tiger, Funk Tribu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandapistelli/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandapistelli/)*

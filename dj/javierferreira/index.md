@@ -1,6 +1,6 @@
 # Javier Ferreira
 
-Javier Ferreira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 28 Nov 2026.
+Javier Ferreira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 28 Nov 2026.
 
 Javier Ferreira is a house and techno artist based in Argentina, with 29 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Madrid and 2 more. Often billed alongside Diego Montiel, Mariano Cima and Andrea Zarco. Next up: Say No More Madrid, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Javier Ferreira is a house and techno artist based in Argentina, with 29 gigs on
 
 Diego Montiel, Mariano Cima, Andrea Zarco
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javierferreira/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javierferreira/)*

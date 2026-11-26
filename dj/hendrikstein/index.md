@@ -1,6 +1,6 @@
 # Hendrik Stein
 
-Hendrik Stein is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sauna Social Club, London on Sun, 29 Nov 2026.
+Hendrik Stein is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sauna Social Club, London on Sun, 29 Nov 2026.
 
 Hendrik Stein is a disco and italo disco artist based in Germany, with 43 gigs on soundcheck across Berlin, Copenhagen, Dublin and Hamburg and 7 more. Often billed alongside Frinda di Lanco, Rena Volvo and Boogie Rookie. Next up: Sauna Social Club, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Hendrik Stein is a disco and italo disco artist based in Germany, with 43 gigs o
 
 Frinda di Lanco, Rena Volvo, Boogie Rookie
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikstein/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikstein/)*

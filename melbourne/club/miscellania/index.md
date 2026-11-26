@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MESS Residents Reveal w/ Grace Ferguson and Isaac Barton (WVCHWY)" on Thu, 26 Nov 2026.
+Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MESS Residents Reveal w/ Grace Ferguson and Isaac Barton (WVCHWY)" on Thu, 26 Nov 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Aaliyah Salem, Alex Albrecht, Andy Hart and b. caszh and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -22,4 +22,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs,
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

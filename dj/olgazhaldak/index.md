@@ -1,6 +1,6 @@
 # Olga Zhaldak
 
-Olga Zhaldak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bike Jesus, Prague on Sat, 19 Dec 2026.
+Olga Zhaldak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bike Jesus, Prague on Sat, 19 Dec 2026.
 
 Olga Zhaldak is a techno and house artist based in Czech Republic, with 25 gigs on soundcheck across Prague. Often billed alongside Cosmodan, NCOL and Raphael Kosmos. Next up: Bike Jesus, Prague on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Olga Zhaldak is a techno and house artist based in Czech Republic, with 25 gigs 
 
 Cosmodan, NCOL, Raphael Kosmos
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgazhaldak/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgazhaldak/)*

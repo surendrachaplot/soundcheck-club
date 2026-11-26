@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "DOWN2TECHNO: Every Wednesday" on Wed, 25 Nov 2026.
+Le Red Room is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DOWN2TECHNO: Every Wednesday" on Wed, 25 Nov 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including AKL!, D.Blavatsky, HomeSick and Make Sense and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -19,4 +19,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, 
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

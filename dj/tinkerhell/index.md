@@ -1,6 +1,6 @@
 # TINKERHELL
 
-TINKERHELL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio dB, Berlin on Sat, 5 Dec 2026.
+TINKERHELL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio dB, Berlin on Sat, 5 Dec 2026.
 
 TINKERHELL is a techno and electronica artist based in Argentina, with 24 gigs on soundcheck across Berlin, Buenos Aires, Cologne and Lisbon and 2 more. Often billed alongside Bermani, Forello and Gaston Fiore. Next up: Studio dB, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ TINKERHELL is a techno and electronica artist based in Argentina, with 24 gigs o
 
 Bermani, Forello, Gaston Fiore
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinkerhell/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinkerhell/)*

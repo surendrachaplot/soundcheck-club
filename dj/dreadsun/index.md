@@ -1,6 +1,6 @@
 # Dreadsun
 
-Dreadsun is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kassa Boat, Budapest on Thu, 31 Dec 2026.
+Dreadsun is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kassa Boat, Budapest on Thu, 31 Dec 2026.
 
 Dreadsun is a techno and progressive house artist based in Hungary, with 38 gigs on soundcheck across Barcelona, Birmingham, Budapest and London and 1 more. Often billed alongside Dual DeStress, Dolça and Noven. Next up: Kassa Boat, Budapest on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dreadsun is a techno and progressive house artist based in Hungary, with 38 gigs
 
 Dual DeStress, Dolça, Noven
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadsun/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadsun/)*

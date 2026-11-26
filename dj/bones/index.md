@@ -1,6 +1,6 @@
 # Bones
 
-Bones is a House and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Koenji Cave, Tokyo on Sat, 5 Dec 2026.
+Bones is a House and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Koenji Cave, Tokyo on Sat, 5 Dec 2026.
 
 Bones is a house and psytrance artist based in United States of America, with 35 gigs on soundcheck across Cape Town, Chicago, Detroit and London and 8 more. Often billed alongside BERLINER KINDL, Lee Wells and Porky. Next up: Koenji Cave, Tokyo on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Bones is a house and psytrance artist based in United States of America, with 35
 
 BERLINER KINDL, Lee Wells, Porky
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*

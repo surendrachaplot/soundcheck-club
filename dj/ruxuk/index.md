@@ -1,6 +1,6 @@
 # Rux (UK)
 
-Rux (UK) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Palace Vinyl, London on Sat, 5 Dec 2026.
+Rux (UK) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Palace Vinyl, London on Sat, 5 Dec 2026.
 
 Rux (UK) is a house and electro artist based in Romania, with 9 gigs on soundcheck across Berlin and London. Often billed alongside MADDØG, ALVAZ and Grace Sands. Next up: Palace Vinyl, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rux (UK) is a house and electro artist based in Romania, with 9 gigs on soundche
 
 MADDØG, ALVAZ, Grace Sands
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxuk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxuk/)*

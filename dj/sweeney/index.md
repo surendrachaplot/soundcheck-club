@@ -1,14 +1,15 @@
 # Sweeney
 
-Sweeney is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
+Sweeney is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
 
-Sweeney is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 3 Dec.
+Sweeney is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | King Tut's Wah Wah Hut | Glasgow |
+| Wed, 16 Dec 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sweeney is a house and techno artist based in United Kingdom, with 50 gigs on so
 
 Sally Swan, Jardine, Tais-Toi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*

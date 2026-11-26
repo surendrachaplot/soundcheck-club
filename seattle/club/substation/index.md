@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 19 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Feed Me" on Fri, 27 Nov 2026.
+Substation is a music venue in Seattle with 19 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Feed Me" on Fri, 27 Nov 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 19 upcoming gigs, with line-ups including 1tbsp. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 19 upcoming gigs, w
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

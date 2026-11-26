@@ -1,6 +1,6 @@
 # Erykah
 
-Erykah is a Bass and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Erykah is a Bass and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Erykah is a bass and breakbeat artist based in Belgium, with 69 gigs on soundcheck across Amsterdam, Antwerp, Bristol and Brussels and 6 more. Often billed alongside gguusstt, AliA and Vers. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Erykah is a bass and breakbeat artist based in Belgium, with 69 gigs on soundche
 
 gguusstt, AliA, Vers
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*

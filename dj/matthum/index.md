@@ -1,6 +1,6 @@
 # Matt Hum
 
-Matt Hum is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Golden Lion, Manchester on Sat, 5 Dec 2026.
+Matt Hum is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Golden Lion, Manchester on Sat, 5 Dec 2026.
 
 Matt Hum is an electronica and house artist based in United Kingdom, with 37 gigs on soundcheck across Leeds, London, Manchester and Sheffield. Often billed alongside Syd Minsky, Tom Sharkett and Duncan Gray. Next up: The Golden Lion, Manchester on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Matt Hum is an electronica and house artist based in United Kingdom, with 37 gig
 
 Syd Minsky, Tom Sharkett, Duncan Gray
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthum/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthum/)*

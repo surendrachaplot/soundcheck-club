@@ -1,6 +1,6 @@
 # Dojo Zone
 
-Dojo Zone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cadavra, Madrid on Fri, 29 Jan 2027.
+Dojo Zone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cadavra, Madrid on Fri, 29 Jan 2027.
 
 Dojo Zone is a house and techno artist, with 18 gigs on soundcheck across Bangkok, Brussels, Madrid and Mallorca and 3 more. Often billed alongside JAKRIN, Chaz (AU) and DOTT. Next up: Cadavra, Madrid on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Dojo Zone is a house and techno artist, with 18 gigs on soundcheck across Bangko
 
 JAKRIN, Chaz (AU), DOTT
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dojozone/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dojozone/)*

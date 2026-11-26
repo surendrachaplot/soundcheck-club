@@ -1,8 +1,8 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Palais, London on Fri, 27 Nov 2026.
+Main Phase is a Garage and Bass artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Palais, London on Fri, 27 Nov 2026.
 
-Main Phase is a garage and bass artist based in Denmark, with 220 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 66 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Palais, London on Fri 27 Nov.
+Main Phase is a garage and bass artist based in Denmark, with 222 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 67 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Palais, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,8 +14,10 @@ Main Phase is a garage and bass artist based in Denmark, with 220 gigs on soundc
 | Sat, 5 Dec 2026 | Disco Zwei | Mannheim |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 | Sat, 19 Dec 2026 | Prince Charles | Berlin |
+| Fri, 22 Jan 2027 | Fållan | Stockholm |
 | Sat, 23 Jan 2027 | Poolen | Copenhagen |
 | Sat, 30 Jan 2027 | The Loft | Manchester |
+| Sun, 31 Jan 2027 | Wigwam | Dublin |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
@@ -33,4 +35,4 @@ Main Phase is a garage and bass artist based in Denmark, with 220 gigs on soundc
 
 Interplanetary Criminal, Silva Bumpa, Dr Dubplate
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*

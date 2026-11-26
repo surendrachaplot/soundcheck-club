@@ -1,6 +1,6 @@
 # TESTBED
 
-TESTBED is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ATW pres. Interplanetary Criminal + Guests - Leeds" on Fri, 27 Nov 2026.
+TESTBED is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ATW pres. Interplanetary Criminal + Guests - Leeds" on Fri, 27 Nov 2026.
 
 TESTBED is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Fabio Santos, Frazer Ray, Interplanetary Criminal and Julian Fijma and 2 more. See dates, start times and who's playing. Butterley Street.
 
@@ -16,4 +16,4 @@ TESTBED is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with li
 
 Butterley Street, Leeds
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*

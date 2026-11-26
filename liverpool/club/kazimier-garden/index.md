@@ -1,6 +1,6 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Sarah Ivy w/ special guest" on Thu, 26 Nov 2026.
+Kazimier Garden is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sarah Ivy w/ special guest" on Thu, 26 Nov 2026.
 
 Kazimier Garden is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including aaypea, Beat Detective, Jacinta and KAVAL and 1 more. See dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
@@ -17,4 +17,4 @@ Kazimier Garden is a music venue in Liverpool listed on soundcheck. 4 upcoming g
 
 32B Seel Street, Liverpool, United Kingdom, Liverpool
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*

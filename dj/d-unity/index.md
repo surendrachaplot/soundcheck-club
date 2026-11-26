@@ -1,6 +1,6 @@
 # D-Unity
 
-D-Unity is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bassline, Chicago on Sat, 28 Nov 2026.
+D-Unity is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bassline, Chicago on Sat, 28 Nov 2026.
 
 D-Unity is a techno and house artist based in Canada, with 18 gigs on soundcheck across Atlanta, Austin, Bali and Chicago and 10 more. Often billed alongside Shaun Moses, 9309 and AVI.avi. Next up: Bassline, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ D-Unity is a techno and house artist based in Canada, with 18 gigs on soundcheck
 
 Shaun Moses, 9309, AVI.avi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-unity/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-unity/)*

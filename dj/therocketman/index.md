@@ -1,6 +1,6 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 19 Dec 2026.
+The Rocketman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 19 Dec 2026.
 
 The Rocketman is a techno and trance artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 24 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: Hans Bunte Areal, Freiburg on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ The Rocketman is a techno and trance artist based in Netherlands, with 46 gigs o
 
 Maddix, Hannah Laing, Amber Broos
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

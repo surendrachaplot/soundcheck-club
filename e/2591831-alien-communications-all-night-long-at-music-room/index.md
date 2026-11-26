@@ -1,6 +1,6 @@
 # Alien Communications – All Night Long at Music Room
 
-Alien Communications – All Night Long at Music Room on Fri 27 Nov, Belfast. 1 artist: Alien Communications. Acid and Electro. See the line-up on soundcheck.
+Alien Communications – All Night Long at Music Room on Fri 27 Nov, Belfast. 1 artist: Alien Communications. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tilli Murphy
 
-Tilli Murphy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at XOYO, London on Thu, 3 Dec 2026.
+Tilli Murphy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at XOYO, London on Thu, 3 Dec 2026.
 
 Tilli Murphy is a house and tech house artist based in United Kingdom, with 53 gigs on soundcheck across Ibiza, Leeds, London and Malta. Often billed alongside Sammy Porter, George Mensah and Goody (UK). Next up: XOYO, London on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Tilli Murphy is a house and tech house artist based in United Kingdom, with 53 g
 
 Sammy Porter, George Mensah, Goody (UK)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillimurphy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillimurphy/)*

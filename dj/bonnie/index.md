@@ -1,6 +1,6 @@
 # Bonnie
 
-Bonnie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at VENT, Tokyo on Sat, 26 Dec 2026.
+Bonnie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at VENT, Tokyo on Sat, 26 Dec 2026.
 
 Bonnie is a house and techno artist based in Switzerland, with 27 gigs on soundcheck across Austin, Chicago, Hamburg and Los Angeles and 5 more. Often billed alongside Clyde, arow and Liquid Stranger. Next up: VENT, Tokyo on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Bonnie is a house and techno artist based in Switzerland, with 27 gigs on soundc
 
 Clyde (2), arow, Liquid Stranger
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*

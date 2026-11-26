@@ -1,6 +1,6 @@
 # The Birds Nest - Brixton
 
-The Birds Nest - Brixton is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Rooftop NYE Party" on Thu, 31 Dec 2026.
+The Birds Nest - Brixton is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Rooftop NYE Party" on Thu, 31 Dec 2026.
 
 The Birds Nest - Brixton is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Birds Nest - Brixton is a music venue in London listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Rooftop NYE Party |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-birds-nest-brixton/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-birds-nest-brixton/)*

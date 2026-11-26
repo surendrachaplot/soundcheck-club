@@ -1,6 +1,6 @@
 # James Love
 
-James Love is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 27 Nov 2026.
+James Love is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 27 Nov 2026.
 
 James Love is a house and techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Blosvenn, Cleemente and DJ Black Moses. Next up: DNA. CLUB, Berlin on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ James Love is a house and techno artist based in Germany, with 3 gigs on soundch
 
 Blosvenn, Cleemente, DJ Black Moses
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslove/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslove/)*

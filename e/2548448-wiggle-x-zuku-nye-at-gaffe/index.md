@@ -1,6 +1,6 @@
 # Wiggle x Zuku: NYE at Gaffe
 
-Wiggle x Zuku: NYE at Gaffe on Thu 31 Dec, London. 5 artists: 3 Minds, Dig This, Eddie Richards and Penelope and 1 more. Progressive House and Tech House. See the line-up on soundcheck.
+Wiggle x Zuku: NYE at Gaffe on Thu 31 Dec, London. 6 artists: 3 Minds, Dig This, Eddie Richards and Junki Inoue and 2 more. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Wiggle x Zuku: NYE at Gaffe on Thu 31 Dec, London. 5 artists: 3 Minds, Dig This,
 - 3 Minds
 - Dig This
 - Eddie Richards
+- Junki Inoue
 - Penelope (2)
 - Terry Francis
 

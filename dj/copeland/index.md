@@ -1,6 +1,6 @@
 # Copeland
 
-Copeland is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hidden Hall, Seattle on Tue, 8 Dec 2026.
+Copeland is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hidden Hall, Seattle on Tue, 8 Dec 2026.
 
 Copeland is a deep house and house artist based in United States of America, with 27 gigs on soundcheck across Amsterdam and Seattle. Often billed alongside Jon Lemmon, Black Velveteen and Dj Sloth. Next up: Hidden Hall, Seattle on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ Copeland is a deep house and house artist based in United States of America, wit
 
 Jon Lemmon, Black Velveteen, Dj Sloth
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copeland/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copeland/)*

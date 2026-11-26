@@ -1,6 +1,6 @@
 # ADRI.G
 
-ADRI.G is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Studio76 Club, Madrid on Sat, 5 Dec 2026.
+ADRI.G is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio76 Club, Madrid on Sat, 5 Dec 2026.
 
 ADRI.G is a techno and industrial artist based in Spain, with 54 gigs on soundcheck across Ibiza and Madrid. Often billed alongside Trasto, VanLL and Crissis. Next up: Studio76 Club, Madrid on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ ADRI.G is a techno and industrial artist based in Spain, with 54 gigs on soundch
 
 Trasto, VanLL, Crissis
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adri.g/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adri.g/)*

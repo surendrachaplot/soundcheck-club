@@ -1,6 +1,6 @@
 # DJ Spinna
 
-DJ Spinna is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Good Room, New York City on Sun, 20 Dec 2026.
+DJ Spinna is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Sun, 20 Dec 2026.
 
 DJ Spinna is a house and funk / soul artist based in United States of America, with 117 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 23 more. Often billed alongside merlin bobb, Francois K and Kenny Dope. Next up: Good Room, New York City on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ DJ Spinna is a house and funk / soul artist based in United States of America, w
 
 merlin bobb, Francois K, Kenny Dope
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*

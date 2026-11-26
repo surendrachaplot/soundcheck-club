@@ -1,6 +1,6 @@
 # REMIXIA
 
-REMIXIA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar v Krymský, Prague on Sat, 28 Nov 2026.
+REMIXIA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar v Krymský, Prague on Sat, 28 Nov 2026.
 
 REMIXIA is a house and afro house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Ibiza and 3 more. Often billed alongside CLEIDO, Major League Djz and AVAION. Next up: Bar v Krymský, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ REMIXIA is a house and afro house artist based in United Kingdom, with 34 gigs o
 
 CLEIDO, Major League Djz, AVAION
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*

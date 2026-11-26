@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "8MM & Shameless/Limitless present: Debbie Sings (Copenhagen)" on Thu, 3 Dec 2026.
+8MM is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "8MM & Shameless/Limitless present: Debbie Sings (Copenhagen)" on Thu, 3 Dec 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including DASH (SLO), Debbie Sings, Desolate Discotheque and Garçon Gaston. See dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -17,4 +17,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

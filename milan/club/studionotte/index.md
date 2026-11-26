@@ -1,6 +1,6 @@
 # Studionotte
 
-Studionotte is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "MUM W/ OMAR , GIORGIO DI MAIO B2B Totino" on Fri, 27 Nov 2026.
+Studionotte is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MUM W/ OMAR , GIORGIO DI MAIO B2B Totino" on Fri, 27 Nov 2026.
 
 Studionotte is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Giorgio Di Majo, OMAR (UY) and Totino. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
 
@@ -16,4 +16,4 @@ Studionotte is a music venue in Milan listed on soundcheck. 3 upcoming gigs, wit
 
 Via Feltre, 30, 20132 Milano MI, Milan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*

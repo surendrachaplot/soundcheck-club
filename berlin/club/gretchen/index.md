@@ -1,8 +1,8 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Disco Tehran in Berlin" on Fri, 27 Nov 2026.
+Gretchen is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Disco Tehran in Berlin" on Fri, 27 Nov 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Allynx, Ant TC1, Beardyman and DJ Storm and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Allynx, Ant TC1, Beardyman and DJ Storm and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

@@ -1,6 +1,6 @@
 # Aio
 
-Aio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 28 Nov 2026.
+Aio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 28 Nov 2026.
 
 Aio is a techno and house artist based in Germany, with 76 gigs on soundcheck across Auckland, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Aender, Konfusia and Maurice Mino. Next up: Ritter Butzke, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Aio is a techno and house artist based in Germany, with 76 gigs on soundcheck ac
 
 Aender, Konfusia, Maurice Mino
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*

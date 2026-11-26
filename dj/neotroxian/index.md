@@ -1,6 +1,6 @@
 # Neotroxian
 
-Neotroxian is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Nether Club, Bucharest on Sat, 28 Nov 2026.
+Neotroxian is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Nether Club, Bucharest on Sat, 28 Nov 2026.
 
 Neotroxian is a techno and hardcore artist based in Romania, with 16 gigs on soundcheck across Bucharest. Often billed alongside Project Morpheus, Dalek and Meiremax. Next up: Nether Club, Bucharest on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Neotroxian is a techno and hardcore artist based in Romania, with 16 gigs on sou
 
 Project Morpheus, Dalek, Meiremax
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neotroxian/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neotroxian/)*

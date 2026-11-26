@@ -1,6 +1,6 @@
 # H7 (3)
 
-H7 (3) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
+H7 (3) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 4 Dec 2026.
 
 H7 is a techno and house artist based in France, with 35 gigs on soundcheck across Berlin. Often billed alongside Blck-Swan, The Kiss and Benua. Next up: Chausseestrasse 131, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ H7 is a techno and house artist based in France, with 35 gigs on soundcheck acro
 
 Blck-Swan, The Kiss, Benua
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h7-3/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h7-3/)*

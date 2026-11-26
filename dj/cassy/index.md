@@ -1,8 +1,8 @@
 # Cassy
 
-Cassy is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Robert Johnson, Hesse on Sat, 28 Nov 2026.
+Cassy is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Robert Johnson, Hesse on Sat, 28 Nov 2026.
 
-Cassy is a house and techno artist based in United Kingdom, with 187 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 59 more. Often billed alongside Carlos Valdes, Konstantin and Anja Schneider. Next up: Robert Johnson, Hesse on Sat 28 Nov.
+Cassy is a house and techno artist based in United Kingdom, with 188 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 59 more. Often billed alongside Carlos Valdes, Konstantin and Anja Schneider. Next up: Robert Johnson, Hesse on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cassy is a house and techno artist based in United Kingdom, with 187 gigs on sou
 | Sat, 28 Nov 2026 | Robert Johnson | Hesse |
 | Sat, 5 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | TBA - Email Deepsidebaltimore@gmail.com for info/address | Baltimore |
+| Sat, 16 Jan 2027 | Sub Club | Glasgow |
 | Fri, 22 Jan 2027 | TBA | Cape Town |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
@@ -29,4 +30,4 @@ Cassy is a house and techno artist based in United Kingdom, with 187 gigs on sou
 
 Carlos Valdes, Konstantin, Anja Schneider
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

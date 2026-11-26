@@ -1,6 +1,6 @@
 # DUZA
 
-DUZA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Salon Daomé, Montreal on Fri, 4 Dec 2026.
+DUZA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Salon Daomé, Montreal on Fri, 4 Dec 2026.
 
 DUZA is a house and disco artist based in Canada, with 30 gigs on soundcheck across Montreal. Often billed alongside Manuel Falardeau, FREEEMAN and Napo Lugo. Next up: Salon Daomé, Montreal on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ DUZA is a house and disco artist based in Canada, with 30 gigs on soundcheck acr
 
 Manuel Falardeau, FREEEMAN, Napo Lugo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*

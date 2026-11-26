@@ -1,6 +1,6 @@
 # Airshpd
 
-Airshpd is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
+Airshpd is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
 
 Airshpd is a techno and electronica artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Eric Oder, BERLIN and Denise Rabe. Next up: Urban Spree, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Airshpd is a techno and electronica artist based in Germany, with 4 gigs on soun
 
 Eric Oder, BERLIN, Denise Rabe
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airshpd/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airshpd/)*

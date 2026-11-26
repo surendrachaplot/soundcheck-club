@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Jon Gurd & Reset Robot Live" on Fri, 27 Nov 2026.
+Vittoria Wharf Studio is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Jon Gurd & Reset Robot Live" on Fri, 27 Nov 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AKWA, Andrew Robertson, Basement Maxx and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -23,4 +23,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcomi
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

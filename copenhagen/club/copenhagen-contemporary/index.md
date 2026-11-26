@@ -1,6 +1,6 @@
 # Copenhagen Contemporary
 
-Copenhagen Contemporary is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Unearth x CC Friday: Babyxsosa, Evanora Unlimited, Europa and More" on Fri, 27 Nov 2026.
+Copenhagen Contemporary is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Unearth x CC Friday: Babyxsosa, Evanora Unlimited, Europa and More" on Fri, 27 Nov 2026.
 
 Copenhagen Contemporary is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including 300SkullsAndCounting, Babyxsosa, ELLE FIERCE and Europa and 2 more. See dates, start times and who's playing. Refshalevej 173A, 1432 København.
 
@@ -15,4 +15,4 @@ Copenhagen Contemporary is a music venue in Copenhagen listed on soundcheck. 2 u
 
 Refshalevej 173A, 1432 København, Copenhagen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhagen-contemporary/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhagen-contemporary/)*

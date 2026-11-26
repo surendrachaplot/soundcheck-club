@@ -1,6 +1,6 @@
 # Arlanoa
 
-Arlanoa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Chausseestrasse 131, Berlin on Sat, 12 Dec 2026.
+Arlanoa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Chausseestrasse 131, Berlin on Sat, 12 Dec 2026.
 
 Arlanoa is a techno and house artist based in France, with 40 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hamburg and 6 more. Often billed alongside DJ Bienveillance, Eclectic Elektra and Julie Desire. Next up: Chausseestrasse 131, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Arlanoa is a techno and house artist based in France, with 40 gigs on soundcheck
 
 DJ Bienveillance, Eclectic Elektra, Julie Desire
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlanoa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlanoa/)*

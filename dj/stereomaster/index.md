@@ -1,6 +1,6 @@
 # Stereo Master
 
-Stereo Master is a Disco and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at renae, Manchester on Thu, 26 Nov 2026.
+Stereo Master is a Disco and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at renae, Manchester on Thu, 26 Nov 2026.
 
 Stereo Master is a disco and hardcore artist based in United Kingdom, with 6 gigs on soundcheck across Belgrade, London and Manchester. Often billed alongside Buller, L J Shellings and Raio. Next up: renae, Manchester on Thu 26 Nov.
 
@@ -22,4 +22,4 @@ Stereo Master is a disco and hardcore artist based in United Kingdom, with 6 gig
 
 Buller, L J Shellings, Raio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stereomaster/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stereomaster/)*

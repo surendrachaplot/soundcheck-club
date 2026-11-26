@@ -1,6 +1,6 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Hope House, Leeds on Fri, 27 Nov 2026.
+Bradley Zero is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hope House, Leeds on Fri, 27 Nov 2026.
 
 Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 61 more. Often billed alongside MLE (UK), Moxie and Sally C. Next up: Hope House, Leeds on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs
 
 MLE (UK), Moxie, Sally C
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

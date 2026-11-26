@@ -1,6 +1,6 @@
 # Kira (3)
 
-Kira (3) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
+Kira (3) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Sat, 30 Jan 2027.
 
 Kira is a drum & bass and jungle artist based in Moldova, with 16 gigs on soundcheck across Amsterdam, Berlin, Bristol and Krakow and 3 more. Often billed alongside Bladerunner, Break and Breakage. Next up: fabric, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Kira is a drum & bass and jungle artist based in Moldova, with 16 gigs on soundc
 
 Bladerunner, Break, Breakage
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*

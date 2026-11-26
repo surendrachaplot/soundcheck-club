@@ -1,6 +1,6 @@
 # Studio 615
 
-Studio 615 is a music venue in Nashville with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "Resonate with CHKLTE" on Sat, 12 Dec 2026.
+Studio 615 is a music venue in Nashville with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Resonate with CHKLTE" on Sat, 12 Dec 2026.
 
 Studio 615 is a music venue in Nashville listed on soundcheck. 1 upcoming gig, with line-ups including CHKLTE and Cruel Mistress. See dates, start times and who's playing. 272 Broadmoor Dr, Nashville, TN 37207.
 
@@ -14,4 +14,4 @@ Studio 615 is a music venue in Nashville listed on soundcheck. 1 upcoming gig, w
 
 272 Broadmoor Dr, Nashville, TN 37207, Nashville
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/studio-615/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/studio-615/)*

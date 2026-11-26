@@ -1,6 +1,6 @@
 # Tahres
 
-Tahres is a Ambient and Drone artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 27 Nov 2026.
+Tahres is a Ambient and Drone artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 27 Nov 2026.
 
 Tahres is an ambient and drone artist based in Mexico, with 18 gigs on soundcheck across Mexico City. Often billed alongside Phanta, Shakiro and Animam. Next up: nueve cero nueve, Mexico City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Tahres is an ambient and drone artist based in Mexico, with 18 gigs on soundchec
 
 Phanta, Shakiro, Animam
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tahres/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tahres/)*

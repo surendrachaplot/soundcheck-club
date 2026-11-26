@@ -1,6 +1,6 @@
 # N4C (1)
 
-N4C (1) is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Super Club, Milan on Sat, 28 Nov 2026.
+N4C (1) is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Super Club, Milan on Sat, 28 Nov 2026.
 
 N4C is a techno and progressive house artist based in Italy, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 2 more. Often billed alongside BL3CKSMITH, ADEZ and Akoriz. Next up: Super Club, Milan on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ N4C is a techno and progressive house artist based in Italy, with 10 gigs on sou
 
 BL3CKSMITH, ADEZ, Akoriz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4c-1/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4c-1/)*

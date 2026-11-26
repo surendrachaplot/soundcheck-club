@@ -1,6 +1,6 @@
 # Valentine
 
-Valentine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Drom, New York City on Thu, 31 Dec 2026.
+Valentine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Drom, New York City on Thu, 31 Dec 2026.
 
 Valentine is a house and techno artist based in Germany, with 6 gigs on soundcheck across Bogotá, Lyon, Madrid and New York City. Often billed alongside Baume, Apollonia and Bellona. Next up: Drom, New York City on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Valentine is a house and techno artist based in Germany, with 6 gigs on soundche
 
 Baume, Apollonia, Bellona
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentine/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentine/)*

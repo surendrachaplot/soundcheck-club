@@ -1,6 +1,6 @@
 # Kuriboh
 
-Kuriboh is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The DBA, Manchester on Wed, 2 Dec 2026.
+Kuriboh is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The DBA, Manchester on Wed, 2 Dec 2026.
 
 Kuriboh is a techno and club artist based in United Kingdom, with 52 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Egui, KURLZ and sebastieN. Next up: The DBA, Manchester on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ Kuriboh is a techno and club artist based in United Kingdom, with 52 gigs on sou
 
 Egui, KURLZ, sebastieN
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriboh/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriboh/)*

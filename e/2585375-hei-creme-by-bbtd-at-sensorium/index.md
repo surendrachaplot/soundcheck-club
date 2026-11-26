@@ -1,6 +1,6 @@
 # Heißcreme by BBTD at Sensorium
 
-Heißcreme by BBTD at Sensorium on Fri 4 Dec, Berlin. 9 artists: Alina Viktoria, ChéRebel, Coco and EVYA and 5 more. See the line-up on soundcheck.
+Heißcreme by BBTD at Sensorium on Fri 4 Dec, Berlin. 10 artists: Alina Viktoria, Annakonda, ChéRebel and Dudulina and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,13 @@ Heißcreme by BBTD at Sensorium on Fri 4 Dec, Berlin. 9 artists: Alina Viktoria,
 ## Line-up
 
 - Alina Viktoria
+- Annakonda
 - ChéRebel
-- Coco (2)
+- Dudulina
 - EVYA
+- Julka (2)
 - Karolanne
 - KIVII
-- Marcel Bortoni
 - MAXIMUS.
 - VEGANICECREAM
 

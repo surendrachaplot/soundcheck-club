@@ -1,6 +1,6 @@
 # jaag (US)
 
-jaag (US) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
+jaag (US) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
 
 jaag (US) is a bass and club artist based in United States of America, with 28 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside nofi, pxlwlkr and day astro. Next up: Underground SF, San Francisco/Oakland on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ jaag (US) is a bass and club artist based in United States of America, with 28 g
 
 nofi, pxlwlkr, day astro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaag-us/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaag-us/)*

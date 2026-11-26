@@ -1,13 +1,14 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "The Portal presents a double release evening with Kimi Recor and Yasemin Vollmond" on Sat, 28 Nov 2026.
+Atemporal is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ecophono" on Fri, 27 Nov 2026.
 
-Atemporal is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Okvsho, Phil Richarde, Reka and Synthtati and 1 more. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
+Atemporal is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Funken, Okvsho, Phil Richarde and Reka and 2 more. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Ecophono | Funken |
 | Sat, 28 Nov 2026 | The Portal presents a double release evening with Kimi Recor and Yasemin Vollmond |  |
 | Sat, 28 Nov 2026 | Sattva Session | Phil Richarde |
 | Sun, 29 Nov 2026 | Okvsho - Listening Session | Okvsho |
@@ -22,4 +23,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

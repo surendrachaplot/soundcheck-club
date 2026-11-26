@@ -1,6 +1,6 @@
 # Aahhh Rooftop
 
-Aahhh Rooftop is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "friends. THE VIEW - XMAS - THE FINAL DANCE" on Sat, 12 Dec 2026.
+Aahhh Rooftop is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "friends. THE VIEW - XMAS - THE FINAL DANCE" on Sat, 12 Dec 2026.
 
 Aahhh Rooftop is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Artur Bredo, Daniele Vecchi, diskoheinz and Don Andres and 2 more. See dates, start times and who's playing. Speicherstraße 20, 81671 München.
 
@@ -15,4 +15,4 @@ Aahhh Rooftop is a music venue in Munich listed on soundcheck. 2 upcoming gigs, 
 
 Speicherstraße 20, 81671 München, Munich
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/aahhh-rooftop/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/aahhh-rooftop/)*

@@ -1,6 +1,6 @@
 # Yass
 
-Yass is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 28 Nov 2026.
+Yass is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 28 Nov 2026.
 
 Yass is a house and hip-hop artist based in Tunisia, with 14 gigs on soundcheck across Berlin, Helsinki, Ibiza and London and 4 more. Often billed alongside Mali, Julian Anthony and Liana. Next up: ciao ciao Bar, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Yass is a house and hip-hop artist based in Tunisia, with 14 gigs on soundcheck 
 
 Mali, Julian Anthony, Liana
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yass/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yass/)*

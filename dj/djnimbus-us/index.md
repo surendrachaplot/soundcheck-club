@@ -1,6 +1,6 @@
 # dj NIMBUS
 
-dj NIMBUS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Henke & Pillot, Houston on Sat, 28 Nov 2026.
+dj NIMBUS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Henke & Pillot, Houston on Sat, 28 Nov 2026.
 
 dj NIMBUS is a house and deep house artist based in United States of America, with 12 gigs on soundcheck across Atlanta, Austin and Houston. Often billed alongside Alex Clavijo, Bobby Blyss and CSILLA. Next up: Henke & Pillot, Houston on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ dj NIMBUS is a house and deep house artist based in United States of America, wi
 
 Alex Clavijo, Bobby Blyss, CSILLA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnimbus-us/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnimbus-us/)*

@@ -1,13 +1,14 @@
 # Bclip
 
-Bclip is a Guaracha and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Bclip is a Guaracha and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 23 Jan 2027.
 
-Bclip is a guaracha and club artist based in Colombia, with 68 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Beijing and 24 more. Often billed alongside Merca Bae, Rosa Pistola and Sushinigami. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Bclip is a guaracha and club artist based in Colombia, with 69 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Beijing and 24 more. Often billed alongside Merca Bae, Rosa Pistola and Sushinigami. Next up: RSO.BERLIN, Berlin on Sat 23 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 23 Jan 2027 | RSO.BERLIN | Berlin |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bclip is a guaracha and club artist based in Colombia, with 68 gigs on soundchec
 
 Merca Bae, Rosa Pistola, Sushinigami
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*

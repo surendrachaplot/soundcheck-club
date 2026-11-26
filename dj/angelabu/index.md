@@ -1,6 +1,6 @@
 # Angela BU
 
-Angela BU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pipe Live Music, Taipei on Sat, 5 Dec 2026.
+Angela BU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pipe Live Music, Taipei on Sat, 5 Dec 2026.
 
 Angela BU is a house and techno artist based in Taiwan, with 28 gigs on soundcheck across Taipei and Tokyo. Often billed alongside Sam Ritter, YAö (TW) and Berthom. Next up: Pipe Live Music, Taipei on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Angela BU is a house and techno artist based in Taiwan, with 28 gigs on soundche
 
 Sam Ritter, YAö (TW), Berthom
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelabu/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelabu/)*

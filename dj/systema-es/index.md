@@ -1,6 +1,6 @@
 # SYSTEMA
 
-SYSTEMA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Core, Madrid on Thu, 26 Nov 2026.
+SYSTEMA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Core, Madrid on Thu, 26 Nov 2026.
 
 SYSTEMA is a techno and house artist based in Spain, with 34 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Gala (ES), Certain People and Fuentes-Guerra. Next up: Core, Madrid on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ SYSTEMA is a techno and house artist based in Spain, with 34 gigs on soundcheck 
 
 Gala (ES), Certain People, Fuentes-Guerra
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/systema-es/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/systema-es/)*

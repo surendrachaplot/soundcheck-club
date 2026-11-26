@@ -1,6 +1,6 @@
 # Hannah O'Gorman
 
-Hannah O'Gorman is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Shrimp, Manchester on Sat, 28 Nov 2026.
+Hannah O'Gorman is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Shrimp, Manchester on Sat, 28 Nov 2026.
 
 Hannah O'Gorman is a disco and funk / soul artist based in United Kingdom, with 66 gigs on soundcheck across Liverpool, London, Manchester and Sheffield. Often billed alongside Keltoi, Rich Reason and Chunky. Next up: Bar Shrimp, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Hannah O'Gorman is a disco and funk / soul artist based in United Kingdom, with 
 
 Keltoi, Rich Reason, Chunky
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahogorman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahogorman/)*

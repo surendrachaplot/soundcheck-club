@@ -1,6 +1,6 @@
 # Harold.
 
-Harold. is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 26 Dec 2026.
+Harold. is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 26 Dec 2026.
 
 Harold. is a minimal and house artist based in United Kingdom, with 18 gigs on soundcheck across Brighton, London and South East. Often billed alongside Ben Lucas, Curby and 3 Minds. Next up: Starlane Pizza Bar, London on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Harold. is a minimal and house artist based in United Kingdom, with 18 gigs on s
 
 Ben Lucas, Curby, 3 Minds
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harold./)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harold./)*

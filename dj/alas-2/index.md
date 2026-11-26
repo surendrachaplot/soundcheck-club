@@ -1,6 +1,6 @@
 # Alas (2)
 
-Alas (2) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 17 Dec 2026.
+Alas (2) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 17 Dec 2026.
 
 Alas is a techno and bass artist based in Germany, with 11 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside Pasat, Cleopard2000 and JADA MORAES. Next up: Golden Pudel Club, Hamburg on Thu 17 Dec.
 
@@ -26,4 +26,4 @@ Alas is a techno and bass artist based in Germany, with 11 gigs on soundcheck ac
 
 Pasat, Cleopard2000, JADA MORAES
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*

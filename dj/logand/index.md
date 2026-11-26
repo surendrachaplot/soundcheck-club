@@ -1,6 +1,6 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
+Logan D is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
 Logan D is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 11 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: Lab11, Birmingham on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, with 55 gigs
 
 Eksman, Harry Shotta, Majistrate
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*

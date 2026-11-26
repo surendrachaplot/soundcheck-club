@@ -1,6 +1,6 @@
 # 240 KM/H pres HUMAN ERROR, GIØ & INÉS ISLA at INPUT High Fidelity Dance Club
 
-240 KM/H pres HUMAN ERROR, GIØ & INÉS ISLA at INPUT High Fidelity Dance Club on Sat 26 Dec, Barcelona. 2 artists: HUMAN  ERROR and ines isla. Techno. See the line-up on soundcheck.
+240 KM/H pres HUMAN ERROR, GIØ & INÉS ISLA at INPUT High Fidelity Dance Club on Sat 26 Dec, Barcelona. 2 artists: HUMAN ERROR and ines isla. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@
 
 ## Line-up
 
-- HUMAN  ERROR
+- HUMAN ERROR
 - ines isla
 
 *Source: [soundcheck](https://soundcheck.club/e/2577092-240-km-h-pres-human-error-gi-in-s-isla-at-input-high-fidelit/)*

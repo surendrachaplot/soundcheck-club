@@ -1,8 +1,8 @@
 # Max Volume
 
-Max Volume is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Max Volume is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
-Max Volume is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin, Geneva, London and Paris and 1 more. Often billed alongside DJ Regret, Onncor and Potkid. Next up: Renate, Berlin on Thu 31 Dec.
+Max Volume is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin, Geneva, London and Paris and 1 more. Often billed alongside AGILY, DJ Regret and Onncor. Next up: Renate, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Max Volume is a techno and house artist based in Germany, with 12 gigs on soundc
 
 ## Shares bills with
 
-DJ Regret, Onncor, Potkid
+AGILY, DJ Regret, Onncor
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume/)*

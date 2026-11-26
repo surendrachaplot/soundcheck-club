@@ -1,6 +1,6 @@
 # DJSOULSEEK
 
-DJSOULSEEK is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 90mil, Berlin on Sat, 5 Dec 2026.
+DJSOULSEEK is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 90mil, Berlin on Sat, 5 Dec 2026.
 
 DJSOULSEEK is a techno and electronica artist, with 28 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Copenhagen and 1 more. Often billed alongside Mama Yha Yha, Maryisonacid and Berenice. Next up: 90mil, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJSOULSEEK is a techno and electronica artist, with 28 gigs on soundcheck across
 
 Mama Yha Yha, Maryisonacid, Berenice
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulseek/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulseek/)*

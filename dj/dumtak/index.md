@@ -1,6 +1,6 @@
 # DumTak
 
-DumTak is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Panke, Berlin on Wed, 30 Dec 2026.
+DumTak is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Panke, Berlin on Wed, 30 Dec 2026.
 
 DumTak is an electro and techno artist based in Palestine, with 15 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Hassandra, Alias Shay and Salma. Next up: Panke, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ DumTak is an electro and techno artist based in Palestine, with 15 gigs on sound
 
 Hassandra, Alias Shay, Salma
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dumtak/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dumtak/)*

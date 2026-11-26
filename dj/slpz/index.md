@@ -1,6 +1,6 @@
 # SLPZ
 
-SLPZ is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at City Hall, Barcelona on Tue, 1 Dec 2026.
+SLPZ is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at City Hall, Barcelona on Tue, 1 Dec 2026.
 
 SLPZ is a techno and electronica artist based in Spain, with 3 gigs on soundcheck across Barcelona. Often billed alongside Kyanøs, LE KLOWN and Nekrohard. Next up: City Hall, Barcelona on Tue 1 Dec.
 
@@ -16,4 +16,4 @@ SLPZ is a techno and electronica artist based in Spain, with 3 gigs on soundchec
 
 Kyanøs, LE KLOWN, Nekrohard
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slpz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slpz/)*

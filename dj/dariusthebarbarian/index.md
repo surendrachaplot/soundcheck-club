@@ -1,6 +1,6 @@
 # Darius The Barbarian
 
-Darius The Barbarian is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at OST, Berlin on Sat, 13 Feb 2027.
+Darius The Barbarian is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at OST, Berlin on Sat, 13 Feb 2027.
 
 Darius The Barbarian is a jungle and techno artist based in United States of America, with 7 gigs on soundcheck across Amsterdam, Berlin and Paris. Often billed alongside DJ KILLING, 0megavybe and Apparel Wax. Next up: OST, Berlin on Sat 13 Feb.
 
@@ -23,4 +23,4 @@ Darius The Barbarian is a jungle and techno artist based in United States of Ame
 
 DJ KILLING, 0megavybe, Apparel Wax
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dariusthebarbarian/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dariusthebarbarian/)*

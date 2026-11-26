@@ -1,6 +1,6 @@
 # Raphael Kosmos :All Night Long: at Bar v Krymský
 
-Raphael Kosmos :All Night Long: at Bar v Krymský on Sat 16 Jan, Prague. 1 artist: Raphael Kosmos. Disco and Acid. See the line-up on soundcheck.
+Raphael Kosmos :All Night Long: at Bar v Krymský on Sat 16 Jan, Prague. 1 artist: Raphael Kosmos. Acid and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

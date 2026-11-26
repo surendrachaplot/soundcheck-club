@@ -1,6 +1,6 @@
 # Klub Mechanik
 
-Klub Mechanik is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "DJ BLIK & Dominika Płonka" on Thu, 26 Nov 2026.
+Klub Mechanik is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DJ BLIK & Dominika Płonka" on Thu, 26 Nov 2026.
 
 Klub Mechanik is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Anastasia Rydlevskaya and Coals. See dates, start times and who's playing. Ludwika Narbutta 87, 02-525 Warszawa.
 
@@ -17,4 +17,4 @@ Klub Mechanik is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, 
 
 Ludwika Narbutta 87, 02-525 Warszawa, Warsaw
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-mechanik/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-mechanik/)*

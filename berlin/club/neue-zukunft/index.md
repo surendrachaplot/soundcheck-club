@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft" on Fri, 27 Nov 2026.
+Neue Zukunft is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft" on Fri, 27 Nov 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including ĀNJÍ, BAERK., Die Wilde Jagd and Fennesz and 2 more. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -20,4 +20,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, w
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

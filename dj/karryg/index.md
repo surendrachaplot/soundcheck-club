@@ -1,6 +1,6 @@
 # Karry G
 
-Karry G is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Tsameti, Tbilisi on Sat, 28 Nov 2026.
+Karry G is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Tsameti, Tbilisi on Sat, 28 Nov 2026.
 
 Karry G is a tech house and afro house artist based in Poland, with 5 gigs on soundcheck across Barcelona, Dubai, Oman and Tbilisi. Next up: TBA - Tsameti, Tbilisi on Sat 28 Nov.
 
@@ -17,4 +17,4 @@ Karry G is a tech house and afro house artist based in Poland, with 5 gigs on so
 - TBA - House of Life, Tbilisi · Sat, 16 May 2026
 - Ku Barcelona, Barcelona · Mon, 5 Jan 2026
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karryg/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karryg/)*

@@ -1,14 +1,14 @@
 # Ruf Dug
 
-Ruf Dug is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Dahlia Stereo, Manchester on Fri, 12 Feb 2027.
+Ruf Dug is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Green Works, Bristol on Fri, 4 Dec 2026.
 
-Ruf Dug is a house and disco artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Bristol, Chicago and Dublin and 14 more. Often billed alongside Tia Cousins, AdomasLP and Tommy Cross. Next up: Dahlia Stereo, Manchester on Fri 12 Feb.
+Ruf Dug is a house and disco artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Bristol, Chicago and Dublin and 14 more. Often billed alongside Tia Cousins, AdomasLP and Tommy Cross. Next up: Green Works, Bristol on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 12 Feb 2027 | Dahlia Stereo | Manchester |
+| Fri, 4 Dec 2026 | Green Works | Bristol |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Ruf Dug is a house and disco artist based in United Kingdom, with 89 gigs on sou
 
 Tia Cousins, AdomasLP, Tommy Cross
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*

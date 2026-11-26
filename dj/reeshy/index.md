@@ -1,8 +1,8 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TESTBED, Leeds on Fri, 27 Nov 2026.
+Reeshy is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TESTBED, Leeds on Fri, 27 Nov 2026.
 
-Reeshy is a house and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Austria, Barcelona and Birmingham and 18 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: TESTBED, Leeds on Fri 27 Nov.
+Reeshy is a house and tech house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Austria, Barcelona and Birmingham and 18 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: TESTBED, Leeds on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Reeshy is a house and tech house artist based in United Kingdom, with 124 gigs o
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 12 Dec 2026 | Gaswrx Birmingham | Birmingham |
+| Thu, 17 Dec 2026 | The Steel Yard | London |
 | Fri, 18 Dec 2026 | Depot Mayfield | Manchester |
 | Sun, 27 Dec 2026 | Circuit | South-east |
 | Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
@@ -35,4 +36,4 @@ Reeshy is a house and tech house artist based in United Kingdom, with 124 gigs o
 
 Enzo Siragusa, Laidlaw, Julian Anthony
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

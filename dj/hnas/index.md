@@ -1,6 +1,6 @@
 # HNAS
 
-HNAS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Z-Bau, Nürnberg on Sat, 12 Dec 2026.
+HNAS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Z-Bau, Nürnberg on Sat, 12 Dec 2026.
 
 HNAS is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Berlin, Dresden, Frankfurt and Mexico City and 3 more. Often billed alongside Dominique Lamee, Kø:lab and Towicz. Next up: Z-Bau, Nürnberg on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ HNAS is a techno and trance artist based in Germany, with 33 gigs on soundcheck 
 
 Dominique Lamee, Kø:lab, Towicz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hnas/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hnas/)*

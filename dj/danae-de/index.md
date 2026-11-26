@@ -1,14 +1,15 @@
 # Danae
 
-Danae is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Soul SKG, Thessaloniki on Sat, 5 Dec 2026.
+Danae is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Soul SKG, Thessaloniki on Sat, 5 Dec 2026.
 
-Danae is a techno and house artist based in Chile, with 13 gigs on soundcheck across Berlin, Bologna, Florence and Mexico City and 4 more. Often billed alongside Alex Dima, DONALD - BIIG_DONNY and Munir Nadir. Next up: Soul SKG, Thessaloniki on Sat 5 Dec.
+Danae is a techno and electro artist based in Chile, with 14 gigs on soundcheck across Berlin, Bologna, Florence and Mexico City and 4 more. Often billed alongside Alex Dima, DONALD - BIIG_DONNY and Munir Nadir. Next up: Soul SKG, Thessaloniki on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Soul SKG | Thessaloniki |
+| Sat, 6 Feb 2027 | Hoppetosse | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Danae is a techno and house artist based in Chile, with 13 gigs on soundcheck ac
 
 Alex Dima, DONALD - BIIG_DONNY, Munir Nadir
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*

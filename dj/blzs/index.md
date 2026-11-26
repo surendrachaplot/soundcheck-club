@@ -1,6 +1,6 @@
 # BLZS
 
-BLZS is a Techno and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 18 Dec 2026.
+BLZS is a Techno and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 18 Dec 2026.
 
 BLZS is a techno and minimal artist based in Hungary, with 15 gigs on soundcheck across Berlin, Birmingham and Budapest. Often billed alongside Cvrdwell, AGA2L and Indirect Movement. Next up: Vektor - The Klub, Budapest on Fri 18 Dec.
 
@@ -28,4 +28,4 @@ BLZS is a techno and minimal artist based in Hungary, with 15 gigs on soundcheck
 
 Cvrdwell, AGA2L, Indirect Movement
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blzs/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blzs/)*

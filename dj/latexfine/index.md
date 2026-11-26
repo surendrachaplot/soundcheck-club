@@ -1,6 +1,6 @@
 # Latex Fine
 
-Latex Fine is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Hamburg on Sat, 12 Dec 2026.
+Latex Fine is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Hamburg on Sat, 12 Dec 2026.
 
 Latex Fine is a techno and house artist based in Germany, with 4 gigs on soundcheck across Hamburg, Rotterdam and Saxony Anhalt. Often billed alongside AnG (NL), Early Bird and FREIGEISTER. Next up: TBA, Hamburg on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Latex Fine is a techno and house artist based in Germany, with 4 gigs on soundch
 
 AnG (NL), Early Bird, FREIGEISTER
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latexfine/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latexfine/)*

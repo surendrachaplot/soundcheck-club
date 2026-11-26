@@ -1,6 +1,6 @@
 # Tresor: The Continuous present at Tresor / Globus
 
-Tresor: The Continuous present at Tresor / Globus on Fri 4 Dec, Berlin. 7 artists: Adlas, Any Mello, Cashu and HAMY and 3 more. Techno and House. See the line-up on soundcheck.
+Tresor: The Continuous present at Tresor / Globus on Fri 4 Dec, Berlin. 7 artists: Adlas, Any Mello, HAMY and Lee Gamble and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,10 @@ Tresor: The Continuous present at Tresor / Globus on Fri 4 Dec, Berlin. 7 artist
 
 - Adlas
 - Any Mello
-- Cashu
 - HAMY
 - Lee Gamble
-- Skee Mask
+- Peder Mannerfelt
+- yungfya
 - Yushh
 
 *Source: [soundcheck](https://soundcheck.club/e/2572464-tresor-the-continuous-present-at-tresor-globus/)*

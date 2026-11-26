@@ -1,6 +1,6 @@
 # Gramrcy
 
-Gramrcy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Love Inn, Bristol on Fri, 27 Nov 2026.
+Gramrcy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Love Inn, Bristol on Fri, 27 Nov 2026.
 
 Gramrcy is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Bristol, Edinburgh and London and 1 more. Often billed alongside Daisy Moon, MLE (UK) and John Loveless. Next up: The Love Inn, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Gramrcy is a house and tech house artist based in United Kingdom, with 30 gigs o
 
 Daisy Moon, MLE (UK), John Loveless
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gramrcy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gramrcy/)*

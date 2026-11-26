@@ -1,6 +1,6 @@
 # Sounds From the Shed : Release Party at TBA
 
-Sounds From the Shed : Release Party at TBA on Sun 6 Dec, Berlin. 5 artists: DJ_FT, hendrik, Juliano and Maïore and 1 more. House and Minimal. See the line-up on soundcheck.
+Sounds From the Shed : Release Party at TBA on Sun 6 Dec, Berlin. 6 artists: DJ_FT, HAL, hendrik and Juliano and 2 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Sounds From the Shed : Release Party at TBA on Sun 6 Dec, Berlin. 5 artists: DJ_
 ## Line-up
 
 - DJ_FT
+- HAL (3)
 - hendrik (3)
 - Juliano
 - Maïore

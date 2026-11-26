@@ -1,6 +1,6 @@
 # Organza
 
-Organza is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 28 Nov 2026.
+Organza is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 28 Nov 2026.
 
 Organza is a house and techno artist based in Germany, with 44 gigs on soundcheck across Berlin and Ljubljana. Often billed alongside elliephunk, materia hache and Luca Elsi. Next up: Crack Bellmer, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Organza is a house and techno artist based in Germany, with 44 gigs on soundchec
 
 elliephunk, materia hache, Luca Elsi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/organza/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/organza/)*

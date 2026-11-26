@@ -1,6 +1,6 @@
 # Aquamarine
 
-Aquamarine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gut Level, Sheffield on Sat, 12 Dec 2026.
+Aquamarine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gut Level, Sheffield on Sat, 12 Dec 2026.
 
 Aquamarine is a techno and house artist based in United Kingdom, with 45 gigs on soundcheck across London, Manchester, Sheffield and Tokyo. Often billed alongside HENDERSON, Jezebelle and ANNX. Next up: Gut Level, Sheffield on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Aquamarine is a techno and house artist based in United Kingdom, with 45 gigs on
 
 HENDERSON, Jezebelle, ANNX
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamarine/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamarine/)*

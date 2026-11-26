@@ -1,6 +1,6 @@
 # Sunny D
 
-Sunny D is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 2 Dec 2026.
+Sunny D is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 2 Dec 2026.
 
 Sunny D is a house and deep house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Edinburgh, London and Manchester and 1 more. Often billed alongside Buddy., Mason Wild and BABA (SA). Next up: Sneaky Pete's, Edinburgh on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ Sunny D is a house and deep house artist based in United Kingdom, with 37 gigs o
 
 Buddy. (2), Mason Wild, BABA (SA)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*

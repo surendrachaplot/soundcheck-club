@@ -1,6 +1,6 @@
 # Matisa
 
-Matisa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at REC Napoli, Naples on Fri, 11 Dec 2026.
+Matisa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at REC Napoli, Naples on Fri, 11 Dec 2026.
 
 Matisa is a house and techno artist based in Italy, with 156 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 53 more. Often billed alongside CHRIS STASSY, DJ Tennis and The Martinez Brothers. Next up: REC Napoli, Naples on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ Matisa is a house and techno artist based in Italy, with 156 gigs on soundcheck 
 
 CHRIS STASSY, DJ Tennis, The Martinez Brothers
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

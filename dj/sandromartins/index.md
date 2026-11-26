@@ -1,6 +1,6 @@
 # Sandro Martins
 
-Sandro Martins is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at NADA Lisbon, Lisbon on Sat, 28 Nov 2026.
+Sandro Martins is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NADA Lisbon, Lisbon on Sat, 28 Nov 2026.
 
 Sandro Martins is a techno and tech house artist based in Portugal, with 32 gigs on soundcheck across Lisbon, London and Zagreb. Often billed alongside Massabs, Carlos Manaça and Dj Du'ArT. Next up: NADA Lisbon, Lisbon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sandro Martins is a techno and tech house artist based in Portugal, with 32 gigs
 
 Massabs, Carlos Manaça, Dj Du'ArT
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandromartins/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandromartins/)*

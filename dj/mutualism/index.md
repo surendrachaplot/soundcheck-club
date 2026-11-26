@@ -1,6 +1,6 @@
 # Mutualism
 
-Mutualism is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Animal, New York City on Thu, 26 Nov 2026.
+Mutualism is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Animal, New York City on Thu, 26 Nov 2026.
 
 Mutualism is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 16 more. Often billed alongside SPRKLBB, Mutualism (DE) and Baronhawk Poitier. Next up: Animal, New York City on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Mutualism is a house and techno artist based in United States of America, with 6
 
 SPRKLBB, Mutualism (DE), Baronhawk Poitier
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*

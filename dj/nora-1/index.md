@@ -1,14 +1,15 @@
 # NORA (BR)
 
-NORA (BR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
+NORA (BR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
 
-NORA (BR) is a techno and house artist based in Brazil, with 64 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 7 more. Often billed alongside Cuca, KBRAL and Glau. Next up: Sensorium, Berlin on Fri 27 Nov.
+NORA (BR) is a techno and house artist based in Brazil, with 65 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 7 more. Often billed alongside Cuca, KBRAL and Glau. Next up: Sensorium, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Sensorium | Berlin |
+| Sat, 2 Jan 2027 | TBA - Quadrado da Urca | Rio de Janeiro |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NORA (BR) is a techno and house artist based in Brazil, with 64 gigs on soundche
 
 Cuca, KBRAL, Glau
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*

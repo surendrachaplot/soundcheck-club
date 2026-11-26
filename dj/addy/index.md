@@ -1,6 +1,6 @@
 # Addy
 
-Addy is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Rebel, Toronto on Sat, 28 Nov 2026.
+Addy is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rebel, Toronto on Sat, 28 Nov 2026.
 
 Addy is a tech house and house artist based in Canada, with 103 gigs on soundcheck across Montreal and Toronto. Often billed alongside Manzone & Strong, Tyler Hill and TAKiN. Next up: Rebel, Toronto on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Addy is a tech house and house artist based in Canada, with 103 gigs on soundche
 
 Manzone & Strong, Tyler Hill, TAKiN
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/addy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/addy/)*

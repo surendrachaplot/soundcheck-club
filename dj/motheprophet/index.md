@@ -1,6 +1,6 @@
 # Mo the prophet
 
-Mo the prophet is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at SASS Music Club, Vienna on Sat, 28 Nov 2026.
+Mo the prophet is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at SASS Music Club, Vienna on Sat, 28 Nov 2026.
 
 Mo the prophet is a house and balearic artist based in Germany, with 24 gigs on soundcheck across Hamburg, Munich and Vienna. Often billed alongside heronymus, Chet Rubbs and Julie Fleischer. Next up: SASS Music Club, Vienna on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mo the prophet is a house and balearic artist based in Germany, with 24 gigs on 
 
 heronymus, Chet Rubbs, Julie Fleischer
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motheprophet/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motheprophet/)*

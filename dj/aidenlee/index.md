@@ -1,6 +1,6 @@
 # Aiden Lee
 
-Aiden Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Liquid Club, Malta on Fri, 8 Jan 2027.
+Aiden Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Liquid Club, Malta on Fri, 8 Jan 2027.
 
 Aiden Lee is a techno and house artist based in South Korea, with 12 gigs on soundcheck across Malta and Seoul. Often billed alongside cuprum, 01 and Mingsturn. Next up: Liquid Club, Malta on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Aiden Lee is a techno and house artist based in South Korea, with 12 gigs on sou
 
 cuprum, 01 (1), Mingsturn
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenlee/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenlee/)*

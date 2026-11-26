@@ -1,6 +1,6 @@
 # Malaga Sin City
 
-Malaga Sin City is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Analogica" on Fri, 27 Nov 2026.
+Malaga Sin City is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Analogica" on Fri, 27 Nov 2026.
 
 Malaga Sin City is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including AllaDerivaLontano, Ascot/ww, Daniele Umore and GLADJEE and 2 more. See dates, start times and who's playing. Via Enrico Schievano 8, Milano, 20143, Italy.
 
@@ -15,4 +15,4 @@ Malaga Sin City is a music venue in Milan listed on soundcheck. 2 upcoming gigs,
 
 Via Enrico Schievano 8, Milano, 20143, Italy, Milan
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*

@@ -1,8 +1,8 @@
 # Dana Kuehr
 
-Dana Kuehr is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
+Dana Kuehr is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
 
-Dana Kuehr is a house and techno artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 12 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: 1520, North on Fri 27 Nov.
+Dana Kuehr is a house and techno artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 12 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: 1520, North on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dana Kuehr is a house and techno artist based in United States of America, with 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | 1520 | North |
 | Fri, 4 Dec 2026 | TBA - Lisboa | Lisbon |
+| Sun, 6 Dec 2026 | Passevite | Lisbon |
 | Fri, 18 Dec 2026 | Péniche Éliane | Brussels |
 
 ## Recently played
@@ -27,4 +28,4 @@ Dana Kuehr is a house and techno artist based in United States of America, with 
 
 Fais Le Beau, DJ Rino, Karla Böhm
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*

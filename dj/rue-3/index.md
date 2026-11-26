@@ -1,6 +1,6 @@
 # rue (3)
 
-rue (3) is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
+rue (3) is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
 
 rue is an electro and club artist based in South Korea, with 29 gigs on soundcheck across Seoul. Often billed alongside O.od, Excultist and MOHOHOMO. Next up: Ximxim Bar, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ rue is an electro and club artist based in South Korea, with 29 gigs on soundche
 
 O.od, Excultist, MOHOHOMO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*

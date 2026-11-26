@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Colyn is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Colyn is a techno and house artist based in Netherlands, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Adriatique, Innellea and Tale Of Us. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Colyn is a techno and house artist based in Netherlands, with 191 gigs on soundc
 
 Adriatique, Innellea, Tale Of Us
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

@@ -1,6 +1,6 @@
 # Ignacio Morales
 
-Ignacio Morales is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Noiiz Sound Archives, Medellin on Sun, 6 Dec 2026.
+Ignacio Morales is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Noiiz Sound Archives, Medellin on Sun, 6 Dec 2026.
 
 Ignacio Morales is a house and minimal artist based in Spain, with 25 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 6 more. Often billed alongside Alexis Cabrera, Giorgio Maulini and Alvaro Medina. Next up: Noiiz Sound Archives, Medellin on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Ignacio Morales is a house and minimal artist based in Spain, with 25 gigs on so
 
 Alexis Cabrera, Giorgio Maulini, Alvaro Medina
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*

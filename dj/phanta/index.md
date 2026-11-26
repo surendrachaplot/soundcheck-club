@@ -1,6 +1,6 @@
 # Phanta
 
-Phanta is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu, 31 Dec 2026.
+Phanta is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu, 31 Dec 2026.
 
 Phanta is an electronica and ambient artist based in Mexico, with 98 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Tahres and Enya Botello. Next up: TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Phanta is an electronica and ambient artist based in Mexico, with 98 gigs on sou
 
 Bluecommand, Tahres, Enya Botello
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phanta/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phanta/)*

@@ -1,6 +1,6 @@
 # Spirit
 
-Spirit is a music venue in Pittsburgh with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Celestial Bodies: SAGITTARIUS SZN" on Fri, 27 Nov 2026.
+Spirit is a music venue in Pittsburgh with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Celestial Bodies: SAGITTARIUS SZN" on Fri, 27 Nov 2026.
 
 Spirit is a music venue in Pittsburgh listed on soundcheck. 5 upcoming gigs, with line-ups including Cereza, HUNY, Joshua Orange and Lemonline and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Spirit is a music venue in Pittsburgh listed on soundcheck. 5 upcoming gigs, wit
 | Sat, 5 Dec 2026 | Title Town |  |
 | Fri, 11 Dec 2026 | SIESTA FIESTA | Cereza, ms.TIZA |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/spirit/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/spirit/)*

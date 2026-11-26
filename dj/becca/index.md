@@ -1,13 +1,14 @@
 # BECCA
 
-BECCA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
+BECCA is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Fri, 18 Dec 2026.
 
-BECCA is a trance and techno artist, with 4 gigs on soundcheck across Barcelona, Berlin and Hannover. Often billed alongside Amøn, Aniza (DE) and Antonym. Next up: ://about blank, Berlin on Sat 9 Jan.
+BECCA is a trance and techno artist, with 5 gigs on soundcheck across Barcelona, Berlin and Hannover. Often billed alongside Amøn, Aniza (DE) and Antonym. Next up: ://about blank, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | ://about blank | Berlin |
 | Sat, 9 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
@@ -20,4 +21,4 @@ BECCA is a trance and techno artist, with 4 gigs on soundcheck across Barcelona,
 
 Amøn, Aniza (DE), Antonym
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/becca/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/becca/)*

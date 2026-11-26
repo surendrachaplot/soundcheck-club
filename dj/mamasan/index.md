@@ -1,6 +1,6 @@
 # MAMA SAN
 
-MAMA SAN is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 28 Nov 2026.
+MAMA SAN is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 MAMA SAN is a club and pop artist based in United States of America, with 47 gigs on soundcheck across San Francisco/Oakland and Seattle. Often billed alongside MAMA SANx, Discnogirl and MASHALLAH. Next up: Monarch, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MAMA SAN is a club and pop artist based in United States of America, with 47 gig
 
 MAMA SANx, Discnogirl, MASHALLAH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasan/)*

@@ -1,6 +1,6 @@
 # Warehouse Elementenstraat
 
-Warehouse Elementenstraat is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "VYBZ with Paco Osuna" on Sat, 19 Dec 2026.
+Warehouse Elementenstraat is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "VYBZ with Paco Osuna" on Sat, 19 Dec 2026.
 
 Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Paco Osuna, Philou Louzolo, Rayzir and Rendher and 1 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
 
@@ -14,4 +14,4 @@ Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 1 
 
 Elementenstraat 25, 1014 AR, Amsterdam, Amsterdam
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*

@@ -1,17 +1,18 @@
 # Cristian Arango
 
-Cristian Arango is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Somewhere Nowhere NYC, New York City on Fri, 20 Nov 2026.
+Cristian Arango is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Superior Ingredients, New York City on Sun, 29 Nov 2026.
 
-Cristian Arango is a tech house and afro house artist based in United States of America, with 112 gigs on soundcheck across Boston, Houston, Jacksonville and Los Angeles and 3 more. Often billed alongside Oscar G, Anthony Lopez and Matt Martinez. Next up: Somewhere Nowhere NYC, New York City on Fri 20 Nov.
+Cristian Arango is a tech house and afro house artist based in United States of America, with 113 gigs on soundcheck across Boston, Houston, Jacksonville and Los Angeles and 3 more. Often billed alongside Oscar G, Anthony Lopez and Matt Martinez. Next up: Superior Ingredients, New York City on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Somewhere Nowhere NYC | New York City |
+| Sun, 29 Nov 2026 | Superior Ingredients | New York City |
 
 ## Recently played
 
+- Somewhere Nowhere NYC, New York City · Fri, 20 Nov 2026
 - Listen Brooklyn, New York City · Fri, 30 Oct 2026
 - 96 Morgan Ave, New York City · Sun, 11 Oct 2026
 - LoHi, New York City · Sat, 3 Oct 2026
@@ -19,10 +20,9 @@ Cristian Arango is a tech house and afro house artist based in United States of 
 - Somewhere Nowhere NYC, New York City · Sat, 19 Sept 2026
 - Somewhere Nowhere NYC, New York City · Sun, 13 Sept 2026
 - Superior Ingredients, New York City · Sat, 1 Aug 2026
-- Skyport Marina, New York City · Mon, 25 May 2026
 
 ## Shares bills with
 
 Oscar G, Anthony Lopez, Matt Martinez
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianarangolocombia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianarangolocombia/)*

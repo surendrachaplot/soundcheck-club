@@ -1,6 +1,6 @@
 # Solid-Funk
 
-Solid-Funk is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Collect LX Factory, Lisbon on Thu, 31 Dec 2026.
+Solid-Funk is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Collect LX Factory, Lisbon on Thu, 31 Dec 2026.
 
 Solid-Funk is a techno and electronica artist based in Portugal, with 59 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Ze Salvador, Mary B and Schlingen. Next up: Collect LX Factory, Lisbon on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Solid-Funk is a techno and electronica artist based in Portugal, with 59 gigs on
 
 Ze Salvador, Mary B (2), Schlingen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-funk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-funk/)*

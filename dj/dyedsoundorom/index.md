@@ -1,8 +1,8 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Dyed Soundorom is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
-Dyed Soundorom is a house and minimal artist based in France, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: DRUMSHEDS, London on Sat 28 Nov.
+Dyed Soundorom is a house and minimal artist based in France, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Dyed Soundorom is a house and minimal artist based in France, with 250 gigs on s
 | Sat, 12 Dec 2026 | fabric | London |
 | Sun, 20 Dec 2026 | WOLF Barcelona | Barcelona |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
+| Sat, 30 Jan 2027 | Mint XL | Leeds |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -32,4 +33,4 @@ Dyed Soundorom is a house and minimal artist based in France, with 250 gigs on s
 
 Shonky, Apollonia, Dan Ghenacia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

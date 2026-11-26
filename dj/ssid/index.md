@@ -1,14 +1,15 @@
 # SSID
 
-SSID is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+SSID is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
-SSID is a funk / soul and house artist based in United Kingdom, with 31 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Toni McVey, Jedda and Juan Mare. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
+SSID is a funk / soul and house artist based in United Kingdom, with 32 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Toni McVey, Jedda and Juan Mare. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | People's Leisure Club | Edinburgh |
+| Sat, 12 Dec 2026 | The Safari Lounge | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SSID is a funk / soul and house artist based in United Kingdom, with 31 gigs on 
 
 Toni McVey, Jedda, Juan Mare
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssid/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssid/)*

@@ -1,6 +1,6 @@
 # Andy Luff
 
-Andy Luff is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at BRET, Amsterdam on Sat, 28 Nov 2026.
+Andy Luff is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BRET, Amsterdam on Sat, 28 Nov 2026.
 
 Andy Luff is a house and electro artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 21 more. Often billed alongside Jos, Tadeusz and Loa Szala. Next up: BRET, Amsterdam on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Andy Luff is a house and electro artist based in United Kingdom, with 117 gigs o
 
 Jos, Tadeusz, Loa Szala
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*

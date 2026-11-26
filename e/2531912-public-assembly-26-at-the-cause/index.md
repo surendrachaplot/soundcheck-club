@@ -1,6 +1,6 @@
 # Public Assembly '26 at The Cause
 
-Public Assembly '26 at The Cause on Sat 28 Nov, London. 26 artists: Al Wootton, C.A.R., Croatian Amor and Curses and 22 more. Acid and Post-Punk. See the line-up on soundcheck.
+Public Assembly '26 at The Cause on Sat 28 Nov, London. 26 artists: Al Wootton, Andi, C.A.R. and Croatian Amor and 22 more. Acid and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Public Assembly '26 at The Cause on Sat 28 Nov, London. 26 artists: Al Wootton, 
 ## Line-up
 
 - Al Wootton
+- Andi
 - C.A.R.
 - Croatian Amor
 - Curses
@@ -18,9 +19,10 @@ Public Assembly '26 at The Cause on Sat 28 Nov, London. 26 artists: Al Wootton, 
 - Decius
 - Elijah Minnelli
 - elli
+- Gambo
 - Harry James
 - Jessy Lanza
-- Jordy
+- Larimae
 - Lust For Youth
 - Oriana
 - Phase Fatale
@@ -32,9 +34,7 @@ Public Assembly '26 at The Cause on Sat 28 Nov, London. 26 artists: Al Wootton, 
 - Solak
 - Spike
 - the butcher bird
-- TOMA (DE)
 - Veronica Vasicka
-- Workshop
 - Zoe from Finance
 
 *Source: [soundcheck](https://soundcheck.club/e/2531912-public-assembly-26-at-the-cause/)*

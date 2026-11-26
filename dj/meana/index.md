@@ -1,6 +1,6 @@
 # MEANA
 
-MEANA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sala Siroco, Madrid on Mon, 7 Dec 2026.
+MEANA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sala Siroco, Madrid on Mon, 7 Dec 2026.
 
 MEANA is a trance and techno artist based in Spain, with 20 gigs on soundcheck across London and Madrid. Often billed alongside ISA (ES), JEFF CUB. and JHONSON.. Next up: Sala Siroco, Madrid on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ MEANA is a trance and techno artist based in Spain, with 20 gigs on soundcheck a
 
 ISA (ES), JEFF CUB., JHONSON.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meana/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meana/)*

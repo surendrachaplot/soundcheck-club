@@ -1,6 +1,6 @@
 # Sam Eyvaz
 
-Sam Eyvaz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
+Sam Eyvaz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
 
 Sam Eyvaz is a techno and house artist based in Germany, with 27 gigs on soundcheck across Berlin, Dresden, Frankfurt and Lisbon. Often billed alongside Dhia, Grillac and HAO (CN). Next up: Rollberg26, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Sam Eyvaz is a techno and house artist based in Germany, with 27 gigs on soundch
 
 Dhia, Grillac, HAO (CN)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sameyvaz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sameyvaz/)*

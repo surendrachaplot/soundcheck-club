@@ -1,6 +1,6 @@
 # Syper
 
-Syper is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 28 Nov 2026.
+Syper is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 28 Nov 2026.
 
 Syper is a house and techno artist based in Portugal, with 46 gigs on soundcheck across Amsterdam, Lisbon, Malaga and Porto. Often billed alongside DJ Nox, Analodjica and Gilvaia. Next up: Sophia Pizzoteca & Bar, Lisbon on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Syper is a house and techno artist based in Portugal, with 46 gigs on soundcheck
 
 DJ Nox, Analodjica, Gilvaia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syper/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syper/)*

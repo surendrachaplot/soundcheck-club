@@ -1,13 +1,14 @@
 # Sleepy & Boo
 
-Sleepy & Boo is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Laissez Faire, New York City on Sat, 26 Dec 2026.
+Sleepy & Boo is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Unveiled, New York City on Sat, 28 Nov 2026.
 
-Sleepy & Boo are a deep house and techno duo based in United States of America, with 199 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: Laissez Faire, New York City on Sat 26 Dec.
+Sleepy & Boo are a deep house and techno duo based in United States of America, with 200 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: Unveiled, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Unveiled | New York City |
 | Sat, 26 Dec 2026 | Laissez Faire | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sleepy & Boo are a deep house and techno duo based in United States of America, 
 
 Navider, Alex Sharp, D.T.H.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*

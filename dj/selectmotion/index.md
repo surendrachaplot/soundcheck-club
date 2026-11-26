@@ -1,13 +1,14 @@
 # select motion
 
-select motion is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Yellow House, Amsterdam on Sat, 12 Dec 2026.
+select motion is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at LOU, Rotterdam on Sat, 5 Dec 2026.
 
-select motion is a house and funk / soul artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Barcelona and Rotterdam. Often billed alongside Ben Diggins, Infinite Pleasure and LI-YU. Next up: Yellow House, Amsterdam on Sat 12 Dec.
+select motion is a house and tech house artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Barcelona and Rotterdam. Often billed alongside Ben Diggins, Infinite Pleasure and LI-YU. Next up: LOU, Rotterdam on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | LOU | Rotterdam |
 | Sat, 12 Dec 2026 | Yellow House | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ select motion is a house and funk / soul artist based in Netherlands, with 17 gi
 
 Ben Diggins, Infinite Pleasure, LI-YU
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectmotion/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectmotion/)*

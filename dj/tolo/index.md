@@ -1,6 +1,6 @@
 # Tolo
 
-Tolo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
+Tolo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
 
 Tolo is a house and techno artist based in Hungary, with 90 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 2 more. Often billed alongside Falcao, Adis Is OK and Daniel Moritz. Next up: Kassa Boat, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Tolo is a house and techno artist based in Hungary, with 90 gigs on soundcheck a
 
 Falcao, Adis Is OK, Daniel Moritz
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tolo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tolo/)*

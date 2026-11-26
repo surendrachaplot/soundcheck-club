@@ -1,6 +1,6 @@
 # Ozan
 
-Ozan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Kaiku, Helsinki on Fri, 4 Dec 2026.
+Ozan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kaiku, Helsinki on Fri, 4 Dec 2026.
 
 Ozan is a techno and house artist based in Turkey, with 62 gigs on soundcheck across Helsinki, Istanbul, Munich and Stockholm and 2 more. Often billed alongside Katerina, CEB (FI) and Lil Tony. Next up: Kaiku, Helsinki on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ozan is a techno and house artist based in Turkey, with 62 gigs on soundcheck ac
 
 Katerina, CEB (FI), Lil Tony
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*

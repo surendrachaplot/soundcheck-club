@@ -1,6 +1,6 @@
 # Guarionex Jr
 
-Guarionex Jr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Jupiter Disco, New York City on Sun, 27 Dec 2026.
+Guarionex Jr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jupiter Disco, New York City on Sun, 27 Dec 2026.
 
 Guarionex Jr is a techno and house artist based in United States of America, with 61 gigs on soundcheck across Krakow and New York City. Often billed alongside DJ Erewhon, Pressure Assist and tinasnow. Next up: Jupiter Disco, New York City on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Guarionex Jr is a techno and house artist based in United States of America, wit
 
 DJ Erewhon, Pressure Assist, tinasnow
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guarionexjr/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guarionexjr/)*

@@ -1,6 +1,6 @@
 # Lux18
 
-Lux18 is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 27 Nov 2026.
+Lux18 is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 27 Nov 2026.
 
 Lux18 is a club and bass artist based in France, with 11 gigs on soundcheck across Berlin, Brussels, Paris and Prague and 1 more. Often billed alongside fetva, Freestyler and Golce. Next up: Le Poisson Volant, Paris on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Lux18 is a club and bass artist based in France, with 11 gigs on soundcheck acro
 
 fetva, Freestyler (2), Golce
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*

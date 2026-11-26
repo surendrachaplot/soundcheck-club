@@ -1,14 +1,15 @@
 # Matthias Meyer
 
-Matthias Meyer is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Frau Holle, Hamburg on Sat, 5 Dec 2026.
+Matthias Meyer is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Frau Holle, Hamburg on Sat, 5 Dec 2026.
 
-Matthias Meyer is a house and deep house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Club Frau Holle, Hamburg on Sat 5 Dec.
+Matthias Meyer is a house and deep house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Club Frau Holle, Hamburg on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Club Frau Holle | Hamburg |
+| Fri, 18 Dec 2026 | TBA - Monkey Club | Riga |
 | Tue, 29 Dec 2026 | Macarena Club | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Matthias Meyer is a house and deep house artist based in Germany, with 69 gigs o
 
 Stimmhalt, Slurm McKenzie, Budakid
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasmeyer/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasmeyer/)*

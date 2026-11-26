@@ -1,6 +1,6 @@
 # Munster Munch
 
-Munster Munch is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Festive Frequency" on Sat, 5 Dec 2026.
+Munster Munch is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Festive Frequency" on Sat, 5 Dec 2026.
 
 Munster Munch is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Blackromeo and Smudge. See dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
 
@@ -15,4 +15,4 @@ Munster Munch is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 18 Bear Street, London, WC2H 7AX, United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*

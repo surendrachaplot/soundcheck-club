@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Traum: Mia Koden, Erykah, yAAri" on Fri, 27 Nov 2026.
+TRAUM is a music venue in Antwerp with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Traum: Mia Koden, Erykah, yAAri" on Fri, 27 Nov 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 11 upcoming gigs, with line-ups including Alexander Koning, Bermio, Clara D and Conducta and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 11 upcoming gigs, with l
 | Sat, 26 Dec 2026 | Oh Honey - Chosen Family Xmas Gathering | Sweatlana, Sylvio B |
 | Thu, 31 Dec 2026 | Traum: NYE (12-Hour Rave) |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

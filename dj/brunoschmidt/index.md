@@ -1,14 +1,16 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 27 Nov 2026.
+Bruno Schmidt is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 27 Nov 2026.
 
-Bruno Schmidt is a house and techno artist based in United Kingdom, with 159 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 45 more. Often billed alongside Andrew James Gustav, Morgan and Emsho. Next up: Mali Barbarellas, Croatia on Fri 27 Nov.
+Bruno Schmidt is a house and techno artist based in United Kingdom, with 161 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 45 more. Often billed alongside Andrew James Gustav, Morgan and Emsho. Next up: Mali Barbarellas, Croatia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Mali Barbarellas | Croatia |
+| Sat, 19 Dec 2026 | Starlane Pizza Bar | London |
+| Sat, 26 Dec 2026 | TBA - | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Bruno Schmidt is a house and techno artist based in United Kingdom, with 159 gig
 
 Andrew James Gustav, Morgan, Emsho
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*

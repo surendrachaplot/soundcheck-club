@@ -1,17 +1,18 @@
 # Sport Mode
 
-Sport Mode is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at Ductwork Houston, Houston on Sun, 22 Nov 2026.
+Sport Mode is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elektricity, Detroit on Sat, 16 Jan 2027.
 
-Sport Mode is a house and garage artist based in United Kingdom, with 9 gigs on soundcheck across Houston, London and Mexico City. Often billed alongside Rebekah Abdeen, DJ Love UK and Trudy Knight. Next up: Ductwork Houston, Houston on Sun 22 Nov.
+Sport Mode is a house and garage artist based in United Kingdom, with 10 gigs on soundcheck across Detroit, Houston, London and Mexico City. Often billed alongside Rebekah Abdeen, DJ Love UK and Trudy Knight. Next up: Elektricity, Detroit on Sat 16 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Ductwork Houston | Houston |
+| Sat, 16 Jan 2027 | Elektricity | Detroit |
 
 ## Recently played
 
+- Ductwork Houston, Houston · Sun, 22 Nov 2026
 - Unit 58, London · Fri, 14 Aug 2026
 - Hackney Downs Studios, London · Sat, 1 Aug 2026
 - Bread and Butter, London · Wed, 10 Dec 2025
@@ -19,10 +20,9 @@ Sport Mode is a house and garage artist based in United Kingdom, with 9 gigs on 
 - Notting Hill Arts Club, London · Fri, 13 Jun 2025
 - Corsica Studios, London · Sat, 21 Dec 2024
 - Verdeespina Studios, Mexico City · Fri, 26 Jul 2024
-- Dalston Den, London · Fri, 3 Nov 2023
 
 ## Shares bills with
 
 Rebekah Abdeen, DJ Love UK, Trudy Knight
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmode/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmode/)*

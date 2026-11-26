@@ -1,6 +1,6 @@
 # Vermilion
 
-Vermilion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lincoln Factory, Detroit on Wed, 25 Nov 2026.
+Vermilion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lincoln Factory, Detroit on Wed, 25 Nov 2026.
 
 Vermilion is a techno and house artist, with 6 gigs on soundcheck across Bratislava and Detroit. Often billed alongside Jorissen, Curmudgeon and ACE. Next up: Lincoln Factory, Detroit on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ Vermilion is a techno and house artist, with 6 gigs on soundcheck across Bratisl
 
 ## Recently played
 
+- Lincoln Factory, Detroit · Wed, 25 Nov 2026
 - Spkrbox, Detroit · Sat, 24 Oct 2026
 - Spkrbox, Detroit · Fri, 9 Oct 2026
 - Spkrbox, Detroit · Fri, 11 Sept 2026
@@ -22,4 +23,4 @@ Vermilion is a techno and house artist, with 6 gigs on soundcheck across Bratisl
 
 Jorissen, Curmudgeon, ACE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vermilion/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vermilion/)*

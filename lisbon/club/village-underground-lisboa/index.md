@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "☾ Zodiac: Sagittarius Edition - The Night Before the Holiday" on Mon, 7 Dec 2026.
+Village Underground Lisboa is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "☾ Zodiac: Sagittarius Edition - The Night Before the Holiday" on Mon, 7 Dec 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Dextro, Hemka, John Wick and kazarov and 1 more. See dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -16,4 +16,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 3 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

@@ -1,6 +1,6 @@
 # Brown Sugar - Black Friday at Revo Rooftop
 
-Brown Sugar - Black Friday at Revo Rooftop on Fri 27 Nov, Mexico City. 3 artists: Dj Dizam, Jilli P and The Bradley Way. Hip-Hop and Afrobeat. See the line-up on soundcheck.
+Brown Sugar - Black Friday at Revo Rooftop on Fri 27 Nov, Mexico City. 3 artists: Dj Dizam, Jilli P and The Bradley Way. Afrobeat and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VYNX
 
-VYNX is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Flash, Washington DC on Wed, 25 Nov 2026.
+VYNX is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Flash, Washington DC on Wed, 25 Nov 2026.
 
 VYNX is a house and tech house artist based in United States of America, with 47 gigs on soundcheck across Detroit, New York City, San Diego and Washington DC. Often billed alongside SPCL.K, ANNYA and Jess in the Flesh. Next up: Flash, Washington DC on Wed 25 Nov.
 
@@ -12,6 +12,7 @@ VYNX is a house and tech house artist based in United States of America, with 47
 
 ## Recently played
 
+- Flash, Washington DC · Wed, 25 Nov 2026
 - Flash, Washington DC · Sat, 24 Oct 2026
 - El Secreto De Rosita, Washington DC · Thu, 8 Oct 2026
 - 618 DC, Washington DC · Fri, 4 Sept 2026
@@ -19,10 +20,9 @@ VYNX is a house and tech house artist based in United States of America, with 47
 - Tigres de la Noche, Washington DC · Sat, 4 Jul 2026
 - Flash, Washington DC · Sun, 28 Jun 2026
 - TBA - 7824 Mount Elliott St, Detroit , Detroit · Fri, 22 May 2026
-- La Fabrica, Washington DC · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 SPCL.K, ANNYA, Jess in the Flesh
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vynx/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vynx/)*

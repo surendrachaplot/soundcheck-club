@@ -1,6 +1,6 @@
 # Tyree Cooper
 
-Tyree Cooper is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
+Tyree Cooper is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
 
 Tyree Cooper is a house and deep house artist based in United States of America, with 12 gigs on soundcheck across Berlin, Chicago, London and Minneapolis/St Paul and 1 more. Often billed alongside Adorio, CeaseDays and Glenn Underground. Next up: The Cause, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tyree Cooper is a house and deep house artist based in United States of America,
 
 Adorio, CeaseDays, Glenn Underground
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tyreecooper/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tyreecooper/)*

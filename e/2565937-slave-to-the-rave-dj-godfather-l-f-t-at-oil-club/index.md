@@ -1,6 +1,6 @@
 # Slave to The Rave: DJ Godfather + L.F.T at OIL Club
 
-Slave to The Rave: DJ Godfather + L.F.T at OIL Club on Sat 28 Nov, Shenzhen. 4 artists: DJ Godfather, L.F.T., Sulk and Wittes. Techno and Ghetto Tech. See the line-up on soundcheck.
+Slave to The Rave: DJ Godfather + L.F.T at OIL Club on Sat 28 Nov, Shenzhen. 5 artists: DJ Godfather, L.F.T., Sulk and Wittes and 1 more. Techno and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Slave to The Rave: DJ Godfather + L.F.T at OIL Club on Sat 28 Nov, Shenzhen. 4 a
 - L.F.T.
 - Sulk
 - Wittes
+- zzm (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2565937-slave-to-the-rave-dj-godfather-l-f-t-at-oil-club/)*

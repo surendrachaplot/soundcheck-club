@@ -1,6 +1,6 @@
 # Salon Amador
 
-Salon Amador is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Obando (All Night Long)" on Fri, 27 Nov 2026.
+Salon Amador is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Obando (All Night Long)" on Fri, 27 Nov 2026.
 
 Salon Amador is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, with line-ups including Danny Howells, Dave Seaman, Julian Millan and Justek and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Salon Amador is a music venue in Medellin listed on soundcheck. 3 upcoming gigs,
 | Fri, 4 Dec 2026 | Global Underground 30th Anniversary Feat. Danny Howells, Dave Seaman, Julian Millan | Danny Howells, Dave Seaman, Julian Millan, Justek |
 | Sat, 19 Dec 2026 | Perception & Salón Amador present: Kölsch [Melodic House & Techno] | Kölsch |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/salon-amador/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/salon-amador/)*

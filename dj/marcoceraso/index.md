@@ -1,6 +1,6 @@
 # Marco Ceraso
 
-Marco Ceraso is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Duel Club, Naples on Sat, 5 Dec 2026.
+Marco Ceraso is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Duel Club, Naples on Sat, 5 Dec 2026.
 
 Marco Ceraso is a tech house and house artist based in Italy, with 9 gigs on soundcheck across Naples. Often billed alongside Alex Bohemien, Key Eff and Alfio Pienne. Next up: Duel Club, Naples on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Marco Ceraso is a tech house and house artist based in Italy, with 9 gigs on sou
 
 Alex Bohemien, Key Eff, Alfio Pienne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoceraso/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoceraso/)*

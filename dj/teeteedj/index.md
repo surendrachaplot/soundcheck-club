@@ -1,6 +1,6 @@
 # Teetee
 
-Teetee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Slane Castle, Ireland on Thu, 31 Dec 2026.
+Teetee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Slane Castle, Ireland on Thu, 31 Dec 2026.
 
 Teetee is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across Dublin, Ireland, London and Nottingham. Often billed alongside Delano (UK), Paddy Cotter and Alien Communications. Next up: Slane Castle, Ireland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Teetee is a techno and house artist based in United Kingdom, with 24 gigs on sou
 
 Delano (UK), Paddy Cotter, Alien Communications
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeteedj/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeteedj/)*

@@ -1,6 +1,6 @@
 # BurnTale
 
-BurnTale is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at BAR Inc, Osaka on Thu, 10 Dec 2026.
+BurnTale is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BAR Inc, Osaka on Thu, 10 Dec 2026.
 
 BurnTale is a downtempo and electronica artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg, Kyoto and Milan and 3 more. Often billed alongside Lotte Ahoi, Kurup and Nigel Nagel. Next up: BAR Inc, Osaka on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ BurnTale is a downtempo and electronica artist based in Germany, with 27 gigs on
 
 Lotte Ahoi, Kurup, Nigel Nagel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burntale/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burntale/)*

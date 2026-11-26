@@ -1,6 +1,6 @@
 # Brandyy
 
-Brandyy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
+Brandyy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
 
 Brandyy is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 2 more. Often billed alongside dxrvo, Esoterik and Lora. Next up: TBA - SECRET LOCATION, Hannover on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Brandyy is a techno and house artist based in Germany, with 40 gigs on soundchec
 
 dxrvo, Esoterik, Lora (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandyy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandyy/)*

@@ -1,6 +1,6 @@
 # Narciss
 
-Narciss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Pimenta, Buenos Aires on Sat, 19 Dec 2026.
+Narciss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Pimenta, Buenos Aires on Sat, 19 Dec 2026.
 
 Narciss is a techno and house artist based in Germany, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Morphena, DJ Gigola and MALUGI. Next up: TBA - Pimenta, Buenos Aires on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Narciss is a techno and house artist based in Germany, with 231 gigs on soundche
 
 Morphena, DJ Gigola, MALUGI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

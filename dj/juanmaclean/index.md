@@ -1,6 +1,6 @@
 # Juan Maclean
 
-Juan Maclean is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, New York City on Sat, 19 Dec 2026.
+Juan Maclean is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, New York City on Sat, 19 Dec 2026.
 
 Juan Maclean is a house and disco artist based in United States of America, with 73 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 20 more. Often billed alongside Matthew Dear, Gee Dee and JDH. Next up: TBA, New York City on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Juan Maclean is a house and disco artist based in United States of America, with
 
 Matthew Dear, Gee Dee, JDH
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*

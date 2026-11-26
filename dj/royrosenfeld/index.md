@@ -1,6 +1,6 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bikini Club, Barcelona on Sat, 12 Dec 2026.
+Roy Rosenfeld is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bikini Club, Barcelona on Sat, 12 Dec 2026.
 
 Roy Rosenfeld is a progressive house and house artist based in Czech Republic, with 141 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Bikini Club, Barcelona on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Roy Rosenfeld is a progressive house and house artist based in Czech Republic, w
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

@@ -1,6 +1,6 @@
 # TCQ
 
-TCQ is a music venue in Buenos Aires with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "TCQ Cultura Techno" on Fri, 27 Nov 2026.
+TCQ is a music venue in Buenos Aires with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "TCQ Cultura Techno" on Fri, 27 Nov 2026.
 
 TCQ is a music venue in Buenos Aires listed on soundcheck. 8 upcoming gigs, with line-ups including Anna Amato, Fiama Molina, Germano and Josefina Muñoz and 2 more. See dates, start times and who's playing. Av. Rivadavia 1132 , 1032 Ciudad Autónoma de Buenos Aires.
 
@@ -21,4 +21,4 @@ TCQ is a music venue in Buenos Aires listed on soundcheck. 8 upcoming gigs, with
 
 Av. Rivadavia 1132 , 1032 Ciudad Autónoma de Buenos Aires, Buenos Aires
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tcq/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tcq/)*

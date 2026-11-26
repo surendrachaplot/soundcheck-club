@@ -1,13 +1,14 @@
 # AdomasLP
 
-AdomasLP is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 29 Jan 2027.
+AdomasLP is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Carlton Club, Manchester on Sun, 29 Nov 2026.
 
-AdomasLP is a dub techno and techno artist based in United Kingdom, with 41 gigs on soundcheck across Bristol, Ljubljana, London and Manchester. Often billed alongside Tommy Cross, MEMP3 and Ruf Dug. Next up: Eastern Bloc Records, Manchester on Fri 29 Jan.
+AdomasLP is a dub techno and techno artist based in United Kingdom, with 42 gigs on soundcheck across Bristol, Ljubljana, London and Manchester. Often billed alongside Tommy Cross, MEMP3 and Ruf Dug. Next up: The Carlton Club, Manchester on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | The Carlton Club | Manchester |
 | Fri, 29 Jan 2027 | Eastern Bloc Records | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ AdomasLP is a dub techno and techno artist based in United Kingdom, with 41 gigs
 
 Tommy Cross, MEMP3, Ruf Dug
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*

@@ -1,6 +1,6 @@
 # The Ryze
 
-The Ryze is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Hargrove, Vancouver on Sat, 28 Nov 2026.
+The Ryze is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Hargrove, Vancouver on Sat, 28 Nov 2026.
 
 The Ryze is a house and experimental artist based in Canada, with 37 gigs on soundcheck across Vancouver. Often billed alongside Adam 2, Body Double and Chloé. Next up: The Hargrove, Vancouver on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ The Ryze is a house and experimental artist based in Canada, with 37 gigs on sou
 
 Adam 2, Body Double, Chloé
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theryze/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theryze/)*

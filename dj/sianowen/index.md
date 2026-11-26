@@ -1,6 +1,6 @@
 # Siân Owen
 
-Siân Owen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
+Siân Owen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
 
 Siân Owen is a house and tech house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Brighton, Ibiza and London and 3 more. Often billed alongside Sammy Porter, Charlotte Van de Peer and Darrell Privett. Next up: Ministry Of Sound, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Siân Owen is a house and tech house artist based in United Kingdom, with 57 gig
 
 Sammy Porter, Charlotte Van de Peer, Darrell Privett
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sianowen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sianowen/)*

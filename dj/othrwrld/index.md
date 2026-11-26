@@ -1,6 +1,6 @@
 # othrwrld
 
-othrwrld is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Process PDX, Portland on Thu, 3 Dec 2026.
+othrwrld is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Process PDX, Portland on Thu, 3 Dec 2026.
 
 othrwrld is a techno and minimal artist based in Canada, with 10 gigs on soundcheck across Portland. Often billed alongside Peter Sheppard, DJ DISSOLVE and Maude Vôs. Next up: Process PDX, Portland on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ othrwrld is a techno and minimal artist based in Canada, with 10 gigs on soundch
 
 Peter Sheppard, DJ DISSOLVE, Maude Vôs
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*

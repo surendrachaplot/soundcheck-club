@@ -1,6 +1,6 @@
 # Nomad
 
-Nomad is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Nomad is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Nomad is a house and minimal artist based in Mexico, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Calgary and 13 more. Often billed alongside Ejeckt, Franky A and Gus McKinna. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Nomad is a house and minimal artist based in Mexico, with 28 gigs on soundcheck 
 
 Ejeckt, Franky A, Gus McKinna
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad/)*

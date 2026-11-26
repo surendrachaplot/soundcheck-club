@@ -1,6 +1,6 @@
 # Tata Ogan
 
-Tata Ogan is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TRAUMA, Rio de Janeiro on Thu, 26 Nov 2026.
+Tata Ogan is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TRAUMA, Rio de Janeiro on Thu, 26 Nov 2026.
 
 Tata Ogan is a funk / soul and hip-hop artist, with 15 gigs on soundcheck across Berlin, Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside CVLT, ANTCONSTANTINO and Africanoise. Next up: TRAUMA, Rio de Janeiro on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Tata Ogan is a funk / soul and hip-hop artist, with 15 gigs on soundcheck across
 
 CVLT, ANTCONSTANTINO, Africanoise
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tataogan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tataogan/)*

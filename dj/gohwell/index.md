@@ -1,13 +1,14 @@
 # Goh Well
 
-Goh Well is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Ormside Projects, London on Fri, 4 Dec 2026.
+Goh Well is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Silly (Bosi), London on Sat, 28 Nov 2026.
 
-Goh Well is a house and techno artist based in United Kingdom, with 22 gigs on soundcheck across Berlin and London. Often billed alongside Someone Sunny, Ysanne and Jaye Ward. Next up: Ormside Projects, London on Fri 4 Dec.
+Goh Well is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Berlin and London. Often billed alongside Someone Sunny, Ysanne and Jaye Ward. Next up: Club Silly (Bosi), London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Club Silly (Bosi) | London |
 | Fri, 4 Dec 2026 | Ormside Projects | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Goh Well is a house and techno artist based in United Kingdom, with 22 gigs on s
 
 Someone Sunny, Ysanne, Jaye Ward
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gohwell/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gohwell/)*

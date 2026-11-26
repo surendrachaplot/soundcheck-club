@@ -1,6 +1,6 @@
 # Eisenheim
 
-Eisenheim is a Electronica and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 27 Nov 2026.
+Eisenheim is a Electronica and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 27 Nov 2026.
 
 Eisenheim is an electronica and club artist based in Mexico, with 22 gigs on soundcheck across Mexico City and Nantes. Often billed alongside Bluecommand, Elliot Milan and IRONBOARD. Next up: nueve cero nueve, Mexico City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Eisenheim is an electronica and club artist based in Mexico, with 22 gigs on sou
 
 Bluecommand, Elliot Milan, IRONBOARD
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eisenheim/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eisenheim/)*

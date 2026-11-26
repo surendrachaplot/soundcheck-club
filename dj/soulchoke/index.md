@@ -1,6 +1,6 @@
 # Soulchoke
 
-Soulchoke is a Gqom and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Stronger Together, Cape Town on Sat, 28 Nov 2026.
+Soulchoke is a Gqom and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Stronger Together, Cape Town on Sat, 28 Nov 2026.
 
 Soulchoke is a gqom and bass artist based in South Africa, with 20 gigs on soundcheck across Cape Town. Often billed alongside DRAGMOTHER, Celso Fabbri and Lelowhatsgood. Next up: Stronger Together, Cape Town on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Soulchoke is a gqom and bass artist based in South Africa, with 20 gigs on sound
 
 DRAGMOTHER, Celso Fabbri, Lelowhatsgood
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulchoke/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulchoke/)*

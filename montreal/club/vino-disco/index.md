@@ -1,6 +1,6 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Vino Disco Thursdays: MOONART, HØSS" on Thu, 26 Nov 2026.
+Vino Disco is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Vino Disco Thursdays: MOONART, HØSS" on Thu, 26 Nov 2026.
 
 Vino Disco is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, with line-ups including Atlas Heir, Lex Ferenda, MilSif and Prince Charli and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
@@ -17,4 +17,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, w
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

@@ -1,13 +1,14 @@
 # R4TS
 
-R4TS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Toronto on Thu, 31 Dec 2026.
+R4TS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 19 Dec 2026.
 
-R4TS is a techno and hardcore artist based in Canada, with 32 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, Maul and MVCHE. Next up: TBA, Toronto on Thu 31 Dec.
+R4TS is a techno and hardcore artist based in Canada, with 33 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, Maul and MVCHE. Next up: Geary Avenue Warehouse Project, Toronto on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Geary Avenue Warehouse Project | Toronto |
 | Thu, 31 Dec 2026 | TBA | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ R4TS is a techno and hardcore artist based in Canada, with 32 gigs on soundcheck
 
 KILL 9 1, Maul (2), MVCHE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*

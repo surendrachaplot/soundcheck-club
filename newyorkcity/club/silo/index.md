@@ -1,8 +1,8 @@
 # SILO
 
-SILO is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Tony Guerra / Luquez b2b Maria Sifontes" on Wed, 25 Nov 2026.
+SILO is a music venue in New York City with 34 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Tony Guerra / Luquez b2b Maria Sifontes" on Wed, 25 Nov 2026.
 
-SILO is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including Anthony Romano, Bella Hex, Broken Hill and ceviché and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in New York City listed on soundcheck. 34 upcoming gigs, with line-ups including Anthony Romano, Bella Hex, Broken Hill and ceviché and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
@@ -23,4 +23,4 @@ SILO is a music venue in New York City listed on soundcheck. 33 upcoming gigs, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

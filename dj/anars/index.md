@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
+Ana Rs is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Ana Rs is a techno and experimental artist based in Montenegro, with 51 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 25 more. Often billed alongside CONCEPTUAL, MOE (LB) and NEUX. Next up: RSO.BERLIN, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Ana Rs is a techno and experimental artist based in Montenegro, with 51 gigs on 
 
 CONCEPTUAL, MOE (LB), NEUX
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

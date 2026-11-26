@@ -1,6 +1,6 @@
 # Fear-E
 
-Fear-E is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
+Fear-E is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
 
 Fear-E is a techno and acid artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Bristol, Dublin and Edinburgh and 5 more. Often billed alongside Jerome Hill, Co-Accused and Nightwave. Next up: Pawn Shop, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Fear-E is a techno and acid artist based in United Kingdom, with 31 gigs on soun
 
 Jerome Hill, Co-Accused, Nightwave
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*

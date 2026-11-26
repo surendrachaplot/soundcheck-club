@@ -1,6 +1,6 @@
 # HONKY DONK vs Mordorkore: 𝔅𝔞𝔱𝔱𝔩𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔍𝔢𝔰𝔱𝔢𝔯𝔷 at Fitzroy
 
-HONKY DONK vs Mordorkore: 𝔅𝔞𝔱𝔱𝔩𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔍𝔢𝔰𝔱𝔢𝔯𝔷 at Fitzroy on Fri 27 Nov, Berlin. 6 artists: DJ Bax, DJ FLUFFIE, malicedeejay and Mithril and 2 more. Hardcore and Experimental. See the line-up on soundcheck.
+HONKY DONK vs Mordorkore: 𝔅𝔞𝔱𝔱𝔩𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔍𝔢𝔰𝔱𝔢𝔯𝔷 at Fitzroy on Fri 27 Nov, Berlin. 7 artists: DJ Bax, DJ FLUFFIE, Henry Weekes and malicedeejay and 3 more. Hardcore and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ HONKY DONK vs Mordorkore: 𝔅𝔞𝔱𝔱𝔩𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔍�
 
 - DJ Bax
 - DJ FLUFFIE
+- Henry Weekes
 - malicedeejay
 - Mithril
 - PIPA DE MA$$A

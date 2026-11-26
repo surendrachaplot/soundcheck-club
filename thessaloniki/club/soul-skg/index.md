@@ -1,6 +1,6 @@
 # Soul SKG
 
-Soul SKG is a music venue in Thessaloniki with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BASSORDER  W/ SOBER & LERNAIA YDRA" on Fri, 27 Nov 2026.
+Soul SKG is a music venue in Thessaloniki with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BASSORDER  W/ SOBER & LERNAIA YDRA" on Fri, 27 Nov 2026.
 
 Soul SKG is a music venue in Thessaloniki listed on soundcheck. 5 upcoming gigs, with line-ups including AEREA, Alex Dima, Claudio PRC and Danae and 2 more. See dates, start times and who's playing. Thessaloniki, 54627,  26is Oktovriou 104, Greece.
 
@@ -18,4 +18,4 @@ Soul SKG is a music venue in Thessaloniki listed on soundcheck. 5 upcoming gigs,
 
 Thessaloniki, 54627,  26is Oktovriou 104, Greece, Thessaloniki
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/thessaloniki/club/soul-skg/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/thessaloniki/club/soul-skg/)*

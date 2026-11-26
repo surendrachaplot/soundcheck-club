@@ -1,6 +1,6 @@
 # Baauer
 
-Baauer is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 314 Scholes, New York City on Fri, 11 Dec 2026.
+Baauer is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 314 Scholes, New York City on Fri, 11 Dec 2026.
 
 Baauer is a house and bass artist based in United States of America, with 27 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 11 more. Often billed alongside ATRIP, Bianca Oblivion and Conducta. Next up: 314 Scholes, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Baauer is a house and bass artist based in United States of America, with 27 gig
 
 ATRIP, Bianca Oblivion, Conducta
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

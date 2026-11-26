@@ -1,6 +1,6 @@
 # IZA (6)
 
-IZA (6) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
+IZA (6) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
 
 IZA is a drum & bass and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Copenhagen and Osaka. Often billed alongside Upzet, Crashkitt and K.EULE. Next up: Void Club, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ IZA is a drum & bass and techno artist based in Germany, with 10 gigs on soundch
 
 Upzet, Crashkitt, K.EULE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*

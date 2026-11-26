@@ -1,17 +1,18 @@
 # EUGEN1O
 
-EUGEN1O is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Pacha Ibiza, Ibiza on Sat, 21 Nov 2026.
+EUGEN1O is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vybe Department Ibiza, Ibiza on Fri, 11 Dec 2026.
 
-EUGEN1O is a house and minimal artist based in Argentina, with 12 gigs on soundcheck across Ibiza and Vienna. Often billed alongside Angel Linde, Pornbugs and de larrechea. Next up: Pacha Ibiza, Ibiza on Sat 21 Nov.
+EUGEN1O is a house and minimal artist based in Argentina, with 13 gigs on soundcheck across Ibiza and Vienna. Often billed alongside Angel Linde, Pornbugs and Stefano Noferini. Next up: Vybe Department Ibiza, Ibiza on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Pacha Ibiza | Ibiza |
+| Fri, 11 Dec 2026 | Vybe Department Ibiza | Ibiza |
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza · Sat, 21 Nov 2026
 - Vybe Department Ibiza, Ibiza · Fri, 13 Nov 2026
 - Pacha Ibiza, Ibiza · Sat, 31 Oct 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Tue, 15 Sept 2026
@@ -19,10 +20,9 @@ EUGEN1O is a house and minimal artist based in Argentina, with 12 gigs on soundc
 - SASS Music Club, Vienna · Sat, 22 Aug 2026
 - Marina Botafoch, Ibiza · Sun, 9 Aug 2026
 - Blue Summer Ibiza Boat, Ibiza · Sun, 5 Jul 2026
-- Blue Summer Ibiza Boat, Ibiza · Sun, 14 Jun 2026
 
 ## Shares bills with
 
-Angel Linde, Pornbugs, de larrechea
+Angel Linde, Pornbugs, Stefano Noferini
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*

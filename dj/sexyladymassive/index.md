@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Depot, Cardiff on Fri, 4 Dec 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot, Cardiff on Fri, 4 Dec 2026.
 
 Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 75 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 9 more. Often billed alongside 4am Kru, Betsy Mae and Napes. Next up: Depot, Cardiff on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 75
 
 4am Kru, Betsy Mae, Napes
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

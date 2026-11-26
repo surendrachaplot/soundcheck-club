@@ -1,13 +1,14 @@
 # Gaspar Muniz
 
-Gaspar Muniz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
+Gaspar Muniz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
-Gaspar Muniz is a house and disco artist, with 58 gigs on soundcheck across Barcelona, Buenos Aires, Lisbon and London and 6 more. Often billed alongside From House to Disco, Paulete Lindacelva and Kenia. Next up: Mercado Livre Arena Pacaembu, Sao Paulo on Fri 9 Apr.
+Gaspar Muniz is a house and disco artist, with 59 gigs on soundcheck across Barcelona, Brazil, Buenos Aires and Lisbon and 7 more. Often billed alongside From House to Disco, Paulete Lindacelva and Kenia. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Dec 2026 | Tikal Praia Bar | Brazil |
 | Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gaspar Muniz is a house and disco artist, with 58 gigs on soundcheck across Barc
 
 From House to Disco, Paulete Lindacelva, Kenia
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*

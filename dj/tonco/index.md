@@ -1,6 +1,6 @@
 # Tonco
 
-Tonco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Het Sieraad, Amsterdam on Fri, 18 Dec 2026.
+Tonco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Het Sieraad, Amsterdam on Fri, 18 Dec 2026.
 
 Tonco is a techno and house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Brussels, Gothenburg and Rotterdam and 1 more. Often billed alongside Beswerda, Hedda Stenberg and Collé. Next up: Het Sieraad, Amsterdam on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Tonco is a techno and house artist based in Netherlands, with 31 gigs on soundch
 
 Beswerda, Hedda Stenberg, Collé
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonco/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonco/)*

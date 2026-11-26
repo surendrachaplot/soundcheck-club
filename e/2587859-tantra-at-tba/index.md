@@ -1,11 +1,11 @@
-# Tantra at TBA
+# Tantra at TBA -
 
-Tantra at TBA on Sat 28 Nov, Philadelphia. 2 artists: 6LOV3 and ezri_dax. See the line-up on soundcheck.
+Tantra at TBA - on Sat 28 Nov, Philadelphia. 2 artists: 6LOV3 and ezri_dax. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 28 Nov 2026 |
-| Venue | TBA |
+| Venue | TBA - |
 | City | Philadelphia |
 
 ## Line-up

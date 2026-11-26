@@ -1,6 +1,6 @@
 # rubi*
 
-rubi* is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at AUX Club, Athens on Fri, 27 Nov 2026.
+rubi* is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at AUX Club, Athens on Fri, 27 Nov 2026.
 
 rubi* is a house and techno artist based in Spain, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 8 more. Often billed alongside Cleymoore, Atree and ALINA. Next up: AUX Club, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ rubi* is a house and techno artist based in Spain, with 60 gigs on soundcheck ac
 
 Cleymoore, Atree, ALINA (3)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi-de/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi-de/)*

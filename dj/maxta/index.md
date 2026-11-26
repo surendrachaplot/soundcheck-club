@@ -1,6 +1,6 @@
 # Max TA
 
-Max TA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cadavra, Madrid on Fri, 29 Jan 2027.
+Max TA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cadavra, Madrid on Fri, 29 Jan 2027.
 
 Max TA is a house and techno artist based in Spain, with 28 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Lyonel, Avo (ES) and Conor Brophy. Next up: Cadavra, Madrid on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Max TA is a house and techno artist based in Spain, with 28 gigs on soundcheck a
 
 Lyonel, Avo (ES), Conor Brophy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxta/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxta/)*

@@ -1,6 +1,6 @@
 # EBITDA
 
-EBITDA is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at The Bullingdon, South-east on Sat, 5 Dec 2026.
+EBITDA is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bullingdon, South-east on Sat, 5 Dec 2026.
 
 EBITDA is a bass and breakbeat artist based in India, with 2 gigs on soundcheck across London and South East. Often billed alongside Bob E Demons, DJ Stingray 313 and Flo Ruby. Next up: The Bullingdon, South East on Sat 5 Dec.
 
@@ -15,4 +15,4 @@ EBITDA is a bass and breakbeat artist based in India, with 2 gigs on soundcheck 
 
 Bob E Demons, DJ Stingray 313, Flo Ruby
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebitda/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebitda/)*

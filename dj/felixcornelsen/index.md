@@ -1,6 +1,6 @@
 # Felix Cornelsen
 
-Felix Cornelsen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Felix Cornelsen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Felix Cornelsen is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside DJ CHICHI, Vio PRG and Camilla Rae. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Felix Cornelsen is a techno and house artist based in Germany, with 16 gigs on s
 
 DJ CHICHI, Vio PRG, Camilla Rae
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcornelsen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcornelsen/)*

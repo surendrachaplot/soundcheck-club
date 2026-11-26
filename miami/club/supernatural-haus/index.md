@@ -1,6 +1,6 @@
 # Supernatural Haus
 
-Supernatural Haus is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Club Perreo" on Fri, 27 Nov 2026.
+Supernatural Haus is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Club Perreo" on Fri, 27 Nov 2026.
 
 Supernatural Haus is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Ale Acosta, HAZÓN, Lupreme and Nyco Jones and 2 more. See dates, start times and who's playing. 777 NE 79th St Miami, FL 33138.
 
@@ -15,4 +15,4 @@ Supernatural Haus is a music venue in Miami listed on soundcheck. 2 upcoming gig
 
 777 NE 79th St Miami, FL 33138, Miami
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/supernatural-haus/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/supernatural-haus/)*

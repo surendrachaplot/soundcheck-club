@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Vivo Beach Club, Puerto-rico on Fri, 19 Mar 2027.
+SOTA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vivo Beach Club, Puerto-rico on Fri, 19 Mar 2027.
 
 SOTA is a house and techno artist based in Japan, with 134 gigs on soundcheck across Antwerp, Auckland, Birmingham and Brisbane and 16 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Vivo Beach Club, Puerto Rico on Fri 19 Mar.
 
@@ -28,4 +28,4 @@ SOTA is a house and techno artist based in Japan, with 134 gigs on soundcheck ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

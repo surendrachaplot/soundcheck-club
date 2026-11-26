@@ -1,8 +1,8 @@
 # Timoka
 
-Timoka is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
+Timoka is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
 
-Timoka is a techno and tech house artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside ASTRANA, Basshirte and Bloodkedelic. Next up: Sensorium, Berlin on Wed 25 Nov.
+Timoka is a techno and tech house artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside ASTRANA, André Skuda and Basshirte. Next up: Sensorium, Berlin on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -11,8 +11,12 @@ Timoka is a techno and tech house artist based in Germany, with 2 gigs on soundc
 | Wed, 25 Nov 2026 | Sensorium | Berlin |
 | Wed, 9 Dec 2026 | Sensorium | Berlin |
 
+## Recently played
+
+- Sensorium, Berlin · Wed, 25 Nov 2026
+
 ## Shares bills with
 
-ASTRANA, Basshirte, Bloodkedelic
+ASTRANA, André Skuda, Basshirte
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timoka/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timoka/)*

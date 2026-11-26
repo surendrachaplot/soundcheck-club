@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "춤은 자유다 Freedom To Dance" on Fri, 27 Nov 2026.
+vurt. is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "춤은 자유다 Freedom To Dance" on Fri, 27 Nov 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including Ario, Atsushi Maeda, Carrier and Djilogue and 2 more. See dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -22,4 +22,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

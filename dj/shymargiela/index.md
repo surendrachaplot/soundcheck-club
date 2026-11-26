@@ -1,6 +1,6 @@
 # Shy Margiela
 
-Shy Margiela is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
+Shy Margiela is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
 
 Shy Margiela is a club and techno artist based in United States of America, with 14 gigs on soundcheck across Atlanta, Austin, Detroit and Houston and 3 more. Often billed alongside Amarji King, HYPERFEMME and Mexican Jihad. Next up: Highland Lounge, Austin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Shy Margiela is a club and techno artist based in United States of America, with
 
 Amarji King, HYPERFEMME, Mexican Jihad
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shymargiela/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shymargiela/)*

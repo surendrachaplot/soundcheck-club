@@ -1,6 +1,6 @@
 # PFDA
 
-PFDA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Elsewhere, New York City on Sat, 30 Jan 2027.
+PFDA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Sat, 30 Jan 2027.
 
 PFDA is a techno and breakbeat artist based in Georgia, with 13 gigs on soundcheck across Ibiza, New York City and Tbilisi. Often billed alongside Firebunny, Neon Warrior and Nikitaurech. Next up: Elsewhere, New York City on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ PFDA is a techno and breakbeat artist based in Georgia, with 13 gigs on soundche
 
 Firebunny, Neon Warrior, Nikitaurech
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pfda/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pfda/)*

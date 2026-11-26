@@ -1,6 +1,6 @@
 # Cosmo Carbon
 
-Cosmo Carbon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Exit Reality, Singapore on Fri, 27 Nov 2026.
+Cosmo Carbon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Exit Reality, Singapore on Fri, 27 Nov 2026.
 
 Cosmo Carbon is a techno and house artist based in Singapore, with 37 gigs on soundcheck across Bangkok and Singapore. Often billed alongside Läbraatz, Pengsoo and James Selva. Next up: Exit Reality, Singapore on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Cosmo Carbon is a techno and house artist based in Singapore, with 37 gigs on so
 
 Läbraatz, Pengsoo, James Selva
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmocarbon/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmocarbon/)*

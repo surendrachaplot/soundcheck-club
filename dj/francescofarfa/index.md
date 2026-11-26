@@ -1,6 +1,6 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Macadam, Nantes on Sat, 5 Dec 2026.
+Francesco Farfa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Macadam, Nantes on Sat, 5 Dec 2026.
 
 Francesco Farfa is a house and techno artist based in Italy, with 118 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 31 more. Often billed alongside Janina, Alex Picone and Hamsa. Next up: Macadam, Nantes on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Francesco Farfa is a house and techno artist based in Italy, with 118 gigs on so
 
 Janina, Alex Picone, Hamsa
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

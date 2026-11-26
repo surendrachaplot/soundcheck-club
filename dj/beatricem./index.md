@@ -1,6 +1,6 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Strange Brew, Bristol on Sat, 12 Dec 2026.
+Beatrice M. is a Dubstep and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Strange Brew, Bristol on Sat, 12 Dec 2026.
 
 Beatrice M. is a dubstep and techno artist based in France, with 137 gigs on soundcheck across Amsterdam, Belgium, Berlin and Bordeaux and 32 more. Often billed alongside Tim Reaper, EMA and Mia Koden. Next up: Strange Brew, Bristol on Sat 12 Dec.
 
@@ -28,4 +28,4 @@ Beatrice M. is a dubstep and techno artist based in France, with 137 gigs on sou
 
 Tim Reaper, EMA (1), Mia Koden
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

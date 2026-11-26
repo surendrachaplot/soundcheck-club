@@ -1,6 +1,6 @@
 # Denno Matini
 
-Denno Matini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Weekend, Berlin on Fri, 11 Dec 2026.
+Denno Matini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Weekend, Berlin on Fri, 11 Dec 2026.
 
 Denno Matini is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside NAIR (IN), Ceci Fierce and Dj OmarO. Next up: Weekend, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Denno Matini is a house and techno artist based in Germany, with 12 gigs on soun
 
 NAIR (IN), Ceci Fierce, Dj OmarO
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennomatini/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennomatini/)*

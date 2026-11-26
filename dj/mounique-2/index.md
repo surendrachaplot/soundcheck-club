@@ -1,6 +1,6 @@
 # moUnique
 
-moUnique is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Mon, 7 Dec 2026.
+moUnique is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Mon, 7 Dec 2026.
 
 moUnique is a techno and tech house artist based in Italy, with 39 gigs on soundcheck across Barcelona, Lisbon, Madrid and Portugal. Often billed alongside ADRIANNA, Billy Nasty and Cambric. Next up: INPUT High Fidelity Dance Club, Barcelona on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ moUnique is a techno and tech house artist based in Italy, with 39 gigs on sound
 
 ADRIANNA, Billy Nasty, Cambric
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mounique-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mounique-2/)*

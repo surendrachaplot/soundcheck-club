@@ -1,6 +1,6 @@
 # gemue
 
-gemue is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Hafenklang, Hamburg on Sat, 5 Dec 2026.
+gemue is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hafenklang, Hamburg on Sat, 5 Dec 2026.
 
 gemue is an electro and electronica artist based in Germany, with 18 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Barabass, Mwaah and Punching Polly. Next up: Hafenklang, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ gemue is an electro and electronica artist based in Germany, with 18 gigs on sou
 
 Barabass, Mwaah, Punching Polly
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemue/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemue/)*

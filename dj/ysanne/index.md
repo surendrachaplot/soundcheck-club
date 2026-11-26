@@ -1,13 +1,14 @@
 # Ysanne
 
-Ysanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Ysanne is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Woodland Glade, Horseheath Racecourse, South-east on Fri, 18 Jun 2027.
 
-Ysanne is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Brighton, Glasgow and Liverpool and 3 more. Often billed alongside Michelle Manetti, Jaye Ward and Kmya. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
+Ysanne is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Brighton, Glasgow and Liverpool and 4 more. Often billed alongside Michelle Manetti, Scarlett O'Malley and Jaye Ward. Next up: The Woodland Glade, Horseheath Racecourse, South East on Fri 18 Jun.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Jun 2027 | The Woodland Glade, Horseheath Racecourse | South-east |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ysanne is a house and techno artist based in United Kingdom, with 55 gigs on sou
 
 ## Shares bills with
 
-Michelle Manetti, Jaye Ward, Kmya
+Michelle Manetti, Scarlett O'Malley, Jaye Ward
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*

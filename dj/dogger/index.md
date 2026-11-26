@@ -1,6 +1,6 @@
 # dogger
 
-dogger is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 4 Dec 2026.
+dogger is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 4 Dec 2026.
 
 dogger is a drum & bass and jungle artist based in United Kingdom, with 52 gigs on soundcheck across Auckland, Bangkok, Berlin and Birmingham and 7 more. Often billed alongside Mindstate, DRS and foxi. Next up: Joshua Brooks, Manchester on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ dogger is a drum & bass and jungle artist based in United Kingdom, with 52 gigs 
 
 Mindstate, DRS, foxi
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogger/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogger/)*

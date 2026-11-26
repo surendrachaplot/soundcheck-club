@@ -1,14 +1,15 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Under Bron, Stockholm on Fri, 27 Nov 2026.
+Peder Mannerfelt is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Under Bron, Stockholm on Fri, 27 Nov 2026.
 
-Peder Mannerfelt is a techno and experimental artist based in Sweden, with 62 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 24 more. Often billed alongside Flore, Pär Grindvik and mad miran. Next up: Under Bron, Stockholm on Fri 27 Nov.
+Peder Mannerfelt is a techno and experimental artist based in Sweden, with 63 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 24 more. Often billed alongside Flore, Pär Grindvik and mad miran. Next up: Under Bron, Stockholm on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Under Bron | Stockholm |
+| Fri, 4 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Peder Mannerfelt is a techno and experimental artist based in Sweden, with 62 gi
 
 Flore, Pär Grindvik, mad miran
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*

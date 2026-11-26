@@ -1,6 +1,6 @@
 # Aurora
 
-Aurora is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bampot Tea House, Toronto on Sat, 9 Jan 2027.
+Aurora is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bampot Tea House, Toronto on Sat, 9 Jan 2027.
 
 Aurora is a tech house and techno artist based in United Kingdom, with 16 gigs on soundcheck across Athens, Berlin, Bristol and Copenhagen and 7 more. Often billed alongside 'PAVV', Audi Étoffe and Azalea the Witch. Next up: Bampot Tea House, Toronto on Sat 9 Jan.
 
@@ -26,4 +26,4 @@ Aurora is a tech house and techno artist based in United Kingdom, with 16 gigs o
 
 'PAVV', Audi Étoffe, Azalea the Witch
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*

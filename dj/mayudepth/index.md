@@ -1,6 +1,6 @@
 # MAYUDEPTH
 
-MAYUDEPTH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bonobo, Tokyo on Sun, 13 Dec 2026.
+MAYUDEPTH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bonobo, Tokyo on Sun, 13 Dec 2026.
 
 MAYUDEPTH is a techno and house artist based in Japan, with 130 gigs on soundcheck across Berlin, Hong Kong, Kanto and Kyoto and 7 more. Often billed alongside the2$, Mars89 and TEI TEI. Next up: Bonobo, Tokyo on Sun 13 Dec.
 
@@ -26,4 +26,4 @@ MAYUDEPTH is a techno and house artist based in Japan, with 130 gigs on soundche
 
 the2$, Mars89, TEI TEI
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*

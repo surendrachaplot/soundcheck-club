@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 5 Dec 2026.
+Dj Babatr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 5 Dec 2026.
 
 Dj Babatr is a techno and house artist based in Venezuela, with 114 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside Ruiseñor, Dj Deep RH and Batu. Next up: Lux Fragil, Lisbon on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Dj Babatr is a techno and house artist based in Venezuela, with 114 gigs on soun
 
 Ruiseñor, Dj Deep RH, Batu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

@@ -1,6 +1,6 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "CAROL - Forest On Stasys - Kyntral & Vanoni" on Fri, 27 Nov 2026.
+Under Club is a music venue in Buenos Aires with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "CAROL - Forest On Stasys - Kyntral & Vanoni" on Fri, 27 Nov 2026.
 
 Under Club is a music venue in Buenos Aires listed on soundcheck. 8 upcoming gigs, with line-ups including aantz, Abstract Division, Alejandria and Andrés Zacco and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
@@ -21,4 +21,4 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 8 upcoming gig
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

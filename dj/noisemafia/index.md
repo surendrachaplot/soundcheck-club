@@ -1,6 +1,6 @@
 # Noise Mafia
 
-Noise Mafia is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Home The Venue, Sydney on Fri, 27 Nov 2026.
+Noise Mafia is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Home The Venue, Sydney on Fri, 27 Nov 2026.
 
 Noise Mafia is a techno and trance artist based in Colombia, with 95 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 38 more. Often billed alongside PETERBLUE, Adrian Mills and Afem Syko. Next up: Home The Venue, Sydney on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Noise Mafia is a techno and trance artist based in Colombia, with 95 gigs on sou
 
 PETERBLUE, Adrian Mills, Afem Syko
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*

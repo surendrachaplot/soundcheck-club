@@ -1,6 +1,6 @@
 # Leonardo (IT)
 
-Leonardo (IT) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Anima, North on Mon, 7 Dec 2026.
+Leonardo (IT) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Anima, North on Mon, 7 Dec 2026.
 
 Leonardo (IT) is an electronica and techno artist based in Italy, with 5 gigs on soundcheck across Bologna, Mexico City, North and Vienna. Often billed alongside AVILA, Astro and Claudia Sapienza. Next up: Anima, North on Mon 7 Dec.
 
@@ -21,4 +21,4 @@ Leonardo (IT) is an electronica and techno artist based in Italy, with 5 gigs on
 
 AVILA, Astro, Claudia Sapienza
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardoit/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardoit/)*

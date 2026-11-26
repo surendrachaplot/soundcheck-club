@@ -1,6 +1,6 @@
 # Daniele Umore
 
-Daniele Umore is a Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Malaga Sin City, Milan on Fri, 27 Nov 2026.
+Daniele Umore is a Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Malaga Sin City, Milan on Fri, 27 Nov 2026.
 
 Daniele Umore is an electronica artist based in Italy, with 14 gigs on soundcheck across Milan. Often billed alongside Ezart, Tao and Wrng Pattern. Next up: Malaga Sin City, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Daniele Umore is an electronica artist based in Italy, with 14 gigs on soundchec
 
 Ezart, Tao (2), Wrng Pattern
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieleumore/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieleumore/)*

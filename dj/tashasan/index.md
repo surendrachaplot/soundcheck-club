@@ -1,6 +1,6 @@
 # TASHASAN
 
-TASHASAN is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Earworm, Singapore on Sat, 12 Dec 2026.
+TASHASAN is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Earworm, Singapore on Sat, 12 Dec 2026.
 
 TASHASAN is a bass and house artist, with 36 gigs on soundcheck across Amsterdam, Bali, Kuala Lumpur and Melbourne and 3 more. Often billed alongside MIA (MY), Dexter Colt and Helios XL. Next up: Earworm, Singapore on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ TASHASAN is a bass and house artist, with 36 gigs on soundcheck across Amsterdam
 
 MIA (MY), Dexter Colt, Helios XL
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tashasan/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tashasan/)*

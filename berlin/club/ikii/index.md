@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Oceanic Feeling" on Thu, 26 Nov 2026.
+Ikii is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Oceanic Feeling" on Thu, 26 Nov 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including 0dysseus, Alejandro Mosso, Alexis Roy and Alto Bloom and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

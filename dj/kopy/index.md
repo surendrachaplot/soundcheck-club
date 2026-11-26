@@ -1,6 +1,6 @@
 # KOPY
 
-KOPY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Fri, 4 Dec 2026.
+KOPY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at club asia, Tokyo on Fri, 4 Dec 2026.
 
 KOPY is a techno and house artist based in Japan, with 41 gigs on soundcheck across Düsseldorf, Hamburg, London and Osaka and 1 more. Often billed alongside HIMAWARI, yodel and AKIRAM EN. Next up: club asia, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ KOPY is a techno and house artist based in Japan, with 41 gigs on soundcheck acr
 
 HIMAWARI, yodel, AKIRAM EN
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kopy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kopy/)*

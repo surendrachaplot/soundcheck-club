@@ -1,6 +1,6 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at SWG3, Glasgow on Fri, 27 Nov 2026.
+Mietze Conte is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SWG3, Glasgow on Fri, 27 Nov 2026.
 
 Mietze Conte is a house and experimental artist based in Austria, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: SWG3, Glasgow on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Mietze Conte is a house and experimental artist based in Austria, with 65 gigs o
 
 1tbsp, DJ Gigola, Skin On Skin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

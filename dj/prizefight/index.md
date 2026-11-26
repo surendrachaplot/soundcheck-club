@@ -1,6 +1,6 @@
 # Prizefight
 
-Prizefight is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Preston Warehouse, Melbourne on Sat, 23 Jan 2027.
+Prizefight is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Preston Warehouse, Melbourne on Sat, 23 Jan 2027.
 
 Prizefight is a techno and garage artist based in Australia, with 79 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Christchurch and 5 more. Often billed alongside TRUSTEE, IsGwan and WAXX OFF. Next up: Preston Warehouse, Melbourne on Sat 23 Jan.
 
@@ -26,4 +26,4 @@ Prizefight is a techno and garage artist based in Australia, with 79 gigs on sou
 
 TRUSTEE, IsGwan, WAXX OFF
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*

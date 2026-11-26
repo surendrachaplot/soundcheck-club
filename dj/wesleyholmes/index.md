@@ -1,6 +1,6 @@
 # Wesley Holmes
 
-Wesley Holmes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Wesley Holmes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Wesley Holmes is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Seattle. Often billed alongside Brian Lyons, Julie Herrera and Dane Garfield. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Wesley Holmes is a house and tech house artist based in United States of America
 
 Brian Lyons, Julie Herrera, Dane Garfield
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyholmes/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyholmes/)*

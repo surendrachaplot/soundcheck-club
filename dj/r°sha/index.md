@@ -1,6 +1,6 @@
 # R°sha
 
-R°sha is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Wicker Park, Chicago on Sat, 12 Dec 2026.
+R°sha is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Wicker Park, Chicago on Sat, 12 Dec 2026.
 
 R°sha is a techno and ghetto tech artist based in United States of America, with 16 gigs on soundcheck across Chicago and New York City. Often billed alongside Jon McCray, Vyper and JAXX.. Next up: Wicker Park, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ R°sha is a techno and ghetto tech artist based in United States of America, wit
 
 Jon McCray, Vyper, JAXX.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r°sha/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r°sha/)*

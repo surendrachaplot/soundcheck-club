@@ -1,6 +1,6 @@
 # The Listening Room
 
-The Listening Room is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "ELYSIUM PRESENTS: TOKOYO at ROOM 86 SOHO" on Sat, 28 Nov 2026.
+The Listening Room is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "ELYSIUM PRESENTS: TOKOYO at ROOM 86 SOHO" on Sat, 28 Nov 2026.
 
 The Listening Room is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including muntego. See dates, start times and who's playing. 86 Wardour St, W1F 0TQ, London, United Kingdom.
 
@@ -14,4 +14,4 @@ The Listening Room is a music venue in London listed on soundcheck. 1 upcoming g
 
 86 Wardour St, W1F 0TQ, London, United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-listening-room/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-listening-room/)*

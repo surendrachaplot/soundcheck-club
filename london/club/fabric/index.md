@@ -1,14 +1,14 @@
 # fabric
 
-fabric is a music venue in London with 33 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh + more" on Fri, 27 Nov 2026.
+fabric is a music venue in London with 34 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh + more" on Fri, 27 Nov 2026.
 
-fabric is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Afro Pupo and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 34 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Afro Pupo and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh + more | Joe Rolét, Joshwa, Kristin Velvet, Lee Foss, Miguel Campbell, Ozzie Guven, Robert James, Rooléh, Seb Zito, Shadow Child |
+| Fri, 27 Nov 2026 | Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh + more | Joe Rolét, Joshwa, Joss Dean, Kristin Velvet, Lee Foss, Miguel Campbell, Ozzie Guven, Robert James, Rooléh, Seb Zito, Shadow Child, Tommy Phillips |
 | Fri, 27 Nov 2026 | fabric x Sennheiser present ORII & Mackwood: The Lineage Mixtape | AUKA, BIG DRECO, Chedda Bred, D'Monk, DJ Programma, Entek, Neue Grafik, limi |
 | Sat, 28 Nov 2026 | fabric: Palms Trax, Ogazón, Mathew Jonson (Live), Antal, Joe Claussell, DJ Subaru + more | Antal, DJ Subaru, Joe Claussell, Mathew Jonson, Ogazón, Palms Trax, floor length skirts |
 | Sat, 28 Nov 2026 | Groove Odyssey [Daytime] | DJ Murrell, Groove Assassin, Lauren Thompson, Mark Osborne, Natasha Diggs, Ricky Morrison, Ronnie Herel, Sol Brown, Steve (IT) |
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 33 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

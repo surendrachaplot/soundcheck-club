@@ -1,6 +1,6 @@
 # Robert Bergman
 
-Robert Bergman is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Open Ground, Wuppertal on Sat, 28 Nov 2026.
+Robert Bergman is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Open Ground, Wuppertal on Sat, 28 Nov 2026.
 
 Robert Bergman is a house and acid artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Satoshi Yamamura, I-F and Esther Dune. Next up: Open Ground, Wuppertal on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Robert Bergman is a house and acid artist based in Netherlands, with 44 gigs on 
 
 Satoshi Yamamura, I-F, Esther Dune
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*

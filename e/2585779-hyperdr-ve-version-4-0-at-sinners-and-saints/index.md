@@ -1,6 +1,6 @@
 # HYPERDR!VE: VERSION 4.0 at Sinners and Saints
 
-HYPERDR!VE: VERSION 4.0 at Sinners and Saints on Sat 12 Dec, Washington DC. 1 artist: Kenemy. Experimental. See the line-up on soundcheck.
+HYPERDR!VE: VERSION 4.0 at Sinners and Saints on Sat 12 Dec, Washington DC. 6 artists: cute boys, Franxx, Girlypop Princess and IDKRYAN and 2 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,11 @@ HYPERDR!VE: VERSION 4.0 at Sinners and Saints on Sat 12 Dec, Washington DC. 1 ar
 
 ## Line-up
 
+- cute boys
+- Franxx
+- Girlypop Princess
+- IDKRYAN
 - Kenemy
+- Samuelx
 
 *Source: [soundcheck](https://soundcheck.club/e/2585779-hyperdr-ve-version-4-0-at-sinners-and-saints/)*

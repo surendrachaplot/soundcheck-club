@@ -1,6 +1,6 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "ZW-CONCERT CANDELA" on Thu, 26 Nov 2026.
+Zentralwäscherei is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ZW-CONCERT CANDELA" on Thu, 26 Nov 2026.
 
 Zentralwäscherei is a music venue in Zurich listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
@@ -16,4 +16,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 3 upcoming gi
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

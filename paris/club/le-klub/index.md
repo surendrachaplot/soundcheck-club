@@ -1,6 +1,6 @@
 # Le Klub
 
-Le Klub is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Beau Wanzer, en concert à Paris" on Thu, 26 Nov 2026.
+Le Klub is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Beau Wanzer, en concert à Paris" on Thu, 26 Nov 2026.
 
 Le Klub is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Beau Wanzer and JOHN DIXON. See dates, start times and who's playing. 14, rue St Denis Paris, France.
 
@@ -16,4 +16,4 @@ Le Klub is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with li
 
 14, rue St Denis Paris, France, Paris
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-klub/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-klub/)*

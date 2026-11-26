@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA" on Sat, 28 Nov 2026.
+Thuishaven is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA" on Sat, 28 Nov 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including FAUSTO, Abstract Division, Alexander Koning and Alfredo and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -9,7 +9,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | 28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA | Abstract Division, BLANKA, ETERNAL JOE, Huey Mnemonic, Jasmín, Jeff Mills, Laure Croft, ROD |
-| Sun, 29 Nov 2026 | 29 NOV- Thuishaven with Jamback 10HRS SOLD OUT | Jamback |
+| Sun, 29 Nov 2026 | 29 NOV- Thuishaven with Jamback 10HRS SOLD OUT | Genex, Jamback, Kim April, Luis Ripa, Mallie, Mat Eclair, RTK Tarantino, Theo Kottis |
 | Sat, 5 Dec 2026 | 05 DEC - Thuishaven with Bart Skils 5HRS | BIANKA, Bart Skils, Delano Legito, Gerd, Mihai Popoviciu, Reiss, Township Rebellion, Zeynep, neska |
 | Sun, 6 Dec 2026 | 06 DEC - Thuishaven with Mr. Belt & Wezol / Hidde van Wee / Beave | Beave, Dan Shake, Hidde van Wee, James Poole, Marijn Jansen, Midas Field, Mr. Belt & Wezol |
 | Sat, 12 Dec 2026 | SOLD OUT - Winter of Love festival 2026 | Alexander Koning, Alfredo, Darren Emerson, Dimitri (1), Divine, Erick E, Funkerman, Gregor Salto, Kim Kaos, Klubbheads, Milla More, ROOG, Sander Kleinenberg, Ven |
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs,
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "DREAM PHONE feat. 1-800-CALL-ASH, Ameera, hypemelo" on Wed, 25 Nov 2026.
+Paris Bar is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DREAM PHONE feat. 1-800-CALL-ASH, Ameera, hypemelo" on Wed, 25 Nov 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including 1-800-CALL-ASH, Ameera, Auntie Chanel and Charles Trees and 2 more. See dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -17,4 +17,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, wit
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

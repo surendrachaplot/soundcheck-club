@@ -1,6 +1,6 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "PIP x PRSPCT" on Sat, 28 Nov 2026.
+PIP Den Haag is a music venue in The Hague with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "PIP x PRSPCT" on Sat, 28 Nov 2026.
 
 PIP Den Haag is a music venue in The Hague listed on soundcheck. 5 upcoming gigs, with line-ups including Amir, Deformer, Sandrien and Sinister Souls and 2 more. See dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
@@ -18,4 +18,4 @@ PIP Den Haag is a music venue in The Hague listed on soundcheck. 5 upcoming gigs
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

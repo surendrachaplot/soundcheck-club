@@ -1,6 +1,6 @@
 # Meek (1)
 
-Meek (1) is a Hip-Hop and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Sat, 19 Dec 2026.
+Meek (1) is a Hip-Hop and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at club asia, Tokyo on Sat, 19 Dec 2026.
 
 Meek is a hip-hop and afro house artist, with 7 gigs on soundcheck across Atlanta, Berlin, Cape Town and Miami and 1 more. Often billed alongside ITSUKI, AKKI (DE) and Appo. Next up: club asia, Tokyo on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Meek is a hip-hop and afro house artist, with 7 gigs on soundcheck across Atlant
 
 ITSUKI, AKKI (DE), Appo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meek-1/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meek-1/)*

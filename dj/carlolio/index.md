@@ -1,6 +1,6 @@
 # Carlo Lio
 
-Carlo Lio is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rebel, Toronto on Sat, 28 Nov 2026.
+Carlo Lio is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rebel, Toronto on Sat, 28 Nov 2026.
 
 Carlo Lio is a techno and tech house artist based in Canada, with 50 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bogotá and 14 more. Often billed alongside Nathan Barato, Lexlay and Anthony Attalla. Next up: Rebel, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Carlo Lio is a techno and tech house artist based in Canada, with 50 gigs on sou
 
 Nathan Barato, Lexlay, Anthony Attalla
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlolio/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlolio/)*

@@ -1,6 +1,6 @@
 # Loppen Christiania
 
-Loppen Christiania is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "20_14 resort: TYSON (UK) + Selassie TBC (DJ)" on Fri, 11 Dec 2026.
+Loppen Christiania is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "20_14 resort: TYSON (UK) + Selassie TBC (DJ)" on Fri, 11 Dec 2026.
 
 Loppen Christiania is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including Afskum. See dates, start times and who's playing. Loppen Sydområdet 4B 1. Sal, DK 1440 Kbh K.
 
@@ -15,4 +15,4 @@ Loppen Christiania is a music venue in Copenhagen listed on soundcheck. 2 upcomi
 
 Loppen Sydområdet 4B 1. Sal, DK 1440 Kbh K, Copenhagen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/loppen-christiania/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/loppen-christiania/)*

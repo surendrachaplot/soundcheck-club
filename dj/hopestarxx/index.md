@@ -1,6 +1,6 @@
 # HOPESTARXX
 
-HOPESTARXX is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mood Ring, New York City on Thu, 17 Dec 2026.
+HOPESTARXX is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mood Ring, New York City on Thu, 17 Dec 2026.
 
 HOPESTARXX is a club and electronica artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Niyx, AG and BRATATTACK. Next up: Mood Ring, New York City on Thu 17 Dec.
 
@@ -21,4 +21,4 @@ HOPESTARXX is a club and electronica artist based in United States of America, w
 
 Niyx, AG (1), BRATATTACK
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hopestarxx/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hopestarxx/)*

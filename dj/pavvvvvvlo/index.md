@@ -1,6 +1,6 @@
 # pavvvvvvlo
 
-pavvvvvvlo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
+pavvvvvvlo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
 
 pavvvvvvlo is a techno and trance artist based in Spain, with 59 gigs on soundcheck across Barcelona, Berlin, Brussels and Lisbon and 2 more. Often billed alongside Gerardo Niva, Alba Franch and Cobb Douglas. Next up: Lokschuppen Berlin, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ pavvvvvvlo is a techno and trance artist based in Spain, with 59 gigs on soundch
 
 Gerardo Niva, Alba Franch, Cobb Douglas
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*

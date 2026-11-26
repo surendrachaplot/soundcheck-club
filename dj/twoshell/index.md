@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Rex Club, Paris on Sat, 12 Dec 2026.
+Two Shell is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Sat, 12 Dec 2026.
 
 Two Shell is a techno and experimental artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Rex Club, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Two Shell is a techno and experimental artist based in United Kingdom, with 91 g
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

@@ -1,6 +1,6 @@
 # Low Steppa
 
-Low Steppa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Patterns, Brighton on Sat, 30 Jan 2027.
+Low Steppa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Patterns, Brighton on Sat, 30 Jan 2027.
 
 Low Steppa is a house and tech house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Bali, Brighton and Brisbane and 28 more. Often billed alongside Sam Divine, Arielle Free and Ferreck Dawn. Next up: Patterns, Brighton on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Low Steppa is a house and tech house artist based in United Kingdom, with 87 gig
 
 Sam Divine, Arielle Free, Ferreck Dawn
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*

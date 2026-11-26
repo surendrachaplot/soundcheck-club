@@ -1,6 +1,6 @@
 # Nala
 
-Nala is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sat, 9 Jan 2027.
+Nala is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sat, 9 Jan 2027.
 
 Nala is a house and tech house artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Austin, Chicago and Dallas/Fort Worth and 19 more. Often billed alongside Vnssa, Claude VonStroke and Justin Martin. Next up: Audio SF, San Francisco/Oakland on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Nala is a house and tech house artist based in United States of America, with 87
 
 Vnssa, Claude VonStroke, Justin Martin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*

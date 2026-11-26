@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "BACK2TEK: Kiwitek23 • Kou2tatane • Winnie2shroom • Bussycat [VJ Sam Maryu]" on Fri, 27 Nov 2026.
+Zoo is a music venue in Geneva with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BACK2TEK: Kiwitek23 • Kou2tatane • Winnie2shroom • Bussycat [VJ Sam Maryu]" on Fri, 27 Nov 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 10 upcoming gigs, with line-ups including AIEAIEAIE, Alex Nantaya, Antigone and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -23,4 +23,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 10 upcoming gigs, with line
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

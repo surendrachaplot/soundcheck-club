@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Fania Brava Party" on Fri, 27 Nov 2026.
+Badehaus Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Fania Brava Party" on Fri, 27 Nov 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including lionza. See dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

@@ -1,6 +1,6 @@
 # Dissonanza at Macarena Club
 
-Dissonanza at Macarena Club on Thu 3 Dec, Barcelona. 3 artists: Cipy, Ivan Pugliares and SABALZA. See the line-up on soundcheck.
+Dissonanza at Macarena Club on Thu 3 Dec, Barcelona. 2 artists: Ivan Pugliares and SABALZA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Dissonanza at Macarena Club on Thu 3 Dec, Barcelona. 3 artists: Cipy, Ivan Pugli
 
 ## Line-up
 
-- Cipy
 - Ivan Pugliares
 - SABALZA
 

@@ -1,6 +1,6 @@
 # Puffer P
 
-Puffer P is a Psytrance and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - The Golden Giraffe - Sukhumvit 11, Bangkok on Sat, 28 Nov 2026.
+Puffer P is a Psytrance and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - The Golden Giraffe - Sukhumvit 11, Bangkok on Sat, 28 Nov 2026.
 
 Puffer P is a psytrance and trance artist based in Thailand, with 59 gigs on soundcheck across Bangkok, Ghent, Ho Chi Minh City and Kuala Lumpur. Often billed alongside Jack the Jackal, Sam Laxton and Peter Soul. Next up: TBA - The Golden Giraffe - Sukhumvit 11, Bangkok on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Puffer P is a psytrance and trance artist based in Thailand, with 59 gigs on sou
 
 Jack the Jackal, Sam Laxton, Peter Soul
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pufferp-th/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pufferp-th/)*

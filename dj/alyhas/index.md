@@ -1,6 +1,6 @@
 # Alyhas
 
-Alyhas is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Bar Temp., Bangkok on Fri, 27 Nov 2026.
+Alyhas is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Temp., Bangkok on Fri, 27 Nov 2026.
 
 Alyhas is a house and electro artist based in France, with 70 gigs on soundcheck across Bangkok, Brussels, Marseille and Milan and 3 more. Often billed alongside Taieb Chékir, Blanco and IAMBP. Next up: Bar Temp., Bangkok on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Alyhas is a house and electro artist based in France, with 70 gigs on soundcheck
 
 Taieb Chékir, Blanco, IAMBP
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyhas/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyhas/)*

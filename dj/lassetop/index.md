@@ -1,6 +1,6 @@
 # Lasse Top
 
-Lasse Top is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at BASIS, Utrecht on Sat, 12 Dec 2026.
+Lasse Top is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BASIS, Utrecht on Sat, 12 Dec 2026.
 
 Lasse Top is a house and garage artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Lasse, Michel de Hey and M-High. Next up: BASIS, Utrecht on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Lasse Top is a house and garage artist based in Netherlands, with 66 gigs on sou
 
 Lasse, Michel de Hey, M-High
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*

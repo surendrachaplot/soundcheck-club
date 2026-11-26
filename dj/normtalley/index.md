@@ -1,6 +1,6 @@
 # Norm Talley
 
-Norm Talley is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Lincoln Factory, Detroit on Wed, 25 Nov 2026.
+Norm Talley is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lincoln Factory, Detroit on Wed, 25 Nov 2026.
 
 Norm Talley is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Cleveland, Detroit and New York City. Often billed alongside Delano Smith, Mike Agent X Clark and Eddie Fowlkes. Next up: Lincoln Factory, Detroit on Wed 25 Nov.
 
@@ -13,6 +13,7 @@ Norm Talley is a house and techno artist based in United States of America, with
 
 ## Recently played
 
+- Lincoln Factory, Detroit · Wed, 25 Nov 2026
 - TBA - Cass Corridor, Detroit · Sat, 12 Sept 2026
 - public records, New York City · Sat, 29 Aug 2026
 - TV Lounge, Detroit · Fri, 14 Aug 2026
@@ -20,10 +21,9 @@ Norm Talley is a house and techno artist based in United States of America, with
 - Tangent Gallery, Detroit · Thu, 13 Aug 2026
 - Green Room NYC, New York City · Sat, 18 Jul 2026
 - TBA - warehouse location , Detroit · Fri, 17 Jul 2026
-- Lincoln Factory, Detroit · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Delano Smith, Mike Agent X Clark, Eddie Fowlkes
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*

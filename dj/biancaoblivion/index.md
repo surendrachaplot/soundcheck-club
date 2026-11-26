@@ -1,8 +1,8 @@
 # Bianca Oblivion
 
-Bianca Oblivion is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
+Bianca Oblivion is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
 
-Bianca Oblivion is a bass and club artist based in United States of America, with 177 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 53 more. Often billed alongside Star Eyes, Sam Binga and Cquestt. Next up: 26 Leake Street, London on Fri 27 Nov.
+Bianca Oblivion is a bass and club artist based in United States of America, with 178 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 53 more. Often billed alongside Star Eyes, Sam Binga and Cquestt. Next up: 26 Leake Street, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bianca Oblivion is a bass and club artist based in United States of America, wit
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | 26 Leake Street | London |
 | Sat, 5 Dec 2026 | Paragon | New York City |
+| Thu, 28 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bianca Oblivion is a bass and club artist based in United States of America, wit
 
 Star Eyes, Sam Binga, Cquestt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*

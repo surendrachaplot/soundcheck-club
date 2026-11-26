@@ -1,6 +1,6 @@
 # Beatski
 
-Beatski is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
+Beatski is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
 
 Beatski is a jungle and drum & bass artist based in Australia, with 8 gigs on soundcheck across Melbourne. Often billed alongside Lewis Cancut, 3rd Orbit and C1. Next up: Revolver Upstairs, Melbourne on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Beatski is a jungle and drum & bass artist based in Australia, with 8 gigs on so
 
 Lewis Cancut, 3rd Orbit, C1
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatski/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatski/)*

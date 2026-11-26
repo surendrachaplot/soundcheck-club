@@ -1,8 +1,8 @@
 # Joy Boy
 
-Joy Boy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Romantica, Stuttgart on Thu, 26 Nov 2026.
+Joy Boy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Romantica, Stuttgart on Thu, 26 Nov 2026.
 
-Joy Boy is a techno and house artist based in Germany, with 32 gigs on soundcheck across Basel, Helsinki, Madrid and Seoul and 3 more. Often billed alongside DJ BREXIT, CHIEF QUEEF and Needs. Next up: Romantica, Stuttgart on Thu 26 Nov.
+Joy Boy is a techno and house artist based in Germany, with 33 gigs on soundcheck across Basel, Helsinki, Madrid and Seoul and 3 more. Often billed alongside DJ BREXIT, CHIEF QUEEF and Needs. Next up: Romantica, Stuttgart on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joy Boy is a techno and house artist based in Germany, with 32 gigs on soundchec
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Romantica | Stuttgart |
 | Sat, 28 Nov 2026 | Subcero Club | Madrid |
+| Sat, 12 Dec 2026 | Flat HiFi Bar | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Joy Boy is a techno and house artist based in Germany, with 32 gigs on soundchec
 
 DJ BREXIT, CHIEF QUEEF, Needs (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyboy/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyboy/)*

@@ -1,6 +1,6 @@
 # Kongresai
 
-Kongresai is a music venue in Vilnius with 5 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Faith: Rat Section, Gediminas Žygus, Holly Childs, Onyte, Kotryna Briedytė" on Fri, 27 Nov 2026.
+Kongresai is a music venue in Vilnius with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Faith: Rat Section, Gediminas Žygus, Holly Childs, Onyte, Kotryna Briedytė" on Fri, 27 Nov 2026.
 
 Kongresai is a music venue in Vilnius listed on soundcheck. 5 upcoming gigs, with line-ups including Atgaiva, Cheh, Daniel Ocean [LT] and HADES (LT) and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Kongresai is a music venue in Vilnius listed on soundcheck. 5 upcoming gigs, wit
 | Fri, 11 Dec 2026 | MASQUERAVE - Pretty Much | Sibilë |
 | Sat, 12 Dec 2026 | Metal Beat: Ngly (live), Mux, Times New Roman | Ngly, Times New Roman |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/kongresai/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/kongresai/)*

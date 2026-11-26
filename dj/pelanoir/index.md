@@ -1,6 +1,6 @@
 # Pelanoir
 
-Pelanoir is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at export, Rotterdam on Sat, 12 Dec 2026.
+Pelanoir is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at export, Rotterdam on Sat, 12 Dec 2026.
 
 Pelanoir is a house and disco artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Rotterdam and 2 more. Often billed alongside Kevin Lo, Boogie Mind and Lucas Benjamin. Next up: export, Rotterdam on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Pelanoir is a house and disco artist based in Netherlands, with 67 gigs on sound
 
 Kevin Lo, Boogie Mind, Lucas Benjamin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pelanoir/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pelanoir/)*

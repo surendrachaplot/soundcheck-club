@@ -1,6 +1,6 @@
 # Business Partner
 
-Business Partner is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Picabar, Perth on Sun, 29 Nov 2026.
+Business Partner is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Picabar, Perth on Sun, 29 Nov 2026.
 
 Business Partner is a house and club artist, with 7 gigs on soundcheck across Melbourne and Perth. Often billed alongside Yawung, Bianca Lexis and Caucasian Opportunities. Next up: Picabar, Perth on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ Business Partner is a house and club artist, with 7 gigs on soundcheck across Me
 
 Yawung, Bianca Lexis, Caucasian Opportunities
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/businesspartner/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/businesspartner/)*

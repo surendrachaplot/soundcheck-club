@@ -1,11 +1,11 @@
-# Free Substance with Miles Atmospheric at TBA - Revealed to ticket holders
+# Free Substance with Miles Atmospheric at TBA - Revealed to ticket holders, North London, Tottenham Hale
 
-Free Substance with Miles Atmospheric at TBA - Revealed to ticket holders on Sat 5 Dec, London. 1 artist: Miles Atmospheric. Techno and Electro. See the line-up on soundcheck.
+Free Substance with Miles Atmospheric at TBA - Revealed to ticket holders, North London, Tottenham Hale on Sat 5 Dec, London. 1 artist: Miles Atmospheric. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 5 Dec 2026 |
-| Venue | TBA - Revealed to ticket holders |
+| Venue | TBA - Revealed to ticket holders, North London, Tottenham Hale |
 | City | London |
 
 ## Line-up

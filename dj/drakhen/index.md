@@ -1,6 +1,6 @@
 # Drakhen
 
-Drakhen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu, 31 Dec 2026.
+Drakhen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu, 31 Dec 2026.
 
 Drakhen is a techno and house artist based in Mexico, with 18 gigs on soundcheck across Mexico City. Often billed alongside Hot Hudson, Lex Digital and Celice Monnette. Next up: TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Drakhen is a techno and house artist based in Mexico, with 18 gigs on soundcheck
 
 Hot Hudson, Lex Digital, Celice Monnette
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drakhen/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drakhen/)*

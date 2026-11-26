@@ -1,6 +1,6 @@
 # Le Petit Salon
 
-Le Petit Salon is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Encore invite Hidden Garden au Petit Salon" on Fri, 27 Nov 2026.
+Le Petit Salon is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Encore invite Hidden Garden au Petit Salon" on Fri, 27 Nov 2026.
 
 Le Petit Salon is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, with line-ups including MATRAKK, Maudux, Paraçek and The Jakob Sister. See dates, start times and who's playing. Rue de Cronstadt 69007 Lyon France.
 
@@ -17,4 +17,4 @@ Le Petit Salon is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, w
 
 Rue de Cronstadt 69007 Lyon France, Lyon
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-petit-salon/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-petit-salon/)*

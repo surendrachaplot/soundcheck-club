@@ -1,14 +1,13 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "Resonance On The Ground curated by IKLECTIK" on Wed, 25 Nov 2026.
+Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BBBwithluv x AFRICANPU$$Y presents AFREECAN IN LONDON" on Thu, 26 Nov 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Ab.Diablo, Anina, Bitter Babe and Coe and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Ab.Diablo, Anina, Bitter Babe and Coe and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Resonance On The Ground curated by IKLECTIK | Pouya Ehsaei |
 | Thu, 26 Nov 2026 | BBBwithluv x AFRICANPU$$Y presents AFREECAN IN LONDON | XT1ANA, midnightswami |
 | Fri, 27 Nov 2026 | [SOLD OUT / RESALE ACTIVE] Unsound London x Tropical Waste: RP Boo, Kode9  | Hermeneia, Kode9, RP Boo, Seb (Tropical Waste), k means |
 | Sat, 28 Nov 2026 | Lemon Lounge | ddwy |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gi
 | Sat, 5 Dec 2026 | Atomiser: Foodman, FAUZIA, Nicolini, DJ Gonz, Shauwdii, Jon & Lianne | DJ Gonz, FAUZIA, Foodman |
 | Wed, 9 Dec 2026 | ORMSIDE presents: DJ Sacred / susu laroche / Ossia / Lord Tusk | DJ Sacred, Lord Tusk, Ossia, susu laroche |
 | Fri, 11 Dec 2026 | Warmth presents: Bitter Babe, Jawnino, MJK, Prof. Stranger + more | Ab.Diablo, Bitter Babe, Jawnino, MJK, Prof. Stranger, VIRI$$ |
+| Sat, 12 Dec 2026 | All Centre with Mun Sing, Anina, Endless Mow (Live), DJ Pitch, Simkin, Coe | Anina, Coe (1), DJ Pitch, Mun Sing, Simkin |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

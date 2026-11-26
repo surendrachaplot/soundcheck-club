@@ -1,6 +1,6 @@
 # Perm
 
-Perm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bassiani, Tbilisi on Sat, 19 Dec 2026.
+Perm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bassiani, Tbilisi on Sat, 19 Dec 2026.
 
 Perm is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin, Hannover, Leipzig and Tbilisi. Often billed alongside HAL, 50PHIE and Neele. Next up: Bassiani, Tbilisi on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Perm is a house and techno artist based in Germany, with 8 gigs on soundcheck ac
 
 HAL, 50PHIE, Neele
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perm/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perm/)*

@@ -1,6 +1,6 @@
 # TBA - Berlin, Germany
 
-TBA - Berlin, Germany is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. The next is "WHERE THE DARKNESS BECOMES SOUND" on Sun, 6 Dec 2026.
+TBA - Berlin, Germany is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "WHERE THE DARKNESS BECOMES SOUND" on Sun, 6 Dec 2026.
 
 TBA - Berlin, Germany is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Berlin, Germany is a music venue in Berlin listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | WHERE THE DARKNESS BECOMES SOUND |  |
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-berlin-germany/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-berlin-germany/)*

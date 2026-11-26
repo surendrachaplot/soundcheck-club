@@ -1,6 +1,6 @@
 # Pete Moss
 
-Pete Moss is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Bastet, Philadelphia on Sat, 12 Dec 2026.
+Pete Moss is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bastet, Philadelphia on Sat, 12 Dec 2026.
 
 Pete Moss is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Boston, Chicago, Los Angeles and Philadelphia and 4 more. Often billed alongside DJ Colette, DJ Heather and Rob Paine. Next up: Bastet, Philadelphia on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Pete Moss is a house and deep house artist based in United States of America, wi
 
 DJ Colette, DJ Heather, Rob Paine
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petemoss/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petemoss/)*

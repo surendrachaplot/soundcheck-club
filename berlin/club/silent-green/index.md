@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "LIA LIA + Levi" on Fri, 27 Nov 2026.
+Silent Green is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "LIA LIA + Levi" on Fri, 27 Nov 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Dis Fig, FITNESSS, Ka Baird and Levi (DE) and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

@@ -1,14 +1,15 @@
 # PM
 
-PM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fibber Magees, Dublin on Sun, 6 Dec 2026.
+PM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fibber Magees, Dublin on Sun, 6 Dec 2026.
 
-PM is a techno and house artist based in Cyprus, with 50 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside AM, 18+ and ZIGGY ZAYA. Next up: Fibber Magees, Dublin on Sun 6 Dec.
+PM is a techno and house artist based in Cyprus, with 51 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside AM, 18+ and ZIGGY ZAYA. Next up: Fibber Magees, Dublin on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Fibber Magees | Dublin |
+| Thu, 31 Dec 2026 | Proyecto Público Prim | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ PM is a techno and house artist based in Cyprus, with 50 gigs on soundcheck acro
 
 AM (8), 18+, ZIGGY ZAYA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*

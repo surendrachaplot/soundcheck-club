@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Process PDX, Portland on Wed, 25 Nov 2026.
+Gerd Janson is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Process PDX, Portland on Wed, 25 Nov 2026.
 
-Gerd Janson is a house and techno artist based in Germany, with 345 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Process PDX, Portland on Wed 25 Nov.
+Gerd Janson is a house and techno artist based in Germany, with 346 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 91 more. Often billed alongside Marcel Dettmann, Âme and PARAMIDA. Next up: Process PDX, Portland on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -19,9 +19,11 @@ Gerd Janson is a house and techno artist based in Germany, with 345 gigs on soun
 | Fri, 15 Jan 2027 | Sneaky Pete's | Edinburgh |
 | Sat, 23 Jan 2027 | Kassablanca | Jena |
 | Sat, 13 Feb 2027 | fabric | London |
+| Fri, 18 Jun 2027 | The Woodland Glade, Horseheath Racecourse | South-east |
 
 ## Recently played
 
+- Process PDX, Portland · Wed, 25 Nov 2026
 - Preston Warehouse, Melbourne · Sat, 21 Nov 2026
 - Oxford Art Factory, Sydney · Fri, 20 Nov 2026
 - Volt Club Milano, Milan · Sat, 14 Nov 2026
@@ -29,10 +31,9 @@ Gerd Janson is a house and techno artist based in Germany, with 345 gigs on soun
 - Depot Mayfield, Manchester · Sat, 7 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
 - Dockland, Münster · Sat, 31 Oct 2026
-- Fidelity Studio, Dublin · Sun, 25 Oct 2026
 
 ## Shares bills with
 
-Marcel Dettmann, Âme, DJ Tennis
+Marcel Dettmann, Âme, PARAMIDA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

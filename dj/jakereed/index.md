@@ -1,13 +1,14 @@
 # Jake Reed
 
-Jake Reed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Cause, London on Thu, 31 Dec 2026.
+Jake Reed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Low Profile Studios, London on Fri, 11 Dec 2026.
 
-Jake Reed is a house and techno artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Joshua James, Chester Hayes and Ross Anderson. Next up: The Cause, London on Thu 31 Dec.
+Jake Reed is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Joshua James, Ross Anderson and Chester Hayes. Next up: Low Profile Studios, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Low Profile Studios | London |
 | Thu, 31 Dec 2026 | The Cause | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Jake Reed is a house and techno artist based in United Kingdom, with 24 gigs on 
 
 ## Shares bills with
 
-Joshua James, Chester Hayes, Ross Anderson
+Joshua James, Ross Anderson, Chester Hayes
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakereed/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakereed/)*

@@ -1,6 +1,6 @@
 # PACKAPUNCH909
 
-PACKAPUNCH909 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Club Dept 184, Milan on Fri, 27 Nov 2026.
+PACKAPUNCH909 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Dept 184, Milan on Fri, 27 Nov 2026.
 
 PACKAPUNCH909 is a techno and industrial artist based in Italy, with 17 gigs on soundcheck across Milan and Turin. Often billed alongside DJ PIRO, AllaDerivaLontano and Donzo. Next up: Club Dept 184, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ PACKAPUNCH909 is a techno and industrial artist based in Italy, with 17 gigs on 
 
 DJ PIRO, AllaDerivaLontano, Donzo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*

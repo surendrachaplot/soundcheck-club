@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 33 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. The next is "REDEMPTION presents Big Miz // Sneaky Pete's XI" on Wed, 25 Nov 2026.
+Sneaky Pete's is a music venue in Edinburgh with 34 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "REDEMPTION presents Big Miz // Sneaky Pete's XI" on Wed, 25 Nov 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gigs, with line-ups including Ant TC1, Asa Tate, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gigs, with line-ups including Ant TC1, Asa Tate, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gi
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

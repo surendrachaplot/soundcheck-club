@@ -1,6 +1,6 @@
 # Heatwolves
 
-Heatwolves is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Blue Dolphin, Detroit on Fri, 27 Nov 2026.
+Heatwolves is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Dolphin, Detroit on Fri, 27 Nov 2026.
 
 Heatwolves is a club and hip-hop artist based in China, with 43 gigs on soundcheck across Beijing, Detroit, Shanghai and Shenzhen. Often billed alongside Dai Nasty, Cocoonics and Huizit. Next up: Blue Dolphin, Detroit on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Heatwolves is a club and hip-hop artist based in China, with 43 gigs on soundche
 
 Dai Nasty, Cocoonics, Huizit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heatwolves/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heatwolves/)*

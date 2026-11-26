@@ -1,6 +1,6 @@
 # Cancelled
 
-Cancelled is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - INCOGNITO Celle, Hannover on Fri, 18 Dec 2026.
+Cancelled is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - INCOGNITO Celle, Hannover on Fri, 18 Dec 2026.
 
 Cancelled is a techno and tech house artist, with 7 gigs on soundcheck across Athens, Barcelona, Berlin and Hannover and 2 more. Often billed alongside Ali Cem Esmeray, Cabanne and Childplay. Next up: TBA - INCOGNITO Celle, Hannover on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Cancelled is a techno and tech house artist, with 7 gigs on soundcheck across At
 
 Ali Cem Esmeray, Cabanne, Childplay
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cancelled/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cancelled/)*

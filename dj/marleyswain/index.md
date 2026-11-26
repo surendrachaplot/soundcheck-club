@@ -1,6 +1,6 @@
 # Marley Swain
 
-Marley Swain is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
+Marley Swain is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
 
 Marley Swain is an electronica and house artist based in Australia, with 22 gigs on soundcheck across Melbourne, New South Wales and Victoria. Often billed alongside Pjenné, Kia (AU) and Emelyne. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Marley Swain is an electronica and house artist based in Australia, with 22 gigs
 
 Pjenné, Kia (AU), Emelyne
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*

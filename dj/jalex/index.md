@@ -1,6 +1,6 @@
 # Jalex
 
-Jalex is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 4 Dec 2026.
+Jalex is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 4 Dec 2026.
 
 Jalex is a techno and electro artist based in Italy, with 38 gigs on soundcheck across Lisbon and Rome. Often billed alongside Carlo Ciferni, DOCET and Gabriele De Maria. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Jalex is a techno and electro artist based in Italy, with 38 gigs on soundcheck 
 
 Carlo Ciferni, DOCET, Gabriele De Maria
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jalex/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jalex/)*

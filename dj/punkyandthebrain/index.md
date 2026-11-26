@@ -1,6 +1,6 @@
 # Punky and the brain
 
-Punky and the brain is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 25 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
+Punky and the brain is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Punky and the brain are a house and techno duo based in Italy, with 5 gigs on soundcheck across Barcelona, Bordeaux, London and Thailand and 1 more. Often billed alongside Paul Lution, Alex Dima and Alexia Glensy. Next up: Seaseaclub Barcelona, Barcelona on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Punky and the brain are a house and techno duo based in Italy, with 5 gigs on so
 
 Paul Lution, Alex Dima, Alexia Glensy
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punkyandthebrain/)*
+*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punkyandthebrain/)*
