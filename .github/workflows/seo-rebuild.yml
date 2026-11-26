@@ -67,6 +67,12 @@ jobs:
         working-directory: soundcheck-api
         run: node seo-audit.mjs
 
+      # Every internal link must open a real page (26 Nov 2026: 1M dead links,
+      # Bing 4xx report). build-seo unlinks dead targets; this blocks a regression.
+      - name: Link audit (blocks the deploy)
+        working-directory: soundcheck-api
+        run: node link-audit.mjs
+
       - name: Commit & push if anything changed
         id: push
         working-directory: soundcheck-club
